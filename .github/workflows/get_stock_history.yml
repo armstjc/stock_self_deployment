@@ -27,8 +27,16 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install yfinance
         python -m pip install tqdm
-        python -m pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: runPythonScript
       run: |
         python getStockHistory.py
+
+    - name: Commit and push roster data
+      run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add data
+          git commit -m "Automated stock updates `date`" || echo "No changes to commit"
+          git push || echo "No changes to commit"
