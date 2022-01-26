@@ -50,6 +50,6 @@ jobs:
       uses: test-room-7/action-update-file@v1
       with:
         # Include all JS files from the `dist` directory
-        file-path: Data/StockHistory/*.csv
+        file-path: Data_Final/*.zip
         commit-msg: Update resources
         github-token: ${{ secrets.GITHUB_TOKEN }}
