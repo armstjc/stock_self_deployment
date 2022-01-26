@@ -42,8 +42,14 @@ def getAmexStockABV():
     print(stockDF)
 
 def getStockList(inputNum=0):
-    if(inputNum=0):
+    if(inputNum==0):
         getStockAbv()
+    elif(inputNum==1):
+        getNyseStockABV()
+    elif(inputNum==2):
+        getNasdaqStockABV()
+    elif(inputNum==3):
+        getAmexStockABV()
     else:
         print('fail')
 

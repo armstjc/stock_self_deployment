@@ -2,6 +2,9 @@ import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
 from zipfile import ZipFile
+from RefreshStockAbv import getStockList
+import os
+getStockList(2)
 
 stockList = pd.read_csv('Stock_List.csv')
 stockListLen = len(stockList)
@@ -52,7 +55,7 @@ def getStockFinancials():
 
     with ZipFile('Data_Final/StockHistory.zip','w') as zip:
         # writing each file one by one
-        for file in file_paths:
+        for file in allDir:
             zip.write(file)
 
 
