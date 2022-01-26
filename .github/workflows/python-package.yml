@@ -4,10 +4,8 @@
 name: Python package
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *" 
 
 jobs:
   build:
@@ -29,9 +27,26 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install yfinance
         python -m pip install tqdm
-        python -m pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: runPythonScript
       run: |
         python getStockHistory.py
-
+    - name: commit files
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+          
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+    - name: Update resources
+      uses: test-room-7/action-update-file@v1
+      with:
+        # Include all JS files from the `dist` directory
+        file-path: Data/StockHistory/*.csv
+        commit-msg: Update resources
+        github-token: ${{ secrets.GITHUB_TOKEN }}
