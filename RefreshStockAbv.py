@@ -41,8 +41,14 @@ def getAmexStockABV():
     stockDF.to_csv('Stock_List.csv',index=False)
     print(stockDF)
 
+def getStockList(inputNum=0):
+    if(inputNum=0):
+        getStockAbv()
+    else:
+        print('fail')
+
 def main():
-    getStockAbv()
+    getStockList()
 
 if __name__ == "__main__":
     main()
