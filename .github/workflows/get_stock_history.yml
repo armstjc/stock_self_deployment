@@ -32,11 +32,15 @@ jobs:
       run: |
         python getStockHistory.py
 
-    - name: Commit and push roster data
+    - name: commit files
       run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull
-          git add data
-          git commit -m "Automated stock updates `date`" || echo "No changes to commit"
-          git push || echo "No changes to commit"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+          
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
