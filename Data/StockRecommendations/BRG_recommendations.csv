@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-07,Wunderlich,Buy,,init,BRG
+2014-10-13,Wunderlich,Buy,,main,BRG
+2014-11-10,Wunderlich,Buy,,main,BRG
+2015-05-29,Oppenheimer,Outperform,,init,BRG
+2015-06-02,DA Davidson,Buy,,init,BRG
+2016-04-07,FBR Capital,Outperform,,init,BRG
+2016-07-21,JMP Securities,Market Outperform,,init,BRG
+2017-01-04,FBR Capital,Market Perform,Outperform,down,BRG
+2017-08-07,Compass Point,Neutral,Buy,down,BRG
+2018-02-22,B. Riley FBR,Buy,,main,BRG
+2018-06-15,Baird,Outperform,,init,BRG
+2018-07-12,Boenning & Scattergood,Outperform,,init,BRG
+2020-03-17,Baird,Neutral,Outperform,down,BRG
+2020-03-27,B. Riley FBR,Neutral,Buy,down,BRG
+2020-04-27,Compass Point,Neutral,Buy,down,BRG
+2021-04-21,BTIG,Neutral,Sell,up,BRG
+2021-12-21,JMP Securities,Market Perform,Market Outperform,down,BRG
+2021-12-29,Compass Point,Neutral,,main,BRG

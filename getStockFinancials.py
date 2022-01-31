@@ -4,7 +4,7 @@ from tqdm import tqdm
 from zipfile import ZipFile
 from RefreshStockAbv import getStockList
 import os
-getStockList(3)
+#getStockList(3)
 
 stockList = pd.read_csv('Stock_List.csv')
 stockListLen = len(stockList)

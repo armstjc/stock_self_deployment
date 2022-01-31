@@ -2,10 +2,11 @@ import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
 from RefreshStockAbv import getStockList
-getStockList(3)
+#getStockList(3)
 
 stockList = pd.read_csv('Stock_List.csv')
 stockListLen = len(stockList)
+
 def getStockOptions():
     arr = stockList['Symbol'].to_numpy()
     for i in tqdm(arr.T, ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
