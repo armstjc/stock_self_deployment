@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CCF220520P00090000,2022-01-12 15:08:56,90.0,2.9,2.5,4.6,0.0,0.0,1,7,0.33618827880859375,False,REGULAR,USD,CCF

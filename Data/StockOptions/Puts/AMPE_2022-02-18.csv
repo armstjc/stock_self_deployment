@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AMPE220218P00000500,2022-01-31 14:30:01,0.5,0.1,0.05,0.1,0.0,0.0,1.0,1003,1.8437507812499998,False,REGULAR,USD,AMPE
+AMPE220218P00001000,2022-01-19 16:40:15,1.0,0.5,0.4,0.6,0.0,0.0,,1,2.3750040624999995,True,REGULAR,USD,AMPE
