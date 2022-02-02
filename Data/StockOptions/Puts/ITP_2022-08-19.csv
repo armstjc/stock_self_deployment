@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITP220819P00001000,2022-01-28 17:05:28,1.0,0.85,0.0,1.0,0.0,0.0,3,5,0.0,True,REGULAR,USD,ITP

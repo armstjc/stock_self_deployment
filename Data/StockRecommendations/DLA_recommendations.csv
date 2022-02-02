@@ -1,7 +1,8 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2013-02-07 13:10:37,Roth Capital,Buy,,init,DLA
-2014-04-01 08:00:00,Ascendiant Capital,Buy,,init,DLA
-2014-08-08 06:25:38,Sidoti & Co.,Neutral,Buy,down,DLA
-2015-08-04 08:44:32,Roth Capital,Buy,,up,DLA
-2019-02-06 13:56:54,Roth Capital,Neutral,Buy,down,DLA
-2019-08-01 12:09:58,Roth Capital,Buy,Neutral,up,DLA
+2013-02-07,Roth Capital,Buy,,init,DLA
+2014-04-01,Ascendiant Capital,Buy,,init,DLA
+2014-08-08,Ascendiant Capital,Hold,Buy,down,DLA
+2014-08-08,Sidoti & Co.,Neutral,Buy,down,DLA
+2015-08-04,Roth Capital,Buy,,up,DLA
+2019-02-06,Roth Capital,Neutral,Buy,down,DLA
+2019-08-01,Roth Capital,Buy,Neutral,up,DLA

@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-17,Cowen & Co.,Outperform,,init,TELL
+2017-12-14,Seaport Global,Buy,,init,TELL
+2018-01-05,Stifel Nicolaus,Buy,,init,TELL
+2018-03-22,Stifel Nicolaus,Buy,Buy,main,TELL
+2018-08-09,Stifel Nicolaus,Buy,Buy,main,TELL
+2018-08-15,Baird,Outperform,,init,TELL
+2018-09-17,Baird,Outperform,Outperform,main,TELL
+2018-09-26,Cowen & Co.,Market Perform,Outperform,down,TELL
+2018-10-11,Credit Suisse,Outperform,,init,TELL
+2018-11-14,Credit Suisse,Outperform,Outperform,main,TELL
+2019-02-13,Raymond James,Outperform,,init,TELL
+2019-02-28,Credit Suisse,Outperform,Outperform,main,TELL
+2019-03-12,BTIG Research,Buy,,init,TELL
+2019-07-17,Stifel Nicolaus,Hold,Buy,down,TELL
+2019-08-27,Raymond James,Outperform,,main,TELL
+2019-09-18,Evercore ISI Group,Outperform,,init,TELL
+2019-09-20,Morgan Stanley,Underweight,,init,TELL
+2020-03-09,Baird,Neutral,Outperform,down,TELL
+2020-03-12,Raymond James,Market Perform,Outperform,down,TELL
+2020-03-12,Credit Suisse,Neutral,Outperform,down,TELL
+2020-06-02,Stifel,Sell,Hold,down,TELL
+2021-01-21,Wolfe Research,Outperform,Peer Perform,up,TELL
+2021-03-26,Morgan Stanley,Underweight,,main,TELL
+2021-05-25,DNB Markets,Buy,Hold,up,TELL
+2021-06-01,Scotiabank,Sector Perform,,main,TELL
+2021-06-07,Morgan Stanley,Equal-Weight,Underweight,up,TELL
+2021-06-08,Evercore ISI Group,Outperform,In-Line,up,TELL
+2021-06-08,Credit Suisse,Neutral,,main,TELL
+2021-07-08,B. Riley Securities,Buy,,init,TELL
+2021-08-11,Credit Suisse,Neutral,,main,TELL
+2021-08-23,Morgan Stanley,Equal-Weight,,main,TELL

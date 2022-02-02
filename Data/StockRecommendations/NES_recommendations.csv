@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-04,Imperial Capital,In-Line,,init,NES
+2013-09-06,Wunderlich,Buy,Hold,up,NES
+2013-11-08,Craig-Hallum,Sell,,down,NES
+2013-11-11,Imperial Capital,In-Line,,main,NES
+2013-11-12,Wunderlich,Buy,,main,NES
+2013-11-19,Cowen & Co.,Outperform,,init,NES
+2014-02-10,Wedbush,Neutral,Underperform,up,NES
+2014-03-12,Imperial Capital,In-Line,,main,NES
+2014-06-18,Craig-Hallum,Hold,Sell,up,NES
+2014-08-08,Jefferies,Hold,,main,NES
+2014-09-11,Stifel Nicolaus,Buy,,init,NES
+2014-10-14,Hilliard Lyons,Underperform,Neutral,down,NES
+2014-11-10,Imperial Capital,In-Line,,main,NES
+2014-12-10,Jefferies,Hold,,main,NES
+2015-01-12,Jefferies,Hold,,main,NES
+2015-11-04,Stifel Nicolaus,Buy,,main,NES
+2015-11-18,Cowen & Co.,Market Perform,Outperform,down,NES
+2016-01-19,Stifel Nicolaus,Hold,Buy,down,NES

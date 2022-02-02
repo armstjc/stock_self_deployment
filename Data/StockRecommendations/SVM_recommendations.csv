@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-13,BMO Capital,Market Perform,,down,SVM
+2013-11-01,Raymond James,Market Perform,,down,SVM
+2014-11-24,Raymond James,Outperform,Market Perform,up,SVM
+2015-07-24,Raymond James,Market Perform,Outperform,down,SVM
+2018-05-31,BMO Capital,Outperform,,init,SVM
+2020-07-20,Alliance Global Partners,Neutral,Buy,down,SVM
+2020-10-16,Roth Capital,Buy,,main,SVM
+2021-01-22,Roth Capital,Buy,,main,SVM
+2021-04-19,Roth Capital,Buy,,main,SVM
+2021-05-24,Roth Capital,Buy,,main,SVM
+2021-08-09,Roth Capital,Buy,,main,SVM

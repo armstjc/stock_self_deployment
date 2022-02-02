@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-03,Global Hunter Securities,Buy,,init,GTE
+2012-12-17,FirstEnergy Capital,Market Perform,Outperform,down,GTE
+2013-05-29,Tudor Pickering,Hold,Buy,down,GTE
+2013-06-25,FirstEnergy Capital,Outperform,Top Pick,down,GTE
+2013-07-02,Citigroup,Buy,,init,GTE
+2013-09-12,Mizuho,Buy,,init,GTE
+2013-10-29,TD Securities,Hold,Buy,down,GTE
+2014-01-22,FirstEnergy Capital,Top Pick,Outperform,up,GTE
+2014-02-11,FirstEnergy Capital,Outperform,Top Pick,down,GTE
+2014-03-20,TD Securities,Buy,Hold,up,GTE
+2014-05-02,Goldman Sachs,Neutral,,init,GTE
+2014-05-09,Credit Suisse,Outperform,,main,GTE
+2014-07-24,JP Morgan,Overweight,,main,GTE
+2014-09-17,JP Morgan,Overweight,,main,GTE
+2014-10-13,Citigroup,Buy,,main,GTE
+2014-11-07,Credit Suisse,Outperform,,main,GTE
+2014-11-13,JP Morgan,Overweight,,main,GTE
+2015-01-16,Canaccord Genuity,Buy,Hold,up,GTE
+2015-01-20,Mackie Research,Hold,Buy,down,GTE
+2015-01-21,Paradigm Capital,Hold,Buy,down,GTE
+2015-01-26,Credit Suisse,Neutral,Outperform,down,GTE
+2015-02-03,JP Morgan,Neutral,Overweight,down,GTE
+2015-02-19,Citigroup,Buy,,main,GTE
+2015-03-09,RBC Capital,Outperform,Sector Perform,up,GTE
+2015-04-15,Canaccord Genuity,Hold,Buy,down,GTE
+2015-04-21,CIBC,Sector Perform,Outperform,down,GTE
+2015-04-22,Dundee,Buy,Neutral,up,GTE
+2015-05-18,Goldman Sachs,Sell,Neutral,down,GTE
+2015-06-10,Paradigm Capital,Buy,Hold,up,GTE
+2015-06-25,Canaccord Genuity,Buy,Hold,up,GTE
+2015-12-14,Citigroup,Neutral,Buy,down,GTE
+2016-01-22,Credit Suisse,Neutral,,main,GTE
+2016-04-07,Paradigm Capital,Buy,Hold,up,GTE
+2016-11-04,Citigroup,Buy,Neutral,up,GTE
+2017-02-10,Credit Suisse,Outperform,Neutral,up,GTE
+2017-02-13,CIBC,Outperform,Neutral,up,GTE
+2018-07-20,BMO Capital,Outperform,,init,GTE
+2019-02-04,GMP Securities,Hold,Buy,down,GTE
+2019-05-21,RBC Capital,Outperform,Top Pick,down,GTE
+2019-10-11,National Bank Financial,Sector Perform,,init,GTE
+2019-11-06,ScotiaBank,Sector Perform,Sector Outperform,down,GTE
+2019-11-21,Citi,Buy,,main,GTE
+2020-05-18,RBC Capital,Sector Perform,Outperform,down,GTE

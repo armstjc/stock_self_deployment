@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-04-12,BTIG Research,Buy,,init,SENS
+2016-04-12,Raymond James,Outperform,,init,SENS
+2016-04-12,Leerink Swann,Outperform,,init,SENS
+2016-04-12,Canaccord Genuity,Buy,,init,SENS
+2016-09-27,B. Riley FBR,Buy,,init,SENS
+2018-04-04,Guggenheim,Buy,,init,SENS
+2018-06-22,Raymond James,Outperform,Outperform,main,SENS
+2018-08-24,Dougherty,Buy,,init,SENS
+2018-11-28,UBS,Sell,,init,SENS
+2019-01-29,PiperJaffray,Neutral,,init,SENS
+2019-07-05,Raymond James,Market Perform,Outperform,down,SENS
+2019-10-23,Stifel,Buy,,init,SENS
+2019-11-13,Canaccord Genuity,Hold,Buy,down,SENS
+2019-11-13,UBS,Sell,,main,SENS
+2020-03-13,Canaccord Genuity,Hold,,main,SENS
+2020-05-21,UBS,Sell,,main,SENS
+2020-06-10,SVB Leerink,Outperform,,main,SENS
+2020-06-10,Stifel,Buy,,main,SENS
+2020-08-11,BTIG,Buy,Neutral,up,SENS
+2020-08-11,Craig-Hallum,Hold,Sell,up,SENS
+2021-01-20,Craig-Hallum,Sell,Hold,down,SENS
+2021-01-21,BTIG,Neutral,Buy,down,SENS
+2021-03-05,SVB Leerink,Outperform,,main,SENS
+2021-03-05,Raymond James,Underperform,Market Perform,down,SENS
+2021-04-01,SVB Leerink,Market Perform,Outperform,down,SENS
+2021-08-19,HC Wainwright & Co.,Buy,,init,SENS

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ORLA220715P00005000,2022-01-05 15:16:53,5.0,1.75,1.35,2.35,0.049999952,2.9411736,1,6,0.6210975390625001,True,REGULAR,USD,ORLA
+ORLA220715P00005000,2022-01-07 20:26:16+00:00,5.0,1.85,1.65,2.05,0.0,0.0,10,17,0.70117486328125,True,REGULAR,USD,ORLA

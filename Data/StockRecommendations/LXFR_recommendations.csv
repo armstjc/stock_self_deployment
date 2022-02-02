@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-29,Credit Suisse,Outperform,,init,LXFR
+2012-10-29,Jefferies,Buy,,init,LXFR
+2012-10-29,KeyBanc,Buy,,init,LXFR
+2012-10-31,Oppenheimer,Outperform,,init,LXFR
+2013-05-09,KeyBanc,Hold,Buy,down,LXFR
+2014-05-09,Credit Suisse,Outperform,,main,LXFR
+2014-11-14,Credit Suisse,Outperform,,main,LXFR
+2014-11-14,Jefferies,Buy,,main,LXFR
+2015-03-13,Jefferies,Buy,,main,LXFR
+2015-03-17,Oppenheimer,Outperform,,main,LXFR
+2016-04-18,KeyBanc,Overweight,Sector Weight,up,LXFR
+2018-08-07,KeyBanc,Overweight,Overweight,main,LXFR
+2018-09-18,KeyBanc,Overweight,Overweight,main,LXFR
+2018-11-05,KeyBanc,Overweight,Overweight,main,LXFR
+2019-06-04,KeyBanc,Sector Weight,Overweight,down,LXFR
+2019-11-20,B. Riley FBR,Buy,,init,LXFR
+2020-04-03,Roth Capital,Buy,,init,LXFR
+2020-04-23,B. Riley FBR,Buy,,main,LXFR
+2021-03-16,Roth Capital,Buy,,main,LXFR
+2021-04-29,Roth Capital,Buy,,main,LXFR

@@ -1,5 +1,5 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2013-01-14 17:04:46,Laidlaw & Co.,Buy,,init,CVM
-2013-02-13 17:56:10,Chardan Capital,Buy,,init,CVM
-2013-02-20 06:30:31,Taglich Brothers,Speculative Buy,,init,CVM
-2020-01-13 12:34:29,H.C. Wainwright,Buy,,init,CVM
+2013-01-14,Laidlaw & Co.,Buy,,init,CVM
+2013-02-13,Chardan Capital,Buy,,init,CVM
+2013-02-20,Taglich Brothers,Speculative Buy,,init,CVM
+2020-01-13,H.C. Wainwright,Buy,,init,CVM

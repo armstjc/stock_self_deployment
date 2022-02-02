@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-17,Cantor Fitzgerald,Buy,,init,URG
+2013-07-29,Raymond James,Outperform,Strong Buy,down,URG
+2013-09-27,Raymond James,Strong Buy,Outperform,up,URG
+2014-02-26,Raymond James,Outperform,Strong Buy,down,URG
+2014-04-23,Haywood Securities,Hold,Buy,down,URG
+2015-06-19,H.C. Wainwright,Buy,,init,URG
+2018-10-16,H.C. Wainwright,Buy,Buy,main,URG
+2019-08-06,H.C. Wainwright,Buy,,reit,URG
+2019-09-16,HC Wainwright & Co.,Buy,,reit,URG
+2020-11-12,HC Wainwright & Co.,Buy,,main,URG
+2021-01-26,HC Wainwright & Co.,Buy,,main,URG
+2021-03-01,HC Wainwright & Co.,Buy,,main,URG
+2021-03-26,HC Wainwright & Co.,Buy,,main,URG
+2021-04-19,Alliance Global Partners,Buy,,init,URG
+2021-09-29,HC Wainwright & Co.,Buy,,main,URG

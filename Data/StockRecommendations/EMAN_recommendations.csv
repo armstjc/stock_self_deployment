@@ -1,6 +1,6 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-10-11 16:05:00,PiperJaffray,Overweight,,init,EMAN
-2013-05-29 16:26:42,Oppenheimer,Market Perform,,init,EMAN
-2013-05-30 06:38:06,Oppenheimer,Perform,,init,EMAN
-2015-07-09 07:11:33,H.C. Wainwright,Buy,,init,EMAN
-2021-03-19 10:40:01,HC Wainwright & Co.,Buy,,main,EMAN
+2012-10-11,PiperJaffray,Overweight,,init,EMAN
+2013-05-29,Oppenheimer,Market Perform,,init,EMAN
+2013-05-30,Oppenheimer,Perform,,init,EMAN
+2015-07-09,H.C. Wainwright,Buy,,init,EMAN
+2021-03-19,HC Wainwright & Co.,Buy,,main,EMAN

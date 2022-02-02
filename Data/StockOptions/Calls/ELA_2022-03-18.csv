@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ELA220318C00002500,2022-01-28 17:29:36,2.5,1.1,1.15,2.1,0.0,0.0,10,10,1.3515657421874998,True,REGULAR,USD,ELA
+ELA220318C00002500,2022-01-28 17:29:36+00:00,2.5,1.1,0.9,1.9,0.0,0.0,10,10,2.2265669335937495,True,REGULAR,USD,ELA

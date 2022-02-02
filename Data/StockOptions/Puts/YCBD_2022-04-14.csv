@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YCBD220414P00002500,2021-12-29 16:16:16,2.5,1.5,1.4,1.55,0.0,0.0,5,49,1.5937520312499998,True,REGULAR,USD,YCBD
+YCBD220414P00002500,2022-01-26 14:57:07+00:00,2.5,1.43,1.45,1.55,0.0,0.0,3,46,1.125004375,True,REGULAR,USD,YCBD

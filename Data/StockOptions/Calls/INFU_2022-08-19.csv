@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INFU220819C00020000,2021-12-27 19:29:02,20.0,2.0,0.45,1.5,0.0,0.0,,1,0.5380905566406251,False,REGULAR,USD,INFU
+INFU220819C00020000,2021-12-27 19:29:02+00:00,20.0,2.0,0.15,3.2,0.0,0.0,,1,0.7226590234375,False,REGULAR,USD,INFU

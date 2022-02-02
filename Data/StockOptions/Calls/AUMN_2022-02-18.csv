@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUMN220218C00002500,2022-01-20 14:31:12,2.5,0.02,0.0,0.05,0.0,0.0,5,8,5.250003437499999,False,REGULAR,USD,AUMN
+AUMN220218C00002500,2022-01-20 14:31:12+00:00,2.5,0.02,0.0,0.05,0.0,0.0,5,8,5.62500296875,False,REGULAR,USD,AUMN

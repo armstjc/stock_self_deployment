@@ -1,6 +1,6 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2019-06-19 11:23:52,Ladenburg Thalmann,Buy,,init,ARMP
-2020-02-06 13:07:41,Maxim Group,Buy,,init,ARMP
-2020-03-20 12:05:37,H.C. Wainwright,Buy,,reit,ARMP
-2020-05-15 11:14:42,H.C. Wainwright,Buy,,reit,ARMP
-2021-03-22 10:29:12,HC Wainwright & Co.,Buy,,main,ARMP
+2019-06-19,Ladenburg Thalmann,Buy,,init,ARMP
+2020-02-06,Maxim Group,Buy,,init,ARMP
+2020-03-20,H.C. Wainwright,Buy,,reit,ARMP
+2020-05-15,H.C. Wainwright,Buy,,reit,ARMP
+2021-03-22,HC Wainwright & Co.,Buy,,main,ARMP
