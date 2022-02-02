@@ -1,0 +1,65 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Jefferies,Buy,,main,AEL
+2012-11-07,Jefferies,Buy,,main,AEL
+2013-02-26,Jefferies,Buy,,main,AEL
+2013-05-03,Jefferies,Buy,,main,AEL
+2013-10-23,Raymond James,Market Perform,Strong Buy,down,AEL
+2013-11-06,Jefferies,Buy,,main,AEL
+2014-01-09,FBR Capital,Market Perform,Outperform,down,AEL
+2014-02-14,Sandler O'Neill,Buy,Hold,up,AEL
+2014-11-11,FBR Capital,Market Perform,Outperform,down,AEL
+2015-08-10,Raymond James,Outperform,Market Perform,up,AEL
+2015-08-10,FBR Capital,Outperform,Market Perform,up,AEL
+2015-08-31,Raymond James,Outperform,,main,AEL
+2016-01-08,JP Morgan,Neutral,,init,AEL
+2016-01-29,RBC Capital,Outperform,,init,AEL
+2016-04-07,Sandler O'Neill,Hold,Buy,down,AEL
+2016-06-06,JP Morgan,Overweight,Neutral,up,AEL
+2016-07-07,Citigroup,Buy,,main,AEL
+2016-10-07,Credit Suisse,Neutral,,init,AEL
+2017-01-03,JP Morgan,Neutral,Overweight,down,AEL
+2017-01-26,Citigroup,Neutral,,init,AEL
+2017-04-26,Keefe Bruyette & Woods,Market Perform,,init,AEL
+2017-07-25,Evercore ISI Group,In-Line,Outperform,down,AEL
+2017-10-18,Goldman Sachs,Neutral,,init,AEL
+2018-03-02,UBS,Sell,,init,AEL
+2019-04-30,Sandler O'Neill,Hold,Buy,down,AEL
+2019-05-02,UBS,Neutral,,main,AEL
+2019-06-14,Raymond James,Outperform,,main,AEL
+2019-09-13,Citigroup,Neutral,,main,AEL
+2019-11-07,UBS,Neutral,,main,AEL
+2020-02-14,SunTrust Robinson Humphrey,Buy,,main,AEL
+2020-02-18,Raymond James,Outperform,,main,AEL
+2020-02-27,Piper Sandler,Neutral,,main,AEL
+2020-03-10,Piper Sandler,Overweight,Neutral,up,AEL
+2020-03-11,B. Riley FBR,Neutral,,main,AEL
+2020-03-20,RBC Capital,Sector Perform,Outperform,down,AEL
+2020-03-23,B. Riley FBR,Neutral,,main,AEL
+2020-04-03,Piper Sandler,Overweight,,main,AEL
+2020-04-17,Raymond James,Outperform,,main,AEL
+2020-04-21,B. Riley FBR,Neutral,,main,AEL
+2020-07-02,Piper Sandler,Neutral,Overweight,down,AEL
+2020-07-09,B. Riley FBR,Neutral,,main,AEL
+2020-08-04,Morgan Stanley,Equal-Weight,,init,AEL
+2020-08-19,Raymond James,Market Perform,Outperform,down,AEL
+2020-08-20,Morgan Stanley,Equal-Weight,,main,AEL
+2020-10-02,RBC Capital,Outperform,Sector Perform,up,AEL
+2020-10-07,Piper Sandler,Neutral,,main,AEL
+2020-12-15,Credit Suisse,Outperform,,init,AEL
+2021-01-15,Raymond James,Outperform,Market Perform,up,AEL
+2021-02-19,Morgan Stanley,Equal-Weight,,main,AEL
+2021-02-22,Morgan Stanley,Equal-Weight,,main,AEL
+2021-04-01,Morgan Stanley,Equal-Weight,,main,AEL
+2021-05-07,Morgan Stanley,Equal-Weight,,main,AEL
+2021-06-21,Citigroup,Neutral,,main,AEL
+2021-08-09,RBC Capital,Outperform,,main,AEL
+2021-08-11,Raymond James,Outperform,,main,AEL
+2021-08-13,Morgan Stanley,Equal-Weight,,main,AEL
+2021-10-14,Morgan Stanley,Equal-Weight,,main,AEL
+2021-11-11,RBC Capital,Outperform,,main,AEL
+2021-11-18,Raymond James,Outperform,,main,AEL
+2022-01-05,Evercore ISI Group,Outperform,In-Line,up,AEL
+2022-01-05,Piper Sandler,Overweight,Neutral,up,AEL
+2022-01-07,Morgan Stanley,Equal-Weight,,main,AEL
+2022-01-10,Raymond James,Outperform,,main,AEL
+2022-01-12,RBC Capital,Outperform,,main,AEL

@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-21,Macquarie,Neutral,,init,AES
+2012-08-06,ISI Group,Hold,,init,AES
+2012-08-07,Barclays,Overweight,,main,AES
+2012-08-29,Citigroup,Buy,,main,AES
+2012-11-08,Barclays,Overweight,,main,AES
+2013-01-07,ISI Group,Buy,Hold,up,AES
+2013-01-08,Citigroup,Buy,,main,AES
+2013-06-27,Bank of America,,,init,AES
+2013-11-12,Macquarie,Outperform,,main,AES
+2014-05-22,Morgan Stanley,Equal-Weight,,init,AES
+2014-06-30,Barclays,Overweight,,main,AES
+2014-07-15,JP Morgan,Neutral,,main,AES
+2014-08-15,UBS,Buy,,main,AES
+2014-11-03,RBC Capital,Outperform,,init,AES
+2014-11-07,Barclays,Overweight,,main,AES
+2015-02-10,Bank of America,Neutral,Buy,down,AES
+2015-02-19,JP Morgan,Neutral,,main,AES
+2015-06-05,JP Morgan,Overweight,Neutral,up,AES
+2015-10-19,Argus,Hold,Buy,down,AES
+2015-11-23,Macquarie,Outperform,,main,AES
+2016-01-15,Barclays,Overweight,,main,AES
+2016-10-03,UBS,Sell,Neutral,down,AES
+2016-10-04,Barclays,Equal-weight,Overweight,down,AES
+2016-11-22,Bank of America,Underperform,Neutral,down,AES
+2017-01-04,RBC Capital,Sector Perform,Outperform,down,AES
+2017-03-23,Argus,Hold,,main,AES
+2017-07-10,Morgan Stanley,Equal-Weight,,main,AES
+2017-09-08,Morgan Stanley,Equal-Weight,,main,AES
+2017-11-13,Bank of America,Buy,Neutral,up,AES
+2017-12-13,Morgan Stanley,Equal-Weight,,main,AES
+2018-02-02,UBS,Neutral,,init,AES
+2018-03-19,JP Morgan,Overweight,Overweight,main,AES
+2018-06-20,UBS,Neutral,Neutral,main,AES
+2018-09-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,AES
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,AES
+2019-06-20,Bank of America,Neutral,Underperform,up,AES
+2019-09-25,Morgan Stanley,Equal-Weight,,main,AES
+2019-12-16,Morgan Stanley,Equal-Weight,,main,AES
+2019-12-20,UBS,Neutral,,main,AES
+2020-02-10,SunTrust Robinson Humphrey,Buy,,main,AES
+2020-03-12,Morgan Stanley,Equal-Weight,,main,AES
+2020-03-16,UBS,Buy,Neutral,up,AES
+2020-03-23,Morgan Stanley,Overweight,Equal-Weight,up,AES
+2020-04-02,RBC Capital,Outperform,Sector Perform,up,AES
+2020-04-15,Morgan Stanley,Overweight,,main,AES
+2020-05-15,Morgan Stanley,Overweight,,main,AES
+2020-05-20,Seaport Global,Buy,,init,AES
+2020-06-02,JP Morgan,Overweight,,main,AES
+2020-06-17,Morgan Stanley,Overweight,,main,AES
+2020-08-14,Morgan Stanley,Overweight,,main,AES
+2020-09-18,Morgan Stanley,Overweight,,main,AES
+2020-11-05,Morgan Stanley,Overweight,,main,AES
+2020-12-15,Morgan Stanley,Overweight,,main,AES
+2021-01-12,Morgan Stanley,Overweight,,main,AES
+2021-01-20,Morgan Stanley,Overweight,,main,AES
+2021-03-10,Morgan Stanley,Overweight,,main,AES
+2021-03-19,Morgan Stanley,Overweight,,main,AES
+2021-05-04,Morgan Stanley,Overweight,,main,AES
+2021-05-18,Morgan Stanley,Overweight,,main,AES
+2021-06-21,Susquehanna,Positive,,init,AES
+2021-07-29,Morgan Stanley,Overweight,,main,AES
+2021-08-06,Wolfe Research,Outperform,Peer Perform,up,AES
+2021-08-19,Morgan Stanley,Overweight,,main,AES
+2021-11-02,Morgan Stanley,Overweight,,main,AES
+2021-11-30,Goldman Sachs,Buy,,init,AES

@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-11-02,Baird,Outperform,,init,ABTX
+2015-11-02,Sandler O'Neill,Hold,,init,ABTX
+2015-11-04,Keefe Bruyette & Woods,Market Perform,,init,ABTX
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,ABTX
+2016-09-21,Baird,Neutral,Outperform,down,ABTX
+2016-12-13,Baird,Outperform,Neutral,up,ABTX
+2018-10-03,Raymond James,Strong Buy,,init,ABTX
+2018-10-26,Raymond James,Strong Buy,Strong Buy,main,ABTX
+2019-03-01,Brean Capital,Hold,,init,ABTX
+2019-04-29,Raymond James,Outperform,Strong Buy,down,ABTX
+2019-10-28,Raymond James,Market Perform,Outperform,down,ABTX
+2020-05-01,Stephens & Co.,Equal-Weight,,main,ABTX
+2020-09-30,Piper Sandler,Neutral,,main,ABTX

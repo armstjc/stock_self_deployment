@@ -1,0 +1,124 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,UBS,Buy,,init,ADP
+2012-05-02,UBS,Buy,,main,ADP
+2012-05-02,Morgan Stanley,Underweight,,main,ADP
+2012-05-25,Stifel Nicolaus,Buy,,main,ADP
+2012-06-25,Barclays,Equal-Weight,Overweight,down,ADP
+2012-07-06,Raymond James,Outperform,Strong Buy,down,ADP
+2012-08-06,Jefferies,Hold,,main,ADP
+2012-08-13,UBS,Buy,,main,ADP
+2012-09-12,Jefferies,Underperform,Hold,down,ADP
+2012-09-25,UBS,Neutral,Buy,down,ADP
+2012-10-05,Goldman Sachs,Buy,Neutral,up,ADP
+2012-10-05,Goldman Sachs,Buy,Neutral,up,ADP
+2013-02-06,BMO Capital,Outperform,,main,ADP
+2013-02-06,Credit Suisse,Outperform,,main,ADP
+2013-03-07,BMO Capital,Outperform,,main,ADP
+2013-05-06,Stifel Nicolaus,Buy,,main,ADP
+2013-05-17,Bank of America,Buy,,main,ADP
+2013-08-02,Susquehanna,Neutral,Positive,down,ADP
+2013-08-14,JP Morgan,Neutral,,main,ADP
+2013-09-24,RBC Capital,Sector Perform,Outperform,down,ADP
+2013-10-31,BMO Capital,Outperform,,main,ADP
+2013-12-05,Morgan Stanley,Equal-Weight,,init,ADP
+2014-08-01,Raymond James,Outperform,,main,ADP
+2014-08-13,JP Morgan,Neutral,,main,ADP
+2014-09-15,Credit Suisse,Outperform,,main,ADP
+2014-09-16,Bernstein,Market Perform,,init,ADP
+2014-10-01,Credit Suisse,Outperform,,main,ADP
+2014-10-09,Citigroup,Neutral,,main,ADP
+2014-10-30,Deutsche Bank,Hold,,main,ADP
+2014-10-30,Citigroup,Neutral,,main,ADP
+2014-12-05,Stifel,Hold,Buy,down,ADP
+2015-01-07,Credit Suisse,Neutral,Outperform,down,ADP
+2015-01-16,Citigroup,Neutral,,main,ADP
+2015-03-05,JP Morgan,Neutral,,main,ADP
+2015-08-14,JP Morgan,Neutral,,main,ADP
+2015-11-03,Argus,Buy,,main,ADP
+2015-12-17,Sterne Agee CRT,Neutral,,init,ADP
+2016-02-01,UBS,Buy,Neutral,up,ADP
+2016-04-15,Compass Point,Sell,,init,ADP
+2016-05-03,Argus,Buy,,main,ADP
+2016-07-11,Bernstein,Outperform,Market Perform,up,ADP
+2016-07-29,Citigroup,Neutral,,main,ADP
+2016-08-01,Jefferies,Underperform,,main,ADP
+2016-09-09,Wedbush,Neutral,,init,ADP
+2016-12-20,Barclays,Overweight,,init,ADP
+2017-06-02,Evercore ISI Group,Underperform,In-Line,down,ADP
+2017-06-20,Goldman Sachs,Neutral,Buy,down,ADP
+2017-07-18,Barclays,Equal-Weight,Overweight,down,ADP
+2017-07-21,William Blair,Market Perform,Outperform,down,ADP
+2017-07-28,BMO Capital,Outperform,,main,ADP
+2017-07-31,Evercore ISI Group,In-Line,Underperform,up,ADP
+2017-08-03,Argus,Buy,,main,ADP
+2017-08-03,Morgan Stanley,Underweight,Equal-Weight,down,ADP
+2017-08-17,Citigroup,Neutral,,main,ADP
+2017-10-13,Bank of America,Neutral,,main,ADP
+2017-10-26,Barclays,Equal-Weight,,main,ADP
+2017-10-31,Bernstein,Outperform,,main,ADP
+2017-11-03,BMO Capital,Outperform,,main,ADP
+2017-12-05,Bank of America,Buy,Neutral,up,ADP
+2017-12-11,Goldman Sachs,Buy,Neutral,up,ADP
+2018-02-01,BMO Capital,Outperform,Outperform,main,ADP
+2018-02-01,Stifel Nicolaus,Hold,Hold,main,ADP
+2018-02-01,Barclays,Equal-Weight,Equal-Weight,main,ADP
+2018-04-02,RBC Capital,Outperform,Sector Perform,up,ADP
+2018-04-04,Stifel Nicolaus,Hold,Hold,main,ADP
+2018-05-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,ADP
+2018-05-03,BMO Capital,Market Perform,Market Perform,main,ADP
+2018-05-04,Bank of America,Buy,Buy,main,ADP
+2018-06-06,Stifel Nicolaus,Hold,Hold,main,ADP
+2018-06-13,Wedbush,Neutral,Neutral,main,ADP
+2018-06-13,Deutsche Bank,Hold,Hold,main,ADP
+2018-06-13,BMO Capital,Market Perform,Market Perform,main,ADP
+2018-06-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,ADP
+2018-08-10,Credit Suisse,Outperform,,init,ADP
+2018-08-13,Argus,Buy,Buy,main,ADP
+2018-08-21,Guggenheim,Buy,,init,ADP
+2018-10-02,Jefferies,Hold,,init,ADP
+2018-11-01,Citigroup,Neutral,Neutral,main,ADP
+2018-11-01,BMO Capital,Market Perform,Market Perform,main,ADP
+2018-11-15,Barclays,Overweight,,init,ADP
+2019-05-02,Citigroup,Neutral,Neutral,main,ADP
+2019-05-06,Barclays,Overweight,Overweight,main,ADP
+2019-08-01,Baird,Neutral,,main,ADP
+2019-08-01,JP Morgan,Neutral,,main,ADP
+2019-08-05,Barclays,Overweight,,main,ADP
+2019-08-15,Morgan Stanley,Equal-Weight,,main,ADP
+2019-09-11,Bank of America,Neutral,Buy,down,ADP
+2020-01-22,Evercore ISI Group,Outperform,In-Line,up,ADP
+2020-01-23,Morgan Stanley,Equal-Weight,,main,ADP
+2020-03-18,Morgan Stanley,Equal-Weight,,main,ADP
+2020-03-24,Morgan Stanley,Equal-Weight,,main,ADP
+2020-04-14,Citigroup,Neutral,,main,ADP
+2020-04-15,JP Morgan,Neutral,,main,ADP
+2020-04-29,CFRA,Hold,,main,ADP
+2020-04-30,Stifel,Hold,,main,ADP
+2020-04-30,Morgan Stanley,Equal-Weight,,main,ADP
+2020-04-30,BMO Capital,Market Perform,,main,ADP
+2020-05-18,B of A Securities,Underperform,Neutral,down,ADP
+2020-07-14,Goldman Sachs,Sell,,init,ADP
+2020-07-30,Stifel,Hold,,main,ADP
+2020-07-30,Citigroup,Neutral,,main,ADP
+2020-09-21,Cowen & Co.,Market Perform,Outperform,down,ADP
+2020-10-29,BMO Capital,Market Perform,,main,ADP
+2020-10-29,Morgan Stanley,Equal-Weight,,main,ADP
+2020-11-09,Credit Suisse,Outperform,,main,ADP
+2021-01-13,Evercore ISI Group,Underperform,Outperform,down,ADP
+2021-01-28,Morgan Stanley,Equal-Weight,,main,ADP
+2021-01-29,Citigroup,Buy,Neutral,up,ADP
+2021-02-11,Mizuho,Buy,,init,ADP
+2021-04-29,Morgan Stanley,Equal-Weight,,main,ADP
+2021-05-03,Citigroup,Buy,,main,ADP
+2021-05-27,Mizuho,Buy,,main,ADP
+2021-07-29,Morgan Stanley,Equal-Weight,,main,ADP
+2021-08-02,Mizuho,Buy,,main,ADP
+2021-08-11,Citigroup,Neutral,Buy,down,ADP
+2021-08-16,Credit Suisse,Neutral,Outperform,down,ADP
+2021-08-17,JP Morgan,Underweight,Neutral,down,ADP
+2021-10-28,BMO Capital,Market Perform,,main,ADP
+2021-10-28,Morgan Stanley,Equal-Weight,,main,ADP
+2021-10-29,Barclays,Overweight,,main,ADP
+2021-11-02,Mizuho,Buy,,main,ADP
+2021-11-16,Morgan Stanley,Equal-Weight,,main,ADP
+2021-12-01,Citigroup,Neutral,,main,ADP

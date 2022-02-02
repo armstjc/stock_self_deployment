@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AFYA220916C00020000,2022-01-27 17:42:42+00:00,20.0,0.8,0.05,1.95,0.0,0.0,,2,0.5649457568359376,False,REGULAR,USD,AFYA

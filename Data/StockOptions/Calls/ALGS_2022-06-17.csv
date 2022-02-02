@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ALGS220617C00005000,2021-12-01 20:59:42+00:00,5.0,9.5,6.2,7.9,0.0,0.0,,60,0.0,False,REGULAR,USD,ALGS
+ALGS220617C00007500,2021-12-01 20:59:42+00:00,7.5,7.65,4.7,6.9,0.0,0.0,,60,0.0,False,REGULAR,USD,ALGS
+ALGS220617C00010000,2021-12-16 16:38:56+00:00,10.0,4.5,2.2,4.9,0.0,0.0,,2,0.0,False,REGULAR,USD,ALGS

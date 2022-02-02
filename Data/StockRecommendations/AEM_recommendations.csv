@@ -1,0 +1,121 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,Scotiabank,Sector Perform,,main,AEM
+2012-03-28,Global Hunter Securities,Buy,,init,AEM
+2012-04-27,Credit Suisse,Outperform,,up,AEM
+2012-04-27,Canaccord Genuity,Hold,,main,AEM
+2012-04-30,Scotiabank,Sector Perform,,main,AEM
+2012-05-30,Dahlman Rose,Hold,,down,AEM
+2012-07-26,Dundee,Buy,Neutral,up,AEM
+2012-08-15,UBS,Neutral,Buy,down,AEM
+2012-08-22,Global Hunter Securities,Neutral,Buy,down,AEM
+2012-10-16,Barclays,Equal-Weight,,init,AEM
+2012-10-22,National Bank Financial,Sector Perform,,init,AEM
+2012-11-19,RBC Capital,Outperform,Sector Perform,up,AEM
+2012-12-18,Dundee,Neutral,Buy,down,AEM
+2013-02-04,Barclays,Equal-Weight,,main,AEM
+2013-02-14,BMO Capital,Market Perform,,main,AEM
+2013-02-14,TD Securities,Buy,Hold,up,AEM
+2013-02-14,TD Securities,Buy,Hold,up,AEM
+2013-02-15,Barclays,Equal-Weight,,main,AEM
+2013-04-25,Macquarie,Underperform,Neutral,down,AEM
+2013-04-29,UBS,Buy,,main,AEM
+2013-06-21,UBS,Neutral,Buy,down,AEM
+2013-06-21,UBS,Neutral,Buy,down,AEM
+2013-07-08,Mackie Research,Sell,Hold,down,AEM
+2013-07-09,Dundee,Sell,Neutral,down,AEM
+2013-07-24,TD Securities,Hold,Buy,down,AEM
+2013-07-26,Salman Partners,Hold,Buy,down,AEM
+2013-07-26,Macquarie,Neutral,Underperform,up,AEM
+2013-08-15,Desjardins,Hold,,init,AEM
+2013-09-16,Dundee,Neutral,Sell,up,AEM
+2013-10-10,Raymond James,Outperform,Market Perform,up,AEM
+2013-10-21,HSBC,Neutral,Underweight,up,AEM
+2013-10-24,BMO Capital,Outperform,Market Perform,up,AEM
+2013-10-25,Salman Partners,Buy,Hold,up,AEM
+2013-10-25,CIBC,,Sector Perform,up,AEM
+2013-11-26,Morgan Stanley,Overweight,Equal-weight,up,AEM
+2013-12-06,RBC Capital,Sector Perform,Outperform,down,AEM
+2014-01-09,Desjardins,Hold,Buy,down,AEM
+2014-01-13,Canaccord Genuity,Buy,,up,AEM
+2014-01-15,UBS,Buy,,up,AEM
+2014-01-22,Sterne Agee,Buy,Neutral,up,AEM
+2014-02-13,BMO Capital,Market Perform,Outperform,down,AEM
+2014-02-14,Canaccord Genuity,Hold,Buy,down,AEM
+2014-02-14,UBS,Neutral,Buy,down,AEM
+2014-02-19,Credit Suisse,Outperform,,main,AEM
+2014-02-20,UBS,Buy,Neutral,up,AEM
+2014-03-28,Canaccord Genuity,Buy,Hold,up,AEM
+2014-04-23,RBC Capital,Outperform,Sector Perform,up,AEM
+2014-04-24,Dundee,Buy,Neutral,up,AEM
+2014-05-02,Credit Suisse,Outperform,,main,AEM
+2014-05-05,Raymond James,Outperform,,main,AEM
+2014-05-05,Morgan Stanley,Overweight,,main,AEM
+2014-05-23,CIBC,,,main,AEM
+2014-06-17,Barclays,Equal-Weight,,main,AEM
+2014-07-07,UBS,Buy,,main,AEM
+2014-07-25,HSBC,Underweight,Neutral,down,AEM
+2014-07-31,Desjardins,Hold,Buy,down,AEM
+2014-08-01,JP Morgan,Neutral,,main,AEM
+2014-10-01,National Bank Financial,Outperform,Sector Perform,up,AEM
+2014-10-09,Desjardins,Buy,Hold,up,AEM
+2014-10-13,JP Morgan,Neutral,,main,AEM
+2014-10-20,Scotiabank,Sector Outperform,Sector Perform,up,AEM
+2014-10-31,Barclays,Equal-Weight,,main,AEM
+2014-11-03,Barclays,Equal-Weight,,main,AEM
+2015-01-15,Barclays,Equal-Weight,,main,AEM
+2015-01-25,HSBC,Neutral,Overweight,down,AEM
+2015-01-26,JP Morgan,Neutral,,main,AEM
+2015-01-26,HSBC,Neutral,Overweight,down,AEM
+2015-02-18,JP Morgan,Overweight,,main,AEM
+2015-04-14,Barclays,Equal-Weight,,main,AEM
+2015-06-10,Credit Suisse,Outperform,,main,AEM
+2015-06-16,BMO Capital,Market Perform,,init,AEM
+2015-07-08,JP Morgan,Overweight,,main,AEM
+2015-07-16,Barclays,Equal-Weight,,main,AEM
+2015-07-22,HSBC,Buy,Hold,up,AEM
+2015-07-24,CIBC,Outperform,,init,AEM
+2015-07-31,Barclays,Equal-Weight,,main,AEM
+2015-08-12,Bank of America,Buy,Neutral,up,AEM
+2015-08-24,Barclays,Equal-Weight,,main,AEM
+2015-09-08,HSBC,Buy,,main,AEM
+2015-10-26,HSBC,Hold,Buy,down,AEM
+2016-01-14,BMO Capital,Outperform,Market Perform,up,AEM
+2016-01-14,Barclays,Overweight,Equal-Weight,up,AEM
+2016-01-15,BMO Capital,Outperform,Market Perform,up,AEM
+2016-02-02,Desjardins,Hold,,down,AEM
+2016-02-12,Barclays,Overweight,,main,AEM
+2016-03-14,Raymond James,Market Perform,Outperform,down,AEM
+2016-03-28,UBS,Neutral,Buy,down,AEM
+2016-04-18,JP Morgan,Neutral,Overweight,down,AEM
+2016-05-01,Credit Suisse,Outperform,,main,AEM
+2016-05-12,BMO Capital,Market Perform,Outperform,down,AEM
+2016-07-13,Desjardins,Buy,Hold,up,AEM
+2016-08-02,Citigroup,Sell,,init,AEM
+2016-08-08,RBC Capital,Sector Perform,Outperform,down,AEM
+2016-08-08,Barclays,Overweight,,main,AEM
+2017-03-29,JP Morgan,Overweight,Neutral,up,AEM
+2017-07-24,National Bank Financial,Outperform,Sector Perform,up,AEM
+2017-09-11,Credit Suisse,Outperform,,main,AEM
+2017-11-30,Citigroup,Neutral,Sell,up,AEM
+2018-02-28,TD Securities,Buy,Hold,up,AEM
+2018-03-01,Citigroup,Neutral,Neutral,main,AEM
+2018-05-29,BMO Capital,Outperform,Market Perform,up,AEM
+2018-07-30,RBC Capital,Outperform,Sector Perform,up,AEM
+2018-08-29,Citigroup,Neutral,Neutral,main,AEM
+2018-09-17,JP Morgan,Overweight,Overweight,main,AEM
+2018-10-10,Barclays,Overweight,,init,AEM
+2019-04-09,Barclays,Equal-Weight,Overweight,down,AEM
+2019-04-12,Desjardins,Hold,Buy,down,AEM
+2019-04-23,GMP Securities,Buy,Hold,up,AEM
+2019-09-11,Citigroup,Neutral,,main,AEM
+2020-02-19,RBC Capital,Sector Perform,,main,AEM
+2020-04-03,BMO Capital,Outperform,,main,AEM
+2020-07-20,Barclays,Overweight,,main,AEM
+2020-07-30,ScotiaBank,Sector Outperform,Sector Perform,up,AEM
+2020-07-30,TD Securities,Buy,,main,AEM
+2020-10-19,Barclays,Equal-Weight,Overweight,down,AEM
+2020-10-29,BMO Capital,Outperform,,main,AEM
+2021-02-23,Canaccord Genuity,Buy,,main,AEM
+2021-07-08,Barclays,Equal-Weight,,main,AEM
+2021-09-24,Keybanc,Sector Weight,,init,AEM
+2021-10-06,RBC Capital,Outperform,Sector Perform,up,AEM

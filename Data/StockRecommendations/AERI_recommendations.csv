@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-11-19,RBC Capital,Outperform,,init,AERI
+2013-11-19,Stifel Nicolaus,Buy,,init,AERI
+2013-11-19,Canaccord Genuity,Buy,,init,AERI
+2013-12-03,Needham,Buy,,init,AERI
+2014-03-19,Stifel Nicolaus,Buy,,main,AERI
+2014-07-03,Canaccord Genuity,Buy,,init,AERI
+2015-03-25,Brean Capital,Buy,,init,AERI
+2015-04-24,RBC Capital,Outperform,,main,AERI
+2015-04-24,Brean Capital,Buy,,main,AERI
+2015-04-24,Cantor Fitzgerald,Hold,Buy,down,AERI
+2015-05-08,Cantor Fitzgerald,Buy,Hold,up,AERI
+2015-06-16,Cantor Fitzgerald,Buy,,main,AERI
+2015-06-16,RBC Capital,Outperform,,main,AERI
+2015-06-16,Needham,Buy,Hold,up,AERI
+2015-06-19,Canaccord Genuity,Buy,Hold,up,AERI
+2015-09-17,Brean Capital,Buy,,main,AERI
+2015-09-17,JMP Securities,Market Outperform,,main,AERI
+2015-09-17,Stifel Nicolaus,Buy,,main,AERI
+2015-09-17,Canaccord Genuity,Buy,,main,AERI
+2015-09-17,RBC Capital,Outperform,,main,AERI
+2015-09-17,Needham,Buy,,main,AERI
+2016-06-02,Cantor Fitzgerald,Buy,,init,AERI
+2016-09-13,Raymond James,Outperform,,init,AERI
+2016-09-14,Raymond James,Strong Buy,,init,AERI
+2016-09-20,H.C. Wainwright,Buy,,init,AERI
+2016-10-06,Stifel Nicolaus,Buy,,main,AERI
+2017-02-17,Roth Capital,Buy,,init,AERI
+2017-02-24,Cowen & Co.,Outperform,,init,AERI
+2017-03-09,Raymond James,Market Perform,Strong Buy,down,AERI
+2017-09-07,Mizuho,Buy,,init,AERI
+2017-10-16,Canaccord Genuity,Buy,,main,AERI
+2017-10-24,Guggenheim,Buy,,init,AERI
+2018-01-25,Canaccord Genuity,Buy,Buy,main,AERI
+2018-01-26,Seaport Global,Buy,,init,AERI
+2018-09-11,Stifel Nicolaus,Buy,Buy,main,AERI
+2018-11-13,Oppenheimer,Outperform,,init,AERI
+2019-03-21,PiperJaffray,Overweight,,init,AERI
+2019-05-10,Canaccord Genuity,Buy,,main,AERI
+2019-08-08,Cantor Fitzgerald,Overweight,,reit,AERI
+2019-08-08,JMP Securities,Market Outperform,,reit,AERI
+2019-11-07,Cantor Fitzgerald,Overweight,,main,AERI
+2019-11-07,Stifel Nicolaus,Buy,,main,AERI
+2019-11-07,Piper Jaffray,Overweight,,main,AERI
+2020-02-21,H.C. Wainwright,Buy,,main,AERI
+2020-03-23,B of A Securities,Neutral,,main,AERI
+2020-04-01,Stifel,Buy,,main,AERI
+2020-04-13,Oppenheimer,Outperform,,main,AERI
+2020-04-13,Mizuho,Buy,,main,AERI
+2020-04-30,Needham,Buy,,main,AERI
+2020-05-07,HC Wainwright & Co.,Buy,,main,AERI
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,AERI
+2020-05-07,Mizuho,Buy,,main,AERI
+2020-06-01,Oppenheimer,Outperform,,main,AERI
+2020-08-07,Needham,Buy,,main,AERI
+2020-08-10,Citigroup,Buy,,main,AERI
+2020-09-08,Guggenheim,Buy,,init,AERI
+2020-10-19,B of A Securities,Underperform,Neutral,down,AERI
+2020-11-09,HC Wainwright & Co.,Buy,,main,AERI
+2021-08-05,Needham,Buy,,main,AERI
+2021-11-05,Needham,Buy,,main,AERI

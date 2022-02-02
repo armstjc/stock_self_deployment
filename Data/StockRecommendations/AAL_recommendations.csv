@@ -1,0 +1,176 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-09,CRT Capital,Buy,,init,AAL
+2013-12-09,Deutsche Bank,Buy,,init,AAL
+2013-12-18,UBS,Neutral,,init,AAL
+2013-12-19,Evercore Partners,Equal-Weight,,init,AAL
+2014-01-29,Bank of America,Neutral,Underperform,up,AAL
+2014-01-29,Deutsche Bank,Buy,,main,AAL
+2014-02-03,Morgan Stanley,Overweight,,init,AAL
+2014-03-24,Morgan Stanley,Overweight,,main,AAL
+2014-04-07,Goldman Sachs,Buy,,init,AAL
+2014-04-17,Barclays,Equal-Weight,,main,AAL
+2014-04-25,Deutsche Bank,Buy,,main,AAL
+2014-04-25,CRT Capital,Buy,,main,AAL
+2014-04-25,Imperial Capital,Outperform,,main,AAL
+2014-04-28,Bank of America,Neutral,,main,AAL
+2014-04-29,Bank of America,Neutral,,main,AAL
+2014-05-01,JP Morgan,Overweight,,main,AAL
+2014-05-05,Stifel Nicolaus,Buy,,init,AAL
+2014-07-10,CRT Capital,Buy,,main,AAL
+2014-07-11,Barclays,Equal-Weight,,main,AAL
+2014-07-16,Atlantic Equities,Overweight,,init,AAL
+2014-07-25,Deutsche Bank,Buy,,main,AAL
+2014-07-28,CRT Capital,Buy,,main,AAL
+2014-09-09,Credit Suisse,Outperform,,init,AAL
+2014-10-24,CRT Capital,Buy,,main,AAL
+2014-10-24,Credit Suisse,Outperform,,main,AAL
+2014-12-01,Bank of America,Buy,Neutral,up,AAL
+2014-12-02,Credit Suisse,Outperform,,main,AAL
+2014-12-10,Barclays,Overweight,Equal-weight,up,AAL
+2015-01-16,Barclays,Overweight,,main,AAL
+2015-01-28,Credit Suisse,Neutral,Outperform,down,AAL
+2015-02-24,Cowen & Co.,Market Perform,Outperform,down,AAL
+2015-04-01,Deutsche Bank,Hold,Buy,down,AAL
+2015-06-03,Bank of America,Neutral,Buy,down,AAL
+2015-06-09,Imperial Capital,Outperform,,main,AAL
+2015-06-10,Deutsche Bank,Hold,,main,AAL
+2015-06-10,JP Morgan,Overweight,,main,AAL
+2015-06-18,Barclays,Overweight,,main,AAL
+2015-07-27,Barclays,Overweight,,main,AAL
+2015-09-01,Deutsche Bank,Buy,Hold,up,AAL
+2015-09-02,Imperial Capital,Outperform,,main,AAL
+2015-10-12,Deutsche Bank,Buy,,main,AAL
+2015-10-13,Evercore ISI Group,Hold,Buy,down,AAL
+2015-12-21,Deutsche Bank,Buy,,main,AAL
+2016-01-07,Credit Suisse,Outperform,Neutral,up,AAL
+2016-01-27,UBS,Buy,Neutral,up,AAL
+2016-02-01,Cowen & Co.,Outperform,Market Perform,up,AAL
+2016-02-04,JP Morgan,Overweight,,main,AAL
+2016-03-24,Raymond James,Outperform,Market Perform,up,AAL
+2016-03-24,Stifel Nicolaus,Buy,,main,AAL
+2016-03-29,Stephens & Co.,Equal-Weight,,init,AAL
+2016-04-01,Deutsche Bank,Hold,Buy,down,AAL
+2016-04-08,Deutsche Bank,Hold,,main,AAL
+2016-04-12,Credit Suisse,Outperform,,main,AAL
+2016-04-28,Morgan Stanley,Overweight,Equal-Weight,up,AAL
+2016-06-16,Bank of America,Underperform,,down,AAL
+2016-07-06,Credit Suisse,Underperform,Outperform,down,AAL
+2016-07-12,Deutsche Bank,Buy,Hold,up,AAL
+2016-07-25,Credit Suisse,Underperform,,main,AAL
+2016-07-25,Deutsche Bank,Buy,,main,AAL
+2016-07-27,JP Morgan,Overweight,,main,AAL
+2016-08-26,Imperial Capital,In-Line,,init,AAL
+2016-09-21,Raymond James,Market Perform,Outperform,down,AAL
+2016-10-11,Bernstein,Underperform,,init,AAL
+2016-10-12,Stifel,Buy,,main,AAL
+2016-10-21,Wolfe Research,Outperform,,main,AAL
+2016-10-21,Imperial Capital,In-Line,,main,AAL
+2016-11-18,Citigroup,Buy,,init,AAL
+2016-12-15,Barclays,Equal-Weight,,init,AAL
+2017-01-04,Cowen & Co.,Market Perform,Outperform,down,AAL
+2017-02-06,Bernstein,Market Perform,Underperform,up,AAL
+2017-03-22,Morgan Stanley,Equal-Weight,Overweight,down,AAL
+2017-04-27,JP Morgan,Neutral,Overweight,down,AAL
+2017-06-20,Atlantic Equities,Underweight,,init,AAL
+2017-07-13,Citigroup,Buy,,main,AAL
+2017-07-17,Morgan Stanley,Equal-Weight,,main,AAL
+2017-07-31,Cowen & Co.,Outperform,Market Perform,up,AAL
+2017-08-01,JP Morgan,Overweight,Neutral,up,AAL
+2017-08-17,Morgan Stanley,Equal-Weight,,main,AAL
+2017-09-13,Citigroup,Buy,,main,AAL
+2017-09-15,JP Morgan,Neutral,Overweight,down,AAL
+2017-09-18,Morgan Stanley,Equal-Weight,,main,AAL
+2017-09-20,Raymond James,Outperform,Market Perform,up,AAL
+2017-09-22,Barclays,Overweight,Equal-Weight,up,AAL
+2017-09-26,Macquarie,Neutral,,init,AAL
+2017-10-02,Morgan Stanley,Equal-Weight,,main,AAL
+2017-10-10,Bank of America,Underperform,,main,AAL
+2017-10-27,Buckingham,Buy,,main,AAL
+2017-11-01,JP Morgan,Overweight,Neutral,up,AAL
+2017-11-13,Morgan Stanley,Equal-Weight,,main,AAL
+2018-01-09,Bank of America,Buy,Underperform,up,AAL
+2018-01-26,Buckingham,Buy,Buy,main,AAL
+2018-01-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-01-31,Bernstein,Outperform,Market Perform,up,AAL
+2018-02-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-04-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-05-29,Citigroup,Buy,Buy,main,AAL
+2018-06-01,Imperial Capital,Outperform,In-Line,up,AAL
+2018-06-13,Buckingham,Buy,Buy,main,AAL
+2018-07-03,Deutsche Bank,Hold,Buy,down,AAL
+2018-07-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-07-16,Barclays,Overweight,Overweight,main,AAL
+2018-07-17,Buckingham,Buy,Buy,main,AAL
+2018-07-30,Macquarie,Outperform,Neutral,up,AAL
+2018-09-27,Imperial Capital,Outperform,Outperform,main,AAL
+2018-10-10,Bank of America,Buy,Buy,main,AAL
+2018-10-10,Buckingham,Buy,Buy,main,AAL
+2018-10-10,Citigroup,Buy,Buy,main,AAL
+2018-10-10,Imperial Capital,Outperform,Outperform,main,AAL
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-10-16,Imperial Capital,Outperform,Outperform,main,AAL
+2018-10-16,Raymond James,Outperform,Outperform,main,AAL
+2018-10-17,Deutsche Bank,Buy,Hold,up,AAL
+2018-11-12,Goldman Sachs,Buy,,init,AAL
+2018-11-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,AAL
+2018-11-19,Credit Suisse,Neutral,,init,AAL
+2018-11-29,Citigroup,Buy,Buy,main,AAL
+2019-01-09,Imperial Capital,Outperform,Outperform,main,AAL
+2019-02-08,Argus,Hold,,init,AAL
+2019-03-01,Deutsche Bank,Hold,Buy,down,AAL
+2019-03-08,Citigroup,Buy,Buy,main,AAL
+2019-04-29,Deutsche Bank,Buy,Hold,up,AAL
+2019-05-20,Morgan Stanley,Underweight,Equal-Weight,down,AAL
+2019-05-20,Morgan Stanley,Underweight,Equal-Weight,down,AAL
+2019-05-20,Barclays,Overweight,,main,AAL
+2019-07-08,Credit Suisse,Underperform,Neutral,down,AAL
+2019-07-11,Buckingham Research,Buy,,main,AAL
+2019-09-06,Berenberg,Buy,,init,AAL
+2019-09-10,Morgan Stanley,Underweight,,main,AAL
+2019-10-10,Morgan Stanley,Underweight,,main,AAL
+2019-10-21,Buckingham,Buy,,main,AAL
+2019-11-13,UBS,Sell,,init,AAL
+2020-02-27,Buckingham Research,Neutral,Buy,down,AAL
+2020-02-28,CFRA,Hold,Buy,down,AAL
+2020-03-23,B of A Securities,Underperform,,main,AAL
+2020-03-23,Raymond James,Market Perform,Outperform,down,AAL
+2020-03-26,Bank of America,Underperform,,main,AAL
+2020-03-27,Berenberg,Hold,Buy,down,AAL
+2020-03-30,Citigroup,Sell,,main,AAL
+2020-04-01,Stifel,Hold,Buy,down,AAL
+2020-04-06,JP Morgan,Underweight,Overweight,down,AAL
+2020-04-21,Deutsche Bank,Buy,,main,AAL
+2020-04-21,Susquehanna,Neutral,Positive,down,AAL
+2020-04-27,Citigroup,Sell,,main,AAL
+2020-05-01,Stifel,Hold,,main,AAL
+2020-05-01,Evercore ISI Group,Underperform,,main,AAL
+2020-05-01,UBS,Sell,,main,AAL
+2020-06-05,Raymond James,Underperform,Market Perform,down,AAL
+2020-06-15,Citigroup,Sell,,main,AAL
+2020-06-17,Seaport Global,Buy,,init,AAL
+2020-07-24,Stifel,Hold,,main,AAL
+2020-07-27,Raymond James,Market Perform,Underperform,up,AAL
+2020-09-02,Berenberg,Sell,Hold,down,AAL
+2020-10-13,Susquehanna,Negative,Neutral,down,AAL
+2020-11-13,Exane BNP Paribas,Neutral,,init,AAL
+2020-11-30,Raymond James,Underperform,Market Perform,down,AAL
+2020-12-11,Deutsche bank,Hold,Buy,down,AAL
+2021-01-14,Susquehanna,Negative,,main,AAL
+2021-02-01,Seaport Global,Neutral,Buy,down,AAL
+2021-02-22,Deutsche Bank,Buy,Hold,up,AAL
+2021-03-30,Jefferies,Hold,Underperform,up,AAL
+2021-04-06,Morgan Stanley,Underweight,,init,AAL
+2021-04-23,Raymond James,Market Perform,Underperform,up,AAL
+2021-06-10,MKM Partners,Buy,,init,AAL
+2021-06-14,Citigroup,Sell,,main,AAL
+2021-07-08,Morgan Stanley,Underweight,,main,AAL
+2021-07-14,Citigroup,Neutral,Sell,up,AAL
+2021-07-23,Seaport Global,Buy,Neutral,up,AAL
+2021-07-27,Susquehanna,Neutral,Negative,up,AAL
+2021-07-27,Berenberg,Hold,Sell,up,AAL
+2021-08-11,Redburn Partners,Buy,,init,AAL
+2021-09-14,Morgan Stanley,Underweight,,main,AAL
+2021-10-06,Goldman Sachs,Sell,Neutral,down,AAL
+2021-10-26,Citigroup,Neutral,,main,AAL
+2021-12-06,Evercore ISI Group,In-Line,Underperform,up,AAL

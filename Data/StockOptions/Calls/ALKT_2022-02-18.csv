@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ALKT220218C00022500,2022-01-05 17:00:48+00:00,22.5,1.07,0.2,0.75,-0.2299999,-17.6923,1,1,1.7089858300781249,False,REGULAR,USD,ALKT

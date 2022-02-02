@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data",
-    "\\Data\\StockOptions"
+    "\\Data"
   ],
-  "SelectedNode": "\\Data\\StockOptions\\Puts",
+  "SelectedNode": "\\main.py",
   "PreviewInSolutionExplorer": false
 }

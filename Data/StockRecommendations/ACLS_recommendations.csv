@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-12,B. Riley FBR,Buy,,init,ACLS
+2014-01-09,Needham,Buy,,init,ACLS
+2014-08-27,Stifel Nicolaus,Buy,,init,ACLS
+2015-05-18,Stifel Nicolaus,Buy,,main,ACLS
+2015-07-01,Benchmark,Buy,,init,ACLS
+2015-11-05,B. Riley FBR,Buy,,main,ACLS
+2017-01-13,Stifel Nicolaus,Hold,Buy,down,ACLS
+2018-01-23,Stifel Nicolaus,Buy,Hold,up,ACLS
+2018-08-03,Craig-Hallum,Buy,Hold,up,ACLS
+2018-10-29,B. Riley FBR,Neutral,Buy,down,ACLS
+2018-11-02,Benchmark,Hold,Buy,down,ACLS
+2019-01-28,B. Riley FBR,Buy,Neutral,up,ACLS
+2019-02-08,Benchmark,Buy,Hold,up,ACLS
+2019-02-08,Craig-Hallum,Hold,Buy,down,ACLS
+2019-11-04,Craig-Hallum,Buy,Hold,up,ACLS
+2019-11-04,Benchmark,Buy,,main,ACLS
+2019-12-05,DA Davidson,Buy,,init,ACLS
+2020-02-07,Benchmark,Buy,,main,ACLS
+2020-02-07,B. Riley,Buy,,main,ACLS
+2020-03-19,B. Riley FBR,Neutral,Buy,down,ACLS
+2020-04-02,DA Davidson,Neutral,Buy,down,ACLS
+2020-04-13,B. Riley FBR,Neutral,,main,ACLS
+2020-04-15,B. Riley FBR,Neutral,,main,ACLS
+2020-05-07,B. Riley FBR,Neutral,,main,ACLS
+2020-05-26,B. Riley FBR,Buy,Neutral,up,ACLS
+2020-06-22,Stifel,Hold,Buy,down,ACLS
+2020-08-06,Benchmark,Buy,,main,ACLS
+2020-08-12,Needham,Buy,,init,ACLS
+2020-09-21,Stifel,Buy,Hold,up,ACLS
+2021-01-21,Needham,Buy,,main,ACLS
+2021-04-21,Needham,Buy,,main,ACLS
+2021-11-05,Needham,Buy,,main,ACLS
+2021-12-10,Needham,Buy,,main,ACLS

@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-17,Compass Point,Buy,,init,ADC
+2012-10-03,Wunderlich,Buy,,init,ADC
+2012-10-05,Compass Point,Buy,,main,ADC
+2012-10-31,BMO Capital,Market Perform,,main,ADC
+2013-03-01,Wunderlich,Buy,,main,ADC
+2013-03-01,BMO Capital,Market Perform,,main,ADC
+2013-03-04,Compass Point,Buy,,main,ADC
+2013-03-27,Ladenburg Thalmann,Buy,,init,ADC
+2013-05-02,Compass Point,Buy,,main,ADC
+2013-07-31,Wunderlich,Hold,Buy,down,ADC
+2013-07-31,Raymond James,Market Perform,Outperform,down,ADC
+2013-08-01,Compass Point,Buy,,main,ADC
+2013-09-10,Janney Capital,Buy,,init,ADC
+2013-10-04,Compass Point,Buy,,main,ADC
+2013-10-30,Raymond James,Outperform,Market Perform,up,ADC
+2013-11-26,Compass Point,Buy,,main,ADC
+2014-05-21,Wunderlich,Buy,Hold,up,ADC
+2015-01-27,Wunderlich,Buy,,main,ADC
+2015-03-24,Baird,Outperform,,init,ADC
+2016-04-21,Jefferies,Buy,,init,ADC
+2016-05-31,Jefferies,Buy,,main,ADC
+2016-07-07,Stifel Nicolaus,Buy,,init,ADC
+2016-07-14,Jefferies,Buy,,main,ADC
+2016-10-12,FBR Capital,Outperform,,init,ADC
+2016-12-16,SunTrust Robinson Humphrey,Buy,,init,ADC
+2017-01-05,Jefferies,Hold,Buy,down,ADC
+2017-01-26,Wells Fargo,Market Perform,,init,ADC
+2017-02-27,Wunderlich,Hold,Buy,down,ADC
+2017-07-18,Canaccord Genuity,Buy,,init,ADC
+2017-09-18,FBR Capital,Buy,,main,ADC
+2017-12-19,Wells Fargo,Outperform,Market Perform,up,ADC
+2018-07-24,Stifel Nicolaus,Buy,Buy,main,ADC
+2018-09-10,Stifel Nicolaus,Buy,Buy,main,ADC
+2018-12-10,Raymond James,Outperform,Outperform,main,ADC
+2018-12-11,Citigroup,Neutral,Neutral,main,ADC
+2018-12-13,Jefferies,Buy,Hold,up,ADC
+2019-01-08,Raymond James,Strong Buy,Outperform,up,ADC
+2019-02-27,Citigroup,Neutral,Neutral,main,ADC
+2019-03-04,Raymond James,Strong Buy,Strong Buy,main,ADC
+2019-10-01,Berenberg,Buy,,init,ADC
+2019-10-30,SunTrust Robinson Humphrey,Buy,,main,ADC
+2019-12-05,Capital One Financial,Overweight,,init,ADC
+2019-12-12,Citigroup,Buy,Neutral,up,ADC
+2020-02-21,Baird,Outperform,,main,ADC
+2020-03-20,Stifel,Buy,,main,ADC
+2020-04-02,Wells Fargo,Overweight,,main,ADC
+2020-04-07,Citigroup,Buy,,main,ADC
+2020-04-08,Odeon Capital,Buy,,init,ADC
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,ADC
+2020-04-21,Baird,Outperform,,main,ADC
+2020-06-10,Wells Fargo,Overweight,,main,ADC
+2020-09-30,Mizuho,Buy,,init,ADC
+2020-10-12,BTIG,Buy,,init,ADC
+2021-04-09,Stifel,Buy,,main,ADC
+2021-06-03,Mizuho,Neutral,Buy,down,ADC
+2021-06-25,Wells Fargo,Overweight,,main,ADC
+2021-09-17,RBC Capital,Outperform,,init,ADC

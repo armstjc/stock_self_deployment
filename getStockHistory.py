@@ -1,7 +1,7 @@
 import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
-
+from datetime import datetime
 
 stockList = pd.read_csv('Stock_List.csv')
 stockListLen = len(stockList)
@@ -22,13 +22,22 @@ def getStockHistory():
     '''
     print('Getting the full history of the stock market.')
     arr = stockList['Symbol'].to_numpy()
-    for i in tqdm(arr.T, ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
+    start = datetime.now()
+    arr_len = len(arr)
+    arr_count = 0
+    for i in arr.T:
         try:
             stock = yf.Ticker(i)
             hist = stock.history(period="max")
             hist.to_csv('Data/StockHistory/'+i+'.csv')
         except:
             pass
+        now = datetime.now()
+        durration = now - start
+        p_d = str(durration)     
+        #print(p_d)   
+        arr_count = arr_count +1
+        print(f'{p_d} getStockHistory {arr_count}/{arr_len}: {i}')
 
 def main():
     getStockHistory()

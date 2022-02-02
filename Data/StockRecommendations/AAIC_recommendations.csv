@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-31,Wunderlich,Hold,,main,AAIC
+2012-11-30,Maxim Group,,,init,AAIC
+2013-02-11,Wunderlich,Hold,,main,AAIC
+2013-03-12,Wunderlich,Buy,Hold,up,AAIC
+2013-05-01,Wunderlich,Hold,Buy,down,AAIC
+2013-08-30,JMP Securities,Market Perform,,init,AAIC
+2014-04-14,Credit Suisse,Neutral,,init,AAIC
+2014-09-05,Wunderlich,Hold,,main,AAIC
+2015-05-11,Barclays,Equal-Weight,,main,AAIC
+2015-08-04,Barclays,Equal-Weight,,main,AAIC
+2016-02-04,Ladenburg Thalmann,Buy,Neutral,up,AAIC
+2016-02-24,Compass Point,Neutral,Buy,down,AAIC
+2016-05-12,Barclays,Equal-Weight,,main,AAIC
+2017-08-01,Singular Research,Buy,,init,AAIC
+2018-02-09,B. Riley FBR,Neutral,,main,AAIC
+2018-05-04,Maxim Group,Hold,Buy,down,AAIC
+2020-01-14,JonesTrading,Buy,,init,AAIC
+2021-05-10,JonesTrading,Buy,,main,AAIC

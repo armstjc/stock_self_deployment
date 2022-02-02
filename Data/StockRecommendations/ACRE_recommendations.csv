@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-15,JP Morgan,Overweight,,main,ACRE
+2013-05-16,Keefe Bruyette & Woods,Market Perform,Outperform,down,ACRE
+2013-06-24,Bank of America,Buy,,main,ACRE
+2013-07-16,JP Morgan,Overweight,,main,ACRE
+2013-12-02,Citigroup,Buy,,main,ACRE
+2014-05-08,FBR Capital,Market Perform,,main,ACRE
+2014-09-04,Citigroup,Buy,,main,ACRE
+2014-11-11,Keefe Bruyette & Woods,Market Perform,,main,ACRE
+2014-11-17,JMP Securities,Market Outperform,,main,ACRE
+2015-01-14,Citigroup,Buy,,main,ACRE
+2015-02-04,Credit Suisse,Neutral,,init,ACRE
+2015-03-06,Keefe Bruyette & Woods,Market Perform,,main,ACRE
+2015-03-09,JMP Securities,Market Outperform,,main,ACRE
+2015-07-06,FBR Capital,Outperform,Market Perform,up,ACRE
+2015-07-31,Keefe Bruyette & Woods,Market Perform,,main,ACRE
+2015-08-03,JMP Securities,Market Outperform,,main,ACRE
+2016-04-05,Citigroup,Buy,,main,ACRE
+2016-08-05,Keefe Bruyette & Woods,Market Perform,,main,ACRE
+2016-08-11,Citigroup,Buy,,main,ACRE
+2016-12-15,Bank of America,Underperform,Buy,down,ACRE
+2017-08-07,JMP Securities,Market Outperform,,main,ACRE
+2018-07-23,JP Morgan,Neutral,Overweight,down,ACRE
+2018-07-30,JMP Securities,Market Outperform,Market Outperform,main,ACRE
+2018-08-21,Credit Suisse,Neutral,Neutral,main,ACRE
+2018-10-09,BTIG Research,Buy,,init,ACRE
+2018-10-24,JP Morgan,Neutral,Neutral,main,ACRE
+2019-01-11,Raymond James,Strong Buy,Outperform,up,ACRE
+2020-01-08,Credit Suisse,Outperform,Neutral,up,ACRE
+2020-02-21,Credit Suisse,Outperform,,main,ACRE
+2020-02-25,JP Morgan,Neutral,,main,ACRE
+2020-04-13,Raymond James,Strong Buy,,main,ACRE
+2020-04-22,JMP Securities,Market Outperform,,main,ACRE
+2020-06-30,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,ACRE
+2020-11-20,Raymond James,Outperform,Strong Buy,down,ACRE
+2021-02-19,Raymond James,Outperform,,main,ACRE
+2021-03-17,Credit Suisse,Outperform,,main,ACRE
+2021-05-05,Raymond James,Outperform,,main,ACRE
+2021-11-04,JMP Securities,Market Outperform,,main,ACRE

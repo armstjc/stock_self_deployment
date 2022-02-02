@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-29,Mizuho,Buy,,init,ADMP
+2015-12-01,Maxim Group,Buy,,init,ADMP
+2016-12-20,B. Riley FBR,Buy,,init,ADMP
+2017-09-13,Raymond James,Outperform,,init,ADMP
+2018-03-23,B. Riley FBR,Buy,Buy,main,ADMP
+2018-04-23,H.C. Wainwright,Buy,,init,ADMP
+2018-05-14,Maxim Group,Buy,Buy,main,ADMP
+2018-11-12,B. Riley FBR,Neutral,Buy,down,ADMP
+2019-07-16,B. Riley,Sell,Neutral,down,ADMP
+2019-07-23,B. Riley FBR,Neutral,Sell,up,ADMP
+2019-11-25,Maxim Group,Hold,Buy,down,ADMP
+2019-11-26,Raymond James,Market Perform,Outperform,down,ADMP
+2020-05-13,Maxim Group,Buy,Hold,up,ADMP

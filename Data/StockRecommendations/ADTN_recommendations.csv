@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,Morgan Stanley,Equal-Weight,,down,ADTN
+2012-03-14,UBS,Buy,,main,ADTN
+2012-03-15,Morgan Keegan,Market Perform,,main,ADTN
+2012-03-16,Bank oferica,Buy,,main,ADTN
+2012-04-12,Jefferies,Hold,,main,ADTN
+2012-04-12,Citigroup,Buy,,main,ADTN
+2012-07-03,Barclays,Equal-Weight,Overweight,down,ADTN
+2012-07-10,Jefferies,Hold,,main,ADTN
+2012-07-12,Barclays,Equal-Weight,,main,ADTN
+2012-07-12,UBS,Buy,,main,ADTN
+2012-07-12,Capstone,Hold,Buy,down,ADTN
+2012-07-12,Jefferies,Hold,,main,ADTN
+2012-07-12,Citigroup,Neutral,Buy,down,ADTN
+2012-07-12,Avondale Partners,Market Perform,Market Outperform,down,ADTN
+2012-07-12,Stifel Nicolaus,Hold,Buy,down,ADTN
+2012-08-29,Zacks Investment Research,Underperform,Neutral,down,ADTN
+2012-09-07,Jefferies,Underperform,Hold,down,ADTN
+2012-09-28,Bank of America,Underperform,Buy,down,ADTN
+2012-09-28,Goldman Sachs,Sell,,main,ADTN
+2012-10-01,Argus,Hold,Buy,down,ADTN
+2012-10-04,Goldman Sachs,Sell,,main,ADTN
+2012-10-04,UBS,Neutral,Buy,down,ADTN
+2012-10-05,Barclays,Underweight,Equal-Weight,down,ADTN
+2012-10-05,Barclays,Underweight,Equal-Weight,down,ADTN
+2012-10-08,Morgan Stanley,Underweight,Equal-Weight,down,ADTN
+2012-10-10,Bank of America,Underperform,,main,ADTN
+2012-10-11,Jefferies,Underperform,,main,ADTN
+2012-10-11,Stephens & Co.,Overweight,Equal-Weight,up,ADTN
+2012-10-17,Goldman Sachs,Neutral,Sell,up,ADTN
+2012-11-27,Citigroup,Buy,,main,ADTN
+2012-12-05,Citigroup,Sell,Neutral,down,ADTN
+2012-12-14,JP Morgan,Neutral,,init,ADTN
+2013-01-14,Bank of America,Underperform,,main,ADTN
+2013-01-16,Bank of America,Underperform,,main,ADTN
+2013-01-17,Citigroup,Neutral,Sell,up,ADTN
+2013-01-17,JP Morgan,Neutral,,main,ADTN
+2013-02-28,Stephens & Co.,Equal-Weight,Overweight,down,ADTN
+2013-04-11,Jefferies,Underperform,,main,ADTN
+2013-04-11,JP Morgan,Neutral,,main,ADTN
+2013-04-11,UBS,Sell,,main,ADTN
+2013-05-07,Cowen & Co.,Underperform,,init,ADTN
+2013-07-11,Jefferies,Underperform,,main,ADTN
+2013-07-11,Goldman Sachs,Buy,Neutral,up,ADTN
+2013-07-11,MKM Partners,Neutral,Sell,up,ADTN
+2013-10-10,Needham,Buy,Hold,up,ADTN
+2013-10-10,UBS,Neutral,Sell,up,ADTN
+2014-01-31,Goldman Sachs,Neutral,Buy,down,ADTN
+2014-04-17,Jefferies,Underperform,,main,ADTN
+2014-04-17,JP Morgan,Neutral,,main,ADTN
+2014-07-17,MKM Partners,Neutral,,main,ADTN
+2014-07-17,UBS,Neutral,,main,ADTN
+2014-10-03,JP Morgan,Neutral,,main,ADTN
+2015-04-06,Jefferies,Hold,Underperform,up,ADTN
+2015-04-23,Goldman Sachs,Neutral,Buy,down,ADTN
+2015-04-23,Needham,Hold,Buy,down,ADTN
+2015-04-23,JP Morgan,Neutral,,main,ADTN
+2015-09-30,Northland Securities,Outperform,,init,ADTN
+2015-10-15,Jefferies,Hold,,main,ADTN
+2015-12-17,JP Morgan,Overweight,Neutral,up,ADTN
+2016-01-07,MKM Partners,Buy,Neutral,up,ADTN
+2016-01-08,Stifel Nicolaus,Buy,Hold,up,ADTN
+2016-01-15,Drexel Hamilton,Buy,Hold,up,ADTN
+2016-01-21,Jefferies,Hold,,main,ADTN
+2016-01-21,Needham,Buy,Hold,up,ADTN
+2016-02-04,Cowen & Co.,Market Perform,Underperform,up,ADTN
+2016-04-18,Goldman Sachs,Sell,Neutral,down,ADTN
+2016-10-31,Northland Securities,Outperform,Market Perform,up,ADTN
+2017-04-20,Argus,Buy,Hold,up,ADTN
+2017-07-20,Needham,Buy,,main,ADTN
+2018-01-16,Goldman Sachs,Neutral,Sell,up,ADTN
+2018-04-19,Argus,Hold,Buy,down,ADTN
+2018-07-19,Northland Securities,Market Perform,Outperform,down,ADTN
+2019-01-29,Needham,Hold,Buy,down,ADTN
+2019-10-10,MKM Partners,Neutral,Buy,down,ADTN
+2020-04-17,Goldman Sachs,Buy,Neutral,up,ADTN
+2020-11-04,Jefferies,Buy,Hold,up,ADTN
+2021-02-05,Needham,Buy,Hold,up,ADTN
+2021-05-14,Argus Research,Buy,Hold,up,ADTN
+2021-05-18,Goldman Sachs,Neutral,Buy,down,ADTN
+2021-08-06,Cowen & Co.,Outperform,Market Perform,up,ADTN
+2021-08-06,Goldman Sachs,Neutral,,main,ADTN

@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-14,Credit Suisse,Neutral,,main,ACCD
+2020-08-14,SVB Leerink,Market Perform,,main,ACCD
+2020-09-22,DA Davidson,Buy,,init,ACCD
+2020-10-08,B of A Securities,Buy,,main,ACCD
+2020-10-15,SVB Leerink,Market Perform,,main,ACCD
+2020-10-15,B of A Securities,Buy,,main,ACCD
+2020-10-16,Morgan Stanley,Overweight,,main,ACCD
+2020-11-17,Stifel,Buy,,init,ACCD
+2020-12-08,Canaccord Genuity,Buy,,init,ACCD
+2021-01-07,BTIG,Buy,,init,ACCD
+2021-01-08,SVB Leerink,Market Perform,,main,ACCD
+2021-01-08,Credit Suisse,Neutral,,main,ACCD
+2021-01-15,SVB Leerink,Market Perform,,main,ACCD
+2021-01-15,Credit Suisse,Outperform,Neutral,up,ACCD
+2021-02-16,Piper Sandler,Overweight,,main,ACCD
+2021-04-06,Morgan Stanley,Overweight,,main,ACCD
+2021-04-15,Needham,Buy,,init,ACCD
+2021-05-06,SVB Leerink,Outperform,Market Perform,up,ACCD
+2021-05-28,Baird,Neutral,,init,ACCD
+2021-07-02,Morgan Stanley,Overweight,,main,ACCD
+2021-07-07,Credit Suisse,Outperform,,main,ACCD
+2021-07-09,Needham,Buy,,main,ACCD
+2021-09-17,Baird,Outperform,Neutral,up,ACCD
+2021-09-30,Berenberg,Buy,,init,ACCD
+2021-10-08,SVB Leerink,Outperform,,main,ACCD
+2021-10-08,Needham,Buy,,main,ACCD
+2021-10-08,Credit Suisse,Outperform,,main,ACCD
+2021-10-11,Morgan Stanley,Overweight,,main,ACCD
+2021-12-02,Jefferies,Buy,,init,ACCD
+2021-12-17,Morgan Stanley,Overweight,,main,ACCD

@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-01,Barclays,Equal-Weight,,init,ADNT
+2016-11-07,CLSA,Outperform,,init,ADNT
+2016-11-08,JP Morgan,Neutral,,init,ADNT
+2016-11-09,Bank of America,Underperform,Neutral,down,ADNT
+2016-11-28,Susquehanna,Neutral,,init,ADNT
+2017-02-21,Morgan Stanley,Overweight,,init,ADNT
+2017-06-21,Guggenheim,Neutral,,init,ADNT
+2017-10-19,UBS,Buy,,main,ADNT
+2017-10-20,Barclays,Equal-Weight,,main,ADNT
+2017-11-03,Baird,Outperform,,main,ADNT
+2017-11-03,UBS,Buy,,main,ADNT
+2018-01-05,Longbow Research,Neutral,,init,ADNT
+2018-01-17,Baird,Neutral,Outperform,down,ADNT
+2018-01-22,RBC Capital,Sector Perform,Outperform,down,ADNT
+2018-01-22,JP Morgan,Underweight,Neutral,down,ADNT
+2018-01-25,Wells Fargo,Outperform,,main,ADNT
+2018-01-25,UBS,Buy,Buy,main,ADNT
+2018-01-30,Baird,Neutral,Neutral,main,ADNT
+2018-01-30,Wells Fargo,Outperform,Outperform,main,ADNT
+2018-01-30,Barclays,Equal-Weight,Equal-Weight,main,ADNT
+2018-01-31,Buckingham,Neutral,,main,ADNT
+2018-02-01,Morgan Stanley,Overweight,Overweight,main,ADNT
+2018-03-22,Morgan Stanley,Overweight,Overweight,main,ADNT
+2018-05-09,Morgan Stanley,Equal-Weight,Overweight,down,ADNT
+2018-05-09,Longbow Research,Buy,Neutral,up,ADNT
+2018-06-12,Wells Fargo,Market Perform,Outperform,down,ADNT
+2018-07-27,Baird,Neutral,Underperform,up,ADNT
+2018-07-30,Barclays,Equal-Weight,Equal-Weight,main,ADNT
+2018-07-31,Morgan Stanley,Underweight,Equal-Weight,down,ADNT
+2018-09-13,Bank of America,Neutral,Underperform,up,ADNT
+2018-10-03,Buckingham,Neutral,Neutral,main,ADNT
+2018-11-12,Baird,Neutral,Neutral,main,ADNT
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,ADNT
+2018-12-11,KeyBanc,Underweight,,init,ADNT
+2018-12-14,Deutsche Bank,Hold,,init,ADNT
+2019-01-04,Baird,Underperform,Neutral,down,ADNT
+2019-01-23,RBC Capital,Underperform,Sector Perform,down,ADNT
+2019-02-13,Seaport Global,Neutral,,init,ADNT
+2019-03-18,KeyBanc,Sector Weight,Underweight,up,ADNT
+2019-04-01,Baird,Neutral,Underperform,up,ADNT
+2019-04-05,RBC Capital,Sector Perform,Underperform,up,ADNT
+2019-04-12,Bank of America,Buy,Neutral,up,ADNT
+2019-04-16,Barclays,Overweight,Equal-Weight,up,ADNT
+2019-04-22,Buckingham,Underperform,Neutral,down,ADNT
+2019-05-09,Longbow Research,Neutral,Buy,down,ADNT
+2019-06-27,Credit Suisse,Neutral,,init,ADNT
+2019-09-12,UBS,Neutral,Buy,down,ADNT
+2019-09-13,Bank of America,Neutral,Buy,down,ADNT
+2019-09-25,Morgan Stanley,Underweight,,main,ADNT
+2019-10-02,Barclays,Overweight,,main,ADNT
+2019-11-21,Morgan Stanley,Underweight,,main,ADNT
+2020-01-09,Benchmark,Hold,,init,ADNT
+2020-01-27,Credit Suisse,Outperform,Neutral,up,ADNT
+2020-01-31,Bank of America,Buy,Neutral,up,ADNT
+2020-02-03,Buckingham,Neutral,Underperform,up,ADNT
+2020-02-04,Deutsche Bank,Hold,,main,ADNT
+2020-02-12,Morgan Stanley,Equal-Weight,Underweight,up,ADNT
+2020-03-16,Morgan Stanley,Equal-Weight,,main,ADNT
+2020-04-21,Deutsche Bank,Buy,Hold,up,ADNT
+2020-05-05,CFRA,Hold,,main,ADNT
+2020-05-06,Credit Suisse,Outperform,,main,ADNT
+2020-05-06,RBC Capital,Outperform,Sector Perform,up,ADNT
+2020-05-07,Deutsche Bank,Buy,,main,ADNT
+2020-05-18,Morgan Stanley,Equal-Weight,,main,ADNT
+2020-07-24,Barclays,Overweight,,main,ADNT
+2020-08-07,Morgan Stanley,Equal-Weight,,main,ADNT
+2020-08-10,Benchmark,Buy,Hold,up,ADNT
+2020-10-06,KeyBanc,Overweight,,main,ADNT
+2020-11-09,Morgan Stanley,Equal-Weight,,main,ADNT
+2020-11-11,KeyBanc,Overweight,,main,ADNT
+2020-11-17,B of A Securities,Underperform,Buy,down,ADNT
+2020-12-01,Credit Suisse,Outperform,,main,ADNT
+2020-12-01,KeyBanc,Overweight,,main,ADNT
+2020-12-02,Morgan Stanley,Equal-Weight,,main,ADNT
+2020-12-16,KeyBanc,Overweight,,main,ADNT
+2021-01-22,JP Morgan,Neutral,Underweight,up,ADNT
+2021-01-25,KeyBanc,Overweight,,main,ADNT
+2021-02-08,Morgan Stanley,Equal-Weight,,main,ADNT
+2021-02-10,Credit Suisse,Outperform,,main,ADNT
+2021-03-15,Barclays,Overweight,,main,ADNT
+2021-03-15,KeyBanc,Overweight,,main,ADNT
+2021-03-15,RBC Capital,Outperform,,main,ADNT
+2021-03-18,Morgan Stanley,Underweight,Equal-Weight,down,ADNT
+2021-03-26,Wells Fargo,Overweight,,init,ADNT
+2021-05-13,Morgan Stanley,Underweight,,main,ADNT
+2021-08-06,RBC Capital,Outperform,,main,ADNT
+2021-08-09,Credit Suisse,Outperform,,main,ADNT
+2021-08-10,Morgan Stanley,Underweight,,main,ADNT
+2021-09-10,Wells Fargo,Overweight,,main,ADNT
+2021-10-11,Barclays,Overweight,,main,ADNT
+2021-11-11,Barclays,Overweight,,main,ADNT
+2021-12-16,Barclays,Equal-Weight,Overweight,down,ADNT

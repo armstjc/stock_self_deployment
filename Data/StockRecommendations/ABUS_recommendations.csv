@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-09-02,JMP Securities,Market Outperform,,init,ABUS
+2016-05-16,Chardan Capital,Sell,,init,ABUS
+2016-06-16,Chardan Capital,Neutral,Sell,up,ABUS
+2016-07-08,Chardan Capital,Sell,,down,ABUS
+2016-08-05,Leerink Swann,Market Perform,Outperform,down,ABUS
+2016-10-14,Chardan Capital,Neutral,Sell,up,ABUS
+2016-11-30,Chardan Capital,Buy,Neutral,up,ABUS
+2016-12-13,Chardan Capital,Neutral,Buy,down,ABUS
+2017-04-04,Chardan Capital,Buy,Neutral,up,ABUS
+2017-11-07,Leerink Swann,Market Perform,,main,ABUS
+2018-01-05,B. Riley FBR,Buy,,init,ABUS
+2018-03-19,Wedbush,Neutral,Outperform,down,ABUS
+2018-07-06,B. Riley FBR,Neutral,Buy,down,ABUS
+2018-08-13,B. Riley FBR,Neutral,Neutral,main,ABUS
+2018-08-13,Wedbush,Neutral,Neutral,main,ABUS
+2018-10-15,Wedbush,Neutral,Underperform,up,ABUS
+2018-10-16,B. Riley FBR,Buy,Neutral,up,ABUS
+2019-10-04,Chardan Capital,Neutral,Buy,down,ABUS
+2020-01-09,B. Riley FBR,Buy,,main,ABUS
+2020-02-05,JMP Securities,Market Outperform,Market Perform,up,ABUS
+2020-02-20,Baird,Outperform,,init,ABUS
+2020-03-06,Chardan Capital,Buy,Neutral,up,ABUS
+2020-03-27,Baird,Outperform,,main,ABUS
+2020-05-19,Wedbush,Outperform,Neutral,up,ABUS
+2020-07-24,Baird,Neutral,Outperform,down,ABUS
+2020-12-17,H.C. Wainwright,Buy,,init,ABUS
+2021-11-08,JMP Securities,Market Outperform,,main,ABUS

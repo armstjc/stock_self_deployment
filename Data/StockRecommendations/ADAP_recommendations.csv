@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-01,Leerink Swann,Outperform,,init,ADAP
+2015-06-01,Cowen & Co.,Outperform,,init,ADAP
+2015-12-22,SunTrust Robinson Humphrey,Buy,,init,ADAP
+2016-02-25,Citigroup,Buy,,init,ADAP
+2016-10-24,Bank of America,Underperform,Neutral,down,ADAP
+2017-03-17,Wells Fargo,Market Perform,,init,ADAP
+2018-10-22,Raymond James,Outperform,Outperform,main,ADAP
+2019-05-07,SVB Leerink,Market Perform,Outperform,down,ADAP
+2019-05-31,Roth Capital,Buy,,init,ADAP
+2019-08-02,Guggenheim,Neutral,Buy,down,ADAP
+2020-04-22,Mizuho,Neutral,,init,ADAP
+2020-04-27,Citigroup,Buy,,main,ADAP
+2020-06-01,Mizuho,Neutral,,main,ADAP
+2020-08-06,SVB Leerink,Market Perform,,main,ADAP
+2020-11-05,SVB Leerink,Market Perform,,main,ADAP
+2021-05-28,Barclays,Underweight,,init,ADAP
+2021-08-10,SVB Leerink,Market Perform,,main,ADAP
+2021-09-07,SVB Leerink,Market Perform,,main,ADAP
+2021-09-13,SVB Leerink,Market Perform,,main,ADAP
+2021-09-22,Wells Fargo,Equal-Weight,,main,ADAP

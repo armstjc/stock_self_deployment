@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-20,KeyBanc,Hold,Buy,down,AAT
+2013-11-18,McNicoll Lewis Vlak,Hold,,init,AAT
+2014-02-28,JMP Securities,Market Perform,Market Outperform,down,AAT
+2014-12-08,MLV & Co.,Buy,,main,AAT
+2016-04-13,Mizuho,Buy,,init,AAT
+2016-07-18,Mizuho,Neutral,Buy,down,AAT
+2016-11-07,Mizuho,Buy,Neutral,up,AAT
+2017-02-22,Mizuho,Neutral,Buy,down,AAT
+2017-04-12,Canaccord Genuity,Buy,,reit,AAT
+2017-11-02,Bank of America,Neutral,Buy,down,AAT
+2018-02-22,Mizuho,Buy,Neutral,up,AAT
+2018-03-01,Bank of America,Underperform,Neutral,down,AAT
+2018-03-27,Morgan Stanley,Overweight,Equal-Weight,up,AAT
+2018-06-14,Morgan Stanley,Overweight,Overweight,main,AAT
+2018-12-17,Morgan Stanley,Overweight,Overweight,main,AAT
+2018-12-20,KeyBanc,Overweight,Sector Weight,up,AAT
+2019-04-09,KeyBanc,Sector Weight,Overweight,down,AAT
+2019-05-30,JMP Securities,Market Outperform,Market Perform,up,AAT
+2020-05-18,Morgan Stanley,Equal-Weight,Overweight,down,AAT
+2020-05-21,Wells Fargo,Overweight,,main,AAT
+2020-06-04,Wells Fargo,Overweight,,main,AAT
+2021-02-23,Morgan Stanley,Equal-Weight,,main,AAT
+2021-05-17,Keybanc,Overweight,Sector Weight,up,AAT
+2021-05-24,Morgan Stanley,Equal-Weight,,main,AAT
+2021-06-11,Morgan Stanley,Equal-Weight,,main,AAT
+2021-06-21,Keybanc,Overweight,,main,AAT
+2021-08-27,Morgan Stanley,Equal-Weight,,main,AAT

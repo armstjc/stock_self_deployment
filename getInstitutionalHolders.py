@@ -22,12 +22,6 @@ def getInstitutionalHolders():
     arr_len = len(arr)
     arr_count = 0
     for i in arr.T:
-        now = datetime.now()
-        durration = now - start
-        p_d = str(durration)     
-        #print(p_d)   
-        arr_count = arr_count +1
-        print(f'{p_d} getInstitutionalHolders {arr_count}/{arr_len}: {i}')
         stock = yf.Ticker(i)
         stockMajorHolders = stock.institutional_holders
 
@@ -36,6 +30,12 @@ def getInstitutionalHolders():
             stockMajorHolders.to_csv('Data/StockHolders/InstitutionalHolders/'+ i + '_institutional_holders.csv',index=False)
         except:
             pass
+        now = datetime.now()
+        durration = now - start
+        p_d = str(durration)     
+        #print(p_d)   
+        arr_count = arr_count +1
+        print(f'{p_d} getInstitutionalHolders {arr_count}/{arr_len}: {i}')
 
 def main():
     print('starting up')

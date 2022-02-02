@@ -1,0 +1,239 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-09,UBS,Neutral,,down,ADI
+2012-05-09,UBS,Neutral,,down,ADI
+2012-05-23,Canaccord Genuity,Buy,,main,ADI
+2012-05-23,UBS,Neutral,,main,ADI
+2012-05-23,Jefferies,Hold,,main,ADI
+2012-05-31,Citigroup,Buy,,main,ADI
+2012-07-02,Sterne Agee,Neutral,Buy,down,ADI
+2012-08-22,Canaccord Genuity,Buy,,main,ADI
+2012-08-22,Goldman Sachs,Neutral,,main,ADI
+2012-08-22,Citigroup,Buy,,main,ADI
+2012-08-22,Jefferies,Hold,,main,ADI
+2012-09-27,Bank of America,Buy,,main,ADI
+2012-10-08,ISI Group,Hold,Buy,down,ADI
+2012-10-11,Morgan Stanley,Equal-Weight,Overweight,down,ADI
+2012-11-28,Sterne Agee,Neutral,,main,ADI
+2012-11-28,Nomura,Neutral,,main,ADI
+2012-12-13,Citigroup,Neutral,Buy,down,ADI
+2013-01-03,Barclays,Equal-Weight,,main,ADI
+2013-01-14,Credit Suisse,Outperform,Neutral,up,ADI
+2013-02-20,ISI Group,Buy,,main,ADI
+2013-02-20,Nomura,Neutral,,main,ADI
+2013-02-20,Jefferies,Hold,,main,ADI
+2013-02-20,Deutsche Bank,Hold,,main,ADI
+2013-02-20,Credit Suisse,Outperform,,main,ADI
+2013-02-20,BMO Capital,Market Perform,,main,ADI
+2013-02-20,UBS,Neutral,,main,ADI
+2013-03-04,ISI Group,Strong Buy,Buy,up,ADI
+2013-05-22,Jefferies,Hold,,main,ADI
+2013-05-22,Deutsche Bank,Hold,,main,ADI
+2013-05-29,Citigroup,Buy,Neutral,up,ADI
+2013-07-11,Jefferies,Buy,Hold,up,ADI
+2013-08-21,Jefferies,Buy,,main,ADI
+2013-08-21,BMO Capital,Market Perform,,main,ADI
+2013-10-22,Drexel Hamilton,Buy,,init,ADI
+2013-11-25,Citigroup,Buy,,main,ADI
+2013-11-27,Nomura,Neutral,,main,ADI
+2013-12-04,Oppenheimer,Outperform,,init,ADI
+2014-01-02,Goldman Sachs,Sell,Neutral,down,ADI
+2014-01-02,Wells Fargo,Market Perform,Outperform,down,ADI
+2014-01-16,Drexel Hamilton,Buy,Hold,up,ADI
+2014-04-07,Goldman Sachs,Neutral,Sell,up,ADI
+2014-04-10,ISI Group,Buy,,init,ADI
+2014-04-22,Citigroup,Buy,,main,ADI
+2014-04-25,Citigroup,Neutral,Buy,down,ADI
+2014-05-13,Raymond James,Strong Buy,,main,ADI
+2014-05-21,Citigroup,Hold,,main,ADI
+2014-05-21,Deutsche Bank,Hold,,main,ADI
+2014-05-21,Jefferies,Buy,,main,ADI
+2014-05-21,SunTrust Robinson Humphrey,Neutral,,main,ADI
+2014-05-21,Nomura,Neutral,,main,ADI
+2014-06-10,Macquarie,Outperform,,main,ADI
+2014-06-10,Jefferies,Buy,,main,ADI
+2014-06-27,Stifel Nicolaus,Buy,,init,ADI
+2014-07-30,B. Riley FBR,Buy,,main,ADI
+2014-08-27,Macquarie,Outperform,,main,ADI
+2014-08-27,Jefferies,Buy,,main,ADI
+2014-08-27,Barclays,Equal-Weight,,main,ADI
+2014-09-23,JP Morgan,Neutral,Overweight,down,ADI
+2014-10-03,ISI Group,Neutral,Buy,down,ADI
+2014-10-14,Oppenheimer,Outperform,,main,ADI
+2014-11-26,Jefferies,Buy,,main,ADI
+2014-12-19,Citigroup,Neutral,,main,ADI
+2015-02-18,Barclays,Equal-Weight,,main,ADI
+2015-02-18,Deutsche Bank,Buy,,main,ADI
+2015-02-18,Stifel Nicolaus,Buy,,main,ADI
+2015-02-18,JP Morgan,Neutral,,main,ADI
+2015-02-18,Jefferies,Buy,,main,ADI
+2015-03-30,Barclays,Overweight,Equal-Weight,up,ADI
+2015-05-20,UBS,Neutral,,main,ADI
+2015-05-20,Stifel Nicolaus,Buy,,main,ADI
+2015-05-20,Oppenheimer,Outperform,,main,ADI
+2015-05-20,JP Morgan,Neutral,,main,ADI
+2015-06-15,Credit Suisse,Outperform,,main,ADI
+2015-06-18,Citigroup,Neutral,,main,ADI
+2015-07-22,Drexel Hamilton,Hold,Buy,down,ADI
+2015-08-06,Susquehanna,Neutral,,init,ADI
+2015-08-19,Pacific Crest,Overweight,,main,ADI
+2015-08-19,Stifel Nicolaus,Buy,,main,ADI
+2015-08-19,Maxim Group,Neutral,,main,ADI
+2015-08-19,BMO Capital,Market Perform,,main,ADI
+2015-08-19,B. Riley FBR,Buy,,main,ADI
+2015-08-20,Nomura,Reduce,Neutral,down,ADI
+2015-09-14,Evercore ISI Group,Buy,Hold,up,ADI
+2015-09-30,Citigroup,Buy,Neutral,up,ADI
+2015-10-14,BMO Capital,Outperform,Market Perform,up,ADI
+2015-11-20,Deutsche Bank,Hold,,main,ADI
+2015-11-23,Credit Suisse,Outperform,,main,ADI
+2015-11-25,Credit Suisse,Outperform,,main,ADI
+2015-12-04,Barclays,Equal-Weight,Overweight,down,ADI
+2015-12-15,Oppenheimer,Perform,Outperform,down,ADI
+2015-12-17,Evercore ISI Group,Hold,Buy,down,ADI
+2016-01-11,Wells Fargo,Outperform,Market Perform,up,ADI
+2016-01-15,SunTrust Robinson Humphrey,Buy,,main,ADI
+2016-01-15,Stifel Nicolaus,Buy,,main,ADI
+2016-01-15,Barclays,Equal-Weight,,main,ADI
+2016-01-15,Pacific Crest,Overweight,,main,ADI
+2016-01-15,B. Riley FBR,Buy,,main,ADI
+2016-01-15,Nomura,Neutral,Reduce,up,ADI
+2016-03-01,Drexel Hamilton,Buy,,init,ADI
+2016-04-19,Raymond James,Outperform,Strong Buy,down,ADI
+2016-05-19,Jefferies,Buy,,main,ADI
+2016-06-02,Goldman Sachs,Sell,,init,ADI
+2016-06-27,Bank of America,Neutral,Buy,down,ADI
+2016-07-27,Morgan Stanley,Overweight,Equal-Weight,up,ADI
+2016-07-27,Citigroup,Neutral,Buy,down,ADI
+2016-07-27,Oppenheimer,Outperform,Market Perform,up,ADI
+2016-07-27,Barclays,Equal-Weight,,main,ADI
+2016-07-27,Goldman Sachs,Neutral,Sell,up,ADI
+2016-07-27,JP Morgan,Neutral,,main,ADI
+2016-07-27,Pacific Crest,Overweight,,main,ADI
+2016-07-27,Evercore ISI Group,Buy,Hold,up,ADI
+2016-08-01,BMO Capital,Outperform,,main,ADI
+2016-08-18,Citigroup,Neutral,,main,ADI
+2016-10-20,CLSA,Outperform,,init,ADI
+2016-11-23,MKM Partners,Neutral,,main,ADI
+2016-11-23,KeyBanc,Overweight,,main,ADI
+2016-11-23,Deutsche Bank,Hold,,main,ADI
+2016-11-23,Bank of America,Buy,Neutral,up,ADI
+2017-02-16,Wells Fargo,Market Perform,Outperform,down,ADI
+2017-04-24,Stephens & Co.,Overweight,Equal-Weight,up,ADI
+2017-06-02,Nomura,Reduce,Neutral,down,ADI
+2017-11-16,Stifel Nicolaus,Buy,,main,ADI
+2017-12-13,Morgan Stanley,Overweight,,main,ADI
+2017-12-19,PiperJaffray,Neutral,,init,ADI
+2018-02-13,PiperJaffray,Overweight,Neutral,up,ADI
+2018-02-20,Bernstein,Outperform,Market Perform,up,ADI
+2018-03-01,B. Riley FBR,Buy,Buy,main,ADI
+2018-03-01,Deutsche Bank,Hold,Hold,main,ADI
+2018-03-01,BMO Capital,Outperform,Outperform,main,ADI
+2018-03-01,Nomura,Neutral,Neutral,main,ADI
+2018-03-01,Stifel Nicolaus,Buy,Buy,main,ADI
+2018-03-01,Argus,Buy,,main,ADI
+2018-03-01,KeyBanc,Overweight,Overweight,main,ADI
+2018-03-26,Raymond James,Outperform,Market Perform,up,ADI
+2018-05-31,Stifel Nicolaus,Buy,Buy,main,ADI
+2018-05-31,JP Morgan,Neutral,Neutral,main,ADI
+2018-05-31,Deutsche Bank,Hold,Hold,main,ADI
+2018-05-31,B. Riley FBR,Buy,Buy,main,ADI
+2018-05-31,Credit Suisse,Outperform,Outperform,main,ADI
+2018-05-31,Morgan Stanley,Overweight,Overweight,main,ADI
+2018-05-31,PiperJaffray,Overweight,Overweight,main,ADI
+2018-06-22,Loop Capital,Buy,,init,ADI
+2018-08-23,B. Riley FBR,Buy,Buy,main,ADI
+2018-08-23,Raymond James,Outperform,Outperform,main,ADI
+2018-08-23,Stifel Nicolaus,Buy,Buy,main,ADI
+2018-09-04,Evercore ISI Group,In-Line,Outperform,down,ADI
+2018-09-25,Raymond James,Market Perform,Outperform,down,ADI
+2018-09-25,KeyBanc,Sector Weight,,init,ADI
+2018-09-27,Stifel Nicolaus,Buy,Buy,main,ADI
+2018-10-03,Morgan Stanley,Overweight,Overweight,main,ADI
+2018-10-18,Goldman Sachs,Sell,Neutral,down,ADI
+2018-10-23,Barclays,Equal-Weight,Equal-Weight,main,ADI
+2018-11-21,PiperJaffray,Overweight,Overweight,main,ADI
+2018-11-21,Morgan Stanley,Overweight,Overweight,main,ADI
+2018-11-21,Nomura,Neutral,Neutral,main,ADI
+2018-12-19,Morgan Stanley,Equal-Weight,Overweight,down,ADI
+2019-01-04,RBC Capital,Sector Perform,Outperform,down,ADI
+2019-02-11,Bank of America,Buy,Neutral,up,ADI
+2019-03-25,Bernstein,Market Perform,Outperform,down,ADI
+2019-05-23,Morgan Stanley,Equal-Weight,,main,ADI
+2019-06-03,Nomura,Neutral,,init,ADI
+2019-06-10,Goldman Sachs,Buy,Sell,up,ADI
+2019-08-22,Morgan Stanley,Equal-Weight,,main,ADI
+2019-09-12,Barclays,Overweight,Equal-Weight,up,ADI
+2019-10-01,KeyBanc,Overweight,Sector Weight,up,ADI
+2019-10-22,Daiwa Capital,Outperform,,init,ADI
+2019-10-30,Raymond James,Outperform,Market Perform,up,ADI
+2019-11-27,Raymond James,Outperform,,main,ADI
+2019-11-27,BMO Capital,Outperform,,main,ADI
+2019-11-27,Credit Suisse,Outperform,,main,ADI
+2019-11-27,Deutsche Bank,Hold,,main,ADI
+2019-11-27,Morgan Stanley,Equal-Weight,,main,ADI
+2019-11-27,Nomura,Neutral,,main,ADI
+2019-12-18,Morgan Stanley,Equal-Weight,,main,ADI
+2019-12-19,Bank of America,Buy,,main,ADI
+2020-02-20,Morgan Stanley,Equal-Weight,,main,ADI
+2020-02-20,KeyBanc,Overweight,,main,ADI
+2020-02-20,Citigroup,Buy,Neutral,up,ADI
+2020-02-20,Raymond James,Outperform,,main,ADI
+2020-02-20,SunTrust Robinson Humphrey,Buy,,main,ADI
+2020-02-20,Baird,Outperform,,main,ADI
+2020-02-20,CFRA,Hold,Buy,down,ADI
+2020-02-20,Deutsche Bank,Hold,,main,ADI
+2020-02-20,JP Morgan,Neutral,,main,ADI
+2020-03-10,Morgan Stanley,Equal-Weight,,main,ADI
+2020-03-18,Morgan Stanley,Equal-Weight,,main,ADI
+2020-03-30,Citigroup,Buy,,main,ADI
+2020-03-31,KeyBanc,Overweight,,main,ADI
+2020-04-17,Barclays,Overweight,,main,ADI
+2020-05-18,Morgan Stanley,Equal-Weight,,main,ADI
+2020-05-21,KeyBanc,Overweight,,main,ADI
+2020-05-21,Raymond James,Outperform,,main,ADI
+2020-05-21,Morgan Stanley,Equal-Weight,,main,ADI
+2020-05-21,Deutsche Bank,Hold,,main,ADI
+2020-05-21,JP Morgan,Neutral,,main,ADI
+2020-05-21,Baird,Outperform,,reit,ADI
+2020-05-21,B of A Securities,Buy,,main,ADI
+2020-05-21,Stifel,Buy,,main,ADI
+2020-05-21,SunTrust Robinson Humphrey,Buy,,main,ADI
+2020-06-16,Morgan Stanley,Equal-Weight,,main,ADI
+2020-07-07,KeyBanc,Overweight,,main,ADI
+2020-07-13,Raymond James,Outperform,,main,ADI
+2020-07-14,Credit Suisse,Outperform,,main,ADI
+2020-07-14,KeyBanc,Overweight,,main,ADI
+2020-08-20,RBC Capital,Outperform,,main,ADI
+2020-08-24,Citigroup,Buy,,main,ADI
+2020-09-29,KeyBanc,Overweight,,main,ADI
+2020-11-09,Evercore ISI Group,Outperform,In-Line,up,ADI
+2020-11-25,KeyBanc,Overweight,,main,ADI
+2020-11-25,Raymond James,Outperform,,main,ADI
+2021-01-06,KeyBanc,Overweight,,main,ADI
+2021-01-26,Barclays,Overweight,,main,ADI
+2021-02-16,BMO Capital,Outperform,,main,ADI
+2021-02-16,RBC Capital,Outperform,,main,ADI
+2021-02-18,Piper Sandler,Overweight,,main,ADI
+2021-02-18,Raymond James,Outperform,,main,ADI
+2021-05-20,Deutsche Bank,Hold,,main,ADI
+2021-05-20,Truist Securities,Buy,,main,ADI
+2021-05-20,Bernstein,Outperform,Market Perform,up,ADI
+2021-06-24,Needham,Buy,,init,ADI
+2021-07-06,Keybanc,Overweight,,main,ADI
+2021-07-15,Stifel,Buy,,main,ADI
+2021-07-26,Wells Fargo,Equal-Weight,,init,ADI
+2021-08-13,Oppenheimer,Outperform,,main,ADI
+2021-08-19,Needham,Buy,,main,ADI
+2021-08-19,Truist Securities,Buy,,main,ADI
+2021-08-19,Deutsche Bank,Hold,,main,ADI
+2021-09-09,Deutsche Bank,Hold,,main,ADI
+2021-10-13,UBS,Buy,,init,ADI
+2021-11-19,Oppenheimer,Outperform,,main,ADI
+2021-11-23,Wells Fargo,Equal-Weight,,main,ADI
+2021-11-24,Morgan Stanley,Equal-Weight,,main,ADI
+2021-11-24,B of A Securities,Buy,,main,ADI
+2021-11-24,Raymond James,Outperform,,main,ADI
+2021-11-24,Deutsche Bank,Hold,,main,ADI
+2021-11-24,Needham,Buy,,main,ADI
+2021-12-15,Deutsche Bank,Hold,,main,ADI
+2022-01-12,Barclays,Overweight,,main,ADI

@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-09,Credit Suisse,Neutral,,up,ACH
+2016-03-24,Goldman Sachs,Neutral,Sell,up,ACH
+2018-04-10,Credit Suisse,Outperform,Underperform,up,ACH
+2019-04-01,JP Morgan,Overweight,Neutral,up,ACH
+2019-04-30,Credit Suisse,Underperform,Neutral,down,ACH
+2019-11-15,CLSA,Outperform,Underperform,up,ACH
+2020-01-03,Macquarie,Outperform,,init,ACH
+2020-01-07,Goldman Sachs,Sell,Neutral,down,ACH

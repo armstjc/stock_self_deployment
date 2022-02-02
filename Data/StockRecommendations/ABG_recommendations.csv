@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-25,Deutsche Bank,Hold,,main,ABG
+2012-09-12,Morgan Stanley,Underweight,,init,ABG
+2012-10-24,Deutsche Bank,Hold,,main,ABG
+2013-01-10,Buckingham Research,Neutral,Buy,down,ABG
+2013-02-20,Deutsche Bank,Hold,,main,ABG
+2013-04-25,Craig-Hallum,Buy,Hold,up,ABG
+2013-09-04,KeyBanc,Buy,Hold,up,ABG
+2013-10-23,Buckingham Research,Underperform,,down,ABG
+2014-02-05,Morgan Stanley,Underweight,,main,ABG
+2014-04-24,KeyBanc,Buy,,main,ABG
+2014-04-24,Deutsche Bank,Hold,,main,ABG
+2014-04-24,BB&T Capital,Buy,Hold,up,ABG
+2014-05-22,KeyBanc,Buy,,main,ABG
+2014-07-16,KeyBanc,Buy,,main,ABG
+2015-01-06,Bank of America,Neutral,Buy,down,ABG
+2015-04-15,KeyBanc,Overweight,,main,ABG
+2015-04-16,Deutsche Bank,Hold,,main,ABG
+2015-04-22,Stephens & Co.,Overweight,,main,ABG
+2015-04-22,Deutsche Bank,Hold,,main,ABG
+2015-06-23,KeyBanc,Overweight,,main,ABG
+2015-07-16,KeyBanc,Overweight,,main,ABG
+2015-07-22,Bank of America,Underperform,Neutral,down,ABG
+2015-09-08,Craig-Hallum,Buy,Hold,up,ABG
+2015-10-22,Bank of America,Buy,Neutral,up,ABG
+2016-01-12,Craig-Hallum,Hold,,down,ABG
+2016-01-25,Deutsche Bank,Hold,,main,ABG
+2016-04-11,Jefferies,Hold,,init,ABG
+2016-11-16,KeyBanc,Sector Weight,Overweight,down,ABG
+2018-03-14,Morgan Stanley,Underweight,Underweight,main,ABG
+2018-04-25,Buckingham,Buy,Buy,main,ABG
+2018-08-24,SunTrust Robinson Humphrey,Hold,,init,ABG
+2018-10-24,Buckingham,Neutral,Neutral,main,ABG
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,ABG
+2019-02-19,JP Morgan,Neutral,,init,ABG
+2019-04-24,Craig-Hallum,Buy,Hold,up,ABG
+2019-05-06,Morgan Stanley,Equal-Weight,,main,ABG
+2019-07-09,JP Morgan,Neutral,,main,ABG
+2019-08-02,Morgan Stanley,Equal-Weight,,main,ABG
+2019-09-13,Bank of America,Neutral,Buy,down,ABG
+2019-10-23,JP Morgan,Neutral,,main,ABG
+2019-11-14,Morgan Stanley,Equal-Weight,,main,ABG
+2019-12-17,Morgan Stanley,Equal-Weight,,main,ABG
+2020-01-22,Morgan Stanley,Equal-Weight,,main,ABG
+2020-02-04,Craig-Hallum,Hold,Buy,down,ABG
+2020-02-11,Bank of America,Buy,Neutral,up,ABG
+2020-03-11,JP Morgan,Underweight,,main,ABG
+2020-03-26,Craig-Hallum,Buy,Hold,up,ABG
+2020-03-30,Morgan Stanley,Equal-Weight,,main,ABG
+2020-04-07,SunTrust Robinson Humphrey,Hold,,main,ABG
+2020-04-13,Morgan Stanley,Equal-Weight,,main,ABG
+2020-05-06,JP Morgan,Neutral,,main,ABG
+2020-05-06,SunTrust Robinson Humphrey,Hold,,main,ABG
+2020-05-18,Morgan Stanley,Equal-Weight,,main,ABG
+2020-07-09,SunTrust Robinson Humphrey,Hold,,main,ABG
+2020-07-10,Morgan Stanley,Equal-Weight,,main,ABG
+2020-07-29,Morgan Stanley,Equal-Weight,,main,ABG
+2020-10-15,B of A Securities,Buy,,main,ABG
+2020-10-19,Seaport Global,Buy,,init,ABG
+2020-11-17,B of A Securities,Buy,,main,ABG
+2020-12-07,Morgan Stanley,Overweight,Equal-Weight,up,ABG
+2021-01-15,Truist Securities,Hold,,main,ABG
+2021-01-15,JP Morgan,Neutral,,main,ABG
+2021-02-03,Craig-Hallum,Buy,,main,ABG
+2021-02-18,Morgan Stanley,Overweight,,main,ABG
+2021-04-29,Morgan Stanley,Overweight,,main,ABG
+2021-07-26,Morgan Stanley,Equal-Weight,Overweight,down,ABG
+2021-08-05,Morgan Stanley,Equal-Weight,,main,ABG
+2021-09-30,Truist Securities,Buy,Hold,up,ABG
+2021-09-30,Craig-Hallum,Buy,,main,ABG
+2021-11-17,Morgan Stanley,Equal-Weight,,main,ABG

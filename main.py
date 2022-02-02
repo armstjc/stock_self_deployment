@@ -4,7 +4,7 @@ import schedule
 from datetime import date
 from git import Repo
 #import queue
-
+from congress import congress
 from getInstitutionalHolders import getInstitutionalHolders
 from getMajorHolders import getMajorHolders
 from getStockFinancials import getStockFinancials
@@ -20,6 +20,7 @@ def run_threaded(job_func):
 
 def job1():
     print("Starting job 1")
+    congress()
     getInstitutionalHolders()
 
 

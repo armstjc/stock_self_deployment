@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AGM220819C00125000,2022-01-24 15:23:40+00:00,125.0,10.1,8.8,9.6,0.0,0.0,1.0,2,0.2966378930664062,False,REGULAR,USD,AGM
+AGM220819C00135000,2022-01-10 14:30:15+00:00,135.0,9.6,5.1,5.8,0.0,0.0,,1,0.28876443664550777,False,REGULAR,USD,AGM

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ACRE220819P00012500,2022-02-01 16:02:43+00:00,12.5,0.58,0.5,1.0,0.0,0.0,1,134,0.47363807617187503,False,REGULAR,USD,ACRE
+ACRE220819P00015000,2022-02-01 15:00:25+00:00,15.0,1.75,1.5,2.15,0.0,0.0,2,27,0.45215391601562505,True,REGULAR,USD,ACRE

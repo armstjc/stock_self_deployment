@@ -4,6 +4,7 @@ from tqdm import tqdm
 from zipfile import ZipFile
 from RefreshStockAbv import getStockList
 import os
+from datetime import datetime
 #getStockList(3)
 
 stockList = pd.read_csv('Stock_List.csv')
@@ -39,9 +40,16 @@ def getStockFinancials():
     unless you have it formatted this way.
 
     '''
+    
+    start = datetime.now()
+    arr = stockList['Symbol'].to_numpy()
+    arr_len = len(arr)
+    arr_count = 0
     workDir = 'Data/StockFinancials/'
     arr = stockList['Symbol'].to_numpy()
-    for i in tqdm(arr.T, ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
+    for i in arr.T:
+        
+
         try:
             stock = yf.Ticker(i)
             hist = stock.financials
@@ -50,7 +58,12 @@ def getStockFinancials():
             df_transposed.to_csv(workDir+i+'.csv')
         except:
             pass
-
+        now = datetime.now()
+        durration = now - start
+        p_d = str(durration)     
+        #print(p_d)   
+        arr_count = arr_count +1
+        print(f'{p_d} getStockFinancials {arr_count}/{arr_len}: {i}')
     #allDir = get_all_file_paths(workDir)
     #with ZipFile('Data_Final/StockHistory.zip','w') as zip:
     #    # writing each file one by one

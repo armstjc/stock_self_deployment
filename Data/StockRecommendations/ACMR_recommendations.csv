@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-29 19:58:08,Roth Capital,Buy,,init,ACMR
+2017-12-01 14:29:49,Craig-Hallum,Buy,,init,ACMR
+2017-12-13 13:44:42,Benchmark,Buy,,init,ACMR
+2019-08-19 12:47:34,Needham,Buy,,init,ACMR
+2019-08-22 10:31:07,Stifel,Buy,,init,ACMR
+2019-11-08 12:46:09,Benchmark,Buy,,reit,ACMR
+2019-12-17 12:15:29,Benchmark,Buy,,main,ACMR
+2020-01-14 13:22:48,Benchmark,Buy,,main,ACMR
+2020-01-14 13:56:15,Stifel Nicolaus,Buy,,main,ACMR
+2020-01-21 15:57:05,Needham,Buy,,main,ACMR
+2020-01-22 11:19:38,Morgan Stanley,Overweight,,init,ACMR
+2020-03-17 14:03:27,Stifel,Buy,,main,ACMR
+2020-05-08 11:57:28,Benchmark,Buy,,main,ACMR
+2020-06-22 10:44:32,Stifel,Hold,Buy,down,ACMR
+2020-07-07 12:17:51,Benchmark,Hold,Buy,down,ACMR
+2020-08-07 11:02:19,Needham,Buy,,main,ACMR
+2020-08-10 14:39:08,Stifel,Hold,,main,ACMR
+2020-09-08 11:24:28,Needham,Hold,Buy,down,ACMR
+2020-09-11 11:55:25,Stifel,Buy,Hold,up,ACMR
+2021-11-08 11:50:15,Benchmark,Buy,Hold,up,ACMR
+2021-12-17 11:20:06,Needham,Buy,Hold,up,ACMR
+2022-01-05 14:31:13,Benchmark,Buy,,main,ACMR
+2022-01-06 11:18:16,Needham,Buy,,main,ACMR

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AERI220819P00010000,2021-12-28 15:25:26+00:00,10.0,3.7,3.7,5.5,0.0,0.0,,0,1.2294960400390624,True,REGULAR,USD,AERI
+AERI220819P00015000,2021-12-28 15:36:51+00:00,15.0,7.7,7.9,8.5,0.0,0.0,,1,0.8554701953125,True,REGULAR,USD,AERI
