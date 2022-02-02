@@ -66,13 +66,13 @@ def git_push():
 #         jobqueue.task_done()
 
 
-schedule.every().day.at("19:01").do(run_threaded, job1)
-schedule.every().day.at("19:02").do(run_threaded, job2)
-schedule.every().day.at("19:03").do(run_threaded, job3)
-schedule.every().day.at("19:04").do(run_threaded, job4)
-schedule.every().day.at("19:05").do(run_threaded, job5)
-schedule.every().day.at("19:06").do(run_threaded, job6)
-schedule.every().day.at("14:23").do(run_threaded, git_push)
+schedule.every().day.at("19:00").do(run_threaded, job1)
+schedule.every().day.at("19:01").do(run_threaded, job2)
+schedule.every().day.at("19:02").do(run_threaded, job3)
+schedule.every().day.at("19:03").do(run_threaded, job4)
+schedule.every().day.at("19:04").do(run_threaded, job5)
+schedule.every().day.at("19:05").do(run_threaded, job6)
+#schedule.every().day.at("14:23").do(run_threaded, git_push)
 
 while 1:
     schedule.run_pending()

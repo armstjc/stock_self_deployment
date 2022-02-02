@@ -2,7 +2,7 @@ import pandas as pd
 import yfinance as yf
 from tqdm import tqdm
 from RefreshStockAbv import getStockList
-
+from datetime import datetime
 stockList = pd.read_csv('Stock_List.csv')
 stockListLen = len(stockList)
 
@@ -16,10 +16,18 @@ stockListLen = len(stockList)
 ##    #print(stockMajorHolders)
 
 def getInstitutionalHolders():
+    start = datetime.now()
     print('')
     arr = stockList['Symbol'].to_numpy()
-    for i in tqdm(arr.T, ascii=True, bar_format='{l_bar}{bar:30}{r_bar}{bar:-30b}'):
-        
+    arr_len = len(arr)
+    arr_count = 0
+    for i in arr.T:
+        now = datetime.now()
+        durration = now - start
+        p_d = str(durration)     
+        #print(p_d)   
+        arr_count = arr_count +1
+        print(f'{p_d} getInstitutionalHolders {arr_count}/{arr_len}: {i}')
         stock = yf.Ticker(i)
         stockMajorHolders = stock.institutional_holders
 
