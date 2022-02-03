@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-22,BTIG Research,Buy,,init,HRB
+2012-11-27,Compass Point,Buy,,main,HRB
+2012-12-19,Compass Point,Neutral,Buy,down,HRB
+2013-01-14,Morgan Stanley,Underweight,Equal-weight,down,HRB
+2013-02-15,Oppenheimer,Outperform,,main,HRB
+2013-03-07,Millman Research,Buy,,main,HRB
+2013-03-08,Morgan Stanley,Equal-Weight,Underweight,up,HRB
+2013-03-11,BTIG Research,Buy,,main,HRB
+2013-03-11,Morgan Stanley,Equal-weight,Underweight,up,HRB
+2013-04-09,Wedbush,Outperform,,init,HRB
+2013-04-09,Wedbush,Outperform,,init,HRB
+2013-04-26,Compass Point,Neutral,,main,HRB
+2013-07-22,BTIG Research,Neutral,Buy,down,HRB
+2013-10-01,Morgan Stanley,Overweight,Equal-Weight,up,HRB
+2013-10-14,Barrington Research,Outperform,Market Perform,up,HRB
+2014-01-09,BTIG Research,Buy,Neutral,up,HRB
+2014-02-19,Credit Suisse,Outperform,,init,HRB
+2014-04-15,Morgan Stanley,Overweight,,main,HRB
+2014-08-11,Credit Suisse,Outperform,,main,HRB
+2014-11-13,Northcoast Research,Neutral,Buy,down,HRB
+2014-12-02,Wedbush,Outperform,,main,HRB
+2014-12-10,Credit Suisse,Outperform,,main,HRB
+2015-02-12,BMO Capital,Outperform,,init,HRB
+2015-05-22,PiperJaffray,Overweight,,init,HRB
+2015-06-10,Credit Suisse,Neutral,Outperform,down,HRB
+2015-09-02,Wedbush,Outperform,,main,HRB
+2015-09-14,BTIG Research,Neutral,Buy,down,HRB
+2016-03-04,Credit Suisse,Neutral,,main,HRB
+2016-03-04,Wedbush,Neutral,Outperform,down,HRB
+2016-03-04,BMO Capital,Market Perform,Outperform,down,HRB
+2016-03-22,Sterne Agee CRT,Neutral,,init,HRB
+2016-04-26,Credit Suisse,Neutral,,main,HRB
+2016-04-27,Oppenheimer,Perform,Outperform,down,HRB
+2016-05-03,Sterne Agee CRT,Neutral,,init,HRB
+2016-08-25,Macquarie,Outperform,,init,HRB
+2016-08-31,BMO Capital,Market Perform,,main,HRB
+2016-11-16,Morgan Stanley,Equal-Weight,Overweight,down,HRB
+2016-11-28,BTIG Research,Sell,Neutral,down,HRB
+2017-08-30,Credit Suisse,Neutral,,main,HRB
+2018-03-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,HRB
+2018-03-27,Goldman Sachs,Neutral,,init,HRB
+2018-04-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,HRB
+2018-06-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,HRB
+2018-06-13,BMO Capital,Market Perform,Market Perform,main,HRB
+2018-08-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,HRB
+2018-12-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,HRB
+2019-01-31,Goldman Sachs,Sell,Neutral,down,HRB
+2019-07-09,Northcoast Research,Neutral,Buy,down,HRB
+2019-08-29,Morgan Stanley,Equal-Weight,,main,HRB
+2019-11-22,Jefferies,Hold,,init,HRB
+2019-12-06,Morgan Stanley,Equal-Weight,,main,HRB
+2020-03-06,BTIG Research,Sell,,main,HRB
+2020-03-06,Morgan Stanley,Equal-Weight,,main,HRB
+2020-03-31,Barrington Research,Outperform,,main,HRB
+2020-04-07,Morgan Stanley,Equal-Weight,,main,HRB
+2020-06-17,Morgan Stanley,Equal-Weight,,main,HRB
+2020-08-03,Morgan Stanley,Equal-Weight,,main,HRB
+2021-02-25,Morgan Stanley,Equal-Weight,,main,HRB
+2021-03-10,Morgan Stanley,Equal-Weight,,main,HRB
+2021-05-25,Morgan Stanley,Equal-Weight,,main,HRB
+2021-08-25,Goldman Sachs,Sell,,main,HRB
+2021-08-26,BMO Capital,Market Perform,,main,HRB

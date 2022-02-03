@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-10,Bank of America,Buy,,init,EFC
+2012-10-18,Stifel Nicolaus,Hold,,init,EFC
+2013-01-09,McNicoll Lewis Vlak,Buy,,main,EFC
+2013-02-14,Deutsche Bank,Buy,,main,EFC
+2013-03-08,Deutsche Bank,Buy,,main,EFC
+2013-05-28,Credit Suisse,Outperform,,init,EFC
+2013-09-16,Compass Point,Buy,,init,EFC
+2013-11-06,Deutsche Bank,Buy,,main,EFC
+2014-03-04,Bank of America,Buy,,main,EFC
+2014-05-08,Deutsche Bank,Buy,,main,EFC
+2014-08-07,Deutsche Bank,Buy,,main,EFC
+2014-11-07,Keefe Bruyette & Woods,Market Perform,,main,EFC
+2014-12-24,MLV & Co.,Hold,,init,EFC
+2015-01-12,JMP Securities,Market Outperform,,main,EFC
+2015-02-13,Deutsche Bank,Buy,,main,EFC
+2015-02-17,Keefe Bruyette & Woods,Market Perform,,main,EFC
+2015-05-14,Keefe Bruyette & Woods,Market Perform,,main,EFC
+2015-08-10,Deutsche Bank,Buy,,main,EFC
+2015-08-11,Keefe Bruyette & Woods,Market Perform,,main,EFC
+2015-11-09,Deutsche Bank,Buy,,main,EFC
+2016-04-21,FBR Capital,Outperform,,init,EFC
+2017-11-08,Deutsche Bank,Buy,,main,EFC
+2017-11-08,B. Riley FBR,Neutral,Buy,down,EFC
+2019-02-15,B. Riley FBR,Buy,Neutral,up,EFC
+2019-09-27,Nomura,Buy,,init,EFC
+2020-01-13,B. Riley FBR,Buy,,main,EFC
+2020-01-22,Piper Sandler,Overweight,,main,EFC
+2020-04-08,B. Riley FBR,Buy,,main,EFC
+2020-07-13,B of A Securities,Neutral,,init,EFC
+2020-10-09,Piper Sandler,Overweight,,main,EFC
+2020-11-24,BTIG,Buy,,init,EFC
+2020-11-25,B of A Securities,Neutral,,main,EFC
+2020-12-18,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,EFC
+2021-01-22,JMP Securities,Market Outperform,,main,EFC
+2021-06-08,UBS,Neutral,Buy,down,EFC
+2021-10-18,JMP Securities,Market Outperform,,main,EFC

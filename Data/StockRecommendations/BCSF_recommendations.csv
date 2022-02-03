@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-24,JMP Securities,Market Perform,,init,BCSF
+2019-04-24,JMP Securities,Market Perform,,init,BCSF
+2020-01-15,Wells Fargo,Underweight,Equal-Weight,down,BCSF
+2020-01-27,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,BCSF
+2020-03-25,Wells Fargo,Underweight,,main,BCSF
+2020-04-07,Citigroup,Neutral,,main,BCSF
+2020-05-04,Credit Suisse,Outperform,,main,BCSF
+2020-06-29,B of A Securities,Neutral,Buy,down,BCSF
+2021-03-01,Wells Fargo,Equal-Weight,Underweight,up,BCSF
+2021-08-06,Oppenheimer,Perform,,main,BCSF

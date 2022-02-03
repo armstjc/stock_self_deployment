@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-13,Piper Sandler,Overweight,,init,KYMR
+2020-11-24,Morgan Stanley,Equal-Weight,,main,KYMR
+2020-12-04,HC Wainwright & Co.,Buy,,init,KYMR
+2021-01-19,Morgan Stanley,Equal-Weight,,main,KYMR
+2021-03-23,Morgan Stanley,Equal-Weight,,main,KYMR
+2021-04-14,Berenberg,Buy,,init,KYMR
+2021-05-18,Morgan Stanley,Equal-Weight,,main,KYMR
+2021-05-21,UBS,Buy,,init,KYMR
+2021-07-16,Morgan Stanley,Equal-Weight,,main,KYMR
+2021-08-18,Morgan Stanley,Equal-Weight,,main,KYMR
+2021-09-10,B of A Securities,Buy,Neutral,up,KYMR
+2021-09-30,Stifel,Buy,,init,KYMR
+2021-09-30,B. Riley Securities,Neutral,,init,KYMR

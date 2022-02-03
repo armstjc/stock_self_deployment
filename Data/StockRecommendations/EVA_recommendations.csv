@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-26,Goldman Sachs,Buy,,init,EVA
+2015-05-26,Barclays,Overweight,,init,EVA
+2015-05-26,RBC Capital,Outperform,,init,EVA
+2015-06-05,Citigroup,Buy,,main,EVA
+2016-01-05,Raymond James,Strong Buy,Outperform,up,EVA
+2016-06-08,Drexel Hamilton,Buy,,init,EVA
+2016-08-25,Citigroup,Neutral,,init,EVA
+2016-09-22,Goldman Sachs,Neutral,,init,EVA
+2018-08-10,RBC Capital,Outperform,Outperform,main,EVA
+2020-02-13,Citigroup,Neutral,Buy,down,EVA
+2020-03-18,Raymond James,Strong Buy,Outperform,up,EVA
+2020-04-24,Citigroup,Neutral,,main,EVA
+2020-04-30,Raymond James,Strong Buy,,main,EVA
+2020-06-24,Raymond James,Strong Buy,,main,EVA
+2020-10-08,Raymond James,Strong Buy,,main,EVA
+2020-11-05,Raymond James,Strong Buy,,main,EVA
+2021-01-08,Raymond James,Strong Buy,,main,EVA
+2021-02-25,Raymond James,Strong Buy,,main,EVA
+2021-06-07,Barclays,Overweight,,main,EVA
+2021-09-02,Goldman Sachs,Neutral,,init,EVA
+2021-09-07,JP Morgan,Overweight,,init,EVA
+2021-10-05,Raymond James,Outperform,Strong Buy,down,EVA
+2021-10-18,RBC Capital,Outperform,,main,EVA
+2021-10-18,Barclays,Overweight,,main,EVA
+2021-11-05,Raymond James,Outperform,,main,EVA
+2021-12-09,JP Morgan,Neutral,Overweight,down,EVA
+2022-01-04,Raymond James,Outperform,,main,EVA

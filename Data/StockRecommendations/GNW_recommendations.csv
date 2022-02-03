@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-11,BTIG Research,Buy,,init,GNW
+2012-04-18,Bank oferica,Underperform,,main,GNW
+2012-05-02,JP Morgan,Neutral,,main,GNW
+2012-05-02,Bank oferica,Neutral,,up,GNW
+2012-07-18,UBS,Neutral,,init,GNW
+2012-08-21,Bank of America,Neutral,,main,GNW
+2012-11-05,Macquarie,Outperform,Neutral,up,GNW
+2013-01-08,Credit Suisse,Underperform,Neutral,down,GNW
+2013-03-11,Scotiabank,Sector Outperform,Sector Underperform,up,GNW
+2013-05-01,JP Morgan,Neutral,,main,GNW
+2013-05-08,BTIG Research,Neutral,Buy,down,GNW
+2014-01-06,UBS,Buy,Neutral,up,GNW
+2014-01-07,Compass Point,Buy,,init,GNW
+2014-03-20,UBS,Buy,,main,GNW
+2014-05-01,Compass Point,Buy,,main,GNW
+2014-05-19,Morgan Stanley,Underweight,Equal-weight,down,GNW
+2014-07-01,JP Morgan,Neutral,,main,GNW
+2014-07-30,Macquarie,Neutral,Outperform,down,GNW
+2014-08-11,Morgan Stanley,Equal-Weight,Underweight,up,GNW
+2014-10-01,Macquarie,Outperform,Neutral,up,GNW
+2014-10-13,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,GNW
+2014-11-06,Compass Point,Neutral,Buy,down,GNW
+2014-11-10,Compass Point,Neutral,,main,GNW
+2014-11-10,Keefe Bruyette & Woods,Market Perform,Outperform,down,GNW
+2014-11-10,Macquarie,Outperform,,main,GNW
+2014-11-13,Raymond James,Outperform,Market Perform,up,GNW
+2014-12-01,Compass Point,Neutral,,main,GNW
+2015-01-27,Keefe Bruyette & Woods,Market Perform,,main,GNW
+2015-02-11,JP Morgan,Neutral,,main,GNW
+2015-02-20,Keefe Bruyette & Woods,Market Perform,,main,GNW
+2015-03-23,Raymond James,Strong Buy,Outperform,up,GNW
+2015-04-22,Keefe Bruyette & Woods,Market Perform,,main,GNW
+2015-04-30,Compass Point,Neutral,Buy,down,GNW
+2015-05-05,Morgan Stanley,Underweight,Equal-Weight,down,GNW
+2015-05-15,Keefe Bruyette & Woods,Market Perform,,main,GNW
+2015-05-28,Morgan Stanley,Equal-Weight,Underweight,up,GNW
+2015-08-05,Macquarie,Neutral,Underperform,up,GNW
+2015-08-06,Raymond James,Outperform,Strong Buy,down,GNW
+2015-09-02,Keefe Bruyette & Woods,,,main,GNW
+2015-09-17,Macquarie,Neutral,,main,GNW
+2015-10-05,JP Morgan,Neutral,,main,GNW
+2015-11-04,UBS,Sell,Neutral,down,GNW
+2015-11-17,Goldman Sachs,Neutral,,init,GNW
+2016-01-22,UBS,Sell,,main,GNW
+2016-02-09,UBS,Sell,,main,GNW
+2016-09-19,Compass Point,Neutral,Buy,down,GNW
+2016-09-23,Goldman Sachs,Neutral,,main,GNW
+2016-10-05,BTIG Research,Neutral,Buy,down,GNW
+2016-11-11,Compass Point,Buy,Neutral,up,GNW
+2018-06-11,Wells Fargo,Market Perform,Market Perform,main,GNW

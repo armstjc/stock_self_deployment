@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-10,Guggenheim,Neutral,,main,FFBC
+2012-10-09,Barclays,Equal-Weight,,main,FFBC
+2013-01-09,Barclays,Underweight,Equal-Weight,down,FFBC
+2013-06-20,Guggenheim,Neutral,,init,FFBC
+2013-07-30,Jefferies,Hold,,main,FFBC
+2013-12-23,Deutsche Bank,Outperform,,main,FFBC
+2014-05-01,Raymond James,Outperform,,main,FFBC
+2014-07-09,Barclays,Underweight,,main,FFBC
+2015-02-02,Keefe Bruyette & Woods,Market Perform,,main,FFBC
+2015-05-04,Barclays,Underweight,,main,FFBC
+2015-06-16,Barclays,Underweight,,main,FFBC
+2015-07-02,Stephens & Co.,Equal-Weight,,init,FFBC
+2015-08-03,Stifel Nicolaus,Market Perform,,main,FFBC
+2015-08-03,Jefferies,Hold,,main,FFBC
+2015-10-26,Barclays,Underweight,,main,FFBC
+2016-01-25,Keefe Bruyette & Woods,Outperform,Market Perform,up,FFBC
+2016-01-26,Sandler O'Neill,Buy,Hold,up,FFBC
+2016-03-10,Sandler O'Neill,Hold,Buy,down,FFBC
+2016-07-25,Hilliard Lyons,Neutral,Buy,down,FFBC
+2016-07-25,Barclays,Underweight,,main,FFBC
+2016-07-25,Keefe Bruyette & Woods,Market Perform,,main,FFBC
+2016-10-06,PiperJaffray,Neutral,,init,FFBC
+2016-10-11,Barclays,Underweight,,main,FFBC
+2016-12-06,Barclays,Underweight,,main,FFBC
+2017-03-24,DA Davidson,Buy,,init,FFBC
+2017-07-27,Stephens & Co.,Overweight,Equal-Weight,up,FFBC
+2017-07-27,Barclays,Underweight,,main,FFBC
+2017-10-23,Barclays,Underweight,,main,FFBC
+2018-04-23,Hilliard Lyons,Neutral,Buy,down,FFBC
+2018-04-23,Barclays,Underweight,Underweight,main,FFBC
+2018-05-18,DA Davidson,Neutral,Buy,down,FFBC
+2018-07-23,Barclays,Underweight,Underweight,main,FFBC
+2018-07-26,DA Davidson,Buy,Neutral,up,FFBC
+2018-10-22,Barclays,Underweight,Underweight,main,FFBC
+2018-10-22,Keefe Bruyette & Woods,Outperform,Market Perform,up,FFBC
+2018-11-29,Sandler O'Neill,Hold,Buy,down,FFBC
+2019-02-25,Keefe Bruyette & Woods,Market Perform,Outperform,down,FFBC
+2019-03-06,Stephens & Co.,Equal-Weight,Overweight,down,FFBC
+2019-06-20,Piper Jaffray,Overweight,Neutral,up,FFBC
+2020-09-29,Piper Sandler,Neutral,,main,FFBC
+2020-10-26,Piper Sandler,Neutral,,main,FFBC
+2021-02-01,Piper Sandler,Overweight,Neutral,up,FFBC
+2021-03-03,Piper Sandler,Neutral,Overweight,down,FFBC
+2021-07-26,RBC Capital,Sector Perform,,main,FFBC
+2021-10-25,RBC Capital,Sector Perform,,main,FFBC

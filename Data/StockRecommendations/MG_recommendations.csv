@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-03,Baird,Outperform,Neutral,up,MG
+2013-01-09,Stephens & Co.,Equal-Weight,Overweight,down,MG
+2013-05-29,DA Davidson,Neutral,,init,MG
+2013-05-30,DA Davidson,Neutral,,init,MG
+2013-06-26,Baird,Neutral,Outperform,down,MG
+2013-06-27,DA Davidson,Neutral,,main,MG
+2013-07-11,Bank of America,Neutral,Buy,down,MG
+2014-01-07,Bank of America,Buy,Neutral,up,MG
+2014-10-08,Bank of America,Buy,,main,MG
+2015-06-12,JP Morgan,Neutral,,init,MG
+2015-08-07,Stephens & Co.,Equal-Weight,Overweight,down,MG
+2015-08-07,JP Morgan,Neutral,,main,MG
+2015-08-17,KeyBanc,Overweight,,up,MG
+2016-04-07,KeyBanc,Sector Weight,Overweight,down,MG
+2016-08-12,Baird,Outperform,Neutral,up,MG
+2017-01-10,Canaccord Genuity,Hold,,init,MG
+2017-08-10,Canaccord Genuity,Hold,,main,MG
+2017-08-11,Baird,Outperform,,main,MG
+2017-10-02,Baird,Neutral,Outperform,down,MG
+2017-11-08,Canaccord Genuity,Hold,,main,MG
+2018-05-11,Bank of America,Underperform,Neutral,down,MG
+2019-03-14,Canaccord Genuity,Hold,Hold,main,MG
+2019-10-31,Maxim Group,Buy,,init,MG
+2020-03-26,Sidoti & Co.,Buy,,main,MG
+2020-05-12,Maxim Group,Hold,Buy,down,MG

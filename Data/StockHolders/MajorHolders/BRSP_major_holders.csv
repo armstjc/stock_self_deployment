@@ -1,0 +1,24 @@
+Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
+CRSP,CRISPR Therapeutics AG,62.12,Healthcare,Stocks,NGM,BRSP
+RSP,Invesco S&P 500 Equal Weight ET,157.87,,ETF,PCX,BRSP
+BLSP,BLUE SPHERE CORP,0.0,Utilities,Stocks,PNK,BRSP
+BRSP,"BrightSpire Capital, Inc.",9.24,Real Estate,Stocks,NYQ,BRSP
+BRP,"BRP Group, Inc.",30.25,Financial Services,Stocks,NMS,BRSP
+BRSF,BRAIN SCIENTIFIC INC,0.35,Healthcare,Stocks,PNK,BRSP
+BSSP,BASSLINE PRODUCTIONS INC,0.0,Healthcare,Stocks,PNK,BRSP
+BRST,BROAD STREET REALTY INC,2.1,Real Estate,Stocks,PNK,BRSP
+BRSI,BALLISTIC RECOVERY SYSTEM INC,0.0,Industrials,Stocks,PNK,BRSP
+BRSE,BROADSIDE ENTERPRISES INC,0.12,Communication Services,Stocks,PNK,BRSP
+MRSP,MRSP,0.02,,Stocks,PNK,BRSP
+PRSP,PRSP,,,Stocks,NYQ,BRSP
+BRSS,BRSS,,,Stocks,NYQ,BRSP
+BRSD,BRSD,0.05,,Stocks,PNK,BRSP
+BSP,BSP,,Financial,Stocks,NYQ,BRSP
+BRS,BRS,,,Stocks,NYQ,BRSP
+^RSP,^RSP,,,Index,ASE,BRSP
+BRSPX,MFS Blended Research Small Cap,14.83,,Mutual Fund,NAS,BRSP
+SRSP,SRSP,0.04,,Stocks,PNK,BRSP
+BRRP,BRRP,14.5,,Stocks,PNK,BRSP
+BESP,BESP,10.6,,Stocks,PNK,BRSP
+BRESP,BRESP,25.95,,Stocks,PNK,BRSP
+ARSP,ARSP,0.0,,Stocks,PNK,BRSP

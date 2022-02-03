@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Citigroup,Buy,,up,IRM
+2012-06-07,PiperJaffray,Overweight,,main,IRM
+2012-06-25,Barclays,Overweight,Equal-Weight,up,IRM
+2012-08-13,Barclays,Overweight,,main,IRM
+2012-09-20,PiperJaffray,Overweight,,main,IRM
+2013-06-07,Stifel Nicolaus,Hold,Buy,down,IRM
+2013-06-07,Stifel Nicolaus,Hold,Buy,down,IRM
+2013-08-08,Barclays,Equal-Weight,Overweight,down,IRM
+2013-10-11,Barclays,Underweight,Equal-Weight,down,IRM
+2013-10-14,Baird,Outperform,Neutral,up,IRM
+2015-06-02,Jefferies,Underperform,Hold,down,IRM
+2016-04-18,Stifel Nicolaus,Buy,Hold,up,IRM
+2016-08-05,JP Morgan,Overweight,,main,IRM
+2017-02-22,Deutsche Bank,Hold,,init,IRM
+2017-06-07,Deutsche Bank,Sell,Hold,down,IRM
+2017-10-18,Evercore ISI Group,Outperform,,init,IRM
+2017-10-25,Baird,Neutral,,main,IRM
+2018-02-20,Stifel Nicolaus,Buy,Buy,main,IRM
+2018-03-27,Goldman Sachs,Buy,,init,IRM
+2018-08-10,Credit Suisse,Underweight,,init,IRM
+2018-09-20,Berenberg,Buy,,init,IRM
+2018-10-26,Stifel Nicolaus,Hold,Buy,down,IRM
+2018-10-30,Barclays,Equal-Weight,Equal-Weight,main,IRM
+2018-11-20,Bank of America,Neutral,,init,IRM
+2019-07-10,Wells Fargo,Outperform,,init,IRM
+2019-07-11,Bank of America,Underperform,Neutral,down,IRM
+2019-08-02,Baird,Neutral,Underperform,up,IRM
+2019-11-26,Credit Suisse,Underperform,,main,IRM
+2021-02-25,Credit Suisse,Underperform,,main,IRM
+2021-05-07,Goldman Sachs,Buy,,main,IRM

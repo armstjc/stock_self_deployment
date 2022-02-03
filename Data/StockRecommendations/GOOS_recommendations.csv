@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-04-10,Baird,Neutral,,init,GOOS
+2017-04-10,Wells Fargo,Outperform,,init,GOOS
+2017-04-10,CIBC,Sector Outperform,,init,GOOS
+2017-04-10,RBC Capital,Outperform,,init,GOOS
+2017-04-10,Bank of America,Neutral,,init,GOOS
+2017-04-10,Credit Suisse,Outperform,,init,GOOS
+2017-04-10,Canaccord Genuity,Buy,,init,GOOS
+2017-04-10,Barclays,Overweight,,init,GOOS
+2017-04-10,Nomura,Neutral,,init,GOOS
+2017-04-10,BMO Capital,Outperform,,init,GOOS
+2017-04-10,Goldman Sachs,Buy,,init,GOOS
+2017-04-11,TD Securities,Hold,,init,GOOS
+2017-04-11,Morgan Stanley,Equal-Weight,,init,GOOS
+2017-08-08,Barclays,Overweight,,main,GOOS
+2017-11-07,Barclays,Overweight,,main,GOOS
+2017-11-10,Baird,Neutral,,main,GOOS
+2017-11-10,Barclays,Overweight,,main,GOOS
+2017-11-17,Cowen & Co.,Outperform,,init,GOOS
+2018-02-05,Barclays,Overweight,Overweight,main,GOOS
+2018-02-08,Baird,Outperform,Neutral,up,GOOS
+2018-02-09,Barclays,Overweight,Overweight,main,GOOS
+2018-03-12,Credit Suisse,Outperform,,init,GOOS
+2018-06-13,Barclays,Overweight,Overweight,main,GOOS
+2018-06-18,Barclays,Overweight,Overweight,main,GOOS
+2018-06-25,Goldman Sachs,Neutral,,init,GOOS
+2018-08-01,Baird,Neutral,Outperform,down,GOOS
+2018-09-26,DA Davidson,Buy,,init,GOOS
+2018-11-15,Barclays,Overweight,Overweight,main,GOOS
+2019-01-03,TD Securities,Buy,Hold,up,GOOS
+2019-01-24,Wells Fargo,Market Perform,Outperform,down,GOOS
+2019-05-20,HSBC,Buy,,init,GOOS
+2019-05-30,Bank of America,Neutral,Buy,down,GOOS
+2019-05-31,Goldman Sachs,Buy,Neutral,up,GOOS
+2019-08-15,DA Davidson,Buy,,reit,GOOS
+2019-11-07,DA Davidson,Neutral,Buy,down,GOOS
+2019-11-14,Credit Suisse,Outperform,,main,GOOS
+2019-11-14,DA Davidson,Neutral,,main,GOOS
+2019-11-25,Barclays,Overweight,,init,GOOS
+2020-01-31,OTR Global,Mixed,Positive,down,GOOS
+2020-02-10,Goldman Sachs,Neutral,Buy,down,GOOS
+2020-02-10,Cowen & Co.,Market Perform,Outperform,down,GOOS
+2020-02-10,DA Davidson,Neutral,,main,GOOS
+2020-05-15,B of A Securities,Underperform,Neutral,down,GOOS
+2020-07-22,UBS,Buy,,init,GOOS
+2020-09-30,Cowen & Co.,Outperform,Market Perform,up,GOOS
+2021-02-01,Barclays,Equal-Weight,Overweight,down,GOOS
+2021-02-05,BTIG,Neutral,Sell,up,GOOS
+2021-02-05,Goldman Sachs,Neutral,Sell,up,GOOS
+2021-04-23,OTR Global,Mixed,Negative,up,GOOS
+2021-05-14,Credit Suisse,Outperform,,main,GOOS
+2021-07-14,Goldman Sachs,Neutral,,init,GOOS
+2021-07-23,OTR Global,Positive,Mixed,up,GOOS

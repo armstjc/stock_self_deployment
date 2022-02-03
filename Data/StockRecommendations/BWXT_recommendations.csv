@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-03-18,Sidoti & Co.,Buy,,init,BWXT
+2016-04-01,Drexel Hamilton,Hold,,init,BWXT
+2016-11-09,Drexel Hamilton,Buy,Hold,up,BWXT
+2016-11-18,Bank of America,Neutral,Buy,down,BWXT
+2017-01-19,SunTrust Robinson Humphrey,Buy,,init,BWXT
+2017-03-21,Bank of America,Buy,Neutral,up,BWXT
+2017-06-09,Credit Suisse,Neutral,,init,BWXT
+2017-08-10,Bank of America,Buy,,main,BWXT
+2017-10-05,Bank of America,Buy,,main,BWXT
+2017-10-24,Baird,Outperform,,init,BWXT
+2017-12-11,Wells Fargo,Market Perform,,init,BWXT
+2018-01-10,Seaport Global,Buy,,init,BWXT
+2018-03-29,Barclays,Underweight,,init,BWXT
+2018-05-24,Bank of America,Neutral,Buy,down,BWXT
+2018-08-21,SunTrust Robinson Humphrey,Buy,Buy,main,BWXT
+2018-11-08,SunTrust Robinson Humphrey,Hold,Buy,down,BWXT
+2018-11-14,Maxim Group,Buy,,init,BWXT
+2020-02-26,Credit Suisse,Neutral,,main,BWXT
+2020-02-26,Baird,Outperform,,main,BWXT
+2020-03-11,SunTrust Robinson Humphrey,Buy,Hold,up,BWXT
+2020-05-07,B of A Securities,Neutral,Underperform,up,BWXT
+2020-10-15,B of A Securities,Buy,Neutral,up,BWXT
+2020-11-03,Credit Suisse,Outperform,,main,BWXT
+2021-01-07,Baird,Neutral,Outperform,down,BWXT
+2021-04-08,Maxim Group,Buy,,main,BWXT
+2021-06-23,Credit Suisse,Neutral,Outperform,down,BWXT
+2021-08-03,Credit Suisse,Neutral,,main,BWXT
+2021-11-08,Barclays,Underweight,,main,BWXT

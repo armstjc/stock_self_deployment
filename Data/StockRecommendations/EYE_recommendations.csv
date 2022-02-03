@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-20,Wells Fargo,Outperform,,init,EYE
+2017-11-20,Jefferies,Buy,,init,EYE
+2017-11-20,Goldman Sachs,Neutral,,init,EYE
+2017-11-20,Morgan Stanley,Overweight,,init,EYE
+2017-11-20,UBS,Neutral,,init,EYE
+2017-11-20,Citigroup,Buy,,init,EYE
+2018-08-15,Morgan Stanley,Overweight,Overweight,main,EYE
+2018-08-15,Bank of America,Neutral,Neutral,main,EYE
+2018-08-16,Citigroup,Buy,Buy,main,EYE
+2018-10-02,Barclays,Equal-Weight,,init,EYE
+2018-10-04,William Blair,Outperform,,init,EYE
+2018-10-11,Morgan Stanley,Overweight,Overweight,main,EYE
+2018-11-15,Citigroup,Buy,Buy,main,EYE
+2019-05-29,Berenberg,Buy,,init,EYE
+2019-06-14,Loop Capital,Hold,,init,EYE
+2019-07-11,Goldman Sachs,Buy,,init,EYE
+2019-08-07,Loop Capital,Buy,Hold,up,EYE
+2019-09-30,Wells Fargo,Outperform,,main,EYE
+2019-10-01,Bank of America,Buy,Neutral,up,EYE
+2019-11-08,UBS,Buy,,main,EYE
+2019-11-13,Barclays,Overweight,,init,EYE
+2020-02-04,BMO Capital,Market Perform,,init,EYE
+2020-03-17,Morgan Stanley,Overweight,,main,EYE
+2020-03-23,Wells Fargo,Overweight,,main,EYE
+2020-04-09,Wells Fargo,Overweight,,main,EYE
+2020-04-17,Barclays,Overweight,,main,EYE
+2020-05-08,Citigroup,Buy,,main,EYE
+2020-05-08,Morgan Stanley,Overweight,,main,EYE
+2020-07-30,Jefferies,Buy,,main,EYE
+2020-08-07,Morgan Stanley,Overweight,,main,EYE
+2020-08-17,Barclays,Overweight,,main,EYE
+2020-10-09,Jefferies,Buy,,main,EYE
+2020-11-06,Morgan Stanley,Overweight,,main,EYE
+2021-01-20,Morgan Stanley,Overweight,,main,EYE
+2021-08-13,BMO Capital,Market Perform,,main,EYE
+2021-08-27,Morgan Stanley,Equal-Weight,Overweight,down,EYE
+2021-10-14,Morgan Stanley,Overweight,Equal-Weight,up,EYE
+2021-11-12,B of A Securities,Underperform,Buy,down,EYE
+2021-11-15,Goldman Sachs,Neutral,Buy,down,EYE

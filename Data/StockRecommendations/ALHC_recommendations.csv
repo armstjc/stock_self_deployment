@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-04-20,Piper Sandler,Overweight,,init,ALHC
+2021-04-20,Goldman Sachs,Neutral,,init,ALHC
+2021-04-20,William Blair,Outperform,,init,ALHC
+2021-04-20,UBS,Neutral,,init,ALHC
+2021-04-20,B of A Securities,Neutral,,init,ALHC
+2021-04-20,Raymond James,Outperform,,init,ALHC
+2021-04-20,Morgan Stanley,Overweight,,init,ALHC
+2021-05-18,Raymond James,Outperform,,main,ALHC
+2021-07-02,Morgan Stanley,Overweight,,main,ALHC
+2021-08-12,Barclays,Overweight,,init,ALHC
+2021-08-12,Raymond James,Outperform,,main,ALHC
+2021-08-31,Morgan Stanley,Overweight,,main,ALHC
+2021-09-10,Cowen & Co.,Outperform,,init,ALHC
+2021-11-08,Barclays,Overweight,,main,ALHC
+2021-12-03,JP Morgan,Overweight,,init,ALHC
+2021-12-14,Goldman Sachs,Buy,,init,ALHC

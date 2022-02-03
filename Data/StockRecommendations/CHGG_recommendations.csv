@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-09,Jefferies,Buy,,init,CHGG
+2013-12-09,Bank of America,Buy,,init,CHGG
+2013-12-09,BMO Capital,Market Perform,,init,CHGG
+2013-12-09,PiperJaffray,Overweight,,init,CHGG
+2013-12-09,JP Morgan,Overweight,,init,CHGG
+2013-12-09,Raymond James,Outperform,,init,CHGG
+2014-02-14,Bank of America,Neutral,Buy,down,CHGG
+2014-04-29,Bank of America,Buy,Neutral,up,CHGG
+2014-05-20,Lake Street,Buy,,init,CHGG
+2014-11-04,Bank of America,Buy,,main,CHGG
+2015-02-24,BMO Capital,Outperform,Market Perform,up,CHGG
+2015-07-09,Barrington Research,Outperform,,init,CHGG
+2015-08-04,PiperJaffray,Overweight,,main,CHGG
+2015-08-04,Bank of America,Buy,,main,CHGG
+2015-11-19,Craig-Hallum,Buy,,init,CHGG
+2016-02-23,JP Morgan,Overweight,,main,CHGG
+2017-05-02,Raymond James,Outperform,Market Perform,up,CHGG
+2017-07-26,Lake Street,Hold,Buy,down,CHGG
+2017-07-26,BMO Capital,Outperform,,main,CHGG
+2017-11-01,JP Morgan,Overweight,,main,CHGG
+2017-11-20,Citigroup,Buy,,init,CHGG
+2018-02-13,JP Morgan,Overweight,Overweight,main,CHGG
+2018-02-26,Morgan Stanley,Equal-Weight,,init,CHGG
+2018-03-13,Citigroup,Neutral,Buy,down,CHGG
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHGG
+2018-04-27,Raymond James,Market Perform,Outperform,down,CHGG
+2018-04-30,Citigroup,Neutral,Neutral,main,CHGG
+2018-06-21,Jefferies,Hold,Buy,down,CHGG
+2018-07-31,Citigroup,Neutral,Neutral,main,CHGG
+2018-08-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHGG
+2018-10-30,First Analysis,Outperform,Neutral,up,CHGG
+2018-10-30,Jefferies,Hold,Hold,main,CHGG
+2019-02-08,Citigroup,Neutral,Buy,down,CHGG
+2019-03-06,Berenberg,Buy,,init,CHGG
+2019-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHGG
+2019-06-06,Needham,Buy,,init,CHGG
+2019-09-09,Jefferies,Buy,Hold,up,CHGG
+2019-10-04,BMO Capital,Outperform,,main,CHGG
+2019-11-05,Citigroup,Buy,Neutral,up,CHGG
+2020-02-11,Needham,Buy,,main,CHGG
+2020-02-11,Morgan Stanley,Overweight,,main,CHGG
+2020-02-12,Morgan Stanley,Overweight,,main,CHGG
+2020-03-02,First Analysis,Strong Buy,Outperform,up,CHGG
+2020-03-18,JP Morgan,Overweight,,main,CHGG
+2020-03-20,Needham,Buy,,main,CHGG
+2020-03-23,Citigroup,Buy,,main,CHGG
+2020-03-25,Morgan Stanley,Overweight,,main,CHGG
+2020-04-16,JP Morgan,Neutral,Overweight,down,CHGG
+2020-05-05,Raymond James,Outperform,Market Perform,up,CHGG
+2020-05-05,Morgan Stanley,Overweight,,main,CHGG
+2020-05-05,Needham,Buy,,main,CHGG
+2020-05-06,BMO Capital,Outperform,,main,CHGG
+2020-05-18,BMO Capital,Market Perform,Outperform,down,CHGG
+2020-06-05,Needham,Buy,,main,CHGG
+2020-06-22,Jefferies,Buy,,main,CHGG
+2020-06-30,KeyBanc,Overweight,,init,CHGG
+2020-06-30,Citigroup,Neutral,Buy,down,CHGG
+2020-07-13,KeyBanc,Overweight,,main,CHGG
+2020-07-23,Morgan Stanley,Overweight,,main,CHGG
+2020-08-04,KeyBanc,Overweight,,main,CHGG
+2020-08-04,Raymond James,Outperform,,main,CHGG
+2020-08-04,Morgan Stanley,Overweight,,main,CHGG
+2020-08-04,Needham,Buy,,main,CHGG
+2020-08-26,Piper Sandler,Overweight,,init,CHGG
+2020-10-27,Raymond James,Outperform,,main,CHGG
+2021-01-15,Needham,Buy,,main,CHGG
+2021-01-26,KeyBanc,Overweight,,main,CHGG
+2021-01-26,Morgan Stanley,Overweight,,main,CHGG
+2021-02-09,Needham,Buy,,main,CHGG
+2021-02-09,Piper Sandler,Overweight,,main,CHGG
+2021-02-09,KeyBanc,Overweight,,main,CHGG
+2021-02-09,Morgan Stanley,Overweight,,main,CHGG
+2021-02-09,Craig-Hallum,Buy,,main,CHGG
+2021-02-09,Jefferies,Buy,,main,CHGG
+2021-02-09,Northland Capital Markets,Outperform,,main,CHGG
+2021-02-09,Lake Street,Hold,,main,CHGG
+2021-02-09,BMO Capital,Market Perform,,main,CHGG
+2021-02-10,Citigroup,Buy,,main,CHGG
+2021-03-30,FBN Securities,Outperform,,init,CHGG
+2021-05-04,Keybanc,Overweight,,main,CHGG
+2021-05-04,Raymond James,Outperform,,main,CHGG
+2021-10-07,Keybanc,Overweight,,main,CHGG
+2021-10-27,Morgan Stanley,Overweight,,main,CHGG
+2021-11-02,Craig-Hallum,Hold,Buy,down,CHGG
+2021-11-02,Needham,Hold,Buy,down,CHGG
+2021-11-02,Keybanc,Overweight,,main,CHGG
+2021-11-02,Morgan Stanley,Equal-Weight,Overweight,down,CHGG
+2021-11-02,Raymond James,Market Perform,Outperform,down,CHGG
+2021-11-02,Piper Sandler,Neutral,Overweight,down,CHGG
+2021-12-09,Morgan Stanley,Equal-Weight,,main,CHGG
+2022-01-10,Keybanc,Overweight,,main,CHGG
+2022-01-13,Piper Sandler,Overweight,Neutral,up,CHGG

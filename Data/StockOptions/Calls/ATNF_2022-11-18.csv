@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ATNF221118C00005000,2021-12-23 19:46:07+00:00,5.0,1.58,0.5,1.45,0.0,0.0,10.0,35,1.3125034374999998,False,REGULAR,USD,ATNF
+ATNF221118C00010000,2021-11-30 14:36:53+00:00,10.0,1.55,0.0,0.0,0.0,0.0,,10,0.2500075,False,REGULAR,USD,ATNF

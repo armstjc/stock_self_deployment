@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SWIM221216P00020000,2022-01-24 15:53:45+00:00,20.0,7.04,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,SWIM

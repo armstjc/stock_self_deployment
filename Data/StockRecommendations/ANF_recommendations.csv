@@ -1,0 +1,205 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,UBS,Neutral,,main,ANF
+2012-03-26,Jefferies,Buy,,main,ANF
+2012-04-02,Brean Capital,Buy,,up,ANF
+2012-04-10,Wedbush,Neutral,,main,ANF
+2012-05-01,UBS,Buy,,up,ANF
+2012-05-02,Sterne Agee,Neutral,,init,ANF
+2012-05-17,PiperJaffray,Overweight,,main,ANF
+2012-05-17,Jefferies,Buy,,main,ANF
+2012-05-17,Citigroup,Buy,,main,ANF
+2012-05-17,UBS,Buy,,main,ANF
+2012-06-01,JP Morgan,Neutral,,main,ANF
+2012-06-25,Jefferies,Buy,,main,ANF
+2012-07-09,PiperJaffray,Overweight,,main,ANF
+2012-08-02,Jefferies,Buy,,main,ANF
+2012-08-02,Sterne Agee,Neutral,,main,ANF
+2012-08-02,Bank of America,Neutral,Buy,down,ANF
+2012-08-02,UBS,Neutral,Buy,down,ANF
+2012-08-02,JP Morgan,Neutral,,main,ANF
+2012-08-02,PiperJaffray,Neutral,Overweight,down,ANF
+2012-08-15,PiperJaffray,Neutral,,main,ANF
+2012-08-15,Sterne Agee,Neutral,,main,ANF
+2012-08-16,Bank of America,Neutral,,main,ANF
+2012-08-16,UBS,Neutral,,main,ANF
+2012-08-16,Wedbush,Outperform,Neutral,up,ANF
+2012-08-16,JP Morgan,Neutral,,main,ANF
+2012-09-13,Citigroup,Sell,,init,ANF
+2012-09-13,Macquarie,Neutral,Underperform,up,ANF
+2012-10-08,CLSA,Outperform,Buy,down,ANF
+2012-10-09,PiperJaffray,Overweight,Neutral,up,ANF
+2012-11-14,Janney Capital,Buy,Neutral,up,ANF
+2012-11-14,PiperJaffray,Overweight,,main,ANF
+2012-11-14,CLSA,Buy,Outperform,up,ANF
+2012-11-14,Nomura,Buy,Neutral,up,ANF
+2012-11-14,Citigroup,Neutral,Sell,up,ANF
+2012-11-14,Jefferies,Buy,,main,ANF
+2012-11-14,Wedbush,Outperform,,main,ANF
+2012-11-14,Oppenheimer,Outperform,,main,ANF
+2012-11-14,Citigroup,,,up,ANF
+2012-11-14,William Blair,Outperform,Market Perform,up,ANF
+2012-11-15,Sterne Agee,Buy,,up,ANF
+2012-11-15,Credit Suisse,Neutral,,up,ANF
+2012-11-15,BMO Capital,Market Perform,,main,ANF
+2012-11-15,Nomura,Buy,,up,ANF
+2012-11-26,JP Morgan,Neutral,,main,ANF
+2012-12-21,Wedbush,Outperform,,main,ANF
+2013-01-11,Avondale Partners,Outperform,Perform,up,ANF
+2013-01-29,BMO Capital,Outperform,Market Perform,up,ANF
+2013-02-08,UBS,Neutral,,main,ANF
+2013-02-25,UBS,Neutral,,main,ANF
+2013-04-02,Barclays,Underweight,,init,ANF
+2013-04-11,Topeka,Hold,,init,ANF
+2013-04-29,Macquarie,Outperform,Neutral,up,ANF
+2013-05-07,Wells Fargo,Outperform,Market Perform,up,ANF
+2013-06-07,Bank of America,Buy,Neutral,up,ANF
+2013-07-05,Standpoint Research,Buy,Hold,up,ANF
+2013-07-19,SunTrust Robinson Humphrey,Neutral,,init,ANF
+2013-08-22,Janney Capital,Neutral,Buy,down,ANF
+2013-08-22,Cowen & Co.,Market Perform,Outperform,down,ANF
+2013-08-23,Citigroup,Neutral,,main,ANF
+2013-09-09,Nomura,Buy,,init,ANF
+2013-10-02,FBR Capital,Outperform,,init,ANF
+2013-10-08,PiperJaffray,Overweight,,main,ANF
+2013-10-21,Macquarie,Neutral,Outperform,down,ANF
+2013-11-04,SunTrust Robinson Humphrey,Buy,Neutral,up,ANF
+2013-11-06,Jefferies,Buy,,main,ANF
+2013-11-07,Bank of America,Underperform,Buy,down,ANF
+2013-11-07,Nomura,Buy,,main,ANF
+2013-11-07,Avondale Partners,Market Perform,Market Outperform,down,ANF
+2013-11-07,ISI Group,Neutral,,main,ANF
+2013-11-15,Mizuho,Neutral,,init,ANF
+2013-11-22,Citigroup,Neutral,,main,ANF
+2014-01-10,Janney Capital,Buy,Neutral,up,ANF
+2014-02-27,Nomura,Buy,,main,ANF
+2014-03-04,Credit Suisse,Outperform,Neutral,up,ANF
+2014-05-01,Jefferies,Buy,Hold,up,ANF
+2014-06-19,FBR Capital,Outperform,,main,ANF
+2014-06-27,Jefferies,Buy,,main,ANF
+2014-07-07,Standpoint Research,Hold,Buy,down,ANF
+2014-07-16,JP Morgan,Neutral,,main,ANF
+2014-07-31,Bank of America,Neutral,Underperform,up,ANF
+2014-08-08,Nomura,Buy,,main,ANF
+2014-08-12,Wunderlich,Buy,,init,ANF
+2014-08-12,Stifel Nicolaus,Buy,Hold,up,ANF
+2014-09-02,Citigroup,Neutral,,main,ANF
+2014-10-06,PiperJaffray,Neutral,Overweight,down,ANF
+2014-10-06,Mizuho,Buy,Neutral,up,ANF
+2014-11-07,Wunderlich,Hold,,main,ANF
+2014-11-10,Bank of America,Neutral,,main,ANF
+2014-11-10,Janney Capital,Neutral,Buy,down,ANF
+2014-11-10,Oppenheimer,Market Perform,Outperform,down,ANF
+2014-11-10,Topeka,Hold,,main,ANF
+2014-11-14,Credit Suisse,Neutral,Outperform,down,ANF
+2014-12-03,Credit Suisse,Neutral,,main,ANF
+2014-12-04,Morgan Stanley,Equal-Weight,,main,ANF
+2015-02-09,Wunderlich,Sell,Hold,down,ANF
+2015-02-10,Bank of America,Underperform,Neutral,down,ANF
+2015-02-13,Credit Suisse,Underperform,Neutral,down,ANF
+2015-02-24,Telsey Advisory Group,Market Outperform,Market Perform,up,ANF
+2015-02-26,Morgan Stanley,Underweight,Equal-Weight,down,ANF
+2015-03-05,Barclays,Equal-Weight,,main,ANF
+2015-03-05,UBS,Neutral,,main,ANF
+2015-03-05,FBR Capital,Outperform,,main,ANF
+2015-03-05,Nomura,Neutral,Buy,down,ANF
+2015-03-06,Standpoint Research,Buy,Hold,up,ANF
+2015-04-15,Guggenheim,Neutral,,init,ANF
+2015-04-30,BB&T Capital,Hold,,init,ANF
+2015-05-04,RBC Capital,Underperform,,init,ANF
+2015-05-29,Janney Capital,Sell,Neutral,down,ANF
+2015-06-30,FBR Capital,Market Perform,,down,ANF
+2015-08-17,Wolfe Research,Underperform,,init,ANF
+2015-08-24,Susquehanna,Positive,,main,ANF
+2015-08-24,PiperJaffray,Overweight,Neutral,up,ANF
+2015-08-27,Stifel Nicolaus,Buy,Hold,up,ANF
+2015-08-27,UBS,Neutral,,main,ANF
+2015-08-28,RBC Capital,Sector Perform,Underperform,up,ANF
+2015-09-24,Standpoint Research,Hold,Buy,down,ANF
+2015-10-07,Citigroup,Neutral,,init,ANF
+2015-10-19,Wunderlich,Hold,,up,ANF
+2015-11-20,Evercore ISI Group,Hold,Sell,up,ANF
+2015-11-23,Wolfe Research,Peer Perform,Underperform,up,ANF
+2016-01-07,Wolfe Research,Outperform,Peer Perform,up,ANF
+2016-03-03,Baird,Neutral,,main,ANF
+2016-03-14,JP Morgan,Neutral,,main,ANF
+2016-03-17,RBC Capital,Sector Perform,,main,ANF
+2016-03-22,Jefferies,Buy,,main,ANF
+2016-04-26,Deutsche Bank,Sell,,init,ANF
+2016-05-12,Citigroup,Neutral,,main,ANF
+2016-05-27,Morgan Stanley,Underweight,,main,ANF
+2016-05-27,Credit Suisse,Underperform,,main,ANF
+2016-05-27,SunTrust Robinson Humphrey,Buy,,main,ANF
+2016-05-27,Citigroup,Neutral,,main,ANF
+2016-06-15,Deutsche Bank,Hold,Sell,up,ANF
+2016-08-31,Stifel Nicolaus,Hold,Buy,down,ANF
+2016-08-31,UBS,Neutral,,main,ANF
+2016-08-31,KeyBanc,Overweight,,main,ANF
+2016-08-31,Citigroup,Neutral,,main,ANF
+2016-09-01,Citigroup,Neutral,,main,ANF
+2016-10-06,KeyBanc,Sector Weight,Overweight,down,ANF
+2016-11-14,Wolfe Research,Peer Perform,Outperform,down,ANF
+2016-11-15,FBR Capital,Underperform,Market Perform,down,ANF
+2016-11-21,RBC Capital,Underperform,Sector Perform,down,ANF
+2016-11-23,Deutsche Bank,Sell,Hold,down,ANF
+2016-12-09,Argus,Sell,Hold,down,ANF
+2017-01-03,Jefferies,Hold,Buy,down,ANF
+2017-01-03,Oppenheimer,Underweight,Market Perform,down,ANF
+2017-01-04,FBR Capital,Market Perform,Underperform,up,ANF
+2017-05-10,Standpoint Research,Hold,Buy,down,ANF
+2017-05-11,Wunderlich,Sell,Hold,down,ANF
+2017-06-22,Wunderlich,Hold,Sell,up,ANF
+2017-08-15,FBR Capital,Neutral,,main,ANF
+2017-08-25,BMO Capital,Market Perform,,main,ANF
+2017-08-25,Citigroup,Buy,Neutral,up,ANF
+2017-09-22,Baird,Neutral,,main,ANF
+2017-11-01,JP Morgan,Underweight,Neutral,down,ANF
+2017-11-17,Standpoint Research,Hold,Outperform,down,ANF
+2017-11-20,Jefferies,Hold,,main,ANF
+2017-11-20,Citigroup,Buy,,main,ANF
+2017-11-20,BMO Capital,Market Perform,,main,ANF
+2018-01-19,Argus,Buy,Hold,up,ANF
+2018-01-24,Bank of America,Underperform,Underperform,main,ANF
+2018-02-27,B. Riley FBR,Neutral,,main,ANF
+2018-03-08,Morgan Stanley,Underweight,Underweight,main,ANF
+2018-03-08,BMO Capital,Market Perform,Market Perform,main,ANF
+2018-03-08,Baird,Neutral,Neutral,main,ANF
+2018-05-11,Wedbush,Neutral,,init,ANF
+2018-06-04,JP Morgan,Underweight,Underweight,main,ANF
+2018-08-30,William Blair,Market Perform,Outperform,down,ANF
+2018-09-04,Morgan Stanley,Underweight,Underweight,main,ANF
+2018-10-11,Wedbush,Neutral,Neutral,main,ANF
+2018-11-30,RBC Capital,Sector Perform,Sector Perform,main,ANF
+2019-03-07,Morgan Stanley,Underweight,Underweight,main,ANF
+2019-03-07,JP Morgan,Neutral,Underweight,up,ANF
+2019-05-09,Wedbush,Underperform,Neutral,down,ANF
+2019-05-30,Bank of America,Underperform,,main,ANF
+2019-05-30,Wedbush,Underperform,,main,ANF
+2019-07-11,Wedbush,Neutral,Underperform,up,ANF
+2019-08-30,Wedbush,Neutral,,main,ANF
+2019-08-30,RBC Capital,Sector Perform,,main,ANF
+2019-08-30,Deutsche Bank,Hold,Sell,up,ANF
+2019-09-03,Morgan Stanley,Underweight,,main,ANF
+2019-09-04,Wolfe Research,Peer Perform,Underperform,up,ANF
+2019-09-18,DA Davidson,Neutral,,init,ANF
+2020-01-07,Wedbush,Neutral,,main,ANF
+2020-01-14,Baird,Neutral,,main,ANF
+2020-03-11,Wedbush,Outperform,Neutral,up,ANF
+2020-03-26,B. Riley FBR,Neutral,,main,ANF
+2020-04-03,B. Riley,Buy,Neutral,up,ANF
+2020-04-14,B. Riley FBR,Buy,,main,ANF
+2020-04-21,Morgan Stanley,Underweight,,main,ANF
+2020-08-12,UBS,Neutral,,init,ANF
+2020-08-28,B of A Securities,Underperform,,main,ANF
+2020-08-31,Morgan Stanley,Underweight,,main,ANF
+2020-11-25,UBS,Neutral,,main,ANF
+2020-11-25,B of A Securities,Underperform,,main,ANF
+2020-12-01,Morgan Stanley,Underweight,,main,ANF
+2021-03-04,Morgan Stanley,Underweight,,main,ANF
+2021-04-07,UBS,Buy,Neutral,up,ANF
+2021-05-19,Telsey Advisory Group,Outperform,,main,ANF
+2021-05-27,Telsey Advisory Group,Outperform,,main,ANF
+2021-06-04,Morgan Stanley,Underweight,,main,ANF
+2021-06-08,Argus Research,Buy,Hold,up,ANF
+2021-06-09,Jefferies,Buy,Hold,up,ANF
+2022-01-07,UBS,Neutral,Buy,down,ANF
+2022-01-11,Telsey Advisory Group,Outperform,,main,ANF

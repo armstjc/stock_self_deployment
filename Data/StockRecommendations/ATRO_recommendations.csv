@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Dougherty,Buy,,up,ATRO
+2012-09-27,Topeka,Buy,,init,ATRO
+2012-10-19,KeyBanc,Hold,,init,ATRO
+2013-02-11,KeyBanc,Buy,Hold,up,ATRO
+2013-03-21,Topeka,Buy,,main,ATRO
+2014-08-07,Canaccord Genuity,Buy,,init,ATRO
+2014-09-05,DA Davidson,Buy,,init,ATRO
+2015-03-23,Sidoti & Co.,Neutral,Buy,down,ATRO
+2015-04-07,Canaccord Genuity,Buy,,main,ATRO
+2015-04-10,DA Davidson,Buy,,main,ATRO
+2015-08-27,CL King,Buy,,init,ATRO
+2015-11-11,Canaccord Genuity,Buy,,main,ATRO
+2016-02-18,KeyBanc,Overweight,Sector Weight,up,ATRO
+2016-09-26,Canaccord Genuity,Buy,,main,ATRO
+2017-01-19,SunTrust Robinson Humphrey,Hold,,init,ATRO
+2017-08-03,Canaccord Genuity,Buy,,main,ATRO
+2018-02-27,Canaccord Genuity,Buy,Buy,main,ATRO
+2018-05-10,Canaccord Genuity,Hold,Buy,down,ATRO
+2018-10-16,Canaccord Genuity,Hold,Hold,main,ATRO
+2019-05-01,Seaport Global,Buy,,init,ATRO
+2019-06-14,SunTrust Robinson Humphrey,Sell,Hold,down,ATRO
+2020-02-27,SunTrust Robinson Humphrey,Sell,,main,ATRO
+2020-04-01,Canaccord Genuity,Hold,,main,ATRO
+2020-05-07,SunTrust Robinson Humphrey,Sell,,main,ATRO
+2020-05-07,Canaccord Genuity,Hold,,main,ATRO
+2020-08-03,Canaccord Genuity,Hold,,main,ATRO
+2020-11-02,Canaccord Genuity,Hold,,main,ATRO
+2020-11-20,Canaccord Genuity,Buy,Hold,up,ATRO
+2020-12-01,Truist Securities,Hold,Sell,up,ATRO

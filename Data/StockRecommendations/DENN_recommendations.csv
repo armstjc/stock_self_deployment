@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-04,Wedbush,Outperform,,init,DENN
+2013-02-05,Wedbush,Outperform,,init,DENN
+2013-02-19,Feltl & Co.,Hold,Buy,down,DENN
+2013-05-01,Feltl & Co.,Buy,Hold,up,DENN
+2013-07-30,Roth Capital,Neutral,Buy,down,DENN
+2013-09-10,Janney Capital,Buy,,init,DENN
+2013-11-27,Janney Capital,Neutral,Buy,down,DENN
+2014-02-18,Wedbush,Neutral,Outperform,down,DENN
+2014-11-24,Janney Capital,Buy,Neutral,up,DENN
+2014-12-15,Stephens & Co.,Equal-Weight,Overweight,down,DENN
+2015-04-09,Longbow Research,Buy,,init,DENN
+2015-05-05,Stephens & Co.,Equal-Weight,,main,DENN
+2015-06-05,Wedbush,Outperform,Neutral,up,DENN
+2016-01-12,Stephens & Co.,Equal-Weight,,main,DENN
+2016-01-27,Stephens & Co.,Overweight,,up,DENN
+2016-01-28,Stephens & Co.,Overweight,Equal-Weight,up,DENN
+2016-04-20,Nomura,Neutral,,init,DENN
+2018-05-02,Longbow Research,Neutral,Buy,down,DENN
+2018-07-31,Wedbush,Outperform,Outperform,main,DENN
+2018-09-12,Stephens & Co.,Equal-Weight,Overweight,down,DENN
+2018-10-31,Stephens & Co.,Overweight,Equal-Weight,up,DENN
+2018-12-11,Maxim Group,Buy,,init,DENN
+2019-04-03,Kalinowski,Buy,,init,DENN
+2019-06-11,Maxim Group,Hold,Buy,down,DENN
+2019-09-19,Oppenheimer,Outperform,,init,DENN
+2019-09-27,MKM Partners,Neutral,,init,DENN
+2019-12-04,Maxim Group,Buy,Hold,up,DENN
+2019-12-10,SunTrust Robinson Humphrey,Hold,,init,DENN
+2020-03-20,Stephens & Co.,Overweight,,main,DENN
+2020-04-01,SunTrust Robinson Humphrey,Buy,Hold,up,DENN
+2020-04-08,Oppenheimer,Outperform,,main,DENN
+2020-04-20,MKM Partners,Neutral,,main,DENN
+2020-05-15,Wedbush,Outperform,,main,DENN
+2020-05-15,MKM Partners,Neutral,,main,DENN
+2020-05-15,SunTrust Robinson Humphrey,Buy,,main,DENN
+2020-07-13,Stephens & Co.,Equal-Weight,Overweight,down,DENN
+2020-07-14,Wedbush,Outperform,,main,DENN
+2020-07-29,Wedbush,Outperform,,main,DENN
+2020-11-13,Wedbush,Outperform,,main,DENN
+2020-12-14,Wells Fargo,Overweight,,init,DENN
+2021-01-07,Stephens & Co.,Equal-Weight,,main,DENN
+2021-02-08,Truist Securities,Hold,Buy,down,DENN
+2021-02-17,Wedbush,Outperform,,main,DENN
+2021-03-12,Stephens & Co.,Overweight,Equal-Weight,up,DENN
+2021-04-09,Keybanc,Sector Weight,,init,DENN
+2021-04-26,Wedbush,Outperform,,main,DENN
+2021-04-28,Wells Fargo,Overweight,,main,DENN
+2021-05-05,Wedbush,Outperform,,main,DENN
+2021-08-25,Wedbush,Outperform,,main,DENN
+2021-10-08,Deutsche Bank,Hold,,init,DENN
+2021-10-21,Truist Securities,Buy,Hold,up,DENN
+2021-10-28,Wedbush,Outperform,,main,DENN
+2021-11-03,Wells Fargo,Overweight,,main,DENN
+2021-12-02,Benchmark,Buy,,init,DENN

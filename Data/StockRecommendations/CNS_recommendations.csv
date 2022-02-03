@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-16,Deutsche Bank,Hold,,main,CNS
+2012-04-03,Deutsche Bank,Hold,,main,CNS
+2012-04-11,Bank oferica,Buy,,up,CNS
+2012-04-13,Credit Suisse,Neutral,,down,CNS
+2012-09-12,Goldman Sachs,Sell,Neutral,down,CNS
+2013-04-03,Bank of America,Underperform,Buy,down,CNS
+2013-04-08,Sidoti & Co.,Buy,,init,CNS
+2014-04-21,Bank of America,Underperform,,main,CNS
+2014-10-14,Bank of America,Underperform,,main,CNS
+2014-10-16,Gabelli & Co.,Buy,Hold,up,CNS
+2015-06-12,Oppenheimer,Outperform,,init,CNS
+2016-03-15,Bank of America,Buy,Underperform,up,CNS
+2016-04-11,Sidoti & Co.,Buy,,init,CNS
+2016-07-14,Credit Suisse,Neutral,,init,CNS
+2016-07-15,Credit Suisse,Neutral,,init,CNS
+2016-10-14,Keefe Bruyette & Woods,Market Perform,,main,CNS
+2017-10-20,Credit Suisse,Neutral,,main,CNS
+2017-10-20,Bank of America,Underperform,,main,CNS
+2018-01-11,Gabelli & Co.,Hold,Buy,down,CNS
+2018-01-26,Keefe Bruyette & Woods,Underperform,Market Perform,down,CNS
+2018-04-16,Gabelli & Co.,Buy,Hold,up,CNS
+2018-07-20,Credit Suisse,Neutral,Neutral,main,CNS
+2019-01-25,Keefe Bruyette & Woods,Market Perform,Underperform,up,CNS
+2019-02-21,Keefe Bruyette & Woods,Underperform,Market Perform,down,CNS
+2019-04-22,Gabelli & Co.,Hold,Buy,down,CNS
+2020-03-23,B of A Securities,Underperform,,main,CNS
+2020-04-24,B of A Securities,Neutral,Underperform,up,CNS
+2020-11-19,B of A Securities,Buy,Neutral,up,CNS

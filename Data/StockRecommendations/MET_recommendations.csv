@@ -1,0 +1,135 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Barclays,Overweight,,main,MET
+2012-07-10,JP Morgan,Overweight,,main,MET
+2012-07-18,UBS,Buy,,init,MET
+2012-08-10,UBS,Buy,,main,MET
+2012-12-06,Barclays,Equal-Weight,Overweight,down,MET
+2012-12-13,Sterne Agee,Buy,,main,MET
+2012-12-13,Morgan Stanley,Overweight,,main,MET
+2013-01-08,Deutsche Bank,Hold,,init,MET
+2013-01-09,Citigroup,Neutral,,init,MET
+2013-01-10,Citigroup,Neutral,,init,MET
+2013-02-21,Deutsche Bank,Hold,,main,MET
+2013-04-03,JP Morgan,Overweight,,main,MET
+2013-06-03,Deutsche Bank,Buy,Hold,up,MET
+2013-07-12,Raymond James,Perform,Outperform,down,MET
+2013-07-18,Deutsche Bank,Buy,,main,MET
+2013-09-04,Barclays,Overweight,Equal-Weight,up,MET
+2013-09-20,Goldman Sachs,Buy,,main,MET
+2013-11-15,Deutsche Bank,Buy,,main,MET
+2013-12-13,Credit Suisse,Outperform,,main,MET
+2014-01-03,Janney Capital,Buy,Neutral,up,MET
+2014-01-06,UBS,Neutral,Buy,down,MET
+2014-01-08,Citigroup,Buy,Neutral,up,MET
+2014-05-01,Keefe Bruyette & Woods,Outperform,,init,MET
+2014-06-11,Barclays,Overweight,,main,MET
+2014-07-01,JP Morgan,Overweight,,main,MET
+2014-07-07,Drexel Hamilton,Buy,,init,MET
+2014-07-09,Citigroup,Buy,,main,MET
+2014-07-14,Deutsche Bank,Buy,,main,MET
+2014-07-17,Sterne Agee,Buy,,main,MET
+2014-10-13,Sterne Agee,Buy,,main,MET
+2014-12-03,Atlantic Equities,Neutral,,init,MET
+2014-12-15,Keefe Bruyette & Woods,Market Perform,,main,MET
+2014-12-17,Citigroup,Buy,,main,MET
+2015-01-07,Deutsche Bank,Buy,,main,MET
+2015-01-27,Keefe Bruyette & Woods,Outperform,,main,MET
+2015-02-17,Citigroup,Buy,,main,MET
+2015-04-09,Deutsche Bank,Buy,,main,MET
+2015-05-08,Deutsche Bank,Buy,,main,MET
+2015-05-15,Goldman Sachs,Neutral,,init,MET
+2015-06-22,RBC Capital,Outperform,Sector Perform,up,MET
+2015-07-02,Citigroup,Buy,,main,MET
+2015-07-15,Deutsche Bank,Buy,,main,MET
+2015-10-05,JP Morgan,Overweight,,main,MET
+2015-10-12,Keefe Bruyette & Woods,Outperform,,main,MET
+2015-11-06,Deutsche Bank,Buy,,main,MET
+2015-11-11,Morgan Stanley,Equal-Weight,Overweight,down,MET
+2016-01-05,Citigroup,Neutral,Buy,down,MET
+2016-01-14,Deutsche Bank,Buy,,main,MET
+2016-01-14,Macquarie,Outperform,Neutral,up,MET
+2016-01-22,Raymond James,Strong Buy,Market Perform,up,MET
+2016-02-04,Barclays,Overweight,,main,MET
+2016-02-04,Macquarie,Outperform,,main,MET
+2016-02-08,FBR Capital,Outperform,,main,MET
+2016-05-05,JP Morgan,Overweight,,main,MET
+2016-06-27,Sandler O'Neill,Buy,Hold,up,MET
+2016-07-07,Deutsche Bank,Buy,,main,MET
+2016-07-07,Citigroup,Neutral,,main,MET
+2016-07-13,Deutsche Bank,Hold,Buy,down,MET
+2016-10-07,Credit Suisse,Neutral,,init,MET
+2016-11-28,FBR Capital,Market Perform,Outperform,down,MET
+2017-01-23,Deutsche Bank,Buy,Hold,up,MET
+2017-01-26,Citigroup,Sell,,init,MET
+2017-03-06,Bank of America,Neutral,Buy,down,MET
+2017-05-25,FBR Capital,Outperform,Market Perform,up,MET
+2017-08-09,Argus,Buy,,main,MET
+2017-08-11,Barclays,Overweight,,main,MET
+2017-08-28,Credit Suisse,Neutral,,main,MET
+2017-10-05,Morgan Stanley,Equal-Weight,,main,MET
+2017-10-10,FBR Capital,Neutral,Buy,down,MET
+2017-10-18,Goldman Sachs,Buy,,init,MET
+2017-11-03,Morgan Stanley,Equal-Weight,,main,MET
+2017-11-06,Argus,Buy,,main,MET
+2017-11-10,Sandler O'Neill,Hold,Buy,down,MET
+2017-11-13,Morgan Stanley,Equal-Weight,,main,MET
+2018-01-30,Wells Fargo,Outperform,,main,MET
+2018-02-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,MET
+2018-03-02,UBS,Neutral,Neutral,main,MET
+2018-03-26,Atlantic Equities,Overweight,Neutral,up,MET
+2018-04-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,MET
+2018-04-25,Credit Suisse,Outperform,,init,MET
+2018-05-04,Deutsche Bank,Hold,Hold,main,MET
+2018-06-04,Goldman Sachs,Neutral,Buy,down,MET
+2018-07-09,Barclays,Overweight,Overweight,main,MET
+2018-07-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,MET
+2018-07-16,B. Riley FBR,Neutral,Neutral,main,MET
+2018-08-17,Credit Suisse,Outperform,Outperform,main,MET
+2018-10-08,UBS,Neutral,Neutral,main,MET
+2018-11-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,MET
+2018-12-17,RBC Capital,Outperform,Outperform,main,MET
+2019-01-16,Bank of America,Buy,Neutral,up,MET
+2019-03-19,Sandler O'Neill,Hold,Buy,down,MET
+2019-04-09,UBS,Neutral,Neutral,main,MET
+2019-04-12,Deutsche Bank,Hold,Hold,main,MET
+2019-05-22,Barclays,Overweight,,main,MET
+2019-07-10,Morgan Stanley,Equal-Weight,,main,MET
+2019-07-11,Wells Fargo,Outperform,,main,MET
+2019-07-16,Evercore ISI Group,In-Line,Outperform,down,MET
+2019-08-20,Morgan Stanley,Equal-Weight,,main,MET
+2019-09-13,Citigroup,Sell,,main,MET
+2019-10-10,UBS,Neutral,,main,MET
+2020-01-07,Morgan Stanley,Overweight,Equal-Weight,up,MET
+2020-01-23,B of A Securities,Buy,,main,MET
+2020-02-03,Credit Suisse,Outperform,,main,MET
+2020-02-27,Piper Sandler,Neutral,,main,MET
+2020-03-10,Piper Sandler,Neutral,,main,MET
+2020-03-17,Morgan Stanley,Overweight,,main,MET
+2020-03-17,Citigroup,Neutral,Sell,up,MET
+2020-04-01,Wells Fargo,Overweight,,main,MET
+2020-04-03,Piper Sandler,Neutral,,main,MET
+2020-04-27,Credit Suisse,Outperform,,main,MET
+2020-05-07,Morgan Stanley,Overweight,,main,MET
+2020-07-06,Morgan Stanley,Overweight,,main,MET
+2020-08-20,Morgan Stanley,Overweight,,main,MET
+2020-10-06,Morgan Stanley,Overweight,,main,MET
+2020-11-05,Morgan Stanley,Overweight,,main,MET
+2020-11-17,Credit Suisse,Outperform,,main,MET
+2020-11-18,Morgan Stanley,Overweight,,main,MET
+2020-12-08,Citigroup,Buy,Neutral,up,MET
+2021-01-06,Piper Sandler,Overweight,Neutral,up,MET
+2021-01-15,Morgan Stanley,Overweight,,main,MET
+2021-02-04,Morgan Stanley,Overweight,,main,MET
+2021-02-25,Morgan Stanley,Overweight,,main,MET
+2021-04-01,Morgan Stanley,Overweight,,main,MET
+2021-04-21,UBS,Buy,,init,MET
+2021-05-06,Morgan Stanley,Overweight,,main,MET
+2021-05-13,Credit Suisse,Outperform,,main,MET
+2021-06-21,Citigroup,Buy,,main,MET
+2021-07-15,Morgan Stanley,Overweight,,main,MET
+2021-08-05,Morgan Stanley,Overweight,,main,MET
+2021-10-12,Barclays,Overweight,,main,MET
+2021-10-14,Morgan Stanley,Overweight,,main,MET
+2021-12-03,Goldman Sachs,Buy,,init,MET
+2022-01-04,Wells Fargo,Overweight,,main,MET
+2022-01-05,Evercore ISI Group,Outperform,In-Line,up,MET

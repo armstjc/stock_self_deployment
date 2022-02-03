@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-02,Bank oferica,Neutral,,main,MSGS
+2012-05-04,Miller Tabak,Neutral,,main,MSGS
+2012-05-07,Stifel Nicolaus,Buy,,up,MSGS
+2012-05-16,Miller Tabak,Neutral,,main,MSGS
+2012-05-21,Bank oferica,Neutral,,main,MSGS
+2012-05-30,Morgan Stanley,Overweight,,main,MSGS
+2012-11-01,Albert Fried,Buy,,main,MSGS
+2012-12-12,Macquarie,Neutral,,init,MSGS
+2013-01-04,Albert Fried,Overweight,,main,MSGS
+2013-01-30,Stifel Nicolaus,Buy,,main,MSGS
+2013-01-31,Albert Fried,Overweight,,main,MSGS
+2013-03-28,B. Riley FBR,Buy,,init,MSGS
+2013-04-09,Stifel Nicolaus,Buy,,main,MSGS
+2013-04-18,Davenport,Buy,,init,MSGS
+2013-04-25,Albert Fried,Overweight,,main,MSGS
+2013-04-29,Credit Suisse,Outperform,,init,MSGS
+2013-06-12,Sterne Agee,Neutral,,init,MSGS
+2013-07-16,Credit Suisse,Outperform,,main,MSGS
+2013-09-11,ISI Group,Buy,,init,MSGS
+2013-09-11,Albert Fried,Overweight,,main,MSGS
+2014-02-04,Topeka,Buy,,init,MSGS
+2014-03-04,Needham,Hold,Buy,down,MSGS
+2014-05-02,Maxim Group,Hold,Buy,down,MSGS
+2014-07-21,Macquarie,Neutral,Outperform,down,MSGS
+2014-08-14,Topeka,Hold,Buy,down,MSGS
+2014-08-21,Stifel Nicolaus,Hold,Buy,down,MSGS
+2014-08-21,Macquarie,Neutral,,main,MSGS
+2014-08-22,ISI Group,Neutral,Buy,down,MSGS
+2014-10-02,JP Morgan,Neutral,,main,MSGS
+2014-10-28,ISI Group,Buy,Hold,up,MSGS
+2014-11-03,JP Morgan,Neutral,,main,MSGS
+2014-11-03,Topeka,Hold,,main,MSGS
+2014-11-13,Morgan Stanley,Equal-weight,Overweight,down,MSGS
+2015-01-28,Jefferies,Hold,,init,MSGS
+2015-03-13,BTIG Research,Buy,,init,MSGS
+2015-03-26,Evercore ISI Group,Hold,Buy,down,MSGS
+2015-03-30,Morgan Stanley,Overweight,Equal-Weight,up,MSGS
+2015-03-30,Topeka,Buy,Hold,up,MSGS
+2015-05-04,Stifel Nicolaus,Buy,Hold,up,MSGS
+2015-09-15,Evercore ISI Group,Buy,,up,MSGS
+2015-09-16,Stifel Nicolaus,Hold,Buy,down,MSGS
+2015-09-30,Stifel Nicolaus,Buy,Hold,up,MSGS
+2015-10-01,Jefferies,,,up,MSGS
+2015-10-01,JP Morgan,Overweight,,init,MSGS
+2015-10-07,Cantor Fitzgerald,Buy,,init,MSGS
+2015-10-22,Morgan Stanley,Equal-Weight,,init,MSGS
+2015-11-02,Macquarie,Neutral,,init,MSGS
+2015-11-03,Albert Fried,Market Perform,Overweight,down,MSGS
+2015-12-11,Guggenheim,Buy,,init,MSGS
+2016-08-09,Loop Capital,Buy,,init,MSGS
+2016-08-22,Jefferies,Hold,Buy,down,MSGS
+2016-08-22,Stifel Nicolaus,Buy,,main,MSGS
+2016-09-28,Albert Fried,Market Perform,,main,MSGS
+2017-01-30,Morgan Stanley,Overweight,Equal-Weight,up,MSGS
+2017-05-02,Bank of America,Buy,Buy,init,MSGS
+2017-07-25,Morgan Stanley,Overweight,,main,MSGS
+2017-08-18,Jefferies,Hold,,main,MSGS
+2017-11-06,Loop Capital,Buy,,main,MSGS
+2017-12-05,Morgan Stanley,Equal-Weight,Overweight,down,MSGS
+2018-05-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,MSGS
+2018-06-28,Jefferies,Buy,Hold,up,MSGS
+2018-06-29,Macquarie,Outperform,Neutral,up,MSGS
+2018-08-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,MSGS
+2018-08-21,Imperial Capital,Outperform,,init,MSGS
+2018-10-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,MSGS
+2018-11-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,MSGS
+2019-04-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,MSGS
+2019-05-09,Imperial Capital,Outperform,,main,MSGS
+2019-08-21,Imperial Capital,Outperform,,main,MSGS
+2019-08-22,Morgan Stanley,Equal-Weight,,main,MSGS
+2019-11-11,Imperial Capital,Outperform,,main,MSGS
+2019-11-18,Imperial Capital,Outperform,,main,MSGS
+2019-12-04,Imperial Capital,Outperform,,main,MSGS
+2019-12-17,Jefferies,Buy,,init,MSGS
+2020-01-24,Oppenheimer,Outperform,,init,MSGS
+2020-03-03,Imperial Capital,Outperform,,main,MSGS
+2020-03-27,Imperial Capital,Outperform,,main,MSGS
+2020-04-08,Imperial Capital,Outperform,,main,MSGS
+2020-04-13,Morgan Stanley,Equal-Weight,,main,MSGS
+2021-01-11,Barclays,Overweight,,init,MSGS
+2021-01-19,Morgan Stanley,Overweight,,main,MSGS
+2021-11-01,Morgan Stanley,Overweight,,main,MSGS
+2021-12-15,Morgan Stanley,Equal-Weight,Overweight,down,MSGS

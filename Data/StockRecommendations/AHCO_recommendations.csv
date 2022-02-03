@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-12-10,Deutsche Bank,Buy,,init,AHCO
+2019-12-11,SVB Leerink,Outperform,,init,AHCO
+2020-01-07,Jefferies,Buy,,init,AHCO
+2020-01-31,Stifel Nicolaus,Buy,,init,AHCO
+2020-02-26,Stifel,Buy,,main,AHCO
+2020-05-27,Stifel,Buy,,main,AHCO
+2020-06-09,RBC Capital,Outperform,,init,AHCO
+2020-07-01,SVB Leerink,Outperform,,init,AHCO
+2020-07-06,SVB Leerink,Outperform,,main,AHCO
+2020-08-10,Canaccord Genuity,Buy,,init,AHCO
+2020-11-05,SVB Leerink,Outperform,,main,AHCO
+2020-11-05,Canaccord Genuity,Buy,,main,AHCO
+2020-11-17,Baird,Outperform,,init,AHCO
+2020-11-19,Canaccord Genuity,Buy,,main,AHCO
+2020-12-02,SVB Leerink,Outperform,,main,AHCO
+2020-12-02,Canaccord Genuity,Buy,,main,AHCO
+2020-12-10,UBS,Buy,,init,AHCO
+2021-01-26,B of A Securities,Buy,,init,AHCO
+2021-03-18,Truist Securities,Buy,,init,AHCO
+2021-04-14,Baird,Neutral,Outperform,down,AHCO
+2021-07-14,Baird,Outperform,Neutral,up,AHCO
+2021-09-27,SVB Leerink,Outperform,,init,AHCO
+2021-11-05,SVB Leerink,Outperform,,main,AHCO

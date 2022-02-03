@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Wunderlich,Hold,,main,MFA
+2012-05-07,Deutsche Bank,Buy,,main,MFA
+2012-05-07,Jefferies,Buy,,main,MFA
+2012-07-23,Morgan Stanley,Overweight,,main,MFA
+2012-08-07,JP Morgan,Neutral,,main,MFA
+2012-09-17,Wunderlich,Hold,,main,MFA
+2012-10-01,Deutsche Bank,Buy,,main,MFA
+2012-11-07,Jefferies,Buy,,main,MFA
+2012-11-07,Deutsche Bank,Buy,,main,MFA
+2012-11-12,Wunderlich,Hold,,main,MFA
+2012-11-16,Wells Fargo,Outperform,Market Perform,up,MFA
+2013-01-08,Jefferies,Buy,,main,MFA
+2013-01-15,JP Morgan,Neutral,,main,MFA
+2013-02-04,Sandler O'Neill,Buy,Hold,up,MFA
+2013-03-05,Deutsche Bank,Hold,,main,MFA
+2013-03-07,Wunderlich,Hold,,main,MFA
+2013-04-05,Jefferies,Hold,Buy,down,MFA
+2013-07-11,Evercore Partners,Overweight,Equal-Weight,up,MFA
+2013-07-16,JP Morgan,Neutral,,main,MFA
+2013-08-02,Deutsche Bank,Hold,,main,MFA
+2013-08-02,FBR Capital,Outperform,,main,MFA
+2013-08-05,Wunderlich,Hold,,main,MFA
+2013-09-16,Compass Point,Buy,,init,MFA
+2014-02-13,Wunderlich,Hold,,main,MFA
+2014-08-05,Deutsche Bank,Hold,,main,MFA
+2014-10-24,JMP Securities,Market Outperform,,init,MFA
+2014-11-05,Keefe Bruyette & Woods,Market Perform,Outperform,down,MFA
+2014-11-05,Sterne Agee,Neutral,Buy,down,MFA
+2014-11-05,Deutsche Bank,Hold,,main,MFA
+2014-11-05,Wunderlich,Hold,,main,MFA
+2014-11-05,JMP Securities,Market Outperform,,main,MFA
+2015-02-13,Keefe Bruyette & Woods,Market Perform,,main,MFA
+2015-07-07,Wells Fargo,Outperform,Market Perform,up,MFA
+2016-01-15,Wells Fargo,Market Perform,Outperform,down,MFA
+2016-01-26,JP Morgan,Overweight,Neutral,up,MFA
+2016-02-19,Deutsche Bank,Hold,,main,MFA
+2016-04-11,Wells Fargo,Underperform,Market Perform,down,MFA
+2016-08-09,Deutsche Bank,Hold,,main,MFA
+2016-09-06,FBR Capital,Market Perform,Outperform,down,MFA
+2016-12-08,Compass Point,Neutral,Sell,up,MFA
+2017-05-08,Wells Fargo,Market Perform,Underperform,up,MFA
+2017-10-20,JMP Securities,Market Perform,Market Outperform,down,MFA
+2018-07-23,JP Morgan,Neutral,Overweight,down,MFA
+2018-10-12,Raymond James,Market Perform,,init,MFA
+2018-12-17,JMP Securities,Market Outperform,Market Perform,up,MFA
+2019-10-10,Wedbush,Outperform,,init,MFA
+2020-02-25,RBC Capital,Outperform,,main,MFA
+2020-03-09,JMP Securities,Market Outperform,Market Perform,up,MFA
+2020-03-25,RBC Capital,Sector Perform,Outperform,down,MFA
+2020-03-25,Wedbush,Neutral,Outperform,down,MFA
+2020-04-13,JMP Securities,Market Perform,Market Outperform,down,MFA
+2020-06-17,Credit Suisse,Neutral,,main,MFA
+2020-08-24,JMP Securities,Market Outperform,Market Perform,up,MFA
+2020-11-24,BTIG,Buy,,init,MFA
+2021-01-22,JMP Securities,Market Outperform,,main,MFA
+2021-05-19,RBC Capital,Sector Perform,,main,MFA
+2021-11-08,BTIG,Neutral,Buy,down,MFA
+2021-12-08,Raymond James,Outperform,Market Perform,up,MFA

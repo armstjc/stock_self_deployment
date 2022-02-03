@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CHUY220218C00037500,2022-01-05 16:42:11+00:00,37.5,0.4,0.0,2.25,0.099999994,33.333332,3,1,2.02344244140625,False,REGULAR,USD,CHUY

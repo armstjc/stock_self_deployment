@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-23,Janney Capital,Neutral,Buy,down,JBT
+2013-08-20,Global Hunter Securities,Speculative Buy,,init,JBT
+2013-10-31,CJS Securities,Market Perform,Market Outperform,down,JBT
+2015-05-01,Seaport Global,Buy,Speculative Buy,up,JBT
+2016-04-19,William Blair,Outperform,,init,JBT
+2016-06-17,BB&T Capital,Buy,,init,JBT
+2017-02-28,Sidoti & Co.,Buy,Neutral,up,JBT
+2017-03-13,Baird,Outperform,,init,JBT
+2017-03-13,Wells Fargo,Outperform,,init,JBT
+2017-04-10,BMO Capital,Outperform,,init,JBT
+2017-04-12,CL King,Buy,,up,JBT
+2017-06-02,JP Morgan,Neutral,,init,JBT
+2017-10-25,Baird,Outperform,,main,JBT
+2017-12-08,Bank of America,Underperform,Neutral,down,JBT
+2018-02-28,Wells Fargo,Outperform,Outperform,main,JBT
+2018-03-05,BMO Capital,Outperform,Outperform,main,JBT
+2018-04-23,Baird,Neutral,Outperform,down,JBT
+2018-05-04,Bank of America,Underperform,Underperform,main,JBT
+2018-05-09,BMO Capital,Outperform,Outperform,main,JBT
+2018-07-31,BMO Capital,Outperform,Outperform,main,JBT
+2018-09-21,JP Morgan,Underweight,Neutral,down,JBT
+2018-11-02,Baird,Neutral,Neutral,main,JBT
+2018-12-07,Wells Fargo,Outperform,Outperform,main,JBT
+2019-02-27,Wells Fargo,Outperform,Outperform,main,JBT
+2019-05-01,Wells Fargo,Outperform,Outperform,main,JBT
+2019-10-10,JP Morgan,Underweight,,main,JBT
+2020-03-16,Wells Fargo,Overweight,,main,JBT
+2020-05-01,Wells Fargo,Overweight,,main,JBT
+2021-02-05,Baird,Neutral,,main,JBT
+2021-02-24,Baird,Neutral,,main,JBT
+2021-02-24,Wells Fargo,Overweight,,main,JBT
+2021-04-28,Wells Fargo,Overweight,,main,JBT
+2021-05-26,Baird,Outperform,Neutral,up,JBT
+2021-10-04,JP Morgan,Neutral,Underweight,up,JBT

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MNR220617C00020000,2022-01-05 16:01:07+00:00,20.0,1.2,0.85,1.2,0.05000007,4.3478327,5,41,0.117196328125,True,REGULAR,USD,MNR

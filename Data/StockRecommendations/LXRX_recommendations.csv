@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-26,Stifel Nicolaus,Buy,,main,LXRX
+2012-09-13,Gabelli & Co.,Buy,,init,LXRX
+2013-05-29,Jefferies,Buy,,init,LXRX
+2013-05-30,Jefferies,Buy,,init,LXRX
+2013-06-11,Morgan Stanley,Underweight,Equal-Weight,down,LXRX
+2013-12-06,Bank of America,Underperform,,init,LXRX
+2014-08-19,Gabelli & Co.,Hold,Buy,down,LXRX
+2014-11-05,Stifel Nicolaus,Buy,,main,LXRX
+2015-03-05,Stifel Nicolaus,Buy,,main,LXRX
+2015-08-03,Wedbush,Outperform,,main,LXRX
+2015-08-10,JP Morgan,Neutral,Overweight,down,LXRX
+2015-09-28,Gabelli & Co.,Hold,,up,LXRX
+2016-08-02,Citigroup,Buy,,init,LXRX
+2016-08-05,Stifel Nicolaus,Buy,,main,LXRX
+2016-09-12,Citigroup,Buy,,main,LXRX
+2016-10-07,H.C. Wainwright,Buy,,init,LXRX
+2018-02-14,JP Morgan,Underweight,Neutral,down,LXRX
+2018-02-14,JP Morgan,Underweight,Underweight,main,LXRX
+2018-04-16,Wedbush,Outperform,Outperform,main,LXRX
+2018-05-04,Stifel Nicolaus,Buy,Buy,main,LXRX
+2018-05-04,Citigroup,Buy,Buy,main,LXRX
+2018-07-31,Stifel Nicolaus,Buy,Buy,main,LXRX
+2018-11-02,Citigroup,Buy,Buy,main,LXRX
+2019-03-14,Gabelli & Co.,Sell,Hold,down,LXRX
+2019-03-25,Gabelli & Co.,Hold,Sell,up,LXRX
+2019-07-29,Stifel Nicolaus,Hold,Buy,down,LXRX
+2019-07-30,Citigroup,Buy,,main,LXRX
+2019-09-11,Gabelli & Co.,Buy,Hold,up,LXRX
+2019-11-08,Citigroup,Neutral,Buy,down,LXRX
+2019-12-11,Gabelli & Co.,Hold,Buy,down,LXRX
+2020-04-28,Citigroup,Neutral,,main,LXRX
+2020-11-18,Gabelli & Co.,Buy,Hold,up,LXRX
+2020-12-08,Citigroup,Buy,Neutral,up,LXRX
+2021-01-29,JP Morgan,Neutral,Underweight,up,LXRX
+2021-01-29,Wedbush,Neutral,Outperform,down,LXRX

@@ -1,0 +1,264 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-06,SunTrust Robinson Humphrey,Buy,,init,FANG
+2012-11-06,Sterne Agee,Buy,,init,FANG
+2012-11-06,Wells Fargo,Outperform,,init,FANG
+2012-11-06,Credit Suisse,Outperform,,init,FANG
+2012-11-06,Wunderlich,Hold,,init,FANG
+2012-11-15,CK Cooper,Buy,,init,FANG
+2013-01-16,Sterne Agee,Neutral,Buy,down,FANG
+2013-01-18,Credit Suisse,Outperform,,main,FANG
+2013-02-07,Tudor Pickering,Accumulate,Buy,down,FANG
+2013-02-22,Brean Capital,Buy,,init,FANG
+2013-04-12,CK Cooper,Buy,,main,FANG
+2013-04-12,Wunderlich,Hold,,main,FANG
+2013-04-24,Canaccord Genuity,Buy,,init,FANG
+2013-05-16,Wunderlich,Buy,Hold,up,FANG
+2013-05-28,CK Cooper,Buy,,main,FANG
+2013-06-11,Topeka,Buy,,init,FANG
+2013-06-19,Wunderlich,Buy,,main,FANG
+2013-07-16,Miller Tabak,Buy,,init,FANG
+2013-07-17,Miller Tabak,Buy,,init,FANG
+2013-08-08,Wunderlich,Buy,,main,FANG
+2013-09-04,Raymond James,Outperform,,up,FANG
+2013-09-05,Wunderlich,Buy,,main,FANG
+2013-09-17,Northland Securities,Outperform,,init,FANG
+2013-09-24,Sterne Agee,Buy,Neutral,up,FANG
+2013-09-26,Canaccord Genuity,Hold,Buy,down,FANG
+2013-10-25,Wunderlich,Buy,,main,FANG
+2013-12-19,Roth Capital,Buy,,init,FANG
+2013-12-23,KLR Group,,Buy,down,FANG
+2014-02-19,Wunderlich,Buy,,main,FANG
+2014-02-20,Seaport Global,,,init,FANG
+2014-04-15,SunTrust Robinson Humphrey,Neutral,Buy,down,FANG
+2014-04-16,Wunderlich,Buy,,main,FANG
+2014-05-09,Roth Capital,Neutral,Buy,down,FANG
+2014-05-09,Mizuho,Buy,Buy,main,FANG
+2014-05-09,Wunderlich,Buy,Buy,main,FANG
+2014-06-02,SunTrust Robinson Humphrey,Buy,Neutral,up,FANG
+2014-06-25,SunTrust Robinson Humphrey,Buy,,main,FANG
+2014-07-01,Canaccord Genuity,Buy,,init,FANG
+2014-07-22,Roth Capital,Buy,Neutral,up,FANG
+2014-08-07,Raymond James,Outperform,,main,FANG
+2014-08-15,Tudor Pickering,Buy,Accumulate,up,FANG
+2014-09-09,GMP Securities,Buy,,init,FANG
+2014-10-22,Wunderlich,Buy,,main,FANG
+2015-03-26,Morgan Stanley,Overweight,,init,FANG
+2015-04-15,SunTrust Robinson Humphrey,Buy,,main,FANG
+2015-04-15,Goldman Sachs,Buy,,init,FANG
+2015-04-23,Tudor Pickering,Accumulate,Buy,down,FANG
+2015-06-04,Oppenheimer,Perform,,init,FANG
+2015-06-24,SunTrust Robinson Humphrey,Buy,,main,FANG
+2015-06-30,Stephens & Co.,Overweight,,init,FANG
+2015-07-13,Cowen & Co.,Outperform,,init,FANG
+2015-07-14,Cowen & Co.,Outperform,,init,FANG
+2015-08-11,Credit Suisse,Outperform,,main,FANG
+2015-09-08,Barclays,Equal-Weight,,init,FANG
+2015-09-08,Cowen & Co.,Market Perform,Outperform,down,FANG
+2015-10-02,Evercore ISI Group,Buy,,init,FANG
+2015-10-06,Topeka,Buy,,main,FANG
+2015-10-14,Barclays,Equal-Weight,,main,FANG
+2015-10-20,Canaccord Genuity,Buy,,init,FANG
+2015-11-17,Roth Capital,Buy,,main,FANG
+2015-12-02,Deutsche Bank,Buy,,init,FANG
+2015-12-03,Nomura,Buy,,init,FANG
+2015-12-09,JP Morgan,Overweight,,init,FANG
+2015-12-15,UBS,Neutral,,init,FANG
+2016-01-14,Cowen & Co.,Outperform,Market Perform,up,FANG
+2016-01-21,Deutsche Bank,Buy,,main,FANG
+2016-01-21,Nomura,Buy,,main,FANG
+2016-01-28,Barclays,Equal-Weight,,main,FANG
+2016-01-29,BMO Capital,Outperform,,init,FANG
+2016-01-29,Barclays,Equal-Weight,,main,FANG
+2016-02-03,GMP Securities,Buy,,init,FANG
+2016-02-09,JP Morgan,Overweight,,main,FANG
+2016-02-18,Canaccord Genuity,Buy,Hold,down,FANG
+2016-03-15,Clarksons Platou,Neutral,Buy,down,FANG
+2016-03-15,JP Morgan,Overweight,,main,FANG
+2016-03-28,Stephens & Co.,Equal-Weight,Overweight,down,FANG
+2016-03-29,Goldman Sachs,Buy,,main,FANG
+2016-05-05,Wunderlich,Buy,,main,FANG
+2016-05-05,Goldman Sachs,Buy,,main,FANG
+2016-05-09,Roth Capital,Neutral,Buy,down,FANG
+2016-06-14,Deutsche Bank,Buy,,main,FANG
+2016-07-13,Bank of America,Buy,,init,FANG
+2016-07-14,Morgan Stanley,Overweight,,main,FANG
+2016-07-14,Barclays,Equal-Weight,,main,FANG
+2016-07-20,Canaccord Genuity,Buy,Hold,up,FANG
+2016-08-04,SunTrust Robinson Humphrey,Buy,,main,FANG
+2016-08-08,Roth Capital,Neutral,Sell,up,FANG
+2016-08-10,Deutsche Bank,Buy,,main,FANG
+2016-08-22,KeyBanc,Overweight,,main,FANG
+2016-08-29,Williams Capital,Hold,,init,FANG
+2016-10-06,Mizuho Securities,Buy,,init,FANG
+2016-10-11,Canaccord Genuity,Buy,,main,FANG
+2016-10-11,Barclays,Equal-Weight,,main,FANG
+2016-10-17,Stephens & Co.,Overweight,Equal-Weight,up,FANG
+2016-12-16,Drexel Hamilton,Hold,,init,FANG
+2017-04-13,Stifel Nicolaus,Buy,,init,FANG
+2017-07-18,Imperial Capital,Outperform,,init,FANG
+2017-08-08,Barclays,Equal-Weight,,main,FANG
+2017-10-10,Jefferies,Buy,,init,FANG
+2017-10-11,Barclays,Equal-Weight,,main,FANG
+2017-10-18,Morgan Stanley,Overweight,,main,FANG
+2017-11-07,KeyBanc,Overweight,,main,FANG
+2017-11-08,Imperial Capital,Outperform,,main,FANG
+2017-11-20,Barclays,Overweight,Equal-Weight,up,FANG
+2017-12-01,Citigroup,Buy,,init,FANG
+2017-12-12,Credit Suisse,Outperform,,init,FANG
+2018-01-24,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-02-02,Deutsche Bank,Buy,,init,FANG
+2018-02-06,B. Riley FBR,Neutral,,init,FANG
+2018-02-07,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-03-07,UBS,Buy,,init,FANG
+2018-04-11,Stifel Nicolaus,Buy,Buy,main,FANG
+2018-04-20,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-04-23,KeyBanc,Overweight,Overweight,main,FANG
+2018-05-01,JP Morgan,Overweight,Overweight,main,FANG
+2018-05-22,JP Morgan,Overweight,Overweight,main,FANG
+2018-05-24,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-06-19,Jefferies,Buy,Buy,main,FANG
+2018-07-05,TD Securities,Buy,,init,FANG
+2018-07-11,Susquehanna,Positive,,init,FANG
+2018-07-12,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-08-15,BMO Capital,Market Perform,Outperform,down,FANG
+2018-08-16,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-08-17,BMO Capital,Market Perform,Market Perform,main,FANG
+2018-08-20,Williams Capital,Buy,Hold,up,FANG
+2018-09-26,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-10-03,Oppenheimer,Outperform,,init,FANG
+2018-10-12,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-11-20,Morgan Stanley,Overweight,Overweight,main,FANG
+2018-12-20,KeyBanc,Overweight,,init,FANG
+2019-01-16,Barclays,Overweight,,init,FANG
+2019-01-30,Mizuho,Buy,,init,FANG
+2019-02-21,Morgan Stanley,Overweight,Overweight,main,FANG
+2019-03-21,Morgan Stanley,Overweight,Overweight,main,FANG
+2019-04-22,KeyBanc,Overweight,Overweight,main,FANG
+2019-05-16,Morgan Stanley,Overweight,,main,FANG
+2019-05-21,Bank of America,Buy,,main,FANG
+2019-05-23,KeyBanc,Overweight,,main,FANG
+2019-06-03,Morgan Stanley,Overweight,,main,FANG
+2019-06-17,Credit Suisse,Outperform,,init,FANG
+2019-06-28,MKM Partners,Buy,,init,FANG
+2019-07-12,Morgan Stanley,Overweight,,main,FANG
+2019-07-16,KeyBanc,Overweight,,main,FANG
+2019-07-18,RBC Capital,Outperform,,init,FANG
+2019-08-12,Wells Fargo,Outperform,,main,FANG
+2019-08-14,Morgan Stanley,Overweight,,main,FANG
+2019-08-14,JP Morgan,Overweight,,main,FANG
+2019-08-22,Oppenheimer,Outperform,,main,FANG
+2019-09-05,TD Securities,Buy,Top Pick,down,FANG
+2019-09-20,Wells Fargo,Outperform,,main,FANG
+2019-09-23,Citigroup,Buy,,main,FANG
+2019-10-04,Morgan Stanley,Overweight,,main,FANG
+2019-10-09,JP Morgan,Overweight,,main,FANG
+2019-10-14,Morgan Stanley,Overweight,,main,FANG
+2019-10-15,KeyBanc,Overweight,,main,FANG
+2019-10-16,SunTrust Robinson Humphrey,Buy,,main,FANG
+2019-10-17,Raymond James,Strong Buy,,main,FANG
+2019-11-06,Morgan Stanley,Overweight,,main,FANG
+2019-11-06,Bank of America,Buy,,reit,FANG
+2019-11-06,RBC Capital,Outperform,,main,FANG
+2019-11-07,Raymond James,Strong Buy,,main,FANG
+2019-11-07,Imperial Capital,Outperform,,main,FANG
+2019-11-12,Wells Fargo,Outperform,,main,FANG
+2019-11-13,Morgan Stanley,Overweight,,main,FANG
+2019-12-06,Barclays,Overweight,,main,FANG
+2020-01-09,Wells Fargo,Overweight,,main,FANG
+2020-01-14,Imperial Capital,Outperform,,main,FANG
+2020-01-21,SunTrust Robinson Humphrey,Buy,,main,FANG
+2020-01-24,Wells Fargo,Overweight,,main,FANG
+2020-01-24,Raymond James,Strong Buy,,main,FANG
+2020-01-27,Morgan Stanley,Overweight,,main,FANG
+2020-02-20,MKM Partners,Buy,,main,FANG
+2020-03-09,SunTrust Robinson Humphrey,Hold,Buy,down,FANG
+2020-03-10,Wells Fargo,Overweight,,reit,FANG
+2020-03-16,Morgan Stanley,Equal-Weight,Overweight,down,FANG
+2020-03-19,Wells Fargo,Overweight,,main,FANG
+2020-03-25,Piper Sandler,Neutral,Overweight,down,FANG
+2020-03-26,KeyBanc,Overweight,,main,FANG
+2020-03-27,Citigroup,Buy,,main,FANG
+2020-03-27,Imperial Capital,Outperform,,main,FANG
+2020-03-31,UBS,Buy,,main,FANG
+2020-04-03,Wells Fargo,Overweight,,main,FANG
+2020-04-08,CFRA,Buy,,main,FANG
+2020-04-09,SunTrust Robinson Humphrey,Hold,,main,FANG
+2020-04-29,Citigroup,Buy,,main,FANG
+2020-05-05,TD Securities,Buy,,main,FANG
+2020-05-05,B of A Securities,Buy,,reit,FANG
+2020-05-06,SunTrust Robinson Humphrey,Hold,,main,FANG
+2020-05-06,Imperial Capital,Outperform,,main,FANG
+2020-05-07,Raymond James,Outperform,,main,FANG
+2020-05-19,Morgan Stanley,Equal-Weight,,main,FANG
+2020-06-03,Barclays,Overweight,,main,FANG
+2020-06-10,Imperial Capital,Outperform,,main,FANG
+2020-06-11,KeyBanc,Overweight,,main,FANG
+2020-06-22,Goldman Sachs,Neutral,Buy,down,FANG
+2020-06-25,Wells Fargo,Overweight,,main,FANG
+2020-06-25,SunTrust Robinson Humphrey,Buy,Hold,up,FANG
+2020-06-29,BMO Capital,Market Perform,Outperform,down,FANG
+2020-06-29,UBS,Buy,,main,FANG
+2020-07-08,Morgan Stanley,Equal-Weight,,main,FANG
+2020-07-13,ScotiaBank,Sector Outperform,,main,FANG
+2020-07-16,Imperial Capital,Outperform,,main,FANG
+2020-07-20,Raymond James,Outperform,,main,FANG
+2020-07-21,Piper Sandler,Overweight,Neutral,up,FANG
+2020-07-27,Seaport Global,Buy,,init,FANG
+2020-08-13,Wells Fargo,Overweight,,main,FANG
+2020-08-13,Piper Sandler,Overweight,,main,FANG
+2020-08-21,Morgan Stanley,Equal-Weight,,main,FANG
+2020-10-14,KeyBanc,Overweight,,main,FANG
+2020-10-19,Morgan Stanley,Equal-Weight,,main,FANG
+2020-10-20,KeyBanc,Overweight,,main,FANG
+2020-10-21,Raymond James,Outperform,,main,FANG
+2020-10-28,Barclays,Equal-Weight,Overweight,down,FANG
+2020-11-09,Morgan Stanley,Equal-Weight,,main,FANG
+2020-11-17,Morgan Stanley,Equal-Weight,,main,FANG
+2020-12-11,Morgan Stanley,Overweight,Equal-Weight,up,FANG
+2021-01-07,KeyBanc,Overweight,,main,FANG
+2021-01-14,KeyBanc,Overweight,,main,FANG
+2021-01-20,Morgan Stanley,Overweight,,main,FANG
+2021-01-21,KeyBanc,Overweight,,main,FANG
+2021-01-26,Raymond James,Strong Buy,Outperform,up,FANG
+2021-02-01,ScotiaBank,Sector Outperform,,init,FANG
+2021-02-04,KeyBanc,Overweight,,main,FANG
+2021-02-11,KeyBanc,Overweight,,main,FANG
+2021-02-23,Roth Capital,Buy,,main,FANG
+2021-03-08,Truist Securities,Buy,,main,FANG
+2021-03-11,Morgan Stanley,Overweight,,main,FANG
+2021-03-11,KeyBanc,Overweight,,main,FANG
+2021-04-09,Keybanc,Overweight,,main,FANG
+2021-04-15,Scotiabank,Sector Perform,Outperform,down,FANG
+2021-04-19,Morgan Stanley,Overweight,,main,FANG
+2021-04-20,Mizuho,Buy,,main,FANG
+2021-04-27,Roth Capital,Buy,,main,FANG
+2021-04-28,Roth Capital,Buy,,main,FANG
+2021-04-28,Barclays,Equal-Weight,,main,FANG
+2021-05-04,Credit Suisse,Outperform,,main,FANG
+2021-05-17,Mizuho,Buy,,main,FANG
+2021-05-19,Wells Fargo,Overweight,,main,FANG
+2021-05-21,Scotiabank,Sector Outperform,Sector Perform,up,FANG
+2021-06-03,Barclays,Equal-Weight,,main,FANG
+2021-06-08,Johnson Rice,Accumulate,Hold,up,FANG
+2021-06-18,Morgan Stanley,Overweight,,main,FANG
+2021-06-24,Keybanc,Overweight,,main,FANG
+2021-07-01,Truist Securities,Buy,,main,FANG
+2021-07-07,Wells Fargo,Overweight,,main,FANG
+2021-07-15,Mizuho,Buy,,main,FANG
+2021-07-19,Morgan Stanley,Overweight,,main,FANG
+2021-07-21,Keybanc,Overweight,,main,FANG
+2021-08-13,Mizuho,Buy,,main,FANG
+2021-08-23,Morgan Stanley,Overweight,,main,FANG
+2021-09-15,Truist Securities,Buy,,main,FANG
+2021-10-06,Morgan Stanley,Overweight,,main,FANG
+2021-10-07,Truist Securities,Buy,,main,FANG
+2021-10-07,Keybanc,Overweight,,main,FANG
+2021-10-14,Keybanc,Overweight,,main,FANG
+2021-10-19,Keybanc,Overweight,,main,FANG
+2021-10-26,Raymond James,Strong Buy,,main,FANG
+2021-11-02,Credit Suisse,Outperform,,main,FANG
+2021-11-17,Scotiabank,Sector Perform,Sector Outperform,down,FANG
+2021-11-19,Wells Fargo,Overweight,,main,FANG
+2021-11-19,Morgan Stanley,Overweight,,main,FANG
+2022-01-06,Keybanc,Overweight,,main,FANG
+2022-01-13,Keybanc,Overweight,,main,FANG

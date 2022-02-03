@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AVT220819C00047000,2021-12-29 17:07:08+00:00,47.0,1.85,1.55,2.05,0.0,0.0,,250,0.32617861328125,False,REGULAR,USD,AVT

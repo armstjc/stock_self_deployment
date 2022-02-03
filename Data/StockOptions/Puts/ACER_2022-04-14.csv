@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACER220414P00002500,2022-01-21 14:30:00+00:00,2.5,0.68,0.4,1.0,0.0,0.0,1,151,1.2460975195312498,True,REGULAR,USD,ACER
+ACER220414P00002500,2021-12-29 18:40:11+00:00,2.5,0.63,0.45,0.8,0.0,0.0,1,151,1.0546922265625,True,REGULAR,USD,ACER

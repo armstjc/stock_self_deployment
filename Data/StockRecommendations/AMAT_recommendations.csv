@@ -1,0 +1,278 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,PiperJaffray,Overweight,,main,AMAT
+2012-05-07,UBS,Neutral,,main,AMAT
+2012-05-16,JP Morgan,Neutral,,main,AMAT
+2012-05-18,Stifel Nicolaus,Buy,,main,AMAT
+2012-05-18,Bank oferica,Neutral,,main,AMAT
+2012-07-11,PiperJaffray,Overweight,,main,AMAT
+2012-07-18,Credit Suisse,Neutral,,main,AMAT
+2012-11-13,DA Davidson,Buy,,main,AMAT
+2012-11-14,PiperJaffray,Overweight,,main,AMAT
+2013-01-07,JP Morgan,Underweight,Neutral,down,AMAT
+2013-01-18,UBS,Neutral,,main,AMAT
+2013-02-11,DA Davidson,Buy,,main,AMAT
+2013-02-14,Stifel Nicolaus,Buy,,main,AMAT
+2013-02-14,Deutsche Bank,Hold,,main,AMAT
+2013-02-14,Credit Suisse,Neutral,,main,AMAT
+2013-02-14,DA Davidson,Buy,,main,AMAT
+2013-02-26,Goldman Sachs,Buy,,main,AMAT
+2013-05-14,Pacific Crest,Market Outperform,Market Perform,up,AMAT
+2013-05-17,PiperJaffray,Overweight,,main,AMAT
+2013-05-17,DA Davidson,Neutral,Buy,down,AMAT
+2013-06-03,Deutsche Bank,Hold,,main,AMAT
+2013-06-12,Citigroup,Buy,Neutral,up,AMAT
+2013-07-23,Berenberg,Hold,,init,AMAT
+2013-08-16,Credit Suisse,Neutral,,main,AMAT
+2013-08-16,DA Davidson,Buy,Neutral,up,AMAT
+2013-08-28,Northland Securities,Outperform,,init,AMAT
+2013-09-26,Berenberg,Buy,Hold,up,AMAT
+2013-10-14,JP Morgan,Neutral,,init,AMAT
+2013-11-11,RBC Capital,Outperform,,main,AMAT
+2013-11-11,Stifel Nicolaus,Buy,,main,AMAT
+2013-11-15,Needham,Hold,,main,AMAT
+2013-11-15,DA Davidson,Buy,,main,AMAT
+2013-11-15,Citigroup,Buy,,main,AMAT
+2013-11-15,Deutsche Bank,Hold,,main,AMAT
+2013-11-29,LBBW Research,Buy,Hold,up,AMAT
+2014-02-03,RBC Capital,Sector Perform,Outperform,down,AMAT
+2014-02-13,DA Davidson,Buy,,main,AMAT
+2014-03-20,Nomura,Buy,,init,AMAT
+2014-03-24,Bank of America,Neutral,,main,AMAT
+2014-04-10,ISI Group,Strong Buy,,init,AMAT
+2014-04-22,Citigroup,Buy,,main,AMAT
+2014-04-23,Summit Research Partners,Buy,,init,AMAT
+2014-05-16,UBS,Neutral,,main,AMAT
+2014-05-16,Credit Suisse,Neutral,,main,AMAT
+2014-06-09,S&P Capital IQ,Strong Buy,Hold,up,AMAT
+2014-06-25,Citigroup,Buy,,main,AMAT
+2014-06-27,Deutsche Bank,Hold,,main,AMAT
+2014-07-07,JP Morgan,Overweight,Neutral,up,AMAT
+2014-07-09,UBS,Neutral,,main,AMAT
+2014-07-15,B. Riley FBR,Buy,Neutral,up,AMAT
+2014-08-15,Credit Suisse,Neutral,,main,AMAT
+2014-10-08,CLSA,Outperform,Underperform,up,AMAT
+2014-10-15,Bank of America,Buy,Neutral,up,AMAT
+2014-11-13,Credit Suisse,Outperform,Neutral,up,AMAT
+2014-11-14,Jefferies,Buy,,main,AMAT
+2014-11-14,Bank of America,Buy,,main,AMAT
+2014-12-08,Deutsche Bank,Buy,Hold,up,AMAT
+2014-12-09,Stifel Nicolaus,Buy,,main,AMAT
+2014-12-18,Citigroup,Buy,,main,AMAT
+2015-02-12,Jefferies,Buy,,main,AMAT
+2015-04-28,Nomura,Neutral,Buy,down,AMAT
+2015-04-28,Stifel Nicolaus,Buy,,main,AMAT
+2015-04-28,Pacific Crest,Overweight,,main,AMAT
+2015-05-06,Citigroup,Buy,,main,AMAT
+2015-06-24,Goldman Sachs,Buy,,main,AMAT
+2015-07-10,Susquehanna,Neutral,Negative,up,AMAT
+2015-08-03,Deutsche Bank,Buy,,main,AMAT
+2015-08-11,Summit Research Partners,Hold,Buy,down,AMAT
+2015-08-14,Jefferies,Buy,,main,AMAT
+2015-08-14,B. Riley FBR,Neutral,,main,AMAT
+2015-08-14,Pacific Crest,Overweight,,main,AMAT
+2015-09-17,Pacific Crest,Overweight,,main,AMAT
+2015-09-25,CLSA,Buy,Outperform,up,AMAT
+2015-10-05,RBC Capital,Underperform,Sector Perform,down,AMAT
+2015-10-08,KeyBanc,Overweight,,main,AMAT
+2015-10-23,Citigroup,Neutral,Buy,down,AMAT
+2015-10-26,Nomura,Buy,Neutral,up,AMAT
+2015-11-09,B. Riley FBR,Neutral,,main,AMAT
+2015-12-10,CLSA,Outperform,,down,AMAT
+2015-12-15,Morgan Stanley,Overweight,,init,AMAT
+2016-01-19,CLSA,Buy,Outperform,up,AMAT
+2016-02-03,Goldman Sachs,Buy,,main,AMAT
+2016-02-19,Deutsche Bank,Buy,,main,AMAT
+2016-02-19,B. Riley FBR,Neutral,,main,AMAT
+2016-03-10,Pacific Crest,Overweight,,main,AMAT
+2016-03-16,RBC Capital,Sector Perform,,init,AMAT
+2016-03-31,Exane BNP Paribas,Outperform,Underperform,up,AMAT
+2016-04-06,DA Davidson,Neutral,Buy,down,AMAT
+2016-04-14,UBS,Buy,Neutral,up,AMAT
+2016-04-19,Susquehanna,Negative,Neutral,down,AMAT
+2016-05-20,Cowen & Co.,Outperform,,main,AMAT
+2016-05-20,UBS,Buy,,main,AMAT
+2016-05-20,B. Riley FBR,Buy,Neutral,up,AMAT
+2016-05-25,Citigroup,Buy,Neutral,up,AMAT
+2016-05-27,Stifel Nicolaus,Buy,,main,AMAT
+2016-06-02,Goldman Sachs,Buy,,main,AMAT
+2016-08-09,Credit Suisse,Outperform,,main,AMAT
+2016-08-11,B. Riley FBR,Buy,,main,AMAT
+2016-08-12,Citigroup,Buy,,main,AMAT
+2016-08-15,Stifel Nicolaus,Buy,,main,AMAT
+2016-08-19,Citigroup,Buy,,main,AMAT
+2016-08-19,UBS,Buy,,main,AMAT
+2016-10-04,Goldman Sachs,Buy,,main,AMAT
+2016-12-19,Goldman Sachs,Neutral,Buy,down,AMAT
+2017-07-07,Citigroup,Buy,,main,AMAT
+2017-08-18,Stifel Nicolaus,Buy,,main,AMAT
+2017-08-18,Deutsche Bank,Buy,,main,AMAT
+2017-08-18,Nomura,Buy,,main,AMAT
+2017-08-18,KeyBanc,Overweight,,main,AMAT
+2017-08-18,Credit Suisse,Outperform,,main,AMAT
+2017-09-13,Goldman Sachs,Buy,Neutral,up,AMAT
+2017-09-18,RBC Capital,Outperform,Sector Perform,up,AMAT
+2017-09-28,B. Riley FBR,Buy,,main,AMAT
+2017-09-29,Nomura,Buy,,main,AMAT
+2017-11-15,Bank of America,Buy,,main,AMAT
+2017-11-17,Bank of America,Buy,,main,AMAT
+2017-11-17,Deutsche Bank,Buy,,main,AMAT
+2017-11-17,Morgan Stanley,Overweight,,main,AMAT
+2017-11-17,KeyBanc,Overweight,,main,AMAT
+2017-11-20,Citigroup,Buy,,main,AMAT
+2017-12-06,Wells Fargo,Outperform,,init,AMAT
+2018-01-08,Needham,Strong Buy,Buy,up,AMAT
+2018-01-16,Susquehanna,Positive,Neutral,up,AMAT
+2018-02-15,Deutsche Bank,Buy,Buy,main,AMAT
+2018-02-15,Stifel Nicolaus,Buy,Buy,main,AMAT
+2018-02-15,KeyBanc,Overweight,Overweight,main,AMAT
+2018-02-15,Credit Suisse,Outperform,Outperform,main,AMAT
+2018-02-26,Credit Suisse,Outperform,Outperform,main,AMAT
+2018-04-05,UBS,Neutral,,init,AMAT
+2018-05-15,Cowen & Co.,Market Perform,,init,AMAT
+2018-06-13,RBC Capital,Sector Perform,Outperform,down,AMAT
+2018-07-13,Citigroup,Buy,Buy,main,AMAT
+2018-08-06,Cowen & Co.,Outperform,Market Perform,up,AMAT
+2018-08-09,Morgan Stanley,Equal-Weight,Overweight,down,AMAT
+2018-08-17,Bank of America,Buy,Buy,main,AMAT
+2018-08-17,B. Riley FBR,Buy,Buy,main,AMAT
+2018-08-17,Deutsche Bank,Buy,Buy,main,AMAT
+2018-08-17,Citigroup,Buy,Buy,main,AMAT
+2018-08-17,Wells Fargo,Outperform,Outperform,main,AMAT
+2018-08-17,KeyBanc,Overweight,Overweight,main,AMAT
+2018-08-17,Stifel Nicolaus,Buy,Buy,main,AMAT
+2018-08-20,Citigroup,Buy,Buy,main,AMAT
+2018-08-20,Nomura,Buy,Buy,main,AMAT
+2018-08-28,Bank of America,Neutral,Buy,down,AMAT
+2018-09-25,Citigroup,Buy,Buy,main,AMAT
+2018-10-01,Deutsche Bank,Hold,Buy,down,AMAT
+2018-10-23,Susquehanna,Neutral,Positive,down,AMAT
+2018-10-29,B. Riley FBR,Neutral,Buy,down,AMAT
+2018-11-16,B. Riley FBR,Neutral,Neutral,main,AMAT
+2018-11-16,Wells Fargo,Outperform,Outperform,main,AMAT
+2018-11-16,Deutsche Bank,Hold,Hold,main,AMAT
+2018-11-16,KeyBanc,Overweight,Overweight,main,AMAT
+2018-11-16,Summit Insights Group,Hold,Buy,down,AMAT
+2019-01-29,RBC Capital,Outperform,Sector Perform,up,AMAT
+2019-05-15,Susquehanna,Positive,Neutral,up,AMAT
+2019-05-17,B. Riley FBR,Buy,Neutral,up,AMAT
+2019-05-17,Citigroup,Buy,,main,AMAT
+2019-05-17,Wells Fargo,Outperform,,main,AMAT
+2019-05-17,UBS,Neutral,,main,AMAT
+2019-06-07,Nomura,Neutral,,init,AMAT
+2019-07-08,DA Davidson,Neutral,Buy,down,AMAT
+2019-07-22,Goldman Sachs,Buy,Neutral,up,AMAT
+2019-08-16,Morgan Stanley,Equal-Weight,,main,AMAT
+2019-08-16,Craig-Hallum,Hold,Buy,down,AMAT
+2019-08-16,KeyBanc,Overweight,,main,AMAT
+2019-08-19,Citigroup,Buy,,main,AMAT
+2019-09-13,Needham,Buy,,main,AMAT
+2019-09-19,Wells Fargo,Outperform,,main,AMAT
+2019-09-23,Citigroup,Buy,,main,AMAT
+2019-10-10,Deutsche Bank,Hold,,main,AMAT
+2019-10-24,Craig-Hallum,Buy,Hold,up,AMAT
+2019-11-12,Wells Fargo,Outperform,,main,AMAT
+2019-11-15,KeyBanc,Overweight,,main,AMAT
+2019-11-15,Nomura,Buy,Neutral,up,AMAT
+2019-11-15,Needham,Buy,,main,AMAT
+2019-11-15,Morgan Stanley,Equal-Weight,,main,AMAT
+2019-11-15,DA Davidson,Neutral,,main,AMAT
+2019-11-15,Cowen & Co.,Outperform,,main,AMAT
+2019-11-15,RBC Capital,Outperform,,main,AMAT
+2019-11-15,Stifel Nicolaus,Buy,,main,AMAT
+2019-11-15,JP Morgan,Overweight,,main,AMAT
+2019-11-15,Wells Fargo,Outperform,,main,AMAT
+2019-11-21,UBS,Sell,Neutral,down,AMAT
+2019-12-18,Morgan Stanley,Equal-Weight,,main,AMAT
+2019-12-20,Wells Fargo,Overweight,,main,AMAT
+2020-01-02,Nomura,Buy,,main,AMAT
+2020-01-10,B of A Securities,Buy,Neutral,up,AMAT
+2020-02-03,Deutsche Bank,Buy,Hold,up,AMAT
+2020-02-10,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-02-13,KeyBanc,Overweight,,main,AMAT
+2020-02-13,B. Riley FBR,Buy,,reit,AMAT
+2020-02-13,Citigroup,Buy,,main,AMAT
+2020-02-13,Wells Fargo,Overweight,,main,AMAT
+2020-02-13,Credit Suisse,Outperform,,main,AMAT
+2020-02-13,Nomura,Buy,,main,AMAT
+2020-02-13,Needham,Buy,,main,AMAT
+2020-02-13,CFRA,Hold,,main,AMAT
+2020-02-13,B of A Securities,Buy,,main,AMAT
+2020-02-13,UBS,Sell,,main,AMAT
+2020-02-13,Stifel Nicolaus,Buy,,main,AMAT
+2020-03-18,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-03-19,B. Riley FBR,Neutral,Buy,down,AMAT
+2020-03-20,Wells Fargo,Overweight,,main,AMAT
+2020-03-20,Mizuho,Buy,,init,AMAT
+2020-03-24,Deutsche Bank,Buy,,main,AMAT
+2020-03-24,Citigroup,Buy,,main,AMAT
+2020-04-02,DA Davidson,Neutral,Buy,down,AMAT
+2020-04-08,Stifel,Buy,,main,AMAT
+2020-04-13,B. Riley FBR,Neutral,,main,AMAT
+2020-05-11,B. Riley FBR,Neutral,,main,AMAT
+2020-05-15,KeyBanc,Overweight,,main,AMAT
+2020-05-15,Needham,Buy,,main,AMAT
+2020-05-15,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-05-15,CFRA,Hold,,main,AMAT
+2020-05-15,Wells Fargo,Overweight,,main,AMAT
+2020-05-15,UBS,Neutral,,main,AMAT
+2020-05-15,Mizuho,Buy,,main,AMAT
+2020-05-15,Stifel,Buy,,main,AMAT
+2020-05-15,B. Riley FBR,Buy,Neutral,up,AMAT
+2020-05-26,Barclays,Equal-Weight,,init,AMAT
+2020-06-16,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-07-20,Barclays,Equal-Weight,,main,AMAT
+2020-07-22,Mizuho,Buy,,main,AMAT
+2020-08-14,KeyBanc,Overweight,,main,AMAT
+2020-08-14,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-08-14,Mizuho,Buy,,main,AMAT
+2020-08-14,Needham,Buy,,main,AMAT
+2020-08-17,Citigroup,Buy,,main,AMAT
+2020-11-13,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-11-13,Needham,Buy,,main,AMAT
+2020-11-13,KeyBanc,Overweight,,main,AMAT
+2020-11-13,Credit Suisse,Outperform,,main,AMAT
+2020-12-14,Morgan Stanley,Equal-Weight,,main,AMAT
+2020-12-30,Needham,Buy,,main,AMAT
+2021-01-06,KeyBanc,Overweight,,main,AMAT
+2021-01-07,Argus Research,Buy,,main,AMAT
+2021-01-26,DA Davidson,Buy,Neutral,up,AMAT
+2021-01-26,Barclays,Equal-Weight,,main,AMAT
+2021-02-04,Craig-Hallum,Buy,,main,AMAT
+2021-02-16,Stifel,Buy,,main,AMAT
+2021-02-16,Deutsche Bank,Buy,,main,AMAT
+2021-02-16,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-02-19,KeyBanc,Overweight,,main,AMAT
+2021-02-19,Barclays,Equal-Weight,,main,AMAT
+2021-02-19,Needham,Buy,,main,AMAT
+2021-02-19,Credit Suisse,Outperform,,main,AMAT
+2021-02-19,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-02-19,Wells Fargo,Overweight,,main,AMAT
+2021-02-19,Goldman Sachs,Buy,,main,AMAT
+2021-02-22,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-03-23,B of A Securities,Buy,,main,AMAT
+2021-03-31,Bernstein,Outperform,,init,AMAT
+2021-04-05,B. Riley FBR,Buy,,main,AMAT
+2021-04-05,Credit Suisse,Outperform,,main,AMAT
+2021-04-07,Mizuho,Buy,,main,AMAT
+2021-04-07,Wells Fargo,Overweight,,main,AMAT
+2021-04-07,Goldman Sachs,Buy,,main,AMAT
+2021-04-07,DA Davidson,Buy,,main,AMAT
+2021-04-07,Craig-Hallum,Buy,,main,AMAT
+2021-04-07,Needham,Buy,,main,AMAT
+2021-04-07,Keybanc,Overweight,,main,AMAT
+2021-04-16,Deutsche Bank,Buy,,main,AMAT
+2021-05-17,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-05-21,Susquehanna,Positive,,main,AMAT
+2021-05-21,Mizuho,Buy,,main,AMAT
+2021-05-21,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-05-21,JP Morgan,Overweight,,main,AMAT
+2021-08-19,Daiwa Capital,Outperform,,init,AMAT
+2021-08-20,Morgan Stanley,Equal-Weight,,main,AMAT
+2021-09-28,New Street Research,Neutral,Buy,down,AMAT
+2021-10-15,Piper Sandler,Neutral,,init,AMAT
+2021-11-11,Wells Fargo,Overweight,,main,AMAT
+2021-11-19,Wells Fargo,Overweight,,main,AMAT
+2021-11-19,Credit Suisse,Outperform,,main,AMAT
+2021-11-19,Needham,Buy,,main,AMAT
+2021-12-01,Citigroup,Buy,,main,AMAT
+2021-12-15,Morgan Stanley,Equal-Weight,,main,AMAT

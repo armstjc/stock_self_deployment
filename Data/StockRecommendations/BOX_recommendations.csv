@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,Citigroup,Buy,,main,BOX
+2012-04-05,Citigroup,Buy,,main,BOX
+2012-04-09,Citigroup,Buy,,main,BOX
+2012-05-09,JP Morgan,Neutral,,main,BOX
+2012-08-08,Deutsche Bank,Buy,,main,BOX
+2012-09-18,Citigroup,Buy,,main,BOX
+2012-11-07,Deutsche Bank,Buy,,main,BOX
+2013-01-15,JP Morgan,Neutral,,main,BOX
+2013-01-22,Citigroup,Neutral,Buy,down,BOX
+2013-02-25,JP Morgan,Neutral,,main,BOX
+2015-02-17,JP Morgan,Neutral,,init,BOX
+2015-02-17,Morgan Stanley,Equal-Weight,,init,BOX
+2015-02-17,BMO Capital,Market Perform,,init,BOX
+2015-02-17,Wells Fargo,Market Perform,,init,BOX
+2015-02-17,Canaccord Genuity,Hold,,init,BOX
+2015-02-17,Raymond James,Market Perform,,init,BOX
+2015-02-17,Credit Suisse,Outperform,,init,BOX
+2015-02-17,Pacific Crest,Sector Perform,,init,BOX
+2015-06-10,Canaccord Genuity,Hold,,main,BOX
+2015-06-11,Canaccord Genuity,Hold,,main,BOX
+2015-07-10,Bank of America,Neutral,,init,BOX
+2015-07-27,Pacific Crest,Overweight,Sector Perform,up,BOX
+2015-08-07,Oppenheimer,Outperform,Perform,up,BOX
+2015-09-10,Morgan Stanley,Equal-Weight,,main,BOX
+2015-09-25,Canaccord Genuity,Buy,Hold,up,BOX
+2015-10-16,JP Morgan,Overweight,Neutral,up,BOX
+2015-11-24,Bank of America,Buy,Neutral,up,BOX
+2015-12-22,JMP Securities,Outperform,,init,BOX
+2016-01-19,Credit Suisse,Outperform,,main,BOX
+2016-03-10,Morgan Stanley,Equal-Weight,,main,BOX
+2016-03-31,Drexel Hamilton,Buy,,init,BOX
+2016-06-02,JP Morgan,Neutral,Overweight,down,BOX
+2016-09-16,Mitsubishi UFJ,Neutral,,init,BOX
+2017-01-11,Wells Fargo,Outperform,,init,BOX
+2017-06-01,Mitsubishi UFJ,Overweight,Neutral,up,BOX
+2017-08-31,Mitsubishi UFJ,Overweight,,up,BOX
+2017-09-25,Raymond James,Outperform,Market Perform,up,BOX
+2017-10-13,Canaccord Genuity,Buy,,main,BOX
+2018-02-15,DA Davidson,Buy,,init,BOX
+2018-04-11,Monness Crespi Hardt,Neutral,,init,BOX
+2018-05-31,Canaccord Genuity,Buy,Buy,main,BOX
+2018-05-31,JP Morgan,Neutral,Neutral,main,BOX
+2018-05-31,JMP Securities,Market Outperform,Market Outperform,main,BOX
+2018-05-31,Rosenblatt,Neutral,Buy,down,BOX
+2018-05-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,BOX
+2018-06-01,DA Davidson,Buy,Buy,main,BOX
+2018-08-29,JMP Securities,Market Outperform,Market Outperform,main,BOX
+2018-08-29,DA Davidson,Buy,Buy,main,BOX
+2018-10-09,Deutsche Bank,Hold,,init,BOX
+2018-10-15,Raymond James,Outperform,Outperform,main,BOX
+2018-11-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,BOX
+2018-12-11,William Blair,Outperform,,init,BOX
+2019-01-15,Rosenblatt,Buy,Neutral,up,BOX
+2019-01-24,Craig-Hallum,Buy,,init,BOX
+2019-02-05,Goldman Sachs,Buy,,init,BOX
+2019-02-28,KeyBanc,Sector Weight,Overweight,down,BOX
+2019-02-28,Rosenblatt,Neutral,Buy,down,BOX
+2019-02-28,Morgan Stanley,Equal-Weight,Equal-Weight,main,BOX
+2019-02-28,DA Davidson,Buy,Buy,main,BOX
+2019-06-04,Canaccord Genuity,Hold,Buy,down,BOX
+2019-06-04,JMP Securities,Market Outperform,,main,BOX
+2019-06-04,Wells Fargo,Outperform,,main,BOX
+2019-06-04,Raymond James,Outperform,,main,BOX
+2019-08-29,First Analysis,Neutral,Outperform,down,BOX
+2019-08-29,Raymond James,Outperform,,main,BOX
+2019-08-29,Oppenheimer,Outperform,,main,BOX
+2019-08-29,DA Davidson,Buy,,main,BOX
+2019-08-29,Craig-Hallum,Hold,Buy,down,BOX
+2019-08-29,Wells Fargo,Outperform,,reit,BOX
+2019-09-27,JP Morgan,Underweight,Neutral,down,BOX
+2019-10-10,Berenberg,Hold,,init,BOX
+2019-11-12,JMP Securities,Market Perform,Market Outperform,down,BOX
+2019-11-27,Canaccord Genuity,Hold,,main,BOX
+2020-03-25,Morgan Stanley,Overweight,Equal-Weight,up,BOX
+2020-04-17,Morgan Stanley,Overweight,,main,BOX
+2020-05-22,Morgan Stanley,Overweight,,main,BOX
+2020-05-28,Raymond James,Outperform,,reit,BOX
+2020-05-28,Morgan Stanley,Overweight,,main,BOX
+2020-05-28,Craig-Hallum,Buy,Hold,up,BOX
+2020-08-27,Morgan Stanley,Overweight,,main,BOX
+2020-12-02,Morgan Stanley,Overweight,,main,BOX
+2021-01-15,KeyBanc,Overweight,,init,BOX
+2021-01-25,DA Davidson,Neutral,Buy,down,BOX
+2021-03-23,KeyBanc,Overweight,,main,BOX
+2021-04-14,Morgan Stanley,Overweight,,main,BOX
+2021-05-28,Raymond James,Outperform,,main,BOX
+2021-07-21,RBC Capital,Underperform,,init,BOX
+2021-08-26,Raymond James,Outperform,,main,BOX
+2021-09-27,JMP Securities,Market Outperform,Market Perform,up,BOX
+2021-12-01,Keybanc,Overweight,,main,BOX
+2021-12-01,Raymond James,Outperform,,main,BOX
+2021-12-01,Morgan Stanley,Equal-Weight,,main,BOX
+2021-12-01,Craig-Hallum,Buy,,main,BOX
+2021-12-02,Berenberg,Buy,,main,BOX

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-03,PiperJaffray,Overweight,,main,CUTR
+2013-08-06,PiperJaffray,Neutral,Overweight,down,CUTR
+2015-05-08,PiperJaffray,Overweight,Neutral,up,CUTR
+2017-06-26,Roth Capital,Buy,,init,CUTR
+2018-03-13,Stephens & Co.,Overweight,,init,CUTR
+2018-04-17,Stifel Nicolaus,Hold,,init,CUTR
+2018-08-08,Stifel Nicolaus,Hold,Hold,main,CUTR
+2018-10-05,Stifel Nicolaus,Hold,Hold,main,CUTR
+2020-02-25,Stifel Nicolaus,Hold,,main,CUTR
+2020-03-23,Stephens & Co.,Overweight,,main,CUTR
+2020-04-22,Piper Sandler,Overweight,,init,CUTR
+2020-05-05,Stifel,Buy,Hold,up,CUTR
+2020-09-30,Piper Sandler,Overweight,,main,CUTR
+2020-11-05,Piper Sandler,Overweight,,main,CUTR
+2021-06-02,Cantor Fitzgerald,Overweight,,init,CUTR
+2021-11-04,Maxim Group,Buy,Hold,up,CUTR

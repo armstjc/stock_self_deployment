@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BZ220414C00040000,2022-01-05 17:42:05+00:00,40.0,4.6,3.5,5.4,1.6999998,58.620678,2,1,1.4086943627929687,False,REGULAR,USD,BZ

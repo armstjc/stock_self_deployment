@@ -1,0 +1,77 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-12-09,Wunderlich,Buy,,init,CDEV
+2016-12-19,Canaccord Genuity,Buy,,init,CDEV
+2017-03-23,Wunderlich,Buy,,reit,CDEV
+2017-04-03,BMO Capital,Market Perform,,init,CDEV
+2017-04-13,Stifel Nicolaus,Buy,,init,CDEV
+2017-07-21,Scotia Howard Weil,Sector Outperform,,init,CDEV
+2017-08-01,JP Morgan,Overweight,,init,CDEV
+2017-08-18,Imperial Capital,Outperform,,init,CDEV
+2017-09-25,KLR Group,Buy,,init,CDEV
+2017-09-29,Seaport Global,Neutral,,init,CDEV
+2017-10-13,Citigroup,Buy,,main,CDEV
+2017-12-12,Credit Suisse,Outperform,,init,CDEV
+2017-12-19,Seaport Global,Buy,Neutral,up,CDEV
+2018-01-29,Guggenheim,Buy,,init,CDEV
+2018-02-02,Deutsche Bank,Buy,,init,CDEV
+2018-02-13,Citigroup,Buy,Buy,main,CDEV
+2018-02-16,RBC Capital,Outperform,,init,CDEV
+2018-03-07,UBS,Buy,,init,CDEV
+2018-03-13,BMO Capital,Outperform,Market Perform,up,CDEV
+2018-03-21,Johnson Rice,Buy,,init,CDEV
+2018-06-15,SunTrust Robinson Humphrey,Hold,,init,CDEV
+2018-07-05,TD Securities,Buy,,init,CDEV
+2018-07-11,Susquehanna,Neutral,,init,CDEV
+2018-08-23,Jefferies,Buy,,init,CDEV
+2018-08-29,Barclays,Overweight,,init,CDEV
+2018-09-07,SunTrust Robinson Humphrey,Buy,Hold,up,CDEV
+2018-11-16,Barclays,Overweight,Overweight,main,CDEV
+2018-12-20,KeyBanc,Sector Weight,,init,CDEV
+2018-12-20,Macquarie,Outperform,,init,CDEV
+2019-01-16,Barclays,Underweight,Overweight,down,CDEV
+2019-02-26,BMO Capital,Market Perform,Outperform,down,CDEV
+2019-02-27,Cowen & Co.,Market Perform,Outperform,down,CDEV
+2019-04-30,Barclays,Equal-Weight,Underweight,up,CDEV
+2019-05-20,Wells Fargo,Market Perform,,init,CDEV
+2019-06-07,JP Morgan,Neutral,Overweight,down,CDEV
+2019-07-08,Piper Jaffray,Neutral,,init,CDEV
+2019-07-15,Jefferies,Hold,Buy,down,CDEV
+2019-07-17,Imperial Capital,In-Line,Outperform,down,CDEV
+2019-08-30,Barclays,Overweight,Equal-Weight,up,CDEV
+2019-09-04,MKM Partners,Buy,,init,CDEV
+2019-09-05,TD Securities,Hold,Buy,down,CDEV
+2019-09-16,SunTrust Robinson Humphrey,Buy,Hold,up,CDEV
+2019-09-16,KeyBanc,Overweight,Sector Weight,up,CDEV
+2019-10-10,Seaport Global,Neutral,Buy,down,CDEV
+2019-10-16,SunTrust Robinson Humphrey,Buy,,main,CDEV
+2019-12-06,Barclays,Equal-Weight,Overweight,down,CDEV
+2020-01-21,SunTrust Robinson Humphrey,Hold,Buy,down,CDEV
+2020-01-23,KeyBanc,Overweight,,main,CDEV
+2020-02-25,RBC Capital,Outperform,,main,CDEV
+2020-02-26,MKM Partners,Buy,,main,CDEV
+2020-03-03,B of A Securities,Underperform,Neutral,down,CDEV
+2020-03-09,RBC Capital,Sector Perform,Outperform,down,CDEV
+2020-03-09,SunTrust Robinson Humphrey,Sell,Hold,down,CDEV
+2020-03-26,KeyBanc,Overweight,,main,CDEV
+2020-03-31,UBS,Buy,,main,CDEV
+2020-04-03,Wells Fargo,Equal-Weight,,main,CDEV
+2020-06-11,KeyBanc,Overweight,,main,CDEV
+2020-06-25,Wells Fargo,Equal-Weight,,main,CDEV
+2020-07-13,ScotiaBank,Sector Underperform,,main,CDEV
+2020-09-14,Wells Fargo,Underweight,Equal-Weight,down,CDEV
+2020-10-20,KeyBanc,Overweight,,main,CDEV
+2020-10-22,Piper Sandler,Neutral,Underweight,up,CDEV
+2020-11-03,TD Securities,Reduce,,main,CDEV
+2020-11-30,MKM Partners,Neutral,Buy,down,CDEV
+2020-12-10,KeyBanc,Overweight,,main,CDEV
+2021-01-21,KeyBanc,Overweight,,main,CDEV
+2021-01-25,Stifel,Hold,Buy,down,CDEV
+2021-02-03,JP Morgan,Underweight,Neutral,down,CDEV
+2021-05-19,Wells Fargo,Underweight,,main,CDEV
+2021-06-03,Keybanc,Overweight,,main,CDEV
+2021-06-10,Keybanc,Overweight,,main,CDEV
+2021-06-24,Keybanc,Overweight,,main,CDEV
+2021-06-30,UBS,Neutral,Buy,down,CDEV
+2021-07-16,Citigroup,Neutral,,init,CDEV
+2021-08-10,MKM Partners,Buy,Neutral,up,CDEV
+2021-08-18,Cowen & Co.,Market Perform,Underperform,up,CDEV

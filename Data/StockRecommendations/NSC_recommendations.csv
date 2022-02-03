@@ -1,0 +1,259 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,Bank oferica,Buy,,main,NSC
+2012-04-02,Jefferies,Hold,,main,NSC
+2012-04-16,Deutsche Bank,Hold,,main,NSC
+2012-04-25,Jefferies,Hold,,main,NSC
+2012-04-25,UBS,Buy,,main,NSC
+2012-04-25,BMO Capital,Outperform,,main,NSC
+2012-04-25,Bank oferica,Buy,,main,NSC
+2012-07-02,BB&T Capital,Buy,Hold,up,NSC
+2012-07-25,Barclays,Equal-Weight,,main,NSC
+2012-07-25,Stifel Nicolaus,Buy,,main,NSC
+2012-07-25,JP Morgan,Neutral,,main,NSC
+2012-07-25,Deutsche Bank,Hold,,main,NSC
+2012-09-20,Credit Suisse,Outperform,,main,NSC
+2012-09-20,BMO Capital,Outperform,,main,NSC
+2012-09-20,Deutsche Bank,Hold,,main,NSC
+2012-09-21,Stifel Nicolaus,Buy,,main,NSC
+2012-09-21,Citigroup,Buy,,main,NSC
+2012-09-21,Jefferies,Hold,,main,NSC
+2012-09-24,Barclays,Equal-Weight,,main,NSC
+2012-10-03,Bernstein,Market Perform,Underperform,up,NSC
+2012-10-04,Jefferies,Hold,,main,NSC
+2012-10-24,Barclays,Equal-Weight,,main,NSC
+2012-10-24,Sterne Agee,Buy,,main,NSC
+2012-10-24,UBS,Neutral,,main,NSC
+2012-10-24,Stifel Nicolaus,Buy,,main,NSC
+2012-10-24,BMO Capital,Outperform,,main,NSC
+2012-10-24,Bank of America,Neutral,Buy,down,NSC
+2012-10-24,Deutsche Bank,Hold,,main,NSC
+2012-10-24,Jefferies,Hold,,main,NSC
+2012-10-24,Citigroup,Neutral,Buy,down,NSC
+2012-12-19,UBS,Neutral,,main,NSC
+2013-01-03,Jefferies,Hold,,main,NSC
+2013-01-07,Barclays,Equal-Weight,,main,NSC
+2013-01-10,Goldman Sachs,Neutral,Buy,down,NSC
+2013-01-10,Raymond James,Market Perform,Outperform,down,NSC
+2013-01-14,Deutsche Bank,Buy,Hold,up,NSC
+2013-01-18,Credit Suisse,Outperform,,main,NSC
+2013-01-23,UBS,Neutral,,main,NSC
+2013-01-23,Stifel Nicolaus,Buy,,main,NSC
+2013-01-23,BMO Capital,Outperform,,main,NSC
+2013-01-23,Jefferies,Hold,,main,NSC
+2013-01-28,Jefferies,Buy,Hold,up,NSC
+2013-01-30,Atlantic Equities,Overweight,Neutral,up,NSC
+2013-02-04,Dahlman Rose,Buy,Hold,up,NSC
+2013-04-03,JP Morgan,Neutral,,main,NSC
+2013-04-05,Citigroup,Neutral,,main,NSC
+2013-04-10,Jefferies,Buy,,main,NSC
+2013-04-10,Deutsche Bank,Buy,,main,NSC
+2013-04-24,Stifel Nicolaus,Buy,,main,NSC
+2013-07-10,Deutsche Bank,Hold,Buy,down,NSC
+2013-07-11,Buckingham Research,Buy,,init,NSC
+2013-07-24,Jefferies,Buy,,main,NSC
+2013-07-24,Stifel Nicolaus,Buy,,main,NSC
+2013-07-24,Bank of America,Underperform,Neutral,down,NSC
+2013-07-24,Credit Suisse,Outperform,,main,NSC
+2013-10-02,Avondale Partners,Market Outperform,Market Perform,up,NSC
+2013-10-17,RBC Capital,Sector Perform,Outperform,down,NSC
+2013-10-23,Bank of America,Neutral,Underperform,up,NSC
+2013-10-24,Deutsche Bank,Hold,,main,NSC
+2013-12-16,Deutsche Bank,Hold,,main,NSC
+2013-12-16,Deutsche Bank,Hold,,main,NSC
+2013-12-20,Citigroup,Neutral,,main,NSC
+2014-01-16,Stifel,Hold,Buy,down,NSC
+2014-01-23,Bank of America,Buy,Neutral,up,NSC
+2014-02-03,Wells Fargo,Outperform,Market Perform,up,NSC
+2014-04-03,Atlantic Equities,Neutral,Overweight,down,NSC
+2014-04-10,Macquarie,Neutral,,init,NSC
+2014-04-24,Credit Suisse,Outperform,,main,NSC
+2014-06-24,FBR Capital,Outperform,,main,NSC
+2014-06-27,Citigroup,Neutral,,main,NSC
+2014-06-30,Barclays,Overweight,Equal-Weight,up,NSC
+2014-07-15,Deutsche Bank,Hold,,main,NSC
+2014-07-24,Raymond James,Outperform,,main,NSC
+2014-07-24,Macquarie,Neutral,,main,NSC
+2014-07-24,Credit Suisse,Outperform,,main,NSC
+2014-09-22,Barclays,Overweight,,main,NSC
+2014-10-06,Barclays,Overweight,,main,NSC
+2014-10-07,Citigroup,Neutral,,main,NSC
+2014-10-14,Deutsche Bank,Hold,,main,NSC
+2014-10-16,Credit Suisse,Neutral,Outperform,down,NSC
+2014-12-10,Nomura,Neutral,,init,NSC
+2015-01-12,Citigroup,Neutral,,main,NSC
+2015-01-12,Barclays,Overweight,,main,NSC
+2015-01-15,Deutsche Bank,Hold,,main,NSC
+2015-01-27,Credit Suisse,Neutral,,main,NSC
+2015-01-27,Barclays,Overweight,,main,NSC
+2015-01-27,Avondale Partners,Market Perform,Market Outperform,down,NSC
+2015-02-23,JP Morgan,Underweight,,init,NSC
+2015-03-26,Cleveland Research,Neutral,,down,NSC
+2015-04-14,TD Securities,Hold,Buy,down,NSC
+2015-04-15,Citigroup,Neutral,,main,NSC
+2015-06-08,Barclays,Overweight,,main,NSC
+2015-06-10,Susquehanna,Positive,,main,NSC
+2015-07-01,Citigroup,Neutral,,main,NSC
+2015-07-10,RBC Capital,Sector Perform,,main,NSC
+2015-07-16,Barclays,Equal-Weight,Overweight,down,NSC
+2015-07-28,JP Morgan,Underweight,,main,NSC
+2015-07-31,Argus,Hold,Buy,down,NSC
+2015-09-11,Bank of America,Buy,Neutral,up,NSC
+2015-10-02,Citigroup,Neutral,,main,NSC
+2015-10-05,Barclays,Underweight,Equal-Weight,down,NSC
+2015-10-12,Deutsche Bank,Hold,,main,NSC
+2015-11-02,Macquarie,Underperform,Neutral,down,NSC
+2015-11-24,BMO Capital,Market Perform,Outperform,down,NSC
+2015-11-25,Topeka,Hold,,main,NSC
+2015-12-07,Credit Suisse,Neutral,,main,NSC
+2015-12-07,Barclays,Equal-Weight,Underweight,up,NSC
+2016-01-11,Deutsche Bank,Hold,,main,NSC
+2016-01-28,Macquarie,Underperform,,main,NSC
+2016-01-28,Deutsche Bank,Hold,,main,NSC
+2016-01-28,Barclays,Equal-Weight,,main,NSC
+2016-01-28,Avondale Partners,Market Perform,Underperform,up,NSC
+2016-01-28,Buckingham Research,Neutral,Buy,down,NSC
+2016-01-29,Barclays,Equal-Weight,,main,NSC
+2016-02-19,Credit Suisse,Neutral,,main,NSC
+2016-03-15,Scotiabank,Sector Outperform,,init,NSC
+2016-04-06,Citigroup,Neutral,,main,NSC
+2016-04-11,Barclays,Equal-Weight,,main,NSC
+2016-04-22,Nomura,Neutral,,main,NSC
+2016-04-22,UBS,Buy,Neutral,up,NSC
+2016-04-22,Credit Suisse,Outperform,Neutral,up,NSC
+2016-04-22,Citigroup,Neutral,,main,NSC
+2016-04-25,JP Morgan,Neutral,,init,NSC
+2016-05-19,CLSA,Outperform,,init,NSC
+2016-06-16,Oppenheimer,Market Perform,,init,NSC
+2016-07-28,Deutsche Bank,Hold,,main,NSC
+2016-07-28,Credit Suisse,Outperform,,main,NSC
+2016-08-04,Loop Capital,Hold,,init,NSC
+2016-08-11,Atlantic Equities,Neutral,,init,NSC
+2016-09-12,Barclays,Equal-Weight,,main,NSC
+2016-09-13,Citigroup,Neutral,,main,NSC
+2016-10-11,Bank of America,Buy,Neutral,up,NSC
+2016-10-12,Avondale Partners,Underperform,Market Outperform,down,NSC
+2016-10-28,Seaport Global,Buy,,init,NSC
+2016-11-01,Deutsche Bank,Buy,,init,NSC
+2016-11-02,Argus,Buy,Hold,up,NSC
+2017-01-18,Buckingham,Neutral,,init,NSC
+2017-03-15,Wolfe Research,Peer Perform,Outperform,down,NSC
+2017-03-23,RBC Capital,Underperform,Sector Perform,down,NSC
+2017-07-06,Scotiabank,Sector Perform,Sector Outperform,down,NSC
+2017-07-10,Morgan Stanley,Underweight,,main,NSC
+2017-07-31,Deutsche Bank,Hold,Buy,down,NSC
+2017-10-02,Morgan Stanley,Underweight,,main,NSC
+2017-10-04,Citigroup,Neutral,,main,NSC
+2017-10-12,JP Morgan,Neutral,,main,NSC
+2017-10-16,Wells Fargo,Market Perform,Outperform,down,NSC
+2017-10-26,BMO Capital,Market Perform,,main,NSC
+2017-10-26,Morgan Stanley,Underweight,,main,NSC
+2017-10-26,Loop Capital,Hold,,main,NSC
+2017-10-31,Argus,Buy,,main,NSC
+2017-11-13,Goldman Sachs,Neutral,,init,NSC
+2017-11-27,Loop Capital,Sell,Hold,down,NSC
+2018-01-12,Scotiabank,Sector Outperform,Sector Perform,up,NSC
+2018-01-24,RBC Capital,Sector Perform,Underperform,up,NSC
+2018-01-25,JP Morgan,Neutral,Neutral,main,NSC
+2018-01-25,Morgan Stanley,Underweight,Underweight,main,NSC
+2018-01-25,Credit Suisse,Outperform,Outperform,main,NSC
+2018-03-15,Loop Capital,Sell,Sell,main,NSC
+2018-03-15,Credit Suisse,Outperform,Outperform,main,NSC
+2018-04-26,Morgan Stanley,Underweight,Underweight,main,NSC
+2018-04-26,JP Morgan,Neutral,Neutral,main,NSC
+2018-04-26,UBS,Buy,Buy,main,NSC
+2018-04-26,BMO Capital,Market Perform,Market Perform,main,NSC
+2018-04-26,Credit Suisse,Outperform,Outperform,main,NSC
+2018-06-25,Citigroup,Buy,Neutral,up,NSC
+2018-07-26,Credit Suisse,Outperform,Outperform,main,NSC
+2018-07-26,UBS,Buy,Buy,main,NSC
+2018-07-26,Stifel Nicolaus,Hold,Hold,main,NSC
+2018-07-26,Loop Capital,Hold,Sell,up,NSC
+2018-07-31,Argus,Buy,Buy,main,NSC
+2018-08-15,Deutsche Bank,Buy,Hold,up,NSC
+2018-10-01,Bank of America,Buy,Buy,main,NSC
+2018-10-09,Morgan Stanley,Underweight,Underweight,main,NSC
+2018-10-18,Bank of America,Neutral,,down,NSC
+2018-10-24,Loop Capital,Buy,Hold,up,NSC
+2018-10-25,TD Securities,Buy,Hold,up,NSC
+2018-10-25,Stifel Nicolaus,Buy,Hold,up,NSC
+2018-10-25,Credit Suisse,Outperform,Outperform,main,NSC
+2018-10-25,Baird,Neutral,Neutral,main,NSC
+2018-10-29,Morgan Stanley,Underweight,Underweight,main,NSC
+2018-12-18,JP Morgan,Overweight,Neutral,up,NSC
+2019-01-07,Morgan Stanley,Underweight,Underweight,main,NSC
+2019-01-25,Deutsche Bank,Hold,Buy,down,NSC
+2019-02-12,Morgan Stanley,Underweight,Underweight,main,NSC
+2019-02-19,RBC Capital,Underperform,Sector Perform,down,NSC
+2019-04-01,Bank of America,Buy,Neutral,up,NSC
+2019-04-04,Citigroup,Buy,Buy,main,NSC
+2019-04-25,Barclays,Equal-Weight,Equal-Weight,main,NSC
+2019-04-25,BMO Capital,Market Perform,Market Perform,main,NSC
+2019-04-29,Morgan Stanley,Underweight,Underweight,main,NSC
+2019-06-12,Deutsche Bank,Hold,,main,NSC
+2019-07-10,Goldman Sachs,Buy,,init,NSC
+2019-09-05,Bank of America,Buy,,reit,NSC
+2019-09-17,UBS,Buy,,main,NSC
+2019-10-24,BMO Capital,Market Perform,,main,NSC
+2019-10-24,Credit Suisse,Outperform,,main,NSC
+2019-10-24,Barclays,Equal-Weight,,main,NSC
+2019-10-29,Wells Fargo,Outperform,,init,NSC
+2020-01-30,Baird,Neutral,,main,NSC
+2020-01-30,Credit Suisse,Outperform,,main,NSC
+2020-01-30,BMO Capital,Market Perform,,main,NSC
+2020-01-30,Benchmark,Hold,,init,NSC
+2020-01-30,Stephens & Co.,Overweight,,main,NSC
+2020-01-30,UBS,Buy,,main,NSC
+2020-01-30,Morgan Stanley,Underweight,,main,NSC
+2020-03-09,Wells Fargo,Overweight,,main,NSC
+2020-03-12,Deutsche Bank,Hold,,main,NSC
+2020-03-16,UBS,Buy,,main,NSC
+2020-03-23,Morgan Stanley,Underweight,,main,NSC
+2020-04-08,Susquehanna,Positive,,main,NSC
+2020-04-08,Morgan Stanley,Underweight,,main,NSC
+2020-04-09,Deutsche Bank,Hold,,main,NSC
+2020-04-09,JP Morgan,Overweight,,main,NSC
+2020-04-15,Wells Fargo,Overweight,,main,NSC
+2020-04-17,Barclays,Underweight,Equal-Weight,down,NSC
+2020-04-30,Wells Fargo,Overweight,,main,NSC
+2020-04-30,BMO Capital,Market Perform,,main,NSC
+2020-04-30,Citigroup,Buy,,main,NSC
+2020-04-30,Credit Suisse,Outperform,,main,NSC
+2020-05-01,UBS,Buy,,main,NSC
+2020-05-06,Argus Research,Buy,,main,NSC
+2020-05-12,Morgan Stanley,Underweight,,main,NSC
+2020-05-22,Wells Fargo,Overweight,,main,NSC
+2020-06-25,Citigroup,Buy,,main,NSC
+2020-07-30,Deutsche Bank,Hold,,main,NSC
+2020-07-30,Citigroup,Buy,,main,NSC
+2020-08-03,Morgan Stanley,Underweight,,main,NSC
+2020-09-25,Benchmark,Buy,Hold,up,NSC
+2020-09-30,Bank of America,Neutral,,main,NSC
+2020-10-05,Morgan Stanley,Underweight,,main,NSC
+2020-10-08,Citigroup,Buy,,main,NSC
+2020-10-08,Credit Suisse,Outperform,,main,NSC
+2020-10-16,Barclays,Equal-Weight,Underweight,up,NSC
+2020-10-29,UBS,Buy,,main,NSC
+2020-10-29,BMO Capital,Market Perform,,main,NSC
+2021-01-06,Morgan Stanley,Underweight,,main,NSC
+2021-01-13,Baird,Outperform,Neutral,up,NSC
+2021-01-28,RBC Capital,Underperform,,main,NSC
+2021-01-28,Credit Suisse,Outperform,,main,NSC
+2021-02-01,Argus Research,Buy,,main,NSC
+2021-02-08,Morgan Stanley,Underweight,,main,NSC
+2021-02-25,Evercore ISI Group,In-Line,Outperform,down,NSC
+2021-03-22,Deutsche Bank,Hold,,main,NSC
+2021-04-06,Morgan Stanley,Underweight,,main,NSC
+2021-04-29,Barclays,Equal-Weight,,main,NSC
+2021-04-29,Benchmark,Buy,,main,NSC
+2021-05-04,Argus Research,Buy,,main,NSC
+2021-05-24,Morgan Stanley,Underweight,,main,NSC
+2021-07-09,Evercore ISI Group,Outperform,In-Line,up,NSC
+2021-07-09,Wells Fargo,Overweight,,main,NSC
+2021-10-06,Citigroup,Buy,,main,NSC
+2021-10-07,Wells Fargo,Overweight,,main,NSC
+2021-10-28,Stephens & Co.,Overweight,,main,NSC
+2021-10-28,RBC Capital,Underperform,,main,NSC
+2021-10-28,B of A Securities,Buy,Neutral,up,NSC
+2021-12-02,Morgan Stanley,Underweight,,main,NSC
+2021-12-15,UBS,Buy,,main,NSC
+2022-01-04,Stephens & Co.,Equal-Weight,Overweight,down,NSC

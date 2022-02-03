@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-10-30,BMO Capital,Market Perform,,init,LTHM
+2018-11-05,Citigroup,Buy,,init,LTHM
+2018-11-05,Nomura,Buy,,init,LTHM
+2018-11-05,Goldman Sachs,Buy,,init,LTHM
+2018-11-05,Bank of America,Buy,,init,LTHM
+2018-11-09,Loop Capital,Buy,,init,LTHM
+2018-11-14,Buckingham,Neutral,,init,LTHM
+2018-12-03,HSBC,Buy,,init,LTHM
+2018-12-13,Argus,Buy,,init,LTHM
+2019-01-15,Nomura,Neutral,Buy,down,LTHM
+2019-01-16,Clarksons Platou,Buy,,init,LTHM
+2019-04-15,Citigroup,Neutral,Buy,down,LTHM
+2019-05-10,Bank of America,Neutral,Buy,down,LTHM
+2019-05-16,Argus Research,Hold,Buy,down,LTHM
+2019-08-12,Bank of America,Underperform,Neutral,down,LTHM
+2019-10-09,Citigroup,Neutral,,main,LTHM
+2020-01-21,Seaport Global,Neutral,Buy,down,LTHM
+2020-02-21,BMO Capital,Underperform,Market Perform,down,LTHM
+2020-03-26,KeyBanc,Sector Weight,,init,LTHM
+2020-03-30,Goldman Sachs,Neutral,Buy,down,LTHM
+2020-04-06,BMO Capital,Market Perform,Underperform,up,LTHM
+2020-04-09,Citigroup,Neutral,,main,LTHM
+2020-05-12,Credit Suisse,Neutral,,main,LTHM
+2020-05-12,BMO Capital,Market Perform,,main,LTHM
+2020-08-10,Citigroup,Neutral,,main,LTHM
+2020-08-26,Raymond James,Strong Buy,,init,LTHM
+2020-09-22,Evercore ISI Group,In-Line,,init,LTHM
+2020-10-08,Raymond James,Strong Buy,,main,LTHM
+2020-11-06,BMO Capital,Market Perform,,main,LTHM
+2020-11-09,Citigroup,Buy,Neutral,up,LTHM
+2020-12-07,Raymond James,Strong Buy,,main,LTHM
+2021-01-08,Raymond James,Outperform,Strong Buy,down,LTHM
+2021-02-23,Credit Suisse,Neutral,,main,LTHM
+2021-03-10,Cowen & Co.,Market Perform,,init,LTHM
+2021-04-19,Evercore ISI Group,Outperform,In-Line,up,LTHM
+2021-08-09,Vertical Research,Hold,Sell,up,LTHM
+2021-10-01,Piper Sandler,Overweight,,init,LTHM
+2021-10-05,Raymond James,Outperform,,main,LTHM
+2021-10-13,Mizuho,Neutral,,init,LTHM
+2021-11-05,Raymond James,Outperform,,main,LTHM
+2021-11-09,Citigroup,Neutral,Buy,down,LTHM
+2021-12-15,Goldman Sachs,Sell,Neutral,down,LTHM
+2022-01-04,Vertical Research,Buy,Hold,up,LTHM

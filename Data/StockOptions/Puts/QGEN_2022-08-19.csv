@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+QGEN220819P00070000,2021-12-17 19:03:18+00:00,70.0,15.7,17.4,20.7,0.0,0.0,5,5,0.3442448388671875,True,REGULAR,USD,QGEN

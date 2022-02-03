@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BGCP240119P00003000,2022-01-05 20:58:37+00:00,3.0,0.55,0.25,0.55,0.100000024,22.222229,2,1,0.5468795312500001,False,REGULAR,USD,BGCP

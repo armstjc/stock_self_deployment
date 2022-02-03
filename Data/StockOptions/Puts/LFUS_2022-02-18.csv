@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LFUS220218P00300000,2021-12-31 17:10:30+00:00,300.0,7.1,4.4,8.3,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,LFUS

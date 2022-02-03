@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-24,Johnson Rice,Overweight,,up,HLX
+2012-12-19,Stephens & Co.,Overweight,Equal-Weight,up,HLX
+2013-01-15,Morgan Stanley,Overweight,Equal-weight,up,HLX
+2014-02-13,Raymond James,Outperform,Market Perform,up,HLX
+2014-07-23,Raymond James,Outperform,,main,HLX
+2014-11-18,SunTrust Robinson Humphrey,Buy,,init,HLX
+2014-11-26,Morgan Stanley,Equal-Weight,Overweight,down,HLX
+2015-02-18,Raymond James,Market Perform,Outperform,down,HLX
+2015-03-03,Stephens & Co.,Equal-Weight,Overweight,down,HLX
+2015-05-04,Tudor Pickering,Buy,Accumulate,up,HLX
+2015-07-02,Credit Suisse,Neutral,,init,HLX
+2015-07-22,Johnson Rice,,Buy,down,HLX
+2015-09-21,Cowen & Co.,Market Perform,,init,HLX
+2016-01-21,Stephens & Co.,Overweight,Equal-Weight,up,HLX
+2016-02-24,iBERIA Capital Partners,Outperform,,main,HLX
+2016-03-17,Morgan Stanley,Overweight,Equal-Weight,up,HLX
+2016-04-12,Credit Suisse,Outperform,Neutral,up,HLX
+2016-04-19,Morgan Stanley,Overweight,,main,HLX
+2016-04-21,Morgan Stanley,Overweight,,main,HLX
+2016-07-26,Clarksons Platou,Buy,Neutral,up,HLX
+2016-10-06,DA Davidson,Buy,,init,HLX
+2017-06-05,Cowen & Co.,Outperform,Market Perform,up,HLX
+2017-09-05,Bank of America,Neutral,,init,HLX
+2017-09-27,PiperJaffray,Neutral,Overweight,down,HLX
+2018-01-16,Bank of America,Underperform,Neutral,down,HLX
+2018-02-21,Credit Suisse,Outperform,Outperform,main,HLX
+2018-02-22,Cowen & Co.,Outperform,Outperform,main,HLX
+2018-04-25,PiperJaffray,Overweight,Neutral,up,HLX
+2018-04-26,Raymond James,Outperform,Market Perform,up,HLX
+2019-06-07,Raymond James,Strong Buy,Outperform,up,HLX
+2019-11-25,Barclays,Buy,Accumulate,up,HLX
+2020-02-27,Raymond James,Strong Buy,,reit,HLX
+2020-02-27,B of A Securities,Neutral,,reit,HLX
+2020-03-09,B of A Securities,Neutral,Buy,down,HLX
+2020-03-10,Raymond James,Outperform,Strong Buy,down,HLX
+2020-03-17,Capital One,Equal-Weight,Overweight,down,HLX
+2020-04-24,Piper Sandler,Neutral,,main,HLX
+2020-05-28,B of A Securities,Buy,Neutral,up,HLX
+2020-07-23,Piper Sandler,Overweight,Neutral,up,HLX
+2021-04-01,BTIG,Neutral,,init,HLX
+2021-04-28,B of A Securities,Neutral,Buy,down,HLX
+2021-06-09,Evercore ISI Group,In-Line,Outperform,down,HLX
+2021-07-16,B of A Securities,Underperform,Neutral,down,HLX
+2021-07-28,Piper Sandler,Neutral,Overweight,down,HLX

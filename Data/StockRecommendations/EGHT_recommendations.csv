@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-25,Northland Securities,Market Perform,Outperform,down,EGHT
+2013-11-25,Barclays,Overweight,,init,EGHT
+2013-11-25,Bank of America,Buy,,init,EGHT
+2013-11-25,Deutsche Bank,Buy,,init,EGHT
+2014-01-21,Barclays,Overweight,,main,EGHT
+2014-05-23,B. Riley FBR,Neutral,,main,EGHT
+2014-08-27,Barclays,Overweight,,main,EGHT
+2014-10-14,B. Riley FBR,Buy,Neutral,up,EGHT
+2015-06-05,B. Riley FBR,Neutral,Buy,down,EGHT
+2015-08-10,Canaccord Genuity,Buy,,init,EGHT
+2016-01-22,Barclays,Overweight,,main,EGHT
+2016-01-22,B. Riley FBR,Neutral,,main,EGHT
+2016-01-25,Summit Research Partners,Buy,,init,EGHT
+2016-05-20,Barclays,Overweight,,main,EGHT
+2016-06-03,Needham,Buy,,init,EGHT
+2016-08-25,Baird,Neutral,,init,EGHT
+2016-08-25,Baird,Neutral,,init,EGHT
+2016-12-12,Baird,Outperform,Neutral,up,EGHT
+2017-04-11,Morgan Stanley,Equal-Weight,,init,EGHT
+2017-07-28,Craig-Hallum,Hold,Buy,down,EGHT
+2017-10-27,Summit Redstone Partners,Hold,Buy,down,EGHT
+2018-01-17,Morgan Stanley,Overweight,Equal-Weight,up,EGHT
+2018-01-26,Bank of America,Buy,Buy,reit,EGHT
+2018-04-19,Oppenheimer,Outperform,,init,EGHT
+2018-04-27,Morgan Stanley,Overweight,Overweight,main,EGHT
+2018-05-25,Bank of America,Neutral,Buy,down,EGHT
+2018-07-12,Stifel Nicolaus,Buy,,init,EGHT
+2018-07-30,B. Riley FBR,Neutral,Neutral,main,EGHT
+2019-03-12,Guggenheim,Neutral,,init,EGHT
+2019-05-15,Dougherty & Co.,Neutral,Buy,down,EGHT
+2019-05-15,Bank of America,Neutral,,main,EGHT
+2019-07-24,Rosenblatt,Neutral,Buy,down,EGHT
+2019-07-31,B. Riley FBR,Sell,Neutral,down,EGHT
+2019-07-31,Bank of America,Neutral,,main,EGHT
+2019-07-31,Morgan Stanley,Overweight,,main,EGHT
+2019-10-24,B. Riley,Neutral,Sell,up,EGHT
+2019-10-31,Summit Insights Group,Buy,Hold,up,EGHT
+2020-01-13,Morgan Stanley,Equal-Weight,Overweight,down,EGHT
+2020-01-28,Wells Fargo,Equal-Weight,,init,EGHT
+2020-03-25,Morgan Stanley,Equal-Weight,,main,EGHT
+2020-03-26,B. Riley,Sell,Neutral,down,EGHT
+2020-04-14,BTIG,Buy,,init,EGHT
+2020-04-15,Rosenblatt,Neutral,,main,EGHT
+2020-04-22,Needham,Buy,,main,EGHT
+2020-05-13,B. Riley FBR,Sell,,main,EGHT
+2020-05-13,Wells Fargo,Equal-Weight,,main,EGHT
+2020-05-13,Craig-Hallum,Hold,,main,EGHT
+2020-05-13,Baird,Outperform,,main,EGHT
+2020-05-13,Morgan Stanley,Equal-Weight,,main,EGHT
+2020-06-09,Morgan Stanley,Equal-Weight,,main,EGHT
+2020-06-10,Rosenblatt,Neutral,,main,EGHT
+2020-07-27,Rosenblatt,Neutral,,main,EGHT
+2020-08-20,Evercore ISI Group,Outperform,,init,EGHT
+2020-10-09,Mizuho,Neutral,,init,EGHT
+2020-10-29,Summit Insights Group,Buy,Hold,up,EGHT
+2020-10-29,Rosenblatt,Neutral,,main,EGHT
+2020-12-11,Needham,Buy,,main,EGHT
+2020-12-23,Needham,Buy,,main,EGHT
+2021-01-05,Wells Fargo,Underweight,Equal-Weight,down,EGHT
+2021-01-21,Morgan Stanley,Equal-Weight,,main,EGHT
+2021-01-25,Rosenblatt,Neutral,,main,EGHT
+2021-01-29,Craig-Hallum,Buy,,main,EGHT
+2021-05-11,Craig-Hallum,Hold,Buy,down,EGHT
+2021-05-14,Morgan Stanley,Equal-Weight,,main,EGHT
+2021-06-22,Needham,Buy,,init,EGHT
+2021-10-21,Barclays,Equal-Weight,,init,EGHT
+2021-12-13,Wells Fargo,Underweight,,main,EGHT

@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-08,Jefferies,Buy,,main,BTI
+2013-10-23,Macquarie,Outperform,,up,BTI
+2014-06-30,Jefferies,Buy,,main,BTI
+2015-04-30,Societe Generale,Buy,Hold,up,BTI
+2015-06-17,Goldman Sachs,Neutral,Sell,up,BTI
+2016-02-02,Berenberg,Buy,,init,BTI
+2016-03-22,Argus,Hold,,init,BTI
+2016-07-29,Societe Generale,Hold,Buy,down,BTI
+2016-09-08,Investec,Buy,Hold,up,BTI
+2016-11-02,Morgan Stanley,Overweight,Equal-Weight,up,BTI
+2017-03-06,Argus,Buy,Hold,up,BTI
+2017-09-26,Cowen & Co.,Outperform,Market Perform,up,BTI
+2018-05-01,PiperJaffray,Neutral,Overweight,down,BTI
+2018-10-16,Bernstein,Market Perform,,init,BTI
+2018-10-18,DZ Bank,Sell,Hold,down,BTI
+2018-11-29,RBC Capital,Sector Perform,Underperform,up,BTI
+2019-01-07,Cowen & Co.,Market Perform,Outperform,down,BTI
+2019-01-29,PiperJaffray,Overweight,Neutral,up,BTI
+2019-03-28,Citigroup,Buy,Neutral,up,BTI
+2019-06-17,Morgan Stanley,Underweight,Equal-Weight,down,BTI
+2020-03-05,Bernstein,Outperform,Market Perform,up,BTI
+2021-03-26,Jefferies,Buy,Hold,up,BTI
+2021-04-09,JP Morgan,Neutral,Overweight,down,BTI

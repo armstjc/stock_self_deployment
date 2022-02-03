@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Deutsche Bank,Buy,,main,AZPN
+2012-08-22,Deutsche Bank,Buy,,main,AZPN
+2012-08-22,Canaccord Genuity,Buy,,main,AZPN
+2012-08-22,Benchmark,Buy,,main,AZPN
+2012-11-02,Deutsche Bank,Buy,,main,AZPN
+2012-11-02,Canaccord Genuity,Buy,,main,AZPN
+2013-01-03,Benchmark,Buy,,main,AZPN
+2013-01-30,Deutsche Bank,Buy,,main,AZPN
+2013-01-30,Canaccord Genuity,Buy,,main,AZPN
+2013-08-16,Benchmark,Buy,,main,AZPN
+2013-10-18,JP Morgan,Neutral,Overweight,down,AZPN
+2013-11-08,UBS,Buy,Neutral,up,AZPN
+2014-01-31,JP Morgan,Neutral,,main,AZPN
+2014-04-30,Summit Research Partners,Buy,Hold,up,AZPN
+2014-04-30,JP Morgan,Neutral,,main,AZPN
+2014-05-19,Summit Research Partners,Hold,Buy,down,AZPN
+2014-10-29,Canaccord Genuity,Hold,Buy,down,AZPN
+2015-01-22,JP Morgan,Underweight,Neutral,down,AZPN
+2015-03-19,Evercore ISI Group,Buy,,init,AZPN
+2015-04-29,JP Morgan,Underweight,,main,AZPN
+2015-04-29,Canaccord Genuity,Buy,,main,AZPN
+2015-05-15,Pacific Crest,Overweight,,up,AZPN
+2016-01-13,Benchmark,Hold,Buy,down,AZPN
+2016-02-09,Avondale Partners,Market Perform,,init,AZPN
+2016-04-26,Benchmark,Hold,,main,AZPN
+2016-08-12,Avondale Partners,Underperform,Market Perform,down,AZPN
+2016-11-22,Pacific Crest,Overweight,,main,AZPN
+2017-05-10,Baird,Neutral,,init,AZPN
+2017-08-23,Berenberg,Buy,,init,AZPN
+2017-10-27,Canaccord Genuity,Hold,,main,AZPN
+2017-11-06,Bank of America,Neutral,,init,AZPN
+2018-01-25,KeyBanc,Overweight,,main,AZPN
+2018-01-25,Canaccord Genuity,Hold,Hold,main,AZPN
+2018-04-09,Baird,Outperform,Neutral,up,AZPN
+2018-04-26,Wedbush,Neutral,Neutral,main,AZPN
+2018-04-26,KeyBanc,Overweight,Overweight,main,AZPN
+2018-08-09,KeyBanc,Overweight,Overweight,main,AZPN
+2018-08-09,Baird,Outperform,Outperform,main,AZPN
+2018-08-10,Wedbush,Neutral,Neutral,main,AZPN
+2018-08-17,Canaccord Genuity,Hold,Hold,main,AZPN
+2018-11-28,Canaccord Genuity,Buy,Hold,up,AZPN
+2019-01-04,Benchmark,Buy,Hold,up,AZPN
+2019-04-23,Bank of America,Neutral,Underperform,up,AZPN
+2019-04-23,Bank of America,Neutral,Underperform,up,AZPN
+2019-04-25,Wedbush,Outperform,Neutral,up,AZPN
+2019-04-25,Canaccord Genuity,Buy,Buy,main,AZPN
+2019-08-08,KeyBanc,Overweight,,main,AZPN
+2019-08-08,JP Morgan,Underweight,,main,AZPN
+2019-08-12,Wedbush,Outperform,,reit,AZPN
+2019-09-12,Canaccord Genuity,Buy,,main,AZPN
+2020-01-10,KeyBanc,Overweight,,main,AZPN
+2020-01-14,Wedbush,Outperform,,main,AZPN
+2020-03-16,JP Morgan,Neutral,Underweight,up,AZPN
+2020-04-02,Baird,Neutral,Outperform,down,AZPN
+2020-04-24,Wedbush,Outperform,,main,AZPN
+2020-05-01,KeyBanc,Overweight,,main,AZPN
+2020-05-07,KeyBanc,Overweight,,main,AZPN
+2020-08-13,KeyBanc,Overweight,,main,AZPN
+2020-09-09,KeyBanc,Overweight,,main,AZPN
+2021-01-28,KeyBanc,Overweight,,main,AZPN
+2021-02-03,Baird,Outperform,Neutral,up,AZPN
+2021-02-16,KeyBanc,Overweight,,main,AZPN
+2021-08-12,Keybanc,Overweight,,main,AZPN
+2021-08-12,JP Morgan,Underweight,Neutral,down,AZPN
+2021-08-12,Benchmark,Hold,Buy,down,AZPN
+2021-10-15,Piper Sandler,Neutral,,init,AZPN
+2021-10-19,Keybanc,Overweight,,main,AZPN
+2021-10-28,Keybanc,Overweight,,main,AZPN
+2021-11-19,Loop Capital,Hold,,init,AZPN

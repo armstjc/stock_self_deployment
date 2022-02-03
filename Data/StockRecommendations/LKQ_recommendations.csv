@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-27,Deutsche Bank,Hold,,main,LKQ
+2013-03-01,Deutsche Bank,Hold,,main,LKQ
+2013-05-24,Stifel Nicolaus,Buy,,init,LKQ
+2013-06-19,Deutsche Bank,Hold,,main,LKQ
+2013-08-02,Deutsche Bank,Hold,,main,LKQ
+2013-08-12,Bank of America,Neutral,Underperform,up,LKQ
+2013-10-01,Baird,Outperform,Neutral,up,LKQ
+2013-10-02,Wellington Shields,Hold,Gradually Accumulate,down,LKQ
+2013-11-04,Barrington Research,Market Perform,Outperform,down,LKQ
+2014-01-16,Bank of America,Buy,Neutral,up,LKQ
+2014-04-04,Northcoast Research,Buy,,init,LKQ
+2014-04-11,Barrington Research,Outperform,Market Perform,up,LKQ
+2014-04-30,Raymond James,Outperform,,main,LKQ
+2014-08-01,Wellington Shields,Buy,Gradually Accumulate,up,LKQ
+2015-03-04,Bank of America,,,down,LKQ
+2016-01-15,Jefferies,Buy,,init,LKQ
+2016-03-02,Sterne Agee CRT,Buy,,init,LKQ
+2016-03-22,Baird,Outperform,,main,LKQ
+2016-08-25,Susquehanna,Positive,,init,LKQ
+2017-02-21,JP Morgan,Overweight,,init,LKQ
+2017-07-25,Northcoast Research,Neutral,Buy,down,LKQ
+2018-04-17,Guggenheim,Neutral,,init,LKQ
+2018-05-30,SunTrust Robinson Humphrey,Buy,,init,LKQ
+2018-10-10,Raymond James,Outperform,Outperform,main,LKQ
+2019-03-06,Guggenheim,Buy,Neutral,up,LKQ
+2019-07-26,Raymond James,Market Perform,Outperform,down,LKQ
+2019-07-26,Wellington Shields,Gradually Accumulate,Buy,down,LKQ
+2020-04-20,SunTrust Robinson Humphrey,Buy,,main,LKQ
+2020-04-24,Stifel,Buy,,main,LKQ
+2020-05-01,Stephens & Co.,Overweight,,main,LKQ
+2020-06-08,Northcoast Research,Neutral,Buy,down,LKQ
+2020-09-11,Stifel,Buy,,main,LKQ
+2020-09-11,Truist Securities,Buy,,main,LKQ
+2021-08-02,Raymond James,Outperform,Market Perform,up,LKQ
+2021-10-29,Raymond James,Outperform,,main,LKQ

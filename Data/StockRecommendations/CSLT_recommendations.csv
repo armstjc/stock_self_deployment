@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-08,Stifel Nicolaus,Buy,,init,CSLT
+2014-04-08,Morgan Stanley,Equal-Weight,,init,CSLT
+2014-04-08,Raymond James,Outperform,,init,CSLT
+2014-04-08,Goldman Sachs,Neutral,,init,CSLT
+2014-05-08,Stifel Nicolaus,Buy,,main,CSLT
+2014-05-08,Raymond James,Outperform,,main,CSLT
+2014-07-30,Raymond James,Outperform,,main,CSLT
+2014-10-27,Leerink Swann,Outperform,,init,CSLT
+2014-12-05,First Analysis,Equal-Weight,,init,CSLT
+2015-02-19,Stifel Nicolaus,Buy,,main,CSLT
+2015-03-20,Wells Fargo,Market Perform,,init,CSLT
+2015-05-07,Canaccord Genuity,Hold,,main,CSLT
+2015-06-15,Raymond James,Outperform,,main,CSLT
+2015-06-17,Canaccord Genuity,Hold,,main,CSLT
+2015-11-05,Leerink Swann,Market Perform,Outperform,down,CSLT
+2015-11-05,Stifel Nicolaus,Buy,,main,CSLT
+2015-11-18,FBR Capital,Market Perform,,init,CSLT
+2015-12-16,Topeka,Buy,,init,CSLT
+2016-02-18,Stifel Nicolaus,Buy,,main,CSLT
+2017-01-05,Raymond James,Market Perform,Outperform,down,CSLT
+2017-01-06,Cantor Fitzgerald,Neutral,,init,CSLT
+2017-01-30,Cowen & Co.,Market Perform,,init,CSLT
+2017-05-10,Dougherty,Buy,,init,CSLT
+2017-05-12,Morgan Stanley,Underweight,Equal-Weight,down,CSLT
+2017-06-06,Chardan Capital,Buy,,init,CSLT
+2017-10-10,Canaccord Genuity,Buy,Hold,up,CSLT
+2018-01-31,Cantor Fitzgerald,Overweight,Neutral,up,CSLT
+2018-06-20,William Blair,Outperform,,init,CSLT
+2018-07-31,Chardan Capital,Hold,Buy,down,CSLT
+2018-07-31,Canaccord Genuity,Buy,Buy,main,CSLT
+2019-07-31,Cantor Fitzgerald,Neutral,Overweight,down,CSLT
+2019-11-20,Canaccord Genuity,Hold,Buy,down,CSLT
+2020-01-08,Wells Fargo,Underweight,Equal-Weight,down,CSLT
+2020-02-26,Cantor Fitzgerald,Neutral,,reit,CSLT
+2020-05-19,Wells Fargo,Underweight,,main,CSLT
+2021-02-11,Canaccord Genuity,Hold,,main,CSLT

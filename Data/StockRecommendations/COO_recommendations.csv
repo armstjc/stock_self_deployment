@@ -1,0 +1,108 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-09,Morgan Keegan,Outperform,,main,COO
+2012-03-09,Citigroup,Neutral,,main,COO
+2012-06-07,JP Morgan,Neutral,,main,COO
+2012-06-07,Citigroup,Neutral,,main,COO
+2012-08-15,JP Morgan,Overweight,Neutral,up,COO
+2012-09-07,Citigroup,Neutral,,main,COO
+2012-09-07,JP Morgan,Overweight,,main,COO
+2012-09-07,Jefferies,Hold,,main,COO
+2012-10-03,JP Morgan,Overweight,,main,COO
+2012-10-05,Stephens & Co.,Equal-Weight,Overweight,down,COO
+2012-10-16,Citigroup,Neutral,,main,COO
+2013-02-13,Jefferies,Hold,,main,COO
+2013-02-25,JP Morgan,Overweight,,main,COO
+2013-03-08,BMO Capital,Outperform,,main,COO
+2013-03-08,Citigroup,Neutral,,main,COO
+2013-05-15,Raymond James,Outperform,Strong Buy,down,COO
+2013-06-07,BMO Capital,Outperform,,main,COO
+2013-06-10,Jefferies,Hold,,main,COO
+2013-08-07,Stifel Nicolaus,Buy,,init,COO
+2013-09-06,Stephens & Co.,Equal-Weight,,main,COO
+2013-09-06,Raymond James,Outperform,,main,COO
+2013-12-06,Citigroup,Neutral,,main,COO
+2014-01-07,Citigroup,Sell,Neutral,down,COO
+2014-02-03,Cleveland Research,Neutral,Buy,down,COO
+2014-06-06,JP Morgan,Overweight,,main,COO
+2014-07-01,JP Morgan,Overweight,,main,COO
+2014-09-08,Jefferies,Hold,,main,COO
+2014-09-12,JP Morgan,Overweight,,main,COO
+2014-10-14,JP Morgan,Neutral,,main,COO
+2014-12-16,Oppenheimer,Perform,,init,COO
+2015-03-06,Oppenheimer,Perform,,main,COO
+2015-03-06,BMO Capital,Outperform,,main,COO
+2015-03-20,PiperJaffray,Overweight,,init,COO
+2015-03-25,JP Morgan,Overweight,,main,COO
+2015-03-31,BMO Capital,Outperform,,main,COO
+2015-08-26,KeyBanc,Overweight,Sector Weight,up,COO
+2015-09-04,BMO Capital,Outperform,,main,COO
+2015-11-17,Wells Fargo,Market Perform,Outperform,down,COO
+2015-12-01,Stifel Nicolaus,Buy,,main,COO
+2015-12-04,PiperJaffray,Overweight,,main,COO
+2015-12-04,JP Morgan,Neutral,Overweight,down,COO
+2015-12-17,Goldman Sachs,Neutral,,init,COO
+2016-04-15,Jefferies,Buy,Hold,up,COO
+2016-05-16,Cleveland Research,Buy,Neutral,up,COO
+2016-06-03,Jefferies,Buy,,main,COO
+2016-07-13,JP Morgan,Buy,,init,COO
+2016-08-18,Baird,Outperform,,main,COO
+2016-08-24,Jefferies,Buy,,main,COO
+2016-12-12,Wells Fargo,Outperform,Market Perform,up,COO
+2017-06-29,Guggenheim,Neutral,,init,COO
+2017-07-21,KeyBanc,Sector Weight,Overweight,down,COO
+2018-03-09,BMO Capital,Outperform,Outperform,main,COO
+2018-04-04,Goldman Sachs,Neutral,,init,COO
+2018-06-05,Raymond James,Outperform,Outperform,main,COO
+2018-07-30,KeyBanc,Overweight,Sector Weight,up,COO
+2018-08-31,BMO Capital,Outperform,Outperform,main,COO
+2018-09-21,Raymond James,Outperform,Outperform,main,COO
+2018-11-12,Wells Fargo,Outperform,Outperform,main,COO
+2018-12-07,Wells Fargo,Outperform,Outperform,main,COO
+2018-12-07,BMO Capital,Outperform,Outperform,main,COO
+2018-12-07,KeyBanc,Overweight,Overweight,main,COO
+2019-01-04,Goldman Sachs,Sell,Neutral,down,COO
+2019-02-01,Stephens & Co.,Overweight,Equal-Weight,up,COO
+2019-03-06,BMO Capital,Outperform,Outperform,main,COO
+2019-03-06,Raymond James,Outperform,Outperform,main,COO
+2019-07-02,Raymond James,Outperform,,main,COO
+2019-08-22,KeyBanc,Overweight,,main,COO
+2019-10-11,KeyBanc,Overweight,,main,COO
+2019-11-27,KeyBanc,Overweight,,main,COO
+2020-01-16,Wells Fargo,Overweight,,main,COO
+2020-01-22,KeyBanc,Overweight,,main,COO
+2020-03-05,Citigroup,Neutral,,init,COO
+2020-03-06,Stifel,Buy,,main,COO
+2020-03-06,Baird,Outperform,,main,COO
+2020-03-06,Raymond James,Outperform,,main,COO
+2020-03-06,Stephens & Co.,Overweight,,reit,COO
+2020-03-23,Stephens & Co.,Overweight,,main,COO
+2020-03-27,Citigroup,Neutral,,main,COO
+2020-04-08,Jefferies,Buy,,main,COO
+2020-05-21,Wells Fargo,Overweight,,main,COO
+2020-05-26,KeyBanc,Overweight,,main,COO
+2020-06-05,Raymond James,Outperform,,main,COO
+2020-07-06,Baird,Neutral,Outperform,down,COO
+2020-09-04,Stephens & Co.,Overweight,,main,COO
+2020-09-04,Oppenheimer,Perform,,main,COO
+2020-09-04,Citigroup,Neutral,,main,COO
+2020-09-04,KeyBanc,Overweight,,main,COO
+2020-09-17,Raymond James,Outperform,,main,COO
+2020-12-04,KeyBanc,Overweight,,main,COO
+2021-01-08,KeyBanc,Overweight,,main,COO
+2021-02-11,Piper Sandler,Overweight,,main,COO
+2021-02-23,KeyBanc,Overweight,,main,COO
+2021-03-05,KeyBanc,Overweight,,main,COO
+2021-03-05,Raymond James,Outperform,,main,COO
+2021-03-05,Baird,Neutral,,main,COO
+2021-03-05,Jefferies,Buy,,main,COO
+2021-03-05,Citigroup,Neutral,,main,COO
+2021-04-28,Keybanc,Overweight,,main,COO
+2021-06-01,Piper Sandler,Overweight,,main,COO
+2021-07-01,Stifel,Buy,,main,COO
+2021-07-16,Stephens & Co.,Overweight,,main,COO
+2021-08-19,Wells Fargo,Overweight,,main,COO
+2021-09-03,Stifel,Buy,,main,COO
+2021-09-03,Keybanc,Overweight,,main,COO
+2021-10-21,Keybanc,Overweight,,main,COO
+2021-12-03,Keybanc,Overweight,,main,COO
+2022-01-03,Guggenheim,Buy,Neutral,up,COO

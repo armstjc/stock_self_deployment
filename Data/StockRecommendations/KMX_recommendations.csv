@@ -1,0 +1,132 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-10,BGB Securities,Buy,,main,KMX
+2012-06-22,Bank of America,Buy,,main,KMX
+2012-06-22,Goldman Sachs,Neutral,,main,KMX
+2012-06-25,Deutsche Bank,Hold,,main,KMX
+2012-09-12,Morgan Stanley,Overweight,,init,KMX
+2012-09-14,Goldman Sachs,Neutral,,main,KMX
+2012-09-20,Bank of America,Buy,,main,KMX
+2012-10-26,Credit Suisse,Outperform,Neutral,up,KMX
+2012-11-29,Goldman Sachs,,Neutral,up,KMX
+2012-12-21,Goldman Sachs,Buy,,main,KMX
+2012-12-21,Stifel Nicolaus,Buy,,main,KMX
+2012-12-21,Deutsche Bank,Hold,,main,KMX
+2013-04-11,Goldman Sachs,Buy,,main,KMX
+2013-04-11,Stifel Nicolaus,Buy,,main,KMX
+2013-05-14,Nomura,Buy,,init,KMX
+2013-05-21,William Blair,Market Perform,Outperform,down,KMX
+2013-06-14,Nomura,Buy,,main,KMX
+2013-06-24,Deutsche Bank,Hold,,main,KMX
+2013-06-24,Deutsche Bank,Hold,,main,KMX
+2013-06-24,Goldman Sachs,Buy,,main,KMX
+2013-09-25,Goldman Sachs,Neutral,Buy,down,KMX
+2013-12-23,Deutsche Bank,Hold,,main,KMX
+2014-04-01,Wedbush,Neutral,,init,KMX
+2014-06-20,William Blair,Outperform,,up,KMX
+2014-06-26,KeyBanc,Buy,,init,KMX
+2014-09-24,Bank of America,Buy,,main,KMX
+2014-11-17,Morgan Stanley,Equal-weight,Overweight,down,KMX
+2015-03-04,Baird,Neutral,Outperform,down,KMX
+2015-03-17,Evercore ISI Group,Buy,,init,KMX
+2015-04-27,Stifel Nicolaus,Buy,,main,KMX
+2015-05-14,Sterne Agee CRT,Buy,,init,KMX
+2015-06-30,SunTrust Robinson Humphrey,Neutral,,init,KMX
+2015-07-08,Goldman Sachs,Buy,Neutral,up,KMX
+2015-08-03,Goldman Sachs,Buy,,main,KMX
+2015-09-23,Oppenheimer,Perform,Outperform,down,KMX
+2016-01-11,Goldman Sachs,Buy,,main,KMX
+2016-01-12,Oppenheimer,Outperform,,up,KMX
+2016-01-25,Deutsche Bank,Hold,,main,KMX
+2016-03-11,Northcoast Research,Neutral,Buy,down,KMX
+2016-03-17,Wolfe Research,Underperform,Peer Perform,down,KMX
+2016-03-28,Sterne Agee CRT,Neutral,Buy,down,KMX
+2016-03-29,Morgan Stanley,Equal-Weight,,main,KMX
+2016-04-08,Deutsche Bank,Hold,,main,KMX
+2016-08-25,Susquehanna,Positive,,init,KMX
+2016-09-07,Baird,Neutral,,main,KMX
+2016-09-09,Buckingham Research,Neutral,Buy,down,KMX
+2016-09-22,Deutsche Bank,Hold,,main,KMX
+2016-10-24,Deutsche Bank,Buy,Hold,up,KMX
+2016-10-24,Deutsche Bank,Buy,Hold,up,KMX
+2017-02-01,Morgan Stanley,Underweight,Equal-Weight,down,KMX
+2017-04-07,Susquehanna,Positive,,main,KMX
+2017-06-22,Susquehanna,Neutral,Positive,down,KMX
+2017-06-22,RBC Capital,Outperform,Sector Perform,up,KMX
+2017-09-25,Buckingham,Neutral,,main,KMX
+2017-09-29,Credit Suisse,Outperform,,main,KMX
+2017-10-04,Berenberg,Hold,,init,KMX
+2017-10-05,Oppenheimer,Perform,Outperform,down,KMX
+2017-11-17,Deutsche Bank,Hold,Buy,down,KMX
+2017-12-04,Moffett Nathanson,Neutral,,init,KMX
+2018-01-08,Berenberg,Buy,Hold,up,KMX
+2018-01-18,Oppenheimer,Outperform,Perform,up,KMX
+2018-04-05,Bank of America,Buy,Buy,main,KMX
+2018-04-05,Buckingham,Buy,Neutral,up,KMX
+2018-04-05,Deutsche Bank,Hold,Hold,main,KMX
+2018-04-06,Credit Suisse,Outperform,Outperform,main,KMX
+2018-04-17,Guggenheim,Buy,,init,KMX
+2018-06-25,Buckingham,Neutral,Buy,down,KMX
+2018-06-25,Guggenheim,Neutral,Buy,down,KMX
+2018-06-25,Baird,Neutral,Neutral,main,KMX
+2018-06-25,Wedbush,Outperform,Outperform,main,KMX
+2018-07-10,Morgan Stanley,Overweight,Underweight,up,KMX
+2018-09-27,Baird,Outperform,Neutral,up,KMX
+2019-01-18,Wedbush,Neutral,Outperform,down,KMX
+2019-04-01,Buckingham,Buy,Buy,main,KMX
+2019-04-01,Stephens & Co.,Overweight,Equal-Weight,up,KMX
+2019-04-17,Credit Suisse,Outperform,Outperform,main,KMX
+2019-04-17,Morgan Stanley,Overweight,Overweight,main,KMX
+2019-06-19,RBC Capital,Outperform,,main,KMX
+2019-06-24,Baird,Outperform,,main,KMX
+2019-06-24,Buckingham Research,Neutral,Buy,down,KMX
+2019-06-28,Northcoast Research,Neutral,Buy,down,KMX
+2019-07-18,Bank of America,Buy,,main,KMX
+2019-09-03,Morgan Stanley,Overweight,,main,KMX
+2019-09-25,Stephens & Co.,Overweight,,main,KMX
+2019-09-25,Buckingham,Neutral,,main,KMX
+2019-09-25,Guggenheim,Buy,,main,KMX
+2019-12-04,Morgan Stanley,Overweight,,main,KMX
+2019-12-16,Oppenheimer,Outperform,,main,KMX
+2019-12-18,RBC Capital,Outperform,,main,KMX
+2019-12-18,Buckingham,Neutral,,main,KMX
+2019-12-23,Morgan Stanley,Overweight,,main,KMX
+2019-12-23,Wedbush,Neutral,,main,KMX
+2019-12-24,Credit Suisse,Outperform,,main,KMX
+2019-12-26,Argus Research,Buy,,main,KMX
+2020-02-07,Evercore ISI Group,Outperform,,init,KMX
+2020-03-30,Morgan Stanley,Overweight,,main,KMX
+2020-04-02,CFRA,Strong Buy,,main,KMX
+2020-04-03,Stephens & Co.,Overweight,,main,KMX
+2020-04-03,RBC Capital,Outperform,,main,KMX
+2020-04-03,Oppenheimer,Outperform,,main,KMX
+2020-04-03,Morgan Stanley,Overweight,,main,KMX
+2020-04-03,Wedbush,Neutral,,main,KMX
+2020-04-03,Credit Suisse,Outperform,,main,KMX
+2020-04-14,Wedbush,Neutral,,main,KMX
+2020-05-12,Wedbush,Outperform,Neutral,up,KMX
+2020-06-01,JP Morgan,Overweight,,init,KMX
+2020-06-22,RBC Capital,Outperform,,main,KMX
+2020-06-22,Morgan Stanley,Overweight,,main,KMX
+2020-07-02,Oppenheimer,Outperform,,main,KMX
+2020-08-18,Wedbush,Outperform,,main,KMX
+2020-09-23,B of A Securities,Buy,,main,KMX
+2020-10-02,Morgan Stanley,Overweight,,main,KMX
+2020-10-15,B of A Securities,Buy,,main,KMX
+2020-10-19,Seaport Global,Buy,,init,KMX
+2020-11-17,B of A Securities,Buy,,main,KMX
+2020-12-09,JP Morgan,Neutral,Overweight,down,KMX
+2020-12-23,Morgan Stanley,Overweight,,main,KMX
+2021-02-17,Wedbush,Outperform,,main,KMX
+2021-03-31,Seaport Global,Neutral,Buy,down,KMX
+2021-04-05,RBC Capital,Outperform,,main,KMX
+2021-04-09,Oppenheimer,Outperform,,main,KMX
+2021-05-19,Wedbush,Neutral,Outperform,down,KMX
+2021-06-28,Stephens & Co.,Overweight,,main,KMX
+2021-06-28,JP Morgan,Neutral,,main,KMX
+2021-06-28,Baird,Outperform,,main,KMX
+2021-06-28,RBC Capital,Outperform,,main,KMX
+2021-07-16,B of A Securities,Buy,,main,KMX
+2021-10-01,Guggenheim,Neutral,Buy,down,KMX
+2021-10-01,RBC Capital,Outperform,,main,KMX
+2021-12-07,JP Morgan,Overweight,Neutral,up,KMX
+2021-12-23,RBC Capital,Outperform,,main,KMX

@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-03-11,Barclays,Equal-Weight,,init,MGIC
+2014-04-15,H.C. Wainwright,Buy,,init,MGIC
+2014-05-08,William Blair,Outperform,,init,MGIC
+2015-01-12,Barclays,Equal-Weight,,main,MGIC
+2015-07-09,H.C. Wainwright,Buy,,init,MGIC
+2015-11-12,Barclays,Overweight,Equal-Weight,up,MGIC
+2016-02-23,Barclays,Overweight,,main,MGIC
+2016-08-11,Barclays,Overweight,,main,MGIC
+2018-06-13,Bank of America,Underperform,Neutral,down,MGIC
+2020-03-11,H.C. Wainwright,Neutral,Buy,down,MGIC
+2020-08-17,HC Wainwright & Co.,Buy,Neutral,up,MGIC
+2021-03-09,HC Wainwright & Co.,Buy,,main,MGIC

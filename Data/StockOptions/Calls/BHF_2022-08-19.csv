@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BHF220819C00050000,2022-01-04 15:01:37+00:00,50.0,9.8,8.1,8.9,0.0,0.0,2,5,0.28577374389648436,True,REGULAR,USD,BHF
+BHF220819C00055000,2022-01-03 17:53:39+00:00,55.0,5.42,5.7,6.4,0.0,0.0,4,3,0.3215399877929687,True,REGULAR,USD,BHF

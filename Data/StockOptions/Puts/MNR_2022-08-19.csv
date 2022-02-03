@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MNR220819P00020000,2021-12-28 15:53:54+00:00,20.0,0.15,0.0,0.2,0.0,0.0,6,16,0.092782509765625,False,REGULAR,USD,MNR

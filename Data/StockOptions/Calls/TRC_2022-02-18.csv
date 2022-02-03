@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TRC220218C00020000,2022-01-04 19:17:57+00:00,20.0,0.5,0.0,1.55,0.0,0.0,1,10,1.255863095703125,False,REGULAR,USD,TRC

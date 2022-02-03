@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SHPW220218C00002500,2022-01-31 19:36:56+00:00,2.5,0.65,0.45,0.7,0.0,0.0,18,15,0.85937640625,True,REGULAR,USD,SHPW
+SHPW220218C00005000,2022-01-31 19:47:19+00:00,5.0,0.03,0.0,0.05,0.0,0.0,2,174,1.453127734375,False,REGULAR,USD,SHPW

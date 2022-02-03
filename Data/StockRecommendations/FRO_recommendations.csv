@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,Imperial Capital,Outperform,,init,FRO
+2012-07-24,Jefferies,Hold,,main,FRO
+2012-08-24,Goldman Sachs,Neutral,Sell,up,FRO
+2012-08-29,Dahlman Rose,Buy,,main,FRO
+2012-08-30,Jefferies,Hold,,main,FRO
+2012-08-30,Clarksons Platou,Market Perform,,main,FRO
+2012-10-22,Jefferies,Hold,,main,FRO
+2013-02-25,Jefferies,Hold,,main,FRO
+2013-02-26,Imperial Capital,Underperform,,init,FRO
+2013-04-17,Global Hunter Securities,Sell,,init,FRO
+2013-04-23,Jefferies,Hold,,main,FRO
+2013-09-03,RS Platou Markets,Sell,Neutral,down,FRO
+2013-09-24,Imperial Capital,Underperform,,init,FRO
+2014-02-28,Deutsche Bank,Hold,Sell,up,FRO
+2014-05-28,Deutsche Bank,Hold,,main,FRO
+2014-07-28,Jefferies,Hold,,main,FRO
+2014-09-16,Deutsche Bank,Hold,,init,FRO
+2015-01-21,Nordea,Sell,Hold,down,FRO
+2015-02-20,Seaport Global,,,init,FRO
+2015-05-27,Morgan Stanley,Equal-Weight,Underweight,up,FRO
+2015-06-01,Nordea,Hold,Sell,up,FRO
+2015-11-25,Credit Suisse,Neutral,Underperform,up,FRO
+2015-12-17,Seaport Global,Buy,,init,FRO
+2016-01-04,Deutsche Bank,Hold,,main,FRO
+2016-01-14,Nordea,Buy,Neutral,up,FRO
+2016-02-09,Clarksons Platou,Buy,Neutral,up,FRO
+2016-02-16,Clarksons Platou,Buy,Neutral,up,FRO
+2017-07-21,Evercore ISI Group,Underperform,In-Line,down,FRO
+2018-06-04,Wells Fargo,Market Perform,Market Perform,main,FRO
+2018-06-18,Wells Fargo,Outperform,Market Perform,up,FRO
+2018-08-28,Deutsche Bank,Hold,Hold,main,FRO
+2018-09-27,BTIG Research,Neutral,,init,FRO
+2018-10-01,Jefferies,Hold,,init,FRO
+2018-11-19,Morgan Stanley,Equal-Weight,Equal-Weight,main,FRO
+2018-11-30,DNB Markets,Hold,Buy,down,FRO
+2018-12-04,Deutsche Bank,Hold,Hold,main,FRO
+2019-01-10,Wells Fargo,Market Perform,Outperform,down,FRO
+2019-09-13,BTIG,Buy,Neutral,up,FRO
+2019-10-18,Evercore ISI Group,Outperform,In-Line,up,FRO
+2020-03-09,DNB Markets,Hold,Buy,down,FRO
+2020-03-24,Jefferies,Buy,Hold,up,FRO
+2020-05-28,DNB Markets,Buy,Hold,up,FRO
+2020-10-21,BTIG,Neutral,Buy,down,FRO
+2020-10-23,Jefferies,Buy,,main,FRO
+2020-10-28,Evercore ISI Group,Underperform,In-Line,down,FRO
+2020-11-24,Danske Bank,Hold,Buy,down,FRO
+2020-11-25,Jefferies,Buy,,main,FRO
+2021-01-29,Jefferies,Buy,,main,FRO
+2021-02-22,Jefferies,Hold,Buy,down,FRO
+2021-03-29,HC Wainwright & Co.,Neutral,,init,FRO
+2021-05-25,Evercore ISI Group,Outperform,In-Line,up,FRO
+2021-11-29,Jefferies,Hold,,main,FRO

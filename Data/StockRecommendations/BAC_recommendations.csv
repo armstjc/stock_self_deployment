@@ -1,0 +1,205 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Citigroup,Neutral,,down,BAC
+2012-02-27,UBS,Neutral,,main,BAC
+2012-03-19,Morgan Stanley,Equal-Weight,,main,BAC
+2012-03-30,Deutsche Bank,Hold,,main,BAC
+2012-04-02,UBS,Neutral,,main,BAC
+2012-04-10,JP Morgan,Overweight,,main,BAC
+2012-04-11,Guggenheim,Buy,,up,BAC
+2012-04-20,Citigroup,Neutral,,main,BAC
+2012-05-22,Sterne Agee,Neutral,,main,BAC
+2012-06-04,UBS,Neutral,,main,BAC
+2012-07-11,Bernstein,Market Perform,,main,BAC
+2012-07-18,ISI Group,Hold,,main,BAC
+2012-09-17,Citigroup,Neutral,,main,BAC
+2012-10-02,Drexel Hamilton,Buy,,init,BAC
+2012-10-17,ISI Group,Hold,,main,BAC
+2012-10-18,Nomura,Neutral,,main,BAC
+2012-10-18,UBS,Neutral,,main,BAC
+2012-10-18,Sterne Agee,Neutral,,main,BAC
+2012-11-08,ISI Group,Buy,Hold,up,BAC
+2012-11-19,Stifel Nicolaus,Buy,Hold,up,BAC
+2012-12-07,SunTrust Robinson Humphrey,Neutral,,init,BAC
+2013-01-03,Citigroup,Neutral,,main,BAC
+2013-01-03,Nomura,Neutral,,main,BAC
+2013-01-04,Deutsche Bank,Hold,,main,BAC
+2013-01-07,Goldman Sachs,Neutral,,main,BAC
+2013-01-07,ISI Group,Buy,,main,BAC
+2013-01-08,JP Morgan,Overweight,,main,BAC
+2013-01-09,Credit Suisse,Neutral,Outperform,down,BAC
+2013-01-10,UBS,Neutral,,main,BAC
+2013-01-11,Sandler O'Neill,Hold,Buy,down,BAC
+2013-02-07,Rafferty,Buy,,init,BAC
+2013-03-08,Edward Jones,Buy,Hold,up,BAC
+2013-03-15,Scotiabank,Sector Outperform,Sector Perform,up,BAC
+2013-04-18,Barclays,Equal-Weight,,main,BAC
+2013-04-18,UBS,Neutral,,main,BAC
+2013-04-18,Nomura,Neutral,,main,BAC
+2013-04-23,Morgan Stanley,Overweight,Equal-Weight,up,BAC
+2013-05-15,Deutsche Bank,Hold,,main,BAC
+2013-05-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,BAC
+2013-06-07,Macquarie,Underperform,,init,BAC
+2013-07-10,JP Morgan,Overweight,,main,BAC
+2013-08-21,Credit Suisse,Neutral,,main,BAC
+2013-09-19,Societe Generale,Buy,,init,BAC
+2013-09-27,Guggenheim,Neutral,Buy,down,BAC
+2013-10-17,Raymond James,Outperform,Strong Buy,down,BAC
+2013-10-17,Baird,Neutral,,main,BAC
+2013-11-05,Bernstein,Market Perform,,main,BAC
+2013-12-03,Guggenheim,Neutral,,main,BAC
+2014-01-02,Citigroup,Buy,Neutral,up,BAC
+2014-01-08,Jefferies,Buy,,init,BAC
+2014-01-09,Nomura,Buy,,init,BAC
+2014-01-16,Raymond James,Outperform,,main,BAC
+2014-03-24,Atlantic Equities,Neutral,Overweight,down,BAC
+2014-04-17,Morgan Stanley,Overweight,,main,BAC
+2014-04-17,Jefferies,Buy,,main,BAC
+2014-04-17,Oppenheimer,Outperform,market perform,up,BAC
+2014-04-24,Deutsche Bank,Hold,,main,BAC
+2014-04-25,SunTrust Robinson Humphrey,Neutral,,main,BAC
+2014-04-29,JP Morgan,Overweight,,main,BAC
+2014-05-12,Jefferies,Buy,,main,BAC
+2014-05-12,Portales Partners,Sector Perform,Underperform,up,BAC
+2014-05-21,MKM Partners,Buy,,init,BAC
+2014-06-19,JP Morgan,Overweight,,main,BAC
+2014-07-02,Deutsche Bank,Buy,Hold,up,BAC
+2014-09-03,Nomura,Neutral,Buy,down,BAC
+2014-09-04,JP Morgan,Overweight,,main,BAC
+2014-09-08,Goldman Sachs,Buy,Neutral,up,BAC
+2014-10-02,UBS,Buy,Neutral,up,BAC
+2014-10-16,FBR Capital,Outperform,Market Perform,up,BAC
+2014-12-16,Guggenheim,Buy,,init,BAC
+2015-01-05,Barclays,Equal-Weight,,main,BAC
+2015-01-08,Credit Suisse,Overweight,,init,BAC
+2015-01-16,Jefferies,Buy,,main,BAC
+2015-02-27,UBS,Neutral,Buy,down,BAC
+2015-03-02,Citigroup,Buy,,main,BAC
+2015-03-13,Oppenheimer,Outperform,,main,BAC
+2015-04-16,BMO Capital,Outperform,,main,BAC
+2015-04-16,Barclays,Equal-Weight,,main,BAC
+2015-04-16,Oppenheimer,Outperform,,main,BAC
+2015-04-16,Jefferies,Buy,,main,BAC
+2015-05-06,BMO Capital,Market Perform,Outperform,down,BAC
+2015-05-28,Portales Partners,Sector Perform,Outperform,down,BAC
+2015-07-16,Keefe Bruyette & Woods,Market Perform,,main,BAC
+2015-07-20,RBC Capital,Outperform,,main,BAC
+2015-07-20,Jefferies,Buy,,main,BAC
+2015-08-24,Keefe Bruyette & Woods,Outperform,Market Perform,up,BAC
+2015-08-25,Baird,Outperform,Neutral,up,BAC
+2015-08-25,Macquarie,Neutral,Underperform,up,BAC
+2015-08-25,Bernstein,Outperform,Neutral,up,BAC
+2015-08-26,UBS,Buy,Neutral,up,BAC
+2015-09-08,Nomura,Buy,Neutral,up,BAC
+2015-10-06,Oppenheimer,Outperform,,main,BAC
+2015-10-07,Jefferies,Buy,,main,BAC
+2016-01-20,Barclays,Equal-Weight,,main,BAC
+2016-01-20,Sandler O'Neill,Buy,Hold,up,BAC
+2016-01-26,Deutsche Bank,Buy,,main,BAC
+2016-01-29,CLSA,Outperform,,up,BAC
+2016-02-25,Credit Suisse,Outperform,,main,BAC
+2016-03-01,Atlantic Equities,Neutral,Overweight,down,BAC
+2016-03-10,Keefe Bruyette & Woods,Outperform,,main,BAC
+2016-04-07,JP Morgan,Overweight,,main,BAC
+2016-04-17,Citigroup,Buy,,main,BAC
+2016-05-16,Keefe Bruyette & Woods,Market Perform,Outperform,down,BAC
+2016-07-07,Raymond James,Market Perform,Outperform,down,BAC
+2016-07-13,Berenberg,Buy,,init,BAC
+2016-07-19,Citigroup,Buy,,main,BAC
+2016-07-19,Keefe Bruyette & Woods,Market Perform,,main,BAC
+2016-09-23,CLSA,Outperform,,main,BAC
+2016-10-10,Jefferies,Buy,,main,BAC
+2016-10-11,Compass Point,Neutral,,init,BAC
+2016-11-08,Deutsche Bank,Hold,Buy,down,BAC
+2016-11-15,Guggenheim,Neutral,Buy,down,BAC
+2016-11-16,Baird,Neutral,Outperform,down,BAC
+2016-11-29,Keefe Bruyette & Woods,Outperform,Market Perform,up,BAC
+2016-11-30,Deutsche Bank,Hold,,main,BAC
+2016-12-01,Standpoint Research,Hold,Buy,down,BAC
+2016-12-21,Atlantic Equities,Overweight,Neutral,up,BAC
+2017-01-11,UBS,Neutral,,down,BAC
+2017-01-12,Societe Generale,Buy,Hold,up,BAC
+2017-02-16,Macquarie,Outperform,Neutral,up,BAC
+2017-04-04,Citigroup,Neutral,Buy,down,BAC
+2017-04-24,Berenberg,Hold,Buy,down,BAC
+2017-07-10,Oppenheimer,Outperform,,main,BAC
+2017-10-09,Citigroup,Neutral,,main,BAC
+2017-10-10,Citigroup,Neutral,,main,BAC
+2017-10-16,UBS,Neutral,,main,BAC
+2017-10-16,BMO Capital,Market Perform,,main,BAC
+2017-10-16,Nomura,Buy,,main,BAC
+2017-11-01,JP Morgan,Overweight,,main,BAC
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,BAC
+2018-03-16,Credit Suisse,Outperform,Outperform,main,BAC
+2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,BAC
+2018-04-24,Citigroup,Neutral,Neutral,main,BAC
+2018-10-16,BMO Capital,Market Perform,Market Perform,main,BAC
+2018-12-07,Credit Suisse,Outperform,Outperform,main,BAC
+2018-12-12,Keefe Bruyette & Woods,Market Perform,Outperform,down,BAC
+2019-01-09,UBS,Buy,Neutral,up,BAC
+2019-03-26,Oppenheimer,Outperform,Outperform,main,BAC
+2019-04-04,HSBC,Hold,,init,BAC
+2019-04-17,BMO Capital,Market Perform,Market Perform,main,BAC
+2019-04-17,Jefferies,Hold,Buy,down,BAC
+2019-04-30,Atlantic Equities,Neutral,Overweight,down,BAC
+2019-06-18,BMO Capital,Outperform,Market Perform,up,BAC
+2019-07-09,JP Morgan,Overweight,,main,BAC
+2019-07-26,Keefe Bruyette & Woods,Outperform,Market Perform,up,BAC
+2019-08-29,Raymond James,Market Perform,Outperform,down,BAC
+2019-09-06,Keefe Bruyette & Woods,Market Perform,Outperform,down,BAC
+2019-09-17,Morgan Stanley,Overweight,,main,BAC
+2019-10-04,Morgan Stanley,Overweight,,main,BAC
+2019-10-10,JP Morgan,Overweight,,main,BAC
+2019-10-21,UBS,Buy,,main,BAC
+2019-10-22,Atlantic Equities,Overweight,Neutral,up,BAC
+2019-10-28,Odeon Capital,Buy,Hold,up,BAC
+2019-11-04,JP Morgan,Overweight,,main,BAC
+2019-11-18,Morgan Stanley,Overweight,,main,BAC
+2019-12-16,Citigroup,Neutral,,main,BAC
+2020-01-03,BMO Capital,Market Perform,Outperform,down,BAC
+2020-01-06,Barclays,Overweight,Equal-Weight,up,BAC
+2020-01-08,DA Davidson,Neutral,,init,BAC
+2020-01-09,DA Davidson,Neutral,,init,BAC
+2020-01-16,Credit Suisse,Outperform,,main,BAC
+2020-01-21,Atlantic Equities,Neutral,Overweight,down,BAC
+2020-03-02,Morgan Stanley,Overweight,,main,BAC
+2020-03-10,Citigroup,Neutral,,main,BAC
+2020-03-17,Baird,Outperform,Neutral,up,BAC
+2020-03-25,Deutsche Bank,Hold,,main,BAC
+2020-03-27,Morgan Stanley,Overweight,,main,BAC
+2020-03-27,Citigroup,Neutral,,main,BAC
+2020-03-30,Credit Suisse,Outperform,,main,BAC
+2020-04-01,Oppenheimer,Outperform,,main,BAC
+2020-04-01,Wells Fargo,Overweight,,main,BAC
+2020-04-02,Deutsche Bank,Hold,,main,BAC
+2020-04-03,Piper Sandler,Overweight,,main,BAC
+2020-04-06,UBS,Neutral,,main,BAC
+2020-04-06,Wells Fargo,Overweight,,main,BAC
+2020-04-15,CFRA,Buy,,main,BAC
+2020-04-16,BMO Capital,Market Perform,,main,BAC
+2020-04-16,Oppenheimer,Outperform,,main,BAC
+2020-05-04,UBS,Neutral,,main,BAC
+2020-06-25,Morgan Stanley,Overweight,,main,BAC
+2020-07-08,Seaport Global,Neutral,,init,BAC
+2020-07-09,DA Davidson,Neutral,Buy,down,BAC
+2020-09-03,Deutsche Bank,Buy,Hold,up,BAC
+2020-11-30,Morgan Stanley,Underweight,Overweight,down,BAC
+2021-01-11,Citigroup,Buy,Neutral,up,BAC
+2021-01-20,Credit Suisse,Outperform,,main,BAC
+2021-01-20,Morgan Stanley,Underweight,,main,BAC
+2021-01-26,Atlantic Equities,Overweight,Neutral,up,BAC
+2021-03-01,Morgan Stanley,Underweight,,main,BAC
+2021-04-01,Deutsche Bank,Buy,,main,BAC
+2021-05-04,Baird,Neutral,Outperform,down,BAC
+2021-06-15,Credit Suisse,Outperform,,main,BAC
+2021-07-16,Credit Suisse,Outperform,,main,BAC
+2021-07-29,Morgan Stanley,Underweight,,main,BAC
+2021-09-13,Odeon Capital,Buy,Hold,up,BAC
+2021-10-07,Wolfe Research,Peer Perform,Outperform,down,BAC
+2021-10-15,Barclays,Overweight,,main,BAC
+2021-10-15,Goldman Sachs,Buy,,main,BAC
+2021-10-15,Oppenheimer,Outperform,,main,BAC
+2021-10-15,RBC Capital,Outperform,,main,BAC
+2021-10-25,Wells Fargo,Overweight,,main,BAC
+2021-11-01,Baird,Underperform,Neutral,down,BAC
+2021-12-06,Morgan Stanley,Underweight,,main,BAC
+2022-01-03,Barclays,Overweight,,main,BAC

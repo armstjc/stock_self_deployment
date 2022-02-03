@@ -1,0 +1,210 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-21,Miller Tabak,Strong Buy,,main,FITBI
+2012-03-22,Sterne Agee,Neutral,,down,FITBI
+2012-03-30,UBS,Buy,,main,FITBI
+2012-04-03,Stifel Nicolaus,Buy,,up,FITBI
+2012-04-10,Citigroup,Neutral,,main,FITBI
+2012-04-10,JP Morgan,Neutral,,main,FITBI
+2012-04-11,Miller Tabak,Strong Buy,,main,FITBI
+2012-04-25,Deutsche Bank,Buy,,up,FITBI
+2012-05-21,Guggenheim,Neutral,,main,FITBI
+2012-07-23,Compass Point,Buy,Neutral,up,FITBI
+2012-08-22,Jefferies,Buy,,main,FITBI
+2012-08-22,UBS,Buy,,main,FITBI
+2012-08-22,Bank of America,Buy,,main,FITBI
+2012-08-22,Goldman Sachs,Buy,,main,FITBI
+2012-08-22,Credit Suisse,Outperform,,main,FITBI
+2012-08-27,Miller Tabak,Strong Buy,,main,FITBI
+2012-09-28,JP Morgan,Neutral,,main,FITBI
+2012-09-28,Citigroup,Neutral,,main,FITBI
+2012-10-01,Keefe Bruyette & Woods,Market Perform,Outperform,down,FITBI
+2012-10-09,Bank of America,Neutral,Buy,down,FITBI
+2012-10-19,UBS,Buy,,main,FITBI
+2012-10-19,Compass Point,Neutral,Buy,down,FITBI
+2012-12-13,Keefe Bruyette & Woods,Outperform,Market Perform,up,FITBI
+2013-01-18,UBS,Buy,,main,FITBI
+2013-01-18,Jefferies,Buy,,main,FITBI
+2013-01-18,Credit Suisse,Outperform,,main,FITBI
+2013-01-22,Compass Point,Neutral,,main,FITBI
+2013-01-29,Wells Fargo,Outperform,Market Perform,up,FITBI
+2013-02-06,Nomura,Neutral,,init,FITBI
+2013-02-11,Stifel Nicolaus,Hold,Buy,down,FITBI
+2013-02-13,UBS,Buy,,main,FITBI
+2013-02-13,Rafferty,Hold,,init,FITBI
+2013-07-10,UBS,Buy,,main,FITBI
+2013-07-10,JP Morgan,Neutral,,main,FITBI
+2013-07-19,Compass Point,Neutral,,main,FITBI
+2013-07-25,Wells Fargo,Market Perform,Outperform,down,FITBI
+2013-08-13,Credit Suisse,Neutral,Outperform,down,FITBI
+2013-09-09,Raymond James,Market Perform,Outperform,down,FITBI
+2013-09-17,Goldman Sachs,Neutral,Buy,down,FITBI
+2013-09-25,Rafferty,Hold,Buy,down,FITBI
+2013-10-07,ISI Group,Buy,,init,FITBI
+2013-11-06,Rafferty,Hold,Buy,down,FITBI
+2013-12-03,Guggenheim,Buy,,main,FITBI
+2013-12-16,Evercore Partners,Overweight,Equal-Weight,up,FITBI
+2014-01-24,Citigroup,Neutral,,main,FITBI
+2014-01-24,Compass Point,Neutral,,main,FITBI
+2014-02-06,Bank of America,Buy,Neutral,up,FITBI
+2014-04-01,Citigroup,Neutral,,main,FITBI
+2014-04-21,Jefferies,Buy,,main,FITBI
+2014-04-22,Oppenheimer,Perform,,init,FITBI
+2014-04-24,Deutsche Bank,Buy,,main,FITBI
+2014-04-25,BMO Capital,Market Perform,Outperform,down,FITBI
+2014-05-14,Nomura,Neutral,,init,FITBI
+2014-06-19,JP Morgan,Neutral,,main,FITBI
+2014-07-08,Citigroup,Neutral,,main,FITBI
+2014-07-18,Jefferies,Buy,,main,FITBI
+2014-07-21,Macquarie,Neutral,,main,FITBI
+2014-07-21,Baird,Outperform,Neutral,up,FITBI
+2014-09-04,JP Morgan,Neutral,,main,FITBI
+2014-10-17,Macquarie,Neutral,,main,FITBI
+2014-10-17,Jefferies,Buy,,main,FITBI
+2014-10-17,Citigroup,Buy,,main,FITBI
+2014-10-20,Keefe Bruyette & Woods,Market Perform,,main,FITBI
+2014-10-23,Goldman Sachs,Buy,Neutral,up,FITBI
+2014-12-09,Guggenheim,Buy,,init,FITBI
+2015-01-05,Barclays,Equal-Weight,,main,FITBI
+2015-01-08,JP Morgan,Neutral,,main,FITBI
+2015-01-22,FBR Capital,Market Perform,Outperform,down,FITBI
+2015-01-22,Keefe Bruyette & Woods,Market Perform,,main,FITBI
+2015-01-22,Jefferies,Buy,,main,FITBI
+2015-01-29,Citigroup,Buy,,main,FITBI
+2015-02-02,Keefe Bruyette & Woods,Outperform,Market Perform,up,FITBI
+2015-02-05,Bank of America,Neutral,Buy,down,FITBI
+2015-02-10,Deutsche Bank,Hold,Buy,down,FITBI
+2015-03-03,UBS,Buy,,init,FITBI
+2015-03-03,Keefe Bruyette & Woods,Market Perform,Outperform,down,FITBI
+2015-04-09,Evercore ISI Group,Buy,,init,FITBI
+2015-05-11,Susquehanna,Positive,,main,FITBI
+2015-05-19,Oppenheimer,Outperform,Market Perform,up,FITBI
+2015-05-20,Baird,Neutral,Outperform,down,FITBI
+2015-06-18,Stephens & Co.,Overweight,,init,FITBI
+2015-06-29,SunTrust Robinson Humphrey,Neutral,,main,FITBI
+2015-08-19,Sterne Agee CRT,Buy,,init,FITBI
+2015-08-26,Bernstein,Outperform,Market Perform,up,FITBI
+2015-10-02,Goldman Sachs,Neutral,Buy,down,FITBI
+2015-10-06,Oppenheimer,Outperform,,main,FITBI
+2015-10-08,Sterne Agee CRT,Buy,,main,FITBI
+2015-10-21,Keefe Bruyette & Woods,Market Perform,,main,FITBI
+2015-10-21,Oppenheimer,Outperform,,main,FITBI
+2015-10-21,Guggenheim,Neutral,Buy,down,FITBI
+2015-11-23,PiperJaffray,Neutral,,init,FITBI
+2016-01-22,Barclays,Equal-Weight,,main,FITBI
+2016-01-22,UBS,Buy,,main,FITBI
+2016-01-22,Credit Suisse,Underperform,,main,FITBI
+2016-01-22,Macquarie,Outperform,,main,FITBI
+2016-01-25,Hilliard Lyons,Neutral,Long-Term Buy,up,FITBI
+2016-01-26,Deutsche Bank,Hold,,main,FITBI
+2016-02-11,Nomura,Neutral,,main,FITBI
+2016-03-08,Stephens & Co.,Overweight,Equal-Weight,up,FITBI
+2016-03-10,Credit Suisse,Underperform,,main,FITBI
+2016-04-01,Evercore ISI Group,Hold,Buy,down,FITBI
+2016-04-05,BMO Capital,Market Perform,Outperform,down,FITBI
+2016-04-06,Sterne Agee CRT,Neutral,Buy,down,FITBI
+2016-04-07,JP Morgan,Neutral,,main,FITBI
+2016-04-22,Hilliard Lyons,Neutral,Buy,down,FITBI
+2016-05-16,Keefe Bruyette & Woods,Outperform,Market Perform,up,FITBI
+2016-05-27,Jefferies,Buy,,main,FITBI
+2016-06-06,Citigroup,Neutral,,main,FITBI
+2016-06-07,Susquehanna,Neutral,Positive,down,FITBI
+2016-07-05,Morgan Stanley,Equal-Weight,Overweight,down,FITBI
+2016-07-06,Oppenheimer,Perform,Outperform,down,FITBI
+2016-08-01,Citigroup,Neutral,,main,FITBI
+2016-09-23,CLSA,Outperform,,main,FITBI
+2016-10-04,Keefe Bruyette & Woods,Market Perform,Outperform,down,FITBI
+2016-10-05,Stephens & Co.,Equal-weight,Overweight,down,FITBI
+2016-10-07,Jefferies,Hold,Buy,down,FITBI
+2016-10-07,Wedbush,Neutral,,init,FITBI
+2016-10-10,Nomura,Reduce,Neutral,down,FITBI
+2016-11-16,Baird,Underperform,Neutral,down,FITBI
+2016-11-16,Bernstein,Market Perform,Outperform,down,FITBI
+2016-11-18,Compass Point,Neutral,Buy,down,FITBI
+2016-11-30,Deutsche Bank,Hold,,main,FITBI
+2017-01-11,UBS,Sell,,down,FITBI
+2017-01-25,Macquarie,Neutral,Outperform,down,FITBI
+2017-01-25,Hilliard Lyons,Neutral,Underperform,up,FITBI
+2017-03-29,Compass Point,Buy,Neutral,up,FITBI
+2017-06-05,Baird,Neutral,Underperform,up,FITBI
+2017-09-28,Nomura,Neutral,,main,FITBI
+2017-10-02,Baird,Underperform,Neutral,down,FITBI
+2017-10-06,UBS,Sell,,main,FITBI
+2017-10-09,Citigroup,Neutral,,main,FITBI
+2017-10-10,Citigroup,Neutral,,main,FITBI
+2017-10-25,Bank of America,Neutral,,main,FITBI
+2017-10-26,Nomura,Neutral,,main,FITBI
+2017-11-17,Macquarie,Underperform,Neutral,down,FITBI
+2017-12-13,Morgan Stanley,Equal-Weight,,main,FITBI
+2018-01-24,Bank of America,Neutral,Neutral,main,FITBI
+2018-01-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,FITBI
+2018-04-25,Nomura,Neutral,Neutral,main,FITBI
+2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,FITBI
+2018-05-21,Nomura,Reduce,Neutral,down,FITBI
+2018-05-22,Baird,Neutral,Underperform,up,FITBI
+2018-06-14,Argus,Buy,,init,FITBI
+2018-07-20,UBS,Neutral,Sell,up,FITBI
+2018-07-20,Wedbush,Neutral,Neutral,main,FITBI
+2018-07-23,BMO Capital,Market Perform,Market Perform,main,FITBI
+2018-09-04,Wedbush,Outperform,Neutral,up,FITBI
+2018-09-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,FITBI
+2018-10-24,BMO Capital,Market Perform,Market Perform,main,FITBI
+2018-10-24,Nomura,Neutral,Reduce,up,FITBI
+2018-12-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,FITBI
+2019-04-04,Keefe Bruyette & Woods,Outperform,Market Perform,up,FITBI
+2019-04-24,UBS,Neutral,,main,FITBI
+2019-04-24,Barclays,Equal-Weight,Equal-Weight,main,FITBI
+2019-04-25,BMO Capital,Market Perform,Market Perform,main,FITBI
+2019-06-04,Wells Fargo,Market Perform,,main,FITBI
+2019-07-09,JP Morgan,Neutral,,main,FITBI
+2019-07-12,Citigroup,Neutral,Buy,down,FITBI
+2019-07-24,Raymond James,Outperform,,main,FITBI
+2019-07-24,Wedbush,Outperform,,reit,FITBI
+2019-10-03,Morgan Stanley,Equal-Weight,,main,FITBI
+2019-10-09,Citigroup,Neutral,,main,FITBI
+2019-10-10,JP Morgan,Neutral,,main,FITBI
+2019-10-11,Bank of America,Buy,Neutral,up,FITBI
+2019-10-23,Bank of America,Buy,,reit,FITBI
+2019-10-23,Raymond James,Outperform,,main,FITBI
+2019-10-25,UBS,Buy,Neutral,up,FITBI
+2019-12-06,Odeon Capital,Hold,,init,FITBI
+2020-01-24,UBS,Buy,,main,FITBI
+2020-03-02,Baird,Outperform,Neutral,up,FITBI
+2020-03-05,Morgan Stanley,Equal-Weight,,main,FITBI
+2020-03-17,Morgan Stanley,Equal-Weight,,main,FITBI
+2020-03-24,DA Davidson,Buy,,init,FITBI
+2020-03-30,Citigroup,Neutral,,main,FITBI
+2020-04-01,Wells Fargo,Equal-Weight,,main,FITBI
+2020-04-02,Deutsche Bank,Buy,,main,FITBI
+2020-04-06,UBS,Buy,,main,FITBI
+2020-04-06,Wells Fargo,Equal-Weight,,main,FITBI
+2020-04-07,Nomura,Neutral,,main,FITBI
+2020-04-07,Morgan Stanley,Equal-Weight,,main,FITBI
+2020-04-22,CFRA,Buy,,reit,FITBI
+2020-05-04,UBS,Buy,,main,FITBI
+2020-06-02,Wedbush,Outperform,,main,FITBI
+2020-06-08,Morgan Stanley,Equal-Weight,,main,FITBI
+2020-07-30,Citigroup,Neutral,,main,FITBI
+2020-09-25,Morgan Stanley,Overweight,Equal-Weight,up,FITBI
+2020-11-03,Morgan Stanley,Overweight,,main,FITBI
+2020-12-07,Evercore ISI Group,In-Line,Underperform,up,FITBI
+2020-12-07,Morgan Stanley,Overweight,,main,FITBI
+2021-01-07,Morgan Stanley,Overweight,,main,FITBI
+2021-01-07,Goldman Sachs,Buy,Neutral,up,FITBI
+2021-01-22,Wedbush,Outperform,,main,FITBI
+2021-01-22,RBC Capital,Outperform,,main,FITBI
+2021-01-22,B of A Securities,Buy,,main,FITBI
+2021-01-26,Morgan Stanley,Overweight,,main,FITBI
+2021-02-24,Morgan Stanley,Overweight,,main,FITBI
+2021-03-18,Morgan Stanley,Overweight,,main,FITBI
+2021-03-26,RBC Capital,Outperform,,main,FITBI
+2021-04-01,Deutsche Bank,Hold,,main,FITBI
+2021-04-29,Morgan Stanley,Overweight,,main,FITBI
+2021-07-27,Stephens & Co.,Overweight,,main,FITBI
+2021-08-02,Morgan Stanley,Overweight,,main,FITBI
+2021-10-04,Wells Fargo,Equal-Weight,,main,FITBI
+2021-10-20,RBC Capital,Outperform,,main,FITBI
+2021-10-20,Barclays,Overweight,,main,FITBI
+2021-10-20,Stephens & Co.,Overweight,,main,FITBI
+2021-10-25,Wells Fargo,Equal-Weight,,main,FITBI
+2021-12-06,Morgan Stanley,Overweight,,main,FITBI
+2021-12-16,Citigroup,Neutral,,main,FITBI

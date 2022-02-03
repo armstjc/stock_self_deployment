@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LCI220218P00001000,2021-12-20 20:33:39+00:00,1.0,0.03,0.0,0.1,0.0,0.0,,3,1.96875015625,False,REGULAR,USD,LCI

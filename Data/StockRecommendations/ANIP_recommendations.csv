@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-01-07,Roth Capital,Buy,,init,ANIP
+2014-01-22,Oppenheimer,Outperform,,init,ANIP
+2014-08-05,Oppenheimer,Outperform,,main,ANIP
+2014-12-15,Guggenheim,Buy,,init,ANIP
+2015-04-10,Roth Capital,Neutral,Buy,down,ANIP
+2015-06-23,Oppenheimer,Outperform,,main,ANIP
+2015-09-28,Roth Capital,Buy,Neutral,up,ANIP
+2015-11-13,Standpoint Research,Buy,,init,ANIP
+2016-05-24,Standpoint Research,Hold,Buy,down,ANIP
+2016-06-23,Raymond James,Strong Buy,,init,ANIP
+2016-07-19,Oppenheimer,Perform,Outperform,up,ANIP
+2016-08-05,Oppenheimer,Outperform,,main,ANIP
+2017-07-31,Canaccord Genuity,Buy,,init,ANIP
+2017-10-16,Canaccord Genuity,Buy,,main,ANIP
+2018-02-28,Canaccord Genuity,Buy,Buy,main,ANIP
+2018-06-12,Cantor Fitzgerald,Overweight,,init,ANIP
+2018-08-08,Cantor Fitzgerald,Overweight,Overweight,main,ANIP
+2018-08-17,Canaccord Genuity,Buy,Buy,main,ANIP
+2018-11-12,Canaccord Genuity,Buy,Buy,main,ANIP
+2019-05-10,Raymond James,Outperform,Strong Buy,down,ANIP
+2019-09-12,Guggenheim,Buy,,init,ANIP
+2019-11-07,Raymond James,Outperform,,main,ANIP
+2020-02-28,Raymond James,Outperform,,main,ANIP
+2020-04-30,Guggenheim,Buy,,main,ANIP
+2020-05-07,Cantor Fitzgerald,Neutral,Overweight,down,ANIP
+2020-05-08,Raymond James,Outperform,,main,ANIP
+2020-08-03,Raymond James,Outperform,,main,ANIP
+2021-05-10,Raymond James,Outperform,,main,ANIP
+2021-11-02,Truist Securities,Buy,,init,ANIP
+2021-11-02,Raymond James,Outperform,,main,ANIP

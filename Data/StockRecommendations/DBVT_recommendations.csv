@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-11-17,Citigroup,Buy,,init,DBVT
+2015-03-18,H.C. Wainwright,Buy,,init,DBVT
+2015-08-11,Leerink Swann,Outperform,,main,DBVT
+2015-09-15,Morgan Stanley,Overweight,,init,DBVT
+2015-12-03,Barclays,Overweight,,init,DBVT
+2016-03-16,Citigroup,Buy,,main,DBVT
+2017-07-10,Morgan Stanley,Overweight,,main,DBVT
+2017-10-02,Citigroup,Buy,,main,DBVT
+2017-10-06,Morgan Stanley,Overweight,,main,DBVT
+2017-10-23,Leerink Swann,Outperform,,main,DBVT
+2017-10-23,Barclays,Overweight,,main,DBVT
+2018-07-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,DBVT
+2018-09-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,DBVT
+2018-09-14,Stifel Nicolaus,Buy,,init,DBVT
+2018-11-02,Bank of America,Buy,Buy,main,DBVT
+2018-12-20,Jefferies,Hold,Buy,down,DBVT
+2018-12-20,Barclays,Equal-Weight,Overweight,down,DBVT
+2018-12-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,DBVT
+2018-12-20,JMP Securities,Market Outperform,,reit,DBVT
+2019-06-17,Goldman Sachs,Buy,,init,DBVT
+2019-12-16,Citigroup,Buy,,init,DBVT
+2020-01-09,Stifel,Buy,Hold,up,DBVT
+2020-03-17,Stifel,Hold,Buy,down,DBVT
+2020-03-18,Morgan Stanley,Equal-Weight,,main,DBVT
+2020-04-06,Citigroup,Buy,,main,DBVT
+2020-08-05,HC Wainwright & Co.,Buy,,main,DBVT
+2020-08-05,Morgan Stanley,Equal-Weight,,main,DBVT
+2021-12-21,HC Wainwright & Co.,Buy,,main,DBVT
+2021-12-21,JMP Securities,Market Outperform,,main,DBVT

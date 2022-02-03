@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-18,Deutsche Bank,Buy,,main,ERJ
+2012-08-02,UBS,Buy,,init,ERJ
+2012-09-19,Citigroup,Neutral,,main,ERJ
+2012-09-24,JP Morgan,Neutral,Overweight,down,ERJ
+2012-10-12,Imperial Capital,Outperform,,init,ERJ
+2012-10-24,Bank of America,Buy,,main,ERJ
+2013-01-08,JP Morgan,Underweight,Neutral,down,ERJ
+2013-02-04,UBS,Neutral,,main,ERJ
+2013-03-14,Deutsche Bank,Buy,,main,ERJ
+2013-03-14,Bank of America,Buy,,main,ERJ
+2013-03-14,Imperial Capital,Outperform,,main,ERJ
+2013-07-24,JP Morgan,Neutral,Underweight,up,ERJ
+2013-08-26,RBC Capital,Outperform,,init,ERJ
+2013-11-12,Citigroup,Neutral,Sell,up,ERJ
+2014-03-04,HSBC,Neutral,Overweight,down,ERJ
+2014-05-01,JP Morgan,Neutral,,main,ERJ
+2014-06-23,Deutsche Bank,Buy,,main,ERJ
+2014-11-03,RBC Capital,Sector Perform,Outperform,down,ERJ
+2014-11-10,Bank of America,Buy,,main,ERJ
+2015-01-05,Deutsche Bank,Buy,,main,ERJ
+2015-01-15,Credit Suisse,Neutral,Underperform,up,ERJ
+2015-01-16,Itau BBA,Outperform,,up,ERJ
+2015-01-16,Deutsche Bank,Buy,,main,ERJ
+2015-03-05,UBS,Neutral,,main,ERJ
+2015-03-09,Deutsche Bank,Buy,,main,ERJ
+2015-06-18,Cowen & Co.,Outperform,Neutral,up,ERJ
+2015-06-29,UBS,Neutral,,main,ERJ
+2016-03-03,Scotiabank,Sector Perform,Outperform,down,ERJ
+2016-03-04,Cowen & Co.,Market Perform,Outperform,down,ERJ
+2016-03-04,Santander,Hold,Buy,down,ERJ
+2016-03-10,Bank of America,,Buy,down,ERJ
+2016-03-13,Citigroup,Buy,,main,ERJ
+2016-05-02,Goldman Sachs,Neutral,,main,ERJ
+2016-06-13,Deutsche Bank,Buy,,main,ERJ
+2016-08-01,HSBC,Hold,Buy,down,ERJ
+2016-10-06,JP Morgan,Overweight,,init,ERJ
+2016-10-13,Goldman Sachs,Buy,Neutral,up,ERJ
+2016-10-18,Cowen & Co.,Outperform,Market Perform,up,ERJ
+2016-11-01,Drexel Hamilton,Buy,Hold,up,ERJ
+2016-11-22,UBS,Sell,Neutral,down,ERJ
+2017-08-10,Goldman Sachs,Sell,Buy,down,ERJ
+2017-10-17,Scotiabank,Sector Perform,Sector Outperform,down,ERJ
+2017-10-17,Deutsche Bank,Hold,Buy,down,ERJ
+2017-10-30,Santander,Underperform,Hold,down,ERJ
+2018-03-09,Credit Suisse,Outperform,Outperform,main,ERJ
+2018-07-09,Bank of America,Buy,Buy,main,ERJ
+2018-08-16,Morgan Stanley,Overweight,Equal-Weight,up,ERJ
+2018-08-16,UBS,Neutral,,init,ERJ
+2018-09-26,Bradesco,Outperform,Neutral,up,ERJ
+2018-12-18,Credit Suisse,Outperform,Outperform,main,ERJ
+2019-01-17,Morgan Stanley,Equal-Weight,Overweight,down,ERJ
+2019-01-22,Credit Suisse,Neutral,Outperform,down,ERJ
+2019-09-12,UBS,Buy,Neutral,up,ERJ
+2019-11-14,UBS,Buy,,main,ERJ
+2020-01-15,UBS,Neutral,Buy,down,ERJ
+2020-04-03,Credit Suisse,Neutral,,main,ERJ
+2020-04-17,UBS,Neutral,,main,ERJ
+2020-04-28,Credit Suisse,Underperform,Neutral,down,ERJ
+2020-08-06,Credit Suisse,Underperform,,main,ERJ
+2020-10-22,Credit Suisse,Underperform,,main,ERJ
+2020-11-11,Credit Suisse,Underperform,,main,ERJ
+2021-04-30,Credit Suisse,Underperform,,main,ERJ
+2021-06-11,B of A Securities,Buy,Neutral,up,ERJ
+2021-09-23,Goldman Sachs,Buy,Neutral,up,ERJ
+2021-11-11,UBS,Buy,Neutral,up,ERJ

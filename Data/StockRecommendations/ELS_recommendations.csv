@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,Cantor Fitzgerald,Hold,,init,ELS
+2012-06-06,Cantor Fitzgerald,Buy,,up,ELS
+2012-07-20,Cantor Fitzgerald,Buy,,main,ELS
+2013-02-01,BMO Capital,Market Perform,,main,ELS
+2013-04-12,Cantor Fitzgerald,Hold,Buy,down,ELS
+2013-04-17,Imperial Capital,Outperform,,init,ELS
+2013-05-20,BMO Capital,Market Perform,,main,ELS
+2014-03-26,Citigroup,Neutral,Buy,down,ELS
+2014-04-23,Imperial Capital,Outperform,,main,ELS
+2014-07-23,Citigroup,Neutral,,main,ELS
+2014-10-23,Citigroup,Neutral,,main,ELS
+2015-02-18,Citigroup,Neutral,,main,ELS
+2015-03-16,Baird,Outperform,,init,ELS
+2015-03-17,Baird,Outperform,,init,ELS
+2015-04-23,Citigroup,Neutral,,main,ELS
+2015-10-22,Baird,Neutral,Outperform,down,ELS
+2015-11-10,BB&T Capital,Hold,,init,ELS
+2016-07-07,Citigroup,Neutral,,main,ELS
+2016-10-14,Evercore ISI Group,Hold,,init,ELS
+2016-11-21,Baird,Outperform,Neutral,up,ELS
+2017-09-08,Baird,Neutral,Outperform,down,ELS
+2017-10-19,Citigroup,Neutral,,main,ELS
+2017-12-04,Evercore ISI Group,In-Line,Underperform,up,ELS
+2018-08-24,Wells Fargo,Outperform,Outperform,main,ELS
+2018-09-17,Bank of America,Buy,Buy,main,ELS
+2018-10-23,BMO Capital,Market Perform,Market Perform,main,ELS
+2018-10-25,Citigroup,Neutral,Neutral,main,ELS
+2018-10-25,Baird,Neutral,Neutral,main,ELS
+2019-03-26,Wells Fargo,Market Perform,Outperform,down,ELS
+2019-09-18,Wells Fargo,Market Perform,,main,ELS
+2019-10-24,Baird,Neutral,,main,ELS
+2019-11-18,BMO Capital,Outperform,Market Perform,up,ELS
+2020-01-29,Baird,Neutral,,main,ELS
+2020-03-09,Wells Fargo,Equal-Weight,,main,ELS
+2020-04-07,Citigroup,Neutral,,main,ELS
+2020-04-21,BMO Capital,Outperform,,main,ELS
+2020-04-28,Citigroup,Neutral,,main,ELS
+2020-05-01,Wells Fargo,Equal-Weight,,main,ELS
+2020-07-22,Baird,Outperform,Neutral,up,ELS
+2020-10-01,Berenberg,Buy,,init,ELS
+2021-01-20,Baird,Outperform,,init,ELS
+2021-03-31,RBC Capital,Sector Perform,,init,ELS
+2021-05-19,Colliers Securities,Buy,,init,ELS
+2021-06-04,UBS,Buy,,init,ELS
+2021-09-01,Barclays,Overweight,,init,ELS
+2021-09-20,Evercore ISI Group,In-Line,Outperform,down,ELS
+2021-10-20,RBC Capital,Sector Perform,,main,ELS

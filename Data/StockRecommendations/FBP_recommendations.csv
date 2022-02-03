@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-23,Sterne Agee,Neutral,,init,FBP
+2013-06-10,Sterne Agee,Buy,Neutral,up,FBP
+2013-06-20,Guggenheim,Buy,,init,FBP
+2013-07-25,Guggenheim,Neutral,Buy,down,FBP
+2013-08-13,Sandler O'Neill,Buy,Hold,up,FBP
+2013-08-23,Bank of America,Buy,,init,FBP
+2013-08-23,Credit Suisse,Outperform,,init,FBP
+2014-08-06,Guggenheim,Buy,Neutral,up,FBP
+2015-02-06,Keefe Bruyette & Woods,Outperform,Market Perform,up,FBP
+2015-03-16,Guggenheim,,Buy,down,FBP
+2015-05-06,Guggenheim,Buy,Neutral,up,FBP
+2015-06-29,Guggenheim,Neutral,Buy,down,FBP
+2015-07-27,Guggenheim,Buy,Neutral,up,FBP
+2015-10-14,Keefe Bruyette & Woods,Outperform,,main,FBP
+2016-04-08,PiperJaffray,Overweight,,init,FBP
+2017-02-08,Citigroup,Neutral,,init,FBP
+2017-11-08,Bank of America,Neutral,,main,FBP
+2017-11-20,Citigroup,Neutral,,main,FBP
+2018-04-30,Citigroup,Buy,Buy,main,FBP
+2018-04-30,Merion Capital,Neutral,Outperform,down,FBP
+2018-07-26,Merion Capital,Outperform,Neutral,up,FBP
+2018-09-20,Bank of America,Buy,Neutral,up,FBP
+2019-03-06,Alden Securities,Neutral,Outperform,down,FBP
+2020-03-24,Citigroup,Neutral,,main,FBP
+2020-06-18,Citigroup,Neutral,,main,FBP
+2021-11-09,Wells Fargo,Overweight,,init,FBP

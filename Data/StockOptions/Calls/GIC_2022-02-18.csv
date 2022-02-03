@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GIC220218C00040000,2021-12-31 17:46:21+00:00,40.0,3.5,1.05,3.9,0.0,0.0,3,3,1.5966817041015622,False,REGULAR,USD,GIC

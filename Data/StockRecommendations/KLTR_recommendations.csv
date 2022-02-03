@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-16,Keybanc,Overweight,,init,KLTR
+2021-08-16,Needham,Buy,,init,KLTR
+2021-08-16,Oppenheimer,Outperform,,init,KLTR
+2021-08-16,JMP Securities,Market Outperform,,init,KLTR
+2021-08-16,Deutsche Bank,Hold,,init,KLTR
+2021-08-16,Canaccord Genuity,Buy,,init,KLTR
+2021-08-16,Wells Fargo,Equal-Weight,,init,KLTR
+2021-08-17,B of A Securities,Buy,,init,KLTR
+2021-11-04,Keybanc,Overweight,,main,KLTR
+2021-12-13,Goldman Sachs,Neutral,,init,KLTR

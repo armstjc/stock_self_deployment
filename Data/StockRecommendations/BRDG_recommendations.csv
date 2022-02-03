@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-10,JP Morgan,Overweight,,init,BRDG
+2021-08-10,UBS,Neutral,,init,BRDG
+2021-08-10,Wells Fargo,Overweight,,init,BRDG
+2021-08-10,Morgan Stanley,Overweight,,init,BRDG
+2021-08-20,Morgan Stanley,Overweight,,main,BRDG
+2021-12-17,Citigroup,Buy,,main,BRDG

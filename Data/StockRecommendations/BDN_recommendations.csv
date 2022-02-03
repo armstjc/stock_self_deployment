@@ -1,0 +1,79 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,ISI Group,Buy,,main,BDN
+2012-03-30,Cantor Fitzgerald,Buy,,init,BDN
+2012-04-17,Ladenburg Thalmann,Neutral,,init,BDN
+2012-07-30,BMO Capital,Market Perform,,main,BDN
+2012-09-20,KeyBanc,Buy,,main,BDN
+2012-09-25,ISI Group,Buy,,main,BDN
+2012-10-22,Barclays,Underweight,,main,BDN
+2013-01-03,Barclays,Underweight,,main,BDN
+2013-01-10,KeyBanc,Hold,Buy,down,BDN
+2013-01-16,JMP Securities,Market Perform,Outperform,down,BDN
+2013-02-21,Wells Fargo,Market Perform,Outperform,down,BDN
+2013-09-06,Stifel Nicolaus,Buy,Hold,up,BDN
+2013-11-08,Bank of America,Neutral,Underperform,up,BDN
+2013-12-17,ISI Group,Buy,Neutral,up,BDN
+2013-12-17,Citigroup,Neutral,,main,BDN
+2014-01-16,JP Morgan,Overweight,Neutral,up,BDN
+2014-02-20,Cantor Fitzgerald,Hold,Buy,down,BDN
+2014-03-03,BMO Capital,Outperform,Market Perform,up,BDN
+2014-03-12,Barclays,Equal-weight,Underweight,up,BDN
+2014-03-24,McNicoll Lewis Vlak,Buy,,init,BDN
+2014-04-22,Barclays,Equal-Weight,,main,BDN
+2014-05-05,Raymond James,Outperform,,main,BDN
+2014-06-09,ISI Group,Neutral,Buy,down,BDN
+2014-07-21,Barclays,Equal-Weight,,main,BDN
+2014-07-25,Stifel Nicolaus,Buy,,main,BDN
+2014-07-30,Stifel Nicolaus,Hold,Buy,down,BDN
+2014-10-21,Wells Fargo,Outperform,Market Perform,up,BDN
+2014-10-23,Mizuho,Buy,Neutral,up,BDN
+2014-10-24,Stifel Nicolaus,Buy,Hold,up,BDN
+2014-11-12,Credit Suisse,Neutral,,init,BDN
+2014-12-15,Citigroup,Neutral,,main,BDN
+2015-04-20,Barclays,Equal-Weight,,main,BDN
+2015-06-25,Stifel Nicolaus,Hold,Buy,down,BDN
+2015-07-02,Barclays,Equal-Weight,,main,BDN
+2015-09-04,Barclays,Equal-Weight,,main,BDN
+2015-09-21,Mizuho,Buy,,main,BDN
+2015-10-12,Credit Suisse,Outperform,Neutral,up,BDN
+2015-10-20,Barclays,Equal-Weight,,main,BDN
+2015-11-02,JP Morgan,Overweight,,main,BDN
+2015-11-06,Argus,Hold,Buy,down,BDN
+2016-02-22,SunTrust Robinson Humphrey,Buy,,main,BDN
+2016-03-02,JP Morgan,Overweight,,main,BDN
+2016-04-22,Evercore ISI Group,Hold,Buy,down,BDN
+2016-07-07,Citigroup,Neutral,,main,BDN
+2016-07-15,KeyBanc,Underweight,Sector Weight,down,BDN
+2016-07-19,Barclays,Equal-Weight,,main,BDN
+2016-07-22,Mizuho,Neutral,Buy,down,BDN
+2016-12-16,JP Morgan,Neutral,Overweight,down,BDN
+2016-12-19,Evercore ISI Group,Buy,Hold,up,BDN
+2017-01-09,Raymond James,Outperform,Market Perform,up,BDN
+2017-04-21,Stifel Nicolaus,Buy,Hold,up,BDN
+2017-05-15,Evercore ISI Group,In-Line,Outperform,down,BDN
+2017-05-15,KeyBanc,Sector Weight,Underweight,up,BDN
+2017-07-10,Mizuho,Buy,Neutral,up,BDN
+2017-12-04,Evercore ISI Group,Outperform,In-Line,up,BDN
+2017-12-19,KeyBanc,Overweight,Sector Weight,up,BDN
+2018-01-30,Barclays,Equal-Weight,Equal-Weight,main,BDN
+2018-03-13,Stifel Nicolaus,Hold,Buy,down,BDN
+2018-04-23,Stifel Nicolaus,Hold,Hold,main,BDN
+2018-04-24,JP Morgan,Neutral,Neutral,main,BDN
+2018-06-11,Evercore ISI Group,In-Line,Outperform,down,BDN
+2018-10-23,Raymond James,Outperform,Outperform,main,BDN
+2018-10-30,Citigroup,Neutral,Neutral,main,BDN
+2018-12-20,KeyBanc,Sector Weight,Overweight,down,BDN
+2019-02-04,Barclays,Overweight,Equal-Weight,up,BDN
+2019-06-11,Bank of America,Underperform,Neutral,down,BDN
+2020-01-15,Mizuho,Neutral,Buy,down,BDN
+2020-02-04,Mizuho,Neutral,,init,BDN
+2020-04-03,Stifel,Hold,,main,BDN
+2020-04-07,Citigroup,Sell,Neutral,down,BDN
+2020-04-24,Stifel,Hold,,main,BDN
+2020-06-18,JP Morgan,Neutral,,main,BDN
+2020-07-20,Mizuho,Neutral,,main,BDN
+2020-10-12,Argus Research,Hold,Buy,down,BDN
+2020-11-25,Evercore ISI Group,Outperform,In-Line,up,BDN
+2020-12-14,KeyBanc,Overweight,Sector Weight,up,BDN
+2021-03-22,Evercore ISI Group,In-Line,Outperform,down,BDN
+2021-05-26,Keybanc,Overweight,,main,BDN

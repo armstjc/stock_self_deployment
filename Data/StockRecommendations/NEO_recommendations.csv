@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-25,Ladenburg Thalmann,Neutral,Buy,down,NEO
+2013-05-01,Sidoti & Co.,Buy,,init,NEO
+2014-01-08,William Blair,Outperform,,init,NEO
+2014-02-14,Stephens & Co.,Overweight,,init,NEO
+2014-05-12,Longbow Research,Buy,,init,NEO
+2014-05-12,Roth Capital,Buy,,init,NEO
+2015-06-22,BTIG Research,Buy,,init,NEO
+2015-06-23,BTIG Research,Buy,,init,NEO
+2016-01-08,Janney Capital,Buy,,init,NEO
+2016-03-11,Benchmark,Buy,,init,NEO
+2016-07-27,BTIG Research,Neutral,Buy,down,NEO
+2016-09-09,Raymond James,Outperform,,init,NEO
+2016-10-04,First Analysis,Overweight,,init,NEO
+2016-10-27,BTIG Research,Buy,Neutral,up,NEO
+2016-11-16,Axiom Capital,Sell,Hold,down,NEO
+2016-12-15,Cantor Fitzgerald,Overweight,,init,NEO
+2017-08-24,Gabelli & Co.,Buy,,init,NEO
+2017-09-11,BTIG Research,Neutral,Buy,down,NEO
+2018-04-16,BTIG Research,Outperform,Neutral,up,NEO
+2018-05-02,First Analysis,Equal-Weight,Overweight,down,NEO
+2018-08-21,Leerink Swann,Outperform,,init,NEO
+2018-10-31,Raymond James,Outperform,Outperform,main,NEO
+2019-01-03,Needham,Buy,,init,NEO
+2019-07-31,Raymond James,Outperform,,main,NEO
+2020-01-23,First Analysis,Outperform,Strong Buy,down,NEO
+2020-02-28,First Analysis,Strong Buy,Outperform,up,NEO
+2020-02-28,Benchmark,Buy,,main,NEO
+2020-02-28,Needham,Buy,,main,NEO
+2020-03-02,Raymond James,Outperform,,main,NEO
+2020-03-17,Needham,Buy,,main,NEO
+2020-04-29,SVB Leerink,Outperform,,main,NEO
+2020-06-25,B of A Securities,Buy,,init,NEO
+2020-07-29,Needham,Buy,,main,NEO
+2020-07-29,Benchmark,Buy,,main,NEO
+2020-07-29,Raymond James,Outperform,,main,NEO
+2020-08-28,Guggenheim,Buy,,init,NEO
+2020-09-09,Morgan Stanley,Overweight,,init,NEO
+2020-10-28,SVB Leerink,Outperform,,main,NEO
+2020-10-28,Needham,Buy,,main,NEO
+2020-10-28,Benchmark,Buy,,main,NEO
+2020-10-28,Raymond James,Outperform,,main,NEO
+2020-11-20,SVB Leerink,Outperform,,main,NEO
+2021-01-08,SVB Leerink,Outperform,,main,NEO
+2021-01-28,Truist Securities,Buy,,init,NEO
+2021-02-25,Raymond James,Market Perform,Outperform,down,NEO
+2021-02-25,Morgan Stanley,Overweight,,main,NEO
+2021-06-03,Goldman Sachs,Buy,,init,NEO
+2021-08-09,Morgan Stanley,Overweight,,main,NEO
+2021-10-14,Raymond James,Outperform,Market Perform,up,NEO
+2021-11-05,SVB Leerink,Outperform,,main,NEO
+2021-11-05,Needham,Buy,,main,NEO
+2021-11-05,Stephens & Co.,Overweight,,main,NEO
+2021-12-07,Needham,Buy,,main,NEO
+2021-12-16,Cowen & Co.,Outperform,,init,NEO

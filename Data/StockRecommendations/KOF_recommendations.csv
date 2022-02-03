@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-12,Barclays,Equal-Weight,,init,KOF
+2012-07-16,Bank of America,Underperform,Neutral,down,KOF
+2012-07-20,Citigroup,Neutral,,init,KOF
+2012-12-14,Citigroup,Sell,Neutral,down,KOF
+2013-01-10,JP Morgan,Neutral,,main,KOF
+2013-06-07,Citigroup,Neutral,Sell,up,KOF
+2014-06-03,JP Morgan,Neutral,,main,KOF
+2014-09-18,UBS,Neutral,Buy,down,KOF
+2014-10-03,JP Morgan,Overweight,,main,KOF
+2014-10-29,JP Morgan,Overweight,,main,KOF
+2014-11-25,Barclays,Equal-Weight,,main,KOF
+2015-01-23,JP Morgan,Neutral,,main,KOF
+2015-03-17,Barclays,Equal-Weight,,main,KOF
+2015-04-08,JP Morgan,Neutral,,main,KOF
+2015-04-24,Nomura,Neutral,,init,KOF
+2015-04-30,HSBC,Hold,Overweight,down,KOF
+2015-06-17,Goldman Sachs,Buy,Neutral,up,KOF
+2015-07-14,Barclays,Overweight,Equal-Weight,up,KOF
+2015-10-12,Barclays,Overweight,,main,KOF
+2016-01-11,Nomura,Reduce,Neutral,down,KOF
+2016-01-15,Goldman Sachs,Neutral,Buy,down,KOF
+2016-03-07,Barclays,Overweight,,main,KOF
+2016-06-03,JP Morgan,Neutral,,main,KOF
+2016-07-24,Citigroup,Sell,Neutral,down,KOF
+2016-09-08,Credit Suisse,Outperform,Neutral,up,KOF
+2016-09-14,Citigroup,Neutral,Sell,up,KOF
+2016-10-14,Barclays,Overweight,,main,KOF
+2017-11-17,Credit Suisse,Neutral,Outperform,down,KOF
+2018-04-11,Barclays,Overweight,Overweight,main,KOF
+2018-07-30,Barclays,Overweight,Overweight,main,KOF
+2018-08-24,JP Morgan,Neutral,Neutral,main,KOF
+2019-03-01,Barclays,Overweight,Overweight,main,KOF
+2019-11-15,UBS,Buy,,main,KOF
+2020-01-07,Citigroup,Buy,Neutral,up,KOF
+2020-01-22,Goldman Sachs,Buy,Neutral,up,KOF
+2020-07-13,Barclays,Equal-Weight,Overweight,down,KOF
+2021-08-03,Barclays,Equal-Weight,,main,KOF

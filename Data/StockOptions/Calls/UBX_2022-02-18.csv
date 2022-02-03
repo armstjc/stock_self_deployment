@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+UBX220218C00002500,2022-02-02 19:56:14+00:00,2.5,0.04,0.0,0.0,0.0,0.0,40,0,0.500005,False,REGULAR,USD,UBX
+UBX220218C00005000,2022-01-27 20:45:01+00:00,5.0,0.05,0.0,0.0,0.0,0.0,10,0,0.500005,False,REGULAR,USD,UBX
+UBX220218C00007500,2022-01-24 16:28:50+00:00,7.5,0.02,0.0,0.0,0.0,0.0,1,0,0.500005,False,REGULAR,USD,UBX

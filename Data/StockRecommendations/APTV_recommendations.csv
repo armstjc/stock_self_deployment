@@ -1,0 +1,113 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-12-05,Morgan Stanley,Underweight,,init,APTV
+2017-12-06,Deutsche Bank,Hold,,init,APTV
+2018-01-05,Longbow Research,Buy,,init,APTV
+2018-02-02,Barclays,Overweight,,main,APTV
+2018-02-02,PiperJaffray,Overweight,,main,APTV
+2018-02-05,Buckingham,Buy,,main,APTV
+2018-02-28,Citigroup,Buy,Buy,main,APTV
+2018-03-22,Morgan Stanley,Underweight,Underweight,main,APTV
+2018-04-04,Berenberg,Buy,Hold,up,APTV
+2018-04-17,Barclays,Overweight,Overweight,main,APTV
+2018-04-17,Baird,Outperform,Outperform,main,APTV
+2018-05-03,Barclays,Overweight,Overweight,main,APTV
+2018-05-03,Deutsche Bank,Buy,Hold,up,APTV
+2018-05-08,Citigroup,Buy,Buy,main,APTV
+2018-06-05,Wells Fargo,Outperform,Outperform,main,APTV
+2018-08-01,Barclays,Overweight,Overweight,main,APTV
+2018-08-13,Morgan Stanley,Underweight,Underweight,main,APTV
+2018-10-03,Buckingham,Buy,Buy,main,APTV
+2018-10-12,Citigroup,Buy,Buy,main,APTV
+2018-11-01,Wells Fargo,Outperform,Outperform,main,APTV
+2018-11-02,Citigroup,Buy,Buy,main,APTV
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,APTV
+2018-12-04,Jefferies,Buy,,init,APTV
+2018-12-11,KeyBanc,Overweight,,init,APTV
+2019-01-25,PiperJaffray,Neutral,Overweight,down,APTV
+2019-02-13,Goldman Sachs,Conviction Buy,Buy,up,APTV
+2019-03-18,Buckingham,Neutral,Buy,down,APTV
+2019-03-28,Oppenheimer,Outperform,,init,APTV
+2019-04-15,Morgan Stanley,Underweight,Underweight,main,APTV
+2019-04-22,KeyBanc,Overweight,Overweight,main,APTV
+2019-05-07,Buckingham Research,Neutral,Neutral,main,APTV
+2019-05-16,Morgan Stanley,Underweight,,main,APTV
+2019-06-11,Baird,Outperform,,main,APTV
+2019-06-27,Credit Suisse,Outperform,,init,APTV
+2019-06-28,Morgan Stanley,Underweight,,main,APTV
+2019-08-01,Bank of America,Buy,,main,APTV
+2019-08-01,Credit Suisse,Outperform,,main,APTV
+2019-08-01,Buckingham Research,Neutral,,main,APTV
+2019-08-01,Baird,Outperform,,main,APTV
+2019-08-01,JP Morgan,Overweight,,main,APTV
+2019-08-23,UBS,Neutral,,main,APTV
+2019-09-12,UBS,Neutral,,main,APTV
+2019-09-13,Bank of America,Neutral,Buy,down,APTV
+2019-09-25,Morgan Stanley,Underweight,,main,APTV
+2019-10-16,Guggenheim Securities,Buy,,init,APTV
+2019-10-31,Buckingham,Neutral,,main,APTV
+2019-10-31,Baird,Outperform,,main,APTV
+2019-12-03,Piper Jaffray,Overweight,Neutral,up,APTV
+2020-01-31,RBC Capital,Outperform,,main,APTV
+2020-01-31,Baird,Outperform,,main,APTV
+2020-01-31,Credit Suisse,Outperform,,main,APTV
+2020-03-03,B of A Securities,Neutral,,main,APTV
+2020-03-16,Morgan Stanley,Underweight,,main,APTV
+2020-03-24,KeyBanc,Overweight,,main,APTV
+2020-03-25,Benchmark,Buy,,main,APTV
+2020-03-30,Morgan Stanley,Overweight,Equal-Weight,up,APTV
+2020-04-09,Oppenheimer,Outperform,,main,APTV
+2020-04-13,KeyBanc,Overweight,,main,APTV
+2020-04-14,Piper Sandler,Overweight,,main,APTV
+2020-04-15,Goldman Sachs,Buy,,init,APTV
+2020-04-21,Guggenheim,Neutral,Buy,down,APTV
+2020-05-06,Jefferies,Buy,,main,APTV
+2020-05-06,JP Morgan,Overweight,,main,APTV
+2020-05-06,Credit Suisse,Outperform,,main,APTV
+2020-05-07,Deutsche Bank,Buy,,main,APTV
+2020-05-18,Morgan Stanley,Overweight,,main,APTV
+2020-05-19,UBS,Buy,Neutral,up,APTV
+2020-06-24,Morgan Stanley,Overweight,,main,APTV
+2020-08-04,Credit Suisse,Outperform,,main,APTV
+2020-09-08,Evercore ISI Group,Outperform,In-Line,up,APTV
+2020-09-18,Morgan Stanley,Overweight,,main,APTV
+2020-10-06,KeyBanc,Overweight,,main,APTV
+2020-10-06,Berenberg,Buy,,init,APTV
+2020-10-15,B of A Securities,Buy,,main,APTV
+2020-10-15,Jefferies,Buy,,main,APTV
+2020-10-30,Raymond James,Outperform,,main,APTV
+2020-11-02,Morgan Stanley,Overweight,,main,APTV
+2020-11-02,Benchmark,Hold,Buy,down,APTV
+2020-11-17,B of A Securities,Underperform,Buy,down,APTV
+2020-12-16,KeyBanc,Sector Weight,Overweight,down,APTV
+2021-01-22,JP Morgan,Neutral,Overweight,down,APTV
+2021-02-04,Raymond James,Outperform,,main,APTV
+2021-02-04,Credit Suisse,Outperform,,main,APTV
+2021-02-04,Morgan Stanley,Overweight,,main,APTV
+2021-03-01,Piper Sandler,Overweight,,main,APTV
+2021-03-25,RBC Capital,Outperform,,main,APTV
+2021-03-26,Wells Fargo,Underweight,,init,APTV
+2021-05-10,Deutsche Bank,Buy,,main,APTV
+2021-05-10,Raymond James,Outperform,,main,APTV
+2021-05-13,Morgan Stanley,Overweight,,main,APTV
+2021-06-24,Guggenheim,Buy,Neutral,up,APTV
+2021-07-07,Barclays,Overweight,,main,APTV
+2021-07-09,Jefferies,Buy,,main,APTV
+2021-07-15,Deutsche Bank,Buy,,main,APTV
+2021-08-06,Oppenheimer,Outperform,,main,APTV
+2021-08-06,Barclays,Overweight,,main,APTV
+2021-08-06,Deutsche Bank,Buy,,main,APTV
+2021-08-10,Morgan Stanley,Overweight,,main,APTV
+2021-09-10,Wells Fargo,Underweight,,main,APTV
+2021-09-20,Jefferies,Buy,,main,APTV
+2021-09-27,Goldman Sachs,Buy,,main,APTV
+2021-10-05,Wells Fargo,Underweight,,main,APTV
+2021-10-07,Morgan Stanley,Overweight,,main,APTV
+2021-10-11,Barclays,Overweight,,main,APTV
+2021-11-05,Raymond James,Outperform,,main,APTV
+2021-11-05,Barclays,Overweight,,main,APTV
+2021-11-05,Oppenheimer,Outperform,,main,APTV
+2021-11-05,Goldman Sachs,Buy,,main,APTV
+2021-11-05,RBC Capital,Outperform,,main,APTV
+2021-11-08,Piper Sandler,Neutral,Overweight,down,APTV
+2021-11-11,Credit Suisse,Outperform,,main,APTV
+2021-12-16,Barclays,Overweight,,main,APTV

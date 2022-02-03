@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-16,Deutsche Bank,Hold,,main,IGT
+2012-07-25,Deutsche Bank,Hold,,main,IGT
+2012-07-25,Barclays,Equal-Weight,,main,IGT
+2012-07-25,UBS,Buy,,main,IGT
+2012-07-25,JP Morgan,Neutral,,main,IGT
+2012-07-25,Stifel Nicolaus,Buy,,main,IGT
+2012-07-25,Credit Suisse,Neutral,Outperform,down,IGT
+2012-07-25,Roth Capital,Neutral,Buy,down,IGT
+2012-07-26,Morgan Stanley,Equal-Weight,Overweight,down,IGT
+2012-11-09,Deutsche Bank,Hold,,main,IGT
+2012-11-09,Nomura,Neutral,,main,IGT
+2012-12-03,Deutsche Bank,Buy,Hold,up,IGT
+2013-02-08,Argus,Buy,Hold,up,IGT
+2013-03-25,Macquarie,Neutral,Outperform,down,IGT
+2013-04-26,Nomura,Neutral,,main,IGT
+2013-04-26,Credit Agricole,Outperform,,down,IGT
+2013-07-19,Credit Suisse,Underperform,Neutral,down,IGT
+2013-07-19,Janney Capital,Neutral,Buy,down,IGT
+2013-07-24,Nomura,Neutral,,main,IGT
+2013-07-24,Stifel Nicolaus,Buy,,main,IGT
+2013-09-27,Deutsche Bank,Hold,Buy,down,IGT
+2013-10-08,UBS,Neutral,,main,IGT
+2013-10-28,Citigroup,Buy,,init,IGT
+2013-11-08,Stifel Nicolaus,Buy,,main,IGT
+2013-11-22,Nomura,Neutral,,main,IGT
+2014-01-24,Nomura,Neutral,,main,IGT
+2014-01-24,Deutsche Bank,Buy,,main,IGT
+2014-01-24,Citigroup,Buy,,main,IGT
+2014-01-24,BMO Capital,Outperform,,main,IGT
+2014-01-24,Sterne Agee,Neutral,Buy,down,IGT
+2014-01-24,Nomura,Neutral,,main,IGT
+2014-01-24,Deutsche Bank,Hold,,main,IGT
+2014-01-24,Stifel Nicolaus,Buy,,main,IGT
+2014-03-26,Bank of America,Neutral,,main,IGT
+2014-03-26,Nomura,Neutral,,main,IGT
+2014-03-27,Citigroup,Buy,,main,IGT
+2014-06-02,Deutsche Bank,Hold,,main,IGT
+2014-06-27,Buckingham Research,Neutral,,init,IGT
+2014-07-16,Wells Fargo,Market Perform,,down,IGT
+2014-07-17,BMO Capital,Market Perform,Outperform,down,IGT
+2014-07-17,Gabelli & Co.,Hold,Buy,down,IGT
+2014-07-17,Goldman Sachs,Neutral,Sell,up,IGT
+2014-07-21,Stifel,Hold,Buy,down,IGT
+2014-07-30,Macquarie,Neutral,,main,IGT
+2014-07-30,Deutsche Bank,Hold,,main,IGT
+2015-06-02,Telsey Advisory Group,Market Perform,,init,IGT
+2015-06-22,Bank of America,Buy,,init,IGT
+2015-08-18,Sterne Agee CRT,Underperform,,down,IGT
+2015-08-19,Goldman Sachs,Sell,,init,IGT
+2016-09-13,Bank of America,Buy,,main,IGT
+2016-09-16,Argus,Buy,,init,IGT
+2017-01-26,Bank of America,Neutral,Buy,down,IGT
+2017-03-24,Argus,Hold,Buy,down,IGT
+2017-09-20,Bank of America,Buy,Neutral,up,IGT
+2017-11-15,Bank of America,Buy,,main,IGT
+2017-11-29,Argus,Buy,Hold,up,IGT
+2018-02-20,Jefferies,Buy,,init,IGT
+2018-03-09,Bank of America,Buy,Buy,main,IGT
+2018-06-15,Union Gaming,Buy,Hold,up,IGT
+2018-10-02,SunTrust Robinson Humphrey,Hold,,init,IGT
+2018-11-01,Deutsche Bank,Buy,Buy,main,IGT
+2018-11-01,Jefferies,Buy,Buy,main,IGT
+2018-11-16,Argus,Buy,Buy,main,IGT
+2018-12-07,Susquehanna,Positive,,init,IGT
+2019-11-19,Deutsche Bank,Buy,,reit,IGT
+2020-01-06,Jefferies,Hold,Buy,down,IGT
+2020-03-04,Deutsche Bank,Buy,,main,IGT
+2020-03-05,Argus Research,Hold,Buy,down,IGT
+2020-05-06,SunTrust Robinson Humphrey,Hold,Buy,down,IGT
+2020-05-21,Societe Generale,Hold,Buy,down,IGT
+2020-07-21,SunTrust Robinson Humphrey,Hold,,main,IGT
+2020-08-05,Deutsche Bank,Buy,,main,IGT
+2020-11-19,Credit Suisse,Neutral,Underperform,up,IGT
+2021-01-12,Argus Research,Buy,Hold,up,IGT
+2021-01-14,Truist Securities,Buy,Hold,up,IGT
+2021-01-19,Jefferies,Buy,Hold,up,IGT
+2021-09-23,Credit Suisse,Outperform,,main,IGT
+2021-10-19,Berenberg,Buy,,init,IGT
+2021-11-10,Credit Suisse,Outperform,,main,IGT
+2021-11-17,Jefferies,Hold,Buy,down,IGT
+2021-12-17,Stifel,Buy,,init,IGT

@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-28,Stifel Nicolaus,Buy,,init,KTB
+2019-06-06,Bank of America,Underperform,,init,KTB
+2019-06-13,Susquehanna,Positive,,init,KTB
+2019-06-17,Piper Jaffray,Neutral,,init,KTB
+2019-06-17,Guggenheim,Buy,,init,KTB
+2019-08-09,Bank of America,Underperform,,reit,KTB
+2019-10-22,Macquarie,Neutral,,init,KTB
+2019-11-13,Barclays,Equal-Weight,,init,KTB
+2020-01-24,Odeon Capital,Buy,,init,KTB
+2020-02-18,Stifel Nicolaus,Hold,Buy,down,KTB
+2020-03-06,Stifel,Hold,,main,KTB
+2020-03-25,Goldman Sachs,Sell,Neutral,down,KTB
+2020-04-06,Susquehanna,Positive,,main,KTB
+2020-04-14,Barclays,Equal-Weight,,main,KTB
+2020-04-15,Stifel,Hold,,main,KTB
+2020-04-29,Susquehanna,Neutral,Positive,down,KTB
+2020-05-05,Guggenheim,Buy,,main,KTB
+2020-06-03,Piper Sandler,Overweight,Neutral,up,KTB
+2020-06-05,Susquehanna,Positive,Neutral,up,KTB
+2020-07-22,UBS,Neutral,,init,KTB
+2020-07-27,Goldman Sachs,Buy,Sell,up,KTB
+2020-10-07,Barclays,Overweight,Equal-Weight,up,KTB
+2020-12-10,Goldman Sachs,Neutral,Buy,down,KTB
+2021-04-07,UBS,Buy,Neutral,up,KTB
+2021-05-25,UBS,Buy,,main,KTB
+2021-07-14,Goldman Sachs,Buy,,init,KTB
+2021-11-05,Barclays,Overweight,,main,KTB

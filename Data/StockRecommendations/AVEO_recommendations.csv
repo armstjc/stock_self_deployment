@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-03,Jefferies,Hold,Buy,down,AVEO
+2012-10-31,Jefferies,Hold,,main,AVEO
+2012-11-14,Stifel Nicolaus,Sell,,init,AVEO
+2013-02-14,Jefferies,Hold,,main,AVEO
+2013-04-02,JMP Securities,Market Perform,,init,AVEO
+2013-05-02,BMO Capital,Underperform,Market Perform,down,AVEO
+2013-05-02,JP Morgan,Neutral,Overweight,down,AVEO
+2013-05-02,William Blair,Market Perform,Outperform,down,AVEO
+2013-05-03,Canaccord Genuity,Hold,Buy,down,AVEO
+2013-05-03,Stifel Nicolaus,Hold,Sell,up,AVEO
+2013-05-03,RBC Capital,Sector Perform,Outperform,down,AVEO
+2013-12-16,RBC Capital,Underperform,Sector Perform,down,AVEO
+2015-03-09,RBC Capital,Sector Perform,Underperform,up,AVEO
+2016-03-30,FBR Capital,Outperform,,init,AVEO
+2016-05-19,PiperJaffray,Overweight,,init,AVEO
+2017-10-06,Seaport Global,Buy,,init,AVEO
+2018-08-16,H.C. Wainwright,Buy,,init,AVEO
+2019-01-04,Baird,Outperform,,init,AVEO
+2019-02-01,H.C. Wainwright,Neutral,Buy,down,AVEO
+2019-02-04,B. Riley FBR,Neutral,Buy,down,AVEO
+2019-09-11,H.C. Wainwright,Buy,Neutral,up,AVEO
+2020-03-18,HC Wainwright & Co.,Buy,,main,AVEO
+2020-04-01,H.C. Wainwright,Buy,,reit,AVEO
+2020-04-01,Piper Sandler,Overweight,,reit,AVEO
+2020-05-01,HC Wainwright & Co.,Buy,,reit,AVEO
+2020-08-13,SVB Leerink,Outperform,,init,AVEO
+2021-01-19,SVB Leerink,Outperform,,main,AVEO
+2021-03-11,SVB Leerink,Outperform,,main,AVEO
+2021-07-12,HC Wainwright & Co.,Buy,,main,AVEO

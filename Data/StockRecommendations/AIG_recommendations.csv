@@ -1,0 +1,159 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-26,Sterne Agee,Buy,,init,AIG
+2012-07-10,JP Morgan,Neutral,,main,AIG
+2012-07-24,Evercore Partners,Overweight,,init,AIG
+2012-08-07,Citigroup,Neutral,,main,AIG
+2012-09-06,Deutsche Bank,Buy,,main,AIG
+2012-09-12,Sterne Agee,Buy,,main,AIG
+2012-09-18,Goldman Sachs,Buy,,main,AIG
+2012-09-26,UBS,Neutral,,main,AIG
+2012-09-28,Janney Capital,Neutral,,init,AIG
+2012-10-04,Credit Suisse,Neutral,,main,AIG
+2012-10-12,Citigroup,Neutral,,main,AIG
+2012-12-05,Argus,Buy,Hold,up,AIG
+2012-12-10,UBS,Neutral,,main,AIG
+2012-12-10,Deutsche Bank,Buy,,main,AIG
+2013-01-08,Goldman Sachs,Buy,,main,AIG
+2013-01-10,Wells Fargo,Market Perform,Outperform,down,AIG
+2013-02-22,Sterne Agee,Neutral,Buy,down,AIG
+2013-02-25,Deutsche Bank,Buy,,main,AIG
+2013-03-01,Evercore Partners,Equal-Weight,Overweight,down,AIG
+2013-04-03,JP Morgan,Neutral,,main,AIG
+2013-04-18,BMO Capital,Outperform,,init,AIG
+2013-05-07,Goldman Sachs,Neutral,Buy,down,AIG
+2013-05-13,Barclays,Overweight,Equal-Weight,up,AIG
+2013-06-05,Nomura,Neutral,,init,AIG
+2013-06-19,Deutsche Bank,Buy,,main,AIG
+2013-06-28,Standpoint Research,Buy,,init,AIG
+2013-08-02,Nomura,Neutral,,main,AIG
+2013-09-18,Guggenheim,Neutral,,init,AIG
+2013-10-31,Compass Point,Neutral,Buy,down,AIG
+2013-11-07,Deutsche Bank,Buy,,main,AIG
+2014-01-06,Credit Suisse,Outperform,Neutral,up,AIG
+2014-05-06,Nomura,Neutral,,main,AIG
+2014-05-21,Goldman Sachs,Buy,Neutral,up,AIG
+2014-06-06,Barclays,Overweight,,main,AIG
+2014-07-01,JP Morgan,Neutral,,main,AIG
+2014-07-17,Sterne Agee,Neutral,,main,AIG
+2014-08-05,Nomura,Neutral,,main,AIG
+2014-08-06,Deutsche Bank,Hold,,main,AIG
+2014-09-08,Citigroup,Buy,,init,AIG
+2014-10-07,Keefe Bruyette & Woods,Market Perform,,main,AIG
+2014-10-13,Sterne Agee,Neutral,,main,AIG
+2014-10-20,Deutsche Bank,Buy,Hold,up,AIG
+2014-11-04,Credit Suisse,Outperform,,main,AIG
+2014-11-04,Bank of America,Buy,,main,AIG
+2014-11-05,Keefe Bruyette & Woods,Market Perform,,main,AIG
+2015-01-08,Credit Suisse,Neutral,Outperform,down,AIG
+2015-02-09,Deutsche Bank,Buy,,main,AIG
+2015-02-13,Barclays,Overweight,,main,AIG
+2015-04-16,Deutsche Bank,Buy,,main,AIG
+2015-06-04,Deutsche Bank,Buy,,main,AIG
+2015-06-05,Keefe Bruyette & Woods,Market Perform,,main,AIG
+2015-06-08,Barclays,Overweight,,main,AIG
+2015-06-16,Deutsche Bank,Hold,Buy,down,AIG
+2015-07-02,Citigroup,Buy,,main,AIG
+2015-08-04,Barclays,Overweight,,main,AIG
+2015-10-02,FBR Capital,Market Perform,,down,AIG
+2015-11-03,Barclays,Overweight,,main,AIG
+2015-11-03,PiperJaffray,Overweight,,main,AIG
+2015-11-04,Avondale Partners,Underperform,Market Perform,down,AIG
+2015-11-04,Atlantic Equities,Underweight,Neutral,down,AIG
+2015-11-23,Standpoint Research,Hold,Buy,down,AIG
+2015-12-15,Keefe Bruyette & Woods,Outperform,Market Perform,up,AIG
+2016-01-19,Standpoint Research,Buy,Hold,up,AIG
+2016-01-27,Deutsche Bank,Hold,,main,AIG
+2016-02-01,BMO Capital,Market Perform,Outperform,down,AIG
+2016-02-03,William Blair,Market Perform,Outperform,down,AIG
+2016-02-12,Credit Suisse,Neutral,,main,AIG
+2016-02-12,Barclays,Overweight,,main,AIG
+2016-02-26,FBR Capital,Market Perform,,main,AIG
+2016-03-11,Deutsche Bank,Hold,,main,AIG
+2016-03-22,Atlantic Equities,Neutral,Underweight,up,AIG
+2016-03-24,Argus,Buy,,main,AIG
+2016-03-29,Credit Suisse,Neutral,,main,AIG
+2016-03-30,Janney Capital,Buy,Neutral,up,AIG
+2016-05-17,Wells Fargo,Outperform,Market Perform,up,AIG
+2016-06-30,Atlantic Equities,Overweight,Neutral,up,AIG
+2016-07-07,Citigroup,Buy,,main,AIG
+2016-08-03,Deutsche Bank,Hold,,main,AIG
+2016-08-04,Keefe Bruyette & Woods,Outperform,,main,AIG
+2016-08-08,Goldman Sachs,Buy,,main,AIG
+2016-08-11,Deutsche Bank,Hold,,main,AIG
+2016-08-22,BMO Capital,Market Perform,,main,AIG
+2016-09-30,Barclays,Overweight,,main,AIG
+2016-10-07,Credit Suisse,Neutral,,init,AIG
+2016-12-12,BMO Capital,Outperform,Market Perform,up,AIG
+2017-01-06,Credit Suisse,Outperform,Neutral,up,AIG
+2017-03-13,Deutsche Bank,Sell,Hold,down,AIG
+2017-05-16,Morgan Stanley,Overweight,Equal-Weight,up,AIG
+2017-08-09,Atlantic Equities,Neutral,Overweight,down,AIG
+2017-09-19,UBS,Neutral,,main,AIG
+2017-10-02,UBS,Neutral,,main,AIG
+2017-10-10,Bank of America,Buy,,main,AIG
+2017-10-16,Barclays,Overweight,,main,AIG
+2017-11-03,Bank of America,Neutral,Buy,down,AIG
+2017-12-04,Goldman Sachs,Neutral,,init,AIG
+2017-12-06,Deutsche Bank,Hold,Sell,up,AIG
+2018-02-09,Bank of America,Buy,Neutral,up,AIG
+2018-02-20,Barclays,Overweight,Overweight,main,AIG
+2018-04-27,Buckingham,Neutral,Underperform,up,AIG
+2018-05-03,Deutsche Bank,Hold,Hold,main,AIG
+2018-05-04,Deutsche Bank,Hold,Hold,main,AIG
+2018-05-04,Morgan Stanley,Overweight,Overweight,main,AIG
+2018-05-10,Goldman Sachs,Buy,Neutral,up,AIG
+2018-05-17,UBS,Buy,Neutral,up,AIG
+2018-08-10,Argus,Buy,Buy,main,AIG
+2018-11-02,Argus,Buy,Buy,main,AIG
+2018-11-06,Morgan Stanley,Overweight,Overweight,main,AIG
+2018-11-07,Evercore ISI Group,In-Line,Outperform,down,AIG
+2018-11-12,Barclays,Overweight,Overweight,main,AIG
+2018-12-06,Wells Fargo,Outperform,Outperform,main,AIG
+2019-01-15,Compass Point,Neutral,,init,AIG
+2019-02-05,Credit Suisse,Neutral,,init,AIG
+2019-02-15,Argus,Hold,Buy,down,AIG
+2019-02-15,Compass Point,Buy,Neutral,up,AIG
+2019-05-08,RBC Capital,Outperform,,main,AIG
+2019-05-08,Wells Fargo,Outperform,,main,AIG
+2019-05-16,Morgan Stanley,Overweight,,main,AIG
+2019-05-22,Barclays,Overweight,,main,AIG
+2019-05-30,Morgan Stanley,Overweight,,main,AIG
+2019-06-05,Deutsche Bank,Hold,Buy,down,AIG
+2019-07-11,Wells Fargo,Outperform,,main,AIG
+2019-07-19,William Blair,Outperform,Market Perform,up,AIG
+2019-10-02,Barclays,Overweight,,main,AIG
+2019-10-17,Evercore ISI Group,In-Line,,init,AIG
+2019-11-08,UBS,Buy,,main,AIG
+2019-11-14,Credit Suisse,Neutral,,main,AIG
+2019-11-14,Morgan Stanley,Overweight,,main,AIG
+2020-01-21,Citigroup,Neutral,,init,AIG
+2020-02-14,UBS,Buy,,main,AIG
+2020-02-26,Deutsche Bank,Hold,,main,AIG
+2020-04-01,Morgan Stanley,Overweight,,main,AIG
+2020-04-01,Wells Fargo,Overweight,,main,AIG
+2020-04-06,Piper Sandler,Overweight,,main,AIG
+2020-04-08,RBC Capital,Outperform,,main,AIG
+2020-04-14,Deutsche Bank,Hold,,main,AIG
+2020-04-27,Credit Suisse,Neutral,,main,AIG
+2020-05-05,JP Morgan,Neutral,,main,AIG
+2020-05-06,William Blair,Market Perform,Outperform,down,AIG
+2020-05-11,UBS,Buy,,main,AIG
+2020-06-01,"Keefe, Bruyette & Woods",Outperform,,main,AIG
+2020-06-11,Morgan Stanley,Overweight,,main,AIG
+2020-08-05,Morgan Stanley,Overweight,,main,AIG
+2020-11-11,Goldman Sachs,Neutral,Buy,down,AIG
+2020-11-17,Barclays,Equal-Weight,,init,AIG
+2021-01-04,Wells Fargo,Equal-Weight,Overweight,down,AIG
+2021-02-25,Morgan Stanley,Overweight,,main,AIG
+2021-02-26,Atlantic Equities,Overweight,Neutral,up,AIG
+2021-05-27,Morgan Stanley,Overweight,,main,AIG
+2021-06-21,Citigroup,Neutral,,main,AIG
+2021-08-09,RBC Capital,Outperform,,main,AIG
+2021-08-09,Wells Fargo,Equal-Weight,,main,AIG
+2021-08-16,Morgan Stanley,Overweight,,main,AIG
+2021-09-23,RBC Capital,Outperform,,main,AIG
+2021-10-12,Barclays,Equal-Weight,,main,AIG
+2021-11-08,RBC Capital,Outperform,,main,AIG
+2021-11-08,Barclays,Equal-Weight,,main,AIG
+2021-11-19,Jefferies,Hold,,init,AIG
+2022-01-04,Wells Fargo,Equal-Weight,,main,AIG

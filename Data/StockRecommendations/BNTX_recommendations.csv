@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-11-04,SVB Leerink,Outperform,,init,BNTX
+2019-11-04,Berenberg,Buy,,init,BNTX
+2019-11-04,Canaccord Genuity,Buy,,init,BNTX
+2019-11-04,UBS,Buy,,init,BNTX
+2019-11-04,Bank of America,Buy,,init,BNTX
+2019-11-04,JP Morgan,Overweight,,init,BNTX
+2019-11-05,Wolfe Research,Outperform,,init,BNTX
+2020-01-22,UBS,Neutral,Buy,down,BNTX
+2020-01-24,SVB Leerink,Market Perform,Outperform,down,BNTX
+2020-03-09,H.C. Wainwright,Neutral,,init,BNTX
+2020-03-18,JP Morgan,Neutral,Overweight,down,BNTX
+2020-04-03,Canaccord Genuity,Buy,,reit,BNTX
+2020-04-13,H.C. Wainwright,Neutral,,reit,BNTX
+2020-04-28,B of A Securities,Neutral,Buy,down,BNTX
+2020-05-19,HC Wainwright & Co.,Buy,Neutral,up,BNTX
+2020-06-25,HC Wainwright & Co.,Buy,,main,BNTX
+2020-06-30,HC Wainwright & Co.,Neutral,Buy,down,BNTX
+2020-07-02,SVB Leerink,Market Perform,,main,BNTX
+2020-07-13,Canaccord Genuity,Buy,,main,BNTX
+2020-07-21,B of A Securities,Buy,Neutral,up,BNTX
+2020-07-21,Canaccord Genuity,Buy,,main,BNTX
+2020-08-06,SVB Leerink,Market Perform,,main,BNTX
+2020-08-07,SVB Leerink,Market Perform,,main,BNTX
+2020-10-14,SVB Leerink,Market Perform,,main,BNTX
+2020-10-29,Commerzbank,Buy,,init,BNTX
+2020-11-10,Canaccord Genuity,Buy,,main,BNTX
+2020-11-12,Canaccord Genuity,Buy,,main,BNTX
+2020-11-24,SVB Leerink,Market Perform,,main,BNTX
+2020-12-01,B of A Securities,Neutral,Buy,down,BNTX
+2020-12-14,Canaccord Genuity,Buy,,main,BNTX
+2020-12-15,SVB Leerink,Market Perform,,main,BNTX
+2021-02-04,SVB Leerink,Market Perform,,main,BNTX
+2021-04-06,SVB Leerink,Market Perform,,main,BNTX
+2021-04-15,SVB Leerink,Market Perform,,main,BNTX
+2021-05-11,Bryan Garnier,Neutral,Buy,down,BNTX
+2021-05-11,SVB Leerink,Market Perform,,main,BNTX
+2021-05-13,Canaccord Genuity,Buy,,main,BNTX
+2021-05-18,Goldman Sachs,Neutral,,init,BNTX
+2021-06-16,Redburn Partners,Sell,Neutral,down,BNTX
+2021-08-11,Bryan Garnier,Buy,Neutral,up,BNTX
+2021-08-11,HC Wainwright & Co.,Neutral,,main,BNTX
+2021-08-13,SVB Leerink,Market Perform,,main,BNTX
+2021-08-20,Canaccord Genuity,Buy,,main,BNTX
+2021-08-27,UBS,Neutral,,main,BNTX
+2021-10-05,SVB Leerink,Market Perform,,main,BNTX
+2021-10-07,Jefferies,Hold,,init,BNTX
+2021-10-22,Deutsche Bank,Hold,,init,BNTX
+2021-11-10,HC Wainwright & Co.,Buy,Neutral,up,BNTX
+2021-12-16,Morgan Stanley,Equal-Weight,,init,BNTX
+2021-12-21,HC Wainwright & Co.,Buy,,main,BNTX

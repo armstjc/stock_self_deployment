@@ -1,0 +1,125 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-20,Deutsche Bank,Buy,,main,BTU
+2012-04-19,Jefferies,Buy,,main,BTU
+2012-04-20,Brean Capital,Buy,,main,BTU
+2012-05-29,Goldman Sachs,Buy,,up,BTU
+2012-07-16,Citigroup,Buy,,main,BTU
+2012-07-25,Deutsche Bank,Buy,,main,BTU
+2012-07-25,Dahlman Rose,Buy,,main,BTU
+2012-07-25,Barclays,Overweight,,main,BTU
+2012-07-25,BMO Capital,Outperform,,main,BTU
+2012-07-25,Brean Capital,Buy,,main,BTU
+2012-07-25,Jefferies,Buy,,main,BTU
+2012-09-04,Dahlman Rose,Hold,Buy,down,BTU
+2012-09-04,Citigroup,Buy,,main,BTU
+2012-09-06,Raymond James,Market Perform,Outperform,down,BTU
+2012-09-21,Brean Capital,Hold,Buy,down,BTU
+2012-09-24,Bank of America,Underperform,Buy,down,BTU
+2012-09-25,Citigroup,Buy,,main,BTU
+2012-10-02,Deutsche Bank,Buy,,main,BTU
+2012-10-09,Goldman Sachs,Buy,,main,BTU
+2012-10-12,Nomura,Neutral,Reduce,down,BTU
+2012-10-23,Barclays,Overweight,,main,BTU
+2012-10-23,BMO Capital,Outperform,,main,BTU
+2012-10-23,Citigroup,Buy,,main,BTU
+2012-10-23,Goldman Sachs,Neutral,Buy,down,BTU
+2012-12-14,Bank of America,Underperform,,main,BTU
+2013-01-30,BMO Capital,Outperform,,main,BTU
+2013-01-30,Credit Agricole,Sell,Underperform,down,BTU
+2013-03-11,BMO Capital,Market Perform,Outperform,down,BTU
+2013-03-18,Nomura,Neutral,Reduce,up,BTU
+2013-03-26,Raymond James,Outperform,Market Perform,up,BTU
+2013-06-07,Raymond James,Market Perform,Outperform,down,BTU
+2013-06-19,Tudor Pickering,,Buy,down,BTU
+2013-07-24,Tudor Pickering,Accumulate,Buy,down,BTU
+2013-09-06,Macquarie,Neutral,,init,BTU
+2013-10-18,BMO Capital,Outperform,Market Perform,up,BTU
+2013-10-21,Stifel Nicolaus,Buy,,main,BTU
+2013-11-08,Goldman Sachs,Buy,Neutral,up,BTU
+2013-11-25,Macquarie,Outperform,Neutral,up,BTU
+2013-11-26,Macquarie,Outperform,Neutral,up,BTU
+2013-12-20,Stifel Nicolaus,Buy,,main,BTU
+2014-01-27,Bank of America,Neutral,Underperform,up,BTU
+2014-01-31,Citigroup,Buy,,main,BTU
+2014-01-31,Clarksons Platou,Outperform,Market Perform,up,BTU
+2014-03-26,UBS,,,down,BTU
+2014-04-04,Cowen & Co.,Outperform,Market Perform,up,BTU
+2014-04-10,JP Morgan,Overweight,,main,BTU
+2014-04-21,Deutsche Bank,Buy,,main,BTU
+2014-04-28,FBR Capital,Outperform,,main,BTU
+2014-05-12,Morgan Stanley,Overweight,Equal-Weight,up,BTU
+2014-06-04,Jefferies,Buy,,main,BTU
+2014-06-06,Goldman Sachs,Neutral,Buy,down,BTU
+2014-06-30,JP Morgan,Overweight,,main,BTU
+2014-07-07,Deutsche Bank,Hold,Buy,down,BTU
+2014-07-23,Nomura,Neutral,,main,BTU
+2014-07-23,FBR Capital,Outperform,,main,BTU
+2014-08-08,Citigroup,Buy,,main,BTU
+2014-09-11,Citigroup,Buy,,main,BTU
+2014-09-12,Citigroup,Buy,,main,BTU
+2014-09-16,Nomura,Reduce,Neutral,down,BTU
+2014-09-18,Goldman Sachs,Sell,Neutral,down,BTU
+2014-10-14,JP Morgan,Overweight,,main,BTU
+2014-10-15,Imperial Capital,Underperform,,init,BTU
+2014-10-15,Bank of America,Neutral,,main,BTU
+2014-10-17,FBR Capital,Outperform,,main,BTU
+2014-12-01,Citigroup,Buy,,main,BTU
+2015-01-08,JP Morgan,Overweight,,main,BTU
+2015-01-12,Deutsche Bank,Hold,,main,BTU
+2015-01-26,Imperial Capital,In-Line,Underperform,up,BTU
+2015-01-27,Citigroup,Buy,,main,BTU
+2015-01-28,JP Morgan,Overweight,,main,BTU
+2015-01-28,BB&T Capital,Hold,Buy,down,BTU
+2015-02-12,Jefferies,Buy,,main,BTU
+2015-03-10,Jefferies,Hold,Buy,down,BTU
+2015-03-12,Bank of America,Underperform,Neutral,down,BTU
+2015-04-06,Deutsche Bank,Hold,,main,BTU
+2015-04-08,Jefferies,Hold,Buy,down,BTU
+2015-04-13,Citigroup,Buy,,main,BTU
+2015-04-14,Citigroup,Buy,,main,BTU
+2015-05-26,Credit Suisse,Neutral,,init,BTU
+2015-06-09,Barclays,Equal-Weight,,main,BTU
+2015-07-01,Stifel Nicolaus,Buy,,main,BTU
+2015-07-02,Deutsche Bank,Sell,,down,BTU
+2015-07-22,JP Morgan,Neutral,Neutral,down,BTU
+2015-07-29,Macquarie,Neutral,,main,BTU
+2015-07-29,Deutsche Bank,Sell,,main,BTU
+2015-09-18,FBR Capital,Market Perform,,init,BTU
+2015-10-07,Morgan Stanley,Equal-Weight,Overweight,down,BTU
+2015-10-13,JP Morgan,Underweight,Neutral,down,BTU
+2015-10-30,Stifel Nicolaus,Hold,Buy,down,BTU
+2015-11-20,UBS,Neutral,Overweight,down,BTU
+2015-12-15,Macquarie,Underperform,Neutral,down,BTU
+2016-01-12,Jefferies,Underperform,,down,BTU
+2016-02-04,FBR Capital,Underperform,Market Perform,down,BTU
+2016-02-16,UBS,Underweight,Hold,down,BTU
+2016-02-17,Sterne Agee CRT,Neutral,Buy,down,BTU
+2016-02-17,Stifel Nicolaus,Neutral,Buy,down,BTU
+2016-02-18,Barclays,Underweight,,main,BTU
+2017-04-07,Seaport Global,Neutral,,init,BTU
+2017-09-07,Macquarie,Neutral,,init,BTU
+2017-11-14,Jefferies,Buy,,init,BTU
+2018-03-16,JP Morgan,Overweight,Overweight,main,BTU
+2018-07-25,B. Riley FBR,Buy,Buy,main,BTU
+2018-09-19,B. Riley FBR,Buy,Buy,main,BTU
+2018-10-01,Macquarie,Neutral,Neutral,main,BTU
+2018-11-05,B. Riley FBR,Buy,Buy,main,BTU
+2019-03-20,Credit Suisse,Outperform,,init,BTU
+2019-03-20,BMO Capital,Market Perform,,init,BTU
+2019-04-01,Deutsche Bank,Buy,,init,BTU
+2019-04-10,MKM Partners,Buy,,main,BTU
+2019-08-05,Deutsche Bank,Buy,,main,BTU
+2019-08-06,Jefferies,Hold,Buy,down,BTU
+2019-08-19,JP Morgan,Neutral,Overweight,down,BTU
+2019-09-06,B. Riley,Buy,,main,BTU
+2019-09-06,BMO Capital,Market Perform,,main,BTU
+2019-10-17,B. Riley,Buy,,main,BTU
+2019-10-30,B. Riley,Neutral,Buy,down,BTU
+2020-02-06,B. Riley FBR,Neutral,,main,BTU
+2020-02-07,Benchmark,Hold,,init,BTU
+2020-03-20,Deutsche Bank,Hold,Buy,down,BTU
+2020-03-24,B. Riley FBR,Neutral,,main,BTU
+2020-04-17,B. Riley FBR,Neutral,,main,BTU
+2020-04-30,B. Riley FBR,Neutral,,main,BTU
+2021-10-04,B. Riley Securities,Buy,Neutral,up,BTU
+2021-10-29,Benchmark,Buy,Hold,up,BTU

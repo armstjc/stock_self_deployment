@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,BMO Capital,Market Perform,,down,DCI
+2012-03-26,Jefferies,Buy,,main,DCI
+2012-10-19,Oppenheimer,Perform,,init,DCI
+2012-10-24,Jefferies,Hold,Buy,down,DCI
+2012-10-25,BMO Capital,Market Perform,,main,DCI
+2013-01-17,Bank of America,Buy,Neutral,up,DCI
+2013-07-31,BMO Capital,Underperform,Market Perform,down,DCI
+2013-10-29,Bank of America,Underperform,Buy,down,DCI
+2014-05-21,Gabelli & Co.,Buy,Hold,up,DCI
+2014-08-28,Jefferies,Hold,,main,DCI
+2014-10-15,Jefferies,Hold,,main,DCI
+2014-12-02,Avondale Partners,Market Perform,,init,DCI
+2015-05-13,Jefferies,Hold,,main,DCI
+2015-11-03,SunTrust Robinson Humphrey,Neutral,,init,DCI
+2016-03-21,Avondale Partners,Market Perform,,main,DCI
+2016-06-08,CL King,Buy,,init,DCI
+2016-09-09,Baird,Neutral,,main,DCI
+2017-05-31,Jefferies,Buy,Hold,up,DCI
+2018-03-07,Gabelli & Co.,Buy,Neutral,up,DCI
+2018-03-07,Stifel Nicolaus,Hold,Hold,main,DCI
+2018-03-29,Edward Jones,Buy,Hold,up,DCI
+2018-06-01,Stifel Nicolaus,Hold,Hold,main,DCI
+2018-09-07,Stifel Nicolaus,Hold,Hold,main,DCI
+2018-09-14,Stifel Nicolaus,Hold,Hold,main,DCI
+2020-03-06,Baird,Neutral,,main,DCI
+2020-03-19,Stifel,Hold,,main,DCI
+2020-06-03,Stifel,Hold,,main,DCI
+2020-06-26,Morgan Stanley,Overweight,,init,DCI
+2020-10-02,Baird,Outperform,Neutral,up,DCI
+2020-12-04,Morgan Stanley,Overweight,,main,DCI
+2020-12-15,Morgan Stanley,Overweight,,main,DCI
+2021-01-22,Morgan Stanley,Overweight,,main,DCI
+2021-02-26,Morgan Stanley,Overweight,,main,DCI
+2021-04-12,Morgan Stanley,Overweight,,main,DCI
+2021-06-03,Morgan Stanley,Overweight,,main,DCI
+2021-07-13,Morgan Stanley,Overweight,,main,DCI
+2021-09-03,Morgan Stanley,Overweight,,main,DCI
+2021-10-13,Morgan Stanley,Overweight,,main,DCI

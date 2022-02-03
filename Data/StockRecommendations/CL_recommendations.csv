@@ -1,0 +1,143 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-20,Morgan Stanley,Overweight,,main,CL
+2012-04-12,Deutsche Bank,Buy,,main,CL
+2012-05-15,Argus Research,Buy,,up,CL
+2012-07-27,Deutsche Bank,Hold,Buy,down,CL
+2012-07-27,UBS,Neutral,,main,CL
+2012-07-27,BMO Capital,Market Perform,,main,CL
+2012-07-27,Morgan Stanley,Overweight,,main,CL
+2012-09-21,Batlivala & Karani,Outperformer,Underperform,up,CL
+2013-01-24,Credit Suisse,Outperform,,init,CL
+2013-02-14,Canaccord Genuity,Sell,,init,CL
+2013-02-25,Tigress Financial,Neutral,,init,CL
+2013-02-25,BMO Capital,Market Perform,,main,CL
+2013-02-26,Bank of America,Neutral,Buy,down,CL
+2013-03-04,Citigroup,Neutral,,main,CL
+2013-03-11,UBS,Neutral,,main,CL
+2013-03-15,Morgan Stanley,Equal-Weight,Overweight,down,CL
+2013-04-15,Deutsche Bank,Hold,,main,CL
+2013-04-25,Barclays,Equal-Weight,Underweight,up,CL
+2013-07-30,Nomura,Reduce,Neutral,down,CL
+2013-08-16,Argus,Hold,Buy,down,CL
+2013-09-11,Exane BNP Paribas,Neutral,,init,CL
+2013-09-18,Barclays,Overweight,Equal-Weight,up,CL
+2013-09-30,Morgan Stanley,Overweight,Equal-Weight,up,CL
+2013-10-25,Canaccord Genuity,Hold,Sell,up,CL
+2013-11-20,FirstEnergy Capital,Market Perform,,init,CL
+2013-11-25,RBC Capital,Outperform,,init,CL
+2014-03-04,UBS,Buy,,init,CL
+2014-04-28,UBS,Buy,,main,CL
+2014-04-28,B. Riley FBR,Neutral,,main,CL
+2014-06-10,BMO Capital,Outperform,Market Perform,up,CL
+2014-08-01,UBS,Buy,,main,CL
+2014-08-01,Barclays,Overweight,,main,CL
+2014-09-30,Citigroup,Neutral,,main,CL
+2014-12-17,Citigroup,Neutral,,main,CL
+2015-01-21,UBS,Neutral,Buy,down,CL
+2015-01-30,Citigroup,Neutral,,main,CL
+2015-02-23,Citigroup,Buy,Neutral,up,CL
+2015-04-20,Goldman Sachs,Sell,Neutral,down,CL
+2015-06-10,Societe Generale,Hold,Sell,up,CL
+2015-06-11,Morgan Stanley,Equal-Weight,Overweight,down,CL
+2015-06-18,Canaccord Genuity,Hold,Sell,up,CL
+2015-09-15,Deutsche Bank,Hold,,main,CL
+2015-11-02,Deutsche Bank,Hold,,main,CL
+2016-01-04,RBC Capital,Sector Perform,Outperform,down,CL
+2016-01-06,Atlantic Equities,Overweight,,init,CL
+2016-01-15,Exane BNP Paribas,Outperform,Neutral,up,CL
+2016-02-01,B. Riley FBR,Neutral,,main,CL
+2016-02-26,Sterne Agee CRT,Neutral,Buy,down,CL
+2016-03-21,Barclays,Equal-Weight,,main,CL
+2016-04-14,Citigroup,Buy,,main,CL
+2016-05-02,Goldman Sachs,Neutral,Sell,up,CL
+2016-07-20,Deutsche Bank,Hold,,main,CL
+2016-07-29,Exane BNP Paribas,Neutral,Outperform,down,CL
+2016-07-29,UBS,Neutral,,main,CL
+2016-07-29,Citigroup,Buy,,main,CL
+2016-09-09,KeyBanc,Sector Weight,,init,CL
+2016-09-12,Bank of America,Buy,Neutral,up,CL
+2017-01-25,Berenberg,Hold,,init,CL
+2017-01-30,Citigroup,Neutral,Buy,down,CL
+2017-03-21,JP Morgan,Neutral,,init,CL
+2017-04-18,Jefferies,Hold,,init,CL
+2017-09-15,Macquarie,Neutral,,init,CL
+2017-09-25,Morgan Stanley,Overweight,Equal-Weight,up,CL
+2017-10-11,SunTrust Robinson Humphrey,Buy,Hold,up,CL
+2017-10-30,Jefferies,Hold,,main,CL
+2017-10-31,Morgan Stanley,Overweight,,main,CL
+2017-11-02,Citigroup,Neutral,,main,CL
+2017-11-29,Societe Generale,Sell,Hold,down,CL
+2017-12-14,Deutsche Bank,Hold,,init,CL
+2017-12-19,Macquarie,Outperform,Neutral,up,CL
+2018-01-30,Citigroup,Neutral,Neutral,main,CL
+2018-04-20,Morgan Stanley,Overweight,Overweight,main,CL
+2018-05-01,Citigroup,Neutral,Neutral,main,CL
+2018-05-25,Argus,Buy,Hold,up,CL
+2018-06-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,CL
+2018-07-19,UBS,Buy,Neutral,up,CL
+2018-07-23,Stifel Nicolaus,Hold,Hold,main,CL
+2018-07-30,Macquarie,Neutral,Outperform,down,CL
+2018-07-31,Citigroup,Neutral,Neutral,main,CL
+2018-09-18,Argus,Buy,Buy,main,CL
+2018-09-20,Atlantic Equities,Neutral,,init,CL
+2018-10-17,Wells Fargo,Market Perform,Market Perform,main,CL
+2018-10-29,SunTrust Robinson Humphrey,Hold,Buy,down,CL
+2018-10-29,Wells Fargo,Market Perform,Market Perform,main,CL
+2018-10-29,Citigroup,Neutral,Neutral,main,CL
+2018-10-29,JP Morgan,Underweight,Neutral,down,CL
+2018-10-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,CL
+2018-10-30,Argus,Buy,Buy,main,CL
+2019-01-09,Goldman Sachs,Buy,Neutral,up,CL
+2019-01-11,Evercore ISI Group,Outperform,,init,CL
+2019-02-13,UBS,Neutral,Neutral,main,CL
+2019-03-07,Credit Suisse,Underperform,,init,CL
+2019-03-29,UBS,Buy,Buy,main,CL
+2019-04-29,Macquarie,Neutral,Neutral,main,CL
+2019-04-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,CL
+2019-04-29,JP Morgan,Neutral,Underweight,up,CL
+2019-06-11,Argus Research,Buy,,main,CL
+2019-06-18,Wells Fargo,Market Perform,,main,CL
+2019-07-12,Deutsche Bank,Hold,,main,CL
+2019-07-15,Morgan Stanley,Equal-Weight,,main,CL
+2019-07-29,Morgan Stanley,Equal-Weight,,main,CL
+2019-07-29,Wells Fargo,Market Perform,,main,CL
+2019-07-29,UBS,Buy,,main,CL
+2019-08-20,Citigroup,Neutral,,main,CL
+2019-10-14,JP Morgan,Neutral,,main,CL
+2019-11-04,JP Morgan,Neutral,,main,CL
+2019-11-04,Morgan Stanley,Equal-Weight,,main,CL
+2019-11-04,Bank of America,Buy,,main,CL
+2019-11-05,UBS,Buy,,main,CL
+2019-11-06,Citigroup,Neutral,,main,CL
+2019-12-12,Deutsche Bank,Hold,,main,CL
+2019-12-19,Bank of America,Neutral,Buy,down,CL
+2020-02-03,Morgan Stanley,Equal-Weight,,main,CL
+2020-02-03,Citigroup,Neutral,,main,CL
+2020-02-03,Atlantic Equities,Overweight,Neutral,up,CL
+2020-02-03,RBC Capital,Outperform,Sector Perform,up,CL
+2020-03-23,Morgan Stanley,Overweight,Equal-Weight,up,CL
+2020-03-27,Stifel,Buy,Hold,up,CL
+2020-04-27,Morgan Stanley,Overweight,,main,CL
+2020-05-04,Stifel,Buy,,main,CL
+2020-05-15,SunTrust Robinson Humphrey,Buy,,main,CL
+2020-07-22,Morgan Stanley,Equal-Weight,Overweight,down,CL
+2020-07-27,Deutsche Bank,Hold,,main,CL
+2020-08-03,Morgan Stanley,Equal-Weight,,main,CL
+2020-08-03,Deutsche Bank,Hold,,main,CL
+2020-11-02,UBS,Buy,,main,CL
+2020-11-02,Morgan Stanley,Equal-Weight,,main,CL
+2020-12-08,Wells Fargo,Underweight,,init,CL
+2021-01-04,RBC Capital,Sector Perform,Outperform,down,CL
+2021-01-20,Bernstein,Underperform,,init,CL
+2021-01-26,Berenberg,Hold,Sell,up,CL
+2021-01-28,Stifel,Hold,Buy,down,CL
+2021-02-01,Credit Suisse,Neutral,Underperform,up,CL
+2021-04-16,JP Morgan,Neutral,,main,CL
+2021-05-03,Deutsche Bank,Hold,,main,CL
+2021-06-09,Credit Suisse,Outperform,Neutral,up,CL
+2021-06-24,UBS,Buy,,init,CL
+2021-08-02,Deutsche Bank,Hold,,main,CL
+2021-09-20,Deutsche Bank,Buy,Hold,up,CL
+2021-11-01,RBC Capital,Sector Perform,,main,CL
+2021-11-02,Barclays,Equal-Weight,,main,CL
+2021-12-16,Redburn Partners,Neutral,,init,CL

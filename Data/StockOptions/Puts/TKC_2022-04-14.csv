@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TKC220414P00002500,2022-01-21 18:21:28+00:00,2.5,0.1,0.0,0.0,0.0,0.0,1.0,0,0.2500075,False,REGULAR,USD,TKC
+TKC220414P00005000,2021-12-20 14:32:15+00:00,5.0,2.15,1.45,1.7,0.0,0.0,2.0,38,0.8007832421875,True,REGULAR,USD,TKC
+TKC220414P00007500,2021-11-10 11:54:05+00:00,7.5,3.4,3.4,4.4,0.0,0.0,,10,1.76171994140625,True,REGULAR,USD,TKC

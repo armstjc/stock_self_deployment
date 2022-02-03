@@ -1,0 +1,176 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-23,PiperJaffray,Overweight,,main,CERN
+2012-02-28,Sterne Agee,Buy,,init,CERN
+2012-03-23,UBS,Neutral,,main,CERN
+2012-07-12,ISI Group,Market Weight,,init,CERN
+2012-07-30,Cowen & Co.,Neutral,Outperform,down,CERN
+2012-08-17,Morgan Stanley,Equal-Weight,Overweight,down,CERN
+2012-09-04,ISI Group,Market Weight,,main,CERN
+2012-10-03,Jefferies,Hold,,init,CERN
+2012-10-26,Jefferies,Buy,Hold,up,CERN
+2013-01-03,JP Morgan,Overweight,,init,CERN
+2013-01-14,Sterne Agee,Buy,,main,CERN
+2013-02-06,Jefferies,Buy,,main,CERN
+2013-02-06,Credit Suisse,Neutral,,main,CERN
+2013-02-21,B. Riley FBR,Neutral,,init,CERN
+2013-04-12,Jefferies,Buy,,main,CERN
+2013-04-26,Credit Suisse,Neutral,,main,CERN
+2013-04-29,Raymond James,Market Perform,Outperform,down,CERN
+2013-05-31,Jefferies,Buy,,main,CERN
+2013-06-11,Sterne Agee,Neutral,,init,CERN
+2013-07-16,First Analysis,Equal-Weight,Overweight,down,CERN
+2013-07-26,Baird,Neutral,Outperform,down,CERN
+2013-08-14,KeyBanc,Buy,,init,CERN
+2013-08-19,Hilliard Lyons,Long-Term Buy,,init,CERN
+2013-09-03,Leerink Swann,Outperform,Market Perform,up,CERN
+2013-10-10,KeyBanc,Buy,,main,CERN
+2013-10-16,HM Global Capital,Hold,,init,CERN
+2013-10-17,Stephens & Co.,Overweight,,init,CERN
+2013-11-20,Deutsche Bank,Buy,,init,CERN
+2014-01-22,ISI Group,Strong Buy,Neutral,up,CERN
+2014-02-13,RBC Capital,Outperform,,init,CERN
+2014-02-18,Citigroup,,,init,CERN
+2014-03-05,Barclays,Overweight,,init,CERN
+2014-03-14,SunTrust Robinson Humphrey,Buy,,init,CERN
+2014-04-15,Raymond James,Outperform,,main,CERN
+2014-04-30,UBS,Buy,Neutral,up,CERN
+2014-06-27,Topeka,Buy,,init,CERN
+2014-07-25,Raymond James,Outperform,,main,CERN
+2014-07-25,Deutsche Bank,Buy,,main,CERN
+2014-08-06,Wells Fargo,Outperform,Market Perform,up,CERN
+2014-09-08,Topeka,Buy,,main,CERN
+2014-10-24,Credit Suisse,Neutral,,main,CERN
+2014-11-21,Cowen & Co.,Outperform,Market Perform,up,CERN
+2015-02-09,JP Morgan,Overweight,,main,CERN
+2015-02-11,Barclays,Overweight,,main,CERN
+2015-02-11,Deutsche Bank,Buy,,main,CERN
+2015-03-03,Topeka,Hold,Buy,down,CERN
+2015-03-09,RBC Capital,Outperform,,main,CERN
+2015-03-19,Baird,Outperform,Neutral,up,CERN
+2015-04-06,Barclays,Overweight,,main,CERN
+2015-04-07,Stifel Nicolaus,Hold,,init,CERN
+2015-04-20,Barclays,Buy,,main,CERN
+2015-04-20,SunTrust Robinson Humphrey,Neutral,Buy,down,CERN
+2015-06-18,Oppenheimer,Outperform,,init,CERN
+2015-08-05,RBC Capital,Sector Perform,Outperform,down,CERN
+2015-08-05,Stifel Nicolaus,Sell,Hold,down,CERN
+2015-09-15,Stifel Nicolaus,Sell,,main,CERN
+2015-09-16,Canaccord Genuity,Buy,,init,CERN
+2015-09-29,RBC Capital,Outperform,Sector Perform,up,CERN
+2015-10-16,Barclays,Overweight,,main,CERN
+2015-10-21,Avondale Partners,Market Outperform,,init,CERN
+2015-11-04,Deutsche Bank,Buy,,main,CERN
+2015-11-04,Stifel Nicolaus,Sell,,main,CERN
+2015-11-10,Deutsche Bank,Buy,,main,CERN
+2016-01-07,RBC Capital,Top Pick,Outperform,up,CERN
+2016-02-17,Evercore ISI Group,Hold,Buy,down,CERN
+2016-02-17,UBS,Buy,,main,CERN
+2016-02-17,Deutsche Bank,Buy,,main,CERN
+2016-02-17,Baird,Outperform,,main,CERN
+2016-02-17,Canaccord Genuity,Buy,,main,CERN
+2016-02-17,RBC Capital,Top Pick,,main,CERN
+2016-02-17,Oppenheimer,Outperform,,main,CERN
+2016-02-17,Leerink Swann,Outperform,,main,CERN
+2016-02-17,Barclays,Overweight,,main,CERN
+2016-02-17,PiperJaffray,Overweight,,main,CERN
+2016-02-17,Avondale Partners,Market Outperform,,main,CERN
+2016-02-23,Goldman Sachs,Neutral,Buy,down,CERN
+2016-06-23,SunTrust Robinson Humphrey,Buy,Neutral,up,CERN
+2016-07-05,Raymond James,Market Perform,Outperform,down,CERN
+2016-08-03,Barclays,Overweight,,main,CERN
+2016-08-03,Deutsche Bank,Buy,,main,CERN
+2016-08-03,Citigroup,Buy,,main,CERN
+2016-09-08,Cowen & Co.,Market Perform,Outperform,down,CERN
+2016-09-19,Bank of America,Buy,,init,CERN
+2016-10-06,UBS,Neutral,,init,CERN
+2016-11-02,Baird,Neutral,Outperform,down,CERN
+2016-11-07,Bank of America,Underperform,Neutral,down,CERN
+2016-12-01,Leerink Swann,Market Perform,Outperform,down,CERN
+2016-12-13,Morgan Stanley,Underweight,Equal-Weight,down,CERN
+2017-01-06,Cantor Fitzgerald,Overweight,,init,CERN
+2017-01-19,Barclays,Equal-Weight,Overweight,down,CERN
+2017-02-10,Oppenheimer,Perform,Outperform,down,CERN
+2017-02-10,Avondale Partners,Market Perform,Market Outperform,down,CERN
+2017-02-24,Citigroup,Neutral,Buy,down,CERN
+2017-05-02,Hilliard Lyons,Neutral,Long-Term Buy,down,CERN
+2017-08-10,Morgan Stanley,Equal-Weight,Underweight,up,CERN
+2017-09-19,RBC Capital,Top Pick,,init,CERN
+2017-10-13,Jefferies,Buy,,main,CERN
+2017-10-27,JP Morgan,Neutral,Overweight,down,CERN
+2017-10-31,Baird,Outperform,Neutral,up,CERN
+2017-11-02,RBC Capital,Outperform,Top Pick,down,CERN
+2018-01-16,SunTrust Robinson Humphrey,Hold,Buy,down,CERN
+2018-01-19,Evercore ISI Group,In-Line,,init,CERN
+2018-02-07,Cantor Fitzgerald,Overweight,Overweight,main,CERN
+2018-02-07,Baird,Outperform,Outperform,main,CERN
+2018-03-08,Stifel Nicolaus,Hold,Hold,main,CERN
+2018-03-13,Argus,Hold,Buy,down,CERN
+2018-04-02,KeyBanc,Overweight,Overweight,main,CERN
+2018-04-23,Citigroup,Buy,Neutral,up,CERN
+2018-05-03,KeyBanc,Overweight,Overweight,main,CERN
+2018-05-03,Canaccord Genuity,Buy,Buy,main,CERN
+2018-05-03,Stifel Nicolaus,Hold,Hold,main,CERN
+2018-05-24,RBC Capital,Outperform,Outperform,main,CERN
+2018-07-10,Evercore ISI Group,Underperform,In-Line,down,CERN
+2018-07-25,Stifel Nicolaus,Hold,Hold,main,CERN
+2018-08-03,Canaccord Genuity,Buy,Buy,main,CERN
+2018-08-03,KeyBanc,Overweight,Overweight,main,CERN
+2018-08-20,KeyBanc,Overweight,Overweight,main,CERN
+2018-09-13,Barclays,Equal-Weight,,init,CERN
+2018-10-26,RBC Capital,Sector Perform,Outperform,down,CERN
+2018-10-26,Cantor Fitzgerald,Overweight,Overweight,main,CERN
+2018-10-26,Barclays,Equal-Weight,Equal-Weight,main,CERN
+2018-10-29,Leerink Swann,Outperform,Market Perform,up,CERN
+2018-12-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,CERN
+2019-02-28,Morgan Stanley,Underweight,Equal-Weight,down,CERN
+2019-04-10,Baird,Outperform,Outperform,main,CERN
+2019-04-10,SunTrust Robinson Humphrey,Buy,Hold,up,CERN
+2019-05-21,Bank of America,Buy,,main,CERN
+2019-05-24,Canaccord Genuity,Buy,,main,CERN
+2019-07-08,Cantor Fitzgerald,Overweight,,main,CERN
+2019-07-25,Canaccord Genuity,Buy,,main,CERN
+2019-08-16,KeyBanc,Overweight,,main,CERN
+2019-08-22,Argus Research,Buy,Hold,up,CERN
+2019-08-22,Argus,Buy,Hold,up,CERN
+2019-08-23,Morgan Stanley,Underweight,,main,CERN
+2019-08-23,Jefferies,Hold,Buy,down,CERN
+2019-09-26,Deutsche Bank,Buy,,init,CERN
+2019-11-22,RBC Capital,Outperform,,init,CERN
+2019-11-26,UBS,Buy,,init,CERN
+2019-12-16,SunTrust Robinson Humphrey,Buy,,main,CERN
+2020-01-08,Wells Fargo,Overweight,,main,CERN
+2020-02-05,CFRA,Hold,,main,CERN
+2020-02-05,Canaccord Genuity,Buy,,main,CERN
+2020-02-05,Baird,Outperform,,main,CERN
+2020-03-11,UBS,Buy,,main,CERN
+2020-03-11,SunTrust Robinson Humphrey,Buy,,main,CERN
+2020-03-11,JP Morgan,Neutral,,main,CERN
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,CERN
+2020-03-27,Morgan Stanley,Underweight,,main,CERN
+2020-03-30,Cowen & Co.,Outperform,Market Perform,up,CERN
+2020-04-22,Jefferies,Buy,Hold,up,CERN
+2020-04-29,Barclays,Equal-Weight,,main,CERN
+2020-04-29,UBS,Buy,,main,CERN
+2020-05-01,SunTrust Robinson Humphrey,Hold,Buy,down,CERN
+2020-05-13,Morgan Stanley,Underweight,,main,CERN
+2020-07-07,Stephens & Co.,Equal-Weight,,init,CERN
+2020-07-31,Morgan Stanley,Underweight,,main,CERN
+2020-10-29,Deutsche Bank,Buy,,main,CERN
+2020-10-29,Wells Fargo,Overweight,,main,CERN
+2020-10-29,SVB Leerink,Outperform,,main,CERN
+2021-01-19,B of A Securities,Underperform,Buy,down,CERN
+2021-02-11,Morgan Stanley,Underweight,,main,CERN
+2021-02-11,UBS,Neutral,Buy,down,CERN
+2021-02-11,KeyBanc,Overweight,,main,CERN
+2021-02-16,Piper Sandler,Overweight,,main,CERN
+2021-05-06,SVB Leerink,Outperform,,main,CERN
+2021-08-02,Canaccord Genuity,Buy,,main,CERN
+2021-08-02,SVB Leerink,Outperform,,main,CERN
+2021-08-31,Morgan Stanley,Underweight,,main,CERN
+2021-11-01,Barclays,Equal-Weight,,main,CERN
+2021-11-17,Baird,Neutral,,init,CERN
+2021-12-20,Morgan Stanley,Equal-Weight,Underweight,up,CERN
+2021-12-21,Morgan Stanley,Equal-Weight,,main,CERN
+2021-12-21,RBC Capital,Sector Perform,Outperform,down,CERN
+2021-12-21,SVB Leerink,Market Perform,Outperform,down,CERN
+2021-12-22,Keybanc,Sector Weight,Overweight,down,CERN

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-22,Raymond James,Outperform,,init,CPF
+2014-05-21,Sandler O'Neill,Buy,Hold,up,CPF
+2015-02-18,Sandler O'Neill,,Buy,down,CPF
+2015-03-17,Macquarie,Neutral,,init,CPF
+2015-09-21,Sandler O'Neill,Buy,,up,CPF
+2015-10-30,Macquarie,Neutral,,main,CPF
+2016-07-08,PiperJaffray,Neutral,,init,CPF
+2016-08-02,Raymond James,Outperform,,main,CPF
+2016-08-11,Compass Point,Neutral,,init,CPF
+2016-10-28,Compass Point,Buy,Neutral,up,CPF
+2017-01-26,Compass Point,Buy,Neutral,up,CPF
+2019-07-25,Compass Point,Neutral,Buy,down,CPF
+2020-04-23,Compass Point,Buy,Neutral,up,CPF
+2020-10-01,Piper Sandler,Neutral,,main,CPF
+2021-01-28,Piper Sandler,Overweight,Neutral,up,CPF
+2021-03-11,Raymond James,Outperform,Market Perform,up,CPF

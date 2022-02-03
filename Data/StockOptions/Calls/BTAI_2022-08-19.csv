@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BTAI220819C00025000,2021-12-23 17:37:47+00:00,25.0,5.5,3.5,6.0,0.0,0.0,1,1,1.5434593139648438,False,REGULAR,USD,BTAI
+BTAI220819C00030000,2021-12-31 16:49:04+00:00,30.0,3.4,2.45,5.5,0.0,0.0,1,1,1.5324730407714844,False,REGULAR,USD,BTAI

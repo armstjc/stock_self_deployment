@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CIG220218P00002500,2022-01-05 19:45:05+00:00,2.5,0.3,0.25,0.0,0.07000001,30.434784,5,2,0.6250037500000001,False,REGULAR,USD,CIG

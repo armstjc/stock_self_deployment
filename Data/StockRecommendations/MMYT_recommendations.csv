@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-27,Morgan Stanley,Overweight,,up,MMYT
+2012-04-19,Deutsche Bank,Buy,,main,MMYT
+2012-05-22,Oppenheimer,Outperform,,main,MMYT
+2012-05-25,Deutsche Bank,Buy,,main,MMYT
+2012-05-25,Morgan Stanley,Overweight,,main,MMYT
+2012-08-07,Oppenheimer,Outperform,,main,MMYT
+2012-08-07,Morgan Stanley,Overweight,,main,MMYT
+2012-09-05,JP Morgan,Overweight,,init,MMYT
+2012-09-21,Deutsche Bank,Hold,Buy,down,MMYT
+2012-11-07,Oppenheimer,Outperform,,main,MMYT
+2012-11-07,Deutsche Bank,Hold,,main,MMYT
+2012-11-07,Morgan Stanley,Equal-Weight,Overweight,down,MMYT
+2012-12-12,Janney Capital,Neutral,,init,MMYT
+2013-08-08,Deutsche Bank,Hold,,main,MMYT
+2013-08-08,Pacific Crest,Sector Perform,Outperform,down,MMYT
+2013-08-08,Pacific Crest,Sector Perform,Outperform,down,MMYT
+2013-10-23,FBR Capital,Market Perform,,init,MMYT
+2013-11-01,Deutsche Bank,Hold,,main,MMYT
+2014-01-07,Morgan Stanley,Equal-Weight,,main,MMYT
+2014-02-03,Oppenheimer,Market Perform,Outperform,down,MMYT
+2014-02-04,Morgan Stanley,Equal-Weight,,main,MMYT
+2014-03-19,Oppenheimer,Outperform,Market Perform,up,MMYT
+2014-04-15,Goldman Sachs,Neutral,,init,MMYT
+2014-05-22,Deutsche Bank,Hold,,main,MMYT
+2014-07-31,Deutsche Bank,Hold,,main,MMYT
+2014-08-12,Jefferies,Buy,,init,MMYT
+2014-10-30,Deutsche Bank,Buy,,up,MMYT
+2014-10-31,Oppenheimer,Outperform,,main,MMYT
+2015-01-30,Deutsche Bank,Buy,,main,MMYT
+2015-01-30,Jefferies,Buy,,main,MMYT
+2015-10-30,Deutsche Bank,Hold,Buy,down,MMYT
+2016-06-03,Nomura,Neutral,Reduce,up,MMYT
+2016-07-29,Jefferies,Buy,,main,MMYT
+2017-02-21,Nomura,Reduce,Neutral,down,MMYT
+2017-11-30,Goldman Sachs,Buy,,init,MMYT
+2018-05-14,Nomura,Neutral,Reduce,up,MMYT
+2018-06-12,Goldman Sachs,Neutral,Buy,down,MMYT
+2018-07-09,Bank of America,Buy,Buy,main,MMYT
+2018-08-15,Jefferies,Buy,Hold,up,MMYT
+2018-09-11,Bank of America,Buy,Buy,main,MMYT
+2018-10-26,Goldman Sachs,Buy,Neutral,up,MMYT
+2019-04-30,Bank of America,Underperform,Buy,down,MMYT
+2019-11-04,Bank of America,Buy,Underperform,up,MMYT

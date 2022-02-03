@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-10,Bank oferica,Buy,,up,HIMX
+2012-11-13,Bank of America,Buy,,main,HIMX
+2013-03-11,Nomura,Neutral,Buy,down,HIMX
+2013-04-08,Bank of America,Buy,,main,HIMX
+2013-05-08,Nomura,Buy,Neutral,up,HIMX
+2013-05-29,Oppenheimer,Outperform,,init,HIMX
+2013-05-30,Oppenheimer,Outperform,,init,HIMX
+2013-07-15,Craig-Hallum,Buy,,init,HIMX
+2013-09-05,Oppenheimer,Outperform,,main,HIMX
+2013-09-11,Northland Securities,Outperform,,init,HIMX
+2013-10-21,Nomura,Neutral,Buy,down,HIMX
+2013-11-13,UBS,Neutral,,init,HIMX
+2014-01-28,Chardan Capital,Neutral,Buy,down,HIMX
+2014-03-12,Credit Suisse,Outperform,,init,HIMX
+2014-03-25,Bank of America,Underperform,Buy,down,HIMX
+2014-05-08,Chardan Capital,Sell,Neutral,down,HIMX
+2014-05-09,Oppenheimer,Outperform,,main,HIMX
+2014-05-27,Lake Street,Hold,,init,HIMX
+2014-06-17,UBS,Sell,Neutral,down,HIMX
+2014-08-04,Lake Street,Buy,Hold,up,HIMX
+2014-08-05,Bank of America,Buy,Underperform,up,HIMX
+2014-09-29,Craig-Hallum,Buy,Hold,up,HIMX
+2014-09-30,Oppenheimer,Outperform,,main,HIMX
+2015-02-12,Craig-Hallum,Hold,Buy,down,HIMX
+2015-03-17,Bank of America,Underperform,Buy,down,HIMX
+2015-05-20,Rosenblatt,Buy,Neutral,up,HIMX
+2015-05-29,Chardan Capital,Sell,Neutral,down,HIMX
+2015-06-10,Bank of America,Buy,Underperform,up,HIMX
+2015-06-17,Northland Securities,Outperform,,main,HIMX
+2015-07-07,Chardan Capital,Buy,Sell,up,HIMX
+2015-10-21,Northland Securities,Market Perform,Outperform,down,HIMX
+2015-11-13,Baird,Outperform,,init,HIMX
+2015-11-23,Morgan Stanley,Overweight,,init,HIMX
+2015-12-03,Northland Securities,Outperform,Market Perform,up,HIMX
+2016-02-23,Craig-Hallum,Buy,Hold,up,HIMX
+2016-03-23,Credit Suisse,Outperform,,main,HIMX
+2016-07-05,Nomura,Buy,Neutral,up,HIMX
+2016-09-26,Nomura,Neutral,Buy,down,HIMX
+2016-09-29,Roth Capital,Buy,,init,HIMX
+2016-11-07,Morgan Stanley,Equal-Weight,Overweight,down,HIMX
+2017-01-11,Roth Capital,Neutral,,down,HIMX
+2017-01-30,Baird,Neutral,Outperform,down,HIMX
+2017-02-07,Morgan Stanley,Underweight,Equal-Weight,down,HIMX
+2017-02-16,Northland Securities,Outperform,Market Perform,up,HIMX
+2017-03-09,Mizuho,Buy,Neutral,up,HIMX
+2017-03-10,Morgan Stanley,Equal-Weight,Underweight,up,HIMX
+2017-07-14,Oppenheimer,Underperform,Perform,down,HIMX
+2017-08-04,Baird,Outperform,Neutral,up,HIMX
+2017-09-28,Lake Street,Buy,Hold,up,HIMX
+2017-10-11,Mizuho,Neutral,Buy,down,HIMX
+2017-11-10,Baird,Outperform,,main,HIMX
+2017-11-27,Morgan Stanley,Equal-Weight,Overweight,down,HIMX
+2018-03-15,Roth Capital,Neutral,Buy,down,HIMX
+2018-08-16,Macquarie,Neutral,Outperform,down,HIMX
+2018-10-01,Roth Capital,Buy,Neutral,up,HIMX
+2018-11-09,Credit Suisse,Neutral,Outperform,down,HIMX
+2018-11-20,Roth Capital,Neutral,Buy,down,HIMX
+2019-07-12,Roth Capital,Neutral,Buy,down,HIMX
+2020-01-06,Credit Suisse,Neutral,Underperform,up,HIMX
+2020-01-31,Lake Street,Buy,Hold,up,HIMX
+2021-09-17,Vertical Research,Sell,Hold,down,HIMX

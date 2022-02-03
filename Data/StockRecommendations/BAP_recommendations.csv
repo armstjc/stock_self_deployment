@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-17,JP Morgan,Overweight,Neutral,up,BAP
+2012-08-20,Raymond James,Outperform,Market Perform,up,BAP
+2013-01-03,Barclays,Equal-Weight,,main,BAP
+2013-02-04,JP Morgan,Neutral,Overweight,down,BAP
+2013-03-15,Raymond James,Market Perform,Outperform,down,BAP
+2013-03-26,UBS,Buy,Neutral,up,BAP
+2014-05-02,JP Morgan,Overweight,,main,BAP
+2014-05-12,JP Morgan,Overweight,,main,BAP
+2014-07-15,JP Morgan,Neutral,,main,BAP
+2015-02-11,JP Morgan,Neutral,,main,BAP
+2016-03-15,Barclays,Overweight,,main,BAP
+2016-03-15,Scotiabank,Outperform,,init,BAP
+2016-03-24,Santander,Hold,Buy,down,BAP
+2016-08-11,JP Morgan,Overweight,,main,BAP
+2016-09-21,Credit Suisse,Outperform,,main,BAP
+2018-05-25,Credit Suisse,Outperform,Outperform,main,BAP
+2018-12-07,Itau BBA,Outperform,Market Perform,up,BAP
+2019-02-11,JP Morgan,Neutral,Overweight,down,BAP
+2019-04-09,Citigroup,Neutral,Buy,down,BAP
+2019-08-13,HSBC,Buy,Hold,up,BAP
+2019-08-13,JP Morgan,Overweight,Neutral,up,BAP
+2019-09-05,Bank of America,Buy,Underperform,up,BAP
+2019-11-15,JP Morgan,Overweight,,main,BAP
+2020-01-07,Bank of America,Neutral,Buy,down,BAP
+2020-06-09,JP Morgan,Neutral,Overweight,down,BAP
+2020-06-23,Santander,Hold,Buy,down,BAP
+2020-06-24,ScotiaBank,Sector Perform,Sector Outperform,down,BAP
+2021-01-13,Citigroup,Neutral,Buy,down,BAP
+2021-03-24,ScotiaBank,Sector Perform,Sector Outperform,down,BAP
+2021-04-13,Itau BBA,Market Perform,Outperform,down,BAP
+2021-04-20,JP Morgan,Underweight,Neutral,down,BAP
+2021-04-21,HSBC,Hold,Buy,down,BAP
+2021-05-17,UBS,Buy,Neutral,up,BAP
+2021-06-09,Morgan Stanley,Equal-Weight,Overweight,down,BAP
+2021-06-09,Citigroup,Sell,Neutral,down,BAP
+2021-08-27,HSBC,Buy,Hold,up,BAP

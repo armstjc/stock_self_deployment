@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-20,JP Morgan,Overweight,,init,GKOS
+2015-07-20,Canaccord Genuity,Buy,,init,GKOS
+2015-07-20,Goldman Sachs,Neutral,,init,GKOS
+2015-07-20,Cantor Fitzgerald,Buy,,init,GKOS
+2015-07-20,William Blair,Outperform,,init,GKOS
+2015-08-13,Cantor Fitzgerald,Buy,,main,GKOS
+2016-02-09,PiperJaffray,Overweight,,init,GKOS
+2016-03-02,JP Morgan,Overweight,,main,GKOS
+2016-04-08,Stifel Nicolaus,Hold,,init,GKOS
+2016-04-14,Roth Capital,Buy,,init,GKOS
+2016-05-04,Roth Capital,Buy,,main,GKOS
+2016-06-02,Cantor Fitzgerald,Buy,,init,GKOS
+2016-08-02,Roth Capital,Buy,,main,GKOS
+2016-10-27,Wells Fargo,Outperform,,init,GKOS
+2017-01-06,Stifel Nicolaus,Buy,Hold,up,GKOS
+2017-02-22,BMO Capital,Outperform,,init,GKOS
+2017-11-08,BMO Capital,Outperform,,main,GKOS
+2017-11-16,BMO Capital,Outperform,,main,GKOS
+2018-02-26,Stifel Nicolaus,Buy,Buy,main,GKOS
+2018-03-01,BMO Capital,Outperform,Outperform,main,GKOS
+2018-04-13,Stifel Nicolaus,Hold,Buy,down,GKOS
+2018-06-01,BMO Capital,Outperform,Outperform,main,GKOS
+2018-07-10,BMO Capital,Market Perform,Outperform,down,GKOS
+2018-08-03,Stifel Nicolaus,Hold,Hold,main,GKOS
+2018-08-29,JP Morgan,Overweight,Neutral,up,GKOS
+2018-08-30,BMO Capital,Market Perform,Market Perform,main,GKOS
+2018-09-05,BMO Capital,Market Perform,Market Perform,main,GKOS
+2019-03-08,BTIG Research,Neutral,,init,GKOS
+2019-05-09,BMO Capital,Market Perform,,main,GKOS
+2019-11-07,Stifel Nicolaus,Hold,,main,GKOS
+2019-12-12,Wells Fargo,Underweight,Overweight,down,GKOS
+2019-12-20,JP Morgan,Overweight,,main,GKOS
+2020-01-06,Berenberg,Buy,Hold,up,GKOS
+2020-02-28,JP Morgan,Neutral,Overweight,down,GKOS
+2020-02-28,Stephens & Co.,Overweight,,main,GKOS
+2020-02-28,Wells Fargo,Underweight,,main,GKOS
+2020-02-28,Stifel Nicolaus,Hold,,main,GKOS
+2020-03-05,Citigroup,Sell,,init,GKOS
+2020-03-23,Stephens & Co.,Overweight,,main,GKOS
+2020-03-27,Citigroup,Sell,,main,GKOS
+2020-04-08,Wells Fargo,Underweight,,main,GKOS
+2020-05-05,JP Morgan,Neutral,,main,GKOS
+2020-06-15,Jefferies,Hold,,init,GKOS
+2020-10-08,JP Morgan,Underweight,Neutral,down,GKOS
+2020-11-17,Wells Fargo,Equal-Weight,Underweight,up,GKOS
+2020-12-09,Oppenheimer,Perform,,init,GKOS
+2020-12-16,Citigroup,Neutral,Sell,up,GKOS
+2021-01-29,Piper Sandler,Neutral,Overweight,down,GKOS
+2021-04-08,Oppenheimer,Outperform,Perform,up,GKOS
+2021-07-14,William Blair,Market Perform,Outperform,down,GKOS
+2021-07-14,Oppenheimer,Perform,Outperform,down,GKOS
+2021-07-20,Wells Fargo,Underweight,Equal-Weight,down,GKOS
+2021-07-26,Stephens & Co.,Equal-Weight,Overweight,down,GKOS
+2021-08-06,Stephens & Co.,Equal-Weight,,main,GKOS
+2021-11-03,Stephens & Co.,Overweight,Equal-Weight,up,GKOS
+2021-11-05,Jefferies,Hold,,main,GKOS

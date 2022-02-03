@@ -1,0 +1,119 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-28,Canaccord Genuity,Buy,,main,AYI
+2012-04-03,Oppenheimer,Perform,,main,AYI
+2012-04-18,PiperJaffray,Overweight,,init,AYI
+2012-04-19,DA Davidson,Neutral,,init,AYI
+2012-04-20,Stifel Nicolaus,Hold,,init,AYI
+2012-07-06,Sterne Agee,Underperform,,main,AYI
+2012-09-27,PiperJaffray,Neutral,Overweight,down,AYI
+2012-10-01,Oppenheimer,Perform,,main,AYI
+2012-10-02,PiperJaffray,Neutral,,main,AYI
+2012-10-02,Wedbush,Underperform,,main,AYI
+2013-01-17,Jefferies,Hold,,main,AYI
+2013-03-01,Northland Securities,Market Perform,,init,AYI
+2013-03-05,UBS,Buy,,init,AYI
+2013-03-05,UBS,Buy,,init,AYI
+2013-04-02,Jefferies,Hold,,main,AYI
+2013-04-04,PiperJaffray,Neutral,,main,AYI
+2013-04-04,Oppenheimer,Perform,,main,AYI
+2013-04-04,UBS,Buy,,main,AYI
+2013-04-04,BB&T Capital,Hold,Buy,down,AYI
+2013-04-18,Northland Securities,Outperform,Market Perform,up,AYI
+2013-07-09,Canaccord Genuity,Hold,Buy,down,AYI
+2013-08-06,Goldman Sachs,Neutral,,init,AYI
+2013-08-09,Goldman Sachs,Neutral,,init,AYI
+2013-09-18,UBS,Neutral,Buy,down,AYI
+2013-10-01,Northland Securities,Market Perform,Outperform,down,AYI
+2013-10-04,Sterne Agee,Neutral,Underperform,up,AYI
+2014-01-09,DA Davidson,Neutral,,main,AYI
+2014-04-07,Sidoti & Co.,Buy,Neutral,up,AYI
+2014-07-02,Canaccord Genuity,Buy,,main,AYI
+2014-07-07,BB&T Capital,Buy,Hold,up,AYI
+2014-09-15,Goldman Sachs,Buy,Neutral,up,AYI
+2014-10-02,Canaccord Genuity,Buy,,main,AYI
+2014-10-09,Oppenheimer,Outperform,Market Perform,up,AYI
+2014-12-16,William Blair,Outperform,,init,AYI
+2014-12-16,William Blair,Outperform,,init,AYI
+2015-03-30,Stifel Nicolaus,Buy,,main,AYI
+2015-06-30,Stifel Nicolaus,Buy,,main,AYI
+2015-07-02,Oppenheimer,Overweight,,main,AYI
+2015-07-02,Canaccord Genuity,Buy,,main,AYI
+2015-08-21,Oppenheimer,Outperform,,main,AYI
+2015-08-21,Oppenheimer,Outperform,,main,AYI
+2015-09-10,Cleveland Research,Neutral,,down,AYI
+2015-11-30,Canaccord Genuity,Buy,,main,AYI
+2016-02-12,Oppenheimer,Outperform,,main,AYI
+2016-04-07,Oppenheimer,Outperform,,main,AYI
+2016-04-07,CLSA,Outperform,Buy,down,AYI
+2016-08-24,Roth Capital,Neutral,,init,AYI
+2016-09-30,Williams Capital,Buy,,init,AYI
+2016-10-31,Wells Fargo,Outperform,Market Perform,up,AYI
+2016-11-04,Seaport Global,Buy,,init,AYI
+2016-11-22,Deutsche Bank,Buy,,init,AYI
+2016-12-08,JMP Securities,Market Underperform,,init,AYI
+2016-12-20,Baird,Neutral,Outperform,down,AYI
+2017-01-10,Baird,Outperform,Neutral,up,AYI
+2017-04-05,Goldman Sachs,Neutral,Buy,down,AYI
+2017-04-11,Guggenheim,Neutral,,init,AYI
+2017-06-30,Deutsche Bank,Buy,,main,AYI
+2017-06-30,JMP Securities,Market Underperform,,main,AYI
+2017-07-11,Wolfe Research,Outperform,,init,AYI
+2017-09-15,Wells Fargo,Market Perform,Outperform,down,AYI
+2017-09-19,Baird,Neutral,Outperform,down,AYI
+2017-10-03,JMP Securities,Market Perform,Market Underperform,up,AYI
+2017-10-13,KeyBanc,Sector Weight,,init,AYI
+2018-01-10,Williams Capital,Hold,Buy,down,AYI
+2018-01-11,Seaport Global,Neutral,Buy,down,AYI
+2018-03-22,William Blair,Market Perform,Outperform,down,AYI
+2018-03-28,Wells Fargo,Market Perform,Market Perform,main,AYI
+2018-04-05,JMP Securities,Market Outperform,Market Perform,up,AYI
+2018-07-05,JMP Securities,Market Outperform,Market Outperform,main,AYI
+2018-09-07,Baird,Outperform,Neutral,up,AYI
+2018-09-12,Goldman Sachs,Sell,Neutral,down,AYI
+2018-09-21,Wells Fargo,Outperform,Market Perform,up,AYI
+2018-10-04,Wells Fargo,Outperform,Outperform,main,AYI
+2018-10-12,Credit Suisse,Neutral,,init,AYI
+2019-01-02,Wells Fargo,Outperform,Outperform,main,AYI
+2019-03-06,Credit Suisse,Outperform,Neutral,up,AYI
+2019-03-21,Goldman Sachs,Neutral,Sell,up,AYI
+2019-04-04,Baird,Outperform,Outperform,main,AYI
+2019-04-04,Wells Fargo,Outperform,Outperform,main,AYI
+2019-04-04,JMP Securities,Market Outperform,Market Outperform,main,AYI
+2019-09-19,Credit Suisse,Outperform,,main,AYI
+2019-10-03,Oppenheimer,Outperform,,main,AYI
+2019-10-03,Wells Fargo,Outperform,,main,AYI
+2019-10-03,Credit Suisse,Outperform,,main,AYI
+2019-10-16,Baird,Neutral,Outperform,down,AYI
+2019-10-18,JMP Securities,Market Outperform,,main,AYI
+2019-12-17,Credit Suisse,Outperform,,main,AYI
+2020-04-01,JMP Securities,Market Outperform,,main,AYI
+2020-04-03,Credit Suisse,Outperform,,main,AYI
+2020-04-03,Wells Fargo,Overweight,,main,AYI
+2020-06-08,Oppenheimer,Outperform,Perform,up,AYI
+2020-06-09,JMP Securities,Market Perform,Market Outperform,down,AYI
+2020-06-16,Goldman Sachs,Sell,Neutral,down,AYI
+2020-06-18,Baird,Neutral,,main,AYI
+2020-06-23,Credit Suisse,Outperform,,main,AYI
+2020-07-01,Credit Suisse,Outperform,,main,AYI
+2020-09-16,UBS,Sell,,init,AYI
+2021-01-05,Credit Suisse,Outperform,,main,AYI
+2021-01-08,Credit Suisse,Outperform,,main,AYI
+2021-03-25,Credit Suisse,Outperform,,main,AYI
+2021-03-26,William Blair,Outperform,Market Perform,up,AYI
+2021-04-01,Credit Suisse,Outperform,,main,AYI
+2021-04-01,Baird,Outperform,Neutral,up,AYI
+2021-04-05,Goldman Sachs,Neutral,Sell,up,AYI
+2021-04-05,Roth Capital,Neutral,Sell,up,AYI
+2021-04-19,Oppenheimer,Outperform,,main,AYI
+2021-06-07,Credit Suisse,Outperform,,main,AYI
+2021-07-02,Credit Suisse,Outperform,,main,AYI
+2021-07-02,Baird,Outperform,,main,AYI
+2021-08-31,Credit Suisse,Outperform,,main,AYI
+2021-10-04,Credit Suisse,Outperform,,main,AYI
+2021-10-07,Cowen & Co.,Outperform,,main,AYI
+2021-10-07,Credit Suisse,Outperform,,main,AYI
+2021-10-07,Oppenheimer,Outperform,,main,AYI
+2021-10-12,UBS,Neutral,Sell,up,AYI
+2022-01-04,UBS,Neutral,,main,AYI
+2022-01-04,Credit Suisse,Outperform,,main,AYI
+2022-01-10,Credit Suisse,Outperform,,main,AYI

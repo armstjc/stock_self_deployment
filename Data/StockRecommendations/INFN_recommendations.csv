@@ -1,0 +1,124 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-10,Morgan Stanley,Equal-Weight,,up,INFN
+2012-05-17,Jefferies,Buy,,up,INFN
+2013-01-17,JP Morgan,Overweight,Neutral,up,INFN
+2013-02-04,MKM Partners,Buy,Neutral,up,INFN
+2013-02-06,Jefferies,Buy,,main,INFN
+2013-03-19,Goldman Sachs,Neutral,Sell,up,INFN
+2013-04-25,Needham,Buy,Hold,up,INFN
+2013-06-17,Jefferies,Hold,Buy,down,INFN
+2013-07-17,William Blair,Outperform,,init,INFN
+2013-12-20,FBR Capital,Outperform,,init,INFN
+2014-01-21,Jefferies,Hold,,main,INFN
+2014-03-12,Goldman Sachs,Buy,Neutral,up,INFN
+2014-03-20,Stifel Nicolaus,Buy,Hold,up,INFN
+2014-04-24,Jefferies,Hold,,main,INFN
+2014-09-08,Jefferies,Buy,Hold,up,INFN
+2014-09-15,Barrington Research,Outperform,,init,INFN
+2014-10-23,National Alliance,Buy,Hold,up,INFN
+2014-10-23,Jefferies,Buy,,main,INFN
+2014-10-23,JP Morgan,Overweight,,main,INFN
+2014-11-10,Stifel Nicolaus,Buy,,main,INFN
+2014-12-16,Wedbush,Neutral,,init,INFN
+2015-01-06,Needham,Hold,Buy,down,INFN
+2015-01-23,Stifel Nicolaus,Buy,,main,INFN
+2015-01-23,JP Morgan,Overweight,,main,INFN
+2015-04-02,Goldman Sachs,Neutral,Buy,down,INFN
+2015-04-22,Stifel Nicolaus,Buy,,main,INFN
+2015-05-12,Deutsche Bank,Buy,,init,INFN
+2015-07-23,Jefferies,Buy,,main,INFN
+2015-08-18,Northland Securities,Outperform,,init,INFN
+2015-09-08,Goldman Sachs,Sell,Neutral,down,INFN
+2015-10-08,Needham,Buy,,up,INFN
+2015-10-09,Morgan Stanley,Equal-Weight,,init,INFN
+2015-12-04,Raymond James,Outperform,,init,INFN
+2016-01-11,Wells Fargo,Market Perform,,init,INFN
+2016-01-27,Citigroup,Buy,,init,INFN
+2016-02-12,Stifel Nicolaus,Buy,,main,INFN
+2016-02-12,Deutsche Bank,Buy,,main,INFN
+2016-04-08,Drexel Hamilton,Buy,,init,INFN
+2016-04-15,Goldman Sachs,Neutral,Sell,up,INFN
+2016-04-28,MKM Partners,Neutral,Buy,down,INFN
+2016-04-28,Citigroup,Neutral,Buy,down,INFN
+2016-06-03,Nomura,Buy,,init,INFN
+2016-07-15,B. Riley FBR,Buy,,init,INFN
+2016-07-25,Needham,Strong Buy,Buy,up,INFN
+2016-07-28,Nomura,Neutral,Buy,down,INFN
+2016-07-28,B. Riley FBR,Neutral,Buy,down,INFN
+2016-07-28,JP Morgan,Neutral,Overweight,down,INFN
+2016-07-28,Raymond James,Market Perform,Outperform,down,INFN
+2016-07-28,Jefferies,Hold,Buy,down,INFN
+2016-07-28,Citigroup,Neutral,,main,INFN
+2016-07-28,Deutsche Bank,Buy,,main,INFN
+2016-07-28,Northland Securities,Market Perform,Outperform,down,INFN
+2016-08-25,Citigroup,Sell,Neutral,down,INFN
+2016-09-30,Stifel Nicolaus,Hold,,init,INFN
+2017-01-19,PiperJaffray,Neutral,,init,INFN
+2017-02-10,Nomura,Buy,Neutral,up,INFN
+2017-03-16,Goldman Sachs,Buy,Neutral,up,INFN
+2017-05-26,Wells Fargo,Outperform,Market Perform,up,INFN
+2017-06-14,MKM Partners,Buy,Neutral,up,INFN
+2017-06-22,B. Riley FBR,Buy,Neutral,up,INFN
+2017-07-18,Craig-Hallum,Buy,,init,INFN
+2017-07-21,Citigroup,Sell,,main,INFN
+2017-08-07,Deutsche Bank,Buy,,main,INFN
+2017-08-18,MKM Partners,Buy,,main,INFN
+2017-10-16,Citigroup,Neutral,Sell,up,INFN
+2017-11-07,B. Riley FBR,Buy,,main,INFN
+2017-11-09,Nomura,Buy,,main,INFN
+2017-11-09,MKM Partners,Neutral,Buy,down,INFN
+2017-11-10,Citigroup,Neutral,,main,INFN
+2018-01-24,Citigroup,Neutral,Neutral,main,INFN
+2018-02-08,Northland Securities,Outperform,Market Perform,up,INFN
+2018-02-08,B. Riley FBR,Buy,Buy,main,INFN
+2018-03-09,Citigroup,Neutral,Neutral,main,INFN
+2018-03-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,INFN
+2018-03-19,Northland Securities,Market Perform,Outperform,down,INFN
+2018-05-03,JP Morgan,Neutral,,init,INFN
+2018-05-08,B. Riley FBR,Neutral,Buy,down,INFN
+2018-05-10,B. Riley FBR,Neutral,Neutral,main,INFN
+2018-05-29,Jefferies,Underperform,Hold,down,INFN
+2018-07-24,Raymond James,Underperform,Market Perform,down,INFN
+2018-07-24,Northland Securities,Outperform,Market Perform,up,INFN
+2018-08-02,B. Riley FBR,Neutral,Neutral,main,INFN
+2018-08-08,B. Riley FBR,Neutral,Neutral,main,INFN
+2018-10-01,MKM Partners,Sell,Neutral,down,INFN
+2018-11-05,B. Riley FBR,Neutral,Neutral,main,INFN
+2018-11-07,Nomura,Neutral,Buy,down,INFN
+2018-11-09,Jefferies,Hold,Underperform,up,INFN
+2018-11-13,Morgan Stanley,Equal-Weight,Overweight,down,INFN
+2019-02-25,MKM Partners,Neutral,Sell,up,INFN
+2019-03-11,MKM Partners,Buy,Neutral,up,INFN
+2019-06-03,JP Morgan,Underweight,Neutral,down,INFN
+2019-06-03,JP Morgan,Underweight,Neutral,down,INFN
+2019-07-23,B. Riley,Buy,Neutral,up,INFN
+2019-08-08,Raymond James,Market Perform,Underperform,up,INFN
+2019-09-27,B. Riley,Buy,,main,INFN
+2019-10-01,MKM Partners,Buy,,main,INFN
+2019-11-07,Jefferies,Underperform,Hold,down,INFN
+2019-11-13,Nomura,Neutral,,main,INFN
+2019-11-13,JP Morgan,Neutral,Underweight,up,INFN
+2020-01-02,Needham,Strong Buy,,reit,INFN
+2020-02-24,Needham,Strong Buy,,reit,INFN
+2020-02-26,Stifel,Hold,,main,INFN
+2020-02-26,MKM Partners,Buy,,main,INFN
+2020-02-26,Rosenblatt,Neutral,,main,INFN
+2020-03-16,Citigroup,Sell,Neutral,down,INFN
+2020-03-30,Nomura,Neutral,,main,INFN
+2020-04-02,Piper Sandler,Overweight,Neutral,up,INFN
+2020-04-21,Rosenblatt,Neutral,,main,INFN
+2020-05-13,B. Riley FBR,Buy,,main,INFN
+2020-05-13,Jefferies,Underperform,,main,INFN
+2020-05-13,Northland Capital Markets,Market Perform,Outperform,down,INFN
+2020-06-19,MKM Partners,Buy,,main,INFN
+2020-07-24,Wolfe Research,Underperform,,init,INFN
+2020-08-06,Morgan Stanley,Equal-Weight,,main,INFN
+2020-08-06,Citigroup,Sell,,main,INFN
+2020-08-06,Rosenblatt,Buy,Neutral,up,INFN
+2020-08-06,Needham,Strong Buy,,main,INFN
+2020-08-17,Stifel,Buy,Hold,up,INFN
+2021-02-10,Rosenblatt,Buy,,main,INFN
+2021-05-05,Northland Capital Markets,Market Perform,,main,INFN
+2021-05-13,Wolfe Research,Peer Perform,Underperform,up,INFN
+2021-09-24,MKM Partners,Neutral,Buy,down,INFN
+2021-10-18,JP Morgan,Underweight,Neutral,down,INFN

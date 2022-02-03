@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-16,Stifel Nicolaus,Buy,,main,HZNP
+2013-10-21,PiperJaffray,Overweight,Neutral,up,HZNP
+2013-11-19,Cowen & Co.,Outperform,,main,HZNP
+2014-03-05,PiperJaffray,Overweight,,main,HZNP
+2014-05-30,Guggenheim,Buy,,init,HZNP
+2014-07-29,PiperJaffray,Neutral,Overweight,down,HZNP
+2015-01-13,JMP Securities,Market Outperform,,main,HZNP
+2015-02-10,JMP Securities,Market Outperform,,main,HZNP
+2015-03-02,Citigroup,Buy,,main,HZNP
+2015-03-02,Stifel Nicolaus,Buy,,main,HZNP
+2015-03-31,JMP Securities,Market Outperform,,main,HZNP
+2015-03-31,PiperJaffray,Overweight,Neutral,up,HZNP
+2015-04-17,Stifel Nicolaus,Buy,,main,HZNP
+2015-05-15,Jefferies,Buy,,init,HZNP
+2015-05-22,Leerink Swann,Outperform,,init,HZNP
+2015-06-10,Morgan Stanley,Overweight,,init,HZNP
+2015-07-21,PiperJaffray,Overweight,,main,HZNP
+2015-09-22,Brean Capital,Hold,Buy,down,HZNP
+2015-10-09,Mizuho,Buy,,init,HZNP
+2015-12-17,Goldman Sachs,Buy,,init,HZNP
+2016-01-19,Jefferies,Buy,,init,HZNP
+2016-04-25,Citigroup,Neutral,,main,HZNP
+2016-06-06,Goldman Sachs,Buy,,init,HZNP
+2016-06-29,BMO Capital,Outperform,,init,HZNP
+2016-07-11,Morgan Stanley,Equal-Weight,Underweight,up,HZNP
+2016-08-09,Citigroup,Neutral,,main,HZNP
+2016-09-16,Cowen & Co.,Market Perform,Outperform,down,HZNP
+2016-12-09,Mizuho,Neutral,Buy,down,HZNP
+2016-12-16,Mizuho,Buy,Neutral,up,HZNP
+2017-05-09,Mizuho,Neutral,Buy,down,HZNP
+2017-06-16,Cantor Fitzgerald,Overweight,,init,HZNP
+2017-09-28,Goldman Sachs,Buy,,init,HZNP
+2017-11-07,Jefferies,Buy,,main,HZNP
+2018-01-12,Mizuho,Buy,Neutral,up,HZNP
+2018-03-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,HZNP
+2018-06-18,Stifel Nicolaus,Buy,Buy,main,HZNP
+2018-06-27,Citigroup,Neutral,Buy,down,HZNP
+2018-08-06,BMO Capital,Market Perform,Outperform,down,HZNP
+2018-08-09,BMO Capital,Market Perform,Market Perform,main,HZNP
+2018-08-09,Jefferies,Buy,Buy,main,HZNP
+2018-08-17,Morgan Stanley,Equal-Weight,Equal-Weight,main,HZNP
+2018-11-15,Mizuho,Neutral,Buy,down,HZNP
+2019-03-08,Morgan Stanley,Overweight,Equal-Weight,up,HZNP
+2019-04-03,Cantor Fitzgerald,Overweight,Overweight,main,HZNP
+2019-05-01,Citigroup,Buy,Neutral,up,HZNP
+2019-05-01,Citigroup,Buy,Neutral,up,HZNP
+2019-08-14,BMO Capital,Outperform,Market Perform,up,HZNP
+2019-09-12,Guggenheim,Buy,,init,HZNP
+2019-09-26,Bank of America,Buy,,init,HZNP
+2019-12-16,Stifel Nicolaus,Buy,,main,HZNP
+2019-12-16,Morgan Stanley,Overweight,,main,HZNP
+2019-12-16,BMO Capital,Outperform,,main,HZNP
+2019-12-16,Stifel,Buy,,main,HZNP
+2020-01-08,Goldman Sachs,Neutral,,init,HZNP
+2020-01-22,BMO Capital,Outperform,,main,HZNP
+2020-03-23,B of A Securities,Buy,,main,HZNP
+2020-04-02,Morgan Stanley,Overweight,,main,HZNP
+2020-04-14,Piper Sandler,Overweight,,main,HZNP
+2020-04-28,Jefferies,Buy,,main,HZNP
+2020-05-08,Morgan Stanley,Overweight,,main,HZNP
+2020-05-26,B of A Securities,Buy,,reit,HZNP
+2020-07-31,Morgan Stanley,Overweight,,main,HZNP
+2020-08-06,BMO Capital,Outperform,,main,HZNP
+2020-08-10,Morgan Stanley,Overweight,,main,HZNP
+2020-08-17,B of A Securities,Buy,,main,HZNP
+2020-08-27,Citigroup,Buy,,init,HZNP
+2020-09-09,JP Morgan,Overweight,,init,HZNP
+2021-02-17,Jefferies,Buy,,main,HZNP
+2021-03-12,Wolfe Research,Outperform,,init,HZNP
+2021-03-17,Stifel,Buy,,main,HZNP
+2021-03-18,Citigroup,Buy,,main,HZNP
+2021-08-05,BMO Capital,Outperform,,main,HZNP
+2021-08-05,Citigroup,Buy,,main,HZNP
+2021-08-24,Goldman Sachs,Neutral,,main,HZNP
+2021-08-26,Morgan Stanley,Overweight,,main,HZNP
+2021-11-19,Goldman Sachs,Buy,Neutral,up,HZNP
+2021-12-08,Wells Fargo,Overweight,,init,HZNP

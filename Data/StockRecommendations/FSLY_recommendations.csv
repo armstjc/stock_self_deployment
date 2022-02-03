@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-06-11,DA Davidson,Buy,,init,FSLY
+2019-06-11,Baird,Outperform,,init,FSLY
+2019-06-11,Stifel Nicolaus,Buy,,init,FSLY
+2019-06-12,Raymond James,Market Perform,,init,FSLY
+2019-06-12,Citigroup,Neutral,,init,FSLY
+2019-06-21,Craig-Hallum,Buy,,init,FSLY
+2019-08-14,Piper Jaffray,Overweight,,init,FSLY
+2019-10-18,Citigroup,Neutral,,main,FSLY
+2020-01-02,PiperJaffray,Overweight,Neutral,up,FSLY
+2020-05-07,B of A Securities,Buy,,reit,FSLY
+2020-05-07,Baird,Outperform,,main,FSLY
+2020-05-07,Oppenheimer,Outperform,,main,FSLY
+2020-05-08,Citigroup,Neutral,,main,FSLY
+2020-07-06,Piper Sandler,Neutral,Overweight,down,FSLY
+2020-07-09,Citigroup,Sell,Neutral,down,FSLY
+2020-07-10,B of A Securities,Underperform,Buy,down,FSLY
+2020-07-10,Craig-Hallum,Hold,Buy,down,FSLY
+2020-08-06,Credit Suisse,Outperform,,main,FSLY
+2020-08-06,Stifel,Buy,,main,FSLY
+2020-08-06,Piper Sandler,Neutral,,main,FSLY
+2020-08-24,Raymond James,Outperform,Market Perform,up,FSLY
+2020-08-28,Credit Suisse,Outperform,,main,FSLY
+2020-10-15,Stifel,Hold,Buy,down,FSLY
+2020-10-15,Baird,Neutral,Outperform,down,FSLY
+2020-10-15,Credit Suisse,Outperform,,main,FSLY
+2020-10-23,Piper Sandler,Underweight,Neutral,down,FSLY
+2020-10-29,B of A Securities,Underperform,,main,FSLY
+2020-11-25,Credit Suisse,Neutral,Outperform,down,FSLY
+2021-01-21,Oppenheimer,Outperform,Perform,up,FSLY
+2021-02-18,Raymond James,Outperform,,main,FSLY
+2021-03-08,Piper Sandler,Neutral,Underweight,up,FSLY
+2021-04-28,Raymond James,Market Perform,Outperform,down,FSLY
+2021-06-10,Oppenheimer,Perform,Outperform,down,FSLY
+2021-06-11,RBC Capital,Sector Perform,,init,FSLY
+2021-08-05,William Blair,Market Perform,Outperform,down,FSLY
+2021-08-05,DA Davidson,Neutral,Buy,down,FSLY
+2021-11-04,RBC Capital,Sector Perform,,main,FSLY
+2021-12-03,Raymond James,Outperform,Market Perform,up,FSLY
+2022-01-03,Morgan Stanley,Equal-Weight,,init,FSLY
+2022-01-19,Keybanc,Sector Weight,,init,FSLY

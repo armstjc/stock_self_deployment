@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TFII220218P00100000,2021-12-20 20:34:33+00:00,100.0,4.6,2.8,3.6,0.0,0.0,,3,0.43457596679687505,False,REGULAR,USD,TFII
+TFII220218P00105000,2022-01-05 20:17:42+00:00,105.0,4.9,4.8,5.8,1.5,44.117645,51.0,4,0.3064034204101562,True,REGULAR,USD,TFII

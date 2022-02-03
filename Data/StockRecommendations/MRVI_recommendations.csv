@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-12-14,UBS,Buy,,init,MRVI
+2020-12-15,Baird,Outperform,,init,MRVI
+2020-12-15,Stifel,Buy,,init,MRVI
+2020-12-15,William Blair,Outperform,,init,MRVI
+2020-12-15,Credit Suisse,Outperform,,init,MRVI
+2020-12-15,Morgan Stanley,Overweight,,init,MRVI
+2020-12-15,Goldman Sachs,Buy,,init,MRVI
+2020-12-16,KeyBanc,Overweight,,init,MRVI
+2021-02-10,KeyBanc,Overweight,,main,MRVI
+2021-03-01,Credit Suisse,Outperform,,main,MRVI
+2021-03-03,KeyBanc,Overweight,,main,MRVI
+2021-03-03,Credit Suisse,Outperform,,main,MRVI
+2021-03-04,Morgan Stanley,Overweight,,main,MRVI
+2021-05-11,Credit Suisse,Outperform,,main,MRVI
+2021-08-11,Keybanc,Overweight,,main,MRVI
+2021-08-11,Credit Suisse,Outperform,,main,MRVI
+2021-08-12,Morgan Stanley,Overweight,,main,MRVI

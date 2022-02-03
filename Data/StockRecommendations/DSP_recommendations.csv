@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-08,Needham,Buy,,init,DSP
+2021-03-08,Raymond James,Market Perform,,init,DSP
+2021-03-08,JMP Securities,Market Perform,,init,DSP
+2021-03-08,B of A Securities,Neutral,,init,DSP
+2021-03-08,Canaccord Genuity,Buy,,init,DSP
+2021-03-23,Needham,Buy,,main,DSP
+2021-03-23,Canaccord Genuity,Buy,,main,DSP
+2021-05-14,Canaccord Genuity,Buy,,main,DSP
+2021-07-30,B of A Securities,Buy,Neutral,up,DSP
+2021-09-22,Berenberg,Buy,,init,DSP
+2021-09-27,JMP Securities,Market Outperform,Market Perform,up,DSP

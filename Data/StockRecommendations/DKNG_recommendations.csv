@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-05-14,Craig-Hallum,Buy,,main,DKNG
+2020-05-14,Susquehanna,Positive,,init,DKNG
+2020-05-15,Canaccord Genuity,Buy,,main,DKNG
+2020-05-18,Morgan Stanley,Overweight,,main,DKNG
+2020-05-18,Craig-Hallum,Buy,,reit,DKNG
+2020-05-19,Goldman Sachs,Neutral,,init,DKNG
+2020-06-11,Oppenheimer,Outperform,,init,DKNG
+2020-06-22,Jefferies,Buy,,init,DKNG
+2020-06-26,Rosenblatt,Buy,,init,DKNG
+2020-07-01,Stephens & Co.,Overweight,,init,DKNG
+2020-07-31,Benchmark,Buy,,init,DKNG
+2020-08-14,Morgan Stanley,Overweight,,main,DKNG
+2020-08-28,Morgan Stanley,Equal-Weight,Overweight,down,DKNG
+2020-09-02,Truist Securities,Hold,,init,DKNG
+2020-09-08,Bank of America,Neutral,,init,DKNG
+2020-09-09,Evercore ISI Group,Outperform,,init,DKNG
+2020-09-14,Wolfe Research,Peer Perform,,init,DKNG
+2020-09-24,Macquarie,Outperform,,init,DKNG
+2020-09-25,Argus Research,Buy,,init,DKNG
+2020-10-01,Needham,Buy,,init,DKNG
+2020-10-08,Cowen & Co.,Market Perform,,init,DKNG
+2020-10-12,Credit Suisse,Outperform,,init,DKNG
+2020-10-12,Deutsche Bank,Hold,,init,DKNG
+2020-10-12,Oppenheimer,Outperform,,main,DKNG
+2020-10-13,Rosenblatt,Buy,,main,DKNG
+2020-11-16,Morgan Stanley,Equal-Weight,,main,DKNG
+2020-11-17,Loop Capital,Buy,,init,DKNG
+2020-11-20,Piper Sandler,Overweight,,init,DKNG
+2020-11-24,UBS,Neutral,,init,DKNG
+2020-12-07,JP Morgan,Neutral,,init,DKNG
+2021-01-19,Berenberg,Sell,,init,DKNG
+2021-01-20,Morgan Stanley,Overweight,Equal-Weight,up,DKNG
+2021-01-26,Goldman Sachs,Buy,Neutral,up,DKNG
+2021-01-27,Bernstein,Outperform,,init,DKNG
+2021-02-01,Benchmark,Buy,,main,DKNG
+2021-02-19,Oppenheimer,Outperform,,main,DKNG
+2021-03-01,Rosenblatt,Buy,,main,DKNG
+2021-03-01,Morgan Stanley,Overweight,,main,DKNG
+2021-03-01,Canaccord Genuity,Buy,,main,DKNG
+2021-03-10,Rosenblatt,Buy,,main,DKNG
+2021-03-10,Credit Suisse,Outperform,,main,DKNG
+2021-03-10,Jefferies,Buy,,reit,DKNG
+2021-03-10,Benchmark,Buy,,main,DKNG
+2021-03-10,Macquarie,Outperform,,main,DKNG
+2021-03-23,Goldman Sachs,Buy,,main,DKNG
+2021-04-27,Needham,Buy,,init,DKNG
+2021-04-30,Guggenheim,Buy,,init,DKNG
+2021-05-03,Cowen & Co.,Outperform,Market Perform,up,DKNG
+2021-05-10,Needham,Buy,,main,DKNG
+2021-05-10,Morgan Stanley,Overweight,,main,DKNG
+2021-05-12,Berenberg,Hold,Sell,up,DKNG
+2021-06-02,Morgan Stanley,Overweight,,main,DKNG
+2021-07-29,Morgan Stanley,Overweight,,main,DKNG
+2021-09-15,Wells Fargo,Overweight,,init,DKNG
+2021-10-11,Citigroup,Buy,,init,DKNG
+2021-10-12,Roth Capital,Sell,,init,DKNG
+2021-10-27,BTIG,Neutral,,init,DKNG
+2021-11-08,Oppenheimer,Outperform,,main,DKNG
+2021-12-07,CBRE,Hold,,init,DKNG
+2021-12-13,MoffettNathanson,Neutral,,init,DKNG
+2021-12-17,Wells Fargo,Overweight,,main,DKNG

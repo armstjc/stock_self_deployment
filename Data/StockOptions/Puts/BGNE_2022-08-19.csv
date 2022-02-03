@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BGNE220819P00200000,2021-12-16 19:34:34+00:00,200.0,17.6,23.6,28.5,0.0,0.0,,1,0.7012969323730469,False,REGULAR,USD,BGNE
+BGNE220819P00270000,2021-12-16 15:10:07+00:00,270.0,44.0,64.5,69.5,0.0,0.0,,1,0.7209195388793946,True,REGULAR,USD,BGNE

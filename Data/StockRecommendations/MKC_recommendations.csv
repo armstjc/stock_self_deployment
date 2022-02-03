@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-28,Jefferies,Buy,,main,MKC
+2012-05-14,Deutsche Bank,Buy,,main,MKC
+2012-05-14,Deutsche Bank,Buy,,main,MKC
+2012-06-28,Jefferies,Buy,,main,MKC
+2012-06-28,Deutsche Bank,Buy,,main,MKC
+2012-08-03,Janney Capital,Neutral,Buy,down,MKC
+2012-09-04,JP Morgan,Neutral,,main,MKC
+2012-09-24,Deutsche Bank,Buy,,main,MKC
+2012-09-28,Jefferies,Buy,,main,MKC
+2012-10-04,Wellington Shields,Buy,,init,MKC
+2013-01-07,Deutsche Bank,Buy,,main,MKC
+2013-01-10,Davenport,Neutral,Buy,down,MKC
+2013-04-01,Northcoast Research,Neutral,Buy,down,MKC
+2013-04-03,JP Morgan,Neutral,,main,MKC
+2013-04-03,Deutsche Bank,Buy,,main,MKC
+2013-04-12,Jefferies,Buy,,main,MKC
+2013-04-22,KeyBanc,Hold,Buy,down,MKC
+2013-05-17,Citigroup,Neutral,,init,MKC
+2013-09-18,Deutsche Bank,Buy,,main,MKC
+2013-09-27,Wellington Shields,Buy,,main,MKC
+2014-01-16,Jefferies,Hold,Buy,down,MKC
+2014-01-29,S&P Capital IQ,Sell,Hold,down,MKC
+2014-01-30,Deutsche Bank,Hold,Buy,down,MKC
+2014-03-26,Citigroup,Neutral,,main,MKC
+2014-03-26,Credit Suisse,Neutral,,main,MKC
+2014-06-02,Deutsche Bank,Hold,,main,MKC
+2014-09-29,Deutsche Bank,Hold,,main,MKC
+2014-10-03,Citigroup,Neutral,,main,MKC
+2014-11-04,Bernstein,Outperform,Market Perform,up,MKC
+2015-01-12,Citigroup,Sell,Neutral,down,MKC
+2015-01-22,Deutsche Bank,Hold,,main,MKC
+2015-03-12,Bernstein,Market Perform,Outperform,down,MKC
+2015-03-20,Citigroup,Sell,,main,MKC
+2015-03-25,Credit Suisse,Neutral,,main,MKC
+2015-03-25,JP Morgan,Neutral,,main,MKC
+2015-06-01,Deutsche Bank,Hold,,main,MKC
+2015-06-24,Bernstein,Outperform,Market Perform,up,MKC
+2015-10-02,Citigroup,Sell,,main,MKC
+2015-12-15,Jefferies,Hold,,init,MKC
+2016-01-07,Deutsche Bank,Buy,Hold,up,MKC
+2016-01-19,JP Morgan,Underweight,Neutral,down,MKC
+2016-01-29,Credit Suisse,Neutral,,main,MKC
+2016-02-18,BB&T Capital,Hold,Buy,down,MKC
+2016-02-24,UBS,Neutral,,init,MKC
+2016-03-30,Bernstein,Outperform,,main,MKC
+2016-03-30,Citigroup,Sell,,main,MKC
+2016-06-23,Citigroup,Neutral,Sell,up,MKC
+2016-09-23,Deutsche Bank,Buy,,main,MKC
+2016-10-12,Jefferies,Hold,,main,MKC
+2016-10-25,Credit Suisse,Outperform,Neutral,up,MKC
+2016-11-30,Jefferies,Hold,,main,MKC
+2016-12-06,Bank of America,Buy,,init,MKC
+2017-02-15,Deutsche Bank,Hold,,init,MKC
+2017-04-05,JP Morgan,Neutral,Underweight,up,MKC
+2017-06-16,Goldman Sachs,Neutral,,init,MKC
+2017-07-28,Jefferies,Buy,Hold,up,MKC
+2017-09-18,Credit Suisse,Outperform,,main,MKC
+2017-09-29,Credit Suisse,Outperform,,main,MKC
+2017-10-02,Citigroup,Neutral,,main,MKC
+2017-10-30,Jefferies,Buy,,main,MKC
+2018-01-19,Deutsche Bank,Sell,Hold,down,MKC
+2018-01-26,UBS,Neutral,Neutral,main,MKC
+2018-01-26,Stifel Nicolaus,Hold,Hold,main,MKC
+2018-03-28,UBS,Neutral,Neutral,main,MKC
+2018-03-28,Credit Suisse,Outperform,Outperform,main,MKC
+2018-03-28,Citigroup,Neutral,Neutral,main,MKC
+2018-06-29,Vertical Group,Hold,Buy,down,MKC
+2018-06-29,Citigroup,Neutral,Neutral,main,MKC
+2018-06-29,Credit Suisse,Outperform,Outperform,main,MKC
+2018-09-28,Stifel Nicolaus,Hold,Hold,main,MKC
+2018-09-28,Credit Suisse,Outperform,Outperform,main,MKC
+2018-11-09,Credit Suisse,Neutral,Outperform,down,MKC
+2019-06-28,JP Morgan,Neutral,,main,MKC
+2019-06-28,Citigroup,Neutral,,main,MKC
+2019-08-20,JP Morgan,Underweight,Neutral,down,MKC
+2019-10-02,Credit Suisse,Neutral,,main,MKC
+2019-12-10,Goldman Sachs,Sell,Neutral,down,MKC
+2020-01-23,Jefferies,Underperform,,init,MKC
+2020-01-29,Credit Suisse,Neutral,,main,MKC
+2020-03-19,B of A Securities,Underperform,Neutral,down,MKC
+2020-03-25,Deutsche Bank,Hold,,main,MKC
+2020-03-27,JP Morgan,Underweight,,main,MKC
+2020-03-31,CFRA,Hold,,main,MKC
+2020-04-01,Stifel,Hold,,main,MKC
+2020-04-02,Credit Suisse,Neutral,,main,MKC
+2020-04-17,JP Morgan,Underweight,,main,MKC
+2020-05-14,Credit Suisse,Outperform,Neutral,up,MKC
+2020-06-01,Deutsche Bank,Hold,,main,MKC
+2020-06-22,Jefferies,Hold,Underperform,up,MKC
+2021-03-17,Argus Research,Hold,Buy,down,MKC
+2021-09-13,Credit Suisse,Outperform,,main,MKC
+2021-09-17,Deutsche Bank,Hold,,main,MKC
+2021-10-01,Credit Suisse,Outperform,,main,MKC
+2021-10-01,Deutsche Bank,Hold,,main,MKC

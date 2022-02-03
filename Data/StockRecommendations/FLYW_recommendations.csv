@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-21,Goldman Sachs,Buy,,init,FLYW
+2021-06-21,JP Morgan,Overweight,,init,FLYW
+2021-06-21,RBC Capital,Outperform,,init,FLYW
+2021-06-21,Wolfe Research,Outperform,,init,FLYW
+2021-06-21,Guggenheim,Buy,,init,FLYW
+2021-06-21,Citigroup,Buy,,init,FLYW
+2021-06-21,William Blair,Outperform,,init,FLYW
+2021-06-21,Raymond James,Outperform,,init,FLYW
+2021-06-21,B of A Securities,Buy,,init,FLYW
+2021-08-11,Raymond James,Outperform,,main,FLYW
+2021-11-10,RBC Capital,Outperform,,main,FLYW
+2021-11-10,Raymond James,Outperform,,main,FLYW
+2021-12-10,Goldman Sachs,Neutral,,init,FLYW
+2022-01-11,Raymond James,Outperform,,main,FLYW

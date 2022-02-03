@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-07,UBS,Neutral,,init,KFY
+2013-02-15,SunTrust Robinson Humphrey,Buy,Neutral,up,KFY
+2013-09-06,Baird,Outperform,Neutral,up,KFY
+2015-06-12,PiperJaffray,Neutral,,main,KFY
+2016-03-01,William Blair,Market Perform,Outperform,down,KFY
+2016-06-16,Baird,Neutral,,down,KFY
+2016-08-18,Deutsche Bank,Hold,,init,KFY
+2016-09-09,Baird,Neutral,,main,KFY
+2017-04-10,William Blair,Outperform,Market Perform,up,KFY
+2017-09-07,Deutsche Bank,Hold,,main,KFY
+2018-03-27,Goldman Sachs,Buy,,init,KFY
+2018-08-10,Credit Suisse,Underperform,,init,KFY
+2018-12-07,Credit Suisse,Underperform,Underperform,main,KFY
+2019-09-06,Sidoti & Co.,Buy,,main,KFY
+2019-09-06,Credit Suisse,Underperform,,main,KFY
+2019-12-06,Baird,Neutral,,main,KFY
+2019-12-06,Sidoti & Co.,Buy,,main,KFY
+2020-03-06,Sidoti & Co.,Buy,,main,KFY
+2020-03-11,Credit Suisse,Underperform,,main,KFY
+2020-03-11,SunTrust Robinson Humphrey,Buy,,main,KFY
+2020-04-03,SunTrust Robinson Humphrey,Buy,,main,KFY
+2020-05-18,Sidoti & Co.,Buy,,main,KFY
+2020-05-21,Credit Suisse,Neutral,Underperform,up,KFY
+2020-11-25,Baird,Outperform,Neutral,up,KFY
+2021-06-02,Truist Securities,Buy,,main,KFY
+2021-06-23,Baird,Outperform,,main,KFY
+2021-06-23,Credit Suisse,Neutral,,main,KFY

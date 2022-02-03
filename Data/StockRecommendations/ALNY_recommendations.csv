@@ -1,0 +1,163 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-08,JP Morgan,Overweight,,init,ALNY
+2012-07-16,McNicoll Lewis Vlak,Buy,,main,ALNY
+2012-07-16,PiperJaffray,Overweight,,main,ALNY
+2012-08-07,S&P Capital IQ,Buy,Hold,up,ALNY
+2012-09-19,PiperJaffray,Neutral,Overweight,down,ALNY
+2012-11-13,PiperJaffray,Neutral,,main,ALNY
+2012-12-12,PiperJaffray,Overweight,Neutral,up,ALNY
+2013-01-28,PiperJaffray,Overweight,,main,ALNY
+2013-02-08,JMP Securities,Market Outperform,,init,ALNY
+2013-02-09,McNicoll Lewis Vlak,Hold,Buy,down,ALNY
+2013-05-24,Deutsche Bank,Buy,,init,ALNY
+2013-06-11,Morgan Stanley,Overweight,,init,ALNY
+2013-06-12,Morgan Stanley,Overweight,,init,ALNY
+2013-07-12,PiperJaffray,Overweight,,main,ALNY
+2013-07-12,JP Morgan,Overweight,,main,ALNY
+2013-09-23,Leerink Swann,Outperform,,main,ALNY
+2013-09-24,Deutsche Bank,Buy,,main,ALNY
+2013-11-12,Morgan Stanley,Overweight,,main,ALNY
+2014-01-13,S&P Capital IQ,Hold,,down,ALNY
+2014-01-14,Morgan Stanley,Equal-weight,Overweight,down,ALNY
+2014-01-27,S&P Capital IQ,Buy,Hold,up,ALNY
+2014-12-24,JP Morgan,Overweight,,main,ALNY
+2015-01-08,Deutsche Bank,,,main,ALNY
+2015-02-27,Cowen & Co.,Outperform,,init,ALNY
+2015-03-04,Barclays,Overweight,,init,ALNY
+2015-03-17,Janney Capital,,,init,ALNY
+2015-06-15,PiperJaffray,Outperform,,main,ALNY
+2015-08-07,JP Morgan,Neutral,,main,ALNY
+2015-08-07,JP Morgan,Neutral,Overweight,down,ALNY
+2015-08-11,FBR Capital,Outperform,,init,ALNY
+2015-08-31,Leerink Swann,Outperform,,main,ALNY
+2015-10-23,Jefferies,Buy,,init,ALNY
+2015-11-10,Leerink Swann,Outperform,,main,ALNY
+2016-01-20,Credit Suisse,Outperform,,init,ALNY
+2016-02-16,Leerink Swann,Outperform,,main,ALNY
+2016-03-09,JMP Securities,Market Outperform,,main,ALNY
+2016-03-11,JP Morgan,Overweight,Neutral,up,ALNY
+2016-04-04,Chardan Capital,Buy,,init,ALNY
+2016-05-03,Leerink Swann,Outperform,,main,ALNY
+2016-08-02,Morgan Stanley,Overweight,,init,ALNY
+2016-08-05,Jefferies,Buy,,main,ALNY
+2016-08-05,JP Morgan,Overweight,,main,ALNY
+2016-09-29,Janney Capital,Neutral,,init,ALNY
+2016-10-06,Goldman Sachs,Neutral,,main,ALNY
+2016-10-06,Barclays,Equal-weight,Overweight,down,ALNY
+2016-10-06,Leerink Swann,Market Perform,Outperform,down,ALNY
+2016-10-06,Stifel Nicolaus,Hold,,main,ALNY
+2016-10-06,Jefferies,Buy,,main,ALNY
+2016-10-06,Credit Suisse,Outperform,,main,ALNY
+2016-10-07,Morgan Stanley,Equal-weight,Overweight,down,ALNY
+2017-02-02,Ladenburg Thalmann,Buy,,init,ALNY
+2017-03-30,UBS,Neutral,,init,ALNY
+2017-04-17,BMO Capital,Outperform,,init,ALNY
+2017-07-10,Morgan Stanley,Equal-Weight,,main,ALNY
+2017-07-27,Bernstein,Outperform,,init,ALNY
+2017-08-10,Morgan Stanley,Equal-Weight,,main,ALNY
+2017-08-10,Barclays,Equal-Weight,,main,ALNY
+2017-09-08,BMO Capital,Outperform,,main,ALNY
+2017-09-15,Nomura,Reduce,,init,ALNY
+2017-09-21,Leerink Swann,Market Perform,,main,ALNY
+2017-09-21,Credit Suisse,Outperform,,main,ALNY
+2017-09-21,Morgan Stanley,Equal-Weight,,main,ALNY
+2017-09-21,Needham,Buy,,main,ALNY
+2017-09-21,Barclays,Overweight,,main,ALNY
+2017-09-22,BMO Capital,Outperform,,main,ALNY
+2017-10-02,Goldman Sachs,Buy,Neutral,up,ALNY
+2017-10-30,FBR Capital,Buy,,init,ALNY
+2017-11-02,FBR Capital,Buy,Buy,main,ALNY
+2017-11-03,Credit Suisse,Outperform,,main,ALNY
+2017-11-08,Barclays,Overweight,,main,ALNY
+2017-11-08,B. Riley FBR,Buy,,main,ALNY
+2017-11-09,JP Morgan,Overweight,Neutral,up,ALNY
+2017-11-09,Morgan Stanley,Equal-Weight,,main,ALNY
+2018-01-25,Leerink Swann,Market Perform,Market Perform,main,ALNY
+2018-02-09,BMO Capital,Outperform,Outperform,main,ALNY
+2018-02-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALNY
+2018-03-13,Credit Suisse,Outperform,Outperform,main,ALNY
+2018-03-28,Evercore ISI Group,In-Line,,init,ALNY
+2018-05-04,BMO Capital,Outperform,Outperform,main,ALNY
+2018-05-04,Stifel Nicolaus,Hold,Hold,main,ALNY
+2018-05-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALNY
+2018-08-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALNY
+2018-08-07,Stifel Nicolaus,Buy,Hold,up,ALNY
+2018-08-13,Stifel Nicolaus,Buy,Buy,main,ALNY
+2018-08-13,Cowen & Co.,Outperform,Outperform,main,ALNY
+2018-08-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALNY
+2018-08-13,BMO Capital,Outperform,Outperform,main,ALNY
+2018-08-13,B. Riley FBR,Buy,Buy,main,ALNY
+2018-08-13,Nomura,Reduce,Reduce,main,ALNY
+2018-09-13,Stifel Nicolaus,Buy,Buy,main,ALNY
+2018-09-28,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALNY
+2018-10-01,Cantor Fitzgerald,Overweight,,init,ALNY
+2018-10-16,BMO Capital,Outperform,Outperform,main,ALNY
+2018-11-28,Leerink Swann,Market Perform,,init,ALNY
+2018-12-18,Guggenheim,Buy,,init,ALNY
+2019-01-23,UBS,Neutral,,init,ALNY
+2019-03-05,Morgan Stanley,Overweight,Equal-Weight,up,ALNY
+2019-04-09,SVB Leerink,Market Perform,Market Perform,main,ALNY
+2019-04-09,BMO Capital,Outperform,Outperform,main,ALNY
+2019-04-12,Evercore ISI Group,Outperform,,init,ALNY
+2019-04-15,BMO Capital,Outperform,Outperform,main,ALNY
+2019-04-15,Stifel Nicolaus,Buy,Buy,main,ALNY
+2019-04-15,Cantor Fitzgerald,Overweight,Overweight,main,ALNY
+2019-05-02,BMO Capital,Outperform,Outperform,main,ALNY
+2019-08-07,Morgan Stanley,Overweight,,main,ALNY
+2019-09-03,Piper Jaffray,Overweight,,main,ALNY
+2019-09-04,UBS,Neutral,,main,ALNY
+2019-11-13,Bank of America,Buy,,init,ALNY
+2019-11-20,Oppenheimer,Outperform,,init,ALNY
+2019-11-21,BMO Capital,Outperform,,main,ALNY
+2019-11-21,Morgan Stanley,Overweight,,main,ALNY
+2019-11-21,Cantor Fitzgerald,Overweight,,main,ALNY
+2019-11-21,Barclays,Overweight,,main,ALNY
+2019-11-25,BMO Capital,Outperform,,main,ALNY
+2019-12-17,Morgan Stanley,Overweight,,main,ALNY
+2019-12-18,Cantor Fitzgerald,Overweight,,reit,ALNY
+2019-12-19,Chardan Capital,Buy,,main,ALNY
+2020-02-07,Morgan Stanley,Overweight,,main,ALNY
+2020-02-11,Nomura,Reduce,,main,ALNY
+2020-03-19,Berenberg,Buy,,init,ALNY
+2020-04-14,Nomura,Reduce,,main,ALNY
+2020-05-06,Needham,Buy,,main,ALNY
+2020-05-07,JP Morgan,Neutral,Overweight,down,ALNY
+2020-05-07,Morgan Stanley,Overweight,,main,ALNY
+2020-05-07,BMO Capital,Outperform,,main,ALNY
+2020-05-07,Barclays,Overweight,,main,ALNY
+2020-05-07,Oppenheimer,Outperform,,main,ALNY
+2020-05-13,RBC Capital,Sector Perform,,init,ALNY
+2020-05-28,UBS,Neutral,,main,ALNY
+2020-08-07,Morgan Stanley,Overweight,,main,ALNY
+2020-08-07,SVB Leerink,Market Perform,,main,ALNY
+2020-08-11,Oppenheimer,Perform,Outperform,down,ALNY
+2020-09-08,Citigroup,Buy,,init,ALNY
+2020-10-15,B of A Securities,Buy,,main,ALNY
+2020-11-06,Morgan Stanley,Overweight,,main,ALNY
+2020-11-24,SVB Leerink,Market Perform,,main,ALNY
+2020-11-25,SVB Leerink,Market Perform,,main,ALNY
+2020-11-25,Morgan Stanley,Overweight,,main,ALNY
+2021-01-25,BMO Capital,Market Perform,Outperform,down,ALNY
+2021-02-12,Barclays,Overweight,,main,ALNY
+2021-02-12,Citigroup,Neutral,Buy,down,ALNY
+2021-02-12,Morgan Stanley,Overweight,,main,ALNY
+2021-02-12,HC Wainwright & Co.,Buy,,main,ALNY
+2021-02-12,Needham,Buy,,main,ALNY
+2021-02-22,Guggenheim,Neutral,Buy,down,ALNY
+2021-04-30,Morgan Stanley,Overweight,,main,ALNY
+2021-07-16,Morgan Stanley,Overweight,,main,ALNY
+2021-08-04,Morgan Stanley,Overweight,,main,ALNY
+2021-08-04,Barclays,Overweight,,main,ALNY
+2021-08-04,Piper Sandler,Neutral,Overweight,down,ALNY
+2021-08-13,HC Wainwright & Co.,Buy,,main,ALNY
+2021-08-27,BMO Capital,Market Perform,,main,ALNY
+2021-10-04,UBS,Buy,Neutral,up,ALNY
+2021-10-12,Morgan Stanley,Overweight,,main,ALNY
+2021-10-28,SVB Leerink,Market Perform,,main,ALNY
+2021-10-29,Chardan Capital,Buy,,main,ALNY
+2021-10-29,Morgan Stanley,Overweight,,main,ALNY
+2021-11-01,Oppenheimer,Outperform,Perform,up,ALNY
+2021-11-22,Goldman Sachs,Buy,Neutral,up,ALNY
+2021-11-22,Needham,Buy,,main,ALNY
+2021-11-22,RBC Capital,Outperform,Sector Perform,up,ALNY
+2022-01-03,Piper Sandler,Overweight,Neutral,up,ALNY

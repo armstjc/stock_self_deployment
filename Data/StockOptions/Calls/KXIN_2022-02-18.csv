@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KXIN220218C00002500,2022-01-05 20:53:42+00:00,2.5,0.1,0.1,0.15,0.05,100.0,2,168,4.2187547265625,False,REGULAR,USD,KXIN
+KXIN220218C00005000,2022-01-03 14:30:00+00:00,5.0,0.05,0.0,0.25,0.0,0.0,1,27,5.8437526953125,False,REGULAR,USD,KXIN

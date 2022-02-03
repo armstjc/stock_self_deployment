@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-19,Macquarie,Outperform,,init,BALY
+2021-01-14,KeyBanc,Overweight,,init,BALY
+2021-03-05,Stifel,Buy,Hold,up,BALY
+2021-04-08,Keybanc,Overweight,,main,BALY
+2021-04-21,Jefferies,Buy,,init,BALY
+2021-06-28,Stifel,Buy,,main,BALY
+2021-09-15,Wells Fargo,Equal-Weight,,init,BALY
+2021-10-26,Cowen & Co.,Outperform,Market Perform,up,BALY
+2021-10-27,Goldman Sachs,Neutral,,init,BALY
+2021-11-09,Keybanc,Overweight,,main,BALY

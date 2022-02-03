@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GMTX220218P00002500,2022-01-21 20:37:03+00:00,2.5,0.65,0.0,2.3,0.0,0.0,1.0,69,4.3828170214843745,True,REGULAR,USD,GMTX
+GMTX220218P00005000,2021-12-30 16:22:55+00:00,5.0,2.04,1.25,5.3,0.0,0.0,,1,3.56250109375,True,REGULAR,USD,GMTX

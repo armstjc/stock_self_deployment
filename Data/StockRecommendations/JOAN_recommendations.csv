@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-04-06,Piper Sandler,Overweight,,init,JOAN
+2021-04-06,Credit Suisse,Outperform,,init,JOAN
+2021-04-06,Guggenheim,Buy,,init,JOAN
+2021-04-06,Barclays,Overweight,,init,JOAN
+2021-04-06,B of A Securities,Buy,,init,JOAN
+2021-04-06,Telsey Advisory Group,Outperform,,init,JOAN
+2021-04-06,Wells Fargo,Overweight,,init,JOAN
+2021-04-07,William Blair,Outperform,,init,JOAN
+2021-06-04,Telsey Advisory Group,Outperform,,main,JOAN
+2021-06-04,Wells Fargo,Overweight,,main,JOAN
+2021-08-11,Loop Capital,Buy,,init,JOAN
+2021-09-01,Barclays,Overweight,,main,JOAN
+2021-09-03,Telsey Advisory Group,Market Perform,Outperform,down,JOAN
+2021-09-07,Barclays,Equal-Weight,Overweight,down,JOAN
+2021-10-01,Barclays,Underweight,Equal-Weight,down,JOAN
+2021-12-01,Telsey Advisory Group,Market Perform,,main,JOAN
+2021-12-03,Wells Fargo,Equal-Weight,Overweight,down,JOAN
+2021-12-06,Barclays,Underweight,,main,JOAN

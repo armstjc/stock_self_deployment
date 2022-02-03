@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CCAP220318P00017500,2021-12-30 16:39:43+00:00,17.5,0.7,0.5,1.9,0.0,0.0,1,16,0.65820654296875,False,REGULAR,USD,CCAP

@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-29,Citigroup,Buy,,init,CHMI
+2013-10-29,Barclays,Overweight,,init,CHMI
+2013-10-29,Morgan Stanley,Equal-Weight,,init,CHMI
+2013-10-29,Sterne Agee,Buy,,init,CHMI
+2014-03-26,Barclays,Overweight,,main,CHMI
+2014-03-26,Barclays,Overweight,,main,CHMI
+2014-04-01,Morgan Stanley,Equal-Weight,,main,CHMI
+2014-08-07,JMP Securities,Market Outperform,,init,CHMI
+2014-08-14,Citigroup,Buy,,main,CHMI
+2014-11-14,Citigroup,Buy,,main,CHMI
+2016-03-16,Barclays,Equal-Weight,,main,CHMI
+2016-05-12,Citigroup,Buy,,main,CHMI
+2016-08-11,Citigroup,Buy,,main,CHMI
+2016-10-06,Wedbush,Neutral,,init,CHMI
+2018-06-18,Wedbush,Outperform,Neutral,up,CHMI
+2019-09-05,JMP Securities,Market Outperform,,reit,CHMI
+2020-04-08,B. Riley FBR,Buy,,main,CHMI
+2020-05-12,JMP Securities,Market Outperform,,main,CHMI
+2020-05-13,Wedbush,Outperform,,main,CHMI
+2020-07-07,JMP Securities,Market Outperform,,main,CHMI
+2020-11-10,Piper Sandler,Neutral,Overweight,down,CHMI
+2021-08-11,JMP Securities,Market Perform,Market Outperform,down,CHMI

@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-12-13,Credit Suisse,Outperform,,init,DAO
+2020-03-12,HSBC,Buy,,init,DAO
+2020-05-21,Nomura Instinet,Buy,,main,DAO
+2020-09-02,Credit Suisse,Neutral,Outperform,down,DAO
+2021-01-05,Macquarie,Outperform,,init,DAO
+2021-05-20,Morgan Stanley,Overweight,Equal-Weight,up,DAO
+2021-07-26,Jefferies,Hold,Buy,down,DAO
+2021-07-27,Daiwa Capital,Underperform,Buy,down,DAO
+2021-07-27,Citigroup,Neutral,Buy,down,DAO
+2021-08-30,Morgan Stanley,Equal-Weight,Overweight,down,DAO

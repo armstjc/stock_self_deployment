@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-20,RBC Capital,Outperform,,init,LNTH
+2015-07-20,Credit Suisse,Outperform,,init,LNTH
+2015-08-31,Baird,Neutral,Outperform,down,LNTH
+2015-09-30,Wells Fargo,Market Perform,Outperform,down,LNTH
+2015-12-11,Credit Suisse,Neutral,Outperform,down,LNTH
+2016-08-29,Jefferies,Buy,,main,LNTH
+2017-07-17,Cantor Fitzgerald,Overweight,,init,LNTH
+2017-08-02,Credit Suisse,Neutral,,main,LNTH
+2017-11-02,Wells Fargo,Outperform,Market Perform,up,LNTH
+2017-11-03,Jefferies,Buy,,main,LNTH
+2017-11-03,Credit Suisse,Neutral,,main,LNTH
+2018-08-02,Credit Suisse,Neutral,Neutral,main,LNTH
+2020-12-29,Credit Suisse,Neutral,,main,LNTH
+2021-02-01,SVB Leerink,Outperform,,init,LNTH
+2021-02-26,SVB Leerink,Outperform,,main,LNTH
+2021-02-26,Credit Suisse,Neutral,,main,LNTH
+2021-04-28,SVB Leerink,Outperform,,main,LNTH
+2021-05-05,Credit Suisse,Neutral,,main,LNTH
+2021-07-29,SVB Leerink,Outperform,,main,LNTH

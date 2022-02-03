@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-10-28,JP Morgan,Overweight,,init,FREQ
+2019-10-28,Goldman Sachs,Buy,,init,FREQ
+2019-10-28,Cowen & Co.,Outperform,,init,FREQ
+2020-03-27,JP Morgan,Overweight,,main,FREQ
+2020-05-18,JP Morgan,Neutral,Overweight,down,FREQ
+2020-07-14,Oppenheimer,Outperform,,init,FREQ
+2021-01-27,JP Morgan,Overweight,Neutral,up,FREQ
+2021-03-24,Oppenheimer,Outperform,,main,FREQ
+2021-09-22,Goldman Sachs,Neutral,Buy,down,FREQ

@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-13,Brean Capital,Buy,,main,AWR
+2012-03-13,Ladenburg Thalmann,Buy,,main,AWR
+2012-05-08,Brean Capital,Buy,,main,AWR
+2012-07-12,Brean Capital,Hold,Buy,down,AWR
+2012-08-13,Ladenburg Thalmann,Buy,,main,AWR
+2013-09-17,Brean Capital,Buy,Hold,up,AWR
+2013-10-22,Brean Capital,Hold,Buy,down,AWR
+2014-01-22,Janney Capital,Buy,Neutral,up,AWR
+2014-02-28,Janney Capital,Neutral,Buy,down,AWR
+2014-02-28,Brean Capital,Buy,Hold,up,AWR
+2014-08-11,Ladenburg Thalmann,Neutral,Buy,down,AWR
+2014-10-31,Brean Capital,Hold,Buy,down,AWR
+2015-10-16,Janney Capital,Sell,Neutral,down,AWR
+2016-01-04,Barclays,Underweight,,init,AWR
+2016-05-11,Ladenburg Thalmann,Neutral,,up,AWR
+2016-05-20,Barclays,Underweight,,main,AWR
+2016-08-05,Janney Capital,Neutral,Sell,up,AWR
+2016-09-06,Barclays,Underweight,,main,AWR
+2017-10-03,Wells Fargo,Market Perform,,main,AWR
+2017-12-18,Wells Fargo,Underperform,Market Perform,down,AWR
+2018-03-08,UBS,Sell,,init,AWR
+2018-08-24,Wells Fargo,Underperform,Underperform,main,AWR
+2018-09-17,Evercore ISI Group,Underperform,,init,AWR
+2020-02-26,Wells Fargo,Underweight,,main,AWR
+2020-03-04,Janney Capital,Buy,Neutral,up,AWR
+2020-03-11,Wells Fargo,Equal-Weight,Underweight,up,AWR
+2020-03-16,UBS,Sell,,main,AWR
+2020-05-20,Seaport Global,Buy,,init,AWR
+2020-06-22,UBS,Sell,,main,AWR
+2020-09-21,Wells Fargo,Overweight,Equal-Weight,up,AWR
+2021-07-15,Barclays,Equal-Weight,,init,AWR
+2021-11-01,Wells Fargo,Equal-Weight,Overweight,down,AWR
+2021-12-01,Wells Fargo,Equal-Weight,,main,AWR
+2021-12-08,Barclays,Underweight,Equal-Weight,down,AWR

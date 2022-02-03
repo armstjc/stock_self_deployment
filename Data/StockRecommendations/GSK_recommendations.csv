@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-13,Jefferies,Hold,Buy,down,GSK
+2012-08-22,JP Morgan,Underweight,Neutral,down,GSK
+2012-12-12,Credit Suisse,Neutral,Underperform,up,GSK
+2012-12-12,Panmure,Buy,Hold,up,GSK
+2013-01-29,Barclays,Overweight,Equal-Weight,up,GSK
+2013-02-08,Kepler Cheuvreux,Buy,Hold,up,GSK
+2013-02-28,Morgan Stanley,Underweight,Equal-Weight,down,GSK
+2013-05-28,Deutsche Bank,Buy,Hold,up,GSK
+2013-05-28,Credit Suisse,Neutral,Outperform,down,GSK
+2013-06-07,Liberum,Hold,Underweight,up,GSK
+2013-08-06,Citigroup,Neutral,Buy,down,GSK
+2013-08-14,JP Morgan,Neutral,Underweight,up,GSK
+2013-08-14,JP Morgan,Neutral,Underweight,up,GSK
+2013-08-15,Morgan Stanley,Underweight,Equal-Weight,down,GSK
+2013-08-21,Cowen & Co.,Outperform,Market Perform,up,GSK
+2013-09-16,Barclays,Equal-Weight,Overweight,down,GSK
+2013-10-08,MainFirst,Outperform,,init,GSK
+2013-10-10,Credit Suisse,Underperform,Neutral,down,GSK
+2013-11-12,Panmure,Hold,Buy,down,GSK
+2013-12-17,Deutsche Bank,Hold,Buy,down,GSK
+2014-01-09,UBS,Neutral,,init,GSK
+2014-01-22,Cowen & Co.,Market Perform,Outperform,down,GSK
+2014-01-24,Berenberg,Hold,Buy,down,GSK
+2014-01-27,S&P Capital IQ,Hold,Sell,up,GSK
+2014-04-22,Panmure,Buy,Hold,up,GSK
+2014-04-23,Argus,Buy,Hold,up,GSK
+2014-07-28,Mainfirst,Underperform,,down,GSK
+2015-01-22,New Street Research,,,down,GSK
+2015-06-04,Morgan Stanley,Equal-Weight,Overweight,down,GSK
+2015-10-12,JP Morgan,Neutral,Underweight,up,GSK
+2015-10-20,Credit Suisse,Neutral,Underperform,up,GSK
+2016-01-27,Bryan Garnier,Buy,Neutral,up,GSK
+2016-02-26,Cantor Fitzgerald,Hold,,init,GSK
+2016-07-14,Jefferies,Buy,Hold,up,GSK
+2016-08-12,Argus,Buy,,main,GSK
+2016-09-14,Exane BNP Paribas,Underperform,Neutral,down,GSK
+2016-09-23,PiperJaffray,Overweight,,init,GSK
+2017-07-05,Citigroup,Neutral,Buy,down,GSK
+2017-10-26,Bank of America,Neutral,Buy,down,GSK
+2018-08-20,Argus,Buy,Buy,main,GSK
+2018-12-06,Barclays,Equal-Weight,Overweight,down,GSK
+2018-12-14,Morgan Stanley,Underweight,,init,GSK
+2018-12-14,SunTrust Robinson Humphrey,Hold,,init,GSK
+2019-01-14,Exane BNP Paribas,Neutral,Outperform,down,GSK
+2019-09-03,Societe Generale,Buy,Sell,up,GSK
+2019-10-11,Cantor Fitzgerald,Buy,Hold,up,GSK
+2019-10-16,New Street,Hold,Reduce,up,GSK
+2019-11-11,Argus Research,Buy,,main,GSK
+2019-11-21,UBS,Buy,Neutral,up,GSK
+2021-01-15,Deutsche Bank,Hold,,init,GSK
+2021-02-04,Deutsche Bank,Sell,Hold,down,GSK
+2021-03-23,SVB Leerink,Market Perform,Outperform,down,GSK
+2021-11-05,Barclays,Equal-Weight,Underweight,up,GSK

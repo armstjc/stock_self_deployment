@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MIME220819P00080000,2021-12-30 14:30:00+00:00,80.0,1.55,0.0,1.55,0.0,0.0,1,4,0.06153282226562501,True,REGULAR,USD,MIME

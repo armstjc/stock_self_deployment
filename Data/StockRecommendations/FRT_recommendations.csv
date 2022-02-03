@@ -1,0 +1,136 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-10,Imperial Capital,In-Line,,main,FRT
+2012-05-11,Jefferies,Hold,,main,FRT
+2012-05-15,JP Morgan,Overweight,,main,FRT
+2012-05-18,ISI Group,Hold,,main,FRT
+2012-07-24,Deutsche Bank,Hold,,main,FRT
+2012-08-03,Imperial Capital,In-Line,,main,FRT
+2012-08-13,Jefferies,Hold,,main,FRT
+2012-08-15,JP Morgan,Overweight,,main,FRT
+2012-10-11,JP Morgan,Overweight,,main,FRT
+2013-01-03,JP Morgan,Overweight,,main,FRT
+2013-01-08,Raymond James,Market Perform,Outperform,down,FRT
+2013-01-09,Deutsche Bank,Hold,,main,FRT
+2013-01-16,JP Morgan,Neutral,Overweight,down,FRT
+2013-02-14,Imperial Capital,In-Line,,main,FRT
+2013-03-27,Evercore Partners,Equal-Weight,,init,FRT
+2013-07-12,SunTrust Robinson Humphrey,Neutral,,init,FRT
+2013-08-09,Bank of America,Neutral,Buy,down,FRT
+2013-09-18,Jefferies,Buy,Hold,up,FRT
+2013-11-18,McNicoll Lewis Vlak,Buy,,init,FRT
+2013-12-17,ISI Group,Buy,Neutral,up,FRT
+2014-01-06,Stifel Nicolaus,Buy,Hold,up,FRT
+2014-01-15,Deutsche Bank,Hold,,main,FRT
+2014-01-16,JP Morgan,Overweight,Neutral,up,FRT
+2014-02-12,Stifel Nicolaus,Buy,,main,FRT
+2014-02-13,Imperial Capital,In-Line,,main,FRT
+2014-03-10,Deutsche Bank,Hold,,main,FRT
+2014-03-27,Citigroup,Neutral,,main,FRT
+2014-05-09,Stifel Nicolaus,Buy,,main,FRT
+2014-05-12,Imperial Capital,In-Line,,main,FRT
+2014-05-16,Citigroup,Hold,,main,FRT
+2014-06-09,ISI Group,Neutral,Buy,down,FRT
+2014-07-17,Deutsche Bank,Hold,,main,FRT
+2014-08-18,Jefferies,Hold,Buy,down,FRT
+2014-08-20,Deutsche Bank,Hold,,main,FRT
+2014-09-16,Citigroup,Neutral,,main,FRT
+2014-11-12,Credit Suisse,Neutral,,init,FRT
+2014-11-13,JP Morgan,Overweight,,main,FRT
+2014-12-05,Citigroup,Neutral,,main,FRT
+2014-12-11,Deutsche Bank,Hold,,main,FRT
+2014-12-22,Evercore ISI Group,Buy,Hold,up,FRT
+2015-01-05,Stifel Nicolaus,Buy,,main,FRT
+2015-01-26,Deutsche Bank,Hold,,main,FRT
+2015-03-24,SunTrust Robinson Humphrey,Neutral,,main,FRT
+2015-08-06,RBC Capital,Sector Perform,Underperform,up,FRT
+2015-08-20,Credit Suisse,Overweight,Neutral,up,FRT
+2015-08-21,Citigroup,Neutral,,main,FRT
+2015-09-08,Evercore ISI Group,Buy,,main,FRT
+2015-10-01,Deutsche Bank,Hold,,main,FRT
+2015-10-23,Jefferies,Hold,,main,FRT
+2016-01-05,Deutsche Bank,Hold,,main,FRT
+2016-01-25,Evercore ISI Group,Hold,Buy,down,FRT
+2016-02-22,Deutsche Bank,Hold,,main,FRT
+2016-02-29,Jefferies,Hold,,main,FRT
+2016-04-01,Citigroup,Neutral,,main,FRT
+2016-04-01,DA Davidson,Neutral,,init,FRT
+2016-04-13,Mizuho,Neutral,,init,FRT
+2016-05-06,RBC Capital,Underperform,Sector Perform,down,FRT
+2016-06-24,Stifel Nicolaus,Hold,Buy,down,FRT
+2016-06-30,Jefferies,Hold,,init,FRT
+2016-07-18,Deutsche Bank,Hold,,main,FRT
+2016-08-11,Citigroup,Neutral,,main,FRT
+2016-08-17,Deutsche Bank,Hold,,main,FRT
+2016-08-23,Jefferies,Hold,,main,FRT
+2016-08-25,BTIG Research,Neutral,,init,FRT
+2016-08-29,Mizuho,Buy,Neutral,up,FRT
+2016-10-03,Boenning & Scattergood,Neutral,Outperform,down,FRT
+2016-12-13,Citigroup,Buy,Neutral,up,FRT
+2017-03-13,Sandler O'Neill,Buy,Hold,up,FRT
+2017-07-07,Citigroup,Buy,,main,FRT
+2017-07-21,Bank of America,Buy,Neutral,up,FRT
+2017-08-14,Evercore ISI Group,Underperform,In-Line,down,FRT
+2017-08-14,Citigroup,Buy,,main,FRT
+2017-09-12,BMO Capital,Outperform,,init,FRT
+2017-09-15,Jefferies,Hold,,main,FRT
+2017-11-09,UBS,Buy,Neutral,up,FRT
+2018-02-06,Wells Fargo,Outperform,,main,FRT
+2018-03-05,Evercore ISI Group,In-Line,Underperform,up,FRT
+2018-03-19,Deutsche Bank,Hold,Hold,main,FRT
+2018-03-19,JP Morgan,Overweight,Overweight,main,FRT
+2018-06-25,SunTrust Robinson Humphrey,Buy,Hold,up,FRT
+2018-06-25,DA Davidson,Buy,Neutral,up,FRT
+2018-08-02,Stifel Nicolaus,Buy,Buy,main,FRT
+2018-08-13,Bank of America,Buy,Buy,main,FRT
+2018-08-20,Citigroup,Buy,Buy,main,FRT
+2018-08-28,Deutsche Bank,Hold,Hold,main,FRT
+2018-11-15,Wells Fargo,Outperform,Outperform,main,FRT
+2018-12-12,Citigroup,Neutral,Buy,down,FRT
+2019-02-25,Citigroup,Neutral,Neutral,main,FRT
+2019-03-07,Mizuho,Neutral,Buy,down,FRT
+2019-05-15,Deutsche Bank,Hold,,main,FRT
+2019-08-15,Compass Point,Buy,,init,FRT
+2019-09-05,Deutsche Bank,Buy,Hold,up,FRT
+2019-09-13,Mizuho,Buy,Neutral,up,FRT
+2019-11-01,Sandler O'Neill,Hold,Buy,down,FRT
+2019-12-10,Citigroup,Neutral,,main,FRT
+2019-12-24,Stifel Nicolaus,Buy,,main,FRT
+2020-01-07,BMO Capital,Market Perform,Outperform,down,FRT
+2020-01-15,Jefferies,Buy,Hold,up,FRT
+2020-02-14,Raymond James,Outperform,,main,FRT
+2020-03-23,B of A Securities,Neutral,Buy,down,FRT
+2020-04-07,Citigroup,Neutral,,main,FRT
+2020-04-08,Odeon Capital,Buy,,init,FRT
+2020-04-20,Evercore ISI Group,Underperform,In-Line,down,FRT
+2020-04-22,JP Morgan,Neutral,Overweight,down,FRT
+2020-04-24,SunTrust Robinson Humphrey,Buy,,main,FRT
+2020-05-07,Deutsche Bank,Buy,,main,FRT
+2020-06-01,JP Morgan,Neutral,,main,FRT
+2020-06-03,Piper Sandler,Neutral,,main,FRT
+2020-06-04,Wells Fargo,Overweight,,main,FRT
+2020-07-21,SunTrust Robinson Humphrey,Hold,Buy,down,FRT
+2020-07-27,Deutsche Bank,Buy,,main,FRT
+2020-08-06,Stifel,Buy,,main,FRT
+2020-08-28,JP Morgan,Underweight,Neutral,down,FRT
+2020-10-16,Jefferies,Hold,Buy,down,FRT
+2020-11-16,B of A Securities,Neutral,,main,FRT
+2020-12-10,Wells Fargo,Equal-Weight,Overweight,down,FRT
+2021-01-25,Compass Point,Neutral,Buy,down,FRT
+2021-01-28,ScotiaBank,Sector Perform,Sector Outperform,down,FRT
+2021-02-23,Mizuho,Neutral,,main,FRT
+2021-03-22,Truist Securities,Hold,,main,FRT
+2021-04-15,Deutsche Bank,Buy,,main,FRT
+2021-05-06,Piper Sandler,Overweight,Neutral,up,FRT
+2021-05-20,JP Morgan,Neutral,Underweight,up,FRT
+2021-06-03,Mizuho,Buy,Neutral,up,FRT
+2021-06-04,Truist Securities,Hold,,main,FRT
+2021-06-04,UBS,Neutral,,init,FRT
+2021-06-08,Deutsche Bank,Buy,,main,FRT
+2021-06-28,Scotiabank,Sector Outperform,Sector Perform,up,FRT
+2021-07-02,Truist Securities,Hold,,main,FRT
+2021-09-01,Barclays,Overweight,,init,FRT
+2021-10-06,Deutsche Bank,Buy,,main,FRT
+2021-12-01,BMO Capital,Outperform,Market Perform,up,FRT
+2021-12-02,Citigroup,Neutral,,main,FRT
+2021-12-10,Truist Securities,Hold,,main,FRT
+2021-12-20,JP Morgan,Overweight,Neutral,up,FRT

@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-06,RBC Capital,Sector Perform,,init,JMIA
+2019-05-07,Raymond James,Market Perform,,init,JMIA
+2019-05-07,Morgan Stanley,Underweight,,init,JMIA
+2019-05-07,Berenberg,Hold,,init,JMIA
+2019-05-07,Stifel,Hold,,init,JMIA
+2019-05-13,Stifel,Buy,Hold,up,JMIA
+2019-05-14,Raymond James,Outperform,Market Perform,up,JMIA
+2019-05-14,Morgan Stanley,Underweight,,main,JMIA
+2019-05-14,Berenberg,Buy,Hold,up,JMIA
+2019-08-20,Morgan Stanley,Equal-Weight,Underweight,up,JMIA
+2019-08-22,Raymond James,Outperform,,main,JMIA
+2019-08-22,RBC Capital,Outperform,Sector Perform,up,JMIA
+2019-11-13,Raymond James,Outperform,,main,JMIA
+2019-11-13,RBC Capital,Outperform,,main,JMIA
+2020-05-14,Stifel,Hold,Buy,down,JMIA
+2020-08-13,Morgan Stanley,Equal-Weight,,main,JMIA
+2020-08-13,Stifel,Hold,,main,JMIA
+2021-01-15,Morgan Stanley,Equal-Weight,,main,JMIA
+2021-07-20,Morgan Stanley,Equal-Weight,,main,JMIA
+2021-11-29,Morgan Stanley,Underweight,Equal-Weight,down,JMIA

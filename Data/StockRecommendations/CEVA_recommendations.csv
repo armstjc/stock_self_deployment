@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-19,Wunderlich,Buy,,main,CEVA
+2012-05-01,Cantor Fitzgerald,Buy,,main,CEVA
+2012-05-02,Sterne Agee,Buy,,main,CEVA
+2012-05-03,Wunderlich,Buy,,main,CEVA
+2012-07-27,Benchmark,Buy,,main,CEVA
+2012-07-31,Sterne Agee,Buy,,main,CEVA
+2012-08-01,Wunderlich,Buy,,main,CEVA
+2013-01-28,Chardan Capital,Buy,Neutral,up,CEVA
+2013-01-30,Wedbush,Buy,,main,CEVA
+2013-01-30,Sterne Agee,Buy,,main,CEVA
+2013-01-31,Wunderlich,Buy,,main,CEVA
+2013-05-03,Chardan Capital,Neutral,Buy,down,CEVA
+2013-05-23,Topeka,Buy,,init,CEVA
+2013-07-03,Wunderlich,Buy,,main,CEVA
+2013-09-04,William Blair,Market Perform,Outperform,down,CEVA
+2013-10-03,Sterne Agee,Neutral,Buy,down,CEVA
+2013-10-08,Oppenheimer,Perform,Outperform,down,CEVA
+2014-05-01,Wunderlich,Hold,Buy,down,CEVA
+2014-06-12,Chardan Capital,Sell,Neutral,down,CEVA
+2014-10-31,Wunderlich,Buy,Hold,up,CEVA
+2014-10-31,Compass Point,Buy,,main,CEVA
+2014-10-31,Chardan Capital,Neutral,Sell,up,CEVA
+2014-11-14,Oppenheimer,Outperform,Market Perform,up,CEVA
+2014-11-25,Wunderlich,Buy,,main,CEVA
+2015-01-12,Barclays,Overweight,,main,CEVA
+2015-03-09,Wunderlich,Buy,,main,CEVA
+2015-03-13,Benchmark,Buy,,main,CEVA
+2015-03-16,Topeka,Buy,,main,CEVA
+2015-04-16,Canaccord Genuity,Buy,,init,CEVA
+2015-05-05,Topeka,Buy,,main,CEVA
+2015-05-05,Chardan Capital,Buy,Neutral,up,CEVA
+2015-05-26,Barclays,Overweight,,main,CEVA
+2015-10-15,Ladenburg Thalmann,Neutral,,init,CEVA
+2015-11-03,Canaccord Genuity,Buy,,main,CEVA
+2015-11-03,Oppenheimer,Outperform,,main,CEVA
+2015-11-10,Wunderlich,Hold,Buy,down,CEVA
+2015-12-16,Wunderlich,Buy,Hold,up,CEVA
+2016-01-11,Ladenburg Thalmann,Buy,Neutral,up,CEVA
+2016-09-29,Roth Capital,Buy,,init,CEVA
+2017-08-04,Canaccord Genuity,Buy,,main,CEVA
+2017-10-03,Canaccord Genuity,Buy,,main,CEVA
+2017-11-02,Canaccord Genuity,Buy,,main,CEVA
+2018-01-24,Oppenheimer,Perform,Outperform,down,CEVA
+2018-02-07,Barclays,Overweight,Overweight,main,CEVA
+2018-05-10,Canaccord Genuity,Buy,Buy,main,CEVA
+2018-05-17,Cowen & Co.,Outperform,,init,CEVA
+2018-08-08,Barclays,Overweight,Overweight,main,CEVA
+2018-10-16,Canaccord Genuity,Buy,Buy,main,CEVA
+2019-02-14,Northland Securities,Market Perform,Outperform,down,CEVA
+2019-04-17,Exane BNP Paribas,Neutral,Outperform,down,CEVA
+2019-08-09,Canaccord Genuity,Buy,,main,CEVA
+2020-03-30,Northland Securities,Outperform,Market Perform,up,CEVA
+2020-09-21,Northland Capital Markets,Outperform,Market Perform,up,CEVA
+2021-02-17,Roth Capital,Buy,,main,CEVA
+2021-05-11,Northland Capital Markets,Outperform,Market Perform,up,CEVA
+2021-05-11,Barclays,Overweight,Equal-Weight,up,CEVA
+2021-06-23,Rosenblatt,Neutral,,init,CEVA

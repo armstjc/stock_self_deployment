@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IMGN230120P00005000,2022-02-02 20:13:12+00:00,5.0,1.64,1.25,4.6,0.03999996,2.4999976,294,6,1.732423212890625,False,REGULAR,USD,IMGN

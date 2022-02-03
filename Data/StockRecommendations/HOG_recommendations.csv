@@ -1,0 +1,150 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Oxen Group,Hold,,init,HOG
+2012-03-12,Citigroup,Neutral,,main,HOG
+2012-03-20,BMO Capital,Outperform,,up,HOG
+2012-04-10,Citigroup,Buy,,up,HOG
+2012-04-25,Citigroup,Buy,,main,HOG
+2012-04-26,Goldman Sachs,Neutral,,main,HOG
+2012-05-22,S&P Capital IQ,Hold,,up,HOG
+2012-08-02,Barclays,Overweight,,main,HOG
+2012-08-02,UBS,Neutral,,main,HOG
+2012-08-02,Deutsche Bank,Hold,,main,HOG
+2012-08-06,Millman Research,Hold,Buy,down,HOG
+2012-10-18,Goldman Sachs,Buy,Neutral,up,HOG
+2012-10-19,JP Morgan,Overweight,Neutral,up,HOG
+2012-10-23,Citigroup,Buy,,main,HOG
+2012-10-24,Barclays,Overweight,,main,HOG
+2013-01-30,Barclays,Overweight,,main,HOG
+2013-01-30,UBS,Neutral,,main,HOG
+2013-01-30,BMO Capital,Outperform,,main,HOG
+2013-01-30,Deutsche Bank,Hold,,main,HOG
+2013-01-30,Goldman Sachs,Neutral,Buy,down,HOG
+2013-03-07,Longbow Research,Buy,Neutral,up,HOG
+2013-03-08,Tigress Financial,Buy,,init,HOG
+2013-03-14,Deutsche Bank,Hold,,main,HOG
+2013-05-06,Morgan Stanley,Overweight,,init,HOG
+2013-07-15,Wedbush,Neutral,Outperform,down,HOG
+2014-01-31,JP Morgan,Overweight,,main,HOG
+2014-04-23,JP Morgan,Overweight,,main,HOG
+2014-04-23,Deutsche Bank,Hold,,main,HOG
+2014-04-23,Barclays,Equal-Weight,Overweight,down,HOG
+2014-04-23,Morgan Stanley,Overweight,,main,HOG
+2014-04-24,Citigroup,Buy,,main,HOG
+2014-06-24,RBC Capital,Sector Perform,,init,HOG
+2014-06-25,KeyBanc,Hold,Buy,down,HOG
+2014-07-02,Raymond James,Market Perform,Strong Buy,down,HOG
+2014-07-16,UBS,Neutral,,main,HOG
+2014-07-23,JP Morgan,Overweight,,main,HOG
+2014-07-23,Barclays,Equal-Weight,,main,HOG
+2014-07-28,Citigroup,Buy,,main,HOG
+2014-07-31,Argus,Hold,Buy,down,HOG
+2014-09-26,Wunderlich,Hold,,init,HOG
+2014-10-06,RBC Capital,Outperform,Sector Perform,up,HOG
+2014-10-21,Wunderlich,Hold,,main,HOG
+2014-10-22,Barclays,Equal-Weight,,main,HOG
+2014-11-14,Goldman Sachs,Buy,Neutral,up,HOG
+2015-01-30,Deutsche Bank,Hold,,main,HOG
+2015-03-13,Deutsche Bank,Hold,,main,HOG
+2015-03-25,Stifel Nicolaus,Buy,,init,HOG
+2015-04-22,Stifel Nicolaus,Buy,,main,HOG
+2015-04-22,Deutsche Bank,Hold,,main,HOG
+2015-04-22,Barclays,Equal-Weight,,main,HOG
+2015-04-27,Citigroup,Buy,,main,HOG
+2015-06-10,Wedbush,Neutral,Outperform,down,HOG
+2015-06-18,Goldman Sachs,Buy,,main,HOG
+2015-06-18,UBS,Buy,Hold,up,HOG
+2015-07-08,RBC Capital,Sector Perform,Outperform,down,HOG
+2015-07-23,BMO Capital,Outperform,,main,HOG
+2015-09-04,UBS,Buy,,main,HOG
+2015-10-12,Longbow Research,Neutral,,down,HOG
+2015-10-21,JP Morgan,Neutral,Overweight,down,HOG
+2015-10-21,Stifel Nicolaus,Buy,,main,HOG
+2015-10-21,Deutsche Bank,Hold,,main,HOG
+2015-10-21,BMO Capital,Market Perform,Outperform,down,HOG
+2015-11-23,Barclays,Equal-Weight,,main,HOG
+2015-11-24,Wedbush,Hold,,main,HOG
+2016-01-11,Raymond James,Underperform,Market Perform,down,HOG
+2016-01-28,Wunderlich,Hold,,main,HOG
+2016-02-04,Citigroup,Buy,,main,HOG
+2016-03-11,Sterne Agee CRT,Neutral,,init,HOG
+2016-04-06,William Blair,Market Perform,Outperform,down,HOG
+2016-04-20,Deutsche Bank,Hold,,main,HOG
+2016-06-06,Goldman Sachs,Neutral,Buy,down,HOG
+2016-07-05,UBS,Neutral,Buy,down,HOG
+2016-07-05,Baird,Neutral,Outperform,down,HOG
+2016-07-06,Baird,Neutral,Buy,down,HOG
+2016-07-15,Stifel Nicolaus,Hold,Buy,down,HOG
+2016-07-29,Wells Fargo,Market Perform,Outperform,down,HOG
+2016-07-29,Barclays,Equal-Weight,,main,HOG
+2016-07-29,RBC Capital,Underperform,Sector Perform,down,HOG
+2016-08-01,Barclays,Underperform,Equal-Weight,down,HOG
+2016-08-29,Longbow Research,Underperform,Neutral,down,HOG
+2016-08-29,Citigroup,Buy,,main,HOG
+2016-08-30,Citigroup,Buy,,main,HOG
+2016-09-09,Bernstein,Outperform,,init,HOG
+2016-09-15,UBS,Neutral,,main,HOG
+2016-09-30,Jefferies,Hold,,init,HOG
+2016-10-19,RBC Capital,Underperform,,main,HOG
+2016-11-15,RBC Capital,Sector Perform,Underperform,up,HOG
+2016-11-18,Northcoast Research,Neutral,,init,HOG
+2017-03-15,Longbow Research,Neutral,Underperform,up,HOG
+2017-04-12,Raymond James,Market Perform,Underperform,up,HOG
+2017-07-12,Bernstein,Market Perform,Outperform,down,HOG
+2017-07-19,Barclays,Underperform,,main,HOG
+2017-08-28,Aegis Capital,Hold,,init,HOG
+2017-10-20,Argus,Buy,Hold,up,HOG
+2018-01-03,Longbow Research,Underperform,Neutral,down,HOG
+2018-01-22,Wells Fargo,Outperform,Market Perform,up,HOG
+2018-01-31,Stifel Nicolaus,Hold,Hold,main,HOG
+2018-02-06,Citigroup,Buy,Buy,main,HOG
+2018-03-29,Longbow Research,Neutral,Underperform,up,HOG
+2018-04-11,Wedbush,Neutral,Neutral,main,HOG
+2018-06-07,Wedbush,Neutral,Neutral,main,HOG
+2018-06-29,Morgan Stanley,Overweight,Overweight,main,HOG
+2018-07-25,Stifel Nicolaus,Hold,Hold,main,HOG
+2018-08-08,Citigroup,Buy,Buy,main,HOG
+2018-10-19,BMO Capital,Market Perform,Outperform,down,HOG
+2018-10-22,Wells Fargo,Outperform,Outperform,main,HOG
+2018-10-24,Argus,Buy,Buy,main,HOG
+2018-10-24,Barclays,Underperform,Underperform,main,HOG
+2018-10-25,BMO Capital,Market Perform,Market Perform,main,HOG
+2018-10-30,Citigroup,Buy,Buy,main,HOG
+2019-04-08,Wells Fargo,Market Perform,Outperform,down,HOG
+2019-04-24,Goldman Sachs,Sell,Neutral,down,HOG
+2019-04-30,Morgan Stanley,Overweight,Overweight,main,HOG
+2019-07-30,Morgan Stanley,Overweight,,main,HOG
+2019-10-09,Wedbush,Neutral,,main,HOG
+2019-11-04,KeyBanc,Underweight,Sector Weight,down,HOG
+2019-12-16,Baird,Neutral,,main,HOG
+2020-01-29,Baird,Neutral,,main,HOG
+2020-01-29,RBC Capital,Sector Perform,,main,HOG
+2020-01-29,KeyBanc,Sector Weight,Underweight,up,HOG
+2020-01-30,BMO Capital,Market Perform,,main,HOG
+2020-01-30,Wells Fargo,Equal-Weight,,main,HOG
+2020-03-16,RBC Capital,Underperform,Sector Perform,down,HOG
+2020-03-24,Morgan Stanley,Overweight,,main,HOG
+2020-04-06,Argus Research,Hold,Buy,down,HOG
+2020-04-17,Wedbush,Neutral,,main,HOG
+2020-04-23,BMO Capital,Market Perform,,main,HOG
+2020-04-29,BMO Capital,Market Perform,,main,HOG
+2020-04-30,Morgan Stanley,Overweight,,main,HOG
+2020-05-05,Argus Research,Buy,Hold,up,HOG
+2020-07-06,Citigroup,Buy,,init,HOG
+2020-07-10,RBC Capital,Sector Perform,Underperform,up,HOG
+2020-07-14,BMO Capital,Outperform,Market Perform,up,HOG
+2020-07-29,Stifel,Hold,,main,HOG
+2020-10-28,Stifel,Hold,,main,HOG
+2020-10-28,Morgan Stanley,Equal-Weight,Overweight,down,HOG
+2020-10-29,BMO Capital,Outperform,,main,HOG
+2020-11-02,UBS,Neutral,Buy,down,HOG
+2021-02-03,Citigroup,Buy,,main,HOG
+2021-02-03,BMO Capital,Outperform,,main,HOG
+2021-02-03,Morgan Stanley,Equal-Weight,,main,HOG
+2021-03-31,Baird,Outperform,Neutral,up,HOG
+2021-04-09,Northcoast Research,Buy,Neutral,up,HOG
+2021-04-14,B of A Securities,Buy,,init,HOG
+2021-04-23,Morgan Stanley,Underweight,Equal-Weight,down,HOG
+2021-07-22,Morgan Stanley,Underweight,,main,HOG
+2021-07-22,RBC Capital,Sector Perform,,main,HOG
+2021-10-29,RBC Capital,Sector Perform,,main,HOG
+2021-12-21,Morgan Stanley,Underweight,,main,HOG

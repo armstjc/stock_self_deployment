@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-09-30,Jefferies,Buy,,init,BLU
+2020-06-26,HC Wainwright & Co.,Buy,,init,BLU
+2020-07-07,Guggenheim,Neutral,Buy,down,BLU
+2020-07-07,Baird,Outperform,,main,BLU
+2020-08-14,HC Wainwright & Co.,Buy,,main,BLU
+2020-11-18,Evercore ISI Group,Outperform,,init,BLU
+2021-01-29,RBC Capital,Outperform,,init,BLU
+2021-07-29,BTIG,Buy,,init,BLU
+2021-09-14,HC Wainwright & Co.,Buy,,main,BLU
+2021-10-18,RBC Capital,Outperform,,main,BLU
+2021-12-07,RBC Capital,Outperform,,main,BLU
+2021-12-13,Evercore ISI Group,Outperform,,main,BLU

@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-09-14,Baird,Neutral,,init,GFF
+2018-10-30,JP Morgan,Underweight,,init,GFF
+2018-11-15,Sidoti & Co.,Buy,Buy,main,GFF
+2018-11-15,Baird,Neutral,Neutral,main,GFF
+2019-09-30,Sidoti & Co.,Buy,,main,GFF
+2019-11-14,Sidoti & Co.,Buy,,main,GFF
+2020-01-14,Baird,Outperform,Neutral,up,GFF
+2020-09-17,Truist Securities,Buy,,init,GFF
+2020-10-20,Baird,Outperform,,main,GFF
+2020-11-11,Stephens & Co.,Overweight,,init,GFF
+2020-12-09,Raymond James,Outperform,,init,GFF
+2021-01-29,Raymond James,Outperform,,main,GFF
+2021-04-30,Raymond James,Outperform,,main,GFF

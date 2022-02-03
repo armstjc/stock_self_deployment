@@ -1,0 +1,190 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,Bank oferica,Buy,,main,LVS
+2012-03-05,Credit Suisse,Outperform,,main,LVS
+2012-03-22,Morgan Stanley,Overweight,,main,LVS
+2012-03-26,Stifel Nicolaus,Buy,,main,LVS
+2012-03-26,Brean Capital,Buy,,main,LVS
+2012-03-29,Bank oferica,Buy,,main,LVS
+2012-04-23,Sterne Agee,Buy,,main,LVS
+2012-04-26,UBS,Buy,,main,LVS
+2012-04-26,Brean Capital,Buy,,main,LVS
+2012-04-26,Citigroup,Buy,,main,LVS
+2012-05-21,UBS,Buy,,main,LVS
+2012-06-07,UBS,Buy,,main,LVS
+2012-07-03,Topeka,Buy,,main,LVS
+2012-07-10,Cantor Fitzgerald,Buy,,init,LVS
+2012-07-10,JP Morgan,Overweight,,main,LVS
+2012-07-11,Citigroup,Buy,,main,LVS
+2012-07-17,Susquehanna,Positive,Neutral,up,LVS
+2012-07-17,RBC Capital,Outperform,,init,LVS
+2012-07-26,Barclays,Overweight,,main,LVS
+2012-07-26,Cantor Fitzgerald,Buy,,main,LVS
+2012-07-26,Phillip Securities,Neutral,Accumulate,down,LVS
+2012-07-30,Topeka,Buy,,main,LVS
+2012-07-31,Argus,Hold,Buy,down,LVS
+2012-08-22,Imperial Capital,Outperform,In-Line,up,LVS
+2012-09-04,Cantor Fitzgerald,Buy,,main,LVS
+2012-09-14,Deutsche Bank,Buy,,main,LVS
+2012-10-01,ISI Group,Hold,,init,LVS
+2012-10-02,ISI Group,Hold,,init,LVS
+2012-11-02,Cantor Fitzgerald,Hold,Buy,down,LVS
+2012-11-02,Compass Point,Hold,,main,LVS
+2012-11-02,Stifel Nicolaus,Buy,,main,LVS
+2012-12-04,Craig-Hallum,Buy,,init,LVS
+2012-12-14,UBS,Buy,,main,LVS
+2013-01-07,UBS,Buy,,main,LVS
+2013-01-08,Stifel Nicolaus,Buy,,main,LVS
+2013-01-10,Deutsche Bank,Buy,,main,LVS
+2013-01-18,Wells Fargo,Outperform,Market Perform,up,LVS
+2013-01-18,Wells Fargo,Outperform,Market Perform,up,LVS
+2013-01-23,Compass Point,Neutral,Sell,up,LVS
+2013-01-31,UBS,Buy,,main,LVS
+2013-01-31,Craig-Hallum,Hold,Buy,down,LVS
+2013-01-31,Stifel Nicolaus,Buy,,main,LVS
+2013-01-31,Credit Suisse,Outperform,,main,LVS
+2013-01-31,Nomura,Buy,,main,LVS
+2013-02-12,Argus Capital,Buy,Hold,up,LVS
+2013-03-25,Morgan Stanley,Overweight,,main,LVS
+2013-05-02,Nomura,Buy,,main,LVS
+2013-05-02,Stifel Nicolaus,Buy,,main,LVS
+2013-05-02,Credit Agricole,Buy,,main,LVS
+2013-05-02,Barclays,Overweight,,main,LVS
+2013-05-28,Deutsche Bank,,,main,LVS
+2013-05-28,Deutsche Bank,Buy,,main,LVS
+2013-06-20,Lazard,Buy,,main,LVS
+2013-06-25,Craig-Hallum,Buy,Hold,up,LVS
+2013-07-02,ISI Group,Buy,Neutral,up,LVS
+2013-07-25,Nomura,Buy,,main,LVS
+2013-09-11,Deutsche Bank,Buy,,main,LVS
+2013-09-16,ISI Group,Neutral,Buy,down,LVS
+2013-09-19,Nomura,Buy,,main,LVS
+2013-10-18,Craig-Hallum,Hold,Buy,down,LVS
+2013-11-13,FBR Capital,Outperform,,init,LVS
+2013-12-18,Goldman Sachs,Buy,,main,LVS
+2014-01-07,Morgan Stanley,Overweight,,main,LVS
+2014-01-07,Nomura,Buy,,main,LVS
+2014-01-10,FBR Capital,Market Perform,Outperform,down,LVS
+2014-01-30,Stifel Nicolaus,Buy,,main,LVS
+2014-04-04,JP Morgan,Overweight,,main,LVS
+2014-04-14,Deutsche Bank,Buy,,main,LVS
+2014-04-25,Deutsche Bank,Buy,,main,LVS
+2014-04-25,Stifel Nicolaus,Buy,,main,LVS
+2014-06-10,UBS,Neutral,Buy,down,LVS
+2014-06-25,FBR Capital,Market Perform,,main,LVS
+2014-06-27,Buckingham Research,Neutral,,init,LVS
+2014-07-09,JP Morgan,,Overweight,main,LVS
+2014-07-17,Deutsche Bank,Buy,,main,LVS
+2014-07-17,JP Morgan,Overweight,,main,LVS
+2014-08-07,Craig-Hallum,Buy,Hold,up,LVS
+2014-09-04,Deutsche Bank,Buy,,main,LVS
+2014-09-04,Argus,Hold,Buy,down,LVS
+2014-09-18,JP Morgan,Overweight,,main,LVS
+2014-09-22,Wells Fargo,Market Perform,Outperform,down,LVS
+2014-09-24,Bank of America,Buy,,main,LVS
+2014-10-07,Deutsche Bank,Hold,Buy,down,LVS
+2014-10-14,Bank of America,Neutral,Buy,down,LVS
+2014-10-16,Stifel Nicolaus,Buy,,main,LVS
+2015-01-08,Deutsche Bank,Hold,,main,LVS
+2015-01-09,Morgan Stanley,Equal-weight,Overweight,down,LVS
+2015-01-21,Nomura,Neutral,Buy,down,LVS
+2015-01-22,Union Gaming Research,Buy,,init,LVS
+2015-01-23,Barclays,Overweight,,main,LVS
+2015-01-29,Stifel Nicolaus,Buy,,main,LVS
+2015-02-26,Deutsche Bank,Hold,,main,LVS
+2015-03-18,Brean Capital,Buy,,init,LVS
+2015-03-18,CLSA,Outperform,Buy,down,LVS
+2015-04-23,JP Morgan,Overweight,,main,LVS
+2015-04-23,Deutsche Bank,Hold,,main,LVS
+2015-05-15,Barclays,Overweight,,main,LVS
+2015-05-18,Goldman Sachs,Neutral,Buy,down,LVS
+2015-06-04,Standpoint Research,Buy,,init,LVS
+2015-06-12,Susquehanna,Positive,,main,LVS
+2015-09-10,Susquehanna,Positive,,main,LVS
+2015-09-21,Nomura,Neutral,,main,LVS
+2015-10-27,Gabelli & Co.,Buy,,init,LVS
+2015-10-27,Barclays,Equal-Weight,Overweight,down,LVS
+2016-01-26,Susquehanna,Positive,,main,LVS
+2016-01-28,JP Morgan,Overweight,,main,LVS
+2016-03-17,Standpoint Research,Hold,Buy,down,LVS
+2016-03-17,Standpoint Research,Hold,Buy,down,LVS
+2016-04-13,Citigroup,Buy,,main,LVS
+2016-04-21,Barclays,Equal-Weight,,main,LVS
+2016-04-21,JP Morgan,Neutral,Overweight,down,LVS
+2016-04-21,Stifel Nicolaus,Buy,,main,LVS
+2016-04-29,CLSA,Outperform,,main,LVS
+2016-07-27,Barclays,Equal-Weight,,main,LVS
+2016-08-11,Buckingham Research,Neutral,,init,LVS
+2016-09-14,Argus,Buy,Hold,up,LVS
+2016-09-19,CLSA,Outperform,,main,LVS
+2016-09-20,CLSA,Perform,,main,LVS
+2016-10-04,Bank of America,Buy,Neutral,up,LVS
+2016-10-04,Citigroup,Buy,,main,LVS
+2016-12-16,Goldman Sachs,Buy,,init,LVS
+2016-12-22,Aegis Capital,Buy,,init,LVS
+2017-10-25,Roth Capital,Buy,,init,LVS
+2017-10-26,Nomura,Neutral,,main,LVS
+2017-10-26,Deutsche Bank,Hold,,main,LVS
+2017-10-26,Morgan Stanley,Equal-Weight,,main,LVS
+2017-11-07,Morgan Stanley,Overweight,Equal-Weight,up,LVS
+2018-01-19,Jefferies,Hold,,init,LVS
+2018-01-25,Bank of America,Buy,Buy,main,LVS
+2018-01-25,Stifel Nicolaus,Buy,Buy,main,LVS
+2018-01-25,JP Morgan,Neutral,Neutral,main,LVS
+2018-03-14,Telsey Advisory Group,Market Perform,,init,LVS
+2018-03-15,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-03-27,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-04-19,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-04-26,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-04-26,JP Morgan,Neutral,Neutral,main,LVS
+2018-06-26,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-07-02,Bank of America,Neutral,Buy,down,LVS
+2018-07-09,Nomura,Neutral,Neutral,main,LVS
+2018-07-26,Morgan Stanley,Overweight,Overweight,main,LVS
+2018-07-26,Stifel Nicolaus,Buy,Buy,main,LVS
+2018-08-14,Credit Suisse,Neutral,,init,LVS
+2018-10-16,HSBC,Buy,Hold,up,LVS
+2018-10-25,Nomura,Neutral,Neutral,main,LVS
+2018-10-26,Argus,Buy,Buy,main,LVS
+2019-03-06,Morgan Stanley,Overweight,Overweight,main,LVS
+2019-04-17,HSBC,Hold,Buy,down,LVS
+2019-06-06,Morgan Stanley,Overweight,,main,LVS
+2019-08-20,Argus Research,Hold,Buy,down,LVS
+2019-09-04,Standpoint Research,Buy,,init,LVS
+2019-09-06,JP Morgan,Neutral,,main,LVS
+2019-09-09,Deutsche Bank,Buy,Hold,up,LVS
+2019-09-13,UBS,Neutral,,main,LVS
+2019-09-17,Morgan Stanley,Overweight,,main,LVS
+2019-11-25,Morgan Stanley,Overweight,,main,LVS
+2019-12-16,Deutsche Bank,Buy,,main,LVS
+2020-01-16,Standpoint Research,Hold,Buy,down,LVS
+2020-01-21,Morgan Stanley,Equal-Weight,,main,LVS
+2020-01-30,CFRA,Buy,,main,LVS
+2020-02-12,B of A Securities,Buy,Neutral,up,LVS
+2020-03-16,Jefferies,Buy,Hold,up,LVS
+2020-03-30,Morgan Stanley,Equal-Weight,,main,LVS
+2020-04-01,Stifel,Buy,,main,LVS
+2020-04-23,JP Morgan,Overweight,Neutral,up,LVS
+2020-04-23,Deutsche Bank,Buy,,main,LVS
+2020-04-23,Morgan Stanley,Equal-Weight,,main,LVS
+2020-04-23,Nomura,Buy,,main,LVS
+2020-04-24,CFRA,Hold,Sell,up,LVS
+2020-05-21,Credit Suisse,Outperform,Neutral,up,LVS
+2020-05-27,UBS,Neutral,,main,LVS
+2020-06-05,UBS,Neutral,,main,LVS
+2020-07-20,Morgan Stanley,Equal-Weight,,main,LVS
+2020-08-27,UBS,Neutral,,main,LVS
+2020-09-16,Roth Capital,Neutral,Buy,down,LVS
+2020-10-19,Union Gaming,Hold,Buy,down,LVS
+2020-10-20,Deutsche Bank,Buy,,main,LVS
+2020-10-21,Morgan Stanley,Equal-Weight,,main,LVS
+2020-10-22,Jefferies,Buy,,main,LVS
+2021-01-20,Morgan Stanley,Equal-Weight,,main,LVS
+2021-02-08,B of A Securities,Neutral,Buy,down,LVS
+2021-04-26,Morgan Stanley,Equal-Weight,,main,LVS
+2021-07-22,Morgan Stanley,Equal-Weight,,main,LVS
+2021-09-15,Wells Fargo,Equal-Weight,,init,LVS
+2021-09-16,JP Morgan,Neutral,Overweight,down,LVS
+2021-09-17,Jefferies,Hold,Buy,down,LVS
+2021-09-20,Morgan Stanley,Equal-Weight,,main,LVS
+2021-10-21,Wells Fargo,Equal-Weight,,main,LVS
+2021-10-21,Credit Suisse,Outperform,,main,LVS

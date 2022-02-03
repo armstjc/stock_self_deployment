@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-30,Dahlman Rose,Hold,,init,NRP
+2012-10-03,Global Hunter Securities,Accumulate,,init,NRP
+2012-11-12,Stifel Nicolaus,Buy,,main,NRP
+2013-02-20,Stifel Nicolaus,Buy,,main,NRP
+2014-02-13,Hilliard Lyons,Neutral,Underperform,up,NRP
+2014-10-10,Wells Fargo,Outperform,Market Perform,up,NRP
+2015-02-13,Wells Fargo,Market Perform,Outperform,down,NRP
+2015-02-17,BB&T Capital,Hold,Buy,down,NRP
+2015-09-17,UBS,Sell,Neutral,down,NRP
+2016-08-08,Citigroup,Neutral,,main,NRP
+2016-08-10,UBS,Sell,,main,NRP
+2018-11-29,Citigroup,Neutral,Neutral,main,NRP
+2020-03-06,Benchmark,Buy,,init,NRP
+2020-08-11,Benchmark,Buy,,main,NRP

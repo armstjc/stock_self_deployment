@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-01,Oppenheimer,Outperform,,init,NGVT
+2016-06-10,BB&T Capital,Buy,,init,NGVT
+2016-07-07,KeyBanc,Overweight,,init,NGVT
+2016-09-23,Jefferies,Buy,,init,NGVT
+2016-09-23,Buckingham Research,Neutral,,init,NGVT
+2017-09-29,Loop Capital,Buy,,init,NGVT
+2017-11-03,Jefferies,Buy,,main,NGVT
+2017-11-14,Loop Capital,Buy,,main,NGVT
+2018-02-23,KeyBanc,Overweight,Overweight,main,NGVT
+2018-02-27,Loop Capital,Hold,Buy,down,NGVT
+2018-03-08,Buckingham,Buy,Neutral,up,NGVT
+2018-05-04,KeyBanc,Overweight,Overweight,main,NGVT
+2018-07-12,Berenberg,Buy,,init,NGVT
+2018-07-13,KeyBanc,Overweight,Overweight,main,NGVT
+2018-07-26,Buckingham,Buy,Buy,main,NGVT
+2018-07-27,KeyBanc,Overweight,Overweight,main,NGVT
+2018-12-11,Stifel Nicolaus,Hold,,init,NGVT
+2019-04-08,Oppenheimer,Outperform,Outperform,main,NGVT
+2019-05-28,Berenberg,Buy,Hold,up,NGVT
+2019-05-28,Berenberg,Buy,Hold,up,NGVT
+2019-07-18,BMO Capital,Outperform,,init,NGVT
+2019-07-19,Jefferies,Hold,Buy,down,NGVT
+2019-09-05,Loop Capital,Buy,Hold,up,NGVT
+2019-09-25,Stifel Nicolaus,Hold,,main,NGVT
+2019-09-27,BMO Capital,Outperform,,main,NGVT
+2019-10-16,Wells Fargo,Outperform,,init,NGVT
+2019-12-06,Loop Capital,Hold,Buy,down,NGVT
+2020-01-24,Loop Capital,Buy,Hold,up,NGVT
+2020-02-21,Stifel Nicolaus,Hold,,main,NGVT
+2020-03-24,Stifel,Hold,,main,NGVT
+2020-04-03,Wells Fargo,Equal-Weight,Overweight,down,NGVT
+2020-04-30,Oppenheimer,Outperform,,main,NGVT
+2020-05-01,Wells Fargo,Equal-Weight,,main,NGVT
+2020-07-31,Stifel,Buy,Hold,up,NGVT
+2020-08-06,BMO Capital,Outperform,,main,NGVT
+2021-05-04,BMO Capital,Outperform,,main,NGVT
+2021-07-29,Oppenheimer,Outperform,,main,NGVT
+2021-10-29,Wells Fargo,Equal-Weight,,main,NGVT

@@ -1,0 +1,80 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-09,Caris & Co.,Above Average,,up,IPAR
+2012-08-16,PiperJaffray,Neutral,,main,IPAR
+2012-12-14,Caris & Co.,Average,Above Average,down,IPAR
+2012-12-14,Caris & Co.,Average,Above Average,down,IPAR
+2012-12-14,Caris & Co.,Average,Above Average,down,IPAR
+2013-01-29,Oppenheimer,Outperform,,main,IPAR
+2013-01-30,Citigroup,Neutral,,main,IPAR
+2013-01-31,B. Riley FBR,Buy,Neutral,up,IPAR
+2013-03-13,PiperJaffray,Neutral,,main,IPAR
+2013-03-14,Oppenheimer,,,main,IPAR
+2013-04-22,PiperJaffray,Neutral,,main,IPAR
+2013-04-23,B. Riley FBR,Neutral,Buy,down,IPAR
+2013-05-09,Wedbush,Outperform,,main,IPAR
+2013-09-09,B. Riley FBR,Buy,Neutral,up,IPAR
+2013-11-19,Sidoti & Co.,Neutral,Buy,down,IPAR
+2014-06-16,Sidoti & Co.,Buy,Neutral,up,IPAR
+2014-07-25,Citigroup,Neutral,,main,IPAR
+2014-08-14,Citigroup,Neutral,,main,IPAR
+2014-08-22,Citigroup,Buy,,main,IPAR
+2014-08-22,Citigroup,Buy,Neutral,up,IPAR
+2014-09-18,PiperJaffray,Neutral,,init,IPAR
+2014-11-18,Citigroup,Buy,,main,IPAR
+2015-04-20,Barclays,Buy,,main,IPAR
+2015-05-04,BWS Financial,Buy,,init,IPAR
+2015-12-04,KeyBanc,Overweight,,init,IPAR
+2016-03-15,Citigroup,Buy,,main,IPAR
+2016-03-22,Sidoti & Co.,Neutral,Buy,down,IPAR
+2016-04-19,B. Riley FBR,Neutral,Buy,down,IPAR
+2016-05-16,Citigroup,Buy,,main,IPAR
+2016-07-26,B. Riley FBR,Buy,Neutral,up,IPAR
+2016-08-11,Citigroup,Buy,,main,IPAR
+2017-05-09,DA Davidson,Buy,,init,IPAR
+2017-06-02,Jefferies,Hold,,init,IPAR
+2017-10-26,DA Davidson,Neutral,Buy,down,IPAR
+2017-11-02,Sidoti & Co.,Neutral,Buy,down,IPAR
+2017-11-15,DA Davidson,Neutral,,main,IPAR
+2018-01-10,DA Davidson,Buy,Neutral,up,IPAR
+2018-01-22,Citigroup,Neutral,Buy,down,IPAR
+2018-01-23,KeyBanc,Sector Weight,Overweight,down,IPAR
+2018-04-26,DA Davidson,Buy,Buy,main,IPAR
+2018-05-10,Raymond James,Outperform,Market Perform,up,IPAR
+2018-08-09,Citigroup,Neutral,Neutral,main,IPAR
+2018-09-17,DA Davidson,Buy,Buy,main,IPAR
+2018-11-13,DA Davidson,Buy,Buy,main,IPAR
+2019-03-05,DA Davidson,Neutral,Buy,down,IPAR
+2019-03-05,Raymond James,Outperform,Outperform,main,IPAR
+2019-03-06,Citigroup,Neutral,Neutral,main,IPAR
+2019-06-10,DA Davidson,Buy,Neutral,up,IPAR
+2019-11-07,Citigroup,Neutral,,main,IPAR
+2019-11-07,DA Davidson,Neutral,Buy,down,IPAR
+2019-11-21,DA Davidson,Neutral,,main,IPAR
+2020-03-03,DA Davidson,Neutral,,main,IPAR
+2020-03-03,CFRA,Hold,,main,IPAR
+2020-03-04,Raymond James,Outperform,,main,IPAR
+2020-03-04,Citigroup,Neutral,,main,IPAR
+2020-03-20,DA Davidson,Underperform,Neutral,down,IPAR
+2020-04-23,DA Davidson,Underperform,,main,IPAR
+2020-04-23,Raymond James,Outperform,,main,IPAR
+2020-05-13,DA Davidson,Neutral,Underperform,up,IPAR
+2020-05-13,Oppenheimer,Neutral,Underperform,up,IPAR
+2020-05-13,Raymond James,Market Perform,Outperform,down,IPAR
+2020-09-10,DA Davidson,Neutral,,main,IPAR
+2020-10-28,DA Davidson,Neutral,,main,IPAR
+2020-11-11,DA Davidson,Neutral,,main,IPAR
+2020-12-02,DA Davidson,Neutral,,main,IPAR
+2021-01-26,DA Davidson,Neutral,,main,IPAR
+2021-01-27,BWS Financial,Buy,,main,IPAR
+2021-03-03,DA Davidson,Neutral,,main,IPAR
+2021-03-03,Citigroup,Neutral,,main,IPAR
+2021-04-21,DA Davidson,Neutral,,main,IPAR
+2021-07-20,DA Davidson,Buy,Neutral,up,IPAR
+2021-08-11,Citigroup,Neutral,,main,IPAR
+2021-08-11,BWS Financial,Buy,,main,IPAR
+2021-10-26,DA Davidson,Buy,,main,IPAR
+2021-11-10,DA Davidson,Buy,,main,IPAR
+2021-11-16,DA Davidson,Buy,,main,IPAR
+2021-11-18,Citigroup,Neutral,,main,IPAR
+2021-11-29,BWS Financial,Buy,,main,IPAR
+2021-12-10,DA Davidson,Buy,,main,IPAR

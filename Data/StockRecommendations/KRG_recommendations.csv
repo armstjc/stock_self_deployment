@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-20,KeyBanc,Buy,Hold,up,KRG
+2012-11-06,Bank of America,Buy,,init,KRG
+2013-01-29,Hilliard Lyons,Buy,,main,KRG
+2013-02-11,Hilliard Lyons,Long-Term Buy,Buy,down,KRG
+2013-08-14,Evercore Partners,Overweight,,init,KRG
+2013-09-10,Janney Capital,Neutral,,init,KRG
+2013-11-12,Wells Fargo,Market Perform,Underperform,up,KRG
+2014-07-08,Wells Fargo,Market Perform,,init,KRG
+2014-08-05,Raymond James,Strong Buy,Outperform,up,KRG
+2014-11-04,Stifel Nicolaus,Buy,Hold,up,KRG
+2014-11-24,Sandler O'Neill,Buy,,init,KRG
+2015-01-05,Stifel Nicolaus,Buy,,main,KRG
+2015-01-20,Cowen & Co.,Market Perform,,init,KRG
+2015-03-20,Citigroup,Buy,,main,KRG
+2015-03-24,Baird,Outperform,,init,KRG
+2015-05-04,Hilliard Lyons,Buy,Neutral,up,KRG
+2015-09-03,Raymond James,Strong Buy,Outperform,up,KRG
+2015-12-17,KeyBanc,Sector Weight,Overweight,down,KRG
+2016-01-07,Baird,Neutral,Outperform,down,KRG
+2016-04-01,DA Davidson,Buy,,init,KRG
+2016-07-22,Barclays,Overweight,,init,KRG
+2016-08-25,BTIG Research,Buy,,init,KRG
+2016-10-31,Hilliard Lyons,Buy,Neutral,up,KRG
+2016-12-12,Stifel Nicolaus,Hold,Buy,down,KRG
+2016-12-13,Citigroup,Neutral,Buy,down,KRG
+2017-01-09,Raymond James,Strong Buy,Outperform,up,KRG
+2017-03-13,Baird,Outperform,Neutral,up,KRG
+2017-07-07,Citigroup,Neutral,,main,KRG
+2018-01-30,Barclays,Overweight,Overweight,main,KRG
+2018-02-02,Bank of America,Neutral,Buy,down,KRG
+2018-02-05,DA Davidson,Neutral,Buy,down,KRG
+2018-02-05,Capital One Financial,Equal-Weight,Overweight,down,KRG
+2018-02-06,Citigroup,Neutral,Neutral,main,KRG
+2018-08-16,Citigroup,Neutral,Neutral,main,KRG
+2018-10-24,Baird,Neutral,Outperform,down,KRG
+2018-11-29,Citigroup,Neutral,Neutral,main,KRG
+2019-02-04,Barclays,Equal-Weight,Overweight,down,KRG
+2019-02-26,Raymond James,Market Perform,Outperform,down,KRG
+2019-08-15,Compass Point,Sell,,init,KRG
+2019-09-04,Compass Point,Neutral,Sell,up,KRG
+2019-11-18,Sandler O'Neill,Buy,Hold,up,KRG
+2019-11-25,Compass Point,Sell,Neutral,down,KRG
+2019-12-09,Citigroup,Neutral,,main,KRG
+2019-12-27,Compass Point,Neutral,Sell,up,KRG
+2020-01-06,Bank of America,Neutral,Underperform,up,KRG
+2020-04-07,Citigroup,Neutral,,main,KRG
+2020-04-16,Compass Point,Neutral,Buy,down,KRG
+2020-05-07,Baird,Neutral,,main,KRG
+2020-06-03,Piper Sandler,Overweight,,main,KRG
+2020-08-19,Compass Point,Buy,Neutral,up,KRG
+2020-12-10,Wells Fargo,Overweight,Equal-Weight,up,KRG
+2021-03-04,KeyBanc,Overweight,Sector Weight,up,KRG
+2021-05-06,Keybanc,Overweight,,main,KRG
+2021-06-17,Raymond James,Outperform,,main,KRG
+2021-08-25,Raymond James,Strong Buy,Outperform,up,KRG
+2021-09-01,Barclays,Overweight,,init,KRG
+2021-10-27,Jefferies,Buy,,init,KRG

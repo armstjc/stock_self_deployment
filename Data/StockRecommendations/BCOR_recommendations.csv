@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-27,Albert Fried,Market Perform,,main,BCOR
+2012-07-27,Benchmark,Buy,,main,BCOR
+2012-09-21,Benchmark,Buy,,main,BCOR
+2012-10-15,Albert Fried,Market Perform,,main,BCOR
+2013-04-30,Albert Fried,Market Perform,,main,BCOR
+2013-06-13,Barrington Research,Outperform,,init,BCOR
+2013-07-01,Wedbush,Outperform,,init,BCOR
+2013-07-02,Wedbush,Outperform,,init,BCOR
+2013-12-31,Jefferies,Hold,,init,BCOR
+2014-05-02,Benchmark,Buy,,main,BCOR
+2014-05-02,Craig-Hallum,Hold,Buy,down,BCOR
+2014-05-02,Jefferies,Hold,,main,BCOR
+2014-08-08,Benchmark,Overweight,,main,BCOR
+2014-11-03,Standpoint Research,Buy,,init,BCOR
+2014-11-06,Barrington Research,Market Perform,Outperform,down,BCOR
+2014-11-06,Jefferies,Hold,,main,BCOR
+2015-02-17,Jefferies,Hold,,main,BCOR
+2016-02-10,Benchmark,Buy,,main,BCOR
+2016-02-16,Benchmark,Buy,,main,BCOR
+2016-04-29,Craig-Hallum,Buy,Hold,up,BCOR
+2016-05-02,Barrington Research,Outperform,Market Perform,up,BCOR
+2017-03-03,Standpoint Research,Hold,Buy,down,BCOR
+2018-07-12,JP Morgan,Neutral,,init,BCOR
+2018-09-28,JP Morgan,Overweight,Neutral,up,BCOR
+2020-01-13,JP Morgan,Neutral,Overweight,down,BCOR
+2020-08-06,Benchmark,Buy,,main,BCOR
+2020-09-25,Benchmark,Buy,,main,BCOR
+2021-12-14,JP Morgan,Neutral,Overweight,down,BCOR

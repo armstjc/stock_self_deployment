@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+JBHT220819C00290000,2022-01-05 16:44:06+00:00,290.0,0.9,0.55,2.55,0.099999964,12.499995,2,2,0.3853821228027343,False,REGULAR,USD,JBHT

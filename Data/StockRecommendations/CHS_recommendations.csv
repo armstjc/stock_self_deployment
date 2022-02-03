@@ -1,0 +1,79 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-23,UBS,Neutral,,main,CHS
+2012-02-23,Bank oferica,Neutral,,main,CHS
+2012-05-16,PiperJaffray,Neutral,,main,CHS
+2012-05-17,UBS,Neutral,,main,CHS
+2012-07-26,Morgan Stanley,Underweight,Equal-Weight,down,CHS
+2012-07-30,PiperJaffray,Overweight,Neutral,up,CHS
+2012-08-22,Sterne Agee,Buy,,main,CHS
+2012-08-22,Jefferies,Hold,,main,CHS
+2012-08-22,Bank of America,Neutral,,main,CHS
+2012-08-23,JP Morgan,Overweight,,main,CHS
+2012-08-23,UBS,Neutral,,main,CHS
+2012-08-23,Jefferies,Hold,,main,CHS
+2012-11-26,JP Morgan,Overweight,,main,CHS
+2013-03-06,JP Morgan,Overweight,,main,CHS
+2013-03-14,Ascendiant Capital,Strong Buy,,init,CHS
+2013-05-07,Wells Fargo,Outperform,,init,CHS
+2013-05-13,Morgan Stanley,Equal-Weight,Underweight,up,CHS
+2013-07-19,SunTrust Robinson Humphrey,,,init,CHS
+2013-07-31,FBR Capital,Market Perform,,init,CHS
+2013-08-01,FBR Capital,Market Perform,,init,CHS
+2013-08-06,Janney Capital,Neutral,Buy,down,CHS
+2013-09-09,Nomura,Buy,,init,CHS
+2013-09-17,KeyBanc,Buy,Hold,up,CHS
+2013-09-23,Standpoint Research,Buy,,init,CHS
+2013-09-30,Barclays,Equal-Weight,,init,CHS
+2013-10-04,Wells Fargo,Market Perform,Outperform,down,CHS
+2013-11-15,Mizuho,Neutral,,init,CHS
+2013-11-18,Goldman Sachs,Neutral,,init,CHS
+2014-01-02,Jefferies,Buy,Hold,up,CHS
+2014-04-15,FBR Capital,Outperform,Market Perform,up,CHS
+2014-04-15,FBR Capital,Market Perform,,main,CHS
+2014-05-29,UBS,Neutral,,main,CHS
+2014-09-03,Maxim Group,Hold,Buy,down,CHS
+2014-09-29,Oppenheimer,Outperform,Market Perform,up,CHS
+2014-11-06,Brean Capital,Buy,,init,CHS
+2014-11-07,Brean Capital,Buy,,init,CHS
+2015-05-04,RBC Capital,Outperform,,init,CHS
+2015-05-26,Mizuho,Buy,Neutral,up,CHS
+2015-07-06,Oppenheimer,Perform,Outperform,down,CHS
+2015-08-17,Wolfe Research,Peer Perform,,init,CHS
+2015-10-07,Citigroup,Neutral,,init,CHS
+2015-11-23,Wolfe Research,Underperform,Peer Perform,down,CHS
+2015-11-25,Brean Capital,Buy,,main,CHS
+2015-11-25,Morgan Stanley,Equal-Weight,,main,CHS
+2016-01-04,Jefferies,Hold,Buy,down,CHS
+2016-03-07,Standpoint Research,Hold,Buy,down,CHS
+2016-04-26,Deutsche Bank,Hold,,init,CHS
+2016-05-26,Wolfe Research,Peer Perform,Underperform,up,CHS
+2016-05-27,Citigroup,Neutral,,main,CHS
+2016-05-27,SunTrust Robinson Humphrey,Buy,,main,CHS
+2016-11-14,Citigroup,Buy,Neutral,up,CHS
+2016-11-14,Wolfe Research,Outperform,Peer Perform,up,CHS
+2016-11-15,KeyBanc,Sector Weight,Overweight,down,CHS
+2016-11-16,Nomura,Neutral,Buy,down,CHS
+2016-11-23,Deutsche Bank,Hold,,main,CHS
+2016-11-23,MKM Partners,Neutral,,main,CHS
+2017-08-31,Deutsche Bank,Hold,,main,CHS
+2017-10-11,Bank of America,Underperform,Neutral,down,CHS
+2017-10-16,Citigroup,Neutral,Buy,down,CHS
+2018-03-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHS
+2018-03-05,Nomura,Neutral,Neutral,main,CHS
+2018-05-31,Citigroup,Neutral,Neutral,main,CHS
+2018-05-31,B. Riley FBR,Buy,Buy,main,CHS
+2018-06-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHS
+2018-11-29,RBC Capital,Sector Perform,Outperform,down,CHS
+2018-11-29,Citigroup,Neutral,Neutral,main,CHS
+2018-11-29,MKM Partners,Neutral,Neutral,main,CHS
+2018-11-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHS
+2019-08-29,Morgan Stanley,Equal-Weight,,main,CHS
+2019-08-29,Telsey Advisory Group,Market Perform,,main,CHS
+2020-01-09,B. Riley FBR,Buy,,main,CHS
+2020-02-28,B of A Securities,Underperform,,main,CHS
+2020-03-19,Morgan Stanley,Equal-Weight,,main,CHS
+2020-03-26,B. Riley FBR,Buy,,main,CHS
+2020-11-17,B. Riley FBR,Neutral,Buy,down,CHS
+2021-06-03,Telsey Advisory Group,Market Perform,,main,CHS
+2021-06-09,Telsey Advisory Group,Market Perform,,main,CHS
+2021-12-01,B. Riley Securities,Neutral,,main,CHS

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-02,Jefferies,Buy,,main,DVAX
+2012-11-06,JMP Securities,Market Outperform,,init,DVAX
+2012-11-16,McNicoll Lewis Vlak,Buy,,main,DVAX
+2012-11-16,Jefferies,Buy,,main,DVAX
+2013-01-02,JP Morgan,Neutral,,init,DVAX
+2013-02-25,McNicoll Lewis Vlak,Hold,Buy,down,DVAX
+2013-06-10,JMP Securities,Market Perform,Market Outperform,down,DVAX
+2013-06-11,Jefferies,Buy,,main,DVAX
+2013-11-08,Jefferies,Buy,,main,DVAX
+2013-11-25,McNicoll Lewis Vlak,Buy,Hold,up,DVAX
+2015-03-23,JP Morgan,Overweight,Neutral,up,DVAX
+2015-11-30,RBC Capital,Outperform,,init,DVAX
+2016-04-27,JP Morgan,Neutral,Overweight,down,DVAX
+2016-04-28,RBC Capital,Sector Perform,Outperform,down,DVAX
+2017-07-31,RBC Capital,Outperform,Sector Perform,up,DVAX
+2017-09-15,Cantor Fitzgerald,Overweight,,init,DVAX
+2017-11-10,Cantor Fitzgerald,Overweight,,main,DVAX
+2018-02-14,JP Morgan,Neutral,Neutral,main,DVAX
+2018-02-14,JP Morgan,Neutral,Overweight,down,DVAX
+2018-05-10,JP Morgan,Overweight,Neutral,up,DVAX
+2018-11-06,RBC Capital,Outperform,Outperform,main,DVAX
+2019-07-11,Cantor Fitzgerald,Overweight,Neutral,up,DVAX
+2019-10-18,HC Wainwright & Co.,Buy,,init,DVAX
+2020-03-12,H.C. Wainwright,Buy,,reit,DVAX
+2020-08-03,HC Wainwright & Co.,Buy,,main,DVAX
+2020-08-07,HC Wainwright & Co.,Buy,,main,DVAX
+2020-11-06,HC Wainwright & Co.,Buy,,main,DVAX
+2021-02-01,HC Wainwright & Co.,Buy,,main,DVAX
+2021-08-05,HC Wainwright & Co.,Buy,,main,DVAX
+2021-08-06,Goldman Sachs,Buy,,init,DVAX
+2021-08-31,HC Wainwright & Co.,Buy,,main,DVAX
+2021-12-29,HC Wainwright & Co.,Buy,,main,DVAX

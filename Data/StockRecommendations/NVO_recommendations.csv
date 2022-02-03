@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-06,Jefferies,Hold,Buy,down,NVO
+2013-02-11,Natixis,Neutral,Buy,down,NVO
+2013-02-11,Kepler Cheuvreux,Hold,Buy,down,NVO
+2013-02-12,Nomura,Buy,Neutral,up,NVO
+2013-03-18,JP Morgan,Underweight,Neutral,down,NVO
+2013-04-16,Swedbank,Buy,Neutral,up,NVO
+2013-05-24,Natixis,Buy,Neutral,up,NVO
+2013-06-11,Handelsbanken,Buy,Accumulate,up,NVO
+2013-06-17,Bank of America,Neutral,Buy,down,NVO
+2013-06-19,Exane BNP Paribas,Underperform,Neutral,down,NVO
+2013-06-24,Helvea-Baader,Buy,Accumulate,up,NVO
+2013-09-06,Swedbank,Buy,Strong Buy,down,NVO
+2013-09-16,Barclays,Overweight,Underweight,up,NVO
+2013-11-01,Swedbank,Neutral,,down,NVO
+2014-01-31,Swedbank,Buy,Neutral,up,NVO
+2014-02-24,JP Morgan,Overweight,Underweight,up,NVO
+2014-02-25,Bank of America,Buy,,up,NVO
+2015-01-28,Commerzbank,Hold,Buy,down,NVO
+2015-08-28,Leerink Swann,Market Perform,,init,NVO
+2015-10-19,Jyske Bank,Strong Buy,Buy,up,NVO
+2016-01-26,Oddo Securities,Buy,Neutral,up,NVO
+2016-02-08,UBS,Sell,Neutral,down,NVO
+2016-02-15,Goldman Sachs,Buy,,main,NVO
+2016-08-08,Bank of America,Neutral,Buy,down,NVO
+2016-08-31,HSBC,Hold,Reduce,up,NVO
+2016-09-09,JP Morgan,Neutral,Outperform,down,NVO
+2016-09-12,Deutsche Bank,Buy,Hold,up,NVO
+2016-09-14,Exane BNP Paribas,Outperform,Neutral,up,NVO
+2016-09-23,PiperJaffray,Neutral,,init,NVO
+2016-10-28,Bank of America,Underperform,Neutral,down,NVO
+2016-10-31,Citigroup,Neutral,Buy,down,NVO
+2016-12-06,UBS,Buy,Sell,up,NVO
+2017-09-06,Bank of America,Neutral,Underperform,up,NVO
+2017-12-01,Morgan Stanley,Overweight,Equal-Weight,up,NVO
+2017-12-06,Bank of America,Buy,Neutral,up,NVO
+2017-12-29,JP Morgan,Neutral,Underweight,up,NVO
+2018-10-08,Bank of America,Neutral,Buy,down,NVO
+2018-11-19,JP Morgan,Overweight,Neutral,up,NVO
+2018-12-14,Morgan Stanley,Equal-Weight,,init,NVO
+2019-01-29,Exane BNP Paribas,Outperform,,init,NVO
+2019-04-29,Credit Suisse,Outperform,Neutral,up,NVO
+2019-06-11,Barclays,Equal-Weight,Underweight,up,NVO
+2019-06-20,Deutsche Bank,Hold,Buy,down,NVO
+2019-08-30,Jefferies,Underperform,Hold,down,NVO
+2019-09-13,Bank of America,Neutral,,reit,NVO
+2019-09-17,Citigroup,Buy,Neutral,up,NVO
+2019-11-18,Barclays,Overweight,Equal-Weight,up,NVO
+2019-11-18,UBS,Neutral,Buy,down,NVO
+2020-01-03,Guggenheim Securities,Neutral,Buy,down,NVO
+2020-01-17,B of A Securities,Neutral,,reit,NVO
+2021-01-15,Deutsche Bank,Buy,,init,NVO
+2021-12-20,JP Morgan,Neutral,Overweight,down,NVO

@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-05,Seaport Global,Neutral,,init,AFRM
+2021-02-08,Truist Securities,Buy,,init,AFRM
+2021-02-08,Barclays,Overweight,,init,AFRM
+2021-02-08,Credit Suisse,Neutral,,init,AFRM
+2021-02-08,Goldman Sachs,Neutral,,init,AFRM
+2021-02-08,Deutsche Bank,Hold,,init,AFRM
+2021-02-08,RBC Capital,Outperform,,init,AFRM
+2021-02-08,Morgan Stanley,Overweight,,init,AFRM
+2021-02-12,Morgan Stanley,Overweight,,main,AFRM
+2021-02-16,Barclays,Overweight,,main,AFRM
+2021-03-17,Deutsche Bank,Hold,,main,AFRM
+2021-03-25,B of A Securities,Neutral,,init,AFRM
+2021-04-12,Credit Suisse,Neutral,,main,AFRM
+2021-04-16,Seaport Global,Buy,Neutral,up,AFRM
+2021-04-20,Barclays,Overweight,,main,AFRM
+2021-05-11,RBC Capital,Outperform,,main,AFRM
+2021-05-11,Credit Suisse,Neutral,,main,AFRM
+2021-05-12,Morgan Stanley,Overweight,,main,AFRM
+2021-05-26,Jefferies,Hold,,init,AFRM
+2021-06-01,B of A Securities,Buy,Neutral,up,AFRM
+2021-06-02,Truist Securities,Buy,,main,AFRM
+2021-06-16,Mizuho,Buy,,init,AFRM
+2021-06-22,Stephens & Co.,Underweight,,init,AFRM
+2021-06-24,DA Davidson,Buy,,init,AFRM
+2021-07-19,Mizuho,Buy,,main,AFRM
+2021-08-03,DA Davidson,Neutral,Buy,down,AFRM
+2021-08-25,B of A Securities,Buy,,main,AFRM
+2021-08-30,Barclays,Overweight,,main,AFRM
+2021-08-30,Mizuho,Buy,,main,AFRM
+2021-08-30,Morgan Stanley,Overweight,,main,AFRM
+2021-09-10,Morgan Stanley,Overweight,,main,AFRM
+2021-09-10,Deutsche Bank,Hold,,main,AFRM
+2021-09-10,Credit Suisse,Neutral,,main,AFRM
+2021-09-10,DA Davidson,Neutral,,main,AFRM
+2021-09-10,RBC Capital,Outperform,,main,AFRM
+2021-09-13,Barclays,Overweight,,main,AFRM
+2021-09-24,Mizuho,Buy,,main,AFRM
+2021-09-29,Jefferies,Hold,,main,AFRM
+2021-10-21,Barclays,Overweight,,main,AFRM
+2021-11-03,SMBC Nikko,Outperform,,init,AFRM
+2021-11-11,Credit Suisse,Neutral,,main,AFRM
+2021-11-11,RBC Capital,Outperform,,main,AFRM
+2021-11-12,Morgan Stanley,Overweight,,main,AFRM
+2021-11-29,Piper Sandler,Neutral,,init,AFRM
+2021-12-14,Mizuho,Buy,,main,AFRM

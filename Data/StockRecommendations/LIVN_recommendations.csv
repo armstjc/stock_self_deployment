@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-08-15,WBB Securities,Sell,Hold,down,LIVN
+2017-08-23,Needham,Hold,,init,LIVN
+2017-09-08,Jefferies,Buy,,init,LIVN
+2017-09-15,Needham,Buy,Hold,up,LIVN
+2017-09-15,Jefferies,Buy,,main,LIVN
+2017-11-03,Jefferies,Buy,,main,LIVN
+2018-02-27,Canaccord Genuity,Hold,Hold,main,LIVN
+2018-03-01,Canaccord Genuity,Hold,Hold,main,LIVN
+2018-06-08,Stifel Nicolaus,Buy,,init,LIVN
+2018-07-24,Stifel Nicolaus,Buy,Buy,main,LIVN
+2018-09-17,Stifel Nicolaus,Buy,Buy,main,LIVN
+2018-11-28,UBS,Neutral,,init,LIVN
+2020-03-24,Stifel,Buy,,main,LIVN
+2020-04-30,Canaccord Genuity,Hold,,main,LIVN
+2020-04-30,UBS,Neutral,,main,LIVN
+2020-06-26,Needham,Buy,,main,LIVN
+2020-07-29,Needham,Buy,,main,LIVN
+2020-09-02,Baird,Outperform,,init,LIVN
+2021-01-05,Needham,Hold,Buy,down,LIVN
+2021-03-03,Berenberg,Hold,Buy,down,LIVN
+2021-04-13,Piper Sandler,Overweight,,main,LIVN
+2021-06-02,Piper Sandler,Overweight,,main,LIVN
+2021-07-20,Needham,Buy,Hold,up,LIVN
+2021-08-17,Baird,Outperform,,main,LIVN
+2021-08-20,Needham,Buy,,main,LIVN
+2021-11-03,Needham,Buy,,main,LIVN
+2021-12-03,Goldman Sachs,Buy,,init,LIVN

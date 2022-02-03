@@ -1,0 +1,144 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-01-06,Deutsche Bank,Buy,Hold,up,ANTM
+2015-01-08,Barclays,Equal-Weight,,main,ANTM
+2015-01-20,Jefferies,Buy,,main,ANTM
+2015-01-29,Jefferies,Buy,,main,ANTM
+2015-01-29,Credit Suisse,Neutral,,main,ANTM
+2015-03-20,Barclays,Equal-Weight,,main,ANTM
+2015-04-16,Oppenheimer,Outperform,,main,ANTM
+2015-04-30,Barclays,Equal-Weight,,main,ANTM
+2015-04-30,Jefferies,Buy,,main,ANTM
+2015-05-01,Oppenheimer,Outperform,,main,ANTM
+2015-05-22,Susquehanna,Positive,,main,ANTM
+2015-06-15,Cowen & Co.,Outperform,,main,ANTM
+2015-06-17,Morgan Stanley,Equal-Weight,,main,ANTM
+2015-06-24,RBC Capital,Outperform,,init,ANTM
+2015-07-27,Sterne Agee CRT,Buy,Neutral,up,ANTM
+2015-07-30,Cantor Fitzgerald,Hold,,main,ANTM
+2015-09-16,JP Morgan,Overweight,,init,ANTM
+2015-10-29,Barclays,Equal-Weight,,main,ANTM
+2016-01-08,Jefferies,Buy,,main,ANTM
+2016-01-20,Goldman Sachs,Buy,Neutral,up,ANTM
+2016-01-28,FBR Capital,Market Perform,,main,ANTM
+2016-01-28,Jefferies,Buy,,main,ANTM
+2016-04-04,Leerink Swann,Outperform,,main,ANTM
+2016-04-08,Cleveland Research,Buy,,init,ANTM
+2016-05-24,Sterne Agee CRT,Neutral,,down,ANTM
+2016-05-24,Sterne Agee CRT,Neutral,,down,ANTM
+2016-06-16,Bernstein,Outperform,,init,ANTM
+2016-07-28,Jefferies,Buy,,main,ANTM
+2016-07-28,Citigroup,Buy,,main,ANTM
+2016-07-28,Barclays,Equal-Weight,,main,ANTM
+2016-09-13,Jefferies,Hold,Buy,down,ANTM
+2016-09-23,Evercore ISI Group,Hold,,init,ANTM
+2016-10-17,JP Morgan,Neutral,Overweight,down,ANTM
+2016-11-15,Wells Fargo,Outperform,Market Perform,up,ANTM
+2016-11-22,Wolfe Research,Outperform,Peer Perform,up,ANTM
+2017-01-04,Stifel Nicolaus,Hold,Buy,down,ANTM
+2017-01-04,PiperJaffray,Neutral,,init,ANTM
+2017-04-05,Deutsche Bank,Hold,,init,ANTM
+2017-04-27,Cantor Fitzgerald,Overweight,Hold,up,ANTM
+2017-06-07,Morgan Stanley,Equal-Weight,,init,ANTM
+2017-07-12,Credit Suisse,Neutral,Neutral,init,ANTM
+2017-07-13,Deutsche Bank,Hold,,main,ANTM
+2017-07-14,Bank of America,Buy,,main,ANTM
+2017-08-17,Morgan Stanley,Equal-Weight,,main,ANTM
+2017-10-13,Jefferies,Hold,,main,ANTM
+2017-10-26,Morgan Stanley,Equal-Weight,,main,ANTM
+2017-11-02,Credit Suisse,Outperform,,init,ANTM
+2017-11-07,Leerink Swann,Outperform,,main,ANTM
+2017-11-17,Bank of America,Buy,,main,ANTM
+2018-01-03,PiperJaffray,Overweight,Neutral,up,ANTM
+2018-01-12,Jefferies,Buy,Hold,up,ANTM
+2018-02-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,ANTM
+2018-02-01,Wells Fargo,Outperform,Outperform,main,ANTM
+2018-03-08,Barclays,Overweight,,init,ANTM
+2018-04-26,JP Morgan,Overweight,Neutral,up,ANTM
+2018-04-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,ANTM
+2018-04-26,Credit Suisse,Outperform,Outperform,main,ANTM
+2018-07-09,BMO Capital,Outperform,Market Perform,up,ANTM
+2018-07-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,ANTM
+2018-09-05,Morgan Stanley,Overweight,Equal-Weight,up,ANTM
+2018-09-10,Citigroup,Neutral,Buy,down,ANTM
+2018-09-17,Cowen & Co.,Outperform,,init,ANTM
+2018-11-01,Credit Suisse,Outperform,Outperform,main,ANTM
+2018-11-01,BMO Capital,Outperform,Outperform,main,ANTM
+2018-11-01,Barclays,Overweight,Overweight,main,ANTM
+2018-11-06,Citigroup,Neutral,Neutral,main,ANTM
+2018-12-03,Jefferies,Buy,Buy,main,ANTM
+2018-12-04,Cantor Fitzgerald,Overweight,Overweight,main,ANTM
+2019-01-03,Evercore ISI Group,Outperform,In-Line,up,ANTM
+2019-01-14,Stephens & Co.,Overweight,,init,ANTM
+2019-01-24,Argus,Buy,,init,ANTM
+2019-01-31,Morgan Stanley,Overweight,Overweight,reit,ANTM
+2019-03-08,Credit Suisse,Outperform,Outperform,main,ANTM
+2019-04-17,Barclays,Overweight,Overweight,main,ANTM
+2019-04-23,UBS,Buy,,init,ANTM
+2019-04-25,Barclays,Overweight,Overweight,main,ANTM
+2019-04-25,Morgan Stanley,Overweight,Overweight,main,ANTM
+2019-07-12,Morgan Stanley,Overweight,,main,ANTM
+2019-09-12,Deutsche Bank,Buy,,init,ANTM
+2019-09-26,Morgan Stanley,Overweight,,main,ANTM
+2019-10-18,Mizuho,Neutral,,init,ANTM
+2019-10-24,Credit Suisse,Outperform,,main,ANTM
+2019-10-24,Morgan Stanley,Overweight,,main,ANTM
+2019-11-18,SunTrust Robinson Humphrey,Hold,,main,ANTM
+2019-11-22,Morgan Stanley,Overweight,,main,ANTM
+2019-12-06,Bank of America,Neutral,Buy,down,ANTM
+2019-12-20,JP Morgan,Overweight,,main,ANTM
+2020-01-29,Stephens & Co.,Overweight,,main,ANTM
+2020-01-30,B of A Securities,Neutral,,main,ANTM
+2020-01-31,Credit Suisse,Outperform,,main,ANTM
+2020-01-31,Morgan Stanley,Overweight,,main,ANTM
+2020-01-31,Deutsche Bank,Buy,,main,ANTM
+2020-02-18,Deutsche Bank,Buy,,main,ANTM
+2020-03-27,Morgan Stanley,Overweight,,main,ANTM
+2020-04-09,Jefferies,Hold,Buy,down,ANTM
+2020-04-13,Morgan Stanley,Overweight,,main,ANTM
+2020-04-13,SunTrust Robinson Humphrey,Hold,,main,ANTM
+2020-04-29,CFRA,Buy,Hold,up,ANTM
+2020-04-30,Morgan Stanley,Overweight,,main,ANTM
+2020-05-12,UBS,Buy,,main,ANTM
+2020-05-21,SunTrust Robinson Humphrey,Hold,,main,ANTM
+2020-06-05,Goldman Sachs,Neutral,,init,ANTM
+2020-07-01,SVB Leerink,Outperform,,init,ANTM
+2020-07-10,Jefferies,Hold,,main,ANTM
+2020-07-30,SVB Leerink,Outperform,,main,ANTM
+2020-07-30,Deutsche Bank,Buy,,main,ANTM
+2020-07-30,RBC Capital,Outperform,,main,ANTM
+2020-10-29,SVB Leerink,Outperform,,main,ANTM
+2020-10-29,Deutsche Bank,Buy,,main,ANTM
+2020-12-14,SVB Leerink,Outperform,,main,ANTM
+2021-01-15,Jefferies,Buy,Hold,up,ANTM
+2021-01-26,Cowen & Co.,Outperform,,main,ANTM
+2021-01-28,Credit Suisse,Outperform,,main,ANTM
+2021-03-04,Truist Securities,Buy,Hold,up,ANTM
+2021-04-14,Cowen & Co.,Outperform,,main,ANTM
+2021-04-14,Truist Securities,Buy,,main,ANTM
+2021-04-22,Barclays,Overweight,,main,ANTM
+2021-04-22,Credit Suisse,Outperform,,main,ANTM
+2021-04-22,Stephens & Co.,Overweight,,main,ANTM
+2021-04-22,RBC Capital,Outperform,,main,ANTM
+2021-05-03,Mizuho,Neutral,,main,ANTM
+2021-05-19,Wells Fargo,Overweight,,init,ANTM
+2021-06-10,RBC Capital,Sector Perform,Outperform,down,ANTM
+2021-07-02,Morgan Stanley,Overweight,,main,ANTM
+2021-07-09,Seaport Global,Buy,,init,ANTM
+2021-07-22,RBC Capital,Sector Perform,,main,ANTM
+2021-07-22,BMO Capital,Outperform,,main,ANTM
+2021-07-22,Jefferies,Buy,,main,ANTM
+2021-07-22,Stephens & Co.,Overweight,,main,ANTM
+2021-07-22,Mizuho,Neutral,,main,ANTM
+2021-07-22,Barclays,Overweight,,main,ANTM
+2021-08-31,Morgan Stanley,Overweight,,main,ANTM
+2021-09-27,SVB Leerink,Market Perform,,init,ANTM
+2021-10-21,Stephens & Co.,Overweight,,main,ANTM
+2021-10-21,Morgan Stanley,Overweight,,main,ANTM
+2021-10-21,Barclays,Overweight,,main,ANTM
+2021-10-21,RBC Capital,Sector Perform,,main,ANTM
+2021-10-21,Credit Suisse,Outperform,,main,ANTM
+2021-10-21,SVB Leerink,Market Perform,,main,ANTM
+2021-10-25,Wells Fargo,Overweight,,main,ANTM
+2021-10-29,Mizuho,Neutral,,main,ANTM
+2021-12-17,Morgan Stanley,Overweight,,main,ANTM
+2021-12-20,Mizuho,Buy,Neutral,up,ANTM

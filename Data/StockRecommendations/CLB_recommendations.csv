@@ -1,0 +1,108 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,Pritchard Capital Partners,Buy,,main,CLB
+2012-07-20,Dahlman Rose,Hold,,main,CLB
+2012-10-01,FIG Partners,,,init,CLB
+2012-10-02,Barclays,Overweight,,main,CLB
+2012-12-04,Global Hunter Securities,Buy,,init,CLB
+2013-01-31,FBR Capital,Outperform,Market Perform,up,CLB
+2013-04-11,Guggenheim,Buy,,init,CLB
+2013-04-18,Tudor Pickering,Hold,Sell,up,CLB
+2013-08-28,Scotia Howard Weil,Sector Outperform,Sector Perform,up,CLB
+2013-09-23,Morgan Stanley,Overweight,,init,CLB
+2013-11-04,iBERIA Capital Partners,Outperform,,init,CLB
+2014-01-06,Guggenheim,Neutral,Buy,down,CLB
+2014-04-10,S&P Capital IQ,Hold,Buy,down,CLB
+2014-04-24,Morgan Stanley,Underweight,Overweight,down,CLB
+2014-05-12,iBERIA Capital Partners,Sector Perform,Outperform,down,CLB
+2014-05-12,Morgan Stanley,Equal-Weight,Underweight,up,CLB
+2014-06-18,iBERIA Capital Partners,Outperform,Sector Perform,up,CLB
+2014-07-28,Guggenheim,Buy,Neutral,up,CLB
+2014-10-16,ISI Group,Buy,,init,CLB
+2014-10-28,Morgan Stanley,Overweight,Equal-weight,up,CLB
+2014-11-18,SunTrust Robinson Humphrey,Buy,,init,CLB
+2015-03-02,Guggenheim,Neutral,Buy,down,CLB
+2015-03-13,iBERIA Capital Partners,Sector Perform,Outperform,down,CLB
+2015-04-24,iBERIA Capital Partners,Outperform,Sector Perform,up,CLB
+2015-04-30,ING,Hold,Buy,down,CLB
+2015-09-18,RBC Capital,Outperform,Sector Perform,up,CLB
+2015-09-30,Sterne Agee CRT,Neutral,,main,CLB
+2015-11-30,Guggenheim,Buy,Neutral,up,CLB
+2015-12-14,KLR Group,Buy,,init,CLB
+2016-01-12,Oppenheimer,Perform,,init,CLB
+2016-01-26,HSBC,Reduce,Hold,down,CLB
+2016-03-18,Citigroup,Neutral,,main,CLB
+2016-04-05,Stephens & Co.,Equal-Weight,,init,CLB
+2016-04-19,Morgan Stanley,Overweight,,main,CLB
+2016-04-22,ABN Amro,Sell,Buy,down,CLB
+2016-04-22,Stephens & Co.,Equal-Weight,,main,CLB
+2016-04-22,Cowen & Co.,Market Perform,,main,CLB
+2016-05-16,Citigroup,Neutral,,main,CLB
+2016-06-10,JP Morgan,Overweight,,init,CLB
+2016-07-25,Citigroup,Neutral,,main,CLB
+2016-09-01,Credit Suisse,Neutral,,init,CLB
+2016-09-12,Citigroup,Neutral,,main,CLB
+2016-09-28,Citigroup,Neutral,,main,CLB
+2016-09-30,Loop Capital,Hold,,init,CLB
+2016-10-06,DA Davidson,Buy,,init,CLB
+2016-10-11,Citigroup,Neutral,,main,CLB
+2016-12-13,UBS,Neutral,,init,CLB
+2017-04-21,Loop Capital,Buy,Hold,up,CLB
+2017-07-26,UBS,Neutral,,main,CLB
+2017-07-26,Citigroup,Neutral,,main,CLB
+2017-08-07,Morgan Stanley,Overweight,,main,CLB
+2017-08-24,Credit Suisse,Outperform,Neutral,up,CLB
+2017-10-10,Deutsche Bank,Buy,,init,CLB
+2017-10-25,Loop Capital,Buy,,main,CLB
+2017-10-25,UBS,Neutral,,main,CLB
+2018-01-11,Deutsche Bank,Hold,Buy,down,CLB
+2018-04-30,Citigroup,Neutral,Neutral,main,CLB
+2018-07-27,JP Morgan,Overweight,Overweight,main,CLB
+2018-08-14,Citigroup,Neutral,Sell,up,CLB
+2018-09-04,Edward Jones,Buy,,init,CLB
+2018-09-11,Stifel Nicolaus,Hold,,init,CLB
+2018-09-14,Citigroup,Neutral,Neutral,main,CLB
+2018-09-17,JP Morgan,Overweight,Overweight,main,CLB
+2018-09-19,Morgan Stanley,Equal-Weight,,init,CLB
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,CLB
+2018-10-26,Credit Suisse,Outperform,Outperform,main,CLB
+2018-10-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,CLB
+2018-10-29,Stifel Nicolaus,Buy,Hold,up,CLB
+2018-11-01,ABN Amro,Buy,Sell,up,CLB
+2018-11-16,Guggenheim,Buy,Neutral,up,CLB
+2018-12-11,JP Morgan,Neutral,Overweight,down,CLB
+2018-12-12,JP Morgan,Neutral,Neutral,main,CLB
+2018-12-19,Credit Suisse,Neutral,Outperform,down,CLB
+2019-01-04,Citigroup,Neutral,Neutral,main,CLB
+2019-07-10,Bank of America,Buy,Neutral,up,CLB
+2019-07-12,Morgan Stanley,Equal-Weight,,main,CLB
+2019-09-11,Citigroup,Neutral,,main,CLB
+2019-10-07,Morgan Stanley,Equal-Weight,,main,CLB
+2019-10-18,Citigroup,Neutral,,main,CLB
+2019-12-10,Citigroup,Neutral,,main,CLB
+2019-12-31,Cowen & Co.,Market Perform,,main,CLB
+2020-01-02,Stifel,Hold,Buy,down,CLB
+2020-01-14,Bernstein,Market Perform,,init,CLB
+2020-03-09,B of A Securities,Underperform,Buy,down,CLB
+2020-03-10,Stifel,Hold,,main,CLB
+2020-03-13,Citigroup,Neutral,,main,CLB
+2020-03-16,Morgan Stanley,Equal-Weight,,main,CLB
+2020-03-17,JP Morgan,Neutral,,main,CLB
+2020-03-18,Stifel,Hold,,main,CLB
+2020-04-07,Piper Sandler,Neutral,,main,CLB
+2020-04-13,ScotiaBank,Sector Outperform,Sector Perform,up,CLB
+2020-04-24,Stifel,Hold,,main,CLB
+2020-05-19,Morgan Stanley,Equal-Weight,,main,CLB
+2020-07-08,Morgan Stanley,Equal-Weight,,main,CLB
+2020-07-24,Stifel,Hold,,main,CLB
+2020-07-27,Piper Sandler,Neutral,,main,CLB
+2020-09-29,ABN Amro,Hold,Sell,up,CLB
+2020-10-26,Morgan Stanley,Equal-Weight,,main,CLB
+2020-11-10,Morgan Stanley,Overweight,Equal-Weight,up,CLB
+2020-12-18,JP Morgan,Underweight,Neutral,down,CLB
+2021-03-25,Morgan Stanley,Overweight,,main,CLB
+2021-06-14,Citigroup,Sell,Neutral,down,CLB
+2021-07-09,Morgan Stanley,Equal-Weight,Overweight,down,CLB
+2021-08-03,Morgan Stanley,Equal-Weight,,main,CLB
+2021-10-11,Morgan Stanley,Equal-Weight,,main,CLB
+2021-10-18,B of A Securities,Underperform,Neutral,down,CLB
+2021-12-07,Morgan Stanley,Equal-Weight,,main,CLB

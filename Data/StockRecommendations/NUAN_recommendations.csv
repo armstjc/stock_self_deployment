@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-11,Deutsche Bank,Buy,,main,NUAN
+2012-08-08,Deutsche Bank,Buy,,main,NUAN
+2012-09-13,Morgan Stanley,Overweight,,init,NUAN
+2012-11-15,Deutsche Bank,Buy,,main,NUAN
+2012-11-20,Stifel Nicolaus,Buy,,main,NUAN
+2012-11-20,UBS,Buy,,main,NUAN
+2013-02-08,Craig-Hallum,Hold,Buy,down,NUAN
+2013-02-08,Needham,Hold,Buy,down,NUAN
+2013-02-08,Stifel Nicolaus,Hold,Buy,down,NUAN
+2013-02-08,UBS,Buy,,main,NUAN
+2013-04-30,FBR Capital,Market Perform,Outperform,down,NUAN
+2013-05-01,Morgan Stanley,Equal-weight,Overweight,down,NUAN
+2013-05-01,UBS,Buy,,main,NUAN
+2013-05-09,Wedbush,Outperform,,init,NUAN
+2013-05-10,Wedbush,Outperform,,init,NUAN
+2013-11-26,Wedbush,Neutral,Outperform,down,NUAN
+2013-11-26,UBS,Neutral,Buy,down,NUAN
+2013-11-27,Standpoint Research,Buy,,init,NUAN
+2014-04-01,Standpoint Research,Hold,,down,NUAN
+2014-05-09,Canaccord Genuity,Buy,,main,NUAN
+2014-05-16,Standpoint Research,Buy,Hold,up,NUAN
+2014-06-30,Standpoint Research,Hold,Buy,down,NUAN
+2014-10-15,Standpoint,Buy,Hold,up,NUAN
+2015-01-09,Goldman Sachs,Sell,Neutral,down,NUAN
+2015-05-11,Standpoint Research,Buy,Hold,down,NUAN
+2015-06-03,Raymond James,Outperform,Market Perform,up,NUAN
+2015-08-07,Canaccord Genuity,Buy,,main,NUAN
+2015-09-09,Leerink Swann,Outperform,,init,NUAN
+2015-11-17,Deutsche Bank,Buy,,main,NUAN
+2016-04-15,Barclays,Equal-Weight,,init,NUAN
+2016-08-09,UBS,Neutral,,main,NUAN
+2016-08-09,Barclays,Equal-Weight,,main,NUAN
+2016-08-09,Deutsche Bank,Buy,,main,NUAN
+2016-11-18,Raymond James,Strong Buy,Outperform,up,NUAN
+2017-01-06,Barclays,Overweight,Equal-Weight,up,NUAN
+2017-07-25,Morgan Stanley,Equal-Weight,,main,NUAN
+2017-08-09,Barclays,Overweight,,main,NUAN
+2017-08-09,Deutsche Bank,Buy,,main,NUAN
+2017-08-09,Raymond James,Strong Buy,,main,NUAN
+2017-08-09,Canaccord Genuity,Buy,,main,NUAN
+2017-11-02,Morgan Stanley,Overweight,Equal-Weight,up,NUAN
+2018-08-09,Stifel Nicolaus,Hold,Hold,main,NUAN
+2018-08-09,Barclays,Overweight,Overweight,main,NUAN
+2018-08-09,Standpoint Research,Hold,Buy,down,NUAN
+2018-10-19,Wedbush,Outperform,,init,NUAN
+2019-01-15,Morgan Stanley,Equal-Weight,Overweight,down,NUAN
+2019-09-23,Morgan Stanley,Equal-Weight,,main,NUAN
+2019-10-07,Barclays,Overweight,,main,NUAN
+2020-01-13,Morgan Stanley,Overweight,Equal-Weight,up,NUAN
+2020-01-21,Wedbush,Outperform,,main,NUAN
+2020-03-25,Morgan Stanley,Overweight,,main,NUAN
+2020-04-14,Guggenheim,Neutral,,init,NUAN
+2020-06-29,SVB Leerink,Outperform,,init,NUAN
+2020-07-20,Barclays,Overweight,,main,NUAN
+2020-08-06,Wedbush,Outperform,,main,NUAN
+2020-08-06,Morgan Stanley,Overweight,,main,NUAN
+2020-08-07,SVB Leerink,Outperform,,main,NUAN
+2020-09-23,Wedbush,Outperform,,main,NUAN
+2020-11-13,SVB Leerink,Outperform,,main,NUAN
+2020-11-16,Morgan Stanley,Overweight,,main,NUAN
+2020-11-19,SVB Leerink,Outperform,,main,NUAN
+2020-11-19,Morgan Stanley,Overweight,,main,NUAN
+2020-11-19,Wedbush,Outperform,,main,NUAN
+2020-11-30,Guggenheim,Buy,Neutral,up,NUAN
+2020-12-07,SVB Leerink,Outperform,,main,NUAN
+2021-01-13,Wedbush,Outperform,,main,NUAN
+2021-01-19,Morgan Stanley,Overweight,,main,NUAN
+2021-02-09,SVB Leerink,Outperform,,main,NUAN
+2021-04-13,Wedbush,Neutral,Outperform,down,NUAN
+2021-04-13,Craig-Hallum,Hold,Buy,down,NUAN
+2021-05-11,SVB Leerink,Outperform,,main,NUAN
+2021-05-11,Morgan Stanley,Equal-Weight,Overweight,down,NUAN

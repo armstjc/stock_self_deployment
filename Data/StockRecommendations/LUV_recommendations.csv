@@ -1,0 +1,221 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-12,Bank oferica,Neutral,,down,LUV
+2012-04-20,Dahlman Rose,Buy,,main,LUV
+2012-05-31,Sterne Agee,Neutral,,main,LUV
+2012-05-31,UBS,Neutral,,main,LUV
+2012-06-21,Imperial Capital,In-Line,,init,LUV
+2012-07-11,Deutsche Bank,Hold,,main,LUV
+2012-07-12,Goldman Sachs,Neutral,,init,LUV
+2012-07-13,JP Morgan,Neutral,,main,LUV
+2012-07-24,JP Morgan,Neutral,,main,LUV
+2012-07-24,Standpoint Research,Buy,Hold,up,LUV
+2012-08-14,Bank of America,Underperform,Neutral,down,LUV
+2012-09-11,Barclays,Overweight,,main,LUV
+2012-09-12,JP Morgan,Neutral,,main,LUV
+2012-09-14,Imperial Capital,In-Line,,main,LUV
+2012-10-05,Evercore Partners,Equal-Weight,Overweight,down,LUV
+2012-10-19,Imperial Capital,In-Line,,main,LUV
+2012-12-10,Buckingham Research,Buy,,init,LUV
+2012-12-14,Standpoint Research,Hold,Buy,down,LUV
+2012-12-20,Imperial Capital,In-Line,,main,LUV
+2013-01-08,Deutsche Bank,Buy,Hold,up,LUV
+2013-01-18,Avondale Partners,Market Perform,,down,LUV
+2013-01-25,Imperial Capital,In-Line,,main,LUV
+2013-01-25,Bank of America,Underperform,,main,LUV
+2013-03-08,UBS,Buy,Neutral,up,LUV
+2013-03-08,UBS,Buy,Neutral,up,LUV
+2013-04-08,Deutsche Bank,Buy,,main,LUV
+2013-05-17,Avondale Partners,Outperform,Market Perform,up,LUV
+2013-06-26,Morgan Stanley,Underperform,Equal-Weight,down,LUV
+2013-07-17,JP Morgan,Underweight,Neutral,down,LUV
+2013-07-26,Raymond James,Market Perform,Outperform,down,LUV
+2013-09-17,JP Morgan,Underweight,,main,LUV
+2013-09-23,Bank of America,Neutral,Underperform,up,LUV
+2013-10-25,JP Morgan,Underweight,,main,LUV
+2013-12-12,Bank of America,Buy,Neutral,up,LUV
+2013-12-18,UBS,Buy,,init,LUV
+2014-01-08,Atlantic Equities,Neutral,,init,LUV
+2014-01-23,Wolfe Research,,Underperform,up,LUV
+2014-01-28,Imperial Capital,Outperform,In-line,up,LUV
+2014-02-25,Stifel Nicolaus,Hold,,init,LUV
+2014-03-14,Bank of America,Buy,,main,LUV
+2014-03-24,Morgan Stanley,Underweight,,main,LUV
+2014-04-04,Barclays,Overweight,,main,LUV
+2014-04-15,Argus Capital,Buy,Hold,up,LUV
+2014-04-25,Deutsche Bank,Buy,,main,LUV
+2014-05-01,JP Morgan,Underweight,,main,LUV
+2014-05-27,JP Morgan,Underweight,,main,LUV
+2014-06-17,Stifel,Buy,Hold,up,LUV
+2014-07-10,CRT Capital,Buy,,main,LUV
+2014-07-11,Barclays,Overweight,,main,LUV
+2014-07-25,Deutsche Bank,Buy,,main,LUV
+2014-07-28,CRT Capital,Buy,,main,LUV
+2014-07-28,Barclays,Overweight,,main,LUV
+2014-08-28,Edward Jones,Hold,Buy,down,LUV
+2014-09-09,Credit Suisse,Neutral,,init,LUV
+2014-09-15,Barclays,Overweight,,main,LUV
+2014-10-10,Deutsche Bank,Buy,,main,LUV
+2014-10-15,Barclays,Overweight,,main,LUV
+2014-10-24,CRT Capital,Buy,,main,LUV
+2014-10-27,Credit Suisse,Neutral,,main,LUV
+2014-10-30,JP Morgan,Neutral,,up,LUV
+2014-11-07,Buckingham Research,Buy,,main,LUV
+2014-11-13,JP Morgan,Neutral,,main,LUV
+2014-12-02,Credit Suisse,Neutral,,main,LUV
+2014-12-08,Goldman Sachs,Buy,Neutral,up,LUV
+2015-01-16,CRT Capital,Buy,,main,LUV
+2015-01-16,Barclays,Overweight,,main,LUV
+2015-01-23,Deutsche Bank,Buy,,main,LUV
+2015-01-28,Credit Suisse,Outperform,Neutral,up,LUV
+2015-02-03,Edward Jones,,Buy,down,LUV
+2015-04-24,Barclays,Overweight,,main,LUV
+2015-05-14,Barclays,Overweight,,main,LUV
+2015-05-20,Buckingham Research,Neutral,Buy,down,LUV
+2015-06-10,JP Morgan,Neutral,,main,LUV
+2015-06-10,Deutsche Bank,Buy,,main,LUV
+2015-06-18,Barclays,Underweight,Overweight,down,LUV
+2015-06-23,Morgan Stanley,Underweight,,init,LUV
+2015-07-01,Buckingham Research,Buy,Neutral,up,LUV
+2015-07-30,JP Morgan,Overweight,Neutral,up,LUV
+2015-09-17,Barclays,Underweight,,main,LUV
+2015-10-23,Deutsche Bank,Buy,,main,LUV
+2015-12-21,Deutsche Bank,Buy,,main,LUV
+2016-01-07,Morgan Stanley,Equal-Weight,Underweight,up,LUV
+2016-01-22,Credit Suisse,Outperform,,main,LUV
+2016-01-22,Credit Suisse,Outperform,,main,LUV
+2016-02-04,JP Morgan,Overweight,,main,LUV
+2016-03-29,Stephens & Co.,Overweight,,init,LUV
+2016-04-12,Credit Suisse,Outperform,,main,LUV
+2016-04-15,Barclays,Equal-Weight,Underweight,up,LUV
+2016-07-22,Buckingham Research,Neutral,Buy,down,LUV
+2016-07-25,Argus,Hold,Buy,down,LUV
+2016-07-25,Credit Suisse,Outperform,,main,LUV
+2016-07-26,Evercore ISI Group,Buy,Hold,up,LUV
+2016-07-27,JP Morgan,Neutral,Overweight,down,LUV
+2016-09-09,Imperial Capital,Outperform,,init,LUV
+2016-10-11,Bernstein,Outperform,,init,LUV
+2016-10-27,JP Morgan,Overweight,Neutral,up,LUV
+2016-11-18,Citigroup,Buy,,init,LUV
+2016-12-15,Barclays,Equal-Weight,,init,LUV
+2017-01-05,Morgan Stanley,Overweight,Equal-Weight,up,LUV
+2017-01-25,JP Morgan,Neutral,Overweight,down,LUV
+2017-06-20,Atlantic Equities,Neutral,,init,LUV
+2017-06-22,Argus,Buy,Hold,up,LUV
+2017-08-17,Morgan Stanley,Overweight,,main,LUV
+2017-09-15,JP Morgan,Overweight,Neutral,up,LUV
+2017-09-20,Raymond James,Outperform,Market Perform,up,LUV
+2017-09-26,Macquarie,Outperform,,init,LUV
+2017-10-27,Buckingham,Neutral,,main,LUV
+2017-11-01,JP Morgan,Overweight,,main,LUV
+2017-11-13,Morgan Stanley,Overweight,,main,LUV
+2017-12-14,Atlantic Equities,Overweight,Neutral,up,LUV
+2018-01-09,Bank of America,Neutral,Buy,down,LUV
+2018-01-30,JP Morgan,Neutral,Overweight,down,LUV
+2018-03-22,Buckingham,Buy,Neutral,up,LUV
+2018-03-22,UBS,Buy,Buy,main,LUV
+2018-03-26,Morgan Stanley,Overweight,Overweight,main,LUV
+2018-04-12,Morgan Stanley,Overweight,Overweight,main,LUV
+2018-04-30,Citigroup,Buy,Buy,main,LUV
+2018-05-14,Buckingham,Buy,Buy,main,LUV
+2018-05-25,Tigress Financial,Buy,,init,LUV
+2018-05-29,Citigroup,Buy,Buy,main,LUV
+2018-06-01,Imperial Capital,In-Line,Outperform,down,LUV
+2018-06-11,Deutsche Bank,Buy,Buy,main,LUV
+2018-06-13,Buckingham,Buy,Buy,main,LUV
+2018-06-15,Argus,Hold,Buy,down,LUV
+2018-07-16,Barclays,Equal-Weight,Equal-Weight,main,LUV
+2018-07-27,Buckingham,Buy,Buy,main,LUV
+2018-09-07,Argus,Buy,Hold,up,LUV
+2018-09-07,Buckingham,Buy,Buy,main,LUV
+2018-09-17,Macquarie,Outperform,Outperform,main,LUV
+2018-09-27,Imperial Capital,In-Line,In-Line,main,LUV
+2018-10-26,Buckingham,Buy,Buy,main,LUV
+2018-10-26,Raymond James,Outperform,Outperform,main,LUV
+2018-10-30,JP Morgan,Underweight,Neutral,down,LUV
+2018-11-12,Goldman Sachs,Neutral,,init,LUV
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,LUV
+2018-11-19,Credit Suisse,Neutral,,init,LUV
+2018-11-29,Citigroup,Buy,Buy,main,LUV
+2019-01-10,Cowen & Co.,Market Perform,Outperform,down,LUV
+2019-02-20,Goldman Sachs,Sell,Neutral,down,LUV
+2019-02-22,Macquarie,Neutral,Outperform,down,LUV
+2019-03-28,Credit Suisse,Neutral,Neutral,main,LUV
+2019-04-08,Raymond James,Market Perform,Outperform,down,LUV
+2019-04-26,Barclays,Equal-Weight,Equal-Weight,main,LUV
+2019-05-20,Morgan Stanley,Overweight,,main,LUV
+2019-05-28,Evercore ISI Group,In-Line,Outperform,down,LUV
+2019-08-13,Argus,Hold,Buy,down,LUV
+2019-08-14,Morgan Stanley,Overweight,,main,LUV
+2019-08-16,Wolfe Research,Outperform,Peer Perform,up,LUV
+2019-09-06,Berenberg,Hold,,init,LUV
+2019-10-02,Morgan Stanley,Overweight,,main,LUV
+2019-10-10,Morgan Stanley,Overweight,,main,LUV
+2019-10-21,Stifel,Hold,Buy,down,LUV
+2019-10-25,Credit Suisse,Neutral,,main,LUV
+2019-10-31,Bernstein,Market Perform,Outperform,down,LUV
+2019-11-13,UBS,Neutral,,init,LUV
+2020-01-08,Bank of America,Neutral,Buy,down,LUV
+2020-01-17,Deutsche Bank,Hold,Buy,down,LUV
+2020-02-27,Buckingham Research,Neutral,Buy,down,LUV
+2020-03-02,Evercore ISI Group,Outperform,In-Line,up,LUV
+2020-03-13,UBS,Neutral,,main,LUV
+2020-03-23,B of A Securities,Buy,Neutral,up,LUV
+2020-03-23,Raymond James,Strong Buy,Market Perform,up,LUV
+2020-03-25,Cowen & Co.,Outperform,Market Perform,up,LUV
+2020-03-26,Bank of America,Buy,,main,LUV
+2020-04-06,JP Morgan,Neutral,Underweight,up,LUV
+2020-04-21,Susquehanna,Positive,Neutral,up,LUV
+2020-04-21,Deutsche Bank,Buy,,main,LUV
+2020-04-29,Deutsche Bank,Buy,,main,LUV
+2020-04-30,Stifel,Buy,Hold,up,LUV
+2020-05-26,UBS,Buy,Neutral,up,LUV
+2020-06-12,Credit Suisse,Outperform,Neutral,up,LUV
+2020-06-15,Citigroup,Neutral,,main,LUV
+2020-06-17,Seaport Global,Buy,,init,LUV
+2020-06-22,Raymond James,Strong Buy,,main,LUV
+2020-06-29,Goldman Sachs,Buy,Sell,up,LUV
+2020-07-13,Deutsche Bank,Buy,,main,LUV
+2020-07-27,Raymond James,Strong Buy,,main,LUV
+2020-07-27,Citigroup,Neutral,,main,LUV
+2020-09-02,Berenberg,Buy,Hold,up,LUV
+2020-09-08,Morgan Stanley,Overweight,,init,LUV
+2020-09-30,Raymond James,Strong Buy,,main,LUV
+2020-10-05,Morgan Stanley,Overweight,,main,LUV
+2020-10-07,JP Morgan,Underweight,Neutral,down,LUV
+2020-10-23,Credit Suisse,Outperform,,main,LUV
+2020-10-23,Morgan Stanley,Overweight,,main,LUV
+2020-10-23,Raymond James,Strong Buy,,main,LUV
+2020-11-13,Exane BNP Paribas,Outperform,,init,LUV
+2020-11-17,Jefferies,Buy,,init,LUV
+2020-11-30,Raymond James,Outperform,Strong Buy,down,LUV
+2020-12-07,Bernstein,Outperform,Market Perform,up,LUV
+2020-12-11,Deutsche bank,Hold,Buy,down,LUV
+2021-01-14,Susquehanna,Positive,,main,LUV
+2021-01-29,Credit Suisse,Outperform,,main,LUV
+2021-02-22,Deutsche Bank,Buy,Hold,up,LUV
+2021-03-23,Argus Research,Buy,Hold,up,LUV
+2021-04-06,Morgan Stanley,Overweight,,main,LUV
+2021-04-12,Raymond James,Outperform,,main,LUV
+2021-04-14,JP Morgan,Neutral,Underweight,up,LUV
+2021-06-10,MKM Partners,Buy,,init,LUV
+2021-06-15,Morgan Stanley,Overweight,,main,LUV
+2021-08-11,Redburn Partners,Buy,,init,LUV
+2021-08-12,Morgan Stanley,Overweight,,main,LUV
+2021-09-14,Morgan Stanley,Overweight,,main,LUV
+2021-10-01,JP Morgan,Overweight,Neutral,up,LUV
+2021-10-04,Barclays,Overweight,Equal-Weight,up,LUV
+2021-10-22,Morgan Stanley,Overweight,,main,LUV
+2021-10-22,Evercore ISI Group,In-Line,Outperform,down,LUV
+2021-10-25,Raymond James,Outperform,,main,LUV
+2021-11-16,Goldman Sachs,Neutral,Buy,down,LUV
+2021-11-19,Wolfe Research,Outperform,Peer Perform,up,LUV
+2021-11-29,Raymond James,Outperform,,main,LUV
+2021-12-01,MKM Partners,Buy,,main,LUV
+2021-12-09,Morgan Stanley,Overweight,,main,LUV
+2021-12-09,MKM Partners,Buy,,main,LUV
+2021-12-09,Jefferies,Hold,Buy,down,LUV
+2021-12-09,Susquehanna,Positive,,main,LUV
+2021-12-09,Deutsche Bank,Buy,,main,LUV
+2021-12-10,Goldman Sachs,Sell,Neutral,down,LUV
+2021-12-15,Barclays,Overweight,,main,LUV
+2022-01-03,MKM Partners,Neutral,Buy,down,LUV

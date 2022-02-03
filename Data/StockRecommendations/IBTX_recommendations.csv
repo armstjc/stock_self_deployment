@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-29,Evercore Partners,Overweight,,init,IBTX
+2014-04-04,Stephens & Co.,Equal-Weight,,init,IBTX
+2014-05-16,Sterne Agee,Buy,,init,IBTX
+2014-07-30,Macquarie,Outperform,Neutral,up,IBTX
+2014-10-29,Keefe Bruyette & Woods,Market Perform,,main,IBTX
+2015-02-04,Keefe Bruyette & Woods,Market Perform,,main,IBTX
+2015-04-13,SunTrust Robinson Humphrey,Neutral,,init,IBTX
+2015-04-29,Stephens & Co.,Overweight,Equal-Weight,up,IBTX
+2015-05-20,Wunderlich,Buy,,init,IBTX
+2015-06-12,PiperJaffray,Neutral,,init,IBTX
+2015-06-29,SunTrust Robinson Humphrey,Neutral,,main,IBTX
+2015-08-03,Stifel Nicolaus,Market Perform,,main,IBTX
+2015-09-11,Evercore ISI Group,Hold,,down,IBTX
+2015-12-09,Stephens & Co.,Equal-Weight,Overweight,down,IBTX
+2016-04-25,PiperJaffray,Overweight,Neutral,up,IBTX
+2016-06-09,Evercore ISI Group,Buy,Hold,up,IBTX
+2016-07-27,Keefe Bruyette & Woods,Market Perform,,main,IBTX
+2017-07-26,Keefe Bruyette & Woods,Outperform,Market Perform,up,IBTX
+2018-10-04,Raymond James,Strong Buy,Outperform,up,IBTX
+2019-01-07,Raymond James,Outperform,Strong Buy,down,IBTX
+2019-10-03,SunTrust Robinson Humphrey,Hold,,main,IBTX
+2019-12-10,Raymond James,Market Perform,Outperform,down,IBTX
+2020-01-29,Stephens & Co.,Overweight,Equal-Weight,up,IBTX
+2020-04-29,Piper Sandler,Overweight,,main,IBTX
+2020-05-19,SunTrust Robinson Humphrey,Hold,,main,IBTX
+2020-08-25,Truist Securities,Hold,,main,IBTX
+2020-09-30,Piper Sandler,Overweight,,main,IBTX
+2020-10-06,Raymond James,Market Perform,Outperform,down,IBTX
+2020-12-18,Truist Securities,Buy,,init,IBTX
+2021-03-19,Truist Securities,Buy,,main,IBTX

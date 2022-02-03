@@ -1,0 +1,166 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,JP Morgan,Neutral,,main,BSX
+2012-04-20,Deutsche Bank,Hold,,main,BSX
+2012-05-14,Citigroup,Neutral,,main,BSX
+2012-07-23,Citigroup,Neutral,,main,BSX
+2012-07-27,Jefferies,Hold,,main,BSX
+2012-07-27,BMO Capital,Market Perform,,main,BSX
+2012-09-18,Leerink Swann,Market Perform,Outperform,down,BSX
+2012-09-28,Bank of America,Neutral,,main,BSX
+2012-10-01,PiperJaffray,Neutral,,main,BSX
+2012-10-19,Jefferies,Hold,,main,BSX
+2012-11-20,Stifel Nicolaus,Buy,,init,BSX
+2012-11-26,Citigroup,Buy,Neutral,up,BSX
+2012-11-27,Bernstein,Market Perform,Outperform,down,BSX
+2012-12-03,JMP Securities,Market Outperform,Market Perform,up,BSX
+2012-12-14,Barclays,Overweight,Underweight,up,BSX
+2013-01-04,Deutsche Bank,Hold,,main,BSX
+2013-01-15,Credit Suisse,Outperform,Neutral,up,BSX
+2013-01-16,Stifel Nicolaus,Buy,,main,BSX
+2013-01-28,JP Morgan,Neutral,,main,BSX
+2013-01-30,Stifel Nicolaus,Buy,,main,BSX
+2013-01-30,Jefferies,Hold,,main,BSX
+2013-01-30,BMO Capital,Market Perform,,main,BSX
+2013-01-30,Goldman Sachs,Sell,,main,BSX
+2013-01-30,Barclays,Overweight,,main,BSX
+2013-01-30,Bank of America,Neutral,,main,BSX
+2013-01-30,Citigroup,Buy,,main,BSX
+2013-02-13,Stifel Nicolaus,Buy,,main,BSX
+2013-02-13,Deutsche Bank,Hold,,main,BSX
+2013-02-13,Jefferies,Hold,,main,BSX
+2013-04-03,Credit Suisse,Neutral,Outperform,down,BSX
+2013-04-12,Deutsche Bank,Hold,,main,BSX
+2013-04-26,Credit Suisse,Outperform,,up,BSX
+2013-05-10,Wells Fargo,Outperform,Market Perform,up,BSX
+2013-05-16,Stifel Nicolaus,Buy,,main,BSX
+2013-05-31,Wedbush,Neutral,,init,BSX
+2013-06-28,S&P Capital IQ,Buy,Hold,up,BSX
+2013-07-08,Citigroup,Neutral,Buy,down,BSX
+2013-07-26,BMO Capital,Market Perform,,main,BSX
+2013-09-10,CL King,Neutral,Strong Buy,down,BSX
+2013-12-05,Benchmark,Hold,,init,BSX
+2013-12-06,Cowen & Co.,Outperform,Market Perform,up,BSX
+2014-01-06,Morgan Stanley,Overweight,Equal-weight,up,BSX
+2014-01-08,BTIG Research,Buy,,init,BSX
+2014-01-21,PiperJaffray,Overweight,Neutral,up,BSX
+2014-01-28,JP Morgan,Neutral,,main,BSX
+2014-01-29,Stifel Nicolaus,Buy,,main,BSX
+2014-03-24,Bernstein,Outperform,Market Perform,up,BSX
+2014-04-14,Bank of America,Buy,Neutral,up,BSX
+2014-04-30,Citigroup,Hold,,main,BSX
+2014-07-07,CRT Capital,Buy,,init,BSX
+2014-07-25,JP Morgan,Neutral,,main,BSX
+2014-07-25,Barclays,Overweight,,main,BSX
+2014-07-29,Sterne Agee,Neutral,,init,BSX
+2014-09-30,Needham,Hold,,init,BSX
+2014-10-22,Benchmark,Buy,Hold,up,BSX
+2014-10-23,Goldman Sachs,Neutral,Sell,up,BSX
+2015-01-08,Leerink Swann,Outperform,Market Perform,up,BSX
+2015-01-30,BMO Capital,Outperform,Market Perform,up,BSX
+2015-02-05,Stifel Nicolaus,Buy,,main,BSX
+2015-02-05,JMP Securities,Market Outperform,,main,BSX
+2015-02-18,JP Morgan,Overweight,,main,BSX
+2015-02-18,Stifel Nicolaus,Buy,,main,BSX
+2015-02-26,Deutsche Bank,Hold,,main,BSX
+2015-03-03,Oppenheimer,Perform,,main,BSX
+2015-03-16,BMO Capital,Outperform,,main,BSX
+2015-03-20,Raymond James,Outperform,,init,BSX
+2015-03-23,Barclays,Overweight,,main,BSX
+2015-04-20,RBC Capital,Outperform,,main,BSX
+2015-04-29,Leerink Swann,Outperform,,main,BSX
+2015-04-29,Barclays,Overweight,,main,BSX
+2015-07-07,Stephens & Co.,Overweight,,init,BSX
+2015-07-24,Stifel Nicolaus,Buy,,main,BSX
+2015-08-27,Goldman Sachs,Buy,Neutral,up,BSX
+2015-09-22,UBS,Buy,,init,BSX
+2015-09-28,Needham,Buy,,up,BSX
+2015-10-05,Raymond James,Strong Buy,Outperform,down,BSX
+2015-10-29,Barclays,Overweight,,main,BSX
+2015-11-12,Citigroup,Buy,,init,BSX
+2016-02-25,SunTrust Robinson Humphrey,Buy,,init,BSX
+2016-03-17,Nomura,Buy,,init,BSX
+2016-05-23,BTIG Research,Neutral,Buy,down,BSX
+2016-06-09,Guggenheim,Buy,,init,BSX
+2016-07-29,JP Morgan,Overweight,,main,BSX
+2016-07-29,Jefferies,Hold,,main,BSX
+2016-08-03,Citigroup,Buy,,main,BSX
+2016-09-01,Argus,Buy,Hold,up,BSX
+2016-10-06,Citigroup,Buy,,main,BSX
+2017-05-16,Goldman Sachs,Neutral,,init,BSX
+2017-10-24,Canaccord Genuity,Buy,,init,BSX
+2017-10-27,BMO Capital,Outperform,,main,BSX
+2017-11-30,BTIG Research,Buy,Neutral,up,BSX
+2017-12-08,Needham,Strong Buy,Buy,up,BSX
+2018-01-03,Evercore ISI Group,In-Line,,init,BSX
+2018-01-05,RBC Capital,Top Pick,Outperform,up,BSX
+2018-03-19,Morgan Stanley,Overweight,Overweight,main,BSX
+2018-04-05,Bank of America,Buy,Buy,main,BSX
+2018-04-26,Raymond James,Strong Buy,Strong Buy,main,BSX
+2018-04-26,Leerink Swann,Outperform,Outperform,main,BSX
+2018-04-26,JP Morgan,Overweight,Overweight,main,BSX
+2018-05-01,Citigroup,Buy,Buy,main,BSX
+2018-06-07,Argus,Buy,Buy,main,BSX
+2018-06-27,Bernstein,Outperform,,init,BSX
+2018-07-26,Morgan Stanley,Overweight,Overweight,main,BSX
+2018-09-04,Raymond James,Strong Buy,Strong Buy,main,BSX
+2018-09-04,Jefferies,Buy,Hold,up,BSX
+2018-09-17,Wells Fargo,Outperform,Outperform,main,BSX
+2018-10-02,Morgan Stanley,Overweight,Overweight,main,BSX
+2018-10-16,Barclays,Overweight,,init,BSX
+2018-10-25,Canaccord Genuity,Buy,Buy,main,BSX
+2018-10-26,Argus,Buy,Buy,main,BSX
+2018-11-28,UBS,Buy,,init,BSX
+2018-12-18,Credit Suisse,Outperform,,init,BSX
+2019-04-17,Canaccord Genuity,Buy,Buy,main,BSX
+2019-05-13,Evercore ISI Group,Outperform,In-Line,up,BSX
+2019-06-18,Wells Fargo,Outperform,,main,BSX
+2019-06-27,Canaccord Genuity,Buy,,main,BSX
+2019-07-25,Raymond James,Strong Buy,,main,BSX
+2019-10-14,Raymond James,Strong Buy,,main,BSX
+2019-12-16,Wells Fargo,Overweight,,main,BSX
+2019-12-17,Morgan Stanley,Overweight,,main,BSX
+2019-12-19,Needham,Buy,Strong Buy,down,BSX
+2019-12-20,JP Morgan,Overweight,,main,BSX
+2019-12-30,Cowen & Co.,Outperform,,main,BSX
+2020-02-13,Goldman Sachs,Neutral,,init,BSX
+2020-03-06,Credit Suisse,Outperform,,main,BSX
+2020-03-09,CFRA,Strong Buy,Buy,up,BSX
+2020-03-23,Stephens & Co.,Overweight,,main,BSX
+2020-03-24,Stifel,Buy,,main,BSX
+2020-03-27,Citigroup,Buy,,main,BSX
+2020-04-02,Needham,Buy,,main,BSX
+2020-04-22,SVB Leerink,Market Perform,Outperform,down,BSX
+2020-04-23,SunTrust Robinson Humphrey,Buy,,main,BSX
+2020-04-30,Raymond James,Strong Buy,,main,BSX
+2020-04-30,Stifel,Buy,,main,BSX
+2020-04-30,Credit Suisse,Outperform,,main,BSX
+2020-04-30,Citigroup,Buy,,main,BSX
+2020-04-30,UBS,Buy,,main,BSX
+2020-04-30,Wells Fargo,Overweight,,main,BSX
+2020-04-30,Oppenheimer,Perform,,main,BSX
+2020-05-13,Argus Research,Buy,,main,BSX
+2020-07-30,Morgan Stanley,Overweight,,main,BSX
+2020-07-30,Citigroup,Buy,,main,BSX
+2020-07-30,SVB Leerink,Market Perform,,main,BSX
+2020-07-30,Oppenheimer,Perform,,main,BSX
+2020-07-30,Stifel,Buy,,main,BSX
+2020-07-30,Jefferies,Buy,,main,BSX
+2020-09-11,Wolfe Research,Peer Perform,,init,BSX
+2020-09-17,Truist Securities,Buy,,init,BSX
+2020-10-29,Morgan Stanley,Overweight,,main,BSX
+2020-11-17,Needham,Buy,,main,BSX
+2020-11-18,Morgan Stanley,Overweight,,main,BSX
+2020-11-18,Wells Fargo,Overweight,,main,BSX
+2020-12-15,Morgan Stanley,Overweight,,main,BSX
+2021-02-04,Raymond James,Strong Buy,,main,BSX
+2021-02-12,Needham,Buy,,main,BSX
+2021-04-15,Atlantic Equities,Overweight,,init,BSX
+2021-04-29,Morgan Stanley,Overweight,,main,BSX
+2021-05-25,Barclays,Overweight,,init,BSX
+2021-05-26,Needham,Hold,Buy,down,BSX
+2021-07-28,Credit Suisse,Outperform,,main,BSX
+2021-07-28,Morgan Stanley,Overweight,,main,BSX
+2021-07-28,Raymond James,Strong Buy,,main,BSX
+2021-10-28,Raymond James,Strong Buy,,main,BSX
+2021-12-10,RBC Capital,Outperform,,init,BSX
+2021-12-21,Truist Securities,Buy,,main,BSX

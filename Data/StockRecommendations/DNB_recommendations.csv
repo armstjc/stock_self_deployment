@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-07-27,Stephens & Co.,Overweight,,init,DNB
+2020-07-27,RBC Capital,Outperform,,init,DNB
+2020-07-27,Credit Suisse,Outperform,,init,DNB
+2020-07-27,Deutsche Bank,Buy,,init,DNB
+2020-07-27,B of A Securities,Buy,,init,DNB
+2020-07-27,JP Morgan,Neutral,,init,DNB
+2020-07-27,Wells Fargo,Equal-Weight,,init,DNB
+2020-07-27,Jefferies,Buy,,init,DNB
+2020-07-27,Goldman Sachs,Neutral,,init,DNB
+2020-07-27,SunTrust Robinson Humphrey,Buy,,init,DNB
+2020-07-27,BMO Capital,Outperform,,init,DNB
+2020-10-09,Jefferies,Buy,,main,DNB
+2021-03-23,Raymond James,Market Perform,,init,DNB
+2021-03-26,Needham,Buy,,init,DNB
+2021-06-10,Raymond James,Outperform,Market Perform,up,DNB
+2021-08-06,Barclays,Overweight,,main,DNB
+2021-11-05,Raymond James,Outperform,,main,DNB
+2021-11-05,RBC Capital,Outperform,,main,DNB

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-18,Deutsche Bank,Buy,,main,FENG
+2012-05-21,Morgan Stanley,Overweight,,main,FENG
+2012-08-14,Morgan Stanley,Overweight,,main,FENG
+2012-08-15,CICC,Hold,Buy,down,FENG
+2012-08-29,Deutsche Bank,Hold,Buy,down,FENG
+2012-11-21,Deutsche Bank,Hold,,main,FENG
+2013-03-08,Deutsche Bank,Buy,Hold,up,FENG
+2013-08-30,JP Morgan,Overweight,,init,FENG
+2013-10-08,JP Morgan,Overweight,,main,FENG
+2013-11-14,JP Morgan,Overweight,,main,FENG
+2014-08-13,Macquarie,Outperform,,main,FENG
+2014-11-17,JP Morgan,Overweight,,main,FENG
+2015-01-26,Deutsche Bank,Hold,Buy,down,FENG
+2015-11-11,Macquarie,Neutral,,down,FENG
+2015-11-12,Macquarie,Neutral,,main,FENG
+2018-08-16,Macquarie,Outperform,Outperform,main,FENG

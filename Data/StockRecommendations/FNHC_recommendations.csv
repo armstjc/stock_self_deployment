@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-02,Raymond James,Outperform,,init,FNHC
+2014-05-05,Raymond James,Outperform,,main,FNHC
+2014-06-16,Raymond James,Outperform,,main,FNHC
+2014-08-29,William Blair,Outperform,,init,FNHC
+2014-11-03,Keefe Bruyette & Woods,Market Perform,,main,FNHC
+2014-11-03,Raymond James,Market Perform,Outperform,down,FNHC
+2014-11-19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,FNHC
+2015-01-06,Raymond James,Outperform,Market Perform,up,FNHC
+2015-03-02,Keefe Bruyette & Woods,Outperform,,main,FNHC
+2015-05-04,Raymond James,Strong Buy,Outperform,up,FNHC
+2015-05-19,JMP Securities,Market Perform,,init,FNHC
+2015-10-12,Janney Capital,Buy,,up,FNHC
+2015-12-21,William Blair,Market Perform,Outperform,down,FNHC
+2016-03-08,Raymond James,Outperform,Strong Buy,down,FNHC
+2016-08-08,Keefe Bruyette & Woods,Outperform,,main,FNHC
+2016-11-03,Janney Capital,Neutral,Buy,down,FNHC
+2018-05-14,Raymond James,Strong Buy,Outperform,up,FNHC
+2020-04-03,Raymond James,Strong Buy,,main,FNHC
+2020-07-21,Raymond James,Outperform,Strong Buy,down,FNHC
+2020-09-21,Raymond James,Outperform,,main,FNHC
+2020-11-06,Raymond James,Market Perform,Outperform,down,FNHC
+2021-04-05,Piper Sandler,Overweight,,init,FNHC

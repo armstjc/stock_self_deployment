@@ -1,0 +1,60 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-05,JMP Securities,Market Outperform,,init,CACC
+2013-05-24,Stephens & Co.,Overweight,,init,CACC
+2013-06-05,Credit Suisse,Neutral,,init,CACC
+2013-06-10,Bank of America,Neutral,,init,CACC
+2013-10-16,Raymond James,Market Perform,,init,CACC
+2013-11-04,JMP Securities,Market Outperform,,main,CACC
+2014-01-15,Bank of America,Neutral,,main,CACC
+2014-02-04,JMP Securities,Market Perform,Market Outperform,down,CACC
+2014-07-08,Compass Point,Sell,,init,CACC
+2014-09-04,Jefferies,Hold,,init,CACC
+2014-10-08,Macquarie,Neutral,,init,CACC
+2015-01-30,Jefferies,Hold,,main,CACC
+2015-02-03,Jefferies,Hold,,main,CACC
+2015-03-02,Jefferies,Hold,,main,CACC
+2015-04-08,Jefferies,Hold,,main,CACC
+2015-04-30,Jefferies,Hold,,main,CACC
+2015-04-30,JMP Securities,Market Underperform,,main,CACC
+2015-07-15,Janney Capital,Sell,,init,CACC
+2015-07-30,JMP Securities,Market Underperform,,main,CACC
+2015-08-26,JMP Securities,Market Perform,Market Underperform,up,CACC
+2015-11-10,Compass Point,Neutral,Sell,up,CACC
+2016-03-16,JMP Securities,Market Underperform,Market Perform,down,CACC
+2016-06-20,Janney Capital,Neutral,,up,CACC
+2016-07-27,Credit Suisse,Underperform,Neutral,down,CACC
+2016-09-06,Compass Point,Sell,Neutral,down,CACC
+2016-11-01,Stephens & Co.,Underweight,,init,CACC
+2017-01-23,Susquehanna,Neutral,,init,CACC
+2017-02-17,Janney Capital,Sell,Neutral,down,CACC
+2017-08-01,Raymond James,Market Perform,Underperform,up,CACC
+2017-08-01,BMO Capital,Market Perform,,main,CACC
+2017-10-31,Credit Suisse,Underperform,,main,CACC
+2017-10-31,Bank of America,Underperform,,main,CACC
+2017-10-31,BMO Capital,Market Perform,,main,CACC
+2018-01-09,Oppenheimer,Outperform,,init,CACC
+2018-02-01,BMO Capital,Market Perform,Market Perform,main,CACC
+2018-08-01,Compass Point,Neutral,Sell,up,CACC
+2018-08-01,Susquehanna,Neutral,Neutral,main,CACC
+2018-08-02,BMO Capital,Market Perform,Market Perform,main,CACC
+2018-08-02,JMP Securities,Market Underperform,Market Underperform,main,CACC
+2018-10-30,Credit Suisse,Underperform,Underperform,main,CACC
+2018-11-01,BMO Capital,Market Perform,Market Perform,main,CACC
+2019-01-03,Stephens & Co.,Equal-Weight,Underweight,up,CACC
+2019-01-24,BTIG Research,Sell,,init,CACC
+2019-01-31,Oppenheimer,Market Perform,Outperform,down,CACC
+2019-03-28,Buckingham,Neutral,,init,CACC
+2019-04-30,Stephens & Co.,Equal-Weight,Equal-Weight,main,CACC
+2019-11-05,Stephens & Co.,Equal-Weight,,main,CACC
+2019-11-14,Credit Suisse,Underperform,,reit,CACC
+2020-01-31,Janney Capital,Sell,Neutral,down,CACC
+2020-03-19,BTIG Research,Sell,,main,CACC
+2020-04-03,JMP Securities,Market Underperform,,main,CACC
+2020-07-31,Credit Suisse,Underperform,,main,CACC
+2020-07-31,Janney Capital,Neutral,Sell,up,CACC
+2021-05-03,BMO Capital,Market Perform,,main,CACC
+2021-07-06,Credit Suisse,Underperform,,main,CACC
+2021-07-30,Credit Suisse,Underperform,,main,CACC
+2021-11-02,Stephens & Co.,Equal-Weight,,main,CACC
+2021-11-02,JMP Securities,Market Underperform,,main,CACC
+2021-11-02,Credit Suisse,Underperform,,main,CACC

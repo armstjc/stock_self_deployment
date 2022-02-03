@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-09,Cowen & Co.,Outperform,,init,FSR
+2020-11-25,Citigroup,Buy,,init,FSR
+2020-12-10,Wolfe Research,Underperform,,init,FSR
+2020-12-11,Goldman Sachs,Neutral,,init,FSR
+2021-01-22,Raymond James,Market Perform,,init,FSR
+2021-02-12,Morgan Stanley,Overweight,,init,FSR
+2021-02-26,Morgan Stanley,Overweight,,main,FSR
+2021-03-01,Morgan Stanley,Overweight,,main,FSR
+2021-03-03,Wolfe Research,Peer Perform,Underperform,up,FSR
+2021-04-01,Barclays,Equal-Weight,,init,FSR
+2021-04-20,B of A Securities,Buy,,init,FSR
+2021-04-22,Goldman Sachs,Sell,Neutral,down,FSR
+2021-06-09,RBC Capital,Outperform,,init,FSR
+2021-08-06,RBC Capital,Outperform,,main,FSR
+2021-08-09,Barclays,Equal-Weight,,main,FSR
+2021-08-10,Morgan Stanley,Overweight,,init,FSR
+2021-09-16,B of A Securities,Neutral,Buy,down,FSR
+2021-09-23,Tudor Pickering,Buy,,init,FSR
+2021-11-09,Credit Suisse,Outperform,,init,FSR
+2021-11-18,Cowen & Co.,Outperform,,main,FSR

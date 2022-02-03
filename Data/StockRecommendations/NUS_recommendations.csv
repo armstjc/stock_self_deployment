@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-07,Stifel Nicolaus,Buy,,main,NUS
+2012-04-12,Deutsche Bank,Buy,,main,NUS
+2012-04-26,DA Davidson,Buy,,main,NUS
+2012-04-27,Canaccord Genuity,Buy,,main,NUS
+2012-04-27,Stifel Nicolaus,Buy,,main,NUS
+2012-05-17,Stifel Nicolaus,Buy,,main,NUS
+2012-07-27,Stifel Nicolaus,Buy,,main,NUS
+2012-11-01,Canaccord Genuity,Buy,,main,NUS
+2013-05-03,Deutsche Bank,Buy,,main,NUS
+2013-05-03,Stifel Nicolaus,Hold,Buy,down,NUS
+2013-07-10,Deutsche Bank,Buy,,main,NUS
+2013-07-10,Canaccord Genuity,Buy,,main,NUS
+2013-07-10,DA Davidson,Buy,,main,NUS
+2013-08-02,Deutsche Bank,Buy,,main,NUS
+2013-09-12,DA Davidson,Neutral,Buy,down,NUS
+2013-09-27,Sidoti & Co.,Neutral,Buy,down,NUS
+2013-10-08,Deutsche Bank,Buy,,main,NUS
+2013-10-09,DA Davidson,Buy,Neutral,up,NUS
+2013-10-22,Sidoti & Co.,Buy,Neutral,up,NUS
+2013-11-22,Deutsche Bank,Buy,,main,NUS
+2014-01-16,Canaccord Genuity,Hold,Buy,down,NUS
+2014-01-17,Bank of America,Neutral,Buy,down,NUS
+2014-03-04,Deutsche Bank,Buy,,main,NUS
+2014-05-07,JP Morgan,Overweight,,main,NUS
+2014-08-07,Canaccord Genuity,Hold,,main,NUS
+2014-08-07,Deutsche Bank,Buy,,main,NUS
+2014-08-07,JP Morgan,Neutral,Overweight,down,NUS
+2014-10-20,Pivotal Research,Buy,,init,NUS
+2014-11-06,Bank of America,Underperform,,main,NUS
+2014-11-06,Canaccord Genuity,Hold,,main,NUS
+2014-11-19,BTIG Research,Neutral,,init,NUS
+2014-11-25,Citigroup,Neutral,,init,NUS
+2014-12-15,Bank of America,Underperform,,main,NUS
+2014-12-16,Citigroup,Neutral,,main,NUS
+2015-02-06,Citigroup,Neutral,,main,NUS
+2015-02-06,JP Morgan,Neutral,,main,NUS
+2015-02-11,Citigroup,,Neutral,up,NUS
+2015-04-10,JP Morgan,Neutral,,main,NUS
+2015-05-07,Canaccord Genuity,Hold,,main,NUS
+2015-05-07,Citigroup,Buy,,main,NUS
+2015-07-09,Citigroup,Buy,,main,NUS
+2015-08-07,Canaccord Genuity,Hold,,main,NUS
+2015-08-07,Deutsche Bank,Buy,,main,NUS
+2015-10-07,Stifel Nicolaus,Sell,Hold,down,NUS
+2015-10-07,JP Morgan,Neutral,,main,NUS
+2016-02-12,Stifel Nicolaus,Sell,,main,NUS
+2016-02-12,Sidoti & Co.,Neutral,Buy,down,NUS
+2016-04-19,Citigroup,Buy,,main,NUS
+2016-06-03,Jefferies,Hold,,init,NUS
+2016-07-25,Jefferies,Hold,,main,NUS
+2016-08-05,Citigroup,Buy,,main,NUS
+2016-08-05,Deutsche Bank,Buy,,main,NUS
+2016-08-05,Stifel Nicolaus,Sell,,main,NUS
+2016-09-15,Citigroup,Buy,,main,NUS
+2016-09-21,Citigroup,Buy,,main,NUS
+2016-09-22,Jefferies,Hold,,main,NUS
+2017-04-26,Sidoti & Co.,Neutral,Buy,down,NUS
+2017-07-10,Bank of America,Underperform,,main,NUS
+2018-02-16,Deutsche Bank,Buy,Buy,main,NUS
+2018-04-13,Deutsche Bank,Hold,Buy,down,NUS
+2018-04-30,Citigroup,Buy,Buy,main,NUS
+2018-06-14,Jefferies,Buy,,init,NUS
+2018-08-03,Stifel Nicolaus,Hold,Sell,up,NUS
+2018-10-09,DA Davidson,Buy,,init,NUS
+2019-03-25,Stifel Nicolaus,Sell,Hold,down,NUS
+2019-05-01,Deutsche Bank,Buy,Hold,up,NUS
+2019-07-17,DA Davidson,Neutral,Buy,down,NUS
+2019-07-18,Citigroup,Buy,,main,NUS
+2019-10-30,Stifel Nicolaus,Hold,Sell,up,NUS
+2019-11-06,Citigroup,Neutral,Buy,down,NUS
+2020-02-13,B of A Securities,Underperform,,main,NUS
+2020-02-14,Citigroup,Neutral,,main,NUS
+2020-03-09,Deutsche Bank,Hold,Buy,down,NUS
+2020-05-07,Deutsche Bank,Hold,,main,NUS
+2020-05-07,Citigroup,Neutral,,main,NUS
+2020-06-11,Stifel,Hold,,main,NUS
+2020-07-02,DA Davidson,Buy,Neutral,up,NUS
+2020-07-02,Jefferies,Buy,Hold,up,NUS
+2020-08-06,Stifel,Hold,,main,NUS
+2020-10-02,B of A Securities,Neutral,Underperform,up,NUS
+2020-10-02,DA Davidson,Buy,,main,NUS
+2021-02-02,Jefferies,Buy,,main,NUS
+2021-02-12,DA Davidson,Neutral,Buy,down,NUS
+2021-10-06,DA Davidson,Neutral,,main,NUS
+2021-11-24,Citigroup,Neutral,,main,NUS

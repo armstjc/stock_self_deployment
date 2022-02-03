@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-08,JP Morgan,Buy,,up,FOLD
+2012-06-29,ThinkEquity,Buy,,init,FOLD
+2012-07-18,Canaccord Genuity,Buy,,main,FOLD
+2012-07-20,Wedbush,Neutral,,main,FOLD
+2012-11-01,Capstone,Buy,,init,FOLD
+2012-12-20,JP Morgan,Overweight,,main,FOLD
+2012-12-21,Wedbush,Underperform,Neutral,down,FOLD
+2013-01-02,Janney Capital,Buy,,init,FOLD
+2013-10-24,Leerink Swann,Market Perform,,down,FOLD
+2013-11-21,JP Morgan,Neutral,Overweight,down,FOLD
+2014-06-30,JP Morgan,Overweight,,up,FOLD
+2014-07-01,Janney Capital,Buy,Neutral,up,FOLD
+2014-07-01,Leerink Swann,Outperform,Market Perform,up,FOLD
+2014-11-17,JP Morgan,Overweight,,main,FOLD
+2015-03-04,Leerink Swann,Outperform,,main,FOLD
+2015-05-29,Chardan Capital,Buy,,init,FOLD
+2015-06-16,B. Riley FBR,Buy,,main,FOLD
+2015-09-08,JP Morgan,Overweight,,main,FOLD
+2015-09-16,Chardan Capital,Neutral,Buy,down,FOLD
+2015-10-05,Chardan Capital,Buy,Neutral,up,FOLD
+2015-10-05,Leerink Swann,Outperform,,main,FOLD
+2016-02-23,JP Morgan,Overweight,,main,FOLD
+2016-03-08,Janney Capital,Buy,Neutral,up,FOLD
+2016-03-30,Goldman Sachs,Neutral,,init,FOLD
+2016-04-14,Baird,Neutral,,init,FOLD
+2016-05-18,Bank of America,Buy,,init,FOLD
+2017-01-24,Baird,Outperform,Neutral,up,FOLD
+2017-07-12,Baird,Outperform,,main,FOLD
+2018-02-08,Leerink Swann,Outperform,Outperform,main,FOLD
+2018-08-17,Chardan Capital,Neutral,Buy,down,FOLD
+2018-10-29,Citigroup,Neutral,,init,FOLD
+2018-12-18,Guggenheim,Buy,,init,FOLD
+2019-01-17,Citigroup,Buy,Neutral,up,FOLD
+2019-01-30,Cantor Fitzgerald,Overweight,,init,FOLD
+2019-04-05,Janney Capital,Buy,,init,FOLD
+2020-06-17,BTIG,Buy,,init,FOLD
+2020-08-11,Citigroup,Buy,,main,FOLD
+2020-11-06,SVB Leerink,Outperform,,main,FOLD
+2020-11-11,Berenberg,Hold,,init,FOLD
+2020-12-14,SVB Leerink,Outperform,,main,FOLD
+2021-02-12,SVB Leerink,Market Perform,Outperform,down,FOLD
+2021-02-12,Cantor Fitzgerald,Neutral,Overweight,down,FOLD
+2021-02-12,JP Morgan,Neutral,Overweight,down,FOLD
+2021-03-02,Stifel,Hold,,init,FOLD
+2021-03-22,SVB Leerink,Market Perform,,main,FOLD
+2021-04-14,Cantor Fitzgerald,Overweight,Neutral,up,FOLD
+2021-05-21,UBS,Buy,,init,FOLD
+2021-05-27,Needham,Hold,,init,FOLD
+2021-09-30,SVB Leerink,Market Perform,,main,FOLD
+2021-09-30,JP Morgan,Overweight,Neutral,up,FOLD
+2021-11-15,Stifel,Buy,Hold,up,FOLD

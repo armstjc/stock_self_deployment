@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-28,Jefferies,Hold,,main,CONN
+2012-04-04,Jefferies,Hold,,main,CONN
+2012-06-01,PiperJaffray,Overweight,,init,CONN
+2012-08-07,PiperJaffray,Overweight,,main,CONN
+2012-08-31,Jefferies,Hold,,main,CONN
+2012-09-04,Jefferies,Hold,,main,CONN
+2012-09-04,KeyBanc,Buy,,init,CONN
+2012-09-05,PiperJaffray,Overweight,,main,CONN
+2012-09-06,Jefferies,Hold,,main,CONN
+2012-10-01,Canaccord Genuity,Buy,,init,CONN
+2012-12-04,Jefferies,Hold,,main,CONN
+2012-12-05,Jefferies,Hold,,main,CONN
+2012-12-07,Canaccord Genuity,Buy,,main,CONN
+2012-12-17,Stifel Nicolaus,Buy,,init,CONN
+2012-12-18,PiperJaffray,Overweight,,main,CONN
+2013-04-04,PiperJaffray,Overweight,,main,CONN
+2013-04-04,Stifel Nicolaus,Buy,,main,CONN
+2013-04-05,Jefferies,Hold,,main,CONN
+2013-04-23,Oppenheimer,Outperform,,init,CONN
+2013-06-07,Oppenheimer,Outperform,,main,CONN
+2013-06-07,Stifel Nicolaus,Buy,,main,CONN
+2013-12-06,Stifel Nicolaus,Buy,,main,CONN
+2014-02-20,Stephens & Co.,Equal-Weight,Overweight,down,CONN
+2014-02-20,Oppenheimer,Market Perform,Outperform,down,CONN
+2014-02-20,KeyBanc,Hold,Buy,down,CONN
+2014-06-03,Stifel Nicolaus,Buy,,main,CONN
+2014-09-02,PiperJaffray,Neutral,Overweight,down,CONN
+2014-09-03,Canaccord Genuity,Buy,,main,CONN
+2014-09-03,Stifel Nicolaus,Hold,Buy,down,CONN
+2014-12-09,Canaccord Genuity,Hold,Buy,down,CONN
+2015-02-09,Stifel Nicolaus,Buy,Hold,up,CONN
+2015-03-06,SunTrust Robinson Humphrey,Buy,,main,CONN
+2015-03-27,PiperJaffray,Overweight,Neutral,up,CONN
+2015-05-05,Oppenheimer,Outperform,Perform,up,CONN
+2015-05-22,Oppenheimer,Perform,Outperform,down,CONN
+2015-05-22,Stifel Nicolaus,Buy,,main,CONN
+2015-06-03,Stifel Nicolaus,Buy,,main,CONN
+2015-06-04,Stephens & Co.,Equal-Weight,,main,CONN
+2015-09-15,Stifel Nicolaus,Hold,Buy,down,CONN
+2015-12-01,Stifel Nicolaus,Buy,Hold,up,CONN
+2016-01-13,Stifel Nicolaus,Hold,Buy,down,CONN
+2016-03-15,Stephens & Co.,Overweight,Equal-Weight,up,CONN
+2016-06-03,PiperJaffray,Neutral,Overweight,down,CONN
+2016-09-21,Stifel Nicolaus,Buy,Hold,up,CONN
+2017-04-26,KeyBanc,Overweight,Hold,up,CONN
+2017-09-29,Oppenheimer,Outperform,Perform,up,CONN
+2017-10-09,Stifel Nicolaus,Hold,Buy,down,CONN
+2018-06-08,Stifel Nicolaus,Hold,Hold,main,CONN
+2018-07-10,KeyBanc,Overweight,Overweight,main,CONN
+2018-07-11,Stifel Nicolaus,Buy,Hold,up,CONN
+2018-08-16,Jefferies,Buy,,init,CONN
+2018-12-10,Compass Point,Buy,Neutral,up,CONN
+2019-12-10,Compass Point,Neutral,Buy,down,CONN
+2019-12-10,KeyBanc,Sector Weight,Overweight,down,CONN
+2019-12-11,Stifel Nicolaus,Hold,Buy,down,CONN
+2019-12-11,Stephens & Co.,Overweight,,main,CONN
+2020-03-23,Stephens & Co.,Equal-Weight,Overweight,down,CONN
+2020-04-15,Oppenheimer,Perform,Outperform,down,CONN
+2020-04-15,Stifel,Hold,,main,CONN
+2020-06-10,Jefferies,Buy,,main,CONN
+2020-06-11,Stifel,Hold,,main,CONN

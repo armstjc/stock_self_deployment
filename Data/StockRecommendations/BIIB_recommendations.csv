@@ -1,0 +1,315 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,Morgan Stanley,Overweight,,init,BIIB
+2012-04-04,Goldman Sachs,Buy,,up,BIIB
+2012-04-25,Oppenheimer,Outperform,,main,BIIB
+2012-05-01,Oppenheimer,Outperform,,main,BIIB
+2012-05-01,Citigroup,Neutral,,main,BIIB
+2012-05-01,PiperJaffray,Overweight,,main,BIIB
+2012-05-02,Jefferies,Buy,,main,BIIB
+2012-05-09,UBS,Buy,,main,BIIB
+2012-07-09,Stifel Nicolaus,Buy,,main,BIIB
+2012-07-24,Citigroup,Neutral,,main,BIIB
+2012-07-25,UBS,Buy,,main,BIIB
+2012-07-25,Morgan Stanley,Overweight,,main,BIIB
+2012-07-25,Jefferies,Buy,,main,BIIB
+2012-09-06,Deutsche Bank,Buy,,main,BIIB
+2012-09-10,UBS,Neutral,Buy,down,BIIB
+2012-09-26,Bank of America,Buy,,main,BIIB
+2012-09-27,Stifel Nicolaus,Buy,,main,BIIB
+2012-09-27,Jefferies,Buy,,main,BIIB
+2012-10-04,Oppenheimer,Perform,Outperform,down,BIIB
+2012-10-08,Credit Suisse,Outperform,,main,BIIB
+2012-10-15,Barclays,Overweight,,main,BIIB
+2012-10-18,PiperJaffray,Overweight,,main,BIIB
+2012-10-26,BMO Capital,Market Perform,,main,BIIB
+2012-11-21,Brean Capital,Buy,,init,BIIB
+2012-12-17,Canaccord Genuity,Hold,,init,BIIB
+2013-01-03,PiperJaffray,Neutral,Overweight,down,BIIB
+2013-01-03,Canaccord Genuity,Hold,,main,BIIB
+2013-01-03,Bank of America,Buy,,main,BIIB
+2013-01-03,Oppenheimer,Perform,,main,BIIB
+2013-01-29,UBS,Neutral,,main,BIIB
+2013-01-29,Jefferies,Buy,,main,BIIB
+2013-02-06,Deutsche Bank,Buy,,main,BIIB
+2013-02-07,Jefferies,Buy,,main,BIIB
+2013-02-08,Citigroup,Buy,Neutral,up,BIIB
+2013-02-08,Credit Suisse,Outperform,,main,BIIB
+2013-02-27,Canaccord Genuity,Buy,Hold,up,BIIB
+2013-03-04,Credit Suisse,Outperform,,main,BIIB
+2013-03-22,Bank of America,Neutral,,main,BIIB
+2013-03-25,Morgan Stanley,Overweight,,main,BIIB
+2013-03-28,Stifel Nicolaus,Buy,,main,BIIB
+2013-03-28,Jefferies,Buy,,main,BIIB
+2013-03-28,JMP Securities,Market Outperform,,init,BIIB
+2013-03-28,Goldman Sachs,Buy,,main,BIIB
+2013-03-28,Canaccord Genuity,Buy,,main,BIIB
+2013-03-28,Bank of America,Neutral,,main,BIIB
+2013-04-04,Credit Suisse,Outperform,,main,BIIB
+2013-04-09,RBC Capital,Outperform,,main,BIIB
+2013-04-12,UBS,Neutral,,main,BIIB
+2013-04-12,Bank of America,Buy,Neutral,up,BIIB
+2013-04-19,Citigroup,Buy,,main,BIIB
+2013-04-22,Deutsche Bank,Buy,,main,BIIB
+2013-06-12,Citigroup,Neutral,Buy,down,BIIB
+2013-07-01,Citigroup,Buy,Neutral,up,BIIB
+2013-07-26,BMO Capital,Market Perform,,main,BIIB
+2013-10-02,FBR Capital,Outperform,,main,BIIB
+2013-11-22,Deutsche Bank,Buy,,main,BIIB
+2013-11-22,Deutsche Bank,Buy,,main,BIIB
+2013-11-22,Citigroup,Buy,,main,BIIB
+2013-11-22,Credit Suisse,Outperform,,main,BIIB
+2013-11-25,Citigroup,Buy,,main,BIIB
+2014-01-08,Nomura,Buy,,init,BIIB
+2014-01-16,Stifel Nicolaus,Buy,,main,BIIB
+2014-01-28,Deutsche Bank,Buy,,main,BIIB
+2014-02-14,Credit Suisse,Outperform,,main,BIIB
+2014-03-06,BMO Capital,Outperform,Market Perform,up,BIIB
+2014-03-07,Barclays,Overweight,,main,BIIB
+2014-03-19,Stifel Nicolaus,Buy,,main,BIIB
+2014-03-27,Morgan Stanley,Overweight,,init,BIIB
+2014-04-24,Nomura,Buy,,main,BIIB
+2014-04-28,Jefferies,Buy,,main,BIIB
+2014-05-29,JP Morgan,Overweight,Neutral,up,BIIB
+2014-07-24,Nomura,Buy,,main,BIIB
+2014-07-24,Jefferies,Buy,,main,BIIB
+2014-07-24,Deutsche Bank,Buy,,main,BIIB
+2014-07-24,Credit Suisse,Outperform,,main,BIIB
+2014-07-24,UBS,Neutral,,main,BIIB
+2014-10-22,Baird,Outperform,Neutral,up,BIIB
+2014-10-23,Citigroup,Buy,,main,BIIB
+2014-11-19,Credit Suisse,Outperform,,main,BIIB
+2015-01-05,Nomura,Neutral,Buy,down,BIIB
+2015-01-06,Barclays,Overweight,,init,BIIB
+2015-01-30,Barclays,Overweight,,main,BIIB
+2015-01-30,Stifel Nicolaus,Buy,,main,BIIB
+2015-01-30,Citigroup,Buy,,main,BIIB
+2015-02-03,Leerink Swann,Outperform,,main,BIIB
+2015-03-23,Stifel Nicolaus,Hold,Buy,down,BIIB
+2015-03-23,Citigroup,Buy,,main,BIIB
+2015-03-30,BMO Capital,Outperform,,main,BIIB
+2015-04-27,Citigroup,Buy,,main,BIIB
+2015-04-27,Nomura,Neutral,,main,BIIB
+2015-06-10,Leerink Swann,Outperform,,main,BIIB
+2015-06-11,Leerink Swann,Outperform,,main,BIIB
+2015-07-14,Bank of America,Buy,Neutral,up,BIIB
+2015-07-22,PiperJaffray,Neutral,Overweight,down,BIIB
+2015-07-27,Bernstein,Outperform,Market Perform,up,BIIB
+2015-07-27,Morgan Stanley,Overweight,,main,BIIB
+2015-07-27,Baird,Neutral,Outperform,down,BIIB
+2015-08-11,H.C. Wainwright,Buy,,init,BIIB
+2015-09-09,Jefferies,Buy,,init,BIIB
+2015-09-15,Leerink Swann,Outperform,,main,BIIB
+2015-10-15,Jefferies,Buy,,main,BIIB
+2015-11-05,PiperJaffray,Overweight,Neutral,up,BIIB
+2015-12-18,Atlantic Equities,Overweight,,init,BIIB
+2016-01-07,Standpoint Research,Buy,,init,BIIB
+2016-01-20,Credit Suisse,Neutral,,init,BIIB
+2016-01-28,Jefferies,Buy,,main,BIIB
+2016-02-05,Leerink Swann,Market Perform,,init,BIIB
+2016-02-25,Citigroup,Buy,,init,BIIB
+2016-03-11,Baird,Neutral,,main,BIIB
+2016-04-05,BMO Capital,Market Perform,,init,BIIB
+2016-04-21,Goldman Sachs,Neutral,,main,BIIB
+2016-06-07,Citigroup,Neutral,Buy,down,BIIB
+2016-06-08,Citigroup,Buy,,main,BIIB
+2016-06-29,Bernstein,Outperform,,init,BIIB
+2016-07-21,Morgan Stanley,Overweight,,main,BIIB
+2016-08-02,Standpoint Research,Hold,Buy,down,BIIB
+2016-08-02,Raymond James,Strong Buy,,main,BIIB
+2016-08-17,Morgan Stanley,Overweight,,main,BIIB
+2016-09-06,Jefferies,Hold,Buy,down,BIIB
+2016-10-05,Jefferies,Hold,,main,BIIB
+2016-11-07,PiperJaffray,Overweight,Neutral,up,BIIB
+2016-11-07,Leerink Swann,Outperform,Market Perform,up,BIIB
+2016-11-08,Mizuho,Neutral,,init,BIIB
+2016-12-16,Cantor Fitzgerald,Neutral,,init,BIIB
+2017-02-07,Citigroup,Buy,Neutral,up,BIIB
+2017-02-08,Citigroup,Buy,Neutral,up,BIIB
+2017-03-16,Leerink Swann,Market Perform,Outperform,down,BIIB
+2017-03-16,Morgan Stanley,Equal-Weight,Overweight,down,BIIB
+2017-06-19,UBS,Neutral,Sell,up,BIIB
+2017-06-23,Deutsche Bank,Buy,,init,BIIB
+2017-07-10,Morgan Stanley,Equal-Weight,,main,BIIB
+2017-07-26,BMO Capital,Market Perform,,main,BIIB
+2017-07-26,UBS,Neutral,,main,BIIB
+2017-07-26,Goldman Sachs,Buy,Neutral,up,BIIB
+2017-07-26,Morgan Stanley,Equal-Weight,,main,BIIB
+2017-08-16,Goldman Sachs,Conviction Buy,Buy,up,BIIB
+2017-09-13,BMO Capital,Market Perform,,main,BIIB
+2017-09-15,RBC Capital,Sector Perform,,init,BIIB
+2017-09-20,SunTrust Robinson Humphrey,Buy,,init,BIIB
+2017-09-21,Raymond James,Market Perform,Strong Buy,down,BIIB
+2017-10-05,Morgan Stanley,Overweight,Equal-Weight,up,BIIB
+2017-10-17,Mizuho,Buy,Neutral,up,BIIB
+2017-10-17,Stifel Nicolaus,Buy,Hold,up,BIIB
+2017-10-18,Bank of America,Buy,,main,BIIB
+2017-10-23,Citigroup,Neutral,Buy,down,BIIB
+2017-10-24,Guggenheim,Buy,,init,BIIB
+2017-10-25,UBS,Neutral,,main,BIIB
+2017-10-25,BMO Capital,Outperform,Market Perform,up,BIIB
+2017-10-27,Canaccord Genuity,Hold,,init,BIIB
+2017-11-06,BMO Capital,Outperform,,main,BIIB
+2017-11-09,Oppenheimer,Outperform,,init,BIIB
+2018-01-24,Canaccord Genuity,Hold,Hold,main,BIIB
+2018-01-26,Oppenheimer,Outperform,Outperform,main,BIIB
+2018-01-26,H.C. Wainwright,Buy,Buy,main,BIIB
+2018-01-31,UBS,Buy,Neutral,up,BIIB
+2018-02-05,Mizuho,Buy,Buy,main,BIIB
+2018-02-16,Argus,Hold,Buy,down,BIIB
+2018-03-05,BMO Capital,Outperform,Outperform,main,BIIB
+2018-04-05,Barclays,Equal-Weight,Overweight,down,BIIB
+2018-04-25,Morgan Stanley,Overweight,Overweight,main,BIIB
+2018-04-25,Baird,Outperform,Neutral,up,BIIB
+2018-05-02,Citigroup,Neutral,Neutral,main,BIIB
+2018-05-31,Canaccord Genuity,Buy,Hold,up,BIIB
+2018-07-06,Citigroup,Buy,Neutral,up,BIIB
+2018-07-10,Baird,Neutral,Outperform,down,BIIB
+2018-07-13,Morgan Stanley,Overweight,Overweight,main,BIIB
+2018-07-23,Canaccord Genuity,Buy,Buy,main,BIIB
+2018-07-25,Barclays,Equal-Weight,Equal-Weight,main,BIIB
+2018-07-25,Baird,Neutral,Neutral,main,BIIB
+2018-07-25,Morgan Stanley,Overweight,Overweight,main,BIIB
+2018-07-26,UBS,Buy,Buy,main,BIIB
+2018-10-19,Bernstein,Market Perform,Outperform,down,BIIB
+2018-10-24,JP Morgan,Overweight,Overweight,main,BIIB
+2018-12-19,Morgan Stanley,Overweight,Overweight,main,BIIB
+2018-12-21,BTIG Research,Buy,,init,BIIB
+2019-02-21,Stifel Nicolaus,Hold,Buy,down,BIIB
+2019-02-22,Guggenheim,Neutral,Buy,down,BIIB
+2019-02-22,BMO Capital,Market Perform,,init,BIIB
+2019-03-21,William Blair,Market Perform,Outperform,down,BIIB
+2019-03-21,Atlantic Equities,Neutral,Overweight,down,BIIB
+2019-03-21,Cantor Fitzgerald,Neutral,Overweight,down,BIIB
+2019-03-22,Nomura,Buy,Buy,main,BIIB
+2019-03-22,Mizuho,Neutral,Buy,down,BIIB
+2019-03-22,Canaccord Genuity,Hold,Buy,down,BIIB
+2019-03-22,Citigroup,Neutral,Buy,down,BIIB
+2019-03-22,UBS,Neutral,Buy,down,BIIB
+2019-03-22,Morgan Stanley,Underweight,Overweight,down,BIIB
+2019-05-09,Barclays,Equal-Weight,,main,BIIB
+2019-05-21,Credit Suisse,Underperform,,init,BIIB
+2019-05-23,Wedbush,Neutral,,init,BIIB
+2019-06-28,Piper Jaffray,Neutral,Overweight,down,BIIB
+2019-07-24,Canaccord Genuity,Hold,,main,BIIB
+2019-10-11,Morgan Stanley,Underweight,,main,BIIB
+2019-10-23,Guggenheim,Buy,Neutral,up,BIIB
+2019-10-23,H.C. Wainwright,Buy,,reit,BIIB
+2019-10-23,Morgan Stanley,Underweight,,main,BIIB
+2019-10-23,Cowen & Co.,Outperform,,main,BIIB
+2019-10-23,SVB Leerink,Outperform,Market Perform,up,BIIB
+2019-10-23,BMO Capital,Market Perform,,main,BIIB
+2019-10-23,JP Morgan,Neutral,,main,BIIB
+2019-10-23,Credit Suisse,Underperform,,main,BIIB
+2019-10-23,Canaccord Genuity,Hold,,main,BIIB
+2019-10-30,Bernstein,Outperform,Market Perform,up,BIIB
+2019-11-01,Standpoint Research,Hold,Buy,down,BIIB
+2019-11-12,SunTrust Robinson Humphrey,Buy,,init,BIIB
+2019-12-02,Baird,Underperform,Neutral,down,BIIB
+2019-12-13,Credit Suisse,Neutral,Underperform,up,BIIB
+2020-01-17,Morgan Stanley,Underweight,,main,BIIB
+2020-01-27,Canaccord Genuity,Buy,Hold,up,BIIB
+2020-01-31,Morgan Stanley,Underweight,,main,BIIB
+2020-02-03,SunTrust Robinson Humphrey,Buy,,main,BIIB
+2020-02-06,Cantor Fitzgerald,Neutral,,reit,BIIB
+2020-02-06,Morgan Stanley,Underweight,,main,BIIB
+2020-02-06,SVB Leerink,Outperform,,main,BIIB
+2020-02-06,Baird,Underperform,,main,BIIB
+2020-02-06,Credit Suisse,Neutral,,main,BIIB
+2020-02-06,Wells Fargo,Equal-Weight,,main,BIIB
+2020-02-07,Nomura,Buy,,main,BIIB
+2020-02-25,Mizuho,Neutral,,main,BIIB
+2020-02-27,Barclays,Overweight,,init,BIIB
+2020-04-23,Morgan Stanley,Underweight,,main,BIIB
+2020-04-23,Credit Suisse,Neutral,,main,BIIB
+2020-04-23,Oppenheimer,Outperform,,main,BIIB
+2020-04-23,Barclays,Overweight,,main,BIIB
+2020-04-23,Citigroup,Sell,Neutral,down,BIIB
+2020-04-23,Raymond James,Underperform,Market Perform,down,BIIB
+2020-04-23,SunTrust Robinson Humphrey,Buy,,main,BIIB
+2020-04-24,Canaccord Genuity,Buy,,main,BIIB
+2020-05-01,Cantor Fitzgerald,Neutral,,reit,BIIB
+2020-06-09,Bernstein,Market Perform,Outperform,down,BIIB
+2020-06-19,Baird,Underperform,,main,BIIB
+2020-06-22,RBC Capital,Sector Perform,,main,BIIB
+2020-06-22,Barclays,Equal-Weight,Overweight,down,BIIB
+2020-07-27,Morgan Stanley,Overweight,Underweight,up,BIIB
+2020-08-19,SVB Leerink,Outperform,,main,BIIB
+2020-09-18,RBC Capital,Sector Perform,,main,BIIB
+2020-10-13,Morgan Stanley,Overweight,,main,BIIB
+2020-10-15,B of A Securities,Underperform,,main,BIIB
+2020-10-20,Piper Sandler,Neutral,,main,BIIB
+2020-10-22,Wedbush,Neutral,,main,BIIB
+2020-10-22,Morgan Stanley,Overweight,,main,BIIB
+2020-10-22,Credit Suisse,Outperform,,main,BIIB
+2020-10-27,Mizuho,Neutral,,main,BIIB
+2020-10-28,UBS,Neutral,,init,BIIB
+2020-11-05,B of A Securities,Neutral,Underperform,up,BIIB
+2020-11-05,BMO Capital,Market Perform,,main,BIIB
+2020-11-05,SVB Leerink,Outperform,,main,BIIB
+2020-11-09,B of A Securities,Underperform,Neutral,down,BIIB
+2020-11-09,Cowen & Co.,Market Perform,Outperform,down,BIIB
+2020-11-09,HC Wainwright & Co.,Buy,,main,BIIB
+2020-11-09,Atlantic Equities,Underweight,Neutral,down,BIIB
+2020-11-09,SVB Leerink,Outperform,,main,BIIB
+2020-11-10,DZ Bank,Buy,Hold,up,BIIB
+2020-11-19,RBC Capital,Sector Perform,,main,BIIB
+2021-01-19,Morgan Stanley,Overweight,,main,BIIB
+2021-02-04,SVB Leerink,Outperform,,main,BIIB
+2021-02-04,HC Wainwright & Co.,Buy,,main,BIIB
+2021-02-04,Credit Suisse,Outperform,,main,BIIB
+2021-02-04,Morgan Stanley,Overweight,,main,BIIB
+2021-02-17,Cantor Fitzgerald,Neutral,,main,BIIB
+2021-04-12,Wedbush,Neutral,,main,BIIB
+2021-04-19,Morgan Stanley,Overweight,,main,BIIB
+2021-05-18,Oppenheimer,Outperform,,main,BIIB
+2021-06-08,HC Wainwright & Co.,Buy,,main,BIIB
+2021-06-08,Baird,Neutral,Underperform,up,BIIB
+2021-06-08,Citigroup,Neutral,Sell,up,BIIB
+2021-06-08,Barclays,Equal-Weight,,main,BIIB
+2021-06-08,Jefferies,Buy,,main,BIIB
+2021-06-08,RBC Capital,Sector Perform,,main,BIIB
+2021-06-08,William Blair,Outperform,Market Perform,up,BIIB
+2021-06-08,Morgan Stanley,Overweight,,main,BIIB
+2021-06-10,UBS,Buy,Neutral,up,BIIB
+2021-06-10,SVB Leerink,Outperform,,main,BIIB
+2021-06-11,Bernstein,Outperform,Market Perform,up,BIIB
+2021-06-14,Goldman Sachs,Neutral,,main,BIIB
+2021-06-14,Truist Securities,Buy,,main,BIIB
+2021-06-18,Piper Sandler,Overweight,Neutral,up,BIIB
+2021-06-28,RBC Capital,Sector Perform,,main,BIIB
+2021-07-16,Morgan Stanley,Overweight,,main,BIIB
+2021-07-23,Morgan Stanley,Overweight,,main,BIIB
+2021-07-23,RBC Capital,Sector Perform,,main,BIIB
+2021-07-27,Canaccord Genuity,Buy,,main,BIIB
+2021-08-02,Mizuho,Neutral,,main,BIIB
+2021-09-16,UBS,Buy,,main,BIIB
+2021-09-23,Needham,Buy,,init,BIIB
+2021-09-29,RBC Capital,Sector Perform,,main,BIIB
+2021-10-08,Jefferies,Buy,,main,BIIB
+2021-10-08,Barclays,Equal-Weight,,main,BIIB
+2021-10-12,Morgan Stanley,Overweight,,main,BIIB
+2021-10-15,Stifel,Buy,,main,BIIB
+2021-10-15,Cantor Fitzgerald,Neutral,,main,BIIB
+2021-10-19,Needham,Buy,,main,BIIB
+2021-10-21,Oppenheimer,Outperform,,main,BIIB
+2021-10-21,Needham,Buy,,main,BIIB
+2021-10-21,Morgan Stanley,Overweight,,main,BIIB
+2021-10-21,Cowen & Co.,Outperform,,main,BIIB
+2021-10-21,RBC Capital,Sector Perform,,main,BIIB
+2021-10-26,Mizuho,Neutral,,main,BIIB
+2021-11-19,RBC Capital,Sector Perform,,main,BIIB
+2021-11-19,BMO Capital,Outperform,,init,BIIB
+2021-12-06,Goldman Sachs,Neutral,,init,BIIB
+2021-12-09,Wells Fargo,Equal-Weight,,init,BIIB
+2021-12-20,SVB Leerink,Outperform,,main,BIIB
+2021-12-21,Baird,Neutral,,main,BIIB
+2021-12-21,JP Morgan,Neutral,,main,BIIB
+2021-12-22,Oppenheimer,Outperform,,main,BIIB
+2021-12-23,B of A Securities,Neutral,,main,BIIB
+2022-01-06,Morgan Stanley,Overweight,,main,BIIB
+2022-01-11,Needham,Buy,,main,BIIB
+2022-01-12,Wedbush,Neutral,,main,BIIB
+2022-01-12,Mizuho,Neutral,,main,BIIB
+2022-01-12,Needham,Buy,,main,BIIB
+2022-01-12,Piper Sandler,Neutral,Overweight,down,BIIB
+2022-01-13,Guggenheim,Neutral,Buy,down,BIIB

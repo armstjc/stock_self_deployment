@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-15,William Blair,Market Perform,,init,APAM
+2013-05-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,APAM
+2013-05-28,Citigroup,Neutral,Buy,down,APAM
+2013-06-28,Sandler O'Neill,Hold,Buy,down,APAM
+2013-10-09,Jefferies,Buy,,init,APAM
+2014-02-24,Citigroup,Buy,Hold,up,APAM
+2014-04-04,Keefe Bruyette & Woods,Outperform,Market Perform,up,APAM
+2014-04-14,Sandler O'Neill,Buy,Hold,up,APAM
+2014-04-14,RBC Capital,Outperform,,init,APAM
+2014-04-17,Sidoti & Co.,Buy,,init,APAM
+2014-06-10,Citigroup,Buy,,main,APAM
+2014-07-02,BMO Capital,Market Perform,,init,APAM
+2014-07-09,Citigroup,Neutral,Buy,down,APAM
+2014-07-14,Keefe Bruyette & Woods,Market Perform,Outperform,down,APAM
+2014-09-11,Citigroup,Neutral,,main,APAM
+2014-10-08,Jefferies,Buy,,main,APAM
+2014-10-08,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2014-10-08,Citigroup,Neutral,,main,APAM
+2014-10-14,Bank of America,Neutral,,main,APAM
+2014-10-29,Citigroup,Neutral,,main,APAM
+2014-10-29,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2014-10-29,Bank of America,Underperform,Neutral,down,APAM
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-01-08,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-02-04,Citigroup,Sell,Neutral,down,APAM
+2015-02-11,Jefferies,Buy,,main,APAM
+2015-02-18,Citigroup,Sell,,main,APAM
+2015-02-18,Jefferies,Buy,,main,APAM
+2015-03-05,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-04-08,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-05-01,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-05-04,Citigroup,Neutral,,main,APAM
+2015-05-05,Citigroup,Neutral,,main,APAM
+2015-06-03,Credit Suisse,Neutral,,init,APAM
+2015-06-08,Goldman Sachs,Buy,,init,APAM
+2015-06-10,Citigroup,Neutral,,main,APAM
+2015-07-08,Bank of America,Neutral,Underperform,up,APAM
+2015-07-15,Citigroup,Neutral,,main,APAM
+2015-07-21,Credit Suisse,Outperform,Neutral,up,APAM
+2015-09-03,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2015-09-10,Citigroup,Neutral,,main,APAM
+2015-10-07,Jefferies,Buy,,main,APAM
+2015-10-27,Goldman Sachs,Neutral,,down,APAM
+2015-11-25,Credit Suisse,Outperform,,main,APAM
+2015-12-15,Citigroup,Sell,Neutral,down,APAM
+2016-01-11,Goldman Sachs,Neutral,Buy,down,APAM
+2016-01-11,Jefferies,Hold,Buy,down,APAM
+2016-01-11,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2016-02-11,Citigroup,Neutral,Sell,up,APAM
+2016-06-28,Bank of America,Underperform,Neutral,down,APAM
+2016-07-11,Jefferies,Hold,,main,APAM
+2016-07-25,RBC Capital,Sector Perform,Outperform,down,APAM
+2016-07-27,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2016-10-14,Keefe Bruyette & Woods,Market Perform,,main,APAM
+2017-01-04,Goldman Sachs,Sell,Neutral,down,APAM
+2017-05-01,Keefe Bruyette & Woods,Outperform,Market Perform,up,APAM
+2017-06-30,RBC Capital,Outperform,,init,APAM
+2017-08-02,Keefe Bruyette & Woods,Market Perform,Outperform,down,APAM
+2017-08-04,Sidoti & Co.,Buy,Neutral,up,APAM
+2018-02-08,Bank of America,Underperform,Underperform,main,APAM
+2018-08-02,Bank of America,Underperform,Underperform,main,APAM
+2018-11-01,Citigroup,Neutral,Neutral,main,APAM
+2019-04-15,Citigroup,Neutral,Sell,up,APAM
+2019-11-06,Citigroup,Buy,Neutral,up,APAM
+2020-03-13,Citigroup,Buy,,main,APAM
+2020-03-23,B of A Securities,Underperform,,main,APAM
+2020-03-26,B of A Securities,Buy,Underperform,up,APAM
+2020-04-29,B of A Securities,Buy,,main,APAM
+2020-04-30,B of A Securities,Buy,,reit,APAM
+2020-04-30,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,APAM
+2020-04-30,Citigroup,Buy,,main,APAM
+2020-07-30,Citigroup,Buy,,main,APAM
+2020-10-19,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,APAM
+2021-02-04,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,APAM
+2021-04-27,Citigroup,Neutral,Buy,down,APAM
+2021-07-12,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,APAM
+2021-10-26,Citigroup,Neutral,,main,APAM
+2021-10-28,RBC Capital,Outperform,,main,APAM
+2021-12-22,Evercore ISI Group,In-Line,,init,APAM
+2022-01-04,Goldman Sachs,Neutral,Buy,down,APAM

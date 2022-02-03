@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-09,Stifel Nicolaus,Hold,Sell,up,MCY
+2013-01-17,Macquarie,Outperform,Neutral,up,MCY
+2013-03-07,Macquarie,Neutral,Outperform,down,MCY
+2014-08-28,Compass Point,Neutral,,init,MCY
+2014-09-26,"Keefe, Bruyette & Woods",Market Perform,Underperform,up,MCY
+2014-11-03,Compass Point,Neutral,,main,MCY
+2014-11-04,Keefe Bruyette & Woods,Market Perform,,main,MCY
+2014-11-04,Keefe Bruyette & Woods,Market Perform,,main,MCY
+2015-02-11,Keefe Bruyette & Woods,Underperform,Market Perform,down,MCY
+2016-02-19,Raymond James,Market Perform,Underperform,up,MCY
+2019-10-29,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,MCY
+2020-04-03,Raymond James,Underperform,Market Perform,down,MCY

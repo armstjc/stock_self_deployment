@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-07-28,Sterne Agee,Buy,,init,ISTR
+2014-10-14,Sandler O'Neill,Buy,,init,ISTR
+2017-03-09,PiperJaffray,Overweight,,init,ISTR
+2017-08-10,Raymond James,Market Perform,Outperform,down,ISTR
+2019-07-08,Raymond James,Outperform,Market Perform,up,ISTR
+2019-07-11,DA Davidson,Buy,,init,ISTR
+2019-11-13,DA Davidson,Buy,,main,ISTR
+2020-04-27,Raymond James,Outperform,,main,ISTR
+2020-06-17,Raymond James,Market Perform,Outperform,down,ISTR
+2020-09-15,DA Davidson,Neutral,Buy,down,ISTR
+2021-01-28,Piper Sandler,Overweight,Neutral,up,ISTR
+2021-10-15,Piper Sandler,Neutral,Overweight,down,ISTR

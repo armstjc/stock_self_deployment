@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-12,Benchmark,Buy,,init,NSSC
+2017-05-24,Canaccord Genuity,Buy,,init,NSSC
+2019-01-11,William Blair,Outperform,,init,NSSC
+2019-06-21,Imperial Capital,Outperform,,init,NSSC
+2019-09-04,Canaccord Genuity,Buy,,main,NSSC
+2019-11-21,Imperial Capital,Outperform,,main,NSSC
+2020-02-06,Imperial Capital,Outperform,,main,NSSC
+2020-05-06,Imperial Capital,Outperform,,main,NSSC
+2020-09-09,Canaccord Genuity,Buy,,main,NSSC
+2021-01-12,Needham,Buy,,init,NSSC
+2021-06-09,Needham,Buy,,main,NSSC
+2021-09-14,Needham,Buy,,main,NSSC
+2021-10-15,Needham,Buy,,main,NSSC
+2021-11-09,B. Riley Securities,Neutral,Buy,down,NSSC
+2021-11-09,Needham,Buy,,main,NSSC

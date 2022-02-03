@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-24,Deutsche Bank,Buy,,main,ASGN
+2013-02-15,Bank of America,Buy,,main,ASGN
+2013-07-03,RBC Capital,Outperform,,init,ASGN
+2013-07-11,Deutsche Bank,Hold,Buy,down,ASGN
+2013-10-11,Jefferies,Buy,,init,ASGN
+2013-10-24,Jefferies,Buy,,main,ASGN
+2013-10-24,Wells Fargo,Market Perform,Outperform,down,ASGN
+2013-10-24,Jefferies,Buy,,main,ASGN
+2013-10-24,Deutsche Bank,Hold,,main,ASGN
+2014-02-03,Deutsche Bank,Buy,Hold,up,ASGN
+2014-03-20,Wells Fargo,Outperform,Market Perform,up,ASGN
+2014-03-27,Deutsche Bank,Buy,,main,ASGN
+2014-03-28,Jefferies,Buy,,main,ASGN
+2014-07-31,Avondale Partners,Market Perform,Market Outperform,down,ASGN
+2014-07-31,Deutsche Bank,Buy,,main,ASGN
+2014-07-31,Baird,Neutral,Outperform,down,ASGN
+2014-10-15,Avondale Partners,Market Outperform,Market Perform,up,ASGN
+2014-10-29,Macquarie,Outperform,,init,ASGN
+2014-10-30,Deutsche Bank,Buy,,main,ASGN
+2015-01-20,Avondale Partners,Market Perform,,down,ASGN
+2015-01-21,Deutsche Bank,Buy,,main,ASGN
+2015-02-10,Jefferies,Buy,,main,ASGN
+2015-02-19,Deutsche Bank,Buy,,main,ASGN
+2015-04-30,Jefferies,Buy,,main,ASGN
+2015-05-26,Deutsche Bank,Buy,,main,ASGN
+2015-12-09,Deutsche Bank,Hold,Buy,down,ASGN
+2016-02-18,Avondale Partners,Market Outperform,Market Perform,up,ASGN
+2016-04-28,Avondale Partners,Market Outperform,,main,ASGN
+2016-08-18,Deutsche Bank,Buy,,init,ASGN
+2017-10-26,Deutsche Bank,Buy,,main,ASGN
+2017-10-26,BMO Capital,Outperform,,main,ASGN
+2017-11-10,BMO Capital,Outperform,,main,ASGN
+2018-02-01,Wells Fargo,Outperform,Outperform,main,ASGN
+2018-02-01,BMO Capital,Outperform,Outperform,main,ASGN
+2018-02-15,Deutsche Bank,Buy,Buy,main,ASGN
+2018-04-26,BMO Capital,Outperform,Outperform,main,ASGN
+2018-08-10,Credit Suisse,Neutral,,init,ASGN
+2018-10-25,Wells Fargo,Outperform,Outperform,main,ASGN
+2018-10-25,BMO Capital,Outperform,Outperform,main,ASGN
+2018-10-25,Baird,Neutral,Neutral,main,ASGN
+2018-10-25,Credit Suisse,Neutral,Neutral,main,ASGN
+2019-03-12,Jefferies,Buy,,init,ASGN
+2019-04-17,RBC Capital,Outperform,,init,ASGN
+2019-10-24,Bank of America,Buy,,reit,ASGN
+2020-01-09,Wells Fargo,Overweight,,main,ASGN
+2020-02-13,Credit Suisse,Neutral,,main,ASGN
+2020-02-13,Baird,Neutral,,main,ASGN
+2020-02-19,Jefferies,Hold,Buy,down,ASGN
+2020-04-03,SunTrust Robinson Humphrey,Buy,,main,ASGN
+2020-04-14,Wells Fargo,Overweight,,main,ASGN
+2020-04-20,BMO Capital,Outperform,,main,ASGN
+2020-05-01,Credit Suisse,Neutral,,main,ASGN
+2020-05-01,RBC Capital,Outperform,,main,ASGN
+2020-05-01,Wells Fargo,Overweight,,main,ASGN
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,ASGN
+2020-05-04,Baird,Neutral,,main,ASGN
+2020-06-04,SunTrust Robinson Humphrey,Buy,,main,ASGN
+2021-02-11,Credit Suisse,Neutral,,main,ASGN
+2021-04-29,Credit Suisse,Neutral,,main,ASGN
+2021-09-16,BMO Capital,Outperform,,main,ASGN

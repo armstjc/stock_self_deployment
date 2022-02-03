@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-05,Miller Tabak,Strong Buy,,init,ARCT
+2012-08-06,Miller Tabak,Strong Buy,,main,ARCT
+2018-01-22,Chardan Capital,Buy,,init,ARCT
+2018-02-28,Ladenburg Thalmann,Neutral,Buy,down,ARCT
+2018-05-31,Ladenburg Thalmann,Buy,Neutral,up,ARCT
+2018-09-20,WBB Securities,Strong Buy,Buy,up,ARCT
+2019-04-05,H.C. Wainwright,Buy,,init,ARCT
+2019-08-07,H.C. Wainwright,Buy,,main,ARCT
+2020-02-07,Guggenheim,Buy,,init,ARCT
+2020-02-11,Baird,Outperform,,init,ARCT
+2020-03-12,H.C. Wainwright,Buy,,main,ARCT
+2020-04-14,H.C. Wainwright,Buy,,main,ARCT
+2020-04-28,HC Wainwright & Co.,Buy,,main,ARCT
+2020-06-09,WBB Securities,Hold,Strong Buy,down,ARCT
+2020-07-13,B. Riley FBR,Buy,,init,ARCT
+2020-07-16,Raymond James,Outperform,,init,ARCT
+2020-07-24,HC Wainwright & Co.,Buy,,main,ARCT
+2020-08-11,Raymond James,Outperform,,main,ARCT
+2020-08-26,Piper Sandler,Overweight,,init,ARCT
+2020-10-06,Citigroup,Buy,,init,ARCT
+2020-11-10,Raymond James,Outperform,,main,ARCT
+2020-12-23,Roth Capital,Sell,Buy,down,ARCT
+2020-12-29,Baird,Neutral,Outperform,down,ARCT
+2020-12-29,HC Wainwright & Co.,Neutral,Buy,down,ARCT
+2020-12-29,Raymond James,Market Perform,Outperform,down,ARCT
+2021-01-07,Wells Fargo,Overweight,,init,ARCT
+2021-01-15,B. Riley FBR,Neutral,Buy,down,ARCT
+2021-06-21,Barclays,Underweight,Equal-Weight,down,ARCT
+2021-07-02,Cantor Fitzgerald,Overweight,,init,ARCT
+2021-08-10,Baird,Underperform,Neutral,down,ARCT
+2021-08-10,Cantor Fitzgerald,Overweight,,main,ARCT
+2021-08-11,Goldman Sachs,Sell,Neutral,down,ARCT
+2021-08-12,Raymond James,Underperform,Market Perform,down,ARCT
+2021-08-25,Citigroup,Buy,,main,ARCT
+2021-11-09,Barclays,Underweight,,main,ARCT

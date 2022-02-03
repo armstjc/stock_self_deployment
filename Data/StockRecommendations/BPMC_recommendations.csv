@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-26,Cowen & Co.,Outperform,,init,BPMC
+2015-05-26,Wedbush,Outperform,,init,BPMC
+2015-05-26,JMP Securities,Market Outperform,,init,BPMC
+2016-03-09,JMP Securities,Market Outperform,,main,BPMC
+2016-05-27,Raymond James,Outperform,,init,BPMC
+2016-08-05,Canaccord Genuity,Buy,,init,BPMC
+2016-08-05,Canaccord Genuity,Buy,,init,BPMC
+2017-02-15,Morgan Stanley,Overweight,,init,BPMC
+2017-03-13,Goldman Sachs,Buy,Neutral,up,BPMC
+2017-08-03,Canaccord Genuity,Buy,,main,BPMC
+2017-09-20,Canaccord Genuity,Buy,,main,BPMC
+2017-09-29,DA Davidson,Buy,,init,BPMC
+2017-10-23,Morgan Stanley,Overweight,,main,BPMC
+2018-04-16,Wedbush,Outperform,Outperform,main,BPMC
+2018-06-04,JMP Securities,Market Outperform,Market Outperform,main,BPMC
+2018-09-25,Leerink Swann,Outperform,,init,BPMC
+2019-04-03,Morgan Stanley,Overweight,,init,BPMC
+2019-07-18,Deutsche Bank,Buy,,init,BPMC
+2019-07-19,Baird,Outperform,,init,BPMC
+2019-08-29,Piper Jaffray,Neutral,,init,BPMC
+2019-09-12,Raymond James,Outperform,Market Perform,up,BPMC
+2019-10-03,H.C. Wainwright,Buy,,init,BPMC
+2019-10-11,Morgan Stanley,Overweight,,main,BPMC
+2019-10-29,Deutsche Bank,Hold,Buy,down,BPMC
+2019-11-06,Raymond James,Strong Buy,Outperform,up,BPMC
+2019-11-06,Morgan Stanley,Overweight,,main,BPMC
+2019-12-10,Deutsche Bank,Hold,,main,BPMC
+2020-01-28,BMO Capital,Market Perform,,init,BPMC
+2020-02-18,Morgan Stanley,Overweight,,main,BPMC
+2020-03-17,BMO Capital,Outperform,Market Perform,up,BPMC
+2020-03-17,Deutsche Bank,Buy,Hold,up,BPMC
+2020-04-29,SVB Leerink,Outperform,,main,BPMC
+2020-04-29,HC Wainwright & Co.,Buy,,reit,BPMC
+2020-04-29,BMO Capital,Outperform,,main,BPMC
+2020-04-29,JMP Securities,Market Outperform,,main,BPMC
+2020-04-30,Morgan Stanley,Overweight,,main,BPMC
+2020-04-30,Canaccord Genuity,Buy,,main,BPMC
+2020-05-05,Barclays,Equal-Weight,,init,BPMC
+2020-06-08,Deutsche Bank,Buy,,main,BPMC
+2020-07-15,HC Wainwright & Co.,Buy,,main,BPMC
+2020-07-27,SVB Leerink,Outperform,,main,BPMC
+2020-10-13,Morgan Stanley,Overweight,,main,BPMC
+2020-10-16,Raymond James,Strong Buy,,main,BPMC
+2020-10-30,Morgan Stanley,Equal-Weight,Overweight,down,BPMC
+2020-11-02,Jefferies,Hold,Buy,down,BPMC
+2020-12-03,Stifel,Hold,,init,BPMC
+2021-01-12,SVB Leerink,Outperform,,main,BPMC
+2021-02-18,Morgan Stanley,Equal-Weight,,main,BPMC
+2021-02-18,Barclays,Equal-Weight,,main,BPMC
+2021-03-31,Credit Suisse,Neutral,,init,BPMC
+2021-04-13,Wedbush,Outperform,,main,BPMC
+2021-04-30,Morgan Stanley,Equal-Weight,,main,BPMC
+2021-06-17,SVB Leerink,Outperform,,main,BPMC
+2021-06-17,Wedbush,Outperform,,main,BPMC
+2021-06-17,Baird,Outperform,,main,BPMC
+2021-07-30,Morgan Stanley,Equal-Weight,,main,BPMC
+2021-10-29,Morgan Stanley,Equal-Weight,,main,BPMC
+2021-11-10,Raymond James,Strong Buy,,main,BPMC

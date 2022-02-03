@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SMG220916C00165000,2022-02-02 16:48:21+00:00,165.0,7.9,7.2,8.0,-1.4500003,-15.508024,1,2,0.3625857199096679,False,REGULAR,USD,SMG

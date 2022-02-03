@@ -1,6 +1,5 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2021-07-26 12:12:14,Stifel,Buy,,init,ABOS
-2021-07-26 12:35:36,Credit Suisse,Outperform,,init,ABOS
-2021-07-26 12:52:05,B of A Securities,Neutral,,init,ABOS
-2021-07-26 13:19:18,UBS,Buy,,init,ABOS
-2022-01-21 11:59:50,B of A Securities,Buy,Neutral,up,ABOS
+2021-07-26,Stifel,Buy,,init,ABOS
+2021-07-26,Credit Suisse,Outperform,,init,ABOS
+2021-07-26,B of A Securities,Neutral,,init,ABOS
+2021-07-26,UBS,Buy,,init,ABOS

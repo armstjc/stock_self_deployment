@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-19,Goldman Sachs,Neutral,,init,DOCS
+2021-07-19,SVB Leerink,Outperform,,init,DOCS
+2021-07-19,Canaccord Genuity,Buy,,init,DOCS
+2021-07-19,William Blair,Outperform,,init,DOCS
+2021-07-19,Needham,Buy,,init,DOCS
+2021-07-19,Raymond James,Outperform,,init,DOCS
+2021-07-19,Morgan Stanley,Equal-Weight,,init,DOCS
+2021-07-19,JP Morgan,Overweight,,init,DOCS
+2021-07-19,Piper Sandler,Overweight,,init,DOCS
+2021-08-11,Raymond James,Outperform,,main,DOCS
+2021-08-26,JP Morgan,Neutral,Overweight,down,DOCS
+2021-08-31,Morgan Stanley,Equal-Weight,,main,DOCS
+2021-11-10,SVB Leerink,Outperform,,main,DOCS
+2021-11-10,Needham,Buy,,main,DOCS
+2021-11-10,Raymond James,Outperform,,main,DOCS
+2021-11-17,Baird,Outperform,,init,DOCS
+2021-12-02,Jefferies,Buy,,init,DOCS
+2021-12-14,JP Morgan,Underweight,Neutral,down,DOCS
+2021-12-17,Morgan Stanley,Equal-Weight,,main,DOCS

@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Jefferies,Buy,,main,CCK
+2012-10-10,Jefferies,Buy,,main,CCK
+2012-11-26,Deutsche Bank,Hold,Buy,down,CCK
+2013-01-09,JP Morgan,Neutral,Overweight,down,CCK
+2013-02-04,Barclays,Overweight,,main,CCK
+2013-04-12,Citigroup,Buy,,main,CCK
+2013-04-16,Macquarie,Outperform,,init,CCK
+2013-04-16,Jefferies,Buy,,main,CCK
+2013-05-22,Jefferies,Buy,,main,CCK
+2013-07-10,Goldman Sachs,Buy,,main,CCK
+2013-08-16,Bank of America,Buy,,main,CCK
+2013-08-23,Northcoast Research,Buy,,init,CCK
+2013-09-25,Citigroup,Buy,,main,CCK
+2013-10-08,Wells Fargo,Market Perform,Outperform,down,CCK
+2014-01-08,JP Morgan,Overweight,Neutral,up,CCK
+2014-02-05,Wells Fargo,Outperform,Market Perform,up,CCK
+2014-02-06,Wells Fargo,Outperform,Market Perform,up,CCK
+2014-04-14,Barclays,Overweight,,main,CCK
+2014-04-21,Jefferies,Buy,,main,CCK
+2014-04-22,Jefferies,Buy,,main,CCK
+2014-04-22,Barclays,Overweight,,main,CCK
+2014-04-23,JP Morgan,Overweight,,init,CCK
+2014-07-11,Jefferies,Buy,,main,CCK
+2014-07-17,JP Morgan,Overweight,,main,CCK
+2014-07-23,Macquarie,Neutral,,main,CCK
+2014-07-23,Barclays,Overweight,,main,CCK
+2014-07-30,Citigroup,Buy,,main,CCK
+2014-09-03,BMO Capital,Outperform,,init,CCK
+2014-09-03,Macquarie,Neutral,,main,CCK
+2014-10-07,Macquarie,Outperform,Neutral,up,CCK
+2014-10-13,Barclays,Overweight,,main,CCK
+2014-10-14,JP Morgan,Overweight,,main,CCK
+2014-10-20,Bank of America,Buy,,main,CCK
+2014-10-22,Barclays,Overweight,,main,CCK
+2014-12-09,Bank of America,Buy,,main,CCK
+2015-01-06,Bank of America,Neutral,Buy,down,CCK
+2015-02-11,Jefferies,Buy,,main,CCK
+2015-03-31,Jefferies,Buy,,main,CCK
+2015-04-10,JP Morgan,Overweight,,main,CCK
+2015-04-10,BMO Capital,Market Perform,Outperform,down,CCK
+2015-04-15,Barclays,Overweight,,main,CCK
+2015-04-20,Barclays,Buy,,main,CCK
+2015-04-20,Jefferies,Buy,,main,CCK
+2015-04-20,Baird,Outperform,,main,CCK
+2015-04-21,Bank of America,Buy,Neutral,up,CCK
+2015-06-15,Goldman Sachs,Neutral,Buy,down,CCK
+2015-09-15,Bank of America,Neutral,Buy,down,CCK
+2015-10-21,Jefferies,Buy,,main,CCK
+2015-10-21,Citigroup,Buy,,main,CCK
+2015-11-10,Macquarie,Outperform,,init,CCK
+2015-11-12,Wells Fargo,Market Perform,Outperform,down,CCK
+2016-02-05,Macquarie,Outperform,,main,CCK
+2016-02-19,Bank of America,Buy,Neutral,up,CCK
+2016-04-19,Credit Suisse,Neutral,,main,CCK
+2016-04-25,Vertical Research,Hold,Buy,down,CCK
+2016-05-12,Goldman Sachs,Neutral,,init,CCK
+2016-07-14,Jefferies,Buy,,main,CCK
+2016-07-25,Barclays,Overweight,,main,CCK
+2016-09-27,BMO Capital,Outperform,Market Perform,up,CCK
+2016-09-30,RBC Capital,Outperform,,init,CCK
+2016-10-17,Citigroup,Buy,,main,CCK
+2017-07-18,Deutsche Bank,Hold,,main,CCK
+2017-07-21,Vertical Research,Hold,Buy,down,CCK
+2017-07-24,Barclays,Overweight,,main,CCK
+2017-10-20,Barclays,Overweight,,main,CCK
+2017-10-20,Wells Fargo,Market Perform,,main,CCK
+2017-11-29,UBS,Neutral,,init,CCK
+2018-03-26,Barclays,Overweight,Overweight,main,CCK
+2018-04-05,Citigroup,Buy,Buy,main,CCK
+2018-04-11,JP Morgan,Overweight,Overweight,main,CCK
+2018-04-18,Credit Suisse,Neutral,Neutral,main,CCK
+2018-07-19,Bank of America,Neutral,Buy,down,CCK
+2018-07-19,UBS,Neutral,Neutral,main,CCK
+2018-07-20,Citigroup,Buy,Buy,main,CCK
+2018-07-23,JP Morgan,Overweight,Overweight,main,CCK
+2018-09-24,Bank of America,Neutral,Neutral,main,CCK
+2018-10-11,Citigroup,Buy,Buy,main,CCK
+2018-10-19,Citigroup,Buy,Buy,main,CCK
+2018-10-22,Wells Fargo,Outperform,Market Perform,up,CCK
+2018-11-09,Bank of America,Buy,Neutral,up,CCK
+2018-11-12,Credit Suisse,Outperform,Neutral,up,CCK
+2019-01-07,Citigroup,Buy,Buy,main,CCK
+2019-01-17,Morgan Stanley,Equal-Weight,,init,CCK
+2019-02-19,RBC Capital,Outperform,Outperform,main,CCK
+2019-07-11,Citigroup,Buy,,main,CCK
+2019-10-16,Morgan Stanley,Equal-Weight,,main,CCK
+2019-10-18,Deutsche Bank,Buy,,main,CCK
+2019-10-18,Wells Fargo,Outperform,,main,CCK
+2019-10-21,RBC Capital,Outperform,,main,CCK
+2019-11-06,BMO Capital,Outperform,,main,CCK
+2019-11-06,Wells Fargo,Outperform,,main,CCK
+2020-02-06,Barclays,Overweight,,main,CCK
+2020-02-06,Baird,Outperform,,main,CCK
+2020-03-11,Citigroup,Buy,,main,CCK
+2020-03-18,Morgan Stanley,Equal-Weight,,main,CCK
+2020-03-24,Goldman Sachs,Buy,Neutral,up,CCK
+2020-04-15,JP Morgan,Overweight,,main,CCK
+2020-04-16,Deutsche Bank,Buy,,main,CCK
+2020-04-17,Wells Fargo,Overweight,,main,CCK
+2020-07-22,Wells Fargo,Overweight,,main,CCK
+2020-07-22,Deutsche Bank,Buy,,main,CCK
+2020-07-22,Citigroup,Buy,,main,CCK
+2020-07-23,Morgan Stanley,Equal-Weight,,main,CCK
+2020-09-16,Wells Fargo,Overweight,,main,CCK
+2020-10-14,Seaport Global,Buy,,init,CCK
+2020-10-22,Morgan Stanley,Equal-Weight,,main,CCK
+2021-02-11,Barclays,Overweight,,main,CCK
+2021-02-11,Citigroup,Buy,,main,CCK
+2021-02-12,Morgan Stanley,Overweight,,main,CCK
+2021-04-09,Goldman Sachs,Neutral,,init,CCK
+2021-04-15,Jefferies,Buy,,main,CCK
+2021-04-21,Deutsche Bank,Buy,,main,CCK
+2021-04-22,Morgan Stanley,Overweight,,main,CCK
+2021-05-20,Longbow Research,Buy,,init,CCK
+2021-05-25,BMO Capital,Outperform,,main,CCK
+2021-05-26,BMO Capital,Market Perform,Outperform,down,CCK
+2021-09-14,Truist Securities,Buy,,init,CCK
+2021-10-06,Loop Capital,Buy,,init,CCK
+2021-10-13,Mizuho,Buy,,init,CCK

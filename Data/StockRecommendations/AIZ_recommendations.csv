@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-23,Sterne Agee,Neutral,,down,AIZ
+2012-03-08,Bank of America,Buy,,main,AIZ
+2012-03-19,Sterne Agee,Neutral,,main,AIZ
+2012-03-21,Bank oferica,Neutral,,down,AIZ
+2012-05-02,Bank oferica,Underperform,,down,AIZ
+2012-05-22,Macquarie,Underperform,,init,AIZ
+2012-05-22,Sterne Agee,Underperform,,down,AIZ
+2012-10-03,Goldman Sachs,Buy,Neutral,up,AIZ
+2013-04-10,Sterne Agee,Neutral,Underperform,up,AIZ
+2013-07-03,Bank of America,Underperform,Neutral,down,AIZ
+2013-09-20,Goldman Sachs,Neutral,Buy,down,AIZ
+2013-10-11,Bank of America,Neutral,Underperform,up,AIZ
+2014-04-25,SunTrust Robinson Humphrey,Neutral,,main,AIZ
+2014-05-16,Bank of America,Underperform,Neutral,down,AIZ
+2014-07-01,JP Morgan,Neutral,,main,AIZ
+2014-07-17,Sterne Agee,Neutral,,main,AIZ
+2015-02-24,Jefferies,Hold,,main,AIZ
+2015-04-29,Jefferies,Hold,,main,AIZ
+2015-05-15,Goldman Sachs,Buy,,init,AIZ
+2015-06-10,Bank of America,Underperform,,main,AIZ
+2015-07-29,Macquarie,Neutral,,main,AIZ
+2015-07-30,SunTrust Robinson Humphrey,Buy,Neutral,up,AIZ
+2015-08-03,Bank of America,Buy,Underperform,up,AIZ
+2015-08-14,Jefferies,Hold,,main,AIZ
+2015-10-21,PiperJaffray,Neutral,,main,AIZ
+2016-10-07,Credit Suisse,Neutral,,init,AIZ
+2016-10-20,Bank of America,Neutral,Buy,down,AIZ
+2018-03-02,UBS,Buy,,init,AIZ
+2018-06-21,UBS,Buy,Buy,main,AIZ
+2018-07-10,Morgan Stanley,Overweight,,init,AIZ
+2018-07-16,Keefe Bruyette & Woods,Outperform,,init,AIZ
+2019-08-15,Morgan Stanley,Overweight,,main,AIZ
+2019-09-09,UBS,Buy,,main,AIZ
+2019-09-10,UBS,Buy,,main,AIZ
+2019-10-03,SunTrust Robinson Humphrey,Buy,,main,AIZ
+2019-10-10,UBS,Buy,,main,AIZ
+2019-11-06,UBS,Buy,,main,AIZ
+2019-11-08,Morgan Stanley,Overweight,,main,AIZ
+2020-02-14,Morgan Stanley,Overweight,,main,AIZ
+2020-02-19,UBS,Buy,,main,AIZ
+2020-02-28,Morgan Stanley,Overweight,,main,AIZ
+2020-04-01,Morgan Stanley,Overweight,,main,AIZ
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,AIZ
+2020-05-18,Morgan Stanley,Overweight,,main,AIZ
+2020-06-11,Morgan Stanley,Overweight,,main,AIZ
+2020-08-10,Morgan Stanley,Overweight,,main,AIZ
+2020-08-19,Morgan Stanley,Overweight,,main,AIZ
+2020-11-24,Morgan Stanley,Overweight,,main,AIZ
+2021-01-12,Morgan Stanley,Overweight,,main,AIZ
+2021-04-19,Truist Securities,Buy,,main,AIZ
+2021-05-21,B of A Securities,Buy,,init,AIZ
+2021-05-27,Morgan Stanley,Overweight,,main,AIZ
+2021-07-23,William Blair,Outperform,,init,AIZ
+2021-08-16,Morgan Stanley,Overweight,,main,AIZ
+2021-10-14,Piper Sandler,Overweight,,init,AIZ
+2021-10-15,Morgan Stanley,Overweight,,main,AIZ
+2021-11-04,Morgan Stanley,Overweight,,main,AIZ

@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-01-03,BMO Capital,Market Perform,,init,NTR
+2018-01-03,Bernstein,Outperform,,init,NTR
+2018-01-05,Raymond James,Market Perform,,init,NTR
+2018-01-05,Bank of America,Underperform,,init,NTR
+2018-01-05,Macquarie,Outperform,,init,NTR
+2018-01-05,Credit Suisse,Neutral,,init,NTR
+2018-01-08,RBC Capital,Outperform,,init,NTR
+2018-01-10,Stifel Nicolaus,Buy,,init,NTR
+2018-01-11,HSBC,Buy,,init,NTR
+2018-01-16,Goldman Sachs,Neutral,,init,NTR
+2018-02-07,BMO Capital,Market Perform,Market Perform,main,NTR
+2018-02-07,Credit Suisse,Neutral,Neutral,main,NTR
+2018-04-10,Citigroup,Buy,Buy,main,NTR
+2018-05-09,Raymond James,Outperform,Market Perform,up,NTR
+2018-07-11,Citigroup,Buy,Buy,main,NTR
+2018-07-18,RBC Capital,Outperform,Outperform,main,NTR
+2018-09-04,Barclays,Overweight,,init,NTR
+2018-10-02,UBS,Buy,Buy,main,NTR
+2018-10-12,Macquarie,Outperform,Outperform,main,NTR
+2018-11-07,TD Securities,Buy,Hold,up,NTR
+2019-01-07,Citigroup,Buy,Buy,main,NTR
+2019-01-08,BMO Capital,Outperform,Market Perform,up,NTR
+2019-08-16,Bank of America,Neutral,Underperform,up,NTR
+2019-09-23,Consumer Edge Research,Overweight,,init,NTR
+2019-10-02,JP Morgan,Neutral,,main,NTR
+2019-10-04,Stifel Nicolaus,Buy,,main,NTR
+2019-11-25,Bank of America,Buy,Neutral,up,NTR
+2019-12-11,Morgan Stanley,Equal-Weight,,main,NTR
+2020-01-15,Bernstein,Market Perform,Outperform,down,NTR
+2020-01-23,Stephens & Co.,Equal-Weight,Overweight,down,NTR
+2020-02-10,Cleveland Research,Neutral,Buy,down,NTR
+2020-02-14,Citigroup,Neutral,Buy,down,NTR
+2020-02-19,UBS,Buy,,main,NTR
+2020-02-20,JP Morgan,Neutral,,main,NTR
+2020-02-20,B of A Securities,Buy,,reit,NTR
+2020-02-21,Credit Suisse,Neutral,,main,NTR
+2020-03-26,Goldman Sachs,Buy,Neutral,up,NTR
+2020-03-30,Morgan Stanley,Equal-Weight,,main,NTR
+2020-03-31,Credit Suisse,Neutral,,main,NTR
+2020-03-31,Stifel,Buy,,main,NTR
+2020-04-09,Citigroup,Buy,Neutral,up,NTR
+2020-04-09,Susquehanna,Positive,,main,NTR
+2020-04-15,BMO Capital,Outperform,,main,NTR
+2020-07-13,B of A Securities,Buy,Underperform,up,NTR
+2020-08-11,UBS,Buy,,main,NTR
+2020-08-12,TD Securities,Buy,,main,NTR
+2020-08-12,Credit Suisse,Neutral,,main,NTR
+2020-08-24,Morgan Stanley,Equal-Weight,,main,NTR
+2020-08-25,Atlantic Equities,Neutral,Overweight,down,NTR
+2020-11-09,Morgan Stanley,Equal-Weight,,main,NTR
+2020-12-14,Morgan Stanley,Equal-Weight,,main,NTR
+2021-02-08,Morgan Stanley,Equal-Weight,,main,NTR
+2021-02-19,Credit Suisse,Neutral,,main,NTR
+2021-02-23,HSBC,Hold,Buy,down,NTR
+2021-05-10,Morgan Stanley,Equal-Weight,,main,NTR
+2021-05-24,HSBC,Buy,Hold,up,NTR
+2021-06-15,Raymond James,Outperform,Strong Buy,down,NTR
+2021-06-16,Morgan Stanley,Equal-Weight,,main,NTR
+2021-06-29,Susquehanna,Positive,Neutral,up,NTR
+2021-07-08,RBC Capital,Outperform,,main,NTR
+2021-10-07,RBC Capital,Outperform,,main,NTR
+2021-10-13,Mizuho,Neutral,,init,NTR
+2021-11-04,Mizuho,Neutral,,main,NTR
+2021-12-17,Piper Sandler,Neutral,,init,NTR
+2022-01-04,UBS,Buy,,main,NTR

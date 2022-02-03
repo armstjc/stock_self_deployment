@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-22,Barclays,Overweight,,init,GNFT
+2019-04-24,SVB Leerink,Outperform,,init,GNFT
+2019-10-31,HC Wainwright & Co.,Buy,,main,GNFT
+2020-03-13,B. Riley FBR,Buy,,main,GNFT
+2020-05-12,SVB Leerink,Outperform,,main,GNFT
+2020-05-12,HC Wainwright & Co.,Neutral,Buy,down,GNFT
+2020-06-25,B of A Securities,Underperform,,init,GNFT
+2020-07-23,Stifel,Buy,Hold,up,GNFT
+2021-04-05,SVB Leerink,Outperform,,main,GNFT
+2021-09-30,HC Wainwright & Co.,Neutral,,main,GNFT
+2021-12-20,HC Wainwright & Co.,Buy,Neutral,up,GNFT

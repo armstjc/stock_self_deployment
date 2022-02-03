@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-13,JP Morgan,Overweight,,main,MTX
+2012-04-16,JP Morgan,Overweight,,main,MTX
+2013-02-06,JP Morgan,Neutral,Overweight,down,MTX
+2013-03-19,First Analysis,Equal-Weight,Overweight,down,MTX
+2013-07-29,CJS Securities,Market Outperform,Market Perform,up,MTX
+2013-08-27,KeyBanc,Hold,,init,MTX
+2014-03-20,First Analysis,Overweight,Equal-Weight,up,MTX
+2014-10-31,First Analysis,Equal-Weight,Overweight,down,MTX
+2015-02-02,JP Morgan,Overweight,,main,MTX
+2015-10-13,KeyBanc,Overweight,,up,MTX
+2015-12-29,Wedbush,Outperform,,main,MTX
+2016-05-12,Wedbush,Neutral,Outperform,down,MTX
+2016-09-19,KeyBanc,Sector Weight,Overweight,down,MTX
+2016-12-02,JP Morgan,Neutral,Overweight,down,MTX
+2019-05-01,JP Morgan,Neutral,Overweight,down,MTX
+2020-06-01,JP Morgan,Neutral,,main,MTX
+2020-08-03,JP Morgan,Overweight,Neutral,up,MTX
+2020-09-21,Seaport Global,Buy,,init,MTX
+2020-12-18,JP Morgan,Neutral,Overweight,down,MTX

@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-05,Jefferies,Hold,,main,EXLS
+2012-05-04,Stifel Nicolaus,Buy,,main,EXLS
+2012-07-03,Citigroup,Buy,,main,EXLS
+2012-08-13,JP Morgan,Neutral,Overweight,down,EXLS
+2012-10-16,Citigroup,Buy,,main,EXLS
+2012-10-17,Baird,Neutral,Outperform,down,EXLS
+2013-03-04,Bank of America,Neutral,,main,EXLS
+2013-03-04,JP Morgan,Neutral,,main,EXLS
+2013-03-04,Goldman Sachs,Neutral,,main,EXLS
+2013-03-04,Oppenheimer,Outperform,,main,EXLS
+2013-03-04,Jefferies,Hold,,main,EXLS
+2013-03-04,Needham,Hold,Buy,down,EXLS
+2013-08-23,Baird,Outperform,Neutral,down,EXLS
+2013-11-05,Wells Fargo,Market Perform,Outperform,down,EXLS
+2013-11-05,Citigroup,Buy,,main,EXLS
+2013-11-05,JP Morgan,Underweight,Neutral,down,EXLS
+2013-11-05,Oppenheimer,Perform,Outperform,down,EXLS
+2013-11-05,Goldman Sachs,Neutral,,main,EXLS
+2013-11-06,William Blair,Market Perform,Outperform,down,EXLS
+2014-01-22,Goldman Sachs,Buy,Neutral,up,EXLS
+2014-03-04,Stifel Nicolaus,Buy,,main,EXLS
+2014-03-05,Citigroup,Buy,,main,EXLS
+2014-11-03,Jefferies,Hold,,main,EXLS
+2015-01-09,Citigroup,Buy,,main,EXLS
+2015-01-15,JP Morgan,Neutral,Underweight,up,EXLS
+2015-02-24,William Blair,Outperform,Market Perform,up,EXLS
+2015-02-25,Stifel Nicolaus,Buy,,main,EXLS
+2015-02-25,JP Morgan,Neutral,,main,EXLS
+2015-02-25,Citigroup,Buy,,main,EXLS
+2015-02-25,William Blair,Outperform,Market Perform,up,EXLS
+2015-03-02,Jefferies,Hold,,main,EXLS
+2015-05-29,SunTrust Robinson Humphrey,Neutral,,init,EXLS
+2015-07-16,Barrington Research,Outperform,,init,EXLS
+2015-07-31,Citigroup,Buy,,main,EXLS
+2015-10-30,SunTrust Robinson Humphrey,Neutral,,main,EXLS
+2015-11-17,Bank of America,Buy,Neutral,up,EXLS
+2016-02-19,Cowen & Co.,Outperform,,init,EXLS
+2016-02-24,Citigroup,Buy,,main,EXLS
+2016-02-29,Jefferies,Hold,,main,EXLS
+2016-05-27,Citigroup,Buy,,main,EXLS
+2016-07-29,Citigroup,Buy,,main,EXLS
+2017-07-18,Citigroup,Neutral,Buy,down,EXLS
+2017-08-04,Wedbush,Neutral,,init,EXLS
+2017-08-09,Bank of America,Underperform,Buy,down,EXLS
+2017-10-12,Baird,Outperform,,main,EXLS
+2017-10-27,Citigroup,Neutral,,main,EXLS
+2018-03-01,Cowen & Co.,Market Perform,Outperform,down,EXLS
+2018-06-01,SunTrust Robinson Humphrey,Buy,Hold,up,EXLS
+2019-03-01,Baird,Neutral,Outperform,down,EXLS
+2019-03-01,Citigroup,Neutral,Neutral,main,EXLS
+2019-07-17,Citigroup,Sell,Neutral,down,EXLS
+2019-10-07,JP Morgan,Neutral,,main,EXLS
+2019-10-30,Citigroup,Sell,,main,EXLS
+2020-01-09,Wells Fargo,Underweight,Equal-Weight,down,EXLS
+2020-01-15,Citigroup,Sell,,main,EXLS
+2020-02-28,Citigroup,Neutral,Sell,up,EXLS
+2020-02-28,Cantor Fitzgerald,Overweight,,main,EXLS
+2020-02-28,JP Morgan,Neutral,,main,EXLS
+2020-03-20,Needham,Buy,,main,EXLS
+2020-03-24,Baird,Neutral,,main,EXLS
+2020-04-17,Wells Fargo,Equal-Weight,Underweight,up,EXLS
+2020-04-22,Citigroup,Neutral,,main,EXLS
+2020-05-01,Stifel,Buy,,main,EXLS
+2020-05-07,Needham,Hold,Buy,down,EXLS
+2020-05-13,Barrington Research,Market Perform,Outperform,down,EXLS
+2020-08-10,Citigroup,Neutral,,main,EXLS
+2021-03-01,Citigroup,Neutral,,main,EXLS
+2021-05-12,B of A Securities,Neutral,Underperform,up,EXLS
+2021-08-17,JP Morgan,Neutral,,main,EXLS

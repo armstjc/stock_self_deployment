@@ -1,0 +1,261 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Miller Tabak,Hold,,init,DPZ
+2012-02-29,Citigroup,Neutral,,main,DPZ
+2012-02-29,JP Morgan,Neutral,,down,DPZ
+2012-03-20,Bank oferica,Underperform,,down,DPZ
+2012-03-23,JP Morgan,Neutral,,main,DPZ
+2012-04-25,Bank oferica,Neutral,,up,DPZ
+2012-05-01,Citigroup,Neutral,,main,DPZ
+2012-06-01,Goldman Sachs,Neutral,,init,DPZ
+2012-07-25,Goldman Sachs,Buy,Neutral,up,DPZ
+2012-10-08,Miller Tabak,Buy,,main,DPZ
+2012-10-16,Citigroup,Neutral,,main,DPZ
+2012-10-16,Miller Tabak,Buy,,main,DPZ
+2012-10-16,Feltl & Co.,Hold,,main,DPZ
+2012-10-17,Barclays,Equal-Weight,,main,DPZ
+2012-12-27,Oppenheimer,Outperform,,main,DPZ
+2013-01-03,Miller Tabak,Buy,,main,DPZ
+2013-01-10,Sidoti & Co.,Hold,Buy,down,DPZ
+2013-01-14,Citigroup,Neutral,,main,DPZ
+2013-02-28,Oppenheimer,Outperform,,main,DPZ
+2013-03-04,Miller Tabak,Buy,,main,DPZ
+2013-03-11,JP Morgan,Neutral,,main,DPZ
+2013-04-04,Goldman Sachs,Buy,,main,DPZ
+2013-05-15,Miller Tabak,Hold,Buy,down,DPZ
+2013-05-15,Miller Tabak,Hold,Buy,down,DPZ
+2013-07-03,Oriel,Hold,Add,down,DPZ
+2013-07-03,Numis Securities,Add,Buy,down,DPZ
+2013-07-16,Stifel Nicolaus,Buy,,init,DPZ
+2013-07-16,Stifel Nicolaus,Buy,,init,DPZ
+2013-07-16,JP Morgan,Neutral,,main,DPZ
+2013-09-09,KeyBanc,Buy,,init,DPZ
+2013-10-03,Oppenheimer,Perform,Outperform,down,DPZ
+2014-03-14,Longbow Research,Buy,,init,DPZ
+2014-04-15,Barclays,Equal-Weight,,main,DPZ
+2014-05-02,JP Morgan,Neutral,,main,DPZ
+2014-06-10,Jefferies,Buy,,init,DPZ
+2014-06-17,Bank of America,Underperform,Neutral,down,DPZ
+2014-07-23,Barclays,Equal-Weight,,main,DPZ
+2014-07-31,Citigroup,Neutral,,main,DPZ
+2014-08-04,Miller Tabak,Buy,Hold,up,DPZ
+2014-10-15,Jefferies,Buy,,main,DPZ
+2014-10-15,Morgan Stanley,Equal-Weight,,main,DPZ
+2014-11-04,Citigroup,Neutral,,main,DPZ
+2014-11-05,Miller Tabak,Hold,Buy,down,DPZ
+2014-12-08,Goldman Sachs,Neutral,,init,DPZ
+2015-01-06,Jefferies,Hold,Buy,down,DPZ
+2015-01-15,Barclays,Equal-Weight,,main,DPZ
+2015-01-15,Stifel Nicolaus,Buy,,main,DPZ
+2015-01-15,Credit Suisse,Neutral,Outperform,down,DPZ
+2015-01-21,Argus,,Buy,main,DPZ
+2015-01-22,Barclays,Equal-Weight,,main,DPZ
+2015-02-25,Jefferies,Hold,,main,DPZ
+2015-02-25,JP Morgan,Neutral,,main,DPZ
+2015-03-02,Citigroup,Neutral,,main,DPZ
+2015-04-24,Jefferies,Hold,,main,DPZ
+2015-04-24,Barclays,Equal-Weight,,main,DPZ
+2015-05-05,Citigroup,Neutral,,main,DPZ
+2015-07-15,BTIG Research,Buy,,init,DPZ
+2015-07-16,Stifel Nicolaus,Hold,Buy,down,DPZ
+2015-07-17,KeyBanc,Sector Weight,Overweight,down,DPZ
+2015-08-28,Maxim Group,Buy,,init,DPZ
+2015-09-09,Goldman Sachs,Buy,Neutral,up,DPZ
+2015-10-01,Nomura,Buy,,init,DPZ
+2015-10-02,Nomura,Buy,,init,DPZ
+2015-10-19,Citigroup,Neutral,,main,DPZ
+2015-10-29,Goldman Sachs,Buy,,main,DPZ
+2016-03-01,Goldman Sachs,Buy,,main,DPZ
+2016-04-05,Evercore ISI Group,Hold,,init,DPZ
+2016-04-12,Maxim Group,Hold,Buy,down,DPZ
+2016-06-22,Nomura,Neutral,Buy,down,DPZ
+2016-07-21,Barclays,Equal-Weight,,main,DPZ
+2016-07-22,Jefferies,Hold,,main,DPZ
+2016-09-13,Citigroup,Neutral,,main,DPZ
+2016-10-14,Bank of America,Buy,Underperform,up,DPZ
+2016-10-17,Nomura,Neutral,,main,DPZ
+2016-10-19,Nomura,Neutral,,main,DPZ
+2016-10-19,BTIG Research,Buy,,main,DPZ
+2017-01-20,KeyBanc,Overweight,Sector Weight,up,DPZ
+2017-05-23,Wells Fargo,Market Perform,,init,DPZ
+2017-06-09,Longbow Research,Neutral,Buy,down,DPZ
+2017-07-26,Stephens & Co.,Overweight,Equal-Weight,up,DPZ
+2017-07-28,Longbow Research,Buy,Neutral,up,DPZ
+2017-08-25,Argus,Hold,Buy,down,DPZ
+2017-10-03,Stifel Nicolaus,Buy,,init,DPZ
+2017-10-04,Credit Suisse,Neutral,,init,DPZ
+2017-10-13,Credit Suisse,Neutral,,main,DPZ
+2017-10-13,Barclays,Equal-Weight,,main,DPZ
+2017-11-02,Maxim Group,Buy,Hold,up,DPZ
+2017-11-29,Nomura,Buy,Neutral,up,DPZ
+2017-12-18,Deutsche Bank,Buy,,init,DPZ
+2018-01-04,Credit Suisse,Outperform,Neutral,up,DPZ
+2018-01-25,Mizuho,Buy,,init,DPZ
+2018-02-15,Deutsche Bank,Buy,Buy,main,DPZ
+2018-02-21,Bank of America,Buy,Buy,main,DPZ
+2018-02-26,Citigroup,Neutral,Neutral,main,DPZ
+2018-03-06,Baird,Outperform,,init,DPZ
+2018-03-07,Argus,Buy,Hold,up,DPZ
+2018-03-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,DPZ
+2018-04-04,Deutsche Bank,Hold,Buy,down,DPZ
+2018-04-18,Stifel Nicolaus,Buy,Buy,main,DPZ
+2018-04-27,Maxim Group,Buy,Buy,main,DPZ
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,DPZ
+2018-06-08,Maxim Group,Hold,Buy,down,DPZ
+2018-06-14,Bank of America,Buy,Buy,main,DPZ
+2018-06-14,Citigroup,Neutral,Neutral,main,DPZ
+2018-06-15,Stifel Nicolaus,Buy,Buy,main,DPZ
+2018-06-22,Argus,Buy,Buy,main,DPZ
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,DPZ
+2018-07-17,Maxim Group,Hold,Hold,main,DPZ
+2018-07-20,Barclays,Equal-Weight,Equal-Weight,main,DPZ
+2018-07-20,Stephens & Co.,Overweight,Overweight,main,DPZ
+2018-07-23,JP Morgan,Neutral,Neutral,main,DPZ
+2018-08-08,Citigroup,Neutral,Neutral,main,DPZ
+2018-10-08,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2018-10-10,Maxim Group,Hold,Hold,main,DPZ
+2018-10-17,Maxim Group,Buy,Hold,up,DPZ
+2018-10-22,UBS,Neutral,,init,DPZ
+2018-10-22,Citigroup,Neutral,Neutral,main,DPZ
+2018-11-07,UBS,Neutral,Buy,down,DPZ
+2019-01-11,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2019-01-11,Cowen & Co.,Outperform,,init,DPZ
+2019-02-14,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2019-02-22,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2019-03-06,Citigroup,Neutral,Neutral,main,DPZ
+2019-03-19,JP Morgan,Overweight,Neutral,up,DPZ
+2019-04-16,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2019-04-17,Morgan Stanley,Overweight,Equal-Weight,up,DPZ
+2019-04-25,Stephens & Co.,Overweight,,reit,DPZ
+2019-04-25,Wells Fargo,Market Perform,Market Perform,main,DPZ
+2019-04-25,Bank of America,Buy,Buy,main,DPZ
+2019-04-25,Morgan Stanley,Overweight,Overweight,main,DPZ
+2019-04-30,Citigroup,Neutral,Neutral,main,DPZ
+2019-05-08,Citigroup,Neutral,,main,DPZ
+2019-06-25,Credit Suisse,Outperform,,init,DPZ
+2019-07-01,Wells Fargo,Market Perform,,main,DPZ
+2019-07-10,OTR Global,Mixed,Positive,down,DPZ
+2019-07-17,Morgan Stanley,Overweight,,main,DPZ
+2019-07-17,Stephens & Co.,Overweight,,main,DPZ
+2019-07-17,Argus Research,Buy,,main,DPZ
+2019-07-29,Deutsche Bank,Sell,,init,DPZ
+2019-07-29,Goldman Sachs,Neutral,,init,DPZ
+2019-08-13,MKM Partners,Neutral,,init,DPZ
+2019-09-03,Kalinowski,Neutral,Buy,down,DPZ
+2019-09-03,Cowen & Co.,Outperform,,main,DPZ
+2019-09-04,Guggenheim,Buy,,main,DPZ
+2019-09-04,Maxim Group,Buy,,main,DPZ
+2019-09-04,Northcoast Research,Neutral,,init,DPZ
+2019-10-02,Wells Fargo,Market Perform,,main,DPZ
+2019-10-04,Wedbush,Outperform,,init,DPZ
+2019-10-09,Argus Research,Hold,Buy,down,DPZ
+2019-10-09,Wells Fargo,Market Perform,,main,DPZ
+2019-10-09,JP Morgan,Overweight,,main,DPZ
+2019-10-16,Citigroup,Neutral,,main,DPZ
+2019-10-23,CL King,Neutral,,init,DPZ
+2019-12-02,Oppenheimer,Outperform,,main,DPZ
+2019-12-10,RBC Capital,Outperform,,init,DPZ
+2019-12-18,Longbow Research,Neutral,Buy,down,DPZ
+2019-12-19,Morgan Stanley,Overweight,,main,DPZ
+2020-01-17,Maxim Group,Buy,,main,DPZ
+2020-01-23,Wells Fargo,Equal-Weight,,main,DPZ
+2020-02-07,Goldman Sachs,Buy,Neutral,up,DPZ
+2020-02-21,Stifel Nicolaus,Hold,Buy,down,DPZ
+2020-02-21,Wedbush,Outperform,,main,DPZ
+2020-02-21,Goldman Sachs,Buy,,main,DPZ
+2020-02-21,Morgan Stanley,Overweight,,main,DPZ
+2020-02-21,RBC Capital,Outperform,,main,DPZ
+2020-02-21,Baird,Outperform,,main,DPZ
+2020-02-21,CFRA,Hold,,main,DPZ
+2020-02-21,UBS,Neutral,,main,DPZ
+2020-02-21,Deutsche Bank,Sell,,main,DPZ
+2020-02-21,Oppenheimer,Outperform,,main,DPZ
+2020-02-24,Cowen & Co.,Market Perform,Outperform,down,DPZ
+2020-02-26,Argus Research,Buy,Hold,up,DPZ
+2020-02-28,Gordon Haskett,Hold,,init,DPZ
+2020-03-16,Stephens & Co.,Overweight,Equal-Weight,up,DPZ
+2020-03-18,Longbow Research,Buy,Neutral,up,DPZ
+2020-03-19,Deutsche Bank,Hold,Sell,up,DPZ
+2020-03-23,Longbow Research,Buy,,reit,DPZ
+2020-03-25,Morgan Stanley,Overweight,,main,DPZ
+2020-03-31,Credit Suisse,Outperform,,main,DPZ
+2020-03-31,Wells Fargo,Equal-Weight,,main,DPZ
+2020-04-22,Jefferies,Hold,,main,DPZ
+2020-04-24,Wedbush,Outperform,,main,DPZ
+2020-04-24,B of A Securities,Buy,,reit,DPZ
+2020-04-24,Stephens & Co.,Overweight,,main,DPZ
+2020-04-24,RBC Capital,Outperform,,main,DPZ
+2020-04-24,Stifel,Hold,,main,DPZ
+2020-04-24,Credit Suisse,Outperform,,main,DPZ
+2020-04-24,Deutsche Bank,Hold,,main,DPZ
+2020-04-24,Wells Fargo,Equal-Weight,,main,DPZ
+2020-04-24,Baird,Outperform,,main,DPZ
+2020-05-27,Guggenheim,Buy,,reit,DPZ
+2020-05-27,JP Morgan,Overweight,,main,DPZ
+2020-05-27,Stifel,Hold,,main,DPZ
+2020-06-01,Morgan Stanley,Overweight,,main,DPZ
+2020-06-09,Wedbush,Outperform,,main,DPZ
+2020-07-07,CFRA,Buy,Hold,up,DPZ
+2020-07-10,MKM Partners,Neutral,,main,DPZ
+2020-07-10,Oppenheimer,Outperform,,main,DPZ
+2020-07-20,Argus Research,Buy,,main,DPZ
+2020-09-11,Cowen & Co.,Outperform,Market Perform,up,DPZ
+2020-10-01,UBS,Neutral,,main,DPZ
+2020-10-01,KeyBanc,Sector Weight,,init,DPZ
+2020-10-02,Morgan Stanley,Overweight,,main,DPZ
+2020-10-09,Stephens & Co.,Overweight,,main,DPZ
+2020-10-09,RBC Capital,Outperform,,main,DPZ
+2020-10-09,Morgan Stanley,Overweight,,main,DPZ
+2020-10-09,Wedbush,Outperform,,main,DPZ
+2021-01-07,MKM Partners,Neutral,,main,DPZ
+2021-01-07,Stephens & Co.,Equal-Weight,Overweight,down,DPZ
+2021-01-19,Goldman Sachs,Buy,,init,DPZ
+2021-02-04,Deutsche Bank,Hold,,main,DPZ
+2021-02-26,Wedbush,Outperform,,main,DPZ
+2021-02-26,Credit Suisse,Outperform,,main,DPZ
+2021-02-26,RBC Capital,Outperform,,main,DPZ
+2021-02-26,Morgan Stanley,Overweight,,main,DPZ
+2021-03-03,Argus Research,Buy,,main,DPZ
+2021-03-30,Citigroup,Buy,,init,DPZ
+2021-03-30,BMO Capital,Market Perform,,init,DPZ
+2021-04-12,Morgan Stanley,Overweight,,main,DPZ
+2021-04-12,JP Morgan,Overweight,,main,DPZ
+2021-04-30,Wedbush,Outperform,,main,DPZ
+2021-04-30,Morgan Stanley,Overweight,,main,DPZ
+2021-04-30,RBC Capital,Outperform,,main,DPZ
+2021-04-30,Credit Suisse,Outperform,,main,DPZ
+2021-04-30,Stephens & Co.,Equal-Weight,,main,DPZ
+2021-05-04,Northcoast Research,Neutral,Buy,down,DPZ
+2021-05-13,Baird,Outperform,,main,DPZ
+2021-05-25,Goldman Sachs,Neutral,Buy,down,DPZ
+2021-06-01,Barclays,Equal-Weight,,main,DPZ
+2021-07-06,Citigroup,Neutral,Buy,down,DPZ
+2021-07-07,Argus Research,Buy,,main,DPZ
+2021-07-12,RBC Capital,Outperform,,main,DPZ
+2021-07-14,Wells Fargo,Equal-Weight,,main,DPZ
+2021-07-16,Wedbush,Outperform,,main,DPZ
+2021-07-19,Stifel,Hold,,main,DPZ
+2021-07-19,Stephens & Co.,Equal-Weight,,main,DPZ
+2021-07-23,Morgan Stanley,Overweight,,main,DPZ
+2021-07-23,RBC Capital,Outperform,,main,DPZ
+2021-07-23,Oppenheimer,Outperform,,main,DPZ
+2021-07-23,JP Morgan,Neutral,Overweight,down,DPZ
+2021-07-23,Wedbush,Outperform,,main,DPZ
+2021-07-27,Guggenheim,Neutral,,init,DPZ
+2021-10-01,Deutsche Bank,Hold,,main,DPZ
+2021-10-04,Wells Fargo,Equal-Weight,,main,DPZ
+2021-10-06,Loop Capital,Buy,,init,DPZ
+2021-10-13,Morgan Stanley,Overweight,,main,DPZ
+2021-10-15,Barclays,Equal-Weight,,main,DPZ
+2021-10-15,Deutsche Bank,Hold,,main,DPZ
+2021-10-15,MKM Partners,Neutral,,main,DPZ
+2021-10-15,Morgan Stanley,Overweight,,main,DPZ
+2021-10-15,BTIG,Buy,,main,DPZ
+2021-10-15,Oppenheimer,Outperform,,main,DPZ
+2021-10-15,Wells Fargo,Equal-Weight,,main,DPZ
+2021-10-15,RBC Capital,Outperform,,main,DPZ
+2021-10-15,Cowen & Co.,Outperform,,main,DPZ
+2021-10-15,Wedbush,Outperform,,main,DPZ
+2021-10-15,Stephens & Co.,Equal-Weight,,main,DPZ
+2021-11-12,Benchmark,Hold,,init,DPZ
+2021-12-15,Barclays,Underweight,Equal-Weight,down,DPZ
+2021-12-31,Argus Research,Buy,,main,DPZ

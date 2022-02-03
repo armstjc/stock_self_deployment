@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Goldman Sachs,Sell,Neutral,down,LIFE
+2012-07-10,ISI Group,Underweight,,init,LIFE
+2012-07-11,JP Morgan,Neutral,Overweight,down,LIFE
+2012-07-23,Citigroup,Buy,,main,LIFE
+2012-08-01,Jefferies,Buy,,main,LIFE
+2012-11-02,Jefferies,Buy,,main,LIFE
+2013-01-22,William Blair,Market Perform,Outperform,down,LIFE
+2013-01-28,UBS,Neutral,Buy,down,LIFE
+2013-02-05,ISI Group,Neutral,Cautious,up,LIFE
+2013-02-05,Leerink Swann,Market Perform,Outperform,down,LIFE
+2013-02-05,Credit Agricole,Outperform,Buy,down,LIFE
+2013-02-05,Credit Suisse,Outperform,,main,LIFE
+2013-03-21,Cowen & Co.,Neutral,Outperform,down,LIFE
+2013-03-25,Citigroup,Neutral,Buy,down,LIFE
+2013-04-15,PiperJaffray,Neutral,,main,LIFE
+2013-04-15,Goldman Sachs,Neutral,Sell,up,LIFE
+2013-04-15,Maxim Group,Hold,Buy,down,LIFE
+2013-04-16,Credit Suisse,Neutral,Outperform,down,LIFE
+2013-05-06,Jefferies,Hold,Buy,down,LIFE
+2013-05-21,Credit Agricole,Underperform,Outperform,down,LIFE
+2013-08-01,Baird,Neutral,Outperform,down,LIFE
+2015-06-01,JP Morgan,Overweight,,init,LIFE
+2015-12-16,Citigroup,Neutral,,init,LIFE
+2016-03-31,William Blair,Market Perform,Outperform,down,LIFE
+2016-08-11,JP Morgan,Overweight,,main,LIFE
+2016-08-16,Citigroup,Neutral,,main,LIFE
+2016-12-14,JP Morgan,Neutral,Overweight,down,LIFE
+2018-02-14,JP Morgan,Underweight,Neutral,down,LIFE
+2018-05-15,Citigroup,Sell,Neutral,down,LIFE
+2018-08-15,BMO Capital,Market Perform,Market Perform,main,LIFE
+2018-08-17,Citigroup,Neutral,Sell,up,LIFE
+2019-11-05,H.C. Wainwright,Buy,,init,LIFE
+2020-03-02,Oppenheimer,Outperform,,init,LIFE
+2020-03-27,H.C. Wainwright,Neutral,Buy,down,LIFE
+2020-08-17,HC Wainwright & Co.,Buy,Neutral,up,LIFE
+2021-03-16,Roth Capital,Buy,,main,LIFE
+2021-03-24,Oppenheimer,Outperform,,main,LIFE
+2021-05-18,JonesTrading,Buy,,init,LIFE
+2021-09-13,HC Wainwright & Co.,Buy,,main,LIFE
+2021-09-14,Oppenheimer,Outperform,,main,LIFE
+2021-09-14,Roth Capital,Buy,,main,LIFE
+2021-09-21,Piper Sandler,Overweight,,init,LIFE
+2021-10-12,RBC Capital,Outperform,,init,LIFE
+2021-11-11,HC Wainwright & Co.,Buy,,main,LIFE

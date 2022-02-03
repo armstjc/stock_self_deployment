@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+WTFC220916C00070000,2022-01-28 19:06:46+00:00,70.0,28.94,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,WTFC

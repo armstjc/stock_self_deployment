@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-12-07,Keefe Bruyette & Woods,Market Perform,,init,EQBK
+2015-12-07,Stephens & Co.,Overweight,,init,EQBK
+2016-07-29,Keefe Bruyette & Woods,Outperform,Market Perform,up,EQBK
+2016-07-29,Keefe Bruyette & Woods,Outperform,,main,EQBK
+2018-11-20,DA Davidson,Buy,,init,EQBK
+2019-01-03,Keefe Bruyette & Woods,Market Perform,Outperform,down,EQBK
+2020-05-01,Stephens & Co.,Overweight,,main,EQBK

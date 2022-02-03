@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-26,National Securities,Neutral,,init,CCOI
+2012-08-10,DA Davidson,Neutral,Underperform,up,CCOI
+2012-09-26,Pivotal Research,Buy,,init,CCOI
+2012-10-01,Raymond James,Market Perform,Outperform,down,CCOI
+2012-10-25,DA Davidson,Underperform,Neutral,down,CCOI
+2012-11-06,Canaccord Genuity,Buy,,main,CCOI
+2012-11-07,Jefferies,Buy,,main,CCOI
+2012-11-30,Maxim Group,,,init,CCOI
+2013-01-17,Jefferies,Buy,,main,CCOI
+2013-01-18,Pivotal Research,Hold,Buy,down,CCOI
+2013-02-06,Raymond James,Market Perform,Outperform,down,CCOI
+2013-04-19,Drexel Hamilton,Hold,,init,CCOI
+2013-05-07,Canaccord Genuity,Buy,,main,CCOI
+2013-06-10,DA Davidson,Neutral,Underperform,up,CCOI
+2013-09-18,Pacific Crest,Outperform,,init,CCOI
+2013-10-15,Citigroup,Buy,Neutral,up,CCOI
+2013-11-27,Citigroup,Buy,,main,CCOI
+2014-02-24,FBR Capital,Underperform,Market Perform,down,CCOI
+2014-02-28,DA Davidson,Buy,Neutral,up,CCOI
+2014-08-11,Citigroup,Buy,,main,CCOI
+2014-09-18,JP Morgan,Overweight,,init,CCOI
+2014-09-29,Moffett Nathanson,Buy,,init,CCOI
+2014-10-06,SunTrust Robinson Humphrey,Neutral,,init,CCOI
+2014-10-08,Raymond James,Outperform,Market Perform,up,CCOI
+2014-10-29,BTIG Research,Buy,,init,CCOI
+2014-11-10,FBR Capital,Underperform,,main,CCOI
+2014-11-10,Canaccord Genuity,Buy,,main,CCOI
+2015-02-26,Stephens & Co.,Equal-Weight,Overweight,down,CCOI
+2015-05-08,Jefferies,Hold,,main,CCOI
+2015-08-07,Citigroup,Buy,,main,CCOI
+2015-08-07,Pacific Crest,Overweight,,main,CCOI
+2015-08-07,JP Morgan,Overweight,,main,CCOI
+2015-09-22,RBC Capital,Outperform,,init,CCOI
+2015-11-06,Pacific Crest,Overweight,,main,CCOI
+2016-02-23,JP Morgan,Neutral,Overweight,down,CCOI
+2016-02-26,Pacific Crest,Overweight,,main,CCOI
+2016-03-04,Moffett Nathanson,Neutral,Buy,down,CCOI
+2016-04-06,Citigroup,Neutral,Buy,down,CCOI
+2016-07-27,Citigroup,Neutral,,main,CCOI
+2016-08-08,Raymond James,Market Perform,Outperform,down,CCOI
+2016-08-12,Citigroup,Neutral,,main,CCOI
+2016-12-13,SunTrust Robinson Humphrey,Buy,,init,CCOI
+2017-01-13,Stifel Nicolaus,Buy,,init,CCOI
+2017-03-02,Goldman Sachs,Neutral,,init,CCOI
+2017-03-24,Deutsche Bank,Buy,,init,CCOI
+2017-05-02,Cowen & Co.,Market Perform,Outperform,down,CCOI
+2017-07-14,Deutsche Bank,Buy,,main,CCOI
+2017-10-09,Wells Fargo,Market Perform,Outperform,down,CCOI
+2017-10-10,Deutsche Bank,Buy,,main,CCOI
+2017-11-03,Citigroup,Sell,Neutral,down,CCOI
+2017-11-03,Raymond James,Underperform,Market Perform,down,CCOI
+2017-11-03,SunTrust Robinson Humphrey,Hold,Buy,down,CCOI
+2017-11-03,Jefferies,Hold,,main,CCOI
+2017-11-03,Citigroup,Sell,,main,CCOI
+2018-02-23,Deutsche Bank,Buy,Buy,main,CCOI
+2018-03-13,Guggenheim,Neutral,,init,CCOI
+2018-05-04,Deutsche Bank,Hold,Buy,down,CCOI
+2018-05-29,RBC Capital,Sector Perform,Outperform,down,CCOI
+2018-10-08,BTIG Research,Neutral,Buy,down,CCOI
+2018-11-02,Citigroup,Sell,Sell,main,CCOI
+2018-11-02,Wells Fargo,Market Perform,Market Perform,main,CCOI
+2018-12-18,Deutsche Bank,Buy,Hold,up,CCOI
+2019-02-25,RBC Capital,Sector Perform,Sector Perform,main,CCOI
+2019-05-03,Deutsche Bank,Hold,Buy,down,CCOI
+2019-05-10,Oppenheimer,Perform,Outperform,down,CCOI
+2019-05-31,Credit Suisse,Outperform,,init,CCOI
+2019-11-08,JP Morgan,Neutral,,main,CCOI
+2019-11-13,RBC Capital,Sector Perform,,main,CCOI
+2019-11-18,RBC Capital,Sector Perform,,main,CCOI
+2020-01-03,Citigroup,Neutral,Sell,up,CCOI
+2020-02-06,Goldman Sachs,Buy,Neutral,up,CCOI
+2020-02-28,SunTrust Robinson Humphrey,Hold,,main,CCOI
+2020-03-03,JP Morgan,Neutral,,main,CCOI
+2020-04-14,Credit Suisse,Outperform,,main,CCOI
+2020-04-17,Goldman Sachs,Neutral,Buy,down,CCOI
+2020-06-16,Citigroup,Buy,Neutral,up,CCOI
+2020-07-01,SunTrust Robinson Humphrey,Buy,Hold,up,CCOI
+2020-08-07,Credit Suisse,Outperform,,main,CCOI
+2020-08-10,Citigroup,Buy,,main,CCOI
+2020-08-17,MoffettNathanson,Neutral,Sell,up,CCOI
+2020-10-05,Raymond James,Market Perform,Underperform,up,CCOI
+2020-10-16,Credit Suisse,Neutral,Outperform,down,CCOI
+2021-02-03,MoffettNathanson,Buy,Neutral,up,CCOI
+2021-04-30,Oppenheimer,Outperform,Perform,up,CCOI
+2021-05-04,Credit Suisse,Outperform,Neutral,up,CCOI
+2021-05-10,RBC Capital,Outperform,Sector Perform,up,CCOI
+2021-11-05,Credit Suisse,Outperform,,main,CCOI

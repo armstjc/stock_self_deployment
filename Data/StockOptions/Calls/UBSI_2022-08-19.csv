@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+UBSI220819C00045000,2022-01-14 14:30:09+00:00,45.0,1.4,0.0,0.0,0.0,0.0,2,0,0.062509375,False,REGULAR,USD,UBSI

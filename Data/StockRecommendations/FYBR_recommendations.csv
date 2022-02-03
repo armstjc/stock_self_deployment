@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-05-20,Benchmark,Buy,,init,FYBR
+2021-07-06,Goldman Sachs,Buy,,init,FYBR
+2021-07-21,Cowen & Co.,Outperform,,init,FYBR
+2021-09-24,Raymond James,Outperform,,init,FYBR
+2021-11-04,Raymond James,Outperform,,main,FYBR
+2021-12-14,Morgan Stanley,Underweight,,init,FYBR

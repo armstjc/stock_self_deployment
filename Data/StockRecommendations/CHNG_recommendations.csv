@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-22,Bank of America,Buy,,init,CHNG
+2019-07-22,Wells Fargo,Market Perform,,init,CHNG
+2019-07-22,Barclays,Overweight,,init,CHNG
+2019-07-22,Goldman Sachs,Buy,,init,CHNG
+2019-07-22,Cantor Fitzgerald,Overweight,,init,CHNG
+2019-07-22,JP Morgan,Overweight,,init,CHNG
+2019-07-22,Piper Jaffray,Overweight,,init,CHNG
+2019-07-22,SVB Leerink,Outperform,,init,CHNG
+2019-07-22,Guggenheim,Buy,,init,CHNG
+2019-07-22,Cowen & Co.,Outperform,,init,CHNG
+2019-07-22,Credit Suisse,Outperform,,init,CHNG
+2019-07-22,SunTrust Robinson Humphrey,Buy,,init,CHNG
+2019-07-22,William Blair,Outperform,,init,CHNG
+2019-09-26,Deutsche Bank,Buy,,init,CHNG
+2019-11-22,RBC Capital,Outperform,,init,CHNG
+2019-12-20,Raymond James,Outperform,,init,CHNG
+2020-01-08,Wells Fargo,Equal-Weight,,main,CHNG
+2020-02-14,Deutsche Bank,Buy,,main,CHNG
+2020-03-10,Wells Fargo,Overweight,Equal-Weight,up,CHNG
+2020-03-18,Credit Suisse,Outperform,,main,CHNG
+2020-03-18,Raymond James,Strong Buy,Outperform,up,CHNG
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,CHNG
+2020-04-09,Barclays,Overweight,,main,CHNG
+2020-04-13,Credit Suisse,Outperform,,main,CHNG
+2020-04-13,B of A Securities,Buy,,main,CHNG
+2020-04-17,Deutsche Bank,Buy,,main,CHNG
+2020-04-22,SunTrust Robinson Humphrey,Buy,,main,CHNG
+2020-06-05,SunTrust Robinson Humphrey,Buy,,main,CHNG
+2020-06-08,Deutsche Bank,Buy,,main,CHNG
+2020-07-14,Citigroup,Buy,,init,CHNG
+2020-08-07,SVB Leerink,Outperform,,main,CHNG
+2020-09-28,Credit Suisse,Outperform,,main,CHNG
+2020-11-05,Cantor Fitzgerald,Overweight,,main,CHNG
+2020-11-09,Credit Suisse,Outperform,,main,CHNG
+2020-12-08,Berenberg,Buy,,init,CHNG
+2020-12-15,SVB Leerink,Outperform,,main,CHNG
+2021-01-07,Guggenheim,Neutral,Buy,down,CHNG
+2021-01-07,Credit Suisse,Neutral,Outperform,down,CHNG
+2021-01-07,RBC Capital,Sector Perform,Outperform,down,CHNG
+2021-01-08,Deutsche bank,Hold,Buy,down,CHNG
+2021-01-08,Cantor Fitzgerald,Neutral,Overweight,down,CHNG
+2021-01-11,Berenberg,Hold,Buy,down,CHNG

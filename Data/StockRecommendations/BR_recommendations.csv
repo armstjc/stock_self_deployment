@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-09,JP Morgan,Overweight,,main,BR
+2012-06-05,JP Morgan,Overweight,,main,BR
+2012-08-13,JP Morgan,Neutral,Overweight,down,BR
+2012-11-06,Avondale Partners,Perform,Outperform,down,BR
+2013-08-14,JP Morgan,Neutral,Underweight,up,BR
+2013-11-08,JP Morgan,Neutral,Underweight,up,BR
+2013-12-12,Keefe Bruyette & Woods,Outperform,,up,BR
+2013-12-13,Keefe Bruyette & Woods,Outperform,Market Perform,up,BR
+2014-05-13,JP Morgan,Neutral,,main,BR
+2014-07-23,Raymond James,Outperform,,init,BR
+2014-08-13,JP Morgan,Neutral,,main,BR
+2014-11-06,Credit Suisse,Neutral,,main,BR
+2014-11-07,Credit Suisse,Neutral,,main,BR
+2014-11-07,Keefe Bruyette & Woods,Outperform,,main,BR
+2014-12-04,Morgan Stanley,Equal-Weight,,main,BR
+2015-01-29,Credit Suisse,Outperform,Neutral,up,BR
+2015-02-06,Stifel Nicolaus,Buy,Hold,up,BR
+2015-02-06,JP Morgan,Neutral,,main,BR
+2015-04-24,Evercore ISI Group,Buy,Hold,up,BR
+2015-08-14,JP Morgan,Neutral,,main,BR
+2015-09-16,Barclays,Overweight,,init,BR
+2015-10-30,Barclays,Overweight,,main,BR
+2015-11-02,Barclays,Overweight,,main,BR
+2016-01-08,Avondale Partners,Market Outperform,Market Perform,up,BR
+2016-06-07,Raymond James,Market Perform,Outperform,down,BR
+2016-06-15,Avondale Partners,Market Perform,Market Outperform,down,BR
+2016-07-07,Barclays,Equal-Weight,Overweight,down,BR
+2016-08-10,Barclays,Equal-Weight,,main,BR
+2016-09-13,Atlantic Equities,Overweight,,init,BR
+2016-09-29,Sandler O'Neill,Hold,Buy,down,BR
+2017-08-08,DA Davidson,Neutral,,init,BR
+2017-08-11,Barclays,Equal-Weight,,main,BR
+2017-11-09,Barclays,Equal-Weight,,main,BR
+2018-02-09,Barclays,Equal-Weight,Equal-Weight,main,BR
+2018-03-28,DA Davidson,Neutral,Neutral,main,BR
+2019-02-08,DA Davidson,Buy,Neutral,up,BR
+2019-03-13,Raymond James,Outperform,Market Perform,up,BR
+2019-05-20,Raymond James,Outperform,,main,BR
+2019-07-22,SunTrust Robinson Humphrey,Buy,,main,BR
+2019-07-31,Raymond James,Market Perform,Outperform,down,BR
+2020-01-29,DA Davidson,Neutral,,main,BR
+2020-02-03,DA Davidson,Buy,Neutral,up,BR
+2020-02-26,BTIG Research,Buy,,init,BR
+2020-02-28,Raymond James,Outperform,Market Perform,up,BR
+2020-05-11,Rosenblatt,Neutral,,main,BR
+2020-07-24,Raymond James,Outperform,,main,BR
+2020-08-05,DA Davidson,Neutral,Buy,down,BR
+2020-08-12,BTIG,Neutral,Buy,down,BR
+2020-08-12,Rosenblatt,Neutral,,main,BR
+2020-12-18,Truist Securities,Buy,,init,BR
+2021-02-03,BTIG,Buy,Neutral,up,BR
+2021-02-03,Raymond James,Outperform,,main,BR
+2021-08-13,Raymond James,Outperform,,main,BR
+2021-08-16,DA Davidson,Neutral,,main,BR
+2021-08-17,JP Morgan,Neutral,,main,BR
+2021-11-04,Raymond James,Outperform,,main,BR

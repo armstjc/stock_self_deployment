@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-04-17,Wunderlich,Buy,,init,LBRDA
+2015-07-14,Deutsche Bank,Buy,,init,LBRDA
+2015-11-16,Deutsche Bank,Buy,,main,LBRDA
+2015-11-18,Deutsche Bank,Buy,,main,LBRDA
+2016-08-12,Deutsche Bank,Buy,,main,LBRDA
+2017-12-13,Buckingham,Buy,,init,LBRDA
+2018-05-07,Buckingham,Buy,Buy,main,LBRDA
+2018-08-14,Deutsche Bank,Buy,Buy,main,LBRDA
+2018-08-22,Macquarie,Outperform,Outperform,main,LBRDA
+2019-04-09,Macquarie,Neutral,Outperform,down,LBRDA
+2019-05-17,Deutsche Bank,Buy,,main,LBRDA
+2019-07-17,Morgan Stanley,Equal-Weight,,main,LBRDA
+2019-07-18,TD Securities,Hold,Buy,down,LBRDA
+2019-08-19,Deutsche Bank,Buy,,main,LBRDA
+2019-10-04,Citigroup,Buy,,init,LBRDA
+2019-10-28,Morgan Stanley,Equal-Weight,,main,LBRDA
+2019-10-28,Benchmark,Buy,,main,LBRDA
+2019-11-04,Benchmark,Buy,,main,LBRDA
+2019-11-13,Deutsche Bank,Buy,,main,LBRDA
+2020-01-02,TD Securities,Hold,Buy,down,LBRDA
+2020-02-03,Citigroup,Buy,,main,LBRDA
+2020-02-28,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-04-13,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-04-21,Citigroup,Buy,,main,LBRDA
+2020-05-04,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-05-08,Benchmark,Buy,,main,LBRDA
+2020-07-13,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-08-03,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-08-11,Benchmark,Buy,,main,LBRDA
+2020-08-18,TD Securities,Hold,Buy,down,LBRDA
+2020-10-20,Morgan Stanley,Equal-Weight,,main,LBRDA
+2020-12-16,Morgan Stanley,Equal-Weight,,main,LBRDA
+2021-03-01,TD Securities,Buy,Hold,up,LBRDA
+2021-04-09,Citigroup,Buy,,main,LBRDA
+2021-04-20,Morgan Stanley,Equal-Weight,,main,LBRDA
+2021-06-02,Citigroup,Buy,,main,LBRDA
+2021-07-20,Morgan Stanley,Equal-Weight,,main,LBRDA
+2021-11-17,Credit Suisse,Outperform,,init,LBRDA
+2021-12-09,Morgan Stanley,Equal-Weight,,main,LBRDA

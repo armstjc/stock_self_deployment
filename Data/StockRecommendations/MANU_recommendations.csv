@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-04,Deutsche Bank,Buy,,init,MANU
+2012-09-04,Credit Suisse,Outperform,,init,MANU
+2012-09-04,Bank of America,Neutral,,init,MANU
+2012-09-04,Nomura,Neutral,,init,MANU
+2012-09-04,JP Morgan,Overweight,,init,MANU
+2012-09-04,Jefferies,Buy,,init,MANU
+2013-02-11,Jefferies,Buy,,main,MANU
+2013-02-11,Raymond James,Outperform,,init,MANU
+2013-02-13,Nomura,Neutral,,main,MANU
+2013-05-06,Nomura,Neutral,,main,MANU
+2013-11-13,Nomura,Neutral,,main,MANU
+2013-11-15,Nomura,Neutral,,main,MANU
+2014-01-27,Deutsche Bank,Hold,Buy,down,MANU
+2014-02-13,Nomura,Neutral,,main,MANU
+2014-02-14,Raymond James,Market Perform,Outperform,down,MANU
+2014-05-29,JP Morgan,Neutral,,main,MANU
+2014-11-21,JP Morgan,Overweight,Neutral,up,MANU
+2015-06-03,Credit Suisse,Outperform,,init,MANU
+2015-09-18,Jefferies,Buy,,main,MANU
+2016-03-15,Credit Suisse,Outperform,,main,MANU
+2016-08-16,Jefferies,Buy,,main,MANU
+2016-10-18,Gabelli & Co.,Buy,,init,MANU
+2016-12-22,Deutsche Bank,Buy,,init,MANU
+2017-09-22,Jefferies,Buy,,main,MANU
+2018-05-22,Deutsche Bank,Hold,Buy,down,MANU
+2018-09-27,Bank of America,Neutral,Neutral,main,MANU
+2020-11-13,Exane BNP Paribas,Neutral,,init,MANU

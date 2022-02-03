@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMCL220318P00010000,2021-11-10 11:46:56+00:00,10.0,0.36,0.0,0.75,0.0,0.0,1,15,0.64062859375,False,REGULAR,USD,CMCL
+CMCL220318P00010000,2021-11-10 11:46:56+00:00,10.0,0.36,0.0,0.75,0.0,0.0,1,15,0.647464462890625,False,REGULAR,USD,CMCL

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-10-19,B. Riley FBR,Buy,,init,CURI
+2020-10-26,Stifel,Buy,,init,CURI
+2020-12-22,Stifel,Hold,Buy,down,CURI
+2021-01-06,B. Riley FBR,Neutral,Buy,down,CURI
+2021-01-12,Benchmark,Buy,,init,CURI
+2021-02-16,Roth Capital,Buy,,init,CURI
+2021-03-03,Needham,Buy,,init,CURI
+2021-03-18,Barrington Research,Outperform,,init,CURI
+2021-04-06,B of A Securities,Buy,,init,CURI
+2021-04-09,DA Davidson,Buy,,init,CURI
+2021-05-12,Roth Capital,Buy,,main,CURI
+2021-06-18,B of A Securities,Underperform,Buy,down,CURI
+2021-09-17,JP Morgan,Overweight,,init,CURI
+2021-12-28,Roth Capital,Buy,,main,CURI

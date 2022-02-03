@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-08-12,Cowen & Co.,Outperform,,init,GLOB
+2014-08-12,William Blair,Outperform,,init,GLOB
+2014-08-12,JP Morgan,Overweight,,init,GLOB
+2014-11-10,Credit Suisse,Neutral,,main,GLOB
+2014-11-11,Credit Suisse,Neutral,,main,GLOB
+2014-11-11,Citigroup,Buy,,main,GLOB
+2015-01-07,Credit Suisse,Underperform,Neutral,down,GLOB
+2015-01-09,Citigroup,Buy,,main,GLOB
+2015-04-23,Citigroup,Buy,,main,GLOB
+2015-07-27,Citigroup,Neutral,Buy,down,GLOB
+2015-08-12,Jefferies,Hold,,init,GLOB
+2015-12-17,Sterne Agee CRT,Buy,,init,GLOB
+2015-12-21,SunTrust Robinson Humphrey,Buy,,init,GLOB
+2016-02-08,Citigroup,Buy,Neutral,up,GLOB
+2016-02-08,BWS Financial,Sell,,init,GLOB
+2016-05-16,Jefferies,Hold,,main,GLOB
+2016-07-12,Pacific Crest,Sector Weight,,init,GLOB
+2016-08-11,Citigroup,Buy,,main,GLOB
+2016-08-11,JP Morgan,Overweight,,main,GLOB
+2016-09-09,Wedbush,Outperform,,init,GLOB
+2017-01-12,Pacific Crest,Overweight,Sector Weight,up,GLOB
+2017-07-07,KeyBanc,Sector Weight,Overweight,down,GLOB
+2017-07-19,Citigroup,Buy,,main,GLOB
+2017-07-27,SunTrust Robinson Humphrey,Hold,Buy,down,GLOB
+2017-11-17,Cantor Fitzgerald,Neutral,,main,GLOB
+2018-02-20,JP Morgan,Overweight,Overweight,main,GLOB
+2018-04-04,SunTrust Robinson Humphrey,Buy,Hold,up,GLOB
+2018-04-20,HSBC,Hold,,init,GLOB
+2018-06-19,Wedbush,Outperform,Outperform,main,GLOB
+2018-08-24,JP Morgan,Overweight,Overweight,main,GLOB
+2018-08-24,Citigroup,Buy,Buy,main,GLOB
+2018-10-24,JP Morgan,Overweight,Overweight,main,GLOB
+2019-02-13,Wedbush,Outperform,Outperform,main,GLOB
+2019-04-10,Morgan Stanley,Overweight,,init,GLOB
+2019-06-21,Itau BBA,Outperform,Market Perform,up,GLOB
+2019-07-17,Citigroup,Neutral,Buy,down,GLOB
+2019-09-10,HSBC,Reduce,Hold,down,GLOB
+2019-10-21,KeyBanc,Overweight,Sector Weight,up,GLOB
+2020-01-13,KeyBanc,Overweight,,main,GLOB
+2020-01-15,Citigroup,Neutral,,main,GLOB
+2020-02-18,JP Morgan,Overweight,,main,GLOB
+2020-02-20,Wedbush,Outperform,,main,GLOB
+2020-02-21,Citigroup,Neutral,,main,GLOB
+2020-02-21,KeyBanc,Overweight,,main,GLOB
+2020-02-21,Cantor Fitzgerald,Neutral,,main,GLOB
+2020-03-10,KeyBanc,Sector Weight,Overweight,down,GLOB
+2020-05-15,Citigroup,Neutral,,main,GLOB
+2020-05-22,Piper Sandler,Overweight,,init,GLOB
+2020-08-14,Piper Sandler,Overweight,,main,GLOB
+2020-09-21,Itau BBA,Outperform,Market Perform,up,GLOB
+2021-01-11,Goldman Sachs,Neutral,Buy,down,GLOB
+2021-01-14,Piper Sandler,Neutral,Overweight,down,GLOB
+2021-02-19,Wedbush,Outperform,,main,GLOB
+2021-02-19,Piper Sandler,Neutral,,main,GLOB
+2021-05-14,Piper Sandler,Neutral,,main,GLOB
+2021-05-14,Citigroup,Buy,Neutral,up,GLOB
+2021-07-14,Citigroup,Buy,,main,GLOB
+2021-07-16,Cowen & Co.,Outperform,,main,GLOB
+2021-07-28,Piper Sandler,Overweight,Neutral,up,GLOB
+2021-08-03,Jefferies,Buy,Hold,up,GLOB
+2021-08-13,Piper Sandler,Overweight,,main,GLOB
+2021-08-17,JP Morgan,Overweight,,main,GLOB
+2021-08-26,Jefferies,Buy,,main,GLOB
+2021-09-21,Goldman Sachs,Buy,Neutral,up,GLOB
+2021-11-19,Piper Sandler,Overweight,,main,GLOB
+2021-11-19,Wedbush,Outperform,,main,GLOB
+2021-11-19,Citigroup,Buy,,main,GLOB

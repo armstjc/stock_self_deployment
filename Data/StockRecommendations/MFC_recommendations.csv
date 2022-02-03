@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-11,UBS,Neutral,,main,MFC
+2013-01-14,UBS,Buy,Neutral,up,MFC
+2013-05-02,Canaccord Genuity,Buy,Hold,up,MFC
+2013-05-03,Credit Suisse,Outperform,Neutral,up,MFC
+2013-06-20,BMO Capital,Outperform,Market Perform,up,MFC
+2013-08-09,Cormark Securities,Market Perform,Buy,down,MFC
+2013-10-25,TD Securities,Buy,,init,MFC
+2016-02-12,Canaccord Genuity,Hold,Buy,down,MFC
+2016-08-04,CIBC,Sector Perform,Sector Outperform,down,MFC
+2016-08-24,Bank of America,Buy,,init,MFC
+2016-09-21,Dundee,Buy,,init,MFC
+2017-10-05,Morgan Stanley,Equal-Weight,,main,MFC
+2017-11-13,Morgan Stanley,Equal-Weight,,main,MFC
+2018-02-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,MFC
+2018-04-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,MFC
+2018-07-10,Evercore ISI Group,In-Line,,init,MFC
+2018-07-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,MFC
+2020-01-13,Barclays,Overweight,,main,MFC
+2021-08-10,Credit Suisse,Neutral,Outperform,down,MFC

@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-22,Bank of America,Buy,,init,NGL
+2013-08-05,Baird,Outperform,Neutral,up,NGL
+2013-10-11,Deutsche Bank,Hold,,init,NGL
+2013-12-04,Wunderlich,Buy,,init,NGL
+2013-12-24,UBS,Buy,,init,NGL
+2014-02-13,Wunderlich,Buy,,main,NGL
+2014-03-05,Baird,Neutral,Outperform,down,NGL
+2014-06-02,Raymond James,Outperform,,main,NGL
+2014-06-10,Raymond James,Outperform,,main,NGL
+2014-08-13,Wunderlich,Buy,,main,NGL
+2014-11-12,Wunderlich,Buy,,main,NGL
+2014-11-12,Wunderlich,Buy,,main,NGL
+2015-03-31,Barclays,Equal-Weight,,init,NGL
+2015-04-28,Baird,Outperform,Neutral,up,NGL
+2015-06-02,Barclays,Equal-Weight,,main,NGL
+2015-06-29,Stifel Nicolaus,Hold,,init,NGL
+2015-08-11,Stifel Nicolaus,Buy,Hold,up,NGL
+2015-08-11,Barclays,Equal-Weight,,main,NGL
+2015-11-11,Barclays,Equal-Weight,,main,NGL
+2016-01-04,Raymond James,Market Perform,Outperform,down,NGL
+2016-01-11,Wunderlich,Hold,Buy,down,NGL
+2016-01-12,Stifel Nicolaus,Hold,,down,NGL
+2016-02-11,Barclays,Equal-Weight,,main,NGL
+2016-03-11,Goldman Sachs,Sell,Neutral,down,NGL
+2016-04-22,Bank of America,Neutral,Underperform,up,NGL
+2016-05-02,Wunderlich,Hold,,main,NGL
+2016-06-03,Stifel Nicolaus,Buy,Hold,up,NGL
+2016-06-13,Wunderlich,Buy,Hold,up,NGL
+2016-08-05,Stifel Nicolaus,Buy,,main,NGL
+2016-09-09,FBR Capital,Market Perform,,init,NGL
+2016-12-06,Bank of America,Buy,Neutral,up,NGL
+2017-01-12,Raymond James,Outperform,Market Perform,up,NGL
+2017-01-20,FBR Capital,Outperform,Market Perform,up,NGL
+2017-02-08,Stifel Nicolaus,Hold,Buy,down,NGL
+2017-07-17,Wells Fargo,Market Perform,Outperform,down,NGL
+2017-08-16,Stifel Nicolaus,Hold,,main,NGL
+2018-01-05,Credit Suisse,Outperform,,init,NGL
+2018-03-02,UBS,Buy,Buy,main,NGL
+2018-03-15,Stifel Nicolaus,Hold,Hold,main,NGL
+2018-08-14,Stifel Nicolaus,Hold,Hold,main,NGL
+2018-09-13,Wells Fargo,Market Perform,Market Perform,main,NGL
+2018-09-24,Wells Fargo,Market Perform,Market Perform,main,NGL
+2018-10-01,Bank of America,Buy,Buy,main,NGL
+2018-10-11,Credit Suisse,Outperform,,init,NGL
+2018-12-04,Guggenheim,Buy,,init,NGL
+2019-02-20,Credit Suisse,Neutral,Outperform,down,NGL
+2019-07-17,Piper Jaffray,Overweight,,init,NGL
+2019-08-12,UBS,Buy,,main,NGL
+2019-10-08,UBS,Neutral,Buy,down,NGL
+2019-11-12,RBC Capital,Outperform,,main,NGL
+2019-11-19,Piper Jaffray,Neutral,,main,NGL
+2020-03-12,Raymond James,Market Perform,Outperform,down,NGL
+2020-03-16,RBC Capital,Sector Perform,Outperform,down,NGL
+2020-04-02,Credit Suisse,Underperform,Neutral,down,NGL
+2020-04-03,UBS,Neutral,,main,NGL
+2020-04-06,Piper Sandler,Neutral,,main,NGL
+2020-04-14,Wells Fargo,Equal-Weight,,main,NGL
+2020-04-21,Stifel,Hold,,main,NGL
+2020-06-04,Piper Sandler,Neutral,,main,NGL
+2020-07-22,Wells Fargo,Underweight,Equal-Weight,down,NGL
+2020-08-12,Stifel,Hold,,main,NGL
+2020-09-23,Piper Sandler,Neutral,,main,NGL
+2021-05-13,Wells Fargo,Underweight,,main,NGL

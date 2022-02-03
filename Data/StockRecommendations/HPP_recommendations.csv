@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-17,Ladenburg Thalmann,Neutral,,init,HPP
+2012-05-16,Morgan Stanley,Equal-Weight,,main,HPP
+2012-05-16,Morgan Stanley,Equal-Weight,,main,HPP
+2012-09-20,KeyBanc,Buy,,main,HPP
+2012-10-22,Barclays,Overweight,,main,HPP
+2013-01-10,KeyBanc,Hold,Buy,down,HPP
+2014-01-28,Barclays,Overweight,,main,HPP
+2014-03-03,BMO Capital,Market Perform,Underperform,up,HPP
+2014-04-22,Barclays,Overweight,,main,HPP
+2014-07-21,Barclays,Overweight,,main,HPP
+2014-09-18,Mizuho,Neutral,,init,HPP
+2014-11-12,Credit Suisse,Outperform,,init,HPP
+2015-01-12,DA Davidson,Buy,,main,HPP
+2015-01-22,Barclays,Overweight,,main,HPP
+2015-06-08,Barclays,Overweight,,main,HPP
+2015-09-21,Mizuho,Neutral,,main,HPP
+2015-10-20,Barclays,Overweight,,main,HPP
+2015-11-02,UBS,Buy,,init,HPP
+2015-12-04,Morgan Stanley,Overweight,Equal-Weight,up,HPP
+2016-01-11,Credit Suisse,Neutral,Outperform,down,HPP
+2016-02-19,Barclays,Overweight,,main,HPP
+2016-03-24,Barclays,Overweight,,main,HPP
+2016-03-28,Cowen & Co.,Market Perform,,init,HPP
+2016-06-30,Baird,Outperform,,init,HPP
+2016-07-19,Barclays,Overweight,,main,HPP
+2016-07-22,Mizuho,Buy,Neutral,up,HPP
+2016-08-25,BTIG Research,Buy,,init,HPP
+2016-11-07,Mizuho,Buy,Neutral,up,HPP
+2017-02-28,UBS,Neutral,Buy,down,HPP
+2017-03-20,Mizuho,Neutral,Buy,down,HPP
+2017-08-15,Barclays,Overweight,,main,HPP
+2017-11-20,Goldman Sachs,Neutral,Buy,down,HPP
+2018-01-30,Barclays,Overweight,Overweight,main,HPP
+2018-02-23,Wells Fargo,Outperform,Market Perform,up,HPP
+2018-02-27,Citigroup,Buy,,init,HPP
+2018-05-07,Baird,Outperform,Outperform,main,HPP
+2018-05-25,Bank of America,Buy,Buy,main,HPP
+2018-05-30,Baird,Outperform,Outperform,main,HPP
+2018-08-21,Baird,Neutral,Outperform,down,HPP
+2019-01-09,Baird,Outperform,Neutral,up,HPP
+2019-03-11,Goldman Sachs,Buy,Neutral,up,HPP
+2019-11-08,Goldman Sachs,Buy,,init,HPP
+2019-12-13,Morgan Stanley,Overweight,,main,HPP
+2020-01-15,Mizuho,Buy,Neutral,up,HPP
+2020-02-04,Mizuho,Buy,,init,HPP
+2020-04-07,Citigroup,Buy,,main,HPP
+2020-04-16,Jefferies,Hold,,init,HPP
+2020-05-07,Baird,Outperform,,main,HPP
+2020-05-28,Morgan Stanley,Overweight,,main,HPP
+2020-06-25,Morgan Stanley,Equal-Weight,Overweight,down,HPP
+2020-07-20,Mizuho,Buy,,main,HPP
+2020-09-23,Wells Fargo,Overweight,,main,HPP
+2020-11-16,B of A Securities,Buy,,main,HPP
+2020-12-23,BMO Capital,Market Perform,,init,HPP
+2021-01-25,ScotiaBank,Sector Perform,Sector Outperform,down,HPP
+2021-03-19,Morgan Stanley,Equal-Weight,,main,HPP
+2021-04-16,Morgan Stanley,Underweight,Equal-Weight,down,HPP
+2021-06-14,Piper Sandler,Overweight,Neutral,up,HPP
+2021-06-15,Wolfe Research,Peer Perform,,init,HPP
+2021-09-30,Morgan Stanley,Underweight,,main,HPP
+2021-10-14,Keybanc,Overweight,,main,HPP
+2021-11-29,Piper Sandler,Neutral,Overweight,down,HPP
+2021-12-06,Scotiabank,Sector Perform,,main,HPP
+2021-12-14,Wells Fargo,Equal-Weight,Overweight,down,HPP
+2021-12-14,Morgan Stanley,Underweight,,main,HPP

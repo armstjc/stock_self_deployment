@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-30,Rodman & Renshaw,Buy,,init,CBIO
+2017-06-06,Ladenburg Thalmann,Buy,,init,CBIO
+2017-06-12,Chardan Capital,Buy,,init,CBIO
+2017-12-08,B. Riley FBR,Buy,,init,CBIO
+2018-02-09,Chardan Capital,Buy,Buy,main,CBIO
+2018-06-21,B. Riley FBR,Neutral,Buy,down,CBIO
+2019-01-04,Oppenheimer,Outperform,,init,CBIO
+2021-02-04,Raymond James,Outperform,,main,CBIO
+2021-02-10,Piper Sandler,Overweight,,init,CBIO
+2021-04-29,Raymond James,Outperform,,main,CBIO
+2021-08-06,Raymond James,Outperform,,main,CBIO
+2021-11-15,Raymond James,Market Perform,Outperform,down,CBIO

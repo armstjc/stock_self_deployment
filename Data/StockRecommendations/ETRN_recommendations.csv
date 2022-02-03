@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-18,RBC Capital,Sector Perform,,init,ETRN
+2019-06-17,Bank of America,Neutral,,init,ETRN
+2019-08-06,UBS,Neutral,,init,ETRN
+2019-09-26,UBS,Buy,Neutral,up,ETRN
+2019-11-25,Credit Suisse,Outperform,Neutral,up,ETRN
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,ETRN
+2020-01-28,B of A Securities,Neutral,,reit,ETRN
+2020-04-27,Wells Fargo,Overweight,Underweight,up,ETRN
+2020-07-14,JP Morgan,Neutral,,init,ETRN
+2020-08-11,UBS,Buy,,main,ETRN
+2020-08-19,B of A Securities,Underperform,Neutral,down,ETRN
+2020-09-25,Morgan Stanley,Equal-Weight,,init,ETRN
+2020-09-29,Morgan Stanley,Equal-Weight,,init,ETRN
+2020-11-12,Credit Suisse,Outperform,,main,ETRN
+2020-11-18,B of A Securities,Neutral,Underperform,up,ETRN
+2021-01-28,Morgan Stanley,Underweight,Equal-Weight,down,ETRN
+2021-02-11,Barclays,Underweight,Equal-Weight,down,ETRN
+2021-03-22,Morgan Stanley,Underweight,,main,ETRN
+2021-05-13,Wells Fargo,Underweight,Equal-Weight,down,ETRN
+2021-06-02,Barclays,Underweight,,main,ETRN
+2021-10-19,Barclays,Underweight,,main,ETRN
+2021-11-03,Wells Fargo,Underweight,,main,ETRN
+2021-12-16,Wells Fargo,Overweight,Underweight,up,ETRN

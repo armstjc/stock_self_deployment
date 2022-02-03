@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,PiperJaffray,Overweight,,main,LHCG
+2012-03-01,Deutsche Bank,Buy,,up,LHCG
+2012-03-02,Oppenheimer,Outperform,,main,LHCG
+2012-03-14,Jefferies,Hold,,main,LHCG
+2012-05-03,Jefferies,Hold,,main,LHCG
+2012-08-07,Oppenheimer,Outperform,,main,LHCG
+2012-10-02,Credit Suisse,Underperform,Neutral,down,LHCG
+2013-03-08,Deutsche Bank,Buy,,main,LHCG
+2013-03-08,PiperJaffray,Overweight,,main,LHCG
+2013-05-10,Deutsche Bank,Hold,Buy,down,LHCG
+2013-06-28,Baird,Underperform,Neutral,down,LHCG
+2013-10-21,RBC Capital,Underperform,Sector Perform,down,LHCG
+2013-11-25,Avondale Partners,Market Outperform,Market Perform,up,LHCG
+2014-03-10,RBC Capital,Sector Perform,Underperform,up,LHCG
+2014-08-08,Oppenheimer,Outperform,,main,LHCG
+2014-08-11,Credit Suisse,Underperform,,main,LHCG
+2014-11-19,Baird,Neutral,Underperform,up,LHCG
+2014-12-09,Credit Suisse,Outperform,Underperform,up,LHCG
+2015-02-26,Credit Suisse,Outperform,,main,LHCG
+2015-08-07,Oppenheimer,Outperform,,main,LHCG
+2015-09-01,Wells Fargo,Outperform,,init,LHCG
+2016-02-05,Jefferies,Buy,,init,LHCG
+2016-02-16,SunTrust Robinson Humphrey,Neutral,,main,LHCG
+2016-06-17,Stephens & Co.,Overweight,,init,LHCG
+2017-01-27,Benchmark,Buy,,init,LHCG
+2017-03-10,SunTrust Robinson Humphrey,Buy,Hold,up,LHCG
+2017-03-10,RBC Capital,Outperform,Sector Perform,up,LHCG
+2017-08-21,Bank of America,Buy,,init,LHCG
+2017-11-07,Jefferies,Buy,,main,LHCG
+2017-11-07,Oppenheimer,Outperform,,main,LHCG
+2017-11-17,Oppenheimer,Outperform,,main,LHCG
+2017-11-21,William Blair,Outperform,,init,LHCG
+2018-09-13,Cantor Fitzgerald,Overweight,,init,LHCG
+2018-10-26,Craig-Hallum,Hold,Buy,down,LHCG
+2018-11-02,Baird,Neutral,Neutral,main,LHCG
+2018-11-16,UBS,Buy,,init,LHCG
+2018-12-14,Barclays,Equal-Weight,,init,LHCG
+2019-03-04,Baird,Neutral,Neutral,main,LHCG
+2019-03-21,Barclays,Equal-Weight,Equal-Weight,main,LHCG
+2019-08-09,Barclays,Equal-Weight,,main,LHCG
+2019-08-09,Oppenheimer,Outperform,,main,LHCG
+2019-09-17,Deutsche Bank,Buy,,init,LHCG
+2019-09-23,UBS,Buy,,main,LHCG
+2019-12-06,SunTrust Robinson Humphrey,Buy,,main,LHCG
+2020-02-28,Baird,Neutral,,main,LHCG
+2020-03-02,Stephens & Co.,Overweight,,main,LHCG
+2020-03-20,Benchmark,Buy,,main,LHCG
+2020-05-14,UBS,Buy,,main,LHCG
+2020-05-21,SunTrust Robinson Humphrey,Buy,,main,LHCG
+2020-06-03,Deutsche Bank,Buy,,main,LHCG
+2020-07-09,SunTrust Robinson Humphrey,Buy,,main,LHCG
+2020-08-10,Truist Securities,Buy,,main,LHCG
+2020-08-12,UBS,Neutral,Buy,down,LHCG
+2021-01-25,Credit Suisse,Outperform,,init,LHCG
+2021-02-08,Deutsche Bank,Buy,,main,LHCG
+2021-08-10,Credit Suisse,Outperform,,main,LHCG
+2021-08-12,Barclays,Equal-Weight,Overweight,down,LHCG
+2021-09-10,Cowen & Co.,Outperform,,init,LHCG
+2021-09-22,Deutsche Bank,Buy,,main,LHCG
+2021-09-24,UBS,Neutral,,init,LHCG
+2021-09-27,SVB Leerink,Market Perform,,init,LHCG
+2021-10-13,Truist Securities,Buy,,main,LHCG
+2021-10-19,Deutsche Bank,Buy,,main,LHCG
+2021-10-19,Credit Suisse,Outperform,,main,LHCG
+2021-10-19,RBC Capital,Outperform,,main,LHCG
+2021-10-19,SVB Leerink,Market Perform,,main,LHCG
+2021-10-26,Cowen & Co.,Market Perform,Outperform,down,LHCG
+2021-11-05,Credit Suisse,Outperform,,main,LHCG
+2021-11-05,RBC Capital,Outperform,,main,LHCG
+2021-11-05,Barclays,Equal-Weight,,main,LHCG
+2021-11-10,SVB Leerink,Market Perform,,main,LHCG

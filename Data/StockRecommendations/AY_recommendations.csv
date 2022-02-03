@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-07-08,RBC Capital,Outperform,,init,AY
+2014-07-08,Citigroup,Buy,,init,AY
+2014-07-08,Canaccord Genuity,Buy,,init,AY
+2014-07-29,HSBC,Neutral,,init,AY
+2014-08-13,Morgan Stanley,Overweight,Equal-Weight,up,AY
+2014-09-18,Macquarie,Neutral,,init,AY
+2014-12-04,Bank of America,Buy,,main,AY
+2015-05-12,Canaccord Genuity,Buy,,main,AY
+2015-08-11,Canaccord Genuity,Buy,,main,AY
+2015-09-30,Morgan Stanley,Equal-Weight,Overweight,down,AY
+2015-11-29,Canaccord Genuity,Hold,Buy,down,AY
+2015-11-30,Bank of America,Underperform,Neutral,down,AY
+2015-11-30,Canaccord Genuity,Hold,Buy,down,AY
+2016-03-01,Macquarie,Neutral,,main,AY
+2017-02-28,Guggenheim,Buy,Neutral,up,AY
+2017-04-12,Jefferies,Hold,,init,AY
+2018-06-20,Raymond James,Outperform,,init,AY
+2018-08-07,Bank of America,Buy,Buy,main,AY
+2018-09-28,Deutsche Bank,Buy,,init,AY
+2019-01-07,Citigroup,Buy,,init,AY
+2020-01-15,RBC Capital,Sector Perform,Outperform,down,AY
+2020-05-15,Morgan Stanley,Equal-Weight,,main,AY
+2020-06-17,Morgan Stanley,Overweight,Equal-Weight,up,AY
+2020-08-14,Morgan Stanley,Overweight,,main,AY
+2020-09-08,Seaport Global,Neutral,,init,AY
+2020-12-15,Seaport Global,Buy,Neutral,up,AY
+2021-01-12,Morgan Stanley,Overweight,,main,AY
+2021-03-10,Morgan Stanley,Overweight,,main,AY
+2021-04-20,Morgan Stanley,Overweight,,main,AY
+2021-06-28,Tudor Pickering,Hold,,init,AY
+2021-08-19,Morgan Stanley,Overweight,,main,AY
+2021-08-26,UBS,Neutral,,init,AY
+2021-09-21,Keybanc,Sector Weight,,init,AY
+2021-10-11,JonesTrading,Buy,,init,AY
+2021-12-16,CIBC,Neutral,,init,AY

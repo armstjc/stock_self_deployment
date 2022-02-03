@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-11-08,Arete Research,Sell,,init,GFS
+2021-11-09,Susquehanna,Positive,,init,GFS
+2021-11-22,Jefferies,Buy,,init,GFS
+2021-11-22,Credit Suisse,Outperform,,init,GFS
+2021-11-22,JP Morgan,Overweight,,init,GFS
+2021-11-22,Needham,Buy,,init,GFS
+2021-11-22,Baird,Outperform,,init,GFS
+2021-11-22,Citigroup,Buy,,init,GFS
+2021-11-22,Cowen & Co.,Outperform,,init,GFS
+2021-11-22,Wedbush,Outperform,,init,GFS
+2021-11-22,Morgan Stanley,Equal-Weight,,init,GFS
+2021-11-22,B of A Securities,Buy,,init,GFS
+2021-11-22,HSBC,Hold,,init,GFS
+2021-11-22,Raymond James,Outperform,,init,GFS
+2021-11-22,Deutsche Bank,Buy,,init,GFS
+2021-12-01,Needham,Buy,,main,GFS
+2021-12-01,Credit Suisse,Outperform,,main,GFS
+2021-12-01,Morgan Stanley,Equal-Weight,,main,GFS
+2021-12-01,Deutsche Bank,Buy,,main,GFS

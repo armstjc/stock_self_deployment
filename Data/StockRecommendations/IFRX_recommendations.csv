@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-12-04,BMO Capital,Outperform,,init,IFRX
+2017-12-04,JP Morgan,Overweight,,init,IFRX
+2017-12-04,Leerink Swann,Outperform,,init,IFRX
+2018-02-08,B. Riley FBR,Buy,,init,IFRX
+2018-06-28,SunTrust Robinson Humphrey,Buy,,init,IFRX
+2018-06-28,Raymond James,Outperform,,init,IFRX
+2018-07-13,BMO Capital,Outperform,,init,IFRX
+2018-12-10,Credit Suisse,Outperform,,init,IFRX
+2019-01-29,Baird,Outperform,,init,IFRX
+2019-02-22,Guggenheim,Buy,,init,IFRX
+2019-03-29,Baird,Outperform,Outperform,main,IFRX
+2019-06-06,Baird,Neutral,Outperform,down,IFRX
+2020-04-30,Raymond James,Outperform,Market Perform,up,IFRX
+2020-05-07,SVB Leerink,Market Perform,,main,IFRX
+2020-05-21,Raymond James,Outperform,,main,IFRX
+2020-06-17,BTIG,Buy,,init,IFRX
+2020-07-31,Raymond James,Outperform,,main,IFRX
+2020-10-08,HC Wainwright & Co.,Buy,,init,IFRX
+2020-11-06,SVB Leerink,Outperform,Market Perform,up,IFRX
+2021-01-12,HC Wainwright & Co.,Buy,,main,IFRX
+2021-03-11,Guggenheim,Buy,Neutral,up,IFRX
+2021-03-26,HC Wainwright & Co.,Buy,,main,IFRX
+2021-05-13,Raymond James,Outperform,,main,IFRX
+2021-05-13,Credit Suisse,Underperform,,main,IFRX
+2021-08-06,Credit Suisse,Underperform,,main,IFRX
+2021-08-06,Raymond James,Outperform,,main,IFRX
+2021-10-28,Raymond James,Strong Buy,Outperform,up,IFRX
+2021-11-08,Raymond James,Strong Buy,,main,IFRX

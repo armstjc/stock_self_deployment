@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GALT220715P00002000,2021-12-31 14:55:52+00:00,2.0,0.47,0.45,0.6,0.0,0.0,1,4,1.1171919140625,False,REGULAR,USD,GALT

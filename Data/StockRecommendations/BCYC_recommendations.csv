@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-06-17,Canaccord Genuity,Buy,,init,BCYC
+2019-06-17,Jefferies,Buy,,init,BCYC
+2019-06-17,Piper Jaffray,Overweight,,init,BCYC
+2019-06-17,Goldman Sachs,Neutral,,init,BCYC
+2019-09-11,Goldman Sachs,Buy,Neutral,up,BCYC
+2019-11-14,Roth Capital,Buy,,init,BCYC
+2020-06-12,Oppenheimer,Outperform,,init,BCYC
+2020-09-10,Canaccord Genuity,Buy,,main,BCYC
+2020-10-12,Cantor Fitzgerald,Overweight,,init,BCYC
+2021-01-15,HC Wainwright & Co.,Buy,,main,BCYC
+2021-04-20,JMP Securities,Market Outperform,,init,BCYC
+2021-05-07,HC Wainwright & Co.,Buy,,main,BCYC
+2021-07-13,Canaccord Genuity,Buy,,main,BCYC
+2021-07-15,Canaccord Genuity,Buy,,main,BCYC
+2021-09-30,B. Riley Securities,Buy,,init,BCYC
+2021-10-08,HC Wainwright & Co.,Buy,,main,BCYC
+2021-10-14,JMP Securities,Market Outperform,,main,BCYC
+2021-12-09,Needham,Buy,,init,BCYC
+2021-12-17,SVB Leerink,Outperform,,init,BCYC

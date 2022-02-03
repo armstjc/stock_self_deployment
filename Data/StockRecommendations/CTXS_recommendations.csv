@@ -1,0 +1,191 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-17,Citigroup,Buy,,main,CTXS
+2012-04-26,JP Morgan,Underweight,,main,CTXS
+2012-04-26,Deutsche Bank,Buy,,main,CTXS
+2012-04-26,Bank oferica,Neutral,,main,CTXS
+2012-04-26,UBS,Neutral,,main,CTXS
+2012-04-26,Citigroup,Buy,,main,CTXS
+2012-04-26,Credit Suisse,Neutral,,main,CTXS
+2012-04-26,Goldman Sachs,Neutral,,main,CTXS
+2012-04-26,Drexel Hamilton,Hold,,main,CTXS
+2012-07-26,UBS,Neutral,,main,CTXS
+2012-08-30,Longbow Research,Neutral,,init,CTXS
+2012-09-24,Morgan Stanley,Equal-Weight,Overweight,down,CTXS
+2012-10-18,Citigroup,Buy,,main,CTXS
+2012-10-19,Jefferies,Hold,,main,CTXS
+2012-10-25,JP Morgan,Underweight,,main,CTXS
+2012-10-25,Nomura,Neutral,,main,CTXS
+2012-10-25,Stifel Nicolaus,Buy,,main,CTXS
+2012-10-25,Jefferies,Hold,,main,CTXS
+2012-10-25,UBS,Neutral,,main,CTXS
+2012-10-25,Barclays,Overweight,,main,CTXS
+2012-10-25,Credit Suisse,Neutral,,main,CTXS
+2012-11-09,Barclays,Equal-Weight,Overweight,down,CTXS
+2013-01-07,Barclays,Equal-Weight,,main,CTXS
+2013-01-09,Jefferies,Buy,Hold,up,CTXS
+2013-01-31,Credit Suisse,Neutral,,main,CTXS
+2013-01-31,Bank of America,Buy,Neutral,up,CTXS
+2013-01-31,UBS,Neutral,,main,CTXS
+2013-01-31,Jefferies,Buy,,main,CTXS
+2013-02-04,Berenberg,Hold,Buy,down,CTXS
+2013-03-20,FBN Securities,Outperform,,init,CTXS
+2013-04-25,Stifel Nicolaus,Buy,,main,CTXS
+2013-04-25,Nomura,Neutral,,main,CTXS
+2013-06-05,Goldman Sachs,Buy,Neutral,up,CTXS
+2013-06-06,Berenberg,Sell,Hold,down,CTXS
+2013-06-28,Cross Research,Buy,,init,CTXS
+2013-07-18,Raymond James,Market Perform,Outperform,down,CTXS
+2013-07-25,JG Capital,Overweight,Neutral,up,CTXS
+2013-07-25,Barclays,Equal-Weight,,main,CTXS
+2013-08-02,Credit Suisse,Outperform,Neutral,up,CTXS
+2013-10-07,Barclays,Overweight,Equal-Weight,up,CTXS
+2013-10-10,JG Capital,Neutral,Buy,down,CTXS
+2013-10-10,Barclays,Overweight,,main,CTXS
+2013-10-10,Stifel Nicolaus,Buy,,main,CTXS
+2013-10-11,JP Morgan,Neutral,Underweight,up,CTXS
+2013-10-24,Susquehanna,Neutral,Positive,down,CTXS
+2013-10-24,Deutsche Bank,Buy,,main,CTXS
+2013-10-24,JP Morgan,Neutral,,main,CTXS
+2013-10-24,Jefferies,Buy,,main,CTXS
+2013-11-14,Bernstein,Outperform,,main,CTXS
+2013-12-04,BMO Capital,Market Perform,,init,CTXS
+2013-12-05,BMO Capital,Market Perform,,init,CTXS
+2013-12-06,Stifel Nicolaus,Buy,,main,CTXS
+2014-01-23,Deutsche Bank,Hold,Buy,down,CTXS
+2014-01-30,Stephens & Co.,Equal-Weight,Overweight,down,CTXS
+2014-01-30,Needham,Hold,Buy,down,CTXS
+2014-01-30,Pacific Crest,Sector Perform,Outperform,down,CTXS
+2014-01-30,Baird,Neutral,Outperform,down,CTXS
+2014-01-30,JMP Securities,Market Underperform,Market Perform,down,CTXS
+2014-01-30,Drexel Hamilton,Buy,Hold,up,CTXS
+2014-01-31,JP Morgan,Overweight,Neutral,up,CTXS
+2014-01-31,Nomura,Buy,Neutral,up,CTXS
+2014-04-24,Barclays,Overweight,,main,CTXS
+2014-04-24,Citigroup,Hold,,main,CTXS
+2014-04-24,Deutsche Bank,Hold,,main,CTXS
+2014-05-01,Berenberg,Buy,Sell,up,CTXS
+2014-05-07,Citigroup,Overweight,,main,CTXS
+2014-07-14,Barclays,Overweight,,main,CTXS
+2014-07-24,UBS,Neutral,,main,CTXS
+2014-07-24,Deutsche Bank,Hold,,main,CTXS
+2014-07-24,Barclays,Overweight,,main,CTXS
+2014-09-04,Barclays,Overweight,,main,CTXS
+2014-09-10,MKM Partners,Buy,,init,CTXS
+2014-10-07,Northland Securities,Neutral,Buy,down,CTXS
+2014-10-23,FBR Capital,Outperform,,main,CTXS
+2014-11-21,Jefferies,Hold,,init,CTXS
+2015-01-29,Credit Suisse,Outperform,,main,CTXS
+2015-03-06,Tigress Financial,Buy,Strong Buy,down,CTXS
+2015-04-09,Bank of America,Underperform,Neutral,down,CTXS
+2015-04-10,Mizuho,Buy,,main,CTXS
+2015-04-10,Barclays,Overweight,,main,CTXS
+2015-04-10,William Blair,Market Perform,Outperform,down,CTXS
+2015-04-23,Citigroup,Neutral,,main,CTXS
+2015-04-23,Evercore ISI Group,Hold,Buy,down,CTXS
+2015-05-01,SunTrust Robinson Humphrey,Buy,,init,CTXS
+2015-05-18,Goldman Sachs,Neutral,Buy,down,CTXS
+2015-06-09,Berenberg,Sell,Buy,down,CTXS
+2015-06-12,Deutsche Bank,Hold,,main,CTXS
+2015-06-12,Credit Suisse,Outperform,,main,CTXS
+2015-06-12,PiperJaffray,Neutral,Underweight,up,CTXS
+2015-06-12,Needham,Buy,Hold,up,CTXS
+2015-06-12,Bank of America,Buy,Neutral,up,CTXS
+2015-06-12,Barclays,Overweight,,main,CTXS
+2015-07-29,Barclays,Overweight,,main,CTXS
+2015-07-29,Baird,Outperform,Neutral,up,CTXS
+2015-07-29,MKM Partners,Buy,,main,CTXS
+2015-07-29,Morgan Stanley,Equal-Weight,,main,CTXS
+2015-07-29,FBR Capital,Outperform,,main,CTXS
+2015-09-10,BTIG Research,Neutral,,init,CTXS
+2015-10-22,Barclays,Outperform,,main,CTXS
+2015-11-18,Barclays,Overweight,,main,CTXS
+2015-11-18,Credit Suisse,Outperform,,main,CTXS
+2015-11-18,Mizuho,Neutral,Buy,down,CTXS
+2016-01-19,Morgan Stanley,Underweight,Equal-Weight,down,CTXS
+2016-01-28,Jefferies,Hold,,main,CTXS
+2016-01-28,JMP Securities,Market Perform,Market Underperform,up,CTXS
+2016-04-21,Cowen & Co.,Outperform,,main,CTXS
+2016-04-21,MKM Partners,Buy,,main,CTXS
+2016-04-21,Stifel Nicolaus,Buy,,main,CTXS
+2016-04-21,Baird,Outperform,,main,CTXS
+2016-04-21,Goldman Sachs,Neutral,,main,CTXS
+2016-04-21,RBC Capital,Sector Perform,,main,CTXS
+2016-04-21,UBS,Neutral,,main,CTXS
+2016-04-21,Bank of America,Buy,,main,CTXS
+2016-07-27,Citigroup,Buy,,main,CTXS
+2016-07-27,Barclays,Overweight,,main,CTXS
+2016-07-27,Stifel Nicolaus,Hold,Buy,down,CTXS
+2016-07-27,BTIG Research,Neutral,,main,CTXS
+2016-07-27,Stifel Nicolaus,Hold,Buy,down,CTXS
+2016-07-27,Morgan Stanley,Underweight,,main,CTXS
+2016-07-28,Morgan Stanley,Underweight,,main,CTXS
+2016-08-01,Jefferies,Underperform,Hold,down,CTXS
+2016-10-03,UBS,Sell,Buy,down,CTXS
+2016-10-20,Cowen & Co.,Outperform,,main,CTXS
+2016-10-20,Morgan Stanley,Underweight,,main,CTXS
+2016-12-05,Mizuho,Buy,Neutral,up,CTXS
+2017-01-11,Wells Fargo,Market Perform,,init,CTXS
+2017-03-15,Bank of America,Neutral,Buy,down,CTXS
+2017-04-04,Berenberg,Buy,,init,CTXS
+2017-04-27,Baird,Outperform,Neutral,up,CTXS
+2017-08-03,Barclays,Overweight,,main,CTXS
+2017-10-02,Wells Fargo,Outperform,Market Perform,up,CTXS
+2017-10-26,Stifel Nicolaus,Hold,,main,CTXS
+2017-10-27,Citigroup,Buy,,main,CTXS
+2017-11-03,Goldman Sachs,Buy,Neutral,up,CTXS
+2018-01-08,Barclays,Equal-Weight,Overweight,down,CTXS
+2018-01-11,Cowen & Co.,Market Perform,Outperform,down,CTXS
+2018-02-01,Morgan Stanley,Underweight,Underweight,main,CTXS
+2018-02-01,Bank of America,Neutral,Neutral,main,CTXS
+2018-02-01,Stifel Nicolaus,Hold,Hold,main,CTXS
+2018-04-18,Baird,Outperform,Outperform,main,CTXS
+2018-04-26,Stifel Nicolaus,Hold,Hold,main,CTXS
+2018-04-26,Berenberg,Hold,Buy,down,CTXS
+2018-04-26,Barclays,Equal-Weight,Equal-Weight,main,CTXS
+2018-04-26,Morgan Stanley,Underweight,Underweight,main,CTXS
+2018-06-11,Bank of America,Neutral,Neutral,main,CTXS
+2018-07-20,Baird,Neutral,Outperform,down,CTXS
+2018-07-26,Morgan Stanley,Underweight,Underweight,main,CTXS
+2018-07-26,Stifel Nicolaus,Hold,Hold,main,CTXS
+2018-09-07,Barclays,Equal-Weight,Equal-Weight,main,CTXS
+2018-10-19,Wedbush,Neutral,,init,CTXS
+2018-10-25,Baird,Neutral,Neutral,main,CTXS
+2018-10-25,Citigroup,Buy,Buy,main,CTXS
+2019-06-06,Deutsche Bank,Buy,Hold,up,CTXS
+2019-06-06,Deutsche Bank,Buy,Hold,up,CTXS
+2019-07-25,Morgan Stanley,Underweight,,main,CTXS
+2019-10-25,Barclays,Equal-Weight,,main,CTXS
+2019-10-29,Jefferies,Hold,Underperform,up,CTXS
+2020-01-23,Stifel Nicolaus,Hold,,main,CTXS
+2020-01-23,Deutsche Bank,Buy,,main,CTXS
+2020-01-23,Morgan Stanley,Underweight,,main,CTXS
+2020-01-23,Baird,Neutral,,main,CTXS
+2020-01-23,Wells Fargo,Overweight,,main,CTXS
+2020-01-23,Wedbush,Neutral,,main,CTXS
+2020-03-13,William Blair,Outperform,Market Perform,up,CTXS
+2020-03-17,Raymond James,Outperform,Market Perform,up,CTXS
+2020-03-25,Morgan Stanley,Overweight,Equal-Weight,up,CTXS
+2020-04-02,CFRA,Sell,Hold,down,CTXS
+2020-04-03,Raymond James,Outperform,,main,CTXS
+2020-04-06,Deutsche Bank,Buy,,main,CTXS
+2020-04-17,Citigroup,Buy,,main,CTXS
+2020-04-24,Baird,Neutral,,main,CTXS
+2020-04-24,Morgan Stanley,Overweight,,main,CTXS
+2020-04-24,RBC Capital,Sector Perform,,main,CTXS
+2020-05-07,CFRA,Strong Sell,Sell,down,CTXS
+2020-07-20,Barclays,Overweight,Equal-Weight,up,CTXS
+2020-07-24,Barclays,Overweight,,main,CTXS
+2020-10-14,UBS,Neutral,,init,CTXS
+2020-10-23,Raymond James,Outperform,,main,CTXS
+2020-10-23,Morgan Stanley,Equal-Weight,Overweight,down,CTXS
+2021-04-21,Jefferies,Buy,Hold,up,CTXS
+2021-04-30,Morgan Stanley,Equal-Weight,,main,CTXS
+2021-07-30,Morgan Stanley,Equal-Weight,,main,CTXS
+2021-07-30,RBC Capital,Sector Perform,,main,CTXS
+2021-07-30,Barclays,Underweight,Overweight,down,CTXS
+2021-10-07,Citigroup,Neutral,Buy,down,CTXS
+2021-10-12,William Blair,Market Perform,Outperform,down,CTXS
+2021-11-05,Barclays,Underweight,,main,CTXS
+2021-11-05,RBC Capital,Sector Perform,,main,CTXS
+2021-11-05,Morgan Stanley,Underweight,Equal-Weight,down,CTXS
+2021-12-16,Goldman Sachs,Sell,,init,CTXS

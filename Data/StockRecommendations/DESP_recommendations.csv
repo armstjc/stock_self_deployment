@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-10-16,Morgan Stanley,Equal-Weight,,init,DESP
+2017-10-16,KeyBanc,Overweight,,init,DESP
+2017-10-16,UBS,Neutral,,init,DESP
+2017-11-17,Morgan Stanley,Equal-Weight,,main,DESP
+2018-01-11,UBS,Buy,Neutral,up,DESP
+2018-03-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,DESP
+2018-03-09,Citigroup,Neutral,Neutral,main,DESP
+2018-06-26,KeyBanc,Overweight,Overweight,main,DESP
+2018-07-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,DESP
+2018-08-17,KeyBanc,Overweight,Overweight,main,DESP
+2018-08-17,Morgan Stanley,Equal-Weight,Equal-Weight,main,DESP
+2018-08-17,Citigroup,Neutral,Neutral,main,DESP
+2018-12-18,KeyBanc,Sector Weight,,init,DESP
+2019-10-15,Morgan Stanley,Equal-Weight,,main,DESP
+2020-03-06,Citigroup,Buy,,init,DESP
+2020-04-15,Morgan Stanley,Equal-Weight,,main,DESP
+2020-04-21,UBS,Neutral,Buy,down,DESP
+2020-05-05,UBS,Neutral,,main,DESP
+2020-10-15,Morgan Stanley,Equal-Weight,,main,DESP
+2020-11-30,Morgan Stanley,Equal-Weight,,main,DESP
+2021-01-11,Morgan Stanley,Equal-Weight,,main,DESP
+2021-01-13,Citigroup,Neutral,Buy,down,DESP
+2021-03-16,KeyBanc,Overweight,Sector Weight,up,DESP
+2021-05-24,Morgan Stanley,Equal-Weight,,main,DESP

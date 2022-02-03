@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-13,Benchmark,Buy,,init,HCSG
+2012-06-05,Stifel Nicolaus,Hold,,init,HCSG
+2012-07-11,Stifel Nicolaus,Buy,,main,HCSG
+2012-07-30,Stifel Nicolaus,Buy,,main,HCSG
+2012-10-01,UBS,Buy,,init,HCSG
+2012-10-02,Benchmark,Hold,Buy,down,HCSG
+2012-10-10,Stifel Nicolaus,Buy,,main,HCSG
+2013-01-09,Benchmark,Buy,Hold,up,HCSG
+2013-01-28,Stifel Nicolaus,Buy,,main,HCSG
+2013-02-06,Stifel Nicolaus,Buy,,main,HCSG
+2013-06-28,Wunderlich,Buy,,init,HCSG
+2013-09-27,Jefferies,Hold,,init,HCSG
+2013-10-09,Stifel Nicolaus,Buy,,main,HCSG
+2013-10-25,Wunderlich,Buy,,main,HCSG
+2013-10-28,Stifel Nicolaus,Buy,,main,HCSG
+2014-04-09,Stifel Nicolaus,Buy,,main,HCSG
+2015-02-04,Stifel Nicolaus,Buy,,main,HCSG
+2015-02-25,Stifel Nicolaus,Buy,,main,HCSG
+2015-03-25,Jefferies,Hold,,main,HCSG
+2015-07-28,Stifel Nicolaus,Buy,,main,HCSG
+2015-10-14,Stifel Nicolaus,Buy,,main,HCSG
+2016-09-16,Baird,Outperform,,init,HCSG
+2017-07-12,Stifel Nicolaus,Buy,,main,HCSG
+2017-07-12,Baird,Outperform,,main,HCSG
+2017-11-03,Credit Suisse,Outperform,,main,HCSG
+2018-02-07,Baird,Neutral,Outperform,down,HCSG
+2018-04-17,Baird,Neutral,Neutral,main,HCSG
+2018-04-18,Baird,Neutral,Neutral,main,HCSG
+2018-04-18,Credit Suisse,Outperform,Outperform,main,HCSG
+2018-04-18,Stifel Nicolaus,Hold,Buy,down,HCSG
+2018-06-06,William Blair,Outperform,Market Perform,up,HCSG
+2018-06-12,Benchmark,Buy,,init,HCSG
+2018-06-27,Jefferies,Buy,Hold,up,HCSG
+2018-07-18,Stifel Nicolaus,Sell,Hold,down,HCSG
+2019-05-01,Stifel Nicolaus,Sell,,main,HCSG
+2019-07-12,Jefferies,Hold,Buy,down,HCSG
+2019-07-24,Credit Suisse,Outperform,,main,HCSG
+2019-07-24,Sidoti & Co.,Buy,,main,HCSG
+2019-10-23,Benchmark,Buy,,reit,HCSG
+2019-11-22,RBC Capital,Sector Perform,,init,HCSG
+2020-04-20,Baird,Outperform,Neutral,up,HCSG
+2020-04-22,Credit Suisse,Outperform,,main,HCSG
+2020-04-22,RBC Capital,Sector Perform,,main,HCSG
+2020-07-06,Benchmark,Hold,Buy,down,HCSG
+2020-07-07,Northland Capital Markets,Market Perform,Outperform,down,HCSG
+2020-07-23,Baird,Neutral,Outperform,down,HCSG
+2020-10-22,Credit Suisse,Neutral,,main,HCSG
+2021-02-11,Credit Suisse,Neutral,,main,HCSG
+2021-07-22,RBC Capital,Sector Perform,,main,HCSG
+2021-10-20,William Blair,Market Perform,Outperform,down,HCSG
+2021-10-21,RBC Capital,Sector Perform,,main,HCSG
+2021-10-22,Credit Suisse,Neutral,,main,HCSG

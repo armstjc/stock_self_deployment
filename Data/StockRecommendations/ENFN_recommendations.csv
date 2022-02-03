@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-11-15,Piper Sandler,Overweight,,init,ENFN
+2021-11-15,Goldman Sachs,Neutral,,init,ENFN
+2021-11-15,Credit Suisse,Neutral,,init,ENFN
+2021-11-15,Morgan Stanley,Equal-Weight,,init,ENFN
+2021-11-15,B of A Securities,Buy,,init,ENFN
+2021-11-15,Stifel,Buy,,init,ENFN
+2021-11-16,William Blair,Outperform,,init,ENFN
+2021-12-03,Credit Suisse,Neutral,,main,ENFN
+2021-12-03,Morgan Stanley,Equal-Weight,,main,ENFN

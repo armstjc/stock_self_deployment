@@ -1,0 +1,367 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,UBS,Buy,,main,CRM
+2012-02-24,Bank oferica,Buy,,main,CRM
+2012-03-28,Canaccord Genuity,Buy,,main,CRM
+2012-05-03,Credit Suisse,Outperform,,up,CRM
+2012-05-18,PiperJaffray,Overweight,,main,CRM
+2012-05-18,UBS,Buy,,main,CRM
+2012-05-18,Morgan Stanley,Overweight,,main,CRM
+2012-05-29,Oppenheimer,Outperform,,up,CRM
+2012-05-29,Goldman Sachs,Buy,,main,CRM
+2012-07-13,UBS,Buy,,main,CRM
+2012-07-13,ThinkEquity,Buy,,init,CRM
+2012-08-24,Deutsche Bank,Buy,,main,CRM
+2012-08-27,Wunderlich,Buy,,main,CRM
+2012-09-20,BMO Capital,Outperform,,main,CRM
+2012-09-20,Jefferies,Buy,,main,CRM
+2012-09-21,Deutsche Bank,Buy,,main,CRM
+2012-10-11,Stifel Nicolaus,Buy,,main,CRM
+2012-10-19,Wedbush,Outperform,,init,CRM
+2012-10-31,Barrington Research,Outperform,,init,CRM
+2012-12-14,Longbow Research,Neutral,,init,CRM
+2013-01-07,Barclays,Overweight,,main,CRM
+2013-01-11,Nomura,Buy,,main,CRM
+2013-01-18,Jefferies,Buy,,main,CRM
+2013-01-29,Maxim Group,Buy,,init,CRM
+2013-01-29,Maxim Group,Buy,,init,CRM
+2013-01-30,Oppenheimer,Outperform,,main,CRM
+2013-02-05,UBS,Buy,,main,CRM
+2013-02-11,BMO Capital,Outperform,,main,CRM
+2013-03-01,Credit Suisse,Outperform,,main,CRM
+2013-03-01,Barrington Research,Outperform,,main,CRM
+2013-03-01,Stifel Nicolaus,Buy,,main,CRM
+2013-03-11,Jefferies,Buy,,main,CRM
+2013-03-20,FBN Securities,Outperform,,init,CRM
+2013-05-24,FBN Securities,Outperform,,main,CRM
+2013-05-24,Wedbush,Neutral,Outperform,down,CRM
+2013-06-10,Wunderlich,Buy,,main,CRM
+2013-08-16,Global Equities Research,Overweight,,up,CRM
+2013-08-20,First Analysis,Overweight,,init,CRM
+2013-08-30,Stifel Nicolaus,Buy,,main,CRM
+2013-08-30,Nomura,Buy,,main,CRM
+2013-10-17,Argus Capital,Buy,,init,CRM
+2013-10-21,Raymond James,Strong Buy,Outperform,up,CRM
+2013-10-22,Janney Capital,Neutral,,init,CRM
+2013-11-04,Atlantic Equities,Overweight,Neutral,up,CRM
+2013-11-07,Morgan Stanley,Overweight,,main,CRM
+2013-11-18,Deutsche Bank,Buy,,main,CRM
+2013-11-19,Jefferies,Buy,,main,CRM
+2013-11-19,JP Morgan,Neutral,,main,CRM
+2013-11-19,Stifel Nicolaus,Buy,,main,CRM
+2013-11-19,Nomura,Buy,,main,CRM
+2013-11-19,UBS,Buy,,main,CRM
+2013-12-06,Pivotal Research,Buy,,init,CRM
+2013-12-23,BMO Capital,Outperform,,init,CRM
+2014-01-23,Deutsche Bank,Hold,Buy,down,CRM
+2014-02-20,Bank of America,Buy,,main,CRM
+2014-02-26,Barrington Research,Outperform,,main,CRM
+2014-02-26,Stifel Nicolaus,Buy,,main,CRM
+2014-02-28,Bank of America,Buy,,main,CRM
+2014-02-28,Morgan Stanley,Overweight,,main,CRM
+2014-03-07,B. Riley FBR,Neutral,,init,CRM
+2014-05-05,Deutsche Bank,Buy,Hold,up,CRM
+2014-05-16,B. Riley FBR,Neutral,,main,CRM
+2014-05-21,Canaccord Genuity,Buy,,main,CRM
+2014-05-21,Barclays,Overweight,,main,CRM
+2014-05-21,Citigroup,Buy,,main,CRM
+2014-08-22,UBS,Buy,,main,CRM
+2014-08-22,Deutsche Bank,Buy,,main,CRM
+2014-09-04,Barclays,Overweight,,main,CRM
+2014-10-02,D.A. Davidson,Neutral,,init,CRM
+2014-10-03,Societe Generale,Buy,,init,CRM
+2014-10-03,Sterne Agee,Buy,,init,CRM
+2014-10-10,Northland Securities,Buy,,main,CRM
+2014-10-10,Nomura,Buy,,main,CRM
+2014-10-16,DA Davidson,Neutral,,main,CRM
+2014-11-17,DA Davidson,Neutral,,main,CRM
+2014-11-21,Jefferies,Underperform,,init,CRM
+2014-12-19,Jefferies,Underperform,,main,CRM
+2014-12-23,Drexel Hamilton,Hold,,init,CRM
+2015-01-05,Mizuho,Buy,,init,CRM
+2015-02-26,Jefferies,Underperform,,main,CRM
+2015-02-26,Citigroup,Buy,,main,CRM
+2015-02-26,Nomura,Buy,,main,CRM
+2015-02-26,Stifel Nicolaus,Buy,,main,CRM
+2015-02-26,JP Morgan,Overweight,,main,CRM
+2015-02-26,Deutsche Bank,Buy,,main,CRM
+2015-03-02,Argus,Hold,Buy,down,CRM
+2015-03-17,Brean Capital,Hold,,init,CRM
+2015-04-30,CLSA,Outperform,Buy,down,CRM
+2015-05-01,Stifel Nicolaus,Buy,,main,CRM
+2015-05-21,FBR Capital,Outperform,,main,CRM
+2015-05-21,Argus,Buy,Hold,up,CRM
+2015-05-21,Barclays,Overweight,,main,CRM
+2015-05-21,Deutsche Bank,Buy,,main,CRM
+2015-05-21,JMP Securities,Market Outperform,,main,CRM
+2015-05-21,Nomura,Buy,,main,CRM
+2015-05-21,Susquehanna,Positive,,main,CRM
+2015-05-21,JP Morgan,Overweight,,main,CRM
+2015-05-21,RBC Capital,Outperform,,main,CRM
+2015-06-09,Wunderlich,Buy,,init,CRM
+2015-06-17,Exane BNP Paribas,Neutral,,init,CRM
+2015-06-18,Baird,Outperform,,main,CRM
+2015-07-07,Brean Capital,Buy,Hold,up,CRM
+2015-07-08,Northland Securities,Outperform,,init,CRM
+2015-08-21,JMP Securities,Market Outperform,,main,CRM
+2015-08-21,Barclays,Overweight,,main,CRM
+2015-08-21,Jefferies,Underperform,,main,CRM
+2015-08-21,Pivotal Research,Buy,Hold,up,CRM
+2015-08-21,UBS,Buy,,main,CRM
+2015-08-21,Brean Capital,Buy,,main,CRM
+2015-08-27,Exane BNP Paribas,Outperform,Neutral,up,CRM
+2015-08-28,Exane BNP Paribas,Outperform,Neutral,up,CRM
+2015-09-10,BTIG Research,Buy,,init,CRM
+2015-11-09,Lake Street,Buy,,init,CRM
+2015-11-10,Barclays,Overweight,,main,CRM
+2015-11-16,RBC Capital,Outperform,,main,CRM
+2015-11-19,Barclays,Overweight,,main,CRM
+2015-11-19,Bernstein,Underperform,,main,CRM
+2015-11-19,Pacific Crest,Overweight,,main,CRM
+2015-11-19,Morgan Stanley,Overweight,,main,CRM
+2015-12-18,Wedbush,Outperform,Neutral,up,CRM
+2016-01-12,Brean Capital,Buy,,init,CRM
+2016-02-03,DA Davidson,Neutral,,main,CRM
+2016-02-09,Jefferies,Hold,,up,CRM
+2016-02-10,CLSA,Buy,Outperform,up,CRM
+2016-02-10,Barclays,Overweight,,main,CRM
+2016-02-17,Credit Suisse,Outperform,,main,CRM
+2016-02-25,Jefferies,Hold,,main,CRM
+2016-02-25,Barclays,Overweight,,main,CRM
+2016-03-04,Macquarie,Outperform,,init,CRM
+2016-04-26,Macquarie,Outperform,,init,CRM
+2016-05-12,Barclays,Overweight,,main,CRM
+2016-05-19,Stifel Nicolaus,Buy,,main,CRM
+2016-05-19,Canaccord Genuity,Buy,,main,CRM
+2016-05-19,Wunderlich,Buy,,main,CRM
+2016-05-19,Brean Capital,Buy,,main,CRM
+2016-05-19,Credit Suisse,Outperform,,main,CRM
+2016-05-19,Morgan Stanley,Overweight,,main,CRM
+2016-05-19,JP Morgan,Overweight,,main,CRM
+2016-05-19,Citigroup,Buy,,main,CRM
+2016-05-19,Barclays,Overweight,,main,CRM
+2016-05-19,Goldman Sachs,Buy,,main,CRM
+2016-05-19,Deutsche Bank,Buy,,main,CRM
+2016-05-19,Oppenheimer,Outperform,,main,CRM
+2016-05-19,Jefferies,Hold,,main,CRM
+2016-05-19,JMP Securities,Market Outperform,,main,CRM
+2016-05-19,SunTrust Robinson Humphrey,Buy,,main,CRM
+2016-05-19,UBS,Buy,,main,CRM
+2016-05-19,Macquarie,Outperform,,main,CRM
+2016-05-19,Raymond James,Strong Buy,,main,CRM
+2016-05-19,MKM Partners,Buy,,main,CRM
+2016-05-19,Wedbush,Outperform,,main,CRM
+2016-05-19,Mizuho,Buy,,main,CRM
+2016-05-19,FBN Securities,Outperform,,main,CRM
+2016-05-19,PiperJaffray,Overweight,,main,CRM
+2016-06-02,SunTrust Robinson Humphrey,Buy,,main,CRM
+2016-06-14,BMO Capital,Outperform,,init,CRM
+2016-06-24,Cowen & Co.,Outperform,,init,CRM
+2016-07-20,Citigroup,Buy,,main,CRM
+2016-07-25,Morgan Stanley,Overweight,,main,CRM
+2016-08-15,OTR Global,Mixed,Positive,down,CRM
+2016-09-01,Morgan Stanley,Overweight,,main,CRM
+2016-09-01,Citigroup,Buy,,main,CRM
+2016-09-01,Wunderlich,Buy,,main,CRM
+2016-09-01,Barclays,Overweight,,main,CRM
+2016-10-04,DA Davidson,Neutral,,main,CRM
+2016-10-18,Rosenblatt,Buy,,init,CRM
+2016-11-15,OTR Global,Positive,Mixed,up,CRM
+2016-12-19,Drexel Hamilton,Buy,,init,CRM
+2017-01-12,Pivotal Research,Hold,Buy,down,CRM
+2017-02-16,Needham,Hold,,init,CRM
+2017-04-27,Benchmark,Outperform,,init,CRM
+2017-04-27,Credit Suisse,Outperform,,init,CRM
+2017-06-26,SunTrust Robinson Humphrey,Buy,,init,CRM
+2017-08-23,Barclays,Overweight,,main,CRM
+2017-08-23,Canaccord Genuity,Buy,,main,CRM
+2017-08-23,Jefferies,Hold,,main,CRM
+2017-08-23,Credit Suisse,Outperform,,main,CRM
+2017-08-23,Citigroup,Buy,,main,CRM
+2017-08-23,Deutsche Bank,Buy,,main,CRM
+2017-09-06,Moffett Nathanson,Buy,,init,CRM
+2017-10-31,Guggenheim,Buy,,init,CRM
+2017-11-02,Barclays,Overweight,,main,CRM
+2017-11-03,BMO Capital,Outperform,,main,CRM
+2017-11-08,Bank of America,Buy,,main,CRM
+2017-11-08,Stifel Nicolaus,Buy,,main,CRM
+2017-11-08,Deutsche Bank,Buy,,main,CRM
+2017-11-09,UBS,Buy,,init,CRM
+2017-11-16,Morgan Stanley,Overweight,,main,CRM
+2017-11-17,Credit Suisse,Outperform,,main,CRM
+2017-11-22,Roth Capital,Neutral,Buy,down,CRM
+2018-02-15,Jefferies,Buy,Hold,up,CRM
+2018-02-20,Credit Suisse,Outperform,Outperform,main,CRM
+2018-02-20,Deutsche Bank,Buy,Buy,main,CRM
+2018-02-21,Citigroup,Buy,Buy,main,CRM
+2018-03-01,KeyBanc,Overweight,Overweight,main,CRM
+2018-03-01,Citigroup,Buy,Buy,main,CRM
+2018-03-01,Credit Suisse,Outperform,Outperform,main,CRM
+2018-03-01,Stifel Nicolaus,Buy,Buy,main,CRM
+2018-03-01,Canaccord Genuity,Buy,Buy,main,CRM
+2018-03-01,Cowen & Co.,Outperform,Outperform,main,CRM
+2018-03-01,Deutsche Bank,Buy,Buy,main,CRM
+2018-03-01,JMP Securities,Market Outperform,Market Outperform,main,CRM
+2018-03-01,BMO Capital,Outperform,Outperform,main,CRM
+2018-03-01,Barclays,Overweight,Overweight,main,CRM
+2018-03-02,Morgan Stanley,Overweight,Overweight,main,CRM
+2018-03-21,Barclays,Overweight,Overweight,main,CRM
+2018-04-11,Monness Crespi Hardt,Buy,,init,CRM
+2018-05-03,Bernstein,Market Perform,Underperform,up,CRM
+2018-05-04,Credit Suisse,Outperform,Outperform,main,CRM
+2018-05-08,JMP Securities,Market Outperform,Market Outperform,main,CRM
+2018-05-30,Canaccord Genuity,Buy,Buy,main,CRM
+2018-05-30,Deutsche Bank,Buy,Buy,main,CRM
+2018-05-30,Baird,Outperform,Outperform,main,CRM
+2018-05-30,Stifel Nicolaus,Buy,Buy,main,CRM
+2018-05-30,Barclays,Overweight,Overweight,main,CRM
+2018-05-30,Credit Suisse,Outperform,Outperform,main,CRM
+2018-05-30,Wedbush,Outperform,Outperform,main,CRM
+2018-05-30,Morgan Stanley,Overweight,Overweight,main,CRM
+2018-05-30,SunTrust Robinson Humphrey,Buy,Buy,main,CRM
+2018-07-11,Baird,Outperform,Outperform,main,CRM
+2018-07-17,Stifel Nicolaus,Buy,Buy,main,CRM
+2018-07-24,Stifel Nicolaus,Buy,Buy,main,CRM
+2018-08-14,Morgan Stanley,Overweight,Overweight,main,CRM
+2018-08-15,Credit Suisse,Outperform,Outperform,main,CRM
+2018-08-15,Barclays,Overweight,Overweight,main,CRM
+2018-08-21,BMO Capital,Outperform,Outperform,main,CRM
+2018-08-30,Canaccord Genuity,Buy,Buy,main,CRM
+2018-08-30,KeyBanc,Overweight,Overweight,main,CRM
+2018-08-30,Raymond James,Strong Buy,Strong Buy,main,CRM
+2018-08-30,UBS,Buy,Buy,main,CRM
+2018-08-30,JMP Securities,Market Outperform,Market Outperform,main,CRM
+2018-08-30,Macquarie,Outperform,Outperform,main,CRM
+2018-08-31,Argus,Buy,Buy,main,CRM
+2018-09-07,Barclays,Overweight,Overweight,main,CRM
+2018-09-27,Oppenheimer,Outperform,Outperform,main,CRM
+2018-09-27,Credit Suisse,Outperform,Outperform,main,CRM
+2018-09-27,Jefferies,Buy,Buy,main,CRM
+2018-09-28,Baird,Outperform,Outperform,main,CRM
+2018-09-28,Deutsche Bank,Buy,Buy,main,CRM
+2018-10-30,Nomura,Buy,,init,CRM
+2018-11-21,PiperJaffray,Overweight,Overweight,main,CRM
+2019-01-07,Pivotal Research,Buy,Hold,up,CRM
+2019-01-09,Atlantic Equities,Overweight,,init,CRM
+2019-01-17,Stephens & Co.,Overweight,,init,CRM
+2019-03-05,Raymond James,Strong Buy,Strong Buy,main,CRM
+2019-03-05,Baird,Outperform,Outperform,main,CRM
+2019-03-05,Wedbush,Outperform,Outperform,main,CRM
+2019-03-05,Macquarie,Outperform,Outperform,main,CRM
+2019-03-06,Citigroup,Buy,Buy,main,CRM
+2019-03-14,Mizuho,Buy,,init,CRM
+2019-03-29,Exane BNP Paribas,Outperform,,init,CRM
+2019-06-05,Nomura,Buy,,main,CRM
+2019-08-13,Compass Point,Buy,,init,CRM
+2019-08-20,Wedbush,Outperform,,reit,CRM
+2019-08-23,SunTrust Robinson Humphrey,Buy,,main,CRM
+2019-08-23,Barclays,Overweight,,main,CRM
+2019-08-23,BMO Capital,Outperform,,main,CRM
+2019-08-23,Stifel Nicolaus,Buy,,main,CRM
+2019-08-23,Jefferies,Buy,,main,CRM
+2019-08-23,JMP Securities,Market Outperform,,main,CRM
+2019-08-23,Macquarie,Outperform,,main,CRM
+2019-08-23,Morgan Stanley,Overweight,,main,CRM
+2019-08-23,Canaccord Genuity,Buy,,main,CRM
+2019-08-23,RBC Capital,Outperform,,main,CRM
+2019-08-23,Nomura,Buy,,main,CRM
+2019-11-21,Cowen & Co.,Outperform,,main,CRM
+2019-12-04,Morgan Stanley,Overweight,,main,CRM
+2019-12-04,Credit Suisse,Outperform,,main,CRM
+2020-01-06,RBC Capital,Top Pick,Outperform,up,CRM
+2020-01-13,Morgan Stanley,Overweight,,main,CRM
+2020-01-13,Credit Suisse,Outperform,,main,CRM
+2020-01-16,Wells Fargo,Overweight,,main,CRM
+2020-02-11,Morgan Stanley,Overweight,,main,CRM
+2020-02-12,Morgan Stanley,Overweight,,main,CRM
+2020-02-18,Cowen & Co.,Outperform,,main,CRM
+2020-02-19,Wedbush,Outperform,,main,CRM
+2020-02-21,UBS,Buy,,main,CRM
+2020-02-26,Raymond James,Strong Buy,,main,CRM
+2020-02-26,Deutsche Bank,Buy,,main,CRM
+2020-02-26,BMO Capital,Outperform,,main,CRM
+2020-02-26,B of A Securities,Buy,,main,CRM
+2020-02-26,Stifel,Buy,,main,CRM
+2020-02-26,Canaccord Genuity,Buy,,main,CRM
+2020-02-26,Baird,Outperform,,main,CRM
+2020-02-28,CFRA,Strong Buy,Buy,up,CRM
+2020-03-17,Oppenheimer,Outperform,,main,CRM
+2020-03-25,Morgan Stanley,Overweight,,main,CRM
+2020-03-31,Piper Sandler,Overweight,,main,CRM
+2020-05-05,Rosenblatt,Sell,,init,CRM
+2020-05-11,JMP Securities,Market Outperform,,main,CRM
+2020-05-18,Oppenheimer,Outperform,,main,CRM
+2020-05-18,Cowen & Co.,Outperform,,main,CRM
+2020-05-18,RBC Capital,Outperform,,main,CRM
+2020-06-01,CFRA,Strong Buy,,main,CRM
+2020-06-22,Jefferies,Buy,,main,CRM
+2020-06-24,Goldman Sachs,Buy,,main,CRM
+2020-07-14,Piper Sandler,Overweight,,main,CRM
+2020-08-21,Loop Capital,Sell,,init,CRM
+2020-08-24,Deutsche Bank,Buy,,main,CRM
+2020-08-26,Wedbush,Outperform,,main,CRM
+2020-08-26,Piper Sandler,Overweight,,main,CRM
+2020-08-26,Citigroup,Buy,,main,CRM
+2020-08-26,Raymond James,Strong Buy,,main,CRM
+2020-08-26,B of A Securities,Buy,,main,CRM
+2020-08-26,Morgan Stanley,Overweight,,main,CRM
+2020-08-26,Mizuho,Buy,,main,CRM
+2020-08-26,Stifel,Buy,,main,CRM
+2020-08-26,Credit Suisse,Outperform,,main,CRM
+2020-08-26,Canaccord Genuity,Buy,,main,CRM
+2020-10-14,UBS,Buy,,init,CRM
+2020-10-23,Barclays,Overweight,,main,CRM
+2020-11-12,Morgan Stanley,Equal-Weight,Overweight,down,CRM
+2020-11-17,SMBC Nikko,Outperform,,init,CRM
+2020-11-24,KeyBanc,Overweight,,init,CRM
+2020-12-02,Citigroup,Neutral,Buy,down,CRM
+2020-12-02,Raymond James,Strong Buy,,main,CRM
+2020-12-02,Piper Sandler,Overweight,,main,CRM
+2020-12-03,Morgan Stanley,Equal-Weight,,main,CRM
+2021-01-11,Piper Sandler,Neutral,Overweight,down,CRM
+2021-01-15,Credit Suisse,Outperform,,main,CRM
+2021-01-22,Goldman Sachs,Buy,,init,CRM
+2021-01-25,Loop Capital,Hold,Sell,up,CRM
+2021-02-17,Mizuho,Buy,,main,CRM
+2021-02-26,Piper Sandler,Neutral,,main,CRM
+2021-04-23,Wolfe Research,Outperform,,init,CRM
+2021-05-18,Jefferies,Buy,,main,CRM
+2021-05-19,Morgan Stanley,Overweight,Equal-Weight,up,CRM
+2021-05-28,Mizuho,Buy,,main,CRM
+2021-05-28,Barclays,Overweight,,main,CRM
+2021-05-28,Loop Capital,Hold,,main,CRM
+2021-05-28,Morgan Stanley,Overweight,,main,CRM
+2021-06-02,KGI Securities,Neutral,,init,CRM
+2021-06-28,Redburn Partners,Buy,,init,CRM
+2021-06-30,Evercore ISI Group,Outperform,,main,CRM
+2021-08-18,Wolfe Research,Outperform,,main,CRM
+2021-08-18,JMP Securities,Market Outperform,,main,CRM
+2021-08-23,Barclays,Overweight,,main,CRM
+2021-08-26,Piper Sandler,Neutral,,main,CRM
+2021-08-26,Oppenheimer,Outperform,,main,CRM
+2021-08-26,Credit Suisse,Outperform,,main,CRM
+2021-08-26,Roth Capital,Neutral,,main,CRM
+2021-08-26,Barclays,Overweight,,main,CRM
+2021-08-26,Morgan Stanley,Overweight,,main,CRM
+2021-08-26,Raymond James,Strong Buy,,main,CRM
+2021-08-26,Cowen & Co.,Outperform,,main,CRM
+2021-08-26,Stifel,Buy,,main,CRM
+2021-08-26,Wolfe Research,Outperform,,main,CRM
+2021-08-26,BMO Capital,Outperform,,main,CRM
+2021-08-27,Loop Capital,Hold,,main,CRM
+2021-09-17,Barclays,Overweight,,main,CRM
+2021-09-20,Wells Fargo,Overweight,,init,CRM
+2021-09-24,Piper Sandler,Overweight,Neutral,up,CRM
+2021-09-24,Oppenheimer,Outperform,,main,CRM
+2021-09-24,JMP Securities,Market Outperform,,main,CRM
+2021-09-24,Morgan Stanley,Overweight,,main,CRM
+2021-09-24,Stifel,Buy,,main,CRM
+2021-09-24,Loop Capital,Hold,,main,CRM
+2021-09-24,RBC Capital,Outperform,,main,CRM
+2021-09-24,Mizuho,Buy,,main,CRM
+2021-11-01,Morgan Stanley,Overweight,,main,CRM
+2021-11-02,Deutsche Bank,Buy,,init,CRM
+2021-11-23,Citigroup,Neutral,,main,CRM
+2021-12-01,Mizuho,Buy,,main,CRM
+2021-12-01,UBS,Buy,,main,CRM
+2021-12-01,Truist Securities,Buy,,main,CRM
+2022-01-05,UBS,Neutral,Buy,down,CRM

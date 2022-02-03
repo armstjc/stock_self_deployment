@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-02,Deutsche Bank,Hold,,down,GEF
+2012-03-02,Barrington Research,Outperform,,up,GEF
+2012-03-05,JP Morgan,Overweight,,up,GEF
+2012-04-11,KeyBanc,Hold,,init,GEF
+2012-06-25,JP Morgan,Neutral,Overweight,down,GEF
+2012-07-17,Bank of America,Neutral,,init,GEF
+2012-08-15,JP Morgan,Neutral,,main,GEF
+2012-08-30,JP Morgan,Neutral,,main,GEF
+2012-08-30,Bank of America,Neutral,,main,GEF
+2012-08-30,Barrington Research,Outperform,,main,GEF
+2012-11-20,Wells Fargo,Market Perform,Outperform,down,GEF
+2012-11-29,Bank of America,Underperform,,main,GEF
+2012-11-29,JP Morgan,Neutral,,main,GEF
+2013-03-01,DA Davidson,Buy,,main,GEF
+2013-03-04,Bank of America,Underperform,,main,GEF
+2013-06-18,Longbow Research,Neutral,,init,GEF
+2013-08-16,Bank of America,Underperform,,main,GEF
+2014-06-13,Bank of America,Buy,Underperform,up,GEF
+2014-09-04,BMO Capital,Market Perform,,init,GEF
+2014-10-08,Wells Fargo,Outperform,,up,GEF
+2015-01-15,Bank of America,Neutral,Buy,down,GEF
+2015-01-16,BMO Capital,Underperform,Market Perform,down,GEF
+2015-05-27,DA Davidson,Neutral,Buy,down,GEF
+2015-05-29,Bank of America,Underperform,Neutral,down,GEF
+2015-06-08,BMO Capital,Market Perform,Underperform,up,GEF
+2015-06-10,Bank of America,Underperform,,main,GEF
+2015-08-18,DA Davidson,Buy,Neutral,up,GEF
+2015-09-02,BMO Capital,Outperform,Market Perform,up,GEF
+2016-03-09,Baird,Neutral,,main,GEF
+2016-05-25,BMO Capital,Market Perform,Outperform,down,GEF
+2016-06-09,BMO Capital,Market Perform,Outperform,down,GEF
+2016-09-02,DA Davidson,Neutral,Buy,down,GEF
+2016-09-06,Bank of America,Buy,Neutral,up,GEF
+2016-11-21,DA Davidson,Underperform,Neutral,down,GEF
+2016-11-21,Wells Fargo,Market Perform,Outperform,down,GEF
+2016-11-22,Bank of America,Neutral,Buy,down,GEF
+2016-11-29,KeyBanc,Underweight,Hold,down,GEF
+2016-12-22,BMO Capital,Underperform,Market Perform,down,GEF
+2017-01-04,Baird,Outperform,Neutral,up,GEF
+2017-01-27,Bank of America,Buy,Neutral,up,GEF
+2017-03-03,DA Davidson,Neutral,Underperform,up,GEF
+2017-03-06,Wells Fargo,Outperform,Market Perform,up,GEF
+2017-03-09,BMO Capital,Market Perform,Underperform,up,GEF
+2017-09-01,Bank of America,Neutral,Buy,down,GEF
+2017-12-07,DA Davidson,Buy,Neutral,up,GEF
+2018-01-02,Bank of America,Buy,Neutral,up,GEF
+2018-03-13,Bank of America,Buy,Buy,main,GEF
+2018-04-02,Bank of America,Neutral,Buy,down,GEF
+2018-04-02,BMO Capital,Outperform,Market Perform,up,GEF
+2018-05-22,Bank of America,Neutral,Neutral,main,GEF
+2018-07-16,Bank of America,Underperform,Neutral,down,GEF
+2018-12-07,Wells Fargo,Outperform,Outperform,main,GEF
+2018-12-21,Baird,Outperform,Outperform,main,GEF
+2018-12-21,KeyBanc,Underweight,Underweight,main,GEF
+2018-12-21,Wells Fargo,Market Perform,Outperform,down,GEF
+2018-12-21,BMO Capital,Underperform,Outperform,down,GEF
+2019-12-06,Baird,Neutral,,main,GEF
+2019-12-06,Wells Fargo,Market Perform,,main,GEF
+2019-12-12,BMO Capital,Underperform,,main,GEF
+2020-01-14,Wells Fargo,Overweight,Equal-Weight,up,GEF
+2020-02-28,Baird,Neutral,,main,GEF
+2020-04-09,KeyBanc,Underweight,,main,GEF
+2020-04-09,Wells Fargo,Overweight,,main,GEF
+2020-05-08,KeyBanc,Underweight,,main,GEF
+2020-09-21,B of A Securities,Buy,Underperform,up,GEF
+2020-09-23,BMO Capital,Market Perform,Underperform,up,GEF
+2020-10-12,BMO Capital,Outperform,Market Perform,up,GEF
+2021-04-05,Keybanc,Underweight,,main,GEF
+2021-08-16,Keybanc,Underweight,,main,GEF
+2021-09-03,Keybanc,Underweight,,main,GEF
+2021-10-14,B of A Securities,Neutral,Buy,down,GEF
+2021-11-12,BMO Capital,Market Perform,Outperform,down,GEF
+2021-11-29,Wells Fargo,Equal-Weight,Overweight,down,GEF
+2021-12-10,Keybanc,Underweight,,main,GEF
+2021-12-15,B of A Securities,Underperform,Neutral,down,GEF

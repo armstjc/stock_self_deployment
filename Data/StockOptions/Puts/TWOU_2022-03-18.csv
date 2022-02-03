@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TWOU220318P00012500,2022-02-02 20:48:36+00:00,12.5,0.5,0.0,0.0,0.0,0.0,4,0,0.2500075,False,REGULAR,USD,TWOU
+TWOU220318P00015000,2022-02-02 14:30:00+00:00,15.0,0.8,0.0,0.0,0.0,0.0,3,0,0.062509375,False,REGULAR,USD,TWOU

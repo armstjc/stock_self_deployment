@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-04,PiperJaffray,Overweight,Neutral,up,BGFV
+2012-09-06,Credit Suisse,Underperform,Neutral,down,BGFV
+2012-11-02,Needham,Strong Buy,Buy,up,BGFV
+2012-11-02,Feltl & Co.,Buy,Hold,up,BGFV
+2012-11-06,Deutsche Bank,Hold,,main,BGFV
+2013-02-27,Deutsche Bank,Hold,,main,BGFV
+2013-02-27,PiperJaffray,Overweight,,main,BGFV
+2013-09-17,PiperJaffray,Neutral,Overweight,down,BGFV
+2013-10-30,Deutsche Bank,Hold,,main,BGFV
+2014-05-12,Credit Suisse,Underperform,,main,BGFV
+2014-07-30,Feltl & Co.,Hold,Buy,down,BGFV
+2014-07-30,Credit Suisse,Underperform,,main,BGFV
+2014-07-30,Deutsche Bank,Hold,,main,BGFV
+2014-10-29,Deutsche Bank,Hold,,main,BGFV
+2015-01-08,Deutsche Bank,Hold,,main,BGFV
+2015-02-26,Deutsche Bank,Hold,,main,BGFV
+2015-03-13,Barrington Research,Market Perform,,init,BGFV
+2015-04-29,Deutsche Bank,Hold,,main,BGFV
+2015-07-16,Imperial Capital,Outperform,,init,BGFV
+2015-07-29,Deutsche Bank,Hold,,main,BGFV
+2016-01-15,SunTrust Robinson Humphrey,Neutral,,main,BGFV
+2016-02-08,Stifel Nicolaus,Buy,Hold,up,BGFV
+2016-08-03,Deutsche Bank,Hold,,main,BGFV
+2016-10-06,Deutsche Bank,Buy,Hold,up,BGFV
+2017-08-02,Deutsche Bank,Hold,Buy,down,BGFV
+2018-08-01,Deutsche Bank,Hold,Hold,main,BGFV

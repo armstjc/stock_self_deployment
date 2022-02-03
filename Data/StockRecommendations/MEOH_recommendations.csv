@@ -1,0 +1,113 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-05,Scotiabank,Sector Outperform,,main,MEOH
+2012-06-26,Raymond James,Market Perform,Outperform,down,MEOH
+2012-07-27,BMO Capital,Market Perform,,main,MEOH
+2012-09-11,Jefferies,Hold,,init,MEOH
+2012-09-20,Raymond James,Market Perform,,main,MEOH
+2012-10-02,Raymond James,Outperform,Market Perform,up,MEOH
+2012-10-26,UBS,Buy,,main,MEOH
+2013-01-11,Raymond James,Market Perform,Outperform,down,MEOH
+2013-01-14,CIBC,Sector Underperform,Sector Perform,down,MEOH
+2013-01-24,Raymond James,Outperform,Market Perform,up,MEOH
+2013-02-01,TD Securities,Hold,Buy,down,MEOH
+2013-02-01,BMO Capital,Market Perform,,main,MEOH
+2013-02-04,Craig-Hallum,Buy,,init,MEOH
+2013-02-19,Jefferies,Hold,,main,MEOH
+2013-03-07,UBS,Neutral,Buy,down,MEOH
+2013-03-18,Jefferies,Buy,Hold,up,MEOH
+2013-06-10,Monness Crespi Hardt,Buy,,init,MEOH
+2013-06-10,Monness Crespi Hardt,Buy,,init,MEOH
+2013-07-16,BMO Capital,Outperform,,main,MEOH
+2013-07-26,UBS,Buy,Neutral,up,MEOH
+2013-09-27,Monness Crespi Hardt,Buy,,main,MEOH
+2013-10-08,Jefferies,Buy,,main,MEOH
+2013-11-15,Monness Crespi Hardt,Buy,,main,MEOH
+2013-11-21,BMO Capital,Outperform,,main,MEOH
+2013-11-26,Raymond James,Market Perform,Outperform,down,MEOH
+2013-12-02,BMO Capital,Market Perform,Outperform,down,MEOH
+2013-12-20,Raymond James,Outperform,Market Perform,up,MEOH
+2014-01-31,Monness Crespi Hardt,Buy,,main,MEOH
+2014-01-31,UBS,Buy,,main,MEOH
+2014-04-10,TD Securities,Hold,,init,MEOH
+2014-04-30,Raymond James,Market Perform,Outperform,down,MEOH
+2014-05-22,TD Securities,Buy,Hold,up,MEOH
+2014-07-07,Jefferies,Buy,,main,MEOH
+2014-07-14,Raymond James,Strong Buy,Market Perform,up,MEOH
+2014-10-06,Citigroup,Buy,,main,MEOH
+2014-10-14,Jefferies,Buy,,main,MEOH
+2014-10-31,Citigroup,Buy,,main,MEOH
+2014-12-08,UBS,Buy,,main,MEOH
+2014-12-16,TD Securities,Buy,Hold,up,MEOH
+2014-12-31,Monness Crespi Hardt,Buy,,main,MEOH
+2015-01-05,Jefferies,Buy,,main,MEOH
+2015-01-30,Jefferies,Buy,,main,MEOH
+2015-03-04,Citigroup,Buy,,main,MEOH
+2015-03-05,Raymond James,Strong Buy,Outperform,up,MEOH
+2015-04-16,ScotiaBank,Sector Perform,,down,MEOH
+2015-05-13,Jefferies,Buy,,main,MEOH
+2015-07-27,Scotia Howard Weil,Outperform,Sector Perform,up,MEOH
+2015-08-03,Citigroup,Buy,,main,MEOH
+2015-08-05,Jefferies,Buy,,main,MEOH
+2015-08-19,Raymond James,Outperform,Strong Buy,down,MEOH
+2015-10-27,Raymond James,Outperform,,main,MEOH
+2015-12-14,Raymond James,Market Perform,Outperform,down,MEOH
+2016-01-19,Monness Crespi Hardt,Neutral,Buy,down,MEOH
+2016-01-27,Jefferies,Buy,,main,MEOH
+2016-03-02,Raymond James,Outperform,Market Perform,up,MEOH
+2016-03-14,Citigroup,Hold,Buy,down,MEOH
+2016-03-24,TD Securities,Hold,Buy,down,MEOH
+2016-05-17,Raymond James,Strong Buy,Outperform,up,MEOH
+2016-07-05,CIBC,Outperform,Sector Perform,up,MEOH
+2016-07-15,Citigroup,Neutral,,main,MEOH
+2016-07-29,TD Securities,Buy,Hold,up,MEOH
+2016-08-01,Citigroup,Neutral,,main,MEOH
+2016-10-03,Raymond James,Outperform,Strong Buy,down,MEOH
+2016-10-04,Citigroup,Neutral,,main,MEOH
+2016-10-24,CIBC,Sector Performer,Outperformer,down,MEOH
+2016-10-28,TD Securities,Hold,Buy,down,MEOH
+2016-10-31,UBS,Sell,Neutral,down,MEOH
+2017-01-03,Raymond James,Market Perform,Outperform,down,MEOH
+2017-02-24,Raymond James,Outperform,Market Perform,up,MEOH
+2017-03-29,CIBC,Outperform,Neutral,up,MEOH
+2017-04-28,TD Securities,Buy,Hold,up,MEOH
+2017-05-10,Bernstein,Underperform,,init,MEOH
+2017-10-13,UBS,Sell,,main,MEOH
+2017-10-31,Raymond James,Market Perform,Outperform,down,MEOH
+2018-01-08,TD Securities,Hold,Buy,down,MEOH
+2018-06-08,Jefferies,Buy,Buy,main,MEOH
+2018-07-11,Citigroup,Neutral,Neutral,main,MEOH
+2018-09-13,Raymond James,Outperform,Market Perform,up,MEOH
+2018-10-08,Barclays,Equal-Weight,,init,MEOH
+2018-10-11,Citigroup,Neutral,Neutral,main,MEOH
+2018-10-26,TD Securities,Buy,Hold,up,MEOH
+2018-10-29,Citigroup,Neutral,Neutral,main,MEOH
+2018-12-07,Jefferies,Hold,Buy,down,MEOH
+2019-02-01,Tudor Pickering,Hold,Buy,down,MEOH
+2019-04-25,UBS,Sell,Sell,main,MEOH
+2019-07-11,CIBC,Neutral,Outperformer,down,MEOH
+2019-08-06,Citigroup,Neutral,,main,MEOH
+2019-08-29,UBS,Sell,,main,MEOH
+2019-09-09,Barclays,Equal-Weight,,main,MEOH
+2019-11-01,TD Securities,Buy,,main,MEOH
+2019-11-19,TD Securities,Hold,Buy,down,MEOH
+2020-03-11,Citigroup,Neutral,,main,MEOH
+2020-03-13,UBS,Sell,,main,MEOH
+2020-03-19,ScotiaBank,Sector Perform,,init,MEOH
+2020-04-09,Citigroup,Neutral,,main,MEOH
+2020-05-01,Jefferies,Buy,Hold,up,MEOH
+2020-05-07,BMO Capital,Outperform,,main,MEOH
+2020-05-07,Barclays,Equal-Weight,,main,MEOH
+2020-06-04,ScotiaBank,Sector Outperform,Sector Perform,up,MEOH
+2020-06-30,TD Securities,Hold,,main,MEOH
+2020-10-06,UBS,Sell,,main,MEOH
+2020-10-15,ScotiaBank,Sector Outperform,,main,MEOH
+2020-11-30,Bernstein,Underperform,Market Perform,down,MEOH
+2021-01-04,RBC Capital,Sector Perform,Outperform,down,MEOH
+2021-01-06,ScotiaBank,Sector Perform,Sector Outperform,down,MEOH
+2021-06-01,RBC Capital,Outperform,Sector Perform,up,MEOH
+2021-09-07,Barclays,Overweight,Equal-Weight,up,MEOH
+2021-09-14,Piper Sandler,Neutral,,init,MEOH
+2021-09-20,Scotiabank,Sector Outperform,Sector Perform,up,MEOH
+2021-09-30,RBC Capital,Outperform,,main,MEOH
+2021-12-29,Raymond James,Market Perform,Outperform,down,MEOH
+2022-01-04,UBS,Sell,,main,MEOH

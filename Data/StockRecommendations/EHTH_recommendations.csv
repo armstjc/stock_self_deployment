@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-02,Bank oferica,Neutral,,down,EHTH
+2012-06-29,Bank of America,Buy,,up,EHTH
+2012-07-27,Deutsche Bank,Hold,,main,EHTH
+2012-10-26,Deutsche Bank,Hold,,main,EHTH
+2012-12-17,William Blair,Outperform,,init,EHTH
+2013-01-04,Bank of America,Underperform,Buy,down,EHTH
+2013-01-07,Janney Capital,Neutral,Buy,down,EHTH
+2013-02-15,Deutsche Bank,Hold,,main,EHTH
+2013-02-15,Bank of America,Underperform,,main,EHTH
+2013-04-02,Bank of America,Buy,Underperform,up,EHTH
+2013-04-02,Janney Capital,Buy,Neutral,up,EHTH
+2013-05-21,Lazard,Neutral,Buy,down,EHTH
+2013-07-16,Deutsche Bank,Hold,,main,EHTH
+2013-12-20,SunTrust Robinson Humphrey,Buy,,init,EHTH
+2014-02-13,RBC Capital,Outperform,,init,EHTH
+2014-02-14,RBC Capital,Outperform,,init,EHTH
+2014-05-02,Bank of America,Buy,,main,EHTH
+2014-05-02,Deutsche Bank,Hold,,main,EHTH
+2014-06-10,Jefferies,Hold,Buy,down,EHTH
+2014-06-17,Stifel Nicolaus,Hold,,init,EHTH
+2014-07-31,Deutsche Bank,Hold,,main,EHTH
+2014-07-31,SunTrust Robinson Humphrey,Buy,,main,EHTH
+2014-07-31,Stifel Nicolaus,Sell,Hold,down,EHTH
+2014-07-31,Craig-Hallum,Hold,Buy,down,EHTH
+2014-08-01,Bank of America,Neutral,Buy,down,EHTH
+2014-11-12,RBC Capital,Sector Perform,Outperform,down,EHTH
+2015-01-15,William Blair,Market Perform,Outperform,down,EHTH
+2015-01-15,Citigroup,Sell,,main,EHTH
+2015-01-16,Deutsche Bank,Hold,,main,EHTH
+2015-01-20,Stifel,Hold,Sell,up,EHTH
+2015-02-26,Jefferies,Hold,,main,EHTH
+2015-03-13,FBR Capital,Outperform,Market Perform,up,EHTH
+2015-03-20,Wells Fargo,Market Perform,,init,EHTH
+2015-04-27,RBC Capital,Sector Perform,,main,EHTH
+2015-04-27,SunTrust Robinson Humphrey,Buy,,main,EHTH
+2015-06-12,Jefferies,Hold,,main,EHTH
+2015-07-06,RBC Capital,Outperform,Sector Perform,up,EHTH
+2015-07-30,Stifel Nicolaus,Buy,Hold,up,EHTH
+2016-02-24,Jefferies,Hold,,main,EHTH
+2016-04-29,Craig-Hallum,Buy,Hold,up,EHTH
+2016-07-29,Craig-Hallum,Hold,Buy,down,EHTH
+2016-07-29,Jefferies,Hold,,main,EHTH
+2016-08-05,Craig-Hallum,Buy,Hold,up,EHTH
+2016-10-28,Craig-Hallum,Hold,Buy,down,EHTH
+2017-01-06,Cantor Fitzgerald,Overweight,,init,EHTH
+2017-08-25,Jefferies,Hold,,main,EHTH
+2017-10-19,Wells Fargo,Market Perform,,main,EHTH
+2017-10-30,Jefferies,Hold,,main,EHTH
+2018-08-16,Chardan Capital,Buy,,init,EHTH
+2018-12-20,RBC Capital,Outperform,,init,EHTH
+2019-02-04,Evercore ISI Group,Outperform,,init,EHTH
+2019-05-08,Cantor Fitzgerald,Overweight,,main,EHTH
+2019-07-10,Credit Suisse,Outperform,,init,EHTH
+2019-07-26,Cantor Fitzgerald,Overweight,,main,EHTH
+2019-07-29,First Analysis,Strong Buy,Outperform,up,EHTH
+2019-08-06,Credit Suisse,Outperform,,main,EHTH
+2019-09-12,Deutsche Bank,Buy,,init,EHTH
+2019-10-15,Raymond James,Outperform,,init,EHTH
+2020-01-24,Credit Suisse,Outperform,,main,EHTH
+2020-01-24,RBC Capital,Outperform,,main,EHTH
+2020-01-24,Craig-Hallum,Buy,,main,EHTH
+2020-01-24,Cantor Fitzgerald,Overweight,,reit,EHTH
+2020-01-28,Raymond James,Outperform,,main,EHTH
+2020-02-21,Cantor Fitzgerald,Overweight,,reit,EHTH
+2020-02-21,RBC Capital,Outperform,,main,EHTH
+2020-02-21,Deutsche Bank,Buy,,main,EHTH
+2020-02-24,SunTrust Robinson Humphrey,Buy,,main,EHTH
+2020-02-24,Credit Suisse,Outperform,,main,EHTH
+2020-04-16,Barclays,Overweight,,init,EHTH
+2020-04-27,Deutsche Bank,Buy,,main,EHTH
+2020-07-01,SVB Leerink,Market Perform,,init,EHTH
+2020-07-14,Citigroup,Buy,,init,EHTH
+2020-07-24,Barclays,Overweight,,main,EHTH
+2020-07-24,Credit Suisse,Outperform,,main,EHTH
+2020-07-24,SVB Leerink,Market Perform,,main,EHTH
+2020-07-27,Raymond James,Outperform,,main,EHTH
+2020-09-08,SVB Leerink,Outperform,Market Perform,up,EHTH
+2020-09-25,Goldman Sachs,Buy,,init,EHTH
+2020-12-14,SVB Leerink,Outperform,,main,EHTH
+2021-02-01,Raymond James,Market Perform,Outperform,down,EHTH
+2021-02-01,Truist Securities,Buy,,main,EHTH
+2021-02-01,Craig-Hallum,Buy,,main,EHTH
+2021-02-02,Goldman Sachs,Buy,,main,EHTH
+2021-02-19,Deutsche Bank,Hold,Buy,down,EHTH
+2021-03-23,Evercore ISI Group,Outperform,,main,EHTH
+2021-03-25,Goldman Sachs,Neutral,Buy,down,EHTH
+2021-04-30,Credit Suisse,Outperform,,main,EHTH
+2021-07-30,Credit Suisse,Outperform,,main,EHTH
+2021-07-30,RBC Capital,Sector Perform,,main,EHTH
+2021-11-09,RBC Capital,Sector Perform,,main,EHTH
+2021-11-09,Craig-Hallum,Hold,Buy,down,EHTH
+2021-11-10,Credit Suisse,Outperform,,main,EHTH
+2021-11-29,Deutsche Bank,Hold,,main,EHTH
+2021-12-20,Citigroup,Buy,,main,EHTH

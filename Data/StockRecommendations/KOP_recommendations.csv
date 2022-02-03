@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-07,Jefferies,Buy,,main,KOP
+2012-09-26,Jefferies,Buy,,main,KOP
+2013-02-15,Jefferies,Buy,,main,KOP
+2013-02-15,Monness Crespi Hardt,Buy,,main,KOP
+2013-05-03,Monness Crespi Hardt,Neutral,Buy,down,KOP
+2013-06-03,Jefferies,Hold,Buy,down,KOP
+2013-07-16,KeyBanc,Hold,Buy,down,KOP
+2013-07-19,Northcoast Research,Neutral,Buy,down,KOP
+2014-04-15,Monness Crespi Hardt,Buy,Neutral,up,KOP
+2014-08-08,Oppenheimer,Outperform,,main,KOP
+2014-12-30,Wunderlich,Buy,,main,KOP
+2015-01-15,Monness Crespi Hardt,Neutral,Buy,down,KOP
+2015-01-15,Jefferies,Hold,,main,KOP
+2015-05-11,Jefferies,Hold,,main,KOP
+2015-05-26,First Analysis,Overweight,Equal-Weight,up,KOP
+2015-10-15,First Analysis,Equal-Weight,Overweight,down,KOP
+2016-03-14,Monness Crespi Hardt,Buy,Neutral,up,KOP
+2016-06-08,Barrington Research,Outperform,,init,KOP
+2016-07-18,Monness Crespi Hardt,Neutral,Buy,down,KOP
+2016-11-29,Wunderlich,Hold,Buy,down,KOP
+2017-05-31,Jefferies,Hold,Buy,down,KOP
+2017-06-28,Wunderlich,Buy,Hold,up,KOP
+2018-02-28,B. Riley FBR,Buy,,main,KOP
+2018-10-16,Seaport Global,Buy,,init,KOP
+2020-02-28,B. Riley FBR,Buy,,main,KOP
+2020-04-28,B. Riley FBR,Buy,,main,KOP

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KPTI220819C00007500,2022-01-05 20:25:05+00:00,7.5,1.95,1.9,2.05,-0.099999905,-4.878044,1,2000,0.46973186523437505,True,REGULAR,USD,KPTI

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-12-13,Piper Sandler,Overweight,,init,BRZE
+2021-12-13,JP Morgan,Overweight,,init,BRZE
+2021-12-13,Oppenheimer,Outperform,,init,BRZE
+2021-12-13,Needham,Buy,,init,BRZE
+2021-12-13,Cowen & Co.,Outperform,,init,BRZE
+2021-12-13,Goldman Sachs,Buy,,init,BRZE
+2021-12-13,JMP Securities,Market Outperform,,init,BRZE
+2021-12-13,Raymond James,Outperform,,init,BRZE
+2021-12-13,Canaccord Genuity,Buy,,init,BRZE
+2021-12-13,William Blair,Outperform,,init,BRZE
+2021-12-13,Barclays,Overweight,,init,BRZE
+2021-12-13,Loop Capital,Buy,,init,BRZE
+2021-12-14,Barclays,Overweight,,init,BRZE
+2021-12-21,JMP Securities,Market Outperform,,main,BRZE

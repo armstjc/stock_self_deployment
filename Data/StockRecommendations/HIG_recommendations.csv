@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Morgan Stanley,Equal-Weight,,down,HIG
+2012-02-09,Goldman Sachs,Buy,,main,HIG
+2012-02-16,Evercore Partners,Overweight,,main,HIG
+2012-02-24,Bank oferica,Buy,,main,HIG
+2012-05-07,UBS,Buy,,main,HIG
+2012-05-15,Stifel Nicolaus,Buy,,up,HIG
+2012-07-02,Barclays,Equal-Weight,,main,HIG
+2012-07-10,JP Morgan,Neutral,,main,HIG
+2012-08-20,Barclays,Equal-Weight,,main,HIG
+2012-09-07,Bank of America,Buy,,main,HIG
+2012-10-01,Barclays,Equal-Weight,,main,HIG
+2012-12-19,MKM Partners,Buy,,init,HIG
+2012-12-27,Stifel Nicolaus,Buy,,main,HIG
+2013-01-03,Barclays,Equal-Weight,,main,HIG
+2013-01-09,Citigroup,Buy,,init,HIG
+2013-01-10,Citigroup,Buy,,init,HIG
+2013-01-23,FBR Capital,Market Perform,Outperform,down,HIG
+2013-04-12,Credit Suisse,Outperform,,main,HIG
+2013-04-12,Bank of America,Buy,,main,HIG
+2013-04-12,UBS,Buy,,main,HIG
+2013-05-13,Barclays,Overweight,Equal-Weight,up,HIG
+2013-07-15,Keefe Bruyette & Woods,Market Perform,Outperform,down,HIG
+2014-01-10,Wells Fargo,Outperform,Market Perform,up,HIG
+2014-02-05,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,HIG
+2014-04-30,Keefe Bruyette & Woods,Outperform,,main,HIG
+2014-09-10,FBR Capital,Outperform,Market Perform,up,HIG
+2014-10-02,Barclays,Overweight,,main,HIG
+2014-10-13,Sterne Agee,Buy,,main,HIG
+2014-10-29,Credit Suisse,Outperform,,main,HIG
+2014-10-29,Keefe Bruyette & Woods,Outperform,,main,HIG
+2014-12-19,Citigroup,Neutral,,main,HIG
+2015-01-02,Keefe Bruyette & Woods,Outperform,,main,HIG
+2015-01-08,Barclays,Overweight,,main,HIG
+2015-02-04,UBS,Buy,,main,HIG
+2015-03-24,Goldman Sachs,Buy,,init,HIG
+2015-10-28,Atlantic Equities,Neutral,Overweight,down,HIG
+2015-11-18,Argus,Hold,Buy,down,HIG
+2016-01-19,Nomura,Neutral,,init,HIG
+2016-01-26,Atlantic Equities,Overweight,Neutral,up,HIG
+2016-02-08,FBR Capital,Outperform,,main,HIG
+2016-05-17,Wells Fargo,Market Perform,Outperform,down,HIG
+2016-07-29,Barclays,Overweight,,main,HIG
+2016-08-01,UBS,Buy,,main,HIG
+2016-08-01,Keefe Bruyette & Woods,Outperform,,main,HIG
+2016-08-10,Atlantic Equities,Neutral,Overweight,down,HIG
+2016-09-30,Barclays,Overweight,,main,HIG
+2016-10-06,Credit Suisse,Outperform,,init,HIG
+2016-11-16,Bank of America,Neutral,Buy,down,HIG
+2016-11-28,FBR Capital,Market Perform,Outperform,down,HIG
+2016-12-09,RBC Capital,Outperform,Sector Perform,up,HIG
+2017-01-06,Credit Suisse,Neutral,Outperform,down,HIG
+2017-06-06,Deutsche Bank,Buy,,init,HIG
+2017-06-30,Barclays,Overweight,,main,HIG
+2017-08-11,Barclays,Overweight,,main,HIG
+2017-10-16,Barclays,Overweight,,main,HIG
+2017-11-01,UBS,Buy,,main,HIG
+2017-12-04,Goldman Sachs,Neutral,,init,HIG
+2017-12-19,Credit Suisse,Outperform,Neutral,up,HIG
+2017-12-20,Citigroup,Neutral,,init,HIG
+2018-04-10,Citigroup,Neutral,Neutral,main,HIG
+2018-05-01,Citigroup,Neutral,Neutral,main,HIG
+2018-08-07,Credit Suisse,Neutral,,init,HIG
+2018-08-07,B. Riley FBR,Neutral,Neutral,main,HIG
+2018-09-10,Sandler O'Neill,Buy,,init,HIG
+2018-09-24,B. Riley FBR,Buy,Neutral,up,HIG
+2018-10-09,Wells Fargo,Market Perform,Market Perform,main,HIG
+2018-10-30,Buckingham,Buy,Buy,main,HIG
+2018-11-12,Barclays,Overweight,Overweight,main,HIG
+2018-11-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,HIG
+2018-12-06,Credit Suisse,Neutral,Neutral,main,HIG
+2019-01-15,Compass Point,Buy,,init,HIG
+2019-04-01,Barclays,Overweight,Overweight,main,HIG
+2019-05-22,Barclays,Overweight,,main,HIG
+2019-05-29,Goldman Sachs,Buy,Neutral,up,HIG
+2019-06-26,B. Riley,Buy,,main,HIG
+2019-07-10,UBS,Buy,,main,HIG
+2019-07-19,Morgan Stanley,Equal-Weight,,main,HIG
+2019-07-19,Buckingham Research,Buy,,main,HIG
+2019-08-15,Morgan Stanley,Equal-Weight,,main,HIG
+2019-10-17,Evercore ISI Group,Outperform,In-Line,up,HIG
+2019-11-06,RBC Capital,Outperform,,main,HIG
+2019-11-08,Morgan Stanley,Equal-Weight,,main,HIG
+2019-12-05,RBC Capital,Sector Perform,Outperform,down,HIG
+2020-01-21,Citigroup,Neutral,,init,HIG
+2020-01-22,Buckingham,Neutral,Buy,down,HIG

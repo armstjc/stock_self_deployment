@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-04,Stifel Nicolaus,Buy,,main,CSTE
+2012-10-04,JP Morgan,Overweight,,main,CSTE
+2012-11-08,Barclays,Overweight,,main,CSTE
+2013-01-18,Credit Suisse,Outperform,Neutral,up,CSTE
+2013-02-05,Barclays,Overweight,,main,CSTE
+2013-08-08,Stifel Nicolaus,Buy,,main,CSTE
+2014-02-13,Stifel Nicolaus,Buy,,main,CSTE
+2014-05-09,Stifel Nicolaus,Buy,,main,CSTE
+2014-07-02,Barclays,Overweight,,main,CSTE
+2014-11-06,Barclays,Overweight,,main,CSTE
+2014-11-06,Credit Suisse,Outperform,,main,CSTE
+2014-11-06,Stifel Nicolaus,Buy,,main,CSTE
+2014-11-06,JP Morgan,Overweight,,main,CSTE
+2015-08-24,Barclays,Overweight,Equal-Weight,up,CSTE
+2015-09-02,UBS,Buy,,main,CSTE
+2015-10-02,Stifel Nicolaus,Buy,,main,CSTE
+2015-10-13,Barclays,Overweight,,main,CSTE
+2015-10-16,Bank of America,Buy,Neutral,up,CSTE
+2015-12-21,Barclays,Overweight,,main,CSTE
+2016-02-11,Stifel Nicolaus,Buy,,main,CSTE
+2016-02-11,Credit Suisse,Outperform,,main,CSTE
+2016-02-11,Barclays,Equal-Weight,Overweight,down,CSTE
+2016-02-17,UBS,Buy,,main,CSTE
+2016-04-06,Chardan Capital,Buy,,init,CSTE
+2016-11-02,JP Morgan,Neutral,Overweight,down,CSTE
+2016-11-03,Stifel Nicolaus,Hold,Buy,down,CSTE
+2016-11-07,UBS,Neutral,Buy,down,CSTE
+2016-11-07,Chardan Capital,Buy,,main,CSTE
+2017-05-11,Chardan Capital,Neutral,Buy,down,CSTE
+2017-06-23,Credit Suisse,Neutral,,init,CSTE
+2017-11-02,JP Morgan,Underweight,Neutral,down,CSTE
+2018-01-08,Chardan Capital,Buy,Neutral,up,CSTE
+2018-01-22,Credit Suisse,Underperform,Neutral,down,CSTE
+2018-03-23,JP Morgan,Underweight,Underweight,main,CSTE
+2018-05-09,Stifel Nicolaus,Hold,Buy,down,CSTE
+2018-11-08,Credit Suisse,Underperform,Underperform,main,CSTE
+2019-08-08,Stifel Nicolaus,Buy,Hold,up,CSTE
+2020-02-13,Stifel Nicolaus,Hold,Buy,down,CSTE
+2020-04-08,Stifel,Hold,,main,CSTE
+2020-12-29,Benchmark,Buy,,init,CSTE

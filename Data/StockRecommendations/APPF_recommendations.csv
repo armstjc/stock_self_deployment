@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-21,Credit Suisse,Neutral,,init,APPF
+2015-07-21,Morgan Stanley,Overweight,,init,APPF
+2015-07-21,William Blair,Outperform,,init,APPF
+2015-07-21,Pacific Crest,Sector Weight,,init,APPF
+2016-02-23,Credit Suisse,Neutral,,main,APPF
+2016-05-13,Morgan Stanley,Equal-Weight,Overweight,down,APPF
+2017-07-20,Morgan Stanley,Equal-Weight,,main,APPF
+2017-08-08,Credit Suisse,Neutral,,main,APPF
+2017-08-08,Morgan Stanley,Equal-Weight,,main,APPF
+2017-11-14,Morgan Stanley,Equal-Weight,,main,APPF
+2018-01-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,APPF
+2018-05-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,APPF
+2018-05-21,Morgan Stanley,Underweight,Equal-Weight,down,APPF
+2018-07-31,Morgan Stanley,Underweight,Underweight,main,APPF
+2018-12-05,DA Davidson,Neutral,,init,APPF
+2018-12-06,DA Davidson,Neutral,,init,APPF
+2019-03-04,Morgan Stanley,Underweight,Underweight,main,APPF
+2019-05-06,Morgan Stanley,Underweight,,main,APPF
+2019-07-16,KeyBanc,Sector Weight,,init,APPF
+2019-07-30,DA Davidson,Underperform,Neutral,down,APPF
+2020-03-17,DA Davidson,Neutral,Underperform,up,APPF
+2020-05-05,DA Davidson,Underperform,Neutral,down,APPF
+2020-10-26,"Keefe, Bruyette & Woods",Market Perform,,init,APPF
+2021-01-26,Stephens & Co.,Underweight,,init,APPF
+2021-05-11,DA Davidson,Neutral,Underperform,up,APPF

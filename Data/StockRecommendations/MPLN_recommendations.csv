@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-16,Citigroup,Buy,,init,MPLN
+2020-11-17,Citigroup,Buy,,init,MPLN
+2021-03-19,Barclays,Equal-Weight,,init,MPLN
+2021-04-07,B. Riley FBR,Buy,,init,MPLN
+2021-08-20,Tigress Financial,Buy,,init,MPLN
+2021-11-11,Barclays,Equal-Weight,,main,MPLN
+2021-12-20,Citigroup,Buy,,main,MPLN

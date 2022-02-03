@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-08,Wedbush,Neutral,,init,NDLS
+2013-07-23,UBS,Neutral,,init,NDLS
+2013-07-23,Baird,Outperform,,init,NDLS
+2013-07-23,Morgan Stanley,Equal-Weight,,init,NDLS
+2013-07-23,PiperJaffray,Overweight,,init,NDLS
+2013-07-23,Bank of America,Neutral,,init,NDLS
+2013-07-23,Jefferies,Hold,,init,NDLS
+2013-10-03,Barclays,Equal-Weight,,init,NDLS
+2013-11-08,RBC Capital,Sector Perform,,init,NDLS
+2014-04-30,Jefferies,Hold,,main,NDLS
+2014-04-30,Barclays,Equal-Weight,,main,NDLS
+2014-08-07,UBS,Neutral,,main,NDLS
+2014-08-14,Barclays,Equal-Weight,,main,NDLS
+2014-08-14,UBS,Neutral,,main,NDLS
+2014-10-10,BMO Capital,Outperform,,init,NDLS
+2014-11-06,Barclays,Equal-Weight,,main,NDLS
+2014-11-25,Janney Capital,Buy,,init,NDLS
+2015-01-06,Jefferies,Buy,,main,NDLS
+2015-01-22,Barclays,Equal-Weight,,main,NDLS
+2015-02-20,Janney Capital,Neutral,Buy,down,NDLS
+2015-02-20,Barclays,Equal-Weight,,main,NDLS
+2015-02-20,Jefferies,Buy,,main,NDLS
+2015-02-20,Baird,Neutral,Outperform,down,NDLS
+2015-03-11,Credit Suisse,Neutral,,init,NDLS
+2015-05-06,Credit Suisse,Neutral,,main,NDLS
+2015-05-06,RBC Capital,Sector Perform,,main,NDLS
+2015-05-06,UBS,Neutral,,main,NDLS
+2015-05-06,BMO Capital,Outperform,,main,NDLS
+2015-05-07,Bank of America,Underperform,Neutral,down,NDLS
+2015-08-07,PiperJaffray,Neutral,Overweight,down,NDLS
+2015-08-07,Barclays,Equal-Weight,,main,NDLS
+2015-10-08,SunTrust Robinson Humphrey,Neutral,,init,NDLS
+2015-11-25,Citigroup,Buy,,init,NDLS
+2016-03-03,PiperJaffray,Underweight,Neutral,down,NDLS
+2016-03-15,Citigroup,Buy,,main,NDLS
+2016-07-26,BMO Capital,Market Perform,Outperform,down,NDLS
+2016-07-26,Jefferies,Hold,Buy,down,NDLS
+2016-07-27,Jefferies,Hold,,main,NDLS
+2016-08-05,Jefferies,Hold,,main,NDLS
+2016-08-08,UBS,Neutral,,main,NDLS
+2016-10-05,Citigroup,Buy,,main,NDLS
+2017-01-06,UBS,Sell,Neutral,down,NDLS
+2017-11-10,BMO Capital,Market Perform,,main,NDLS
+2017-11-20,Citigroup,Buy,,main,NDLS
+2018-03-15,BMO Capital,Market Perform,Market Perform,main,NDLS
+2018-05-31,CL King,Buy,,init,NDLS
+2018-06-21,Citigroup,Buy,Buy,main,NDLS
+2018-07-19,BMO Capital,Market Perform,Market Perform,main,NDLS
+2018-07-19,UBS,Sell,Sell,main,NDLS
+2018-08-08,Citigroup,Buy,Buy,main,NDLS
+2018-09-18,Citigroup,Buy,Buy,main,NDLS
+2018-10-16,SunTrust Robinson Humphrey,Buy,Neutral,up,NDLS
+2018-10-24,BMO Capital,Market Perform,Market Perform,main,NDLS
+2018-10-30,Citigroup,Buy,Buy,main,NDLS
+2018-11-09,PiperJaffray,Neutral,Underweight,up,NDLS
+2018-12-03,RBC Capital,Outperform,Sector Perform,up,NDLS
+2019-02-22,Jefferies,Buy,Hold,up,NDLS
+2020-02-27,Piper Sandler,Neutral,,main,NDLS
+2020-04-01,SunTrust Robinson Humphrey,Buy,,main,NDLS
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,NDLS
+2020-10-29,Piper Sandler,Neutral,,main,NDLS
+2020-10-29,BMO Capital,Market Perform,,main,NDLS
+2021-03-11,Piper Sandler,Overweight,Neutral,up,NDLS
+2021-05-03,BMO Capital,Market Perform,,main,NDLS
+2021-10-06,Stephens & Co.,Overweight,,init,NDLS
+2021-11-12,Benchmark,Buy,,init,NDLS

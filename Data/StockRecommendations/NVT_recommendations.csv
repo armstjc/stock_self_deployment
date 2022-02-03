@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-10,RBC Capital,Outperform,,init,NVT
+2018-05-14,Barclays,Equal-Weight,,init,NVT
+2018-05-15,KeyBanc,Overweight,,init,NVT
+2018-05-18,Susquehanna,Positive,,init,NVT
+2018-10-26,Goldman Sachs,Buy,Neutral,up,NVT
+2018-11-21,Vertical Research,Hold,,init,NVT
+2019-02-28,KeyBanc,Overweight,Overweight,main,NVT
+2019-03-26,Buckingham,Buy,,init,NVT
+2019-08-02,Vertical Research,Hold,Buy,down,NVT
+2019-08-06,Buckingham Research,Neutral,Buy,down,NVT
+2019-10-01,RBC Capital,Sector Perform,Outperform,down,NVT
+2019-10-07,KeyBanc,Overweight,,main,NVT
+2019-10-08,Buckingham,Neutral,,main,NVT
+2019-10-11,Gabelli & Co.,Buy,,init,NVT
+2019-11-07,Rosenblatt,Buy,,init,NVT
+2019-12-10,CL King,Neutral,,init,NVT
+2020-02-06,Barclays,Overweight,Equal-Weight,up,NVT
+2020-02-18,RBC Capital,Outperform,Sector Perform,up,NVT
+2020-04-30,Rosenblatt,Buy,,main,NVT
+2020-09-15,Wolfe Research,Peer Perform,,init,NVT
+2020-12-08,Wolfe Research,Outperform,Peer Perform,up,NVT
+2021-01-07,KeyBanc,Overweight,,main,NVT
+2021-02-10,Rosenblatt,Buy,,main,NVT
+2021-03-05,KeyBanc,Overweight,,main,NVT
+2021-04-30,Keybanc,Overweight,,main,NVT
+2021-05-03,Rosenblatt,Buy,,main,NVT
+2021-06-08,Keybanc,Overweight,,main,NVT
+2021-08-04,Rosenblatt,Buy,,main,NVT
+2021-10-29,Keybanc,Overweight,,main,NVT
+2022-01-03,Vertical Research,Buy,Hold,up,NVT

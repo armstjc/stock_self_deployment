@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-10-07,Leerink Swann,Outperform,,init,AFMD
+2014-10-07,BMO Capital,Outperform,,init,AFMD
+2015-06-01,Oppenheimer,Outperform,,init,AFMD
+2015-06-22,Jefferies,Buy,,main,AFMD
+2015-09-09,Jefferies,Hold,,init,AFMD
+2015-10-15,Jefferies,Hold,,main,AFMD
+2015-12-04,Wells Fargo,Outperform,,init,AFMD
+2016-04-12,BMO Capital,Outperform,,init,AFMD
+2016-05-19,Leerink Swann,Market Perform,Outperform,down,AFMD
+2016-05-19,Jefferies,Hold,,main,AFMD
+2016-08-12,Leerink Swann,Market Perform,Outperform,down,AFMD
+2017-07-14,SunTrust Robinson Humphrey,Buy,,init,AFMD
+2018-08-09,BMO Capital,Outperform,Outperform,main,AFMD
+2018-08-28,Jefferies,Buy,Hold,up,AFMD
+2018-08-28,BMO Capital,Outperform,Outperform,main,AFMD
+2019-03-28,SVB Leerink,Outperform,,init,AFMD
+2020-06-24,SVB Leerink,Outperform,,main,AFMD
+2020-11-11,SVB Leerink,Outperform,,main,AFMD
+2021-03-11,SVB Leerink,Outperform,,main,AFMD
+2021-03-24,Wells Fargo,Overweight,,main,AFMD
+2021-03-31,Credit Suisse,Outperform,,init,AFMD
+2021-09-30,Stifel,Buy,,init,AFMD
+2021-10-12,SVB Leerink,Outperform,,main,AFMD
+2021-10-21,Truist Securities,Buy,,init,AFMD

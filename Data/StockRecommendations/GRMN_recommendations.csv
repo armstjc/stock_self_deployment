@@ -1,0 +1,108 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,DA Davidson,Neutral,,main,GRMN
+2012-02-17,Wedbush,Neutral,,main,GRMN
+2012-02-23,Goldman Sachs,Neutral,,main,GRMN
+2012-02-23,Dougherty,Neutral,,down,GRMN
+2012-05-02,Wedbush,Neutral,,main,GRMN
+2012-05-02,DA Davidson,Neutral,,main,GRMN
+2012-07-09,DA Davidson,Neutral,,main,GRMN
+2012-08-02,Wedbush,Outperform,Neutral,up,GRMN
+2012-08-02,DA Davidson,Neutral,,main,GRMN
+2012-08-31,Wells Fargo,Outperform,,init,GRMN
+2012-11-12,Goldman Sachs,Sell,Neutral,down,GRMN
+2013-02-15,William Blair,Outperform,,init,GRMN
+2013-02-21,DA Davidson,Neutral,,main,GRMN
+2013-04-30,Pacific Crest,Sector Perform,Outperform,down,GRMN
+2013-06-07,Raymond James,Outperform,,init,GRMN
+2013-08-01,DA Davidson,Neutral,,main,GRMN
+2013-08-21,Goldman Sachs,Neutral,Sell,up,GRMN
+2013-08-22,Dougherty,Buy,Neutral,up,GRMN
+2013-10-31,Raymond James,Market Perform,Outperform,down,GRMN
+2013-10-31,DA Davidson,Neutral,,main,GRMN
+2013-11-01,Midtown Partners,Neutral,,init,GRMN
+2013-11-07,Bank of America,Neutral,Buy,down,GRMN
+2013-12-11,Citigroup,Neutral,,init,GRMN
+2014-01-13,Oppenheimer,Outperform,,up,GRMN
+2014-02-19,DA Davidson,Neutral,,main,GRMN
+2014-02-20,Wells Fargo,Market Perform,Outperform,down,GRMN
+2014-03-26,Citigroup,Buy,Neutral,up,GRMN
+2014-04-30,DA Davidson,Neutral,,main,GRMN
+2014-06-18,Morgan Stanley,Underweight,,init,GRMN
+2014-07-09,Pacific Crest,Underperform,Sector Perform,down,GRMN
+2014-07-10,Citigroup,Buy,,main,GRMN
+2014-07-29,JP Morgan,Underweight,,main,GRMN
+2014-08-27,Baird,Neutral,,init,GRMN
+2014-10-10,DA Davidson,Neutral,,main,GRMN
+2014-10-13,DA Davidson,Neutral,,main,GRMN
+2014-10-17,Credit Suisse,Neutral,,init,GRMN
+2014-10-27,Goldman Sachs,Buy,Neutral,up,GRMN
+2014-10-30,Credit Suisse,Neutral,,main,GRMN
+2015-01-14,JP Morgan,Underweight,,main,GRMN
+2015-01-14,Pacific Crest,Sector Perform,Underperform,up,GRMN
+2015-01-26,RBC Capital,Outperform,Sector Perform,up,GRMN
+2015-02-19,Bank of America,Buy,Neutral,up,GRMN
+2015-02-19,Citigroup,Buy,,main,GRMN
+2015-02-20,Atlantic Equities,Neutral,Overweight,down,GRMN
+2015-03-12,Raymond James,Underperform,Market Perform,down,GRMN
+2015-03-16,Oppenheimer,Market Perform,Outperform,down,GRMN
+2015-04-02,Goldman Sachs,Neutral,Buy,down,GRMN
+2015-04-06,Citigroup,Buy,,main,GRMN
+2015-04-13,DA Davidson,Neutral,,main,GRMN
+2015-04-30,JP Morgan,Neutral,Underweight,up,GRMN
+2015-07-30,JP Morgan,Underweight,Neutral,down,GRMN
+2015-08-25,Raymond James,Outperform,Market Perform,up,GRMN
+2015-09-11,DA Davidson,Neutral,,main,GRMN
+2015-09-14,DA Davidson,Neutral,,main,GRMN
+2015-09-28,Sterne Agee CRT,Neutral,,init,GRMN
+2015-10-15,Dougherty,Neutral,Buy,down,GRMN
+2015-10-19,JP Morgan,Neutral,Underweight,up,GRMN
+2015-10-29,Citigroup,Neutral,Sell,up,GRMN
+2016-01-15,Credit Suisse,Underperform,Neutral,down,GRMN
+2016-02-18,Credit Suisse,Underperform,,main,GRMN
+2016-02-18,JP Morgan,Underweight,Neutral,down,GRMN
+2016-07-28,Morgan Stanley,Equal-Weight,,main,GRMN
+2016-07-28,JP Morgan,Neutral,Underweight,up,GRMN
+2016-08-04,Bank of America,Underperform,Buy,down,GRMN
+2016-08-17,Longbow Research,Neutral,,init,GRMN
+2016-08-22,Raymond James,Market Perform,Outperform,down,GRMN
+2016-08-24,Morgan Stanley,Equal-Weight,,main,GRMN
+2016-08-24,Goldman Sachs,Sell,Neutral,down,GRMN
+2017-03-06,Goldman Sachs,Neutral,Sell,up,GRMN
+2017-05-02,Tigress Financial,Buy,,init,GRMN
+2017-05-04,JP Morgan,Underweight,Neutral,down,GRMN
+2017-07-19,Longbow Research,Buy,Neutral,up,GRMN
+2017-11-02,Morgan Stanley,Equal-Weight,,main,GRMN
+2018-02-15,Morgan Stanley,Equal-Weight,Equal-Weight,main,GRMN
+2018-02-22,Baird,Neutral,Neutral,main,GRMN
+2018-09-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,GRMN
+2019-01-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,GRMN
+2019-02-21,Longbow Research,Neutral,Buy,down,GRMN
+2019-02-25,Credit Suisse,Underperform,Underperform,main,GRMN
+2019-06-07,JP Morgan,Neutral,Underweight,up,GRMN
+2019-10-31,Morgan Stanley,Equal-Weight,,main,GRMN
+2020-01-28,Credit Suisse,Neutral,Underperform,up,GRMN
+2020-02-20,Credit Suisse,Neutral,,main,GRMN
+2020-02-20,JP Morgan,Neutral,,main,GRMN
+2020-02-20,Morgan Stanley,Equal-Weight,,main,GRMN
+2020-02-20,CFRA,Hold,,main,GRMN
+2020-03-02,JP Morgan,Overweight,Neutral,up,GRMN
+2020-03-25,Morgan Stanley,Above Average,,main,GRMN
+2020-04-29,CFRA,Hold,,main,GRMN
+2020-04-30,Morgan Stanley,Equal-Weight,,main,GRMN
+2020-05-18,B of A Securities,Underperform,,reit,GRMN
+2020-06-08,JP Morgan,Overweight,,main,GRMN
+2020-07-31,Credit Suisse,Neutral,,main,GRMN
+2020-10-29,Morgan Stanley,Equal-Weight,,main,GRMN
+2020-10-30,B of A Securities,Buy,Underperform,up,GRMN
+2020-11-10,Credit Suisse,Neutral,,main,GRMN
+2020-12-08,Deutsche Bank,Hold,,init,GRMN
+2020-12-16,Morgan Stanley,Equal-Weight,,main,GRMN
+2021-02-18,Deutsche Bank,Hold,,main,GRMN
+2021-02-18,Credit Suisse,Neutral,,main,GRMN
+2021-02-18,Morgan Stanley,Equal-Weight,,main,GRMN
+2021-04-29,Credit Suisse,Neutral,,main,GRMN
+2021-04-29,Morgan Stanley,Equal-Weight,,main,GRMN
+2021-06-22,B of A Securities,Neutral,Buy,down,GRMN
+2021-07-29,Morgan Stanley,Equal-Weight,,main,GRMN
+2021-10-28,Morgan Stanley,Equal-Weight,,main,GRMN
+2022-01-05,Deutsche Bank,Buy,Hold,up,GRMN

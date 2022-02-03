@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-10,Barclays,Equal-Weight,,main,AZTA
+2012-10-02,Barclays,Underweight,Equal-Weight,down,AZTA
+2012-10-02,Barclays,Underweight,Equal-Weight,down,AZTA
+2013-01-03,Barclays,Equal-Weight,Underweight,up,AZTA
+2013-08-28,Northland Securities,Outperform,,init,AZTA
+2013-11-18,Citigroup,Neutral,,main,AZTA
+2014-04-22,Citigroup,Neutral,,main,AZTA
+2014-05-27,B. Riley FBR,Buy,Neutral,up,AZTA
+2014-06-27,Stifel Nicolaus,Buy,Hold,up,AZTA
+2014-06-30,Stifel Nicolaus,Buy,Hold,up,AZTA
+2014-10-07,CRT Capital,Buy,,init,AZTA
+2014-10-07,Furey Research,Buy,,init,AZTA
+2014-11-04,Citigroup,Neutral,,main,AZTA
+2014-11-13,Credit Suisse,Underperform,,main,AZTA
+2014-11-13,Stifel Nicolaus,Buy,,main,AZTA
+2015-06-29,Deutsche Bank,Hold,,init,AZTA
+2015-08-14,Citigroup,Neutral,,main,AZTA
+2016-02-04,B. Riley FBR,Buy,,main,AZTA
+2016-03-08,Credit Suisse,Underperform,,main,AZTA
+2016-09-12,Citigroup,Neutral,,main,AZTA
+2016-09-13,Janney Capital,Buy,,init,AZTA
+2016-10-12,Citigroup,Buy,Neutral,up,AZTA
+2017-01-03,Stifel Nicolaus,Hold,Buy,down,AZTA
+2017-01-09,Credit Suisse,Neutral,Underperform,up,AZTA
+2017-08-07,Stifel Nicolaus,Buy,Hold,up,AZTA
+2017-09-18,Needham,Hold,Buy,down,AZTA
+2017-11-08,Stifel Nicolaus,Buy,,main,AZTA
+2017-11-10,Citigroup,Buy,,main,AZTA
+2017-12-21,Stephens & Co.,Overweight,,init,AZTA
+2018-05-02,Citigroup,Buy,Buy,main,AZTA
+2018-05-02,Credit Suisse,Neutral,Neutral,main,AZTA
+2018-05-02,B. Riley FBR,Buy,Buy,main,AZTA
+2018-07-13,Citigroup,Buy,Buy,main,AZTA
+2018-09-04,B. Riley FBR,Buy,Buy,main,AZTA
+2018-09-25,Citigroup,Buy,Buy,main,AZTA
+2018-11-20,Credit Suisse,Neutral,Neutral,main,AZTA
+2018-11-21,Citigroup,Buy,Buy,main,AZTA
+2019-04-30,Stifel Nicolaus,Buy,Buy,main,AZTA
+2019-08-02,B. Riley FBR,Buy,,main,AZTA
+2019-09-23,Citigroup,Neutral,Buy,down,AZTA
+2019-11-07,Stifel Nicolaus,Buy,,main,AZTA
+2019-11-07,B. Riley,Buy,,main,AZTA
+2020-02-10,Citigroup,Neutral,,main,AZTA
+2020-03-19,B. Riley FBR,Buy,,main,AZTA
+2020-04-09,Needham,Hold,,init,AZTA
+2020-04-13,B. Riley FBR,Buy,,main,AZTA
+2020-05-01,B. Riley FBR,Buy,,main,AZTA
+2020-05-01,Citigroup,Neutral,,main,AZTA
+2020-06-22,Stifel,Hold,Buy,down,AZTA
+2020-08-04,Needham,Buy,Hold,up,AZTA
+2020-09-21,Stifel,Buy,Hold,up,AZTA
+2020-11-10,KeyBanc,Overweight,,init,AZTA
+2020-11-11,Needham,Buy,,main,AZTA
+2020-11-11,Credit Suisse,Neutral,,main,AZTA
+2020-11-11,Stephens & Co.,Overweight,Equal-Weight,up,AZTA
+2020-11-11,KeyBanc,Overweight,,main,AZTA
+2021-02-03,KeyBanc,Overweight,,main,AZTA
+2021-02-03,Credit Suisse,Neutral,,main,AZTA
+2021-02-10,KeyBanc,Overweight,,main,AZTA
+2021-04-05,B. Riley FBR,Buy,,main,AZTA
+2021-05-11,B. Riley Securities,Buy,,main,AZTA
+2021-05-11,Needham,Buy,,main,AZTA
+2021-05-11,Keybanc,Overweight,,main,AZTA
+2021-05-11,Credit Suisse,Neutral,,main,AZTA
+2021-08-06,Needham,Buy,,main,AZTA
+2021-09-07,Keybanc,Overweight,,main,AZTA
+2021-11-10,Needham,Buy,,main,AZTA
+2021-11-11,Citigroup,Neutral,,main,AZTA
+2021-11-17,Keybanc,Overweight,,main,AZTA
+2021-11-17,Needham,Buy,,main,AZTA

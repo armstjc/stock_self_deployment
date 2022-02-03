@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-11-11,Morgan Stanley,Equal-Weight,,init,ATEX
+2020-02-03,JP Morgan,Neutral,,init,ATEX
+2020-02-20,Morgan Stanley,Equal-Weight,,main,ATEX
+2020-05-22,B. Riley FBR,Buy,,main,ATEX
+2020-07-01,Morgan Stanley,Equal-Weight,,main,ATEX
+2020-11-18,JP Morgan,Underweight,Neutral,down,ATEX
+2021-01-27,Morgan Stanley,Equal-Weight,,main,ATEX
+2021-02-01,JP Morgan,Neutral,Underweight,up,ATEX
+2021-02-17,JP Morgan,Overweight,Neutral,up,ATEX
+2021-06-09,Morgan Stanley,Equal-Weight,,main,ATEX
+2021-08-04,Morgan Stanley,Equal-Weight,,main,ATEX

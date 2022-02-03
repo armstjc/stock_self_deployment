@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-06,Dahlman Rose,Buy,,main,AL
+2012-08-03,UBS,Neutral,Buy,down,AL
+2012-08-10,Barclays,Equal-Weight,,main,AL
+2012-08-13,Citigroup,Buy,,main,AL
+2012-09-06,Macquarie,Neutral,Outperform,down,AL
+2013-03-14,Barclays,Overweight,Equal-Weight,up,AL
+2014-03-11,Bank of America,Neutral,,main,AL
+2014-04-17,Barclays,Outperform,,main,AL
+2014-05-09,Credit Suisse,Outperform,,main,AL
+2014-06-24,UBS,Neutral,,init,AL
+2014-08-04,RBC Capital,Top Pick,Outperform,up,AL
+2014-10-03,Barclays,Equal-Weight,,init,AL
+2014-10-21,Macquarie,Outperform,Neutral,up,AL
+2015-01-16,JP Morgan,Neutral,Overweight,down,AL
+2015-04-30,MLV & Co.,Hold,Buy,down,AL
+2015-05-08,RBC Capital,,,main,AL
+2015-05-15,UBS,Sell,Neutral,down,AL
+2015-08-20,DA Davidson,Buy,,init,AL
+2015-11-13,JP Morgan,Overweight,Neutral,up,AL
+2015-12-28,Credit Suisse,Outperform,,main,AL
+2016-03-14,Citigroup,Buy,,main,AL
+2016-03-15,Citigroup,Buy,,main,AL
+2016-11-01,Stephens & Co.,Overweight,,init,AL
+2017-01-04,Compass Point,Buy,,init,AL
+2017-04-06,Morgan Stanley,Equal-Weight,Overweight,down,AL
+2017-07-10,Barclays,Overweight,,init,AL
+2017-10-19,Bank of America,Neutral,,main,AL
+2017-11-10,UBS,Sell,,main,AL
+2017-11-10,Credit Suisse,Outperform,,main,AL
+2017-11-13,Morgan Stanley,Equal-Weight,,main,AL
+2017-12-08,Citigroup,Neutral,,init,AL
+2018-02-21,UBS,Sell,Sell,main,AL
+2018-02-23,Credit Suisse,Outperform,Outperform,main,AL
+2018-02-28,Citigroup,Neutral,Neutral,main,AL
+2018-03-06,JP Morgan,Overweight,Overweight,main,AL
+2018-03-09,Bank of America,Buy,Neutral,up,AL
+2018-04-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,AL
+2018-08-10,RBC Capital,Top Pick,Top Pick,main,AL
+2018-08-15,Citigroup,Neutral,Neutral,main,AL
+2018-11-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,AL
+2019-04-08,Goldman Sachs,Buy,,init,AL
+2020-03-11,Deutsche Bank,Buy,,main,AL
+2020-05-11,Deutsche Bank,Buy,,main,AL
+2020-11-10,Credit Suisse,Outperform,,main,AL
+2021-01-25,Deutsche Bank,Buy,,main,AL
+2021-08-06,Credit Suisse,Outperform,,main,AL
+2021-11-05,Credit Suisse,Outperform,,main,AL
+2022-01-10,Barclays,Overweight,,main,AL

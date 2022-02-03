@@ -1,0 +1,80 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-08-08,Raymond James,Outperform,,main,CEQP
+2014-08-11,Wells Fargo,Market Perform,Outperform,down,CEQP
+2014-08-13,Barclays,Underweight,Equal-Weight,down,CEQP
+2014-11-03,JP Morgan,Overweight,,main,CEQP
+2014-11-06,Bank of America,Buy,,main,CEQP
+2014-11-13,Barclays,Underweight,,main,CEQP
+2015-04-08,Bank of America,Neutral,Buy,down,CEQP
+2015-04-28,JP Morgan,Neutral,Overweight,down,CEQP
+2015-05-12,Barclays,Equal-Weight,Underweight,up,CEQP
+2015-08-17,Barclays,Equal-Weight,,main,CEQP
+2015-10-08,Bank of America,Underperform,Neutral,down,CEQP
+2015-12-23,Barclays,Equal-Weight,,main,CEQP
+2016-01-04,Raymond James,Market Perform,Outperform,down,CEQP
+2016-01-25,Baird,Neutral,Outperform,down,CEQP
+2016-02-24,Barclays,Equal-Weight,,main,CEQP
+2016-03-01,UBS,Neutral,Buy,down,CEQP
+2016-03-30,JP Morgan,Neutral,,main,CEQP
+2016-05-04,Stifel Nicolaus,Buy,Hold,up,CEQP
+2016-08-03,Stifel Nicolaus,Hold,Buy,down,CEQP
+2016-12-06,Stifel Nicolaus,Hold,,main,CEQP
+2016-12-14,Goldman Sachs,Buy,,init,CEQP
+2017-01-12,Raymond James,Outperform,Market Perform,up,CEQP
+2017-08-02,Stifel Nicolaus,Buy,Hold,up,CEQP
+2017-12-04,UBS,Buy,Neutral,up,CEQP
+2018-01-11,Wells Fargo,Outperform,Market Perform,up,CEQP
+2018-01-17,Barclays,Equal-Weight,Underweight,up,CEQP
+2018-01-26,Capital One Financial,Overweight,Equal-Weight,up,CEQP
+2018-02-21,UBS,Buy,Buy,main,CEQP
+2018-03-02,UBS,Buy,Buy,main,CEQP
+2018-03-07,Barclays,Equal-Weight,Equal-Weight,main,CEQP
+2018-05-02,Stifel Nicolaus,Buy,Buy,main,CEQP
+2018-06-05,Stifel Nicolaus,Buy,Buy,main,CEQP
+2018-06-12,Barclays,Equal-Weight,Equal-Weight,main,CEQP
+2018-06-27,Goldman Sachs,Neutral,Buy,down,CEQP
+2018-07-11,Barclays,Equal-Weight,Equal-Weight,main,CEQP
+2018-07-12,SunTrust Robinson Humphrey,Buy,,init,CEQP
+2018-08-01,Stifel Nicolaus,Buy,Buy,main,CEQP
+2018-08-01,Bank of America,Buy,Buy,main,CEQP
+2018-08-29,Barclays,Equal-Weight,Equal-Weight,main,CEQP
+2018-09-24,Stifel Nicolaus,Hold,Buy,down,CEQP
+2018-10-12,Barclays,Equal-Weight,Equal-Weight,main,CEQP
+2018-10-24,Raymond James,Outperform,Outperform,main,CEQP
+2018-10-31,Wells Fargo,Market Perform,Outperform,down,CEQP
+2018-12-17,Goldman Sachs,Buy,Neutral,up,CEQP
+2019-03-19,Wells Fargo,Outperform,Market Perform,up,CEQP
+2019-07-30,Bank of America,Buy,,main,CEQP
+2019-07-31,Stifel Nicolaus,Buy,Hold,up,CEQP
+2019-08-23,RBC Capital,Outperform,Sector Perform,up,CEQP
+2019-10-23,Raymond James,Strong Buy,Outperform,up,CEQP
+2019-10-30,UBS,Buy,,main,CEQP
+2020-01-14,Barclays,Overweight,Equal-Weight,up,CEQP
+2020-02-20,SunTrust Robinson Humphrey,Buy,,main,CEQP
+2020-03-12,Raymond James,Outperform,Strong Buy,down,CEQP
+2020-03-24,Barclays,Equal-Weight,Overweight,down,CEQP
+2020-04-03,UBS,Buy,,main,CEQP
+2020-04-07,UBS,Buy,,main,CEQP
+2020-04-14,Wells Fargo,Overweight,,main,CEQP
+2020-04-22,SunTrust Robinson Humphrey,Hold,Buy,down,CEQP
+2020-05-06,Raymond James,Outperform,,main,CEQP
+2020-05-12,Wells Fargo,Equal-Weight,Overweight,down,CEQP
+2020-05-13,SunTrust Robinson Humphrey,Hold,,main,CEQP
+2020-05-14,JP Morgan,Neutral,,main,CEQP
+2020-07-21,Raymond James,Outperform,,main,CEQP
+2020-07-22,Wells Fargo,Underweight,Equal-Weight,down,CEQP
+2020-10-28,Stifel,Buy,,main,CEQP
+2021-01-12,Raymond James,Outperform,,main,CEQP
+2021-02-08,JP Morgan,Overweight,Neutral,up,CEQP
+2021-02-26,Wells Fargo,Equal-Weight,Underweight,up,CEQP
+2021-03-26,Capital One Financial,Overweight,Equal-Weight,up,CEQP
+2021-04-01,JP Morgan,Neutral,Overweight,down,CEQP
+2021-04-15,Raymond James,Outperform,,main,CEQP
+2021-04-28,Capital One,Equal-Weight,Overweight,down,CEQP
+2021-05-13,Wells Fargo,Equal-Weight,,main,CEQP
+2021-06-21,RBC Capital,Outperform,,main,CEQP
+2021-07-28,UBS,Buy,Neutral,up,CEQP
+2021-10-20,Wells Fargo,Equal-Weight,,main,CEQP
+2021-10-27,Raymond James,Outperform,,main,CEQP
+2021-11-19,Capital One,Overweight,Equal-Weight,up,CEQP
+2021-12-16,Wells Fargo,Equal-Weight,,main,CEQP

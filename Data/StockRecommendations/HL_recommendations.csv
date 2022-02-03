@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-09,Deutsche Bank,Hold,,main,HL
+2012-10-02,Deutsche Bank,Hold,,main,HL
+2012-11-06,Canaccord Genuity,Hold,,main,HL
+2013-01-15,Deutsche Bank,Sell,Hold,down,HL
+2013-03-08,Global Hunter Securities,Buy,Neutral,up,HL
+2013-03-21,JP Morgan,Neutral,,main,HL
+2013-04-11,Deutsche Bank,Hold,Sell,up,HL
+2013-04-11,Canaccord Genuity,Buy,Hold,up,HL
+2013-06-28,Deutsche Bank,Hold,,main,HL
+2013-10-10,Roth Capital,Buy,,init,HL
+2013-12-16,BB&T Capital,Hold,,init,HL
+2014-02-20,Roth Capital,Neutral,Buy,down,HL
+2014-05-07,Roth Capital,Buy,Neutral,up,HL
+2014-06-13,Cowen & Co.,Market Perform,,init,HL
+2014-10-01,BB&T Capital,Buy,Hold,up,HL
+2014-10-15,Bank of America,Underperform,Neutral,down,HL
+2014-10-22,BMO Capital,Underperform,Market Perform,down,HL
+2014-11-17,Roth Capital,Neutral,Buy,down,HL
+2015-01-12,Deutsche Bank,Hold,,main,HL
+2015-01-15,BB&T Capital,Hold,Buy,down,HL
+2015-02-19,Deutsche Bank,Hold,,main,HL
+2015-04-06,Deutsche Bank,Hold,,main,HL
+2015-05-11,Roth Capital,Buy,Neutral,up,HL
+2015-07-02,RBC Capital,Sector Perform,,init,HL
+2015-08-12,Deutsche Bank,Buy,Hold,up,HL
+2015-08-13,Deutsche Bank,Buy,Hold,up,HL
+2015-09-17,Deutsche Bank,Buy,,main,HL
+2015-09-18,FBR Capital,Market Perform,,init,HL
+2015-09-30,CIBC,,Sector Perform,up,HL
+2015-10-05,Deutsche Bank,Buy,,main,HL
+2015-11-04,BMO Capital,Outperform,Underperform,up,HL
+2016-01-28,FBR Capital,Market Perform,,main,HL
+2016-03-23,Deutsche Bank,Hold,Buy,down,HL
+2016-04-11,ScotiaBank,Underperform,Sector Perform,down,HL
+2016-07-05,Bernstein,Market Perform,,up,HL
+2016-07-13,Scotiabank,Sector Perform,Underperform,up,HL
+2016-08-09,Deutsche Bank,Hold,,main,HL
+2016-08-09,JP Morgan,Overweight,Neutral,up,HL
+2016-08-23,BMO Capital,Market Perform,Outperform,down,HL
+2016-09-06,Rodman & Renshaw,Buy,,init,HL
+2016-10-25,Canaccord Genuity,Hold,,init,HL
+2016-11-10,BMO Capital,Underperform,Market Perform,down,HL
+2017-02-24,BMO Capital,Market Perform,Underperform,up,HL
+2017-11-30,B. Riley FBR,Buy,Neutral,up,HL
+2017-12-04,Cantor Fitzgerald,Buy,,init,HL
+2018-03-20,H.C. Wainwright,Buy,Buy,main,HL
+2018-03-20,BMO Capital,Market Perform,Market Perform,main,HL
+2018-05-11,B. Riley FBR,Buy,Buy,main,HL
+2018-07-13,Canaccord Genuity,Hold,Buy,down,HL
+2018-08-10,BMO Capital,Market Perform,Market Perform,main,HL
+2018-09-10,Roth Capital,Buy,,init,HL
+2018-09-20,B. Riley FBR,Buy,Buy,main,HL
+2018-10-24,BMO Capital,Market Perform,Market Perform,main,HL
+2019-01-08,Canaccord Genuity,Buy,Hold,up,HL
+2019-01-16,Canaccord Genuity,Hold,Buy,down,HL
+2019-01-17,RBC Capital,Underperform,Sector Perform,down,HL
+2019-03-01,B. Riley FBR,Neutral,Buy,down,HL
+2019-05-13,BMO Capital,Underperform,Market Perform,down,HL
+2019-05-14,CIBC,Underperformer,Neutral,down,HL
+2019-08-19,H.C. Wainwright,Buy,,main,HL
+2019-09-09,B. Riley,Neutral,,main,HL
+2019-10-11,B. Riley,Neutral,,main,HL
+2019-11-08,BMO Capital,Market Perform,Underperform,up,HL
+2019-11-25,B. Riley,Neutral,,main,HL
+2020-02-25,B. Riley FBR,Neutral,,main,HL
+2020-03-24,B. Riley FBR,Neutral,,main,HL
+2020-03-25,H.C. Wainwright,Buy,,reit,HL
+2020-04-14,B. Riley FBR,Neutral,,main,HL
+2020-04-14,Canaccord Genuity,Sell,Hold,down,HL
+2020-05-08,H.C. Wainwright,Buy,,reit,HL
+2020-05-14,B. Riley FBR,Neutral,,main,HL
+2020-05-19,B. Riley FBR,Neutral,,main,HL
+2020-08-10,HC Wainwright & Co.,Buy,,main,HL
+2021-01-15,Roth Capital,Buy,,main,HL
+2021-05-07,HC Wainwright & Co.,Buy,,main,HL
+2021-05-19,CIBC,Neutral,,main,HL
+2021-10-13,HC Wainwright & Co.,Buy,,main,HL

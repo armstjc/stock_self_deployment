@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AFI220218P00002500,2022-01-31 18:41:01+00:00,2.5,0.6,0.55,0.8,0.0,0.0,5,228,1.640626796875,True,REGULAR,USD,AFI
+AFI220218P00002500,2022-01-31 18:41:01+00:00,2.5,0.6,0.55,0.8,0.0,0.0,5,228,1.6953140234375002,True,REGULAR,USD,AFI

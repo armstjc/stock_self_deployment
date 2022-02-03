@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-09,Citigroup,Buy,,main,MMI
+2014-07-11,Citigroup,Buy,,main,MMI
+2014-08-08,Citigroup,Buy,,main,MMI
+2014-09-23,Citigroup,Buy,,main,MMI
+2014-11-07,Citigroup,Buy,,main,MMI
+2015-03-06,Citigroup,Buy,,main,MMI
+2015-03-06,JMP Securities,Market Outperform,,main,MMI
+2015-03-26,Goldman Sachs,Neutral,,init,MMI
+2015-05-08,JMP Securities,Market Outperform,,main,MMI
+2015-05-08,Citigroup,Buy,,main,MMI
+2015-08-07,Citigroup,Buy,,main,MMI
+2015-08-12,Goldman Sachs,Sell,Neutral,down,MMI
+2015-10-26,JMP Securities,Market Perform,Outperform,down,MMI
+2015-11-10,Goldman Sachs,Neutral,Sell,up,MMI
+2017-11-14,Citigroup,Buy,Neutral,up,MMI
+2018-01-24,JMP Securities,Market Outperform,Market Perform,up,MMI
+2018-08-22,JMP Securities,Market Perform,Market Outperform,down,MMI
+2020-04-09,Wells Fargo,Underweight,Equal-Weight,down,MMI
+2020-06-10,Wells Fargo,Underweight,,main,MMI
+2021-12-01,Wells Fargo,Underweight,,main,MMI

@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-21,Deutsche Bank,Hold,,init,CDAY
+2018-05-21,Barclays,Equal-Weight,,init,CDAY
+2018-05-21,Goldman Sachs,Neutral,,init,CDAY
+2018-05-21,PiperJaffray,Overweight,,init,CDAY
+2018-05-21,Canaccord Genuity,Hold,,init,CDAY
+2018-05-21,William Blair,Market Perform,,init,CDAY
+2018-05-21,Mitsubishi UFJ,Overweight,,init,CDAY
+2018-05-21,JP Morgan,Neutral,,init,CDAY
+2018-05-22,Citigroup,Neutral,,init,CDAY
+2018-05-23,JP Morgan,Neutral,Neutral,main,CDAY
+2018-08-10,Citigroup,Neutral,Neutral,main,CDAY
+2018-08-10,William Blair,Outperform,Market Perform,up,CDAY
+2018-08-21,Guggenheim,Buy,,init,CDAY
+2018-09-07,Barclays,Equal-Weight,Equal-Weight,main,CDAY
+2018-10-09,Deutsche Bank,Hold,Hold,main,CDAY
+2019-01-03,Needham,Buy,,init,CDAY
+2019-04-17,KeyBanc,Sector Perform,,init,CDAY
+2019-07-31,Credit Suisse,Neutral,,main,CDAY
+2019-08-19,Jefferies,Buy,Hold,up,CDAY
+2019-08-22,Mizuho,Buy,,init,CDAY
+2019-09-11,Cantor Fitzgerald,Overweight,,init,CDAY
+2019-10-25,Citigroup,Buy,Neutral,up,CDAY
+2019-12-03,RBC Capital,Outperform,,init,CDAY
+2019-12-24,Credit Suisse,Neutral,,main,CDAY
+2020-01-21,BMO Capital,Market Perform,,init,CDAY
+2020-01-28,Wells Fargo,Overweight,,init,CDAY
+2020-01-29,Citigroup,Buy,,main,CDAY
+2020-01-30,Cowen & Co.,Outperform,,init,CDAY
+2020-02-06,Barclays,Equal-Weight,,main,CDAY
+2020-03-06,CIBC,Outperformer,,init,CDAY
+2020-03-11,Wells Fargo,Overweight,,main,CDAY
+2020-03-23,Needham,Buy,,main,CDAY
+2020-03-26,RBC Capital,Sector Perform,Outperform,down,CDAY
+2020-04-16,Jefferies,Hold,Buy,down,CDAY
+2020-04-23,JP Morgan,Underweight,Neutral,down,CDAY
+2020-04-23,Credit Suisse,Underperform,Neutral,down,CDAY
+2020-05-04,Wells Fargo,Overweight,,main,CDAY
+2020-05-07,Credit Suisse,Underperform,,main,CDAY
+2020-05-07,Baird,Outperform,,main,CDAY
+2020-05-07,Needham,Buy,,main,CDAY
+2020-05-07,Barclays,Equal-Weight,,main,CDAY
+2020-05-07,BMO Capital,Market Perform,,main,CDAY
+2020-05-11,Jefferies,Hold,,main,CDAY
+2020-05-12,Citigroup,Buy,,main,CDAY
+2020-05-22,Piper Sandler,Neutral,,init,CDAY
+2020-07-20,Barclays,Equal-Weight,,main,CDAY
+2020-08-06,Wells Fargo,Overweight,,main,CDAY
+2020-08-06,BMO Capital,Market Perform,,main,CDAY
+2020-08-06,Needham,Buy,,main,CDAY
+2020-08-06,CIBC,Neutral,Outperformer,down,CDAY
+2020-08-06,Piper Sandler,Neutral,,main,CDAY
+2020-08-06,Credit Suisse,Underperform,,main,CDAY
+2020-10-21,RBC Capital,Outperform,Sector Perform,up,CDAY
+2020-11-03,JP Morgan,Neutral,Underweight,up,CDAY
+2020-11-03,Credit Suisse,Underperform,,main,CDAY
+2020-11-06,Credit Suisse,Underperform,,main,CDAY
+2020-11-06,Needham,Buy,,main,CDAY
+2020-11-19,Credit Suisse,Neutral,Underperform,up,CDAY
+2021-01-15,Credit Suisse,Neutral,,main,CDAY
+2021-02-10,Needham,Buy,,main,CDAY
+2021-02-10,Wells Fargo,Overweight,,main,CDAY
+2021-02-10,Credit Suisse,Neutral,,main,CDAY
+2021-02-16,BMO Capital,Outperform,Market Perform,up,CDAY
+2021-04-09,Barclays,Equal-Weight,,main,CDAY
+2021-04-23,Wolfe Research,Outperform,,init,CDAY
+2021-06-15,Needham,Hold,Buy,down,CDAY
+2021-06-30,Barclays,Underweight,Equal-Weight,down,CDAY
+2021-08-05,Piper Sandler,Neutral,,main,CDAY
+2021-10-08,Mizuho,Buy,,main,CDAY
+2021-10-11,Wells Fargo,Overweight,,main,CDAY
+2021-10-13,DA Davidson,Buy,,init,CDAY
+2021-10-18,Barclays,Underweight,,main,CDAY
+2021-11-02,Deutsche Bank,Buy,,init,CDAY
+2021-11-04,Piper Sandler,Neutral,,main,CDAY
+2021-11-04,Barclays,Underweight,,main,CDAY

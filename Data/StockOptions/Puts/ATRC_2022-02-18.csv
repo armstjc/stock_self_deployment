@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ATRC220218P00060000,2021-12-16 20:56:43+00:00,60.0,2.55,0.75,3.7,0.0,0.0,,2,0.831056376953125,False,REGULAR,USD,ATRC

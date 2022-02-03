@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-02,Bank of America,Buy,,init,LGIH
+2013-12-02,Deutsche Bank,Buy,,init,LGIH
+2013-12-02,JP Morgan,Overweight,,init,LGIH
+2013-12-02,JMP Securities,Outperform,,init,LGIH
+2014-04-07,JMP Securities,Market Outperform,,main,LGIH
+2014-05-19,JP Morgan,Overweight,,main,LGIH
+2014-06-23,Deutsche Bank,Buy,,main,LGIH
+2014-08-13,JP Morgan,Overweight,,main,LGIH
+2014-12-04,Bank of America,Buy,,main,LGIH
+2015-01-12,JP Morgan,Overweight,,main,LGIH
+2015-01-20,JMP Securities,Market Outperform,,main,LGIH
+2015-06-30,JMP Securities,Market Outperform,,main,LGIH
+2016-09-29,Wells Fargo,Outperform,,init,LGIH
+2016-12-05,Wedbush,Neutral,,init,LGIH
+2017-01-06,Wells Fargo,Market Perform,Outperform,down,LGIH
+2017-02-06,Wells Fargo,Underperform,Market Perform,down,LGIH
+2017-02-08,BTIG Research,Neutral,,init,LGIH
+2017-05-16,Wells Fargo,Market Perform,Underperform,up,LGIH
+2017-08-09,JP Morgan,Neutral,Overweight,down,LGIH
+2017-08-31,Wedbush,Outperform,Neutral,up,LGIH
+2017-10-03,Wedbush,Neutral,Outperform,down,LGIH
+2017-11-08,JMP Securities,Market Outperform,,main,LGIH
+2018-02-13,Wedbush,Outperform,Neutral,up,LGIH
+2018-04-10,Wedbush,Neutral,Outperform,down,LGIH
+2018-07-06,Wedbush,Neutral,Neutral,main,LGIH
+2018-07-09,Wedbush,Neutral,Neutral,main,LGIH
+2018-08-08,Wedbush,Neutral,Neutral,main,LGIH
+2018-09-21,JP Morgan,Overweight,Neutral,up,LGIH
+2019-02-27,Wells Fargo,Outperform,Outperform,main,LGIH
+2019-02-27,JMP Securities,Market Outperform,Market Outperform,main,LGIH
+2019-08-07,BTIG Research,Sell,Neutral,down,LGIH
+2019-09-06,JMP Securities,Market Outperform,,main,LGIH
+2019-09-11,JP Morgan,Neutral,Overweight,down,LGIH
+2019-09-13,Wells Fargo,Outperform,,main,LGIH
+2019-09-23,BTIG,Sell,,reit,LGIH
+2020-03-02,JP Morgan,Neutral,,main,LGIH
+2020-03-18,JP Morgan,Underweight,Neutral,down,LGIH
+2020-04-06,Wedbush,Outperform,Neutral,up,LGIH
+2020-04-06,Wells Fargo,Overweight,,main,LGIH
+2020-05-06,Wedbush,Outperform,,main,LGIH
+2020-06-04,Wedbush,Neutral,Outperform,down,LGIH
+2020-06-11,JP Morgan,Neutral,Underweight,up,LGIH
+2020-07-21,BTIG,Neutral,Sell,up,LGIH
+2020-08-05,Wells Fargo,Equal-Weight,Overweight,down,LGIH
+2020-11-17,JP Morgan,Underweight,Neutral,down,LGIH
+2020-12-09,UBS,Buy,,init,LGIH
+2021-04-07,Wedbush,Neutral,,main,LGIH
+2021-04-16,Wells Fargo,Underweight,,init,LGIH
+2021-05-06,Wells Fargo,Underweight,,main,LGIH
+2021-06-18,JMP Securities,Market Outperform,,main,LGIH
+2021-12-09,Wells Fargo,Equal-Weight,Underweight,up,LGIH

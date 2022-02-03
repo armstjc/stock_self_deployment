@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-01-20,Bank oferica,Underperform,,down,NKTR
+2012-08-10,Citigroup,Buy,,main,NKTR
+2012-08-10,Jefferies,Buy,,main,NKTR
+2012-10-02,Deutsche Bank,Buy,,main,NKTR
+2012-11-12,Jefferies,Hold,Buy,down,NKTR
+2012-11-13,Bank of America,Underperform,,main,NKTR
+2013-01-15,Lazard,Buy,,init,NKTR
+2013-03-01,Deutsche Bank,Buy,,main,NKTR
+2013-09-12,Cowen & Co.,Outperform,,init,NKTR
+2013-09-27,Brean Capital,Buy,,main,NKTR
+2013-11-26,PiperJaffray,Overweight,,init,NKTR
+2013-11-26,PiperJaffray,Overweight,,init,NKTR
+2014-02-27,MKM Partners,Neutral,Buy,down,NKTR
+2014-04-21,Jefferies,Buy,,init,NKTR
+2014-06-26,Ladenburg Thalmann,Buy,,init,NKTR
+2014-09-16,Brean Capital,Buy,,main,NKTR
+2014-09-17,Bank of America,Underperform,,main,NKTR
+2015-03-18,Jefferies,Buy,,main,NKTR
+2015-03-18,JP Morgan,Overweight,,main,NKTR
+2016-01-28,Janney Capital,Buy,,init,NKTR
+2016-11-08,Aegis Capital,Buy,,init,NKTR
+2017-08-07,H.C. Wainwright,Buy,,init,NKTR
+2017-09-27,Mizuho,Buy,,init,NKTR
+2017-11-07,Cowen & Co.,Outperform,,init,NKTR
+2017-11-09,Canaccord Genuity,Buy,,init,NKTR
+2017-11-13,Canaccord Genuity,Buy,,main,NKTR
+2018-04-20,Seaport Global,Buy,,init,NKTR
+2018-06-04,JP Morgan,Overweight,Overweight,main,NKTR
+2018-06-11,H.C. Wainwright,Neutral,Buy,down,NKTR
+2018-11-08,Jefferies,Buy,Buy,main,NKTR
+2018-11-13,Canaccord Genuity,Buy,Buy,main,NKTR
+2018-12-13,Goldman Sachs,Buy,,init,NKTR
+2019-02-22,BMO Capital,Outperform,,init,NKTR
+2019-07-26,Mizuho,Buy,,main,NKTR
+2019-08-09,JP Morgan,Neutral,Overweight,down,NKTR
+2019-08-09,Jefferies,Hold,Buy,down,NKTR
+2019-08-09,Mizuho,Neutral,Buy,down,NKTR
+2019-08-09,BMO Capital,Outperform,,main,NKTR
+2019-10-08,Goldman Sachs,Sell,Buy,down,NKTR
+2019-10-24,Oppenheimer,Perform,,init,NKTR
+2019-11-07,Piper Jaffray,Overweight,,main,NKTR
+2019-11-11,H.C. Wainwright,Neutral,,main,NKTR
+2019-11-12,Canaccord Genuity,Buy,,main,NKTR
+2019-11-13,JP Morgan,Neutral,,main,NKTR
+2020-02-03,Mizuho,Buy,Neutral,up,NKTR
+2020-03-04,Barclays,Overweight,,init,NKTR
+2020-03-09,JP Morgan,Neutral,,main,NKTR
+2020-03-30,Goldman Sachs,Neutral,Sell,up,NKTR
+2020-04-22,Benchmark,Buy,,init,NKTR
+2020-05-12,HC Wainwright & Co.,Neutral,,reit,NKTR
+2020-05-18,Oppenheimer,Perform,,main,NKTR
+2020-08-14,SVB Leerink,Market Perform,,main,NKTR
+2020-11-12,SVB Leerink,Market Perform,,main,NKTR
+2021-01-06,Stifel,Hold,,init,NKTR
+2021-02-22,Benchmark,Hold,Buy,down,NKTR
+2021-04-06,SVB Leerink,Market Perform,,main,NKTR
+2021-05-10,SVB Leerink,Market Perform,,main,NKTR
+2021-06-28,Stifel,Buy,Hold,up,NKTR
+2021-08-06,SVB Leerink,Market Perform,,main,NKTR
+2021-09-10,B of A Securities,Neutral,,init,NKTR
+2021-11-05,Oppenheimer,Perform,,main,NKTR
+2021-11-08,SVB Leerink,Market Perform,,main,NKTR
+2021-11-08,Benchmark,Buy,Hold,up,NKTR

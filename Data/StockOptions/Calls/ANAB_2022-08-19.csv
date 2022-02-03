@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ANAB220819C00040000,2021-12-22 20:56:12+00:00,40.0,6.08,3.3,6.2,0.0,0.0,,1,0.825929475097656,False,REGULAR,USD,ANAB

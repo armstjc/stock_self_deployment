@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-04-19,Goldman Sachs,Buy,,init,DSEY
+2021-04-19,Morgan Stanley,Overweight,,init,DSEY
+2021-04-19,Baird,Outperform,,init,DSEY
+2021-04-19,Citigroup,Buy,,init,DSEY
+2021-04-19,UBS,Buy,,init,DSEY
+2021-04-19,RBC Capital,Outperform,,init,DSEY
+2021-04-19,B of A Securities,Buy,,init,DSEY
+2021-04-19,Barclays,Equal-Weight,,init,DSEY
+2021-04-19,Jefferies,Buy,,init,DSEY
+2021-04-19,JP Morgan,Overweight,,init,DSEY
+2021-05-17,Barclays,Equal-Weight,,main,DSEY
+2021-10-13,Mizuho,Neutral,,init,DSEY
+2022-01-04,UBS,Buy,,main,DSEY

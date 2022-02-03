@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-05,FBR Capital,Outperform,Market Perform,up,FBC
+2013-03-13,Compass Point,Sell,,init,FBC
+2013-04-25,Compass Point,Sell,,main,FBC
+2013-05-29,BTIG Research,Buy,,init,FBC
+2013-05-29,BTIG Research,Buy,,init,FBC
+2013-06-24,Compass Point,Sell,,main,FBC
+2013-07-26,Compass Point,Neutral,,main,FBC
+2013-11-07,Compass Point,Buy,Neutral,up,FBC
+2013-11-07,BTIG Research,Neutral,Buy,down,FBC
+2013-12-19,Compass Point,Buy,,main,FBC
+2013-12-23,Sandler O'Neill,Buy,,init,FBC
+2014-01-07,Compass Point,Buy,,main,FBC
+2014-01-27,Compass Point,Buy,,main,FBC
+2014-04-23,FBR Capital,Market Perform,Outperform,down,FBC
+2014-04-25,Compass Point,Neutral,Buy,down,FBC
+2014-08-27,BTIG Research,Sell,Neutral,down,FBC
+2014-09-09,Compass Point,Buy,Neutral,up,FBC
+2014-09-30,BTIG Research,Neutral,Sell,up,FBC
+2014-10-23,Keefe Bruyette & Woods,Market Perform,,main,FBC
+2014-10-29,Compass Point,Buy,,main,FBC
+2015-01-06,FBR Capital,Outperform,Market Perform,up,FBC
+2015-04-29,Keefe Bruyette & Woods,Market Perform,,main,FBC
+2015-11-02,Keefe Bruyette & Woods,Market Perform,Outperform,down,FBC
+2016-02-09,Sandler O'Neill,Buy,Hold,up,FBC
+2016-03-01,Sterne Agee CRT,Buy,,init,FBC
+2016-03-11,PiperJaffray,Overweight,,init,FBC
+2016-06-28,Keefe Bruyette & Woods,Outperform,Market Perform,up,FBC
+2016-07-27,Keefe Bruyette & Woods,Market Perform,Outperform,down,FBC
+2016-07-27,PiperJaffray,Neutral,Overweight,down,FBC
+2016-10-11,Wedbush,Neutral,,init,FBC
+2017-02-13,PiperJaffray,Overweight,Neutral,up,FBC
+2017-04-26,Wedbush,Outperform,Neutral,up,FBC
+2017-08-31,Raymond James,Outperform,,init,FBC
+2017-10-25,FBR Capital,Buy,,main,FBC
+2018-04-12,Wedbush,Outperform,Outperform,main,FBC
+2018-05-14,Compass Point,Buy,Neutral,up,FBC
+2018-06-28,Keefe Bruyette & Woods,Outperform,Market Perform,up,FBC
+2018-08-07,B. Riley FBR,Buy,Buy,main,FBC
+2019-01-11,Sandler O'Neill,Hold,Buy,down,FBC
+2019-04-25,PiperJaffray,Neutral,Overweight,down,FBC
+2019-10-04,B. Riley,Buy,,main,FBC
+2019-10-23,Raymond James,Outperform,,main,FBC
+2019-11-07,Raymond James,Outperform,,main,FBC
+2020-02-26,Piper Sandler,Overweight,Neutral,up,FBC
+2020-03-25,B. Riley FBR,Buy,,main,FBC
+2020-04-24,Wedbush,Outperform,,main,FBC
+2020-04-30,Raymond James,Outperform,,reit,FBC
+2020-05-07,B. Riley FBR,Buy,,main,FBC
+2020-07-31,Raymond James,Strong Buy,,main,FBC
+2020-10-22,Raymond James,Strong Buy,,main,FBC
+2020-10-26,Piper Sandler,Overweight,,main,FBC
+2021-01-25,Raymond James,Strong Buy,,main,FBC
+2021-04-27,Wedbush,Neutral,Outperform,down,FBC
+2021-05-04,Raymond James,Market Perform,Strong Buy,down,FBC

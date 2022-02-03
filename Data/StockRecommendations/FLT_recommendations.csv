@@ -1,0 +1,142 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,Goldman Sachs,Neutral,,main,FLT
+2012-04-30,Citigroup,Neutral,,main,FLT
+2012-08-09,Barclays,Equal-Weight,,main,FLT
+2012-08-09,Compass Point,Neutral,,main,FLT
+2012-08-09,Goldman Sachs,Neutral,,main,FLT
+2012-11-09,Barclays,Equal-Weight,,main,FLT
+2012-11-09,Compass Point,Neutral,,main,FLT
+2012-11-09,Citigroup,Buy,Neutral,up,FLT
+2012-11-19,Evercore Partners,Overweight,,init,FLT
+2012-11-28,Compass Point,Neutral,,main,FLT
+2013-01-10,Citigroup,Buy,,main,FLT
+2013-01-11,JP Morgan,Neutral,Overweight,down,FLT
+2013-02-08,Barclays,Equal-Weight,,main,FLT
+2013-02-08,Compass Point,Neutral,,main,FLT
+2013-06-18,Morgan Stanley,Equal-Weight,,init,FLT
+2013-08-02,Barclays,Overweight,Equal-Weight,up,FLT
+2014-01-21,Barclays,Overweight,,main,FLT
+2014-02-21,Jefferies,Buy,,init,FLT
+2014-04-24,Citigroup,Buy,,main,FLT
+2014-05-02,Raymond James,Outperform,,main,FLT
+2014-07-16,PiperJaffray,Neutral,,init,FLT
+2014-08-01,Barclays,Overweight,,main,FLT
+2014-08-04,Jefferies,Buy,,main,FLT
+2014-10-16,Morgan Stanley,Overweight,Equal-Weight,up,FLT
+2014-10-31,Citigroup,Buy,,main,FLT
+2014-11-03,Jefferies,Buy,,main,FLT
+2014-11-12,Jefferies,Buy,,main,FLT
+2014-11-26,Morgan Stanley,Overweight,,main,FLT
+2014-12-05,Deutsche Bank,Buy,,init,FLT
+2015-01-15,JP Morgan,Neutral,,main,FLT
+2015-01-16,Citigroup,Buy,,main,FLT
+2015-01-20,Deutsche Bank,Buy,,main,FLT
+2015-02-06,Citigroup,Buy,,main,FLT
+2015-03-20,Oppenheimer,Market Perform,,init,FLT
+2015-04-06,JP Morgan,Neutral,,main,FLT
+2015-04-27,Citigroup,Buy,,main,FLT
+2015-05-01,Barclays,Overweight,,main,FLT
+2015-05-13,Monness Crespi Hardt,Buy,,init,FLT
+2015-06-16,Topeka,Hold,,init,FLT
+2015-08-06,Susquehanna,Positive,Neutral,up,FLT
+2015-08-14,JP Morgan,Neutral,,main,FLT
+2015-09-11,Deutsche Bank,Buy,,main,FLT
+2015-09-14,Keefe Bruyette & Woods,Outperform,,init,FLT
+2015-09-30,Evercore ISI Group,Hold,Buy,down,FLT
+2015-11-02,Susquehanna,Positive,,main,FLT
+2015-12-10,Credit Suisse,Neutral,,init,FLT
+2016-01-05,Barclays,Overweight,,main,FLT
+2016-01-14,Deutsche Bank,Buy,,main,FLT
+2016-01-19,Barclays,Overweight,,main,FLT
+2016-01-25,Jefferies,Buy,,main,FLT
+2016-01-27,Credit Suisse,Neutral,,main,FLT
+2016-02-03,Keefe Bruyette & Woods,Outperform,,main,FLT
+2016-03-18,Evercore ISI Group,Buy,Hold,up,FLT
+2016-04-15,Compass Point,Neutral,,init,FLT
+2016-04-15,Compass Point,Neutral,,init,FLT
+2016-06-24,SunTrust Robinson Humphrey,Buy,,init,FLT
+2016-07-12,JP Morgan,Overweight,Neutral,up,FLT
+2016-08-05,JP Morgan,Overweight,,main,FLT
+2016-08-05,Deutsche Bank,Buy,,main,FLT
+2016-08-05,Barclays,Overweight,,main,FLT
+2016-08-05,Oppenheimer,Outperform,Perform,up,FLT
+2016-08-08,Jefferies,Buy,,main,FLT
+2016-08-08,Keefe Bruyette & Woods,Outperform,,main,FLT
+2016-09-21,Barclays,Overweight,,main,FLT
+2016-10-14,William Blair,Outperform,,init,FLT
+2016-11-18,Wells Fargo,Outperform,Market Perform,up,FLT
+2016-12-15,Citigroup,Buy,,init,FLT
+2017-05-02,Raymond James,Strong Buy,Outperform,up,FLT
+2017-07-13,Citigroup,Buy,,main,FLT
+2017-10-18,Morgan Stanley,Overweight,,main,FLT
+2017-11-02,Barclays,Overweight,,main,FLT
+2017-11-02,Morgan Stanley,Overweight,,main,FLT
+2017-11-02,Oppenheimer,Outperform,,main,FLT
+2017-11-02,Citigroup,Buy,,main,FLT
+2018-01-25,Morgan Stanley,Overweight,Overweight,main,FLT
+2018-02-09,Credit Suisse,Neutral,Neutral,main,FLT
+2018-03-14,Morgan Stanley,Overweight,Overweight,main,FLT
+2018-05-04,Morgan Stanley,Overweight,Overweight,main,FLT
+2018-07-20,Citigroup,Buy,Buy,main,FLT
+2018-08-03,Morgan Stanley,Overweight,Overweight,main,FLT
+2018-11-15,Barclays,Overweight,,init,FLT
+2018-12-11,Goldman Sachs,Neutral,Buy,down,FLT
+2019-01-18,BTIG Research,Buy,,init,FLT
+2019-01-29,Jefferies,Hold,,init,FLT
+2019-02-19,SunTrust Robinson Humphrey,Buy,Buy,main,FLT
+2019-03-19,Citigroup,Buy,Buy,main,FLT
+2019-05-08,Mizuho,Neutral,,main,FLT
+2019-06-03,Bank of America,Neutral,,init,FLT
+2019-06-05,Goldman Sachs,Buy,Neutral,up,FLT
+2019-06-21,Deutsche Bank,Buy,,main,FLT
+2019-07-11,Morgan Stanley,Equal-Weight,Overweight,down,FLT
+2019-07-25,Baird,Neutral,,init,FLT
+2019-09-05,Baird,Neutral,,main,FLT
+2019-09-09,Citigroup,Buy,,main,FLT
+2019-10-07,RBC Capital,Sector Perform,,init,FLT
+2019-11-07,JP Morgan,Overweight,,main,FLT
+2019-11-11,Barclays,Overweight,,main,FLT
+2019-11-15,Morgan Stanley,Equal-Weight,,main,FLT
+2019-12-16,Deutsche Bank,Buy,,main,FLT
+2020-01-22,Citigroup,Buy,,main,FLT
+2020-01-23,Morgan Stanley,Equal-Weight,,main,FLT
+2020-01-24,Credit Suisse,Neutral,,init,FLT
+2020-01-27,Baird,Neutral,,main,FLT
+2020-02-07,Morgan Stanley,Equal-Weight,,main,FLT
+2020-02-10,CFRA,Hold,,reit,FLT
+2020-03-03,Citigroup,Buy,,main,FLT
+2020-03-11,Baird,Neutral,,main,FLT
+2020-03-16,Morgan Stanley,Equal-Weight,,main,FLT
+2020-03-20,Deutsche Bank,Buy,,main,FLT
+2020-04-06,SunTrust Robinson Humphrey,Buy,,main,FLT
+2020-04-08,Wells Fargo,Overweight,,main,FLT
+2020-04-09,Barclays,Overweight,,main,FLT
+2020-04-29,Morgan Stanley,Equal-Weight,,main,FLT
+2020-05-04,Baird,Neutral,,main,FLT
+2020-05-11,SunTrust Robinson Humphrey,Buy,,main,FLT
+2020-05-11,Barclays,Overweight,,main,FLT
+2020-05-11,CFRA,Hold,,reit,FLT
+2020-07-09,Jefferies,Buy,Hold,up,FLT
+2020-07-14,Goldman Sachs,Buy,,init,FLT
+2020-07-24,Morgan Stanley,Equal-Weight,,main,FLT
+2020-07-28,Barclays,Overweight,,main,FLT
+2020-08-10,Credit Suisse,Neutral,,main,FLT
+2020-08-11,Citigroup,Neutral,,main,FLT
+2020-08-27,Mizuho,Neutral,,init,FLT
+2020-08-31,Deutsche Bank,Buy,,main,FLT
+2020-11-06,Morgan Stanley,Equal-Weight,,main,FLT
+2020-11-09,Credit Suisse,Neutral,,main,FLT
+2021-01-06,B of A Securities,Buy,Neutral,up,FLT
+2021-02-05,Credit Suisse,Neutral,,main,FLT
+2021-02-08,Barclays,Overweight,,main,FLT
+2021-04-01,Citigroup,Buy,Neutral,up,FLT
+2021-05-06,Wells Fargo,Overweight,,main,FLT
+2021-05-10,Mizuho,Neutral,,main,FLT
+2021-07-08,Morgan Stanley,Equal-Weight,,main,FLT
+2021-08-05,Morgan Stanley,Equal-Weight,,main,FLT
+2021-08-06,Credit Suisse,Neutral,,main,FLT
+2021-08-17,JP Morgan,Overweight,,main,FLT
+2021-10-22,Mizuho,Neutral,,main,FLT
+2021-11-04,Morgan Stanley,Equal-Weight,,main,FLT
+2021-11-05,Credit Suisse,Neutral,,main,FLT
+2021-12-14,Barclays,Overweight,,main,FLT

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-22,Bank of America,Buy,,init,GSHD
+2018-05-22,JP Morgan,Overweight,,init,GSHD
+2018-05-24,William Blair,Outperform,,init,GSHD
+2018-06-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,GSHD
+2019-12-17,RBC Capital,Outperform,,init,GSHD
+2020-07-31,"Keefe, Bruyette & Woods",Market Perform,,main,GSHD
+2021-02-02,RBC Capital,Outperform,,main,GSHD
+2021-04-15,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,GSHD
+2021-06-25,Piper Sandler,Overweight,,init,GSHD
+2021-07-01,JP Morgan,Neutral,Overweight,down,GSHD
+2021-08-31,Piper Sandler,Overweight,,main,GSHD
+2021-09-08,Truist Securities,Hold,,init,GSHD
+2021-09-09,JMP Securities,Market Outperform,,init,GSHD
+2021-10-05,Piper Sandler,Overweight,,main,GSHD
+2021-10-18,B of A Securities,Underperform,Neutral,down,GSHD
+2021-10-28,RBC Capital,Outperform,,main,GSHD

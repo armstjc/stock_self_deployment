@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-01-08,Baird,Outperform,,init,IMVT
+2020-01-09,Chardan Capital,Buy,,init,IMVT
+2020-01-10,SunTrust Robinson Humphrey,Buy,,init,IMVT
+2020-02-24,SVB Leerink,Outperform,,init,IMVT
+2020-05-29,Nomura Instinet,Buy,,main,IMVT
+2020-07-29,HC Wainwright & Co.,Buy,,init,IMVT
+2020-08-13,Chardan Capital,Buy,,main,IMVT
+2020-08-20,SVB Leerink,Outperform,,main,IMVT
+2020-08-25,Raymond James,Outperform,,init,IMVT
+2020-08-25,Chardan Capital,Buy,,main,IMVT
+2020-08-26,HC Wainwright & Co.,Buy,,main,IMVT
+2020-10-02,Credit Suisse,Outperform,,init,IMVT
+2020-10-08,Stifel,Buy,,init,IMVT
+2020-10-12,Guggenheim,Buy,,init,IMVT
+2020-10-28,UBS,Buy,,init,IMVT
+2020-11-13,HC Wainwright & Co.,Buy,,main,IMVT
+2020-11-13,SVB Leerink,Outperform,,main,IMVT
+2021-02-02,Stifel,Buy,,main,IMVT
+2021-02-03,SVB Leerink,Outperform,,main,IMVT
+2021-02-03,HC Wainwright & Co.,Buy,,main,IMVT
+2021-02-03,Raymond James,Outperform,,main,IMVT
+2021-02-17,Credit Suisse,Neutral,,main,IMVT
+2021-05-10,HC Wainwright & Co.,Buy,,main,IMVT
+2021-06-01,Stifel,Hold,Buy,down,IMVT
+2021-06-02,HC Wainwright & Co.,Buy,,reit,IMVT
+2021-06-02,SVB Leerink,Outperform,,main,IMVT
+2021-06-02,Credit Suisse,Neutral,,main,IMVT
+2021-08-03,Baird,Neutral,Outperform,down,IMVT
+2021-11-08,HC Wainwright & Co.,Buy,,main,IMVT
+2021-12-08,Wells Fargo,Equal-Weight,,init,IMVT

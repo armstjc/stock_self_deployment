@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,Goldman Sachs,Neutral,,main,BBDO
+2012-07-20,JP Morgan,Overweight,Neutral,up,BBDO
+2012-08-08,Barclays,Equal-Weight,,main,BBDO
+2012-10-24,Barclays,Equal-Weight,,main,BBDO
+2013-01-24,JP Morgan,Overweight,,main,BBDO
+2013-01-29,Morgan Stanley,Equal-Weight,,main,BBDO
+2013-03-27,Bank of America,Buy,Neutral,up,BBDO
+2013-07-23,GBM,Market Perform,Market Underperform,up,BBDO
+2014-04-23,Deutsche Bank,Neutral,,main,BBDO
+2014-07-25,JP Morgan,Neutral,,main,BBDO
+2014-07-31,UBS,Buy,Neutral,up,BBDO
+2014-10-14,JP Morgan,Neutral,,main,BBDO
+2015-01-28,JP Morgan,Overweight,,main,BBDO
+2015-04-09,Canaccord Genuity,Neutral,Outperform,down,BBDO
+2015-04-23,JP Morgan,Overweight,,main,BBDO
+2015-05-28,Barclays,Equal-Weight,Underweight,up,BBDO
+2015-07-28,JP Morgan,Overweight,,main,BBDO
+2015-10-12,Deutsche Bank,Buy,Hold,up,BBDO
+2016-03-14,Bank of America,Buy,Neutral,up,BBDO
+2016-03-15,Scotiabank,Underperform,,init,BBDO
+2016-03-22,Deutsche Bank,Hold,Buy,down,BBDO
+2016-04-08,Citigroup,Sell,Neutral,down,BBDO
+2016-04-27,Barclays,Equal-Weight,Overweight,down,BBDO
+2016-05-02,Goldman Sachs,Neutral,,main,BBDO
+2016-05-05,UBS,Neutral,Buy,down,BBDO
+2017-09-11,Goldman Sachs,Buy,Neutral,up,BBDO
+2019-06-10,Goldman Sachs,Sell,,init,BBDO
+2019-08-07,Morgan Stanley,Overweight,Equal-Weight,up,BBDO
+2020-03-27,JP Morgan,Overweight,,main,BBDO
+2021-09-13,Itau BBA,Market Perform,Outperform,down,BBDO

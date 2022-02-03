@@ -1,0 +1,137 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-02,Sterne Agee,Buy,,main,CRL
+2012-07-10,ISI Group,Underweight,,init,CRL
+2012-10-31,Jefferies,Hold,,main,CRL
+2012-12-13,Wells Fargo,Outperform,Market Perform,up,CRL
+2012-12-13,JP Morgan,Overweight,Neutral,up,CRL
+2013-01-14,Sterne Agee,Buy,,main,CRL
+2013-02-19,Jefferies,Buy,Hold,up,CRL
+2013-02-20,ISI Group,Neutral,,main,CRL
+2013-03-18,Bank of America,Neutral,,init,CRL
+2013-03-27,Wells Fargo,Market Perform,Outperform,down,CRL
+2013-04-03,Citigroup,Sell,Neutral,down,CRL
+2013-05-31,Raymond James,Underperform,Market Perform,down,CRL
+2013-06-11,Sterne Agee,Buy,,init,CRL
+2013-06-18,Goldman Sachs,Sell,Neutral,down,CRL
+2013-09-17,UBS,Neutral,,init,CRL
+2013-09-24,Credit Suisse,Neutral,,init,CRL
+2013-10-01,Cantor Fitzgerald,Buy,,init,CRL
+2013-11-20,Deutsche Bank,Hold,,init,CRL
+2013-12-11,Raymond James,Market Perform,Underperform,up,CRL
+2013-12-12,Bank of America,Neutral,,main,CRL
+2014-02-18,Citigroup,Neutral,,init,CRL
+2014-03-19,KeyBanc,Hold,,init,CRL
+2014-05-02,Citigroup,Hold,,main,CRL
+2014-06-24,SunTrust Robinson Humphrey,Neutral,,init,CRL
+2014-08-08,Credit Suisse,Neutral,,main,CRL
+2014-08-08,JP Morgan,Overweight,,main,CRL
+2014-08-13,Deutsche Bank,Hold,,main,CRL
+2014-10-15,SunTrust Robinson Humphrey,Buy,Neutral,up,CRL
+2014-10-30,Jefferies,Buy,,main,CRL
+2014-10-31,Deutsche Bank,Hold,,main,CRL
+2014-11-03,Citigroup,Neutral,,main,CRL
+2014-11-05,Credit Suisse,Neutral,,main,CRL
+2015-01-16,Jefferies,Buy,,main,CRL
+2015-01-23,William Blair,Outperform,Market Perform,up,CRL
+2015-01-28,Jefferies,Buy,,main,CRL
+2015-02-12,Deutsche Bank,Hold,,main,CRL
+2015-02-12,Jefferies,Buy,,main,CRL
+2015-03-26,SunTrust Robinson Humphrey,Neutral,Buy,down,CRL
+2015-04-07,Wells Fargo,Underperform,Market Perform,down,CRL
+2015-04-24,Jefferies,Buy,,main,CRL
+2015-04-24,Barclays,Equal-Weight,,main,CRL
+2015-05-04,Edward Jones,Buy,Neutral,up,CRL
+2015-07-10,Bank of America,Buy,Neutral,up,CRL
+2015-07-10,Morgan Stanley,Equal-Weight,,main,CRL
+2015-07-10,Barclays,Underweight,Equal-Weight,down,CRL
+2015-07-31,Citigroup,Neutral,,main,CRL
+2015-10-12,Wells Fargo,Market Perform,Underperform,up,CRL
+2015-11-05,Deutsche Bank,Hold,,main,CRL
+2016-01-07,Wells Fargo,Outperform,Market Perform,down,CRL
+2016-01-08,Jefferies,Buy,,main,CRL
+2016-01-08,Baird,Outperform,,main,CRL
+2016-02-11,UBS,Neutral,,main,CRL
+2016-02-11,Deutsche Bank,Hold,,main,CRL
+2016-04-26,Gabelli & Co.,Buy,,init,CRL
+2016-05-20,Barclays,Underweight,,main,CRL
+2016-06-21,Credit Suisse,Neutral,,init,CRL
+2016-08-04,Jefferies,Buy,,main,CRL
+2016-08-04,Citigroup,Neutral,,main,CRL
+2016-09-06,UBS,Sell,Neutral,down,CRL
+2016-11-30,Barclays,Equal-Weight,Underweight,up,CRL
+2016-12-16,Goldman Sachs,Neutral,Sell,up,CRL
+2017-01-04,Evercore ISI Group,Buy,Hold,up,CRL
+2017-09-19,RBC Capital,Sector Perform,,init,CRL
+2017-10-09,Jefferies,Buy,,main,CRL
+2017-11-10,Bank of America,Buy,,main,CRL
+2017-11-13,Jefferies,Buy,,main,CRL
+2017-12-13,Argus,Buy,,init,CRL
+2018-01-19,Evercore ISI Group,In-Line,,init,CRL
+2018-01-22,SunTrust Robinson Humphrey,Hold,Buy,down,CRL
+2018-02-14,SunTrust Robinson Humphrey,Buy,Hold,up,CRL
+2018-02-14,JP Morgan,Overweight,Overweight,main,CRL
+2018-03-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,CRL
+2018-04-20,Mitsubishi UFJ,Neutral,,init,CRL
+2018-06-15,KeyBanc,Overweight,Sector Weight,up,CRL
+2018-07-16,Bank of America,Buy,Buy,main,CRL
+2018-07-17,RBC Capital,Outperform,Sector Perform,up,CRL
+2018-08-09,Barclays,Equal-Weight,Equal-Weight,main,CRL
+2018-08-09,Jefferies,Buy,Buy,main,CRL
+2018-08-21,Credit Suisse,Neutral,Neutral,main,CRL
+2018-08-23,Raymond James,Outperform,Market Perform,up,CRL
+2018-08-27,Argus,Buy,Buy,main,CRL
+2018-09-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,CRL
+2018-09-17,Baird,Outperform,Outperform,main,CRL
+2018-09-25,Credit Suisse,Neutral,Neutral,main,CRL
+2018-11-08,RBC Capital,Outperform,Outperform,main,CRL
+2018-11-08,Raymond James,Outperform,Outperform,main,CRL
+2018-11-08,Baird,Outperform,Outperform,main,CRL
+2018-12-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,CRL
+2019-03-11,KeyBanc,Overweight,Overweight,main,CRL
+2019-03-18,Barclays,Equal-Weight,Equal-Weight,main,CRL
+2019-09-16,SunTrust Robinson Humphrey,Buy,,main,CRL
+2019-10-18,Bank of America,Neutral,Buy,down,CRL
+2019-11-07,UBS,Neutral,,main,CRL
+2019-12-09,KeyBanc,Overweight,,main,CRL
+2019-12-17,Baird,Outperform,,main,CRL
+2020-01-07,Citigroup,Buy,,init,CRL
+2020-01-08,Wells Fargo,Overweight,,init,CRL
+2020-01-10,Goldman Sachs,Buy,Neutral,up,CRL
+2020-02-11,CFRA,Strong Buy,,main,CRL
+2020-02-12,Baird,Outperform,,main,CRL
+2020-02-12,Morgan Stanley,Equal-Weight,,main,CRL
+2020-02-18,Wolfe Research,Outperform,Peer Perform,up,CRL
+2020-03-02,Deutsche Bank,Buy,,init,CRL
+2020-03-17,SunTrust Robinson Humphrey,Buy,,main,CRL
+2020-03-23,Jefferies,Buy,,main,CRL
+2020-03-26,Barclays,Equal-Weight,,main,CRL
+2020-03-27,Morgan Stanley,Overweight,Equal-Weight,up,CRL
+2020-03-30,Wells Fargo,Overweight,,main,CRL
+2020-04-06,SunTrust Robinson Humphrey,Buy,,main,CRL
+2020-04-09,Citigroup,Buy,,main,CRL
+2020-04-21,Jefferies,Hold,Buy,down,CRL
+2020-05-08,Morgan Stanley,Overweight,,main,CRL
+2020-05-08,Citigroup,Buy,,main,CRL
+2020-05-12,Deutsche Bank,Buy,,main,CRL
+2020-05-13,UBS,Buy,Neutral,up,CRL
+2020-07-01,B of A Securities,Buy,Neutral,up,CRL
+2020-08-06,Morgan Stanley,Overweight,,main,CRL
+2020-08-06,Citigroup,Buy,,main,CRL
+2020-08-18,KeyBanc,Overweight,,main,CRL
+2020-09-10,Jefferies,Buy,Hold,up,CRL
+2020-09-14,Argus Research,Buy,,main,CRL
+2020-10-30,Morgan Stanley,Overweight,,main,CRL
+2020-11-24,KeyBanc,Overweight,,main,CRL
+2020-12-16,Citigroup,Neutral,Buy,down,CRL
+2021-02-18,Truist Securities,Buy,,main,CRL
+2021-02-18,Deutsche Bank,Buy,,main,CRL
+2021-02-19,Morgan Stanley,Overweight,,main,CRL
+2021-02-22,Morgan Stanley,Overweight,,main,CRL
+2021-05-14,Keybanc,Overweight,,main,CRL
+2021-05-25,Truist Securities,Buy,,main,CRL
+2021-05-28,Citigroup,Neutral,,main,CRL
+2021-05-28,Credit Suisse,Neutral,,main,CRL
+2021-05-28,JP Morgan,Overweight,,main,CRL
+2021-07-20,Credit Suisse,Neutral,,main,CRL
+2021-08-17,UBS,Buy,,main,CRL
+2021-11-04,Morgan Stanley,Overweight,,main,CRL

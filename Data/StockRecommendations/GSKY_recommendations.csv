@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-06-14,Compass Point,Neutral,,init,GSKY
+2018-06-18,JP Morgan,Overweight,,init,GSKY
+2018-06-18,Bank of America,Neutral,,init,GSKY
+2018-06-18,Goldman Sachs,Buy,,init,GSKY
+2018-06-18,Morgan Stanley,Overweight,,init,GSKY
+2018-06-18,Sandler O'Neill,Hold,,init,GSKY
+2018-06-18,Guggenheim,Buy,,init,GSKY
+2018-06-18,Credit Suisse,Outperform,,init,GSKY
+2018-06-18,SunTrust Robinson Humphrey,Buy,,init,GSKY
+2018-06-19,Citigroup,Buy,,init,GSKY
+2018-08-08,Citigroup,Buy,Buy,main,GSKY
+2018-08-08,Credit Suisse,Outperform,Outperform,main,GSKY
+2018-08-16,Compass Point,Buy,Neutral,up,GSKY
+2018-10-11,BTIG Research,Buy,,init,GSKY
+2018-11-05,Raymond James,Outperform,Outperform,main,GSKY
+2018-11-06,BTIG Research,Neutral,Buy,down,GSKY
+2018-11-07,Goldman Sachs,Neutral,Buy,down,GSKY
+2018-11-07,Compass Point,Neutral,Buy,down,GSKY
+2018-11-08,Morgan Stanley,Equal-Weight,Overweight,down,GSKY
+2019-04-17,Citigroup,Buy,Buy,main,GSKY
+2019-05-08,Guggenheim,Neutral,Buy,down,GSKY
+2019-07-01,SunTrust Robinson Humphrey,Hold,Buy,down,GSKY
+2019-08-07,Citi,Neutral,Buy,down,GSKY
+2019-08-07,Sandler O'Neill,Hold,Buy,down,GSKY
+2019-08-08,Raymond James,Market Perform,Outperform,down,GSKY
+2020-01-22,Citigroup,Neutral,,main,GSKY
+2020-04-07,Piper Sandler,Neutral,,main,GSKY
+2020-04-14,Morgan Stanley,Equal-Weight,,main,GSKY
+2020-05-13,SunTrust Robinson Humphrey,Hold,,main,GSKY
+2020-05-13,Compass Point,Neutral,,main,GSKY
+2020-05-13,Morgan Stanley,Equal-Weight,,main,GSKY
+2020-08-12,Truist Securities,Hold,,main,GSKY
+2020-08-13,Morgan Stanley,Equal-Weight,,main,GSKY
+2020-10-07,Stephens & Co.,Underweight,,init,GSKY
+2020-11-16,Morgan Stanley,Equal-Weight,,main,GSKY
+2021-07-30,Citigroup,Neutral,Sell,up,GSKY
+2021-08-02,Stephens & Co.,Equal-Weight,Underweight,up,GSKY
+2021-09-16,Citigroup,Neutral,,main,GSKY

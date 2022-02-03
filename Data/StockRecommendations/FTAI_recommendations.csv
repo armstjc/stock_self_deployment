@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-09,Deutsche Bank,Buy,,init,FTAI
+2015-06-09,Barclays,Overweight,,init,FTAI
+2015-06-09,JMP Securities,Market Outperform,,init,FTAI
+2015-10-05,Barclays,Overweight,,main,FTAI
+2015-10-08,JMP Securities,Market Outperform,,main,FTAI
+2016-02-02,Deutsche Bank,Buy,,main,FTAI
+2016-08-12,Citigroup,Buy,,main,FTAI
+2017-01-18,Raymond James,Outperform,Strong Buy,down,FTAI
+2017-11-06,Bank of America,Buy,,main,FTAI
+2019-11-26,Stifel,Buy,,init,FTAI
+2019-11-26,B. Riley,Buy,,init,FTAI
+2019-12-02,BTIG,Buy,,init,FTAI
+2020-02-20,JMP Securities,Market Outperform,,reit,FTAI
+2020-03-02,Stephens & Co.,Overweight,,main,FTAI
+2020-03-02,BTIG Research,Buy,,main,FTAI
+2020-03-02,B. Riley FBR,Buy,,main,FTAI
+2020-03-20,B of A Securities,Buy,,reit,FTAI
+2020-04-02,Stifel,Buy,,main,FTAI
+2020-04-27,B. Riley FBR,Buy,,main,FTAI
+2020-05-04,Stifel,Buy,,main,FTAI
+2020-05-05,JMP Securities,Market Outperform,,main,FTAI
+2020-05-22,Barclays,Overweight,,main,FTAI
+2020-08-03,B of A Securities,Buy,,main,FTAI
+2020-10-20,Compass Point,Buy,,init,FTAI
+2020-10-23,Raymond James,Outperform,,main,FTAI
+2020-12-09,Raymond James,Outperform,,main,FTAI
+2021-02-10,Raymond James,Outperform,,main,FTAI
+2021-07-23,JMP Securities,Market Outperform,,main,FTAI

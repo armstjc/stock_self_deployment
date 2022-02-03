@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TMQ220218C00002500,2021-12-23 17:29:19+00:00,2.5,0.05,0.0,0.05,0.0,0.0,202,202,1.65625171875,False,REGULAR,USD,TMQ
+TMQ220218C00002500,2021-12-23 17:29:19+00:00,2.5,0.05,0.0,0.05,0.0,0.0,202,202,1.71875140625,False,REGULAR,USD,TMQ

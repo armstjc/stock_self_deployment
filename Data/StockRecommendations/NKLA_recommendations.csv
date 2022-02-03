@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-24,Wedbush,Neutral,,init,NKLA
+2020-08-26,Wedbush,Neutral,,init,NKLA
+2020-09-09,RBC Capital,Sector Perform,,main,NKLA
+2020-09-22,Deutsche Bank,Hold,,main,NKLA
+2020-09-24,Wedbush,Underperform,Neutral,down,NKLA
+2020-11-20,Loop Capital,Buy,,init,NKLA
+2020-12-16,Evercore ISI Group,In-Line,,init,NKLA
+2021-02-01,Wedbush,Neutral,Underperform,up,NKLA
+2021-03-05,JP Morgan,Neutral,Overweight,down,NKLA
+2021-03-26,Vertical Research,Buy,,init,NKLA
+2021-05-10,Deutsche Bank,Hold,,main,NKLA
+2021-05-28,BTIG,Buy,,init,NKLA
+2021-08-11,DA Davidson,Neutral,,init,NKLA
+2021-11-05,BTIG,Neutral,Buy,down,NKLA
+2021-11-05,RBC Capital,Sector Perform,,main,NKLA
+2021-11-08,DA Davidson,Neutral,,main,NKLA

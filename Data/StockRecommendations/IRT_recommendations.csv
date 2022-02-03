@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-09,Compass Point,Buy,,init,IRT
+2013-09-23,William Blair,Outperform,,init,IRT
+2013-10-28,JMP Securities,Outperform,,init,IRT
+2013-11-04,JMP Securities,Market Outperform,,main,IRT
+2014-03-27,Deutsche Bank,Buy,,init,IRT
+2014-04-10,Wunderlich,Buy,,init,IRT
+2014-07-29,JMP Securities,Market Outperform,,main,IRT
+2015-05-05,Deutsche Bank,Buy,,main,IRT
+2015-09-15,JMP Securities,Market Outperform,,main,IRT
+2016-04-07,FBR Capital,Market Perform,,init,IRT
+2017-01-12,Baird,Outperform,,init,IRT
+2017-12-05,KeyBanc,Sector Weight,,init,IRT
+2018-04-26,B. Riley FBR,Buy,Buy,main,IRT
+2018-09-17,Boenning & Scattergood,Outperform,,init,IRT
+2018-10-16,Citigroup,Neutral,,init,IRT
+2018-11-02,Compass Point,Neutral,Buy,down,IRT
+2018-11-05,B. Riley FBR,Buy,Buy,main,IRT
+2018-11-19,Capital One Financial,Equal-Weight,,init,IRT
+2019-02-06,B. Riley FBR,Neutral,Buy,down,IRT
+2019-04-09,Stifel Nicolaus,Hold,,init,IRT
+2019-10-21,JMP Securities,Market Perform,Market Outperform,down,IRT
+2020-03-10,Stifel,Buy,Hold,up,IRT
+2020-04-07,Citigroup,Neutral,,main,IRT
+2020-04-16,Deutsche Bank,Hold,,main,IRT
+2020-07-09,KeyBanc,Overweight,Sector Weight,up,IRT
+2020-08-05,Capital One,Overweight,Equal-Weight,up,IRT
+2020-12-15,Deutsche bank,Buy,Hold,up,IRT
+2021-02-18,KeyBanc,Overweight,,main,IRT
+2021-04-21,BTIG,Neutral,Buy,down,IRT
+2021-04-26,BMO Capital,Outperform,,init,IRT
+2021-05-24,Keybanc,Overweight,,main,IRT
+2021-07-15,Keybanc,Overweight,,main,IRT
+2021-08-12,Keybanc,Overweight,,main,IRT
+2021-11-03,Keybanc,Overweight,,main,IRT
+2021-12-13,Citigroup,Neutral,,main,IRT
+2022-01-10,RBC Capital,Outperform,,init,IRT
+2022-01-10,Compass Point,Buy,Neutral,up,IRT
+2022-01-18,Barclays,Overweight,,init,IRT

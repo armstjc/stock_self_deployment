@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-19,H.C. Wainwright,Buy,,init,EVFM
+2018-06-18,Oppenheimer,Outperform,,init,EVFM
+2018-06-27,RBC Capital,Outperform,,init,EVFM
+2018-09-26,Cantor Fitzgerald,Overweight,,init,EVFM
+2019-12-11,H.C. Wainwright,Buy,,reit,EVFM
+2020-05-27,Oppenheimer,Outperform,,main,EVFM
+2020-06-08,Piper Sandler,Overweight,,init,EVFM
+2020-06-09,HC Wainwright & Co.,Buy,,main,EVFM
+2020-08-20,Morgan Stanley,Equal-Weight,,init,EVFM
+2020-10-02,Stifel,Buy,,init,EVFM
+2021-03-08,HC Wainwright & Co.,Buy,,main,EVFM
+2021-06-07,HC Wainwright & Co.,Buy,,main,EVFM
+2021-08-12,Morgan Stanley,Equal-Weight,,main,EVFM
+2021-10-14,Morgan Stanley,Underweight,Equal-Weight,down,EVFM
+2021-10-21,HC Wainwright & Co.,Buy,,main,EVFM
+2021-11-16,HC Wainwright & Co.,Buy,,main,EVFM

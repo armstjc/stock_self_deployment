@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,JP Morgan,Overweight,,init,IMAX
+2012-07-23,Goldman Sachs,Buy,,init,IMAX
+2012-07-27,National Alliance,Market Perform,,main,IMAX
+2012-07-27,Wedbush,Neutral,Outperform,down,IMAX
+2012-09-13,Barrington Research,Outperform,,main,IMAX
+2012-09-27,Susquehanna,Positive,Neutral,up,IMAX
+2012-10-10,Credit Suisse,Outperform,,init,IMAX
+2012-10-16,National Alliance,Market Perform,,main,IMAX
+2012-10-17,Susquehanna,Neutral,Positive,down,IMAX
+2013-02-22,Stifel,Hold,Buy,down,IMAX
+2013-02-22,Stifel Nicolaus,Hold,Buy,down,IMAX
+2013-06-10,B. Riley FBR,Buy,Neutral,up,IMAX
+2013-06-12,Sterne Agee,Neutral,,init,IMAX
+2013-09-30,Sterne Agee,Neutral,,main,IMAX
+2013-10-02,Benchmark,Hold,,init,IMAX
+2013-10-03,Cormark Securities,Reduce,Market Perform,down,IMAX
+2013-12-03,Goldman Sachs,Neutral,Buy,down,IMAX
+2013-12-10,Ascendiant Capital,Buy,,init,IMAX
+2014-02-04,Furey Research,Buy,,init,IMAX
+2014-02-04,CRT Capital,Buy,,init,IMAX
+2014-07-16,PiperJaffray,Neutral,,down,IMAX
+2014-07-21,Stifel,Buy,Hold,up,IMAX
+2014-11-11,Goldman Sachs,Buy,Neutral,up,IMAX
+2015-02-05,JP Morgan,Neutral,Overweight,down,IMAX
+2015-02-17,Canaccord Genuity,Hold,Buy,down,IMAX
+2015-04-02,Macquarie,Outperform,,init,IMAX
+2015-04-06,Canaccord Genuity,Buy,Hold,up,IMAX
+2015-06-01,Credit Suisse,Outperform,,main,IMAX
+2015-06-29,B. Riley FBR,Buy,,main,IMAX
+2015-07-13,PiperJaffray,Overweight,Neutral,up,IMAX
+2015-09-09,Stifel Nicolaus,Buy,,main,IMAX
+2015-10-20,B. Riley FBR,Buy,,main,IMAX
+2016-02-09,JP Morgan,Neutral,,main,IMAX
+2016-02-22,Wedbush,Outperform,Neutral,up,IMAX
+2016-03-07,Benchmark,Buy,,main,IMAX
+2016-09-14,Macquarie,Outperform,,main,IMAX
+2017-02-01,Credit Suisse,Neutral,Outperform,down,IMAX
+2017-06-07,Benchmark,Hold,Buy,down,IMAX
+2017-09-28,Credit Suisse,Neutral,,main,IMAX
+2017-10-27,JP Morgan,Overweight,Neutral,up,IMAX
+2017-10-30,Barrington Research,Outperform,Market Perform,up,IMAX
+2018-01-10,PiperJaffray,Neutral,Overweight,down,IMAX
+2018-02-20,JP Morgan,Overweight,Overweight,main,IMAX
+2018-02-28,B. Riley FBR,Buy,Buy,main,IMAX
+2018-02-28,Roth Capital,Neutral,Buy,down,IMAX
+2018-04-27,Benchmark,Buy,Hold,up,IMAX
+2018-05-02,B. Riley FBR,Buy,Buy,main,IMAX
+2018-10-26,Canaccord Genuity,Buy,Buy,main,IMAX
+2019-02-25,Canaccord Genuity,Hold,Buy,down,IMAX
+2019-11-01,Canaccord Genuity,Buy,Hold,up,IMAX
+2020-01-29,Benchmark,Buy,,main,IMAX
+2020-02-03,Wedbush,Outperform,,main,IMAX
+2020-02-13,B. Riley FBR,Buy,,reit,IMAX
+2020-02-20,Wedbush,Outperform,,main,IMAX
+2020-03-17,JP Morgan,Neutral,Overweight,down,IMAX
+2020-03-17,Benchmark,Hold,Buy,down,IMAX
+2020-03-18,B. Riley FBR,Buy,,main,IMAX
+2020-04-15,MKM Partners,Buy,,main,IMAX
+2020-04-24,Wedbush,Neutral,Outperform,down,IMAX
+2020-04-28,Benchmark,Buy,Hold,up,IMAX
+2020-07-13,MKM Partners,Buy,,main,IMAX
+2021-01-25,Goldman Sachs,Neutral,Buy,down,IMAX
+2021-02-01,MKM Partners,Buy,,main,IMAX
+2021-04-23,Wedbush,Outperform,Neutral,up,IMAX
+2021-06-02,Goldman Sachs,Sell,Neutral,down,IMAX
+2021-10-22,Wells Fargo,Overweight,,init,IMAX

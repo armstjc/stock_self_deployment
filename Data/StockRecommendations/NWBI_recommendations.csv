@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-25,Stifel Nicolaus,Buy,,main,NWBI
+2012-06-04,FBR Capital,Market Perform,,main,NWBI
+2012-10-23,Sterne Agee,Neutral,Buy,down,NWBI
+2013-07-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,NWBI
+2014-09-30,Boenning & Scattergood,Outperform,Neutral,up,NWBI
+2016-06-01,FBR Capital,Market Perform,,init,NWBI
+2016-06-02,FBR Capital,Market Perform,,init,NWBI
+2016-09-13,Keefe Bruyette & Woods,Market Perform,,main,NWBI
+2017-03-06,DA Davidson,Neutral,,init,NWBI
+2019-11-20,Raymond James,Market Perform,,init,NWBI
+2020-06-19,B. Riley FBR,Buy,,init,NWBI
+2020-10-15,Stephens & Co.,Equal-Weight,,init,NWBI
+2021-07-27,B. Riley Securities,Neutral,Buy,down,NWBI

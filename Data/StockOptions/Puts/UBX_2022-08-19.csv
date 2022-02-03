@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+UBX220819P00005000,2022-01-05 20:31:38+00:00,5.0,3.65,3.1,3.9,0.1500001,4.285717,61,3,1.3515657421874998,True,REGULAR,USD,UBX
+UBX220819P00007500,2022-01-05 20:36:12+00:00,7.5,6.1,5.1,6.3,0.0,0.0,5,3,1.0000000000000003e-05,True,REGULAR,USD,UBX

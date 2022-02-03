@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-03,RBC Capital,Outperform,Sector Perform,up,ERIC
+2013-01-29,Deutsche Bank,Buy,Hold,up,ERIC
+2013-01-31,Evercore Partners,Overweight,Equal-weight,up,ERIC
+2013-02-01,Danske Bank,Buy,Hold,up,ERIC
+2013-02-01,BMO Capital,Market Perform,,main,ERIC
+2013-02-01,Goldman Sachs,Buy,Neutral,up,ERIC
+2013-03-19,Nordea,Hold,Buy,down,ERIC
+2013-04-02,RBC Capital,Sector Perform,Outperform,down,ERIC
+2013-04-22,Societe Generale,Sell,Hold,down,ERIC
+2013-04-23,Danske Bank,Hold,Buy,down,ERIC
+2013-05-16,Danske Bank,Sell,Hold,down,ERIC
+2013-05-30,Santander,Hold,Buy,down,ERIC
+2013-09-06,Credit Suisse,Outperform,Neutral,up,ERIC
+2013-09-11,Berenberg,Buy,Sell,up,ERIC
+2013-09-11,Swedbank,Neutral,Buy,down,ERIC
+2013-09-20,DNB Markets,Hold,Buy,down,ERIC
+2013-09-26,Evercore Partners,Overweight,,main,ERIC
+2013-10-14,Barclays,Underweight,Equal-weight,down,ERIC
+2013-10-15,ABG Sundal Collier,Hold,Buy,down,ERIC
+2013-10-25,SEB Enskilda,Hold,Buy,down,ERIC
+2013-11-15,Santander,Buy,Hold,up,ERIC
+2013-11-29,Swedbank,Buy,Neutral,up,ERIC
+2013-12-10,Mizuho,Buy,,init,ERIC
+2013-12-11,Citigroup,Neutral,Buy,down,ERIC
+2013-12-11,Societe Generale,Buy,Sell,up,ERIC
+2014-01-31,UBS,Buy,Neutral,up,ERIC
+2014-03-05,RBC Capital,Outperform,Sector Perform,up,ERIC
+2014-03-11,Redburn Partners,Neutral,,init,ERIC
+2014-04-24,Nomura,Neutral,Buy,down,ERIC
+2014-07-03,Jefferies,Hold,,init,ERIC
+2014-07-21,SEB Enskilda,Buy,,up,ERIC
+2014-07-21,JP Morgan,Overweight,,main,ERIC
+2014-09-24,UBS,Neutral,Buy,down,ERIC
+2015-03-13,Berenberg,Hold,Buy,down,ERIC
+2015-03-20,Morgan Stanley,Equal-Weight,Overweight,down,ERIC
+2015-05-08,UBS,Buy,Neutral,up,ERIC
+2015-05-28,Citigroup,Buy,Neutral,up,ERIC
+2015-06-04,JP Morgan,Overweight,Neutral,up,ERIC
+2015-12-01,Credit Suisse,Underperform,Neutral,down,ERIC
+2015-12-21,RBC Capital,Sector Perform,Outperform,down,ERIC
+2016-01-15,Deutsche Bank,Hold,Buy,down,ERIC
+2016-01-21,Goldman Sachs,Sell,Neutral,down,ERIC
+2016-03-11,Wells Fargo,Market Perform,,init,ERIC
+2016-04-12,CLSA,Sell,,init,ERIC
+2016-04-21,Bank of America,Neutral,Buy,down,ERIC
+2016-04-22,Bernstein,Market Perform,Outperform,down,ERIC
+2016-04-22,Cowen & Co.,Market Perform,Outperform,down,ERIC
+2016-05-03,Swedbank,Neutral,Buy,down,ERIC
+2016-06-21,Goldman Sachs,Neutral,Sell,up,ERIC
+2016-07-06,Barclays,Equal-Weight,Underweight,up,ERIC
+2016-07-20,Charter Equity,Underperform,Market Perform,down,ERIC
+2016-07-21,UBS,Neutral,Buy,down,ERIC
+2016-09-26,Credit Suisse,Neutral,Underperform,up,ERIC
+2016-10-25,JP Morgan,Neutral,Overweight,down,ERIC
+2016-12-15,Danske Bank,Buy,,up,ERIC
+2016-12-16,Bank of America,Buy,Neutral,up,ERIC
+2017-01-19,Goldman Sachs,Sell,Neutral,down,ERIC
+2017-09-22,Canaccord Genuity,Hold,,main,ERIC
+2017-10-03,Credit Suisse,Underperform,Neutral,down,ERIC
+2017-10-23,Canaccord Genuity,Hold,,main,ERIC
+2017-11-09,Citigroup,Neutral,Buy,down,ERIC
+2018-02-05,Bank of America,Underperform,Buy,down,ERIC
+2018-04-11,Berenberg,Hold,,init,ERIC
+2018-04-20,Cowen & Co.,Market Perform,Underperform,up,ERIC
+2018-07-20,Raymond James,Underperform,Market Perform,down,ERIC
+2018-07-25,Bank of America,Neutral,Underperform,up,ERIC
+2018-09-05,JP Morgan,Overweight,Neutral,up,ERIC
+2018-09-13,Bank of America,Neutral,Neutral,main,ERIC
+2018-09-19,Credit Suisse,Neutral,Underperform,up,ERIC
+2018-09-28,Canaccord Genuity,Hold,Hold,main,ERIC
+2018-12-20,Raymond James,Market Perform,Underperform,up,ERIC
+2019-05-22,Bank of America,Buy,Neutral,up,ERIC
+2019-05-24,Credit Suisse,Outperform,Neutral,up,ERIC
+2019-07-29,Goldman Sachs,Buy,,reit,ERIC
+2019-09-20,DZ Bank,Buy,Hold,up,ERIC
+2020-03-27,Raymond James,Outperform,Market Perform,up,ERIC
+2020-06-22,Raymond James,Outperform,,main,ERIC
+2020-07-20,B of A Securities,Buy,,main,ERIC
+2020-09-21,Raymond James,Outperform,,main,ERIC
+2021-07-19,Argus Research,Hold,Buy,down,ERIC
+2021-07-21,Arete Research,Neutral,Sell,up,ERIC
+2021-10-20,Raymond James,Outperform,,main,ERIC

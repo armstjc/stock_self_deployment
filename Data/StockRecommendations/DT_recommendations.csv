@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-08-26,William Blair,Outperform,,init,DT
+2019-08-26,UBS,Buy,,init,DT
+2019-08-26,Macquarie,Neutral,,init,DT
+2019-08-26,Citigroup,Neutral,,init,DT
+2019-08-26,Canaccord Genuity,Buy,,init,DT
+2019-08-26,RBC Capital,Outperform,,init,DT
+2019-08-26,Jefferies,Hold,,init,DT
+2019-08-26,Goldman Sachs,Neutral,,init,DT
+2019-08-26,Barclays,Overweight,,init,DT
+2019-08-26,JP Morgan,Overweight,,init,DT
+2019-08-26,KeyBanc,Overweight,,init,DT
+2019-08-26,JMP Securities,Market Outperform,,init,DT
+2019-09-05,Barclays,Overweight,,main,DT
+2019-09-05,JP Morgan,Overweight,,main,DT
+2019-10-31,Citigroup,Buy,Neutral,up,DT
+2019-10-31,Jefferies,Hold,,main,DT
+2020-01-21,BMO Capital,Outperform,,init,DT
+2020-01-23,RBC Capital,Outperform,,main,DT
+2020-01-30,Citigroup,Buy,,main,DT
+2020-03-04,Raymond James,Outperform,,init,DT
+2020-03-27,Goldman Sachs,Neutral,,main,DT
+2020-04-03,Raymond James,Outperform,,main,DT
+2020-04-07,Rosenblatt,Neutral,,init,DT
+2020-04-16,DA Davidson,Buy,,init,DT
+2020-04-22,B of A Securities,Buy,,init,DT
+2020-05-07,Needham,Buy,,init,DT
+2020-05-13,Rosenblatt,Neutral,,main,DT
+2020-05-13,UBS,Buy,,main,DT
+2020-05-13,JMP Securities,Market Outperform,,main,DT
+2020-05-13,DA Davidson,Buy,,main,DT
+2020-05-13,Canaccord Genuity,Buy,,main,DT
+2020-05-19,Raymond James,Outperform,,main,DT
+2020-06-19,Goldman Sachs,Buy,Neutral,up,DT
+2020-07-20,Barclays,Overweight,,main,DT
+2020-07-21,RBC Capital,Outperform,,main,DT
+2020-07-27,Needham,Buy,,main,DT
+2020-07-30,RBC Capital,Outperform,,main,DT
+2020-07-30,Rosenblatt,Neutral,,main,DT
+2020-09-16,Loop Capital,Hold,,init,DT
+2020-09-25,Baird,Outperform,,init,DT
+2020-10-07,Berenberg,Buy,,init,DT
+2020-12-17,Rosenblatt,Buy,,init,DT
+2020-12-30,BTIG,Buy,,init,DT
+2021-01-20,Truist Securities,Buy,,init,DT
+2021-02-04,Raymond James,Outperform,,main,DT
+2021-02-04,JMP Securities,Market Outperform,,main,DT
+2021-02-04,Rosenblatt,Buy,,main,DT
+2021-03-22,Goldman Sachs,Buy,,init,DT
+2021-07-23,RBC Capital,Outperform,,main,DT
+2021-07-23,Barclays,Overweight,,main,DT
+2021-07-27,JMP Securities,Market Outperform,,main,DT
+2021-07-29,Needham,Buy,,main,DT
+2021-07-29,RBC Capital,Outperform,,main,DT
+2021-07-29,Canaccord Genuity,Buy,,main,DT
+2021-09-17,Barclays,Overweight,,main,DT
+2021-10-22,Rosenblatt,Buy,,main,DT
+2021-10-25,RBC Capital,Outperform,,main,DT
+2021-10-28,Needham,Buy,,main,DT
+2021-10-28,JMP Securities,Market Outperform,,main,DT
+2021-10-28,RBC Capital,Outperform,,main,DT

@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-19,Stifel Nicolaus,Buy,,main,LECO
+2013-07-30,Stifel Nicolaus,Buy,,main,LECO
+2013-09-27,Janney Capital,Neutral,Buy,down,LECO
+2014-02-26,Great Lakes,Hold,,down,LECO
+2014-06-16,BB&T Capital,Buy,Hold,up,LECO
+2014-07-28,Great Lakes,,,up,LECO
+2014-10-09,Wunderlich,Buy,,init,LECO
+2014-12-09,Longbow Research,Buy,Neutral,up,LECO
+2015-01-22,Gabelli & Co.,Hold,,init,LECO
+2015-03-10,BB&T Capital,Hold,Buy,down,LECO
+2015-04-07,RBC Capital,Sector Perform,,init,LECO
+2015-06-23,RBC Capital,Sector Perform,,main,LECO
+2015-09-24,Baird,Neutral,,init,LECO
+2015-09-25,Barclays,Equal-Weight,,init,LECO
+2015-10-08,Longbow Research,Neutral,Buy,down,LECO
+2015-11-02,Barclays,Equal-Weight,,main,LECO
+2016-01-19,Barclays,Equal-Weight,,main,LECO
+2016-04-04,KeyBanc,Overweight,Sector Weight,up,LECO
+2016-04-14,William Blair,Market Perform,,init,LECO
+2016-04-20,Seaport Global,Buy,Neutral,up,LECO
+2016-04-27,Oppenheimer,Market Perform,,init,LECO
+2016-07-11,Barclays,Equal-Weight,,main,LECO
+2016-08-24,Wellington Shields,Hold,Gradually Accumulate,down,LECO
+2016-09-07,Deutsche Bank,Hold,,init,LECO
+2016-10-12,Barclays,Equal-Weight,,main,LECO
+2016-10-24,Longbow Research,Underperform,Neutral,down,LECO
+2016-11-15,Northcoast Research,Neutral,Buy,down,LECO
+2016-11-21,KeyBanc,Sector Weight,Overweight,down,LECO
+2016-12-08,Stifel Nicolaus,Hold,Buy,down,LECO
+2017-02-15,Longbow Research,Neutral,Underperform,up,LECO
+2017-10-30,Stifel Nicolaus,Hold,,main,LECO
+2017-12-13,Barclays,Equal-Weight,,init,LECO
+2018-01-04,Oppenheimer,Outperform,Perform,up,LECO
+2018-01-16,Stifel Nicolaus,Buy,Hold,up,LECO
+2018-01-24,Barclays,Equal-Weight,Equal-Weight,main,LECO
+2018-03-13,KeyBanc,Overweight,Sector Weight,up,LECO
+2018-04-24,Stifel Nicolaus,Buy,Buy,main,LECO
+2018-10-26,Gabelli & Co.,Buy,Hold,up,LECO
+2018-10-26,KeyBanc,Overweight,Overweight,main,LECO
+2019-01-25,Jefferies,Buy,,init,LECO
+2019-06-27,KeyBanc,Sector Weight,Overweight,down,LECO
+2019-07-12,Baird,Outperform,Neutral,up,LECO
+2019-09-18,Seaport global,Neutral,Buy,down,LECO
+2019-10-08,Oppenheimer,Perform,Outperform,down,LECO
+2019-10-09,Stifel Nicolaus,Hold,Buy,down,LECO
+2020-03-02,Vertical Research,Hold,Sell,up,LECO
+2020-04-07,Baird,Outperform,,main,LECO
+2020-06-26,Morgan Stanley,Equal-Weight,,init,LECO
+2020-07-08,Baird,Outperform,,main,LECO
+2020-07-28,Morgan Stanley,Equal-Weight,,main,LECO
+2020-10-19,Barclays,Overweight,Equal-Weight,up,LECO
+2020-10-28,Stifel,Hold,,main,LECO
+2020-10-28,Morgan Stanley,Equal-Weight,,main,LECO
+2020-12-15,Morgan Stanley,Equal-Weight,,main,LECO
+2021-04-12,Morgan Stanley,Equal-Weight,,main,LECO
+2021-04-28,Vertical Research,Hold,Sell,up,LECO
+2021-04-28,Barclays,Overweight,,main,LECO
+2021-04-28,Morgan Stanley,Equal-Weight,,main,LECO
+2021-06-22,Oppenheimer,Outperform,Perform,up,LECO
+2021-07-13,Morgan Stanley,Equal-Weight,,main,LECO
+2021-07-14,Barclays,Overweight,,main,LECO
+2021-07-28,Oppenheimer,Outperform,,main,LECO
+2021-07-28,Morgan Stanley,Equal-Weight,,main,LECO
+2021-10-13,Morgan Stanley,Equal-Weight,,main,LECO
+2021-10-29,Oppenheimer,Outperform,,main,LECO
+2021-12-09,Morgan Stanley,Equal-Weight,,main,LECO

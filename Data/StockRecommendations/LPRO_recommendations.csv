@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-09-23,DA Davidson,Buy,,init,LPRO
+2020-10-01,JMP Securities,Market Outperform,,init,LPRO
+2020-10-07,Stephens & Co.,Overweight,,init,LPRO
+2020-10-27,Jefferies,Buy,,init,LPRO
+2020-11-11,Canaccord Genuity,Buy,,main,LPRO
+2020-11-13,B. Riley FBR,Neutral,,init,LPRO
+2021-01-29,Raymond James,Strong Buy,,init,LPRO
+2021-02-10,Needham,Buy,,init,LPRO
+2021-03-04,William Blair,Outperform,,init,LPRO
+2021-03-10,Raymond James,Strong Buy,,main,LPRO
+2021-03-11,Canaccord Genuity,Buy,,main,LPRO
+2021-04-12,Morgan Stanley,Equal-Weight,,init,LPRO
+2021-05-12,Morgan Stanley,Equal-Weight,,main,LPRO
+2021-05-12,Raymond James,Strong Buy,,main,LPRO
+2021-06-28,Canaccord Genuity,Buy,,main,LPRO
+2021-07-23,Goldman Sachs,Neutral,Buy,down,LPRO
+2021-08-11,Needham,Buy,,main,LPRO
+2021-08-11,Raymond James,Strong Buy,,main,LPRO
+2021-11-10,Needham,Buy,,main,LPRO
+2021-11-10,JMP Securities,Market Outperform,,main,LPRO
+2021-11-11,Raymond James,Strong Buy,,main,LPRO
+2021-11-12,Morgan Stanley,Equal-Weight,,main,LPRO
+2022-01-11,Raymond James,Strong Buy,,main,LPRO

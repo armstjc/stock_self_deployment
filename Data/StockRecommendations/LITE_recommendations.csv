@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-05,Goldman Sachs,Neutral,,init,LITE
+2015-08-05,Barclays,Equal-Weight,,init,LITE
+2015-08-05,B. Riley FBR,Buy,,init,LITE
+2015-08-06,JP Morgan,Neutral,,init,LITE
+2015-08-12,Stifel Nicolaus,Buy,,main,LITE
+2015-08-13,UBS,Buy,,init,LITE
+2015-08-13,Morgan Stanley,Equal-Weight,,init,LITE
+2015-08-18,Northland Securities,Outperform,,init,LITE
+2015-09-09,RBC Capital,Sector Perform,Outperform,down,LITE
+2015-09-24,MKM Partners,Buy,,init,LITE
+2015-11-11,Barclays,Equal-Weight,,main,LITE
+2015-11-11,Jefferies,Hold,,main,LITE
+2016-01-08,Barclays,Underweight,Equal-Weight,down,LITE
+2016-02-05,Stifel Nicolaus,Buy,,main,LITE
+2016-02-05,Barclays,Underweight,,main,LITE
+2016-02-05,B. Riley FBR,Buy,,main,LITE
+2016-02-22,PiperJaffray,Overweight,,init,LITE
+2016-02-23,PiperJaffray,Overweight,,init,LITE
+2016-03-04,Jefferies,Buy,Hold,up,LITE
+2016-04-08,Drexel Hamilton,Hold,,init,LITE
+2016-05-05,JP Morgan,Overweight,Neutral,up,LITE
+2016-05-31,Raymond James,Market Perform,Outperform,up,LITE
+2016-07-25,Needham,Strong Buy,Buy,up,LITE
+2016-08-10,Jefferies,Buy,,main,LITE
+2016-08-10,Barclays,Underweight,,main,LITE
+2016-08-11,Morgan Stanley,Underweight,Equal-Weight,down,LITE
+2016-09-26,MKM Partners,Buy,,main,LITE
+2016-10-03,Jefferies,Buy,,main,LITE
+2016-10-11,Goldman Sachs,Sell,Neutral,down,LITE
+2016-11-07,Raymond James,Strong Buy,Outperform,up,LITE
+2017-02-27,MKM Partners,Neutral,Buy,down,LITE
+2017-03-16,Goldman Sachs,Neutral,Sell,up,LITE
+2017-05-05,Barclays,Equal-Weight,Underweight,up,LITE
+2017-05-05,Northland Securities,Market Perform,Outperform,down,LITE
+2017-05-23,Rosenblatt,Buy,,init,LITE
+2017-06-23,DA Davidson,Neutral,,init,LITE
+2017-08-10,Barclays,Equal-Weight,,main,LITE
+2017-11-01,Craig-Hallum,Buy,,main,LITE
+2017-11-02,Barclays,Equal-Weight,,main,LITE
+2017-12-11,Northland Securities,Outperform,Market Perform,up,LITE
+2018-01-10,Barclays,Overweight,Equal-Weight,up,LITE
+2018-01-23,Morgan Stanley,Equal-Weight,Underweight,up,LITE
+2018-01-24,Stifel Nicolaus,Buy,Buy,main,LITE
+2018-01-30,Loop Capital,Buy,,init,LITE
+2018-01-31,UBS,Buy,,init,LITE
+2018-03-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,LITE
+2018-03-22,UBS,Buy,Buy,main,LITE
+2018-04-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,LITE
+2018-05-03,Barclays,Overweight,Overweight,main,LITE
+2018-05-03,JP Morgan,Neutral,,init,LITE
+2018-05-23,JP Morgan,Neutral,Neutral,main,LITE
+2018-08-09,Barclays,Overweight,Overweight,main,LITE
+2018-08-22,Raymond James,Strong Buy,Strong Buy,main,LITE
+2018-09-05,Needham,Strong Buy,Strong Buy,main,LITE
+2018-10-11,JP Morgan,Overweight,Neutral,up,LITE
+2018-11-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,LITE
+2018-11-13,B. Riley FBR,Buy,Buy,main,LITE
+2018-11-13,JP Morgan,Neutral,Overweight,down,LITE
+2018-11-14,UBS,Buy,Buy,main,LITE
+2018-12-11,Raymond James,Strong Buy,Strong Buy,main,LITE
+2019-01-03,Raymond James,Strong Buy,Strong Buy,main,LITE
+2019-03-14,Raymond James,Strong Buy,Strong Buy,main,LITE
+2019-03-22,JP Morgan,Overweight,Neutral,up,LITE
+2019-03-27,Morgan Stanley,Overweight,Equal-Weight,up,LITE
+2019-06-06,Barclays,Overweight,,main,LITE
+2019-08-09,Barclays,Overweight,,main,LITE
+2019-11-11,Morgan Stanley,Equal-Weight,Overweight,down,LITE
+2019-12-12,Susquehanna,Positive,,init,LITE
+2020-01-02,MKM Partners,Buy,,reit,LITE
+2020-01-02,Needham,Buy,Strong Buy,down,LITE
+2020-01-09,UBS,Neutral,Buy,down,LITE
+2020-01-10,Raymond James,Outperform,Strong Buy,down,LITE
+2020-01-16,B. Riley,Buy,,main,LITE
+2020-02-04,Raymond James,Outperform,,main,LITE
+2020-02-05,Goldman Sachs,Buy,,reit,LITE
+2020-02-05,Rosenblatt,Buy,,main,LITE
+2020-03-19,Morgan Stanley,Equal-Weight,,main,LITE
+2020-04-24,Rosenblatt,Buy,,main,LITE
+2020-05-06,Jefferies,Buy,,main,LITE
+2020-05-06,B. Riley FBR,Buy,,main,LITE
+2020-07-23,Loop Capital,Buy,,init,LITE
+2020-08-12,Morgan Stanley,Equal-Weight,,main,LITE
+2020-08-12,MKM Partners,Buy,,main,LITE
+2020-08-12,Rosenblatt,Buy,,main,LITE
+2020-09-01,Stifel,Buy,,main,LITE
+2020-09-18,Raymond James,Outperform,,main,LITE
+2020-10-13,Rosenblatt,Buy,,main,LITE
+2020-11-03,Morgan Stanley,Equal-Weight,,main,LITE
+2020-11-03,Rosenblatt,Buy,,main,LITE
+2020-12-15,Morgan Stanley,Overweight,Equal-Weight,up,LITE
+2021-01-20,Goldman Sachs,Buy,Neutral,up,LITE
+2021-01-20,Raymond James,Outperform,,main,LITE
+2021-01-20,Rosenblatt,Buy,,main,LITE
+2021-02-03,Raymond James,Outperform,,main,LITE
+2021-02-03,Needham,Buy,,main,LITE
+2021-03-18,Rosenblatt,Neutral,Buy,down,LITE
+2021-03-25,Needham,Buy,,main,LITE
+2021-03-26,Raymond James,Strong Buy,Outperform,up,LITE
+2021-05-13,Susquehanna,Positive,,main,LITE
+2021-05-13,Northland Capital Markets,Outperform,,main,LITE
+2021-05-13,B. Riley Securities,Buy,,main,LITE
+2021-05-13,Craig-Hallum,Buy,,main,LITE
+2021-05-13,MKM Partners,Buy,,main,LITE
+2021-05-13,Rosenblatt,Neutral,,main,LITE
+2021-05-13,Morgan Stanley,Equal-Weight,Overweight,down,LITE
+2021-05-13,Needham,Buy,,main,LITE
+2021-05-14,JP Morgan,Neutral,Overweight,down,LITE
+2021-05-18,Raymond James,Strong Buy,,main,LITE
+2021-06-01,Goldman Sachs,Neutral,Buy,down,LITE
+2021-07-19,Needham,Buy,,main,LITE
+2021-08-19,Craig-Hallum,Buy,,main,LITE
+2021-08-19,Rosenblatt,Neutral,,main,LITE
+2021-08-19,Raymond James,Strong Buy,,main,LITE
+2021-10-12,Raymond James,Outperform,Strong Buy,down,LITE
+2021-11-05,Barclays,Overweight,,main,LITE
+2021-11-05,Morgan Stanley,Equal-Weight,,main,LITE
+2021-11-05,Rosenblatt,Buy,Neutral,up,LITE
+2021-12-13,JP Morgan,Neutral,,main,LITE
+2021-12-15,Susquehanna,Positive,,main,LITE

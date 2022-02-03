@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-11-22,JP Morgan,Neutral,,init,BXSL
+2021-11-22,RBC Capital,Outperform,,init,BXSL
+2021-11-22,Wells Fargo,Equal-Weight,,init,BXSL
+2021-11-22,Raymond James,Market Perform,,init,BXSL
+2021-11-22,Compass Point,Neutral,,init,BXSL
+2021-11-22,"Keefe, Bruyette & Woods",Market Perform,,init,BXSL
+2021-11-23,Citigroup,Neutral,,init,BXSL
+2021-12-03,Janney Montgomery Scott,Neutral,,init,BXSL
+2021-12-28,Raymond James,Underperform,Market Perform,down,BXSL

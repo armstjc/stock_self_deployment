@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MGP220916P00040000,2022-01-24 20:46:17+00:00,40.0,5.1,2.95,4.5,0.0,0.0,,3,0.3275213732910156,True,REGULAR,USD,MGP

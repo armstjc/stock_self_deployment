@@ -1,0 +1,250 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-15,Bank oferica,Buy,,main,CSX
+2012-04-02,Jefferies,Buy,,main,CSX
+2012-04-16,Deutsche Bank,Buy,,main,CSX
+2012-04-19,Sterne Agee,Buy,,main,CSX
+2012-07-19,Deutsche Bank,Buy,,main,CSX
+2012-09-06,Goldman Sachs,Buy,,main,CSX
+2012-09-20,Deutsche Bank,Buy,,main,CSX
+2012-09-20,BMO Capital,Outperform,,main,CSX
+2012-10-03,Bernstein,Market Perform,Underperform,up,CSX
+2012-10-15,Barclays,Overweight,,main,CSX
+2012-10-18,Barclays,Overweight,,main,CSX
+2012-10-18,Jefferies,Buy,,main,CSX
+2012-10-18,Deutsche bank,Hold,Buy,down,CSX
+2012-11-20,Avondale Partners,Market Perform,Market Outperform,down,CSX
+2012-12-13,JP Morgan,Neutral,,main,CSX
+2012-12-19,UBS,Neutral,,main,CSX
+2013-01-03,Jefferies,Buy,,main,CSX
+2013-01-07,Barclays,Overweight,,main,CSX
+2013-01-10,Goldman Sachs,Neutral,Buy,down,CSX
+2013-01-10,Raymond James,Market Perform,Outperform,down,CSX
+2013-01-14,Deutsche Bank,Hold,,main,CSX
+2013-01-18,Credit Suisse,Neutral,Outperform,down,CSX
+2013-01-23,BMO Capital,Outperform,,main,CSX
+2013-01-24,RBC Capital,Outperform,Sector Perform,up,CSX
+2013-01-24,BMO Capital,Outperform,,main,CSX
+2013-01-24,Jefferies,Buy,,main,CSX
+2013-01-28,Jefferies,Buy,,main,CSX
+2013-04-03,JP Morgan,Neutral,,main,CSX
+2013-04-05,Citigroup,Buy,,main,CSX
+2013-04-10,Jefferies,Buy,,main,CSX
+2013-04-10,Deutsche Bank,Hold,,main,CSX
+2013-04-18,Jefferies,Buy,,main,CSX
+2013-07-11,Buckingham Research,Buy,,init,CSX
+2013-07-17,BB&T Capital,Hold,Buy,down,CSX
+2013-07-17,BB&T Capital,Hold,Buy,down,CSX
+2013-10-04,Citigroup,Neutral,Buy,down,CSX
+2013-10-16,BMO Capital,Market Perform,Outperform,down,CSX
+2013-10-17,RBC Capital,Sector Perform,Outperform,down,CSX
+2013-12-13,Bank of America,Buy,,main,CSX
+2013-12-16,Deutsche Bank,Hold,,main,CSX
+2013-12-20,Citigroup,Neutral,,main,CSX
+2014-01-16,Argus,Buy,Hold,up,CSX
+2014-01-16,Stifel,Hold,Buy,down,CSX
+2014-01-27,Atlantic Equities,Neutral,Overweight,down,CSX
+2014-04-03,Barclays,Equal-Weight,Overweight,down,CSX
+2014-04-10,Macquarie,Outperform,,init,CSX
+2014-04-16,Bank of America,Buy,,main,CSX
+2014-04-22,Argus,Buy,,main,CSX
+2014-06-24,FBR Capital,Outperform,,main,CSX
+2014-06-27,Citigroup,Neutral,,main,CSX
+2014-06-30,Barclays,Equal-Weight,,main,CSX
+2014-07-15,Deutsche Bank,Hold,,main,CSX
+2014-07-16,Citigroup,Neutral,,main,CSX
+2014-07-17,Macquarie,Outperform,,main,CSX
+2014-07-17,Credit Suisse,Neutral,,main,CSX
+2014-07-17,Argus,Buy,,main,CSX
+2014-08-12,Macquarie,Neutral,,main,CSX
+2014-08-12,Macquarie,Neutral,Outperform,down,CSX
+2014-10-07,Citigroup,Neutral,,main,CSX
+2014-10-14,Deutsche Bank,Hold,,main,CSX
+2014-10-16,Credit Suisse,Outperform,Neutral,up,CSX
+2014-12-01,TD Securities,Hold,Buy,down,CSX
+2014-12-04,Citigroup,Buy,Neutral,up,CSX
+2014-12-16,Bank of America,Buy,,main,CSX
+2015-01-06,UBS,Neutral,Buy,down,CSX
+2015-01-12,Barclays,Equal-Weight,,main,CSX
+2015-01-15,Deutsche Bank,Hold,,main,CSX
+2015-01-15,Credit Suisse,Outperform,,main,CSX
+2015-01-16,Susquehanna,Positive,Neutral,up,CSX
+2015-02-23,JP Morgan,Overweight,,init,CSX
+2015-02-27,BMO Capital,Outperform,Market Perform,up,CSX
+2015-03-06,Citigroup,Buy,,main,CSX
+2015-04-13,Susquehanna,Positive,,main,CSX
+2015-04-16,Deutsche Bank,Hold,,main,CSX
+2015-04-16,Citigroup,Buy,,main,CSX
+2015-04-16,BMO Capital,Outperform,,main,CSX
+2015-04-16,Baird,Outperform,,main,CSX
+2015-06-08,Barclays,Equal-Weight,,main,CSX
+2015-06-10,Susquehanna,Positive,,main,CSX
+2015-07-01,Citigroup,Buy,,main,CSX
+2015-07-10,Topeka,Hold,,init,CSX
+2015-07-15,RBC Capital,Outperform,Sector Perform,up,CSX
+2015-08-27,Stifel Nicolaus,Buy,Hold,up,CSX
+2015-09-15,UBS,Neutral,,main,CSX
+2015-10-02,Citigroup,Buy,,main,CSX
+2015-10-05,Barclays,Equal-Weight,,main,CSX
+2015-10-12,Deutsche Bank,Hold,,main,CSX
+2015-10-15,Credit Suisse,Outperform,,main,CSX
+2015-12-04,Bank of America,Neutral,Buy,down,CSX
+2016-01-05,Deutsche Bank,Hold,,main,CSX
+2016-01-11,Deutsche Bank,Hold,,main,CSX
+2016-01-14,Credit Suisse,Outperform,,main,CSX
+2016-01-14,BB&T Capital,Buy,Hold,up,CSX
+2016-01-14,Buckingham Research,Buy,,main,CSX
+2016-01-14,Baird,Outperform,,main,CSX
+2016-01-14,Deutsche Bank,Hold,,main,CSX
+2016-01-14,RBC Capital,Outperform,,main,CSX
+2016-01-14,Buckingham Research,Buy,,main,CSX
+2016-01-14,Nomura,Buy,,main,CSX
+2016-02-12,Avondale Partners,Market Underperform,Market Perform,down,CSX
+2016-02-19,Credit Suisse,Outperform,,main,CSX
+2016-02-22,Bank of America,Buy,Neutral,up,CSX
+2016-02-23,Morgan Stanley,Underweight,Overweight,down,CSX
+2016-03-15,Scotiabank,Sector Perform,,init,CSX
+2016-05-19,CLSA,Underperform,,init,CSX
+2016-06-16,Oppenheimer,Market Perform,,init,CSX
+2016-07-14,Citigroup,Buy,,main,CSX
+2016-07-15,Deutsche Bank,Hold,,main,CSX
+2016-07-15,BB&T Capital,Hold,Buy,down,CSX
+2016-07-15,Stifel Nicolaus,Hold,Buy,down,CSX
+2016-08-04,Loop Capital,Hold,,init,CSX
+2016-08-11,Atlantic Equities,Neutral,,init,CSX
+2016-09-12,Barclays,Overweight,Equal-Weight,up,CSX
+2016-09-13,Citigroup,Buy,,main,CSX
+2016-10-19,Seaport Global,Neutral,,init,CSX
+2016-10-24,Aegis Capital,Hold,,init,CSX
+2016-11-02,Deutsche Bank,Buy,,init,CSX
+2016-11-10,BMO Capital,Market Perform,Outperform,down,CSX
+2017-01-19,Scotiabank,Sector Outperform,Sector Perform,up,CSX
+2017-01-19,Morgan Stanley,Equal-Weight,Underweight,up,CSX
+2017-01-23,BMO Capital,Outperform,Market Perform,up,CSX
+2017-01-25,UBS,Buy,Neutral,up,CSX
+2017-01-30,TD Securities,Buy,Hold,up,CSX
+2017-02-10,Avondale Partners,Market Outperform,,up,CSX
+2017-02-28,Deutsche Bank,Buy,Hold,up,CSX
+2017-03-15,Atlantic Equities,Overweight,Neutral,up,CSX
+2017-04-21,Raymond James,Outperform,Market Perform,up,CSX
+2017-09-07,Credit Suisse,Outperform,,main,CSX
+2017-10-02,Morgan Stanley,Underweight,Equal-Weight,down,CSX
+2017-10-12,JP Morgan,Overweight,,main,CSX
+2017-10-16,UBS,Buy,,main,CSX
+2017-10-16,Wells Fargo,Market Perform,Outperform,down,CSX
+2017-10-18,Barclays,Overweight,,main,CSX
+2017-10-18,Credit Suisse,Outperform,,main,CSX
+2017-11-13,Goldman Sachs,Sell,,init,CSX
+2018-01-12,Scotiabank,Sector Perform,Sector Outperform,down,CSX
+2018-02-13,Bank of America,Buy,Buy,main,CSX
+2018-03-02,Morgan Stanley,Underweight,Underweight,main,CSX
+2018-03-02,Credit Suisse,Outperform,Outperform,main,CSX
+2018-04-06,Morgan Stanley,Underweight,Underweight,main,CSX
+2018-04-18,Morgan Stanley,Underweight,Underweight,main,CSX
+2018-04-18,Baird,Outperform,Outperform,main,CSX
+2018-04-18,Credit Suisse,Outperform,Outperform,main,CSX
+2018-04-18,BMO Capital,Outperform,Outperform,main,CSX
+2018-04-18,UBS,Buy,Buy,main,CSX
+2018-05-14,Goldman Sachs,Neutral,Sell,up,CSX
+2018-06-08,Deutsche Bank,Buy,Buy,main,CSX
+2018-06-25,Citigroup,Buy,Buy,main,CSX
+2018-07-18,Morgan Stanley,Underweight,Underweight,main,CSX
+2018-07-18,Loop Capital,Buy,Hold,up,CSX
+2018-07-18,RBC Capital,Outperform,Outperform,main,CSX
+2018-07-18,Stifel Nicolaus,Buy,Buy,main,CSX
+2018-09-05,BMO Capital,Market Perform,Outperform,down,CSX
+2018-09-27,Deutsche Bank,Buy,Buy,main,CSX
+2018-10-01,Bank of America,Buy,Buy,main,CSX
+2018-10-09,Morgan Stanley,Underweight,Underweight,main,CSX
+2018-10-17,BMO Capital,Market Perform,Market Perform,main,CSX
+2018-10-17,Credit Suisse,Outperform,Outperform,main,CSX
+2018-12-03,Deutsche Bank,Buy,Buy,main,CSX
+2019-01-07,Morgan Stanley,Underweight,Underweight,main,CSX
+2019-01-08,Atlantic Equities,Overweight,,init,CSX
+2019-02-19,RBC Capital,Sector Perform,Outperform,down,CSX
+2019-03-06,Stifel Nicolaus,Hold,Buy,down,CSX
+2019-04-03,Susquehanna,Neutral,Positive,down,CSX
+2019-04-04,Citigroup,Buy,Buy,main,CSX
+2019-04-05,UBS,Neutral,Buy,down,CSX
+2019-04-17,BMO Capital,Market Perform,Market Perform,main,CSX
+2019-04-17,Credit Suisse,Outperform,Outperform,main,CSX
+2019-04-17,Morgan Stanley,Underweight,Underweight,main,CSX
+2019-04-17,Raymond James,Outperform,Outperform,main,CSX
+2019-06-12,Deutsche Bank,Buy,,main,CSX
+2019-07-10,Loop Capital,Hold,Buy,down,CSX
+2019-07-10,Goldman Sachs,Neutral,,init,CSX
+2019-07-17,Stephens & Co.,Equal-Weight,Overweight,down,CSX
+2019-07-17,Raymond James,Outperform,,main,CSX
+2019-07-26,Atlantic Equities,Neutral,Underweight,up,CSX
+2019-09-17,UBS,Neutral,,main,CSX
+2019-10-04,JP Morgan,Neutral,Overweight,down,CSX
+2019-10-07,Morgan Stanley,Underweight,,main,CSX
+2019-10-17,Bank of America,Buy,,main,CSX
+2019-10-17,Credit Suisse,Outperform,,main,CSX
+2019-10-17,Raymond James,Outperform,,main,CSX
+2019-10-17,TD Securities,Hold,,main,CSX
+2019-10-29,Wells Fargo,Market Perform,,init,CSX
+2019-11-12,Deutsche Bank,Hold,Buy,down,CSX
+2019-12-10,Citigroup,Neutral,Buy,down,CSX
+2020-01-06,Morgan Stanley,Underweight,,main,CSX
+2020-01-07,Susquehanna,Positive,Neutral,up,CSX
+2020-01-17,RBC Capital,Sector Perform,,main,CSX
+2020-01-17,Credit Suisse,Outperform,,main,CSX
+2020-01-21,Benchmark,Hold,,init,CSX
+2020-02-07,Deutsche Bank,Buy,Hold,up,CSX
+2020-03-12,Deutsche Bank,Buy,,main,CSX
+2020-03-23,Morgan Stanley,Equal-Weight,Underweight,up,CSX
+2020-03-30,CFRA,Buy,Hold,up,CSX
+2020-04-08,Susquehanna,Positive,,main,CSX
+2020-04-08,Goldman Sachs,Buy,Neutral,up,CSX
+2020-04-15,Wells Fargo,Equal-Weight,,main,CSX
+2020-04-17,Raymond James,Outperform,,main,CSX
+2020-04-23,UBS,Buy,,main,CSX
+2020-04-23,Wells Fargo,Equal-Weight,,main,CSX
+2020-04-23,Morgan Stanley,Equal-Weight,,main,CSX
+2020-04-23,CFRA,Buy,,main,CSX
+2020-05-20,UBS,Buy,Neutral,up,CSX
+2020-05-22,Wells Fargo,Equal-Weight,,main,CSX
+2020-06-17,Deutsche Bank,Buy,,main,CSX
+2020-06-25,Citigroup,Neutral,,main,CSX
+2020-07-23,TD Securities,Hold,,main,CSX
+2020-07-23,Morgan Stanley,Equal-Weight,,main,CSX
+2020-07-23,Credit Suisse,Outperform,,main,CSX
+2020-07-24,Argus Research,Buy,,main,CSX
+2020-08-31,Stephens & Co.,Overweight,Equal-Weight,up,CSX
+2020-09-23,Atlantic Equities,Overweight,Neutral,up,CSX
+2020-09-25,Benchmark,Buy,Hold,up,CSX
+2020-09-29,Raymond James,Outperform,,main,CSX
+2020-09-30,B of A Securities,Buy,,main,CSX
+2020-10-02,Evercore ISI Group,Outperform,In-Line,up,CSX
+2020-10-13,Bernstein,Outperform,Market Perform,up,CSX
+2020-10-22,Credit Suisse,Outperform,,main,CSX
+2020-10-22,Wells Fargo,Equal-Weight,,main,CSX
+2020-10-30,RBC Capital,Outperform,Sector Perform,up,CSX
+2020-11-16,Credit Suisse,Outperform,,main,CSX
+2020-12-10,Morgan Stanley,Underweight,Equal-Weight,down,CSX
+2021-01-15,Raymond James,Outperform,,main,CSX
+2021-01-22,Morgan Stanley,Underweight,,main,CSX
+2021-01-22,Credit Suisse,Outperform,,main,CSX
+2021-01-22,RBC Capital,Outperform,,main,CSX
+2021-01-22,UBS,Buy,,main,CSX
+2021-01-22,Stifel,Hold,Buy,down,CSX
+2021-01-25,Argus Research,Buy,,main,CSX
+2021-04-15,Raymond James,Outperform,,main,CSX
+2021-04-21,Deutsche Bank,Buy,,main,CSX
+2021-04-21,RBC Capital,Outperform,,main,CSX
+2021-04-21,BMO Capital,Outperform,Market Perform,up,CSX
+2021-06-15,Deutsche Bank,Buy,,main,CSX
+2021-06-29,Citigroup,Buy,Neutral,up,CSX
+2021-06-29,Morgan Stanley,Underweight,,main,CSX
+2021-07-07,Morgan Stanley,Underweight,,main,CSX
+2021-07-22,TD Securities,Buy,Hold,up,CSX
+2021-07-22,Credit Suisse,Outperform,,main,CSX
+2021-07-22,RBC Capital,Outperform,,main,CSX
+2021-09-17,RBC Capital,Sector Perform,Outperform,down,CSX
+2021-10-21,Barclays,Overweight,,main,CSX
+2021-10-21,RBC Capital,Sector Perform,,main,CSX
+2021-10-21,Wells Fargo,Equal-Weight,,main,CSX
+2021-10-21,Raymond James,Outperform,,main,CSX
+2021-12-02,Morgan Stanley,Underweight,,main,CSX
+2021-12-14,BMO Capital,Outperform,,main,CSX
+2021-12-15,UBS,Buy,,main,CSX

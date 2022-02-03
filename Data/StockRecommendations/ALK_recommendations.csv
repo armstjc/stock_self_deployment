@@ -1,0 +1,187 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Dahlman Rose,Buy,,main,ALK
+2012-03-19,Dahlman Rose,Buy,,main,ALK
+2012-04-20,UBS,Buy,,main,ALK
+2012-05-31,UBS,Buy,,main,ALK
+2012-07-11,Wolfe Trahan,Outperform,Peer Perform,up,ALK
+2012-09-11,Barclays,Underweight,,main,ALK
+2012-09-12,JP Morgan,Neutral,,main,ALK
+2013-01-25,Deutsche Bank,Hold,,main,ALK
+2013-03-04,Dahlman Rose,Buy,,main,ALK
+2013-03-08,UBS,Buy,,main,ALK
+2013-03-25,Bank of America,Buy,,main,ALK
+2013-04-08,Deutsche Bank,Hold,,main,ALK
+2013-04-12,Imperial Capital,In-Line,,init,ALK
+2013-04-16,Deutsche Bank,Buy,Hold,up,ALK
+2013-07-12,Morgan Stanley,Equal-Weight,Underperform,up,ALK
+2013-07-23,Buckingham Research,Buy,,init,ALK
+2013-09-17,JP Morgan,Neutral,,main,ALK
+2013-10-08,Deutsche Bank,Hold,Buy,down,ALK
+2013-10-15,Imperial Capital,Outperform,In-Line,up,ALK
+2013-11-08,Barclays,Equal-weight,Underweight,up,ALK
+2013-11-18,Bank of America,Buy,,main,ALK
+2013-11-19,Imperial Capital,Outperform,,main,ALK
+2013-12-09,Deutsche Bank,Sell,Hold,down,ALK
+2013-12-18,UBS,Buy,,init,ALK
+2014-01-24,Imperial Capital,Outperform,,main,ALK
+2014-01-31,JP Morgan,Overweight,Neutral,up,ALK
+2014-01-31,JP Morgan,Overweight,,main,ALK
+2014-02-25,Stifel Nicolaus,Buy,,init,ALK
+2014-03-24,CRT Capital,Buy,,main,ALK
+2014-04-01,Evercore Partners,Equal-Weight,,down,ALK
+2014-04-08,Imperial Capital,Outperform,,main,ALK
+2014-04-17,Barclays,Equal-Weight,,main,ALK
+2014-04-28,Deutsche Bank,Sell,,main,ALK
+2014-05-01,JP Morgan,Overweight,,main,ALK
+2014-05-27,JP Morgan,Overweight,,main,ALK
+2014-05-30,Stifel,Hold,Buy,down,ALK
+2014-07-11,Barclays,Equal-Weight,,main,ALK
+2014-07-11,Deutsche Bank,Sell,,main,ALK
+2014-07-16,CRT Capital,Buy,,main,ALK
+2014-07-28,CRT Capital,Buy,,main,ALK
+2014-07-30,JP Morgan,Neutral,Overweight,down,ALK
+2014-09-05,Raymond James,Market Perform,Outperform,down,ALK
+2014-10-27,CRT Capital,Buy,,main,ALK
+2014-10-30,JP Morgan,Underweight,,down,ALK
+2014-12-01,Bank of America,Underperform,Buy,down,ALK
+2015-01-11,Evercore ISI Group,Buy,Hold,up,ALK
+2015-01-12,Evercore ISI Group,Buy,Hold,up,ALK
+2015-01-16,Barclays,Equal-Weight,,main,ALK
+2015-01-23,Deutsche Bank,Buy,,main,ALK
+2015-02-27,Raymond James,Strong Buy,Outperform,up,ALK
+2015-03-02,Stifel Nicolaus,Buy,Hold,up,ALK
+2015-04-24,Buckingham Research,Buy,Neutral,up,ALK
+2015-04-27,CRT Capital,Buy,,main,ALK
+2015-05-01,Credit Suisse,Neutral,,init,ALK
+2015-06-10,JP Morgan,Underweight,,main,ALK
+2015-06-18,Credit Suisse,Outperform,Neutral,up,ALK
+2015-06-18,Barclays,Equal-Weight,,main,ALK
+2015-07-24,Imperial Capital,Outperform,,main,ALK
+2015-09-17,Barclays,Equal-Weight,,main,ALK
+2015-10-13,Evercore ISI Group,Hold,Buy,down,ALK
+2015-10-23,Deutsche Bank,Hold,,main,ALK
+2015-12-21,Deutsche Bank,Hold,,main,ALK
+2015-12-22,Stifel Nicolaus,Hold,Buy,down,ALK
+2016-01-07,Credit Suisse,Neutral,Outperform,down,ALK
+2016-01-22,Credit Suisse,Neutral,,main,ALK
+2016-01-22,Deutsche Bank,Buy,Hold,up,ALK
+2016-01-22,Credit Suisse,Neutral,,main,ALK
+2016-02-04,JP Morgan,Underweight,,main,ALK
+2016-04-04,JP Morgan,Neutral,Underweight,up,ALK
+2016-04-05,Bank of America,Neutral,Underperform,up,ALK
+2016-06-14,Raymond James,Outperform,Strong Buy,down,ALK
+2016-07-25,Credit Suisse,Outperform,Neutral,up,ALK
+2016-07-27,JP Morgan,Overweight,Neutral,up,ALK
+2016-09-23,Imperial Capital,In-Line,,init,ALK
+2016-10-13,Buckingham Research,Buy,Neutral,up,ALK
+2016-11-18,Citigroup,Neutral,,init,ALK
+2016-12-15,Barclays,Overweight,,init,ALK
+2017-01-04,Cowen & Co.,Market Perform,Outperform,down,ALK
+2017-01-10,Bank of America,Buy,Neutral,up,ALK
+2017-03-20,Stifel Nicolaus,Buy,Hold,up,ALK
+2017-03-31,Imperial Capital,In-Line,,main,ALK
+2017-04-24,Cowen & Co.,Outperform,Market Perform,up,ALK
+2017-07-17,Morgan Stanley,Overweight,,main,ALK
+2017-08-17,Morgan Stanley,Overweight,,main,ALK
+2017-09-18,Morgan Stanley,Overweight,,main,ALK
+2017-09-18,Citigroup,Neutral,,main,ALK
+2017-09-19,Citigroup,Neutral,,main,ALK
+2017-09-26,Macquarie,Outperform,,init,ALK
+2017-10-13,Bank of America,Buy,,main,ALK
+2017-10-26,Buckingham,Buy,,main,ALK
+2017-10-26,Cowen & Co.,Outperform,,main,ALK
+2017-10-26,Barclays,Overweight,,main,ALK
+2017-10-26,Deutsche Bank,Buy,,main,ALK
+2017-10-26,Morgan Stanley,Overweight,,main,ALK
+2017-10-26,Stifel Nicolaus,Buy,,main,ALK
+2017-11-01,JP Morgan,Neutral,Overweight,down,ALK
+2017-11-13,Morgan Stanley,Overweight,,main,ALK
+2017-11-15,Raymond James,Strong Buy,Outperform,up,ALK
+2017-12-18,Standpoint Research,Buy,,init,ALK
+2018-01-09,Bank of America,Neutral,Buy,down,ALK
+2018-01-10,Barclays,Equal-Weight,Overweight,down,ALK
+2018-01-26,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-01-26,Buckingham,Buy,Buy,main,ALK
+2018-01-30,JP Morgan,Underweight,Neutral,down,ALK
+2018-02-01,Imperial Capital,In-Line,In-Line,main,ALK
+2018-02-15,UBS,Neutral,Buy,down,ALK
+2018-02-23,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-04-12,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-04-16,Citigroup,Neutral,Neutral,main,ALK
+2018-04-16,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-04-24,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-04-24,Citigroup,Neutral,Neutral,main,ALK
+2018-05-29,Citigroup,Neutral,Neutral,main,ALK
+2018-06-18,Citigroup,Neutral,Neutral,main,ALK
+2018-07-12,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-07-16,Barclays,Equal-Weight,Equal-Weight,main,ALK
+2018-07-27,Stifel Nicolaus,Buy,Buy,main,ALK
+2018-07-27,Bank of America,Neutral,Neutral,main,ALK
+2018-07-27,Buckingham,Buy,Buy,main,ALK
+2018-07-30,Macquarie,Neutral,Outperform,down,ALK
+2018-09-24,Buckingham,Buy,Buy,main,ALK
+2018-09-27,Imperial Capital,Outperform,In-Line,up,ALK
+2018-10-10,Bank of America,Neutral,Neutral,main,ALK
+2018-10-10,Buckingham,Buy,Buy,main,ALK
+2018-10-10,Deutsche Bank,Buy,Buy,main,ALK
+2018-10-26,Raymond James,Strong Buy,Strong Buy,main,ALK
+2018-11-12,Goldman Sachs,Buy,,init,ALK
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,ALK
+2018-11-15,Barclays,Equal-Weight,Equal-Weight,main,ALK
+2018-11-19,Credit Suisse,Outperform,,init,ALK
+2018-11-30,Buckingham,Buy,Buy,main,ALK
+2019-01-09,Imperial Capital,Outperform,Outperform,main,ALK
+2019-01-10,JP Morgan,Neutral,Underweight,up,ALK
+2019-01-28,Macquarie,Outperform,Neutral,up,ALK
+2019-03-06,Citigroup,Neutral,Neutral,main,ALK
+2019-03-08,Buckingham,Buy,Buy,main,ALK
+2019-03-08,Imperial Capital,In-Line,Outperform,down,ALK
+2019-04-12,Credit Suisse,Outperform,Outperform,main,ALK
+2019-04-26,Deutsche Bank,Buy,Buy,main,ALK
+2019-04-30,JP Morgan,Overweight,Neutral,up,ALK
+2019-05-20,Morgan Stanley,Overweight,,main,ALK
+2019-07-29,Macquarie,Neutral,Outperform,down,ALK
+2019-08-06,Imperial Capital,In-Line,,main,ALK
+2019-10-02,Morgan Stanley,Overweight,,main,ALK
+2019-10-10,Morgan Stanley,Overweight,,main,ALK
+2019-10-21,Buckingham,Buy,,main,ALK
+2019-10-25,Raymond James,Strong Buy,,main,ALK
+2019-10-28,JP Morgan,Neutral,Overweight,down,ALK
+2019-11-11,Morgan Stanley,Overweight,,main,ALK
+2019-11-13,UBS,Neutral,,init,ALK
+2020-01-21,Buckingham,Buy,,main,ALK
+2020-01-29,Raymond James,Strong Buy,,reit,ALK
+2020-02-27,Buckingham Research,Neutral,Buy,down,ALK
+2020-03-13,UBS,Neutral,,main,ALK
+2020-03-23,Raymond James,Strong Buy,,main,ALK
+2020-03-23,B of A Securities,Neutral,,main,ALK
+2020-03-25,Deutsche Bank,Buy,Hold,up,ALK
+2020-03-26,Bank of America,Neutral,,main,ALK
+2020-04-21,Deutsche Bank,Buy,,main,ALK
+2020-05-06,UBS,Neutral,,main,ALK
+2020-06-08,B of A Securities,Buy,Neutral,up,ALK
+2020-06-22,Raymond James,Strong Buy,,main,ALK
+2020-07-24,Stifel,Buy,,main,ALK
+2020-07-27,Raymond James,Strong Buy,,main,ALK
+2020-09-08,Morgan Stanley,Equal-Weight,,init,ALK
+2020-09-15,Seaport Global,Buy,,init,ALK
+2020-09-30,Raymond James,Strong Buy,,main,ALK
+2020-10-13,Susquehanna,Positive,Neutral,up,ALK
+2020-10-23,UBS,Neutral,,main,ALK
+2020-10-23,Morgan Stanley,Equal-Weight,,main,ALK
+2020-11-30,Raymond James,Strong Buy,,main,ALK
+2020-12-11,Deutsche bank,Hold,Buy,down,ALK
+2021-01-14,Susquehanna,Positive,,main,ALK
+2021-02-22,Deutsche Bank,Buy,Hold,up,ALK
+2021-03-16,Goldman Sachs,Buy,,main,ALK
+2021-04-06,Morgan Stanley,Overweight,Equal-Weight,up,ALK
+2021-04-12,Raymond James,Strong Buy,,main,ALK
+2021-04-14,JP Morgan,Overweight,,main,ALK
+2021-06-01,Morgan Stanley,Overweight,,main,ALK
+2021-06-10,MKM Partners,Buy,,init,ALK
+2021-06-18,Wolfe Research,Outperform,Peer Perform,up,ALK
+2021-07-20,Raymond James,Strong Buy,,main,ALK
+2021-09-14,Morgan Stanley,Overweight,,main,ALK
+2021-10-01,JP Morgan,Overweight,,main,ALK
+2021-11-29,Raymond James,Strong Buy,,main,ALK
+2022-01-11,Morgan Stanley,Overweight,,main,ALK

@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-07,RF Lafferty,Buy,,init,GRWG
+2019-10-11,Roth Capital,Buy,,init,GRWG
+2019-10-14,Ladenburg Thalmann,Buy,,init,GRWG
+2019-10-28,Lake Street,Buy,,init,GRWG
+2020-05-20,Benchmark,Buy,,init,GRWG
+2020-07-14,Oppenheimer,Outperform,,init,GRWG
+2020-08-27,Stifel,Buy,,init,GRWG
+2020-08-28,Oppenheimer,Outperform,,main,GRWG
+2020-09-18,Roth Capital,Buy,,main,GRWG
+2021-01-12,Ladenburg Thalmann,Neutral,Buy,down,GRWG
+2021-01-13,Roth Capital,Neutral,Buy,down,GRWG
+2021-05-10,Northland Capital Markets,Outperform,,init,GRWG
+2021-05-14,Roth Capital,Buy,Neutral,up,GRWG
+2021-05-14,Ladenburg Thalmann,Buy,Neutral,up,GRWG
+2021-05-14,Alliance Global Partners,Buy,Neutral,up,GRWG
+2021-11-12,Stifel,Hold,Buy,down,GRWG
+2021-12-07,Wells Fargo,Equal-Weight,,init,GRWG

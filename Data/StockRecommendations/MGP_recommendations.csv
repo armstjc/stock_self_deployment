@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-05-16,Morgan Stanley,Overweight,,init,MGP
+2016-05-16,JP Morgan,Overweight,,init,MGP
+2016-05-16,Bank of America,Buy,,init,MGP
+2016-05-16,Deutsche Bank,Buy,,init,MGP
+2016-05-16,Citigroup,Neutral,,init,MGP
+2016-05-16,SunTrust Robinson Humphrey,Buy,,init,MGP
+2016-06-22,Morgan Stanley,Equal-Weight,Overweight,down,MGP
+2016-08-05,Citigroup,Neutral,,main,MGP
+2016-09-26,UBS,Buy,,init,MGP
+2016-12-07,Deutsche Bank,Hold,Buy,down,MGP
+2017-08-09,Deutsche Bank,Hold,,main,MGP
+2017-09-08,Bank of America,Buy,,main,MGP
+2017-10-24,Morgan Stanley,Equal-Weight,,main,MGP
+2018-02-21,JP Morgan,Overweight,Overweight,main,MGP
+2018-02-21,Bank of America,Buy,Buy,main,MGP
+2018-04-09,Evercore ISI Group,Outperform,In-Line,up,MGP
+2018-07-12,Barclays,Overweight,Overweight,main,MGP
+2018-07-17,Bank of America,Buy,Buy,main,MGP
+2018-07-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,MGP
+2018-08-14,Credit Suisse,Neutral,,init,MGP
+2018-09-27,Nomura,Buy,,init,MGP
+2019-01-04,Baird,Outperform,,init,MGP
+2019-01-09,SunTrust Robinson Humphrey,Buy,Hold,up,MGP
+2019-10-25,Macquarie,Outperform,,init,MGP
+2019-11-06,Credit Suisse,Neutral,,main,MGP
+2019-12-10,Citigroup,Neutral,,main,MGP
+2020-01-15,Baird,Neutral,Outperform,down,MGP
+2020-02-18,Deutsche Bank,Hold,,main,MGP
+2020-03-30,Morgan Stanley,Equal-Weight,,main,MGP
+2020-04-07,Citigroup,Buy,Neutral,up,MGP
+2020-04-22,SunTrust Robinson Humphrey,Buy,,main,MGP
+2020-05-06,Deutsche Bank,Buy,,main,MGP
+2020-05-06,Morgan Stanley,Equal-Weight,,main,MGP
+2020-05-07,UBS,Buy,,main,MGP
+2020-05-19,Baird,Outperform,Neutral,up,MGP
+2020-05-21,B of A Securities,Buy,Neutral,up,MGP
+2020-06-25,Nomura Instinet,Buy,,main,MGP
+2020-08-06,Morgan Stanley,Equal-Weight,,main,MGP
+2020-11-03,Morgan Stanley,Equal-Weight,,main,MGP
+2020-11-12,Raymond James,Outperform,,init,MGP
+2020-11-17,Loop Capital,Hold,,init,MGP
+2021-01-12,Raymond James,Outperform,,main,MGP
+2021-01-20,Morgan Stanley,Equal-Weight,,main,MGP
+2021-02-17,Raymond James,Outperform,,main,MGP
+2021-02-18,Morgan Stanley,Equal-Weight,,main,MGP
+2021-03-15,KeyBanc,Overweight,,init,MGP
+2021-05-04,Morgan Stanley,Equal-Weight,,main,MGP
+2021-06-15,Wolfe Research,Peer Perform,,init,MGP
+2021-09-28,Keybanc,Sector Weight,Overweight,down,MGP
+2021-12-06,Macquarie,Neutral,Outperform,down,MGP

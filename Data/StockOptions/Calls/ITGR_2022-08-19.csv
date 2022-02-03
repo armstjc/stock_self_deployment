@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ITGR220819C00085000,2021-12-16 19:56:57+00:00,85.0,9.0,8.1,10.0,0.0,0.0,,1,0.5384567639160158,False,REGULAR,USD,ITGR

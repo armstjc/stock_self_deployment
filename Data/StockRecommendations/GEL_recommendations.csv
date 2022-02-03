@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,Citigroup,Buy,,main,GEL
+2012-02-22,UBS,Buy,,main,GEL
+2012-04-12,Deutsche Bank,Hold,,main,GEL
+2012-09-07,Global Hunter Securities,Buy,,init,GEL
+2012-09-20,Credit Suisse,Outperform,,init,GEL
+2012-10-19,Barclays,Overweight,,init,GEL
+2012-11-06,Bank of America,Buy,,main,GEL
+2012-11-08,Deutsche Bank,Hold,,main,GEL
+2012-11-13,Citigroup,Buy,,main,GEL
+2013-01-11,Deutsche Bank,Hold,,main,GEL
+2013-02-15,Barclays,Overweight,,main,GEL
+2013-04-15,Deutsche Bank,Hold,,main,GEL
+2013-07-16,Credit Suisse,,Outperform,down,GEL
+2013-09-03,Oppenheimer,Perform,,init,GEL
+2013-11-07,Wells Fargo,Market Perform,Outperform,down,GEL
+2014-01-09,Credit Suisse,Neutral,,up,GEL
+2014-01-14,Barclays,Equal-Weight,Overweight,down,GEL
+2014-02-18,Janney Capital,Neutral,Buy,down,GEL
+2014-03-28,Citigroup,Neutral,Buy,down,GEL
+2014-03-28,Citigroup,Neutral,,main,GEL
+2014-05-05,Baird,Neutral,,main,GEL
+2014-05-05,Raymond James,Outperform,,main,GEL
+2014-05-06,Barclays,Equal-Weight,,main,GEL
+2014-07-23,Citigroup,Neutral,,main,GEL
+2014-08-04,Barclays,Equal-Weight,,main,GEL
+2014-10-31,Barclays,Equal-Weight,,main,GEL
+2014-10-31,MLV & Co.,Buy,Hold,up,GEL
+2014-11-03,Barclays,Equal-Weight,,main,GEL
+2014-12-19,Barclays,Equal-Weight,,main,GEL
+2015-02-26,Barclays,Equal-Weight,,main,GEL
+2015-03-04,Citigroup,Neutral,,main,GEL
+2015-04-30,Barclays,Equal-Weight,,main,GEL
+2015-05-01,Baird,Neutral,Outperform,down,GEL
+2015-07-20,Wells Fargo,Outperform,Market Perform,up,GEL
+2015-07-20,Barclays,Equal-Weight,,main,GEL
+2015-07-20,RBC Capital,Outperform,,main,GEL
+2015-09-25,Cowen & Co.,Buy,,init,GEL
+2015-09-25,Wunderlich,Buy,,init,GEL
+2015-10-22,Janney Capital,Buy,,init,GEL
+2015-11-09,Barclays,Equal-Weight,,main,GEL
+2016-01-15,Wells Fargo,Market Perform,Outperform,down,GEL
+2016-02-19,Credit Suisse,Outperform,,main,GEL
+2016-02-19,Barclays,Equal-Weight,,main,GEL
+2016-03-10,DA Davidson,Buy,,init,GEL
+2016-07-01,Citigroup,Buy,Neutral,up,GEL
+2016-07-18,Wells Fargo,Outperform,Market Perform,up,GEL
+2016-08-04,Citigroup,Buy,,main,GEL
+2016-08-04,UBS,Buy,,main,GEL
+2016-08-10,Barclays,Equal-Weight,,main,GEL
+2016-10-17,Capital One Financial,Equal-Weight,,init,GEL
+2016-11-04,Credit Suisse,Neutral,Outperform,down,GEL
+2016-11-14,Capital One Financial,Overweight,Equal-Weight,up,GEL
+2017-01-11,Wells Fargo,Market Perform,,down,GEL
+2017-02-17,RBC Capital,Sector Perform,Outperform,down,GEL
+2017-02-17,Capital One Financial,Equal-Weight,Overweight,down,GEL
+2017-05-08,Credit Suisse,Outperform,Neutral,up,GEL
+2017-07-13,Baird,Neutral,,main,GEL
+2017-07-18,Barclays,Underweight,Equal-Weight,down,GEL
+2017-08-07,Baird,Outperform,Neutral,up,GEL
+2017-10-13,Barclays,Equal-Weight,Underweight,up,GEL
+2017-10-13,Baird,Outperform,,main,GEL
+2017-10-17,UBS,Buy,,main,GEL
+2017-11-06,Barclays,Equal-Weight,,main,GEL
+2018-02-15,Barclays,Equal-Weight,Equal-Weight,main,GEL
+2018-03-02,UBS,Buy,Buy,main,GEL
+2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,GEL
+2018-07-11,Barclays,Equal-Weight,Equal-Weight,main,GEL
+2018-08-30,UBS,Buy,Buy,main,GEL
+2018-09-04,Baird,Neutral,Outperform,down,GEL
+2018-10-12,Barclays,Equal-Weight,Equal-Weight,main,GEL
+2018-11-02,RBC Capital,Outperform,Sector Perform,up,GEL
+2018-11-02,Barclays,Equal-Weight,Equal-Weight,main,GEL
+2018-11-02,Baird,Neutral,Neutral,main,GEL
+2019-06-26,Raymond James,Market Perform,Outperform,down,GEL
+2019-09-27,UBS,Buy,,main,GEL
+2019-11-07,UBS,Buy,,main,GEL
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,GEL
+2020-02-20,UBS,Neutral,Buy,down,GEL
+2020-03-16,UBS,Buy,Neutral,up,GEL
+2020-04-14,Wells Fargo,Underweight,,main,GEL
+2020-07-22,Wells Fargo,Underweight,,main,GEL
+2021-05-13,Wells Fargo,Equal-Weight,Underweight,up,GEL
+2021-08-06,Barclays,Overweight,,main,GEL
+2021-10-14,Barclays,Equal-Weight,Overweight,down,GEL
+2021-11-11,RBC Capital,Outperform,,main,GEL
+2021-11-23,Capital One,Equal-Weight,Overweight,down,GEL
+2021-12-16,Wells Fargo,Equal-Weight,,main,GEL

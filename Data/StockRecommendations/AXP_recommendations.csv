@@ -1,0 +1,213 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-14,Guggenheim,Buy,,main,AXP
+2012-03-23,Goldman Sachs,Buy,,main,AXP
+2012-04-13,Citigroup,Buy,,main,AXP
+2012-04-19,PiperJaffray,Neutral,,main,AXP
+2012-04-19,JP Morgan,Neutral,,main,AXP
+2012-04-19,Morgan Stanley,Equal-Weight,,main,AXP
+2012-12-19,Evercore Partners,Equal-Weight,Overweight,down,AXP
+2013-01-08,Edward Jones,Hold,Buy,down,AXP
+2013-01-11,Credit Suisse,Underperform,,main,AXP
+2013-01-14,Goldman Sachs,Neutral,Buy,down,AXP
+2013-01-15,JP Morgan,Underweight,Neutral,down,AXP
+2013-03-12,JP Morgan,Underweight,,main,AXP
+2013-04-18,Barclays,Overweight,,main,AXP
+2013-04-18,Jefferies,Hold,,main,AXP
+2013-04-18,Credit Suisse,Underperform,,main,AXP
+2013-05-30,Nomura,Buy,,main,AXP
+2013-06-12,Oppenheimer,Perform,,init,AXP
+2013-06-14,Barclays,Equal-Weight,Overweight,down,AXP
+2013-07-15,Jefferies,Hold,,main,AXP
+2013-07-16,JP Morgan,Underweight,,main,AXP
+2013-07-17,Buckingham Research,Neutral,Buy,down,AXP
+2013-07-18,Susquehanna,Neutral,Positive,down,AXP
+2013-12-18,SunTrust Robinson Humphrey,Buy,,init,AXP
+2013-12-19,SunTrust Robinson Humphrey,Buy,,init,AXP
+2013-12-27,Susquehanna,Neutral,,main,AXP
+2014-01-14,UBS,Neutral,,init,AXP
+2014-01-17,Susquehanna,Positive,Neutral,up,AXP
+2014-01-17,Buckingham Research,Buy,Neutral,up,AXP
+2014-02-05,Janney Capital,Buy,Neutral,up,AXP
+2014-02-10,Morgan Stanley,Overweight,Equal-weight,up,AXP
+2014-04-17,Nomura,Buy,,main,AXP
+2014-06-16,Pacific Crest,Sector Perform,,init,AXP
+2014-07-09,Guggenheim,Buy,Neutral,up,AXP
+2014-07-10,Barclays,Equal-Weight,,main,AXP
+2014-07-10,Macquarie,Underperform,,init,AXP
+2014-07-16,JP Morgan,Underweight,,main,AXP
+2014-07-30,Macquarie,Underperform,,main,AXP
+2014-10-16,JP Morgan,Neutral,Underperform,up,AXP
+2014-10-20,Sandler O'Neil,Buy,Hold,up,AXP
+2014-11-13,Deutsche Bank,Hold,,init,AXP
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,AXP
+2014-12-18,Jefferies,Hold,,init,AXP
+2015-01-07,Goldman Sachs,Buy,Neutral,up,AXP
+2015-01-22,Barclays,Equal-Weight,,main,AXP
+2015-01-22,Jefferies,Hold,,main,AXP
+2015-02-13,JP Morgan,Neutral,,main,AXP
+2015-02-13,Jefferies,Hold,,main,AXP
+2015-02-13,Keefe Bruyette & Woods,Outperform,,main,AXP
+2015-02-13,Deutsche Bank,Hold,,main,AXP
+2015-02-13,Citigroup,Buy,,main,AXP
+2015-02-13,Barclays,Equal-Weight,,main,AXP
+2015-02-13,Bank of America,Underperform,Buy,down,AXP
+2015-02-26,Deutsche Bank,Buy,Hold,up,AXP
+2015-03-03,Macquarie,Underperform,Neutral,down,AXP
+2015-03-06,Susquehanna,Positive,,main,AXP
+2015-04-07,Oppenheimer,Underperform,Market Perform,down,AXP
+2015-04-21,Citigroup,Buy,,main,AXP
+2015-04-27,Nomura,Neutral,Buy,down,AXP
+2015-05-06,Bernstein,Outperform,Market Perform,up,AXP
+2015-05-06,Bernstein,Outperform,,main,AXP
+2015-08-19,Evercore ISI Group,Hold,,init,AXP
+2015-09-15,Susquehanna,Positive,,main,AXP
+2015-10-13,Barclays,Equal-Weight,,main,AXP
+2015-10-22,Credit Suisse,Underperform,,main,AXP
+2015-10-26,UBS,Sell,Neutral,down,AXP
+2015-12-22,JMP Securities,Market Perform,,init,AXP
+2016-01-13,DA Davidson,Neutral,,init,AXP
+2016-01-13,Goldman Sachs,Neutral,Buy,down,AXP
+2016-01-19,Credit Suisse,Underperform,,main,AXP
+2016-01-22,Macquarie,Underperform,,main,AXP
+2016-01-22,UBS,Sell,,main,AXP
+2016-01-22,Barclays,Equal-Weight,,main,AXP
+2016-01-22,Credit Suisse,Underperform,,main,AXP
+2016-01-22,Keefe Bruyette & Woods,Market Perform,Outperform,down,AXP
+2016-01-22,Credit Suisse,Underperform,,main,AXP
+2016-01-25,Argus,Hold,Buy,down,AXP
+2016-01-25,Oppenheimer,Perform,Underperform,up,AXP
+2016-01-25,Morgan Stanley,Equal-Weight,Overweight,down,AXP
+2016-02-09,Deutsche Bank,Buy,,main,AXP
+2016-02-11,Nomura,Neutral,,main,AXP
+2016-04-15,Compass Point,Buy,,init,AXP
+2016-04-21,Goldman Sachs,Neutral,,main,AXP
+2016-04-21,Morgan Stanley,Equal-Weight,,main,AXP
+2016-04-21,Macquarie,Underperform,,main,AXP
+2016-04-21,Keefe Bruyette & Woods,Market Perform,,main,AXP
+2016-04-22,Deutsche Bank,Hold,Buy,down,AXP
+2016-06-07,Goldman Sachs,Neutral,,main,AXP
+2016-10-06,Nomura,Reduce,Neutral,down,AXP
+2016-10-20,Bank of America,Neutral,Underperform,up,AXP
+2017-01-10,Oppenheimer,Outperform,Perform,up,AXP
+2017-01-17,JP Morgan,Overweight,Neutral,up,AXP
+2017-01-30,Keefe Bruyette & Woods,Outperform,Market Perform,up,AXP
+2017-03-24,Tigress Financial,Neutral,,init,AXP
+2017-04-25,Guggenheim,Buy,,up,AXP
+2017-04-27,Nomura,Neutral,Reduce,up,AXP
+2017-07-20,Bank of America,Neutral,,main,AXP
+2017-07-20,Morgan Stanley,Equal-Weight,,main,AXP
+2017-09-08,Morgan Stanley,Equal-Weight,,main,AXP
+2017-10-02,Buckingham,Neutral,,init,AXP
+2017-10-12,Compass Point,Neutral,Buy,down,AXP
+2017-10-19,Barclays,Equal-Weight,,main,AXP
+2017-10-19,Bank of America,Buy,,main,AXP
+2017-10-19,Morgan Stanley,Equal-Weight,,main,AXP
+2017-10-19,Credit Suisse,Underperform,,main,AXP
+2018-01-03,Deutsche Bank,Buy,,init,AXP
+2018-01-12,JP Morgan,Neutral,Overweight,down,AXP
+2018-02-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,AXP
+2018-02-12,Nomura,Buy,Neutral,up,AXP
+2018-03-28,UBS,Buy,,init,AXP
+2018-04-05,Citigroup,Buy,,init,AXP
+2018-04-19,Barclays,Equal-Weight,Equal-Weight,main,AXP
+2018-04-19,Buckingham,Neutral,Neutral,main,AXP
+2018-06-29,Buckingham,Buy,Neutral,up,AXP
+2018-07-19,BMO Capital,Market Perform,Market Perform,main,AXP
+2018-07-20,DZ Bank,Buy,Hold,up,AXP
+2018-09-17,Stephens & Co.,Overweight,Equal-Weight,up,AXP
+2018-10-01,Wells Fargo,Outperform,Outperform,main,AXP
+2018-10-19,Morgan Stanley,Equal-Weight,Equal-Weight,main,AXP
+2018-10-19,Barclays,Equal-Weight,Equal-Weight,main,AXP
+2018-10-19,Nomura,Buy,Buy,main,AXP
+2018-10-22,BMO Capital,Market Perform,Market Perform,main,AXP
+2018-11-29,Buckingham,Neutral,Buy,down,AXP
+2018-12-19,Bank of America,Neutral,Buy,down,AXP
+2019-01-03,Wells Fargo,Outperform,Outperform,main,AXP
+2019-01-08,Morgan Stanley,Equal-Weight,Equal-Weight,main,AXP
+2019-01-29,Atlantic Equities,Overweight,Neutral,up,AXP
+2019-04-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,AXP
+2019-04-25,Morgan Stanley,Overweight,Equal-Weight,up,AXP
+2019-04-29,UBS,Neutral,Buy,down,AXP
+2019-05-03,Morgan Stanley,Overweight,Equal-Weight,up,AXP
+2019-07-10,Wells Fargo,Outperform,,main,AXP
+2019-07-22,JP Morgan,Neutral,,main,AXP
+2019-07-22,RBC Capital,Sector Perform,,main,AXP
+2019-10-21,BMO Capital,Market Perform,,main,AXP
+2019-10-29,Morgan Stanley,Overweight,,main,AXP
+2020-01-09,Baird,Neutral,,init,AXP
+2020-01-27,Stephens & Co.,Equal-Weight,Overweight,down,AXP
+2020-01-27,Oppenheimer,Outperform,,main,AXP
+2020-01-27,Morgan Stanley,Overweight,,main,AXP
+2020-01-28,Nomura,Buy,,main,AXP
+2020-03-02,Morgan Stanley,Overweight,,main,AXP
+2020-03-02,Argus Research,Buy,Hold,up,AXP
+2020-03-03,DZ Bank,Buy,Hold,up,AXP
+2020-03-09,Morgan Stanley,Overweight,,main,AXP
+2020-03-09,Baird,Outperform,Neutral,up,AXP
+2020-03-12,B of A Securities,Neutral,Buy,down,AXP
+2020-03-18,Stephens & Co.,Equal-Weight,,main,AXP
+2020-03-18,JP Morgan,Neutral,,main,AXP
+2020-03-18,Credit Suisse,Underperform,,main,AXP
+2020-03-20,Nomura,Buy,,main,AXP
+2020-03-27,Morgan Stanley,Overweight,,main,AXP
+2020-04-03,CFRA,Hold,,main,AXP
+2020-04-08,Wells Fargo,Overweight,,main,AXP
+2020-04-13,Deutsche Bank,Buy,,main,AXP
+2020-04-14,Morgan Stanley,Overweight,,main,AXP
+2020-04-27,BMO Capital,Market Perform,,main,AXP
+2020-04-27,Credit Suisse,Underperform,,main,AXP
+2020-04-27,Deutsche Bank,Buy,,main,AXP
+2020-04-27,Morgan Stanley,Overweight,,main,AXP
+2020-04-30,Wells Fargo,Overweight,,main,AXP
+2020-06-04,RBC Capital,Sector Perform,,main,AXP
+2020-06-08,Morgan Stanley,Overweight,,main,AXP
+2020-06-10,Jefferies,Hold,,main,AXP
+2020-06-18,DZ Bank,Hold,Buy,down,AXP
+2020-06-22,UBS,Sell,Neutral,down,AXP
+2020-07-02,Compass Point,Neutral,,main,AXP
+2020-07-08,Citigroup,Neutral,Buy,down,AXP
+2020-07-27,B of A Securities,Neutral,,main,AXP
+2020-07-27,Morgan Stanley,Overweight,,main,AXP
+2020-07-27,Deutsche Bank,Buy,,main,AXP
+2020-09-16,B of A Securities,Neutral,,main,AXP
+2020-09-23,B of A Securities,Underperform,Neutral,down,AXP
+2020-10-05,Morgan Stanley,Overweight,,main,AXP
+2020-10-09,Susquehanna,Neutral,Positive,down,AXP
+2020-11-30,Morgan Stanley,Overweight,,main,AXP
+2020-12-09,DZ Bank,Hold,Buy,down,AXP
+2021-01-19,JP Morgan,Overweight,Neutral,up,AXP
+2021-01-27,Credit Suisse,Underperform,,main,AXP
+2021-01-27,Morgan Stanley,Overweight,,main,AXP
+2021-01-28,DZ Bank,Buy,Hold,up,AXP
+2021-02-16,Baird,Neutral,Outperform,down,AXP
+2021-04-01,Morgan Stanley,Overweight,,main,AXP
+2021-04-05,Wells Fargo,Overweight,,main,AXP
+2021-04-26,Deutsche Bank,Buy,,main,AXP
+2021-04-26,Barclays,Equal-Weight,,main,AXP
+2021-04-26,Oppenheimer,Outperform,,main,AXP
+2021-04-26,Morgan Stanley,Overweight,,main,AXP
+2021-06-07,Wells Fargo,Overweight,,main,AXP
+2021-06-17,DZ Bank,Hold,Buy,down,AXP
+2021-07-02,Credit Suisse,Underperform,,main,AXP
+2021-07-06,Goldman Sachs,Buy,Neutral,up,AXP
+2021-07-09,Barclays,Equal-Weight,,main,AXP
+2021-07-12,Deutsche Bank,Buy,,main,AXP
+2021-07-12,Wells Fargo,Overweight,,main,AXP
+2021-07-26,BMO Capital,Market Perform,,main,AXP
+2021-07-26,Deutsche Bank,Buy,,main,AXP
+2021-07-26,RBC Capital,Sector Perform,,main,AXP
+2021-07-26,Barclays,Equal-Weight,,main,AXP
+2021-07-26,Morgan Stanley,Overweight,,main,AXP
+2021-07-26,Stephens & Co.,Equal-Weight,,main,AXP
+2021-07-29,Morgan Stanley,Overweight,,main,AXP
+2021-08-12,Daiwa Capital,Neutral,Outperform,down,AXP
+2021-08-30,Seaport Global,Neutral,,init,AXP
+2021-09-16,Morgan Stanley,Overweight,,main,AXP
+2021-09-16,B of A Securities,Neutral,Underperform,up,AXP
+2021-10-11,Barclays,Equal-Weight,,main,AXP
+2021-10-13,Oppenheimer,Outperform,,main,AXP
+2021-10-25,Stephens & Co.,Equal-Weight,,main,AXP
+2021-10-25,Barclays,Equal-Weight,,main,AXP
+2021-10-25,RBC Capital,Sector Perform,,main,AXP
+2021-12-06,Morgan Stanley,Overweight,,main,AXP
+2022-01-10,Barclays,Equal-Weight,,main,AXP

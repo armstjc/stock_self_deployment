@@ -1,0 +1,133 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-03,Societe Generale,Buy,Hold,up,LPI
+2012-07-20,JP Morgan,Overweight,,main,LPI
+2012-08-09,JP Morgan,Overweight,,main,LPI
+2012-10-10,CK Cooper,Buy,,init,LPI
+2012-11-20,BMO Capital,Market Perform,Outperform,down,LPI
+2012-12-04,Societe Generale,Buy,,main,LPI
+2012-12-17,C.K.Cooper & Co.,,,main,LPI
+2013-01-03,JP Morgan,Overweight,,main,LPI
+2013-03-26,SunTrust Robinson Humphrey,Neutral,,init,LPI
+2013-04-12,Societe Generale,Buy,,main,LPI
+2013-05-13,BMO Capital,Outperform,Market Perform,up,LPI
+2013-05-17,Topeka,Buy,,init,LPI
+2013-06-27,Brean Capital,Buy,,init,LPI
+2013-07-02,Cowen & Co.,Outperform,,init,LPI
+2013-07-10,Canaccord Genuity,Buy,,init,LPI
+2013-08-02,Topeka,Hold,Buy,down,LPI
+2013-08-02,Topeka,Hold,Buy,down,LPI
+2013-09-25,Northland Securities,Outperform,,init,LPI
+2013-09-26,Northland Securities,Outperform,,init,LPI
+2013-10-01,Goldman Sachs,Neutral,Buy,down,LPI
+2013-10-03,KLR Group,Hold,Accumulate,down,LPI
+2013-11-20,Imperial Capital,In-Line,,init,LPI
+2014-01-03,Imperial Capital,In-Line,,main,LPI
+2014-01-15,Tudor Pickering,Accumulate,Hold,up,LPI
+2014-02-11,Topeka,Buy,Hold,up,LPI
+2014-02-20,Seaport Global,,,init,LPI
+2014-03-06,Imperial Capital,In-Line,,main,LPI
+2014-03-18,KLR Group,Accumulate,Hold,up,LPI
+2014-04-02,SunTrust Robinson Humphrey,Buy,Neutral,up,LPI
+2014-04-15,Baird,Outperform,,init,LPI
+2014-05-13,KLR Group,Hold,Accumulate,down,LPI
+2014-06-24,GMP Securities,Buy,,init,LPI
+2014-07-01,Canaccord Genuity,Buy,,init,LPI
+2014-08-08,SunTrust Robinson Humphrey,Neutral,Buy,down,LPI
+2014-08-08,Brean Capital,Buy,,main,LPI
+2014-08-11,Stephens & Co.,Equal-Weight,Overweight,down,LPI
+2014-08-27,Canaccord Genuity,Hold,Buy,down,LPI
+2014-09-16,Bank of America,Neutral,Buy,down,LPI
+2014-09-23,KLR Group,Accumulate,Hold,up,LPI
+2014-09-23,Raymond James,Outperform,,init,LPI
+2014-10-27,Goldman Sachs,Sell,Neutral,down,LPI
+2014-11-07,Bank of America,Neutral,,main,LPI
+2014-11-12,Simmons & Co.,Neutral,Overweight,down,LPI
+2014-11-13,BMO Capital,Market Perform,Outperform,down,LPI
+2014-11-18,KLR Group,Buy,Accumulate,up,LPI
+2014-12-02,Seaport Global,Neutral,Accumulate,down,LPI
+2014-12-02,Mizuho,Neutral,Buy,down,LPI
+2014-12-17,JP Morgan,Overweight,,main,LPI
+2015-01-06,Bank of America,Underperform,,down,LPI
+2015-02-27,Northland Securities,Market Perform,Outperform,down,LPI
+2015-04-15,Credit Suisse,Neutral,,init,LPI
+2015-04-20,Raymond James,Market Perform,Outperform,down,LPI
+2015-04-21,Raymond James,Market Perform,Outperform,down,LPI
+2015-05-12,Stephens & Co.,Equal-Weight,,main,LPI
+2015-05-18,Goldman Sachs,Neutral,Sell,up,LPI
+2015-06-19,SunTrust Robinson Humphrey,Neutral,,init,LPI
+2015-08-10,Raymond James,Outperform,Market Perform,up,LPI
+2015-08-12,Credit Suisse,Neutral,,main,LPI
+2015-10-13,iBERIA Capital Partners,Sector Perform,Outperform,down,LPI
+2015-10-15,KLR Group,Reduce,Hold,down,LPI
+2015-12-02,Deutsche Bank,Hold,,init,LPI
+2015-12-03,Nomura,Neutral,,init,LPI
+2015-12-07,KLR Group,Hold,Reduce,up,LPI
+2015-12-09,Deutsche Bank,Hold,,main,LPI
+2015-12-09,Cowen & Co.,Market Perform,,init,LPI
+2015-12-09,JP Morgan,Underweight,,init,LPI
+2016-01-11,Cowen & Co.,Outperform,Market Perform,up,LPI
+2016-01-21,Deutsche Bank,Hold,,main,LPI
+2016-01-21,Nomura,Neutral,,main,LPI
+2016-02-09,JP Morgan,Underweight,,main,LPI
+2016-02-17,iBERIA Capital Partners,Sector Perform,,main,LPI
+2016-02-18,Stephens & Co.,Equal-Weight,Overweight,down,LPI
+2016-02-18,KLR Group,Accumulate,Hold,up,LPI
+2016-02-22,Nomura,Neutral,,main,LPI
+2016-02-23,Deutsche Bank,Hold,,main,LPI
+2016-03-14,KLR Group,Hold,Accumulate,down,LPI
+2016-03-30,Seaport Global,Sell,Neutral,down,LPI
+2016-04-18,Cowen & Co.,Market Perform,Outperform,down,LPI
+2016-05-13,JP Morgan,Neutral,Underperform,up,LPI
+2016-05-26,Imperial Capital,In-Line,,init,LPI
+2016-06-14,iBERIA Capital Partners,Outperform,Sector Perform,up,LPI
+2016-08-05,Barclays,Overweight,,main,LPI
+2016-08-24,Capital One Financial,Overweight,Equal-Weight,up,LPI
+2016-08-29,Williams Capital,Hold,,init,LPI
+2016-08-30,Seaport Global,Neutral,Sell,up,LPI
+2016-09-08,Raymond James,Outperform,,main,LPI
+2016-09-13,FBR Capital,Outperform,,init,LPI
+2016-10-13,Credit Suisse,Underperform,Neutral,down,LPI
+2016-12-16,Drexel Hamilton,Buy,,init,LPI
+2017-02-21,Simmons & Co.,Overweight,Neutral,up,LPI
+2017-03-31,Seaport Global,Buy,Neutral,up,LPI
+2017-04-13,Stifel Nicolaus,Buy,,init,LPI
+2017-06-21,Seaport Global,Neutral,Buy,down,LPI
+2017-08-08,Bank of America,Underperform,,main,LPI
+2017-09-18,PiperJaffray,Overweight,,main,LPI
+2017-11-02,BMO Capital,Market Perform,,main,LPI
+2017-11-20,Barclays,Overweight,,main,LPI
+2017-12-12,Credit Suisse,Neutral,,init,LPI
+2017-12-15,JP Morgan,Underweight,Neutral,down,LPI
+2018-02-02,Deutsche Bank,Hold,,init,LPI
+2018-03-08,Bank of America,Underperform,Underperform,main,LPI
+2018-05-03,Baird,Neutral,Outperform,down,LPI
+2018-05-10,Tudor Pickering,Hold,Buy,down,LPI
+2018-08-02,Bank of America,Underperform,Underperform,main,LPI
+2019-01-04,Baird,Neutral,Neutral,main,LPI
+2019-01-09,PiperJaffray,Neutral,Overweight,down,LPI
+2019-02-15,Societe Generale,Hold,Buy,down,LPI
+2019-02-15,MKM Partners,Neutral,Buy,down,LPI
+2019-05-09,Baird,Outperform,Neutral,up,LPI
+2019-05-23,Capital One Financial,Equal-Weight,Underweight,up,LPI
+2019-07-10,Credit Suisse,Neutral,Underperform,up,LPI
+2019-07-31,JP Morgan,Neutral,Underweight,up,LPI
+2019-12-10,Stifel Nicolaus,Buy,,main,LPI
+2019-12-17,Goldman Sachs,Sell,Neutral,down,LPI
+2020-01-09,Wells Fargo,Equal-Weight,,main,LPI
+2020-03-20,MKM Partners,Buy,Neutral,up,LPI
+2020-05-19,Capital One Financial,Overweight,Equal-Weight,up,LPI
+2020-06-05,Wells Fargo,Equal-Weight,,main,LPI
+2020-06-25,Wells Fargo,Equal-Weight,,main,LPI
+2020-07-13,ScotiaBank,Sector Perform,,main,LPI
+2020-07-20,Raymond James,Outperform,Market Perform,up,LPI
+2020-07-27,Seaport Global,Buy,,init,LPI
+2020-08-13,Wells Fargo,Equal-Weight,,main,LPI
+2020-09-14,Wells Fargo,Underweight,Equal-Weight,down,LPI
+2020-10-21,Raymond James,Outperform,,main,LPI
+2021-05-19,Wells Fargo,Underweight,,main,LPI
+2021-07-09,Raymond James,Outperform,,main,LPI
+2021-08-23,Wells Fargo,Underweight,,main,LPI
+2021-10-13,Wells Fargo,Underweight,,main,LPI
+2021-10-21,Piper Sandler,Neutral,,main,LPI
+2021-10-26,Raymond James,Outperform,,main,LPI
+2021-12-06,Raymond James,Outperform,,main,LPI

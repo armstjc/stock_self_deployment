@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LNN220218P00145000,2021-12-17 18:24:53+00:00,145.0,8.38,4.6,5.8,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,LNN

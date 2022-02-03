@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-25,Raymond James,Outperform,,init,CTRE
+2015-09-10,KeyBanc,Overweight,,init,CTRE
+2015-09-24,RBC Capital,Outperform,,init,CTRE
+2016-01-14,BMO Capital,Outperform,,init,CTRE
+2016-07-26,Wells Fargo,Market Perform,,init,CTRE
+2016-08-15,Canaccord Genuity,Buy,,main,CTRE
+2016-08-22,Barclays,Equal-Weight,,init,CTRE
+2016-09-14,Stephens & Co.,Overweight,,init,CTRE
+2016-10-24,JMP Securities,Market Perform,,init,CTRE
+2017-01-03,RBC Capital,Sector Perform,Outperform,down,CTRE
+2017-03-30,Canaccord Genuity,Buy,,reit,CTRE
+2017-06-20,BMO Capital,Market Perform,Outperform,down,CTRE
+2017-10-23,Capital One Financial,Equal-Weight,,init,CTRE
+2017-12-19,Wells Fargo,Outperform,Market Perform,up,CTRE
+2018-02-28,Stifel Nicolaus,Hold,Hold,main,CTRE
+2018-03-06,Cantor Fitzgerald,Overweight,,init,CTRE
+2018-03-06,KeyBanc,Overweight,Overweight,main,CTRE
+2018-05-24,RBC Capital,Sector Perform,Sector Perform,main,CTRE
+2018-05-31,Wells Fargo,Outperform,Outperform,main,CTRE
+2018-08-10,RBC Capital,Sector Perform,Sector Perform,main,CTRE
+2018-08-21,KeyBanc,Overweight,Overweight,main,CTRE
+2018-11-29,Stifel Nicolaus,Buy,Hold,up,CTRE
+2018-12-04,Wells Fargo,Outperform,Outperform,main,CTRE
+2018-12-20,KeyBanc,Sector Weight,Overweight,down,CTRE
+2019-01-08,Raymond James,Strong Buy,Outperform,up,CTRE
+2019-01-09,BMO Capital,Outperform,Market Perform,up,CTRE
+2019-04-09,BMO Capital,Outperform,Outperform,main,CTRE
+2019-05-31,Raymond James,Market Perform,Strong Buy,down,CTRE
+2019-08-21,Capital One Financial,Overweight,Equal-Weight,up,CTRE
+2019-09-03,Barclays,Overweight,,init,CTRE
+2020-01-07,BMO Capital,Market Perform,Outperform,down,CTRE
+2020-03-26,Wells Fargo,Overweight,,main,CTRE
+2020-04-06,Mizuho,Neutral,Underperform,up,CTRE
+2020-04-29,Raymond James,Outperform,Market Perform,up,CTRE
+2020-06-17,Wells Fargo,Overweight,,main,CTRE
+2020-08-03,Raymond James,Strong Buy,Outperform,up,CTRE
+2020-08-10,Raymond James,Strong Buy,,main,CTRE
+2020-11-11,RBC Capital,Outperform,Sector Perform,up,CTRE
+2020-12-02,Berenberg,Buy,Hold,up,CTRE
+2020-12-14,KeyBanc,Overweight,Sector Weight,up,CTRE
+2021-01-08,BMO Capital,Outperform,Market Perform,up,CTRE
+2021-05-24,RBC Capital,Outperform,,main,CTRE
+2021-08-11,RBC Capital,Sector Perform,Outperform,down,CTRE
+2021-10-08,Baird,Outperform,,init,CTRE
+2021-11-18,RBC Capital,Sector Perform,,main,CTRE

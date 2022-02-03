@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-03,UBS,Buy,,init,NOMD
+2016-08-26,UBS,Buy,,main,NOMD
+2017-02-15,Deutsche Bank,Buy,,init,NOMD
+2017-04-05,SunTrust Robinson Humphrey,Buy,,init,NOMD
+2017-11-16,Berenberg,Buy,,init,NOMD
+2018-06-28,Wells Fargo,Outperform,,init,NOMD
+2018-07-17,Credit Suisse,Outperform,,init,NOMD
+2018-08-10,Wells Fargo,Outperform,Outperform,main,NOMD
+2018-08-10,UBS,Buy,Buy,main,NOMD
+2019-05-23,Citigroup,Neutral,,init,NOMD
+2019-06-19,DA Davidson,Buy,,init,NOMD
+2019-06-20,DA Davidson,Buy,,init,NOMD
+2019-06-27,Goldman Sachs,Buy,,init,NOMD
+2019-12-12,Deutsche Bank,Buy,,reit,NOMD
+2020-01-23,Jefferies,Buy,,init,NOMD
+2020-02-20,Deutsche Bank,Buy,,main,NOMD
+2020-05-04,Wells Fargo,Overweight,,main,NOMD
+2020-06-19,Citigroup,Buy,,init,NOMD
+2020-08-10,UBS,Buy,,main,NOMD
+2020-09-03,Berenberg,Hold,Buy,down,NOMD
+2020-10-26,BTIG,Buy,,init,NOMD
+2020-11-06,UBS,Buy,,main,NOMD
+2021-03-30,Credit Suisse,Outperform,,main,NOMD
+2021-11-05,Goldman Sachs,Neutral,Buy,down,NOMD

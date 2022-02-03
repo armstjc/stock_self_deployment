@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,DA Davidson,Neutral,,up,CNSL
+2012-02-09,DA Davidson,Neutral,,up,CNSL
+2012-05-23,DA Davidson,Neutral,,main,CNSL
+2012-07-05,DA Davidson,Neutral,,main,CNSL
+2012-08-03,DA Davidson,Neutral,,main,CNSL
+2012-11-05,DA Davidson,Neutral,,main,CNSL
+2013-04-23,Jefferies,Buy,,init,CNSL
+2014-03-24,Citigroup,Sell,,main,CNSL
+2014-05-02,DA Davidson,Neutral,,main,CNSL
+2014-05-02,Raymond James,Outperform,,main,CNSL
+2014-07-01,Jefferies,Buy,,main,CNSL
+2014-07-30,Citigroup,Sell,,main,CNSL
+2014-07-31,Citigroup,Sell,,main,CNSL
+2014-08-01,Raymond James,Outperform,,main,CNSL
+2014-09-05,DA Davidson,Neutral,,main,CNSL
+2014-10-31,DA Davidson,Neutral,,main,CNSL
+2015-01-20,DA Davidson,Neutral,,main,CNSL
+2015-05-08,Drexel Hamilton,Buy,Hold,up,CNSL
+2015-09-10,Jefferies,Hold,,main,CNSL
+2016-04-04,DA Davidson,Underperform,Neutral,down,CNSL
+2016-05-13,Jefferies,Hold,,main,CNSL
+2016-06-27,Drexel Hamilton,Hold,Buy,down,CNSL
+2016-08-05,Citigroup,Sell,,main,CNSL
+2016-08-05,Raymond James,Underperform,Market Perform,down,CNSL
+2016-10-20,Stephens & Co.,Underweight,Equal-Weight,down,CNSL
+2016-11-03,Drexel Hamilton,Buy,Hold,up,CNSL
+2016-12-06,Raymond James,Market Perform,Underperform,up,CNSL
+2016-12-06,Jefferies,Hold,,main,CNSL
+2017-03-10,Raymond James,Outperform,Market Perform,up,CNSL
+2017-06-07,Citigroup,Neutral,Sell,up,CNSL
+2017-11-03,Jefferies,Hold,,main,CNSL
+2018-01-02,Drexel Hamilton,Buy,Hold,up,CNSL
+2018-03-13,Guggenheim,Neutral,,init,CNSL
+2019-01-08,Wells Fargo,Market Perform,Outperform,down,CNSL
+2019-02-19,Raymond James,Outperform,Strong Buy,down,CNSL
+2019-04-26,Wells Fargo,Outperform,Market Perform,up,CNSL
+2019-04-26,Guggenheim,Sell,Neutral,down,CNSL
+2020-10-15,Wells Fargo,Overweight,,main,CNSL
+2021-06-03,Citigroup,Sell,Neutral,down,CNSL
+2021-08-02,Citigroup,Neutral,Sell,up,CNSL
+2021-10-19,Citigroup,Sell,Neutral,down,CNSL
+2021-10-29,Citigroup,Neutral,Sell,up,CNSL

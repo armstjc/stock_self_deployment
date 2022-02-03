@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-14,Barclays,Overweight,,init,CPAC
+2012-11-14,Barclays,Overweight,,main,CPAC
+2012-12-13,Banco BTG Pactual,Buy,,init,CPAC
+2014-03-20,Barclays,Overweight,,main,CPAC
+2014-04-16,JP Morgan,Neutral,,main,CPAC
+2014-06-27,JP Morgan,Neutral,,main,CPAC
+2014-08-01,Barclays,Overweight,,main,CPAC
+2014-10-27,Barclays,Equal-Weight,Overweight,down,CPAC
+2015-01-26,JP Morgan,Neutral,,main,CPAC
+2016-03-15,UBS,Neutral,,init,CPAC
+2017-07-21,Bank of America,Underperform,,main,CPAC
+2017-10-27,Barclays,Equal-Weight,,main,CPAC
+2018-03-07,Bank of America,Neutral,Underperform,up,CPAC
+2018-04-11,HSBC,Hold,,init,CPAC
+2018-11-19,HSBC,Buy,Hold,up,CPAC
+2019-11-11,JP Morgan,Underweight,Neutral,down,CPAC

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ARCH220819P00100000,2021-12-31 19:34:13+00:00,100.0,22.2,21.7,22.9,0.0,0.0,4,4,0.8417374224853515,False,REGULAR,USD,ARCH

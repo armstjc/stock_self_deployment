@@ -1,0 +1,109 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-29,Jefferies,Buy,,main,NRG
+2012-02-29,Wunderlich,Buy,,main,NRG
+2012-03-20,Deutsche Bank,Hold,,main,NRG
+2012-04-17,Deutsche Bank,Buy,,up,NRG
+2012-04-30,Jefferies,Buy,,main,NRG
+2012-05-04,ISI Group,Buy,,main,NRG
+2012-05-04,Deutsche Bank,Buy,,main,NRG
+2012-05-10,Morgan Stanley,Overweight,,main,NRG
+2012-05-11,Morgan Stanley,Overweight,,main,NRG
+2012-07-24,UBS,Buy,Neutral,up,NRG
+2012-07-24,Jefferies,Buy,,main,NRG
+2012-07-24,Wunderlich,Buy,,main,NRG
+2012-07-24,Deutsche Bank,Hold,Buy,down,NRG
+2012-09-10,Goldman Sachs,Buy,Neutral,up,NRG
+2012-09-24,Citigroup,Neutral,,main,NRG
+2012-10-18,UBS,Buy,,main,NRG
+2012-11-05,Citigroup,Buy,Neutral,up,NRG
+2012-11-05,UBS,Buy,,main,NRG
+2013-01-17,Morgan Stanley,Overweight,,init,NRG
+2013-01-18,Deutsche Bank,Hold,,main,NRG
+2013-02-28,Wunderlich,Buy,,main,NRG
+2013-03-01,Jefferies,Buy,,main,NRG
+2013-03-11,UBS,Buy,,main,NRG
+2013-04-17,Deutsche Bank,Hold,,main,NRG
+2013-05-08,Wunderlich,Buy,,main,NRG
+2013-08-02,Drexel Hamilton,Buy,,init,NRG
+2013-09-09,Deutsche Bank,Hold,,main,NRG
+2013-09-17,Morgan Stanley,Overweight,,main,NRG
+2013-09-18,Goldman Sachs,Neutral,Buy,down,NRG
+2013-11-07,Jefferies,Buy,,main,NRG
+2013-11-15,Jefferies,Buy,,main,NRG
+2013-12-05,UBS,Buy,,main,NRG
+2014-03-20,Goldman Sachs,Conviction Buy,Neutral,up,NRG
+2014-04-02,Barclays,Overweight,,up,NRG
+2014-04-03,Morgan Stanley,Overweight,,main,NRG
+2014-04-09,UBS,Buy,,main,NRG
+2014-07-25,Jefferies,Buy,,main,NRG
+2014-08-08,Tigress Financial,Neutral,,init,NRG
+2014-08-08,Jefferies,Buy,,main,NRG
+2014-09-23,Deutsche Bank,Buy,,init,NRG
+2014-10-01,ISI Group,Strong Buy,Buy,up,NRG
+2014-10-29,Deutsche Bank,Buy,,main,NRG
+2014-12-17,Deutsche Bank,Buy,,main,NRG
+2015-01-05,Barclays,Overweight,,main,NRG
+2015-01-09,Credit Suisse,Outperform,,init,NRG
+2015-03-02,Deutsche Bank,Buy,,main,NRG
+2015-03-02,Barclays,Overweight,,main,NRG
+2015-04-22,Deutsche Bank,Buy,,main,NRG
+2015-09-21,Barclays,Buy,,main,NRG
+2015-10-15,Susquehanna,Neutral,,init,NRG
+2015-10-16,SunTrust Robinson Humphrey,Neutral,,init,NRG
+2015-11-05,Deutsche Bank,Buy,,main,NRG
+2015-12-01,Citigroup,Sell,,init,NRG
+2015-12-07,Credit Suisse,Outperform,,main,NRG
+2016-01-04,Barclays,Overweight,,main,NRG
+2016-01-22,Barclays,Overweight,,main,NRG
+2016-01-29,Guggenheim,Buy,,init,NRG
+2016-02-16,SunTrust Robinson Humphrey,Neutral,,main,NRG
+2016-03-07,SunTrust Robinson Humphrey,Neutral,,main,NRG
+2016-03-18,Barclays,Overweight,,main,NRG
+2016-06-09,UBS,Sell,Buy,down,NRG
+2016-06-10,Citigroup,Sell,,main,NRG
+2016-08-10,Barclays,Overweight,,main,NRG
+2016-08-31,UBS,Sell,,main,NRG
+2016-09-12,Citigroup,Sell,,main,NRG
+2016-11-07,Citigroup,Neutral,Sell,up,NRG
+2016-11-14,UBS,Neutral,Sell,up,NRG
+2016-11-22,Bank of America,Neutral,Buy,down,NRG
+2017-02-24,Citigroup,Buy,Neutral,up,NRG
+2017-03-29,Goldman Sachs,Buy,Neutral,up,NRG
+2017-06-01,UBS,Buy,Neutral,up,NRG
+2017-07-13,Barclays,Overweight,,main,NRG
+2018-02-23,UBS,Buy,,init,NRG
+2018-03-28,UBS,Buy,Buy,main,NRG
+2018-07-25,Bank of America,Buy,Buy,main,NRG
+2018-08-07,Bank of America,Buy,Buy,main,NRG
+2018-09-20,Macquarie,Outperform,Outperform,main,NRG
+2018-09-27,Bank of America,Buy,Buy,main,NRG
+2018-10-29,SunTrust Robinson Humphrey,Hold,Hold,main,NRG
+2018-12-10,Citigroup,Buy,Buy,main,NRG
+2019-01-28,Deutsche Bank,Hold,Buy,down,NRG
+2019-04-11,Citigroup,Buy,Buy,main,NRG
+2019-09-06,Morgan Stanley,Overweight,Equal-Weight,up,NRG
+2019-09-17,SunTrust Robinson Humphrey,Hold,,main,NRG
+2019-10-18,Citigroup,Buy,,main,NRG
+2019-11-08,Morgan Stanley,Overweight,,main,NRG
+2019-12-16,Morgan Stanley,Overweight,,main,NRG
+2020-02-20,BMO Capital,Market Perform,,init,NRG
+2020-02-25,Vertical Research,Hold,,init,NRG
+2020-02-28,UBS,Buy,,main,NRG
+2020-04-15,Morgan Stanley,Overweight,,main,NRG
+2020-04-30,Morgan Stanley,Overweight,,main,NRG
+2020-05-07,CFRA,Sell,Hold,down,NRG
+2020-05-15,Morgan Stanley,Overweight,,main,NRG
+2020-05-20,Seaport Global,Buy,,init,NRG
+2020-06-17,Morgan Stanley,Overweight,,main,NRG
+2020-07-27,B of A Securities,Buy,,main,NRG
+2020-08-14,Morgan Stanley,Overweight,,main,NRG
+2020-10-20,Morgan Stanley,Overweight,,main,NRG
+2020-11-17,Morgan Stanley,Overweight,,main,NRG
+2020-12-15,Morgan Stanley,Overweight,,main,NRG
+2021-02-05,Morgan Stanley,Overweight,,main,NRG
+2021-03-08,Morgan Stanley,Overweight,,main,NRG
+2021-03-17,Wolfe Research,Peer Perform,Outperform,down,NRG
+2021-03-18,Morgan Stanley,Overweight,,main,NRG
+2021-04-20,Morgan Stanley,Overweight,,main,NRG
+2021-08-19,Morgan Stanley,Overweight,,main,NRG
+2022-01-05,UBS,Neutral,Buy,down,NRG

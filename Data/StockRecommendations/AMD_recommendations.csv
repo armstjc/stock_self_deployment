@@ -1,0 +1,258 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-07,Longbow Research,Hold,Buy,up,AMD
+2012-03-15,Jefferies,Buy,,up,AMD
+2012-04-17,Sterne Agee,Buy,,main,AMD
+2012-04-20,Deutsche Bank,Hold,,main,AMD
+2012-04-20,Citigroup,Buy,,main,AMD
+2012-04-20,Williams Financial,Buy,,main,AMD
+2012-04-20,Wedbush,Outperform,,main,AMD
+2012-04-20,JP Morgan,Neutral,,main,AMD
+2012-04-20,FBR Capital,Outperform,,main,AMD
+2012-06-27,Citigroup,Buy,,main,AMD
+2012-07-05,Sterne Agee,Neutral,,down,AMD
+2012-07-10,Williams Financial,Buy,,main,AMD
+2012-07-10,Wedbush,Outperform,,main,AMD
+2012-07-10,Sterne Agee,Neutral,,main,AMD
+2012-07-10,Goldman Sachs,Sell,,main,AMD
+2012-07-10,Citigroup,Buy,,main,AMD
+2012-07-10,JP Morgan,Neutral,,main,AMD
+2012-07-10,Citigroup,Buy,,main,AMD
+2012-07-10,UBS,Buy,,main,AMD
+2012-07-10,FBR Capital,Outperform,,main,AMD
+2012-07-10,Canaccord Genuity,Buy,,main,AMD
+2012-07-10,Jefferies,Buy,,main,AMD
+2012-07-20,Wedbush,Neutral,Outperform,down,AMD
+2012-07-20,UBS,Buy,,main,AMD
+2012-07-20,Citigroup,Buy,,main,AMD
+2012-07-20,Jefferies,Buy,,main,AMD
+2012-07-20,Deutsche Bank,Hold,,main,AMD
+2012-07-20,Canaccord Genuity,Hold,Buy,down,AMD
+2012-08-27,Sterne Agee,Neutral,,main,AMD
+2012-09-05,UBS,Neutral,Buy,down,AMD
+2012-09-10,Goldman Sachs,Neutral,Sell,up,AMD
+2012-09-13,Citigroup,Neutral,Buy,down,AMD
+2012-09-18,Wedbush,Neutral,,main,AMD
+2012-09-25,FBR Capital,Outperform,,main,AMD
+2012-10-04,MKM Partners,Neutral,Sell,up,AMD
+2012-10-10,Barclays,Equal-Weight,,main,AMD
+2012-10-12,UBS,Neutral,,main,AMD
+2012-10-12,Barclays,Equal-Weight,,main,AMD
+2012-10-12,Williams Capital,Buy,,main,AMD
+2012-10-12,FBR Capital,Outperform,,main,AMD
+2012-10-12,Nomura,Neutral,,main,AMD
+2012-10-12,Sterne Agee,Neutral,,main,AMD
+2012-10-12,Citigroup,Neutral,,main,AMD
+2012-10-12,Goldman Sachs,Neutral,,main,AMD
+2012-10-12,Canaccord Genuity,Hold,,main,AMD
+2012-10-12,Wedbush,Neutral,,main,AMD
+2012-10-12,Deutsche Bank,Hold,,main,AMD
+2012-10-12,Jefferies,Buy,,main,AMD
+2012-10-19,FBR Capital,Market Perform,Outperform,down,AMD
+2013-01-03,Barclays,Underweight,Equal-Weight,down,AMD
+2013-01-23,Maxim Group,Market Perform,,main,AMD
+2013-03-18,Macquarie,Outperform,Underperform,up,AMD
+2013-05-02,Macquarie,Neutral,Outperform,down,AMD
+2013-05-16,Goldman Sachs,Sell,Neutral,down,AMD
+2013-06-24,FBR Capital,Outperform,Market Perform,up,AMD
+2013-07-11,Canaccord Genuity,Buy,Hold,up,AMD
+2013-07-11,Bank of America,Buy,Underperform,up,AMD
+2013-07-19,Morgan Stanley,Underweight,Equal-Weight,down,AMD
+2013-07-19,Credit Suisse,Underperform,Neutral,down,AMD
+2013-10-14,Wedbush,Outperform,Neutral,up,AMD
+2013-10-18,Bank of America,Neutral,Buy,down,AMD
+2013-10-18,Citigroup,Neutral,,main,AMD
+2013-10-22,Bernstein,Underperform,Market Perform,down,AMD
+2013-11-14,Citigroup,Neutral,,main,AMD
+2013-12-16,Oppenheimer,Underperform,Perform,down,AMD
+2014-03-11,Ascendiant Capital,Buy,,init,AMD
+2014-04-21,FBR Capital,Outperform,,main,AMD
+2014-06-09,Imperial Capital,Outperform,,init,AMD
+2014-06-23,Pacific Crest,Underperform,Sector Perform,down,AMD
+2014-07-18,Bank of America,Underperform,Neutral,down,AMD
+2014-07-18,FBR Capital,Market Perform,Outperform,down,AMD
+2014-07-18,Deutsche Bank,Hold,,main,AMD
+2014-10-09,Wedbush,Neutral,Outperform,down,AMD
+2014-10-10,Imperial Capital,Outperform,,main,AMD
+2014-10-14,Citigroup,Buy,,main,AMD
+2014-10-17,Jefferies,Buy,,main,AMD
+2014-10-17,FBR Capital,Market Perform,,main,AMD
+2014-10-17,Deutsche Bank,Hold,,main,AMD
+2014-10-17,Canaccord Genuity,Hold,Buy,down,AMD
+2014-10-17,Pacific Crest,Sector Perform,Underperform,up,AMD
+2015-01-21,Deutsche Bank,Hold,,main,AMD
+2015-01-21,Nomura,Neutral,,main,AMD
+2015-01-21,Jefferies,Buy,,main,AMD
+2015-02-23,Exane BNP Paribas,Underperform,,init,AMD
+2015-03-25,UBS,Sell,Neutral,down,AMD
+2015-04-17,Ascendiant Capital,Hold,Buy,down,AMD
+2015-05-07,Canaccord Genuity,Hold,,main,AMD
+2015-06-09,Northland Securities,Outperform,,init,AMD
+2015-07-15,Mizuho,Neutral,,init,AMD
+2015-07-17,Mizuho,Neutral,,main,AMD
+2015-09-11,Bernstein,Market Perform,Underperform,up,AMD
+2016-03-21,UBS,Sell,,main,AMD
+2016-04-07,Craig-Hallum,Hold,,init,AMD
+2016-04-22,MKM Partners,Buy,Neutral,up,AMD
+2016-04-22,Exane BNP Paribas,Neutral,Underperform,up,AMD
+2016-04-22,Morgan Stanley,Underweight,,main,AMD
+2016-04-22,Credit Suisse,Underperform,,main,AMD
+2016-04-22,Canaccord Genuity,Hold,,main,AMD
+2016-04-22,Craig-Hallum,Buy,Hold,up,AMD
+2016-04-22,Macquarie,Neutral,,main,AMD
+2016-04-22,Jefferies,Buy,,main,AMD
+2016-06-16,Canaccord Genuity,,Hold,up,AMD
+2016-07-08,Bernstein,Underperform,,down,AMD
+2016-07-22,Credit Suisse,Underperform,,main,AMD
+2016-09-14,Deutsche Bank,Hold,,main,AMD
+2016-09-20,Susquehanna,Neutral,,init,AMD
+2016-09-20,Bernstein,Market Perform,Underperform,up,AMD
+2016-10-12,Credit Suisse,Neutral,Underperform,up,AMD
+2016-10-17,Oppenheimer,Perform,Underweight,up,AMD
+2016-11-22,MKM Partners,Buy,,main,AMD
+2016-12-06,Loop Capital,Buy,,init,AMD
+2016-12-08,Bank of America,Buy,Underperform,up,AMD
+2016-12-12,BMO Capital,Outperform,Market Perform,up,AMD
+2016-12-15,Morgan Stanley,Equal-Weight,Underweight,up,AMD
+2016-12-20,Mizuho,Buy,Neutral,up,AMD
+2017-03-31,Macquarie,Neutral,,init,AMD
+2017-04-06,Goldman Sachs,Sell,,init,AMD
+2017-05-02,Macquarie,Underperform,Neutral,down,AMD
+2017-05-17,Loop Capital,Hold,Buy,down,AMD
+2017-06-09,Longbow Research,Neutral,,init,AMD
+2017-07-26,Baird,Outperform,,init,AMD
+2017-07-26,BMO Capital,Market Perform,Outperform,down,AMD
+2017-10-04,Barclays,Underweight,,main,AMD
+2017-10-25,Credit Suisse,Neutral,,main,AMD
+2017-10-25,Loop Capital,Hold,,main,AMD
+2017-10-30,Morgan Stanley,Underweight,Equal-Weight,down,AMD
+2017-12-18,Macquarie,Neutral,Underperform,up,AMD
+2018-01-31,Credit Suisse,Neutral,Neutral,main,AMD
+2018-02-01,Argus,Buy,Hold,up,AMD
+2018-03-26,Susquehanna,Negative,Neutral,down,AMD
+2018-04-05,UBS,Neutral,,init,AMD
+2018-04-05,Stifel Nicolaus,Buy,Hold,up,AMD
+2018-04-19,Barclays,Underweight,Underweight,main,AMD
+2018-04-26,JP Morgan,Neutral,Neutral,main,AMD
+2018-04-26,Stifel Nicolaus,Buy,Buy,main,AMD
+2018-05-16,Susquehanna,Neutral,Negative,up,AMD
+2018-05-17,Cowen & Co.,Outperform,,init,AMD
+2018-06-01,Stifel Nicolaus,Buy,Buy,main,AMD
+2018-06-20,Morgan Stanley,Underweight,Underweight,main,AMD
+2018-07-16,Stifel Nicolaus,Buy,Buy,main,AMD
+2018-07-30,Cowen & Co.,Outperform,Outperform,main,AMD
+2018-08-10,Goldman Sachs,Neutral,Sell,up,AMD
+2018-09-10,Wells Fargo,Outperform,Outperform,main,AMD
+2018-09-11,Rosenblatt,Buy,Buy,main,AMD
+2018-09-14,Argus,Buy,Buy,main,AMD
+2018-09-18,Mizuho,Buy,Buy,main,AMD
+2018-09-20,Stifel Nicolaus,Buy,Buy,main,AMD
+2018-09-24,RBC Capital,Outperform,,init,AMD
+2018-09-25,KeyBanc,Sector Weight,,init,AMD
+2018-09-27,Northland Securities,Market Perform,Outperform,down,AMD
+2018-10-01,Baird,Neutral,Outperform,down,AMD
+2018-10-01,Barclays,Underweight,Underweight,main,AMD
+2018-10-23,Barclays,Equal-Weight,Underweight,up,AMD
+2018-10-25,Baird,Neutral,Neutral,main,AMD
+2018-10-25,BMO Capital,Market Perform,Market Perform,main,AMD
+2019-04-03,Nomura,Buy,,init,AMD
+2019-04-08,Bank of America,Buy,Buy,main,AMD
+2019-05-01,Barclays,Equal-Weight,Equal-Weight,main,AMD
+2019-05-01,Wells Fargo,Outperform,Outperform,main,AMD
+2019-05-01,Deutsche Bank,Hold,Hold,main,AMD
+2019-05-01,Mizuho,Buy,Buy,main,AMD
+2019-06-06,Morgan Stanley,Equal-Weight,Underweight,up,AMD
+2019-06-27,Wedbush,Outperform,,init,AMD
+2019-07-09,Nomura,Buy,,main,AMD
+2019-07-10,UBS,Neutral,,main,AMD
+2019-07-18,Mizuho,Neutral,Buy,down,AMD
+2019-07-22,Atlantic Equities,Neutral,,init,AMD
+2019-07-24,Wedbush,Outperform,,main,AMD
+2019-07-31,Morgan Stanley,Equal-Weight,,main,AMD
+2019-07-31,Craig-Hallum,Hold,Buy,down,AMD
+2019-08-01,Benchmark,Hold,,init,AMD
+2019-08-13,Loop Capital,Hold,,init,AMD
+2019-08-19,Piper Jaffray,Neutral,,init,AMD
+2019-10-21,Morgan Stanley,Equal-Weight,,main,AMD
+2019-10-30,Loop Capital,Buy,Hold,up,AMD
+2019-10-30,UBS,Neutral,,main,AMD
+2019-10-30,Nomura,Buy,,main,AMD
+2019-10-30,Credit Suisse,Neutral,,main,AMD
+2019-10-30,Susquehanna,Neutral,,main,AMD
+2019-10-30,CFRA,Buy,Hold,up,AMD
+2019-10-30,Rosenblatt,Buy,,main,AMD
+2019-11-15,RBC Capital,Outperform,,main,AMD
+2019-11-18,Cowen & Co.,Outperform,,main,AMD
+2019-11-19,Wells Fargo,Outperform,,main,AMD
+2019-11-19,Mizuho,Neutral,,main,AMD
+2019-11-21,Northland,Market Perform,Outperform,down,AMD
+2019-12-18,Morgan Stanley,Equal-Weight,,main,AMD
+2019-12-20,Wedbush,Outperform,,main,AMD
+2020-01-02,Nomura Instinet,Buy,,main,AMD
+2020-01-07,Wells Fargo,Overweight,,main,AMD
+2020-01-09,Mizuho,Buy,Neutral,up,AMD
+2020-01-29,Exane BNP Paribas,Neutral,Outperform,down,AMD
+2020-01-29,Wedbush,Outperform,,main,AMD
+2020-01-29,B of A Securities,Buy,,reit,AMD
+2020-02-11,RBC Capital,Outperform,,main,AMD
+2020-02-20,Wells Fargo,Equal-Weight,Overweight,down,AMD
+2020-03-02,B of A Securities,Buy,,reit,AMD
+2020-03-03,Piper Sandler,Overweight,Neutral,up,AMD
+2020-03-06,Deutsche Bank,Hold,,main,AMD
+2020-03-06,Craig-Hallum,Buy,Hold,up,AMD
+2020-03-06,Atlantic Equities,Overweight,Neutral,up,AMD
+2020-03-13,Northland,Outperform,Market Perform,up,AMD
+2020-03-20,Wells Fargo,Equal-Weight,,main,AMD
+2020-04-15,B of A Securities,Buy,,main,AMD
+2020-04-29,Rosenblatt,Buy,,main,AMD
+2020-04-29,Piper Sandler,Overweight,,main,AMD
+2020-04-29,JP Morgan,Neutral,,main,AMD
+2020-04-29,Nomura,Buy,,main,AMD
+2020-04-29,Mizuho,Buy,,main,AMD
+2020-04-29,CFRA,Buy,,main,AMD
+2020-04-29,UBS,Neutral,,main,AMD
+2020-04-29,B of A Securities,Buy,,main,AMD
+2020-04-30,Argus Research,Buy,,main,AMD
+2020-06-16,Morgan Stanley,Equal-Weight,,main,AMD
+2020-07-20,Barclays,Equal-Weight,,main,AMD
+2020-07-27,B of A Securities,Buy,,main,AMD
+2020-07-27,Deutsche Bank,Hold,,main,AMD
+2020-07-29,JP Morgan,Neutral,,main,AMD
+2020-07-29,Piper Sandler,Overweight,,main,AMD
+2020-07-29,UBS,Neutral,,main,AMD
+2020-07-29,B of A Securities,Buy,,main,AMD
+2020-07-29,Susquehanna,Positive,Neutral,up,AMD
+2020-07-29,Morgan Stanley,Equal-Weight,,main,AMD
+2020-07-29,Rosenblatt,Buy,,main,AMD
+2020-08-24,Northland Capital Markets,Market Perform,Outperform,down,AMD
+2020-08-25,Piper Sandler,Overweight,,main,AMD
+2020-10-12,Truist Securities,Hold,,init,AMD
+2020-10-26,Susquehanna,Positive,,main,AMD
+2020-10-28,Citigroup,Sell,,main,AMD
+2020-10-28,Craig-Hallum,Buy,Hold,up,AMD
+2020-10-28,Barclays,Overweight,Equal-Weight,up,AMD
+2020-11-04,Goldman Sachs,Buy,Neutral,up,AMD
+2020-11-06,Wells Fargo,Overweight,Equal-Weight,up,AMD
+2021-01-14,Cowen & Co.,Outperform,,main,AMD
+2021-01-14,BMO Capital,Underperform,Market Perform,down,AMD
+2021-01-25,RBC Capital,Outperform,,main,AMD
+2021-01-27,Mizuho,Buy,,main,AMD
+2021-01-27,Loop Capital,Buy,,main,AMD
+2021-01-27,JP Morgan,Neutral,,main,AMD
+2021-01-27,Rosenblatt,Buy,,main,AMD
+2021-03-25,Northland Capital Markets,Outperform,Market Perform,up,AMD
+2021-04-15,Raymond James,Outperform,,init,AMD
+2021-04-28,Mizuho,Buy,,main,AMD
+2021-04-28,Raymond James,Outperform,,main,AMD
+2021-07-15,Citigroup,Neutral,Sell,up,AMD
+2021-07-28,Benchmark,Buy,,main,AMD
+2021-07-28,Susquehanna,Positive,,main,AMD
+2021-07-28,Rosenblatt,Buy,,main,AMD
+2021-08-09,BMO Capital,Market Perform,Underperform,up,AMD
+2021-09-23,Piper Sandler,Overweight,,main,AMD
+2021-10-27,BMO Capital,Market Perform,,main,AMD
+2021-10-27,Barclays,Overweight,,main,AMD
+2021-10-27,Deutsche Bank,Hold,,main,AMD
+2021-10-27,Mizuho,Buy,,main,AMD
+2021-10-27,Rosenblatt,Buy,,main,AMD
+2021-10-27,Raymond James,Outperform,,main,AMD
+2021-11-01,Northland Capital Markets,Market Perform,Outperform,down,AMD

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Bank oferica,Neutral,,down,CCU
+2013-01-10,JP Morgan,Overweight,,main,CCU
+2014-06-03,JP Morgan,Neutral,,main,CCU
+2014-10-29,JP Morgan,Neutral,,main,CCU
+2014-12-11,JP Morgan,Underweight,,main,CCU
+2015-04-15,HSBC,,Neutral,down,CCU
+2015-04-20,Goldman Sachs,Neutral,Sell,up,CCU
+2015-08-04,JP Morgan,Neutral,Underweight,up,CCU
+2015-11-02,JP Morgan,Neutral,,main,CCU
+2015-11-10,Deutsche Bank,Hold,Buy,down,CCU
+2016-01-15,Goldman Sachs,Neutral,Sell,up,CCU
+2016-08-28,Citigroup,Neutral,Buy,down,CCU
+2016-10-05,JP Morgan,Underweight,Neutral,down,CCU
+2017-04-12,JP Morgan,Neutral,Underweight,up,CCU
+2018-03-19,Goldman Sachs,Buy,Neutral,up,CCU
+2019-12-20,HSBC,Reduce,Hold,down,CCU

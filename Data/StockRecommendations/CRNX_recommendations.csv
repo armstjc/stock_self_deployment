@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-08-13,JP Morgan,Neutral,,init,CRNX
+2018-08-13,PiperJaffray,Overweight,,init,CRNX
+2018-11-14,JP Morgan,Neutral,Neutral,main,CRNX
+2019-02-14,H.C. Wainwright,Buy,,init,CRNX
+2019-03-12,Cantor Fitzgerald,Overweight,,init,CRNX
+2019-12-23,Roth Capital,Buy,,init,CRNX
+2020-05-11,Cantor Fitzgerald,Overweight,,main,CRNX
+2020-05-22,H.C. Wainwright,Buy,,reit,CRNX
+2021-05-03,JonesTrading,Buy,,init,CRNX
+2021-06-18,JP Morgan,Overweight,Neutral,up,CRNX
+2021-11-08,HC Wainwright & Co.,Buy,,main,CRNX
+2021-11-23,Evercore ISI Group,Outperform,,init,CRNX
+2021-11-30,JMP Securities,Market Outperform,,init,CRNX

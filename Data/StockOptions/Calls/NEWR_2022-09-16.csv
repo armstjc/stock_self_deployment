@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NEWR220916C00105000,2022-01-28 18:31:06+00:00,105.0,17.0,16.0,19.1,0.0,0.0,6000,6000,0.5916788879394532,False,REGULAR,USD,NEWR

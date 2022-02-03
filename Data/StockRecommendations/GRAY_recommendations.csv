@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-10-20,Needham,Buy,,init,GRAY
+2020-10-20,Piper Sandler,Overweight,,init,GRAY
+2020-10-20,SVB Leerink,Outperform,,init,GRAY
+2020-10-20,Wedbush,Outperform,,init,GRAY
+2020-10-20,Baird,Overweight,,init,GRAY
+2020-12-22,Cantor Fitzgerald,Overweight,,init,GRAY
+2021-03-09,Piper Sandler,Neutral,Overweight,down,GRAY
+2021-03-09,SVB Leerink,Outperform,,main,GRAY
+2021-03-10,Wedbush,Neutral,Outperform,down,GRAY
+2021-05-13,Needham,Hold,Buy,down,GRAY
+2021-05-13,SVB Leerink,Market Perform,Outperform,down,GRAY

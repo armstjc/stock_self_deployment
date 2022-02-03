@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CMC240119P00020000,2021-11-17 19:53:46+00:00,20.0,1.9,1.1,4.5,0.0,0.0,30,32,0.5695843823242188,False,REGULAR,USD,CMC

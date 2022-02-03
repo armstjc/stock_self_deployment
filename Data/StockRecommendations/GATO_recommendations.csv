@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-23,RBC Capital,Outperform,,init,GATO
+2020-11-25,BMO Capital,Outperform,,init,GATO
+2021-04-14,CIBC,Outperformer,,init,GATO
+2021-05-10,BMO Capital,Market Perform,,main,GATO
+2021-05-27,Canaccord Genuity,Buy,,init,GATO
+2021-07-08,BMO Capital,Market Perform,,main,GATO
+2021-07-20,RBC Capital,Outperform,Sector Perform,up,GATO
+2021-10-08,CIBC,Outperformer,,main,GATO
+2021-10-20,Goldman Sachs,Neutral,,init,GATO

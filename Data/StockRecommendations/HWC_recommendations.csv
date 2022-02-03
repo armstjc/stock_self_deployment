@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-30,Wunderlich,Buy,,main,HWC
+2012-10-29,Jefferies,Hold,,main,HWC
+2012-11-12,Jefferies,Hold,,main,HWC
+2012-11-20,Credit Suisse,Neutral,,init,HWC
+2013-01-28,Keefe Bruyette & Woods,Market Perform,Outperform,down,HWC
+2013-01-28,Credit Suisse,Underperform,Neutral,down,HWC
+2013-01-28,Sandler O'Neill,Hold,Buy,down,HWC
+2013-01-31,Wunderlich,Buy,,main,HWC
+2013-02-04,Jefferies,Hold,,main,HWC
+2013-05-21,Jefferies,Hold,,main,HWC
+2013-07-26,Wunderlich,Hold,,main,HWC
+2013-07-29,Jefferies,Hold,,main,HWC
+2013-07-30,FIG Partners,Market Perform,,up,HWC
+2013-08-23,RBC Capital,Sector Perform,,init,HWC
+2013-10-09,Bank of America,Underperform,,init,HWC
+2013-11-06,SunTrust Robinson Humphrey,Buy,Neutral,up,HWC
+2013-12-12,Wunderlich,Buy,Hold,up,HWC
+2014-04-17,Raymond James,Outperform,,up,HWC
+2014-05-16,Raymond James,Hold,,main,HWC
+2015-01-26,Wunderlich,Buy,,main,HWC
+2015-01-26,Keefe Bruyette & Woods,Market Perform,,main,HWC
+2015-04-10,Evercore ISI Group,Sell,Hold,down,HWC
+2015-04-27,Drexel Hamilton,Hold,Buy,down,HWC
+2015-04-27,RBC Capital,Sector Perform,,main,HWC
+2015-07-24,Stephens & Co.,Overweight,Equal-Weight,up,HWC
+2015-12-09,Stephens & Co.,Equal-Weight,Overweight,down,HWC
+2016-03-29,Hovde Group,Market Perform,Outperform,down,HWC
+2016-04-08,Keefe Bruyette & Woods,Market Perform,,main,HWC
+2016-05-09,Raymond James,Outperform,Market Perform,up,HWC
+2016-07-22,Bank of America,Neutral,Underperform,up,HWC
+2016-08-01,Morgan Stanley,Equal-Weight,,main,HWC
+2016-09-19,SunTrust Robinson Humphrey,Neutral,Buy,down,HWC
+2017-01-30,Bank of America,Buy,Neutral,up,HWC
+2017-03-16,Raymond James,Strong Buy,Outperform,up,HWC
+2017-05-12,PiperJaffray,Overweight,Neutral,up,HWC
+2017-08-21,Keefe Bruyette & Woods,Outperform,Market Perform,up,HWC
+2017-12-27,Hovde Group,Outperform,Market Perform,up,HWC
+2018-01-04,Sandler O'Neill,Buy,Hold,up,HWC
+2018-07-19,Stephens & Co.,Overweight,Equal-Weight,up,HWC
+2018-10-18,Raymond James,Strong Buy,Strong Buy,main,HWC
+2019-01-07,Raymond James,Outperform,Strong Buy,down,HWC
+2019-07-09,Stephens & Co.,Equal-Weight,Overweight,down,HWC
+2019-07-11,Bank of America,Neutral,Buy,down,HWC
+2019-09-13,SunTrust Robinson Humphrey,Hold,,main,HWC
+2019-12-13,Raymond James,Strong Buy,Outperform,up,HWC
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,HWC
+2020-02-28,DA Davidson,Buy,,init,HWC
+2020-03-09,Raymond James,Market Perform,Strong Buy,down,HWC
+2020-05-01,DA Davidson,Neutral,Buy,down,HWC
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,HWC
+2020-06-17,Raymond James,Outperform,Market Perform,up,HWC
+2020-06-18,SunTrust Robinson Humphrey,Hold,,main,HWC
+2020-06-18,Piper Sandler,Overweight,,main,HWC
+2020-07-20,Raymond James,Outperform,,main,HWC
+2020-09-15,DA Davidson,Buy,Neutral,up,HWC
+2020-10-08,B of A Securities,Buy,Neutral,up,HWC
+2020-10-21,Raymond James,Outperform,,main,HWC
+2020-10-23,Truist Securities,Hold,,main,HWC
+2021-01-07,Jefferies,Buy,Hold,up,HWC
+2021-01-21,Raymond James,Outperform,,main,HWC
+2021-03-17,Raymond James,Outperform,,main,HWC
+2021-04-07,Raymond James,Strong Buy,Outperform,up,HWC
+2021-04-21,Raymond James,Strong Buy,,main,HWC
+2021-07-21,Raymond James,Strong Buy,,main,HWC
+2021-10-20,Raymond James,Strong Buy,,main,HWC

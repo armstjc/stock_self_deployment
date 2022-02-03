@@ -1,0 +1,477 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2011-12-29,PiperJaffray,,,main,AMZN
+2012-02-15,PiperJaffray,Overweight,,main,AMZN
+2012-02-16,Morgan Stanley,Equal-Weight,,down,AMZN
+2012-04-02,Bank oferica,Neutral,,down,AMZN
+2012-04-27,BGC Financial,Hold,,up,AMZN
+2012-04-27,Bank oferica,Buy,,up,AMZN
+2012-04-27,Benchmark,Buy,,main,AMZN
+2012-04-27,Canaccord Genuity,Hold,,main,AMZN
+2012-04-27,Jefferies,Buy,,main,AMZN
+2012-04-27,JP Morgan,Overweight,,main,AMZN
+2012-04-27,Goldman Sachs,Buy,,up,AMZN
+2012-04-27,Deutsche Bank,Buy,,main,AMZN
+2012-04-27,Stifel Nicolaus,Buy,,main,AMZN
+2012-05-15,Credit Suisse,Outperform,,up,AMZN
+2012-06-06,JP Morgan,Overweight,,main,AMZN
+2012-07-11,BMO Capital,Market Perform,,init,AMZN
+2012-07-17,Lazard,Buy,,init,AMZN
+2012-07-27,Oppenheimer,Outperform,,main,AMZN
+2012-07-27,Deutsche Bank,Buy,,main,AMZN
+2012-08-31,PiperJaffray,Overweight,,main,AMZN
+2012-09-07,Bank of America,Buy,,main,AMZN
+2012-09-11,Barclays,Equal-Weight,,main,AMZN
+2012-09-21,Cantor Fitzgerald,Buy,,init,AMZN
+2012-10-25,Barclays,Equal-Weight,,main,AMZN
+2013-01-07,Morgan Stanley,Overweight,Equal-Weight,up,AMZN
+2013-01-09,Benchmark,Buy,,main,AMZN
+2013-01-18,Pacific Crest,Outperform,Sector Perform,up,AMZN
+2013-01-24,ISI Group,Buy,,init,AMZN
+2013-01-25,ISI Group,Buy,,init,AMZN
+2013-01-25,Canaccord Genuity,Hold,,main,AMZN
+2013-01-28,PiperJaffray,Overweight,,main,AMZN
+2013-01-28,BGC Financial,Hold,,main,AMZN
+2013-01-28,PiperJaffray,Overweight,,main,AMZN
+2013-01-30,Canaccord Genuity,Hold,,main,AMZN
+2013-01-30,Barclays,Equal-Weight,,main,AMZN
+2013-01-30,Oppenheimer,Outperform,,main,AMZN
+2013-01-30,Deutsche Bank,Buy,,main,AMZN
+2013-01-30,Credit Agricole,Outperform,Buy,down,AMZN
+2013-01-30,Nomura,Buy,,main,AMZN
+2013-01-30,Jefferies,Buy,,main,AMZN
+2013-01-30,Credit Suisse,Outperform,,main,AMZN
+2013-02-20,Nomura,Buy,,main,AMZN
+2013-03-14,PiperJaffray,Neutral,Overweight,down,AMZN
+2013-03-19,JMP Securities,Market Perform,,init,AMZN
+2013-04-17,Nomura,Buy,,main,AMZN
+2013-04-22,Bank of America,Buy,,main,AMZN
+2013-04-26,Credit Suisse,Outperform,,main,AMZN
+2013-05-02,Tigress Financial,Buy,,init,AMZN
+2013-05-16,Lazard,Buy,,init,AMZN
+2013-07-09,Citigroup,Buy,,init,AMZN
+2013-07-10,Susquehanna,Positive,,init,AMZN
+2013-07-16,SunTrust Robinson Humphrey,Buy,,init,AMZN
+2013-07-26,BMO Capital,Market Perform,,main,AMZN
+2013-07-26,Nomura,Buy,,main,AMZN
+2013-09-11,Wedbush,Neutral,,init,AMZN
+2013-09-19,CRT Capital,Buy,,init,AMZN
+2013-10-18,UBS,Buy,Neutral,up,AMZN
+2013-10-22,Bank of America,Buy,,main,AMZN
+2013-10-25,Benchmark,Buy,,main,AMZN
+2013-10-25,Raymond James,Strong Buy,Market Perform,up,AMZN
+2013-10-28,Deutsche Bank,Buy,,main,AMZN
+2013-10-28,Standpoint,Sell,,init,AMZN
+2013-11-14,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2013-12-17,Credit Suisse,Outperform,,main,AMZN
+2013-12-31,Citigroup,Buy,,main,AMZN
+2014-01-03,Topeka,Buy,,main,AMZN
+2014-01-06,Morgan Stanley,Overweight,,main,AMZN
+2014-01-10,Susquehanna,Positive,,main,AMZN
+2014-01-14,FBN Securities,Outperform,,init,AMZN
+2014-01-27,Pacific Crest,Outperform,,main,AMZN
+2014-01-31,FBN Securities,Outperform,,main,AMZN
+2014-01-31,UBS,Buy,,main,AMZN
+2014-01-31,Citigroup,Neutral,,main,AMZN
+2014-01-31,Bank of America,Buy,,main,AMZN
+2014-01-31,Stifel Nicolaus,Sell,Hold,down,AMZN
+2014-01-31,Stifel Nicolaus,Buy,,main,AMZN
+2014-01-31,Stifel Nicolaus,Buy,,main,AMZN
+2014-01-31,Benchmark,Buy,,main,AMZN
+2014-02-12,UBS,Neutral,Buy,down,AMZN
+2014-04-16,Argus Capital,Buy,Hold,up,AMZN
+2014-04-25,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2014-04-25,JP Morgan,Neutral,,main,AMZN
+2014-04-25,Deutsche Bank,Buy,,main,AMZN
+2014-04-25,Cantor Fitzgerald,Buy,,main,AMZN
+2014-04-25,Raymond James,Outperform,Strong Buy,down,AMZN
+2014-04-25,Credit Suisse,Outperform,,main,AMZN
+2014-04-25,UBS,Neutral,,main,AMZN
+2014-04-30,Edward Jones,Buy,,init,AMZN
+2014-06-26,Barclays,Equal-Weight,,init,AMZN
+2014-07-22,Citigroup,Neutral,Buy,down,AMZN
+2014-07-25,B. Riley FBR,Neutral,Buy,down,AMZN
+2014-07-25,Canaccord Genuity,Hold,,main,AMZN
+2014-07-25,Raymond James,Market Perform,Outperform,down,AMZN
+2014-07-25,Citigroup,Neutral,,main,AMZN
+2014-07-25,JP Morgan,Neutral,,main,AMZN
+2014-07-25,Deutsche Bank,Buy,,main,AMZN
+2014-07-25,CRT Capital,Fair Value,,main,AMZN
+2014-07-25,UBS,Neutral,,main,AMZN
+2014-07-25,Jefferies,Buy,,main,AMZN
+2014-10-10,Susquehanna,Positive,,main,AMZN
+2014-10-13,Wolfe Research,,,main,AMZN
+2014-10-13,Bank of America,Buy,,main,AMZN
+2014-10-24,Credit Suisse,Outperform,,main,AMZN
+2014-10-24,CRT Capital,Fair Value,,main,AMZN
+2014-10-24,Citigroup,Neutral,,main,AMZN
+2014-10-24,Benchmark,Buy,,main,AMZN
+2014-10-27,"Monness, Crespi, Hardt",Neutral,,init,AMZN
+2014-10-29,Morgan Stanley,Overweight,,init,AMZN
+2014-11-21,Nomura,Buy,,init,AMZN
+2014-11-28,PiperJaffray,Overweight,,main,AMZN
+2015-01-13,Citigroup,Buy,Neutral,up,AMZN
+2015-01-21,BGC Financial,Buy,Hold,up,AMZN
+2015-01-23,Oppenheimer,Outperform,,main,AMZN
+2015-01-27,JP Morgan,Neutral,,main,AMZN
+2015-01-30,Jefferies,Buy,,main,AMZN
+2015-01-30,Citigroup,Buy,,main,AMZN
+2015-01-30,Deutsche Bank,Buy,,main,AMZN
+2015-01-30,CRT Capital,Fair Value,,main,AMZN
+2015-02-19,PiperJaffray,Overweight,,main,AMZN
+2015-03-04,Baird,Outperform,,main,AMZN
+2015-03-09,SunTrust Robinson Humphrey,Neutral,Buy,down,AMZN
+2015-03-09,Axiom Capital,Buy,,init,AMZN
+2015-03-10,Wolfe Research,Outperform,Peer Perform,up,AMZN
+2015-04-14,Jefferies,Buy,,main,AMZN
+2015-04-21,BGC Financial,Hold,Buy,down,AMZN
+2015-04-22,Monness Crespi Hardt,Buy,Neutral,up,AMZN
+2015-04-24,Citigroup,Buy,,main,AMZN
+2015-04-24,Janney Capital,Buy,Neutral,up,AMZN
+2015-04-24,Raymond James,Outperform,Market Perform,up,AMZN
+2015-04-24,JP Morgan,Overweight,Neutral,up,AMZN
+2015-04-24,Nomura,Buy,,main,AMZN
+2015-04-27,Argus,Hold,Buy,down,AMZN
+2015-05-04,Oppenheimer,Outperform,,main,AMZN
+2015-06-03,PiperJaffray,Overweight,,main,AMZN
+2015-06-15,Canaccord Genuity,Hold,,main,AMZN
+2015-06-25,Evercore ISI Group,,Buy,down,AMZN
+2015-06-26,Mizuho,Buy,,init,AMZN
+2015-07-14,UBS,Buy,Neutral,up,AMZN
+2015-07-15,Nomura,Buy,,main,AMZN
+2015-07-20,Wedbush,Outperform,Neutral,up,AMZN
+2015-07-20,Cowen & Co.,Outperform,Market Perform,up,AMZN
+2015-07-20,Bank of America,Buy,,main,AMZN
+2015-07-22,JMP Securities,Outperform,Market Perform,up,AMZN
+2015-07-24,Canaccord Genuity,Hold,,main,AMZN
+2015-07-24,Jefferies,Buy,,main,AMZN
+2015-07-24,JP Morgan,Overweight,,main,AMZN
+2015-07-24,Wedbush,Outperform,,main,AMZN
+2015-07-24,B. Riley FBR,Buy,Neutral,up,AMZN
+2015-07-24,Morgan Stanley,Overweight,,main,AMZN
+2015-07-24,Barclays,Overweight,Equal-Weight,up,AMZN
+2015-07-29,Stifel Nicolaus,Buy,Hold,up,AMZN
+2015-08-26,Evercore ISI Group,Buy,Hold,up,AMZN
+2015-08-27,Raymond James,Strong Buy,Outperform,up,AMZN
+2015-09-11,RBC Capital,Outperform,,main,AMZN
+2015-10-23,Deutsche Bank,Buy,,main,AMZN
+2015-10-23,Benchmark,Buy,,main,AMZN
+2015-10-23,PiperJaffray,Overweight,,main,AMZN
+2015-10-23,Credit Suisse,Outperform,,main,AMZN
+2015-10-23,JMP Securities,Market Outperform,,main,AMZN
+2015-10-23,JP Morgan,Overweight,,main,AMZN
+2015-10-23,RBC Capital,Outperform,,main,AMZN
+2015-10-23,Baird,Buy,,main,AMZN
+2015-10-23,Canaccord Genuity,Hold,,main,AMZN
+2015-10-23,Jefferies,Buy,,main,AMZN
+2015-10-27,Axiom Capital,Buy,,main,AMZN
+2015-12-01,Barclays,Overweight,,main,AMZN
+2015-12-08,Pacific Crest,Overweight,,init,AMZN
+2015-12-09,Nomura,Buy,,main,AMZN
+2015-12-15,MKM Partners,Buy,,init,AMZN
+2015-12-22,Macquarie,Outperform,,main,AMZN
+2016-01-04,Monness Crespi Hardt,Neutral,Buy,down,AMZN
+2016-01-12,Credit Suisse,Outperform,,main,AMZN
+2016-01-15,Susquehanna,Perform,,init,AMZN
+2016-01-19,Credit Suisse,Outperform,,main,AMZN
+2016-01-29,Benchmark,Buy,,main,AMZN
+2016-02-18,Canaccord Genuity,Buy,Hold,up,AMZN
+2016-02-29,Bernstein,Outperform,,main,AMZN
+2016-03-02,BMO Capital,Outperform,,init,AMZN
+2016-03-22,Raymond James,Outperform,Strong Buy,down,AMZN
+2016-03-29,Stifel Nicolaus,Buy,,main,AMZN
+2016-04-01,Citigroup,Buy,,main,AMZN
+2016-04-07,JP Morgan,Overweight,,main,AMZN
+2016-04-29,Credit Suisse,Outperform,,main,AMZN
+2016-04-29,Axiom Capital,Buy,,main,AMZN
+2016-04-29,Citigroup,Buy,,main,AMZN
+2016-04-29,Goldman Sachs,Buy,,main,AMZN
+2016-05-03,Nomura,Buy,,main,AMZN
+2016-06-10,William Blair,Outperform,,init,AMZN
+2016-06-16,KeyBanc,Overweight,,main,AMZN
+2016-06-23,Maxim Group,Buy,,init,AMZN
+2016-07-21,Goldman Sachs,Buy,,main,AMZN
+2016-07-25,Wedbush,Outperform,,main,AMZN
+2016-07-29,UBS,Buy,,main,AMZN
+2016-07-29,SunTrust Robinson Humphrey,Neutral,,main,AMZN
+2016-07-29,JMP Securities,Market Outperform,,main,AMZN
+2016-07-29,Pacific Crest,Overweight,,main,AMZN
+2016-07-29,Citigroup,Buy,,main,AMZN
+2016-07-29,Deutsche Bank,Buy,,main,AMZN
+2016-07-29,Jefferies,Buy,,main,AMZN
+2016-07-29,JP Morgan,Overweight,,main,AMZN
+2016-07-29,CLSA,Outperform,,main,AMZN
+2016-08-02,MKM Partners,Buy,,main,AMZN
+2016-09-22,Argus,Buy,Hold,up,AMZN
+2016-09-27,JP Morgan,Overweight,,main,AMZN
+2016-09-29,Maxim Group,Buy,,main,AMZN
+2016-09-30,JMP Securities,Market Outperform,,main,AMZN
+2016-09-30,Guggenheim,Buy,,init,AMZN
+2016-10-05,SunTrust Robinson Humphrey,Neutral,,main,AMZN
+2016-10-05,Morgan Stanley,Overweight,,main,AMZN
+2016-10-17,Credit Suisse,Outperform,,main,AMZN
+2016-10-24,Goldman Sachs,Buy,,main,AMZN
+2016-11-01,Axiom Capital,Buy,,main,AMZN
+2016-11-23,Citigroup,Buy,,main,AMZN
+2016-11-28,Citigroup,Buy,,main,AMZN
+2017-01-20,Aegis Capital,Buy,,init,AMZN
+2017-03-28,Barclays,Overweight,,init,AMZN
+2017-03-31,Loop Capital,Buy,,init,AMZN
+2017-04-04,BMO Capital,Outperform,,main,AMZN
+2017-04-10,Needham,Buy,Hold,up,AMZN
+2017-04-20,Wolfe Research,Peer Perform,Outperform,down,AMZN
+2017-04-24,Goldman Sachs,Buy,,main,AMZN
+2017-04-25,Raymond James,Market Perform,,down,AMZN
+2017-04-28,Benchmark,Buy,Buy,reit,AMZN
+2017-04-28,Pacific Crest,Sector Weight,Overweight,down,AMZN
+2017-07-18,Deutsche Bank,Buy,,main,AMZN
+2017-07-20,Morgan Stanley,Overweight,,main,AMZN
+2017-08-16,SunTrust Robinson Humphrey,Buy,,init,AMZN
+2017-09-06,DA Davidson,Buy,,init,AMZN
+2017-09-13,Loop Capital,Buy,,init,AMZN
+2017-10-11,Credit Suisse,Outperform,,main,AMZN
+2017-10-24,Deutsche Bank,Buy,,main,AMZN
+2017-10-27,UBS,Buy,,main,AMZN
+2017-10-27,Canaccord Genuity,Buy,,main,AMZN
+2017-10-27,Loop Capital,Buy,,main,AMZN
+2017-10-27,Oppenheimer,Outperform,,main,AMZN
+2017-10-27,Barclays,Overweight,,main,AMZN
+2017-10-27,Citigroup,Buy,,main,AMZN
+2017-10-27,Stifel Nicolaus,Buy,,main,AMZN
+2017-10-27,Raymond James,Outperform,Market Perform,up,AMZN
+2017-10-30,Citigroup,Buy,,main,AMZN
+2017-11-20,Nomura,Buy,,main,AMZN
+2017-12-04,Moffett Nathanson,Buy,,init,AMZN
+2017-12-06,Evercore ISI Group,Outperform,,init,AMZN
+2018-01-05,Citigroup,Buy,Buy,main,AMZN
+2018-01-23,Loop Capital,Buy,Buy,main,AMZN
+2018-01-26,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-02-02,PiperJaffray,Overweight,Overweight,main,AMZN
+2018-02-02,Bank of America,Buy,Buy,main,AMZN
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-02-02,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-02-02,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-02-02,Barclays,Overweight,Overweight,main,AMZN
+2018-02-05,Nomura,Buy,Buy,main,AMZN
+2018-02-21,MKM Partners,Buy,Buy,main,AMZN
+2018-04-19,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-04-20,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-04-27,Stifel Nicolaus,Buy,Buy,main,AMZN
+2018-04-27,Canaccord Genuity,Buy,Buy,main,AMZN
+2018-04-27,Barclays,Overweight,Overweight,main,AMZN
+2018-04-27,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-04-27,Wedbush,Outperform,Outperform,main,AMZN
+2018-04-27,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-05-07,Telsey Advisory Group,Outperform,,init,AMZN
+2018-06-04,SunTrust Robinson Humphrey,Buy,Buy,reit,AMZN
+2018-06-14,DA Davidson,Buy,Buy,main,AMZN
+2018-07-13,Barclays,Overweight,Overweight,main,AMZN
+2018-07-13,Cowen & Co.,Outperform,Outperform,main,AMZN
+2018-07-16,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-07-27,PiperJaffray,Overweight,Overweight,main,AMZN
+2018-07-27,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-07-27,JP Morgan,Overweight,Overweight,main,AMZN
+2018-07-27,BMO Capital,Outperform,Outperform,main,AMZN
+2018-07-27,Jefferies,Buy,Buy,main,AMZN
+2018-07-27,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-07-27,Wedbush,Outperform,Outperform,main,AMZN
+2018-07-27,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-07-27,Canaccord Genuity,Buy,Buy,main,AMZN
+2018-08-29,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-09-05,DA Davidson,Buy,Buy,main,AMZN
+2018-09-10,Wells Fargo,Outperform,Outperform,main,AMZN
+2018-09-10,Citigroup,Buy,Buy,main,AMZN
+2018-09-25,Jefferies,Buy,Buy,main,AMZN
+2018-09-27,Stifel Nicolaus,Buy,Buy,main,AMZN
+2018-10-23,Jefferies,Buy,Buy,main,AMZN
+2018-10-26,Barclays,Overweight,Overweight,main,AMZN
+2018-10-26,Bank of America,Buy,Buy,main,AMZN
+2018-10-26,Jefferies,Buy,Buy,main,AMZN
+2019-01-23,Deutsche Bank,Buy,Buy,main,AMZN
+2019-02-01,Pivotal Research,Buy,,init,AMZN
+2019-02-01,Raymond James,Outperform,Outperform,main,AMZN
+2019-02-01,Deutsche Bank,Buy,Buy,main,AMZN
+2019-03-15,KeyBanc,Overweight,Sector Weight,up,AMZN
+2019-03-20,Evercore ISI Group,Outperform,,init,AMZN
+2019-04-08,Societe Generale,Buy,,init,AMZN
+2019-04-26,Raymond James,Outperform,Outperform,main,AMZN
+2019-04-26,Goldman Sachs,Buy,Buy,main,AMZN
+2019-04-26,Credit Suisse,Outperform,Outperform,main,AMZN
+2019-04-26,Benchmark,Buy,Buy,main,AMZN
+2019-04-26,Wedbush,Outperform,Outperform,main,AMZN
+2019-04-26,Oppenheimer,Outperform,Outperform,main,AMZN
+2019-04-26,Bank of America,Buy,Buy,main,AMZN
+2019-04-26,Deutsche Bank,Buy,Buy,main,AMZN
+2019-04-26,Barclays,Overweight,Overweight,main,AMZN
+2019-07-15,Morgan Stanley,Overweight,,main,AMZN
+2019-07-22,KeyBanc,Overweight,,main,AMZN
+2019-07-24,Credit Suisse,Outperform,,main,AMZN
+2019-07-26,Mizuho,Buy,,main,AMZN
+2019-07-26,Barclays,Overweight,,main,AMZN
+2019-07-26,Credit Suisse,Outperform,,main,AMZN
+2019-07-26,Baird,Outperform,,main,AMZN
+2019-07-26,Raymond James,Outperform,,main,AMZN
+2019-09-03,RBC Capital,Outperform,,main,AMZN
+2019-09-23,Morgan Stanley,Overweight,,main,AMZN
+2019-10-21,Bank of America,Buy,,main,AMZN
+2019-10-25,Piper Jaffray,Overweight,,main,AMZN
+2019-10-25,Raymond James,Outperform,,main,AMZN
+2019-10-25,Credit Suisse,Outperform,,main,AMZN
+2019-10-25,Barclays,Overweight,,main,AMZN
+2019-10-25,Morgan Stanley,Overweight,,main,AMZN
+2019-10-25,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2019-10-25,MKM Partners,Buy,,main,AMZN
+2019-10-25,Wedbush,Outperform,,main,AMZN
+2019-10-25,Oppenheimer,Outperform,,main,AMZN
+2019-10-25,BMO Capital,Outperform,,main,AMZN
+2019-10-25,JMP Securities,Market Outperform,,main,AMZN
+2019-11-26,China Renaissance,Hold,,init,AMZN
+2020-01-10,Bernstein,Market Perform,,init,AMZN
+2020-01-16,Morgan Stanley,Overweight,,main,AMZN
+2020-01-17,UBS,Buy,,main,AMZN
+2020-01-22,Pivotal Research,Buy,,main,AMZN
+2020-01-27,Benchmark,Buy,,main,AMZN
+2020-01-29,Deutsche Bank,Buy,,main,AMZN
+2020-01-29,BMO Capital,Outperform,,main,AMZN
+2020-01-31,KeyBanc,Overweight,,main,AMZN
+2020-01-31,Wells Fargo,Overweight,,main,AMZN
+2020-01-31,Credit Suisse,Outperform,,main,AMZN
+2020-01-31,Mizuho,Buy,,main,AMZN
+2020-01-31,UBS,Buy,,main,AMZN
+2020-01-31,Cowen & Co.,Outperform,,main,AMZN
+2020-01-31,Stifel,Buy,,main,AMZN
+2020-01-31,Raymond James,Outperform,,main,AMZN
+2020-01-31,JMP Securities,Market Outperform,,main,AMZN
+2020-01-31,Piper Sandler,Overweight,,main,AMZN
+2020-01-31,Baird,Outperform,,main,AMZN
+2020-01-31,DA Davidson,Buy,,reit,AMZN
+2020-01-31,RBC Capital,Outperform,,main,AMZN
+2020-01-31,Morgan Stanley,Overweight,,main,AMZN
+2020-01-31,B of A Securities,Buy,,main,AMZN
+2020-01-31,CFRA,Buy,,main,AMZN
+2020-01-31,Goldman Sachs,Buy,,main,AMZN
+2020-02-05,Citigroup,Buy,,main,AMZN
+2020-02-13,Aegis Capital,Buy,,main,AMZN
+2020-03-17,Wedbush,Outperform,,main,AMZN
+2020-03-26,Deutsche Bank,Buy,,main,AMZN
+2020-04-15,Baird,Outperform,,main,AMZN
+2020-04-22,Wedbush,Outperform,,main,AMZN
+2020-04-23,Goldman Sachs,Buy,,main,AMZN
+2020-04-24,Stifel,Buy,,main,AMZN
+2020-04-27,Oppenheimer,Outperform,,main,AMZN
+2020-04-27,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-04-27,Credit Suisse,Outperform,,main,AMZN
+2020-04-30,Citigroup,Buy,,main,AMZN
+2020-05-01,JMP Securities,Market Outperform,,main,AMZN
+2020-05-01,KeyBanc,Overweight,,main,AMZN
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-05-01,Pivotal Research,Buy,,main,AMZN
+2020-05-01,Morgan Stanley,Overweight,,main,AMZN
+2020-05-01,Raymond James,Outperform,,main,AMZN
+2020-05-01,Susquehanna,Positive,,main,AMZN
+2020-05-01,Credit Suisse,Outperform,,main,AMZN
+2020-05-01,RBC Capital,Outperform,,main,AMZN
+2020-05-01,MKM Partners,Buy,,main,AMZN
+2020-05-01,B of A Securities,Buy,,reit,AMZN
+2020-05-01,Canaccord Genuity,Buy,,main,AMZN
+2020-05-01,Guggenheim,Buy,,main,AMZN
+2020-05-01,Mizuho,Buy,,main,AMZN
+2020-05-01,Benchmark,Buy,,main,AMZN
+2020-05-01,BMO Capital,Outperform,,main,AMZN
+2020-05-01,UBS,Buy,,main,AMZN
+2020-06-01,Morgan Stanley,Overweight,,main,AMZN
+2020-06-08,Baird,Outperform,,main,AMZN
+2020-06-08,RBC Capital,Outperform,,main,AMZN
+2020-06-17,Needham,Buy,,init,AMZN
+2020-06-26,Deutsche Bank,Buy,,main,AMZN
+2020-06-26,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-06-30,Mizuho,Buy,,main,AMZN
+2020-07-07,Baird,Outperform,,main,AMZN
+2020-07-13,Mizuho,Buy,,main,AMZN
+2020-07-20,MKM Partners,Buy,,main,AMZN
+2020-07-24,Credit Suisse,Outperform,,main,AMZN
+2020-07-24,KeyBanc,Overweight,,main,AMZN
+2020-07-27,B of A Securities,Buy,,main,AMZN
+2020-07-30,BMO Capital,Outperform,,main,AMZN
+2020-07-31,Canaccord Genuity,Buy,,main,AMZN
+2020-07-31,Credit Suisse,Outperform,,main,AMZN
+2020-07-31,Morgan Stanley,Overweight,,main,AMZN
+2020-07-31,Raymond James,Outperform,,main,AMZN
+2020-07-31,Needham,Buy,,main,AMZN
+2020-07-31,KeyBanc,Overweight,,main,AMZN
+2020-09-22,Bernstein,Outperform,Market Perform,up,AMZN
+2020-10-01,Pivotal Research,Buy,,main,AMZN
+2020-10-07,Benchmark,Buy,,main,AMZN
+2020-10-09,Mizuho,Buy,,main,AMZN
+2020-10-15,Morgan Stanley,Overweight,,main,AMZN
+2020-10-16,Morgan Stanley,Overweight,,main,AMZN
+2020-10-27,Deutsche Bank,Buy,,main,AMZN
+2020-10-27,Credit Suisse,Outperform,,main,AMZN
+2020-10-30,Credit Suisse,Outperform,,main,AMZN
+2020-10-30,Benchmark,Buy,,main,AMZN
+2020-10-30,Piper Sandler,Overweight,,main,AMZN
+2020-11-03,Citigroup,Buy,,main,AMZN
+2020-11-04,China Renaissance,Buy,Hold,up,AMZN
+2021-01-15,Morgan Stanley,Overweight,,main,AMZN
+2021-01-22,Credit Suisse,Outperform,,main,AMZN
+2021-01-27,Stifel,Buy,,main,AMZN
+2021-02-03,KeyBanc,Overweight,,main,AMZN
+2021-02-03,Pivotal Research,Buy,,main,AMZN
+2021-02-03,Raymond James,Outperform,,main,AMZN
+2021-02-03,Barclays,Overweight,,main,AMZN
+2021-02-03,JMP Securities,Market Outperform,,main,AMZN
+2021-02-03,Deutsche Bank,Buy,,main,AMZN
+2021-02-03,Morgan Stanley,Overweight,,main,AMZN
+2021-02-03,Jefferies,Buy,,main,AMZN
+2021-02-03,JP Morgan,Overweight,,main,AMZN
+2021-02-03,UBS,Buy,,main,AMZN
+2021-02-03,Benchmark,Buy,,main,AMZN
+2021-02-03,Cowen & Co.,Outperform,,main,AMZN
+2021-02-03,Canaccord Genuity,Buy,,main,AMZN
+2021-02-03,"Monness, Crespi, Hardt",Buy,,main,AMZN
+2021-02-03,Wedbush,Outperform,,main,AMZN
+2021-02-03,Truist Securities,Buy,,main,AMZN
+2021-02-17,Citigroup,Buy,,main,AMZN
+2021-04-16,Credit Suisse,Outperform,,main,AMZN
+2021-04-21,Oppenheimer,Outperform,,main,AMZN
+2021-04-30,Keybanc,Overweight,,main,AMZN
+2021-04-30,JMP Securities,Market Outperform,,main,AMZN
+2021-04-30,Susquehanna,Positive,,main,AMZN
+2021-04-30,Morgan Stanley,Overweight,,main,AMZN
+2021-04-30,Mizuho,Buy,,main,AMZN
+2021-04-30,Raymond James,Outperform,,main,AMZN
+2021-04-30,Canaccord Genuity,Buy,,main,AMZN
+2021-04-30,Jefferies,Buy,,main,AMZN
+2021-04-30,UBS,Buy,,main,AMZN
+2021-04-30,Stifel,Buy,,main,AMZN
+2021-04-30,Wells Fargo,Overweight,,main,AMZN
+2021-04-30,BMO Capital,Outperform,,main,AMZN
+2021-04-30,Credit Suisse,Outperform,,main,AMZN
+2021-04-30,Truist Securities,Buy,,main,AMZN
+2021-04-30,Needham,Buy,,main,AMZN
+2021-05-12,Citigroup,Buy,,main,AMZN
+2021-06-18,JP Morgan,Overweight,,main,AMZN
+2021-07-26,Credit Suisse,Outperform,,main,AMZN
+2021-07-30,Morgan Stanley,Overweight,,main,AMZN
+2021-07-30,Piper Sandler,Overweight,,main,AMZN
+2021-07-30,BMO Capital,Outperform,,main,AMZN
+2021-07-30,Truist Securities,Buy,,main,AMZN
+2021-07-30,Oppenheimer,Outperform,,main,AMZN
+2021-07-30,UBS,Buy,,main,AMZN
+2021-07-30,Cowen & Co.,Outperform,,main,AMZN
+2021-07-30,Credit Suisse,Outperform,,main,AMZN
+2021-07-30,Raymond James,Outperform,,main,AMZN
+2021-07-30,Mizuho,Buy,,main,AMZN
+2021-09-13,Goldman Sachs,Buy,,init,AMZN
+2021-09-14,Evercore ISI Group,Outperform,,main,AMZN
+2021-09-27,Morgan Stanley,Overweight,,main,AMZN
+2021-10-01,RBC Capital,Outperform,,init,AMZN
+2021-10-07,Cowen & Co.,Outperform,,main,AMZN
+2021-10-22,Credit Suisse,Outperform,,main,AMZN
+2021-10-29,RBC Capital,Outperform,,main,AMZN
+2021-10-29,Mizuho,Buy,,main,AMZN
+2021-10-29,Credit Suisse,Outperform,,main,AMZN
+2021-10-29,Morgan Stanley,Overweight,,main,AMZN
+2021-10-29,Raymond James,Outperform,,main,AMZN
+2021-10-29,Barclays,Overweight,,main,AMZN
+2021-10-29,JMP Securities,Market Outperform,,main,AMZN
+2021-10-29,Telsey Advisory Group,Outperform,,main,AMZN

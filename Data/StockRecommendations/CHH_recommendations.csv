@@ -1,0 +1,101 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-22,UBS,Neutral,,main,CHH
+2012-03-06,Citigroup,Buy,,main,CHH
+2012-04-27,Deutsche Bank,Hold,,main,CHH
+2012-07-20,SunTrust Robinson Humphrey,Neutral,,init,CHH
+2012-07-30,Deutsche Bank,Buy,,init,CHH
+2012-08-02,Bank of America,Underperform,,main,CHH
+2012-09-04,Goldman Sachs,Neutral,,main,CHH
+2012-09-18,UBS,Neutral,,main,CHH
+2013-01-15,JP Morgan,Underweight,,main,CHH
+2013-02-13,Barclays,Underweight,,main,CHH
+2013-03-11,FBR Capital,Market Perform,Outperform,down,CHH
+2013-05-22,Stifel Nicolaus,Hold,,init,CHH
+2013-05-23,Stifel Nicolaus,Hold,,init,CHH
+2013-07-26,Citigroup,Neutral,Buy,down,CHH
+2013-07-30,Wells Fargo,Underperform,Market Perform,down,CHH
+2013-10-28,Baird,Underperform,Neutral,down,CHH
+2013-10-28,Credit Suisse,,,up,CHH
+2013-12-16,Nomura,Neutral,,main,CHH
+2014-01-21,Barclays,Underweight,,main,CHH
+2014-04-29,Barclays,Equal-Weight,Underweight,up,CHH
+2014-07-09,Deutsche Bank,Hold,,main,CHH
+2014-08-12,Wells Fargo,Market Perform,Underperform,up,CHH
+2014-08-18,Barclays,Equal-Weight,,main,CHH
+2014-10-27,Barclays,Equal-Weight,,main,CHH
+2015-02-24,Nomura,Neutral,,main,CHH
+2015-02-24,Barclays,Underweight,Equal-Weight,down,CHH
+2015-05-08,Bank of America,Buy,Underperform,up,CHH
+2015-06-23,UBS,Sell,Neutral,down,CHH
+2015-07-30,JP Morgan,Neutral,Underweight,up,CHH
+2015-07-31,Credit Suisse,Underperform,Neutral,down,CHH
+2016-01-04,Telsey Advisory Group,Market Perform,,init,CHH
+2016-01-06,JP Morgan,Underweight,Neutral,down,CHH
+2016-01-14,MKM Partners,Sell,Neutral,down,CHH
+2016-02-19,JP Morgan,Neutral,Underperform,up,CHH
+2016-02-19,Deutsche Bank,Hold,,main,CHH
+2016-07-06,Wolfe Research,Peer Perform,,init,CHH
+2016-09-26,Morgan Stanley,Equal-Weight,Underweight,up,CHH
+2016-12-05,MKM Partners,Neutral,Sell,up,CHH
+2017-05-05,Morgan Stanley,Equal-Weight,Overweight,down,CHH
+2017-08-03,Deutsche Bank,Hold,,main,CHH
+2017-08-04,Barclays,Underweight,,main,CHH
+2017-11-07,Barclays,Underweight,,main,CHH
+2017-11-13,Morgan Stanley,Equal-Weight,,main,CHH
+2017-12-13,JP Morgan,Underweight,Neutral,down,CHH
+2018-02-21,JP Morgan,Underweight,Underweight,main,CHH
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHH
+2018-02-21,Wells Fargo,Market Perform,Market Perform,main,CHH
+2018-02-21,Barclays,Underweight,Underweight,main,CHH
+2018-05-11,Wells Fargo,Market Perform,Outperform,down,CHH
+2018-05-31,Jefferies,Hold,,init,CHH
+2018-09-07,Longbow Research,Buy,,init,CHH
+2018-11-15,Wells Fargo,Market Perform,Market Perform,main,CHH
+2019-02-19,SunTrust Robinson Humphrey,Hold,Hold,main,CHH
+2019-06-12,Bank of America,Neutral,Buy,down,CHH
+2019-08-13,Wells Fargo,Market Perform,,main,CHH
+2019-08-22,Baird,Outperform,,init,CHH
+2019-09-06,JP Morgan,Underweight,,main,CHH
+2019-10-18,Wells Fargo,Market Perform,,main,CHH
+2019-11-06,Morgan Stanley,Equal-Weight,,main,CHH
+2019-12-19,Longbow Research,Neutral,Buy,down,CHH
+2019-12-24,Barclays,Underweight,,main,CHH
+2020-01-03,Baird,Neutral,Outperform,down,CHH
+2020-01-06,Bank of America,Underperform,Neutral,down,CHH
+2020-01-09,Morgan Stanley,Equal-Weight,,main,CHH
+2020-01-10,Wolfe Research,Underperform,Peer Perform,down,CHH
+2020-02-07,Wells Fargo,Equal-Weight,,main,CHH
+2020-02-19,Morgan Stanley,Equal-Weight,,main,CHH
+2020-02-19,Deutsche Bank,Hold,,main,CHH
+2020-02-19,SunTrust Robinson Humphrey,Hold,,main,CHH
+2020-03-09,Wells Fargo,Equal-Weight,,main,CHH
+2020-03-30,Morgan Stanley,Equal-Weight,,main,CHH
+2020-04-14,Barclays,Underweight,,main,CHH
+2020-04-22,Jefferies,Hold,,main,CHH
+2020-04-29,SunTrust Robinson Humphrey,Hold,,main,CHH
+2020-05-04,UBS,Buy,Neutral,up,CHH
+2020-05-12,SunTrust Robinson Humphrey,Hold,,main,CHH
+2020-05-12,Deutsche Bank,Hold,,main,CHH
+2020-05-12,JP Morgan,Underweight,,main,CHH
+2020-05-13,Morgan Stanley,Equal-Weight,,main,CHH
+2020-05-18,Longbow Research,Buy,Neutral,up,CHH
+2020-06-26,Gordon Haskett,Hold,,init,CHH
+2020-07-22,Wells Fargo,Overweight,,main,CHH
+2020-07-29,Morgan Stanley,Equal-Weight,,main,CHH
+2020-08-11,Morgan Stanley,Equal-Weight,,main,CHH
+2020-09-28,Longbow Research,Neutral,Buy,down,CHH
+2020-09-29,B of A Securities,Underperform,Neutral,down,CHH
+2020-09-30,B of A Securities,Underperform,Neutral,down,CHH
+2020-10-27,Morgan Stanley,Equal-Weight,,main,CHH
+2021-01-20,Morgan Stanley,Equal-Weight,,main,CHH
+2021-02-18,Deutsche Bank,Hold,,main,CHH
+2021-02-23,Morgan Stanley,Equal-Weight,,main,CHH
+2021-04-20,Truist Securities,Hold,,main,CHH
+2021-05-17,Morgan Stanley,Equal-Weight,,main,CHH
+2021-08-06,Deutsche Bank,Hold,,main,CHH
+2021-10-06,Loop Capital,Buy,,init,CHH
+2021-10-20,Morgan Stanley,Equal-Weight,,main,CHH
+2021-11-08,Morgan Stanley,Equal-Weight,,main,CHH
+2021-11-17,Wells Fargo,Equal-Weight,Overweight,down,CHH
+2021-12-02,Loop Capital,Hold,Buy,down,CHH
+2021-12-03,Truist Securities,Hold,,main,CHH

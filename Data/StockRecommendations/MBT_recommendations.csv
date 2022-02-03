@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-03,Goldman Sachs,Buy,,main,MBT
+2012-05-17,Goldman Sachs,Buy,,main,MBT
+2012-05-21,JP Morgan,Neutral,,main,MBT
+2012-08-29,Barclays,Equal-Weight,,main,MBT
+2012-09-04,Bank of America,Buy,,main,MBT
+2013-01-25,Standpoint Research,Hold,Buy,down,MBT
+2013-03-07,Goldman Sachs,Buy,,main,MBT
+2013-03-12,Deutsche Bank,Hold,Buy,down,MBT
+2013-03-13,JP Morgan,Neutral,Underweight,up,MBT
+2013-04-05,JP Morgan,Overweight,Neutral,up,MBT
+2014-02-05,Credit Suisse,Neutral,Underperform,up,MBT
+2014-03-17,Citigroup,Buy,,up,MBT
+2014-04-16,Standpoint Research,Buy,Hold,up,MBT
+2014-04-23,JP Morgan,Overweight,,main,MBT
+2014-05-28,Barclays,Overweight,,main,MBT
+2014-06-27,Standpoint Research,Hold,Buy,down,MBT
+2014-09-17,JP Morgan,Neutral,,main,MBT
+2014-10-30,Standpoint Research,Buy,,up,MBT
+2015-01-29,Deutsche Bank,Buy,Hold,up,MBT
+2015-02-09,Citigroup,Neutral,Buy,down,MBT
+2015-02-17,JP Morgan,Neutral,,main,MBT
+2015-02-24,Deutsche Bank,Hold,Buy,down,MBT
+2015-05-27,JP Morgan,Neutral,,main,MBT
+2015-08-19,Citigroup,Buy,Neutral,up,MBT
+2015-10-16,Barclays,Equal-Weight,,main,MBT
+2015-11-27,Barclays,Equal-Weight,,main,MBT
+2016-01-13,Deutsche Bank,Buy,Hold,up,MBT
+2016-03-10,Citigroup,Neutral,Buy,down,MBT
+2016-03-24,HSBC,Hold,Buy,down,MBT
+2016-03-24,Deutsche Bank,Hold,Buy,down,MBT
+2016-06-20,Credit Suisse,Outperform,,init,MBT
+2016-10-21,Raiffeisen Centrobank,Hold,Sell,up,MBT
+2016-11-23,UBS,Buy,Neutral,up,MBT
+2017-04-07,Standpoint Research,Hold,Buy,down,MBT
+2017-09-12,Deutsche Bank,Buy,,init,MBT
+2018-01-22,Morgan Stanley,Overweight,Equal-Weight,up,MBT
+2020-03-11,JP Morgan,Overweight,,main,MBT
+2020-03-20,Goldman Sachs,Buy,Neutral,up,MBT

@@ -1,0 +1,207 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Goldman Sachs,Neutral,,main,BIDU
+2012-04-25,Brean Capital,Buy,,main,BIDU
+2012-04-25,Stifel Nicolaus,Buy,,main,BIDU
+2012-04-25,Goldman Sachs,Neutral,,main,BIDU
+2012-04-25,Barclays,Overweight,,main,BIDU
+2012-04-26,China International Capital,Buy,,main,BIDU
+2012-04-26,Mirae Asset,Strong Buy,,main,BIDU
+2012-07-06,CIMB,Outperform,,init,BIDU
+2012-07-12,Credit Suisse,Neutral,,main,BIDU
+2012-07-18,Jefferies,Buy,,main,BIDU
+2012-07-18,Mirae Asset,Buy,,main,BIDU
+2012-07-24,Deutsche Bank,Buy,,main,BIDU
+2012-07-24,Barclays,Overweight,,main,BIDU
+2012-08-23,Deutsche Bank,Hold,Buy,down,BIDU
+2012-08-29,Barclays,Overweight,,main,BIDU
+2012-08-30,Credit Suisse,Neutral,,main,BIDU
+2012-09-21,Jefferies,Buy,,main,BIDU
+2012-10-01,Jefferies,Hold,Buy,down,BIDU
+2012-10-09,Credit Suisse,Underperform,Neutral,down,BIDU
+2012-10-23,Stifel Nicolaus,Buy,,main,BIDU
+2012-10-31,Credit Suisse,Underperform,,main,BIDU
+2012-12-06,JG Capital,Overweight,,init,BIDU
+2012-12-19,Maxim Group,Sell,,init,BIDU
+2012-12-31,Credit Suisse,Underperform,,main,BIDU
+2013-01-02,PiperJaffray,Overweight,,main,BIDU
+2013-01-07,Barclays,Equal-Weight,Overweight,down,BIDU
+2013-01-08,Jefferies,Hold,,main,BIDU
+2013-02-05,Stifel Nicolaus,Hold,Buy,down,BIDU
+2013-02-05,Barclays,Equal-Weight,,main,BIDU
+2013-02-05,PiperJaffray,Overweight,,main,BIDU
+2013-02-05,Raymond James,Market Perform,Outperform,down,BIDU
+2013-02-20,CLSA,Underperform,Outperform,down,BIDU
+2013-04-10,86 Research,Buy,Hold,up,BIDU
+2013-04-16,Maxim Group,Sell,,main,BIDU
+2013-04-26,Brean Capital,Hold,,down,BIDU
+2013-04-26,Barclays,Equal-Weight,,main,BIDU
+2013-06-26,Exane BNP Paribas,Buy,,init,BIDU
+2013-07-16,Citigroup,Neutral,Sell,up,BIDU
+2013-07-25,Barclays,Overweight,Equal-Weight,up,BIDU
+2013-07-25,Barclays,Overweight,Equal-Weight,up,BIDU
+2013-07-25,CLSA,Buy,Underperform,up,BIDU
+2013-07-26,Morgan Stanley,Overweight,Equal-Weight,up,BIDU
+2013-07-26,Nomura,Buy,,main,BIDU
+2013-08-09,Citigroup,Buy,Hold,up,BIDU
+2013-09-13,Jefferies,Hold,,main,BIDU
+2013-09-18,Pacific Crest,Outperform,,main,BIDU
+2013-09-26,Credit Suisse,Outperform,,init,BIDU
+2013-10-02,Bank of America,Buy,,main,BIDU
+2013-10-09,Maxim Group,Hold,Sell,up,BIDU
+2013-10-17,Citigroup,Buy,,main,BIDU
+2013-10-28,Exane BNP Paribas,Hold,Buy,down,BIDU
+2013-10-30,Jefferies,Buy,Hold,up,BIDU
+2013-10-30,Goldman Sachs,Neutral,,main,BIDU
+2013-10-30,HSBC,Overweight,,main,BIDU
+2013-10-30,Brean Capital,Buy,Hold,up,BIDU
+2013-10-31,Credit Suisse,Outperform,,main,BIDU
+2014-01-10,Maxim Group,Buy,Hold,up,BIDU
+2014-02-24,Goldman Sachs,Buy,Neutral,up,BIDU
+2014-02-27,Morgan Stanley,Equal-weight,Overweight,down,BIDU
+2014-02-27,Stifel,Buy,Hold,up,BIDU
+2014-04-25,Deutsche Bank,Buy,Hold,up,BIDU
+2014-04-25,Stifel Nicolaus,Buy,,main,BIDU
+2014-04-28,Deutsche Bank,Buy,Hold,up,BIDU
+2014-07-21,Morgan Stanley,Overweight,Equal-weight,up,BIDU
+2014-07-22,CICC,Buy,Accumulate,up,BIDU
+2014-07-25,Stifel Nicolaus,Buy,,main,BIDU
+2014-07-25,Jefferies,Buy,,main,BIDU
+2014-07-28,Exane BNP Paribas,Buy,Reduce,up,BIDU
+2014-07-28,UBS,Neutral,,main,BIDU
+2014-07-28,HSBC,Overweight,,main,BIDU
+2014-07-28,Macquarie,Outperform,,main,BIDU
+2014-09-29,UBS,Buy,Neutral,up,BIDU
+2014-10-16,Oppenheimer,Outperform,Market Perform,up,BIDU
+2014-10-30,Morgan Stanley,Overweight,,main,BIDU
+2015-02-12,Oppenheimer,Outperform,,main,BIDU
+2015-02-12,Jefferies,Buy,,main,BIDU
+2015-02-12,Stifel Nicolaus,Hold,Buy,down,BIDU
+2015-04-20,Summit Research Partners,Buy,,init,BIDU
+2015-04-30,KeyBanc,Overweight,,main,BIDU
+2015-05-01,Jefferies,Hold,Buy,down,BIDU
+2015-05-01,CICC,Hold,Buy,down,BIDU
+2015-05-04,T.H. Capital,Buy,Hold,up,BIDU
+2015-05-05,JP Morgan,Neutral,Overweight,down,BIDU
+2015-06-17,Pacific Crest,Overweight,,init,BIDU
+2015-06-17,Keybanc,Overweight,,main,BIDU
+2015-07-15,Bank of America,Buy,,main,BIDU
+2015-07-28,KeyBanc,Sector Weight,Overweight,down,BIDU
+2015-07-28,Brean Capital,Hold,Buy,down,BIDU
+2015-07-28,Pacific Crest,Sector Weight,Overweight,down,BIDU
+2015-08-31,Jefferies,Buy,Hold,up,BIDU
+2015-09-09,Deutsche Bank,Hold,,main,BIDU
+2015-09-30,Summit Research Partners,Hold,Buy,down,BIDU
+2015-10-07,Daiwa Capital,Underperform,,down,BIDU
+2015-10-30,PiperJaffray,Overweight,,main,BIDU
+2016-01-22,Nomura,Neutral,Buy,down,BIDU
+2016-02-03,Jefferies,Buy,,main,BIDU
+2016-02-22,Credit Suisse,Outperform,,main,BIDU
+2016-02-24,Deutsche Bank,Buy,Hold,up,BIDU
+2016-02-29,Nomura,Neutral,,main,BIDU
+2016-04-25,Jefferies,Buy,,main,BIDU
+2016-04-29,Brean Capital,Buy,Hold,up,BIDU
+2016-05-02,Macquarie,Outperform,,main,BIDU
+2016-05-11,Morgan Stanley,Overweight,,main,BIDU
+2016-05-12,Jefferies,Buy,,main,BIDU
+2016-06-13,Citigroup,Neutral,Buy,down,BIDU
+2016-07-25,Citigroup,Neutral,,main,BIDU
+2016-09-28,Deutsche Bank,Hold,Buy,down,BIDU
+2016-10-24,OTR Global,Mixed,Negative,up,BIDU
+2016-10-28,Credit Suisse,Neutral,Outperform,down,BIDU
+2016-10-31,Macquarie,Neutral,Outperform,down,BIDU
+2016-12-20,Evercore ISI Group,Hold,,init,BIDU
+2017-01-09,JP Morgan,Neutral,Underweight,up,BIDU
+2017-01-10,Stifel Nicolaus,Buy,Hold,up,BIDU
+2017-01-11,Bernstein,Underperform,,init,BIDU
+2017-03-28,Barclays,Equal-Weight,,init,BIDU
+2017-04-18,Benchmark,Buy,,init,BIDU
+2017-07-31,Nomura,Buy,Neutral,up,BIDU
+2017-09-27,Wells Fargo,Outperform,,init,BIDU
+2017-10-19,Barclays,Equal-Weight,,main,BIDU
+2017-10-30,JP Morgan,Neutral,,main,BIDU
+2017-10-30,Barclays,Equal-Weight,,main,BIDU
+2017-10-31,Oppenheimer,Outperform,,main,BIDU
+2018-01-23,Jefferies,Hold,Buy,down,BIDU
+2018-01-26,Barclays,Equal-Weight,Equal-Weight,main,BIDU
+2018-02-14,Daiwa Capital,Outperform,Hold,up,BIDU
+2018-02-15,Morgan Stanley,Overweight,Equal-Weight,up,BIDU
+2018-03-15,Deutsche Bank,Buy,,init,BIDU
+2018-04-05,KeyBanc,Sector Weight,,init,BIDU
+2018-04-09,Daiwa Capital,Buy,Outperform,up,BIDU
+2018-04-16,Barclays,Equal-Weight,Equal-Weight,main,BIDU
+2018-05-11,Bernstein,Market Perform,Underperform,up,BIDU
+2018-05-18,Credit Suisse,Neutral,Outperform,down,BIDU
+2018-07-09,KeyBanc,Overweight,Sector Weight,up,BIDU
+2018-07-09,Credit Suisse,Outperform,Neutral,up,BIDU
+2018-10-29,Deutsche Bank,Buy,Buy,main,BIDU
+2018-11-01,Barclays,Equal-Weight,Equal-Weight,main,BIDU
+2018-11-01,Nomura,Neutral,Neutral,main,BIDU
+2019-01-08,Morgan Stanley,Equal-Weight,Overweight,down,BIDU
+2019-01-22,Citigroup,Buy,Buy,main,BIDU
+2019-04-10,Oppenheimer,Perform,Outperform,down,BIDU
+2019-04-15,China Renaissance,Hold,Buy,down,BIDU
+2019-05-20,Barclays,Equal-Weight,,main,BIDU
+2019-05-20,Nomura,Neutral,,main,BIDU
+2019-06-04,Loop Capital,Hold,,init,BIDU
+2019-06-28,JP Morgan,Neutral,,main,BIDU
+2019-07-10,KeyBanc,Overweight,,main,BIDU
+2019-07-23,OTR Global,Mixed,Positive,down,BIDU
+2019-08-05,Jefferies,Buy,,init,BIDU
+2019-08-09,KeyBanc,Overweight,,main,BIDU
+2019-08-21,Nomura,Neutral,,main,BIDU
+2019-10-21,KeyBanc,Overweight,,main,BIDU
+2019-10-25,Barclays,Equal-Weight,,main,BIDU
+2019-11-07,Morgan Stanley,Overweight,Equal-Weight,up,BIDU
+2019-11-08,Bernstein,Outperform,Market Perform,up,BIDU
+2019-11-08,Daiwa Capital,Outperform,Hold,up,BIDU
+2019-11-08,CCB International,Outperform,Neutral,up,BIDU
+2019-11-11,Oppenheimer,Outperform,Perform,up,BIDU
+2019-11-22,Macquarie,Neutral,,init,BIDU
+2019-12-04,Loop Capital,Hold,,main,BIDU
+2020-01-16,Oppenheimer,Outperform,,main,BIDU
+2020-01-21,KeyBanc,Overweight,,main,BIDU
+2020-02-24,Barclays,Equal-Weight,,main,BIDU
+2020-02-24,KeyBanc,Overweight,,main,BIDU
+2020-03-02,B of A Securities,Buy,,reit,BIDU
+2020-03-02,JP Morgan,Overweight,Neutral,up,BIDU
+2020-03-03,Susquehanna,Positive,,main,BIDU
+2020-03-26,KeyBanc,Overweight,,main,BIDU
+2020-04-17,Oppenheimer,Outperform,,main,BIDU
+2020-04-22,Barclays,Equal-Weight,,main,BIDU
+2020-04-23,KeyBanc,Overweight,,main,BIDU
+2020-05-20,Nomura Instinet,Neutral,,main,BIDU
+2020-05-20,KeyBanc,Overweight,,main,BIDU
+2020-06-25,KeyBanc,Overweight,,main,BIDU
+2020-07-28,Mizuho,Buy,,main,BIDU
+2020-07-31,KeyBanc,Overweight,,main,BIDU
+2020-08-17,B of A Securities,Buy,,main,BIDU
+2020-08-17,Barclays,Equal-Weight,,main,BIDU
+2020-08-17,KeyBanc,Overweight,,main,BIDU
+2020-09-08,Morgan Stanley,Equal-Weight,Overweight,down,BIDU
+2020-09-25,KeyBanc,Overweight,,main,BIDU
+2020-10-26,KeyBanc,Overweight,,main,BIDU
+2020-11-04,Barclays,Overweight,Equal-Weight,up,BIDU
+2020-11-18,KeyBanc,Overweight,,main,BIDU
+2021-01-14,JP Morgan,Overweight,,main,BIDU
+2021-01-14,KeyBanc,Overweight,,main,BIDU
+2021-02-01,Oppenheimer,Outperform,,main,BIDU
+2021-02-08,Mizuho,Buy,,main,BIDU
+2021-02-09,China Renaissance,Buy,Hold,up,BIDU
+2021-02-10,Barclays,Overweight,,main,BIDU
+2021-02-18,Mizuho,Buy,,main,BIDU
+2021-02-22,Barclays,Overweight,,main,BIDU
+2021-02-23,KeyBanc,Overweight,,main,BIDU
+2021-03-29,Loop Capital,Buy,Hold,up,BIDU
+2021-04-15,China Renaissance,Buy,,reit,BIDU
+2021-05-19,Keybanc,Overweight,,main,BIDU
+2021-05-19,UBS,Buy,,main,BIDU
+2021-05-19,CLSA,Buy,,main,BIDU
+2021-05-19,Benchmark,Buy,,main,BIDU
+2021-05-20,HSBC,Buy,,main,BIDU
+2021-05-20,Susquehanna,Positive,,main,BIDU
+2021-08-13,Oppenheimer,Outperform,,main,BIDU
+2021-08-13,Keybanc,Overweight,,main,BIDU
+2021-08-18,Susquehanna,Positive,,main,BIDU
+2021-10-01,Arete Research,Neutral,Sell,up,BIDU
+2021-10-27,OTR Global,Mixed,Positive,down,BIDU
+2021-11-03,Barclays,Overweight,,init,BIDU

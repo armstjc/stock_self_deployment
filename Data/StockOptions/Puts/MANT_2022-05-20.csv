@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MANT220520P00075000,2022-01-18 19:40:27+00:00,75.0,6.3,6.0,10.0,0.0,0.0,1,1,0.5576216113281252,True,REGULAR,USD,MANT

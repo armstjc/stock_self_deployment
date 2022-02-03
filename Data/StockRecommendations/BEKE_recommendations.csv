@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-01-05,Jefferies,Buy,,init,BEKE
+2021-03-02,HSBC,Buy,,init,BEKE
+2021-03-11,Goldman Sachs,Buy,Neutral,up,BEKE
+2021-03-18,B of A Securities,Buy,Neutral,up,BEKE
+2021-04-23,China Renaissance,Buy,Hold,up,BEKE
+2021-05-20,86 Research,Hold,Sell,up,BEKE
+2021-08-13,HSBC,Hold,Buy,down,BEKE
+2021-08-16,Goldman Sachs,Neutral,Buy,down,BEKE
+2021-11-03,Barclays,Overweight,,init,BEKE

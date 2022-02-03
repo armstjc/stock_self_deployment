@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KOP220218C00035000,2022-01-04 16:12:07+00:00,35.0,0.75,0.5,2.6,0.0,0.0,2,8,1.1630901220703125,False,REGULAR,USD,KOP

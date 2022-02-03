@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-05,Goldman Sachs,Neutral,,init,HGV
+2017-01-05,Nomura,Buy,,init,HGV
+2017-01-19,Goldman Sachs,Buy,Neutral,up,HGV
+2017-08-03,Nomura,Buy,,main,HGV
+2018-05-18,Credit Suisse,Outperform,,init,HGV
+2018-07-16,Jefferies,Hold,,init,HGV
+2018-11-02,JP Morgan,Overweight,Overweight,main,HGV
+2019-05-03,JP Morgan,Neutral,Overweight,down,HGV
+2019-08-02,JP Morgan,Underweight,Neutral,down,HGV
+2019-09-19,Goldman Sachs,Neutral,Buy,down,HGV
+2019-09-24,Nomura,Neutral,,main,HGV
+2019-09-25,Janney Capital,Neutral,Buy,down,HGV
+2019-10-16,SunTrust Robinson Humphrey,Buy,,main,HGV
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,HGV
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,HGV
+2020-05-05,Nomura,Neutral,,main,HGV
+2020-08-03,Credit Suisse,Outperform,,main,HGV
+2020-09-08,Goldman Sachs,Buy,Neutral,up,HGV
+2021-02-11,Credit Suisse,Outperform,,main,HGV
+2021-11-18,Jefferies,Buy,Hold,up,HGV

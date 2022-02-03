@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLX220819C00001000,2022-01-04 20:05:23+00:00,1.0,0.31,0.05,0.8,0.0,0.0,1,41,1.8828130859374999,False,REGULAR,USD,PLX
+PLX220819C00001000,2022-01-04 20:05:23+00:00,1.0,0.31,0.05,0.8,0.0,0.0,1,41,1.953125234375,False,REGULAR,USD,PLX

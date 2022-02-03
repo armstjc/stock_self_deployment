@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-07-24,Craig-Hallum,Buy,,init,APEN
+2017-08-02,Roth Capital,Buy,,init,APEN
+2017-09-26,Northland Securities,Outperform,,init,APEN
+2018-04-13,PiperJaffray,Overweight,,init,APEN
+2018-07-17,Roth Capital,Neutral,Buy,down,APEN
+2018-11-09,Northland Securities,Underperform,Market Perform,down,APEN
+2020-03-27,Piper Sandler,Overweight,,main,APEN
+2020-04-28,Piper Sandler,Neutral,Overweight,down,APEN
+2020-11-30,Piper Sandler,Overweight,Neutral,up,APEN
+2021-05-17,Lake Street,Buy,,init,APEN
+2021-06-14,Piper Sandler,Overweight,,main,APEN
+2021-09-09,Stephens & Co.,Overweight,,init,APEN
+2021-12-09,Stifel,Buy,,init,APEN
+2021-12-15,Cowen & Co.,Outperform,,init,APEN

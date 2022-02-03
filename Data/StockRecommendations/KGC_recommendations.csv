@@ -1,0 +1,117 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-09,Canaccord Genuity,Buy,,main,KGC
+2012-05-10,UBS,Buy,,main,KGC
+2012-05-10,Jefferies,Hold,,main,KGC
+2012-07-09,Deutsche Bank,Buy,,main,KGC
+2012-07-16,Citigroup,Buy,,main,KGC
+2012-08-09,Canaccord Genuity,Hold,Buy,down,KGC
+2012-08-10,Citigroup,Buy,,main,KGC
+2012-09-25,Citigroup,Buy,,main,KGC
+2012-10-01,Dundee,Buy,Neutral,up,KGC
+2012-10-02,Deutsche Bank,Buy,,main,KGC
+2012-10-10,Morgan Stanley,Underweight,Equal-Weight,down,KGC
+2012-10-16,Barclays,Equal-Weight,,init,KGC
+2012-10-19,Jefferies,Hold,,main,KGC
+2012-11-08,Canaccord Genuity,Buy,Hold,up,KGC
+2012-11-09,Macquarie,Outperform,Neutral,up,KGC
+2013-01-15,Deutsche Bank,Buy,,main,KGC
+2013-02-04,Barclays,Equal-Weight,,main,KGC
+2013-02-13,Citigroup,Buy,,main,KGC
+2013-02-14,Cormark Securities,Buy,Market Perform,up,KGC
+2013-02-14,BMO Capital,Outperform,,main,KGC
+2013-02-15,Jefferies,Hold,,main,KGC
+2013-02-15,Credit Suisse,Outperform,Neutral,up,KGC
+2013-04-22,Deutsche Bank,Hold,Buy,down,KGC
+2013-04-29,UBS,Buy,,main,KGC
+2013-04-30,CIBC,Sector Underperform,Sector Perform,down,KGC
+2013-05-08,BMO Capital,Outperform,,main,KGC
+2013-06-11,Canaccord Genuity,Hold,Buy,down,KGC
+2013-06-11,Vertical Research,Sell,Buy,down,KGC
+2013-06-12,Cowen & Co.,Market Perform,Outperform,down,KGC
+2013-06-21,UBS,Neutral,Buy,down,KGC
+2013-06-21,UBS,Neutral,Buy,down,KGC
+2013-07-02,Jefferies,Underperform,Hold,down,KGC
+2013-07-15,BMO Capital,Market Perform,Outperform,down,KGC
+2013-08-06,CIBC,Sector Perform,Sector Underperform,up,KGC
+2013-11-26,Morgan Stanley,Equal-weight,Overweight,down,KGC
+2013-12-18,JP Morgan,Neutral,Overweight,down,KGC
+2014-01-09,TD Securities,Hold,Buy,down,KGC
+2014-02-14,Mackie Research,Hold,Buy,down,KGC
+2014-02-27,Morgan Stanley,Equal-Weight,,main,KGC
+2014-03-03,Raymond James,Outperform,,init,KGC
+2014-03-28,Goldman Sachs,Neutral,Sell,up,KGC
+2014-05-09,Citigroup,Hold,,main,KGC
+2014-07-31,UBS,Neutral,,main,KGC
+2014-08-01,Mackie Research,Buy,Hold,down,KGC
+2014-10-03,RBC Capital,Sector Perform,Outperform,down,KGC
+2014-10-15,Jefferies,Underperform,,main,KGC
+2014-10-23,Citigroup,Neutral,,main,KGC
+2014-10-29,Macquarie,Neutral,Outperform,down,KGC
+2014-11-07,Citigroup,Neutral,,main,KGC
+2014-11-07,Barclays,Equal-Weight,,main,KGC
+2014-11-10,Deutsche Bank,Hold,,main,KGC
+2014-11-14,CIBC,Sector Outperform,Sector Perform,up,KGC
+2014-12-01,Citigroup,Neutral,,main,KGC
+2014-12-19,UBS,Neutral,Buy,down,KGC
+2015-02-09,Citigroup,Neutral,,main,KGC
+2015-02-11,Jefferies,Underperform,,main,KGC
+2015-04-06,Deutsche Bank,Hold,,main,KGC
+2015-04-13,Citigroup,Neutral,,main,KGC
+2015-04-14,Citigroup,Neutral,,main,KGC
+2015-05-08,Citigroup,Neutral,,main,KGC
+2015-05-29,UBS,Buy,Neutral,up,KGC
+2015-06-16,BMO Capital,Market Perform,,init,KGC
+2015-07-16,Barclays,Equal-Weight,,main,KGC
+2015-07-24,CIBC,Sector Perform,,init,KGC
+2015-07-31,Citigroup,Neutral,,main,KGC
+2015-08-24,RBC Capital,Underperform,Sector Perform,down,KGC
+2015-09-08,HSBC,Buy,,main,KGC
+2015-09-24,Citigroup,Neutral,,main,KGC
+2015-10-05,Deutsche Bank,Hold,,main,KGC
+2015-11-18,Raymond James,Market Perform,Outperform,down,KGC
+2015-11-24,RBC Capital,Sector Perform,Underperform,up,KGC
+2016-02-08,BMO Capital,Outperform,Market Perform,up,KGC
+2016-02-09,Credit Suisse,Outperform,Neutral,up,KGC
+2016-02-12,Barclays,Equal-Weight,,main,KGC
+2016-02-17,Deutsche Bank,Hold,,main,KGC
+2016-02-25,UBS,Neutral,Buy,down,KGC
+2016-03-07,BMO Capital,Outperform,,main,KGC
+2016-03-11,Bank of America,Buy,Neutral,up,KGC
+2016-03-15,Macquarie,Underperform,Neutral,down,KGC
+2016-03-31,Credit Suisse,Outperform,,main,KGC
+2016-03-31,Raymond James,Outperform,Market Perform,up,KGC
+2016-03-31,TD Securities,Buy,Hold,up,KGC
+2016-04-01,Barclays,Equal-Weight,,main,KGC
+2016-04-11,RBC Capital,Outperform,Sector Perform,up,KGC
+2016-05-03,Canaccord Genuity,Hold,Buy,down,KGC
+2016-05-26,Canaccord Genuity,Buy,Hold,up,KGC
+2016-07-01,Macquarie,Neutral,Underperform,up,KGC
+2016-07-06,Deutsche Bank,Hold,Sell,up,KGC
+2016-07-14,Jefferies,Hold,Underperform,up,KGC
+2016-09-07,Berenberg,Hold,,init,KGC
+2016-12-05,Citigroup,Sell,Neutral,down,KGC
+2016-12-19,BMO Capital,Market Perform,Outperform,down,KGC
+2017-05-03,CIBC,Outperform,Sector Perform,up,KGC
+2017-09-01,Citigroup,Neutral,Sell,up,KGC
+2017-11-10,Macquarie,Outperform,Neutral,up,KGC
+2018-04-10,BMO Capital,Market Perform,Outperform,down,KGC
+2018-04-11,Deutsche Bank,Hold,Hold,main,KGC
+2018-08-20,RBC Capital,Sector Perform,Outperform,down,KGC
+2018-08-29,Citigroup,Neutral,Neutral,main,KGC
+2018-09-17,JP Morgan,Neutral,Neutral,main,KGC
+2018-10-10,Barclays,Overweight,,init,KGC
+2019-05-30,JP Morgan,Underweight,Neutral,down,KGC
+2019-09-11,Citigroup,Neutral,,main,KGC
+2019-10-15,Barclays,Equal-Weight,Overweight,down,KGC
+2020-05-12,CIBC,Outperformer,,main,KGC
+2020-06-16,RBC Capital,Outperform,Sector Perform,up,KGC
+2020-07-20,Barclays,Equal-Weight,,main,KGC
+2020-09-18,ScotiaBank,Sector Outperform,,main,KGC
+2020-09-18,TD Securities,Buy,,main,KGC
+2020-09-18,BMO Capital,Outperform,Market Perform,up,KGC
+2020-10-21,BMO Capital,Outperform,,main,KGC
+2020-11-05,TD Securities,Buy,,main,KGC
+2021-01-06,Barclays,Overweight,Equal-Weight,up,KGC
+2021-06-22,CIBC,Neutral,Outperformer,down,KGC
+2021-06-23,Credit Suisse,Outperform,Neutral,up,KGC
+2021-12-13,RBC Capital,Outperform,,main,KGC

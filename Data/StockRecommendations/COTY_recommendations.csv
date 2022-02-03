@@ -1,0 +1,138 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-23,Wells Fargo,Market Perform,,init,COTY
+2013-07-23,Bank of America,Buy,,init,COTY
+2013-07-23,PiperJaffray,Overweight,,init,COTY
+2013-07-23,JP Morgan,Overweight,,init,COTY
+2013-07-23,Deutsche Bank,Buy,,init,COTY
+2013-07-24,PiperJaffray,Overweight,,init,COTY
+2013-08-01,Morgan Stanley,Equal-Weight,,init,COTY
+2013-08-08,Citigroup,Neutral,,init,COTY
+2013-09-18,Deutsche Bank,Buy,,main,COTY
+2013-10-15,Barclays,Equal-Weight,,init,COTY
+2013-11-19,Credit Suisse,Neutral,,init,COTY
+2014-01-07,RBC Capital,Sector Perform,,init,COTY
+2014-02-05,Wells Fargo,Outperform,Market Perform,up,COTY
+2014-02-06,Wells Fargo,Outperform,Market Perform,up,COTY
+2014-03-12,Bank of America,Buy,,main,COTY
+2014-05-15,Credit Suisse,Neutral,,main,COTY
+2014-07-01,BMO Capital,Outperform,,init,COTY
+2014-07-16,Deutsche Bank,Buy,,main,COTY
+2014-08-29,Credit Suisse,Neutral,,main,COTY
+2014-09-02,Citigroup,Neutral,,main,COTY
+2014-09-18,PiperJaffray,Overweight,,init,COTY
+2014-09-19,B. Riley FBR,Sell,Neutral,down,COTY
+2014-09-22,JP Morgan,Overweight,,main,COTY
+2014-10-08,B. Riley FBR,Neutral,Sell,up,COTY
+2014-10-31,Stifel Nicolaus,Buy,Hold,down,COTY
+2014-11-07,Citigroup,Neutral,,main,COTY
+2014-11-19,BTIG Research,Buy,,init,COTY
+2014-12-12,Bank of America,Buy,,main,COTY
+2014-12-16,Wunderlich,Outperform,,main,COTY
+2015-01-12,JP Morgan,Overweight,,main,COTY
+2015-01-15,Deutsche Bank,Buy,,main,COTY
+2015-01-22,Deutsche Bank,Buy,,main,COTY
+2015-01-22,Citigroup,Buy,Neutral,up,COTY
+2015-01-28,PiperJaffray,Neutral,Overweight,down,COTY
+2015-02-06,JP Morgan,Overweight,,main,COTY
+2015-02-09,Citigroup,Buy,,main,COTY
+2015-03-26,B. Riley FBR,Sell,Neutral,down,COTY
+2015-04-10,JP Morgan,Overweight,,main,COTY
+2015-05-08,Stifel Nicolaus,Buy,,main,COTY
+2015-05-08,Stifel Nicolaus,Buy,,main,COTY
+2015-05-08,JP Morgan,Overweight,,main,COTY
+2015-05-11,Citigroup,Buy,,main,COTY
+2015-06-17,Citigroup,Neutral,Buy,down,COTY
+2015-07-10,Wells Fargo,Market Perform,Outperform,down,COTY
+2015-07-14,Deutsche Bank,Buy,,main,COTY
+2015-11-06,Deutsche Bank,Buy,,main,COTY
+2015-11-30,Morgan Stanley,Underperform,Equal-Weight,down,COTY
+2016-02-04,Citigroup,Neutral,,main,COTY
+2016-02-05,B. Riley FBR,Sell,,main,COTY
+2016-04-18,Bank of America,Neutral,Buy,down,COTY
+2016-08-25,Citigroup,Neutral,,main,COTY
+2016-09-09,Berenberg,Sell,,init,COTY
+2016-09-29,B. Riley FBR,Neutral,Sell,up,COTY
+2016-10-03,Bank of America,Buy,Neutral,up,COTY
+2016-11-18,Berenberg,Hold,Sell,up,COTY
+2016-12-16,BMO Capital,Outperform,,init,COTY
+2017-03-21,JP Morgan,Underweight,,init,COTY
+2017-06-02,Jefferies,Hold,,init,COTY
+2017-08-23,Jefferies,Hold,,main,COTY
+2017-08-23,Deutsche Bank,Buy,,main,COTY
+2017-08-23,Bank of America,Buy,,main,COTY
+2017-08-30,Berenberg,Sell,Hold,down,COTY
+2017-10-17,DA Davidson,Neutral,,init,COTY
+2017-11-10,BMO Capital,Outperform,,main,COTY
+2017-11-10,DA Davidson,Neutral,,main,COTY
+2017-12-12,Citigroup,Buy,Neutral,up,COTY
+2017-12-21,RBC Capital,Outperform,Sector Perform,up,COTY
+2018-02-09,BMO Capital,Outperform,Outperform,main,COTY
+2018-02-09,Citigroup,Buy,Buy,main,COTY
+2018-02-12,JP Morgan,Underweight,Underweight,main,COTY
+2018-05-10,Berenberg,Hold,Sell,up,COTY
+2018-05-11,Deutsche Bank,Hold,Buy,down,COTY
+2018-05-31,Citigroup,Buy,Buy,main,COTY
+2018-06-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,COTY
+2018-08-10,JP Morgan,Underweight,Underweight,main,COTY
+2018-08-16,Bank of America,Underperform,Buy,down,COTY
+2018-08-22,BMO Capital,Market Perform,Outperform,down,COTY
+2018-08-22,Wells Fargo,Market Perform,Market Perform,main,COTY
+2018-08-22,Societe Generale,Hold,Buy,down,COTY
+2018-08-23,Citigroup,Buy,Buy,main,COTY
+2018-08-28,Morgan Stanley,Overweight,Equal-Weight,up,COTY
+2018-11-08,Morgan Stanley,Equal-Weight,,down,COTY
+2018-11-08,RBC Capital,Outperform,Outperform,main,COTY
+2018-11-08,Wells Fargo,Market Perform,Market Perform,main,COTY
+2018-11-15,BMO Capital,Outperform,Market Perform,up,COTY
+2019-01-04,JP Morgan,Neutral,Underweight,up,COTY
+2019-04-02,Citigroup,Neutral,Buy,down,COTY
+2019-04-16,Wells Fargo,Market Perform,Market Perform,main,COTY
+2019-04-18,Stifel Nicolaus,Hold,Buy,down,COTY
+2019-06-04,Exane BNP Paribas,Outperform,,init,COTY
+2019-07-02,DA Davidson,Neutral,,main,COTY
+2019-07-02,Citigroup,Sell,Neutral,down,COTY
+2019-08-20,Stifel Nicolaus,Hold,,main,COTY
+2019-08-29,Wells Fargo,Market Perform,,main,COTY
+2019-08-29,Morgan Stanley,Equal-Weight,,main,COTY
+2019-08-29,Bank of America,Neutral,,reit,COTY
+2019-08-30,DA Davidson,Neutral,,main,COTY
+2019-10-22,Morgan Stanley,Equal-Weight,,main,COTY
+2019-10-22,DA Davidson,Neutral,,main,COTY
+2019-11-07,Wells Fargo,Market Perform,,main,COTY
+2019-11-07,Stifel Nicolaus,Hold,,main,COTY
+2019-12-13,Wells Fargo,Equal-Weight,,main,COTY
+2020-01-08,DA Davidson,Neutral,,main,COTY
+2020-02-05,CFRA,Hold,,reit,COTY
+2020-03-20,Deutsche Bank,Hold,,main,COTY
+2020-03-23,DA Davidson,Buy,Neutral,up,COTY
+2020-03-31,Morgan Stanley,Equal-Weight,,main,COTY
+2020-04-27,Morgan Stanley,Equal-Weight,,main,COTY
+2020-04-27,DA Davidson,Neutral,Buy,down,COTY
+2020-05-12,Stifel,Hold,,main,COTY
+2020-05-12,Deutsche Bank,Hold,,main,COTY
+2020-05-13,Exane BNP Paribas,Neutral,Outperform,down,COTY
+2020-05-14,Morgan Stanley,Equal-Weight,,main,COTY
+2020-06-02,Stifel,Hold,,main,COTY
+2020-07-13,Morgan Stanley,Equal-Weight,,main,COTY
+2020-09-24,Consumer Edge Research,Equal-Weight,Overweight,down,COTY
+2020-09-25,Citigroup,Neutral,Sell,up,COTY
+2020-10-07,Jefferies,Buy,Hold,up,COTY
+2020-10-14,Morgan Stanley,Equal-Weight,,main,COTY
+2020-11-09,DA Davidson,Neutral,,main,COTY
+2020-11-19,Citigroup,Buy,Neutral,up,COTY
+2020-11-20,Citigroup,Neutral,Sell,up,COTY
+2020-12-08,Wells Fargo,Underweight,Equal-Weight,down,COTY
+2021-01-14,Morgan Stanley,Equal-Weight,,main,COTY
+2021-02-10,Evercore ISI Group,Outperform,In-Line,up,COTY
+2021-02-10,DA Davidson,Neutral,,main,COTY
+2021-02-10,Morgan Stanley,Equal-Weight,,main,COTY
+2021-05-11,DA Davidson,Neutral,,main,COTY
+2021-05-18,Morgan Stanley,Equal-Weight,,main,COTY
+2021-07-14,Raymond James,Market Perform,,init,COTY
+2021-08-27,Wells Fargo,Underweight,,main,COTY
+2021-08-30,DA Davidson,Neutral,,main,COTY
+2021-09-13,Morgan Stanley,Equal-Weight,,main,COTY
+2021-10-26,Deutsche Bank,Buy,Hold,up,COTY
+2021-11-09,Raymond James,Outperform,Market Perform,up,COTY
+2021-11-11,RBC Capital,Outperform,,main,COTY
+2021-11-17,Wells Fargo,Equal-Weight,Underweight,up,COTY

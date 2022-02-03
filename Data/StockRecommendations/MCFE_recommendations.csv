@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-16,RBC Capital,Sector Perform,,init,MCFE
+2020-11-16,Mizuho,Buy,,init,MCFE
+2020-11-16,Morgan Stanley,Overweight,,init,MCFE
+2020-11-16,UBS,Buy,,init,MCFE
+2020-11-16,B of A Securities,Neutral,,init,MCFE
+2020-11-16,Goldman Sachs,Buy,,init,MCFE
+2020-11-16,Piper Sandler,Overweight,,init,MCFE
+2020-11-17,Citigroup,Neutral,,init,MCFE
+2020-11-17,Deutsche Bank,Hold,,init,MCFE
+2021-02-02,Morgan Stanley,Overweight,,main,MCFE
+2021-02-18,Stifel,Hold,,init,MCFE
+2021-02-24,Deutsche Bank,Buy,Hold,up,MCFE
+2021-03-09,Morgan Stanley,Overweight,,main,MCFE
+2021-04-22,Morgan Stanley,Overweight,,main,MCFE
+2021-06-17,Mizuho,Buy,,main,MCFE
+2021-11-08,Deutsche Bank,Hold,Buy,down,MCFE
+2021-11-09,Mizuho,Neutral,Buy,down,MCFE
+2021-11-09,RBC Capital,Sector Perform,,main,MCFE

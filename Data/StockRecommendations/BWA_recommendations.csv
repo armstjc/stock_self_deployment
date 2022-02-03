@@ -1,0 +1,185 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,UBS,Neutral,,main,BWA
+2012-02-15,Gabelli & Co.,Hold,,down,BWA
+2012-03-07,Guggenheim,Neutral,,main,BWA
+2012-03-27,Morgan Stanley,Overweight,,main,BWA
+2012-04-27,Jefferies,Hold,,main,BWA
+2012-04-27,UBS,Neutral,,main,BWA
+2012-05-23,UBS,Neutral,,main,BWA
+2012-06-07,Deutsche Bank,Hold,,main,BWA
+2012-06-25,Barclays,Overweight,,main,BWA
+2012-07-09,Jefferies,Hold,,main,BWA
+2012-07-16,UBS,Neutral,,main,BWA
+2012-07-18,JP Morgan,Overweight,,init,BWA
+2012-07-26,Bank of America,Buy,,main,BWA
+2012-07-27,Jefferies,Hold,,main,BWA
+2012-07-27,Gabelli & Co.,Buy,Hold,up,BWA
+2012-07-27,Deutsche Bank,Hold,,main,BWA
+2012-07-31,Sterne Agee,Buy,,main,BWA
+2012-09-20,Gabelli & Co.,Hold,Buy,down,BWA
+2012-10-09,Deutsche Bank,Hold,,main,BWA
+2012-10-12,Citigroup,Buy,Neutral,up,BWA
+2012-11-01,UBS,Neutral,,main,BWA
+2012-11-01,Barclays,Overweight,,main,BWA
+2012-11-01,Deutsche Bank,Hold,,main,BWA
+2012-11-01,Jefferies,Hold,,main,BWA
+2012-11-07,Deutsche Bank,Hold,,main,BWA
+2012-11-07,JP Morgan,Overweight,,main,BWA
+2012-11-08,Barclays,Overweight,,main,BWA
+2013-01-23,Deutsche Bank,Hold,,main,BWA
+2013-01-28,KeyBanc,Buy,Hold,up,BWA
+2013-01-28,KeyBanc,Buy,Hold,up,BWA
+2013-01-28,Sterne Agee,Neutral,Buy,down,BWA
+2013-02-15,Barclays,Overweight,,main,BWA
+2013-02-15,Deutsche Bank,Hold,,main,BWA
+2013-02-15,Jefferies,Hold,,main,BWA
+2013-03-25,Citigroup,Buy,,main,BWA
+2013-04-23,Jefferies,Hold,,main,BWA
+2013-07-17,Baird,Outperform,Neutral,up,BWA
+2013-08-28,JP Morgan,Overweight,,main,BWA
+2013-10-28,Deutsche Bank,Hold,,main,BWA
+2013-10-31,Deutsche Bank,Hold,,main,BWA
+2013-10-31,Jefferies,Hold,,main,BWA
+2014-02-14,Gabelli & Co.,Buy,Hold,up,BWA
+2014-03-26,Deutsche Bank,Hold,,main,BWA
+2014-04-09,Citigroup,Buy,,main,BWA
+2014-04-10,Barclays,Overweight,,main,BWA
+2014-04-22,JP Morgan,Neutral,,main,BWA
+2014-05-12,Morgan Stanley,Overweight,,main,BWA
+2014-07-14,Barclays,Overweight,,main,BWA
+2014-07-17,KeyBanc,Buy,,main,BWA
+2014-07-22,JP Morgan,Overweight,,main,BWA
+2014-08-01,Gabelli & Co.,Hold,Buy,down,BWA
+2014-08-13,Credit Suisse,Neutral,,init,BWA
+2014-09-22,JP Morgan,Overweight,,main,BWA
+2014-10-14,Gabelli & Co.,Buy,Hold,up,BWA
+2014-10-14,Goldman Sachs,Buy,Neutral,up,BWA
+2014-10-15,Citigroup,Buy,,main,BWA
+2014-10-15,Sterne Agee,Buy,Neutral,up,BWA
+2014-10-17,Deutsche Bank,Buy,Hold,up,BWA
+2014-10-21,Susquehanna,Positive,,init,BWA
+2014-10-31,Citigroup,Buy,,main,BWA
+2014-10-31,Deutsche Bank,Buy,,main,BWA
+2014-10-31,Credit Suisse,Neutral,,main,BWA
+2014-10-31,Barclays,Overweight,,main,BWA
+2014-11-03,KeyBanc,Buy,,main,BWA
+2014-11-03,Barclays,Overweight,,main,BWA
+2014-11-11,JP Morgan,Overweight,,main,BWA
+2015-01-09,Citigroup,Buy,,main,BWA
+2015-01-26,JP Morgan,Overweight,,main,BWA
+2015-01-28,Deutsche Bank,Buy,,main,BWA
+2015-02-13,Goldman Sachs,Neutral,Buy,down,BWA
+2015-02-13,Barclays,Outperform,,main,BWA
+2015-02-17,Citigroup,Buy,,main,BWA
+2015-03-11,Deutsche Bank,Hold,,main,BWA
+2015-04-22,Susquehanna,Positive,,main,BWA
+2015-05-05,Susquehanna,Positive,,main,BWA
+2015-05-12,Evercore ISI Group,Buy,,init,BWA
+2015-07-08,Northcoast Research,Buy,,init,BWA
+2015-07-10,Citigroup,Buy,,main,BWA
+2015-07-16,Barclays,Equal-Weight,Overweight,down,BWA
+2015-07-17,Susquehanna,Positive,,main,BWA
+2015-07-31,Credit Suisse,Neutral,,main,BWA
+2015-07-31,Barclays,Equal-Weight,,main,BWA
+2015-08-03,Citigroup,Buy,,main,BWA
+2015-08-18,UBS,Buy,,up,BWA
+2015-08-27,Susquehanna,Positive,,main,BWA
+2015-08-28,Baird,Neutral,,down,BWA
+2015-09-03,Barclays,Equal-Weight,,main,BWA
+2015-10-19,Morgan Stanley,Underweight,Overweight,down,BWA
+2015-10-30,RBC Capital,Sector Perform,Outperform,down,BWA
+2015-11-02,Barclays,Equal-Weight,,main,BWA
+2015-11-18,Goldman Sachs,Buy,Neutral,up,BWA
+2016-01-14,CLSA,Underperform,Outperform,down,BWA
+2016-01-25,Deutsche Bank,Hold,,main,BWA
+2016-01-25,Barclays,Equal-Weight,,main,BWA
+2016-01-27,Baird,Outperform,Neutral,up,BWA
+2016-02-16,Sterne Agee CRT,Neutral,Buy,down,BWA
+2016-03-29,Citigroup,Neutral,Buy,down,BWA
+2016-06-21,Bank of America,Neutral,Buy,down,BWA
+2016-08-09,Seaport Global,Neutral,,init,BWA
+2016-10-06,Goldman Sachs,Neutral,Buy,down,BWA
+2016-11-09,Bank of America,Underperform,Neutral,down,BWA
+2016-11-22,Berenberg,Sell,,init,BWA
+2016-11-30,Jefferies,Buy,,init,BWA
+2016-12-19,Wells Fargo,Market Perform,Outperform,down,BWA
+2016-12-21,BMO Capital,Outperform,,init,BWA
+2017-01-04,Evercore ISI Group,Hold,Buy,down,BWA
+2017-03-22,Deutsche Bank,Buy,Hold,up,BWA
+2017-06-21,Guggenheim,Neutral,Neutral,init,BWA
+2017-07-28,BMO Capital,Outperform,,main,BWA
+2017-08-08,Deutsche Bank,Buy,,main,BWA
+2017-10-12,Deutsche Bank,Hold,Buy,down,BWA
+2017-10-13,KeyBanc,Buy,,main,BWA
+2017-10-19,Buckingham,Neutral,,main,BWA
+2017-10-19,UBS,Buy,,main,BWA
+2017-10-20,Barclays,Equal-Weight,,main,BWA
+2017-10-30,Citigroup,Neutral,,main,BWA
+2017-10-30,BMO Capital,Outperform,,main,BWA
+2017-10-31,Citigroup,Neutral,,main,BWA
+2017-12-07,Oppenheimer,Outperform,,init,BWA
+2018-02-09,Wells Fargo,Market Perform,Market Perform,main,BWA
+2018-02-09,RBC Capital,Outperform,Sector Perform,up,BWA
+2018-03-22,Morgan Stanley,Overweight,Underweight,up,BWA
+2018-04-16,Cowen & Co.,Outperform,,init,BWA
+2018-05-22,Citigroup,Neutral,Neutral,main,BWA
+2018-06-25,Goldman Sachs,Buy,Neutral,up,BWA
+2018-07-18,Wells Fargo,Outperform,Market Perform,up,BWA
+2018-07-30,Citigroup,Neutral,Neutral,main,BWA
+2018-10-03,Buckingham,Neutral,Neutral,main,BWA
+2018-10-12,Citigroup,Neutral,Neutral,main,BWA
+2018-10-23,Bank of America,Neutral,Underperform,up,BWA
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,BWA
+2018-12-04,Jefferies,Buy,,init,BWA
+2018-12-11,KeyBanc,Sector Weight,,init,BWA
+2019-02-13,Seaport Global,Neutral,,init,BWA
+2019-05-30,Barclays,Overweight,Equal-Weight,up,BWA
+2019-06-27,Credit Suisse,Outperform,,init,BWA
+2019-06-28,Morgan Stanley,Overweight,,main,BWA
+2019-07-26,RBC Capital,Sector Perform,Outperform,down,BWA
+2019-07-26,Credit Suisse,Outperform,,main,BWA
+2019-07-30,Citigroup,Neutral,,main,BWA
+2019-08-27,Nomura,Buy,,init,BWA
+2019-09-12,UBS,Buy,,main,BWA
+2019-10-16,Guggenheim,Neutral,,init,BWA
+2019-11-01,Credit Suisse,Outperform,,main,BWA
+2019-11-21,Morgan Stanley,Overweight,,main,BWA
+2019-11-22,Wolfe Research,Peer Perform,Outperform,down,BWA
+2020-01-27,Credit Suisse,Neutral,Outperform,down,BWA
+2020-01-29,B of A Securities,Buy,Neutral,up,BWA
+2020-01-30,Morgan Stanley,Overweight,,main,BWA
+2020-02-18,Baird,Outperform,,main,BWA
+2020-03-03,Citigroup,Neutral,,main,BWA
+2020-03-16,Morgan Stanley,Overweight,,main,BWA
+2020-03-24,Citigroup,Neutral,,main,BWA
+2020-03-30,Morgan Stanley,Equal-Weight,Overweight,down,BWA
+2020-03-31,CFRA,Buy,Hold,up,BWA
+2020-04-09,Oppenheimer,Outperform,,main,BWA
+2020-04-13,KeyBanc,Overweight,Sector Weight,up,BWA
+2020-05-07,Barclays,Overweight,,main,BWA
+2020-05-07,Oppenheimer,Outperform,,main,BWA
+2020-05-18,Morgan Stanley,Equal-Weight,,main,BWA
+2020-07-07,KeyBanc,Overweight,,main,BWA
+2020-07-24,Barclays,Overweight,,main,BWA
+2020-08-06,Morgan Stanley,Equal-Weight,,main,BWA
+2020-08-10,Citigroup,Neutral,,main,BWA
+2020-09-03,KeyBanc,Overweight,,main,BWA
+2020-10-09,KeyBanc,Overweight,,main,BWA
+2020-10-22,Barclays,Equal-Weight,Overweight,down,BWA
+2020-11-09,Morgan Stanley,Underweight,Equal-Weight,down,BWA
+2020-11-17,B of A Securities,Buy,,main,BWA
+2021-02-16,Credit Suisse,Neutral,,main,BWA
+2021-02-18,Morgan Stanley,Underweight,,main,BWA
+2021-03-24,RBC Capital,Sector Perform,,main,BWA
+2021-03-24,KeyBanc,Overweight,,main,BWA
+2021-03-26,Wells Fargo,Overweight,,init,BWA
+2021-04-21,Keybanc,Overweight,,main,BWA
+2021-05-13,Morgan Stanley,Underweight,,main,BWA
+2021-08-06,Barclays,Equal-Weight,,main,BWA
+2021-09-10,Wells Fargo,Overweight,,main,BWA
+2021-09-20,Jefferies,Hold,Buy,down,BWA
+2021-10-05,Wells Fargo,Overweight,,main,BWA
+2021-10-11,Barclays,Equal-Weight,,main,BWA
+2021-11-04,RBC Capital,Sector Perform,,main,BWA
+2021-11-04,Barclays,Equal-Weight,,main,BWA
+2021-12-16,Barclays,Equal-Weight,,main,BWA

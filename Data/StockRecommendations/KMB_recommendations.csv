@@ -1,0 +1,140 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-12,Deutsche Bank,Hold,,main,KMB
+2012-04-23,Deutsche Bank,Hold,,main,KMB
+2012-04-23,BMO Capital,Market Perform,,main,KMB
+2012-04-23,Bank oferica,Buy,,main,KMB
+2012-04-23,JP Morgan,Neutral,,main,KMB
+2012-06-22,Argus,Buy,Hold,up,KMB
+2012-07-11,UBS,Neutral,,main,KMB
+2012-07-26,Citigroup,Neutral,,main,KMB
+2012-07-27,UBS,Neutral,,main,KMB
+2012-07-27,BMO Capital,Market Perform,,main,KMB
+2012-07-27,Deutsche Bank,Hold,,main,KMB
+2013-01-24,Credit Suisse,Underperform,,init,KMB
+2013-01-28,UBS,Neutral,,main,KMB
+2013-01-28,BMO Capital,Market Perform,,main,KMB
+2013-03-07,Citigroup,Neutral,,main,KMB
+2013-03-18,Goldman Sachs,Sell,Neutral,down,KMB
+2013-04-05,BMO Capital,Underperform,Market Perform,down,KMB
+2013-04-15,Deutsche Bank,Hold,,main,KMB
+2013-04-22,Bank of America,Neutral,Buy,down,KMB
+2013-04-22,Credit Suisse,Underperform,,main,KMB
+2013-04-22,B. Riley FBR,Neutral,,main,KMB
+2013-04-22,UBS,Neutral,,main,KMB
+2013-04-22,Deutsche Bank,Hold,,main,KMB
+2013-04-22,JP Morgan,Neutral,,main,KMB
+2013-06-21,BMO Capital,Market Perform,Underperform,up,KMB
+2013-10-08,Wells Fargo,Market Perform,,init,KMB
+2014-01-27,Citigroup,Neutral,,main,KMB
+2014-03-07,JP Morgan,Overweight,,init,KMB
+2014-05-19,Argus,Hold,Buy,down,KMB
+2014-07-15,Goldman Sachs,Neutral,Sell,up,KMB
+2014-07-16,Deutsche Bank,Hold,,main,KMB
+2014-07-23,UBS,Neutral,,main,KMB
+2014-11-04,Citigroup,Neutral,,main,KMB
+2014-11-11,Barclays,Equal-Weight,,main,KMB
+2014-12-23,BMO Capital,Outperform,Market Perform,up,KMB
+2015-01-26,Citigroup,Neutral,,main,KMB
+2015-01-26,Deutsche Bank,Hold,,main,KMB
+2015-03-23,Citigroup,Neutral,,main,KMB
+2015-03-24,Wells Fargo,Outperform,Market Perform,up,KMB
+2015-03-27,RBC Capital,Sector Perform,,init,KMB
+2015-04-10,JP Morgan,Neutral,,main,KMB
+2015-04-22,Deutsche Bank,Hold,,main,KMB
+2015-05-13,Barclays,Overweight,Equal-Weight,up,KMB
+2015-08-20,Societe Generale,Hold,,init,KMB
+2015-09-15,Deutsche Bank,Buy,,up,KMB
+2015-09-15,Deutsche Bank,Buy,Hold,up,KMB
+2016-01-26,B. Riley FBR,Neutral,,main,KMB
+2016-03-21,Barclays,Overweight,,main,KMB
+2016-04-25,Deutsche Bank,Hold,Buy,down,KMB
+2016-07-27,Citigroup,Neutral,,main,KMB
+2016-09-12,Goldman Sachs,Buy,,main,KMB
+2016-10-10,Atlantic Equities,Underweight,,init,KMB
+2016-10-24,Citigroup,Neutral,,main,KMB
+2016-10-25,Goldman Sachs,Buy,,main,KMB
+2016-10-25,UBS,Neutral,,main,KMB
+2016-10-26,CLSA,Underperform,Outperform,down,KMB
+2017-01-09,Barclays,Equal-Weight,Overweight,down,KMB
+2017-03-10,Societe Generale,Hold,Buy,down,KMB
+2017-03-21,JP Morgan,Neutral,,init,KMB
+2017-04-18,Jefferies,Hold,,init,KMB
+2017-06-09,Berenberg,Hold,,init,KMB
+2017-07-26,Citigroup,Neutral,,main,KMB
+2017-07-26,UBS,Neutral,,main,KMB
+2017-08-11,Citigroup,Neutral,,main,KMB
+2017-10-20,JP Morgan,Underweight,Neutral,down,KMB
+2017-10-24,Bank of America,Neutral,,main,KMB
+2017-10-24,Wells Fargo,Market Perform,,main,KMB
+2017-10-24,Citigroup,Neutral,,main,KMB
+2017-10-27,Citigroup,Neutral,,main,KMB
+2017-11-02,Societe Generale,Buy,Hold,up,KMB
+2017-12-11,Citigroup,Sell,Neutral,down,KMB
+2017-12-14,Deutsche Bank,Hold,,init,KMB
+2018-01-24,Citigroup,Sell,Sell,main,KMB
+2018-04-24,Citigroup,Sell,Sell,main,KMB
+2018-04-24,JP Morgan,Underweight,Underweight,main,KMB
+2018-06-21,Morgan Stanley,Underweight,,init,KMB
+2018-07-19,UBS,Sell,,init,KMB
+2018-08-15,Societe Generale,Hold,Buy,down,KMB
+2018-08-16,Deutsche Bank,Hold,Hold,main,KMB
+2018-08-16,JP Morgan,Neutral,Underweight,up,KMB
+2018-08-31,Morgan Stanley,Underweight,Underweight,main,KMB
+2018-09-06,Bank of America,Neutral,Neutral,main,KMB
+2018-09-20,Atlantic Equities,Underweight,,init,KMB
+2018-10-02,Barclays,Equal-Weight,Equal-Weight,main,KMB
+2018-10-08,Goldman Sachs,Neutral,Buy,down,KMB
+2018-10-10,Deutsche Bank,Sell,Hold,down,KMB
+2018-10-17,Wells Fargo,Market Perform,Market Perform,main,KMB
+2018-10-24,Citigroup,Sell,Sell,main,KMB
+2019-01-18,JP Morgan,Overweight,Neutral,up,KMB
+2019-01-24,Morgan Stanley,Equal-Weight,Underweight,up,KMB
+2019-02-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,KMB
+2019-04-16,Wells Fargo,Market Perform,Market Perform,main,KMB
+2019-04-23,Citigroup,Sell,Sell,main,KMB
+2019-04-23,Macquarie,Outperform,Neutral,up,KMB
+2019-06-17,Deutsche Bank,Sell,,main,KMB
+2019-06-18,Morgan Stanley,Equal-Weight,,main,KMB
+2019-07-24,JP Morgan,Overweight,,main,KMB
+2019-07-24,Morgan Stanley,Equal-Weight,,main,KMB
+2019-07-24,Atlantic Equities,Neutral,Underweight,up,KMB
+2019-09-23,Barclays,Overweight,Equal-Weight,up,KMB
+2019-09-27,Bank of America,Buy,Neutral,up,KMB
+2019-10-08,Morgan Stanley,Equal-Weight,,main,KMB
+2019-10-15,Wells Fargo,Market Perform,,main,KMB
+2019-10-23,Morgan Stanley,Equal-Weight,,main,KMB
+2019-10-23,Deutsche Bank,Hold,Sell,up,KMB
+2019-12-12,Deutsche Bank,Hold,,main,KMB
+2020-01-21,Morgan Stanley,Equal-Weight,,main,KMB
+2020-01-24,Citigroup,Sell,,main,KMB
+2020-01-24,Deutsche Bank,Hold,,main,KMB
+2020-01-24,Morgan Stanley,Equal-Weight,,main,KMB
+2020-03-23,Morgan Stanley,Equal-Weight,,main,KMB
+2020-03-30,Jefferies,Buy,Hold,up,KMB
+2020-04-16,Deutsche Bank,Hold,,main,KMB
+2020-04-22,Jefferies,Buy,,main,KMB
+2020-04-23,Morgan Stanley,Equal-Weight,,main,KMB
+2020-04-23,Deutsche Bank,Hold,,main,KMB
+2020-07-24,Jefferies,Buy,,main,KMB
+2020-07-24,Morgan Stanley,Equal-Weight,,main,KMB
+2020-10-15,Jefferies,Buy,,main,KMB
+2020-10-16,Berenberg,Buy,,init,KMB
+2020-10-23,Morgan Stanley,Equal-Weight,,main,KMB
+2020-12-08,Wells Fargo,Underweight,,init,KMB
+2021-01-20,Bernstein,Market Perform,,init,KMB
+2021-01-22,B of A Securities,Buy,,main,KMB
+2021-01-26,Argus Research,Hold,Buy,down,KMB
+2021-01-26,RBC Capital,Sector Perform,,main,KMB
+2021-03-19,JP Morgan,Underweight,Neutral,down,KMB
+2021-04-01,Deutsche Bank,Hold,,main,KMB
+2021-04-26,Deutsche Bank,Hold,,main,KMB
+2021-04-26,Citigroup,Sell,,main,KMB
+2021-07-09,Deutsche Bank,Hold,,main,KMB
+2021-07-19,Jefferies,Buy,,main,KMB
+2021-07-26,RBC Capital,Sector Perform,,main,KMB
+2021-09-09,HSBC,Hold,,init,KMB
+2021-10-26,Citigroup,Sell,,main,KMB
+2021-10-26,Berenberg,Hold,Buy,down,KMB
+2021-10-26,Morgan Stanley,Equal-Weight,,main,KMB
+2021-10-26,Wells Fargo,Equal-Weight,,main,KMB
+2021-10-26,Deutsche Bank,Hold,,main,KMB

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CCMP220318C00180000,2022-01-24 17:07:46+00:00,180.0,4.75,6.0,10.5,0.0,0.0,,1,0.295905478515625,True,REGULAR,USD,CCMP

@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-17,Wells Fargo,Overweight,,init,CHK
+2021-04-06,RBC Capital,Outperform,,init,CHK
+2021-05-13,RBC Capital,Outperform,,main,CHK
+2021-05-19,Wells Fargo,Overweight,,main,CHK
+2021-08-12,MKM Partners,Buy,,main,CHK
+2021-08-23,Wells Fargo,Equal-Weight,Overweight,down,CHK
+2021-08-31,RBC Capital,Outperform,,main,CHK
+2021-11-03,RBC Capital,Outperform,,main,CHK
+2021-12-27,Siebert Williams Shank,Buy,,init,CHK
+2022-01-05,Wells Fargo,Overweight,Equal-Weight,up,CHK
+2022-01-10,B of A Securities,Buy,,init,CHK

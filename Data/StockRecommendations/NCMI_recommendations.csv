@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,PiperJaffray,Overweight,,up,NCMI
+2012-02-24,Wedbush,Neutral,,main,NCMI
+2012-03-14,Morgan Stanley,Equal-Weight,,main,NCMI
+2012-04-18,Barrington Research,Market Perform,,init,NCMI
+2012-05-08,Imperial Capital,In-Line,,down,NCMI
+2012-09-06,Credit Suisse,Outperform,,init,NCMI
+2012-10-23,Stifel Nicolaus,Buy,Hold,up,NCMI
+2012-11-16,Barrington Research,Outperform,Market Perform,up,NCMI
+2012-11-19,Barrington Research,Outperform,Market Perform,up,NCMI
+2013-02-22,Barrington Research,Market Perform,Outperform,down,NCMI
+2013-02-22,Barrington Research,Market Perform,Outperform,down,NCMI
+2013-05-03,JP Morgan,Overweight,Neutral,up,NCMI
+2013-06-24,Janco Partners,Strong Buy,,init,NCMI
+2013-06-24,Janco Partners,Strong Buy,,init,NCMI
+2013-09-11,Benchmark,Hold,,init,NCMI
+2013-10-23,JP Morgan,Neutral,Overweight,down,NCMI
+2013-11-05,FBR Capital,Market Perform,,init,NCMI
+2013-11-05,Barrington Research,Outperform,Market Perform,up,NCMI
+2014-02-21,B. Riley FBR,Neutral,Buy,down,NCMI
+2014-02-25,Benchmark,Buy,,up,NCMI
+2014-04-01,JP Morgan,Overweight,,up,NCMI
+2014-05-01,B. Riley FBR,Buy,Neutral,up,NCMI
+2014-08-06,PiperJaffray,Neutral,Overweight,down,NCMI
+2014-11-03,FBR Capital,Market Perform,Outperform,down,NCMI
+2014-11-04,MKM Partners,Neutral,Buy,down,NCMI
+2014-11-04,Stifel Nicolaus,Buy,Hold,up,NCMI
+2015-05-07,JP Morgan,Overweight,,init,NCMI
+2015-05-12,FBR Capital,Outperform,Market Perform,up,NCMI
+2015-05-12,Stifel Nicolaus,Buy,,main,NCMI
+2016-07-20,Stifel Nicolaus,Hold,Buy,down,NCMI
+2017-02-01,Credit Suisse,Underperform,Outperform,down,NCMI
+2017-03-15,Credit Suisse,Neutral,Underperform,up,NCMI
+2017-05-05,JP Morgan,Neutral,Overweight,down,NCMI
+2017-05-05,FBR Capital,Market Perform,Outperform,down,NCMI
+2017-08-02,Wedbush,Neutral,,init,NCMI
+2017-09-28,Credit Suisse,Neutral,,main,NCMI
+2017-11-07,B. Riley FBR,Neutral,Buy,down,NCMI
+2018-03-19,B. Riley FBR,Buy,Neutral,up,NCMI
+2018-05-08,B. Riley FBR,Buy,Buy,main,NCMI
+2018-06-25,B. Riley FBR,Buy,Buy,main,NCMI
+2018-08-07,B. Riley FBR,Buy,Buy,main,NCMI
+2018-09-24,B. Riley FBR,Buy,Buy,main,NCMI
+2019-09-18,Benchmark,Buy,,main,NCMI
+2019-11-05,B. Riley,Neutral,Buy,down,NCMI
+2019-11-07,Barrington Research,Outperform,Market Perform,up,NCMI
+2020-02-21,Wedbush,Outperform,,main,NCMI
+2020-02-21,B. Riley FBR,Neutral,,main,NCMI
+2020-03-02,B. Riley,Buy,Neutral,up,NCMI
+2020-03-18,Benchmark,Hold,Buy,down,NCMI
+2020-03-18,B. Riley FBR,Buy,,main,NCMI
+2020-04-09,MKM Partners,Neutral,,main,NCMI
+2020-05-04,Wedbush,Outperform,,main,NCMI
+2020-05-06,B. Riley FBR,Buy,,main,NCMI
+2020-07-29,Wedbush,Neutral,Outperform,down,NCMI
+2020-09-04,Barrington Research,Outperform,Market Perform,up,NCMI
+2020-10-09,MKM Partners,Neutral,,main,NCMI
+2021-04-07,Benchmark,Buy,Hold,up,NCMI
+2021-11-04,Wedbush,Outperform,Neutral,up,NCMI

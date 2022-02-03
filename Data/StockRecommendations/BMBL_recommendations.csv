@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-04,Susquehanna,Positive,,init,BMBL
+2021-03-08,Raymond James,Market Perform,,init,BMBL
+2021-03-08,JP Morgan,Neutral,,init,BMBL
+2021-03-08,Morgan Stanley,Equal-Weight,,init,BMBL
+2021-03-08,Stifel,Buy,,init,BMBL
+2021-03-08,BMO Capital,Market Perform,,init,BMBL
+2021-03-08,Jefferies,Buy,,init,BMBL
+2021-03-08,Cowen & Co.,Outperform,,init,BMBL
+2021-03-08,Goldman Sachs,Neutral,,init,BMBL
+2021-03-11,Morgan Stanley,Equal-Weight,,main,BMBL
+2021-03-11,Jefferies,Buy,,main,BMBL
+2021-03-11,Stifel,Buy,,main,BMBL
+2021-03-31,Loop Capital,Hold,,init,BMBL
+2021-04-01,Wolfe Research,Peer Perform,,init,BMBL
+2021-04-06,Evercore ISI Group,In-Line,,init,BMBL
+2021-04-12,BTIG,Buy,,init,BMBL
+2021-07-09,RBC Capital,Outperform,,init,BMBL
+2021-11-11,RBC Capital,Outperform,,main,BMBL
+2021-11-23,Evercore ISI Group,Outperform,In-Line,up,BMBL
+2021-11-29,Raymond James,Outperform,Market Perform,up,BMBL
+2021-12-07,JP Morgan,Overweight,Neutral,up,BMBL

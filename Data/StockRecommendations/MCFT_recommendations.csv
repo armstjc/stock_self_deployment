@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-11,Baird,Outperform,,init,MCFT
+2015-08-11,Wunderlich,Buy,,init,MCFT
+2015-08-11,Raymond James,Strong Buy,,init,MCFT
+2015-08-11,Wells Fargo,Outperform,,init,MCFT
+2015-08-11,KeyBanc,Overweight,,init,MCFT
+2015-08-17,Wells Fargo,Outperform,,init,MCFT
+2015-09-24,SunTrust Robinson Humphrey,Neutral,,main,MCFT
+2016-02-25,B. Riley FBR,Buy,,init,MCFT
+2017-10-03,B. Riley FBR,Buy,,main,MCFT
+2018-02-09,B. Riley FBR,Buy,Buy,main,MCFT
+2018-02-09,Baird,Outperform,Outperform,main,MCFT
+2018-09-07,B. Riley FBR,Buy,Buy,main,MCFT
+2018-09-11,Baird,Outperform,Outperform,main,MCFT
+2018-09-17,B. Riley FBR,Buy,Buy,main,MCFT
+2018-09-20,Raymond James,Strong Buy,Strong Buy,main,MCFT
+2018-09-24,Wells Fargo,Outperform,Outperform,main,MCFT
+2019-07-22,Raymond James,Market Perform,Strong Buy,down,MCFT
+2019-08-27,B. Riley,Buy,,main,MCFT
+2019-09-13,SunTrust Robinson Humphrey,Hold,,main,MCFT
+2020-02-18,Raymond James,Outperform,Market Perform,up,MCFT
+2020-03-23,B. Riley FBR,Buy,,main,MCFT
+2020-04-03,SunTrust Robinson Humphrey,Hold,,main,MCFT
+2020-04-06,B. Riley FBR,Neutral,Buy,down,MCFT
+2020-05-07,Raymond James,Outperform,,main,MCFT
+2020-05-07,B. Riley FBR,Neutral,,main,MCFT
+2020-05-07,Baird,Neutral,,main,MCFT
+2020-05-07,SunTrust Robinson Humphrey,Hold,,main,MCFT
+2020-05-18,B. Riley FBR,Buy,Neutral,up,MCFT
+2020-06-03,Raymond James,Outperform,,main,MCFT
+2020-06-16,Raymond James,Outperform,,main,MCFT
+2020-06-19,B. Riley FBR,Buy,,main,MCFT
+2020-07-21,Raymond James,Outperform,,main,MCFT
+2020-09-22,Baird,Outperform,Neutral,up,MCFT
+2020-11-12,Raymond James,Outperform,,main,MCFT
+2021-01-04,Raymond James,Outperform,,main,MCFT
+2021-02-11,Raymond James,Outperform,,main,MCFT
+2021-03-22,Raymond James,Outperform,,main,MCFT
+2021-05-13,Raymond James,Outperform,,main,MCFT
+2021-11-11,Raymond James,Outperform,,main,MCFT

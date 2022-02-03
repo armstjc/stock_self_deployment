@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-23,Morgan Stanley,Overweight,,init,BDSX
+2020-11-23,BTIG,Buy,,init,BDSX
+2020-11-23,William Blair,Outperform,,init,BDSX
+2021-02-02,Canaccord Genuity,Buy,,main,BDSX
+2021-03-18,Morgan Stanley,Overweight,,main,BDSX
+2021-05-12,Morgan Stanley,Overweight,,main,BDSX
+2021-11-17,Morgan Stanley,Equal-Weight,Overweight,down,BDSX

@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-29,Deutsche Bank,Sell,,down,ESI
+2012-04-27,Citigroup,Neutral,,main,ESI
+2012-07-24,JP Morgan,Underweight,Neutral,down,ESI
+2012-07-26,Topeka,Hold,,main,ESI
+2012-07-27,Barrington Research,Outperform,,main,ESI
+2012-07-27,Morgan Stanley,Underweight,,main,ESI
+2012-09-26,Deutsche Bank,Sell,,main,ESI
+2012-10-15,Barclays,Equal-Weight,,main,ESI
+2012-10-26,Barrington Research,Outperform,,main,ESI
+2012-10-26,Deutsche Bank,Sell,,main,ESI
+2012-10-26,Stifel Nicolaus,Hold,Buy,down,ESI
+2012-10-26,Stifel Nicolaus,Hold,Buy,down,ESI
+2012-11-19,,,,,ESI
+2013-01-08,Barclays,Underweight,Equal-Weight,down,ESI
+2013-01-09,Citigroup,Sell,Neutral,down,ESI
+2013-01-24,Deutsche Bank,Sell,,main,ESI
+2013-01-25,PiperJaffray,Neutral,,main,ESI
+2013-01-25,Barrington Research,Outperform,,main,ESI
+2013-04-05,Compass Point,Neutral,,init,ESI
+2013-04-24,Deutsche Bank,Hold,Sell,up,ESI
+2013-04-26,Compass Point,Sell,Neutral,down,ESI
+2013-05-15,First Analysis,Equal-Weight,Overweight,down,ESI
+2013-06-21,Argus,Sell,Hold,down,ESI
+2013-07-26,Compass Point,Sell,,main,ESI
+2013-10-15,Wells Fargo,Outperform,Market Perform,up,ESI
+2013-10-25,JP Morgan,Neutral,Underweight,up,ESI
+2013-10-25,Compass Point,Neutral,Sell,up,ESI
+2014-01-17,Bank of America,Buy,Neutral,up,ESI
+2014-01-31,Morgan Stanley,Equal-Weight,Underweight,up,ESI
+2014-01-31,JP Morgan,Neutral,,main,ESI
+2014-01-31,Compass Point,Neutral,,main,ESI
+2014-01-31,Morgan Stanley,Equal-Weight,Underweight,up,ESI
+2014-02-27,Bank of America,Neutral,Buy,down,ESI
+2014-03-24,Bank of America,Neutral,,main,ESI
+2014-03-24,Morgan Stanley,Equal-Weight,,main,ESI
+2014-05-23,Deutsche Bank,Hold,,main,ESI
+2014-08-05,William Blair,Market Perform,Outperform,down,ESI
+2014-08-05,Bank of America,Underperform,Neutral,down,ESI
+2014-10-20,Bank of America,Underperform,,main,ESI
+2014-11-20,Bank of America,Underperform,,main,ESI
+2016-08-26,PiperJaffray,Underweight,Neutral,down,ESI
+2019-10-11,SunTrust Robinson Humphrey,Hold,,main,ESI
+2019-11-18,Goldman Sachs,Buy,Neutral,up,ESI
+2020-03-23,UBS,Buy,,main,ESI
+2020-03-30,Morgan Stanley,Equal-Weight,,main,ESI
+2020-04-20,SunTrust Robinson Humphrey,Buy,Hold,up,ESI
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,ESI
+2020-06-04,SunTrust Robinson Humphrey,Buy,,main,ESI
+2020-10-13,Loop Capital,Buy,,init,ESI
+2020-11-03,Morgan Stanley,Equal-Weight,,main,ESI
+2020-12-14,Morgan Stanley,Equal-Weight,,main,ESI
+2021-03-01,Morgan Stanley,Equal-Weight,,main,ESI
+2021-06-10,Wolfe Research,Outperform,,init,ESI
+2021-10-01,Morgan Stanley,Equal-Weight,,main,ESI
+2021-10-04,Morgan Stanley,Equal-Weight,,main,ESI
+2021-10-13,Mizuho,Buy,,init,ESI

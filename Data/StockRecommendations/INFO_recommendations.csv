@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-14,UBS,Neutral,,main,INFO
+2016-07-14,Stifel Nicolaus,Hold,Buy,down,INFO
+2016-07-15,Bank of America,Buy,,init,INFO
+2016-07-15,Deutsche Bank,Buy,Hold,up,INFO
+2016-07-21,RBC Capital,Outperform,Sector Perform,up,INFO
+2016-07-25,Barclays,Equal-Weight,,main,INFO
+2016-08-17,PiperJaffray,Overweight,Neutral,up,INFO
+2016-08-25,Macquarie,Neutral,,init,INFO
+2016-08-26,BMO Capital,Outperform,,main,INFO
+2016-09-16,Barclays,Outperform,Neutral,up,INFO
+2016-09-16,Baird,Outperform,,main,INFO
+2017-09-27,Wells Fargo,Outperform,,main,INFO
+2017-09-27,Morgan Stanley,Underweight,,main,INFO
+2017-09-27,BMO Capital,Outperform,,main,INFO
+2017-09-27,Bank of America,Buy,,main,INFO
+2017-11-08,Goldman Sachs,Buy,,init,INFO
+2017-11-15,William Blair,Market Perform,Outperform,down,INFO
+2017-11-17,UBS,Neutral,,main,INFO
+2017-11-28,SunTrust Robinson Humphrey,Buy,Hold,up,INFO
+2018-03-28,Morgan Stanley,Underweight,Underweight,main,INFO
+2018-03-28,Cantor Fitzgerald,Neutral,Neutral,main,INFO
+2018-03-28,Wells Fargo,Outperform,Outperform,main,INFO
+2018-03-28,UBS,Neutral,Neutral,main,INFO
+2018-06-27,Morgan Stanley,Underweight,Underweight,main,INFO
+2018-06-27,Baird,Outperform,Outperform,main,INFO
+2018-09-04,BMO Capital,Outperform,Outperform,main,INFO
+2018-09-13,Morgan Stanley,Underweight,Underweight,main,INFO
+2018-09-26,Stifel Nicolaus,Hold,Hold,main,INFO
+2018-09-26,Wells Fargo,Outperform,Outperform,main,INFO
+2018-09-27,JP Morgan,Neutral,Neutral,main,INFO
+2018-10-15,Morgan Stanley,Underweight,Underweight,main,INFO
+2018-12-07,Credit Suisse,Outperform,,init,INFO
+2019-01-08,UBS,Neutral,Neutral,main,INFO
+2019-03-12,UBS,Neutral,Neutral,main,INFO
+2019-03-27,Morgan Stanley,Underweight,Underweight,main,INFO
+2019-06-27,BMO Capital,Outperform,,main,INFO
+2019-06-28,Deutsche Bank,Buy,,main,INFO
+2019-09-12,Canaccord Genuity,Buy,,init,INFO
+2019-09-20,Credit Suisse,Outperform,,main,INFO
+2019-09-25,UBS,Neutral,,main,INFO
+2019-10-10,Morgan Stanley,Underweight,,main,INFO
+2019-11-13,Morgan Stanley,Underweight,,main,INFO
+2019-11-13,BMO Capital,Outperform,,main,INFO
+2019-11-13,Wells Fargo,Outperform,,main,INFO
+2019-11-13,SunTrust Robinson Humphrey,Buy,,main,INFO
+2019-11-13,Cantor Fitzgerald,Neutral,,main,INFO
+2019-11-22,Jefferies,Hold,,init,INFO
+2019-12-11,RBC Capital,Outperform,,init,INFO
+2020-01-15,RBC Capital,Outperform,,main,INFO
+2020-01-15,Cantor Fitzgerald,Neutral,,main,INFO
+2020-01-16,Argus Research,Buy,Hold,up,INFO
+2020-03-10,Morgan Stanley,Underweight,,main,INFO
+2020-03-19,Deutsche Bank,Buy,,main,INFO
+2020-03-20,Wells Fargo,Overweight,,main,INFO
+2020-03-25,UBS,Neutral,,main,INFO
+2020-03-25,Morgan Stanley,Underweight,,main,INFO
+2020-03-25,Cantor Fitzgerald,Neutral,,main,INFO
+2020-04-22,Morgan Stanley,Underweight,,main,INFO
+2020-06-16,Deutsche Bank,Buy,,main,INFO
+2020-06-19,Morgan Stanley,Equal-Weight,Underweight,up,INFO
+2020-06-24,Stifel,Buy,Hold,up,INFO
+2020-06-24,Morgan Stanley,Equal-Weight,,main,INFO
+2020-06-24,Wells Fargo,Overweight,,main,INFO
+2020-06-24,Baird,Outperform,,main,INFO
+2020-06-24,BMO Capital,Market Perform,,main,INFO
+2020-06-24,SunTrust Robinson Humphrey,Buy,,main,INFO
+2020-06-24,UBS,Buy,Neutral,up,INFO
+2020-09-30,Morgan Stanley,Equal-Weight,,main,INFO
+2020-09-30,B of A Securities,Buy,,main,INFO
+2020-10-20,Morgan Stanley,Equal-Weight,,main,INFO
+2020-12-01,RBC Capital,Sector Perform,Outperform,down,INFO
+2020-12-01,Truist Securities,Hold,Buy,down,INFO
+2021-04-12,Morgan Stanley,Overweight,,main,INFO
+2021-04-14,BMO Capital,Market Perform,,main,INFO
+2021-04-30,Morgan Stanley,Overweight,,main,INFO
+2021-06-03,Morgan Stanley,Overweight,,main,INFO
+2021-06-24,Truist Securities,Hold,,main,INFO
+2021-06-24,BMO Capital,Market Perform,,main,INFO
+2021-06-24,Deutsche Bank,Buy,,main,INFO
+2021-06-24,Morgan Stanley,Overweight,,main,INFO
+2021-07-08,Morgan Stanley,Overweight,,main,INFO
+2021-07-15,Deutsche Bank,Buy,,main,INFO
+2021-07-30,Morgan Stanley,Overweight,,main,INFO
+2021-09-23,Morgan Stanley,Overweight,,main,INFO
+2021-09-29,Morgan Stanley,Overweight,,main,INFO
+2021-10-27,Morgan Stanley,Overweight,,main,INFO
+2022-01-05,Morgan Stanley,Overweight,,main,INFO

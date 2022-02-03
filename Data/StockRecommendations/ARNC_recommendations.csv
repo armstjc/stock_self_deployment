@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-01,Macquarie,Neutral,,init,ARNC
+2016-11-02,Goldman Sachs,Neutral,,init,ARNC
+2016-11-07,Morgan Stanley,Equal-Weight,,init,ARNC
+2017-03-29,Cowen & Co.,Market Perform,,init,ARNC
+2017-03-31,Longbow Research,Neutral,,init,ARNC
+2017-04-18,JP Morgan,Neutral,,init,ARNC
+2017-07-10,JP Morgan,Overweight,Neutral,up,ARNC
+2017-07-13,Seaport Global,Buy,Neutral,up,ARNC
+2017-08-22,Longbow Research,Buy,Neutral,up,ARNC
+2018-01-04,Wells Fargo,Outperform,,init,ARNC
+2018-02-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARNC
+2018-03-20,Goldman Sachs,Neutral,Neutral,init,ARNC
+2018-03-29,Barclays,Equal-Weight,,init,ARNC
+2018-04-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARNC
+2018-04-23,Longbow Research,Neutral,Buy,down,ARNC
+2018-05-01,Wells Fargo,Outperform,Outperform,main,ARNC
+2018-05-01,Credit Suisse,Outperform,Outperform,main,ARNC
+2018-05-01,JP Morgan,Overweight,Overweight,main,ARNC
+2018-05-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARNC
+2018-05-09,Longbow Research,Buy,Neutral,up,ARNC
+2018-05-31,Argus,Hold,Buy,down,ARNC
+2018-07-16,Jefferies,Buy,,init,ARNC
+2018-09-17,Longbow Research,Neutral,Buy,down,ARNC
+2018-12-20,Longbow Research,Buy,Neutral,up,ARNC
+2019-01-14,JP Morgan,Neutral,Overweight,down,ARNC
+2019-05-02,Goldman Sachs,Buy,Neutral,up,ARNC
+2019-07-10,Morgan Stanley,Equal-Weight,,main,ARNC
+2019-07-18,Longbow Research,Neutral,Buy,down,ARNC
+2019-08-07,Barclays,Overweight,Equal-Weight,up,ARNC
+2019-10-07,JP Morgan,Overweight,Neutral,up,ARNC
+2019-10-08,Berenberg,Buy,,init,ARNC
+2019-10-10,Morgan Stanley,Equal-Weight,,main,ARNC
+2019-10-14,Cowen & Co.,Outperform,Market Perform,up,ARNC
+2019-10-15,Credit Suisse,Outperform,,main,ARNC
+2019-12-03,JP Morgan,Overweight,,main,ARNC
+2020-01-16,Benchmark,Hold,,init,ARNC
+2020-01-22,Longbow Research,Underperform,Neutral,down,ARNC
+2020-02-18,Argus Research,Buy,Hold,up,ARNC
+2020-03-20,Barclays,Equal-Weight,Overweight,down,ARNC
+2020-05-20,Credit Suisse,Outperform,,init,ARNC
+2020-09-14,Deutsche Bank,Buy,,init,ARNC
+2021-04-23,JP Morgan,Neutral,,init,ARNC
+2021-09-10,Goldman Sachs,Neutral,,init,ARNC
+2021-11-17,Wolfe Research,Outperform,,init,ARNC
+2021-12-10,JP Morgan,Overweight,Neutral,up,ARNC

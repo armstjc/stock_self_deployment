@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-04-15,DA Davidson,Buy,,main,COIN
+2021-04-15,BTIG,Buy,,init,COIN
+2021-04-16,Loop Capital,Buy,,init,COIN
+2021-04-21,Rosenblatt,Buy,,init,COIN
+2021-04-22,Mizuho,Neutral,,init,COIN
+2021-04-27,Bernstein,Market Perform,,init,COIN
+2021-05-04,Mizuho,Neutral,,main,COIN
+2021-05-11,Oppenheimer,Outperform,,init,COIN
+2021-05-13,Compass Point,Neutral,,init,COIN
+2021-05-14,Rosenblatt,Buy,,main,COIN
+2021-05-14,Piper Sandler,Overweight,,init,COIN
+2021-05-20,Wedbush,Outperform,,init,COIN
+2021-05-24,Goldman Sachs,Buy,,init,COIN
+2021-05-25,JP Morgan,Overweight,,init,COIN
+2021-05-25,Mizuho,Neutral,,main,COIN
+2021-06-09,Raymond James,Underperform,,init,COIN
+2021-06-16,Canaccord Genuity,Buy,,init,COIN
+2021-07-07,Oppenheimer,Outperform,,main,COIN
+2021-07-30,Mizuho,Neutral,,main,COIN
+2021-08-05,Redburn Partners,Buy,,init,COIN
+2021-08-11,Rosenblatt,Buy,,main,COIN
+2021-08-11,Wedbush,Outperform,,main,COIN
+2021-08-11,Canaccord Genuity,Buy,,main,COIN
+2021-08-13,B of A Securities,Neutral,,init,COIN
+2021-08-18,Mizuho,Neutral,,main,COIN
+2021-08-24,Needham,Buy,,init,COIN
+2021-09-28,JMP Securities,Market Outperform,,init,COIN
+2021-11-10,JMP Securities,Market Outperform,,main,COIN
+2021-11-10,Rosenblatt,Buy,,main,COIN

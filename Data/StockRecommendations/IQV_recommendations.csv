@@ -1,0 +1,165 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-21,ISI Group,Neutral,,init,IQV
+2013-06-11,Sterne Agee,Underperform,,init,IQV
+2013-06-18,Raymond James,Outperform,,init,IQV
+2013-06-18,Bank of America,Buy,,init,IQV
+2013-06-18,Goldman Sachs,Neutral,,init,IQV
+2013-06-18,Deutsche Bank,Buy,,init,IQV
+2013-06-18,Morgan Stanley,Overweight,,init,IQV
+2013-06-18,Baird,Neutral,,init,IQV
+2013-06-18,JP Morgan,Overweight,,init,IQV
+2013-06-18,Barclays,Overweight,,init,IQV
+2013-06-18,PiperJaffray,Overweight,,init,IQV
+2013-06-18,Wells Fargo,Outperform,,init,IQV
+2013-06-18,Jefferies,Hold,,init,IQV
+2013-06-19,Citigroup,Neutral,,init,IQV
+2013-08-02,Deutsche Bank,Buy,,main,IQV
+2013-09-17,UBS,Buy,,init,IQV
+2013-09-24,Credit Suisse,Outperform,,init,IQV
+2013-10-09,Raymond James,Strong Buy,Outperform,up,IQV
+2014-01-21,Goldman Sachs,Buy,Neutral,up,IQV
+2014-02-14,Bank of America,Buy,,main,IQV
+2014-02-18,Citigroup,Buy,,init,IQV
+2014-03-19,KeyBanc,Hold,,init,IQV
+2014-05-02,Barclays,Overweight,,main,IQV
+2014-06-24,SunTrust Robinson Humphrey,Neutral,,init,IQV
+2014-08-01,JP Morgan,Overweight,,main,IQV
+2014-08-01,Jefferies,Hold,,main,IQV
+2014-08-01,SunTrust Robinson Humphrey,Buy,Neutral,up,IQV
+2014-08-06,Credit Suisse,Outperform,,main,IQV
+2014-10-10,ISI Group,Buy,Neutral,up,IQV
+2014-10-27,Barclays,Overweight,,main,IQV
+2014-10-31,Deutsche Bank,Hold,,main,IQV
+2014-11-04,Credit Suisse,Outperform,,main,IQV
+2014-11-26,Wunderlich,Buy,,main,IQV
+2015-02-13,Jefferies,Hold,,main,IQV
+2015-02-13,Citigroup,Buy,,main,IQV
+2015-02-13,Barclays,Overweight,,main,IQV
+2015-03-26,SunTrust Robinson Humphrey,Neutral,Buy,down,IQV
+2015-04-24,Jefferies,Buy,Hold,up,IQV
+2015-04-30,Deutsche Bank,Hold,,main,IQV
+2015-04-30,Citigroup,Buy,,main,IQV
+2015-05-26,SunTrust Robinson Humphrey,Buy,Neutral,up,IQV
+2015-05-27,Jefferies,Buy,,main,IQV
+2015-07-07,SunTrust Robinson Humphrey,Buy,,main,IQV
+2015-07-10,KeyBanc,Overweight,Sector Weight,up,IQV
+2015-10-21,Avondale Partners,Sector Weight,,init,IQV
+2015-12-17,Goldman Sachs,Buy,,main,IQV
+2016-02-12,Deutsche Bank,Buy,,up,IQV
+2016-03-28,SunTrust Robinson Humphrey,Neutral,Buy,down,IQV
+2016-05-03,Avondale Partners,Market Perform,,main,IQV
+2016-05-04,Evercore ISI Group,Hold,Buy,down,IQV
+2016-05-04,Baird,Neutral,Outperform,down,IQV
+2016-05-05,Citigroup,Neutral,Buy,down,IQV
+2016-05-12,Wells Fargo,Market Perform,Outperform,down,IQV
+2016-07-28,Deutsche Bank,Buy,,main,IQV
+2016-07-28,Citigroup,Neutral,,main,IQV
+2016-07-28,Pacific Crest,Overweight,,main,IQV
+2016-10-05,UBS,Buy,,main,IQV
+2016-10-14,Stifel Nicolaus,Hold,,init,IQV
+2016-10-19,Jefferies,Hold,Buy,down,IQV
+2016-10-27,PiperJaffray,Neutral,Overweight,down,IQV
+2016-12-01,William Blair,Market Perform,,down,IQV
+2016-12-01,Raymond James,Market Perform,Strong Buy,down,IQV
+2016-12-02,Bank of America,Neutral,Buy,down,IQV
+2016-12-13,Mizuho,Neutral,,init,IQV
+2016-12-16,Goldman Sachs,Neutral,Buy,down,IQV
+2017-02-03,Deutsche Bank,Hold,Buy,down,IQV
+2017-02-15,Baird,Underperform,Neutral,down,IQV
+2017-03-31,Credit Suisse,Outperform,,init,IQV
+2017-07-07,Baird,Neutral,Underperform,up,IQV
+2017-08-04,Barclays,Overweight,,main,IQV
+2017-08-04,William Blair,Outperform,Market Perform,up,IQV
+2017-08-07,Citigroup,Neutral,,main,IQV
+2017-09-18,Argus,Buy,,main,IQV
+2017-09-19,RBC Capital,Outperform,,init,IQV
+2017-10-27,Stifel Nicolaus,Buy,Hold,up,IQV
+2017-10-27,Barclays,Overweight,,main,IQV
+2017-10-30,Jefferies,Hold,,main,IQV
+2017-11-09,Morgan Stanley,Overweight,,main,IQV
+2017-11-09,Mizuho,Neutral,Buy,down,IQV
+2017-11-13,KeyBanc,Sector Weight,Overweight,down,IQV
+2017-12-15,Mitsubishi UFJ,Neutral,,init,IQV
+2018-01-19,Evercore ISI Group,Outperform,,init,IQV
+2018-02-15,JP Morgan,Overweight,,main,IQV
+2018-03-07,SunTrust Robinson Humphrey,Buy,Hold,up,IQV
+2018-04-09,Argus,Buy,Buy,main,IQV
+2018-04-13,Goldman Sachs,Buy,Neutral,up,IQV
+2018-06-18,Baird,Outperform,Neutral,up,IQV
+2018-07-03,Raymond James,Strong Buy,Market Perform,up,IQV
+2018-07-25,Barclays,Overweight,Overweight,main,IQV
+2018-07-25,Bank of America,Buy,Neutral,up,IQV
+2018-07-25,Baird,Outperform,Outperform,main,IQV
+2018-07-25,Morgan Stanley,Overweight,Overweight,main,IQV
+2018-07-25,Stifel Nicolaus,Buy,Buy,main,IQV
+2018-08-13,Wells Fargo,Outperform,Outperform,main,IQV
+2018-08-31,Raymond James,Strong Buy,Strong Buy,main,IQV
+2018-10-23,Barclays,Overweight,Overweight,main,IQV
+2018-12-03,Morgan Stanley,Overweight,Overweight,main,IQV
+2019-01-18,Jefferies,Buy,Hold,up,IQV
+2019-02-19,Wells Fargo,Outperform,Outperform,main,IQV
+2019-02-25,Argus,Buy,Buy,main,IQV
+2019-03-18,Barclays,Overweight,Overweight,main,IQV
+2019-05-28,SVB Leerink,Outperform,,init,IQV
+2019-06-19,Mizuho,Neutral,,main,IQV
+2019-06-19,Morgan Stanley,Overweight,,main,IQV
+2019-06-19,Stifel Nicolaus,Buy,,main,IQV
+2019-06-21,Mizuho,Buy,Neutral,up,IQV
+2019-11-14,Wolfe Research,Outperform,Peer Perform,up,IQV
+2020-01-07,Citigroup,Buy,,init,IQV
+2020-01-08,Wells Fargo,Overweight,,init,IQV
+2020-02-12,CFRA,Buy,Hold,up,IQV
+2020-02-13,Baird,Outperform,,main,IQV
+2020-02-13,Stifel Nicolaus,Buy,,main,IQV
+2020-02-13,UBS,Buy,,main,IQV
+2020-02-13,Citigroup,Buy,,main,IQV
+2020-03-02,Deutsche Bank,Buy,,init,IQV
+2020-03-17,SunTrust Robinson Humphrey,Buy,,main,IQV
+2020-03-23,Jefferies,Buy,,main,IQV
+2020-03-24,CFRA,Buy,,main,IQV
+2020-03-26,Barclays,Overweight,,main,IQV
+2020-03-27,Morgan Stanley,Overweight,,main,IQV
+2020-03-30,Wells Fargo,Overweight,,main,IQV
+2020-03-31,Stifel,Buy,,main,IQV
+2020-04-02,Credit Suisse,Outperform,,main,IQV
+2020-04-09,Citigroup,Buy,,main,IQV
+2020-04-29,Deutsche Bank,Buy,,main,IQV
+2020-04-29,Stifel,Buy,,main,IQV
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,IQV
+2020-04-29,Citigroup,Buy,,main,IQV
+2020-04-29,UBS,Buy,,main,IQV
+2020-07-07,Stephens & Co.,Equal-Weight,,init,IQV
+2020-07-07,B of A Securities,Buy,,main,IQV
+2020-07-23,Morgan Stanley,Overweight,,main,IQV
+2020-07-23,Mizuho,Buy,,main,IQV
+2020-10-21,Morgan Stanley,Overweight,,main,IQV
+2021-02-11,Piper Sandler,Neutral,,main,IQV
+2021-02-11,Morgan Stanley,Overweight,,main,IQV
+2021-02-11,Wells Fargo,Overweight,,main,IQV
+2021-02-11,Mizuho,Buy,,main,IQV
+2021-03-03,Barclays,Overweight,,init,IQV
+2021-03-08,KeyBanc,Overweight,Sector Weight,up,IQV
+2021-04-09,Mizuho,Buy,,main,IQV
+2021-04-16,Stephens & Co.,Overweight,Equal-Weight,up,IQV
+2021-04-23,Deutsche Bank,Buy,,main,IQV
+2021-04-26,Morgan Stanley,Overweight,,main,IQV
+2021-04-26,Barclays,Overweight,,main,IQV
+2021-04-26,Truist Securities,Buy,,main,IQV
+2021-05-12,Argus Research,Buy,,main,IQV
+2021-05-14,Keybanc,Overweight,,main,IQV
+2021-07-13,Barclays,Overweight,,main,IQV
+2021-07-20,Credit Suisse,Outperform,,main,IQV
+2021-07-28,Deutsche Bank,Buy,,main,IQV
+2021-07-28,Piper Sandler,Neutral,,main,IQV
+2021-07-28,Morgan Stanley,Overweight,,main,IQV
+2021-09-10,Argus Research,Buy,,main,IQV
+2021-10-15,Keybanc,Overweight,,main,IQV
+2021-10-22,Morgan Stanley,Overweight,,main,IQV
+2021-10-25,Barclays,Overweight,,main,IQV
+2021-10-27,Deutsche Bank,Buy,,main,IQV
+2021-11-17,UBS,Buy,,main,IQV
+2021-11-17,Jefferies,Buy,,main,IQV
+2021-11-17,Keybanc,Overweight,,main,IQV
+2021-11-18,Mizuho,Buy,,main,IQV
+2021-11-18,Piper Sandler,Neutral,,main,IQV
+2021-12-20,Mizuho,Buy,,main,IQV

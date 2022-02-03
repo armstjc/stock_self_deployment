@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-10,Janney Capital,Buy,,init,EBS
+2014-02-17,JP Morgan,Overweight,,main,EBS
+2014-05-15,Summer Street,Buy,,init,EBS
+2015-01-12,JP Morgan,Overweight,,main,EBS
+2015-08-07,JP Morgan,Overweight,,main,EBS
+2016-02-19,Wells Fargo,Outperform,,init,EBS
+2016-03-28,Singular Research,Buy,,init,EBS
+2016-04-15,Chardan Capital,Buy,,init,EBS
+2016-08-05,JP Morgan,Overweight,,main,EBS
+2018-01-24,Goldman Sachs,Neutral,,init,EBS
+2018-02-27,Singular Research,Buy,Buy,main,EBS
+2018-04-25,Wells Fargo,Market Perform,Outperform,down,EBS
+2018-06-12,Cantor Fitzgerald,Overweight,,init,EBS
+2018-06-13,Argus,Buy,,init,EBS
+2018-08-30,Wells Fargo,Market Perform,Market Perform,main,EBS
+2018-09-04,Chardan Capital,Buy,Buy,main,EBS
+2018-11-02,Goldman Sachs,Buy,Neutral,up,EBS
+2018-11-02,Cantor Fitzgerald,Overweight,Overweight,main,EBS
+2019-09-04,Wells Fargo,Outperform,Market Perform,up,EBS
+2019-09-12,Guggenheim,Buy,,init,EBS
+2020-02-25,Wells Fargo,Overweight,,main,EBS
+2020-04-30,Wells Fargo,Overweight,,main,EBS
+2020-05-01,Chardan Capital,Buy,,main,EBS
+2020-05-01,Cantor Fitzgerald,Overweight,,main,EBS
+2020-05-06,Argus Research,Buy,,main,EBS
+2020-06-08,Cantor Fitzgerald,Overweight,,main,EBS
+2020-07-31,Chardan Capital,Buy,,main,EBS
+2021-01-08,Wells Fargo,Equal-Weight,Overweight,down,EBS
+2021-02-19,Chardan Capital,Neutral,Buy,down,EBS
+2021-02-24,Chardan Capital,Buy,Neutral,up,EBS
+2021-04-07,Benchmark,Buy,,init,EBS
+2021-04-30,Chardan Capital,Buy,,main,EBS
+2021-05-05,Argus Research,Hold,Buy,down,EBS
+2021-11-08,Benchmark,Hold,Buy,down,EBS
+2021-11-10,Chardan Capital,Buy,,main,EBS

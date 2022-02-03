@@ -1,0 +1,177 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-18,UBS,Neutral,,main,GWW
+2012-04-18,Goldman Sachs,Neutral,,main,GWW
+2012-05-25,Wunderlich,Hold,,init,GWW
+2012-06-07,UBS,Buy,,up,GWW
+2012-06-11,Wunderlich,Hold,,main,GWW
+2012-07-19,UBS,Buy,,main,GWW
+2012-09-05,Citigroup,Sell,,main,GWW
+2012-10-12,Deutsche Bank,Hold,,init,GWW
+2012-10-17,Barclays,Overweight,,main,GWW
+2012-11-16,Longbow Research,Buy,Neutral,up,GWW
+2012-11-16,Oppenheimer,Outperform,Perform,up,GWW
+2012-12-06,UBS,Neutral,Buy,down,GWW
+2013-01-07,Deutsche Bank,Hold,,main,GWW
+2013-01-14,Wunderlich,Buy,Hold,up,GWW
+2013-01-29,UBS,Neutral,,main,GWW
+2013-03-13,BB&T Capital,Hold,Buy,down,GWW
+2013-03-18,Citigroup,Sell,,main,GWW
+2013-03-25,Deutsche Bank,Hold,,main,GWW
+2013-04-08,Atlantic Equities,Overweight,,init,GWW
+2013-04-17,Longbow Research,Neutral,Buy,down,GWW
+2013-05-13,Raymond James,Outperform,Market Perform,up,GWW
+2013-07-18,JP Morgan,Buy,,main,GWW
+2013-09-26,Citigroup,Neutral,Sell,up,GWW
+2013-11-15,Raymond James,Market Perform,Outperform,down,GWW
+2013-11-15,Raymond James,Market Perform,Outperform,down,GWW
+2013-12-19,Deutsche Bank,Hold,,main,GWW
+2014-01-22,Wunderlich,Buy,,main,GWW
+2014-01-27,Barclays,Overweight,Overweight,main,GWW
+2014-01-27,Citigroup,Neutral,,main,GWW
+2014-02-11,Goldman Sachs,Sell,Neutral,down,GWW
+2014-02-14,Baird,Outperform,Neutral,up,GWW
+2014-04-04,Susquehanna,Neutral,,init,GWW
+2014-04-15,Citigroup,Hold,,main,GWW
+2014-05-13,Morgan Stanley,Overweight,,init,GWW
+2014-07-18,Barclays,Overweight,,main,GWW
+2014-10-06,Barclays,Overweight,,main,GWW
+2014-10-17,Credit Suisse,Outperform,,main,GWW
+2014-10-17,Barclays,Overweight,,main,GWW
+2014-10-17,FBR Capital,Market Perform,,main,GWW
+2014-11-14,Barclays,Overweight,,main,GWW
+2014-11-25,RBC Capital,Sector Perform,,init,GWW
+2014-12-12,Stifel Nicolaus,Buy,,init,GWW
+2015-01-12,Barclays,Overweight,,main,GWW
+2015-01-22,Gabelli & Co.,Hold,,init,GWW
+2015-01-27,Atlantic Equities,Neutral,Overweight,down,GWW
+2015-01-27,Barclays,Overweight,,main,GWW
+2015-01-27,Stifel Nicolaus,Buy,,main,GWW
+2015-03-17,Barclays,Overweight,,main,GWW
+2015-03-23,Barclays,Equal-Weight,Overweight,down,GWW
+2015-03-25,Gabelli & Co.,Buy,Hold,up,GWW
+2015-04-09,Oppenheimer,Perform,Outperform,down,GWW
+2015-04-17,Barclays,Equal-Weight,,main,GWW
+2015-07-13,Barclays,Equal-Weight,,main,GWW
+2015-07-21,Susquehanna,Neutral,,main,GWW
+2015-07-30,RBC Capital,Underperform,Sector Perform,down,GWW
+2015-07-31,Barclays,Equal-Weight,,main,GWW
+2015-08-24,Baird,Neutral,Outperform,down,GWW
+2015-09-02,RBC Capital,Underperform,,main,GWW
+2015-09-17,UBS,Neutral,,init,GWW
+2015-10-01,Stifel Nicolaus,Buy,,main,GWW
+2015-10-05,Barclays,Equal-Weight,,main,GWW
+2015-10-19,Barclays,Equal-Weight,,main,GWW
+2015-10-19,Stephens & Co.,Neutral,Buy,down,GWW
+2015-10-20,Credit Suisse,Outperform,,main,GWW
+2015-10-20,Morgan Stanley,Equal-Weight,Overweight,down,GWW
+2015-11-16,Barclays,Equal-Weight,,main,GWW
+2015-11-17,Atlantic Equities,Underweight,Neutral,down,GWW
+2015-11-23,Credit Suisse,Outperform,,main,GWW
+2015-12-17,KeyBanc,Sector Weight,,init,GWW
+2015-12-18,KeyBanc,Sector Weight,,init,GWW
+2016-01-11,Morgan Stanley,Underweight,Equal-Weight,down,GWW
+2016-01-19,Barclays,Equal-Weight,,main,GWW
+2016-03-08,Stifel Nicolaus,Buy,,main,GWW
+2016-03-22,Sterne Agee CRT,Buy,,init,GWW
+2016-04-01,Stifel Nicolaus,Hold,Buy,down,GWW
+2016-04-05,BMO Capital,Outperform,,init,GWW
+2016-04-18,Goldman Sachs,Sell,,main,GWW
+2016-04-18,Barclays,Equal-Weight,,main,GWW
+2016-06-17,Credit Suisse,Neutral,,init,GWW
+2016-07-18,Barclays,Equal-Weight,,main,GWW
+2016-08-25,Macquarie,Outperform,,init,GWW
+2016-10-19,Credit Suisse,Neutral,,main,GWW
+2016-12-06,Stifel Nicolaus,Hold,,main,GWW
+2017-01-26,Deutsche Bank,Hold,Sell,up,GWW
+2017-03-30,BMO Capital,Market Perform,Outperform,down,GWW
+2017-04-19,Credit Suisse,Underperform,Neutral,down,GWW
+2017-05-18,Deutsche Bank,Sell,Hold,down,GWW
+2017-05-26,Macquarie,Neutral,Outperform,down,GWW
+2017-06-02,JP Morgan,Neutral,,init,GWW
+2017-07-20,Morgan Stanley,Underweight,,main,GWW
+2017-07-25,Northcoast Research,Neutral,,init,GWW
+2017-10-02,Morgan Stanley,Underweight,,main,GWW
+2017-10-18,Oppenheimer,Outperform,Perform,up,GWW
+2017-10-18,BMO Capital,Market Perform,,main,GWW
+2017-10-18,Credit Suisse,Underperform,,main,GWW
+2017-10-18,Morgan Stanley,Underweight,,main,GWW
+2017-10-19,UBS,Sell,Neutral,down,GWW
+2018-01-25,Oppenheimer,Outperform,Outperform,main,GWW
+2018-01-25,Credit Suisse,Underperform,Underperform,main,GWW
+2018-01-25,Wells Fargo,Market Perform,,main,GWW
+2018-01-25,BMO Capital,Market Perform,Market Perform,main,GWW
+2018-03-16,BMO Capital,Market Perform,Market Perform,main,GWW
+2018-04-20,BMO Capital,Market Perform,Market Perform,main,GWW
+2018-04-23,Stifel Nicolaus,Hold,Hold,main,GWW
+2018-07-03,Baird,Neutral,Outperform,down,GWW
+2018-07-16,Gabelli & Co.,Hold,Buy,down,GWW
+2018-07-19,UBS,Neutral,Sell,up,GWW
+2018-07-19,BMO Capital,Market Perform,Market Perform,main,GWW
+2018-08-22,Macquarie,Neutral,Neutral,main,GWW
+2018-08-30,UBS,Neutral,Neutral,main,GWW
+2018-10-17,BMO Capital,Market Perform,Market Perform,main,GWW
+2018-12-11,Buckingham,Neutral,,init,GWW
+2019-01-15,Macquarie,Outperform,Neutral,up,GWW
+2019-04-12,Gordon Haskett,Underperform,Hold,down,GWW
+2019-04-17,Buckingham,Neutral,Neutral,main,GWW
+2019-04-23,BMO Capital,Market Perform,Market Perform,main,GWW
+2019-04-24,Morgan Stanley,Underweight,Underweight,main,GWW
+2019-05-17,Gordon Haskett,Hold,Reduce,up,GWW
+2019-06-14,Morgan Stanley,Underweight,,main,GWW
+2019-07-17,Buckingham Research,Neutral,,main,GWW
+2019-07-26,Stephens & Co.,Equal-Weight,,main,GWW
+2019-07-26,Buckingham Research,Neutral,,main,GWW
+2019-07-29,Morgan Stanley,Underweight,,main,GWW
+2019-10-08,Buckingham,Neutral,,main,GWW
+2019-10-10,JP Morgan,Neutral,,main,GWW
+2019-10-24,Morgan Stanley,Underweight,,main,GWW
+2019-10-24,Baird,Neutral,,main,GWW
+2019-10-24,Buckingham,Neutral,,main,GWW
+2019-12-11,Morgan Stanley,Equal-Weight,Underweight,up,GWW
+2020-01-24,Buckingham,Neutral,,main,GWW
+2020-01-31,Stephens & Co.,Equal-Weight,,main,GWW
+2020-01-31,Morgan Stanley,Equal-Weight,,main,GWW
+2020-01-31,Wells Fargo,Equal-Weight,,main,GWW
+2020-02-03,Gabelli & Co.,Buy,Hold,up,GWW
+2020-02-07,Buckingham,Neutral,,main,GWW
+2020-02-12,William Blair,Outperform,Market Perform,up,GWW
+2020-03-17,Morgan Stanley,Equal-Weight,,main,GWW
+2020-03-23,Morgan Stanley,Equal-Weight,,main,GWW
+2020-03-27,Baird,Outperform,Neutral,up,GWW
+2020-04-13,Stephens & Co.,Equal-Weight,,reit,GWW
+2020-04-15,Morgan Stanley,Equal-Weight,,main,GWW
+2020-04-24,Oppenheimer,Outperform,,main,GWW
+2020-04-24,Wells Fargo,Equal-Weight,,main,GWW
+2020-04-24,RBC Capital,Underperform,,main,GWW
+2020-06-02,Longbow Research,Buy,Neutral,up,GWW
+2020-06-23,JP Morgan,Neutral,,main,GWW
+2020-06-30,Morgan Stanley,Equal-Weight,,main,GWW
+2020-07-09,Gordon Haskett,Hold,Underperform,up,GWW
+2020-07-21,Baird,Outperform,,main,GWW
+2020-07-24,Jefferies,Buy,,main,GWW
+2020-07-24,Morgan Stanley,Equal-Weight,,main,GWW
+2020-09-08,Raymond James,Outperform,Market Perform,up,GWW
+2020-09-16,UBS,Buy,,init,GWW
+2020-10-13,Jefferies,Buy,,main,GWW
+2020-10-23,Raymond James,Outperform,,main,GWW
+2020-10-23,Morgan Stanley,Equal-Weight,,main,GWW
+2021-02-01,Deutsche Bank,Hold,,main,GWW
+2021-02-04,Morgan Stanley,Equal-Weight,,main,GWW
+2021-03-04,Oppenheimer,Outperform,,main,GWW
+2021-03-10,Morgan Stanley,Equal-Weight,,main,GWW
+2021-04-12,Morgan Stanley,Equal-Weight,,main,GWW
+2021-05-03,Raymond James,Outperform,,main,GWW
+2021-05-03,Morgan Stanley,Equal-Weight,,main,GWW
+2021-05-03,Jefferies,Buy,,main,GWW
+2021-05-03,Deutsche Bank,Hold,,main,GWW
+2021-05-03,RBC Capital,Underperform,,main,GWW
+2021-05-03,Baird,Outperform,,main,GWW
+2021-05-03,Oppenheimer,Outperform,,main,GWW
+2021-05-04,Atlantic Equities,Neutral,Underweight,up,GWW
+2021-08-02,Morgan Stanley,Equal-Weight,,main,GWW
+2021-08-02,RBC Capital,Underperform,,main,GWW
+2021-08-02,Raymond James,Market Perform,Outperform,down,GWW
+2021-08-03,Loop Capital,Buy,,init,GWW
+2021-11-01,Oppenheimer,Outperform,,main,GWW
+2021-11-01,Morgan Stanley,Equal-Weight,,main,GWW
+2021-11-01,RBC Capital,Underperform,,main,GWW

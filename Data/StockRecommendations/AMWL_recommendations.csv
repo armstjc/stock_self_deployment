@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-10-23,Guggenheim,Neutral,,init,AMWL
+2020-12-18,Stifel,Hold,,init,AMWL
+2021-01-07,BTIG,Neutral,,init,AMWL
+2021-01-28,Credit Suisse,Neutral,Outperform,down,AMWL
+2021-03-26,Morgan Stanley,Overweight,,main,AMWL
+2021-04-15,Needham,Hold,,init,AMWL
+2021-04-16,Keybanc,Sector Weight,,init,AMWL
+2021-05-13,Credit Suisse,Neutral,,main,AMWL
+2021-05-17,Guggenheim,Buy,Neutral,up,AMWL
+2021-07-02,Morgan Stanley,Overweight,,main,AMWL
+2021-08-12,Credit Suisse,Neutral,,main,AMWL
+2021-08-24,Cowen & Co.,Outperform,,main,AMWL
+2021-08-31,Morgan Stanley,Overweight,,main,AMWL
+2021-09-14,Cantor Fitzgerald,Overweight,,init,AMWL
+2021-11-11,Credit Suisse,Neutral,,main,AMWL
+2021-12-02,Jefferies,Hold,,init,AMWL
+2021-12-17,Morgan Stanley,Overweight,,main,AMWL

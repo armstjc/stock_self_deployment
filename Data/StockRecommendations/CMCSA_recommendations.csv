@@ -1,0 +1,189 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,UBS,Buy,,main,CMCSA
+2012-02-16,Morgan Stanley,Equal-Weight,,main,CMCSA
+2012-02-17,Scotiabank,Sector Outperform,,main,CMCSA
+2012-02-22,Wunderlich,Buy,,main,CMCSA
+2012-04-16,Morgan Stanley,Equal-Weight,,main,CMCSA
+2012-04-30,Citigroup,Buy,,main,CMCSA
+2012-06-21,Bank of America,Buy,,main,CMCSA
+2012-06-26,Morgan Stanley,Equal-Weight,,main,CMCSA
+2012-07-30,Deutsche Bank,Buy,,main,CMCSA
+2012-07-31,Jefferies,Buy,,init,CMCSA
+2012-08-02,UBS,Buy,,main,CMCSA
+2012-08-02,Bank of America,Buy,,main,CMCSA
+2012-08-02,Oppenheimer,Outperform,,main,CMCSA
+2012-08-02,Jefferies,Buy,,main,CMCSA
+2012-08-15,Wunderlich,Buy,,main,CMCSA
+2012-09-10,Janney Capital,Buy,,init,CMCSA
+2012-09-27,Canaccord Genuity,Buy,,main,CMCSA
+2012-10-11,Morgan Stanley,Equal-Weight,,main,CMCSA
+2012-10-11,Morgan Stanley,Equal-Weight,,main,CMCSA
+2012-10-23,Barclays,Equal-Weight,,main,CMCSA
+2012-10-23,Citigroup,Buy,,main,CMCSA
+2012-10-24,ISI Group,Buy,,main,CMCSA
+2012-10-24,Deutsche Bank,Buy,,main,CMCSA
+2012-10-26,Pivotal Research,Buy,Hold,up,CMCSA
+2012-10-29,Credit Suisse,Neutral,,main,CMCSA
+2012-10-29,Bank of America,Buy,,main,CMCSA
+2012-10-29,Jefferies,Buy,,main,CMCSA
+2012-10-30,Wunderlich,Buy,,main,CMCSA
+2013-01-15,Nomura,Buy,,main,CMCSA
+2013-01-28,ISI Group,Buy,,main,CMCSA
+2013-02-12,Brean Capital,Buy,,main,CMCSA
+2013-02-13,Citigroup,Buy,,main,CMCSA
+2013-02-13,Bank of America,Buy,,main,CMCSA
+2013-02-13,Wunderlich,Buy,,main,CMCSA
+2013-02-13,Pacific Crest,Sector Perform,Outperform,down,CMCSA
+2013-02-13,Pivotal Research,Buy,,main,CMCSA
+2013-02-13,Credit Suisse,Outperform,Neutral,up,CMCSA
+2013-02-13,Deutsche Bank,Buy,,main,CMCSA
+2013-02-14,RBC Capital,Outperform,Sector Perform,up,CMCSA
+2013-02-14,Stifel Nicolaus,Buy,,main,CMCSA
+2013-02-14,Nomura,Buy,,main,CMCSA
+2013-02-14,Brean Capital,Buy,,main,CMCSA
+2013-02-19,Morgan Stanley,Equal-Weight,,main,CMCSA
+2013-02-22,Macquarie,Neutral,Outperform,down,CMCSA
+2013-04-05,Baird,Neutral,,init,CMCSA
+2013-05-01,Pivotal Research,Buy,,main,CMCSA
+2013-05-14,Wunderlich,Buy,,main,CMCSA
+2013-06-17,Raymond James,Strong Buy,Outperform,up,CMCSA
+2013-07-05,Wunderlich,Buy,,main,CMCSA
+2013-07-31,Barclays,Overweight,,init,CMCSA
+2013-08-01,Jefferies,Buy,,main,CMCSA
+2013-08-01,Wunderlich,Buy,,main,CMCSA
+2013-08-01,Baird,Outperform,Neutral,up,CMCSA
+2013-08-01,Nomura,Buy,,main,CMCSA
+2013-08-01,Brean Capital,Buy,,main,CMCSA
+2013-08-02,Oppenheimer,Outperform,,main,CMCSA
+2013-10-28,Wunderlich,Buy,,main,CMCSA
+2013-10-31,Brean Capital,Buy,,main,CMCSA
+2013-11-25,Wunderlich,Buy,,main,CMCSA
+2013-12-04,Northland Securities,Outperform,,init,CMCSA
+2013-12-19,Buckingham Research,Buy,,init,CMCSA
+2014-01-15,Morgan Stanley,Overweight,,up,CMCSA
+2014-01-27,Brean Capital,Buy,,main,CMCSA
+2014-01-27,Citigroup,Buy,,main,CMCSA
+2014-02-19,Pacific Crest,Outperform,Sector Perform,up,CMCSA
+2014-02-24,Pacific Crest,Outperform,Sector Perform,up,CMCSA
+2014-03-24,UBS,Buy,,main,CMCSA
+2014-03-31,Deutsche Bank,Buy,,main,CMCSA
+2014-04-21,Brean Capital,Buy,,main,CMCSA
+2014-04-23,Pacific Crest,Outperform,,main,CMCSA
+2014-04-23,Deutsche Bank,Buy,,main,CMCSA
+2014-07-23,Raymond James,Strong Buy,,main,CMCSA
+2014-11-12,Maxim Group,Hold,Buy,down,CMCSA
+2015-04-09,Jefferies,Buy,,main,CMCSA
+2015-04-27,Jefferies,Buy,,main,CMCSA
+2015-06-03,Credit Suisse,Outperform,,init,CMCSA
+2015-07-01,Brean Capital,Buy,,main,CMCSA
+2015-07-14,Deutsche Bank,Hold,,init,CMCSA
+2015-07-24,Canaccord Genuity,Buy,,main,CMCSA
+2015-08-19,Moffett Nathanson,Buy,Neutral,up,CMCSA
+2015-09-16,Wunderlich,Buy,,main,CMCSA
+2015-09-29,Macquarie,Neutral,,main,CMCSA
+2015-10-28,Pacific Crest,Overweight,,main,CMCSA
+2015-11-10,SunTrust Robinson Humphrey,Neutral,,init,CMCSA
+2015-12-08,Nomura,Buy,,init,CMCSA
+2015-12-21,Deutsche Bank,,,main,CMCSA
+2016-01-14,Nomura,Buy,,main,CMCSA
+2016-02-05,Argus,Buy,Hold,up,CMCSA
+2016-02-29,Barclays,Overweight,,main,CMCSA
+2016-05-04,Goldman Sachs,Buy,,main,CMCSA
+2016-07-28,Pacific Crest,Overweight,,main,CMCSA
+2016-08-08,Argus,Buy,,main,CMCSA
+2016-10-24,Macquarie,Outperform,Neutral,up,CMCSA
+2017-01-13,Deutsche Bank,Buy,Hold,up,CMCSA
+2017-01-19,HSBC,Buy,,init,CMCSA
+2017-01-27,Pacific Crest,Sector Weight,Overweight,down,CMCSA
+2017-04-19,SunTrust Robinson Humphrey,Buy,,init,CMCSA
+2017-06-20,Moffett Nathanson,Neutral,Buy,down,CMCSA
+2017-08-03,Guggenheim,Buy,Neutral,up,CMCSA
+2017-08-04,Argus,Buy,,main,CMCSA
+2017-10-27,Nomura,Buy,,main,CMCSA
+2017-10-27,Barclays,Overweight,,main,CMCSA
+2017-11-21,Buckingham,Buy,,init,CMCSA
+2018-01-18,Instinet,Neutral,Buy,down,CMCSA
+2018-01-25,Bank of America,Buy,Buy,main,CMCSA
+2018-01-25,Wells Fargo,Outperform,,main,CMCSA
+2018-02-28,Macquarie,Neutral,Outperform,down,CMCSA
+2018-03-22,UBS,Buy,Buy,main,CMCSA
+2018-03-27,Cowen & Co.,Market Perform,,init,CMCSA
+2018-06-13,Raymond James,Market Perform,Strong Buy,down,CMCSA
+2018-07-11,Credit Suisse,Neutral,,init,CMCSA
+2018-07-19,Raymond James,Outperform,Market Perform,up,CMCSA
+2018-07-30,Baird,Outperform,Outperform,main,CMCSA
+2018-08-06,Atlantic Equities,Overweight,Neutral,up,CMCSA
+2018-09-24,Moffett Nathanson,Neutral,Buy,down,CMCSA
+2018-09-24,Oppenheimer,Perform,Outperform,down,CMCSA
+2018-09-26,KeyBanc,Overweight,Overweight,main,CMCSA
+2018-10-26,Credit Suisse,Outperform,Neutral,up,CMCSA
+2019-03-29,RBC Capital,Sector Perform,Outperform,down,CMCSA
+2019-04-09,Macquarie,Outperform,Neutral,up,CMCSA
+2019-04-12,Nomura,Neutral,Neutral,main,CMCSA
+2019-04-26,KeyBanc,Overweight,Overweight,main,CMCSA
+2019-04-26,Barclays,Overweight,Overweight,main,CMCSA
+2019-04-26,Morgan Stanley,Overweight,Overweight,reit,CMCSA
+2019-04-29,Raymond James,Outperform,Outperform,main,CMCSA
+2019-05-30,Guggenheim,Buy,Neutral,up,CMCSA
+2019-06-14,Rosenblatt,Buy,,init,CMCSA
+2019-07-10,Goldman Sachs,Buy,Neutral,up,CMCSA
+2019-07-26,Morgan Stanley,Overweight,,main,CMCSA
+2019-09-05,Oppenheimer,Outperform,Perform,up,CMCSA
+2019-09-25,Benchmark,Buy,,init,CMCSA
+2019-10-04,Citigroup,Buy,,main,CMCSA
+2019-10-16,Bernstein,Market Perform,,init,CMCSA
+2020-01-16,Wells Fargo,Overweight,,main,CMCSA
+2020-01-24,Rosenblatt,Buy,,reit,CMCSA
+2020-01-24,SunTrust Robinson Humphrey,Buy,,main,CMCSA
+2020-01-24,UBS,Neutral,Buy,down,CMCSA
+2020-01-27,Citigroup,Buy,,main,CMCSA
+2020-01-27,Raymond James,Outperform,,main,CMCSA
+2020-02-04,MoffettNathanson,Buy,Neutral,up,CMCSA
+2020-03-12,KeyBanc,Overweight,,main,CMCSA
+2020-03-13,Credit Suisse,Outperform,,main,CMCSA
+2020-03-16,Raymond James,Market Perform,Outperform,down,CMCSA
+2020-03-23,Baird,Neutral,Outperform,down,CMCSA
+2020-03-26,Wells Fargo,Overweight,,main,CMCSA
+2020-03-27,Credit Suisse,Outperform,,main,CMCSA
+2020-04-02,Morgan Stanley,Overweight,,main,CMCSA
+2020-04-03,SunTrust Robinson Humphrey,Buy,,main,CMCSA
+2020-04-20,UBS,Neutral,,main,CMCSA
+2020-04-21,Citigroup,Buy,,main,CMCSA
+2020-04-22,Nomura,Neutral,,main,CMCSA
+2020-05-01,Wells Fargo,Overweight,,main,CMCSA
+2020-05-01,KeyBanc,Sector Weight,Overweight,down,CMCSA
+2020-05-07,Deutsche Bank,Buy,,main,CMCSA
+2020-05-19,Guggenheim,Neutral,Buy,down,CMCSA
+2020-06-24,Morgan Stanley,Overweight,,main,CMCSA
+2020-06-24,Wells Fargo,Overweight,,main,CMCSA
+2020-07-01,Bernstein,Outperform,Market Perform,up,CMCSA
+2020-07-31,Morgan Stanley,Overweight,,main,CMCSA
+2020-07-31,Rosenblatt,Buy,,main,CMCSA
+2020-08-04,Citigroup,Buy,,main,CMCSA
+2020-09-23,Credit Suisse,Outperform,,main,CMCSA
+2020-10-16,Citigroup,Buy,,main,CMCSA
+2020-10-16,Morgan Stanley,Overweight,,main,CMCSA
+2020-10-30,Rosenblatt,Buy,,main,CMCSA
+2020-11-25,TD Securities,Hold,Buy,down,CMCSA
+2020-12-16,Morgan Stanley,Overweight,,main,CMCSA
+2021-01-26,TD Securities,Buy,Hold,up,CMCSA
+2021-02-03,Cowen & Co.,Outperform,Market Perform,up,CMCSA
+2021-03-04,Morgan Stanley,Overweight,,main,CMCSA
+2021-03-17,Wells Fargo,Underweight,,init,CMCSA
+2021-03-18,Credit Suisse,Outperform,,main,CMCSA
+2021-04-16,Raymond James,Outperform,Market Perform,up,CMCSA
+2021-04-30,Oppenheimer,Outperform,Perform,up,CMCSA
+2021-04-30,Raymond James,Outperform,,main,CMCSA
+2021-04-30,Goldman Sachs,Buy,,main,CMCSA
+2021-06-25,Redburn Partners,Buy,,init,CMCSA
+2021-07-09,Raymond James,Outperform,,main,CMCSA
+2021-07-30,Morgan Stanley,Overweight,,main,CMCSA
+2021-07-30,Credit Suisse,Outperform,,main,CMCSA
+2021-09-21,Loop Capital,Buy,,init,CMCSA
+2021-09-27,Exane BNP Paribas,Outperform,,init,CMCSA
+2021-10-08,Wells Fargo,Underweight,,main,CMCSA
+2021-10-11,Raymond James,Market Perform,Outperform,down,CMCSA
+2021-11-01,Barclays,Overweight,,main,CMCSA
+2021-12-09,Morgan Stanley,Overweight,,main,CMCSA
+2021-12-10,Deutsche Bank,Buy,,main,CMCSA
+2021-12-14,Macquarie,Neutral,Outperform,down,CMCSA

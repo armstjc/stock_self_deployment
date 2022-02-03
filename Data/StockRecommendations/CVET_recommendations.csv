@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-02-12,William Blair,Outperform,,init,CVET
+2019-02-28,Raymond James,Outperform,,init,CVET
+2019-04-04,Credit Suisse,Neutral,,init,CVET
+2019-05-23,Guggenheim,Neutral,,init,CVET
+2019-05-23,Stifel Nicolaus,Hold,,init,CVET
+2019-08-15,Raymond James,Outperform,,main,CVET
+2019-09-09,Goldman Sachs,Sell,,init,CVET
+2019-10-17,Credit Suisse,Neutral,,main,CVET
+2019-11-13,Raymond James,Outperform,,main,CVET
+2020-03-04,Credit Suisse,Neutral,,main,CVET
+2020-04-23,Credit Suisse,Neutral,,main,CVET
+2020-07-30,Stifel,Hold,,main,CVET
+2020-08-12,Stifel,Hold,,main,CVET
+2020-08-12,Raymond James,Outperform,,main,CVET
+2020-08-12,Credit Suisse,Neutral,,main,CVET
+2020-09-16,Stifel,Buy,Hold,up,CVET
+2020-10-21,Raymond James,Outperform,,main,CVET
+2020-11-11,Credit Suisse,Neutral,,main,CVET
+2021-02-17,Barclays,Overweight,,init,CVET
+2021-03-02,Raymond James,Outperform,,main,CVET
+2021-07-12,Guggenheim,Buy,Neutral,up,CVET
+2021-08-06,Raymond James,Outperform,,main,CVET
+2021-08-09,Barclays,Overweight,,main,CVET
+2021-11-05,Raymond James,Outperform,,main,CVET
+2021-11-18,Morgan Stanley,Equal-Weight,,init,CVET

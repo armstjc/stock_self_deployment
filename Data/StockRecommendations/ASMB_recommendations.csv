@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-08,Jefferies,Buy,,init,ASMB
+2018-01-05,B. Riley FBR,Neutral,,init,ASMB
+2018-04-13,Chardan Capital,Neutral,Buy,down,ASMB
+2018-05-08,B. Riley FBR,Neutral,Neutral,main,ASMB
+2018-08-08,Baird,Outperform,,init,ASMB
+2018-10-08,B. Riley FBR,Buy,Neutral,up,ASMB
+2019-10-16,Mizuho,Buy,,init,ASMB
+2020-07-08,SVB Leerink,Outperform,,main,ASMB
+2020-10-19,Truist Securities,Buy,,init,ASMB
+2020-11-06,Jefferies,Hold,Buy,down,ASMB
+2021-03-23,SVB Leerink,Market Perform,Outperform,down,ASMB
+2021-05-10,SVB Leerink,Market Perform,,main,ASMB
+2021-09-02,William Blair,Market Perform,Outperform,down,ASMB
+2021-09-13,HC Wainwright & Co.,Neutral,,init,ASMB

@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-17,Bank of America,Neutral,Buy,down,CMRE
+2012-07-23,Wells Fargo,Market Perform,Outperform,down,CMRE
+2012-10-18,Barclays,Overweight,,main,CMRE
+2012-11-07,Euro Pacific Capital,Buy,,init,CMRE
+2013-01-07,Barclays,Overweight,,main,CMRE
+2013-03-05,JP Morgan,Overweight,,init,CMRE
+2013-04-17,Global Hunter Securities,Buy,,init,CMRE
+2013-07-18,Stifel Nicolaus,Hold,,init,CMRE
+2013-07-23,JP Morgan,Neutral,Overweight,down,CMRE
+2013-10-29,JP Morgan,Overweight,Neutral,up,CMRE
+2013-11-26,Credit Suisse,Neutral,,init,CMRE
+2014-03-10,JP Morgan,Overweight,,main,CMRE
+2014-07-22,Barclays,Overweight,,main,CMRE
+2014-07-25,Barclays,Overweight,,main,CMRE
+2014-09-19,Clarksons Platou,Buy,,init,CMRE
+2015-02-20,Seaport Global,,,init,CMRE
+2015-04-20,Bank of America,Underperform,Neutral,down,CMRE
+2015-12-18,JP Morgan,Underweight,,init,CMRE
+2016-01-11,Barclays,Equal-Weight,,init,CMRE
+2016-06-30,Morgan Stanley,Equal-Weight,Overweight,down,CMRE
+2016-08-01,JP Morgan,Neutral,Underweight,up,CMRE
+2016-10-03,Barclays,Equal-weight,,main,CMRE
+2016-10-04,Stifel Nicolaus,Sell,Hold,down,CMRE
+2016-10-05,JP Morgan,Overweight,Neutral,up,CMRE
+2017-01-30,Credit Suisse,Underperform,Neutral,down,CMRE
+2017-02-01,Morgan Stanley,Overweight,Equal-Weight,up,CMRE
+2017-02-07,Citigroup,Neutral,,init,CMRE
+2017-02-13,Stifel Nicolaus,Hold,Sell,up,CMRE
+2017-02-13,Wells Fargo,Outperform,Market Perform,up,CMRE
+2017-05-01,Credit Suisse,Neutral,Underperform,up,CMRE
+2017-10-25,Credit Suisse,Neutral,,main,CMRE
+2018-07-11,Morgan Stanley,Overweight,Overweight,main,CMRE
+2018-07-31,Wells Fargo,Outperform,Outperform,main,CMRE
+2018-09-28,Wells Fargo,Market Perform,Outperform,down,CMRE
+2019-11-01,Citigroup,Sell,Neutral,down,CMRE
+2020-07-22,Stifel,Buy,Hold,up,CMRE
+2020-10-19,Stifel,Buy,,main,CMRE
+2021-06-02,Citigroup,Buy,,main,CMRE

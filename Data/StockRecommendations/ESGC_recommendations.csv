@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-09,Deutsche Bank,Buy,,init,ESGC
+2013-12-09,Jefferies,Buy,,init,ESGC
+2013-12-09,Bank of America,Buy,,init,ESGC
+2015-06-10,Jefferies,Buy,,main,ESGC
+2015-06-11,Jefferies,Buy,,main,ESGC
+2016-02-18,Macquarie,Outperform,,main,ESGC
+2016-09-12,Jefferies,Buy,,main,ESGC
+2016-12-09,Wells Fargo,Outperform,Market Perform,up,ESGC
+2017-10-09,Jefferies,Buy,,main,ESGC
+2018-06-28,Wells Fargo,Outperform,Outperform,main,ESGC
+2018-08-14,Citigroup,Buy,,init,ESGC

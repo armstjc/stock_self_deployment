@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-04-27,Jefferies,Buy,,main,GOGL
+2015-05-29,Jefferies,Buy,,main,GOGL
+2015-05-29,Evercore ISI Group,Hold,Buy,down,GOGL
+2015-10-15,JP Morgan,Neutral,,init,GOGL
+2015-10-23,Jefferies,Buy,,main,GOGL
+2015-12-15,Morgan Stanley,Underweight,Equal-Weight,down,GOGL
+2016-01-19,Jefferies,Buy,,main,GOGL
+2016-01-26,JP Morgan,Underweight,Neutral,down,GOGL
+2016-02-09,Clarksons Platou,Neutral,Buy,down,GOGL
+2016-03-07,DNB Markets,Buy,Hold,up,GOGL
+2016-03-22,Nordea,Buy,Neutral,up,GOGL
+2017-03-01,JP Morgan,Neutral,Underweight,up,GOGL
+2017-03-15,Pareto,Buy,,up,GOGL
+2017-03-28,Morgan Stanley,Overweight,Underweight,up,GOGL
+2017-04-06,DNB Markets,Buy,Hold,up,GOGL
+2017-04-07,JP Morgan,Overweight,Neutral,up,GOGL
+2017-06-13,Seaport Global,Buy,,init,GOGL
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,GOGL
+2018-03-23,JP Morgan,Overweight,Overweight,main,GOGL
+2018-04-17,Morgan Stanley,Equal-Weight,Equal-Weight,main,GOGL
+2018-05-31,JP Morgan,Overweight,Overweight,main,GOGL
+2018-11-16,BTIG Research,Buy,,init,GOGL
+2021-02-09,BTIG,Buy,,main,GOGL
+2021-05-04,BTIG,Buy,,main,GOGL

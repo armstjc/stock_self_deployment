@@ -1,0 +1,125 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Brean Capital,Buy,,init,MUR
+2012-02-29,Deutsche Bank,Hold,,down,MUR
+2012-05-03,UBS,Neutral,,main,MUR
+2012-05-07,Societe Generale,Buy,,up,MUR
+2012-05-07,Brean Capital,Hold,,down,MUR
+2012-10-05,Deutsche Bank,Hold,,main,MUR
+2012-10-17,Barclays,Equal-Weight,Overweight,down,MUR
+2012-10-17,Brean Capital,Buy,Hold,up,MUR
+2012-10-17,Societe Generale,Hold,Buy,down,MUR
+2012-10-17,Scotia Howard Weil,Market Perform,,down,MUR
+2012-10-17,Deutsche Bank,Hold,,main,MUR
+2012-11-15,Societe Generale,Buy,,up,MUR
+2013-01-31,Societe Generale,Hold,Buy,down,MUR
+2013-04-12,Societe Generale,Hold,,main,MUR
+2013-04-23,Cowen & Co.,Hold,,init,MUR
+2013-05-13,Simmons & Co.,Overweight,Neutral,up,MUR
+2013-07-24,RBC Capital,Sector Perform,Outperform,down,MUR
+2013-09-03,Scotia Howard Weil,Sector Outperform,Sector Perform,up,MUR
+2013-10-03,Credit Suisse,Neutral,,init,MUR
+2013-12-31,iBERIA Capital Partners,Sector Perform,,init,MUR
+2014-05-07,JP Morgan,Neutral,,main,MUR
+2014-06-10,Deutsche Bank,Hold,,init,MUR
+2014-07-17,Deutsche Bank,Hold,,main,MUR
+2014-07-25,Barclays,Equal-Weight,,main,MUR
+2014-08-25,Deutsche Bank,Hold,,main,MUR
+2014-09-15,Alembic Global,Neutral,,init,MUR
+2014-10-20,Morgan Stanley,Equal-Weight,,main,MUR
+2014-11-24,Oppenheimer,Outperform,,main,MUR
+2015-01-06,Raymond James,Underperform,Market Perform,down,MUR
+2015-01-21,Wells Fargo,Market Perform,,down,MUR
+2015-01-23,Credit Suisse,Underperform,Neutral,down,MUR
+2015-02-09,JP Morgan,Neutral,,main,MUR
+2015-04-22,Nomura,Neutral,,init,MUR
+2015-05-18,Goldman Sachs,Sell,Neutral,down,MUR
+2015-06-01,Deutsche Bank,Hold,,main,MUR
+2015-06-25,UBS,Sell,Neutral,down,MUR
+2015-07-07,Barclays,Equal-Weight,,main,MUR
+2015-07-13,Morgan Stanley,Underweight,Equal-Weight,down,MUR
+2015-07-22,Credit Suisse,Neutral,Underperform,up,MUR
+2015-07-30,UBS,Neutral,Sell,up,MUR
+2015-07-31,Oppenheimer,Perform,Outperform,down,MUR
+2015-08-03,Barclays,Equal-Weight,,main,MUR
+2015-10-12,Barclays,Equal-Weight,,main,MUR
+2015-11-02,Barclays,Equal-Weight,,main,MUR
+2015-12-09,JP Morgan,Neutral,,init,MUR
+2016-01-07,Deutsche Bank,Hold,,main,MUR
+2016-01-21,Nomura,Neutral,,main,MUR
+2016-01-29,Credit Suisse,Neutral,,main,MUR
+2016-02-02,JP Morgan,Neutral,,main,MUR
+2016-02-12,iBERIA Capital Partners,Sector Perform,,main,MUR
+2016-04-08,Barclays,Equal-Weight,,main,MUR
+2016-05-05,Goldman Sachs,Sell,,main,MUR
+2016-06-20,Raymond James,Market Perform,Underperform,up,MUR
+2016-07-13,Barclays,Overweight,Equal-Weight,up,MUR
+2016-07-28,UBS,Neutral,,main,MUR
+2016-12-07,Credit Suisse,Underperform,Neutral,down,MUR
+2017-07-11,Barclays,Equal-Weight,Overweight,down,MUR
+2017-10-18,Morgan Stanley,Underweight,,main,MUR
+2017-12-12,Credit Suisse,Neutral,,init,MUR
+2018-01-24,Morgan Stanley,Underweight,Underweight,main,MUR
+2018-02-02,Barclays,Equal-Weight,Equal-Weight,main,MUR
+2018-03-07,UBS,Neutral,,init,MUR
+2018-07-11,Barclays,Equal-Weight,Equal-Weight,main,MUR
+2018-07-12,Morgan Stanley,Underweight,,init,MUR
+2018-07-24,Mizuho,Underperform,,init,MUR
+2018-08-10,Wells Fargo,Market Perform,Market Perform,main,MUR
+2018-08-16,Morgan Stanley,Underweight,Underweight,main,MUR
+2018-10-11,Credit Suisse,Neutral,Neutral,main,MUR
+2018-10-12,Morgan Stanley,Underweight,Underweight,main,MUR
+2018-10-19,Mizuho,Neutral,Underperform,up,MUR
+2018-11-20,Morgan Stanley,Underweight,Underweight,main,MUR
+2019-04-12,Goldman Sachs,Neutral,Sell,up,MUR
+2019-07-10,Capital One Financial,Overweight,,init,MUR
+2019-07-12,Morgan Stanley,Underweight,,main,MUR
+2019-07-23,Goldman Sachs,Buy,Neutral,up,MUR
+2019-08-09,Credit Suisse,Neutral,,main,MUR
+2019-09-06,Wells Fargo,Market Perform,,main,MUR
+2019-09-09,KeyBanc,Overweight,,init,MUR
+2019-09-30,BMO Capital,Outperform,,init,MUR
+2019-10-01,UBS,Neutral,,main,MUR
+2019-11-13,ScotiaBank,Sector Perform,Sector Outperform,down,MUR
+2020-01-23,KeyBanc,Overweight,,main,MUR
+2020-01-31,Wells Fargo,Equal-Weight,,main,MUR
+2020-03-16,Morgan Stanley,Underweight,,main,MUR
+2020-03-20,Wells Fargo,Overweight,Equal-Weight,up,MUR
+2020-03-26,KeyBanc,Overweight,,main,MUR
+2020-03-31,UBS,Neutral,,main,MUR
+2020-04-03,Wells Fargo,Overweight,,main,MUR
+2020-04-03,Mizuho,Underperform,Neutral,down,MUR
+2020-04-28,BMO Capital,Market Perform,Outperform,down,MUR
+2020-05-07,CFRA,Buy,,main,MUR
+2020-05-08,Wells Fargo,Equal-Weight,Overweight,down,MUR
+2020-05-19,Piper Sandler,Neutral,,main,MUR
+2020-05-19,Morgan Stanley,Underweight,,main,MUR
+2020-06-08,MKM Partners,Neutral,Buy,down,MUR
+2020-06-11,KeyBanc,Overweight,,main,MUR
+2020-06-19,Mizuho,Neutral,Underperform,up,MUR
+2020-06-22,Goldman Sachs,Neutral,Buy,down,MUR
+2020-06-29,UBS,Neutral,,main,MUR
+2020-07-08,Morgan Stanley,Underweight,,main,MUR
+2020-07-13,ScotiaBank,Sector Perform,,main,MUR
+2020-08-13,Piper Sandler,Neutral,,main,MUR
+2020-08-21,Morgan Stanley,Underweight,,main,MUR
+2020-09-01,Truist Securities,Buy,,init,MUR
+2020-09-14,MKM Partners,Buy,Neutral,up,MUR
+2020-09-24,ScotiaBank,Sector Underperform,Sector Perform,down,MUR
+2020-10-20,KeyBanc,Overweight,,main,MUR
+2020-11-06,Credit Suisse,Neutral,,main,MUR
+2020-12-11,Morgan Stanley,Equal-Weight,Underweight,up,MUR
+2020-12-15,Wells Fargo,Underweight,Equal-Weight,down,MUR
+2021-01-07,KeyBanc,Overweight,,main,MUR
+2021-01-14,KeyBanc,Overweight,,main,MUR
+2021-01-14,ScotiaBank,Sector Perform,Sector Underperform,up,MUR
+2021-01-21,KeyBanc,Overweight,,main,MUR
+2021-01-29,Credit Suisse,Neutral,,main,MUR
+2021-02-04,KeyBanc,Sector Weight,Overweight,down,MUR
+2021-03-11,Morgan Stanley,Equal-Weight,,main,MUR
+2021-04-15,Scotiabank,Sector Outperform,Sector Perform,up,MUR
+2021-05-19,Morgan Stanley,Equal-Weight,,main,MUR
+2021-06-18,Morgan Stanley,Equal-Weight,,main,MUR
+2021-10-06,Morgan Stanley,Equal-Weight,,main,MUR
+2021-11-10,MKM Partners,Buy,,main,MUR
+2021-12-07,JP Morgan,Overweight,Neutral,up,MUR
+2022-01-05,Wells Fargo,Equal-Weight,Underweight,up,MUR

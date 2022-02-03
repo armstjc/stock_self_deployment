@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-25,Wunderlich,Buy,,init,AIT
+2012-06-11,Wunderlich,Buy,,main,AIT
+2012-11-29,Longbow Research,,,init,AIT
+2013-08-02,Wunderlich,Hold,Buy,down,AIT
+2013-08-15,CJS Securities,Market Perform,Market Outperform,down,AIT
+2013-10-31,Wellington Shields,Hold,,down,AIT
+2014-07-07,BB&T Capital,Buy,Hold,up,AIT
+2015-06-19,Longbow Research,Underperform,Neutral,down,AIT
+2015-07-21,KeyBanc,Sector Weight,,init,AIT
+2016-01-05,Avondale Partners,Market Perform,,init,AIT
+2016-03-21,Avondale Partners,Market Perform,,main,AIT
+2017-07-25,Northcoast Research,Neutral,,init,AIT
+2018-08-13,Wells Fargo,Market Perform,Market Perform,main,AIT
+2018-11-01,Wells Fargo,Market Perform,Market Perform,main,AIT
+2018-12-21,Wells Fargo,Market Perform,Market Perform,main,AIT
+2019-01-15,KeyBanc,Overweight,Sector Weight,up,AIT
+2019-03-08,Longbow Research,Buy,Neutral,up,AIT
+2019-08-15,Wells Fargo,Market Perform,,main,AIT
+2019-08-15,KeyBanc,Overweight,,main,AIT
+2019-11-19,KeyBanc,Overweight,,main,AIT
+2019-12-09,Sidoti & Co.,Neutral,,main,AIT
+2019-12-11,KeyBanc,Overweight,,main,AIT
+2020-01-14,Wells Fargo,Overweight,Equal-Weight,up,AIT
+2020-03-30,KeyBanc,Overweight,,main,AIT
+2020-06-11,KeyBanc,Overweight,,main,AIT
+2020-08-13,Wells Fargo,Overweight,,main,AIT
+2020-11-13,KeyBanc,Overweight,,main,AIT
+2021-01-14,KeyBanc,Overweight,,main,AIT
+2021-03-09,KeyBanc,Overweight,,main,AIT
+2021-03-19,KeyBanc,Overweight,,main,AIT
+2021-04-05,Wells Fargo,Overweight,,main,AIT
+2021-08-03,Loop Capital,Buy,,init,AIT
+2021-08-18,Baird,Outperform,,main,AIT

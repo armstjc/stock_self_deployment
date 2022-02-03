@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-04-15,Oppenheimer,Outperform,,init,DOCN
+2021-04-19,Goldman Sachs,Buy,,init,DOCN
+2021-04-19,Keybanc,Overweight,,init,DOCN
+2021-04-19,Stifel,Hold,,init,DOCN
+2021-04-19,Morgan Stanley,Equal-Weight,,init,DOCN
+2021-04-19,JP Morgan,Overweight,,init,DOCN
+2021-04-19,Canaccord Genuity,Buy,,init,DOCN
+2021-04-19,JMP Securities,Market Outperform,,init,DOCN
+2021-04-19,B of A Securities,Buy,,init,DOCN
+2021-04-19,Barclays,Overweight,,init,DOCN
+2021-05-07,Keybanc,Overweight,,main,DOCN
+2021-07-23,Barclays,Overweight,,main,DOCN
+2021-08-06,Barclays,Overweight,,main,DOCN
+2021-08-06,JMP Securities,Market Outperform,,main,DOCN
+2021-08-06,Keybanc,Overweight,,main,DOCN
+2021-09-17,Barclays,Overweight,,main,DOCN
+2021-10-22,Morgan Stanley,Equal-Weight,,main,DOCN
+2021-10-25,Keybanc,Overweight,,main,DOCN
+2021-11-05,Keybanc,Overweight,,main,DOCN
+2021-11-05,Barclays,Overweight,,main,DOCN
+2021-11-08,Oppenheimer,Outperform,,main,DOCN
+2021-11-12,William Blair,Outperform,,init,DOCN

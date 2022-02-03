@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NEXA220218P00007500,2022-01-05 19:11:46+00:00,7.5,0.35,0.3,0.55,-0.25000003,-41.666668,1,1,1.18359783203125,False,REGULAR,USD,NEXA

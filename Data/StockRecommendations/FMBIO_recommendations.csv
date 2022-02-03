@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-21,Miller Tabak,Sell,,main,FMBIO
+2012-04-26,FIG Partners,Market Perform,,main,FMBIO
+2012-05-18,FIG Partners,Outperform,,up,FMBIO
+2012-06-01,Keefe Bruyette & Woods,Outperform,,up,FMBIO
+2012-08-28,FIG Partners,Market Perform,Outperform,down,FMBIO
+2012-09-14,Oppenheimer,Outperform,,main,FMBIO
+2012-10-15,Miller Tabak,Sell,,main,FMBIO
+2012-11-05,Jefferies,Buy,,main,FMBIO
+2013-01-24,Sterne Agee,Neutral,Buy,down,FMBIO
+2013-06-13,DA Davidson,Buy,,init,FMBIO
+2013-06-14,DA Davidson,Buy,,init,FMBIO
+2013-06-18,Jefferies,Buy,,main,FMBIO
+2013-06-20,Guggenheim,Neutral,,init,FMBIO
+2013-07-25,DA Davidson,Neutral,Buy,down,FMBIO
+2014-01-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,FMBIO
+2014-01-23,DA Davidson,Neutral,,main,FMBIO
+2014-03-19,Sandler O'Neill,Hold,Buy,down,FMBIO
+2014-04-01,SunTrust Robinson Humphrey,Neutral,,init,FMBIO
+2014-04-24,Guggenheim,Buy,Neutral,up,FMBIO
+2014-04-25,Sandler O'Neill,Buy,Hold,up,FMBIO
+2014-07-24,Jefferies,Buy,,main,FMBIO
+2014-10-23,Keefe Bruyette & Woods,Market Perform,,main,FMBIO
+2015-03-09,Miller Tabak,Buy,Hold,up,FMBIO
+2015-04-23,Keefe Bruyette & Woods,Market Perform,,main,FMBIO
+2015-06-29,SunTrust Robinson Humphrey,Neutral,,main,FMBIO
+2015-07-23,Baird,Neutral,,main,FMBIO
+2015-07-28,Jefferies,Buy,,main,FMBIO
+2016-04-07,DA Davidson,Neutral,,init,FMBIO
+2016-05-13,Macquarie,Neutral,,init,FMBIO
+2016-06-10,PiperJaffray,Neutral,,init,FMBIO
+2016-06-30,Macquarie,Outperform,Neutral,up,FMBIO
+2016-12-21,SunTrust Robinson Humphrey,Buy,,init,FMBIO
+2017-07-24,PiperJaffray,Overweight,Neutral,up,FMBIO
+2018-07-27,PiperJaffray,Overweight,Overweight,main,FMBIO
+2018-10-25,Raymond James,Outperform,Outperform,main,FMBIO
+2019-05-16,FIG Partners,Outperform,Market Perform,up,FMBIO
+2019-09-05,DA Davidson,Neutral,,main,FMBIO
+2019-10-08,Stephens & Co.,Overweight,Equal-Weight,up,FMBIO
+2020-03-06,SunTrust Robinson Humphrey,Hold,Buy,down,FMBIO
+2020-05-04,Piper Sandler,Overweight,,main,FMBIO
+2020-05-19,SunTrust Robinson Humphrey,Hold,,main,FMBIO
+2020-09-29,Piper Sandler,Overweight,,main,FMBIO
+2020-10-26,Raymond James,Outperform,Market Perform,up,FMBIO
+2021-01-28,Raymond James,Outperform,,main,FMBIO
+2021-03-08,Raymond James,Outperform,,main,FMBIO
+2021-04-21,Stephens & Co.,Equal-Weight,Overweight,down,FMBIO
+2021-06-02,Raymond James,Market Perform,Outperform,down,FMBIO
+2021-08-17,Piper Sandler,Overweight,Neutral,up,FMBIO
+2021-12-20,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,FMBIO

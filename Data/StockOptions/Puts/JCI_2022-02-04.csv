@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+JCI220204P00074000,2021-12-30 16:29:25+00:00,74.0,0.4,0.5,0.9,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,JCI

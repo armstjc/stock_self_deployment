@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-22,Deutsche Bank,Hold,,init,CMBM
+2019-07-22,JP Morgan,Overweight,,init,CMBM
+2019-07-22,Oppenheimer,Outperform,,init,CMBM
+2019-07-22,Goldman Sachs,Neutral,,init,CMBM
+2019-07-22,Raymond James,Outperform,,init,CMBM
+2019-12-27,Raymond James,Outperform,,main,CMBM
+2020-04-22,JP Morgan,Neutral,Overweight,down,CMBM
+2020-06-16,JP Morgan,Overweight,Neutral,up,CMBM
+2020-08-12,Raymond James,Outperform,,main,CMBM
+2020-10-01,Northland Capital Markets,Outperform,,init,CMBM
+2020-10-26,JMP Securities,Market Outperform,,main,CMBM
+2020-11-06,Raymond James,Outperform,,main,CMBM
+2020-12-08,Roth Capital,Buy,,main,CMBM
+2021-01-26,Jefferies,Buy,,init,CMBM
+2021-02-01,Raymond James,Market Perform,Outperform,down,CMBM
+2021-04-28,JMP Securities,Market Outperform,,main,CMBM
+2021-05-07,Goldman Sachs,Buy,,main,CMBM
+2021-06-23,Barrington Research,Outperform,,init,CMBM
+2021-08-10,Vertical Research,Neutral,Buy,down,CMBM
+2021-10-22,JMP Securities,Market Outperform,,main,CMBM
+2021-12-13,JP Morgan,Neutral,Overweight,down,CMBM

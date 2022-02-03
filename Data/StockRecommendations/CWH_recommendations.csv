@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-09,Stifel Nicolaus,Sell,Hold,down,CWH
+2013-02-28,Stifel Nicolaus,Hold,Sell,up,CWH
+2013-03-07,Stifel Nicolaus,Sell,Hold,down,CWH
+2013-03-07,Stifel,Sell,Hold,down,CWH
+2013-03-12,Citigroup,Sell,,main,CWH
+2013-04-01,Stifel Nicolaus,Hold,Sell,up,CWH
+2013-08-12,Stifel Nicolaus,Sell,Hold,down,CWH
+2013-08-12,Stifel Nicolaus,Sell,Hold,down,CWH
+2013-12-17,Stifel Nicolaus,Hold,Sell,up,CWH
+2014-03-19,RBC Capital,Underperform,Sector Perform,down,CWH
+2014-04-22,Stifel Nicolaus,Sell,Hold,down,CWH
+2014-06-13,Stifel Nicolaus,Hold,Sell,up,CWH
+2014-07-10,Stifel Nicolaus,Buy,Hold,up,CWH
+2016-11-01,Credit Suisse,Outperform,,init,CWH
+2016-11-01,KeyBanc,Overweight,,init,CWH
+2016-11-01,Bank of America,Buy,,init,CWH
+2016-11-01,Baird,Outperform,,init,CWH
+2016-11-01,Wells Fargo,Market Perform,,init,CWH
+2016-11-01,Goldman Sachs,Neutral,,init,CWH
+2016-11-01,JP Morgan,Neutral,,init,CWH
+2016-11-02,Stephens & Co.,Overweight,,init,CWH
+2017-03-02,KeyBanc,Sector Weight,Overweight,down,CWH
+2017-06-09,Goldman Sachs,Buy,Neutral,up,CWH
+2017-06-21,BMO Capital,Outperform,,init,CWH
+2017-07-13,JP Morgan,Overweight,Neutral,up,CWH
+2017-08-07,Monness Crespi Hardt,Buy,,init,CWH
+2017-08-11,Baird,Outperform,,main,CWH
+2017-08-11,Credit Suisse,Outperform,,main,CWH
+2017-08-14,BMO Capital,Outperform,,main,CWH
+2017-09-27,Credit Suisse,Outperform,,main,CWH
+2017-10-30,BMO Capital,Outperform,,main,CWH
+2017-10-31,Bank of America,Buy,,main,CWH
+2017-11-14,Bank of America,Buy,,main,CWH
+2018-01-26,Northcoast Research,Buy,,init,CWH
+2018-02-23,Credit Suisse,Outperform,Outperform,main,CWH
+2018-02-28,Credit Suisse,Outperform,Outperform,main,CWH
+2018-03-01,BMO Capital,Outperform,Outperform,main,CWH
+2018-04-10,Wells Fargo,Outperform,Outperform,main,CWH
+2018-05-09,BMO Capital,Outperform,Outperform,main,CWH
+2018-05-09,KeyBanc,Overweight,Overweight,main,CWH
+2018-05-09,Credit Suisse,Outperform,Outperform,main,CWH
+2018-08-21,BMO Capital,Outperform,Outperform,main,CWH
+2019-03-01,Credit Suisse,Neutral,Outperform,down,CWH
+2019-03-08,Wells Fargo,Market Perform,Outperform,down,CWH
+2019-03-08,Credit Suisse,Neutral,Neutral,main,CWH
+2019-03-15,BMO Capital,Outperform,Outperform,main,CWH
+2019-03-19,Goldman Sachs,Neutral,Buy,down,CWH
+2019-03-28,Jefferies,Hold,,init,CWH
+2019-05-09,Bank of America,Underperform,Neutral,down,CWH
+2019-05-17,KeyBanc,Sector Weight,Overweight,down,CWH
+2019-06-07,BMO Capital,Market Perform,Outperform,down,CWH
+2019-07-26,Baird,Neutral,Outperform,down,CWH
+2019-08-08,JP Morgan,Neutral,Overweight,down,CWH
+2019-08-09,BMO Capital,Market Perform,,main,CWH
+2019-08-15,Northcoast Research,Neutral,Buy,down,CWH
+2019-09-04,Bank of America,Underperform,,main,CWH
+2019-11-25,Citi,Buy,,main,CWH
+2020-01-14,Northcoast Research,Buy,Neutral,up,CWH
+2020-03-02,Wells Fargo,Equal-Weight,,main,CWH
+2020-03-23,Baird,Neutral,,main,CWH
+2020-05-12,BMO Capital,Market Perform,,main,CWH
+2020-07-29,JP Morgan,Neutral,,main,CWH
+2020-08-06,BMO Capital,Market Perform,,main,CWH
+2020-09-03,Truist Securities,Buy,,init,CWH
+2020-09-08,JP Morgan,Overweight,Neutral,up,CWH
+2020-11-03,Credit Suisse,Neutral,,main,CWH
+2021-03-11,BMO Capital,Outperform,Market Perform,up,CWH
+2021-06-17,Northcoast Research,Neutral,Buy,down,CWH
+2021-07-02,Raymond James,Outperform,,init,CWH
+2021-08-04,Raymond James,Outperform,,main,CWH
+2021-08-04,Baird,Outperform,Neutral,up,CWH
+2021-11-04,Raymond James,Outperform,,main,CWH

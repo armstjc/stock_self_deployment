@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-07,Sidoti & Co.,Buy,,init,NVMI
+2012-05-15,Needham,Buy,,down,NVMI
+2014-01-10,Stifel Nicolaus,Buy,,main,NVMI
+2015-05-13,Canaccord Genuity,Hold,,main,NVMI
+2015-06-22,Canaccord Genuity,Buy,Hold,up,NVMI
+2016-11-30,Benchmark,Buy,,init,NVMI
+2017-02-27,Stifel Nicolaus,Hold,Buy,down,NVMI
+2017-05-10,Stifel Nicolaus,Buy,Hold,up,NVMI
+2017-10-16,Stifel Nicolaus,Buy,,main,NVMI
+2018-03-26,Lake Street,Buy,,init,NVMI
+2019-04-17,Needham,Buy,,init,NVMI
+2019-09-27,Stifel Nicolaus,Buy,,main,NVMI
+2019-11-08,Benchmark,Buy,,main,NVMI
+2020-01-21,Needham,Buy,,main,NVMI
+2020-05-15,Needham,Buy,,main,NVMI
+2020-06-22,Stifel,Hold,Buy,down,NVMI
+2020-08-05,Benchmark,Buy,,main,NVMI
+2020-10-14,Benchmark,Buy,,main,NVMI
+2020-10-19,Needham,Buy,,main,NVMI
+2021-02-09,Citigroup,Buy,,init,NVMI
+2021-04-21,Needham,Buy,,main,NVMI
+2021-05-05,Stifel,Buy,Hold,up,NVMI
+2021-07-14,Needham,Buy,,main,NVMI
+2021-11-05,Needham,Buy,,main,NVMI
+2021-11-17,Needham,Buy,,main,NVMI

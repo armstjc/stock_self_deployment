@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-13,RBC Capital,Outperform,,init,HOOK
+2019-05-13,Bank of America,Buy,,init,HOOK
+2019-05-13,SVB Leerink,Outperform,,init,HOOK
+2019-09-27,H.C. Wainwright,Buy,,init,HOOK
+2019-11-13,Bank of America,Buy,,main,HOOK
+2020-10-26,JMP Securities,Market Outperform,,init,HOOK
+2020-11-03,Truist Securities,Buy,,init,HOOK
+2021-04-08,Morgan Stanley,Overweight,,init,HOOK
+2021-05-13,HC Wainwright & Co.,Buy,,main,HOOK
+2021-08-18,Morgan Stanley,Overweight,,main,HOOK
+2021-11-10,JMP Securities,Market Outperform,,main,HOOK
+2021-11-10,RBC Capital,Outperform,,main,HOOK
+2021-11-10,SVB Leerink,Outperform,,main,HOOK
+2021-11-11,HC Wainwright & Co.,Buy,,main,HOOK
+2021-11-12,Morgan Stanley,Equal-Weight,Overweight,down,HOOK

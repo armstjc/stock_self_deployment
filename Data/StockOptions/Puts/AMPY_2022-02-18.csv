@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AMPY220218P00002500,2022-01-28 20:44:44+00:00,2.5,0.05,0.0,0.05,0.0,0.0,6,28,1.3750031249999999,False,REGULAR,USD,AMPY
+AMPY220218P00005000,2022-01-25 17:15:53+00:00,5.0,1.5,1.1,1.2,0.0,0.0,1,7,0.929688203125,True,REGULAR,USD,AMPY

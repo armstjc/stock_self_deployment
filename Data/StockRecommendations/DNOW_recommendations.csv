@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-06-26,Credit Suisse,Neutral,,init,DNOW
+2014-09-02,Raymond James,Market Perform,,init,DNOW
+2014-10-09,Seaport Global,Neutral,,init,DNOW
+2014-10-16,ISI Group,Hold,,init,DNOW
+2015-05-29,JP Morgan,Neutral,,init,DNOW
+2015-08-06,Stephens & Co.,Equal-Weight,Overweight,down,DNOW
+2015-12-29,Capital One Financial,Equal-Weight,,init,DNOW
+2016-02-24,JP Morgan,Neutral,,main,DNOW
+2016-05-05,JP Morgan,Neutral,,main,DNOW
+2016-09-16,Cowen & Co.,Market Perform,,init,DNOW
+2017-01-10,Susquehanna,Positive,Neutral,up,DNOW
+2017-04-26,Baird,Outperform,Neutral,up,DNOW
+2017-05-04,Seaport Global,Buy,Neutral,up,DNOW
+2017-05-26,KeyBanc,Overweight,,init,DNOW
+2017-06-06,Stifel Nicolaus,Buy,,init,DNOW
+2017-06-21,Seaport Global,Neutral,Buy,down,DNOW
+2017-09-12,JP Morgan,Neutral,,main,DNOW
+2017-10-13,Baird,Neutral,Outperform,down,DNOW
+2017-11-02,Susquehanna,Neutral,Positive,down,DNOW
+2017-11-03,Credit Suisse,Neutral,,main,DNOW
+2018-02-15,Seaport Global,Buy,Neutral,up,DNOW
+2018-02-15,KeyBanc,Overweight,Overweight,main,DNOW
+2018-02-15,JP Morgan,Neutral,Neutral,main,DNOW
+2018-02-27,Credit Suisse,Neutral,Neutral,main,DNOW
+2018-05-03,Stifel Nicolaus,Buy,Buy,main,DNOW
+2018-07-31,Northcoast Research,Neutral,,init,DNOW
+2018-08-03,Stifel Nicolaus,Buy,Buy,main,DNOW
+2018-11-02,Baird,Neutral,Neutral,main,DNOW
+2018-12-19,Stifel Nicolaus,Hold,Buy,down,DNOW
+2019-07-15,Stifel Nicolaus,Hold,,main,DNOW
+2020-02-20,Stephens & Co.,Overweight,,main,DNOW
+2020-03-20,KeyBanc,Overweight,,main,DNOW
+2020-04-03,Stephens & Co.,Overweight,,reit,DNOW
+2020-04-14,Cowen & Co.,Outperform,Market Perform,up,DNOW
+2021-02-19,JP Morgan,Underweight,Neutral,down,DNOW
+2021-07-16,Stifel,Buy,Hold,up,DNOW
+2021-11-04,Stephens & Co.,Overweight,Equal-Weight,up,DNOW

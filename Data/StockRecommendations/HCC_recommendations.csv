@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-12,Standpoint Research,Hold,Buy,down,HCC
+2012-11-01,Keefe Bruyette & Woods,Outperform,Market Perform,up,HCC
+2013-02-15,Goldman Sachs,Neutral,,main,HCC
+2013-04-23,Compass Point,Neutral,,init,HCC
+2013-10-31,William Blair,Market Perform,Underperform,up,HCC
+2014-07-21,JMP Securities,Market Outperform,,main,HCC
+2014-10-16,Keefe Bruyette & Woods,Market Perform,,main,HCC
+2014-10-28,JMP Securities,Market Outperform,,main,HCC
+2014-10-29,JMP Securities,Market Outperform,,main,HCC
+2015-01-21,JMP Securities,Market Outperform,,main,HCC
+2015-02-19,Keefe Bruyette & Woods,Market Perform,,main,HCC
+2015-04-06,Keefe Bruyette & Woods,Outperform,Market Perform,up,HCC
+2015-04-29,JMP Securities,Market Outperform,,main,HCC
+2015-06-10,Compass Point,Neutral,,main,HCC
+2015-06-11,Keefe Bruyette & Woods,Market Perform,Outperform,down,HCC
+2015-07-16,Raymond James,Underperform,Outperform,down,HCC
+2015-07-29,RBC Capital,Sector Perform,Outperform,down,HCC
+2017-05-08,Morgan Stanley,Overweight,,init,HCC
+2017-05-08,BMO Capital,Buy,,init,HCC
+2017-05-08,RBC Capital,Outperform,,init,HCC
+2017-06-27,Morgan Stanley,Equal-Weight,Overweight,down,HCC
+2017-07-12,MKM Partners,Neutral,,init,HCC
+2017-09-07,Macquarie,Underperform,,init,HCC
+2017-09-25,FBR Capital,Neutral,,main,HCC
+2017-09-26,Citigroup,Neutral,,main,HCC
+2017-10-18,Seaport Global,Neutral,Buy,down,HCC
+2017-12-04,RBC Capital,Sector Perform,Outperform,down,HCC
+2018-02-15,BMO Capital,Buy,Buy,main,HCC
+2018-02-22,Citigroup,Buy,Neutral,up,HCC
+2018-03-20,Credit Suisse,Outperform,Outperform,main,HCC
+2018-04-13,BMO Capital,Outperform,Outperform,main,HCC
+2018-04-26,B. Riley FBR,Neutral,Neutral,main,HCC
+2018-05-03,Credit Suisse,Outperform,Outperform,main,HCC
+2018-06-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,HCC
+2018-07-11,Citigroup,Buy,Buy,main,HCC
+2018-08-08,Citigroup,Buy,Buy,main,HCC
+2018-09-19,B. Riley FBR,Neutral,Neutral,main,HCC
+2018-10-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,HCC
+2018-11-08,MKM Partners,Buy,Neutral,up,HCC
+2018-12-03,Citigroup,Buy,Buy,main,HCC
+2019-03-13,Jefferies,Buy,,init,HCC
+2019-04-01,Deutsche Bank,Buy,,init,HCC
+2019-08-06,Jefferies,Hold,Buy,down,HCC
+2020-02-20,B. Riley FBR,Neutral,,reit,HCC
+2020-02-21,Benchmark,Hold,,init,HCC
+2020-03-03,B. Riley FBR,Buy,Neutral,up,HCC
+2020-03-03,B. Riley,Buy,Neutral,up,HCC
+2020-03-20,Deutsche Bank,Buy,,main,HCC
+2020-03-24,B. Riley FBR,Buy,,main,HCC
+2020-04-17,B. Riley FBR,Buy,,main,HCC
+2020-04-30,Citigroup,Buy,,main,HCC
+2020-04-30,BMO Capital,Outperform,,main,HCC
+2020-04-30,B. Riley FBR,Buy,,main,HCC
+2020-11-12,Roth Capital,Buy,,init,HCC
+2020-12-17,BMO Capital,Market Perform,Outperform,down,HCC
+2021-01-13,Deutsche bank,Hold,Buy,down,HCC
+2021-04-30,B. Riley FBR,Neutral,Buy,down,HCC
+2021-12-16,BMO Capital,Outperform,Market Perform,up,HCC

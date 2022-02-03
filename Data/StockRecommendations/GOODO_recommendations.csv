@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-19,JMP Securities,Market Outperform,,init,GOODO
+2013-04-15,Hilliard Lyons,Neutral,Long-Term Buy,down,GOODO
+2013-08-08,Hilliard Lyons,Long-Term Buy,Neutral,up,GOODO
+2014-02-20,Ladenburg Thalmann,Neutral,Buy,down,GOODO
+2015-02-19,Hilliard Lyons,Buy,Long-Term Buy,up,GOODO
+2016-09-08,Hilliard Lyons,Long-Term Buy,Buy,down,GOODO
+2017-07-18,Canaccord Genuity,Hold,,init,GOODO
+2017-07-25,DA Davidson,Buy,,init,GOODO
+2017-08-02,Canaccord Genuity,Hold,,main,GOODO
+2017-09-08,Janney Capital,Buy,,init,GOODO
+2018-02-08,B. Riley FBR,Neutral,,init,GOODO
+2018-02-16,Hilliard Lyons,Long-Term Buy,Neutral,up,GOODO
+2018-07-26,Wedbush,Outperform,,init,GOODO
+2018-08-01,B. Riley FBR,Neutral,Neutral,main,GOODO
+2019-11-11,National Securities,Buy,,init,GOODO
+2020-02-18,B. Riley FBR,Neutral,,main,GOODO
+2020-02-18,B. Riley,Neutral,,main,GOODO
+2020-03-27,B. Riley FBR,Buy,Neutral,up,GOODO
+2021-08-10,Aegis Capital,Buy,,main,GOODO

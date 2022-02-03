@@ -1,0 +1,184 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-22,Morgan Keegan,Market Perform,,main,CAKE
+2012-04-26,Bank oferica,Buy,,main,CAKE
+2012-04-26,Miller Tabak,Buy,,main,CAKE
+2012-04-26,DA Davidson,Neutral,,main,CAKE
+2012-07-16,Goldman Sachs,Neutral,Sell,up,CAKE
+2012-07-26,Barclays,Equal-Weight,,main,CAKE
+2012-08-23,PiperJaffray,Overweight,,main,CAKE
+2012-10-25,Barclays,Equal-Weight,,main,CAKE
+2013-03-19,Bank of America,Buy,,main,CAKE
+2013-04-08,Jefferies,Hold,,main,CAKE
+2013-04-09,PiperJaffray,Overweight,,main,CAKE
+2013-04-25,Buckingham Research,Neutral,Underperform,up,CAKE
+2013-05-15,PiperJaffray,Overweight,,main,CAKE
+2013-07-16,Stifel Nicolaus,Buy,,init,CAKE
+2013-07-16,JP Morgan,Neutral,,main,CAKE
+2013-07-23,Wunderlich,Hold,,init,CAKE
+2013-10-24,Jefferies,Hold,,main,CAKE
+2014-01-07,Credit Suisse,Outperform,,init,CAKE
+2014-01-08,UBS,Neutral,,init,CAKE
+2014-02-13,Bank of America,Buy,,main,CAKE
+2014-04-10,Tigress Financial,Buy,Neutral,up,CAKE
+2014-04-15,Barclays,Equal-Weight,,main,CAKE
+2014-04-24,Credit Suisse,Outperform,,main,CAKE
+2014-05-02,Gabelli & Co.,Hold,,init,CAKE
+2014-05-07,Wunderlich,Hold,,main,CAKE
+2014-07-24,Barclays,Equal-Weight,,main,CAKE
+2014-07-24,Jefferies,Hold,,main,CAKE
+2014-07-24,UBS,Neutral,,main,CAKE
+2014-07-31,JP Morgan,Neutral,,main,CAKE
+2014-08-21,Bank of America,Underperform,Buy,down,CAKE
+2014-10-23,Stifel Nicolaus,Buy,,main,CAKE
+2014-10-23,JP Morgan,Neutral,,main,CAKE
+2014-10-23,Barclays,Equal-Weight,,main,CAKE
+2015-01-06,Jefferies,Hold,,main,CAKE
+2015-01-07,Bank of America,Neutral,Underperform,up,CAKE
+2015-01-20,William Blair,Outperform,Market Perform,up,CAKE
+2015-01-22,Barclays,Equal-Weight,,main,CAKE
+2015-02-12,Sterne Agee,Neutral,Buy,down,CAKE
+2015-02-12,Jefferies,Hold,,main,CAKE
+2015-02-12,Barclays,Equal-Weight,,main,CAKE
+2015-02-12,Stifel Nicolaus,Buy,,main,CAKE
+2015-03-05,Argus,Hold,Buy,down,CAKE
+2015-04-23,Barclays,Equal-Weight,,main,CAKE
+2015-04-23,PiperJaffray,Overweight,,main,CAKE
+2015-04-23,JP Morgan,Neutral,,main,CAKE
+2015-04-23,Jefferies,Hold,,main,CAKE
+2015-07-01,Goldman Sachs,Sell,,init,CAKE
+2015-07-15,BTIG Research,Neutral,,init,CAKE
+2015-07-23,Baird,Neutral,,main,CAKE
+2015-07-23,Jefferies,Hold,,main,CAKE
+2015-07-23,Barclays,Equal-Weight,,main,CAKE
+2015-10-27,BTIG Research,Buy,Neutral,up,CAKE
+2016-01-27,Stephens & Co.,Overweight,,up,CAKE
+2016-01-28,Stephens & Co.,Overweight,Equal-Weight,up,CAKE
+2016-02-09,Maxim Group,Buy,,init,CAKE
+2016-07-26,Stifel Nicolaus,Sell,Buy,down,CAKE
+2016-07-28,Barclays,Equal-Weight,,main,CAKE
+2016-08-22,Canaccord Genuity,Hold,,init,CAKE
+2016-11-09,Telsey Advisory Group,Outperform,Market Perform,up,CAKE
+2016-11-15,Maxim Group,Hold,Buy,down,CAKE
+2016-11-15,Argus,Buy,Hold,up,CAKE
+2016-11-16,Stephens & Co.,Equal-Weight,Overweight,down,CAKE
+2017-01-04,Jefferies,Underperform,Hold,down,CAKE
+2017-06-20,Argus,Hold,Buy,down,CAKE
+2017-07-11,Wedbush,Outperform,,init,CAKE
+2017-07-12,Instinet,Neutral,,init,CAKE
+2017-07-19,Barclays,Equal-Weight,,main,CAKE
+2017-08-03,Barclays,Equal-Weight,,main,CAKE
+2017-08-03,Nomura,Neutral,,main,CAKE
+2017-09-26,Wedbush,Neutral,Outperform,down,CAKE
+2017-10-11,Stephens & Co.,Equal-Weight,,main,CAKE
+2017-10-18,Barclays,Equal-Weight,,main,CAKE
+2017-10-24,Wells Fargo,Market Perform,,main,CAKE
+2017-10-27,Nomura,Neutral,,main,CAKE
+2017-11-02,Canaccord Genuity,Hold,,main,CAKE
+2017-11-02,Barclays,Equal-Weight,,main,CAKE
+2017-11-02,Morgan Stanley,Equal-Weight,,main,CAKE
+2017-11-02,Nomura,Neutral,,main,CAKE
+2018-01-24,Barclays,Equal-Weight,Equal-Weight,main,CAKE
+2018-02-06,Wells Fargo,Market Perform,Market Perform,main,CAKE
+2018-02-22,Bank of America,Neutral,Neutral,main,CAKE
+2018-02-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,CAKE
+2018-04-26,Barclays,Equal-Weight,Equal-Weight,main,CAKE
+2018-04-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,CAKE
+2018-04-26,Wedbush,Neutral,Neutral,main,CAKE
+2018-06-14,Bank of America,Neutral,Neutral,main,CAKE
+2018-06-18,BTIG Research,Neutral,Buy,down,CAKE
+2018-06-22,Maxim Group,Hold,Buy,down,CAKE
+2018-07-18,Barclays,Equal-Weight,Equal-Weight,main,CAKE
+2018-07-24,Bank of America,Neutral,Neutral,main,CAKE
+2018-07-25,Baird,Neutral,Neutral,main,CAKE
+2018-08-01,Barclays,Equal-Weight,Equal-Weight,main,CAKE
+2018-08-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,CAKE
+2018-08-01,Bank of America,Neutral,Neutral,main,CAKE
+2018-10-19,Gordon Haskett,Hold,,init,CAKE
+2018-10-25,Loop Capital,Hold,,init,CAKE
+2018-10-31,Barclays,Equal-Weight,Equal-Weight,main,CAKE
+2018-11-12,Barclays,Underweight,Equal-Weight,down,CAKE
+2018-11-29,Barclays,Underweight,Underweight,main,CAKE
+2019-01-08,Raymond James,Outperform,Market Perform,up,CAKE
+2019-04-26,UBS,Neutral,,init,CAKE
+2019-05-02,Barclays,Underweight,Underweight,main,CAKE
+2019-05-02,Wedbush,Neutral,Neutral,main,CAKE
+2019-06-28,JP Morgan,Neutral,,main,CAKE
+2019-06-28,Deutsche Bank,Hold,,init,CAKE
+2019-07-15,Raymond James,Outperform,,main,CAKE
+2019-08-01,Wells Fargo,Market Perform,,main,CAKE
+2019-08-01,Wedbush,Neutral,,main,CAKE
+2019-09-06,Wells Fargo,Outperform,Market Perform,up,CAKE
+2019-10-17,Raymond James,Market Perform,Outperform,down,CAKE
+2019-10-18,Morgan Stanley,Equal-Weight,,main,CAKE
+2019-10-18,Barclays,Underweight,,main,CAKE
+2019-10-30,Morgan Stanley,Equal-Weight,,main,CAKE
+2019-12-12,Goldman Sachs,Neutral,,init,CAKE
+2019-12-19,Morgan Stanley,Equal-Weight,,main,CAKE
+2020-01-17,Morgan Stanley,Underweight,Equal-Weight,down,CAKE
+2020-02-18,UBS,Neutral,,main,CAKE
+2020-02-20,Wedbush,Neutral,,main,CAKE
+2020-02-20,B of A Securities,Neutral,,reit,CAKE
+2020-02-20,Barclays,Underweight,,main,CAKE
+2020-02-20,CFRA,Hold,,main,CAKE
+2020-02-20,Deutsche Bank,Hold,,main,CAKE
+2020-03-02,Guggenheim Securities,Buy,Neutral,up,CAKE
+2020-03-24,Baird,Neutral,,main,CAKE
+2020-03-27,Baird,Neutral,,main,CAKE
+2020-03-31,Gordon Haskett,Buy,Hold,up,CAKE
+2020-04-02,Piper Sandler,Overweight,,main,CAKE
+2020-04-08,Wedbush,Neutral,,main,CAKE
+2020-04-14,Deutsche Bank,Hold,,main,CAKE
+2020-04-17,CFRA,Hold,,main,CAKE
+2020-04-21,Baird,Neutral,,main,CAKE
+2020-04-22,Jefferies,Hold,,main,CAKE
+2020-04-23,Wells Fargo,Overweight,,main,CAKE
+2020-05-06,CFRA,Hold,,main,CAKE
+2020-05-06,UBS,Neutral,,main,CAKE
+2020-05-06,Morgan Stanley,Underweight,,main,CAKE
+2020-05-06,Wedbush,Neutral,,main,CAKE
+2020-05-12,JP Morgan,Neutral,,main,CAKE
+2020-06-04,Piper Sandler,Overweight,,main,CAKE
+2020-06-24,JP Morgan,Underweight,Neutral,down,CAKE
+2020-07-09,Credit Suisse,Neutral,,init,CAKE
+2020-07-13,Stephens & Co.,Underweight,,main,CAKE
+2020-07-14,Wedbush,Neutral,,main,CAKE
+2020-07-30,Piper Sandler,Overweight,,main,CAKE
+2020-07-30,Wedbush,Neutral,,main,CAKE
+2020-07-30,Stephens & Co.,Underweight,,main,CAKE
+2020-09-18,Piper Sandler,Overweight,,main,CAKE
+2020-10-14,Morgan Stanley,Underweight,,main,CAKE
+2020-10-19,Wedbush,Neutral,,main,CAKE
+2020-10-30,Stephens & Co.,Underweight,,main,CAKE
+2020-11-02,Morgan Stanley,Underweight,,main,CAKE
+2020-11-02,Credit Suisse,Neutral,,main,CAKE
+2020-11-09,Deutsche Bank,Buy,Hold,up,CAKE
+2020-11-13,Wedbush,Outperform,Neutral,up,CAKE
+2021-01-07,Stephens & Co.,Equal-Weight,Underweight,up,CAKE
+2021-01-19,Goldman Sachs,Neutral,,init,CAKE
+2021-01-19,Morgan Stanley,Underweight,,main,CAKE
+2021-01-25,JP Morgan,Neutral,Underweight,up,CAKE
+2021-01-28,Deutsche Bank,Hold,Buy,down,CAKE
+2021-02-09,Wedbush,Outperform,,main,CAKE
+2021-02-18,Stephens & Co.,Equal-Weight,,main,CAKE
+2021-02-18,Morgan Stanley,Underweight,,main,CAKE
+2021-02-19,Goldman Sachs,Neutral,,main,CAKE
+2021-03-11,Wedbush,Outperform,,main,CAKE
+2021-03-26,Morgan Stanley,Underweight,,main,CAKE
+2021-04-15,Telsey Advisory Group,Market Perform,,main,CAKE
+2021-04-29,Credit Suisse,Neutral,,main,CAKE
+2021-04-29,Telsey Advisory Group,Market Perform,,main,CAKE
+2021-04-29,Morgan Stanley,Underweight,,main,CAKE
+2021-04-29,Stephens & Co.,Equal-Weight,,main,CAKE
+2021-04-29,Wedbush,Outperform,,main,CAKE
+2021-07-12,Raymond James,Outperform,Market Perform,up,CAKE
+2021-08-25,Wedbush,Outperform,,main,CAKE
+2021-09-24,Jefferies,Buy,Hold,up,CAKE
+2021-10-19,Stephens & Co.,Equal-Weight,,main,CAKE
+2021-10-25,Wells Fargo,Overweight,,main,CAKE
+2021-10-28,Wedbush,Outperform,,main,CAKE
+2021-11-04,Credit Suisse,Neutral,,main,CAKE
+2021-11-04,Raymond James,Outperform,,main,CAKE
+2021-11-08,Stephens & Co.,Equal-Weight,,main,CAKE
+2021-12-15,Barclays,Underweight,,main,CAKE
+2022-01-03,Piper Sandler,Neutral,Overweight,down,CAKE
+2022-01-05,Stephens & Co.,Overweight,Equal-Weight,up,CAKE

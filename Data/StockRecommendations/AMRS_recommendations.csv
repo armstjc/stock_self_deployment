@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-01,ThinkEquity,Sell,Hold,down,AMRS
+2012-08-23,UBS,Buy,,init,AMRS
+2012-11-12,PiperJaffray,Neutral,,main,AMRS
+2013-02-12,Raymond James,Underperform,Market Perform,down,AMRS
+2013-02-21,Raymond James,Market Perform,Underperform,up,AMRS
+2014-01-02,Cowen & Co.,Underperform,Market Perform,down,AMRS
+2014-02-26,Cowen & Co.,Market Perform,Underperform,up,AMRS
+2014-05-28,Stifel Nicolaus,Hold,,init,AMRS
+2015-11-10,H.C. Wainwright,Buy,,init,AMRS
+2016-03-10,Cowen & Co.,Market Perform,,main,AMRS
+2016-09-27,Singular Research,Buy,,init,AMRS
+2018-03-20,B. Riley FBR,Buy,Buy,main,AMRS
+2019-12-12,Oppenheimer,Outperform,,init,AMRS
+2020-11-25,Jefferies,Buy,,init,AMRS
+2020-11-25,Cowen & Co.,Market Perform,,init,AMRS
+2021-01-06,Cowen & Co.,Outperform,Market Perform,up,AMRS
+2021-02-26,Roth Capital,Buy,,init,AMRS
+2021-03-03,H.C. Wainwright,Buy,,main,AMRS
+2021-03-03,Roth Capital,Buy,,main,AMRS
+2021-06-01,HSBC,Buy,,init,AMRS
+2021-08-06,HC Wainwright & Co.,Buy,,main,AMRS
+2021-08-06,Oppenheimer,Outperform,,main,AMRS
+2021-08-06,Roth Capital,Buy,,main,AMRS

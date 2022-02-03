@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,SunTrust Robinson Humphrey,Buy,,init,HT
+2012-11-05,Deutsche Bank,Hold,,main,HT
+2012-11-05,SunTrust Robinson Humphrey,Neutral,Buy,down,HT
+2013-01-15,BMO Capital,Market Perform,,init,HT
+2013-03-04,Deutsche Bank,Hold,,main,HT
+2013-05-29,Evercore Partners,Equal-Weight,,init,HT
+2013-08-01,Raymond James,Market Perform,Outperform,down,HT
+2013-09-24,Stifel Nicolaus,Buy,Hold,up,HT
+2014-05-05,JMP Securities,Market Outperform,,main,HT
+2014-08-07,Barclays,Equal-Weight,,main,HT
+2014-10-30,Stifel Nicolaus,Buy,,main,HT
+2014-11-14,MLV & Co.,Hold,Buy,down,HT
+2015-01-16,Bank of America,Buy,Neutral,up,HT
+2015-03-16,Deutsche Bank,Hold,,main,HT
+2015-03-25,SunTrust Robinson Humphrey,Reduce,Neutral,down,HT
+2015-05-21,SunTrust Robinson Humphrey,Neutral,Reduce,up,HT
+2015-07-13,Canaccord Genuity,Buy,,init,HT
+2015-07-29,Barclays,Equal-Weight,,main,HT
+2015-07-29,JMP Securities,Market Outperform,,main,HT
+2015-08-12,Bank of America,Neutral,Buy,down,HT
+2015-10-30,SunTrust Robinson Humphrey,Neutral,,main,HT
+2015-12-02,Janney Capital,Neutral,,init,HT
+2015-12-17,Stifel Nicolaus,Hold,Buy,down,HT
+2016-02-01,Canaccord Genuity,Hold,Buy,down,HT
+2016-02-18,FBR Capital,Outperform,Market Perform,up,HT
+2016-02-22,Barclays,Equal-Weight,,main,HT
+2016-05-19,Bank of America,Neutral,Buy,down,HT
+2016-07-19,Deutsche Bank,Hold,,main,HT
+2016-07-29,Barclays,Equal-Weight,,main,HT
+2016-07-29,Deutsche Bank,Hold,,main,HT
+2016-07-29,FBR Capital,Outperform,,main,HT
+2017-03-03,Bank of America,Underperform,Neutral,down,HT
+2017-05-01,JMP Securities,Market Perform,Market Outperform,down,HT
+2017-08-28,FBR Capital,Buy,,main,HT
+2017-09-29,DA Davidson,Buy,,init,HT
+2017-10-27,Wells Fargo,Market Perform,,main,HT
+2017-12-13,Barclays,Underweight,Equal-Weight,down,HT
+2018-02-22,Stifel Nicolaus,Hold,Hold,main,HT
+2018-04-25,Stifel Nicolaus,Hold,Hold,main,HT
+2018-04-26,B. Riley FBR,Neutral,Buy,down,HT
+2018-04-26,Barclays,Underweight,Underweight,main,HT
+2018-04-26,DA Davidson,Buy,Buy,main,HT
+2018-05-31,Jefferies,Hold,,init,HT
+2018-06-22,DA Davidson,Buy,Buy,main,HT
+2018-06-26,Stifel Nicolaus,Hold,Hold,main,HT
+2018-07-30,Barclays,Underweight,Underweight,main,HT
+2018-08-20,Baird,Neutral,Outperform,down,HT
+2018-08-29,Stifel Nicolaus,Hold,Hold,main,HT
+2018-10-25,B. Riley FBR,Neutral,Neutral,main,HT
+2018-12-11,Wells Fargo,Underperform,Market Perform,down,HT
+2019-10-18,Wells Fargo,Underperform,,main,HT
+2019-10-24,Deutsche Bank,Hold,,main,HT
+2020-02-26,Deutsche Bank,Hold,,main,HT
+2020-03-04,B. Riley FBR,Neutral,,main,HT
+2020-03-10,DA Davidson,Underperform,Neutral,down,HT
+2020-03-17,Stifel,Hold,,main,HT
+2020-03-23,B. Riley FBR,Neutral,,main,HT
+2020-04-30,B. Riley FBR,Neutral,,main,HT
+2020-05-11,B. Riley FBR,Neutral,,main,HT
+2020-06-05,Stifel,Hold,,main,HT
+2020-07-22,Wells Fargo,Underweight,,main,HT
+2020-10-19,Baird,Neutral,,main,HT
+2020-11-16,Wells Fargo,Underweight,,main,HT
+2021-04-28,Barclays,Underweight,,main,HT
+2021-06-04,Barclays,Underweight,,main,HT
+2021-07-29,Wells Fargo,Equal-Weight,,main,HT
+2021-10-18,Wells Fargo,Overweight,Equal-Weight,up,HT

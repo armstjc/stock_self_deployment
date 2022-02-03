@@ -1,0 +1,135 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-12,Deutsche Bank,Buy,,init,CONE
+2013-02-12,Bank of America,Neutral,,init,CONE
+2013-02-12,Morgan Stanley,Equal-Weight,,init,CONE
+2013-05-28,Morgan Stanley,Overweight,Equal-Weight,up,CONE
+2013-06-10,Raymond James,Strong Buy,Outperform,up,CONE
+2013-07-09,Jefferies,Buy,,init,CONE
+2013-07-23,KeyBanc,Hold,,init,CONE
+2013-08-08,Deutsche Bank,Buy,,main,CONE
+2013-09-12,Stephens & Co.,Overweight,,init,CONE
+2013-09-30,Evercore Partners,Overweight,,init,CONE
+2013-10-16,Bank of America,Buy,Neutral,up,CONE
+2014-04-04,Cowen & Co.,Outperform,,init,CONE
+2014-05-09,Jefferies,Buy,,main,CONE
+2014-07-22,Deutsche Bank,Buy,,main,CONE
+2014-07-24,Barclays,Equal-Weight,,init,CONE
+2014-08-07,Raymond James,Strong Buy,,main,CONE
+2014-08-27,Citigroup,Neutral,,init,CONE
+2014-09-10,Stifel Nicolaus,Hold,,init,CONE
+2014-10-10,Deutsche Bank,Buy,,main,CONE
+2014-10-14,RBC Capital,Outperform,,init,CONE
+2014-11-10,Morgan Stanley,Overweight,,main,CONE
+2014-11-17,Stifel,Hold,Buy,down,CONE
+2014-12-12,Citigroup,Buy,Neutral,up,CONE
+2014-12-12,Citigroup,Buy,Neutral,up,CONE
+2015-01-26,Deutsche Bank,Buy,,main,CONE
+2015-01-26,Stephens & Co.,Equal-Weight,Overweight,up,CONE
+2015-02-04,MLV & Co.,Hold,,init,CONE
+2015-02-19,Stifel Nicolaus,Buy,,main,CONE
+2015-04-06,Deutsche Bank,Buy,,main,CONE
+2015-04-27,Citigroup,Neutral,,main,CONE
+2015-04-29,Stephens & Co.,Overweight,Equal-Weight,up,CONE
+2015-05-08,Barclays,Equal-Weight,,main,CONE
+2015-07-02,Citigroup,Neutral,Buy,down,CONE
+2015-08-11,Deutsche Bank,Buy,,main,CONE
+2015-08-20,Gabelli & Co.,Hold,Buy,down,CONE
+2015-11-24,SunTrust Robinson Humphrey,Buy,,init,CONE
+2015-12-22,JP Morgan,Overweight,,init,CONE
+2016-01-05,Deutsche Bank,Buy,,main,CONE
+2016-02-25,JP Morgan,Overweight,,main,CONE
+2016-02-25,Jefferies,Buy,,main,CONE
+2016-02-25,Stifel Nicolaus,Buy,,main,CONE
+2016-02-26,RBC Capital,Outperform,,main,CONE
+2016-03-24,JP Morgan,Overweight,,main,CONE
+2016-06-01,Wells Fargo,Outperform,,init,CONE
+2016-07-07,Citigroup,Neutral,,main,CONE
+2016-07-18,Deutsche Bank,Buy,,main,CONE
+2016-07-21,SunTrust Robinson Humphrey,Buy,,init,CONE
+2016-08-11,Jefferies,Buy,,main,CONE
+2016-08-18,Barclays,Overweight,Equal-Weight,up,CONE
+2016-12-02,Guggenheim,Buy,,init,CONE
+2017-01-25,Citigroup,Sell,Neutral,down,CONE
+2017-04-07,Macquarie,Outperform,,init,CONE
+2017-04-25,Mitsubishi UFJ,Neutral,,init,CONE
+2017-06-30,Credit Suisse,Outperform,,init,CONE
+2017-08-25,Morgan Stanley,Overweight,,main,CONE
+2017-09-22,William Blair,Outperform,,init,CONE
+2017-11-01,UBS,Buy,,main,CONE
+2017-11-13,Jefferies,Buy,,main,CONE
+2017-11-17,Morgan Stanley,Overweight,,main,CONE
+2018-04-09,Moffett Nathanson,Neutral,,init,CONE
+2018-05-31,Deutsche Bank,Buy,Buy,main,CONE
+2018-07-13,Bank of America,Buy,Buy,main,CONE
+2018-07-18,BMO Capital,Outperform,,init,CONE
+2018-08-03,Stifel Nicolaus,Buy,Buy,main,CONE
+2018-08-28,Jefferies,Buy,Buy,main,CONE
+2018-09-20,Berenberg,Hold,,init,CONE
+2018-11-01,BMO Capital,Outperform,Outperform,main,CONE
+2018-11-01,Jefferies,Buy,Buy,main,CONE
+2019-01-02,Bank of America,Neutral,Buy,down,CONE
+2019-02-22,Jefferies,Hold,Buy,down,CONE
+2019-02-25,Credit Suisse,Neutral,Outperform,down,CONE
+2019-05-07,Berenberg,Buy,Hold,up,CONE
+2019-05-17,Deutsche Bank,Buy,Hold,up,CONE
+2019-06-13,UBS,Neutral,Buy,down,CONE
+2019-08-02,Stifel,Buy,,main,CONE
+2019-08-02,Raymond James,Strong Buy,,main,CONE
+2019-09-19,Morgan Stanley,Overweight,,main,CONE
+2019-10-03,Wells Fargo,Outperform,,main,CONE
+2019-10-04,Cowen & Co.,Market Perform,Outperform,down,CONE
+2019-11-01,Raymond James,Strong Buy,,main,CONE
+2019-11-01,JP Morgan,Neutral,Overweight,down,CONE
+2019-11-04,UBS,Neutral,,main,CONE
+2019-12-17,Morgan Stanley,Overweight,,main,CONE
+2019-12-17,KeyBanc,Overweight,Sector Weight,up,CONE
+2020-01-14,BMO Capital,Market Perform,Outperform,down,CONE
+2020-02-13,Wells Fargo,Overweight,,main,CONE
+2020-02-21,Stifel Nicolaus,Buy,,main,CONE
+2020-02-21,Raymond James,Strong Buy,,main,CONE
+2020-02-21,Cowen & Co.,Outperform,Market Perform,up,CONE
+2020-02-21,SunTrust Robinson Humphrey,Buy,,main,CONE
+2020-03-16,Raymond James,Outperform,Strong Buy,down,CONE
+2020-03-17,Citigroup,Neutral,Sell,up,CONE
+2020-04-27,KeyBanc,Overweight,,main,CONE
+2020-04-30,Citigroup,Neutral,,main,CONE
+2020-05-01,Wells Fargo,Overweight,,main,CONE
+2020-05-01,Raymond James,Outperform,,main,CONE
+2020-05-04,Jefferies,Buy,Hold,up,CONE
+2020-05-06,Credit Suisse,Neutral,,main,CONE
+2020-06-03,Morgan Stanley,Overweight,,main,CONE
+2020-06-23,Raymond James,Outperform,,main,CONE
+2020-06-30,KeyBanc,Sector Weight,Overweight,down,CONE
+2020-07-10,Wells Fargo,Overweight,,main,CONE
+2020-07-15,Barclays,Equal-Weight,,init,CONE
+2020-08-03,Deutsche Bank,Buy,,main,CONE
+2020-08-04,Credit Suisse,Neutral,,main,CONE
+2020-08-11,Citigroup,Neutral,,main,CONE
+2020-11-03,Credit Suisse,Neutral,,main,CONE
+2020-12-03,Mizuho,Neutral,,init,CONE
+2021-02-19,Raymond James,Outperform,,main,CONE
+2021-03-12,Evercore ISI Group,In-Line,,init,CONE
+2021-04-30,Raymond James,Underperform,Outperform,down,CONE
+2021-06-11,Deutsche Bank,Buy,,main,CONE
+2021-06-17,Credit Suisse,Neutral,,main,CONE
+2021-06-17,Cowen & Co.,Market Perform,Outperform,down,CONE
+2021-07-06,BMO Capital,Outperform,Market Perform,up,CONE
+2021-07-29,Truist Securities,Hold,Buy,down,CONE
+2021-07-29,Raymond James,Outperform,Underperform,up,CONE
+2021-07-30,Wells Fargo,Overweight,,main,CONE
+2021-07-30,Credit Suisse,Neutral,,main,CONE
+2021-08-25,Barclays,Equal-Weight,,main,CONE
+2021-10-13,Wells Fargo,Equal-Weight,Overweight,down,CONE
+2021-10-26,Evercore ISI Group,Outperform,,init,CONE
+2021-10-28,Barclays,Equal-Weight,,main,CONE
+2021-10-29,Raymond James,Outperform,,main,CONE
+2021-10-29,Credit Suisse,Neutral,,main,CONE
+2021-10-29,Wells Fargo,Equal-Weight,,main,CONE
+2021-11-15,William Blair,Market Perform,Outperform,down,CONE
+2021-11-16,Credit Suisse,Neutral,,main,CONE
+2021-11-16,Stifel,Hold,Buy,down,CONE
+2021-11-16,Deutsche Bank,Hold,Buy,down,CONE
+2021-11-16,RBC Capital,Sector Perform,Outperform,down,CONE
+2021-11-16,BMO Capital,Market Perform,Outperform,down,CONE
+2021-11-16,Raymond James,Market Perform,Outperform,down,CONE
+2021-11-29,Jefferies,Hold,Buy,down,CONE

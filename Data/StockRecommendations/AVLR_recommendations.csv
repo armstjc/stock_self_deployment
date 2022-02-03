@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-07-10,JP Morgan,Neutral,,init,AVLR
+2018-07-10,Goldman Sachs,Neutral,,init,AVLR
+2018-07-10,KeyBanc,Sector Weight,,init,AVLR
+2018-08-16,Goldman Sachs,Buy,Neutral,up,AVLR
+2018-10-01,KeyBanc,Overweight,Sector Weight,up,AVLR
+2018-11-08,JMP Securities,Market Outperform,Market Perform,up,AVLR
+2018-12-13,JP Morgan,Overweight,Neutral,up,AVLR
+2019-02-13,JMP Securities,Market Outperform,Market Outperform,main,AVLR
+2019-02-13,KeyBanc,Overweight,Overweight,main,AVLR
+2019-04-12,Needham,Buy,,init,AVLR
+2019-05-08,JMP Securities,Market Outperform,,main,AVLR
+2019-05-08,KeyBanc,Overweight,,main,AVLR
+2019-07-30,Stephens & Co.,Overweight,,init,AVLR
+2019-08-08,JP Morgan,Overweight,,main,AVLR
+2019-08-08,Stifel Nicolaus,Buy,Hold,up,AVLR
+2019-08-08,William Blair,Outperform,,init,AVLR
+2019-08-08,KeyBanc,Overweight,,main,AVLR
+2019-08-26,Canaccord Genuity,Buy,,init,AVLR
+2019-09-06,Raymond James,Outperform,,init,AVLR
+2019-10-11,Mizuho,Buy,,init,AVLR
+2019-10-29,Piper Jaffray,Overweight,,init,AVLR
+2019-11-06,Raymond James,Outperform,,main,AVLR
+2020-02-13,Raymond James,Outperform,,main,AVLR
+2020-02-13,Canaccord Genuity,Buy,,main,AVLR
+2020-02-20,Citigroup,Buy,,init,AVLR
+2020-03-31,Piper Sandler,Overweight,,main,AVLR
+2020-04-13,Needham,Buy,,main,AVLR
+2020-05-08,Piper Sandler,Overweight,,main,AVLR
+2020-05-08,Raymond James,Outperform,,main,AVLR
+2020-05-08,JMP Securities,Market Outperform,,main,AVLR
+2020-06-23,Piper Sandler,Overweight,,main,AVLR
+2020-06-24,Needham,Buy,,main,AVLR
+2020-08-13,Raymond James,Outperform,,main,AVLR
+2020-11-06,Piper Sandler,Overweight,,main,AVLR
+2020-11-06,Needham,Buy,,main,AVLR
+2020-11-06,Raymond James,Outperform,,main,AVLR
+2020-12-09,JP Morgan,Neutral,Overweight,down,AVLR
+2021-01-27,Piper Sandler,Overweight,,main,AVLR
+2021-02-11,Piper Sandler,Overweight,,main,AVLR
+2021-02-11,Needham,Buy,,main,AVLR
+2021-02-11,Mizuho,Buy,,main,AVLR
+2021-02-11,Canaccord Genuity,Buy,,main,AVLR
+2021-02-11,Raymond James,Outperform,,main,AVLR
+2021-04-07,Morgan Stanley,Overweight,,init,AVLR
+2021-05-07,Morgan Stanley,Overweight,,main,AVLR
+2021-05-07,Raymond James,Outperform,,main,AVLR
+2021-08-06,Piper Sandler,Overweight,,main,AVLR
+2021-08-06,Raymond James,Outperform,,main,AVLR
+2021-08-24,Berenberg,Buy,,init,AVLR
+2021-08-25,Berenberg,Buy,,init,AVLR
+2021-12-14,JP Morgan,Overweight,Neutral,up,AVLR

@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-22,Baird,Outperform,,init,BL
+2016-11-22,Pacific Crest,Overweight,,init,BL
+2016-11-22,JP Morgan,Neutral,,init,BL
+2016-11-22,Raymond James,Outperform,,init,BL
+2016-11-22,Goldman Sachs,Neutral,,init,BL
+2017-06-26,SunTrust Robinson Humphrey,Buy,,init,BL
+2017-11-16,JMP Securities,Market Outperform,Market Perform,up,BL
+2017-11-17,KeyBanc,Overweight,,main,BL
+2018-01-25,JP Morgan,Underweight,Neutral,down,BL
+2018-03-12,KeyBanc,Overweight,Overweight,main,BL
+2018-03-19,SunTrust Robinson Humphrey,Hold,Buy,down,BL
+2018-09-18,KeyBanc,Overweight,Overweight,main,BL
+2018-10-19,Oppenheimer,Perform,,init,BL
+2018-11-02,Baird,Outperform,Outperform,main,BL
+2018-11-16,KeyBanc,Overweight,Overweight,main,BL
+2019-01-22,Raymond James,Market Perform,Outperform,down,BL
+2019-07-02,Goldman Sachs,Sell,Buy,down,BL
+2019-08-02,KeyBanc,Overweight,,main,BL
+2019-11-26,Piper Jaffray,Neutral,,init,BL
+2019-11-26,PiperJaffray,Neutral,,init,BL
+2020-01-17,Oppenheimer,Outperform,Perform,up,BL
+2020-02-11,JMP Securities,Market Outperform,,main,BL
+2020-02-14,Piper Sandler,Overweight,Neutral,up,BL
+2020-03-17,Oppenheimer,Outperform,,main,BL
+2020-03-31,Piper Sandler,Overweight,,main,BL
+2020-05-14,Oppenheimer,Outperform,,main,BL
+2020-05-28,Piper Sandler,Overweight,,main,BL
+2020-06-18,Baird,Outperform,,main,BL
+2020-07-01,KeyBanc,Overweight,,init,BL
+2020-08-07,Piper Sandler,Overweight,,main,BL
+2020-08-10,Truist Securities,Hold,,main,BL
+2020-10-06,BTIG,Buy,,init,BL
+2020-10-30,KeyBanc,Overweight,,main,BL
+2020-10-30,Piper Sandler,Overweight,,main,BL
+2021-02-02,KeyBanc,Overweight,,main,BL
+2021-02-02,JMP Securities,Market Outperform,,main,BL
+2021-02-12,KeyBanc,Overweight,,main,BL
+2021-02-12,Piper Sandler,Overweight,,main,BL
+2021-02-12,Oppenheimer,Outperform,,main,BL
+2021-03-04,Berenberg,Buy,,init,BL
+2021-04-23,B of A Securities,Neutral,,init,BL
+2021-05-07,BTIG,Buy,,main,BL
+2021-11-05,Piper Sandler,Overweight,,main,BL
+2021-11-05,Oppenheimer,Outperform,,main,BL

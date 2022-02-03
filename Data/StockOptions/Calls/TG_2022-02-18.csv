@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TG220218C00007500,2021-12-23 20:44:41+00:00,7.5,4.3,3.0,5.1,0.0,0.0,2.0,2,2.9843775390625,True,REGULAR,USD,TG
+TG220218C00012500,2022-01-24 20:17:33+00:00,12.5,0.2,0.0,0.0,0.0,0.0,18.0,0,0.062509375,False,REGULAR,USD,TG
+TG220218C00015000,2022-01-05 15:06:28+00:00,15.0,0.1,0.0,0.0,0.0,0.0,,0,0.2500075,False,REGULAR,USD,TG

@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-01-04,JP Morgan,Overweight,,init,HYFM
+2021-01-04,Stifel,Buy,,init,HYFM
+2021-01-04,Truist Securities,Buy,,init,HYFM
+2021-02-22,Truist Securities,Buy,,main,HYFM
+2021-10-27,Stifel,Buy,,main,HYFM
+2021-12-07,Wells Fargo,Equal-Weight,,init,HYFM

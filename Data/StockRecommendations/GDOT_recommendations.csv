@@ -1,0 +1,163 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-24,JP Morgan,Overweight,,main,GDOT
+2012-04-27,Compass Point,Neutral,,down,GDOT
+2012-04-27,Deutsche Bank,Buy,,main,GDOT
+2012-04-27,JP Morgan,Overweight,,main,GDOT
+2012-05-17,Goldman Sachs,Neutral,,down,GDOT
+2012-05-24,Morgan Stanley,Equal-Weight,,down,GDOT
+2012-07-27,Deutsche Bank,Hold,Buy,down,GDOT
+2012-07-27,Keefe Bruyette & Woods,Market Perform,Outperform,down,GDOT
+2012-07-27,JMP Securities,Market Perform,Outperform,down,GDOT
+2012-07-27,Jefferies,Hold,Buy,down,GDOT
+2012-07-27,Compass Point,Neutral,,main,GDOT
+2012-07-27,Wedbush,Neutral,Outperform,down,GDOT
+2012-07-27,Topeka,Hold,,main,GDOT
+2012-07-27,Sterne Agee,Neutral,Buy,down,GDOT
+2012-07-27,JP Morgan,Neutral,Overweight,down,GDOT
+2012-07-30,Sidoti & Co.,Buy,Neutral,up,GDOT
+2012-07-30,Compass Point,Neutral,,main,GDOT
+2012-07-30,DA Davidson,Neutral,Buy,down,GDOT
+2012-08-06,Jefferies,Hold,,main,GDOT
+2012-09-05,PiperJaffray,Overweight,Neutral,up,GDOT
+2012-09-24,SunTrust Robinson Humphrey,Neutral,Reduce,up,GDOT
+2012-10-08,Credit Suisse,Neutral,,main,GDOT
+2012-10-09,PiperJaffray,Overweight,,main,GDOT
+2012-10-10,Jefferies,Hold,,main,GDOT
+2012-11-02,Nomura,Neutral,,main,GDOT
+2012-11-02,Deutsche Bank,Hold,,main,GDOT
+2013-01-16,SunTrust Robinson Humphrey,Reduce,Neutral,down,GDOT
+2013-01-16,Compass Point,Neutral,,main,GDOT
+2013-02-01,Compass Point,Neutral,,main,GDOT
+2013-02-04,BTIG Research,Buy,,init,GDOT
+2013-02-04,Jefferies,Hold,,main,GDOT
+2013-03-13,Jefferies,Hold,,main,GDOT
+2013-03-26,JMP Securities,Market Outperform,Market Perform,up,GDOT
+2013-05-01,Compass Point,Buy,Neutral,up,GDOT
+2013-05-01,Nomura,Neutral,,main,GDOT
+2013-06-11,BTIG Research,Buy,,main,GDOT
+2013-06-11,Compass Point,Buy,,main,GDOT
+2013-06-18,Morgan Stanley,Underweight,,init,GDOT
+2013-07-31,Compass Point,Buy,,main,GDOT
+2013-07-31,Nomura,Neutral,,main,GDOT
+2013-08-15,Compass Point,Neutral,Buy,down,GDOT
+2013-09-03,Compass Point,Buy,Neutral,up,GDOT
+2013-09-09,SunTrust Robinson Humphrey,Neutral,Reduce,up,GDOT
+2013-09-27,BTIG Research,Buy,,main,GDOT
+2013-10-09,PiperJaffray,Neutral,Overweight,down,GDOT
+2013-10-16,Janney Capital,Sell,Neutral,down,GDOT
+2013-10-29,PiperJaffray,Overweight,Neutral,up,GDOT
+2013-11-01,Citigroup,Neutral,,main,GDOT
+2013-11-01,SunTrust Robinson Humphrey,Neutral,,main,GDOT
+2013-11-01,Deutsche Bank,Hold,,main,GDOT
+2013-11-01,Compass Point,Buy,,main,GDOT
+2013-11-01,Nomura,Neutral,,main,GDOT
+2013-11-01,JP Morgan,Overweight,,up,GDOT
+2013-11-21,Portales Partners,Underperform,Sector Perform,down,GDOT
+2013-11-25,Jefferies,Buy,Hold,up,GDOT
+2014-02-05,Janney Capital,Neutral,Sell,up,GDOT
+2014-02-18,Morgan Stanley,Equal-weight,Underperform,up,GDOT
+2014-05-01,Deutsche Bank,Hold,,main,GDOT
+2014-05-02,Compass Point,Buy,,main,GDOT
+2014-05-13,Portales Partners,Sector Perform,Underperform,up,GDOT
+2014-07-24,Portales Partners,Underperform,Sector Perform,down,GDOT
+2014-08-01,Nomura,Neutral,,main,GDOT
+2014-08-05,Jefferies,Buy,,main,GDOT
+2014-09-03,Raymond James,Underperform,Market Perform,down,GDOT
+2014-09-16,Sterne Agee,Neutral,,init,GDOT
+2014-10-31,Credit Suisse,Neutral,,main,GDOT
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,GDOT
+2014-12-22,Deutsche Bank,Hold,,main,GDOT
+2015-01-15,JP Morgan,Neutral,Overweight,down,GDOT
+2015-02-02,Jefferies,Buy,,main,GDOT
+2015-02-04,Keefe Bruyette & Woods,Market Perform,,main,GDOT
+2015-02-11,JMP Securities,Market Outperform,,main,GDOT
+2015-02-13,JP Morgan,Neutral,,main,GDOT
+2015-03-05,Credit Suisse,Outperform,Neutral,up,GDOT
+2015-03-30,Jefferies,Buy,,main,GDOT
+2015-04-23,Citigroup,Neutral,,main,GDOT
+2015-05-08,JP Morgan,Neutral,,main,GDOT
+2015-05-08,Compass Point,Neutral,Buy,down,GDOT
+2015-06-23,Deutsche Bank,Hold,,main,GDOT
+2015-06-23,SunTrust Robinson Humphrey,Neutral,,main,GDOT
+2015-06-23,Keefe Bruyette & Woods,Market Perform,,main,GDOT
+2015-06-23,Compass Point,Neutral,,main,GDOT
+2015-08-14,JP Morgan,Neutral,,main,GDOT
+2015-08-25,Portales Partners,Outperform,Sector Perform,up,GDOT
+2015-09-30,Cowen & Co.,Market Perform,,init,GDOT
+2015-11-06,Deutsche Bank,Hold,,main,GDOT
+2015-11-06,BTIG Research,Neutral,Buy,down,GDOT
+2016-02-16,BTIG Research,Buy,Neutral,up,GDOT
+2016-02-25,Deutsche Bank,Hold,,main,GDOT
+2016-03-04,Northland Securities,Outperform,,init,GDOT
+2016-03-18,BTIG Research,Neutral,Buy,down,GDOT
+2016-05-05,Morgan Stanley,Equal-Weight,,main,GDOT
+2016-08-05,Deutsche Bank,Hold,,main,GDOT
+2016-08-08,Keefe Bruyette & Woods,Market Perform,,main,GDOT
+2017-01-04,Guggenheim,Buy,,init,GDOT
+2017-01-10,Loop Capital,Buy,,init,GDOT
+2017-01-17,Citigroup,Buy,Neutral,up,GDOT
+2017-03-14,SunTrust Robinson Humphrey,Buy,Hold,up,GDOT
+2017-08-09,Deutsche Bank,Hold,,main,GDOT
+2017-08-09,Lake Street,Buy,Hold,up,GDOT
+2017-08-09,William Blair,Outperform,Market Perform,up,GDOT
+2017-09-18,Citigroup,Buy,,main,GDOT
+2017-09-19,Citigroup,Buy,,main,GDOT
+2017-10-06,Craig-Hallum,Buy,,init,GDOT
+2017-10-11,Lake Street,Hold,Buy,down,GDOT
+2017-11-08,BTIG Research,Buy,Neutral,up,GDOT
+2017-11-08,Deutsche Bank,Hold,,main,GDOT
+2017-11-13,Jefferies,Buy,,main,GDOT
+2017-11-13,Citigroup,Neutral,Buy,down,GDOT
+2018-02-13,Citigroup,Buy,Neutral,main,GDOT
+2018-02-13,Citigroup,Buy,Neutral,up,GDOT
+2018-02-22,Citigroup,Buy,Buy,main,GDOT
+2018-02-22,Cowen & Co.,Market Perform,Market Perform,main,GDOT
+2018-02-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,GDOT
+2018-03-13,Compass Point,Neutral,Buy,down,GDOT
+2018-06-18,BTIG Research,Neutral,Buy,down,GDOT
+2018-07-19,Morgan Stanley,Equal-Weight,Equal-Weight,main,GDOT
+2018-08-09,Jefferies,Buy,Buy,main,GDOT
+2018-08-09,Citigroup,Buy,Buy,main,GDOT
+2018-11-15,Barclays,Overweight,,init,GDOT
+2019-01-04,BTIG Research,Buy,Neutral,up,GDOT
+2019-04-12,Needham,Buy,,init,GDOT
+2019-05-09,Guggenheim,Neutral,Buy,down,GDOT
+2019-05-09,BTIG,Neutral,Buy,down,GDOT
+2019-08-08,Deutsche Bank,Hold,,main,GDOT
+2019-08-08,Keefe Bruyette & Woods,Market Perform,Outperform,down,GDOT
+2019-08-09,Guggenheim,Buy,Neutral,up,GDOT
+2019-09-05,Jefferies,Hold,Buy,down,GDOT
+2019-09-12,Canaccord Genuity,Hold,,init,GDOT
+2019-10-11,Northland Securities,Outperform,Market Perform,up,GDOT
+2019-10-30,Deutsche Bank,Hold,,main,GDOT
+2019-12-19,Canaccord Genuity,Hold,,main,GDOT
+2019-12-19,Citigroup,Sell,Neutral,down,GDOT
+2019-12-20,Deutsche Bank,Hold,,main,GDOT
+2020-02-04,Deutsche Bank,Hold,,main,GDOT
+2020-02-04,Citigroup,Neutral,Sell,up,GDOT
+2020-02-20,Canaccord Genuity,Hold,,main,GDOT
+2020-02-20,SunTrust Robinson Humphrey,Buy,,main,GDOT
+2020-02-20,Needham,Buy,,main,GDOT
+2020-02-24,Barclays,Overweight,,main,GDOT
+2020-03-19,Northland Securities,Outperform,Market Perform,up,GDOT
+2020-03-20,Needham,Buy,,main,GDOT
+2020-03-25,Needham,Buy,,main,GDOT
+2020-03-26,BTIG,Buy,Neutral,up,GDOT
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,GDOT
+2020-03-26,Citigroup,Neutral,,main,GDOT
+2020-05-04,Barclays,Overweight,,main,GDOT
+2020-05-12,JP Morgan,Neutral,,main,GDOT
+2020-05-12,SunTrust Robinson Humphrey,Buy,,main,GDOT
+2020-05-12,Needham,Buy,,main,GDOT
+2020-06-03,BTIG,Buy,,main,GDOT
+2020-08-05,Canaccord Genuity,Hold,,main,GDOT
+2020-08-05,Deutsche Bank,Hold,,main,GDOT
+2020-08-05,Needham,Buy,,main,GDOT
+2020-08-06,Citigroup,Neutral,,main,GDOT
+2020-10-05,Craig-Hallum,Buy,,main,GDOT
+2020-10-08,Needham,Buy,,main,GDOT
+2020-10-20,Jefferies,Hold,,main,GDOT
+2020-10-26,BTIG,Buy,,reit,GDOT
+2021-01-14,Northland Capital Markets,Market Perform,Outperform,down,GDOT
+2021-02-23,Needham,Buy,,main,GDOT
+2021-06-14,Citigroup,Neutral,,main,GDOT

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-03-04,JP Morgan,Overweight,Neutral,main,GRFS
+2015-02-12,Morgan Stanley,Equal-Weight,Overweight,down,GRFS
+2015-11-20,Berenberg,Hold,Buy,down,GRFS
+2015-12-02,HSBC,Hold,Buy,down,GRFS
+2016-01-04,Morgan Stanley,Underweight,Equal-Weight,down,GRFS
+2016-02-09,Berenberg,Buy,Hold,up,GRFS
+2016-03-17,Nomura,Buy,,init,GRFS
+2018-03-01,Morgan Stanley,Underweight,Underweight,main,GRFS
+2018-10-01,Morgan Stanley,Underweight,Underweight,main,GRFS
+2019-01-02,Morgan Stanley,Underweight,Underweight,main,GRFS
+2019-02-08,Berenberg,Hold,Buy,down,GRFS
+2019-06-27,JP Morgan,Overweight,Neutral,up,GRFS
+2019-10-28,Santander,Buy,Hold,up,GRFS
+2021-03-11,HSBC,Buy,Hold,up,GRFS
+2021-03-23,Credit Suisse,Outperform,Neutral,up,GRFS
+2021-11-05,Deutsche Bank,Hold,Buy,down,GRFS

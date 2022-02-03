@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SWI220318P00010000,2022-01-28 16:03:22+00:00,10.0,0.17,0.0,0.0,0.0,0.0,10,0,0.2500075,False,REGULAR,USD,SWI

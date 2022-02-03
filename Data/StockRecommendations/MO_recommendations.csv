@@ -1,0 +1,98 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-24,Citigroup,Neutral,,main,MO
+2012-07-24,Morgan Stanley,Equal-Weight,,main,MO
+2012-07-25,Jefferies,Hold,,main,MO
+2012-07-26,UBS,Neutral,Buy,down,MO
+2012-08-08,Deutsche Bank,Buy,,main,MO
+2012-09-21,Citigroup,Buy,Neutral,up,MO
+2012-10-26,Jefferies,Hold,,main,MO
+2012-11-19,UBS,Buy,Neutral,up,MO
+2013-01-10,Stifel Nicolaus,,,up,MO
+2013-02-01,UBS,Buy,,main,MO
+2013-02-19,Jefferies,Hold,,main,MO
+2013-02-26,Bank of America,Neutral,Buy,down,MO
+2013-11-25,RBC Capital,Outperform,,init,MO
+2013-12-02,Stifel Nicolaus,Buy,,main,MO
+2014-04-09,Nomura,Neutral,,init,MO
+2014-04-30,Nomura,Neutral,,main,MO
+2014-05-19,Wells Fargo,Market Perform,Outperform,down,MO
+2014-07-10,Cowen & Co.,Outperform,,init,MO
+2014-07-11,Cowen & Co.,Outperform,,init,MO
+2014-09-08,Stifel Nicolaus,Buy,,main,MO
+2014-09-26,Bank of America,Buy,Neutral,up,MO
+2014-12-12,Bank of America,Buy,,main,MO
+2015-01-15,Nomura,Buy,Neutral,up,MO
+2015-01-16,Nomura,Buy,Neutral,up,MO
+2015-02-02,Stifel Nicolaus,Buy,,main,MO
+2015-07-06,CLSA,Outperform,Underperform,up,MO
+2015-07-30,CLSA,Outperform,Buy,down,MO
+2015-10-30,Cowen & Co.,Market Perform,Outperform,down,MO
+2015-11-03,RBC Capital,Sector Perform,Outperform,down,MO
+2016-02-26,UBS,Neutral,,init,MO
+2016-03-24,Bank of America,Neutral,Buy,down,MO
+2016-05-09,Argus,Buy,Hold,up,MO
+2016-06-14,Berenberg,Buy,,init,MO
+2016-07-28,UBS,Neutral,,main,MO
+2016-09-12,Citigroup,Buy,,init,MO
+2016-09-15,CLSA,Outperform,,main,MO
+2016-09-21,Jefferies,Hold,,init,MO
+2017-01-04,Bank of America,Buy,Neutral,up,MO
+2017-02-03,Berenberg,Hold,Buy,down,MO
+2017-05-25,PiperJaffray,Overweight,,init,MO
+2017-07-17,Jefferies,Hold,,main,MO
+2017-07-31,RBC Capital,Sector Perform,Underperform,up,MO
+2017-07-31,UBS,Neutral,,main,MO
+2017-09-26,Cowen & Co.,Outperform,Market Perform,up,MO
+2017-10-27,UBS,Neutral,,main,MO
+2017-10-30,Citigroup,Buy,,main,MO
+2017-10-31,Citigroup,Buy,,main,MO
+2017-11-01,Edward Jones,Buy,Hold,up,MO
+2017-12-19,Berenberg,Buy,Hold,up,MO
+2018-01-19,Jefferies,Buy,Hold,up,MO
+2018-02-02,PiperJaffray,Overweight,Overweight,main,MO
+2018-03-26,Deutsche Bank,Buy,,init,MO
+2018-04-18,Citigroup,Neutral,Buy,down,MO
+2018-04-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,MO
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,MO
+2018-04-30,RBC Capital,Outperform,Sector Perform,up,MO
+2018-06-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,MO
+2018-07-27,Stifel Nicolaus,Buy,Buy,main,MO
+2018-08-24,Jefferies,Hold,Buy,down,MO
+2018-09-21,Citigroup,Neutral,Neutral,main,MO
+2018-10-16,Bernstein,Market Perform,,init,MO
+2018-10-29,Argus,Buy,Buy,main,MO
+2018-12-07,Barclays,Overweight,,init,MO
+2018-12-21,Citigroup,Sell,Neutral,down,MO
+2019-01-07,Cowen & Co.,Market Perform,Outperform,down,MO
+2019-01-22,Morgan Stanley,Underweight,Equal-Weight,down,MO
+2019-03-20,Bank of America,Buy,Buy,reit,MO
+2019-04-15,Morgan Stanley,Underweight,Underweight,main,MO
+2019-07-12,Goldman Sachs,Buy,Neutral,up,MO
+2019-07-31,Morgan Stanley,Underweight,,main,MO
+2019-08-07,Morgan Stanley,Underweight,,main,MO
+2019-08-23,Morgan Stanley,Equal-Weight,Underweight,up,MO
+2019-09-10,Piper Jaffray,Neutral,Overweight,down,MO
+2019-10-18,Citigroup,Neutral,Sell,up,MO
+2019-11-01,Citigroup,Neutral,,main,MO
+2019-12-02,Citi,Buy,Neutral,up,MO
+2019-12-16,Morgan Stanley,Equal-Weight,,main,MO
+2020-01-31,Piper Sandler,Overweight,Neutral,up,MO
+2020-01-31,Deutsche Bank,Buy,,main,MO
+2020-03-04,B of A Securities,Buy,,main,MO
+2020-03-16,Morgan Stanley,Overweight,Equal-Weight,up,MO
+2020-04-07,Citigroup,Buy,,main,MO
+2020-04-17,B of A Securities,Buy,,reit,MO
+2020-04-30,CFRA,Hold,,main,MO
+2020-05-01,Stifel,Buy,,main,MO
+2020-07-08,Barclays,Equal-Weight,Overweight,down,MO
+2020-07-22,Deutsche Bank,Buy,,main,MO
+2020-07-30,Citigroup,Buy,,main,MO
+2021-01-20,Bernstein,Outperform,,init,MO
+2021-01-22,Deutsche Bank,Buy,,main,MO
+2021-03-16,Citigroup,Neutral,Buy,down,MO
+2021-03-26,Jefferies,Buy,Hold,up,MO
+2021-05-05,Argus Research,Hold,Buy,down,MO
+2021-05-10,Morgan Stanley,Overweight,,main,MO
+2021-06-17,Redburn Partners,Neutral,,init,MO
+2021-10-29,Morgan Stanley,Equal-Weight,Overweight,down,MO
+2022-01-05,B of A Securities,Neutral,Buy,down,MO

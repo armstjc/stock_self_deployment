@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-12,Barclays,OVerweight,,init,FMX
+2012-07-20,Citigroup,Neutral,,init,FMX
+2012-08-17,Morgan Stanley,Overweight,Equal-Weight,up,FMX
+2013-01-10,JP Morgan,Overweight,,main,FMX
+2014-11-25,Barclays,Overweight,,main,FMX
+2014-11-25,Barclays,Overweight,,main,FMX
+2015-03-17,Barclays,Overweight,,main,FMX
+2015-05-04,HSBC,,Buy,down,FMX
+2015-05-07,RBC Capital,Overweight,Neutral,up,FMX
+2015-05-18,Morgan Stanley,Overweight,Equal-Weight,up,FMX
+2016-02-17,HSBC,Hold,Reduce,up,FMX
+2016-03-07,Barclays,Overweight,,main,FMX
+2016-04-29,Citigroup,Buy,Neutral,up,FMX
+2016-08-10,HSBC,Buy,Hold,up,FMX
+2016-10-14,Barclays,Overweight,,main,FMX
+2016-11-22,Stifel Nicolaus,Buy,,init,FMX
+2017-09-14,Morgan Stanley,Overweight,,init,FMX
+2017-10-02,JP Morgan,Overweight,Neutral,up,FMX
+2017-10-11,Barclays,Overweight,,main,FMX
+2020-01-07,Citigroup,Buy,Neutral,up,FMX
+2020-11-30,Itau BBA,Market Perform,Outperform,down,FMX
+2020-12-03,Morgan Stanley,Equal-Weight,Overweight,down,FMX
+2021-03-09,B of A Securities,Buy,Underperform,up,FMX
+2021-04-05,Itau BBA,Outperform,Market Perform,up,FMX
+2021-08-03,Barclays,Equal-Weight,,main,FMX
+2021-11-22,Barclays,Overweight,Equal-Weight,up,FMX
+2021-11-24,Morgan Stanley,Overweight,Equal-Weight,up,FMX

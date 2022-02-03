@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-30,KeyBanc,Buy,,up,KALU
+2012-04-30,Dahlman Rose,Buy,,up,KALU
+2012-09-14,Sidoti & Co.,Neutral,Buy,down,KALU
+2013-02-27,Sterne Agee,Neutral,,init,KALU
+2013-08-19,Sterne Agee,Buy,Neutral,up,KALU
+2013-10-21,Sterne Agee,Neutral,Buy,down,KALU
+2013-10-21,KeyBanc,Hold,Buy,down,KALU
+2014-01-15,Stifel Nicolaus,Buy,,main,KALU
+2014-07-17,JP Morgan,Neutral,,init,KALU
+2014-07-25,Stifel Nicolaus,Buy,,main,KALU
+2014-09-23,Tigress Financial,Buy,,init,KALU
+2015-02-19,JP Morgan,Neutral,,main,KALU
+2015-02-20,KeyBanc,Buy,Hold,up,KALU
+2015-04-15,JP Morgan,Neutral,,main,KALU
+2015-05-12,Morgan Stanley,Overweight,,init,KALU
+2015-07-28,KeyBanc,Sector Weight,Overweight,down,KALU
+2015-10-12,Deutsche Bank,Hold,,init,KALU
+2016-03-01,Deutsche Bank,Buy,Hold,up,KALU
+2016-03-11,Credit Suisse,Neutral,,init,KALU
+2016-05-19,Goldman Sachs,Neutral,,init,KALU
+2016-07-20,Bank of America,Neutral,Buy,down,KALU
+2016-09-06,Macquarie,Outperform,,init,KALU
+2016-09-09,Seaport Global,Buy,,init,KALU
+2016-12-14,Macquarie,Neutral,Outperform,down,KALU
+2017-01-12,Bank of America,Underperform,Neutral,down,KALU
+2017-07-21,Bank of America,Underperform,,main,KALU
+2017-07-25,Morgan Stanley,Overweight,,main,KALU
+2017-07-31,Deutsche Bank,Buy,,main,KALU
+2017-08-07,Cowen & Co.,Market Perform,Outperform,down,KALU
+2017-10-17,Deutsche Bank,Hold,Buy,down,KALU
+2017-10-20,Credit Suisse,Neutral,,main,KALU
+2017-11-16,Morgan Stanley,Equal-Weight,,main,KALU
+2018-02-23,Credit Suisse,Neutral,Neutral,main,KALU
+2018-02-27,Deutsche Bank,Hold,Hold,main,KALU
+2018-03-20,Goldman Sachs,Neutral,,init,KALU
+2018-06-15,JP Morgan,Neutral,Neutral,main,KALU
+2018-07-16,Jefferies,Hold,,init,KALU
+2018-07-25,Credit Suisse,Neutral,Neutral,main,KALU
+2018-08-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,KALU
+2018-08-14,Goldman Sachs,Sell,Neutral,down,KALU
+2018-10-23,Jefferies,Buy,Hold,up,KALU
+2019-08-09,Goldman Sachs,Neutral,Sell,up,KALU
+2020-01-16,Benchmark,Hold,,init,KALU
+2020-04-17,JP Morgan,Neutral,,main,KALU
+2020-12-04,Benchmark,Buy,Hold,up,KALU
+2021-04-23,JP Morgan,Neutral,,init,KALU
+2021-09-10,Goldman Sachs,Sell,,init,KALU
+2021-12-10,JP Morgan,Underweight,Neutral,down,KALU

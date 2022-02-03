@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-28,BMO Capital,Market Perform,,main,BCE
+2013-06-27,BMO Capital,Outperform,Market Perform,up,BCE
+2013-07-22,Scotiabank,Sector Perform,Sector Outperform,down,BCE
+2014-05-07,Credit Suisse,Neutral,,main,BCE
+2014-07-24,Credit Suisse,Neutral,,main,BCE
+2014-11-07,Barclays,Overweight,,main,BCE
+2014-11-07,JP Morgan,Overweight,,main,BCE
+2014-11-20,Citigroup,Buy,,init,BCE
+2015-02-06,JP Morgan,Overweight,,main,BCE
+2015-03-27,TD Securities,Hold,Reduce,up,BCE
+2015-04-13,ScotiaBank,Sector Weight,,up,BCE
+2015-05-04,RBC Capital,Outperform,Sector Perform,up,BCE
+2015-05-06,Bank of America,Neutral,Underperform,up,BCE
+2015-06-15,Canaccord Genuity,Hold,Underperform,up,BCE
+2015-07-23,Desjardins,Hold,Buy,down,BCE
+2015-08-03,Barclays,Overweight,,main,BCE
+2015-11-06,Canaccord Genuity,Buy,Hold,up,BCE
+2015-12-04,Goldman Sachs,Buy,,init,BCE
+2015-12-17,Morgan Stanley,Equal-Weight,Overweight,down,BCE
+2016-02-05,Barclays,Overweight,,main,BCE
+2016-05-26,Citigroup,Neutral,Buy,down,BCE
+2016-07-19,Citigroup,Neutral,,main,BCE
+2016-08-05,JP Morgan,Overweight,,main,BCE
+2017-04-06,Citigroup,Buy,Neutral,up,BCE
+2017-07-18,Argus,Hold,,init,BCE
+2017-08-04,Barclays,Overweight,,main,BCE
+2017-09-27,Morgan Stanley,Equal-Weight,,main,BCE
+2017-11-17,Morgan Stanley,Equal-Weight,,main,BCE
+2018-02-09,Barclays,Overweight,Overweight,main,BCE
+2018-10-18,Desjardins,Buy,Hold,up,BCE
+2018-11-02,Barclays,Overweight,Overweight,main,BCE
+2019-03-08,Argus,Buy,Hold,up,BCE
+2019-05-03,Citigroup,Neutral,Buy,down,BCE
+2019-06-18,TD Securities,Buy,Hold,up,BCE
+2019-07-08,JP Morgan,Neutral,Overweight,down,BCE
+2019-12-17,Morgan Stanley,Underweight,Equal-Weight,down,BCE
+2020-04-20,UBS,Neutral,,main,BCE
+2021-05-19,Wells Fargo,Overweight,,main,BCE

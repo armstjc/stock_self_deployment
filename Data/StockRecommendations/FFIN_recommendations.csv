@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-26,Macquarie,Underperform,Neutral,down,FFIN
+2013-08-06,Sterne Agee,Underperform,Neutral,down,FFIN
+2014-02-24,Sterne Agee,Neutral,Underperform,up,FFIN
+2014-04-22,Macquarie,Neutral,Underperform,up,FFIN
+2014-07-18,Macquarie,Neutral,,main,FFIN
+2014-08-27,Drexel Hamilton,Hold,,init,FFIN
+2014-09-19,Raymond James,Underperform,Market Perform,down,FFIN
+2015-01-23,Keefe Bruyette & Woods,Market Perform,,main,FFIN
+2015-06-12,PiperJaffray,Neutral,,init,FFIN
+2015-07-17,Keefe Bruyette & Woods,Market Perform,,main,FFIN
+2015-10-23,Macquarie,Neutral,,main,FFIN
+2016-01-29,Sandler O'Neill,Sell,Hold,down,FFIN
+2016-02-29,Hovde Group,Market Perform,Underperform,up,FFIN
+2016-11-18,Hovde Group,Underperform,Market Perform,down,FFIN
+2016-11-29,Keefe Bruyette & Woods,Underperform,Market Perform,down,FFIN
+2017-04-21,Keefe Bruyette & Woods,Market Perform,Underperform,up,FFIN
+2018-10-16,Baird,Neutral,,init,FFIN
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,FFIN
+2020-01-27,Stephens & Co.,Equal-Weight,,main,FFIN
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,FFIN
+2020-10-26,Piper Sandler,Underweight,,main,FFIN
+2021-07-27,Stephens & Co.,Equal-Weight,,main,FFIN
+2021-08-31,Janney Montgomery Scott,Neutral,,init,FFIN

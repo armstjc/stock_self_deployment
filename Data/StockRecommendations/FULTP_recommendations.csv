@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-27,Guggenheim,Buy,,up,FULTP
+2012-04-05,Bank oferica,Underperform,,init,FULTP
+2012-04-10,Guggenheim,Buy,,main,FULTP
+2012-09-10,Sterne Agee,Buy,Neutral,up,FULTP
+2012-10-09,Barclays,Equal-Weight,Overweight,down,FULTP
+2012-10-17,Sterne Agee,Buy,,main,FULTP
+2013-01-30,Jefferies,Hold,,main,FULTP
+2013-02-06,SunTrust Robinson Humphrey,Neutral,Buy,down,FULTP
+2013-03-01,Sterne Agee,Neutral,Buy,down,FULTP
+2013-04-18,Barclays,Equal-Weight,,main,FULTP
+2013-06-21,Credit Suisse,Underperform,Neutral,down,FULTP
+2013-07-10,BB&T Capital,Hold,Buy,down,FULTP
+2013-07-25,Sandler O'Neill,Hold,Buy,down,FULTP
+2013-07-25,Barclays,Equal-Weight,,main,FULTP
+2014-04-01,SunTrust Robinson Humphrey,Neutral,,init,FULTP
+2014-05-19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,FULTP
+2014-07-24,Barclays,Equal-Weight,,main,FULTP
+2014-12-11,Jefferies,Hold,,main,FULTP
+2015-01-22,Keefe Bruyette & Woods,Outperform,,main,FULTP
+2015-01-22,Jefferies,Hold,,main,FULTP
+2015-01-22,Barclays,Equal-Weight,,main,FULTP
+2015-04-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,FULTP
+2015-05-08,Raymond James,Market Perform,,init,FULTP
+2015-06-05,PiperJaffray,Neutral,,init,FULTP
+2015-06-16,Barclays,Equal-Weight,,main,FULTP
+2015-06-29,SunTrust Robinson Humphrey,Neutral,,main,FULTP
+2015-07-23,Jefferies,Hold,,main,FULTP
+2015-07-27,SunTrust Robinson Humphrey,Neutral,,main,FULTP
+2015-10-09,Barclays,Equal-Weight,,main,FULTP
+2015-10-21,Boenning & Scattergood,Overweight,Neutral,down,FULTP
+2015-10-22,Keefe Bruyette & Woods,Market Perform,,main,FULTP
+2015-11-18,JP Morgan,Neutral,,init,FULTP
+2016-01-21,Guggenheim,Buy,Neutral,up,FULTP
+2016-03-07,Guggenheim,Hold,Buy,down,FULTP
+2016-04-21,Boenning & Scattergood,Neutral,Outperform,down,FULTP
+2016-11-18,Hovde Group,Market Perform,Outperform,down,FULTP
+2016-12-06,Barclays,Underweight,Equal-Weight,down,FULTP
+2017-07-13,Stephens & Co.,Equal-Weight,,init,FULTP
+2018-03-27,DA Davidson,Neutral,,init,FULTP
+2018-04-19,Barclays,Underweight,Underweight,main,FULTP
+2018-07-19,PiperJaffray,Overweight,Neutral,up,FULTP
+2018-10-03,Barclays,Overweight,Underweight,up,FULTP
+2019-01-17,PiperJaffray,Neutral,Overweight,down,FULTP
+2020-06-01,Stephens & Co.,Equal-Weight,,init,FULTP
+2021-04-07,Raymond James,Market Perform,Outperform,down,FULTP

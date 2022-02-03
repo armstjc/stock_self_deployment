@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-07-09,Bank of America,Neutral,,init,CHRA
+2018-07-09,Stifel Nicolaus,Buy,,init,CHRA
+2018-07-09,Morgan Stanley,Overweight,,init,CHRA
+2018-08-15,Morgan Stanley,Overweight,Overweight,main,CHRA
+2018-10-03,Bank of America,Buy,Neutral,up,CHRA
+2019-08-16,Morgan Stanley,Equal-Weight,Overweight,down,CHRA
+2019-10-10,Morgan Stanley,Equal-Weight,,main,CHRA
+2020-05-18,B of A Securities,Underperform,,reit,CHRA
+2021-12-14,B. Riley Securities,Buy,,init,CHRA

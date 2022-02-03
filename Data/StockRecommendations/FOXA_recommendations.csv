@@ -1,0 +1,163 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-01,Bank of America,Buy,,init,FOXA
+2013-07-01,Deutsche Bank,Buy,,init,FOXA
+2013-07-01,Wedbush,Outperform,,init,FOXA
+2013-07-02,Morgan Stanley,Overweight,,init,FOXA
+2013-07-03,Bank of America,Buy,,init,FOXA
+2013-07-03,Needham,Buy,,init,FOXA
+2013-07-08,Sterne Agee,Buy,,init,FOXA
+2013-07-09,Barclays,Equal-Weight,Overweight,down,FOXA
+2013-07-18,Bernstein,Outperform,,init,FOXA
+2013-07-29,Deutsche Bank,Buy,,main,FOXA
+2013-09-10,ISI Group,Strong Buy,,init,FOXA
+2013-10-04,JP Morgan,Overweight,,init,FOXA
+2013-10-18,BTIG Research,Buy,Neutral,up,FOXA
+2013-10-25,FBR Capital,Outperform,,init,FOXA
+2013-12-19,Ascendiant Capital,Buy,,init,FOXA
+2014-01-15,Nomura,Buy,,init,FOXA
+2014-03-04,BMO Capital,Outperform,Market Perform,up,FOXA
+2014-04-03,Nomura,Buy,,main,FOXA
+2014-04-30,Citigroup,Buy,,main,FOXA
+2014-05-08,Nomura,Buy,,main,FOXA
+2014-05-08,FBR Capital,Outperform,,main,FOXA
+2014-05-19,Hudson Square,Hold,,init,FOXA
+2014-07-02,Nomura,Buy,,main,FOXA
+2014-07-09,Barclays,Overweight,,init,FOXA
+2014-07-17,ISI Group,Buy,Strong Buy,down,FOXA
+2014-07-23,Cowen & Co.,Market Perform,Outperform,down,FOXA
+2014-08-07,Cowen & Co.,Market Perform,Underperform,up,FOXA
+2014-09-22,Citigroup,Buy,,main,FOXA
+2014-10-31,FBR Capital,Outperform,,main,FOXA
+2014-11-24,Sterne Agee,Buy,,main,FOXA
+2014-12-08,UBS,Buy,,init,FOXA
+2014-12-16,Topeka,Buy,,init,FOXA
+2015-01-16,Stifel Nicolaus,Buy,,init,FOXA
+2015-01-22,Societe Generale,,,init,FOXA
+2015-02-05,UBS,Buy,,main,FOXA
+2015-02-05,Stifel Nicolaus,Buy,,main,FOXA
+2015-02-05,FBR Capital,Market Perform,,down,FOXA
+2015-03-05,Deutsche Bank,Buy,,init,FOXA
+2015-04-28,CLSA,Outperform,,init,FOXA
+2015-06-03,Credit Suisse,Outperform,,init,FOXA
+2015-06-15,Topeka,Hold,,down,FOXA
+2015-07-20,Macquarie,Neutral,Outperform,down,FOXA
+2015-08-14,Barclays,Overweight,,main,FOXA
+2015-08-14,Citigroup,Buy,,main,FOXA
+2015-08-18,Wells Fargo,Market Perform,Outperform,down,FOXA
+2015-08-24,Needham,Hold,Buy,down,FOXA
+2015-10-08,Pacific Crest,Overweight,,init,FOXA
+2015-11-05,Pacific Crest,Overweight,,main,FOXA
+2015-11-05,Macquarie,Neutral,,main,FOXA
+2015-11-18,Credit Suisse,Outperform,,main,FOXA
+2016-01-06,Credit Suisse,Outperform,,main,FOXA
+2016-02-05,Telsey Advisory Group,Outperform,,init,FOXA
+2016-02-09,UBS,Buy,,main,FOXA
+2016-02-09,Cowen & Co.,Market Perform,,main,FOXA
+2016-02-09,Morgan Stanley,Overweight,,main,FOXA
+2016-02-09,Stifel Nicolaus,Buy,,main,FOXA
+2016-02-18,Deutsche Bank,Buy,,main,FOXA
+2016-02-18,Deutsche Bank,Buy,,main,FOXA
+2016-02-29,Barclays,Overweight,,main,FOXA
+2016-03-17,BTIG Research,Neutral,Buy,down,FOXA
+2016-04-07,RBC Capital,Outperform,,init,FOXA
+2016-05-05,Goldman Sachs,Buy,,main,FOXA
+2016-05-05,Pacific Crest,Overweight,,main,FOXA
+2016-07-06,Brean Capital,Hold,,init,FOXA
+2016-07-25,Credit Suisse,Outperform,,main,FOXA
+2016-08-01,UBS,Buy,,main,FOXA
+2016-08-04,Jefferies,Buy,,main,FOXA
+2016-08-05,Deutsche Bank,Buy,,main,FOXA
+2016-08-05,Credit Suisse,Outperform,,main,FOXA
+2016-08-08,Barclays,Equal-Weight,Overweight,down,FOXA
+2016-08-15,Citigroup,Buy,,main,FOXA
+2016-09-16,Bernstein,Market Perform,Outperform,down,FOXA
+2016-11-22,Jefferies,Buy,,main,FOXA
+2016-12-12,Telsey Advisory Group,Market Perform,Outperform,down,FOXA
+2016-12-14,Brean Capital,Buy,Hold,up,FOXA
+2017-01-03,Wells Fargo,Outperform,Market Perform,up,FOXA
+2017-02-01,Moffett Nathanson,Buy,,up,FOXA
+2017-04-04,Rosenblatt,Neutral,,init,FOXA
+2017-05-11,Rosenblatt,Buy,Neutral,up,FOXA
+2017-07-25,OTR Global,Mixed,Positive,down,FOXA
+2017-08-11,PiperJaffray,Overweight,,init,FOXA
+2017-12-15,KeyBanc,Sector Weight,Overweight,down,FOXA
+2017-12-18,BMO Capital,Market Perform,Outperform,down,FOXA
+2017-12-21,Loop Capital,Sell,Hold,down,FOXA
+2018-01-09,Pivotal Research,Hold,Buy,down,FOXA
+2018-01-16,B. Riley FBR,Buy,Neutral,up,FOXA
+2018-02-12,BMO Capital,Market Perform,Market Perform,main,FOXA
+2018-03-16,Loop Capital,Buy,,init,FOXA
+2018-06-22,B. Riley FBR,Buy,Buy,main,FOXA
+2018-06-26,Buckingham,Buy,,init,FOXA
+2018-07-11,Credit Suisse,Outperform,,init,FOXA
+2018-07-20,UBS,Neutral,Buy,down,FOXA
+2018-08-07,Buckingham,Buy,Buy,main,FOXA
+2018-08-09,RBC Capital,Sector Perform,Outperform,down,FOXA
+2018-09-06,Macquarie,Neutral,Neutral,main,FOXA
+2018-11-08,Morgan Stanley,Overweight,Overweight,main,FOXA
+2019-02-25,Buckingham,Buy,Buy,main,FOXA
+2019-03-15,Moffett Nathanson,Buy,,init,FOXA
+2019-03-20,Bank of America,Buy,,init,FOXA
+2019-03-21,Atlantic Equities,Overweight,,init,FOXA
+2019-03-21,Credit Suisse,Outperform,,init,FOXA
+2019-03-22,Barclays,Equal-Weight,,init,FOXA
+2019-03-25,JP Morgan,Overweight,,init,FOXA
+2019-03-25,Loop Capital,Hold,,init,FOXA
+2019-04-03,UBS,Neutral,Neutral,main,FOXA
+2019-04-09,Citigroup,Neutral,,init,FOXA
+2019-06-26,Goldman Sachs,Buy,,init,FOXA
+2019-07-01,Guggenheim,Neutral,Buy,down,FOXA
+2019-09-09,Macquarie,Underperform,Neutral,down,FOXA
+2019-09-10,Atlantic Equities,Underweight,Overweight,down,FOXA
+2019-09-11,Citigroup,Neutral,,main,FOXA
+2019-09-24,Wells Fargo,Underperform,,init,FOXA
+2019-11-07,Wells Fargo,Underperform,,main,FOXA
+2020-01-16,UBS,Neutral,,main,FOXA
+2020-01-27,Morgan Stanley,Overweight,,main,FOXA
+2020-02-06,JP Morgan,Overweight,,main,FOXA
+2020-02-06,Barclays,Equal-Weight,,main,FOXA
+2020-02-06,Morgan Stanley,Overweight,,main,FOXA
+2020-02-06,CFRA,Buy,,main,FOXA
+2020-03-12,Atlantic Equities,Neutral,Underweight,up,FOXA
+2020-03-30,Credit Suisse,Outperform,,main,FOXA
+2020-04-02,Guggenheim,Buy,Neutral,up,FOXA
+2020-04-02,Guggenheim Securities,Buy,Neutral,up,FOXA
+2020-04-06,Wells Fargo,Underweight,,main,FOXA
+2020-04-08,Societe Generale,Hold,Sell,up,FOXA
+2020-04-14,Citigroup,Neutral,,main,FOXA
+2020-04-20,UBS,Neutral,,main,FOXA
+2020-04-23,Evercore ISI Group,In-Line,Outperform,down,FOXA
+2020-04-28,RBC Capital,Outperform,,init,FOXA
+2020-05-05,Morgan Stanley,Overweight,,main,FOXA
+2020-05-07,Morgan Stanley,Overweight,,main,FOXA
+2020-05-07,CFRA,Buy,,main,FOXA
+2020-05-07,BMO Capital,Market Perform,,main,FOXA
+2020-05-07,Wells Fargo,Underweight,,main,FOXA
+2020-05-11,Deutsche Bank,Buy,,main,FOXA
+2020-05-11,Rosenblatt,Sell,,reit,FOXA
+2020-06-18,Citigroup,Neutral,,main,FOXA
+2020-06-19,Macquarie,Neutral,Underperform,up,FOXA
+2020-07-13,Goldman Sachs,Sell,,init,FOXA
+2020-07-22,Credit Suisse,Outperform,,main,FOXA
+2020-08-06,BMO Capital,Market Perform,,main,FOXA
+2020-08-11,Rosenblatt,Sell,,main,FOXA
+2020-10-30,Morgan Stanley,Overweight,,main,FOXA
+2020-11-04,Morgan Stanley,Overweight,,main,FOXA
+2020-11-04,Deutsche Bank,Buy,,main,FOXA
+2020-11-05,BMO Capital,Market Perform,,main,FOXA
+2020-12-09,KeyBanc,Sector Weight,,init,FOXA
+2021-01-28,Macquarie,Neutral,,main,FOXA
+2021-02-08,Morgan Stanley,Overweight,,main,FOXA
+2021-02-10,Rosenblatt,Sell,,main,FOXA
+2021-04-07,Wells Fargo,Equal-Weight,Underweight,up,FOXA
+2021-04-12,Credit Suisse,Outperform,,main,FOXA
+2021-04-27,Morgan Stanley,Overweight,,main,FOXA
+2021-05-04,Rosenblatt,Neutral,Sell,up,FOXA
+2021-05-06,Rosenblatt,Neutral,,main,FOXA
+2021-06-09,Wells Fargo,Overweight,Equal-Weight,up,FOXA
+2021-06-29,Guggenheim,Neutral,Buy,down,FOXA
+2021-08-05,Guggenheim,Buy,Neutral,up,FOXA
+2021-09-30,Rosenblatt,Buy,Neutral,up,FOXA
+2021-10-08,Credit Suisse,Outperform,,main,FOXA
+2021-11-05,Goldman Sachs,Sell,,main,FOXA
+2021-12-14,Macquarie,Neutral,,main,FOXA

@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-18,Piper Sandler,Overweight,,init,NRIX
+2020-08-18,JP Morgan,Overweight,,init,NRIX
+2020-08-18,Stifel,Buy,,init,NRIX
+2020-08-18,Needham,Buy,,init,NRIX
+2020-11-19,Baird,Outperform,,init,NRIX
+2021-01-08,Needham,Buy,,main,NRIX
+2021-01-29,JP Morgan,Overweight,,main,NRIX
+2021-04-14,Berenberg,Buy,,init,NRIX
+2021-04-30,RBC Capital,Outperform,,init,NRIX
+2021-10-14,SVB Leerink,Outperform,,init,NRIX
+2021-10-27,SVB Leerink,Outperform,,main,NRIX
+2021-12-29,HC Wainwright & Co.,Buy,,init,NRIX

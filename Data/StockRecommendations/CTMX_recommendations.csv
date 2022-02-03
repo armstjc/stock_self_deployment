@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-11-02,Cowen & Co.,Outperform,,init,CTMX
+2015-11-02,Jefferies,Buy,,init,CTMX
+2015-11-02,Oppenheimer,Outperform,,init,CTMX
+2017-01-03,Oppenheimer,Perform,Outperform,down,CTMX
+2017-03-02,Nomura,Buy,,init,CTMX
+2017-03-27,H.C. Wainwright,Buy,,init,CTMX
+2017-09-08,Wedbush,Outperform,,init,CTMX
+2017-10-04,Bank of America,Buy,,main,CTMX
+2017-10-24,Cantor Fitzgerald,Overweight,,init,CTMX
+2018-01-05,Citigroup,Buy,,init,CTMX
+2018-03-08,Bank of America,Buy,Buy,main,CTMX
+2018-06-01,SunTrust Robinson Humphrey,Buy,,init,CTMX
+2018-09-13,H.C. Wainwright,Buy,,init,CTMX
+2018-11-26,PiperJaffray,Overweight,,init,CTMX
+2018-12-14,Goldman Sachs,Buy,,up,CTMX
+2019-02-27,Wedbush,Outperform,Outperform,main,CTMX
+2019-03-11,Barclays,Overweight,,init,CTMX
+2019-05-14,Cantor Fitzgerald,Overweight,,init,CTMX
+2019-06-03,Cantor Fitzgerald,Overweight,,reit,CTMX
+2019-06-13,Mizuho,Buy,,init,CTMX
+2019-11-11,Wedbush,Neutral,Outperform,down,CTMX
+2019-11-20,Guggenheim,Buy,,init,CTMX
+2020-02-28,Nomura,Buy,,main,CTMX
+2020-03-24,Wedbush,Outperform,Neutral,up,CTMX
+2020-05-14,H.C. Wainwright,Buy,,main,CTMX
+2020-06-01,Jefferies,Hold,Buy,down,CTMX
+2020-09-22,Guggenheim,Neutral,Buy,down,CTMX
+2021-03-23,Jefferies,Buy,Hold,up,CTMX
+2021-03-29,JP Morgan,Overweight,,init,CTMX
+2021-05-28,Barclays,Underweight,Equal-Weight,down,CTMX
+2021-11-15,BTIG,Buy,,init,CTMX
+2021-12-22,HC Wainwright & Co.,Buy,,main,CTMX

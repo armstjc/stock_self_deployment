@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-06,Barclays,Equal-Weight,,main,HE
+2012-08-21,ISI Group,Hold,,main,HE
+2012-11-19,Bank of America,Underperform,,main,HE
+2012-12-06,Gabelli & Co.,Hold,,init,HE
+2012-12-10,ISI Group,Hold,,main,HE
+2013-05-31,JP Morgan,Neutral,,init,HE
+2013-08-09,DA Davidson,Neutral,,main,HE
+2013-10-11,Wells Fargo,Outperform,,init,HE
+2014-03-06,JP Morgan,Neutral,,main,HE
+2014-04-08,Macquarie,Outperform,Neutral,up,HE
+2014-06-26,ISI Group,Cautious,Neutral,down,HE
+2014-07-09,JP Morgan,,Neutral,main,HE
+2014-09-02,ISI Group,Neutral,Cautious,up,HE
+2014-09-02,Wells Fargo,Outperform,,main,HE
+2014-10-14,Macquarie,Neutral,Outperform,down,HE
+2014-11-07,Barclays,Equal-Weight,,main,HE
+2015-04-30,Barclays,Underweight,Equal-Weight,down,HE
+2015-06-19,Macquarie,Neutral,,main,HE
+2015-11-20,Wells Fargo,Market Perform,Outperform,down,HE
+2016-01-04,Barclays,Underweight,,main,HE
+2016-03-18,Barclays,Underweight,,main,HE
+2017-10-12,JP Morgan,Neutral,,main,HE
+2018-01-25,JP Morgan,Neutral,Neutral,main,HE
+2018-02-02,UBS,Sell,,init,HE
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,HE
+2018-11-15,Bank of America,Underperform,Neutral,down,HE
+2019-08-09,JP Morgan,Underweight,Neutral,down,HE
+2019-09-13,UBS,Sell,,main,HE
+2020-01-08,Guggenheim,Neutral,,init,HE
+2020-04-14,Wells Fargo,Underweight,,main,HE
+2020-05-07,UBS,Sell,,main,HE
+2020-08-10,B of A Securities,Underperform,,main,HE
+2021-01-21,Guggenheim,Sell,Neutral,down,HE
+2021-05-11,Evercore ISI Group,In-Line,Underperform,up,HE

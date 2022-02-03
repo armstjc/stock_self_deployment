@@ -1,0 +1,216 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-04,Citigroup,Neutral,,main,DTE
+2012-07-18,Credit Suisse,Outperform,,main,DTE
+2012-07-23,Argus,Hold,Buy,down,DTE
+2012-07-30,Deutsche Bank,Hold,,main,DTE
+2012-07-30,Barclays,Equal-Weight,,main,DTE
+2012-07-30,BMO Capital,Market Perform,,main,DTE
+2012-07-31,Jefferies,Buy,,init,DTE
+2012-08-02,Pivotal Research,Buy,,main,DTE
+2012-09-18,Credit Suisse,Neutral,,main,DTE
+2012-09-25,Hudson Square,Buy,Hold,up,DTE
+2012-10-08,Pacific Crest,Sector Perform,,init,DTE
+2012-10-09,JP Morgan,Neutral,Overweight,down,DTE
+2012-10-15,Morgan Stanley,Overweight,,main,DTE
+2012-10-23,Barclays,Overweight,,main,DTE
+2012-10-24,ISI Group,Hold,,main,DTE
+2012-10-25,Wunderlich,Hold,,main,DTE
+2012-10-25,Deutsche Bank,Hold,,main,DTE
+2012-11-02,Wunderlich,Buy,,main,DTE
+2012-11-05,Deutsche Bank,Buy,,main,DTE
+2012-11-06,Pivotal Research,Buy,,main,DTE
+2012-11-14,Jefferies,Buy,,main,DTE
+2012-12-18,Deutsche Bank,Hold,,main,DTE
+2012-12-21,Wunderlich,Buy,,main,DTE
+2013-01-08,Citigroup,Neutral,,main,DTE
+2013-01-14,Brean Capital,Buy,,main,DTE
+2013-01-28,ISI Group,Buy,,main,DTE
+2013-02-15,ISI Group,Neutral,Buy,down,DTE
+2013-02-15,Nomura,Reduce,,main,DTE
+2013-02-15,Brean Capital,Buy,,main,DTE
+2013-02-19,JP Morgan,Neutral,,main,DTE
+2013-02-21,BMO Capital,Market Perform,,main,DTE
+2013-02-21,Credit Suisse,Outperform,,main,DTE
+2013-03-04,Standpoint,Buy,,init,DTE
+2013-03-25,Guggenheim,Buy,Neutral,up,DTE
+2013-03-25,Brean Capital,Buy,,main,DTE
+2013-03-27,UBS,Neutral,,main,DTE
+2013-04-15,Wunderlich,Buy,,main,DTE
+2013-04-16,Stifel Nicolaus,Buy,,init,DTE
+2013-04-17,Deutsche Bank,Hold,,main,DTE
+2013-04-29,Wunderlich,Hold,,main,DTE
+2013-04-29,Deutsche Bank,Hold,,main,DTE
+2013-04-29,BMO Capital,Market Perform,,main,DTE
+2013-05-08,Stifel Nicolaus,Buy,,main,DTE
+2013-05-08,Credit Suisse,Neutral,,main,DTE
+2013-05-08,Brean Capital,Buy,,main,DTE
+2013-05-17,Wunderlich,Buy,,main,DTE
+2013-05-23,Standpoint Research,Hold,Buy,down,DTE
+2013-06-27,Moffett Nathanson,Buy,Neutral,up,DTE
+2013-07-29,Brean Capital,Buy,,main,DTE
+2013-07-31,Barclays,Equal-Weight,,init,DTE
+2013-08-02,Guggenheim,Neutral,Buy,down,DTE
+2013-08-19,Nomura,Reduce,,main,DTE
+2013-08-27,Raymond James,Outperform,,init,DTE
+2013-09-25,Wells Fargo,Market Perform,,init,DTE
+2013-10-01,Deutsche Bank,Hold,,main,DTE
+2013-10-25,FBR Capital,Market Perform,,init,DTE
+2013-10-28,Wolfe Research,Outperform,Hold,up,DTE
+2013-12-04,Northland Securities,Outperform,,init,DTE
+2013-12-09,Wunderlich,Buy,,main,DTE
+2013-12-11,Deutsche Bank,Hold,,main,DTE
+2013-12-13,Brean Capital,Buy,,main,DTE
+2014-01-03,Citigroup,Buy,Neutral,up,DTE
+2014-01-21,Macquarie,Outperform,Neutral,up,DTE
+2014-02-19,Standpoint Research,Hold,Buy,down,DTE
+2014-02-21,Wunderlich,Buy,,main,DTE
+2014-02-21,Brean Capital,Buy,,main,DTE
+2014-03-10,Barclays,Equal-Weight,Equal-Weight,main,DTE
+2014-03-31,KeyBanc,Buy,Hold,up,DTE
+2014-04-23,Deutsche Bank,Hold,,main,DTE
+2014-04-24,Citigroup,Buy,,main,DTE
+2014-04-28,UBS,Neutral,,main,DTE
+2014-05-02,Citigroup,Neutral,Buy,down,DTE
+2014-05-02,Citigroup,Hold,,main,DTE
+2014-05-05,Brean Capital,Buy,,main,DTE
+2014-05-07,UBS,Neutral,,main,DTE
+2014-05-07,Raymond James,Outperform,,main,DTE
+2014-05-07,JP Morgan,Neutral,,main,DTE
+2014-05-07,Brean Capital,Buy,,main,DTE
+2014-05-08,Buckingham Research,,,main,DTE
+2014-05-08,Wunderlich,Buy,,main,DTE
+2014-05-19,Atlantic Equities,Neutral,,down,DTE
+2014-05-19,Brean Capital,Buy,,main,DTE
+2014-05-19,Nomura,Neutral,Reduce,up,DTE
+2014-05-19,Buckingham Research,Neutral,,main,DTE
+2014-05-19,Pivotal Research,Hold,Buy,down,DTE
+2014-05-19,Wunderlich,Hold,Buy,down,DTE
+2014-05-20,Morgan Stanley,Equal-weight,Overweight,down,DTE
+2014-06-12,Macquarie,Neutral,Outperform,down,DTE
+2014-06-18,Buckingham Research,Buy,Neutral,up,DTE
+2014-07-15,Barclays,Equal-Weight,,main,DTE
+2014-07-23,Citigroup,Buy,,main,DTE
+2014-08-01,JP Morgan,Neutral,,main,DTE
+2014-08-01,Jefferies,Hold,,main,DTE
+2014-08-07,ISI Group,Buy,Neutral,up,DTE
+2014-08-28,UBS,Neutral,,main,DTE
+2014-09-10,Canaccord Genuity,Hold,,init,DTE
+2014-10-27,KeyBanc,Buy,,main,DTE
+2014-10-27,Macquarie,Outperform,,main,DTE
+2014-10-29,ISI Group,Hold,Buy,down,DTE
+2014-12-12,UBS,Buy,Neutral,up,DTE
+2014-12-15,Citigroup,Neutral,,main,DTE
+2014-12-17,Deutsche Bank,Hold,,main,DTE
+2015-02-17,Deutsche Bank,Hold,,main,DTE
+2015-02-17,Barclays,Equal-Weight,,main,DTE
+2015-02-20,Buckingham Research,Neutral,Buy,down,DTE
+2015-02-23,Brean Capital,Hold,Buy,down,DTE
+2015-04-13,Goldman Sachs,Neutral,,init,DTE
+2015-07-27,Barclays,Equal-Weight,,main,DTE
+2016-01-13,Barclays,Overweight,Equal-Weight,up,DTE
+2016-01-27,Deutsche Bank,Hold,,main,DTE
+2016-04-07,Barclays,Overweight,,main,DTE
+2016-09-27,Macquarie,Outperform,,main,DTE
+2016-09-29,UBS,Buy,,main,DTE
+2016-11-14,Jefferies,Buy,,init,DTE
+2016-11-22,Bank of America,Buy,Neutral,up,DTE
+2017-01-09,UBS,Neutral,Buy,down,DTE
+2017-01-25,Credit Suisse,Neutral,,init,DTE
+2017-10-26,Credit Suisse,Neutral,,main,DTE
+2018-01-12,Wells Fargo,Outperform,Market Perform,up,DTE
+2018-02-02,UBS,Neutral,,init,DTE
+2018-02-20,Bank of America,Underperform,Underperform,main,DTE
+2018-02-20,Credit Suisse,Neutral,Neutral,main,DTE
+2018-04-13,Citigroup,Neutral,,init,DTE
+2018-04-18,KeyBanc,Overweight,Overweight,main,DTE
+2018-06-11,Wells Fargo,Market Perform,Outperform,down,DTE
+2018-07-11,KeyBanc,Overweight,Overweight,main,DTE
+2018-07-24,Scotia Howard Weil,Sector Outperform,,init,DTE
+2018-07-27,KeyBanc,Overweight,Overweight,main,DTE
+2018-08-15,Barclays,Equal-Weight,,init,DTE
+2018-09-10,Citigroup,Neutral,Neutral,main,DTE
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,DTE
+2018-10-25,Wells Fargo,Market Perform,Market Perform,main,DTE
+2018-10-25,Credit Suisse,Underperform,Neutral,down,DTE
+2018-12-10,Citigroup,Neutral,Neutral,main,DTE
+2019-02-11,Credit Suisse,Underperform,Underperform,main,DTE
+2019-04-25,UBS,Neutral,Neutral,main,DTE
+2019-06-03,Bank of America,Underperform,,main,DTE
+2019-08-12,Mizuho,Neutral,,init,DTE
+2019-08-26,Wells Fargo,Outperform,Market Perform,up,DTE
+2019-10-07,Mizuho,Buy,Neutral,up,DTE
+2019-10-08,JP Morgan,Neutral,,init,DTE
+2019-10-21,Bank of America,Neutral,Underperform,up,DTE
+2019-12-16,UBS,Buy,Neutral,up,DTE
+2020-01-13,Credit Suisse,Neutral,Underperform,up,DTE
+2020-01-17,KeyBanc,Overweight,,main,DTE
+2020-01-22,B of A Securities,Neutral,,main,DTE
+2020-01-27,Evercore ISI Group,Outperform,In-Line,up,DTE
+2020-02-06,Credit Suisse,Neutral,,main,DTE
+2020-02-25,Vertical Research,Hold,,init,DTE
+2020-02-26,Morgan Stanley,Equal-Weight,,init,DTE
+2020-03-12,Morgan Stanley,Equal-Weight,,main,DTE
+2020-03-16,UBS,Buy,,main,DTE
+2020-03-26,JP Morgan,Neutral,,main,DTE
+2020-03-30,Wells Fargo,Overweight,,main,DTE
+2020-04-02,Morgan Stanley,Equal-Weight,,main,DTE
+2020-04-02,Citigroup,Buy,Neutral,up,DTE
+2020-04-15,Morgan Stanley,Equal-Weight,,main,DTE
+2020-04-20,Evercore ISI Group,In-Line,Outperform,down,DTE
+2020-04-23,Credit Suisse,Neutral,,main,DTE
+2020-05-15,Morgan Stanley,Equal-Weight,,main,DTE
+2020-05-18,Morgan Stanley,Equal-Weight,,main,DTE
+2020-05-20,Seaport Global,Buy,,init,DTE
+2020-06-05,B of A Securities,Buy,Neutral,up,DTE
+2020-06-17,Morgan Stanley,Equal-Weight,,main,DTE
+2020-07-09,BMO Capital,Outperform,,init,DTE
+2020-07-13,B of A Securities,Buy,,reit,DTE
+2020-07-21,KeyBanc,Sector Weight,Overweight,down,DTE
+2020-08-04,Citigroup,Buy,,main,DTE
+2020-08-14,Morgan Stanley,Equal-Weight,,main,DTE
+2020-09-18,Morgan Stanley,Equal-Weight,,main,DTE
+2020-10-05,Morgan Stanley,Equal-Weight,,main,DTE
+2020-10-20,Morgan Stanley,Equal-Weight,,main,DTE
+2020-10-28,Wells Fargo,Overweight,,main,DTE
+2020-10-28,Credit Suisse,Neutral,,main,DTE
+2020-10-28,Morgan Stanley,Equal-Weight,,main,DTE
+2020-10-28,BMO Capital,Market Perform,Outperform,down,DTE
+2020-12-15,Morgan Stanley,Equal-Weight,,main,DTE
+2021-01-12,KeyBanc,Overweight,,main,DTE
+2021-01-19,Credit Suisse,Neutral,,main,DTE
+2021-01-20,Morgan Stanley,Equal-Weight,,main,DTE
+2021-01-21,Evercore ISI Group,Outperform,In-Line,up,DTE
+2021-02-18,Morgan Stanley,Equal-Weight,,main,DTE
+2021-03-08,B of A Securities,Neutral,Buy,down,DTE
+2021-03-19,Morgan Stanley,Equal-Weight,,main,DTE
+2021-04-14,Wells Fargo,Overweight,,main,DTE
+2021-04-19,Wolfe Research,Peer Perform,Outperform,down,DTE
+2021-04-20,Morgan Stanley,Equal-Weight,,main,DTE
+2021-04-21,Keybanc,Sector Weight,Overweight,down,DTE
+2021-04-23,Evercore ISI Group,In-Line,Outperform,down,DTE
+2021-04-26,Morgan Stanley,Equal-Weight,,main,DTE
+2021-04-28,Wells Fargo,Overweight,,main,DTE
+2021-04-28,UBS,Neutral,Buy,down,DTE
+2021-05-03,B of A Securities,Underperform,Neutral,down,DTE
+2021-05-18,Morgan Stanley,Equal-Weight,,main,DTE
+2021-05-27,Mizuho,Buy,,main,DTE
+2021-06-21,Morgan Stanley,Equal-Weight,,main,DTE
+2021-06-29,Morgan Stanley,Equal-Weight,,main,DTE
+2021-07-06,UBS,Buy,Neutral,up,DTE
+2021-07-08,Morgan Stanley,Equal-Weight,,main,DTE
+2021-07-09,Mizuho,Buy,,main,DTE
+2021-07-20,Morgan Stanley,Equal-Weight,,main,DTE
+2021-07-28,Wells Fargo,Overweight,,main,DTE
+2021-08-05,Mizuho,Buy,,main,DTE
+2021-08-19,Morgan Stanley,Equal-Weight,,main,DTE
+2021-09-01,Wells Fargo,Equal-Weight,Overweight,down,DTE
+2021-09-17,Evercore ISI Group,Outperform,In-Line,up,DTE
+2021-10-04,Morgan Stanley,Equal-Weight,,main,DTE
+2021-10-19,Morgan Stanley,Equal-Weight,,main,DTE
+2021-10-21,Morgan Stanley,Equal-Weight,,main,DTE
+2021-11-22,Morgan Stanley,Equal-Weight,,main,DTE
+2021-11-22,Mizuho,Buy,,main,DTE
+2021-12-01,Wells Fargo,Overweight,Equal-Weight,up,DTE
+2021-12-21,Morgan Stanley,Equal-Weight,,main,DTE
+2022-01-06,Morgan Stanley,Overweight,Equal-Weight,up,DTE
+2022-01-07,JP Morgan,Neutral,Overweight,down,DTE

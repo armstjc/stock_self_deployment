@@ -1,0 +1,223 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,UBS,Neutral,,main,AMGN
+2012-02-09,Oppenheimer,Perform,,down,AMGN
+2012-02-10,Morgan Stanley,Equal-Weight,,init,AMGN
+2012-04-25,Citigroup,Buy,,main,AMGN
+2012-04-25,Goldman Sachs,Neutral,,main,AMGN
+2012-04-26,UBS,Neutral,,main,AMGN
+2012-07-18,Jefferies,Buy,,main,AMGN
+2012-07-25,Credit Suisse,Outperform,Neutral,up,AMGN
+2012-07-27,BMO Capital,Market Perform,,main,AMGN
+2012-07-27,Deutsche Bank,Hold,,main,AMGN
+2012-07-27,Jefferies,Buy,,main,AMGN
+2012-07-27,PiperJaffray,Overweight,Neutral,up,AMGN
+2012-09-10,UBS,Buy,Neutral,up,AMGN
+2012-09-12,Baird,Neutral,Outperform,down,AMGN
+2012-09-27,Brean Capital,Buy,,init,AMGN
+2012-10-15,Barclays,Equal-Weight,,main,AMGN
+2012-10-22,Deutsche Bank,Buy,Hold,up,AMGN
+2012-10-24,Jefferies,Buy,,main,AMGN
+2012-10-24,BMO Capital,Market Perform,,main,AMGN
+2012-10-24,Oppenheimer,Perform,,main,AMGN
+2012-11-09,Guggenheim,Neutral,,init,AMGN
+2013-01-22,Credit Suisse,Neutral,Outperform,down,AMGN
+2013-01-24,UBS,Buy,,main,AMGN
+2013-01-25,Argus,Buy,Hold,up,AMGN
+2013-02-11,William Blair,Market Perform,Outperform,down,AMGN
+2013-02-25,PiperJaffray,Overweight,,main,AMGN
+2013-02-25,Bank of America,Neutral,,main,AMGN
+2013-03-04,Credit Suisse,Neutral,,main,AMGN
+2013-04-04,Credit Suisse,Neutral,,main,AMGN
+2013-04-12,UBS,Buy,,main,AMGN
+2013-04-19,Citigroup,Buy,,main,AMGN
+2013-04-24,Jefferies,Buy,,main,AMGN
+2013-04-24,PiperJaffray,Neutral,Overweight,down,AMGN
+2013-05-01,Goldman Sachs,Buy,Neutral,up,AMGN
+2013-08-26,BMO Capital,Market Perform,,main,AMGN
+2013-08-26,Jefferies,Buy,,main,AMGN
+2013-08-26,PiperJaffray,Overweight,Neutral,up,AMGN
+2013-10-23,Jefferies,Buy,,main,AMGN
+2013-11-19,Citigroup,Buy,,main,AMGN
+2013-11-20,Deutsche Bank,Buy,,main,AMGN
+2013-12-06,Citigroup,Buy,,main,AMGN
+2014-01-08,Nomura,Neutral,,init,AMGN
+2014-01-14,Nomura,Neutral,,main,AMGN
+2014-03-18,Citigroup,Buy,,main,AMGN
+2014-03-27,Morgan Stanley,Overweight,,init,AMGN
+2014-03-28,Jefferies,Buy,,main,AMGN
+2014-04-23,Deutsche Bank,Buy,,main,AMGN
+2014-04-23,Nomura,Neutral,,main,AMGN
+2014-07-18,Deutsche Bank,Buy,,main,AMGN
+2014-07-30,Nomura,Neutral,,main,AMGN
+2014-07-30,Deutsche Bank,Buy,,main,AMGN
+2014-07-30,Credit Suisse,Neutral,,main,AMGN
+2014-07-30,Citigroup,Buy,,main,AMGN
+2014-10-28,Nomura,Neutral,,main,AMGN
+2014-10-28,Jefferies,Buy,,main,AMGN
+2014-10-29,Nomura,Buy,Neutral,up,AMGN
+2014-10-29,Citigroup,Buy,,main,AMGN
+2014-10-29,Credit Suisse,Neutral,,main,AMGN
+2015-01-05,Morgan Stanley,Equal-weight,Overweight,down,AMGN
+2015-01-06,Barclays,Equal-Weight,,init,AMGN
+2015-04-22,Jefferies,Buy,,main,AMGN
+2015-04-22,Nomura,Buy,,main,AMGN
+2015-07-09,UBS,Neutral,Buy,down,AMGN
+2015-07-31,Barclays,Equal-Weight,,main,AMGN
+2015-09-07,UBS,Buy,Neutral,up,AMGN
+2015-09-22,Nomura,Buy,,main,AMGN
+2015-11-05,PiperJaffray,Overweight,,up,AMGN
+2015-12-14,Morgan Stanley,Overweight,Equal-Weight,up,AMGN
+2015-12-15,Morgan Stanley,Overweight,Equal-Weight,up,AMGN
+2015-12-18,Atlantic Equities,Overweight,,init,AMGN
+2016-01-07,BTIG Research,Sell,,init,AMGN
+2016-01-20,Credit Suisse,Outperform,,init,AMGN
+2016-01-29,Credit Suisse,Outperform,,main,AMGN
+2016-02-05,Leerink Swann,Market Perform,,init,AMGN
+2016-02-08,Argus,Buy,,main,AMGN
+2016-02-25,Citigroup,Neutral,,init,AMGN
+2016-04-05,BMO Capital,Outperform,,init,AMGN
+2016-06-29,Bernstein,Market Perform,,init,AMGN
+2016-07-28,Morgan Stanley,Overweight,,main,AMGN
+2016-07-28,Jefferies,Buy,,main,AMGN
+2016-07-29,Citigroup,Neutral,,main,AMGN
+2016-08-26,Gabelli & Co.,Hold,,init,AMGN
+2016-09-28,Citigroup,Neutral,,main,AMGN
+2016-11-08,Mizuho,Buy,,init,AMGN
+2016-12-13,Oppenheimer,Outperform,,init,AMGN
+2017-02-01,Bank of America,Buy,Neutral,up,AMGN
+2017-03-09,UBS,Neutral,,init,AMGN
+2017-04-05,Jefferies,Hold,Buy,down,AMGN
+2017-06-23,Deutsche Bank,Hold,,init,AMGN
+2017-07-10,Morgan Stanley,Overweight,,main,AMGN
+2017-07-26,UBS,Neutral,,main,AMGN
+2017-07-26,BMO Capital,Market Perform,Outperform,down,AMGN
+2017-07-27,Argus,Buy,,main,AMGN
+2017-09-15,RBC Capital,Sector Perform,,init,AMGN
+2017-09-29,Credit Suisse,Outperform,,main,AMGN
+2017-10-06,Morgan Stanley,Overweight,,main,AMGN
+2017-10-13,Barclays,Equal-Weight,,main,AMGN
+2017-10-26,Morgan Stanley,Overweight,,main,AMGN
+2017-10-26,BMO Capital,Market Perform,,main,AMGN
+2017-11-01,Argus,Hold,Buy,down,AMGN
+2018-01-23,Argus,Buy,Hold,up,AMGN
+2018-01-24,JP Morgan,Neutral,Neutral,main,AMGN
+2018-02-02,Credit Suisse,Neutral,Neutral,main,AMGN
+2018-02-02,BMO Capital,Market Perform,Market Perform,main,AMGN
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,AMGN
+2018-02-02,PiperJaffray,Overweight,Overweight,main,AMGN
+2018-02-05,Atlantic Equities,Neutral,Overweight,down,AMGN
+2018-04-05,Barclays,Equal-Weight,Equal-Weight,main,AMGN
+2018-04-25,Morgan Stanley,Overweight,Overweight,main,AMGN
+2018-07-13,Morgan Stanley,Overweight,Overweight,main,AMGN
+2018-07-27,Jefferies,Buy,Buy,main,AMGN
+2018-07-27,PiperJaffray,Overweight,Overweight,main,AMGN
+2018-07-27,JP Morgan,Neutral,Neutral,main,AMGN
+2018-07-30,Baird,Neutral,Neutral,main,AMGN
+2018-07-30,Citigroup,Neutral,Neutral,main,AMGN
+2018-10-01,Cantor Fitzgerald,Neutral,,init,AMGN
+2018-10-11,Morgan Stanley,Overweight,Overweight,main,AMGN
+2018-10-31,Morgan Stanley,Overweight,Overweight,main,AMGN
+2018-11-01,Citigroup,Neutral,Neutral,main,AMGN
+2018-12-19,Morgan Stanley,Overweight,Overweight,main,AMGN
+2019-01-04,Citigroup,Neutral,Neutral,main,AMGN
+2019-01-28,Evercore ISI Group,In-Line,Outperform,down,AMGN
+2019-03-15,BMO Capital,Outperform,,init,AMGN
+2019-05-21,Credit Suisse,Outperform,,init,AMGN
+2019-05-23,Citigroup,Buy,Neutral,up,AMGN
+2019-07-15,Morgan Stanley,Overweight,,main,AMGN
+2019-08-12,Wells Fargo,Market Perform,,main,AMGN
+2019-08-13,Oppenheimer,Outperform,,main,AMGN
+2019-08-16,Credit Suisse,Outperform,,reit,AMGN
+2019-08-19,Mizuho,Neutral,Buy,down,AMGN
+2019-08-27,BMO Capital,Outperform,,main,AMGN
+2019-08-27,RBC Capital,Sector Perform,,main,AMGN
+2019-08-29,JP Morgan,Neutral,,main,AMGN
+2019-09-05,Cantor Fitzgerald,Neutral,,reit,AMGN
+2019-11-05,Cantor Fitzgerald,Overweight,Neutral,up,AMGN
+2019-11-12,SunTrust Robinson Humphrey,Buy,,init,AMGN
+2019-12-09,Argus Research,Buy,,main,AMGN
+2019-12-16,Goldman Sachs,Buy,,main,AMGN
+2019-12-20,Cowen & Co.,Outperform,,main,AMGN
+2019-12-24,Raymond James,Market Perform,,init,AMGN
+2020-01-09,BMO Capital,Outperform,,main,AMGN
+2020-01-17,Morgan Stanley,Overweight,,main,AMGN
+2020-01-21,Evercore ISI Group,Outperform,In-Line,up,AMGN
+2020-01-22,UBS,Neutral,,main,AMGN
+2020-01-23,Citigroup,Buy,,main,AMGN
+2020-01-31,CFRA,Hold,,main,AMGN
+2020-01-31,Baird,Underperform,Neutral,down,AMGN
+2020-02-03,SunTrust Robinson Humphrey,Buy,,main,AMGN
+2020-03-05,B of A Securities,Buy,Neutral,up,AMGN
+2020-03-13,CFRA,Buy,Hold,up,AMGN
+2020-03-26,Oppenheimer,Outperform,,main,AMGN
+2020-03-30,Raymond James,Outperform,Market Perform,up,AMGN
+2020-04-15,Morgan Stanley,Overweight,,main,AMGN
+2020-04-27,Oppenheimer,Outperform,,main,AMGN
+2020-05-01,SVB Leerink,Market Perform,,main,AMGN
+2020-05-01,Morgan Stanley,Overweight,,main,AMGN
+2020-05-01,Wells Fargo,Equal-Weight,,main,AMGN
+2020-05-01,Oppenheimer,Outperform,,main,AMGN
+2020-05-01,B of A Securities,Buy,,reit,AMGN
+2020-05-01,CFRA,Buy,,main,AMGN
+2020-05-04,Cantor Fitzgerald,Overweight,,reit,AMGN
+2020-06-02,SVB Leerink,Market Perform,,main,AMGN
+2020-06-18,JP Morgan,Neutral,,main,AMGN
+2020-07-20,Credit Suisse,Outperform,,main,AMGN
+2020-07-29,Morgan Stanley,Overweight,,main,AMGN
+2020-07-29,SVB Leerink,Market Perform,,main,AMGN
+2020-07-29,Barclays,Equal-Weight,,main,AMGN
+2020-07-29,Cantor Fitzgerald,Overweight,,main,AMGN
+2020-07-29,Piper Sandler,Overweight,,main,AMGN
+2020-07-29,JP Morgan,Neutral,,main,AMGN
+2020-07-29,Jefferies,Buy,,main,AMGN
+2020-07-30,SunTrust Robinson Humphrey,Buy,,main,AMGN
+2020-10-06,Oppenheimer,Outperform,,main,AMGN
+2020-10-09,Bernstein,Market Perform,Outperform,down,AMGN
+2020-10-09,Truist Securities,Hold,Buy,down,AMGN
+2020-10-12,Truist Securities,Hold,Buy,down,AMGN
+2020-10-13,Morgan Stanley,Overweight,,main,AMGN
+2020-10-26,Raymond James,Outperform,Market Perform,up,AMGN
+2020-10-27,Credit Suisse,Outperform,,main,AMGN
+2020-10-28,UBS,Neutral,,init,AMGN
+2020-10-29,SVB Leerink,Market Perform,,main,AMGN
+2020-10-29,B of A Securities,Buy,,main,AMGN
+2020-10-29,Morgan Stanley,Overweight,,main,AMGN
+2020-10-29,BMO Capital,Outperform,,main,AMGN
+2020-10-29,Cantor Fitzgerald,Overweight,,reit,AMGN
+2020-11-02,Mizuho,Neutral,,main,AMGN
+2020-12-09,SVB Leerink,Market Perform,,main,AMGN
+2020-12-16,Morgan Stanley,Overweight,,main,AMGN
+2021-01-19,Morgan Stanley,Overweight,,main,AMGN
+2021-02-03,Cantor Fitzgerald,Overweight,,main,AMGN
+2021-02-03,Credit Suisse,Outperform,,main,AMGN
+2021-02-03,Morgan Stanley,Overweight,,main,AMGN
+2021-02-03,Piper Sandler,Overweight,,main,AMGN
+2021-02-03,SVB Leerink,Market Perform,,main,AMGN
+2021-03-01,SVB Leerink,Market Perform,,main,AMGN
+2021-03-05,SVB Leerink,Market Perform,,main,AMGN
+2021-03-05,Barclays,Equal-Weight,,main,AMGN
+2021-03-05,Morgan Stanley,Overweight,,main,AMGN
+2021-04-05,Oppenheimer,Outperform,,main,AMGN
+2021-04-19,Morgan Stanley,Overweight,,main,AMGN
+2021-04-28,Atlantic Equities,Underweight,Neutral,down,AMGN
+2021-04-28,SVB Leerink,Market Perform,,main,AMGN
+2021-04-28,Credit Suisse,Outperform,,main,AMGN
+2021-04-28,Morgan Stanley,Overweight,,main,AMGN
+2021-04-28,RBC Capital,Sector Perform,,main,AMGN
+2021-05-03,Oppenheimer,Outperform,,main,AMGN
+2021-06-07,SVB Leerink,Market Perform,,main,AMGN
+2021-06-07,Oppenheimer,Outperform,,main,AMGN
+2021-07-16,Morgan Stanley,Overweight,,main,AMGN
+2021-08-04,SVB Leerink,Market Perform,,main,AMGN
+2021-09-07,Morgan Stanley,Equal-Weight,Overweight,down,AMGN
+2021-09-23,Daiwa Capital,Neutral,Outperform,down,AMGN
+2021-10-12,Morgan Stanley,Equal-Weight,,main,AMGN
+2021-11-03,RBC Capital,Sector Perform,,main,AMGN
+2021-11-03,Barclays,Equal-Weight,,main,AMGN
+2021-11-03,SVB Leerink,Market Perform,,main,AMGN
+2021-11-19,BMO Capital,Market Perform,,init,AMGN
+2021-11-22,Mizuho,Neutral,,main,AMGN
+2021-12-06,Goldman Sachs,Buy,,init,AMGN
+2021-12-09,Wells Fargo,Equal-Weight,,init,AMGN
+2021-12-21,RBC Capital,Sector Perform,,main,AMGN
+2022-01-05,B of A Securities,Neutral,Buy,down,AMGN

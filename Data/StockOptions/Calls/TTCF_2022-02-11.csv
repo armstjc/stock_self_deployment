@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TTCF220211C00018500,2022-01-05 18:53:54+00:00,18.5,0.2,0.1,0.3,-0.13000001,-39.39394,1,2,1.9765626171875001,False,REGULAR,USD,TTCF

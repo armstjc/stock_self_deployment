@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-25,Leerink Swann,Outperform,,init,EPZM
+2013-06-25,JMP Securities,Outperform,,init,EPZM
+2013-06-25,Citigroup,Buy,,init,EPZM
+2013-06-27,Wedbush,Outperform,,init,EPZM
+2013-11-15,Citigroup,Buy,,main,EPZM
+2014-09-12,Mizuho,Buy,,init,EPZM
+2014-11-07,Citigroup,Buy,,main,EPZM
+2015-03-13,JMP Securities,Market Outperform,,main,EPZM
+2015-04-30,Citigroup,Neutral,,main,EPZM
+2015-07-06,RBC Capital,Outperform,,init,EPZM
+2015-07-20,H.C. Wainwright,Neutral,Buy,down,EPZM
+2015-08-31,Leerink Swann,Outperform,,main,EPZM
+2015-12-22,SunTrust Robinson Humphrey,Buy,,init,EPZM
+2016-03-09,JMP Securities,Market Outperform,,main,EPZM
+2016-03-10,Leerink Swann,Outperform,,main,EPZM
+2016-03-14,H.C. Wainwright,Buy,Neutral,up,EPZM
+2016-04-05,Citigroup,Buy,,init,EPZM
+2017-04-13,Oppenheimer,Outperform,,init,EPZM
+2017-09-20,Jefferies,Buy,,init,EPZM
+2017-11-02,RBC Capital,Sector Perform,Outperform,down,EPZM
+2017-11-02,Leerink Swann,Outperform,,main,EPZM
+2018-01-10,Morgan Stanley,Overweight,,init,EPZM
+2018-03-14,Leerink Swann,Outperform,Outperform,main,EPZM
+2018-04-24,Wedbush,Outperform,Outperform,main,EPZM
+2018-07-03,Leerink Swann,Market Perform,Outperform,down,EPZM
+2018-09-25,Leerink Swann,Market Perform,,init,EPZM
+2018-11-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,EPZM
+2019-01-07,Leerink Swann,Outperform,Market Perform,up,EPZM
+2019-12-06,Morgan Stanley,Overweight,Equal-Weight,up,EPZM
+2020-01-23,Citigroup,Buy,,main,EPZM
+2020-01-24,Wedbush,Outperform,,main,EPZM
+2020-01-24,Morgan Stanley,Overweight,,main,EPZM
+2020-03-04,Barclays,Overweight,,init,EPZM
+2020-04-01,Oppenheimer,Perform,Outperform,down,EPZM
+2020-05-05,Oppenheimer,Perform,,main,EPZM
+2020-06-19,SVB Leerink,Market Perform,,main,EPZM
+2020-06-19,Morgan Stanley,Overweight,,main,EPZM
+2020-08-05,Morgan Stanley,Overweight,,main,EPZM
+2020-11-09,Morgan Stanley,Overweight,,main,EPZM
+2020-12-21,Jefferies,Hold,Buy,down,EPZM
+2021-02-25,Morgan Stanley,Equal-Weight,Overweight,down,EPZM
+2021-03-31,Credit Suisse,Outperform,,init,EPZM
+2021-04-19,Morgan Stanley,Equal-Weight,,main,EPZM
+2021-05-07,SVB Leerink,Outperform,Market Perform,up,EPZM
+2021-05-07,Morgan Stanley,Equal-Weight,,main,EPZM
+2021-08-10,HC Wainwright & Co.,Buy,,main,EPZM
+2021-08-10,Morgan Stanley,Underweight,Equal-Weight,down,EPZM

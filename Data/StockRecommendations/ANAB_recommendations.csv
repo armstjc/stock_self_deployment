@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-02-21,Credit Suisse,Outperform,,init,ANAB
+2017-02-21,Wedbush,Outperform,,init,ANAB
+2017-03-09,Wedbush,Outperform,,reit,ANAB
+2017-07-10,Baird,Outperform,,init,ANAB
+2017-07-11,Baird,Outperform,Outperform,init,ANAB
+2017-08-25,Credit Suisse,Outperform,,main,ANAB
+2017-09-15,RBC Capital,Outperform,,init,ANAB
+2017-11-09,Jefferies,Buy,,init,ANAB
+2017-11-15,SunTrust Robinson Humphrey,Buy,,init,ANAB
+2018-02-20,Wedbush,Outperform,Outperform,main,ANAB
+2018-03-06,Stifel Nicolaus,Buy,Buy,main,ANAB
+2018-03-27,Stifel Nicolaus,Buy,Buy,main,ANAB
+2018-04-04,RBC Capital,Sector Perform,Outperform,down,ANAB
+2018-07-19,Credit Suisse,Outperform,,init,ANAB
+2018-08-15,JMP Securities,Market Outperform,Market Outperform,main,ANAB
+2018-08-28,Cantor Fitzgerald,Overweight,,init,ANAB
+2018-09-27,Credit Suisse,Outperform,Outperform,main,ANAB
+2018-11-21,JP Morgan,Overweight,,init,ANAB
+2018-12-20,H.C. Wainwright,Buy,,init,ANAB
+2019-02-22,Guggenheim,Buy,,init,ANAB
+2019-06-21,Credit Suisse,Neutral,Outperform,down,ANAB
+2019-06-24,SunTrust Robinson Humphrey,Buy,,main,ANAB
+2019-08-09,Credit Suisse,Neutral,,main,ANAB
+2019-10-03,Credit Suisse,Neutral,,main,ANAB
+2019-11-08,Guggenheim,Neutral,Buy,down,ANAB
+2020-03-03,SunTrust Robinson Humphrey,Hold,,main,ANAB
+2020-05-07,Credit Suisse,Neutral,,main,ANAB
+2020-10-14,Guggenheim,Buy,Neutral,up,ANAB
+2020-10-27,Wedbush,Outperform,Neutral,up,ANAB
+2021-02-11,JP Morgan,Overweight,Underweight,up,ANAB
+2021-03-09,Wedbush,Neutral,Outperform,down,ANAB
+2021-03-16,Truist Securities,Buy,Hold,up,ANAB
+2021-05-21,UBS,Neutral,,init,ANAB
+2021-06-22,HC Wainwright & Co.,Buy,,init,ANAB

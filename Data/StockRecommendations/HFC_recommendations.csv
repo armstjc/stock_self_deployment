@@ -1,0 +1,158 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Deutsche Bank,Buy,,main,HFC
+2012-07-12,Wells Fargo,Market Perform,,init,HFC
+2012-07-17,Raymond James,Outperform,Underperform,up,HFC
+2012-07-23,Tudor Pickering,Accumulate,,init,HFC
+2012-07-24,Bank of America,Neutral,Buy,down,HFC
+2012-07-30,Barclays,Equal-Weight,,main,HFC
+2012-08-08,Dahlman Rose,Buy,,main,HFC
+2012-08-20,Oppenheimer,Outperform,,main,HFC
+2012-09-13,Dahlman Rose,Buy,,main,HFC
+2012-09-17,JP Morgan,Neutral,,main,HFC
+2012-09-20,Goldman Sachs,Buy,,main,HFC
+2012-11-09,Barclays,Overweight,Equal-Weight,up,HFC
+2012-11-13,JP Morgan,Neutral,,main,HFC
+2012-11-16,Imperial Capital,Outperform,,init,HFC
+2013-01-17,Credit Suisse,Neutral,,main,HFC
+2013-01-22,Citigroup,Neutral,,main,HFC
+2013-02-20,Wells Fargo,Market Perform,Outperform,down,HFC
+2013-02-22,Imperial Capital,Outperform,,main,HFC
+2013-02-27,Imperial Capital,Outperform,,main,HFC
+2013-03-13,Macquarie,Neutral,Outperform,down,HFC
+2013-03-21,Oppenheimer,Outperform,,main,HFC
+2013-04-17,Deutsche Bank,Buy,,main,HFC
+2013-04-18,Bank of America,Buy,Neutral,up,HFC
+2013-05-03,Cowen & Co.,Hold,Buy,down,HFC
+2013-05-08,Imperial Capital,Outperform,,main,HFC
+2013-07-01,JP Morgan,Underweight,Neutral,down,HFC
+2013-07-18,Imperial Capital,Outperform,,main,HFC
+2013-10-04,Oppenheimer,Perform,Outperform,down,HFC
+2013-10-07,Imperial Capital,In-Line,Outperform,down,HFC
+2013-10-15,Scotia Howard Weil,Sector Outperform,Sector Perform,up,HFC
+2013-12-03,Bank of America,Buy,Neutral,up,HFC
+2013-12-09,JP Morgan,Overweight,Underweight,up,HFC
+2014-01-06,Citigroup,Sell,Neutral,down,HFC
+2014-01-22,Raymond James,Market Perform,Outperform,down,HFC
+2014-02-27,Imperial Capital,In-Line,,main,HFC
+2014-04-07,Citigroup,Sell,,main,HFC
+2014-04-21,Scotia Howard Weil,Perform,Outperform,down,HFC
+2014-05-07,Credit Suisse,Outperform,Neutral,up,HFC
+2014-05-08,Macquarie,Underperform,Neutral,down,HFC
+2014-06-27,Credit Suisse,Neutral,Outperform,down,HFC
+2014-07-09,Wells Fargo,Outperform,Market Perform,up,HFC
+2014-07-11,Citigroup,Neutral,Sell,up,HFC
+2014-08-07,Barclays,Overweight,,main,HFC
+2014-08-07,Citigroup,Neutral,,main,HFC
+2014-09-23,JP Morgan,Neutral,,init,HFC
+2014-10-02,RBC Capital,Sector Perform,,init,HFC
+2014-10-03,Argus,Hold,Buy,down,HFC
+2014-10-08,Citigroup,Buy,,main,HFC
+2014-10-09,Deutsche Bank,Hold,,init,HFC
+2014-10-13,Barclays,Overweight,,main,HFC
+2014-11-06,Barclays,Overweight,,main,HFC
+2014-11-25,Deutsche Bank,Hold,,main,HFC
+2014-12-15,Bank of America,Neutral,Buy,down,HFC
+2015-01-09,Wolfe Research,Peer Perform,Outperform,down,HFC
+2015-01-14,Barclays,Overweight,,main,HFC
+2015-01-28,Citigroup,Buy,,main,HFC
+2015-02-19,Deutsche Bank,Hold,,main,HFC
+2015-02-24,Tudor Pickering,Sell,Trim,down,HFC
+2015-02-26,Barclays,Overweight,,main,HFC
+2015-02-26,Wolfe Research,Outperform,,up,HFC
+2015-03-04,Citigroup,Buy,,main,HFC
+2015-05-07,RBC Capital,Outperform,Sector Perform,up,HFC
+2015-05-27,Oppenheimer,Outperform,Perform,up,HFC
+2015-06-08,Deutsche Bank,Hold,,main,HFC
+2015-07-07,Barclays,Overweight,,main,HFC
+2015-07-24,Macquarie,Outperform,,init,HFC
+2015-09-04,RBC Capital,Outperform,,main,HFC
+2015-10-12,Barclays,Overweight,,main,HFC
+2015-10-21,Citigroup,Neutral,Buy,down,HFC
+2015-12-15,Scotia Howard Weil,Sector Perform,Sector Outperform,down,HFC
+2015-12-18,Deutsche Bank,Buy,,main,HFC
+2016-01-05,Bank of America,Buy,Underperform,up,HFC
+2016-02-25,Barclays,Overweight,,main,HFC
+2016-03-23,Goldman Sachs,Sell,Neutral,down,HFC
+2016-04-08,Barclays,Overweight,,main,HFC
+2016-04-11,Credit Suisse,Neutral,,main,HFC
+2016-05-18,Scotia Howard Weil,Outperform,Sector Perform,up,HFC
+2016-06-10,JP Morgan,Neutral,,main,HFC
+2016-06-17,Morgan Stanley,Underweight,Equal-Weight,down,HFC
+2016-07-12,Deutsche Bank,Hold,Buy,down,HFC
+2016-08-22,PiperJaffray,Neutral,,main,HFC
+2016-09-16,PiperJaffray,Neutral,,main,HFC
+2016-10-10,Barclays,Overweight,,main,HFC
+2016-10-19,Scotia Howard Weil,Sector Perform,Sector Outperform,down,HFC
+2016-11-01,Tudor Pickering,Hold,Sell,up,HFC
+2016-12-05,Credit Suisse,Outperform,Neutral,up,HFC
+2017-01-04,Deutsche Bank,Buy,Hold,up,HFC
+2017-05-04,Credit Suisse,Neutral,Outperform,down,HFC
+2017-08-03,Barclays,Overweight,,main,HFC
+2017-10-06,JP Morgan,Underweight,Neutral,down,HFC
+2017-10-10,Barclays,Overweight,,main,HFC
+2017-10-24,Macquarie,Underperform,Neutral,down,HFC
+2017-11-02,Goldman Sachs,Neutral,Sell,up,HFC
+2017-11-14,Barclays,Overweight,,main,HFC
+2017-11-20,Argus,Buy,Hold,up,HFC
+2018-01-03,Credit Suisse,Neutral,,init,HFC
+2018-01-24,Jefferies,Underperform,,init,HFC
+2018-03-13,JP Morgan,Underweight,Underweight,main,HFC
+2018-03-19,Deutsche Bank,Buy,Buy,main,HFC
+2018-04-09,JP Morgan,Underweight,Underweight,main,HFC
+2018-04-13,Morgan Stanley,Equal-Weight,Underweight,up,HFC
+2018-05-03,Deutsche Bank,Buy,Buy,main,HFC
+2018-05-03,Barclays,Overweight,Overweight,main,HFC
+2018-05-04,Credit Suisse,Neutral,Neutral,main,HFC
+2018-05-24,Argus,Buy,Buy,main,HFC
+2018-05-29,Wells Fargo,Market Perform,Market Perform,main,HFC
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,HFC
+2018-08-02,Mizuho,Neutral,,init,HFC
+2018-10-16,Jefferies,Hold,Underperform,up,HFC
+2018-11-14,JP Morgan,Underweight,Underweight,main,HFC
+2019-02-08,Tudor Pickering,Hold,Buy,down,HFC
+2019-04-03,Credit Suisse,Neutral,Neutral,main,HFC
+2019-04-16,Goldman Sachs,Sell,Neutral,down,HFC
+2019-04-29,Bank of America,Neutral,Underperform,up,HFC
+2019-09-10,JP Morgan,Underweight,,main,HFC
+2019-09-25,Wells Fargo,Market Perform,,main,HFC
+2020-01-14,Barclays,Equal-Weight,,init,HFC
+2020-02-21,JP Morgan,Neutral,Underweight,up,HFC
+2020-02-21,RBC Capital,Outperform,,main,HFC
+2020-02-28,Piper Sandler,Overweight,Neutral,up,HFC
+2020-03-02,Goldman Sachs,Neutral,Sell,up,HFC
+2020-03-13,Wells Fargo,Equal-Weight,,main,HFC
+2020-03-16,Morgan Stanley,Equal-Weight,,main,HFC
+2020-03-26,Jefferies,Buy,Hold,up,HFC
+2020-03-27,Goldman Sachs,Neutral,,main,HFC
+2020-05-04,Mizuho,Buy,Neutral,up,HFC
+2020-05-08,RBC Capital,Outperform,,main,HFC
+2020-05-11,Credit Suisse,Neutral,,main,HFC
+2020-05-13,Morgan Stanley,Equal-Weight,,main,HFC
+2020-05-27,JP Morgan,Neutral,,main,HFC
+2020-06-12,Goldman Sachs,Sell,Neutral,down,HFC
+2020-06-23,Jefferies,Buy,,main,HFC
+2020-06-30,Cowen & Co.,Underperform,Market Perform,down,HFC
+2020-07-08,Morgan Stanley,Underweight,Equal-Weight,down,HFC
+2020-07-13,ScotiaBank,Sector Outperform,,main,HFC
+2020-07-22,Mizuho,Neutral,Buy,down,HFC
+2020-07-24,Piper Sandler,Overweight,,main,HFC
+2020-08-07,Goldman Sachs,Neutral,Sell,up,HFC
+2020-08-11,Morgan Stanley,Underweight,,main,HFC
+2020-09-09,Piper Sandler,Overweight,,main,HFC
+2020-10-19,Morgan Stanley,Underweight,,main,HFC
+2020-12-11,Morgan Stanley,Equal-Weight,Underweight,up,HFC
+2021-03-11,Morgan Stanley,Equal-Weight,,main,HFC
+2021-05-20,Goldman Sachs,Sell,Neutral,down,HFC
+2021-05-28,Tudor Pickering,Hold,Buy,down,HFC
+2021-06-24,Wells Fargo,Underweight,,main,HFC
+2021-07-14,Wolfe Research,Underperform,Peer Perform,down,HFC
+2021-07-27,Credit Suisse,Outperform,Neutral,up,HFC
+2021-07-27,Wells Fargo,Underweight,,main,HFC
+2021-08-12,Cowen & Co.,Market Perform,Underperform,up,HFC
+2021-08-12,Wells Fargo,Equal-Weight,Underweight,up,HFC
+2021-09-07,Morgan Stanley,Overweight,,init,HFC
+2021-10-04,Barclays,Equal-Weight,,main,HFC
+2021-10-06,Wells Fargo,Equal-Weight,,main,HFC
+2021-11-08,Credit Suisse,Outperform,,main,HFC
+2021-12-28,Cowen & Co.,Market Perform,,main,HFC
+2022-01-04,Barclays,Equal-Weight,,main,HFC

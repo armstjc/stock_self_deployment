@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-02-12,Citigroup,Buy,,init,AGFS
+2016-11-10,Citigroup,Neutral,Buy,down,AGFS
+2017-07-12,Citigroup,Neutral,,main,AGFS
+2017-08-14,Citigroup,Neutral,,main,AGFS
+2018-08-16,Citigroup,Neutral,Neutral,main,AGFS
+2018-11-19,Citigroup,Neutral,Neutral,main,AGFS
+2018-12-12,RF Lafferty,Buy,,init,AGFS
+2019-04-16,H.C. Wainwright,Buy,,init,AGFS
+2020-12-17,BMO Capital,Market Perform,,init,AGFS

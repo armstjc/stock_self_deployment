@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-10,Credit Suisse,Outperform,,init,ALLE
+2014-01-08,MKM Partners,Buy,,init,ALLE
+2014-01-16,S&P Capital IQ,Buy,,init,ALLE
+2014-01-21,Bernstein,Outperform,Market Perform,up,ALLE
+2014-02-25,Imperial Capital,In-Line,,main,ALLE
+2014-08-27,Longbow Research,Neutral,,init,ALLE
+2014-09-19,Susquehanna,Neutral,,init,ALLE
+2014-10-03,Imperial Capital,Outperform,In-Line,up,ALLE
+2015-03-04,Baird,Outperform,,init,ALLE
+2015-05-01,Bernstein,Market Perform,Outperform,down,ALLE
+2015-05-04,Bernstein,Outperform,Market Perform,down,ALLE
+2015-07-31,Credit Suisse,Outperform,,main,ALLE
+2015-09-09,Wells Fargo,Outperform,,init,ALLE
+2015-11-02,Susquehanna,Neutral,,main,ALLE
+2015-11-05,Imperial Capital,In-Line,Outperform,down,ALLE
+2015-11-18,Bank of America,Buy,,init,ALLE
+2016-01-14,Imperial Capital,Outperform,In-Line,up,ALLE
+2016-01-19,Bernstein,Outperform,Market Perform,up,ALLE
+2016-02-12,CLSA,Buy,Outperform,up,ALLE
+2016-06-10,Goldman Sachs,Buy,,init,ALLE
+2016-07-25,CLSA,Outperform,Buy,down,ALLE
+2016-08-02,Imperial Capital,In-Line,Outperform,down,ALLE
+2016-10-06,Berenberg,Buy,,init,ALLE
+2016-10-17,CLSA,Outperform,Buy,up,ALLE
+2016-11-01,Imperial Capital,Outperform,In-Line,up,ALLE
+2017-04-28,Baird,Neutral,Outperform,down,ALLE
+2017-07-11,Wolfe Research,Peer Perform,,init,ALLE
+2017-07-20,Bank of America,Buy,,main,ALLE
+2018-02-15,Barclays,Overweight,,init,ALLE
+2018-02-21,Imperial Capital,Outperform,Outperform,main,ALLE
+2018-02-21,Wells Fargo,Outperform,Outperform,main,ALLE
+2018-02-21,Barclays,Overweight,Overweight,main,ALLE
+2018-05-02,Berenberg,Hold,Buy,down,ALLE
+2018-07-17,Wells Fargo,Outperform,Outperform,main,ALLE
+2018-08-21,Morgan Stanley,Equal-Weight,,init,ALLE
+2018-10-12,Credit Suisse,Outperform,,init,ALLE
+2018-10-26,Wells Fargo,Outperform,Outperform,main,ALLE
+2019-02-20,Goldman Sachs,Neutral,Buy,down,ALLE
+2019-02-25,Imperial Capital,In-Line,Outperform,down,ALLE
+2019-07-08,Credit Suisse,Neutral,Outperform,down,ALLE
+2019-07-09,Barclays,Overweight,,main,ALLE
+2019-07-29,Wells Fargo,Outperform,,main,ALLE
+2019-07-30,Imperial Capital,In-Line,,main,ALLE
+2019-10-25,Morgan Stanley,Equal-Weight,,main,ALLE
+2019-10-25,Wells Fargo,Outperform,,main,ALLE
+2019-10-25,Credit Suisse,Neutral,,main,ALLE
+2019-10-28,Imperial Capital,In-Line,,main,ALLE
+2019-12-03,Wells Fargo,Outperform,,main,ALLE
+2019-12-11,Morgan Stanley,Equal-Weight,,main,ALLE
+2019-12-12,Barclays,Equal-Weight,Overweight,down,ALLE
+2020-01-06,Credit Suisse,Underperform,Neutral,down,ALLE
+2020-02-13,B of A Securities,Neutral,Buy,down,ALLE
+2020-02-19,Credit Suisse,Underperform,,main,ALLE
+2020-02-19,Morgan Stanley,Equal-Weight,,main,ALLE
+2020-02-20,Wells Fargo,Equal-Weight,Overweight,down,ALLE
+2020-02-21,Imperial Capital,In-Line,,main,ALLE
+2020-03-10,Credit Suisse,Neutral,Underperform,up,ALLE
+2020-03-17,Morgan Stanley,Equal-Weight,,main,ALLE
+2020-04-08,Baird,Neutral,,main,ALLE
+2020-04-24,Wells Fargo,Equal-Weight,,main,ALLE
+2020-04-24,Credit Suisse,Neutral,,main,ALLE
+2020-04-27,Imperial Capital,Neutral,,main,ALLE
+2020-05-21,Barclays,Underweight,Equal-Weight,down,ALLE
+2020-06-03,William Blair,Market Perform,,init,ALLE
+2020-07-14,Morgan Stanley,Equal-Weight,,main,ALLE
+2020-07-20,Baird,Neutral,,main,ALLE
+2020-07-24,Morgan Stanley,Equal-Weight,,main,ALLE
+2020-09-16,UBS,Neutral,,init,ALLE
+2020-10-23,Morgan Stanley,Equal-Weight,,main,ALLE
+2020-10-23,Credit Suisse,Neutral,,main,ALLE
+2020-11-11,B of A Securities,Buy,Neutral,up,ALLE
+2021-01-20,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-02-17,Credit Suisse,Neutral,,main,ALLE
+2021-03-16,Longbow Research,Buy,Neutral,up,ALLE
+2021-04-06,Barclays,Overweight,Underweight,up,ALLE
+2021-04-12,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-04-23,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-07-23,Credit Suisse,Neutral,,main,ALLE
+2021-07-23,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-09-10,Goldman Sachs,Buy,Neutral,up,ALLE
+2021-10-04,Barclays,Overweight,,main,ALLE
+2021-10-07,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-10-08,Wells Fargo,Overweight,,init,ALLE
+2021-10-22,Morgan Stanley,Equal-Weight,,main,ALLE
+2021-11-29,Atlantic Equities,Overweight,,init,ALLE
+2021-12-08,B of A Securities,Neutral,Buy,down,ALLE
+2021-12-17,Mizuho,Buy,,init,ALLE

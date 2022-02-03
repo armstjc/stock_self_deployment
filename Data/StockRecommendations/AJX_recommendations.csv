@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-03-11,Nomura,Buy,,init,AJX
+2015-03-11,FBR Capital,Outperform,,init,AJX
+2015-03-11,Sterne Agee,Buy,,init,AJX
+2016-06-20,PiperJaffray,Overweight,,init,AJX
+2016-10-20,JMP Securities,Market Perform,,init,AJX
+2016-11-09,Nomura,Neutral,Buy,down,AJX
+2016-11-22,Raymond James,Outperform,,init,AJX
+2017-11-08,Compass Point,Buy,Neutral,up,AJX
+2018-05-02,Compass Point,Neutral,Buy,down,AJX
+2020-05-06,B. Riley FBR,Buy,,main,AJX
+2020-05-14,Raymond James,Outperform,,main,AJX
+2020-08-20,Raymond James,Outperform,,main,AJX
+2020-11-24,BTIG,Neutral,,init,AJX
+2021-03-09,Raymond James,Outperform,,main,AJX
+2021-05-21,Raymond James,Outperform,,main,AJX
+2021-06-30,Compass Point,Buy,,init,AJX
+2021-10-18,JMP Securities,Market Outperform,,main,AJX

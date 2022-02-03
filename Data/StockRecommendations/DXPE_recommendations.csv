@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-03,Ascendiant Capital,Neutral,,init,DXPE
+2013-04-19,Ascendiant Capital,Buy,Neutral,up,DXPE
+2013-05-02,BB&T Capital,Hold,Buy,down,DXPE
+2013-07-26,Ascendiant Capital,Neutral,Buy,down,DXPE
+2013-10-31,Ascendiant Capital,Buy,Neutral,up,DXPE
+2013-11-01,Ascendiant Capital,Buy,,up,DXPE
+2013-11-22,Ascendiant Capital,Neutral,Buy,down,DXPE
+2015-07-21,KeyBanc,Sector Weight,,init,DXPE
+2019-02-26,Sidoti & Co.,Buy,Buy,main,DXPE
+2019-04-25,Jefferies,Hold,,init,DXPE
+2020-03-09,Sidoti & Co.,Neutral,,main,DXPE
+2020-04-03,Stephens & Co.,Overweight,,reit,DXPE

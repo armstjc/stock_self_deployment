@@ -1,0 +1,136 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,PiperJaffray,Underweight,,main,DDD
+2012-07-19,JP Morgan,Underweight,Neutral,down,DDD
+2012-07-26,Canaccord Genuity,Buy,,main,DDD
+2012-10-12,PiperJaffray,Neutral,Underweight,up,DDD
+2012-10-25,Canaccord Genuity,Buy,,main,DDD
+2012-10-25,JP Morgan,Underweight,,main,DDD
+2012-11-13,PiperJaffray,Overweight,Neutral,up,DDD
+2012-12-12,JP Morgan,Neutral,Underweight,up,DDD
+2013-01-22,Canaccord Genuity,Buy,,main,DDD
+2013-02-25,JP Morgan,Neutral,,main,DDD
+2013-02-25,Canaccord Genuity,Buy,,main,DDD
+2013-05-16,William Blair,Underperform,Market Perform,down,DDD
+2013-05-21,PiperJaffray,Overweight,,main,DDD
+2013-07-29,Brean Capital,Buy,,init,DDD
+2013-08-26,Citigroup,Buy,,init,DDD
+2013-09-17,Credit Suisse,Outperform,,init,DDD
+2013-09-23,Bank of America,Buy,,init,DDD
+2013-10-17,PiperJaffray,Overweight,,main,DDD
+2013-11-06,Brean Capital,Buy,,main,DDD
+2013-11-12,William Blair,Underperform,,main,DDD
+2013-11-18,Bank of America,Buy,,main,DDD
+2013-12-03,FBR Capital,Outperform,,init,DDD
+2013-12-06,Needham,Buy,,main,DDD
+2013-12-09,Deutsche Bank,Buy,,init,DDD
+2013-12-09,Pacific Crest,Outperform,,init,DDD
+2013-12-10,Jefferies,Buy,,init,DDD
+2013-12-24,Canaccord Genuity,Buy,,main,DDD
+2014-01-02,Needham,Buy,,main,DDD
+2014-01-13,RBC Capital,Outperform,,init,DDD
+2014-01-13,Deutsche Bank,Buy,,main,DDD
+2014-01-15,Stephens & Co.,Equal-Weight,,init,DDD
+2014-01-21,Credit Suisse,Neutral,Outperform,down,DDD
+2014-02-24,Bank of America,Underperform,Buy,down,DDD
+2014-03-03,Citigroup,Buy,,main,DDD
+2014-03-11,Stephens & Co.,Overweight,Equal-weight,up,DDD
+2014-03-31,Bank of America,Underperform,,main,DDD
+2014-04-01,UBS,Neutral,,init,DDD
+2014-04-14,Goldman Sachs,Neutral,,init,DDD
+2014-04-29,PiperJaffray,Overweight,,main,DDD
+2014-04-30,UBS,Neutral,,main,DDD
+2014-04-30,Pacific Crest,Outperform,,main,DDD
+2014-04-30,Citigroup,Buy,,main,DDD
+2014-04-30,Canaccord Genuity,Buy,,main,DDD
+2014-04-30,Imperial Capital,Outperform,,init,DDD
+2014-05-29,JP Morgan,Neutral,,main,DDD
+2014-06-11,UBS,Neutral,,main,DDD
+2014-06-11,Deutsche Bank,Buy,,main,DDD
+2014-06-11,Gabelli & Co.,Hold,Buy,down,DDD
+2014-07-02,JP Morgan,Neutral,,main,DDD
+2014-07-31,FBR Capital,Market Perform,Outperform,down,DDD
+2014-08-01,RBC Capital,Sector Perform,Outperform,down,DDD
+2014-08-01,Citigroup,Neutral,Buy,down,DDD
+2014-08-01,Pacific Crest,Outperform,,main,DDD
+2014-08-01,PiperJaffray,Neutral,Overweight,down,DDD
+2014-08-04,UBS,Neutral,,main,DDD
+2014-08-29,Stifel,Buy,,init,DDD
+2014-09-04,Morgan Stanley,Equal-Weight,,init,DDD
+2014-09-04,Pacific Crest,Sector Perform,Outperform,down,DDD
+2014-10-22,Deutsche Bank,Hold,Buy,down,DDD
+2014-10-22,Oppenheimer,Outperform,,init,DDD
+2014-10-23,Brean Capital,Hold,Buy,down,DDD
+2014-11-11,Imperial Capital,Outperform,,main,DDD
+2014-11-11,Citigroup,Neutral,,main,DDD
+2014-11-20,Jefferies,Buy,,main,DDD
+2014-12-10,Longbow Research,Underperform,,init,DDD
+2015-01-05,Stifel Nicolaus,Buy,,main,DDD
+2015-01-14,JP Morgan,Neutral,,main,DDD
+2015-01-27,Jefferies,Hold,Buy,down,DDD
+2015-02-03,JP Morgan,Neutral,,main,DDD
+2015-02-04,Gabelli & Co.,,Hold,up,DDD
+2015-02-27,Citigroup,Neutral,,main,DDD
+2015-02-27,Deutsche Bank,Hold,,main,DDD
+2015-04-27,Jefferies,Hold,,main,DDD
+2015-04-27,Oppenheimer,Outperform,,main,DDD
+2015-04-27,UBS,Sell,Neutral,down,DDD
+2015-04-27,PiperJaffray,Underweight,Neutral,down,DDD
+2015-04-27,Canaccord Genuity,Hold,Buy,down,DDD
+2015-04-29,JP Morgan,Neutral,,main,DDD
+2015-05-06,Stifel Nicolaus,Hold,Buy,down,DDD
+2015-05-07,Citigroup,Neutral,,main,DDD
+2015-05-21,Oppenheimer,Perform,Outperform,down,DDD
+2015-07-21,Citigroup,Neutral,,main,DDD
+2015-07-29,Longbow Research,Neutral,Underperform,up,DDD
+2015-08-07,Jefferies,Hold,,main,DDD
+2015-08-07,PiperJaffray,Neutral,Underweight,up,DDD
+2015-10-19,Jefferies,Hold,,main,DDD
+2015-12-17,Stephens & Co.,Overweight,Equal-Weight,up,DDD
+2016-01-13,JP Morgan,Neutral,,main,DDD
+2016-01-25,Jefferies,Hold,,main,DDD
+2016-01-26,UBS,Sell,,main,DDD
+2016-03-15,Deutsche Bank,Hold,,main,DDD
+2016-03-15,Gabelli & Co.,Hold,Buy,down,DDD
+2016-03-15,Jefferies,Hold,,main,DDD
+2016-03-15,Goldman Sachs,Neutral,,main,DDD
+2016-03-15,JP Morgan,Underweight,Neutral,down,DDD
+2016-04-14,Bank of America,Buy,Underperform,up,DDD
+2016-04-15,Citigroup,Sell,Neutral,down,DDD
+2016-04-26,Needham,Hold,Buy,down,DDD
+2016-05-24,FBR Capital,Market Perform,,init,DDD
+2016-07-18,PiperJaffray,Underweight,Neutral,down,DDD
+2016-08-04,Jefferies,Hold,,main,DDD
+2016-11-04,Gabelli & Co.,Buy,Hold,up,DDD
+2017-07-13,Susquehanna,Neutral,,init,DDD
+2017-07-24,Loop Capital,Hold,,init,DDD
+2017-08-04,JP Morgan,Neutral,Underweight,up,DDD
+2017-11-01,JP Morgan,Neutral,,main,DDD
+2017-11-01,Bank of America,Underperform,Buy,down,DDD
+2017-11-02,Citigroup,Sell,,main,DDD
+2017-11-20,PiperJaffray,Neutral,Underweight,up,DDD
+2018-02-09,JP Morgan,Underweight,Neutral,down,DDD
+2018-03-15,Stifel Nicolaus,Hold,Hold,main,DDD
+2018-03-16,Deutsche Bank,Hold,Hold,main,DDD
+2018-07-26,PiperJaffray,Underweight,Neutral,down,DDD
+2018-08-08,B. Riley FBR,Sell,Sell,main,DDD
+2018-10-24,PiperJaffray,Neutral,Underweight,up,DDD
+2019-01-29,PiperJaffray,Overweight,Neutral,up,DDD
+2019-04-22,Craig-Hallum,Hold,,init,DDD
+2019-05-08,Bank of America,Underperform,,reit,DDD
+2019-05-10,JP Morgan,Neutral,Underweight,up,DDD
+2019-06-24,B. Riley,Neutral,Sell,up,DDD
+2019-08-08,JP Morgan,Underweight,Neutral,down,DDD
+2020-01-13,Craig-Hallum,Buy,Hold,up,DDD
+2020-01-16,Loop Capital,Sell,Hold,down,DDD
+2020-01-28,Piper Sandler,Neutral,Overweight,down,DDD
+2020-02-27,B. Riley FBR,Neutral,,main,DDD
+2020-03-19,B. Riley FBR,Sell,Neutral,down,DDD
+2020-05-07,CFRA,Hold,,main,DDD
+2020-10-09,Berenberg,Buy,,init,DDD
+2020-11-10,William Blair,Market Perform,Underperform,up,DDD
+2021-01-07,JP Morgan,Neutral,Underweight,up,DDD
+2021-01-15,JP Morgan,Underweight,Neutral,down,DDD
+2021-01-19,Stifel,Hold,,init,DDD
+2021-01-25,Berenberg,Hold,Buy,down,DDD
+2021-03-03,Loop Capital,Hold,Sell,up,DDD
+2021-11-08,Lake Street,Buy,,init,DDD

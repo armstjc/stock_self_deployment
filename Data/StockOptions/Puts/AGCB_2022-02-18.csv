@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGCB220218P00010000,2022-02-02 20:26:30+00:00,10.0,0.25,0.2,0.3,0.049999997,24.999998,100,290,0.16602396484375004,True,REGULAR,USD,AGCB
+AGCB220218P00010000,2021-12-23 18:10:21+00:00,10.0,0.26,0.15,0.25,0.0,0.0,2,174,0.0312596875,True,REGULAR,USD,AGCB

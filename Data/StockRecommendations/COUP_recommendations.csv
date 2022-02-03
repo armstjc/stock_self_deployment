@@ -1,0 +1,178 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-01,Goldman Sachs,Neutral,,init,COUP
+2014-04-01,RBC Capital,Sector Perform,,init,COUP
+2014-04-01,Bank of America,Buy,,init,COUP
+2014-06-10,Goldman Sachs,Sell,Neutral,down,COUP
+2014-07-24,Vertical Research,Sell,,init,COUP
+2015-02-04,Goldman Sachs,Neutral,Sell,up,COUP
+2015-06-23,William Blair,Market Perform,,init,COUP
+2015-08-06,Craig-Hallum,Buy,Hold,up,COUP
+2016-10-31,JMP Securities,Outperform,,init,COUP
+2016-10-31,JP Morgan,Neutral,,init,COUP
+2016-10-31,RBC Capital,Outperform,,init,COUP
+2016-10-31,Barclays,Equal-Weight,,init,COUP
+2016-10-31,Morgan Stanley,Equal-Weight,,init,COUP
+2016-12-06,JMP Securities,Outperform,,main,COUP
+2017-02-15,Loop Capital,Hold,,init,COUP
+2017-06-12,BTIG Research,Buy,,init,COUP
+2017-07-20,Cantor Fitzgerald,Overweight,,init,COUP
+2017-08-07,First Analysis,Overweight,,init,COUP
+2017-11-27,Barclays,Equal-Weight,Equal-Weight,main,COUP
+2017-12-21,Oppenheimer,Outperform,,init,COUP
+2018-01-08,Barclays,Overweight,Equal-Weight,up,COUP
+2018-01-11,Needham,Buy,,init,COUP
+2018-01-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-02-01,SunTrust Robinson Humphrey,Buy,,init,COUP
+2018-03-05,Barclays,Overweight,Overweight,main,COUP
+2018-03-13,JMP Securities,Market Perform,Market Outperform,down,COUP
+2018-03-13,Cantor Fitzgerald,Overweight,Overweight,main,COUP
+2018-03-13,Barclays,Overweight,Overweight,main,COUP
+2018-03-13,JP Morgan,Neutral,Neutral,main,COUP
+2018-03-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-04-23,Goldman Sachs,Buy,,init,COUP
+2018-05-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-05-18,Barclays,Equal-Weight,Overweight,down,COUP
+2018-06-05,Raymond James,Outperform,Outperform,main,COUP
+2018-06-05,Cantor Fitzgerald,Overweight,Overweight,main,COUP
+2018-06-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-06-18,BTIG Research,Neutral,Buy,down,COUP
+2018-07-18,RBC Capital,Outperform,Outperform,main,COUP
+2018-08-15,Barclays,Equal-Weight,Equal-Weight,main,COUP
+2018-08-29,Oppenheimer,Outperform,Outperform,main,COUP
+2018-09-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-09-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2018-09-05,Raymond James,Outperform,Outperform,main,COUP
+2018-09-05,Cantor Fitzgerald,Overweight,Overweight,main,COUP
+2018-09-11,Northland Securities,Market Perform,Outperform,down,COUP
+2018-11-30,Loop Capital,Buy,Hold,up,COUP
+2018-12-04,Barclays,Equal-Weight,Equal-Weight,main,COUP
+2019-03-08,Morgan Stanley,Equal-Weight,Equal-Weight,main,COUP
+2019-03-08,RBC Capital,Outperform,Outperform,main,COUP
+2019-04-30,KeyBanc,Overweight,,init,COUP
+2019-05-13,Bank of America,Buy,,init,COUP
+2019-06-04,Bank of America,Buy,,main,COUP
+2019-06-04,Raymond James,Outperform,,main,COUP
+2019-06-04,JP Morgan,Neutral,,main,COUP
+2019-06-04,Barclays,Equal-Weight,,main,COUP
+2019-06-04,Morgan Stanley,Equal-Weight,,main,COUP
+2019-06-04,KeyBanc,Overweight,,main,COUP
+2019-06-26,Bank of America,Buy,,main,COUP
+2019-06-27,KeyBanc,Overweight,,main,COUP
+2019-07-24,Deutsche Bank,Hold,,init,COUP
+2019-08-02,Wedbush,Outperform,,init,COUP
+2019-08-15,Morgan Stanley,Equal-Weight,,main,COUP
+2019-08-26,Bank of America,Buy,,reit,COUP
+2019-09-04,KeyBanc,Overweight,,main,COUP
+2019-09-04,Raymond James,Outperform,,main,COUP
+2019-09-04,Wedbush,Outperform,,main,COUP
+2019-09-04,Bank of America,Buy,,reit,COUP
+2019-09-04,RBC Capital,Outperform,,main,COUP
+2019-09-04,Goldman Sachs,Buy,,main,COUP
+2019-09-04,Oppenheimer,Outperform,,main,COUP
+2019-09-04,Barclays,Equal-Weight,,main,COUP
+2019-09-04,Morgan Stanley,Equal-Weight,,main,COUP
+2019-09-04,Needham,Buy,,main,COUP
+2019-09-04,SunTrust Robinson Humphrey,Buy,,main,COUP
+2019-09-12,Canaccord Genuity,Buy,,init,COUP
+2019-09-17,FBN Securities,Outperform,,init,COUP
+2019-09-27,Evercore ISI Group,Outperform,,init,COUP
+2019-10-25,Citi,Neutral,,init,COUP
+2019-10-29,Piper Jaffray,Overweight,,init,COUP
+2019-11-20,Bank of America,Buy,,reit,COUP
+2019-12-03,JP Morgan,Neutral,,main,COUP
+2019-12-03,Barclays,Equal-Weight,,main,COUP
+2019-12-03,Morgan Stanley,Equal-Weight,,main,COUP
+2019-12-03,Raymond James,Outperform,,main,COUP
+2019-12-04,Citigroup,Neutral,,main,COUP
+2020-01-13,Morgan Stanley,Equal-Weight,,main,COUP
+2020-01-17,Needham,Buy,,main,COUP
+2020-01-28,Wells Fargo,Equal-Weight,,init,COUP
+2020-02-04,William Blair,Outperform,,init,COUP
+2020-02-27,B of A Securities,Buy,,reit,COUP
+2020-03-11,Wells Fargo,Equal-Weight,,main,COUP
+2020-03-17,SunTrust Robinson Humphrey,Buy,,main,COUP
+2020-03-17,Piper Sandler,Overweight,,main,COUP
+2020-03-17,Cantor Fitzgerald,Overweight,,main,COUP
+2020-03-17,Needham,Buy,,main,COUP
+2020-03-17,Canaccord Genuity,Buy,,main,COUP
+2020-03-17,Morgan Stanley,Equal-Weight,,main,COUP
+2020-03-17,Oppenheimer,Outperform,,main,COUP
+2020-03-17,Raymond James,Outperform,,main,COUP
+2020-03-18,Citigroup,Neutral,,main,COUP
+2020-03-31,Piper Sandler,Neutral,Overweight,down,COUP
+2020-04-14,Morgan Stanley,Overweight,Equal-Weight,up,COUP
+2020-04-23,JP Morgan,Underweight,Neutral,down,COUP
+2020-05-20,Mizuho,Neutral,,main,COUP
+2020-05-22,Morgan Stanley,Overweight,,main,COUP
+2020-05-28,Wedbush,Neutral,Outperform,down,COUP
+2020-06-09,Canaccord Genuity,Buy,,main,COUP
+2020-06-09,Morgan Stanley,Overweight,,main,COUP
+2020-06-09,Raymond James,Outperform,,main,COUP
+2020-06-09,Needham,Buy,,main,COUP
+2020-06-18,Oppenheimer,Outperform,,main,COUP
+2020-06-25,B of A Securities,Buy,,main,COUP
+2020-07-01,KeyBanc,Overweight,,init,COUP
+2020-07-15,KeyBanc,Overweight,,main,COUP
+2020-08-12,Evercore ISI Group,In-Line,Outperform,down,COUP
+2020-08-28,B of A Securities,Buy,,main,COUP
+2020-09-09,Needham,Buy,,main,COUP
+2020-09-09,RBC Capital,Outperform,,main,COUP
+2020-09-09,Raymond James,Outperform,,main,COUP
+2020-09-09,Piper Sandler,Neutral,,main,COUP
+2020-09-09,Canaccord Genuity,Buy,,main,COUP
+2020-09-09,Oppenheimer,Outperform,,main,COUP
+2020-09-09,Truist Securities,Buy,,main,COUP
+2020-09-09,Morgan Stanley,Overweight,,main,COUP
+2020-09-21,Morgan Stanley,Overweight,,main,COUP
+2020-10-09,Deutsche Bank,Buy,,init,COUP
+2020-11-10,Berenberg,Hold,,init,COUP
+2020-12-08,KeyBanc,Overweight,,main,COUP
+2020-12-08,Canaccord Genuity,Buy,,main,COUP
+2020-12-08,Raymond James,Outperform,,main,COUP
+2020-12-08,Morgan Stanley,Overweight,,main,COUP
+2020-12-08,Needham,Buy,,main,COUP
+2020-12-08,Piper Sandler,Neutral,,main,COUP
+2021-01-06,KeyBanc,Overweight,,main,COUP
+2021-03-17,RBC Capital,Outperform,,main,COUP
+2021-03-17,Oppenheimer,Outperform,,main,COUP
+2021-03-17,Wells Fargo,Equal-Weight,,main,COUP
+2021-04-20,Piper Sandler,Overweight,Neutral,up,COUP
+2021-04-23,Wolfe Research,Outperform,,init,COUP
+2021-06-08,Needham,Buy,,main,COUP
+2021-06-08,Keybanc,Overweight,,main,COUP
+2021-06-08,Raymond James,Outperform,,main,COUP
+2021-06-08,Piper Sandler,Overweight,,main,COUP
+2021-06-08,Oppenheimer,Outperform,,main,COUP
+2021-06-08,Morgan Stanley,Overweight,,main,COUP
+2021-06-08,Truist Securities,Buy,,main,COUP
+2021-06-08,Canaccord Genuity,Buy,,main,COUP
+2021-06-08,Citigroup,Neutral,,main,COUP
+2021-06-08,Mizuho,Neutral,,main,COUP
+2021-06-08,Barclays,Equal-Weight,,main,COUP
+2021-06-08,Wells Fargo,Equal-Weight,,main,COUP
+2021-07-16,Morgan Stanley,Overweight,,main,COUP
+2021-07-16,Piper Sandler,Overweight,,main,COUP
+2021-07-16,Keybanc,Overweight,,main,COUP
+2021-09-08,Piper Sandler,Overweight,,main,COUP
+2021-09-08,Oppenheimer,Outperform,,main,COUP
+2021-09-08,Barclays,Equal-Weight,,main,COUP
+2021-09-08,RBC Capital,Sector Perform,,main,COUP
+2021-09-08,Wells Fargo,Equal-Weight,,main,COUP
+2021-09-08,Mizuho,Neutral,,main,COUP
+2021-09-08,Raymond James,Outperform,,main,COUP
+2021-10-01,UBS,Neutral,,init,COUP
+2021-10-28,Morgan Stanley,Overweight,,main,COUP
+2021-11-30,B of A Securities,Buy,,main,COUP
+2021-12-07,Keybanc,Overweight,,main,COUP
+2021-12-07,Piper Sandler,Overweight,,main,COUP
+2021-12-07,Oppenheimer,Outperform,,main,COUP
+2021-12-07,RBC Capital,Sector Perform,,main,COUP
+2021-12-07,Wells Fargo,Equal-Weight,,main,COUP
+2021-12-07,Barclays,Equal-Weight,,main,COUP
+2021-12-07,Raymond James,Outperform,,main,COUP
+2021-12-07,Morgan Stanley,Overweight,,main,COUP
+2021-12-07,Needham,Buy,,main,COUP
+2021-12-07,Truist Securities,Buy,,main,COUP
+2021-12-07,Canaccord Genuity,Buy,,main,COUP
+2021-12-07,Mizuho,Neutral,,main,COUP
+2021-12-09,Oppenheimer,Outperform,,main,COUP

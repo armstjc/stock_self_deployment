@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AMBP220218C00010000,2022-02-02 19:52:41+00:00,10.0,0.15,0.1,0.15,-0.00999999,-6.2499943,204,1419,0.42578699218750005,False,REGULAR,USD,AMBP

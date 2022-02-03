@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-12,Deutsche Bank,Buy,,init,ITT
+2013-02-28,Deutsche Bank,Buy,,main,ITT
+2013-03-25,Deutsche Bank,Buy,,main,ITT
+2013-08-02,FBR Capital,Market Perform,Underperform,up,ITT
+2013-11-01,Baird,Outperform,,up,ITT
+2013-11-20,Stifel Nicolaus,Buy,,init,ITT
+2014-02-18,Stifel Nicolaus,Buy,,main,ITT
+2014-03-19,SunTrust Robinson Humphrey,Buy,,init,ITT
+2014-06-27,Goldman Sachs,Neutral,,init,ITT
+2014-08-01,Barclays,Equal-Weight,,main,ITT
+2014-11-03,Barclays,Equal-Weight,,main,ITT
+2014-11-03,Stifel Nicolaus,Buy,,main,ITT
+2014-12-02,Goldman Sachs,Buy,Neutral,up,ITT
+2014-12-05,Bank of America,Neutral,,main,ITT
+2015-01-05,Stifel Nicolaus,Buy,,main,ITT
+2015-01-12,Barclays,Equal-Weight,,main,ITT
+2015-02-17,Barclays,Equal-Weight,,main,ITT
+2015-02-27,Cowen & Co.,Outperform,,init,ITT
+2015-03-17,Barclays,Equal-Weight,,main,ITT
+2015-04-14,Seaport Global,,,init,ITT
+2015-04-24,Deutsche Bank,Hold,Buy,down,ITT
+2015-07-06,Bank of America,Neutral,,main,ITT
+2015-10-05,Barclays,Equal-Weight,,main,ITT
+2015-10-15,Avondale Partners,Market Perform,,init,ITT
+2016-02-16,Avondale Partners,Market Perform,,main,ITT
+2016-05-16,UBS,Sell,,main,ITT
+2016-06-10,Seaport Global,Buy,Accumulate,up,ITT
+2016-07-18,Barclays,Equal-Weight,,main,ITT
+2016-10-24,Barclays,Overweight,Equal-Weight,up,ITT
+2016-11-07,KeyBanc,Overweight,Sector Weight,up,ITT
+2017-02-16,Oppenheimer,Outperform,,up,ITT
+2017-06-06,Goldman Sachs,Neutral,Buy,down,ITT
+2017-11-03,Baird,Outperform,,main,ITT
+2018-02-20,Stifel Nicolaus,Buy,Buy,main,ITT
+2018-03-22,DA Davidson,Buy,,init,ITT
+2018-04-16,Stifel Nicolaus,Buy,Buy,main,ITT
+2018-05-07,Baird,Outperform,Outperform,main,ITT
+2018-06-13,KeyBanc,Overweight,Overweight,main,ITT
+2018-08-06,KeyBanc,Overweight,Overweight,main,ITT
+2018-08-06,Stifel Nicolaus,Buy,Buy,main,ITT
+2018-08-30,UBS,Sell,Sell,main,ITT
+2019-02-28,UBS,Neutral,Sell,up,ITT
+2019-04-16,Stifel Nicolaus,Buy,Buy,main,ITT
+2019-11-04,KeyBanc,Overweight,,main,ITT
+2019-11-19,DA Davidson,Buy,,main,ITT
+2019-11-21,KeyBanc,Overweight,,main,ITT
+2019-12-10,Goldman Sachs,Buy,Neutral,up,ITT
+2019-12-17,Bank of America,Neutral,Buy,down,ITT
+2020-03-27,DA Davidson,Buy,,reit,ITT
+2020-04-14,Stifel,Hold,Buy,down,ITT
+2020-04-14,Oppenheimer,Outperform,,main,ITT
+2020-05-04,Oppenheimer,Outperform,,main,ITT
+2020-05-04,Baird,Outperform,,main,ITT
+2020-10-14,KeyBanc,Overweight,,main,ITT
+2020-11-18,KeyBanc,Overweight,,main,ITT
+2020-12-15,Stifel,Buy,Hold,up,ITT
+2021-02-22,Baird,Outperform,,main,ITT
+2021-02-22,Oppenheimer,Outperform,,main,ITT
+2021-03-22,Oppenheimer,Outperform,,main,ITT
+2021-04-13,Keybanc,Overweight,,main,ITT
+2021-05-11,UBS,Neutral,Buy,down,ITT
+2021-05-13,Gordon Haskett,Hold,Buy,down,ITT
+2021-06-15,Citigroup,Buy,,init,ITT
+2021-08-06,Keybanc,Overweight,,main,ITT
+2021-08-09,Oppenheimer,Outperform,,main,ITT
+2021-12-08,B of A Securities,Buy,Neutral,up,ITT

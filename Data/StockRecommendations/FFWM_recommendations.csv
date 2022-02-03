@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-25,Sandler O'Neill,Buy,,init,FFWM
+2015-07-14,DA Davidson,Buy,,init,FFWM
+2015-07-15,DA Davidson,Buy,,init,FFWM
+2015-07-15,Raymond James,Outperform,,init,FFWM
+2015-10-27,Raymond James,Outperform,,main,FFWM
+2016-07-01,FBR Capital,Outperform,,init,FFWM
+2016-07-29,FBR Capital,Outperform,,main,FFWM
+2016-12-20,FBR Capital,Market Perform,Outperform,down,FFWM
+2017-05-12,PiperJaffray,Neutral,,init,FFWM
+2017-06-22,FBR Capital,Outperform,Market Perform,up,FFWM
+2018-06-11,DA Davidson,Buy,Buy,main,FFWM
+2018-07-31,Sandler O'Neill,Hold,Buy,down,FFWM
+2018-09-21,Raymond James,Outperform,Outperform,main,FFWM
+2019-11-12,Piper Jaffray,Neutral,,main,FFWM
+2020-01-09,B. Riley FBR,Buy,,main,FFWM
+2020-03-24,Wedbush,Outperform,,init,FFWM
+2020-04-01,B. Riley FBR,Buy,,main,FFWM
+2020-04-24,Piper Sandler,Overweight,Neutral,up,FFWM
+2020-06-10,Raymond James,Outperform,,main,FFWM
+2020-10-01,Piper Sandler,Overweight,,main,FFWM
+2021-01-27,Raymond James,Outperform,,main,FFWM
+2021-10-07,Raymond James,Outperform,,main,FFWM
+2021-10-27,Raymond James,Outperform,,main,FFWM

@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ML220819C00002500,2022-02-01 17:42:10+00:00,2.5,0.8,0.6,0.7,0.0,0.0,4,294,0.937500625,False,REGULAR,USD,ML
+ML220819C00005000,2022-02-02 20:27:29+00:00,5.0,0.2,0.1,0.25,0.0,0.0,5,288,0.92187578125,False,REGULAR,USD,ML
+ML220819C00007500,2022-01-31 20:39:11+00:00,7.5,0.15,0.0,0.5,0.0,0.0,60,101,1.3359408203124996,False,REGULAR,USD,ML

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LFT220520P00005000,2021-11-18 19:08:42+00:00,5.0,1.26,0.85,2.05,0.0,0.0,4,5,0.9492192578124999,True,REGULAR,USD,LFT

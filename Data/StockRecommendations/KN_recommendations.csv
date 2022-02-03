@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-06,Rafferty,Buy,,init,KN
+2014-05-28,Lake Street,Buy,,init,KN
+2014-07-10,Garp Research,Buy,,init,KN
+2014-09-17,JMP Securities,Market Outperform,,main,KN
+2014-10-10,JMP Securities,Market Outperform,,main,KN
+2014-10-28,JMP Securities,Market Outperform,,main,KN
+2014-12-05,FBR Capital,Market Perform,,init,KN
+2015-02-13,FBR Capital,Underperform,Market Perform,down,KN
+2015-02-20,Baird,Outperform,Neutral,up,KN
+2015-03-13,Topeka,Buy,,init,KN
+2015-05-01,Craig-Hallum,Hold,Buy,down,KN
+2015-08-20,Baird,Neutral,Outperform,down,KN
+2015-09-28,FBR Capital,Market Perform,Underperform,up,KN
+2015-10-27,FBR Capital,Underperform,Market Perform,down,KN
+2016-01-14,Baird,Neutral,,main,KN
+2016-02-12,FBR Capital,Underperform,,main,KN
+2016-09-06,JP Morgan,Neutral,,init,KN
+2016-09-20,Susquehanna,Negative,,init,KN
+2016-09-29,Roth Capital,Buy,,init,KN
+2016-11-14,Baird,Outperform,Neutral,up,KN
+2017-01-12,Susquehanna,Neutral,Negative,up,KN
+2017-12-21,PiperJaffray,Neutral,,init,KN
+2018-04-24,JP Morgan,Neutral,Neutral,main,KN
+2018-07-25,Dougherty,Neutral,Buy,down,KN
+2018-08-03,JP Morgan,Underweight,Neutral,down,KN
+2019-02-08,Lake Street,Hold,Buy,down,KN
+2019-07-25,Susquehanna,Positive,Neutral,up,KN
+2019-09-18,JP Morgan,Underweight,,main,KN
+2020-02-18,Piper Sandler,Overweight,Neutral,up,KN
+2020-04-09,Susquehanna,Positive,,main,KN
+2021-01-12,Roth Capital,Buy,,main,KN
+2021-04-19,Susquehanna,Neutral,Positive,down,KN

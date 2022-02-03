@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SCL220617P00115000,2021-11-19 14:41:09+00:00,115.0,6.0,5.4,7.5,0.0,0.0,20,20,0.13269910278320313,True,REGULAR,USD,SCL

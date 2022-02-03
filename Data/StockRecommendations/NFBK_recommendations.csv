@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-23,Sterne Agee,Buy,,init,NFBK
+2013-02-25,Sandler O'Neill,Buy,Hold,up,NFBK
+2014-02-05,Keefe Bruyette & Woods,Outperform,Market Perform,up,NFBK
+2014-06-09,Boenning & Scattergood,Neutral,,down,NFBK
+2014-10-15,Sterne Agee,Neutral,Buy,down,NFBK
+2014-11-12,Keefe Bruyette & Woods,Market Perform,Outperform,down,NFBK
+2015-07-21,Jefferies,Hold,,init,NFBK
+2015-11-04,Keefe Bruyette & Woods,Market Perform,,main,NFBK
+2016-04-14,PiperJaffray,Neutral,,init,NFBK
+2017-09-01,DA Davidson,Neutral,,init,NFBK
+2020-10-01,Piper Sandler,Overweight,Neutral,up,NFBK
+2020-12-18,DA Davidson,Buy,Neutral,up,NFBK
+2021-09-27,Piper Sandler,Neutral,Overweight,down,NFBK
+2021-12-15,DA Davidson,Neutral,Buy,down,NFBK

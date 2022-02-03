@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-26,Dawson James,Buy,,init,ARWR
+2013-10-21,PiperJaffray,Overweight,,init,ARWR
+2013-12-18,Jefferies,Buy,,init,ARWR
+2014-03-03,Barclays,Overweight,,init,ARWR
+2014-03-04,RBC Capital,Outperform,,init,ARWR
+2014-03-05,Deutsche Bank,Buy,,init,ARWR
+2014-03-05,RBC Capital,Outperform,,init,ARWR
+2014-10-08,Deutsche Bank,Buy,,main,ARWR
+2014-10-09,RBC Capital,Sector Perform,Outperform,down,ARWR
+2015-01-22,Deutsche Bank,Hold,Buy,down,ARWR
+2015-04-14,Jefferies,Hold,Buy,down,ARWR
+2015-09-25,PiperJaffray,Overweight,,main,ARWR
+2016-05-19,Chardan Capital,Buy,,init,ARWR
+2016-08-18,Cantor Fitzgerald,Buy,,init,ARWR
+2016-11-30,Cantor Fitzgerald,Hold,Buy,down,ARWR
+2016-11-30,Chardan Capital,Neutral,Buy,down,ARWR
+2016-11-30,PiperJaffray,Neutral,Overweight,down,ARWR
+2016-11-30,Jefferies,Hold,,main,ARWR
+2016-11-30,William Blair,Market Perform,Outperform,down,ARWR
+2017-09-18,William Blair,Outperform,Market Perform,up,ARWR
+2017-11-27,PiperJaffray,Overweight,Neutral,up,ARWR
+2018-01-05,B. Riley FBR,Neutral,,init,ARWR
+2018-02-12,Cantor Fitzgerald,Neutral,Hold,main,ARWR
+2018-02-12,B. Riley,Neutral,Neutral,main,ARWR
+2018-03-27,Jefferies,Buy,,init,ARWR
+2018-05-09,Cantor Fitzgerald,Overweight,Neutral,up,ARWR
+2018-08-08,B. Riley FBR,Neutral,Neutral,main,ARWR
+2018-09-06,B. Riley FBR,Buy,Neutral,up,ARWR
+2018-09-06,Chardan Capital,Buy,Buy,main,ARWR
+2018-12-17,Cantor Fitzgerald,Overweight,Overweight,main,ARWR
+2019-06-28,Cantor Fitzgerald,Neutral,Overweight,down,ARWR
+2019-08-19,B. Riley,Buy,,main,ARWR
+2019-10-03,Baird,Outperform,,init,ARWR
+2019-10-22,Chardan Capital,Buy,,main,ARWR
+2019-10-24,Baird,Neutral,Outperform,down,ARWR
+2019-11-13,B. Riley FBR,Buy,,main,ARWR
+2019-11-19,Cantor Fitzgerald,Neutral,,main,ARWR
+2019-11-25,Baird,Outperform,Neutral,up,ARWR
+2019-12-13,Oppenheimer,Perform,,init,ARWR
+2020-01-21,SVB Leerink,Underperform,,init,ARWR
+2020-02-06,Cantor Fitzgerald,Neutral,,main,ARWR
+2020-03-13,B. Riley FBR,Buy,,main,ARWR
+2020-03-17,Goldman Sachs,Neutral,,init,ARWR
+2020-03-24,SVB Leerink,Market Perform,Underperform,up,ARWR
+2020-04-15,Cantor Fitzgerald,Overweight,Neutral,up,ARWR
+2020-05-08,Cantor Fitzgerald,Overweight,,reit,ARWR
+2020-05-13,RBC Capital,Outperform,,init,ARWR
+2020-09-17,SVB Leerink,Market Perform,,main,ARWR
+2020-11-19,Citigroup,Buy,,init,ARWR
+2020-11-24,SVB Leerink,Market Perform,,main,ARWR
+2020-12-21,Baird,Neutral,Outperform,down,ARWR
+2021-02-05,Chardan Capital,Buy,,main,ARWR
+2021-02-05,HC Wainwright & Co.,Buy,,main,ARWR
+2021-02-05,Piper Sandler,Overweight,,main,ARWR
+2021-02-08,B. Riley FBR,Buy,,main,ARWR
+2021-08-06,Chardan Capital,Buy,,main,ARWR
+2021-08-10,HC Wainwright & Co.,Buy,,main,ARWR
+2021-11-23,SVB Leerink,Market Perform,,main,ARWR

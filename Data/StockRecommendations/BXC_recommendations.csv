@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-08-08,B. Riley FBR,Buy,,init,BXC
+2019-11-07,B. Riley,Buy,,main,BXC
+2020-02-04,B. Riley FBR,Buy,,main,BXC
+2020-03-12,B. Riley FBR,Buy,,main,BXC
+2020-03-17,B. Riley FBR,Buy,,main,BXC
+2020-04-09,B. Riley,Neutral,Buy,down,BXC
+2020-08-04,B. Riley FBR,Buy,Neutral,up,BXC
+2021-01-05,Craig-Hallum,Buy,,init,BXC
+2021-02-12,Benchmark,Buy,,init,BXC
+2021-07-23,Loop Capital,Hold,,init,BXC
+2021-11-04,Loop Capital,Buy,Hold,up,BXC
+2021-12-17,DA Davidson,Buy,,init,BXC

@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-27,Bank of America,Neutral,,main,IART
+2012-07-27,Jefferies,Buy,,main,IART
+2012-07-30,PiperJaffray,Neutral,,main,IART
+2012-09-10,Oppenheimer,Outperform,,main,IART
+2012-11-16,SunTrust Robinson Humphrey,Neutral,,init,IART
+2012-12-18,Bank of America,Underperform,Neutral,down,IART
+2013-01-11,Janney Capital,Buy,,init,IART
+2013-02-22,Jefferies,Buy,,main,IART
+2013-02-22,PiperJaffray,Neutral,,main,IART
+2013-02-28,JP Morgan,Neutral,,main,IART
+2013-04-11,PiperJaffray,Neutral,,main,IART
+2013-06-04,Wells Fargo,Market Perform,,init,IART
+2013-08-02,Oppenheimer,Outperform,,main,IART
+2013-08-15,PiperJaffray,Overweight,Neutral,up,IART
+2013-10-04,Barclays,Equal-Weight,,init,IART
+2013-10-23,Morgan Stanley,Underweight,Equal-Weight,down,IART
+2013-11-11,Morgan Stanley,Neutral,Underweight,up,IART
+2014-01-08,Bank of America,Neutral,Underperform,up,IART
+2014-04-23,Lake Street,Buy,,init,IART
+2014-05-02,Oppenheimer,Outperform,,main,IART
+2014-08-06,Oppenheimer,Outperform,,main,IART
+2015-02-27,Jefferies,Buy,,main,IART
+2015-03-10,PiperJaffray,Overweight,,init,IART
+2015-05-01,Wells Fargo,Outperform,Market Perform,up,IART
+2015-05-01,Barclays,Equal-Weight,,main,IART
+2015-05-29,Barclays,Equal-Weight,,main,IART
+2015-07-29,Raymond James,Outperform,Market Perform,up,IART
+2015-07-31,JP Morgan,Overweight,Neutral,up,IART
+2015-09-21,Bank of America,Buy,Neutral,up,IART
+2015-11-12,Citigroup,Buy,,init,IART
+2016-04-28,Lake Street,Hold,,main,IART
+2016-06-02,Barclays,Equal-Weight,,main,IART
+2016-07-13,JP Morgan,Overweight,,init,IART
+2016-07-29,Jefferies,Buy,,main,IART
+2016-07-29,Barclays,Equal-Weight,,main,IART
+2016-09-23,Argus,Buy,,main,IART
+2016-10-28,Lake Street,Buy,Hold,up,IART
+2016-12-12,UBS,Buy,,init,IART
+2017-01-06,JMP Securities,Market Outperform,Market Perform,up,IART
+2017-06-30,Cantor Fitzgerald,Overweight,,init,IART
+2017-07-10,Morgan Stanley,Neutral,,main,IART
+2017-07-27,Raymond James,Outperform,,main,IART
+2017-10-27,JP Morgan,Neutral,Overweight,down,IART
+2017-10-30,Wells Fargo,Market Perform,Outperform,down,IART
+2018-01-02,Raymond James,Market Perform,Outperform,down,IART
+2018-01-02,Bank of America,Neutral,Buy,down,IART
+2018-02-28,JMP Securities,Market Outperform,Market Outperform,main,IART
+2018-04-05,BTIG Research,Neutral,,init,IART
+2018-04-11,JP Morgan,Neutral,Neutral,main,IART
+2018-04-26,JP Morgan,Neutral,Neutral,main,IART
+2018-04-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,IART
+2018-05-22,JP Morgan,Neutral,Neutral,main,IART
+2018-07-02,Citigroup,Neutral,Buy,down,IART
+2018-07-26,BTIG Research,Buy,Neutral,up,IART
+2018-08-07,Bank of America,Underperform,Neutral,down,IART
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,IART
+2018-11-01,Cantor Fitzgerald,Neutral,Neutral,main,IART
+2018-11-01,Wells Fargo,Market Perform,Market Perform,main,IART
+2018-11-02,JMP Securities,Market Outperform,Market Outperform,main,IART
+2018-11-02,Citigroup,Neutral,Neutral,main,IART
+2018-11-28,UBS,Neutral,,init,IART
+2018-12-12,Credit Suisse,Outperform,,init,IART
+2018-12-18,Credit Suisse,Outperform,,init,IART
+2019-01-03,SunTrust Robinson Humphrey,Buy,,init,IART
+2019-10-08,Wells Fargo,Market Perform,,main,IART
+2019-12-18,UBS,Neutral,,main,IART
+2020-01-07,Piper Sandler,Neutral,Overweight,down,IART
+2020-02-20,UBS,Neutral,,main,IART
+2020-03-06,Credit Suisse,Outperform,,main,IART
+2020-04-03,SunTrust Robinson Humphrey,Buy,,init,IART
+2020-04-06,Wells Fargo,Equal-Weight,,main,IART
+2020-05-08,JMP Securities,Market Outperform,,main,IART
+2020-08-11,Credit Suisse,Outperform,,main,IART
+2020-08-11,UBS,Neutral,,main,IART
+2020-08-12,Truist Securities,Buy,,main,IART
+2020-10-08,JP Morgan,Underweight,Neutral,down,IART
+2020-10-29,Piper Sandler,Neutral,,main,IART
+2021-01-07,Credit Suisse,Outperform,,main,IART
+2021-01-27,JMP Securities,Market Outperform,,main,IART
+2021-02-19,Credit Suisse,Outperform,,main,IART
+2021-09-15,BTIG,Neutral,Buy,down,IART
+2021-11-03,Credit Suisse,Outperform,,main,IART
+2021-12-17,JP Morgan,Neutral,Underweight,up,IART

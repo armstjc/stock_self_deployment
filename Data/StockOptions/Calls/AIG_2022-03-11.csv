@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIG220311C00057000,2022-01-28 16:02:36+00:00,57.0,2.3,4.35,4.85,0.0,0.0,1,1,0.39038695556640624,True,REGULAR,USD,AIG
+AIG220311C00057000,2022-01-28 16:02:36+00:00,57.0,2.3,4.35,4.85,0.0,0.0,1,1,0.3957579956054688,True,REGULAR,USD,AIG

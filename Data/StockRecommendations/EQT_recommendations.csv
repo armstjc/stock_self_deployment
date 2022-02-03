@@ -1,0 +1,154 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2011-12-08,Ladenburg Thalmann,,,main,EQT
+2012-04-26,Canaccord Genuity,Hold,,main,EQT
+2012-04-30,Pritchard Capital Partners,Buy,,up,EQT
+2012-04-30,JP Morgan,Overweight,,main,EQT
+2012-05-02,Brean Capital,Hold,,down,EQT
+2012-06-21,Deutsche Bank,Buy,Hold,up,EQT
+2012-07-27,Deutsche Bank,Buy,,main,EQT
+2012-07-30,Barclays,Overweight,,main,EQT
+2012-07-30,BMO Capital,Outperform,,main,EQT
+2012-09-17,JP Morgan,Overweight,,main,EQT
+2012-10-31,Barclays,Overweight,,main,EQT
+2012-10-31,Wells Fargo,Market Perform,Outperform,down,EQT
+2012-12-05,Stifel Nicolaus,Buy,,main,EQT
+2012-12-07,Canaccord Genuity,Hold,,main,EQT
+2012-12-19,Societe Generale,Buy,,init,EQT
+2012-12-20,Canaccord Genuity,Hold,,main,EQT
+2012-12-21,Societe Generale,Buy,,main,EQT
+2012-12-21,Deutsche Bank,Buy,,main,EQT
+2013-01-17,Stifel Nicolaus,Hold,Buy,down,EQT
+2013-01-25,Citigroup,Neutral,,main,EQT
+2013-01-28,BMO Capital,Outperform,,main,EQT
+2013-01-30,JP Morgan,Overweight,,main,EQT
+2013-04-29,BMO Capital,Outperform,,main,EQT
+2013-05-07,ISI Group,Strong Buy,,init,EQT
+2013-05-22,Societe Generale,Hold,Buy,down,EQT
+2013-05-22,Societe Generale,Hold,Buy,down,EQT
+2013-07-17,Morgan Stanley,Overweight,,init,EQT
+2013-07-18,Morgan Stanley,Overweight,,init,EQT
+2013-07-24,KLR Group,Hold,,init,EQT
+2013-07-29,KLR Group,,Hold,up,EQT
+2013-11-12,Stifel Nicolaus,Buy,Hold,up,EQT
+2013-11-13,Maxim Group,Buy,,init,EQT
+2013-12-09,Deutsche Bank,Buy,,main,EQT
+2014-01-06,Deutsche Bank,Hold,,main,EQT
+2014-04-01,Deutsche Bank,Buy,,main,EQT
+2014-04-04,Citigroup,Hold,,main,EQT
+2014-04-15,Oppenheimer,Outperform,,main,EQT
+2014-04-21,KLR Group,Hold,Accumulate,down,EQT
+2014-04-25,SunTrust Robinson Humphrey,Neutral,,main,EQT
+2014-05-01,Stifel Nicolaus,Buy,,main,EQT
+2014-07-18,Deutsche Bank,Buy,,main,EQT
+2014-07-25,ISI Group,Buy,Strong Buy,down,EQT
+2014-08-04,KLR Group,Accumulate,Hold,up,EQT
+2014-08-12,Barclays,Overweight,,main,EQT
+2014-09-10,ISI Group,Buy,,init,EQT
+2014-10-08,Seaport Global,Accumulate,,init,EQT
+2014-10-24,Citigroup,Neutral,,main,EQT
+2014-10-24,SunTrust Robinson Humphrey,Buy,Neutral,up,EQT
+2015-01-30,Deutsche Bank,Buy,,main,EQT
+2015-02-11,Citigroup,Neutral,,main,EQT
+2015-02-20,Jefferies,Buy,,main,EQT
+2015-04-20,KLR Group,,Buy,down,EQT
+2015-04-24,Jefferies,Buy,,main,EQT
+2015-04-28,JP Morgan,Overweight,,main,EQT
+2015-05-13,Jefferies,Buy,,main,EQT
+2015-06-22,Barclays,Overweight,,init,EQT
+2015-07-21,Cowen & Co.,Outperform,,init,EQT
+2015-08-13,Seaport Global,Buy,Accumulate,up,EQT
+2015-09-28,Deutsche Bank,Buy,,main,EQT
+2015-11-03,Barclays,Overweight,,main,EQT
+2015-11-17,Goldman Sachs,Neutral,,init,EQT
+2015-12-09,JP Morgan,Overweight,,init,EQT
+2015-12-09,Deutsche Bank,Buy,,main,EQT
+2016-01-12,Jefferies,Hold,,down,EQT
+2016-01-13,Seaport Global,Accumulate,Buy,down,EQT
+2016-01-21,Deutsche Bank,,,main,EQT
+2016-02-02,JP Morgan,Overweight,,main,EQT
+2016-02-03,GMP Securities,Buy,,init,EQT
+2016-02-23,Deutsche Bank,Buy,,main,EQT
+2016-02-25,SunTrust Robinson Humphrey,Neutral,Buy,down,EQT
+2016-03-02,Morgan Stanley,Equal-Weight,Overweight,down,EQT
+2016-06-14,Deutsche Bank,Hold,Buy,down,EQT
+2016-07-29,Jefferies,Hold,,main,EQT
+2016-07-29,Citigroup,Neutral,,main,EQT
+2016-07-29,Barclays,Overweight,,main,EQT
+2016-08-11,Scotia Howard Weil,Sector Perform,Outperform,down,EQT
+2016-08-26,Stifel Nicolaus,Buy,Hold,up,EQT
+2016-10-24,Credit Suisse,Outperform,,init,EQT
+2016-10-28,Citigroup,Buy,Neutral,up,EQT
+2016-11-17,Drexel Hamilton,Buy,,init,EQT
+2017-01-11,BMO Capital,Market Perform,,down,EQT
+2017-06-20,BMO Capital,Outperform,Market Perform,up,EQT
+2017-07-05,RBC Capital,Sector Perform,Outperform,down,EQT
+2017-08-17,Morgan Stanley,Equal-Weight,,main,EQT
+2017-10-12,JP Morgan,Overweight,,main,EQT
+2017-10-18,Morgan Stanley,Equal-Weight,,main,EQT
+2017-12-12,Credit Suisse,Outperform,,init,EQT
+2017-12-14,Morgan Stanley,Equal-Weight,,main,EQT
+2018-01-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-02-15,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-04-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-05-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-07-05,TD Securities,Hold,,init,EQT
+2018-07-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-08-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-09-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-10-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,EQT
+2018-10-26,BMO Capital,Market Perform,Outperform,down,EQT
+2018-11-14,Morgan Stanley,Underweight,Equal-Weight,down,EQT
+2018-11-15,Credit Suisse,Outperform,Outperform,main,EQT
+2018-11-20,Morgan Stanley,Underweight,Underweight,main,EQT
+2018-11-20,Goldman Sachs,Buy,Neutral,up,EQT
+2018-11-29,Citigroup,Buy,Buy,main,EQT
+2019-04-09,Cowen & Co.,Market Perform,,init,EQT
+2019-04-16,MKM Partners,Neutral,Buy,down,EQT
+2019-05-20,Wells Fargo,Outperform,Market Perform,up,EQT
+2019-05-30,Macquarie,Neutral,,init,EQT
+2019-07-26,Morgan Stanley,Underweight,,main,EQT
+2019-09-20,Wells Fargo,Outperform,,main,EQT
+2019-11-08,RBC Capital,Outperform,Sector Perform,up,EQT
+2019-11-12,Wells Fargo,Outperform,,main,EQT
+2020-01-09,Wells Fargo,Overweight,,main,EQT
+2020-01-21,SunTrust Robinson Humphrey,Buy,Hold,up,EQT
+2020-01-27,Stifel Nicolaus,Buy,,main,EQT
+2020-02-28,CFRA,Hold,,main,EQT
+2020-03-02,MKM Partners,Buy,Neutral,up,EQT
+2020-03-04,RBC Capital,Outperform,,main,EQT
+2020-03-12,Credit Suisse,Neutral,Outperform,down,EQT
+2020-03-31,Stifel,Hold,Buy,down,EQT
+2020-04-20,Stifel,Hold,,main,EQT
+2020-04-24,SunTrust Robinson Humphrey,Buy,,main,EQT
+2020-04-30,Morgan Stanley,Equal-Weight,Underweight,up,EQT
+2020-05-19,Morgan Stanley,Equal-Weight,,main,EQT
+2020-06-25,Wells Fargo,Overweight,,main,EQT
+2020-06-30,TD Securities,Buy,Hold,up,EQT
+2020-07-02,Credit Suisse,Outperform,Neutral,up,EQT
+2020-07-09,Piper Sandler,Overweight,,init,EQT
+2020-07-23,Mizuho,Buy,,init,EQT
+2020-07-28,TD Securities,Buy,,main,EQT
+2020-08-03,Morgan Stanley,Equal-Weight,,main,EQT
+2020-08-12,Piper Sandler,Overweight,,main,EQT
+2020-08-13,Wells Fargo,Overweight,,main,EQT
+2020-08-21,Citigroup,Buy,,init,EQT
+2020-08-21,Morgan Stanley,Equal-Weight,,main,EQT
+2020-10-09,Morgan Stanley,Overweight,Equal-Weight,up,EQT
+2020-10-23,MKM Partners,Buy,,main,EQT
+2020-11-17,Morgan Stanley,Overweight,,main,EQT
+2020-12-08,JP Morgan,Neutral,Overweight,down,EQT
+2021-01-15,Morgan Stanley,Overweight,,main,EQT
+2021-03-11,Morgan Stanley,Overweight,,main,EQT
+2021-05-07,Tudor Pickering,Buy,Hold,up,EQT
+2021-05-07,Morgan Stanley,Overweight,,main,EQT
+2021-05-19,Wells Fargo,Overweight,,main,EQT
+2021-06-18,Morgan Stanley,Equal-Weight,Overweight,down,EQT
+2021-07-13,Mizuho,Buy,,main,EQT
+2021-07-29,Credit Suisse,Outperform,,main,EQT
+2021-08-13,Mizuho,Buy,,main,EQT
+2021-08-23,Wells Fargo,Overweight,,main,EQT
+2021-10-06,Morgan Stanley,Equal-Weight,,main,EQT
+2021-10-29,JP Morgan,Overweight,Neutral,up,EQT
+2021-11-19,Morgan Stanley,Overweight,Equal-Weight,up,EQT

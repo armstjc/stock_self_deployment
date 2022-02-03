@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,Stifel Nicolaus,Buy,,init,LAD
+2012-09-12,Morgan Stanley,Overweight,,init,LAD
+2012-10-24,Bank of America,Buy,,main,LAD
+2013-01-23,KeyBanc,Buy,Hold,up,LAD
+2013-02-21,Stifel Nicolaus,Buy,,main,LAD
+2013-08-12,Bank of America,Neutral,Buy,down,LAD
+2013-09-25,Stifel Nicolaus,Buy,,main,LAD
+2013-10-23,Bank of America,Buy,Neutral,up,LAD
+2014-01-27,Furey Research,Buy,,init,LAD
+2014-05-22,KeyBanc,Buy,,main,LAD
+2014-07-16,KeyBanc,Buy,,main,LAD
+2014-10-15,Morgan Stanley,Overweight,Underweight,up,LAD
+2015-03-25,KeyBanc,Overweight,,main,LAD
+2015-04-15,KeyBanc,Overweight,,main,LAD
+2015-06-23,KeyBanc,Overweight,,main,LAD
+2015-07-16,KeyBanc,Overweight,,main,LAD
+2015-07-23,Bank of America,Neutral,Buy,down,LAD
+2015-07-24,Stifel Nicolaus,Buy,,main,LAD
+2016-04-11,Jefferies,Buy,,init,LAD
+2016-08-31,Wolfe Research,Outperform,,init,LAD
+2017-02-02,Susquehanna,Neutral,,init,LAD
+2017-06-14,Seaport Global,Neutral,,init,LAD
+2017-10-04,KeyBanc,Overweight,,main,LAD
+2017-10-04,Berenberg,Hold,,init,LAD
+2018-02-15,Buckingham,Buy,,main,LAD
+2018-03-14,Morgan Stanley,Overweight,Overweight,main,LAD
+2018-04-17,Guggenheim,Neutral,,init,LAD
+2018-07-25,Stephens & Co.,Equal-Weight,Overweight,down,LAD
+2018-07-26,Buckingham,Buy,Buy,main,LAD
+2018-08-15,Morgan Stanley,Overweight,Overweight,main,LAD
+2018-09-21,Guggenheim,Buy,Neutral,up,LAD
+2018-10-24,Bank of America,Buy,Neutral,up,LAD
+2018-10-25,Buckingham,Buy,Buy,main,LAD
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,LAD
+2019-02-13,Seaport Global,Buy,,init,LAD
+2019-02-19,JP Morgan,Overweight,,init,LAD
+2019-04-16,Morgan Stanley,Overweight,Overweight,main,LAD
+2019-04-25,Stephens & Co.,Overweight,Equal-Weight,up,LAD
+2019-04-25,Buckingham,Buy,Buy,main,LAD
+2019-04-26,Bank of America,Neutral,Buy,down,LAD
+2019-05-06,Morgan Stanley,Overweight,,main,LAD
+2019-05-31,Longbow Research,Buy,,init,LAD
+2019-07-08,Buckingham Research,Neutral,Buy,down,LAD
+2019-07-09,Morgan Stanley,Overweight,,main,LAD
+2019-07-09,JP Morgan,Overweight,,main,LAD
+2019-08-02,Morgan Stanley,Overweight,,main,LAD
+2019-09-13,Bank of America,Underperform,Neutral,down,LAD
+2019-10-15,Morgan Stanley,Overweight,,main,LAD
+2019-10-24,Guggenheim,Buy,,main,LAD
+2019-11-14,Morgan Stanley,Overweight,,main,LAD
+2019-12-18,JP Morgan,Overweight,,main,LAD
+2020-01-09,Benchmark,Buy,,init,LAD
+2020-02-24,Buckingham,Buy,Neutral,up,LAD
+2020-03-03,B of A Securities,Underperform,,main,LAD
+2020-03-11,Morgan Stanley,Overweight,,main,LAD
+2020-03-11,JP Morgan,Overweight,,main,LAD
+2020-03-23,Benchmark,Buy,,main,LAD
+2020-03-30,Morgan Stanley,Overweight,,main,LAD
+2020-04-13,Morgan Stanley,Overweight,,main,LAD
+2020-04-23,Guggenheim,Buy,,main,LAD
+2020-04-23,Morgan Stanley,Overweight,,main,LAD
+2020-04-23,JP Morgan,Overweight,,main,LAD
+2020-05-18,Morgan Stanley,Overweight,,main,LAD
+2020-07-10,Morgan Stanley,Overweight,,main,LAD
+2020-07-27,Morgan Stanley,Overweight,,main,LAD
+2020-10-01,Craig-Hallum,Buy,,main,LAD
+2020-10-19,Seaport Global,Buy,,init,LAD
+2020-11-17,B of A Securities,Neutral,,main,LAD
+2020-12-07,Morgan Stanley,Equal-Weight,Overweight,down,LAD
+2020-12-09,Citigroup,Neutral,,init,LAD
+2020-12-21,Goldman Sachs,Neutral,,init,LAD
+2021-01-13,Morgan Stanley,Equal-Weight,,main,LAD
+2021-02-04,Craig-Hallum,Buy,,main,LAD
+2021-02-10,Morgan Stanley,Underweight,Equal-Weight,down,LAD
+2021-02-24,Citigroup,Neutral,,main,LAD
+2021-03-11,Craig-Hallum,Buy,,main,LAD
+2021-04-23,Morgan Stanley,Underweight,,main,LAD
+2021-05-21,B of A Securities,Buy,Neutral,up,LAD
+2021-07-16,B of A Securities,Buy,,main,LAD
+2021-07-26,Morgan Stanley,Underweight,,main,LAD
+2021-11-17,Morgan Stanley,Underweight,,main,LAD

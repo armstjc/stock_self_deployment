@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-18,Goldman Sachs,Neutral,,main,ALKS
+2012-05-31,JP Morgan,Overweight,,main,ALKS
+2012-11-01,JP Morgan,Overweight,,main,ALKS
+2012-11-16,Mizuho,Buy,,init,ALKS
+2012-11-27,Morgan Stanley,Equal-Weight,,init,ALKS
+2013-01-10,Morgan Stanley,Overweight,Equal-Weight,up,ALKS
+2013-01-15,Citigroup,Buy,,main,ALKS
+2013-01-17,Credit Suisse,Neutral,,init,ALKS
+2013-01-23,MKM Partners,Neutral,Buy,down,ALKS
+2013-01-31,Jefferies,Buy,,main,ALKS
+2013-02-01,Bank of America,Neutral,Buy,down,ALKS
+2013-04-18,Mizuho,Neutral,Buy,down,ALKS
+2013-04-22,Lazard,Neutral,Buy,down,ALKS
+2013-04-26,Bank of America,Underperform,,down,ALKS
+2013-05-24,MKM Partners,Sell,Neutral,down,ALKS
+2013-05-29,Leerink Swann,Outperform,,init,ALKS
+2013-10-01,Morgan Stanley,Equal-Weight,Overweight,down,ALKS
+2013-12-05,UBS,Neutral,Buy,down,ALKS
+2014-01-05,Goldman Sachs,Neutral,,main,ALKS
+2014-04-02,Credit Suisse,Outperform,,init,ALKS
+2014-04-10,Mizuho,Buy,Neutral,up,ALKS
+2014-12-08,Credit Suisse,Outperform,,main,ALKS
+2014-12-17,Citigroup,Buy,,main,ALKS
+2015-01-14,Citigroup,Buy,,main,ALKS
+2015-02-25,Citigroup,Buy,,main,ALKS
+2015-03-10,Jefferies,Buy,,main,ALKS
+2015-03-12,Morgan Stanley,Underweight,Equal-Weight,down,ALKS
+2015-03-27,Citigroup,Neutral,Buy,down,ALKS
+2015-05-21,Barclays,Overweight,,init,ALKS
+2015-09-01,Morgan Stanley,Overweight,Underweight,up,ALKS
+2015-10-07,Barclays,Overweight,,main,ALKS
+2015-10-30,Barclays,Overweight,,main,ALKS
+2015-11-06,Leerink Swann,Outperform,,main,ALKS
+2016-01-21,Cowen & Co.,Market Perform,Outperform,down,ALKS
+2016-01-22,UBS,Neutral,,main,ALKS
+2016-05-26,Evercore ISI Group,Buy,,init,ALKS
+2016-07-13,Barclays,Overweight,,main,ALKS
+2016-07-26,Cowen & Co.,Market Perform,Outperform,up,ALKS
+2016-07-29,Barclays,Overweight,,main,ALKS
+2016-07-29,Jefferies,Buy,,main,ALKS
+2016-09-27,Citigroup,Neutral,,main,ALKS
+2016-10-21,JP Morgan,Overweight,Neutral,up,ALKS
+2016-12-16,Cantor Fitzgerald,Neutral,,init,ALKS
+2017-06-13,Leerink Swann,Market Perform,Outperform,down,ALKS
+2017-10-16,Barclays,Equal-Weight,Overweight,down,ALKS
+2017-10-27,UBS,Neutral,,main,ALKS
+2017-10-27,Credit Suisse,Outperform,,main,ALKS
+2018-02-22,Jefferies,Hold,Buy,down,ALKS
+2018-02-23,Morgan Stanley,Equal-Weight,Overweight,main,ALKS
+2018-05-11,Bank of America,Buy,,init,ALKS
+2018-05-16,Citigroup,Buy,Neutral,up,ALKS
+2018-06-06,B. Riley FBR,Buy,,init,ALKS
+2018-06-21,Morgan Stanley,Underweight,Equal-Weight,down,ALKS
+2018-07-27,Credit Suisse,Outperform,Outperform,main,ALKS
+2018-07-27,Bank of America,Buy,Buy,main,ALKS
+2018-08-07,Stifel Nicolaus,Hold,,init,ALKS
+2018-11-05,PiperJaffray,Neutral,,init,ALKS
+2018-11-06,Cantor Fitzgerald,Neutral,Neutral,main,ALKS
+2018-11-13,Leerink Swann,Market Perform,,init,ALKS
+2018-11-15,Leerink Swann,Market Perform,,init,ALKS
+2018-12-13,Credit Suisse,Underperform,Outperform,down,ALKS
+2018-12-19,Goldman Sachs,Sell,Neutral,down,ALKS
+2019-05-01,Citigroup,Neutral,Buy,down,ALKS
+2019-05-31,H.C. Wainwright,Neutral,,init,ALKS
+2019-07-15,Goldman Sachs,Neutral,Sell,up,ALKS
+2019-09-05,Morgan Stanley,Equal-Weight,Underweight,up,ALKS
+2020-02-06,Mizuho,Neutral,,init,ALKS
+2020-02-14,JP Morgan,Neutral,Overweight,down,ALKS
+2020-02-14,H.C. Wainwright,Neutral,,main,ALKS
+2020-03-23,B of A Securities,Neutral,,main,ALKS
+2020-04-02,Morgan Stanley,Equal-Weight,,main,ALKS
+2020-04-30,HC Wainwright & Co.,Neutral,,reit,ALKS
+2020-09-30,B of A Securities,Neutral,,main,ALKS
+2020-10-15,Mizuho,Buy,Neutral,up,ALKS
+2020-12-11,SVB Leerink,Market Perform,,main,ALKS
+2021-04-29,HC Wainwright & Co.,Neutral,,main,ALKS
+2021-06-02,HC Wainwright & Co.,Neutral,,main,ALKS
+2021-07-29,SVB Leerink,Market Perform,,main,ALKS
+2021-07-29,Mizuho,Buy,,main,ALKS
+2021-09-02,B of A Securities,Underperform,Neutral,down,ALKS
+2021-10-07,Jefferies,Buy,Hold,up,ALKS
+2021-10-28,HC Wainwright & Co.,Neutral,,main,ALKS
+2021-11-09,SVB Leerink,Market Perform,,main,ALKS
+2021-12-01,Citigroup,Neutral,,init,ALKS

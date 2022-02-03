@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GFL220218C00040000,2021-12-31 18:58:44+00:00,40.0,1.0,0.15,0.55,0.0,0.0,2,18,0.80664255859375,False,REGULAR,USD,GFL

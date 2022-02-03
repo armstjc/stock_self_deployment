@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-11-20,Citi,Buy,,init,NEX
+2019-12-02,Wells Fargo,Outperform,,main,NEX
+2019-12-03,Credit Suisse,Neutral,,init,NEX
+2019-12-17,Goldman Sachs,Buy,Neutral,up,NEX
+2020-03-11,Evercore ISI Group,In-Line,Outperform,down,NEX
+2020-03-12,JP Morgan,Overweight,,main,NEX
+2020-04-06,Wells Fargo,Overweight,,main,NEX
+2020-04-06,Piper Sandler,Neutral,,main,NEX
+2020-04-08,Citigroup,Neutral,,main,NEX
+2020-04-16,Stephens & Co.,Overweight,,main,NEX
+2020-05-19,Morgan Stanley,Overweight,,main,NEX
+2020-05-21,Citigroup,Neutral,,main,NEX
+2020-05-28,Piper Sandler,Neutral,,main,NEX
+2020-07-08,Morgan Stanley,Overweight,,main,NEX
+2020-08-26,Citigroup,Neutral,,main,NEX
+2021-01-27,Evercore ISI Group,Outperform,In-Line,up,NEX
+2021-03-25,Morgan Stanley,Overweight,,main,NEX
+2021-04-06,Citigroup,Buy,Neutral,up,NEX
+2021-07-09,Morgan Stanley,Overweight,,main,NEX
+2021-10-25,Barclays,Overweight,,main,NEX
+2021-11-10,Susquehanna,Neutral,,main,NEX
+2021-12-07,Morgan Stanley,Overweight,,main,NEX

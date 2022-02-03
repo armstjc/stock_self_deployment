@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-02-25,PiperJaffray,Overweight,,init,CARA
+2014-02-25,Janney Capital,Buy,,init,CARA
+2014-02-25,Stifel Nicolaus,Buy,,init,CARA
+2014-02-25,Canaccord Genuity,Buy,,init,CARA
+2014-02-27,Needham,,,init,CARA
+2015-03-03,MLV & Co.,Buy,,init,CARA
+2015-07-24,Canaccord Genuity,Buy,,main,CARA
+2015-11-04,Cantor Fitzgerald,Buy,,init,CARA
+2016-08-05,Stifel Nicolaus,Buy,,main,CARA
+2016-10-13,H.C. Wainwright,Buy,,init,CARA
+2017-06-30,Janney Capital,Neutral,Buy,down,CARA
+2018-01-19,Seaport Global,Buy,,init,CARA
+2018-02-12,Janney Capital,Buy,Neutral,up,CARA
+2018-05-23,H.C. Wainwright,Buy,Buy,main,CARA
+2018-06-29,Canaccord Genuity,Buy,Buy,main,CARA
+2018-08-08,Stifel Nicolaus,Buy,Buy,main,CARA
+2018-08-15,Canaccord Genuity,Buy,Buy,main,CARA
+2018-09-13,Jefferies,Buy,,init,CARA
+2018-09-21,Cantor Fitzgerald,Overweight,,init,CARA
+2019-01-15,Bank of America,Neutral,,init,CARA
+2019-05-29,Needham,Buy,,main,CARA
+2019-05-29,H.C. Wainwright,Buy,,main,CARA
+2019-07-30,Piper Jaffray,Overweight,,main,CARA
+2020-04-22,Cantor Fitzgerald,Overweight,,reit,CARA
+2020-04-22,Wedbush,Outperform,,main,CARA
+2020-05-19,Cantor Fitzgerald,Overweight,,reit,CARA
+2021-04-29,Needham,Buy,,main,CARA
+2021-08-03,JP Morgan,Neutral,,init,CARA
+2021-08-24,HC Wainwright & Co.,Buy,,main,CARA

@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-08-13,William Blair,Outperform,,init,ALLK
+2018-08-13,Goldman Sachs,Neutral,,init,ALLK
+2020-12-21,SVB Leerink,Outperform,,init,ALLK
+2021-01-15,B of A Securities,Buy,,init,ALLK
+2021-05-18,HC Wainwright & Co.,Buy,,init,ALLK
+2021-07-15,Cowen & Co.,Outperform,,init,ALLK
+2021-08-26,Morgan Stanley,Equal-Weight,,init,ALLK
+2021-11-10,Morgan Stanley,Equal-Weight,,main,ALLK
+2021-12-13,B of A Securities,Buy,,main,ALLK
+2021-12-22,William Blair,Market Perform,Outperform,down,ALLK
+2021-12-22,SVB Leerink,Market Perform,Outperform,down,ALLK
+2021-12-22,Cowen & Co.,Market Perform,Outperform,down,ALLK
+2021-12-22,Jefferies,Hold,Buy,down,ALLK
+2021-12-22,Barclays,Underweight,,main,ALLK
+2021-12-23,Morgan Stanley,Equal-Weight,,main,ALLK
+2021-12-23,Goldman Sachs,Neutral,,main,ALLK
+2021-12-28,HC Wainwright & Co.,Buy,,main,ALLK

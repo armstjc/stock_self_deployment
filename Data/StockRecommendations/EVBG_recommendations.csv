@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-10-11,Pacific Crest,Overweight,,init,EVBG
+2016-10-11,Canaccord Genuity,Buy,,init,EVBG
+2016-10-11,Raymond James,Outperform,,init,EVBG
+2016-10-11,William Blair,Outperform,,init,EVBG
+2016-10-11,Stifel,Buy,,init,EVBG
+2016-10-11,Bank of America,Buy,,init,EVBG
+2016-10-11,Credit Suisse,Outperform,,init,EVBG
+2017-06-26,SunTrust Robinson Humphrey,Buy,,init,EVBG
+2017-08-04,Canaccord Genuity,Buy,,main,EVBG
+2017-08-30,Northland Securities,Outperform,,init,EVBG
+2017-11-07,Credit Suisse,Outperform,,main,EVBG
+2017-11-07,KeyBanc,Overweight,,main,EVBG
+2017-11-07,Canaccord Genuity,Buy,,main,EVBG
+2018-02-15,Credit Suisse,Outperform,Outperform,main,EVBG
+2018-02-22,KeyBanc,Overweight,Overweight,main,EVBG
+2018-02-22,Bank of America,Buy,Buy,main,EVBG
+2018-02-22,Credit Suisse,Outperform,Outperform,main,EVBG
+2018-02-22,Stifel Nicolaus,Buy,Buy,main,EVBG
+2018-05-08,Credit Suisse,Outperform,Outperform,main,EVBG
+2018-05-08,KeyBanc,Overweight,Overweight,main,EVBG
+2018-05-08,Raymond James,Outperform,Outperform,main,EVBG
+2018-05-08,Bank of America,Buy,Buy,main,EVBG
+2018-05-08,Stifel Nicolaus,Buy,Buy,main,EVBG
+2018-06-07,Canaccord Genuity,Buy,Buy,main,EVBG
+2018-06-11,Bank of America,Buy,Buy,main,EVBG
+2018-06-15,KeyBanc,Overweight,Overweight,main,EVBG
+2018-06-19,Canaccord Genuity,Buy,Buy,main,EVBG
+2018-08-07,Credit Suisse,Outperform,Outperform,main,EVBG
+2018-10-23,Baird,Outperform,,init,EVBG
+2019-01-04,Stephens & Co.,Overweight,,init,EVBG
+2019-01-08,KeyBanc,Sector Weight,Overweight,down,EVBG
+2019-02-06,JP Morgan,Neutral,,init,EVBG
+2019-02-20,Baird,Outperform,Outperform,main,EVBG
+2019-06-20,Baird,Outperform,,main,EVBG
+2019-06-20,Bank of America,Buy,,main,EVBG
+2019-08-06,Raymond James,Outperform,,main,EVBG
+2019-08-06,JP Morgan,Neutral,,main,EVBG
+2019-11-05,Credit Suisse,Outperform,,main,EVBG
+2019-11-05,Canaccord Genuity,Buy,,main,EVBG
+2020-01-08,Oppenheimer,Perform,,init,EVBG
+2020-02-19,Stephens & Co.,Overweight,,main,EVBG
+2020-02-19,Credit Suisse,Outperform,,main,EVBG
+2020-02-19,SunTrust Robinson Humphrey,Buy,,main,EVBG
+2020-02-19,Raymond James,Outperform,,main,EVBG
+2020-02-19,Stifel Nicolaus,Buy,,main,EVBG
+2020-02-19,Canaccord Genuity,Buy,,main,EVBG
+2020-03-24,Needham,Buy,,main,EVBG
+2020-03-24,Baird,Outperform,,reit,EVBG
+2020-03-24,Stifel,Buy,,main,EVBG
+2020-03-24,Stephens & Co.,Overweight,,main,EVBG
+2020-03-24,Canaccord Genuity,Buy,,main,EVBG
+2020-05-06,Credit Suisse,Outperform,,main,EVBG
+2020-05-06,Raymond James,Outperform,,main,EVBG
+2020-05-06,Baird,Outperform,,main,EVBG
+2020-05-06,SunTrust Robinson Humphrey,Buy,,main,EVBG
+2020-05-06,JP Morgan,Neutral,,main,EVBG
+2020-05-20,Needham,Buy,,main,EVBG
+2020-05-20,Stifel,Buy,,main,EVBG
+2020-07-21,Canaccord Genuity,Buy,,main,EVBG
+2020-08-07,Raymond James,Outperform,,main,EVBG
+2020-08-07,Credit Suisse,Outperform,,main,EVBG
+2020-10-28,B of A Securities,Neutral,Buy,down,EVBG
+2020-11-06,Canaccord Genuity,Buy,,main,EVBG
+2021-01-15,Credit Suisse,Neutral,Outperform,down,EVBG
+2021-02-19,JP Morgan,Overweight,Neutral,up,EVBG
+2021-05-11,Raymond James,Outperform,,main,EVBG
+2021-08-10,Stephens & Co.,Overweight,,main,EVBG
+2021-08-10,Raymond James,Outperform,,main,EVBG
+2021-08-10,Stifel,Buy,,main,EVBG
+2021-10-21,Barclays,Overweight,,init,EVBG
+2021-11-10,Stephens & Co.,Overweight,,main,EVBG
+2021-11-22,Wells Fargo,Equal-Weight,,init,EVBG
+2021-12-10,Baird,Neutral,Outperform,down,EVBG
+2021-12-10,JP Morgan,Neutral,Overweight,down,EVBG
+2021-12-10,Stifel,Hold,Buy,down,EVBG
+2021-12-10,B of A Securities,Underperform,Neutral,down,EVBG
+2021-12-10,Needham,Hold,Buy,down,EVBG
+2021-12-10,Northland Capital Markets,Market Perform,Outperform,down,EVBG
+2021-12-10,Barclays,Equal-Weight,Overweight,down,EVBG
+2021-12-13,Wells Fargo,Equal-Weight,,main,EVBG
+2021-12-16,Goldman Sachs,Sell,,init,EVBG
+2021-12-17,Raymond James,Outperform,,main,EVBG
+2021-12-27,Truist Securities,Buy,,main,EVBG

@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-02-21,FBR Capital,Market Perform,,init,JELD
+2017-02-21,Deutsche Bank,Buy,,init,JELD
+2017-02-21,RBC Capital,Outperform,,init,JELD
+2017-02-21,Baird,Outperform,,init,JELD
+2017-02-21,SunTrust Robinson Humphrey,Hold,,init,JELD
+2017-02-21,JP Morgan,Neutral,,init,JELD
+2017-02-23,Goldman Sachs,Neutral,,init,JELD
+2017-03-31,Wedbush,Neutral,Outperform,down,JELD
+2017-06-23,Credit Suisse,Outperform,,init,JELD
+2017-07-26,Gabelli & Co.,Buy,,init,JELD
+2017-09-07,Goldman Sachs,Buy,Neutral,up,JELD
+2017-09-07,Bank of America,Buy,Neutral,up,JELD
+2017-10-02,Baird,Outperform,,main,JELD
+2017-11-08,Barclays,Overweight,,main,JELD
+2018-02-22,JP Morgan,Neutral,Overweight,down,JELD
+2018-02-22,Wells Fargo,Market Perform,Outperform,down,JELD
+2018-02-22,Bank of America,Buy,Buy,main,JELD
+2018-02-22,Baird,Outperform,Outperform,main,JELD
+2018-03-01,Citigroup,Neutral,Neutral,main,JELD
+2018-03-22,Deutsche Bank,Hold,Buy,down,JELD
+2018-04-17,Jefferies,Hold,,init,JELD
+2018-05-14,Bank of America,Neutral,Buy,down,JELD
+2018-06-25,Deutsche Bank,Hold,Hold,main,JELD
+2018-08-08,Bank of America,Underperform,Neutral,down,JELD
+2018-08-08,Barclays,Overweight,Overweight,main,JELD
+2018-08-08,Credit Suisse,Neutral,Neutral,main,JELD
+2018-08-08,B. Riley FBR,Neutral,Neutral,main,JELD
+2018-08-09,Citigroup,Neutral,Neutral,main,JELD
+2018-09-27,Macquarie,Outperform,,init,JELD
+2018-10-08,RBC Capital,Outperform,Outperform,main,JELD
+2018-10-08,Baird,Neutral,Outperform,down,JELD
+2018-10-09,Barclays,Overweight,Overweight,main,JELD
+2018-10-16,Credit Suisse,Neutral,Neutral,main,JELD
+2018-10-16,Barclays,Overweight,Overweight,main,JELD
+2018-10-16,Baird,Neutral,Neutral,main,JELD
+2018-12-10,Goldman Sachs,Neutral,Buy,down,JELD
+2019-01-11,RBC Capital,Sector Perform,Outperform,down,JELD
+2019-03-15,Seaport Global,Buy,,init,JELD
+2019-10-14,Baird,Neutral,,main,JELD
+2019-10-14,RBC Capital,Sector Perform,,main,JELD
+2019-11-26,Baird,Outperform,Neutral,up,JELD
+2019-12-06,Goldman Sachs,Neutral,,init,JELD
+2020-01-06,Jefferies,Buy,Hold,up,JELD
+2020-01-21,Wells Fargo,Overweight,Equal-Weight,up,JELD
+2020-01-23,B of A Securities,Neutral,Underperform,up,JELD
+2020-02-05,Benchmark,Buy,,init,JELD
+2020-02-21,B. Riley FBR,Neutral,,main,JELD
+2020-03-02,Benchmark,Buy,,reit,JELD
+2020-03-16,RBC Capital,Underperform,Sector Perform,down,JELD
+2020-03-17,B. Riley FBR,Neutral,,main,JELD
+2020-03-31,JP Morgan,Neutral,,main,JELD
+2020-04-03,Jefferies,Hold,Buy,down,JELD
+2020-04-16,Baird,Neutral,Outperform,down,JELD
+2020-04-16,Wells Fargo,Equal-Weight,Overweight,down,JELD
+2020-04-16,SunTrust Robinson Humphrey,Hold,,main,JELD
+2020-04-28,B. Riley FBR,Neutral,,main,JELD
+2020-05-06,Baird,Neutral,,main,JELD
+2020-05-12,Wells Fargo,Equal-Weight,,main,JELD
+2020-05-28,Credit Suisse,Underperform,,init,JELD
+2020-06-18,Benchmark,Buy,,main,JELD
+2020-07-21,Benchmark,Hold,Buy,down,JELD
+2020-07-22,Wells Fargo,Equal-Weight,,main,JELD
+2020-08-05,RBC Capital,Sector Perform,Underperform,up,JELD
+2020-10-05,Wells Fargo,Overweight,Equal-Weight,up,JELD
+2020-11-04,Credit Suisse,Underperform,,main,JELD
+2021-02-02,Northcoast Research,Buy,,init,JELD
+2021-03-17,Wolfe Research,Outperform,,init,JELD
+2021-07-16,Wells Fargo,Overweight,,init,JELD
+2021-08-03,RBC Capital,Sector Perform,,main,JELD
+2021-11-02,Wolfe Research,Peer Perform,Outperform,down,JELD

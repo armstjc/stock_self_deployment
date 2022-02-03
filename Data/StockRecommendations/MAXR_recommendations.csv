@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-15,Credit Suisse,Neutral,Outperform,down,MAXR
+2018-03-19,Raymond James,Outperform,Market Perform,up,MAXR
+2018-11-01,CIBC,Neutral,Outperform,down,MAXR
+2018-11-01,Canaccord Genuity,Speculative Buy,Buy,down,MAXR
+2019-01-08,Credit Suisse,Underperform,Neutral,down,MAXR
+2019-01-08,BMO Capital,Market Perform,Outperform,down,MAXR
+2019-01-08,Canaccord Genuity,Hold,Speculative Buy,down,MAXR
+2019-03-01,CIBC,Underperform,Neutral,down,MAXR
+2019-03-01,TD Securities,Hold,Speculative Buy,down,MAXR
+2019-09-10,JP Morgan,Overweight,,init,MAXR
+2019-11-06,TD Securities,Speculative Buy,Hold,up,MAXR
+2019-12-30,Raymond James,Market Perform,Outperform,down,MAXR
+2020-01-03,TD Securities,Speculative Buy,,main,MAXR
+2020-01-08,JP Morgan,Overweight,,main,MAXR
+2020-01-15,Credit Suisse,Neutral,Underperform,up,MAXR
+2020-04-23,BMO Capital,Market Perform,,main,MAXR
+2020-06-25,Credit Suisse,Neutral,,main,MAXR
+2020-11-06,Canaccord Genuity,Hold,,main,MAXR
+2020-11-06,TD Securities,Hold,Buy,down,MAXR
+2020-11-17,Canaccord Genuity,Buy,Hold,up,MAXR
+2021-01-21,JP Morgan,Neutral,Overweight,down,MAXR
+2021-02-19,Canaccord Genuity,Buy,,main,MAXR
+2021-03-16,Credit Suisse,Neutral,,main,MAXR
+2021-03-17,Truist Securities,Buy,,init,MAXR
+2021-03-25,JP Morgan,Overweight,Neutral,up,MAXR
+2021-04-05,TD Securities,Buy,Hold,up,MAXR
+2021-06-16,Goldman Sachs,Buy,,init,MAXR
+2021-06-22,B of A Securities,Neutral,,init,MAXR
+2021-07-15,Baird,Neutral,,init,MAXR
+2021-07-16,Morgan Stanley,Overweight,,init,MAXR
+2021-08-05,Canaccord Genuity,Hold,Buy,down,MAXR
+2021-08-05,Credit Suisse,Neutral,,main,MAXR
+2021-08-09,Morgan Stanley,Overweight,,main,MAXR
+2021-08-30,Barclays,Equal-Weight,,init,MAXR
+2021-11-04,Baird,Outperform,Neutral,up,MAXR

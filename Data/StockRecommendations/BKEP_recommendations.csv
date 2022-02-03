@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-29,Bank of America,Buy,,init,BKEP
+2015-03-13,RBC Capital,Outperform,,init,BKEP
+2015-06-16,SunTrust Robinson Humphrey,Neutral,,init,BKEP
+2015-08-11,Barclays,Overweight,,main,BKEP
+2015-11-06,RBC Capital,Sector Perform,,down,BKEP
+2016-05-19,Janney Capital,Neutral,,init,BKEP
+2016-07-22,SunTrust Robinson Humphrey,Buy,Neutral,up,BKEP
+2016-10-07,DA Davidson,Buy,,init,BKEP
+2018-06-11,Wells Fargo,Market Perform,Market Perform,main,BKEP
+2019-03-14,Wells Fargo,Market Perform,Market Perform,main,BKEP
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,BKEP
+2020-11-30,Wells Fargo,Equal-Weight,Underweight,up,BKEP

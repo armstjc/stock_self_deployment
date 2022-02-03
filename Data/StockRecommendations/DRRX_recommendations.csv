@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-17,C.K.Cooper & Co.,Buy,,init,DRRX
+2012-11-01,CK Cooper,Hold,Buy,down,DRRX
+2013-03-25,Stifel Nicolaus,Buy,,init,DRRX
+2014-10-28,Stifel Nicolaus,Buy,,main,DRRX
+2015-03-03,Cantor Fitzgerald,Buy,Hold,up,DRRX
+2016-04-25,Rodman & Renshaw,Buy,,init,DRRX
+2017-02-28,H.C. Wainwright,Buy,,init,DRRX
+2017-07-12,Stifel Nicolaus,Buy,Hold,up,DRRX
+2017-10-20,H.C. Wainwright,Neutral,Buy,down,DRRX
+2017-10-20,Stifel Nicolaus,Hold,Buy,down,DRRX
+2018-03-06,H.C. Wainwright,Buy,Neutral,up,DRRX
+2019-09-06,Cantor Fitzgerald,Overweight,,init,DRRX
+2019-09-18,Stifel,Hold,,main,DRRX
+2019-09-18,Stifel Nicolaus,Hold,,main,DRRX
+2020-01-31,B. Riley,Buy,,init,DRRX
+2020-05-27,HC Wainwright & Co.,Buy,,main,DRRX
+2020-07-31,Oppenheimer,Outperform,,init,DRRX
+2020-10-12,Roth Capital,Buy,,init,DRRX
+2020-10-30,Chardan Capital,Buy,,init,DRRX
+2021-02-03,Chardan Capital,Buy,,main,DRRX
+2021-05-05,HC Wainwright & Co.,Buy,,reit,DRRX

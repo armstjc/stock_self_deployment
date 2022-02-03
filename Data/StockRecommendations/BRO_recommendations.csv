@@ -1,0 +1,106 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,JP Morgan,Neutral,,main,BRO
+2012-04-20,JP Morgan,Overweight,,up,BRO
+2012-07-02,Barclays,Overweight,,main,BRO
+2012-07-31,Barclays,Equal-Weight,Overweight,down,BRO
+2012-07-31,Barclays,Equal-Weight,Overweight,down,BRO
+2012-09-28,Deutsche Bank,Buy,,main,BRO
+2012-10-12,Goldman Sachs,Sell,,init,BRO
+2012-10-17,Keefe Bruyette & Woods,Outperform,Market Perform,up,BRO
+2012-10-25,Stifel Nicolaus,Buy,Hold,up,BRO
+2012-11-05,Sterne Agee,Buy,Neutral,up,BRO
+2012-11-30,Macquarie,Outperform,Neutral,up,BRO
+2012-12-17,RBC Capital,Sector Perform,Underperform,up,BRO
+2013-01-24,Wells Fargo,Market Perform,,init,BRO
+2013-02-04,Raymond James,Outperform,Market Perform,up,BRO
+2013-02-04,Barclays,Equal-Weight,,main,BRO
+2013-02-05,Deutsche Bank,Buy,,main,BRO
+2013-03-07,Deutsche Bank,Buy,,main,BRO
+2013-06-18,Compass Point,Buy,,init,BRO
+2013-06-19,William Blair,Market Perform,Outperform,down,BRO
+2013-07-11,Wells Fargo,Outperform,Market Perform,up,BRO
+2013-09-04,BMO Capital,Market Perform,,init,BRO
+2013-10-16,Stephens & Co.,Equal-Weight,Overweight,down,BRO
+2013-12-12,William Blair,Underperform,Market Perform,down,BRO
+2014-01-07,Barclays,Overweight,Equal-Weight,up,BRO
+2014-02-05,Portales Partners,Outperform,Sector Perform,up,BRO
+2014-04-22,Barclays,Overweight,,main,BRO
+2014-04-23,Compass Point,Neutral,Buy,down,BRO
+2014-06-30,Barclays,Overweight,,main,BRO
+2014-07-23,Macquarie,Neutral,,main,BRO
+2014-07-23,Deutsche Bank,Buy,,main,BRO
+2014-10-21,Barclays,Overweight,,main,BRO
+2015-01-28,Keefe Bruyette & Woods,Outperform,,main,BRO
+2015-04-22,Keefe Bruyette & Woods,Market Perform,Outperform,down,BRO
+2015-06-04,PiperJaffray,Overweight,,init,BRO
+2015-10-14,Wells Fargo,Market Perform,Outperform,down,BRO
+2016-01-07,SunTrust Robinson Humphrey,Neutral,Buy,down,BRO
+2016-01-07,Barclays,Underweight,Overweight,down,BRO
+2016-01-13,Keefe Bruyette & Woods,Market Perform,,main,BRO
+2016-01-27,Morgan Stanley,Underweight,Equal-Weight,down,BRO
+2016-02-16,Citigroup,Neutral,,init,BRO
+2016-03-21,William Blair,Market Perform,Underweight,up,BRO
+2016-04-08,Citigroup,Neutral,,main,BRO
+2016-06-28,JP Morgan,Underweight,,init,BRO
+2016-07-19,Barclays,Underweight,,main,BRO
+2016-07-20,Deutsche Bank,Buy,,main,BRO
+2016-09-30,Barclays,Underweight,,main,BRO
+2016-10-11,Citigroup,Neutral,,main,BRO
+2016-10-24,Deutsche Bank,Hold,Buy,down,BRO
+2016-11-04,BMO Capital,Underperform,Market Perform,down,BRO
+2016-12-12,BMO Capital,Market Perform,Underperform,up,BRO
+2016-12-16,JP Morgan,Neutral,Underweight,up,BRO
+2017-07-13,Citigroup,Neutral,,main,BRO
+2017-10-16,Barclays,Underweight,,main,BRO
+2017-10-18,Morgan Stanley,Underweight,,main,BRO
+2017-11-08,Citigroup,Sell,Neutral,down,BRO
+2017-12-06,SunTrust Robinson Humphrey,Buy,Hold,up,BRO
+2018-02-09,Citigroup,Sell,Sell,main,BRO
+2018-03-28,Morgan Stanley,Underweight,Underweight,main,BRO
+2018-03-29,Morgan Stanley,Underweight,Underweight,main,BRO
+2018-03-29,Deutsche Bank,Hold,Hold,main,BRO
+2018-04-02,Barclays,Underweight,Underweight,main,BRO
+2018-04-03,Morgan Stanley,Underweight,Underweight,main,BRO
+2018-04-26,Raymond James,Outperform,Outperform,main,BRO
+2018-05-08,Citigroup,Sell,Sell,main,BRO
+2018-05-29,Morgan Stanley,Underweight,Underweight,main,BRO
+2018-06-18,Goldman Sachs,Neutral,,init,BRO
+2018-07-12,Citigroup,Sell,Sell,main,BRO
+2018-08-07,Credit Suisse,Neutral,,init,BRO
+2018-08-14,Morgan Stanley,Underweight,Underweight,main,BRO
+2018-09-19,Citigroup,Sell,Sell,main,BRO
+2018-11-12,Barclays,Underweight,Underweight,main,BRO
+2019-07-24,Raymond James,Outperform,,main,BRO
+2019-07-25,Morgan Stanley,Underweight,,main,BRO
+2019-10-02,Barclays,Underweight,,main,BRO
+2019-10-09,SunTrust Robinson Humphrey,Buy,,main,BRO
+2019-10-14,Raymond James,Outperform,,main,BRO
+2019-11-14,Morgan Stanley,Underweight,,main,BRO
+2019-12-05,Morgan Stanley,Equal-Weight,Underweight,up,BRO
+2020-01-29,Raymond James,Outperform,,main,BRO
+2020-01-29,RBC Capital,Sector Perform,,main,BRO
+2020-02-28,Morgan Stanley,Equal-Weight,,main,BRO
+2020-03-23,Raymond James,Outperform,,main,BRO
+2020-04-01,Wells Fargo,Equal-Weight,,main,BRO
+2020-04-23,Morgan Stanley,Equal-Weight,,main,BRO
+2020-05-01,Morgan Stanley,Equal-Weight,,main,BRO
+2020-05-18,Morgan Stanley,Equal-Weight,,main,BRO
+2020-07-29,Morgan Stanley,Equal-Weight,,main,BRO
+2020-10-28,Morgan Stanley,Equal-Weight,,main,BRO
+2020-10-30,Credit Suisse,Neutral,,main,BRO
+2020-11-24,Morgan Stanley,Equal-Weight,,main,BRO
+2021-01-08,Goldman Sachs,Buy,Neutral,up,BRO
+2021-01-12,Morgan Stanley,Equal-Weight,,main,BRO
+2021-01-19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BRO
+2021-03-24,Morgan Stanley,Equal-Weight,,main,BRO
+2021-04-15,Raymond James,Outperform,,main,BRO
+2021-04-28,RBC Capital,Sector Perform,,main,BRO
+2021-04-28,Raymond James,Outperform,,main,BRO
+2021-05-27,Morgan Stanley,Equal-Weight,,main,BRO
+2021-08-16,Morgan Stanley,Equal-Weight,,main,BRO
+2021-08-17,Wolfe Research,Peer Perform,,init,BRO
+2021-10-15,Morgan Stanley,Equal-Weight,,main,BRO
+2021-10-27,Raymond James,Outperform,,main,BRO
+2021-11-19,Jefferies,Buy,,init,BRO
+2021-12-21,Raymond James,Outperform,,main,BRO
+2022-01-04,Wells Fargo,Equal-Weight,,main,BRO

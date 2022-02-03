@@ -1,0 +1,164 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-17,Williams Capital,Buy,,init,BLMN
+2012-09-17,Goldman Sachs,Buy,,init,BLMN
+2012-09-17,JP Morgan,Overweight,,init,BLMN
+2012-09-17,Wells Fargo,Outperform,,init,BLMN
+2012-09-17,Bank of America,Buy,,init,BLMN
+2012-09-17,Jefferies,Buy,,init,BLMN
+2012-09-17,Morgan Stanley,Overweight,,init,BLMN
+2012-09-18,Deutsche Bank,Hold,,init,BLMN
+2012-11-09,Jefferies,Buy,,main,BLMN
+2013-02-25,Bank of America,Buy,,main,BLMN
+2013-02-25,Jefferies,Buy,,main,BLMN
+2013-02-28,Deutsche Bank,Hold,,main,BLMN
+2013-04-08,Jefferies,Buy,,main,BLMN
+2013-04-11,Morgan Stanley,Overweight,,main,BLMN
+2013-04-14,Bank of America,Buy,,main,BLMN
+2013-05-01,JP Morgan,Overweight,,main,BLMN
+2013-06-05,Davenport,Buy,,init,BLMN
+2013-06-27,Deutsche Bank,Hold,,main,BLMN
+2013-07-16,Stifel Nicolaus,Hold,,init,BLMN
+2013-07-16,JP Morgan,Neutral,Overweight,down,BLMN
+2013-08-01,CL King,Buy,,init,BLMN
+2013-08-20,Barclays,Overweight,,init,BLMN
+2013-11-25,Raymond James,Outperform,Market Perform,up,BLMN
+2014-01-21,JP Morgan,Overweight,Neutral,up,BLMN
+2014-02-10,Raymond James,Strong Buy,Outperform,up,BLMN
+2014-04-10,Tigress Financial,Buy,,init,BLMN
+2014-04-14,Deutsche Bank,Buy,Hold,up,BLMN
+2014-04-15,Barclays,Overweight,,main,BLMN
+2014-04-22,Raymond James,Strong Buy,,main,BLMN
+2014-05-12,Jefferies,Buy,,main,BLMN
+2014-05-12,Barclays,Overweight,,main,BLMN
+2014-06-06,Buckingham Research,Buy,,init,BLMN
+2014-06-24,JP Morgan,Overweight,,main,BLMN
+2014-06-26,Longbow Research,Buy,,init,BLMN
+2014-08-06,JP Morgan,Overweight,,main,BLMN
+2014-08-06,Deutsche Bank,Buy,,main,BLMN
+2014-08-06,Barclays,Overweight,,main,BLMN
+2014-08-06,Jefferies,Hold,Buy,down,BLMN
+2014-08-07,Raymond James,Outperform,Strong Buy,down,BLMN
+2014-08-14,Tigress Financial,Neutral,Buy,down,BLMN
+2014-09-25,JP Morgan,Overweight,,main,BLMN
+2014-10-10,BMO Capital,Outperform,,init,BLMN
+2014-11-05,Raymond James,Strong Buy,Outperform,up,BLMN
+2014-11-05,Barclays,Overweight,,main,BLMN
+2014-12-17,Jefferies,Hold,,main,BLMN
+2014-12-17,JP Morgan,Overweight,,main,BLMN
+2015-01-22,Barclays,Overweight,,main,BLMN
+2015-02-20,JP Morgan,Overweight,,main,BLMN
+2015-03-11,Credit Suisse,Neutral,,init,BLMN
+2015-03-26,JP Morgan,Overweight,,main,BLMN
+2015-05-06,BMO Capital,Outperform,,main,BLMN
+2015-05-06,JP Morgan,Overweight,,main,BLMN
+2015-05-29,Deutsche Bank,Hold,,init,BLMN
+2015-07-01,Goldman Sachs,Buy,,init,BLMN
+2015-10-12,CL King,Strong Buy,Buy,up,BLMN
+2015-10-30,OTR Global,Mixed,Positive,down,BLMN
+2015-11-04,Deutsche Bank,Hold,,main,BLMN
+2015-11-04,Raymond James,Outperform,Strong Buy,down,BLMN
+2015-11-05,Morgan Stanley,Equal-Weight,Overweight,down,BLMN
+2015-11-19,Goldman Sachs,Buy,,main,BLMN
+2016-02-18,Credit Suisse,Neutral,,main,BLMN
+2016-04-11,Credit Suisse,Outperform,Neutral,up,BLMN
+2016-04-26,Goldman Sachs,Buy,,main,BLMN
+2016-05-25,Tigress Financial,Buy,Neutral,up,BLMN
+2017-01-17,Morgan Stanley,Underweight,Equal-Weight,down,BLMN
+2017-01-19,Goldman Sachs,Neutral,Buy,down,BLMN
+2017-02-21,JP Morgan,Neutral,Overweight,down,BLMN
+2017-02-23,Credit Suisse,Neutral,Outperform,down,BLMN
+2017-05-19,Wells Fargo,Market Perform,Outperform,down,BLMN
+2017-07-27,Raymond James,Outperform,,main,BLMN
+2017-10-18,Barclays,Overweight,,main,BLMN
+2017-11-06,Credit Suisse,Neutral,,main,BLMN
+2017-11-06,BMO Capital,Outperform,,main,BLMN
+2017-11-22,Bank of America,Neutral,Buy,down,BLMN
+2017-12-06,Raymond James,Market Perform,Outperform,down,BLMN
+2018-01-19,Goldman Sachs,Sell,Neutral,down,BLMN
+2018-01-24,Barclays,Overweight,Overweight,main,BLMN
+2018-02-23,Barclays,Overweight,Overweight,main,BLMN
+2018-02-23,BMO Capital,Outperform,Outperform,main,BLMN
+2018-03-02,Deutsche Bank,Buy,Hold,up,BLMN
+2018-04-27,Barclays,Overweight,Overweight,main,BLMN
+2018-05-01,JP Morgan,Neutral,Neutral,main,BLMN
+2018-07-17,Raymond James,Outperform,Market Perform,up,BLMN
+2018-07-18,Barclays,Overweight,Overweight,main,BLMN
+2018-07-31,Wells Fargo,Market Perform,Market Perform,main,BLMN
+2018-07-31,Bank of America,Neutral,Neutral,main,BLMN
+2018-09-11,Goldman Sachs,Neutral,Sell,up,BLMN
+2018-09-24,BMO Capital,Market Perform,Outperform,down,BLMN
+2018-10-19,Gordon Haskett,Buy,,init,BLMN
+2018-11-29,Barclays,Overweight,Overweight,main,BLMN
+2018-12-19,Morgan Stanley,Equal-Weight,Underweight,up,BLMN
+2019-01-08,JP Morgan,Overweight,Neutral,up,BLMN
+2019-02-08,Bank of America,Neutral,Underperform,down,BLMN
+2019-02-15,William Blair,Outperform,Market Perform,up,BLMN
+2019-05-23,BMO Capital,Underperform,Market Perform,down,BLMN
+2019-05-24,Guggenheim,Buy,Neutral,up,BLMN
+2019-06-28,JP Morgan,Overweight,,main,BLMN
+2019-06-28,Deutsche Bank,Buy,,init,BLMN
+2019-07-23,Loop Capital,Buy,,init,BLMN
+2019-08-13,MKM Partners,Buy,,init,BLMN
+2019-09-05,BMO Capital,Market Perform,Underperform,up,BLMN
+2019-10-15,Deutsche Bank,Hold,Buy,down,BLMN
+2019-10-18,Barclays,Overweight,,main,BLMN
+2019-10-18,Morgan Stanley,Equal-Weight,,main,BLMN
+2019-11-07,JP Morgan,Neutral,Overweight,down,BLMN
+2019-11-07,Raymond James,Outperform,,main,BLMN
+2019-11-07,BMO Capital,Market Perform,,main,BLMN
+2019-11-07,MKM Partners,Buy,,main,BLMN
+2019-12-12,Goldman Sachs,Buy,,init,BLMN
+2019-12-19,Morgan Stanley,Equal-Weight,,main,BLMN
+2020-04-02,Raymond James,Outperform,,main,BLMN
+2020-04-17,Deutsche Bank,Hold,,main,BLMN
+2020-04-20,MKM Partners,Buy,,main,BLMN
+2020-04-22,Jefferies,Hold,,main,BLMN
+2020-05-04,MKM Partners,Buy,,main,BLMN
+2020-05-05,Wells Fargo,Equal-Weight,,main,BLMN
+2020-05-11,Raymond James,Outperform,,main,BLMN
+2020-05-11,BMO Capital,Market Perform,,main,BLMN
+2020-05-11,Barclays,Overweight,,main,BLMN
+2020-05-11,Guggenheim,Buy,,main,BLMN
+2020-05-11,Wells Fargo,Equal-Weight,,main,BLMN
+2020-05-11,Morgan Stanley,Equal-Weight,,main,BLMN
+2020-05-11,Deutsche Bank,Hold,,main,BLMN
+2020-05-29,Jefferies,Buy,Hold,up,BLMN
+2020-07-01,Gordon Haskett,Hold,Buy,down,BLMN
+2020-07-09,Credit Suisse,Neutral,,init,BLMN
+2020-07-23,B of A Securities,Neutral,Underperform,up,BLMN
+2020-07-27,JP Morgan,Overweight,Neutral,up,BLMN
+2020-07-27,Morgan Stanley,Equal-Weight,,main,BLMN
+2020-09-01,Raymond James,Strong Buy,Outperform,up,BLMN
+2020-09-01,Deutsche Bank,Buy,Hold,up,BLMN
+2020-09-14,Raymond James,Strong Buy,,main,BLMN
+2020-10-12,Raymond James,Strong Buy,,main,BLMN
+2020-10-14,Morgan Stanley,Equal-Weight,,main,BLMN
+2020-10-26,Morgan Stanley,Equal-Weight,,main,BLMN
+2020-10-26,Credit Suisse,Neutral,,main,BLMN
+2020-11-16,BMO Capital,Outperform,Market Perform,up,BLMN
+2020-12-02,Raymond James,Strong Buy,,main,BLMN
+2021-01-19,Goldman Sachs,Sell,,init,BLMN
+2021-01-19,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-01-22,Deutsche Bank,Buy,,main,BLMN
+2021-01-26,Raymond James,Strong Buy,,main,BLMN
+2021-02-19,Goldman Sachs,Sell,,main,BLMN
+2021-02-19,Raymond James,Strong Buy,,main,BLMN
+2021-02-19,Credit Suisse,Neutral,,main,BLMN
+2021-02-19,Wells Fargo,Equal-Weight,,main,BLMN
+2021-02-19,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-02-22,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-03-09,Deutsche Bank,Hold,Buy,down,BLMN
+2021-03-22,Raymond James,Strong Buy,,main,BLMN
+2021-03-26,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-04-30,Raymond James,Strong Buy,,main,BLMN
+2021-04-30,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-05-21,Gordon Haskett,Buy,Hold,up,BLMN
+2021-08-02,Deutsche Bank,Buy,Hold,up,BLMN
+2021-08-03,Credit Suisse,Outperform,Neutral,up,BLMN
+2021-08-03,Goldman Sachs,Neutral,Sell,up,BLMN
+2021-10-13,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-10-18,Barclays,Overweight,,main,BLMN
+2021-11-03,Morgan Stanley,Equal-Weight,,main,BLMN
+2021-11-03,Barclays,Overweight,,main,BLMN
+2021-11-03,Raymond James,Strong Buy,,main,BLMN
+2021-12-15,Barclays,Overweight,,main,BLMN

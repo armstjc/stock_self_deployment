@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-03,Evercore ISI Group,Buy,,init,ATH
+2017-01-03,Barclays,Overweight,,init,ATH
+2017-01-03,Deutsche Bank,Hold,,init,ATH
+2017-01-03,Keefe Bruyette & Woods,Market Perform,,init,ATH
+2017-01-03,Goldman Sachs,Buy,,init,ATH
+2017-01-03,Morgan Stanley,Equal-Weight,,init,ATH
+2017-01-03,SunTrust Robinson Humphrey,Buy,,init,ATH
+2017-01-03,Wells Fargo,Outperform,,init,ATH
+2017-01-03,Bank of America,Buy,,init,ATH
+2017-01-03,Citigroup,Neutral,,init,ATH
+2017-01-03,Credit Suisse,Neutral,,init,ATH
+2017-01-04,UBS,Neutral,,init,ATH
+2017-01-06,BMO Capital,Market Perform,,init,ATH
+2017-01-27,JP Morgan,Neutral,,init,ATH
+2017-04-03,Keefe Bruyette & Woods,Outperform,Market Perform,up,ATH
+2017-04-04,Morgan Stanley,Overweight,Equal-Weight,up,ATH
+2017-06-19,Credit Suisse,Outperform,Neutral,up,ATH
+2017-10-18,Goldman Sachs,Buy,,init,ATH
+2017-11-06,UBS,Neutral,,main,ATH
+2017-11-13,Morgan Stanley,Overweight,,main,ATH
+2018-02-26,Citigroup,Neutral,Neutral,main,ATH
+2018-03-02,UBS,Buy,Neutral,up,ATH
+2018-04-05,Morgan Stanley,Overweight,Overweight,main,ATH
+2018-04-25,Credit Suisse,Outperform,,init,ATH
+2018-07-09,Barclays,Equal-Weight,Equal-Weight,main,ATH
+2018-09-21,Morgan Stanley,Overweight,Overweight,main,ATH
+2018-11-13,Morgan Stanley,Overweight,Overweight,main,ATH
+2019-02-28,BMO Capital,Outperform,Market Perform,up,ATH
+2019-07-10,Morgan Stanley,Overweight,,main,ATH
+2019-08-06,Wells Fargo,Outperform,,main,ATH
+2019-08-20,Morgan Stanley,Overweight,,main,ATH
+2019-09-13,Citigroup,Neutral,,main,ATH
+2019-10-08,Wells Fargo,Outperform,,main,ATH
+2019-10-10,UBS,Buy,,main,ATH
+2020-01-23,B of A Securities,Buy,,main,ATH
+2020-02-19,Credit Suisse,Outperform,,main,ATH
+2020-02-19,Wells Fargo,Overweight,,main,ATH
+2020-02-19,SunTrust Robinson Humphrey,Buy,,main,ATH
+2020-02-19,RBC Capital,Outperform,,main,ATH
+2020-03-10,Piper Sandler,Overweight,,main,ATH
+2020-03-17,Morgan Stanley,Overweight,,main,ATH
+2020-03-20,RBC Capital,Sector Perform,Outperform,down,ATH
+2020-04-01,Wells Fargo,Overweight,,main,ATH
+2020-04-03,Piper Sandler,Overweight,,main,ATH
+2020-04-07,Morgan Stanley,Overweight,,main,ATH
+2020-04-27,Credit Suisse,Outperform,,main,ATH
+2020-05-11,BMO Capital,Outperform,,main,ATH
+2020-05-12,SunTrust Robinson Humphrey,Buy,,main,ATH
+2020-05-15,UBS,Buy,,main,ATH
+2020-07-06,Morgan Stanley,Overweight,,main,ATH
+2020-08-06,BMO Capital,Outperform,,main,ATH
+2020-08-10,UBS,Buy,,main,ATH
+2020-08-20,Morgan Stanley,Overweight,,main,ATH
+2020-11-04,Morgan Stanley,Overweight,,main,ATH
+2020-11-04,Piper Sandler,Overweight,,main,ATH
+2020-11-18,Morgan Stanley,Overweight,,main,ATH
+2021-01-08,Evercore ISI Group,In-Line,Outperform,down,ATH
+2021-01-15,Morgan Stanley,Overweight,,main,ATH
+2021-02-25,Morgan Stanley,Overweight,,main,ATH
+2021-03-09,Wells Fargo,Equal-Weight,Overweight,down,ATH
+2021-04-01,Morgan Stanley,Overweight,,main,ATH
+2021-04-05,JP Morgan,Neutral,Overweight,down,ATH
+2021-05-10,BMO Capital,Outperform,,main,ATH
+2021-05-13,UBS,Neutral,Buy,down,ATH
+2021-05-19,Morgan Stanley,Overweight,,main,ATH
+2021-06-14,Citigroup,Neutral,,main,ATH
+2021-06-21,Citigroup,Neutral,,main,ATH
+2021-07-09,Wells Fargo,Equal-Weight,,main,ATH
+2021-07-15,Morgan Stanley,Equal-Weight,Overweight,down,ATH
+2021-08-06,RBC Capital,Sector Perform,,main,ATH
+2021-08-10,Truist Securities,Hold,Buy,down,ATH
+2021-09-01,Morgan Stanley,Equal-Weight,,main,ATH
+2021-10-08,Wells Fargo,Equal-Weight,,main,ATH
+2021-11-04,RBC Capital,Sector Perform,,main,ATH

@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-12,B. Riley FBR,Buy,,init,NLS
+2013-03-13,B. Riley FBR,Neutral,Buy,down,NLS
+2013-03-27,DA Davidson,Neutral,,init,NLS
+2013-05-07,B. Riley FBR,Buy,Neutral,up,NLS
+2013-08-06,DA Davidson,Neutral,,main,NLS
+2013-08-06,B. Riley FBR,Buy,Neutral,up,NLS
+2013-08-15,DA Davidson,Buy,Neutral,up,NLS
+2013-08-28,Imperial Capital,In-Line,,init,NLS
+2013-11-13,Imperial Capital,In-Line,,main,NLS
+2014-01-14,DA Davidson,Buy,,main,NLS
+2014-01-16,Imperial Capital,In-Line,,main,NLS
+2014-05-06,DA Davidson,Buy,,main,NLS
+2014-05-14,CRT Capital,Buy,,init,NLS
+2014-05-22,DA Davidson,Buy,,main,NLS
+2014-05-28,B. Riley FBR,Neutral,Buy,down,NLS
+2014-10-17,Wunderlich,Buy,,init,NLS
+2014-11-04,Wunderlich,Buy,,main,NLS
+2014-11-04,CRT Capital,Buy,,main,NLS
+2015-08-04,B. Riley FBR,Neutral,,main,NLS
+2015-09-29,B. Riley FBR,Buy,Neutral,up,NLS
+2015-11-03,B. Riley FBR,Buy,,main,NLS
+2016-03-10,SunTrust Robinson Humphrey,Buy,,init,NLS
+2016-07-06,Imperial Capital,Outperform,,init,NLS
+2016-09-19,Imperial Capital,In-Line,Outperform,down,NLS
+2016-09-26,B. Riley FBR,Neutral,Buy,down,NLS
+2017-01-09,DA Davidson,Neutral,Buy,down,NLS
+2017-03-13,Imperial Capital,Outperform,In-Line,up,NLS
+2017-03-17,Lake Street,Buy,,init,NLS
+2017-08-09,DA Davidson,Buy,Neutral,up,NLS
+2017-09-11,Aegis Capital,Buy,,init,NLS
+2017-10-31,SunTrust Robinson Humphrey,Hold,Buy,down,NLS
+2017-10-31,Lake Street,Hold,Buy,down,NLS
+2017-10-31,Imperial Capital,In-Line,Outperform,down,NLS
+2018-03-06,B. Riley FBR,Neutral,Neutral,main,NLS
+2018-04-23,Craig-Hallum,Buy,,init,NLS
+2018-05-08,B. Riley FBR,Neutral,Neutral,main,NLS
+2018-06-20,Berenberg,Sell,,init,NLS
+2018-07-24,B. Riley FBR,Buy,Buy,main,NLS
+2018-07-31,Lake Street,Buy,Hold,up,NLS
+2018-08-24,B. Riley FBR,Buy,Buy,main,NLS
+2019-01-18,B. Riley FBR,Neutral,Buy,down,NLS
+2019-01-18,DA Davidson,Neutral,Buy,down,NLS
+2019-01-18,Sidoti & Co.,Neutral,Buy,down,NLS
+2019-02-26,Craig-Hallum,Hold,Buy,down,NLS
+2019-07-17,Imperial Capital,Outperform,In-Line,up,NLS
+2019-11-11,Imperial Capital,In-Line,Outperform,down,NLS
+2020-01-10,SunTrust Robinson Humphrey,Hold,,main,NLS
+2020-04-23,SunTrust Robinson Humphrey,Buy,Hold,up,NLS
+2020-07-07,SunTrust Robinson Humphrey,Buy,,main,NLS
+2020-09-02,William Blair,Outperform,,init,NLS
+2021-03-19,Roth Capital,Buy,,main,NLS
+2021-05-11,Roth Capital,Neutral,Buy,down,NLS
+2021-08-10,Craig-Hallum,Hold,Buy,down,NLS
+2021-08-10,Roth Capital,Neutral,,main,NLS

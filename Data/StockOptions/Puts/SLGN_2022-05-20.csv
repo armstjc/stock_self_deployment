@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SLGN220520P00040000,2021-12-30 14:30:08+00:00,40.0,1.32,0.85,1.6,0.0,0.0,,1,0.37500625,False,REGULAR,USD,SLGN

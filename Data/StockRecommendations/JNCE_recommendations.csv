@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-02-21,Cowen & Co.,Outperform,,init,JNCE
+2017-02-21,JP Morgan,Overweight,,init,JNCE
+2017-02-21,Baird,Outperform,,init,JNCE
+2018-04-27,H.C. Wainwright,Buy,,init,JNCE
+2018-05-17,Wells Fargo,Market Perform,Outperform,down,JNCE
+2018-06-04,Baird,Outperform,Outperform,main,JNCE
+2018-06-04,Wells Fargo,Market Perform,Market Perform,main,JNCE
+2018-06-04,JP Morgan,Neutral,Overweight,down,JNCE
+2018-06-05,Cowen & Co.,Market Perform,Outperform,down,JNCE
+2018-06-28,Raymond James,Outperform,,init,JNCE
+2018-08-10,JP Morgan,Neutral,Neutral,main,JNCE
+2018-10-23,Raymond James,Outperform,Outperform,main,JNCE
+2018-11-14,JP Morgan,Underweight,Neutral,down,JNCE
+2020-03-02,H.C. Wainwright,Buy,,reit,JNCE
+2020-03-25,Raymond James,Strong Buy,Outperform,up,JNCE
+2020-05-07,H.C. Wainwright,Buy,,main,JNCE
+2020-09-02,HC Wainwright & Co.,Buy,,main,JNCE
+2020-11-03,Raymond James,Market Perform,Strong Buy,down,JNCE
+2020-11-10,Roth Capital,Buy,,main,JNCE
+2021-03-15,Piper Sandler,Overweight,,init,JNCE
+2021-09-14,Raymond James,Outperform,Market Perform,up,JNCE
+2021-11-05,Raymond James,Outperform,,main,JNCE

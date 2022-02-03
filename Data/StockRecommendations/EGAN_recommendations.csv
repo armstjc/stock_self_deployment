@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-27,"Loewen, Ondaatje, McCutcheon",Buy,,init,EGAN
+2013-06-25,Craig-Hallum,Buy,,init,EGAN
+2013-07-09,Needham,Buy,,init,EGAN
+2013-09-26,Northland Securities,Outperform,,main,EGAN
+2013-10-04,Ladenburg Thalmann,Neutral,Buy,down,EGAN
+2013-10-31,Ladenburg Thalmann,Buy,Neutral,down,EGAN
+2014-06-26,Benchmark,Buy,,init,EGAN
+2015-02-06,Benchmark,Hold,Buy,down,EGAN
+2015-09-11,Needham,Buy,,main,EGAN
+2016-05-09,Ladenburg Thalmann,Neutral,Buy,down,EGAN
+2016-09-09,Ladenburg Thalmann,Buy,Neutral,up,EGAN
+2016-11-10,Ladenburg Thalmann,Neutral,Buy,down,EGAN
+2017-10-02,Craig-Hallum,Buy,Hold,up,EGAN
+2018-01-17,Roth Capital,Buy,,init,EGAN
+2018-02-09,Benchmark,Buy,Hold,up,EGAN
+2018-07-19,Needham,Buy,,init,EGAN
+2019-05-09,Craig-Hallum,Hold,Buy,down,EGAN
+2019-12-13,Oppenheimer,Outperform,,init,EGAN
+2020-02-07,Craig-Hallum,Buy,Hold,up,EGAN
+2020-09-03,Needham,Buy,,main,EGAN
+2020-09-03,Oppenheimer,Outperform,,main,EGAN
+2020-09-09,DA Davidson,Buy,,init,EGAN
+2020-11-11,Needham,Buy,,main,EGAN
+2021-01-14,Oppenheimer,Perform,Outperform,down,EGAN
+2021-05-12,Needham,Buy,,main,EGAN

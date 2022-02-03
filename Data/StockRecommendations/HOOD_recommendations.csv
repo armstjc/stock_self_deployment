@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-29,Atlantic Equities,Overweight,,init,HOOD
+2021-08-05,Wolfe Research,Peer Perform,,init,HOOD
+2021-08-17,Redburn Partners,Buy,,init,HOOD
+2021-08-23,Keybanc,Overweight,,init,HOOD
+2021-08-23,Goldman Sachs,Neutral,,init,HOOD
+2021-08-23,JP Morgan,Underweight,,init,HOOD
+2021-08-23,Piper Sandler,Neutral,,init,HOOD
+2021-08-23,Barclays,Equal-Weight,,init,HOOD
+2021-08-23,Deutsche Bank,Hold,,init,HOOD
+2021-08-23,JMP Securities,Market Outperform,,init,HOOD
+2021-08-23,Citigroup,Buy,,init,HOOD
+2021-08-23,Mizuho,Buy,,init,HOOD
+2021-08-23,Rosenblatt,Buy,,init,HOOD
+2021-08-24,Rosenblatt,Buy,,init,HOOD
+2021-10-27,Keybanc,Overweight,,main,HOOD
+2021-10-27,Rosenblatt,Buy,,main,HOOD
+2021-10-27,Goldman Sachs,Neutral,,main,HOOD
+2021-11-16,Atlantic Equities,Neutral,Overweight,down,HOOD
+2021-12-13,Goldman Sachs,Neutral,,main,HOOD
+2021-12-16,B of A Securities,Underperform,,init,HOOD
+2021-12-16,JP Morgan,Underweight,,main,HOOD

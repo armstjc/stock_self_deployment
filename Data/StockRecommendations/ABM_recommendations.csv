@@ -1,42 +1,42 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-03-07 13:10:00,Imperial Capital,Outperform,,main,ABM
-2012-03-19 13:36:00,KeyBanc,Hold,,init,ABM
-2012-09-10 10:26:00,Imperial Capital,In-Line,Outperform,down,ABM
-2012-12-12 07:49:29,KeyBanc,Buy,Hold,up,ABM
-2012-12-19 06:21:14,Imperial Capital,In-Line,,main,ABM
-2013-03-14 13:46:01,Imperial Capital,In-Line,,main,ABM
-2013-05-29 17:10:46,Jefferies,Buy,,init,ABM
-2013-05-30 06:40:14,Jefferies,Buy,,init,ABM
-2013-06-05 06:26:34,Jefferies,Buy,,main,ABM
-2013-06-05 08:29:05,Imperial Capital,In-Line,,main,ABM
-2013-09-06 09:32:57,Imperial Capital,In-Line,,main,ABM
-2013-11-18 16:16:08,PiperJaffray,Neutral,,init,ABM
-2014-02-11 16:00:00,CL King,Buy,Neutral,up,ABM
-2014-09-05 08:00:00,Imperial Capital,In-Line,,main,ABM
-2015-03-17 05:55:05,Baird,Outperform,Neutral,up,ABM
-2015-06-30 09:00:00,KeyBanc,Overweight,,main,ABM
-2015-10-29 09:05:43,KeyBanc,Sector Weight,,down,ABM
-2016-11-16 14:58:19,Sidoti & Co.,Neutral,Buy,down,ABM
-2016-12-06 11:29:51,Baird,Neutral,Outperform,down,ABM
-2017-03-09 12:30:06,Baird,Outperform,Neutral,up,ABM
-2017-07-13 13:20:11,Sidoti & Co.,Buy,Neutral,up,ABM
-2017-07-13 16:27:19,Baird,Outperform,,main,ABM
-2017-09-11 11:03:13,KeyBanc,Overweight,Sector Weight,up,ABM
-2018-03-08 13:41:16,Baird,Outperform,Outperform,main,ABM
-2018-08-23 12:06:31,Baird,Neutral,Outperform,down,ABM
-2018-12-11 15:50:17,Sidoti & Co.,Buy,Buy,main,ABM
-2018-12-19 13:29:28,Baird,Neutral,Neutral,main,ABM
-2019-01-11 14:20:49,CL King,Neutral,Buy,down,ABM
-2019-02-14 13:40:35,Maxim Group,Buy,,init,ABM
-2019-04-05 10:06:29,KeyBanc,Sector Weight,,init,ABM
-2019-08-15 13:17:00,William Blair,Market Perform,,init,ABM
-2019-12-19 12:53:51,Baird,Neutral,,main,ABM
-2020-03-05 15:01:20,Baird,Neutral,,main,ABM
-2020-03-27 13:28:02,Baird,Neutral,,main,ABM
-2020-04-01 08:50:00,KeyBanc,Overweight,Sector Weight,up,ABM
-2020-05-18 12:33:37,Baird,Neutral,,main,ABM
-2020-05-27 14:22:01,Sidoti & Co.,Neutral,Buy,down,ABM
-2020-06-19 12:07:47,Baird,Neutral,,main,ABM
-2020-06-24 08:47:26,KeyBanc,Overweight,,main,ABM
-2021-04-22 10:04:05,Keybanc,Overweight,,main,ABM
-2021-12-21 09:33:58,Keybanc,Overweight,,main,ABM
+2012-03-07,Imperial Capital,Outperform,,main,ABM
+2012-03-19,KeyBanc,Hold,,init,ABM
+2012-09-10,Imperial Capital,In-Line,Outperform,down,ABM
+2012-12-12,KeyBanc,Buy,Hold,up,ABM
+2012-12-19,Imperial Capital,In-Line,,main,ABM
+2013-03-14,Imperial Capital,In-Line,,main,ABM
+2013-05-29,Jefferies,Buy,,init,ABM
+2013-05-30,Jefferies,Buy,,init,ABM
+2013-06-05,Jefferies,Buy,,main,ABM
+2013-06-05,Imperial Capital,In-Line,,main,ABM
+2013-09-06,Imperial Capital,In-Line,,main,ABM
+2013-11-18,PiperJaffray,Neutral,,init,ABM
+2014-02-11,CL King,Buy,Neutral,up,ABM
+2014-09-05,Imperial Capital,In-Line,,main,ABM
+2015-03-17,Baird,Outperform,Neutral,up,ABM
+2015-06-30,KeyBanc,Overweight,,main,ABM
+2015-10-29,KeyBanc,Sector Weight,,down,ABM
+2016-11-16,Sidoti & Co.,Neutral,Buy,down,ABM
+2016-12-06,Baird,Neutral,Outperform,down,ABM
+2017-03-09,Baird,Outperform,Neutral,up,ABM
+2017-07-13,Baird,Outperform,,main,ABM
+2017-07-13,Sidoti & Co.,Buy,Neutral,up,ABM
+2017-09-11,KeyBanc,Overweight,Sector Weight,up,ABM
+2018-03-08,Baird,Outperform,Outperform,main,ABM
+2018-08-23,Baird,Neutral,Outperform,down,ABM
+2018-12-11,Sidoti & Co.,Buy,Buy,main,ABM
+2018-12-19,Baird,Neutral,Neutral,main,ABM
+2019-01-11,CL King,Neutral,Buy,down,ABM
+2019-02-14,Maxim Group,Buy,,init,ABM
+2019-04-05,KeyBanc,Sector Weight,,init,ABM
+2019-08-15,William Blair,Market Perform,,init,ABM
+2019-12-19,Baird,Neutral,,main,ABM
+2020-03-05,Baird,Neutral,,main,ABM
+2020-03-27,Baird,Neutral,,main,ABM
+2020-04-01,KeyBanc,Overweight,Sector Weight,up,ABM
+2020-05-18,Baird,Neutral,,main,ABM
+2020-05-27,Sidoti & Co.,Neutral,Buy,down,ABM
+2020-06-19,Baird,Neutral,,main,ABM
+2020-06-24,KeyBanc,Overweight,,main,ABM
+2021-04-22,Keybanc,Overweight,,main,ABM
+2021-12-21,Keybanc,Overweight,,main,ABM

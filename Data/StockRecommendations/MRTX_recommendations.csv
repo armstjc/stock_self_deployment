@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-18,Jefferies,Buy,,init,MRTX
+2014-06-16,JMP Securities,Market Outperform,,main,MRTX
+2014-09-19,Wedbush,Outperform,,init,MRTX
+2015-03-12,Leerink Swann,Outperform,,main,MRTX
+2015-05-08,Leerink Swann,Outperform,,main,MRTX
+2015-05-29,Citigroup,Buy,,init,MRTX
+2015-06-01,Brean Capital,Hold,Buy,down,MRTX
+2015-09-17,PiperJaffray,Neutral,Overweight,down,MRTX
+2015-10-19,Barclays,Overweight,,init,MRTX
+2016-02-24,Barclays,Overweight,,main,MRTX
+2016-03-01,SunTrust Robinson Humphrey,Buy,,init,MRTX
+2016-03-10,Leerink Swann,Outperform,,main,MRTX
+2016-03-10,Jefferies,Buy,,main,MRTX
+2016-05-06,Avondale Partners,Market Outperform,Market Perform,up,MRTX
+2016-06-06,Citigroup,Buy,,main,MRTX
+2016-06-06,Jefferies,Hold,Buy,down,MRTX
+2016-06-06,Barclays,Overweight,,main,MRTX
+2016-11-17,H.C. Wainwright,Buy,,init,MRTX
+2017-09-15,Leerink Swann,Market Perform,,main,MRTX
+2017-09-19,Oppenheimer,Outperform,,init,MRTX
+2017-11-14,H.C. Wainwright,Buy,,main,MRTX
+2017-11-14,Leerink Swann,Outperform,Market Perform,up,MRTX
+2017-12-21,Cowen & Co.,Outperform,,init,MRTX
+2018-03-05,Citigroup,Buy,Buy,main,MRTX
+2018-03-12,Barclays,Overweight,,init,MRTX
+2018-10-29,Guggenheim,Buy,Neutral,up,MRTX
+2019-02-15,PiperJaffray,Overweight,,init,MRTX
+2019-03-05,Cantor Fitzgerald,Neutral,,init,MRTX
+2019-03-25,Credit Suisse,Outperform,,init,MRTX
+2019-04-17,JP Morgan,Neutral,,init,MRTX
+2019-06-04,Citigroup,Buy,Neutral,up,MRTX
+2019-06-07,Guggenheim,Neutral,Buy,down,MRTX
+2019-06-19,B. Riley,Neutral,Buy,down,MRTX
+2019-07-12,JP Morgan,Neutral,,main,MRTX
+2019-07-18,Deutsche Bank,Hold,,init,MRTX
+2019-08-02,JP Morgan,Underweight,Neutral,down,MRTX
+2019-09-09,Jefferies,Buy,Hold,up,MRTX
+2019-09-09,Cantor Fitzgerald,Neutral,,reit,MRTX
+2019-09-11,B. Riley,Neutral,,main,MRTX
+2019-09-24,Guggenheim,Buy,Neutral,up,MRTX
+2020-01-24,H.C. Wainwright,Buy,,reit,MRTX
+2020-01-28,BMO Capital,Market Perform,,init,MRTX
+2020-02-28,H.C. Wainwright,Buy,,reit,MRTX
+2020-03-12,JP Morgan,Neutral,Underweight,up,MRTX
+2020-03-30,Oppenheimer,Outperform,,main,MRTX
+2020-04-16,Goldman Sachs,Buy,,init,MRTX
+2020-05-01,JP Morgan,Overweight,Neutral,up,MRTX
+2020-07-29,Credit Suisse,Outperform,,main,MRTX
+2020-08-07,Credit Suisse,Outperform,,main,MRTX
+2020-09-17,HC Wainwright & Co.,Buy,,main,MRTX
+2020-09-18,Citigroup,Neutral,Buy,down,MRTX
+2020-09-21,Piper Sandler,Overweight,,main,MRTX
+2020-09-21,Oppenheimer,Outperform,,main,MRTX
+2020-09-28,B of A Securities,Neutral,,init,MRTX
+2020-10-08,Credit Suisse,Outperform,,reit,MRTX
+2020-10-16,HC Wainwright & Co.,Buy,,main,MRTX
+2020-10-21,BMO Capital,Market Perform,,main,MRTX
+2020-10-26,HC Wainwright & Co.,Buy,,main,MRTX
+2020-10-26,SVB Leerink,Outperform,,main,MRTX
+2020-10-26,Piper Sandler,Overweight,,main,MRTX
+2020-10-27,Credit Suisse,Outperform,,main,MRTX
+2020-11-02,H.C. Wainwright,Buy,,main,MRTX
+2020-11-05,Piper Sandler,Overweight,,main,MRTX
+2020-11-09,HC Wainwright & Co.,Buy,,main,MRTX
+2020-11-17,B of A Securities,Underperform,Neutral,down,MRTX
+2020-12-08,JMP Securities,Market Perform,,init,MRTX
+2020-12-16,Credit Suisse,Outperform,,main,MRTX
+2021-01-15,HC Wainwright & Co.,Buy,,main,MRTX
+2021-03-01,HC Wainwright & Co.,Buy,,main,MRTX
+2021-03-01,Oppenheimer,Outperform,,main,MRTX
+2021-05-10,HC Wainwright & Co.,Buy,,main,MRTX
+2021-05-10,Jefferies,Buy,Hold,up,MRTX
+2021-05-17,Oppenheimer,Perform,Outperform,down,MRTX
+2021-06-04,Citigroup,Buy,Neutral,up,MRTX
+2021-08-09,HC Wainwright & Co.,Buy,,main,MRTX
+2021-08-26,Morgan Stanley,Equal-Weight,,init,MRTX
+2021-09-21,SVB Leerink,Outperform,,main,MRTX
+2021-09-21,Oppenheimer,Perform,,main,MRTX
+2021-09-21,Morgan Stanley,Equal-Weight,,main,MRTX
+2021-09-23,Stifel,Buy,,init,MRTX
+2021-11-19,BMO Capital,Outperform,,init,MRTX

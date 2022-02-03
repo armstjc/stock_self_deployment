@@ -1,0 +1,146 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,Jefferies,Buy,,main,DHR
+2012-04-20,JP Morgan,Overweight,,main,DHR
+2012-07-09,Morgan Stanley,Overweight,,main,DHR
+2012-07-10,ISI Group,Market Weight,,init,DHR
+2012-07-12,Citigroup,Buy,,main,DHR
+2012-07-19,Morgan Stanley,Overweight,,main,DHR
+2012-07-19,ISI Group,Market Weight,,main,DHR
+2012-09-05,Citigroup,Buy,,main,DHR
+2012-09-10,JP Morgan,Overweight,,main,DHR
+2012-10-12,Deutsche Bank,Hold,,init,DHR
+2012-10-18,ISI Group,Market Weight,,main,DHR
+2012-10-22,JP Morgan,Overweight,,main,DHR
+2012-12-13,ISI Group,Market Weight,,main,DHR
+2013-01-07,Deutsche Bank,Hold,,main,DHR
+2013-01-07,ISI Group,Buy,Neutral,up,DHR
+2013-01-09,Jefferies,Buy,,main,DHR
+2013-01-29,ISI Group,Buy,,main,DHR
+2013-01-30,Credit Suisse,Outperform,,main,DHR
+2013-01-30,Jefferies,Buy,,main,DHR
+2013-01-30,BMO Capital,Outperform,,main,DHR
+2013-01-30,Barclays,Overweight,,main,DHR
+2013-01-30,UBS,Buy,,main,DHR
+2013-03-04,Ladenburg Thalmann,Buy,,main,DHR
+2013-03-06,Tigress Financial,Buy,,init,DHR
+2013-03-18,Citigroup,Buy,,main,DHR
+2013-03-25,Deutsche Bank,Hold,,main,DHR
+2013-06-20,Jefferies,Buy,,main,DHR
+2013-07-10,Morgan Stanley,Overweight,,main,DHR
+2014-01-14,Bank of America,Buy,Neutral,up,DHR
+2014-01-17,S&P Capital IQ,Sell,Hold,down,DHR
+2014-04-09,ISI Group,Strong Buy,Buy,up,DHR
+2014-07-24,Barclays,Overweight,,main,DHR
+2014-10-03,BTIG Research,Buy,,init,DHR
+2014-10-06,Barclays,Overweight,,main,DHR
+2014-10-17,Morgan Stanley,Overweight,,main,DHR
+2014-10-17,Barclays,Overweight,,main,DHR
+2014-10-17,Credit Suisse,Neutral,,main,DHR
+2014-11-12,FBR Capital,Outperform,Market Perform,up,DHR
+2014-12-08,Jefferies,Buy,,main,DHR
+2014-12-12,Barclays,Overweight,,main,DHR
+2015-01-11,Morgan Stanley,Equal-Weight,Overweight,down,DHR
+2015-01-15,JP Morgan,Overweight,,main,DHR
+2015-01-28,JP Morgan,Overweight,,main,DHR
+2015-01-28,Stifel Nicolaus,Buy,,main,DHR
+2015-01-28,Barclays,Overweight,,main,DHR
+2015-03-17,Barclays,Overweight,,main,DHR
+2015-05-14,Stifel Nicolaus,Buy,,main,DHR
+2015-05-14,Deutsche Bank,Hold,,main,DHR
+2015-05-26,Barclays,Overweight,,main,DHR
+2015-07-28,Morgan Stanley,Overweight,Equal-Weight,up,DHR
+2015-09-04,Credit Suisse,Neutral,,main,DHR
+2015-09-09,RBC Capital,Sector Perform,,main,DHR
+2015-09-30,Leerink Swann,Outperform,,init,DHR
+2015-10-01,Stifel Nicolaus,Buy,,main,DHR
+2015-10-05,Barclays,Overweight,,main,DHR
+2015-10-23,Barclays,Overweight,,main,DHR
+2015-12-08,Goldman Sachs,Neutral,Buy,down,DHR
+2015-12-17,Barclays,Overweight,,main,DHR
+2016-01-19,Barclays,Overweight,,main,DHR
+2016-01-21,Citigroup,Neutral,,init,DHR
+2016-01-27,Credit Suisse,Neutral,,main,DHR
+2016-04-04,Bernstein,Market Perform,Outperform,down,DHR
+2016-04-18,Barclays,Overweight,,main,DHR
+2016-04-19,Citigroup,Neutral,,main,DHR
+2016-04-25,Sterne Agee CRT,Neutral,,main,DHR
+2016-06-13,Citigroup,Neutral,,main,DHR
+2016-06-24,Bernstein,Outperform,Market Perform,up,DHR
+2016-07-05,Goldman Sachs,Neutral,,init,DHR
+2016-07-11,Barclays,Overweight,,main,DHR
+2016-07-27,Citigroup,Neutral,,main,DHR
+2016-09-07,Barclays,Overweight,,main,DHR
+2016-11-11,Cowen & Co.,Outperform,Market Perform,up,DHR
+2017-01-18,Deutsche Bank,Buy,,init,DHR
+2017-02-01,Credit Suisse,Outperform,Neutral,up,DHR
+2017-02-24,Citigroup,Buy,Neutral,up,DHR
+2017-06-07,Janney Capital,Neutral,Buy,down,DHR
+2017-07-13,Wells Fargo,Market Perform,,init,DHR
+2017-07-21,Citigroup,Buy,,main,DHR
+2017-10-06,Morgan Stanley,Overweight,,main,DHR
+2017-10-20,Baird,Outperform,,main,DHR
+2017-10-20,Credit Suisse,Outperform,,main,DHR
+2017-10-20,Morgan Stanley,Overweight,,main,DHR
+2018-01-23,UBS,Buy,,init,DHR
+2018-01-31,Stifel Nicolaus,Buy,Buy,main,DHR
+2018-01-31,Credit Suisse,Outperform,Outperform,main,DHR
+2018-01-31,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-02-01,Argus,Buy,,main,DHR
+2018-02-15,Barclays,Overweight,,init,DHR
+2018-03-01,Deutsche Bank,Buy,Buy,main,DHR
+2018-03-13,Credit Suisse,Outperform,Outperform,main,DHR
+2018-04-10,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-04-20,Stifel Nicolaus,Buy,Buy,main,DHR
+2018-04-20,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-07-13,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-07-20,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-10-10,Morgan Stanley,Overweight,Overweight,main,DHR
+2018-10-19,Baird,Outperform,Outperform,main,DHR
+2019-01-03,Needham,Buy,,init,DHR
+2019-06-11,Piper Jaffray,Neutral,,init,DHR
+2019-12-02,UBS,Buy,,main,DHR
+2019-12-19,Credit Suisse,Outperform,,main,DHR
+2020-01-02,Needham,Buy,,main,DHR
+2020-01-07,Citigroup,Buy,,init,DHR
+2020-01-08,Wells Fargo,Overweight,,init,DHR
+2020-01-10,UBS,Neutral,,main,DHR
+2020-01-31,Citigroup,Buy,,main,DHR
+2020-01-31,B of A Securities,Buy,,main,DHR
+2020-01-31,Stifel Nicolaus,Hold,,main,DHR
+2020-01-31,Baird,Outperform,,main,DHR
+2020-02-03,Needham,Buy,,main,DHR
+2020-03-20,Citigroup,Buy,,main,DHR
+2020-03-26,RBC Capital,Outperform,Sector Perform,up,DHR
+2020-03-30,Wells Fargo,Overweight,,main,DHR
+2020-04-02,Stifel,Hold,,main,DHR
+2020-04-20,Citigroup,Buy,,main,DHR
+2020-04-21,Wells Fargo,Overweight,,main,DHR
+2020-05-07,B of A Securities,Buy,,reit,DHR
+2020-05-08,Citigroup,Buy,,main,DHR
+2020-05-11,RBC Capital,Outperform,,main,DHR
+2020-05-15,Needham,Buy,,main,DHR
+2020-05-21,Credit Suisse,Outperform,,main,DHR
+2020-07-20,B of A Securities,Buy,,main,DHR
+2020-07-24,Stifel,Hold,,main,DHR
+2020-07-24,Jefferies,Buy,,main,DHR
+2020-07-27,UBS,Buy,,main,DHR
+2020-07-27,Needham,Buy,,main,DHR
+2020-11-10,KeyBanc,Overweight,,init,DHR
+2020-11-25,RBC Capital,Sector Perform,Outperform,down,DHR
+2021-01-14,Credit Suisse,Outperform,,main,DHR
+2021-03-03,Barclays,Overweight,,init,DHR
+2021-04-23,Wells Fargo,Overweight,,main,DHR
+2021-04-23,Keybanc,Overweight,,main,DHR
+2021-04-26,Barclays,Overweight,,main,DHR
+2021-06-18,Credit Suisse,Outperform,,main,DHR
+2021-07-13,Barclays,Overweight,,main,DHR
+2021-07-16,Benchmark,Buy,,init,DHR
+2021-07-23,Barclays,Overweight,,main,DHR
+2021-07-23,RBC Capital,Sector Perform,,main,DHR
+2021-09-08,RBC Capital,Sector Perform,,main,DHR
+2021-09-10,Credit Suisse,Outperform,,main,DHR
+2021-10-22,Barclays,Overweight,,main,DHR
+2021-10-22,RBC Capital,Sector Perform,,main,DHR
+2021-10-22,Keybanc,Overweight,,main,DHR
+2021-12-14,Wells Fargo,Overweight,,main,DHR
+2022-01-11,Bernstein,Outperform,,init,DHR

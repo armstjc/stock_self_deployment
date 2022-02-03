@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-15,Keefe Bruyette & Woods,Outperform,,init,NBHC
+2012-10-15,Goldman Sachs,Buy,,init,NBHC
+2012-10-17,Sterne Agee,Neutral,,init,NBHC
+2013-04-10,DA Davidson,Buy,,init,NBHC
+2013-09-17,Goldman Sachs,Sell,Buy,down,NBHC
+2015-01-30,DA Davidson,Neutral,Buy,down,NBHC
+2015-10-26,Keefe Bruyette & Woods,Outperform,,main,NBHC
+2016-08-12,Stephens & Co.,Overweight,Equal-Weight,up,NBHC
+2016-09-07,Hovde Group,Market Perform,,init,NBHC
+2017-07-11,PiperJaffray,Neutral,,init,NBHC
+2017-10-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,NBHC
+2018-03-27,DA Davidson,Buy,Neutral,up,NBHC
+2018-07-27,PiperJaffray,Neutral,Neutral,main,NBHC
+2019-10-24,Sandler O'Neill,Hold,Buy,down,NBHC
+2020-01-02,Stephens & Co.,Overweight,Equal-Weight,up,NBHC
+2020-04-23,Stephens & Co.,Equal-Weight,Overweight,down,NBHC
+2020-07-23,Piper Sandler,Neutral,,main,NBHC
+2020-10-01,Piper Sandler,Neutral,,main,NBHC
+2020-11-20,DA Davidson,Neutral,Buy,down,NBHC
+2021-06-30,DA Davidson,Buy,Neutral,up,NBHC
+2021-09-20,Piper Sandler,Overweight,Neutral,up,NBHC

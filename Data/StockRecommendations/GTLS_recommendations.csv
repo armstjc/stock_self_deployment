@@ -1,0 +1,92 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,Dougherty,Buy,,main,GTLS
+2012-04-27,Global Hunter Securities,Accumulate,,main,GTLS
+2012-08-03,Barclays,Overweight,,main,GTLS
+2012-10-02,Barclays,Overweight,,main,GTLS
+2012-11-05,Barclays,Overweight,,main,GTLS
+2012-12-05,Stifel Nicolaus,Hold,,init,GTLS
+2012-12-11,BB&T Capital,Buy,,init,GTLS
+2013-01-17,Lake Street,Buy,,init,GTLS
+2013-03-08,Johnson Rice,Equal-Weight,Overweight,down,GTLS
+2013-04-30,Morgan Stanley,Overweight,Equal-Weight,up,GTLS
+2013-05-22,BB&T Capital,,Buy,down,GTLS
+2013-05-22,Raymond James,Outperform,,init,GTLS
+2013-07-31,Global Hunter Securities,Neutral,Accumulate,down,GTLS
+2013-07-31,Global Hunter Securities,Neutral,Accumulate,down,GTLS
+2013-07-31,Morgan Stanley,Equal-Weight,,down,GTLS
+2013-10-07,Clarksons Platou,Outperform,,init,GTLS
+2013-11-01,PiperJaffray,Neutral,,down,GTLS
+2013-12-02,Morgan Stanley,Overweight,Equal-Weight,up,GTLS
+2014-04-30,Barclays,Overweight,,main,GTLS
+2014-06-13,DA Davidson,Neutral,,main,GTLS
+2014-08-01,Johnson Rice,Equal-Weight,Overweight,down,GTLS
+2014-10-10,DA Davidson,Neutral,,main,GTLS
+2014-10-16,ISI Group,Buy,,init,GTLS
+2015-02-25,Northland Securities,Market Perform,Outperform,down,GTLS
+2015-03-03,PiperJaffray,Overweight,Neutral,up,GTLS
+2015-06-26,Northcoast Research,Buy,Neutral,up,GTLS
+2015-10-30,Lake Street,Hold,Buy,down,GTLS
+2015-11-04,Morgan Stanley,Equal-Weight,Overweight,down,GTLS
+2015-11-20,PiperJaffray,Neutral,Overweight,down,GTLS
+2016-04-19,Morgan Stanley,Equal-Weight,,main,GTLS
+2016-04-29,Lake Street,Buy,Hold,up,GTLS
+2016-08-04,Evercore ISI Group,Hold,Buy,down,GTLS
+2016-10-11,Gabelli & Co.,Buy,,init,GTLS
+2016-10-28,Lake Street,Hold,Buy,down,GTLS
+2016-10-31,Evercore ISI Group,Hold,Buy,down,GTLS
+2016-12-13,Raymond James,Market Perform,Outperform,down,GTLS
+2017-10-27,Seaport Global,Buy,Neutral,up,GTLS
+2018-12-03,Evercore ISI Group,Outperform,In-Line,up,GTLS
+2019-02-15,Gabelli & Co.,Hold,Buy,down,GTLS
+2019-06-27,Morgan Stanley,Overweight,,init,GTLS
+2019-07-23,Morgan Stanley,Overweight,,main,GTLS
+2019-08-13,Raymond James,Outperform,Market Perform,up,GTLS
+2019-08-13,Credit Suisse,Outperform,,init,GTLS
+2019-09-25,JP Morgan,Neutral,,init,GTLS
+2019-10-08,Morgan Stanley,Overweight,,main,GTLS
+2019-11-26,Citi,Buy,,init,GTLS
+2019-12-06,Stifel,Buy,,init,GTLS
+2020-01-07,BTIG,Buy,,init,GTLS
+2020-02-19,Citigroup,Buy,,main,GTLS
+2020-03-16,Morgan Stanley,Overweight,,main,GTLS
+2020-04-22,Citigroup,Buy,,main,GTLS
+2020-04-24,Credit Suisse,Outperform,,main,GTLS
+2020-04-24,Craig-Hallum,Buy,,main,GTLS
+2020-04-28,Citigroup,Buy,,main,GTLS
+2020-06-02,Stifel,Buy,,main,GTLS
+2020-06-02,Citigroup,Buy,,main,GTLS
+2020-06-29,Evercore ISI Group,Outperform,In-Line,up,GTLS
+2020-07-09,Morgan Stanley,Overweight,,main,GTLS
+2020-07-24,Stifel,Buy,,main,GTLS
+2020-07-27,Credit Suisse,Outperform,,main,GTLS
+2020-07-27,Morgan Stanley,Overweight,,main,GTLS
+2020-07-27,Citigroup,Buy,,main,GTLS
+2020-08-26,Morgan Stanley,Overweight,,main,GTLS
+2020-09-14,B of A Securities,Buy,,init,GTLS
+2020-10-08,Raymond James,Outperform,,main,GTLS
+2020-10-13,Credit Suisse,Outperform,,main,GTLS
+2020-10-20,Cowen & Co.,Outperform,,init,GTLS
+2020-10-23,Credit Suisse,Outperform,,main,GTLS
+2020-10-26,Morgan Stanley,Overweight,,main,GTLS
+2020-11-24,Credit Suisse,Outperform,,main,GTLS
+2021-01-08,Raymond James,Outperform,,main,GTLS
+2021-01-20,Piper Sandler,Overweight,,init,GTLS
+2021-02-02,Morgan Stanley,Overweight,,init,GTLS
+2021-02-19,Credit Suisse,Outperform,,main,GTLS
+2021-02-19,Morgan Stanley,Overweight,,main,GTLS
+2021-02-22,Morgan Stanley,Overweight,,main,GTLS
+2021-02-23,Northland Capital Markets,Outperform,,main,GTLS
+2021-03-31,Morgan Stanley,Overweight,,main,GTLS
+2021-07-23,Credit Suisse,Outperform,,main,GTLS
+2021-08-31,Craig-Hallum,Buy,,main,GTLS
+2021-09-01,Barclays,Overweight,,init,GTLS
+2021-09-17,Goldman Sachs,Neutral,,init,GTLS
+2021-09-23,Wells Fargo,Overweight,,init,GTLS
+2021-09-24,BTIG,Buy,,main,GTLS
+2021-10-04,Stifel,Buy,,main,GTLS
+2021-10-05,Raymond James,Market Perform,Outperform,down,GTLS
+2021-10-12,Morgan Stanley,Overweight,,main,GTLS
+2021-10-22,Credit Suisse,Outperform,,main,GTLS
+2021-10-25,Barclays,Overweight,,main,GTLS
+2021-12-07,Benchmark,Buy,,init,GTLS
+2021-12-21,Citigroup,Buy,,main,GTLS

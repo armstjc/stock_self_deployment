@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-01,Janney Capital,Buy,,init,LAND
+2013-04-16,Maxim Group,Buy,,init,LAND
+2013-06-14,Hilliard Lyons,Neutral,,init,LAND
+2014-05-07,JMP Securities,Market Outperform,,main,LAND
+2015-01-22,Oppenheimer,Outperform,,init,LAND
+2015-02-26,Hilliard Lyons,Long-Term Buy,Neutral,up,LAND
+2015-02-26,JMP Securities,Market Outperform,,main,LAND
+2015-12-03,Janney Capital,Buy,,init,LAND
+2016-08-15,JMP Securities,Market Perform,Outperform,down,LAND
+2017-11-08,Hilliard Lyons,Neutral,Long-Term Buy,down,LAND
+2019-01-14,JMP Securities,Underperform,Market Perform,down,LAND
+2019-10-07,Aegis,Buy,,init,LAND
+2019-11-26,B. Riley FBR,Buy,,init,LAND
+2020-02-26,B. Riley FBR,Buy,,main,LAND
+2020-05-12,B. Riley FBR,Buy,,main,LAND
+2020-09-17,Berenberg,Buy,,init,LAND
+2021-05-26,Berenberg,Hold,Buy,down,LAND
+2021-07-21,Ladenburg Thalmann,Neutral,Buy,down,LAND
+2021-10-29,Oppenheimer,Perform,,init,LAND

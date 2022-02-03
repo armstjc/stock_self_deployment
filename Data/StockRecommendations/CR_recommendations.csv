@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-25,UBS,Buy,,main,CR
+2012-07-20,UBS,Buy,,main,CR
+2012-09-05,Citigroup,Neutral,,main,CR
+2012-09-17,Citigroup,,,up,CR
+2012-09-17,Citigroup,Buy,Neutral,up,CR
+2012-11-07,UBS,Buy,,main,CR
+2012-12-12,Topeka,Hold,,init,CR
+2012-12-12,Capstone,Buy,,init,CR
+2013-01-30,Topeka,Hold,,main,CR
+2013-02-22,Ascendiant Capital,Buy,,init,CR
+2013-02-26,Ascendiant Capital,Buy,,init,CR
+2013-03-18,Citigroup,Buy,,main,CR
+2013-05-16,Ascendiant Capital,Neutral,Buy,down,CR
+2013-06-13,Imperial Capital,Outperform,,init,CR
+2013-07-24,Citigroup,Neutral,Buy,down,CR
+2014-02-28,Citigroup,Buy,Neutral,up,CR
+2014-10-28,FBR Capital,Outperform,,main,CR
+2014-10-29,FBR Capital,Outperform,,main,CR
+2014-11-04,Bank of America,Buy,,main,CR
+2014-11-25,RBC Capital,Outperform,,init,CR
+2015-01-15,Canaccord Genuity,Hold,,init,CR
+2015-01-16,Susquehanna,Neutral,,init,CR
+2015-01-28,Vertical Research,Hold,Buy,down,CR
+2015-02-02,KeyBanc,Hold,Buy,down,CR
+2015-02-11,RBC Capital,Sector Perform,Outperform,down,CR
+2015-02-27,FBR Capital,Market Perform,Outperform,down,CR
+2015-02-27,Canaccord Genuity,Hold,,main,CR
+2015-03-02,Bank of America,Underperform,Neutral,down,CR
+2015-03-11,Stifel Nicolaus,Hold,,init,CR
+2015-04-29,Canaccord Genuity,Hold,,main,CR
+2015-07-09,Seaport Global,Neutral,,init,CR
+2015-07-29,Susquehanna,Neutral,,main,CR
+2015-08-18,William Blair,Outperform,,init,CR
+2015-10-15,Avondale Partners,Market Perform,,init,CR
+2015-10-29,Susquehanna,Neutral,,main,CR
+2016-01-21,Seaport Global,Buy,Neutral,up,CR
+2016-03-04,Boenning & Scattergood,Outperform,,init,CR
+2016-03-09,Seaport Global,Accumulate,Neutral,down,CR
+2016-04-27,UBS,Neutral,Buy,down,CR
+2016-04-27,Susquehanna,Neutral,,main,CR
+2016-05-26,Topeka,Buy,,init,CR
+2016-07-29,Bank of America,Neutral,Underperform,up,CR
+2017-02-01,Oppenheimer,Outperform,,up,CR
+2017-02-01,Seaport Global,Neutral,Accumulate,down,CR
+2017-03-06,Bank of America,Buy,Neutral,up,CR
+2017-04-25,William Blair,Outperform,,up,CR
+2017-05-16,Canaccord Genuity,Buy,Hold,up,CR
+2017-07-11,Wolfe Research,Peer Perform,,init,CR
+2017-08-14,Wolfe Research,Outperform,Peer Perform,up,CR
+2017-10-25,Stifel Nicolaus,Hold,,main,CR
+2017-10-25,Bank of America,Buy,,main,CR
+2017-10-25,Oppenheimer,Outperform,,main,CR
+2017-10-26,Seaport Global,Buy,Neutral,up,CR
+2017-12-06,Vertical Research,Buy,Hold,up,CR
+2018-01-31,Canaccord Genuity,Buy,Buy,main,CR
+2018-01-31,Stifel Nicolaus,Buy,Hold,up,CR
+2018-02-01,Bank of America,Buy,Buy,main,CR
+2018-03-22,DA Davidson,Buy,,init,CR
+2018-04-25,Susquehanna,Positive,Neutral,up,CR
+2018-08-30,UBS,Buy,Buy,main,CR
+2018-10-08,Stifel Nicolaus,Buy,Buy,main,CR
+2018-12-11,Buckingham,Buy,,init,CR
+2019-01-29,William Blair,Market Perform,Outperform,down,CR
+2019-04-11,UBS,Buy,Buy,main,CR
+2019-05-14,Buckingham Research,Buy,,main,CR
+2019-05-29,Buckingham Research,Buy,,main,CR
+2019-07-24,DA Davidson,Buy,,main,CR
+2019-07-24,Buckingham Research,Buy,,main,CR
+2019-10-30,Vertical Research,Hold,Buy,down,CR
+2019-10-30,Canaccord Genuity,Hold,Buy,down,CR
+2019-10-30,Buckingham,Neutral,Buy,down,CR
+2020-01-29,Buckingham,Buy,Neutral,up,CR
+2020-01-29,Stifel Nicolaus,Buy,,main,CR
+2020-01-29,Canaccord Genuity,Hold,,main,CR
+2020-04-07,Stifel,Buy,,main,CR
+2020-04-29,CFRA,Hold,,reit,CR
+2020-06-16,Canaccord Genuity,Buy,Hold,up,CR
+2020-10-28,Stifel,Buy,,main,CR
+2021-01-07,DA Davidson,Neutral,Buy,down,CR
+2021-01-27,Canaccord Genuity,Buy,,main,CR
+2021-02-26,Canaccord Genuity,Buy,,main,CR
+2021-03-08,Canaccord Genuity,Buy,,main,CR
+2021-06-15,DA Davidson,Buy,Neutral,up,CR
+2021-12-03,Morgan Stanley,Equal-Weight,,init,CR

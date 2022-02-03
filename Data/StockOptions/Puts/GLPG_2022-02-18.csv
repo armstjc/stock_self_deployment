@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GLPG220218P00055000,2021-12-31 19:31:23+00:00,55.0,3.5,4.7,8.0,0.0,0.0,4,4,2.1816451708984372,False,REGULAR,USD,GLPG

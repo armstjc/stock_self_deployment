@@ -1,0 +1,110 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-25,JP Morgan,Overweight,,main,ASH
+2012-06-25,Jefferies,Buy,,main,ASH
+2012-07-27,Jefferies,Buy,,main,ASH
+2012-09-10,Jefferies,Buy,,main,ASH
+2012-09-27,JP Morgan,Overweight,,main,ASH
+2012-10-08,JP Morgan,Neutral,Overweight,down,ASH
+2012-11-01,Deutsche Bank,Buy,,main,ASH
+2012-12-05,Deutsche Bank,Buy,,main,ASH
+2012-12-20,Jefferies,Buy,,main,ASH
+2013-01-02,Jefferies,Buy,,main,ASH
+2013-01-10,Deutsche Bank,Buy,,main,ASH
+2013-01-11,Hilliard Lyons,Neutral,Long-Term Buy,down,ASH
+2013-01-30,JP Morgan,Neutral,,main,ASH
+2013-01-30,Deutsche Bank,Buy,,main,ASH
+2013-03-26,Deutsche Bank,Buy,,main,ASH
+2013-03-26,Longbow Research,Neutral,Buy,down,ASH
+2013-03-27,Jefferies,Buy,,main,ASH
+2013-03-27,Deutsche Bank,Buy,,main,ASH
+2013-04-15,Deutsche Bank,Buy,,main,ASH
+2013-04-16,Jefferies,Buy,,main,ASH
+2013-04-25,KeyBanc,Hold,Buy,down,ASH
+2013-04-25,Monness Crespi Hardt,Buy,,main,ASH
+2013-08-14,Monness Crespi Hardt,Buy,,main,ASH
+2013-10-03,Jefferies,Hold,Buy,down,ASH
+2013-11-06,Jefferies,Hold,,main,ASH
+2013-12-16,Goldman Sachs,Neutral,,init,ASH
+2014-01-29,Deutsche Bank,Buy,,main,ASH
+2014-05-02,Deutsche Bank,Buy,,main,ASH
+2014-05-02,Jefferies,Hold,,main,ASH
+2014-05-02,JP Morgan,Neutral,,main,ASH
+2014-06-23,KeyBanc,Buy,Hold,up,ASH
+2014-08-08,UBS,Buy,,init,ASH
+2014-11-07,Monness Crespi Hardt,Buy,,main,ASH
+2014-12-01,Jefferies,Buy,Hold,up,ASH
+2014-12-03,UBS,Buy,,main,ASH
+2015-01-15,PiperJaffray,Overweight,,init,ASH
+2015-01-28,JP Morgan,Neutral,,main,ASH
+2015-01-28,Deutsche Bank,Buy,,main,ASH
+2015-03-16,KeyBanc,Overweight,,main,ASH
+2015-05-20,FIrst Analysis,Equal-Weight,Overweight,down,ASH
+2015-06-04,Seaport Global,Buy,,init,ASH
+2015-10-15,KeyBanc,Overweight,,main,ASH
+2015-11-05,Deutsche Bank,Buy,,main,ASH
+2016-01-26,UBS,Buy,,main,ASH
+2016-01-27,Deutsche Bank,Buy,,main,ASH
+2016-01-28,Jefferies,Buy,,main,ASH
+2016-03-23,Credit Suisse,Neutral,,main,ASH
+2016-07-28,Credit Suisse,Neutral,Outperform,down,ASH
+2016-11-23,Jefferies,Buy,,main,ASH
+2017-08-03,Deutsche Bank,Buy,,main,ASH
+2017-11-07,UBS,Buy,,main,ASH
+2017-11-08,Credit Suisse,Neutral,,main,ASH
+2017-11-08,Deutsche Bank,Buy,,main,ASH
+2017-11-08,KeyBanc,Overweight,,main,ASH
+2018-01-31,Monness Crespi Hardt,Neutral,Buy,down,ASH
+2018-01-31,Credit Suisse,Neutral,Neutral,main,ASH
+2018-03-23,Credit Suisse,Outperform,Neutral,up,ASH
+2018-03-26,Longbow Research,Buy,Neutral,up,ASH
+2018-03-28,BMO Capital,Outperform,,init,ASH
+2018-05-03,KeyBanc,Overweight,Overweight,main,ASH
+2018-06-15,JP Morgan,Neutral,Neutral,main,ASH
+2018-08-02,BMO Capital,Outperform,Outperform,main,ASH
+2018-08-02,Credit Suisse,Outperform,Outperform,main,ASH
+2018-08-24,JP Morgan,Neutral,Neutral,main,ASH
+2018-10-02,UBS,Buy,Buy,main,ASH
+2018-11-08,Credit Suisse,Outperform,Outperform,main,ASH
+2018-11-16,Deutsche Bank,Buy,Buy,main,ASH
+2018-12-27,JP Morgan,Overweight,Neutral,up,ASH
+2019-01-02,Deutsche Bank,Buy,Buy,main,ASH
+2019-06-14,JP Morgan,Neutral,Overweight,down,ASH
+2019-08-01,Buckingham Research,Neutral,,main,ASH
+2019-08-28,SunTrust Robinson Humphrey,Buy,,main,ASH
+2019-10-14,Monness Crespi Hardt,Buy,Neutral,up,ASH
+2019-10-16,Wells Fargo,Outperform,,init,ASH
+2019-11-20,Buckingham Research,Neutral,,main,ASH
+2019-11-20,BMO Capital,Market Perform,Outperform,down,ASH
+2019-11-20,Deutsche Bank,Buy,,main,ASH
+2020-01-28,UBS,Buy,,main,ASH
+2020-01-29,Wells Fargo,Overweight,,main,ASH
+2020-01-29,JP Morgan,Underweight,Neutral,down,ASH
+2020-02-12,BMO Capital,Market Perform,,main,ASH
+2020-03-10,UBS,Buy,,main,ASH
+2020-04-08,UBS,Buy,,main,ASH
+2020-04-13,BMO Capital,Outperform,Market Perform,up,ASH
+2020-04-16,Deutsche Bank,Buy,,main,ASH
+2020-05-06,UBS,Buy,,main,ASH
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,ASH
+2020-05-07,Deutsche Bank,Buy,,main,ASH
+2020-05-07,JP Morgan,Neutral,Underweight,up,ASH
+2020-06-24,Wells Fargo,Overweight,,main,ASH
+2020-07-09,UBS,Buy,,main,ASH
+2020-07-20,SunTrust Robinson Humphrey,Buy,,main,ASH
+2020-07-30,Deutsche Bank,Buy,,main,ASH
+2020-08-24,JP Morgan,Neutral,,main,ASH
+2020-09-22,Evercore ISI Group,In-Line,,init,ASH
+2020-11-12,Credit Suisse,Outperform,,main,ASH
+2021-02-05,Credit Suisse,Outperform,,main,ASH
+2021-02-08,Deutsche Bank,Buy,,main,ASH
+2021-05-03,BMO Capital,Outperform,,main,ASH
+2021-05-04,JP Morgan,Underweight,Neutral,down,ASH
+2021-06-18,Stifel,Buy,,init,ASH
+2021-07-30,JP Morgan,Neutral,Underweight,up,ASH
+2021-09-01,Deutsche Bank,Buy,,main,ASH
+2021-10-01,Wells Fargo,Overweight,,main,ASH
+2021-10-13,Mizuho,Buy,,init,ASH
+2021-11-11,"Monness, Crespi, Hardt",Neutral,Buy,down,ASH
+2021-11-11,Wells Fargo,Overweight,,main,ASH
+2021-11-12,Mizuho,Buy,,main,ASH
+2021-11-15,Wells Fargo,Overweight,,main,ASH

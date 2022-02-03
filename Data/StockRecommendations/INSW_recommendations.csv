@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-17,Seaport Global,Buy,,init,INSW
+2017-06-13,JP Morgan,Overweight,,init,INSW
+2018-03-23,JP Morgan,Overweight,Overweight,main,INSW
+2018-09-25,Stifel Nicolaus,Buy,,init,INSW
+2018-10-01,Jefferies,Buy,,init,INSW
+2019-10-11,BTIG,Buy,,init,INSW
+2019-10-24,B. Riley,Neutral,,main,INSW
+2020-01-16,Stifel Nicolaus,Buy,,main,INSW
+2020-03-04,B. Riley FBR,Buy,Neutral,up,INSW
+2020-03-04,B. Riley,Buy,Neutral,up,INSW
+2020-06-04,Pareto,Hold,Buy,down,INSW
+2020-10-19,Stifel,Buy,,main,INSW
+2020-10-21,BTIG,Neutral,Buy,down,INSW
+2020-10-23,Jefferies,Buy,,main,INSW
+2021-01-29,Jefferies,Buy,,main,INSW
+2021-03-12,Jefferies,Buy,,main,INSW
+2021-03-29,HC Wainwright & Co.,Buy,,init,INSW

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+UFPI220715C00080000,2022-01-05 19:01:02+00:00,80.0,17.5,14.2,17.4,0.14999962,0.8645511,1,22,0.729616961669922,True,REGULAR,USD,UFPI
+UFPI220715C00095000,2021-12-17 17:00:56+00:00,95.0,5.27,5.1,8.7,0.0,0.0,4,4,0.5517012603759766,False,REGULAR,USD,UFPI

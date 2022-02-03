@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CAG220211C00034000,2022-01-05 17:54:55+00:00,34.0,1.37,0.95,1.25,0.52,61.176468,2,6,0.12500875,True,REGULAR,USD,CAG

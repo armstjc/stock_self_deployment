@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-01-07,Morgan Stanley,Overweight,,init,OCFT
+2020-01-07,KeyBanc,Overweight,,init,OCFT
+2020-01-07,Goldman Sachs,Buy,,init,OCFT
+2020-01-07,Bank of America,Buy,,init,OCFT
+2020-02-21,Goldman Sachs,Neutral,Buy,down,OCFT
+2020-03-26,KeyBanc,Overweight,,main,OCFT
+2020-06-23,KeyBanc,Overweight,,main,OCFT
+2020-08-06,KeyBanc,Overweight,,main,OCFT
+2021-05-13,Keybanc,Overweight,,main,OCFT
+2021-08-04,Morgan Stanley,Equal-Weight,Overweight,down,OCFT
+2021-08-05,Keybanc,Overweight,,main,OCFT

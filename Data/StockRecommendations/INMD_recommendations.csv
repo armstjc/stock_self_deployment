@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,PiperJaffray,Overweight,,main,INMD
+2012-05-08,Dougherty,Buy,,main,INMD
+2019-09-03,UBS,Buy,,init,INMD
+2019-09-03,Baird,Outperform,,init,INMD
+2019-09-03,Barclays,Overweight,,init,INMD
+2019-09-03,Canaccord Genuity,Buy,,init,INMD
+2019-11-06,Baird,Outperform,,main,INMD
+2020-03-26,Barclays,Overweight,,main,INMD
+2020-05-07,UBS,Buy,,main,INMD
+2020-05-07,Canaccord Genuity,Buy,,main,INMD
+2020-08-17,Barclays,Overweight,,main,INMD
+2020-10-14,UBS,Buy,,main,INMD
+2020-10-21,Canaccord Genuity,Buy,,main,INMD
+2021-02-11,UBS,Buy,,main,INMD
+2021-05-06,Baird,Outperform,,main,INMD
+2021-05-06,Canaccord Genuity,Buy,,main,INMD
+2021-05-18,Needham,Buy,,init,INMD
+2021-05-25,Barclays,Overweight,,init,INMD
+2021-07-12,Needham,Buy,,main,INMD
+2021-07-13,Barclays,Overweight,,main,INMD
+2021-07-29,Needham,Buy,,main,INMD
+2021-07-29,Canaccord Genuity,Buy,,main,INMD
+2021-09-27,Needham,Buy,,main,INMD
+2021-10-12,Needham,Buy,,main,INMD
+2021-10-13,Barclays,Overweight,,main,INMD
+2021-10-13,Canaccord Genuity,Buy,,main,INMD
+2021-10-27,Canaccord Genuity,Buy,,main,INMD

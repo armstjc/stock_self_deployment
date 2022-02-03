@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-17,Piper Sandler,Overweight,,init,JAMF
+2020-08-17,Goldman Sachs,Buy,,init,JAMF
+2020-08-17,Barclays,Equal-Weight,,init,JAMF
+2020-08-17,JMP Securities,Market Outperform,,init,JAMF
+2020-08-17,RBC Capital,Outperform,,init,JAMF
+2020-08-17,Mizuho,Buy,,init,JAMF
+2020-08-17,William Blair,Outperform,,init,JAMF
+2020-08-17,Canaccord Genuity,Buy,,init,JAMF
+2020-08-17,B of A Securities,Neutral,,init,JAMF
+2020-09-02,Barclays,Equal-Weight,,main,JAMF
+2021-04-22,Needham,Buy,,init,JAMF
+2021-05-12,Goldman Sachs,Neutral,Buy,down,JAMF
+2021-05-24,Craig-Hallum,Buy,,init,JAMF
+2021-10-19,Needham,Buy,,main,JAMF
+2021-10-22,JMP Securities,Market Outperform,,main,JAMF
+2021-10-22,RBC Capital,Outperform,,main,JAMF

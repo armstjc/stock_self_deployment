@@ -1,0 +1,104 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-06,UBS,Neutral,,main,FAST
+2012-05-25,Wunderlich,Buy,,init,FAST
+2012-05-30,UBS,Neutral,,main,FAST
+2012-06-11,Wunderlich,Buy,,main,FAST
+2012-07-02,UBS,Neutral,,main,FAST
+2012-10-12,UBS,Neutral,,main,FAST
+2012-10-12,Barclays,Underweight,,main,FAST
+2012-10-12,Wunderlich,Buy,,main,FAST
+2012-11-20,Edward Jones,Buy,Hold,up,FAST
+2012-12-06,William Blair,Outperform,Market Perform,up,FAST
+2014-04-04,Susquehanna,Positive,,init,FAST
+2014-07-28,Edward Jones,Buy,Hold,up,FAST
+2014-10-13,Credit Suisse,Neutral,,main,FAST
+2014-10-14,Susquehanna,Neutral,Positive,down,FAST
+2014-12-12,Stifel Nicolaus,Buy,,init,FAST
+2015-01-16,Barclays,Underweight,,main,FAST
+2015-01-20,Stifel Nicolaus,Buy,,main,FAST
+2015-03-04,Raymond James,Market Perform,Outperform,down,FAST
+2015-03-17,Barclays,Underweight,,main,FAST
+2015-04-07,Northcoast Research,Neutral,Buy,down,FAST
+2015-04-07,Cleveland Research,Neutral,Buy,down,FAST
+2015-07-13,Barclays,Underweight,,main,FAST
+2015-07-15,Susquehanna,Neutral,,main,FAST
+2015-07-15,Stifel Nicolaus,Buy,,main,FAST
+2015-07-21,KeyBanc,Sector Weight,,init,FAST
+2015-08-24,Baird,Neutral,Outperform,down,FAST
+2015-08-27,Susquehanna,Neutral,,main,FAST
+2015-10-05,Barclays,Underweight,,main,FAST
+2015-10-14,Stifel Nicolaus,Buy,,main,FAST
+2015-10-14,Credit Suisse,Neutral,,main,FAST
+2016-01-05,Avondale Partners,Market Perform,,init,FAST
+2016-01-19,Barclays,Underweight,,main,FAST
+2016-03-08,Argus,Buy,,init,FAST
+2016-03-17,Stifel Nicolaus,Buy,,main,FAST
+2016-03-21,Avondale Partners,Market Perform,,main,FAST
+2016-03-22,Sterne Agee CRT,Neutral,,init,FAST
+2016-04-01,Stifel Nicolaus,Hold,Buy,down,FAST
+2016-04-05,BMO Capital,Market Perform,,init,FAST
+2016-04-07,Avondale Partners,Market Perform,,main,FAST
+2016-04-08,Barclays,Underweight,,main,FAST
+2016-04-14,Credit Suisse,Neutral,,main,FAST
+2016-07-07,Morgan Stanley,Equal-Weight,,init,FAST
+2016-08-25,Macquarie,Neutral,,init,FAST
+2016-08-25,Macquarie,Neutral,,init,FAST
+2016-12-05,William Blair,Outperform,Market Perform,up,FAST
+2017-01-05,KeyBanc,Overweight,Sector Weight,up,FAST
+2017-01-12,Avondale Partners,Market Outperform,Market Perform,up,FAST
+2017-04-18,Argus,Buy,Hold,up,FAST
+2017-04-19,Credit Suisse,Outperform,Neutral,up,FAST
+2017-06-02,JP Morgan,Neutral,,init,FAST
+2017-06-02,Longbow Research,Buy,,up,FAST
+2017-07-10,Morgan Stanley,Equal-Weight,,main,FAST
+2017-07-12,Baird,Outperform,Neutral,up,FAST
+2017-07-13,Raymond James,Strong Buy,Outperform,up,FAST
+2017-07-25,Northcoast Research,Buy,,init,FAST
+2017-10-02,Morgan Stanley,Equal-Weight,,main,FAST
+2018-03-19,Goldman Sachs,Sell,,init,FAST
+2018-04-03,Stifel Nicolaus,Hold,Hold,main,FAST
+2018-07-03,Baird,Neutral,Outperform,down,FAST
+2018-07-12,Wells Fargo,Market Perform,Market Perform,main,FAST
+2018-07-13,Stifel Nicolaus,Hold,Hold,main,FAST
+2018-10-11,Wells Fargo,Market Perform,Market Perform,main,FAST
+2018-10-22,Buckingham,Neutral,,init,FAST
+2018-12-04,Longbow Research,Neutral,Buy,down,FAST
+2019-02-12,KeyBanc,Sector Weight,Overweight,down,FAST
+2019-04-08,Buckingham,Neutral,Neutral,main,FAST
+2019-04-12,Raymond James,Strong Buy,Strong Buy,main,FAST
+2019-04-12,Buckingham,Neutral,Neutral,main,FAST
+2019-04-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,FAST
+2019-06-14,Buckingham Research,Neutral,,main,FAST
+2019-07-12,Buckingham Research,Neutral,,main,FAST
+2019-07-12,Wells Fargo,Market Perform,,main,FAST
+2019-07-12,Raymond James,Strong Buy,,main,FAST
+2019-07-12,Morgan Stanley,Equal-Weight,,main,FAST
+2019-09-17,Buckingham,Neutral,,main,FAST
+2019-10-14,Baird,Neutral,,main,FAST
+2019-10-14,Morgan Stanley,Equal-Weight,,main,FAST
+2019-10-14,Raymond James,Market Perform,Strong Buy,down,FAST
+2019-10-15,Buckingham,Neutral,,main,FAST
+2019-12-11,Morgan Stanley,Equal-Weight,,main,FAST
+2020-01-21,Buckingham,Neutral,,main,FAST
+2020-03-13,Baird,Outperform,Neutral,up,FAST
+2020-03-17,Morgan Stanley,Equal-Weight,,main,FAST
+2020-03-19,Wells Fargo,Overweight,Equal-Weight,up,FAST
+2020-04-07,JP Morgan,Underweight,Neutral,down,FAST
+2020-04-13,Stephens & Co.,Equal-Weight,,reit,FAST
+2020-04-15,Baird,Outperform,,main,FAST
+2020-04-15,Morgan Stanley,Equal-Weight,,main,FAST
+2020-04-15,Stephens & Co.,Equal-Weight,,main,FAST
+2020-05-07,Baird,Outperform,,main,FAST
+2020-05-07,Morgan Stanley,Equal-Weight,,main,FAST
+2020-06-23,JP Morgan,Neutral,Underweight,up,FAST
+2020-07-02,Deutsche Bank,Buy,,init,FAST
+2020-07-27,Deutsche Bank,Buy,,main,FAST
+2020-09-03,Wells Fargo,Equal-Weight,Overweight,down,FAST
+2020-09-08,Raymond James,Underperform,Market Perform,down,FAST
+2020-09-16,UBS,Neutral,,init,FAST
+2020-10-14,Morgan Stanley,Equal-Weight,,main,FAST
+2021-01-21,Morgan Stanley,Equal-Weight,,main,FAST
+2021-04-14,Morgan Stanley,Equal-Weight,,main,FAST
+2021-06-15,Morgan Stanley,Underweight,Equal-Weight,down,FAST
+2021-08-03,Loop Capital,Hold,,init,FAST
+2021-10-08,Wells Fargo,Underweight,Equal-Weight,down,FAST

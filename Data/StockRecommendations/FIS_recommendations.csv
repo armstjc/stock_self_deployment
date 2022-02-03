@@ -1,0 +1,174 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,Sterne Agee,Buy,,main,FIS
+2012-07-18,Deutsche Bank,Hold,,main,FIS
+2012-10-02,Credit Suisse,Underperform,Neutral,down,FIS
+2012-10-05,Baird,Outperform,Neutral,up,FIS
+2012-12-06,Jefferies,Hold,,init,FIS
+2013-01-10,Citigroup,Buy,,main,FIS
+2013-01-23,UBS,Buy,,init,FIS
+2013-04-12,Sterne Agee,Neutral,Buy,down,FIS
+2013-06-14,Baird,Neutral,Outperform,down,FIS
+2013-07-23,Credit Suisse,Neutral,Underperform,up,FIS
+2013-09-09,SunTrust Robinson Humphrey,Buy,Neutral,up,FIS
+2013-10-30,Deutsche Bank,Hold,,main,FIS
+2014-05-02,Raymond James,Outperform,,main,FIS
+2014-07-07,Citigroup,Buy,,main,FIS
+2014-08-06,Monness Crespi Hardt,Buy,,init,FIS
+2014-08-13,JP Morgan,Neutral,,main,FIS
+2014-10-07,Avondale Partners,Market Perform,Market Outperform,down,FIS
+2014-10-15,BMO Capital,Market Perform,,init,FIS
+2014-10-31,Credit Suisse,Neutral,,main,FIS
+2014-11-03,Jefferies,Hold,,main,FIS
+2014-11-21,Barclays,Overweight,,main,FIS
+2015-01-14,Citigroup,Buy,,main,FIS
+2015-01-26,Jefferies,Hold,,main,FIS
+2015-02-06,Deutsche Bank,Hold,,main,FIS
+2015-03-31,Oppenheimer,Outperform,,main,FIS
+2015-04-10,Barclays,Overweight,,main,FIS
+2015-04-13,Citigroup,Buy,,main,FIS
+2015-05-01,Barclays,Overweight,,main,FIS
+2015-06-10,Baird,Outperform,Neutral,up,FIS
+2015-06-11,Baird,Outperform,,main,FIS
+2015-08-13,Oppenheimer,Overweight,,main,FIS
+2015-08-14,JP Morgan,Neutral,,main,FIS
+2015-08-20,RBC Capital,Sector Perform,,main,FIS
+2015-08-26,RBC Capital,Outperform,Sector Perform,up,FIS
+2015-09-11,SunTrust Robinson Humphrey,Buy,,main,FIS
+2015-09-30,Cowen & Co.,Outperform,,init,FIS
+2015-12-01,Goldman Sachs,Neutral,,init,FIS
+2015-12-02,JP Morgan,Overweight,Neutral,up,FIS
+2015-12-10,Credit Suisse,Neutral,,init,FIS
+2015-12-17,Sterne Agee CRT,Neutral,,init,FIS
+2016-01-12,Wells Fargo,Outperform,,up,FIS
+2016-02-10,JP Morgan,Overweight,,main,FIS
+2016-02-10,Deutsche Bank,Hold,,main,FIS
+2016-04-01,Goldman Sachs,Buy,Neutral,up,FIS
+2016-04-15,Compass Point,Buy,,init,FIS
+2016-05-03,Goldman Sachs,Buy,,main,FIS
+2016-05-09,Jefferies,Buy,Hold,up,FIS
+2016-05-11,Sterne Agee CRT,Buy,,up,FIS
+2016-05-29,Avondale Partners,Market Outperform,,main,FIS
+2016-07-27,JP Morgan,Overweight,,main,FIS
+2016-07-27,Citigroup,Buy,,main,FIS
+2016-07-27,Barclays,Overweight,,main,FIS
+2016-09-09,Wedbush,Outperform,,init,FIS
+2016-09-26,Barclays,Overweight,,main,FIS
+2016-10-07,Cantor Fitzgerald,Buy,,init,FIS
+2016-11-18,Pacific Crest,Overweight,,init,FIS
+2017-01-06,BMO Capital,Outperform,,init,FIS
+2017-02-08,Credit Suisse,Outperform,Neutral,up,FIS
+2017-03-28,Goldman Sachs,Neutral,Buy,down,FIS
+2017-03-31,Guggenheim,Buy,,init,FIS
+2017-05-03,Compass Point,Neutral,Buy,down,FIS
+2017-08-03,Barclays,Overweight,,main,FIS
+2017-08-03,BMO Capital,Outperform,,main,FIS
+2017-10-10,Baird,Outperform,,main,FIS
+2017-10-26,Barclays,Overweight,,main,FIS
+2017-11-01,JP Morgan,Overweight,,main,FIS
+2017-11-01,Oppenheimer,Overweight,,main,FIS
+2017-11-13,KeyBanc,Sector Weight,Overweight,down,FIS
+2017-12-12,JP Morgan,Neutral,Overweight,down,FIS
+2018-01-24,Baird,Outperform,Outperform,main,FIS
+2018-02-07,BMO Capital,Outperform,Outperform,main,FIS
+2018-05-02,Citigroup,Buy,Buy,main,FIS
+2018-05-09,Credit Suisse,Outperform,Outperform,main,FIS
+2018-10-31,Cantor Fitzgerald,Overweight,Overweight,main,FIS
+2018-10-31,Citigroup,Buy,Buy,main,FIS
+2018-11-01,Citigroup,Buy,Buy,main,FIS
+2018-11-15,Barclays,Overweight,,init,FIS
+2018-12-11,Goldman Sachs,Buy,Neutral,up,FIS
+2019-03-19,SunTrust Robinson Humphrey,Hold,Buy,down,FIS
+2019-03-22,Wedbush,Outperform,Outperform,main,FIS
+2019-04-09,Keefe Bruyette & Woods,Outperform,,init,FIS
+2019-04-10,Barclays,Overweight,Overweight,main,FIS
+2019-05-01,Cantor Fitzgerald,Overweight,Overweight,main,FIS
+2019-05-14,Bank of America,Buy,,init,FIS
+2019-05-21,Bank of America,Buy,,main,FIS
+2019-05-31,Susquehanna,Positive,,init,FIS
+2019-08-08,Cantor Fitzgerald,Overweight,,main,FIS
+2019-09-03,Atlantic Equities,Overweight,,init,FIS
+2019-09-05,KeyBanc,Overweight,Sector Weight,up,FIS
+2019-09-09,Citigroup,Buy,,main,FIS
+2019-09-10,Bank of America,Buy,,reit,FIS
+2019-09-12,Canaccord Genuity,Buy,,init,FIS
+2019-11-06,Baird,Outperform,,main,FIS
+2019-11-06,RBC Capital,Outperform,,main,FIS
+2019-11-06,UBS,Neutral,,main,FIS
+2019-11-11,Barclays,Overweight,,main,FIS
+2019-12-16,Morgan Stanley,Equal-Weight,,init,FIS
+2019-12-19,Baird,Outperform,,main,FIS
+2020-01-14,Barclays,Overweight,,main,FIS
+2020-01-22,Citigroup,Buy,,main,FIS
+2020-01-24,Credit Suisse,Outperform,,init,FIS
+2020-02-10,Raymond James,Strong Buy,,main,FIS
+2020-02-11,SunTrust Robinson Humphrey,Hold,,main,FIS
+2020-02-14,Canaccord Genuity,Buy,,main,FIS
+2020-02-14,Morgan Stanley,Equal-Weight,,main,FIS
+2020-02-14,Wells Fargo,Overweight,,main,FIS
+2020-02-14,UBS,Neutral,,main,FIS
+2020-02-14,Citigroup,Buy,,main,FIS
+2020-02-14,Cantor Fitzgerald,Overweight,,main,FIS
+2020-03-11,Baird,Outperform,,main,FIS
+2020-03-23,KeyBanc,Overweight,,main,FIS
+2020-03-27,JP Morgan,Overweight,Neutral,up,FIS
+2020-03-27,Rosenblatt,Buy,,init,FIS
+2020-03-30,SunTrust Robinson Humphrey,Buy,Hold,up,FIS
+2020-03-31,RBC Capital,Outperform,,reit,FIS
+2020-04-08,Wells Fargo,Overweight,,main,FIS
+2020-04-09,Citigroup,Buy,,main,FIS
+2020-04-13,Raymond James,Strong Buy,,reit,FIS
+2020-04-14,Raymond James,Strong Buy,,main,FIS
+2020-04-14,Wedbush,Outperform,,main,FIS
+2020-04-14,Barclays,Overweight,,main,FIS
+2020-04-14,UBS,Buy,Neutral,up,FIS
+2020-04-15,Oppenheimer,Outperform,,main,FIS
+2020-05-08,RBC Capital,Outperform,,main,FIS
+2020-05-08,Raymond James,Strong Buy,,main,FIS
+2020-05-08,Morgan Stanley,Equal-Weight,,main,FIS
+2020-05-12,UBS,Buy,,main,FIS
+2020-07-14,Argus Research,Buy,,init,FIS
+2020-07-14,Goldman Sachs,Buy,,init,FIS
+2020-07-20,Baird,Outperform,,main,FIS
+2020-07-21,Raymond James,Strong Buy,,main,FIS
+2020-08-03,KeyBanc,Overweight,,main,FIS
+2020-08-05,Rosenblatt,Buy,,main,FIS
+2020-08-05,Morgan Stanley,Equal-Weight,,main,FIS
+2020-08-05,Raymond James,Strong Buy,,main,FIS
+2020-08-06,Citigroup,Buy,,main,FIS
+2020-08-19,Bernstein,Outperform,,init,FIS
+2020-08-27,Mizuho,Buy,,init,FIS
+2020-09-17,Compass Point,Neutral,,init,FIS
+2020-09-22,Loop Capital,Hold,,init,FIS
+2020-10-23,Raymond James,Strong Buy,,main,FIS
+2020-10-27,KeyBanc,Overweight,,main,FIS
+2020-10-30,Raymond James,Strong Buy,,main,FIS
+2020-11-13,Morgan Stanley,Equal-Weight,,main,FIS
+2020-12-07,Jefferies,Buy,,init,FIS
+2021-01-27,Morgan Stanley,Equal-Weight,,main,FIS
+2021-01-27,KeyBanc,Overweight,,main,FIS
+2021-02-02,Oppenheimer,Outperform,,main,FIS
+2021-02-03,Rosenblatt,Neutral,Buy,down,FIS
+2021-02-03,Raymond James,Strong Buy,,main,FIS
+2021-02-10,Rosenblatt,Neutral,,main,FIS
+2021-02-10,Raymond James,Strong Buy,,main,FIS
+2021-04-15,Baird,Outperform,,main,FIS
+2021-04-20,Rosenblatt,Neutral,,main,FIS
+2021-04-22,Morgan Stanley,Equal-Weight,,main,FIS
+2021-04-26,Mizuho,Buy,,main,FIS
+2021-05-07,Rosenblatt,Neutral,,main,FIS
+2021-05-07,Raymond James,Strong Buy,,main,FIS
+2021-05-14,Morgan Stanley,Equal-Weight,,main,FIS
+2021-08-04,Oppenheimer,Outperform,,main,FIS
+2021-08-04,Rosenblatt,Neutral,,main,FIS
+2021-08-04,Raymond James,Strong Buy,,main,FIS
+2021-08-17,JP Morgan,Overweight,,main,FIS
+2021-10-21,Oppenheimer,Outperform,,main,FIS
+2021-11-01,Raymond James,Strong Buy,,main,FIS
+2021-11-05,Raymond James,Strong Buy,,main,FIS
+2021-11-05,Oppenheimer,Outperform,,main,FIS
+2021-12-07,Barclays,Overweight,,main,FIS
+2021-12-09,Morgan Stanley,Equal-Weight,,main,FIS
+2021-12-10,Evercore ISI Group,In-Line,Outperform,down,FIS
+2021-12-14,Loop Capital,Buy,,init,FIS
+2021-12-17,B of A Securities,Buy,,main,FIS
+2021-12-20,Wedbush,Outperform,,main,FIS

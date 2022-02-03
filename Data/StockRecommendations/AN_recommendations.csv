@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-26,UBS,Neutral,,up,AN
+2012-05-23,UBS,Neutral,,main,AN
+2012-06-25,Deutsche Bank,Sell,Hold,down,AN
+2012-07-20,UBS,Neutral,,main,AN
+2012-07-20,Deutsche Bank,Sell,,main,AN
+2012-07-23,Morgan Stanley,Underweight,,main,AN
+2012-09-21,Bank of America,Buy,Neutral,up,AN
+2012-10-26,Deutsche Bank,Sell,,main,AN
+2013-01-08,Davenport,Buy,Neutral,up,AN
+2013-01-24,UBS,Neutral,,main,AN
+2013-02-01,UBS,Neutral,,main,AN
+2013-04-19,Deutsche Bank,Hold,Sell,up,AN
+2013-04-19,UBS,Neutral,,main,AN
+2013-05-30,UBS,Sell,Neutral,down,AN
+2013-07-03,Credit Suisse,Outperform,Neutral,up,AN
+2013-07-03,Credit Suisse,Outperform,Neutral,up,AN
+2014-01-31,Gabelli & Co.,Buy,Hold,up,AN
+2014-02-03,Morgan Stanley,Underweight,,main,AN
+2015-01-21,Goldman Sachs,Neutral,Buy,down,AN
+2015-02-04,Gabelli & Co.,Hold,Buy,down,AN
+2015-04-16,Deutsche Bank,Hold,,main,AN
+2015-04-23,Deutsche Bank,Hold,,main,AN
+2015-07-13,Morgan Stanley,Overweight,Underweight,up,AN
+2015-07-28,Sterne Agee CRT,Buy,Neutral,up,AN
+2015-10-29,Gabelli & Co.,Buy,,up,AN
+2016-01-25,Deutsche Bank,Hold,,main,AN
+2016-02-01,Deutsche Bank,Hold,,main,AN
+2016-03-08,Goldman Sachs,Sell,Neutral,down,AN
+2016-04-11,Jefferies,Hold,,init,AN
+2016-08-01,Jefferies,Hold,,main,AN
+2016-08-09,Seaport Global,Neutral,,init,AN
+2016-08-31,Wolfe Research,Peer Perform,,init,AN
+2016-09-08,CL King,Buy,,init,AN
+2016-10-06,Goldman Sachs,Neutral,Sell,up,AN
+2016-10-31,Bank of America,Neutral,Buy,down,AN
+2017-02-02,Susquehanna,Neutral,,init,AN
+2017-02-06,Evercore ISI Group,Hold,Buy,down,AN
+2017-08-03,Buckingham,Neutral,,main,AN
+2017-08-03,Deutsche Bank,Hold,,main,AN
+2017-09-28,Susquehanna,Negative,Neutral,down,AN
+2017-10-04,Berenberg,Buy,,init,AN
+2017-11-03,Jefferies,Hold,,main,AN
+2017-11-13,Buckingham,Neutral,,main,AN
+2017-12-04,Moffett Nathanson,Neutral,,init,AN
+2018-02-09,Bank of America,Neutral,Neutral,main,AN
+2018-03-14,Morgan Stanley,Overweight,Overweight,main,AN
+2018-04-17,Guggenheim,Neutral,,init,AN
+2018-07-10,Morgan Stanley,Underweight,Overweight,down,AN
+2018-08-02,Buckingham,Neutral,Neutral,main,AN
+2018-08-24,SunTrust Robinson Humphrey,Hold,,init,AN
+2018-10-02,Wolfe Research,Underperform,Peer Perform,down,AN
+2018-10-24,Bank of America,Buy,Neutral,up,AN
+2018-10-31,Buckingham,Neutral,Neutral,main,AN
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,AN
+2019-02-13,Seaport Global,Neutral,,init,AN
+2019-02-19,JP Morgan,Underweight,,init,AN
+2019-05-06,Morgan Stanley,Underweight,,main,AN
+2019-05-31,Longbow Research,Neutral,,init,AN
+2019-08-02,Morgan Stanley,Underweight,,main,AN
+2019-10-15,Morgan Stanley,Underweight,,main,AN
+2019-11-14,Morgan Stanley,Underweight,,main,AN
+2019-12-18,JP Morgan,Underweight,,main,AN
+2020-01-09,Benchmark,Hold,,init,AN
+2020-02-11,CFRA,Buy,,reit,AN
+2020-03-11,JP Morgan,Neutral,Underweight,up,AN
+2020-03-11,Morgan Stanley,Underweight,,main,AN
+2020-03-30,Morgan Stanley,Underweight,,main,AN
+2020-04-07,SunTrust Robinson Humphrey,Hold,,main,AN
+2020-04-13,Morgan Stanley,Underweight,,main,AN
+2020-04-27,Northcoast Research,Buy,Neutral,up,AN
+2020-05-11,CFRA,Buy,,reit,AN
+2020-05-12,JP Morgan,Neutral,,main,AN
+2020-05-12,SunTrust Robinson Humphrey,Hold,,main,AN
+2020-05-18,Morgan Stanley,Underweight,,main,AN
+2020-07-10,Morgan Stanley,Underweight,,main,AN
+2020-07-24,JP Morgan,Overweight,Neutral,up,AN
+2020-07-27,Morgan Stanley,Underweight,,main,AN
+2020-08-12,Guggenheim,Buy,Neutral,up,AN
+2020-10-15,B of A Securities,Buy,,main,AN
+2020-10-19,Seaport Global,Neutral,,init,AN
+2020-11-17,B of A Securities,Buy,,main,AN
+2020-12-07,Morgan Stanley,Underweight,,main,AN
+2021-01-15,JP Morgan,Neutral,Overweight,down,AN
+2021-02-19,Morgan Stanley,Underweight,,main,AN
+2021-02-22,Morgan Stanley,Underweight,,main,AN
+2021-04-21,Truist Securities,Hold,,main,AN
+2021-04-22,Benchmark,Buy,Hold,up,AN
+2021-04-22,Morgan Stanley,Underweight,,main,AN
+2021-07-26,Morgan Stanley,Underweight,,main,AN
+2021-09-29,Morgan Stanley,Equal-Weight,Underweight,up,AN
+2021-10-22,Stephens & Co.,Equal-Weight,,main,AN
+2021-11-17,Morgan Stanley,Equal-Weight,,main,AN

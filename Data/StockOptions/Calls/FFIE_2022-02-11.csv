@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+FFIE220211C00005500,2022-01-04 15:01:39+00:00,5.5,0.7,0.5,0.86,0.0,0.0,5,5,4.0781299023437505,False,REGULAR,USD,FFIE

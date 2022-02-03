@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-02-02,Leerink Swann,Outperform,,init,AUPH
+2016-06-30,H.C. Wainwright,Buy,,init,AUPH
+2016-11-01,Mackie Research,Speculative Buy,,init,AUPH
+2017-04-10,Cantor Fitzgerald,Overweight,,init,AUPH
+2017-09-13,Canaccord Genuity,Speculative Buy,Buy,down,AUPH
+2017-10-06,Seaport Global,Buy,,init,AUPH
+2017-10-23,Leerink Swann,Outperform,,main,AUPH
+2018-02-08,RBC Capital,Outperform,,init,AUPH
+2019-03-20,Raymond James,Outperform,,main,AUPH
+2019-09-10,Oppenheimer,Outperform,,init,AUPH
+2019-12-16,H.C. Wainwright,Buy,,main,AUPH
+2020-03-06,Cantor Fitzgerald,Overweight,,main,AUPH
+2020-07-22,HC Wainwright & Co.,Buy,,main,AUPH
+2020-08-12,HC Wainwright & Co.,Buy,,main,AUPH
+2020-11-03,HC Wainwright & Co.,Buy,,main,AUPH
+2021-01-25,HC Wainwright & Co.,Buy,,main,AUPH
+2021-01-27,SVB Leerink,Outperform,,main,AUPH
+2021-10-26,RBC Capital,Outperform,,main,AUPH
+2021-10-28,Oppenheimer,Perform,Outperform,down,AUPH
+2021-11-04,SVB Leerink,Outperform,,main,AUPH
+2021-11-04,HC Wainwright & Co.,Buy,,main,AUPH
+2021-11-04,Oppenheimer,Perform,,main,AUPH
+2021-12-10,Oppenheimer,Outperform,Perform,up,AUPH

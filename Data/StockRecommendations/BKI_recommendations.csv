@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-31,UBS,Buy,,main,BKI
+2013-04-24,Sidoti & Co.,Neutral,Buy,down,BKI
+2013-04-25,RBC Capital,Sector Perform,Outperform,down,BKI
+2013-05-02,DA Davidson,Neutral,Underperform,up,BKI
+2017-10-05,Bank of America,Buy,,init,BKI
+2017-11-02,Barclays,Overweight,,main,BKI
+2018-01-03,Compass Point,Buy,,init,BKI
+2018-01-04,Oppenheimer,Outperform,Perform,up,BKI
+2018-01-31,Wedbush,Neutral,Outperform,down,BKI
+2018-02-08,Bank of America,Buy,Buy,main,BKI
+2018-02-08,Barclays,Overweight,Overweight,main,BKI
+2018-05-08,Deutsche Bank,Buy,Buy,main,BKI
+2018-07-31,Wells Fargo,Outperform,Outperform,main,BKI
+2018-07-31,Barclays,Overweight,Overweight,main,BKI
+2018-11-20,Wedbush,Neutral,Neutral,main,BKI
+2018-11-29,Susquehanna,Positive,,init,BKI
+2019-01-07,Deutsche Bank,Buy,Buy,main,BKI
+2019-06-03,Goldman Sachs,Buy,Neutral,up,BKI
+2019-11-07,JP Morgan,Overweight,,main,BKI
+2019-12-18,JP Morgan,Neutral,Overweight,down,BKI
+2020-01-16,Susquehanna,Neutral,Positive,down,BKI
+2020-02-14,Wells Fargo,Overweight,,main,BKI
+2020-05-06,Deutsche Bank,Buy,,main,BKI
+2020-05-06,JP Morgan,Neutral,,main,BKI
+2020-05-06,SunTrust Robinson Humphrey,Buy,,main,BKI
+2020-05-07,Keefe Bruyette & Woods,Market Perform,,main,BKI
+2020-07-24,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BKI
+2020-09-29,B of A Securities,Buy,,init,BKI
+2020-10-20,Deutsche Bank,Buy,,main,BKI
+2020-11-10,Compass Point,Buy,Neutral,up,BKI
+2020-11-19,Goldman Sachs,Neutral,,init,BKI
+2021-02-17,Susquehanna,Positive,Neutral,up,BKI
+2021-04-13,Raymond James,Market Perform,,init,BKI
+2021-04-19,Barclays,Overweight,,main,BKI
+2021-09-30,Raymond James,Outperform,Market Perform,up,BKI
+2021-11-09,Raymond James,Outperform,,main,BKI

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LBAI220715C00020000,2022-01-05 20:07:00+00:00,20.0,1.5,1.35,1.5,0.55,57.894737,13,38,0.397466962890625,False,REGULAR,USD,LBAI

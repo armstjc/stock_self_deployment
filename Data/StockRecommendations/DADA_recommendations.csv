@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-12-08,Morgan Stanley,Equal-Weight,Overweight,down,DADA
+2021-01-07,KeyBanc,Overweight,,init,DADA
+2021-01-08,KeyBanc,Overweight,,init,DADA
+2021-03-10,KeyBanc,Overweight,,main,DADA
+2021-05-04,Citigroup,Buy,,init,DADA
+2021-09-09,Keybanc,Overweight,,main,DADA
+2021-09-23,Morgan Stanley,Overweight,Equal-Weight,up,DADA

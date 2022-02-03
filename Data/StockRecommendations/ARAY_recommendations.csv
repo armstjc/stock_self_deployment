@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,JP Morgan,Neutral,,main,ARAY
+2012-09-07,Jefferies,Buy,,main,ARAY
+2012-10-09,Jefferies,Buy,,main,ARAY
+2012-10-26,Brean Capital,Buy,,init,ARAY
+2013-01-04,JP Morgan,Underweight,Neutral,down,ARAY
+2013-01-04,Jefferies,Buy,,main,ARAY
+2013-08-28,Jefferies,Buy,,main,ARAY
+2013-09-20,JP Morgan,Neutral,Underweight,up,ARAY
+2014-01-31,JP Morgan,Neutral,,main,ARAY
+2014-03-11,BTIG Research,Buy,,init,ARAY
+2014-06-13,JP Morgan,Overweight,Neutral,up,ARAY
+2015-01-12,Northland Securities,Outperform,,init,ARAY
+2015-11-12,Citigroup,Sell,,init,ARAY
+2015-12-22,RBC Capital,Sector Perform,,init,ARAY
+2016-09-13,Cowen & Co.,Outperform,,init,ARAY
+2016-12-14,JP Morgan,Neutral,Overweight,down,ARAY
+2017-02-06,Aegis Capital,Buy,,init,ARAY
+2017-08-23,Jefferies,Buy,,main,ARAY
+2017-11-30,Lake Street,Buy,,init,ARAY
+2017-12-13,JP Morgan,Underweight,Neutral,down,ARAY
+2018-08-17,Citigroup,Sell,Sell,main,ARAY
+2018-11-01,Citigroup,Neutral,Sell,up,ARAY
+2020-01-21,BTIG Research,Buy,Neutral,up,ARAY
+2021-12-22,Loop Capital,Buy,,init,ARAY

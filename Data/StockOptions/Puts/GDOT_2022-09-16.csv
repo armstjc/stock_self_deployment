@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GDOT220916P00035000,2022-01-05 20:21:17+00:00,35.0,4.5,3.7,5.0,-0.4499998,-9.090905,112,9,0.23804472900390622,True,REGULAR,USD,GDOT

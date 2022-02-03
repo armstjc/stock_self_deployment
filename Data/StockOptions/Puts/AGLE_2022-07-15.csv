@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGLE220715P00002500,2021-12-30 14:36:27+00:00,2.5,0.3,0.0,0.45,0.0,0.0,2,7,0.9492192578124999,False,REGULAR,USD,AGLE
+AGLE220715P00002500,2021-12-30 14:36:27+00:00,2.5,0.3,0.0,0.35,0.0,0.0,2,7,0.8632826171875,False,REGULAR,USD,AGLE

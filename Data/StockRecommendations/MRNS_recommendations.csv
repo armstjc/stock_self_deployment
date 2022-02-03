@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-08-25,Stifel Nicolaus,Buy,,init,MRNS
+2014-08-26,JMP Securities,Market Outperform,,init,MRNS
+2014-09-09,Oppenheimer,Outperform,,init,MRNS
+2015-11-17,Jefferies,Buy,,init,MRNS
+2015-12-17,RBC Capital,Outperform,,init,MRNS
+2016-03-08,Stifel Nicolaus,Buy,,main,MRNS
+2016-06-14,RBC Capital,Sector Perform,Outperform,down,MRNS
+2016-06-14,Oppenheimer,Perform,Outperform,down,MRNS
+2016-06-14,Jefferies,Buy,,main,MRNS
+2016-08-10,Jefferies,Buy,,main,MRNS
+2018-03-20,Mizuho,Buy,,init,MRNS
+2018-05-24,Baird,Outperform,,init,MRNS
+2018-06-06,Ladenburg Thalmann,Buy,,init,MRNS
+2018-07-02,Cantor Fitzgerald,Overweight,,init,MRNS
+2019-02-06,Leerink Swann,Outperform,,init,MRNS
+2019-02-27,Mizuho,Neutral,Buy,down,MRNS
+2019-03-05,Jefferies,Buy,,init,MRNS
+2019-09-03,H.C. Wainwright,Buy,,init,MRNS
+2019-12-20,Oppenheimer,Outperform,,init,MRNS
+2020-01-10,H.C. Wainwright,Buy,,reit,MRNS
+2020-05-05,Cantor Fitzgerald,Overweight,,reit,MRNS
+2020-07-01,HC Wainwright & Co.,Buy,,main,MRNS
+2020-07-01,Cowen & Co.,Outperform,,init,MRNS
+2020-09-15,SVB Leerink,Outperform,,main,MRNS
+2020-09-28,HC Wainwright & Co.,Buy,,main,MRNS
+2020-09-30,Truist Securities,Buy,,init,MRNS
+2021-12-20,SVB Leerink,Outperform,,main,MRNS

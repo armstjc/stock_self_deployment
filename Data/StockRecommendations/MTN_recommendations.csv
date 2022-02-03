@@ -1,0 +1,222 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-08,Janco Partners,Accumulate,,down,MTN
+2012-05-29,Stifel Nicolaus,Buy,,up,MTN
+2012-06-27,Deutsche Bank,Hold,,main,MTN
+2012-06-29,Bank of America,Buy,,up,MTN
+2012-07-26,Credit Suisse,Outperform,,main,MTN
+2012-08-02,Bank of America,Neutral,Buy,down,MTN
+2012-08-23,Stifel Nicolaus,Buy,,main,MTN
+2012-08-23,Dahlman Rose,Hold,Buy,down,MTN
+2012-09-26,Barclays,Overweight,,main,MTN
+2012-09-26,Janco Partners,Market Perform,Accumulate,down,MTN
+2012-09-26,Stifel Nicolaus,Buy,,main,MTN
+2012-09-26,Bank of America,Buy,,main,MTN
+2012-09-26,Keefe Bruyette & Woods,Outperform,,main,MTN
+2012-09-28,Credit Suisse,Outperform,,main,MTN
+2012-10-05,Citigroup,Neutral,Buy,down,MTN
+2012-11-07,Societe Generale,Buy,Hold,up,MTN
+2012-11-07,Bank of America,Buy,Neutral,up,MTN
+2012-12-05,Stifel Nicolaus,Buy,,main,MTN
+2013-01-07,RBC Capital,Sector Perform,Outperform,down,MTN
+2013-01-16,Stifel Nicolaus,Buy,,main,MTN
+2013-01-24,UBS,Neutral,Buy,down,MTN
+2013-01-30,HSBC,Underweight,Neutral,down,MTN
+2013-02-22,HSBC,Neutral,Underweight,up,MTN
+2013-03-07,Stifel Nicolaus,Buy,,main,MTN
+2013-03-08,Janco Partners,Buy,Market Perform,up,MTN
+2013-03-11,UBS,Buy,Neutral,up,MTN
+2013-03-14,Citigroup,Buy,Neutral,up,MTN
+2013-03-22,Stifel Nicolaus,Hold,Buy,down,MTN
+2013-04-08,Credit Suisse,Neutral,Outperform,down,MTN
+2013-04-12,Liberum,Hold,,up,MTN
+2013-04-23,Nomura,Buy,Neutral,up,MTN
+2013-04-29,ING,Buy,Hold,up,MTN
+2013-05-29,Evercore Partners,Equal-Weight,,init,MTN
+2013-05-31,MKM Partners,Buy,,init,MTN
+2013-06-25,BTIG Research,Neutral,Sell,up,MTN
+2013-08-15,Barclays,Underweight,,init,MTN
+2013-08-15,Credit Suisse,Neutral,Neutral,main,MTN
+2013-08-20,Morgan Stanley,Underweight,Equal-Weight,down,MTN
+2013-09-20,RBC Capital,Sector Perform,Outperform,down,MTN
+2013-09-30,Bank of America,Buy,,main,MTN
+2013-10-14,Mainfirst,Outperform,,up,MTN
+2013-10-14,Macquarie,Outperform,Neutral,up,MTN
+2013-10-21,Deutsche Bank,Buy,Hold,up,MTN
+2013-10-21,UBS,Sell,Buy,down,MTN
+2013-11-13,Exane BNP Paribas,Underperform,Neutral,down,MTN
+2013-11-19,Credit Suisse,Outperform,Neutral,up,MTN
+2013-12-12,Bernstein,Outperform,,init,MTN
+2013-12-16,Nomura,Reduce,Buy,down,MTN
+2013-12-18,Deutsche Bank,Buy,,main,MTN
+2014-01-28,RBC Capital,Outperform,Sector Perform,up,MTN
+2014-02-10,Bank of America,Neutral,Buy,down,MTN
+2014-02-11,Kepler Cheuvreux,Hold,Buy,down,MTN
+2014-03-18,ABN Amro,Hold,Buy,down,MTN
+2014-03-25,Kepler Cheuvreux,Reduce,Hold,down,MTN
+2014-04-02,Credit Suisse,Neutral,Outperform,down,MTN
+2014-05-22,Goldman Sachs,Sell,Neutral,down,MTN
+2014-06-02,Evercore Partners,Overweight,Equal-weight,up,MTN
+2014-06-06,S&P Capital IQ,Hold,,up,MTN
+2014-07-07,Deutsche Bank,Buy,,main,MTN
+2014-08-04,Exane BNP Paribas,Neutral,Underperform,up,MTN
+2014-09-09,Macquarie,Neutral,Outperform,down,MTN
+2014-09-09,Credit Suisse,Outperform,Neutral,up,MTN
+2014-09-12,Barclays,Overweight,,main,MTN
+2014-09-23,MKM Partners,Buy,,main,MTN
+2014-11-03,Deutsche Bank,Hold,Buy,down,MTN
+2014-11-03,Deutsche Bank,Hold,Buy,down,MTN
+2014-11-11,Citigroup,Neutral,Buy,down,MTN
+2014-11-24,Nord/LB,Buy,Hold,up,MTN
+2014-12-04,Credit Suisse,Outperform,,main,MTN
+2014-12-09,Barclays,Overweight,,main,MTN
+2014-12-10,Barclays,Overweight,,main,MTN
+2015-01-12,Deutsche Bank,Hold,,main,MTN
+2015-03-23,Jefferies,Hold,Buy,down,MTN
+2015-03-27,Citigroup,Sell,Neutral,down,MTN
+2015-04-01,KeyBanc,Overweight,,main,MTN
+2015-04-14,Clarksons Platou,Buy,,init,MTN
+2015-04-17,Exane BNP Paribas,Underperform,Neutral,down,MTN
+2015-05-05,Stephens & Co.,Overweight,,init,MTN
+2015-05-15,Bank of America,Buy,Neutral,up,MTN
+2015-05-28,MKM Partners,Neutral,Buy,down,MTN
+2015-05-28,MKM Partners,Neutral,Buy,down,MTN
+2015-06-05,Credit Suisse,Outperform,,main,MTN
+2015-06-09,Barclays,Overweight,,main,MTN
+2015-06-09,MKM Partners,Neutral,,main,MTN
+2015-06-09,JMP Securities,Market Outperform,,main,MTN
+2015-07-27,Macquarie,Outperform,,init,MTN
+2015-08-05,ABN Amro,Buy,Add,up,MTN
+2015-09-29,Stephens & Co.,Outperform,,main,MTN
+2015-10-02,Barclays,Overweight,,main,MTN
+2015-10-02,JMP Securities,Outperform,,main,MTN
+2015-10-09,JP Morgan,Overweight,Neutral,up,MTN
+2015-10-23,Credit Suisse,Neutral,Outperform,down,MTN
+2015-11-04,Janney Capital,Buy,,init,MTN
+2015-12-02,Citigroup,Neutral,Buy,down,MTN
+2015-12-07,HSBC,Hold,Buy,down,MTN
+2015-12-08,Goldman Sachs,Buy,Neutral,up,MTN
+2015-12-08,Bank of America,Buy,,main,MTN
+2015-12-08,JMP Securities,Market Perform,Market Perform,down,MTN
+2015-12-18,RBC Capital,Sector Perform,Outperform,down,MTN
+2016-01-11,Deutsche Bank,Hold,,main,MTN
+2016-01-13,Jefferies,Underperform,Hold,down,MTN
+2016-01-14,Credit Suisse,Outperform,,main,MTN
+2016-01-14,MKM Partners,Buy,Neutral,up,MTN
+2016-01-22,Goldman Sachs,Buy,,main,MTN
+2016-02-08,Deutsche Bank,Hold,,main,MTN
+2016-02-09,Goldman Sachs,Neutral,Sell,up,MTN
+2016-02-09,JP Morgan,Neutral,Outperform,down,MTN
+2016-02-23,Cowen & Co.,Market Perform,Outperform,down,MTN
+2016-03-07,Jefferies,Hold,Underperform,up,MTN
+2016-03-08,Credit Suisse,Outperform,,main,MTN
+2016-03-10,Morgan Stanley,Overweight,,init,MTN
+2016-03-11,Barclays,Overweight,,main,MTN
+2016-03-11,Macquarie,Outperform,,main,MTN
+2016-03-17,Stephens & Co.,Overweight,,main,MTN
+2016-03-31,Berenberg,Buy,Hold,up,MTN
+2016-04-07,Sterne Agee CRT,Buy,,init,MTN
+2016-04-12,Goldman Sachs,Buy,Neutral,up,MTN
+2016-04-13,Credit Suisse,Outperform,Neutral,up,MTN
+2016-04-18,JP Morgan,Underweight,Neutral,down,MTN
+2016-04-20,Jefferies,Buy,Hold,up,MTN
+2016-06-01,Citigroup,Buy,Neutral,up,MTN
+2016-08-19,JP Morgan,Neutral,Underweight,up,MTN
+2016-08-23,KeyBanc,Overweight,,main,MTN
+2016-10-20,Wells Fargo,Outperform,Market Perform,up,MTN
+2016-11-08,Bank of America,Neutral,Buy,down,MTN
+2016-11-25,RBC Capital,Outperform,Sector Perform,up,MTN
+2016-12-19,UBS,Sell,,down,MTN
+2017-02-10,Bank of America,Buy,Neutral,up,MTN
+2017-07-12,Deutsche Bank,Buy,Hold,up,MTN
+2017-07-21,William Blair,Outperform,,init,MTN
+2017-09-22,Cowen & Co.,Market Perform,Outperform,down,MTN
+2017-09-29,Barclays,Overweight,,main,MTN
+2017-11-10,Bank of America,Buy,,main,MTN
+2017-12-13,Deutsche Bank,Buy,,init,MTN
+2018-06-05,Bank of America,Buy,Buy,main,MTN
+2018-06-07,UBS,Sell,Buy,down,MTN
+2018-06-08,Bank of America,Buy,Buy,main,MTN
+2018-06-08,Deutsche Bank,Buy,Buy,main,MTN
+2018-06-08,KeyBanc,Overweight,Overweight,main,MTN
+2018-06-11,Stifel Nicolaus,Hold,Hold,main,MTN
+2018-06-11,Barclays,Overweight,Overweight,main,MTN
+2018-06-20,Berenberg,Hold,,init,MTN
+2018-07-06,Macquarie,Outperform,,init,MTN
+2018-09-05,Macquarie,Neutral,Outperform,down,MTN
+2018-10-01,KeyBanc,Overweight,Overweight,main,MTN
+2018-10-15,Macquarie,Outperform,Neutral,up,MTN
+2018-10-29,Berenberg,Buy,Hold,up,MTN
+2018-11-09,UBS,Neutral,Sell,up,MTN
+2018-12-10,Barclays,Overweight,Overweight,main,MTN
+2019-01-14,Deutsche Bank,Buy,Buy,main,MTN
+2019-03-11,Stifel Nicolaus,Hold,Hold,main,MTN
+2019-03-11,KeyBanc,Overweight,Overweight,main,MTN
+2019-04-01,KeyBanc,Overweight,Overweight,main,MTN
+2019-04-04,Macquarie,Neutral,Outperform,down,MTN
+2019-04-15,KeyBanc,Sector Weight,,init,MTN
+2019-04-22,Jefferies,Hold,Buy,down,MTN
+2019-04-26,SunTrust Robinson Humphrey,Buy,,init,MTN
+2019-06-07,Stifel Nicolaus,Hold,,main,MTN
+2019-09-03,Credit Suisse,Outperform,,init,MTN
+2019-09-25,Wells Fargo,Market Perform,,main,MTN
+2019-09-30,KeyBanc,Overweight,,main,MTN
+2019-10-02,Barclays,Overweight,,main,MTN
+2019-10-03,SunTrust Robinson Humphrey,Buy,,main,MTN
+2019-11-11,UBS,Buy,Neutral,up,MTN
+2019-11-11,Commerzbank,Hold,Buy,down,MTN
+2019-11-13,KeyBanc,Overweight,Sector Weight,up,MTN
+2019-12-10,Deutsche Bank,Buy,,main,MTN
+2019-12-11,KeyBanc,Overweight,,main,MTN
+2019-12-19,KeyBanc,Overweight,,main,MTN
+2020-03-10,SunTrust Robinson Humphrey,Buy,,main,MTN
+2020-03-10,Deutsche Bank,Buy,,main,MTN
+2020-03-10,CFRA,Hold,,main,MTN
+2020-03-11,Wells Fargo,Equal-Weight,,main,MTN
+2020-03-11,KeyBanc,Overweight,,main,MTN
+2020-03-23,KeyBanc,Overweight,,main,MTN
+2020-03-24,KeyBanc,Overweight,,main,MTN
+2020-04-02,Deutsche Bank,Buy,,main,MTN
+2020-04-28,Deutsche Bank,Buy,,main,MTN
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,MTN
+2020-05-08,KeyBanc,Overweight,,main,MTN
+2020-05-13,KeyBanc,Overweight,,main,MTN
+2020-05-21,Credit Suisse,Outperform,,init,MTN
+2020-06-01,Deutsche Bank,Hold,Buy,down,MTN
+2020-06-05,KeyBanc,Overweight,,main,MTN
+2020-06-10,KeyBanc,Overweight,,main,MTN
+2020-08-31,KeyBanc,Overweight,,main,MTN
+2020-08-31,KeyBanc,Sector Weight,Overweight,down,MTN
+2020-09-17,B of A Securities,Buy,Neutral,up,MTN
+2020-09-25,Truist Securities,Buy,,main,MTN
+2020-09-25,Deutsche Bank,Hold,,main,MTN
+2020-10-06,KeyBanc,Overweight,,main,MTN
+2020-11-13,Exane BNP Paribas,Outperform,,init,MTN
+2020-11-23,Janney Capital,Neutral,Buy,down,MTN
+2020-12-01,William Blair,Market Perform,Outperform,down,MTN
+2020-12-01,KeyBanc,Overweight,,main,MTN
+2020-12-11,Credit Suisse,Outperform,,main,MTN
+2020-12-15,Societe Generale,Buy,Hold,up,MTN
+2020-12-16,Berenberg,Hold,Buy,down,MTN
+2020-12-22,KeyBanc,Overweight,,main,MTN
+2021-01-19,KeyBanc,Overweight,,main,MTN
+2021-01-25,JP Morgan,Overweight,Neutral,up,MTN
+2021-01-29,JP Morgan,Neutral,,init,MTN
+2021-03-08,KeyBanc,Overweight,,main,MTN
+2021-03-12,Truist Securities,Hold,,main,MTN
+2021-03-12,Deutsche Bank,Hold,,main,MTN
+2021-03-25,B of A Securities,Buy,Neutral,up,MTN
+2021-04-23,Deutsche Bank,Hold,,main,MTN
+2021-05-10,Keybanc,Overweight,,main,MTN
+2021-06-08,B of A Securities,Buy,,main,MTN
+2021-06-08,Deutsche Bank,Hold,,main,MTN
+2021-06-08,Credit Suisse,Outperform,,main,MTN
+2021-07-15,Barclays,Overweight,,init,MTN
+2021-07-30,Keybanc,Overweight,,main,MTN
+2021-09-21,Deutsche Bank,Hold,,main,MTN
+2021-09-21,Keybanc,Overweight,Sector Weight,up,MTN
+2021-09-24,Credit Suisse,Outperform,,main,MTN
+2021-09-24,Keybanc,Overweight,,main,MTN
+2021-10-14,Credit Suisse,Outperform,Neutral,up,MTN
+2021-10-14,Keybanc,Sector Weight,Overweight,down,MTN
+2021-12-10,Credit Suisse,Outperform,,main,MTN
+2021-12-13,Deutsche Bank,Hold,,main,MTN

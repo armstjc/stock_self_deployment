@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CRDL220218C00002500,2022-01-05 17:34:44+00:00,2.5,0.1,0.0,0.2,-0.050000004,-33.333336,30,19,1.890625546875,False,REGULAR,USD,CRDL

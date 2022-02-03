@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CLVT220715C00020000,2021-12-30 15:32:24+00:00,20.0,4.6,3.3,4.9,0.0,0.0,6,8,1.0498094384765626,False,REGULAR,USD,CLVT

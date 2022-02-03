@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-27,Jefferies,Buy,,init,ALNA
+2017-11-27,Cowen & Co.,Outperform,,init,ALNA
+2017-11-27,Wedbush,Outperform,,init,ALNA
+2017-11-27,Credit Suisse,Outperform,,init,ALNA
+2018-03-28,Credit Suisse,Outperform,Outperform,main,ALNA
+2018-04-02,Roth Capital,Buy,,init,ALNA
+2018-04-25,B. Riley FBR,Buy,,init,ALNA
+2018-08-02,Ladenburg Thalmann,Buy,,init,ALNA
+2018-08-08,B. Riley FBR,Buy,Buy,main,ALNA
+2019-01-18,Baird,Outperform,,init,ALNA
+2019-09-06,Credit Suisse,Outperform,,main,ALNA
+2019-11-08,Credit Suisse,Neutral,Outperform,down,ALNA
+2020-03-13,B. Riley FBR,Buy,,main,ALNA
+2020-03-18,B. Riley FBR,Buy,,main,ALNA
+2020-06-01,HC Wainwright & Co.,Buy,,init,ALNA

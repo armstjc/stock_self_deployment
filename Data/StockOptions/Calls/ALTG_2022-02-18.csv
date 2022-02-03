@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ALTG220218C00015000,2022-01-04 14:30:04+00:00,15.0,0.55,0.6,0.85,0.0,0.0,1,1,1.1464886425781249,False,REGULAR,USD,ALTG

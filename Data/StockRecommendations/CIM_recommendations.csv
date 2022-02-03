@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-21,Bank of America,Underperform,Neutral,down,CIM
+2012-06-21,Credit Suisse,Neutral,Outperform,down,CIM
+2012-08-07,Wunderlich,Hold,Sell,up,CIM
+2014-07-24,Credit Suisse,Neutral,,main,CIM
+2014-08-14,Deutsche Bank,Hold,,main,CIM
+2014-08-15,Keefe Bruyette & Woods,Market Perform,,main,CIM
+2014-11-11,Deutsche Bank,Hold,,main,CIM
+2014-11-13,Keefe Bruyette & Woods,Market Perform,,main,CIM
+2015-04-14,Keefe Bruyette & Woods,Market Perform,,main,CIM
+2015-04-20,Deutsche Bank,Hold,,main,CIM
+2015-05-13,Barclays,Underweight,,main,CIM
+2015-06-29,Nomura,Buy,,init,CIM
+2015-07-07,Wells Fargo,Outperform,Market Perform,up,CIM
+2015-08-12,Deutsche Bank,Hold,,main,CIM
+2015-08-13,Keefe Bruyette & Woods,Market Perform,,main,CIM
+2015-10-13,Barclays,Equal-Weight,Underweight,up,CIM
+2016-02-19,Deutsche Bank,Hold,,main,CIM
+2016-03-23,Nomura,Buy,,main,CIM
+2016-05-04,Wells Fargo,Underperform,Market Perform,down,CIM
+2016-08-09,Keefe Bruyette & Woods,Market Perform,,main,CIM
+2016-08-09,Deutsche Bank,Hold,,main,CIM
+2016-08-10,Barclays,Equal-Weight,,main,CIM
+2017-02-16,Wells Fargo,Market Perform,Underperform,up,CIM
+2017-08-03,Deutsche Bank,Hold,,main,CIM
+2017-10-10,Barclays,Equal-Weight,,main,CIM
+2018-01-25,Credit Suisse,Outperform,Neutral,up,CIM
+2018-06-15,RBC Capital,Outperform,,init,CIM
+2018-08-02,Deutsche Bank,Hold,Buy,down,CIM
+2018-10-12,Raymond James,Market Perform,,init,CIM
+2018-10-24,Deutsche Bank,Buy,Hold,up,CIM
+2019-02-14,Deutsche Bank,Hold,Buy,down,CIM
+2019-03-27,Nomura,Buy,,init,CIM
+2019-08-21,Credit Suisse,Neutral,Outperform,down,CIM
+2020-02-25,RBC Capital,Outperform,,main,CIM
+2020-04-29,Barclays,Equal-Weight,,main,CIM
+2020-08-14,RBC Capital,Outperform,,main,CIM
+2020-11-24,BTIG,Neutral,,init,CIM
+2020-12-10,Barclays,Underweight,Equal-Weight,down,CIM
+2022-01-10,Barclays,Underweight,,main,CIM

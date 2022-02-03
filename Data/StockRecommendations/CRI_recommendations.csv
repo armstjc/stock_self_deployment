@@ -1,0 +1,69 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,Citigroup,Neutral,,main,CRI
+2012-04-26,Bank of America,Buy,,up,CRI
+2012-05-15,FBR Capital,Market Perform,,init,CRI
+2012-05-25,Citigroup,Buy,,up,CRI
+2012-07-26,Sterne Agee,Buy,Neutral,up,CRI
+2013-01-22,Bank of America,Buy,,main,CRI
+2013-02-28,BMO Capital,Market Perform,,main,CRI
+2013-04-12,Miller Tabak,Buy,,main,CRI
+2013-05-07,PiperJaffray,Neutral,,init,CRI
+2013-06-19,Oppenheimer,Perform,,init,CRI
+2013-08-01,FBR Capital,Outperform,,init,CRI
+2013-10-01,Goldman Sachs,Buy,Neutral,up,CRI
+2013-11-20,Stephens & Co.,Overweight,,init,CRI
+2014-04-02,PiperJaffray,Overweight,Neutral,up,CRI
+2014-06-20,Wells Fargo,Market Perform,,init,CRI
+2014-08-26,Citigroup,Buy,,main,CRI
+2014-10-24,Citigroup,Buy,,main,CRI
+2014-11-14,Sterne Agee,Buy,,init,CRI
+2015-02-27,Citigroup,Buy,,main,CRI
+2015-03-24,Citigroup,Buy,,main,CRI
+2015-04-30,Citigroup,Buy,,main,CRI
+2015-05-01,Oppenheimer,Perform,,main,CRI
+2015-06-18,Sterne Agee CRT,Neutral,Buy,down,CRI
+2015-06-30,Goldman Sachs,Buy,,main,CRI
+2015-09-16,PiperJaffray,Neutral,Overweight,down,CRI
+2015-10-22,Wells Fargo,Outperform,,init,CRI
+2016-01-04,Oppenheimer,Outperform,Perform,up,CRI
+2016-07-13,Cowen & Co.,Market Perform,,init,CRI
+2016-07-28,Citigroup,Neutral,,main,CRI
+2016-08-08,Monness Crespi Hardt,Buy,Neutral,up,CRI
+2016-09-27,Wells Fargo,Market Perform,Outperform,down,CRI
+2016-09-28,CLSA,Underperform,,init,CRI
+2016-12-19,Citigroup,Buy,Neutral,up,CRI
+2017-01-25,Morgan Stanley,Overweight,,init,CRI
+2017-02-14,PiperJaffray,Overweight,Neutral,up,CRI
+2017-08-29,Macquarie,Outperform,,init,CRI
+2017-10-27,Citigroup,Buy,,main,CRI
+2017-12-21,SunTrust Robinson Humphrey,Hold,,init,CRI
+2018-01-25,Wells Fargo,Outperform,Market Perform,up,CRI
+2018-02-28,Citigroup,Buy,Buy,main,CRI
+2018-06-21,UBS,Neutral,,init,CRI
+2018-10-22,Wells Fargo,Outperform,Outperform,main,CRI
+2018-11-02,Macquarie,Neutral,Outperform,down,CRI
+2018-12-03,Citigroup,Buy,Buy,main,CRI
+2019-01-02,Wells Fargo,Outperform,Outperform,main,CRI
+2019-04-17,Deutsche Bank,Hold,,init,CRI
+2019-04-24,DA Davidson,Neutral,,init,CRI
+2019-10-02,DA Davidson,Buy,Neutral,up,CRI
+2019-10-31,DA Davidson,Buy,,main,CRI
+2019-12-18,UBS,Neutral,,main,CRI
+2020-02-25,Deutsche Bank,Hold,,main,CRI
+2020-03-16,Wells Fargo,Overweight,,main,CRI
+2020-03-26,B. Riley FBR,Buy,,main,CRI
+2020-03-30,Wells Fargo,Overweight,,main,CRI
+2020-04-15,UBS,Neutral,,main,CRI
+2020-04-20,Citigroup,Buy,,main,CRI
+2020-05-05,CFRA,Buy,,main,CRI
+2020-05-06,UBS,Neutral,,main,CRI
+2020-05-06,Deutsche Bank,Hold,,reit,CRI
+2020-05-06,DA Davidson,Buy,,main,CRI
+2020-06-11,UBS,Neutral,,main,CRI
+2020-07-27,Citigroup,Buy,,main,CRI
+2020-07-27,UBS,Neutral,,main,CRI
+2021-01-13,Wells Fargo,Equal-Weight,Overweight,down,CRI
+2021-04-20,B. Riley FBR,Buy,,main,CRI
+2021-05-03,"Monness, Crespi, Hardt",Buy,,main,CRI
+2021-05-03,B. Riley FBR,Buy,,main,CRI
+2021-10-05,Wedbush,Neutral,,init,CRI

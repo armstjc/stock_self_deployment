@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-08,BMO Capital,Market Perform,,main,DSGX
+2013-11-27,PI Financial,Neutral,Buy,down,DSGX
+2013-12-04,PI Financial,Buy,Neutral,up,DSGX
+2014-11-25,Morgan Stanley,Equal-Weight,,init,DSGX
+2014-12-05,Barclays,Overweight,,main,DSGX
+2015-05-29,Barclays,Overweight,,main,DSGX
+2015-09-11,Barclays,Overweight,,main,DSGX
+2015-09-11,Canaccord Genuity,Buy,,main,DSGX
+2015-12-04,Barclays,Overweight,,main,DSGX
+2016-05-27,Barclays,Overweight,,main,DSGX
+2016-09-09,Barclays,Overweight,,main,DSGX
+2016-10-19,CIBC,Sector Outperform,Sector Performer,up,DSGX
+2017-09-07,Canaccord Genuity,Buy,,main,DSGX
+2017-09-07,BMO Capital,Market Perform,,main,DSGX
+2017-11-30,Raymond James,Market Perform,Outperform,down,DSGX
+2018-03-06,Morgan Stanley,Equal-Weight,Equal-Weight,main,DSGX
+2018-05-31,Canaccord Genuity,Buy,Buy,main,DSGX
+2018-05-31,Barclays,Overweight,Overweight,main,DSGX
+2018-06-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,DSGX
+2019-07-02,Stephens & Co.,Equal-Weight,,init,DSGX
+2019-08-22,Wolfe Research,Outperform,,init,DSGX
+2019-12-05,Barclays,Overweight,,main,DSGX
+2019-12-05,Canaccord Genuity,Buy,,main,DSGX
+2020-01-10,Barclays,Equal-Weight,Overweight,down,DSGX
+2020-01-10,TD Securities,Buy,,main,DSGX
+2020-05-26,ScotiaBank,Sector Outperform,,main,DSGX
+2020-05-28,Canaccord Genuity,Buy,,reit,DSGX
+2020-06-04,RBC Capital,Outperform,,main,DSGX
+2020-09-10,TD Securities,Buy,,main,DSGX
+2020-09-10,ScotiaBank,Sector Outperform,,main,DSGX
+2021-06-03,RBC Capital,Outperform,,main,DSGX
+2021-06-03,Stephens & Co.,Overweight,,main,DSGX
+2021-06-03,CIBC,Neutral,,main,DSGX
+2021-06-03,Barclays,Equal-Weight,,main,DSGX
+2021-08-23,Barclays,Equal-Weight,,main,DSGX
+2021-09-03,RBC Capital,Outperform,,main,DSGX
+2021-09-09,Barclays,Equal-Weight,,main,DSGX
+2021-09-09,RBC Capital,Outperform,,main,DSGX
+2021-09-09,Stephens & Co.,Overweight,,main,DSGX
+2021-12-02,Barclays,Equal-Weight,,main,DSGX
+2021-12-02,RBC Capital,Outperform,,main,DSGX

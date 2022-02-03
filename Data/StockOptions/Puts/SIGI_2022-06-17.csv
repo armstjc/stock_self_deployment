@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SIGI220617P00075000,2021-11-23 20:36:17+00:00,75.0,3.83,1.7,5.5,0.0,0.0,,1,0.4057676611328125,False,REGULAR,USD,SIGI
+SIGI220617P00080000,2021-11-23 20:36:17+00:00,80.0,5.72,4.8,8.0,0.0,0.0,,1,0.4043638665771484,True,REGULAR,USD,SIGI

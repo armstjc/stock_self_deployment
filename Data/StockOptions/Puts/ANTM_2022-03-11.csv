@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ANTM220311P00400000,2022-01-28 19:38:43+00:00,400.0,7.0,2.6,5.2,0.0,0.0,2,0,0.3732362481689453,False,REGULAR,USD,ANTM

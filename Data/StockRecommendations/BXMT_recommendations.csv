@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-04,Bank of America,Neutral,,init,BXMT
+2013-06-17,JP Morgan,Overweight,,init,BXMT
+2013-06-24,Citigroup,Buy,,init,BXMT
+2013-07-16,FBR Capital,Outperform,,init,BXMT
+2013-07-17,Deutsche Bank,Buy,,init,BXMT
+2013-07-31,Wells Fargo,Outperform,Market Perform,up,BXMT
+2013-09-10,JMP Securities,Market Outperform,,init,BXMT
+2013-11-01,UBS,Buy,,init,BXMT
+2014-03-04,Bank of America,Neutral,,main,BXMT
+2014-04-03,Bank of America,Neutral,,main,BXMT
+2014-07-31,JP Morgan,Overweight,,main,BXMT
+2014-10-29,Deutsche Bank,Buy,,main,BXMT
+2014-11-10,JMP Securities,Market Outperform,,main,BXMT
+2015-02-19,Deutsche Bank,Buy,,main,BXMT
+2015-02-19,JP Morgan,Overweight,,main,BXMT
+2015-02-20,Jefferies,Market Outperform,,main,BXMT
+2015-04-13,Deutsche Bank,Buy,,main,BXMT
+2015-04-15,Keefe Bruyette & Woods,Outperform,,main,BXMT
+2015-05-01,Keefe Bruyette & Woods,Outperform,,main,BXMT
+2015-06-22,Bank of America,Buy,Neutral,up,BXMT
+2016-04-18,Credit Suisse,Outperform,,init,BXMT
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,BXMT
+2016-12-15,Bank of America,Neutral,Buy,down,BXMT
+2017-10-26,FBR Capital,Buy,,main,BXMT
+2018-03-27,Raymond James,Market Perform,,init,BXMT
+2018-08-21,Credit Suisse,Outperform,Outperform,main,BXMT
+2018-10-09,BTIG Research,Neutral,,init,BXMT
+2018-12-17,Deutsche Bank,Hold,Buy,down,BXMT
+2019-02-13,Deutsche Bank,Buy,Hold,down,BXMT
+2019-12-02,Compass Point,Neutral,,init,BXMT
+2020-01-08,Credit Suisse,Neutral,Outperform,down,BXMT
+2020-01-29,JP Morgan,Overweight,Neutral,up,BXMT
+2020-03-26,Citigroup,Neutral,,main,BXMT
+2020-05-15,Citigroup,Neutral,,main,BXMT
+2020-06-17,Deutsche Bank,Hold,,main,BXMT
+2021-03-17,Credit Suisse,Neutral,,main,BXMT
+2021-04-13,BTIG,Buy,,init,BXMT
+2021-04-26,JP Morgan,Neutral,Overweight,down,BXMT

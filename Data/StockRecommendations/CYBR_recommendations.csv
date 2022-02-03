@@ -1,0 +1,139 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-10-20,Deutsche Bank,Hold,,init,CYBR
+2014-10-20,Barclays,Equal-Weight,,init,CYBR
+2014-10-20,Oppenheimer,Outperform,,init,CYBR
+2014-10-20,JP Morgan,Neutral,,init,CYBR
+2014-10-20,William Blair,Outperform,,init,CYBR
+2014-10-20,Nomura,Buy,,init,CYBR
+2014-11-13,Barclays,Equal-Weight,,main,CYBR
+2014-11-13,JP Morgan,Neutral,,main,CYBR
+2014-11-25,Imperial Capital,Underperform,,init,CYBR
+2014-12-18,Summit Research Partners,Sell,,init,CYBR
+2015-01-12,Barclays,Equal-Weight,,main,CYBR
+2015-02-13,JP Morgan,Neutral,,main,CYBR
+2015-02-13,Nomura,Neutral,Buy,down,CYBR
+2015-02-23,JP Morgan,Underweight,Neutral,down,CYBR
+2015-03-06,PiperJaffray,Neutral,,init,CYBR
+2015-03-23,Bank of America,Buy,,init,CYBR
+2015-03-31,Summit Research Partners,Hold,Sell,up,CYBR
+2015-04-14,Oppenheimer,Outperform,,main,CYBR
+2015-04-17,JMP Securities,Outperform,,init,CYBR
+2015-04-23,Deutsche Bank,Hold,,main,CYBR
+2015-05-08,Barclays,Equal-Weight,,main,CYBR
+2015-05-08,JP Morgan,Underweight,,main,CYBR
+2015-07-10,Wells Fargo,Market Perform,,init,CYBR
+2015-07-21,Dougherty,Buy,,init,CYBR
+2015-08-12,PiperJaffray,Neutral,,main,CYBR
+2015-08-12,Barclays,Equal-Weight,,main,CYBR
+2015-08-14,Wells Fargo,Outperform,Market Perform,up,CYBR
+2015-09-21,Deutsche Bank,Buy,Hold,up,CYBR
+2015-09-25,Nomura,Buy,Neutral,up,CYBR
+2015-10-15,DA Davidson,Neutral,,init,CYBR
+2015-11-10,Bank of America,Neutral,Buy,down,CYBR
+2015-12-10,JP Morgan,Overweight,Underweight,up,CYBR
+2015-12-14,Evercore ISI Group,Hold,,init,CYBR
+2015-12-15,Evercore ISI Group,Hold,,init,CYBR
+2016-01-06,Barclays,Equal-Weight,,main,CYBR
+2016-02-12,Oppenheimer,Outperform,,main,CYBR
+2016-02-12,Deutsche Bank,Buy,,main,CYBR
+2016-02-18,Imperial Capital,In-Line,,main,CYBR
+2016-03-14,Summit Research Partners,Buy,Hold,up,CYBR
+2016-03-21,Goldman Sachs,Buy,,init,CYBR
+2016-03-28,Nomura,Buy,Neutral,up,CYBR
+2016-04-19,Stephens & Co.,Overweight,,init,CYBR
+2016-05-13,Bank of America,Buy,Neutral,up,CYBR
+2016-07-05,Barclays,Overweight,Equal-Weight,up,CYBR
+2016-08-10,Nomura,Buy,,main,CYBR
+2016-08-10,Deutsche Bank,Buy,,main,CYBR
+2016-08-14,Goldman Sachs,Neutral,Buy,down,CYBR
+2016-09-06,Nomura,Buy,,main,CYBR
+2016-09-09,UBS,Neutral,,init,CYBR
+2016-09-15,Pacific Crest,Sector Weight,,init,CYBR
+2016-09-26,Cowen & Co.,Market Perform,,init,CYBR
+2016-11-07,Imperial Capital,Outperform,In-Line,up,CYBR
+2017-02-14,Stifel Nicolaus,Buy,,init,CYBR
+2017-03-29,Evercore ISI Group,Outperform,In-Line,up,CYBR
+2017-03-30,Goldman Sachs,Buy,Neutral,up,CYBR
+2017-07-14,Morgan Stanley,Equal-Weight,,main,CYBR
+2017-07-14,Oppenheimer,Outperform,,main,CYBR
+2017-07-14,JMP Securities,Market Outperform,,main,CYBR
+2017-07-14,JP Morgan,Neutral,Overweight,down,CYBR
+2017-07-14,Deutsche Bank,Hold,Buy,down,CYBR
+2017-11-03,UBS,Neutral,,main,CYBR
+2018-02-20,UBS,Buy,Neutral,up,CYBR
+2018-02-26,Imperial Capital,In-Line,In-Line,main,CYBR
+2018-03-09,Bank of America,Buy,Neutral,up,CYBR
+2018-04-26,UBS,Buy,Buy,main,CYBR
+2018-04-27,JMP Securities,Market Outperform,Market Outperform,main,CYBR
+2018-05-04,Bank of America,Buy,Buy,main,CYBR
+2018-05-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,CYBR
+2018-05-04,Deutsche Bank,Hold,Hold,main,CYBR
+2018-05-04,Stifel Nicolaus,Buy,Buy,main,CYBR
+2018-06-14,Bank of America,Buy,Buy,main,CYBR
+2018-06-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,CYBR
+2018-07-12,Barclays,Equal-Weight,Equal-Weight,main,CYBR
+2018-08-08,Morgan Stanley,Equal-Weight,Equal-Weight,main,CYBR
+2018-08-08,Barclays,Equal-Weight,Equal-Weight,main,CYBR
+2018-08-08,JP Morgan,Overweight,Neutral,up,CYBR
+2018-09-27,Morgan Stanley,Overweight,Equal-Weight,up,CYBR
+2018-10-19,Wedbush,Outperform,,init,CYBR
+2018-12-11,Guggenheim,Buy,,init,CYBR
+2018-12-21,Deutsche Bank,Buy,Hold,up,CYBR
+2019-01-04,Goldman Sachs,Neutral,Buy,down,CYBR
+2019-03-19,FBN Securities,Outperform,,init,CYBR
+2019-03-22,Wedbush,Outperform,Outperform,main,CYBR
+2019-03-27,Mizuho,Buy,,init,CYBR
+2019-04-12,Barclays,Equal-Weight,Equal-Weight,main,CYBR
+2019-04-25,UBS,Neutral,Buy,down,CYBR
+2019-05-06,Bank of America,Buy,Buy,main,CYBR
+2019-05-15,Mizuho,Buy,,main,CYBR
+2019-05-15,Morgan Stanley,Overweight,,main,CYBR
+2019-05-31,Berenberg,Buy,,init,CYBR
+2019-08-08,Morgan Stanley,Overweight,,main,CYBR
+2019-10-07,Barclays,Equal-Weight,,main,CYBR
+2019-11-07,Barclays,Equal-Weight,,main,CYBR
+2019-11-07,JP Morgan,Overweight,,main,CYBR
+2019-11-07,UBS,Neutral,,main,CYBR
+2019-11-08,PiperJaffray,Neutral,,init,CYBR
+2020-01-13,Morgan Stanley,Overweight,,main,CYBR
+2020-01-14,First Analysis,Outperform,Strong Buy,down,CYBR
+2020-01-14,DA Davidson,Neutral,,init,CYBR
+2020-02-13,UBS,Neutral,,main,CYBR
+2020-02-13,First Analysis,Strong Buy,Outperform,up,CYBR
+2020-02-13,Needham,Hold,Buy,down,CYBR
+2020-03-19,Baird,Neutral,,init,CYBR
+2020-03-23,Piper Sandler,Overweight,Neutral,up,CYBR
+2020-03-25,Morgan Stanley,Overweight,,main,CYBR
+2020-03-25,Goldman Sachs,Neutral,,init,CYBR
+2020-04-21,Cowen & Co.,Outperform,,main,CYBR
+2020-04-27,JMP Securities,Market Outperform,,main,CYBR
+2020-05-14,JMP Securities,Market Outperform,,main,CYBR
+2020-05-14,Guggenheim,Buy,,reit,CYBR
+2020-05-14,UBS,Neutral,,main,CYBR
+2020-05-14,Mizuho,Buy,,main,CYBR
+2020-05-14,Barclays,Equal-Weight,,main,CYBR
+2020-05-14,Morgan Stanley,Overweight,,main,CYBR
+2020-07-06,Monness Crespi Hardt,Buy,Neutral,up,CYBR
+2020-07-14,Morgan Stanley,Overweight,,main,CYBR
+2020-08-05,Morgan Stanley,Overweight,,main,CYBR
+2020-09-15,Barclays,Overweight,Equal-Weight,up,CYBR
+2021-01-08,Morgan Stanley,Overweight,,main,CYBR
+2021-02-12,Mizuho,Buy,,main,CYBR
+2021-02-12,Morgan Stanley,Overweight,,main,CYBR
+2021-03-11,Barclays,Overweight,,main,CYBR
+2021-04-07,Baird,Outperform,Neutral,up,CYBR
+2021-05-06,"Monness, Crespi, Hardt",Buy,,main,CYBR
+2021-05-06,Baird,Outperform,,main,CYBR
+2021-05-07,Goldman Sachs,Neutral,,main,CYBR
+2021-07-19,Colliers Securities,Buy,Neutral,up,CYBR
+2021-08-06,Wolfe Research,Outperform,,init,CYBR
+2021-08-13,Wolfe Research,Outperform,,main,CYBR
+2021-08-13,Barclays,Overweight,,main,CYBR
+2021-08-30,Wedbush,Outperform,,main,CYBR
+2021-10-05,Wells Fargo,Equal-Weight,,init,CYBR
+2021-10-13,Barclays,Overweight,,main,CYBR
+2021-10-18,Mizuho,Buy,,main,CYBR
+2021-10-27,JMP Securities,Market Outperform,,main,CYBR
+2021-11-05,Barclays,Overweight,,main,CYBR
+2021-11-05,Mizuho,Buy,,main,CYBR
+2021-11-05,Goldman Sachs,Neutral,,main,CYBR

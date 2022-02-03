@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-09,Morgan Stanley,Overweight,,main,ARCO
+2012-04-25,Citigroup,Buy,,main,ARCO
+2012-05-07,Citigroup,Neutral,,down,ARCO
+2013-04-08,JP Morgan,Neutral,,main,ARCO
+2013-05-02,Bank of America,Neutral,Underperform,up,ARCO
+2013-06-11,Bank of America,Underperform,,down,ARCO
+2013-06-21,JP Morgan,Neutral,,main,ARCO
+2013-07-16,JP Morgan,Neutral,,main,ARCO
+2013-10-29,JP Morgan,Overweight,Neutral,up,ARCO
+2014-01-22,JP Morgan,Neutral,Overweight,down,ARCO
+2014-06-09,Bank of America,Buy,Underperform,up,ARCO
+2014-07-22,HSBC,Underweight,Neutral,down,ARCO
+2014-08-21,Citigroup,Sell,Hold,down,ARCO
+2014-08-26,Bank of America,Neutral,Buy,down,ARCO
+2014-11-11,JP Morgan,Neutral,,main,ARCO
+2015-01-27,Morgan Stanley,Equal-Weight,,main,ARCO
+2015-07-15,Citigroup,Sell,Neutral,down,ARCO
+2015-08-12,Bank of America,Underperform,Neutral,down,ARCO
+2016-10-24,Morgan Stanley,Overweight,Equal-Weight,up,ARCO
+2017-04-11,Bank of America,Buy,Underperform,up,ARCO
+2017-11-15,HSBC,Buy,,init,ARCO
+2019-07-10,JP Morgan,Overweight,,init,ARCO
+2019-07-26,Bradesco Corretora,Outperform,Neutral,up,ARCO
+2019-10-21,Bank of America,Buy,Underperform,up,ARCO
+2020-01-21,Bradesco,Neutral,Outperform,down,ARCO
+2020-04-03,JP Morgan,Overweight,,main,ARCO
+2020-06-02,JP Morgan,Overweight,,main,ARCO
+2020-07-02,Bradesco,Outperform,Neutral,up,ARCO
+2021-01-28,Bradesco,Neutral,Outperform,down,ARCO
+2021-04-23,Goldman Sachs,Neutral,,init,ARCO

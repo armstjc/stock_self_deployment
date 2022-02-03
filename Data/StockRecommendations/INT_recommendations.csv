@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,Evercore Partners,Equal-Weight,,down,INT
+2012-06-21,Stephens & Co.,Equal-Weight,,init,INT
+2012-08-03,Bank of America,Underperform,Buy,down,INT
+2012-11-05,Bank of America,Neutral,Underperform,up,INT
+2012-12-18,Bank of America,Neutral,,main,INT
+2015-07-31,Bank of America,Underperform,Buy,down,INT
+2015-07-31,Stephens & Co.,Equal-Weight,Overweight,down,INT
+2015-07-31,Credit Suisse,Outperform,,main,INT
+2015-09-11,Bank of America,Underperform,,main,INT
+2016-02-22,Bank of America,Neutral,,main,INT
+2016-04-29,Credit Suisse,Neutral,Outperform,down,INT
+2016-08-24,Stifel Nicolaus,Hold,,init,INT
+2016-11-04,Stifel Nicolaus,Buy,Hold,up,INT
+2017-09-26,Bank of America,Underperform,Neutral,down,INT
+2018-02-23,Stifel Nicolaus,Buy,Buy,main,INT
+2018-07-27,Bank of America,Underperform,Underperform,main,INT
+2019-03-07,Seaport Global,Buy,Neutral,up,INT
+2019-07-26,Stifel Nicolaus,Buy,,main,INT
+2019-08-23,Stifel Nicolaus,Buy,,main,INT
+2021-01-19,B of A Securities,Buy,Underperform,up,INT
+2021-02-26,Stifel,Hold,Buy,down,INT

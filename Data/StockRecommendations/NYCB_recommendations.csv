@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-10,JP Morgan,Neutral,,main,NYCB
+2013-02-05,Morgan Stanley,Overweight,Equal-Weight,up,NYCB
+2013-03-05,Sterne Agee,Underperform,,main,NYCB
+2013-03-07,Keefe Bruyette & Woods,Outperform,Market Perform,up,NYCB
+2013-03-07,Standpoint Research,Buy,Hold,up,NYCB
+2013-04-25,Compass Point,Neutral,,main,NYCB
+2013-05-07,Guggenheim,Buy,Neutral,up,NYCB
+2013-06-28,Deutsche Bank,Hold,,main,NYCB
+2013-07-09,JP Morgan,Neutral,,main,NYCB
+2013-07-25,Barclays,Equal-Weight,,main,NYCB
+2013-10-07,ISI Group,Neutral,,init,NYCB
+2013-10-14,Standpoint Research,Hold,Buy,down,NYCB
+2013-10-24,Compass Point,Neutral,,main,NYCB
+2013-12-04,Guggenheim,Neutral,Buy,down,NYCB
+2014-01-30,Keefe Bruyette & Woods,Market Perform,Outperform,down,NYCB
+2014-05-01,JP Morgan,Underweight,,main,NYCB
+2014-09-16,Standpoint Research,Buy,Hold,up,NYCB
+2014-10-23,Keefe Bruyette & Woods,Market Perform,,main,NYCB
+2015-01-30,Barclays,Equal-Weight,,main,NYCB
+2015-04-30,Barclays,Equal-Weight,,main,NYCB
+2015-05-01,Raymond James,Market Perform,,init,NYCB
+2015-06-05,PiperJaffray,Underweight,,init,NYCB
+2015-06-16,Barclays,Equal-Weight,,main,NYCB
+2015-06-30,Deutsche Bank,Hold,,main,NYCB
+2015-07-08,Keefe Bruyette & Woods,Underperform,Market Perform,down,NYCB
+2015-08-19,Sterne Agee CRT,Neutral,,init,NYCB
+2015-10-30,Standpoint Research,Buy,Hold,up,NYCB
+2015-10-30,FBR Capital,Underperform,Market Perform,down,NYCB
+2015-10-30,Keefe Bruyette & Woods,Market Perform,Underperform,up,NYCB
+2015-10-30,Raymond James,Outperform,Market Perform,up,NYCB
+2015-11-02,Keefe Bruyette & Woods,Market Perform,Underperform,up,NYCB
+2015-11-02,Sandler O'Neill,Buy,Hold,up,NYCB
+2015-11-30,Bank of America,Buy,Neutral,up,NYCB
+2016-01-05,Sterne Agee CRT,Buy,Neutral,up,NYCB
+2016-01-19,FBR Capital,Market Perform,Underperform,up,NYCB
+2016-01-28,JP Morgan,Underweight,,main,NYCB
+2016-04-05,JP Morgan,Underweight,,main,NYCB
+2016-07-07,JP Morgan,Underweight,,main,NYCB
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,NYCB
+2016-07-28,Barclays,Equal-Weight,,main,NYCB
+2016-08-01,Morgan Stanley,Overweight,,main,NYCB
+2016-10-07,Wedbush,Neutral,,init,NYCB
+2016-10-11,Deutsche Bank,Hold,,main,NYCB
+2016-12-20,Bank of America,Neutral,Buy,down,NYCB
+2016-12-21,Raymond James,Market Perform,Outperform,down,NYCB
+2016-12-21,Morgan Stanley,Equal-Weight,Overweight,down,NYCB
+2016-12-21,FBR Capital,Underperform,Market Perform,down,NYCB
+2017-04-05,Stephens & Co.,Equal-Weight,,init,NYCB
+2017-10-11,Barclays,Equal-Weight,,main,NYCB
+2017-12-21,RBC Capital,Sector Perform,,init,NYCB
+2018-01-10,Bank of America,Buy,Neutral,up,NYCB
+2018-02-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,NYCB
+2018-02-12,B. Riley,Neutral,Sell,up,NYCB
+2018-03-22,UBS,Sell,,init,NYCB
+2018-04-26,Wedbush,Neutral,Neutral,main,NYCB
+2018-04-26,Barclays,Equal-Weight,Equal-Weight,main,NYCB
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,NYCB
+2018-06-19,B. Riley FBR,Neutral,Neutral,main,NYCB
+2018-10-26,PiperJaffray,Neutral,Underweight,up,NYCB
+2019-01-08,UBS,Neutral,Sell,up,NYCB
+2019-01-10,Barclays,Underweight,Equal-Weight,down,NYCB
+2019-02-06,UBS,Buy,Neutral,up,NYCB
+2019-03-11,Morgan Stanley,Underweight,Equal-Weight,down,NYCB
+2019-04-08,Jefferies,Hold,,init,NYCB
+2019-07-11,B. Riley,Buy,Neutral,up,NYCB
+2019-08-01,JP Morgan,Neutral,Underweight,up,NYCB
+2019-10-31,RBC Capital,Sector Perform,Outperform,down,NYCB
+2020-01-29,Stephens & Co.,Equal-Weight,,main,NYCB
+2020-01-30,B. Riley,Neutral,Buy,down,NYCB
+2020-02-10,Piper Sandler,Overweight,Neutral,up,NYCB
+2020-03-05,Morgan Stanley,Underweight,,main,NYCB
+2020-03-17,Morgan Stanley,Underweight,,main,NYCB
+2020-04-07,Morgan Stanley,Underweight,,main,NYCB
+2020-04-13,RBC Capital,Outperform,Sector Perform,up,NYCB
+2020-04-13,B. Riley FBR,Buy,Neutral,up,NYCB
+2020-04-30,B of A Securities,Buy,,reit,NYCB
+2020-04-30,B. Riley FBR,Buy,,main,NYCB
+2020-05-06,Morgan Stanley,Underweight,,main,NYCB
+2020-05-13,Compass Point,Neutral,,main,NYCB
+2020-06-08,Morgan Stanley,Underweight,,main,NYCB
+2020-07-30,Wedbush,Neutral,,main,NYCB
+2020-07-30,Deutsche Bank,Hold,,main,NYCB
+2020-09-28,Piper Sandler,Overweight,,main,NYCB
+2020-10-02,Morgan Stanley,Underweight,,main,NYCB
+2020-10-07,Credit Suisse,Neutral,,main,NYCB
+2020-11-03,Morgan Stanley,Underweight,,main,NYCB
+2020-11-06,Morgan Stanley,Equal-Weight,Underweight,up,NYCB
+2020-12-07,Morgan Stanley,Equal-Weight,,main,NYCB
+2021-01-07,Morgan Stanley,Equal-Weight,,main,NYCB
+2021-02-24,Morgan Stanley,Equal-Weight,,main,NYCB
+2021-03-18,Morgan Stanley,Equal-Weight,,main,NYCB
+2021-04-09,Credit Suisse,Neutral,,main,NYCB
+2021-04-27,Credit Suisse,Neutral,,main,NYCB
+2021-07-27,Credit Suisse,Neutral,,main,NYCB

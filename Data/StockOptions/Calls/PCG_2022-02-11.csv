@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PCG220211C00015500,2021-12-31 17:19:06+00:00,15.5,0.06,0.0,0.32,0.0,0.0,1,1,1.2109414453124998,False,REGULAR,USD,PCG
+PCG220211C00015500,2021-12-31 17:19:06+00:00,15.5,0.06,0.0,0.32,0.0,0.0,1,1,1.2695349023437497,False,REGULAR,USD,PCG

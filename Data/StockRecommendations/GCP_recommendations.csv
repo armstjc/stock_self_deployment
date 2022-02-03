@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-02-08,Goldman Sachs,Neutral,,init,GCP
+2016-05-16,KeyBanc,Sector Weight,,init,GCP
+2016-05-17,KeyBanc,Sector Weight,,init,GCP
+2016-06-29,Northcoast Research,Buy,,init,GCP
+2017-03-03,Monness Crespi Hardt,Buy,Neutral,up,GCP
+2017-06-23,KeyBanc,Overweight,Sector Weight,up,GCP
+2017-10-30,Cowen & Co.,Market Perform,,init,GCP
+2018-02-28,KeyBanc,Overweight,Overweight,main,GCP
+2018-08-08,Monness Crespi Hardt,Neutral,Buy,down,GCP
+2018-08-09,KeyBanc,Overweight,Overweight,main,GCP
+2018-11-08,KeyBanc,Sector Weight,Overweight,down,GCP
+2020-03-23,Jefferies,Hold,Buy,down,GCP

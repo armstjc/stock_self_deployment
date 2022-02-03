@@ -1,0 +1,137 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-05,Stifel Nicolaus,Buy,,init,AMBA
+2012-11-05,Morgan Stanley,Overweight,,init,AMBA
+2012-11-05,Needham,Strong Buy,,init,AMBA
+2012-11-05,Deutsche Bank,Buy,,init,AMBA
+2012-12-06,Deutsche Bank,Buy,,main,AMBA
+2013-03-08,Deutsche Bank,Buy,,main,AMBA
+2013-03-08,Stifel Nicolaus,Buy,,main,AMBA
+2013-06-05,Morgan Stanley,Overweight,,main,AMBA
+2013-06-05,Stifel Nicolaus,Buy,,main,AMBA
+2013-06-05,Deutsche Bank,Buy,,main,AMBA
+2013-06-05,Needham,Buy,Strong Buy,down,AMBA
+2013-10-30,Morgan Stanley,Equal-weight,Overweight,down,AMBA
+2013-12-03,Stifel Nicolaus,Buy,,main,AMBA
+2013-12-06,Deutsche Bank,Buy,,main,AMBA
+2014-01-08,Needham,Hold,Buy,down,AMBA
+2014-01-10,Deutsche Bank,Hold,Buy,down,AMBA
+2014-01-13,Stifel Nicolaus,Buy,,main,AMBA
+2014-04-10,Dougherty,Buy,Neutral,up,AMBA
+2014-05-19,Ascendiant Capital,Buy,,init,AMBA
+2014-06-04,Deutsche Bank,Hold,,main,AMBA
+2014-09-03,Imperial Capital,Outperform,,init,AMBA
+2014-09-05,Imperial Capital,Outperform,,main,AMBA
+2014-10-06,Stifel Nicolaus,Buy,,main,AMBA
+2014-12-03,Stifel Nicolaus,Buy,,main,AMBA
+2014-12-05,Deutsche Bank,Hold,,main,AMBA
+2014-12-05,Dougherty & Co.,Neutral,Buy,down,AMBA
+2014-12-05,Stifel Nicolaus,Buy,,main,AMBA
+2014-12-29,Needham,Underperform,Hold,down,AMBA
+2015-03-04,Stifel Nicolaus,Buy,,main,AMBA
+2015-03-04,Pacific Crest,Outperform,,main,AMBA
+2015-03-04,Canaccord Genuity,Buy,,main,AMBA
+2015-03-30,Canaccord Genuity,Buy,,main,AMBA
+2015-04-29,Canaccord Genuity,Buy,,main,AMBA
+2015-05-27,KeyBanc,Overweight,,main,AMBA
+2015-06-03,Canaccord Genuity,Buy,,main,AMBA
+2015-06-03,Needham,Hold,Underperform,up,AMBA
+2015-06-03,Stifel Nicolaus,Buy,,main,AMBA
+2015-09-02,Canaccord Genuity,Buy,,main,AMBA
+2015-09-02,Deutsche Bank,Hold,,main,AMBA
+2015-09-02,Morgan Stanley,Equal-Weight,,main,AMBA
+2015-09-02,Topeka,Buy,,main,AMBA
+2015-09-03,Barrington Research,Market Perform,Outperform,down,AMBA
+2015-09-29,KeyBanc,Overweight,,main,AMBA
+2015-12-04,Deutsche Bank,Hold,,main,AMBA
+2015-12-23,Craig-Hallum,Buy,,init,AMBA
+2016-01-14,Pacific Crest,Overweight,,main,AMBA
+2016-02-04,Dougherty,Buy,Neutral,up,AMBA
+2016-02-29,Deutsche Bank,Hold,,main,AMBA
+2016-03-04,Morgan Stanley,Equal-Weight,,main,AMBA
+2016-03-04,Dougherty,Neutral,Buy,down,AMBA
+2016-03-04,Craig-Hallum,Buy,,main,AMBA
+2016-03-04,Pacific Crest,Overweight,,main,AMBA
+2016-03-07,Chardan Capital,Neutral,,main,AMBA
+2016-03-29,Morgan Stanley,Overweight,Equal-Weight,up,AMBA
+2016-04-08,Oppenheimer,Perform,,init,AMBA
+2016-06-03,Deutsche Bank,Hold,,main,AMBA
+2016-08-30,KeyBanc,Overweight,,main,AMBA
+2016-09-29,Roth Capital,Buy,,init,AMBA
+2016-11-29,KeyBanc,Overweight,,main,AMBA
+2017-03-01,Dougherty,Buy,Neutral,up,AMBA
+2017-05-30,Pacific Crest,Sector Weight,Overweight,down,AMBA
+2017-09-01,Deutsche Bank,Hold,,main,AMBA
+2017-09-01,Craig-Hallum,Hold,Buy,down,AMBA
+2017-09-05,Canaccord Genuity,Buy,,main,AMBA
+2017-10-13,Canaccord Genuity,Buy,,main,AMBA
+2017-12-13,Morgan Stanley,Overweight,,main,AMBA
+2018-01-03,Oppenheimer,Outperform,Perform,up,AMBA
+2018-05-17,Cowen & Co.,Outperform,,init,AMBA
+2018-06-06,Morgan Stanley,Overweight,Overweight,main,AMBA
+2018-06-06,Deutsche Bank,Hold,Hold,main,AMBA
+2018-06-06,Stifel Nicolaus,Buy,Buy,main,AMBA
+2018-06-06,Oppenheimer,Perform,Outperform,down,AMBA
+2018-08-31,Bank of America,Underperform,Neutral,down,AMBA
+2018-08-31,Deutsche Bank,Hold,Hold,main,AMBA
+2018-08-31,Stifel Nicolaus,Buy,Buy,main,AMBA
+2019-03-06,Craig-Hallum,Buy,Hold,up,AMBA
+2019-08-30,Roth Capital,Neutral,,main,AMBA
+2019-08-30,Cowen & Co.,Outperform,,main,AMBA
+2019-08-30,Morgan Stanley,Overweight,,main,AMBA
+2019-10-04,Stifel,Hold,,init,AMBA
+2019-10-08,Stifel,Hold,,main,AMBA
+2019-11-26,Craig-Hallum,Buy,,main,AMBA
+2019-11-26,Stifel Nicolaus,Hold,,main,AMBA
+2019-11-26,Morgan Stanley,Overweight,,main,AMBA
+2019-11-26,Bank of America,Underperform,,main,AMBA
+2020-01-30,Morgan Stanley,Overweight,,main,AMBA
+2020-03-04,Stifel Nicolaus,Hold,,main,AMBA
+2020-03-04,CFRA,Hold,,main,AMBA
+2020-03-18,Morgan Stanley,Overweight,,main,AMBA
+2020-03-26,Stifel,Buy,Hold,up,AMBA
+2020-05-29,Baird,Neutral,,init,AMBA
+2020-06-03,B of A Securities,Underperform,,main,AMBA
+2020-06-23,Rosenblatt,Buy,,init,AMBA
+2020-06-23,Imperial Capital,Outperform,,init,AMBA
+2020-07-07,Needham,Buy,Underperform,up,AMBA
+2020-09-03,Craig-Hallum,Buy,Hold,up,AMBA
+2020-09-03,Needham,Buy,,main,AMBA
+2020-09-03,Rosenblatt,Buy,,main,AMBA
+2020-09-18,Berenberg,Buy,,init,AMBA
+2020-10-08,Rosenblatt,Buy,,main,AMBA
+2020-11-24,Needham,Buy,,main,AMBA
+2020-11-24,Summit Insights Group,Buy,Hold,up,AMBA
+2020-11-24,Morgan Stanley,Overweight,,main,AMBA
+2020-11-24,Rosenblatt,Buy,,main,AMBA
+2020-12-03,Rosenblatt,Buy,,main,AMBA
+2020-12-14,Morgan Stanley,Overweight,,main,AMBA
+2021-01-04,Roth Capital,Neutral,,main,AMBA
+2021-01-13,Roth Capital,Buy,Neutral,up,AMBA
+2021-02-24,Deutsche Bank,Hold,,main,AMBA
+2021-03-01,Morgan Stanley,Overweight,,main,AMBA
+2021-03-03,Needham,Buy,,main,AMBA
+2021-03-03,Morgan Stanley,Overweight,,main,AMBA
+2021-03-03,Roth Capital,Buy,,main,AMBA
+2021-03-03,Craig-Hallum,Buy,,main,AMBA
+2021-03-03,Stifel,Buy,,main,AMBA
+2021-03-22,Wells Fargo,Equal-Weight,,init,AMBA
+2021-06-02,Roth Capital,Buy,,main,AMBA
+2021-06-02,Stifel,Buy,,main,AMBA
+2021-06-02,Rosenblatt,Buy,,main,AMBA
+2021-09-01,Rosenblatt,Buy,,main,AMBA
+2021-09-01,Cowen & Co.,Outperform,,main,AMBA
+2021-09-01,Deutsche Bank,Hold,,main,AMBA
+2021-09-01,Stifel,Buy,,main,AMBA
+2021-09-02,Roth Capital,Buy,,main,AMBA
+2021-09-22,Keybanc,Overweight,Sector Weight,up,AMBA
+2021-10-26,Rosenblatt,Buy,,main,AMBA
+2021-10-27,Stifel,Buy,,main,AMBA
+2021-11-29,Morgan Stanley,Overweight,,main,AMBA
+2021-12-01,Craig-Hallum,Buy,,main,AMBA
+2021-12-01,Deutsche Bank,Hold,,main,AMBA
+2021-12-01,Morgan Stanley,Overweight,,main,AMBA
+2021-12-01,Wells Fargo,Equal-Weight,,main,AMBA
+2021-12-01,Needham,Buy,,main,AMBA
+2021-12-01,Rosenblatt,Buy,,main,AMBA
+2021-12-01,Keybanc,Overweight,,main,AMBA
+2021-12-07,Stifel,Buy,,main,AMBA

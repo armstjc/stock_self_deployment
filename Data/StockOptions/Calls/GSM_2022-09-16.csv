@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GSM220916C00007000,2022-02-01 14:30:18+00:00,7.0,0.75,0.5,1.2,0.0,0.0,1,10,0.8437515624999999,False,REGULAR,USD,GSM

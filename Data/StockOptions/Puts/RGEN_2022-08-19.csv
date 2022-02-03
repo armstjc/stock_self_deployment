@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+RGEN220819P00190000,2021-12-17 18:06:27+00:00,190.0,9.35,14.5,18.1,0.0,0.0,1,1,0.42545130218505867,False,REGULAR,USD,RGEN

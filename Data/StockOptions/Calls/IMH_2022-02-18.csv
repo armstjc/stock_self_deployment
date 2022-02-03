@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMH220218C00002500,2022-01-05 15:18:04+00:00,2.5,0.01,0.0,0.4,-0.04,-79.99999,20,1,5.9062526171875005,False,REGULAR,USD,IMH
+IMH220218C00002500,2022-01-05 15:18:04+00:00,2.5,0.01,0.0,0.4,-0.04,-79.99999,20,1,5.937502578125001,False,REGULAR,USD,IMH

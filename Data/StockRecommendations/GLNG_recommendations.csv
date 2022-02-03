@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-16,ABG Sundal Collier,Hold,,up,GLNG
+2012-05-15,RS Platou Markets,Buy,,up,GLNG
+2012-05-31,ABG Sundal Collier,Buy,,up,GLNG
+2012-07-06,Dahlman Rose,Buy,,main,GLNG
+2012-07-09,Morgan Stanley,Overweight,,main,GLNG
+2012-07-10,Clarksons Platou,Outperform,,main,GLNG
+2012-07-11,Evercore Partners,Overweight,,main,GLNG
+2012-08-24,ABG Sundal Collier,Hold,Buy,down,GLNG
+2012-08-24,Morgan Stanley,Overweight,,main,GLNG
+2012-09-21,Jefferies,Buy,,init,GLNG
+2012-09-26,DNB Markets,Buy,,main,GLNG
+2012-10-24,Wells Fargo,Outperform,Market Perform,up,GLNG
+2012-11-29,SEB Enskilda,Hold,,main,GLNG
+2012-11-30,DNB Markets,Buy,,main,GLNG
+2013-01-24,Pareto Securities,Buy,,main,GLNG
+2013-02-15,SEB Enskilda,Sell,Hold,down,GLNG
+2013-02-22,ABG Sundal Collier,Sell,Hold,down,GLNG
+2013-03-07,Pareto Securities,Hold,Buy,down,GLNG
+2013-04-03,DNB Markets,Hold,Buy,down,GLNG
+2013-04-17,Global Hunter Securities,Buy,,init,GLNG
+2013-05-15,Goldman Sachs,Sell,Neutral,down,GLNG
+2013-05-31,Jefferies,Buy,,main,GLNG
+2013-07-05,Goldman Sachs,Neutral,Sell,up,GLNG
+2013-08-30,Jefferies,Buy,,main,GLNG
+2013-11-21,Fearnleys,Reduce,Accumulate,down,GLNG
+2013-11-29,Jefferies,Buy,,main,GLNG
+2014-02-20,Morgan Stanley,Equal-Weight,Overweight,down,GLNG
+2014-02-20,Morgan Stanley,Overweight,,main,GLNG
+2014-04-21,Jefferies,Hold,Buy,down,GLNG
+2014-05-23,Stifel Nicolaus,Hold,,init,GLNG
+2014-05-27,Danske Bank,Sell,Buy,down,GLNG
+2014-05-29,Evercore Partners,Overweight,,main,GLNG
+2014-07-07,UBS,Neutral,Sell,up,GLNG
+2014-07-28,Jefferies,Hold,,main,GLNG
+2014-08-27,Jefferies,Hold,,main,GLNG
+2014-09-09,Swedbank,Buy,,init,GLNG
+2014-12-10,ABN Amro,Sell,,init,GLNG
+2015-01-02,Seaport Global,Speculative Buy,Accumulate,up,GLNG
+2015-01-21,Nordea,Buy,Hold,up,GLNG
+2015-02-26,Danske Bank,Buy,Hold,up,GLNG
+2015-03-27,Nordea,Hold,Buy,down,GLNG
+2015-05-06,Citigroup,Buy,,main,GLNG
+2015-05-29,Jefferies,Hold,,main,GLNG
+2015-07-01,GMP Securities,Hold,,init,GLNG
+2015-07-08,GMP Securities,Buy,Hold,up,GLNG
+2015-08-28,Stifel Nicolaus,Buy,Hold,up,GLNG
+2015-10-23,Jefferies,Hold,,main,GLNG
+2015-12-02,Bank of America,Neutral,Buy,down,GLNG
+2016-01-19,Jefferies,Hold,,main,GLNG
+2016-04-22,Jefferies,Buy,Hold,up,GLNG
+2016-04-29,DNB Markets,Hold,Buy,down,GLNG
+2016-05-09,Credit Suisse,Outperform,Neutral,up,GLNG
+2016-06-01,Nordea,Buy,Hold,up,GLNG
+2016-06-30,Bernstein,Sell,Buy,down,GLNG
+2016-07-01,DNB Markets,Buy,Hold,up,GLNG
+2016-08-29,Hovde Group,Outperform,,init,GLNG
+2016-10-03,ABN Amro,Hold,Sell,up,GLNG
+2017-01-27,Nordea Equity,Hold,,down,GLNG
+2017-08-17,Citigroup,Buy,,main,GLNG
+2018-02-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,GLNG
+2018-04-10,Keefe Bruyette & Woods,Market Perform,,init,GLNG
+2018-04-20,Stifel Nicolaus,Buy,Buy,main,GLNG
+2018-04-26,Raymond James,Outperform,Outperform,main,GLNG
+2018-06-01,Citigroup,Buy,Buy,main,GLNG
+2018-06-04,Morgan Stanley,Overweight,Overweight,main,GLNG
+2018-06-26,Stephens & Co.,Equal-Weight,,init,GLNG
+2018-07-12,Bank of America,Neutral,Buy,down,GLNG
+2018-07-18,BTIG Research,Buy,,init,GLNG
+2018-08-24,Morgan Stanley,Overweight,Overweight,main,GLNG
+2018-09-06,Berenberg,Buy,,init,GLNG
+2018-10-04,B. Riley FBR,Buy,,init,GLNG
+2018-10-11,Deutsche Bank,Buy,,init,GLNG
+2018-10-18,Bank of America,Buy,,up,GLNG
+2018-10-25,Raymond James,Outperform,Outperform,main,GLNG
+2018-11-06,Morgan Stanley,Overweight,Overweight,main,GLNG
+2019-03-04,Sandler O'Neill,Buy,,init,GLNG
+2019-07-11,DA Davidson,Neutral,,init,GLNG
+2019-07-29,Raymond James,Market Perform,Outperform,down,GLNG
+2019-08-21,Stifel Nicolaus,Buy,,main,GLNG
+2019-09-24,B. Riley,Buy,,main,GLNG
+2019-09-24,B. Riley FBR,Buy,,main,GLNG
+2019-10-29,Citigroup,Neutral,Buy,down,GLNG
+2019-11-04,DA Davidson,Buy,Neutral,up,GLNG
+2019-12-11,Goldman Sachs,Sell,,init,GLNG
+2020-02-05,Goldman Sachs,Neutral,Sell,up,GLNG
+2020-03-09,DNB Markets,Hold,Buy,down,GLNG
+2020-04-08,B. Riley FBR,Buy,,main,GLNG
+2020-07-23,Raymond James,Outperform,Market Perform,up,GLNG
+2020-09-25,B of A Securities,Buy,,main,GLNG
+2021-01-21,Raymond James,Outperform,,main,GLNG
+2021-01-29,Jefferies,Buy,,main,GLNG
+2021-04-13,B of A Securities,Underperform,Buy,down,GLNG
+2021-04-22,Raymond James,Strong Buy,Outperform,up,GLNG
+2021-07-22,Stephens & Co.,Overweight,,main,GLNG

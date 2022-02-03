@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-01-06,PiperJaffray,Neutral,,init,ATHM
+2014-01-06,Deutsche Bank,Hold,,init,ATHM
+2014-04-16,Credit Suisse,Neutral,,init,ATHM
+2014-08-19,Brean Capital,Buy,,init,ATHM
+2014-12-18,UBS,Buy,,init,ATHM
+2015-03-05,Oppenheimer,Outperform,,main,ATHM
+2015-03-17,Barclays,Overweight,Equal-Weight,up,ATHM
+2015-04-28,UBS,Neutral,Buy,down,ATHM
+2015-05-01,CLSA,Buy,,init,ATHM
+2015-05-05,Oppenheimer,Outperform,,main,ATHM
+2015-05-11,Bank of America,Buy,,init,ATHM
+2015-06-18,CCIC,Buy,,up,ATHM
+2015-10-07,UBS,Buy,Neutral,up,ATHM
+2015-10-29,Citigroup,Buy,,init,ATHM
+2016-01-27,HSBC,Buy,,init,ATHM
+2016-02-22,CLSA,Underperform,Outperform,down,ATHM
+2016-02-23,JP Morgan,Neutral,,init,ATHM
+2016-04-17,Credit Suisse,Neutral,Underperform,up,ATHM
+2016-06-06,Brean Capital,Buy,,init,ATHM
+2016-06-28,Credit Suisse,Underperform,Neutral,down,ATHM
+2017-03-06,Deutsche Bank,Hold,Buy,down,ATHM
+2017-04-18,Benchmark,Hold,,init,ATHM
+2017-05-24,CLSA,Outperform,Buy,down,ATHM
+2017-08-10,Benchmark,Buy,Hold,up,ATHM
+2017-08-10,Deutsche Bank,Buy,Hold,up,ATHM
+2017-10-03,Credit Suisse,Outperform,,init,ATHM
+2018-08-29,JP Morgan,Neutral,Neutral,main,ATHM
+2018-12-03,Macquarie,Outperform,,init,ATHM
+2019-01-28,JP Morgan,Underweight,Neutral,down,ATHM
+2019-02-27,Credit Suisse,Neutral,Outperform,down,ATHM
+2019-02-27,Bank of America,Buy,Buy,main,ATHM
+2019-06-27,Bernstein,Outperform,,init,ATHM
+2019-07-11,CICC,Hold,Buy,down,ATHM
+2019-07-19,Benchmark,Hold,Buy,down,ATHM
+2019-09-06,Mizuho,Neutral,,init,ATHM
+2020-02-24,JP Morgan,Neutral,,main,ATHM
+2020-08-26,86 Research,Sell,,init,ATHM
+2020-09-30,HSBC,Buy,,init,ATHM
+2020-11-25,Mizuho,Buy,Neutral,up,ATHM
+2020-11-25,UBS,Buy,Neutral,up,ATHM
+2021-02-03,Benchmark,Buy,Hold,up,ATHM
+2021-05-21,Macquarie,Underperform,Neutral,down,ATHM
+2021-05-28,Benchmark,Hold,Buy,down,ATHM
+2021-05-28,HSBC,Buy,,main,ATHM
+2021-07-21,Morgan Stanley,Equal-Weight,Overweight,down,ATHM
+2021-08-03,B of A Securities,Underperform,Buy,down,ATHM
+2021-08-03,Citigroup,Neutral,Buy,down,ATHM
+2021-12-02,UBS,Neutral,,init,ATHM

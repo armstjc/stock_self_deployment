@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-01-23,RBC Capital,Sector Perform,Underperform,up,GTXAP
+2019-09-10,Morgan Stanley,Underweight,,init,GTXAP
+2019-09-12,UBS,Sell,,main,GTXAP
+2019-09-13,Bank of America,Neutral,Underperform,up,GTXAP
+2019-10-02,Barclays,Equal-Weight,,main,GTXAP
+2020-03-16,Morgan Stanley,Underweight,,main,GTXAP
+2020-03-30,Morgan Stanley,Underweight,,main,GTXAP
+2020-07-24,Barclays,Equal-Weight,,main,GTXAP
+2021-06-03,BWS Financial,Buy,,init,GTXAP

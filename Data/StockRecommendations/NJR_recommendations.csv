@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-04,Hilliard Lyons,Neutral,,down,NJR
+2012-04-20,Brean Capital,Buy,,up,NJR
+2013-02-15,Barclays,Underweight,,main,NJR
+2014-03-12,Hilliard Lyons,Long-Term Buy,Neutral,up,NJR
+2014-03-25,Barclays,Underweight,,main,NJR
+2014-05-29,Brean Capital,Hold,Buy,down,NJR
+2015-06-18,Janney Capital,Buy,,init,NJR
+2015-07-16,Argus,Buy,Hold,up,NJR
+2016-01-06,Wells Fargo,Market Perform,,init,NJR
+2016-01-13,Ladenburg Thalmann,Neutral,,init,NJR
+2016-03-30,BB&T Capital,Hold,,init,NJR
+2016-03-31,Janney Capital,Neutral,Buy,down,NJR
+2016-11-04,Guggenheim,Buy,,init,NJR
+2017-08-23,Bank of America,Underperform,,main,NJR
+2017-08-28,Argus,Buy,,main,NJR
+2017-11-22,Janney Capital,Buy,Neutral,up,NJR
+2018-05-30,Argus,Buy,Buy,main,NJR
+2018-06-05,Bank of America,Underperform,Neutral,down,NJR
+2018-09-10,Guggenheim,Neutral,Buy,down,NJR
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,NJR
+2019-01-07,Guggenheim,Sell,Neutral,down,NJR
+2019-07-11,Guggenheim,Neutral,Sell,up,NJR
+2020-01-08,Guggenheim,Sell,Neutral,down,NJR
+2020-03-16,Guggenheim,Neutral,Sell,up,NJR
+2020-05-11,Wells Fargo,Equal-Weight,,main,NJR
+2020-07-21,B of A Securities,Underperform,,main,NJR
+2020-07-24,Mizuho,Buy,,init,NJR
+2020-08-10,B of A Securities,Underperform,,main,NJR
+2021-05-03,JP Morgan,Neutral,,init,NJR
+2021-06-25,B of A Securities,Underperform,Neutral,down,NJR
+2022-01-05,Mizuho,Neutral,Buy,down,NJR

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LFTR220715P00010000,2022-01-05 20:15:07+00:00,10.0,0.6,0.55,0.85,0.0,0.0,60,41,0.28321029296874994,True,REGULAR,USD,LFTR

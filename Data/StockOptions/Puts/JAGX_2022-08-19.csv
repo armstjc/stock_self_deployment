@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+JAGX220819P00002500,2021-12-29 16:59:05+00:00,2.5,1.65,1.55,2.0,0.0,0.0,,6,1.359378203125,True,REGULAR,USD,JAGX

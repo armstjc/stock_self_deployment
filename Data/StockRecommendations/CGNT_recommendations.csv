@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-01,Wedbush,Outperform,,init,CGNT
+2021-02-03,Needham,Buy,,init,CGNT
+2021-02-18,Stifel,Buy,,init,CGNT
+2021-03-05,Evercore ISI Group,Outperform,,init,CGNT
+2021-07-15,Needham,Buy,,init,CGNT
+2021-07-27,William Blair,Outperform,,init,CGNT
+2021-12-22,Needham,Buy,,main,CGNT
+2021-12-22,Wedbush,Neutral,Outperform,down,CGNT
+2021-12-22,Evercore ISI Group,Outperform,,main,CGNT

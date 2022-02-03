@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-25,Stifel Nicolaus,Buy,,up,ETD
+2012-12-14,Stifel Nicolaus,Hold,Buy,down,ETD
+2013-06-04,Dougherty,Buy,,init,ETD
+2014-01-10,Dougherty & Co.,Neutral,Buy,down,ETD
+2014-06-02,Barrington Research,Market Perform,,init,ETD
+2014-06-09,Gabelli & Co.,Buy,,init,ETD
+2014-07-17,Nomura,Neutral,,init,ETD
+2014-11-14,Nomura,Neutral,,main,ETD
+2015-03-25,Gabelli & Co.,Hold,Buy,down,ETD
+2015-04-15,Nomura,Neutral,,main,ETD
+2015-04-24,Sidoti & Co.,Neutral,Buy,down,ETD
+2016-07-27,Raymond James,Market Perform,Outperform,down,ETD
+2017-01-26,Dougherty,Neutral,Buy,down,ETD
+2017-03-14,Raymond James,Strong Buy,Market Perform,up,ETD
+2017-10-26,Stifel Nicolaus,Hold,,main,ETD
+2018-01-17,Telsey Advisory Group,Market Perform,Outperform,down,ETD
+2018-01-25,Stifel Nicolaus,Hold,Hold,main,ETD
+2018-10-26,Raymond James,Outperform,Strong Buy,down,ETD
+2019-01-29,Dougherty,Neutral,Buy,down,ETD
+2019-02-04,Raymond James,Market Perform,Outperform,down,ETD
+2020-01-14,Stifel Nicolaus,Hold,,main,ETD
+2020-04-08,Stifel,Hold,,main,ETD
+2020-05-12,Stifel,Hold,,main,ETD
+2021-04-15,Telsey Advisory Group,Market Perform,,main,ETD
+2021-05-07,Argus Research,Buy,Hold,up,ETD
+2021-08-10,Telsey Advisory Group,Market Perform,,main,ETD

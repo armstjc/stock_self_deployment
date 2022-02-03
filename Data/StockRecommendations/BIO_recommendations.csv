@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,Jefferies,Buy,,main,BIO
+2012-05-02,Jefferies,Buy,,main,BIO
+2012-05-02,Dougherty,Neutral,,down,BIO
+2013-01-17,CLSA,Outperform,Underperform,up,BIO
+2013-02-27,Jefferies,Buy,,main,BIO
+2016-09-07,Jefferies,Buy,,main,BIO
+2016-10-13,CL King,Buy,,init,BIO
+2017-01-18,Deutsche Bank,Hold,,init,BIO
+2017-06-28,Deutsche Bank,Buy,Hold,up,BIO
+2017-07-13,Wells Fargo,Outperform,,init,BIO
+2018-02-16,CL King,Neutral,Buy,down,BIO
+2018-02-28,Wells Fargo,Outperform,Outperform,main,BIO
+2018-08-08,Jefferies,Buy,Buy,main,BIO
+2018-09-05,Barclays,Equal-Weight,,init,BIO
+2018-09-20,Morgan Stanley,Equal-Weight,,init,BIO
+2018-10-17,Goldman Sachs,Buy,,init,BIO
+2018-11-02,Barclays,Equal-Weight,Equal-Weight,main,BIO
+2019-01-03,Barclays,Overweight,Equal-Weight,up,BIO
+2019-03-01,Deutsche Bank,Buy,Buy,main,BIO
+2019-03-01,Barclays,Overweight,Overweight,main,BIO
+2019-05-09,Barclays,Overweight,,main,BIO
+2019-05-09,Deutsche Bank,Buy,,main,BIO
+2019-08-20,Goldman Sachs,Conviction Buy,Buy,up,BIO
+2020-01-07,Citigroup,Buy,,init,BIO
+2020-01-08,Wells Fargo,Overweight,,init,BIO
+2020-02-14,Wells Fargo,Overweight,,main,BIO
+2020-03-20,Citigroup,Buy,,main,BIO
+2020-03-26,Barclays,Overweight,,main,BIO
+2020-03-30,Wells Fargo,Overweight,,main,BIO
+2020-04-20,Citigroup,Buy,,main,BIO
+2020-05-07,Citigroup,Buy,,main,BIO
+2020-05-21,Wells Fargo,Overweight,,main,BIO
+2020-07-31,Citigroup,Buy,,main,BIO
+2021-02-05,Jefferies,Buy,,main,BIO
+2021-02-12,Citigroup,Buy,,main,BIO
+2021-07-30,Wells Fargo,Overweight,,main,BIO

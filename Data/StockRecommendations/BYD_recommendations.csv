@@ -1,0 +1,110 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-18,Imperial Capital,In-Line,,main,BYD
+2012-07-17,RBC Capital,Outperform,,init,BYD
+2012-07-25,Barclays,Equal-Weight,,main,BYD
+2012-07-25,Sterne Agee,Neutral,,main,BYD
+2012-07-25,Morgan Stanley,Equal-Weight,,main,BYD
+2012-08-28,Brean Capital,Hold,,init,BYD
+2012-11-02,Goldman Sachs,Neutral,,main,BYD
+2013-02-12,Goldman Sachs,Sell,Neutral,down,BYD
+2013-03-05,Deutsche Bank,Hold,,main,BYD
+2013-04-11,Morgan Stanley,Overweight,Equal-Weight,up,BYD
+2013-07-31,Nomura,Neutral,,main,BYD
+2013-07-31,JP Morgan,Neutral,Underweight,up,BYD
+2013-11-13,FBR Capital,Market Perform,,init,BYD
+2014-01-24,Deutsche Bank,Hold,,main,BYD
+2014-02-05,FBR Capital,Outperform,Market Perform,up,BYD
+2014-03-25,Ascendiant Capital,Hold,,init,BYD
+2014-05-22,Barclays,Equal-Weight,,main,BYD
+2014-06-27,Buckingham Research,Underperform,,init,BYD
+2014-07-01,Deutsche Bank,Hold,,main,BYD
+2014-08-01,JP Morgan,Neutral,,main,BYD
+2014-08-01,Credit Suisse,Neutral,Outperform,down,BYD
+2014-08-01,Wells Fargo,Buy,Buy,main,BYD
+2014-08-01,Nomura,Neutral,Neutral,main,BYD
+2014-08-01,Brean Capital,Hold,Hold,main,BYD
+2014-09-10,Morgan Stanley,Equal-weight,,down,BYD
+2014-10-23,JP Morgan,Neutral,,main,BYD
+2015-01-21,Deutsche Bank,Buy,,main,BYD
+2015-02-13,Deutsche Bank,Hold,,main,BYD
+2015-02-13,JP Morgan,Neutral,,main,BYD
+2015-03-12,Union Gaming Research,Buy,,init,BYD
+2015-06-01,Credit Suisse,Outperform,Neutral,up,BYD
+2015-07-14,Gabelli & Co.,Buy,,init,BYD
+2015-07-15,Deutsche Bank,Hold,,main,BYD
+2015-07-28,Bank of America,Neutral,Underperform,up,BYD
+2015-10-23,Deutsche Bank,Hold,,main,BYD
+2015-12-03,Goldman Sachs,Neutral,Sell,up,BYD
+2015-12-16,Deutsche Bank,Buy,Hold,up,BYD
+2016-01-08,JP Morgan,Overweight,Neutral,up,BYD
+2016-01-12,Susquehanna,Positive,,init,BYD
+2016-01-27,Sterne Agee CRT,Buy,Neutral,up,BYD
+2016-02-17,Nomura,Neutral,,main,BYD
+2016-02-18,Barclays,Equal-Weight,,main,BYD
+2016-03-22,Janney Capital,Buy,Neutral,up,BYD
+2016-12-07,Deutsche Bank,Buy,,main,BYD
+2017-01-17,Morgan Stanley,Overweight,Equal-Weight,up,BYD
+2017-02-01,Nomura,Buy,Neutral,up,BYD
+2017-02-10,SunTrust Robinson Humphrey,Buy,,init,BYD
+2017-02-13,Aegis Capital,Buy,,init,BYD
+2017-06-20,Morgan Stanley,Equal-Weight,Overweight,down,BYD
+2017-08-01,Barclays,Equal-Weight,,main,BYD
+2017-10-24,Morgan Stanley,Equal-Weight,,main,BYD
+2017-10-27,Stifel Nicolaus,Hold,,main,BYD
+2018-01-05,Bank of America,Buy,Neutral,up,BYD
+2018-01-17,Argus,Buy,,init,BYD
+2018-02-21,Barclays,Equal-Weight,Equal-Weight,main,BYD
+2018-02-21,JP Morgan,Overweight,Overweight,main,BYD
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,BYD
+2018-03-14,Telsey Advisory Group,Market Perform,,init,BYD
+2018-05-01,Barclays,Overweight,Equal-Weight,up,BYD
+2018-06-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,BYD
+2018-07-27,JP Morgan,Overweight,Overweight,main,BYD
+2018-08-14,Jefferies,Buy,Hold,up,BYD
+2018-11-01,Barclays,Overweight,Overweight,main,BYD
+2018-12-20,Morgan Stanley,Overweight,Equal-Weight,up,BYD
+2019-01-11,Stifel Nicolaus,Buy,Hold,up,BYD
+2019-07-31,Telsey Advisory Group,Outperform,Market Perform,up,BYD
+2019-10-23,Deutsche Bank,Buy,,main,BYD
+2020-01-06,Jefferies,Hold,Buy,down,BYD
+2020-01-10,Wolfe Research,Peer Perform,Outperform,down,BYD
+2020-01-21,Morgan Stanley,Overweight,,main,BYD
+2020-01-22,Morgan Stanley,Overweight,,main,BYD
+2020-02-21,SunTrust Robinson Humphrey,Buy,,main,BYD
+2020-02-21,Stifel Nicolaus,Buy,,main,BYD
+2020-02-24,Nomura Instinet,Buy,,main,BYD
+2020-03-19,Argus Research,Hold,Buy,down,BYD
+2020-03-30,Morgan Stanley,Overweight,,main,BYD
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,BYD
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,BYD
+2020-04-29,JP Morgan,Overweight,,main,BYD
+2020-04-29,Morgan Stanley,Overweight,,main,BYD
+2020-04-29,Deutsche Bank,Buy,,main,BYD
+2020-06-02,Nomura Instinet,Buy,,main,BYD
+2020-06-10,Stifel,Buy,,main,BYD
+2020-07-20,Morgan Stanley,Overweight,,main,BYD
+2020-07-21,SunTrust Robinson Humphrey,Buy,,main,BYD
+2020-07-23,Susquehanna,Neutral,Positive,down,BYD
+2020-07-29,JP Morgan,Overweight,,main,BYD
+2020-07-29,B of A Securities,Buy,,main,BYD
+2020-07-29,Morgan Stanley,Overweight,,main,BYD
+2020-08-28,Morgan Stanley,Overweight,,main,BYD
+2020-09-09,JP Morgan,Overweight,,main,BYD
+2020-10-15,B of A Securities,Buy,,main,BYD
+2020-10-16,Morgan Stanley,Overweight,,main,BYD
+2020-10-20,National Bank Financial,Sector Perform,Outperform,down,BYD
+2020-10-27,Morgan Stanley,Overweight,,main,BYD
+2020-12-04,B of A Securities,Buy,,main,BYD
+2021-01-14,Truist Securities,Buy,,main,BYD
+2021-01-14,KeyBanc,Overweight,,init,BYD
+2021-01-20,Morgan Stanley,Overweight,,main,BYD
+2021-01-27,Deutsche Bank,Buy,,main,BYD
+2021-02-22,Morgan Stanley,Overweight,,main,BYD
+2021-04-05,Morgan Stanley,Overweight,,main,BYD
+2021-04-08,Keybanc,Overweight,,main,BYD
+2021-04-28,Morgan Stanley,Overweight,,main,BYD
+2021-07-28,Truist Securities,Buy,,main,BYD
+2021-07-28,Morgan Stanley,Overweight,,main,BYD
+2021-09-15,Wells Fargo,Overweight,,init,BYD
+2021-10-20,Morgan Stanley,Overweight,,main,BYD
+2021-11-29,Deutsche Bank,Buy,,main,BYD

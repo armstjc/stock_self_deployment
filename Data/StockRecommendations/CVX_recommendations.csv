@@ -1,0 +1,222 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2011-12-08,JP Morgan,Overweight,,main,CVX
+2012-02-29,Deutsche Bank,Buy,,up,CVX
+2012-03-29,Morgan Stanley,Overweight,,main,CVX
+2012-04-10,Citigroup,Buy,,main,CVX
+2012-05-30,Oppenheimer,Outperform,,main,CVX
+2012-07-11,Citigroup,Buy,,main,CVX
+2012-07-12,JP Morgan,Neutral,Underweight,up,CVX
+2012-08-06,Oppenheimer,Outperform,,main,CVX
+2012-09-19,Credit Suisse,Outperform,,main,CVX
+2012-09-20,JP Morgan,Neutral,,main,CVX
+2012-09-24,Scotia Howard Weil,Market Outperform,Market Perform,up,CVX
+2012-09-27,VTB Capital,Hold,,init,CVX
+2012-10-01,Bank of America,Neutral,,main,CVX
+2012-10-10,Societe Generale,Buy,,main,CVX
+2012-10-10,Dahlman Rose,Hold,,init,CVX
+2012-11-05,UBS,Buy,,main,CVX
+2012-12-06,Dahlman Rose,Buy,Hold,up,CVX
+2012-12-06,Credit Suisse,Outperform,,main,CVX
+2013-02-01,Oracle Investment Research,Hold,Buy,down,CVX
+2013-02-01,Societe Generale,Hold,Buy,down,CVX
+2013-02-04,Dahlman Rose,Buy,,main,CVX
+2013-02-04,UBS,Neutral,Buy,down,CVX
+2013-02-22,Canaccord Genuity,Buy,,init,CVX
+2013-03-13,Bank of America,Neutral,,main,CVX
+2013-03-13,Cowen & Co.,Buy,,main,CVX
+2013-04-10,Morgan Stanley,Overweight,,main,CVX
+2013-04-18,Jefferies,Buy,,main,CVX
+2013-06-05,Barclays,Equal-Weight,Overweight,down,CVX
+2013-06-17,Jefferies,Hold,Buy,down,CVX
+2013-06-20,Wells Fargo,Outperform,,init,CVX
+2013-11-04,Credit Suisse,Outperform,,main,CVX
+2013-12-06,HSBC,Overweight,,init,CVX
+2013-12-12,RBC Capital,Sector Perform,,init,CVX
+2014-01-08,Scotia Howard Weil,Sector Perform,Sector Outperform,down,CVX
+2014-01-31,S&P Capital IQ,Buy,Strong Buy,down,CVX
+2014-04-03,BMO Capital,Market Perform,,init,CVX
+2014-04-08,Jefferies,Buy,,init,CVX
+2014-05-08,Argus,Hold,Buy,down,CVX
+2014-06-10,Deutsche Bank,Buy,,init,CVX
+2014-07-17,Deutsche Bank,Buy,,main,CVX
+2014-07-25,Barclays,Equal-Weight,,main,CVX
+2014-08-04,Morgan Stanley,Equal-Weight,Overweight,down,CVX
+2014-09-09,Bank of America,Underperform,Neutral,down,CVX
+2014-09-23,JP Morgan,Neutral,,init,CVX
+2014-10-21,Jefferies,Buy,,main,CVX
+2014-11-03,JP Morgan,Neutral,,main,CVX
+2014-11-24,Raymond James,Outperform,Strong Buy,down,CVX
+2014-12-01,Citigroup,Buy,,main,CVX
+2014-12-08,Oppenheimer,Outperform,,main,CVX
+2015-01-05,Citigroup,Neutral,Buy,down,CVX
+2015-01-14,Barclays,Equal-Weight,,main,CVX
+2015-01-15,Jefferies,Buy,,main,CVX
+2015-01-21,Wells Fargo,Market Perform,,down,CVX
+2015-01-23,Credit Suisse,Neutral,Outperform,down,CVX
+2015-02-02,JP Morgan,Neutral,,main,CVX
+2015-02-24,Oppenheimer,Perform,Outperform,down,CVX
+2015-03-09,Goldman Sachs,Neutral,,init,CVX
+2015-05-04,Barclays,Equal-Weight,,main,CVX
+2015-05-18,Goldman Sachs,Sell,Neutral,down,CVX
+2015-05-28,JP Morgan,Neutral,,main,CVX
+2015-06-01,Deutsche Bank,Buy,,main,CVX
+2015-06-16,Societe Generale,Buy,Hold,up,CVX
+2015-07-07,Barclays,Equal-Weight,,main,CVX
+2015-08-03,Barclays,Equal-Weight,,main,CVX
+2015-08-03,RBC Capital,Sector Perform,,main,CVX
+2015-08-03,Citigroup,Neutral,,main,CVX
+2015-08-05,RBC Capital,Sector Perform,,main,CVX
+2015-08-24,Bank of America,Neutral,Underperform,up,CVX
+2015-09-08,Credit Suisse,Neutral,,main,CVX
+2015-09-11,JP Morgan,Overweight,Neutral,up,CVX
+2015-09-23,Macquarie,Underperform,,init,CVX
+2015-09-25,Wolfe Research,Peer Perform,Underperform,up,CVX
+2015-10-12,Barclays,Equal-Weight,,main,CVX
+2015-11-02,Credit Suisse,Neutral,,main,CVX
+2015-11-03,Evercore ISI Group,Buy,Hold,up,CVX
+2015-12-02,Citigroup,Buy,Neutral,up,CVX
+2015-12-15,JP Morgan,Overweight,,main,CVX
+2015-12-16,Argus,Buy,Hold,up,CVX
+2016-01-07,Deutsche Bank,Buy,,main,CVX
+2016-01-21,Baird,Outperform,,init,CVX
+2016-03-09,Wolfe Research,Outperform,Peer Perform,up,CVX
+2016-03-09,Credit Suisse,Neutral,,main,CVX
+2016-03-09,RBC Capital,Sector Perform,,main,CVX
+2016-03-11,Goldman Sachs,Neutral,Sell,up,CVX
+2016-03-18,Nomura,Neutral,,init,CVX
+2016-03-18,Goldman Sachs,Neutral,,main,CVX
+2016-03-22,Raymond James,Market Perform,Outperform,down,CVX
+2016-04-08,Barclays,Equal-Weight,,main,CVX
+2016-07-11,Jefferies,Buy,,main,CVX
+2016-08-09,PiperJaffray,Overweight,Neutral,up,CVX
+2016-09-13,BMO Capital,Outperform,,init,CVX
+2016-10-31,Goldman Sachs,Buy,Neutral,up,CVX
+2016-11-01,Morgan Stanley,Overweight,Equal-Weight,up,CVX
+2016-11-15,CLSA,Buy,Outperform,up,CVX
+2016-12-01,Independent Research,Buy,Hold,up,CVX
+2016-12-15,Macquarie,Outperform,,up,CVX
+2017-01-04,Bank of America,Buy,Neutral,up,CVX
+2017-01-10,HSBC,Hold,Buy,down,CVX
+2017-05-26,Exane BNP Paribas,Underperform,Neutral,down,CVX
+2017-06-05,HSBC,Buy,Hold,up,CVX
+2017-06-21,Macquarie,Neutral,Outperform,down,CVX
+2017-07-21,Citigroup,Buy,,main,CVX
+2017-10-03,Bank of America,Buy,,main,CVX
+2017-10-10,Barclays,Equal-Weight,,main,CVX
+2017-10-18,Societe Generale,Hold,Buy,down,CVX
+2017-10-18,Morgan Stanley,Overweight,,main,CVX
+2017-10-18,BMO Capital,Market Perform,Outperform,down,CVX
+2017-10-30,Citigroup,Buy,,main,CVX
+2017-10-31,Citigroup,Buy,,main,CVX
+2017-12-12,Credit Suisse,Neutral,,init,CVX
+2018-01-04,Bank of America,Neutral,Buy,down,CVX
+2018-01-11,BMO Capital,Outperform,Market Perform,up,CVX
+2018-01-18,HSBC,Hold,Buy,down,CVX
+2018-01-24,Morgan Stanley,Overweight,Overweight,main,CVX
+2018-02-05,Credit Suisse,Neutral,Neutral,main,CVX
+2018-02-06,Barclays,Overweight,Equal-Weight,up,CVX
+2018-02-07,Wells Fargo,Outperform,Market Perform,up,CVX
+2018-02-09,RBC Capital,Sector Perform,Underperform,up,CVX
+2018-02-28,Bank of America,Buy,Neutral,up,CVX
+2018-03-07,Credit Suisse,Neutral,Neutral,main,CVX
+2018-03-07,DZ Bank,Buy,Hold,up,CVX
+2018-04-30,Credit Suisse,Neutral,Neutral,main,CVX
+2018-04-30,Barclays,Overweight,Overweight,main,CVX
+2018-06-07,Wells Fargo,Outperform,Outperform,main,CVX
+2018-06-08,Mizuho,Buy,,init,CVX
+2018-06-18,Raymond James,Outperform,Market Perform,up,CVX
+2018-07-03,Macquarie,Neutral,Outperform,down,CVX
+2018-07-11,Barclays,Overweight,Overweight,main,CVX
+2018-09-06,Bank of America,Neutral,Buy,down,CVX
+2018-09-11,Berenberg,Buy,,init,CVX
+2018-11-05,Wells Fargo,Outperform,Outperform,main,CVX
+2018-11-05,Credit Suisse,Outperform,Neutral,up,CVX
+2018-12-19,Societe Generale,Buy,Buy,main,CVX
+2019-01-14,HSBC,Hold,Buy,down,CVX
+2019-01-18,UBS,Buy,Neutral,up,CVX
+2019-03-01,Tudor Pickering,Buy,,init,CVX
+2019-03-06,Barclays,Overweight,Overweight,main,CVX
+2019-04-01,Morgan Stanley,Overweight,,init,CVX
+2019-04-15,Citigroup,Buy,Buy,main,CVX
+2019-05-16,Morgan Stanley,Overweight,,main,CVX
+2019-07-12,Morgan Stanley,Overweight,,main,CVX
+2019-08-19,Barclays,Overweight,,init,CVX
+2019-08-21,BMO Capital,Outperform,,init,CVX
+2019-11-04,Morgan Stanley,Overweight,,main,CVX
+2019-11-04,JP Morgan,Overweight,,main,CVX
+2019-11-13,Morgan Stanley,Overweight,,main,CVX
+2019-12-09,Citigroup,Neutral,Buy,down,CVX
+2020-01-07,Bank of America,Underperform,Neutral,down,CVX
+2020-01-23,Scotiabank,Sector Outperform,Sector Perform,up,CVX
+2020-02-03,Credit Suisse,Outperform,,main,CVX
+2020-02-28,B of A Securities,Underperform,,main,CVX
+2020-03-02,Morgan Stanley,Overweight,,main,CVX
+2020-03-04,B of A Securities,Underperform,,main,CVX
+2020-03-04,JP Morgan,Overweight,,main,CVX
+2020-03-04,Citigroup,Neutral,,main,CVX
+2020-03-11,JP Morgan,Overweight,,main,CVX
+2020-03-16,Morgan Stanley,Overweight,,main,CVX
+2020-03-16,UBS,Buy,,main,CVX
+2020-03-20,Wells Fargo,Overweight,,main,CVX
+2020-04-03,Wells Fargo,Overweight,,main,CVX
+2020-04-08,Mizuho,Buy,,main,CVX
+2020-04-14,RBC Capital,Sector Perform,,main,CVX
+2020-04-20,B of A Securities,Buy,,main,CVX
+2020-05-04,Wells Fargo,Overweight,,main,CVX
+2020-05-04,JP Morgan,Overweight,,main,CVX
+2020-05-04,Credit Suisse,Outperform,,main,CVX
+2020-05-12,UBS,Neutral,Buy,down,CVX
+2020-06-08,JP Morgan,Overweight,,main,CVX
+2020-06-09,B of A Securities,Neutral,Buy,down,CVX
+2020-06-10,RBC Capital,Underperform,Sector Perform,down,CVX
+2020-07-13,ScotiaBank,Sector Outperform,,main,CVX
+2020-07-20,Raymond James,Outperform,,main,CVX
+2020-07-21,Morgan Stanley,Overweight,,main,CVX
+2020-07-24,Piper Sandler,Overweight,,main,CVX
+2020-07-24,SunTrust Robinson Humphrey,Buy,,init,CVX
+2020-08-03,Morgan Stanley,Overweight,,main,CVX
+2020-08-17,Piper Sandler,Neutral,Overweight,down,CVX
+2020-08-21,Morgan Stanley,Overweight,,main,CVX
+2020-09-24,MKM Partners,Buy,,init,CVX
+2020-09-24,ScotiaBank,Sector Perform,Sector Outperform,down,CVX
+2020-09-28,B of A Securities,Buy,Neutral,up,CVX
+2020-10-19,Morgan Stanley,Overweight,,main,CVX
+2020-11-17,RBC Capital,Sector Perform,Underperform,up,CVX
+2020-12-15,Wells Fargo,Equal-Weight,Overweight,down,CVX
+2021-01-08,Piper Sandler,Overweight,Neutral,up,CVX
+2021-01-11,Morgan Stanley,Overweight,,main,CVX
+2021-01-14,HSBC,Buy,Hold,up,CVX
+2021-02-16,Credit Suisse,Outperform,,main,CVX
+2021-03-08,Credit Suisse,Outperform,,main,CVX
+2021-03-10,ScotiaBank,Sector Perform,Outperform,down,CVX
+2021-03-11,Morgan Stanley,Overweight,,main,CVX
+2021-03-11,DZ Bank,Buy,Hold,up,CVX
+2021-03-17,Evercore ISI Group,Outperform,,main,CVX
+2021-03-17,Raymond James,Outperform,,main,CVX
+2021-04-06,Goldman Sachs,Neutral,Buy,down,CVX
+2021-04-14,Raymond James,Outperform,,main,CVX
+2021-05-12,Argus Research,Buy,,main,CVX
+2021-05-12,Wells Fargo,Equal-Weight,,main,CVX
+2021-05-17,Mizuho,Buy,,main,CVX
+2021-06-18,Morgan Stanley,Overweight,,main,CVX
+2021-06-30,Wells Fargo,Equal-Weight,,main,CVX
+2021-07-01,Truist Securities,Buy,,main,CVX
+2021-07-07,Mizuho,Buy,,main,CVX
+2021-07-12,BMO Capital,Outperform,,init,CVX
+2021-07-22,Redburn Partners,Buy,Neutral,up,CVX
+2021-07-22,HSBC,Hold,Buy,down,CVX
+2021-08-02,Raymond James,Outperform,,main,CVX
+2021-08-04,DZ Bank,Hold,Buy,down,CVX
+2021-08-25,RBC Capital,Sector Perform,,main,CVX
+2021-09-15,Wells Fargo,Equal-Weight,,main,CVX
+2021-09-15,JP Morgan,Neutral,Overweight,down,CVX
+2021-10-07,Truist Securities,Buy,,main,CVX
+2021-10-20,Raymond James,Outperform,,main,CVX
+2021-11-01,Wells Fargo,Equal-Weight,,main,CVX
+2021-11-01,Raymond James,Outperform,,main,CVX
+2021-11-15,UBS,Buy,Neutral,up,CVX
+2021-11-19,Morgan Stanley,Overweight,,main,CVX
+2021-11-24,RBC Capital,Outperform,Sector Perform,up,CVX
+2022-01-05,Wells Fargo,Overweight,Equal-Weight,up,CVX
+2022-01-18,Goldman Sachs,Neutral,,main,CVX
+2022-01-18,Raymond James,Outperform,,main,CVX

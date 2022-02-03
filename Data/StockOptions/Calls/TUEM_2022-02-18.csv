@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TUEM220218C00002500,2022-01-05 20:35:27+00:00,2.5,0.1,0.05,0.2,-0.15,-60.000004,18,125,1.765626171875,False,REGULAR,USD,TUEM

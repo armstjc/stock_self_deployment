@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-06,Wells Fargo,Market Perform,,down,MMLP
+2013-07-03,Bank of America,Neutral,,init,MMLP
+2013-08-15,Raymond James,Outperform,Market Perform,up,MMLP
+2014-01-03,Bank of America,Buy,Neutral,up,MMLP
+2014-03-17,UBS,Buy,,up,MMLP
+2014-08-01,Raymond James,Outperform,,main,MMLP
+2015-10-27,FBR Capital,Outperform,,main,MMLP
+2016-02-17,Bank of America,Underperform,Buy,down,MMLP
+2016-03-03,Stephens & Co.,Overweight,Equal-Weight,up,MMLP
+2016-07-29,UBS,Buy,,main,MMLP
+2016-09-09,FBR Capital,Outperform,,init,MMLP
+2016-09-16,Janney Capital,Neutral,,init,MMLP
+2016-12-06,Stifel Nicolaus,Buy,Hold,up,MMLP
+2017-04-28,Stifel Nicolaus,Hold,Buy,down,MMLP
+2017-10-27,Stifel Nicolaus,Hold,,main,MMLP
+2018-02-27,Stifel Nicolaus,Hold,Hold,main,MMLP
+2018-03-08,Baird,Neutral,,main,MMLP
+2018-04-27,Stifel Nicolaus,Hold,Hold,main,MMLP
+2018-10-26,Raymond James,Outperform,Outperform,main,MMLP
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,MMLP
+2020-04-24,Stifel,Hold,,main,MMLP
+2020-07-22,Wells Fargo,Underweight,,main,MMLP
+2020-07-29,Stifel,Hold,,main,MMLP

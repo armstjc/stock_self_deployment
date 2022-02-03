@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-20,Piper Sandler,Neutral,,init,MCW
+2021-07-20,Jefferies,Buy,,init,MCW
+2021-07-20,Goldman Sachs,Neutral,,init,MCW
+2021-07-20,BMO Capital,Outperform,,init,MCW
+2021-07-20,B of A Securities,Neutral,,init,MCW
+2021-07-20,Morgan Stanley,Equal-Weight,,init,MCW
+2021-07-20,Wolfe Research,Outperform,,init,MCW
+2021-07-20,UBS,Neutral,,init,MCW
+2021-08-13,Morgan Stanley,Equal-Weight,,main,MCW
+2021-08-17,Morgan Stanley,Equal-Weight,,main,MCW
+2021-09-17,B of A Securities,Buy,Neutral,up,MCW

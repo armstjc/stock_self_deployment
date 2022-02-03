@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-11-03,Barclays,Overweight,,init,ICL
+2015-03-23,Barclays,Equal-Weight,Overweight,down,ICL
+2020-01-16,Barclays,Equal-Weight,,init,ICL
+2020-11-23,Stephens & Co.,Equal-Weight,Overweight,down,ICL
+2020-12-14,Morgan Stanley,Equal-Weight,,main,ICL
+2021-02-16,Morgan Stanley,Equal-Weight,,main,ICL
+2021-05-10,BMO Capital,Market Perform,,main,ICL
+2021-05-10,Morgan Stanley,Equal-Weight,,main,ICL
+2021-12-06,Morgan Stanley,Equal-Weight,,main,ICL

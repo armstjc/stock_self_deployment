@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TLMD220819C00002500,2022-01-05 20:36:30+00:00,2.5,0.15,0.0,0.2,-0.049999997,-24.999998,3,24,1.703126484375,False,REGULAR,USD,TLMD
+TLMD220819C00005000,2022-01-04 16:10:12+00:00,5.0,0.1,0.1,0.15,0.0,0.0,3,8,2.2656293359374997,False,REGULAR,USD,TLMD

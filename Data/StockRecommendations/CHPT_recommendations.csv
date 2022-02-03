@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-03,Oppenheimer,Outperform,,init,CHPT
+2021-03-09,Cowen & Co.,Outperform,,init,CHPT
+2021-03-25,Citigroup,Neutral,,init,CHPT
+2021-06-21,Needham,Buy,,init,CHPT
+2021-06-22,Jefferies,Buy,,init,CHPT
+2021-07-29,DA Davidson,Buy,,init,CHPT
+2021-08-02,Goldman Sachs,Neutral,,init,CHPT
+2021-09-02,Needham,Buy,,main,CHPT
+2021-10-19,Stifel,Buy,,init,CHPT
+2021-11-12,Piper Sandler,Neutral,,init,CHPT
+2021-11-15,JP Morgan,Neutral,,init,CHPT
+2021-11-15,Evercore ISI Group,Outperform,,init,CHPT
+2021-11-24,Capital One,Equal-Weight,,init,CHPT
+2022-01-10,Goldman Sachs,Neutral,,main,CHPT

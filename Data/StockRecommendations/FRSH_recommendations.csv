@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-10-18,Piper Sandler,Overweight,,init,FRSH
+2021-10-18,Oppenheimer,Outperform,,init,FRSH
+2021-10-18,Barclays,Equal-Weight,,init,FRSH
+2021-10-18,JP Morgan,Overweight,,init,FRSH
+2021-10-18,Needham,Buy,,init,FRSH
+2021-10-18,JMP Securities,Market Outperform,,init,FRSH
+2021-10-18,Raymond James,Market Perform,,init,FRSH
+2021-10-18,Canaccord Genuity,Buy,,init,FRSH
+2021-10-18,Wolfe Research,Outperform,,init,FRSH
+2021-10-18,Morgan Stanley,Equal-Weight,,init,FRSH
+2021-10-18,B of A Securities,Neutral,,init,FRSH
+2021-11-03,Piper Sandler,Overweight,,main,FRSH
+2021-11-03,Needham,Buy,,main,FRSH
+2021-11-03,Barclays,Equal-Weight,,main,FRSH
+2022-01-12,Piper Sandler,Overweight,,main,FRSH

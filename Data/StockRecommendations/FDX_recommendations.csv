@@ -1,0 +1,293 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-19,Citigroup,Buy,,main,FDX
+2012-03-22,Bank of America,Buy,,main,FDX
+2012-03-23,Deutsche Bank,Buy,,main,FDX
+2012-03-23,Jefferies,Hold,,main,FDX
+2012-06-05,Citigroup,Buy,,main,FDX
+2012-07-17,Deutsche Bank,Buy,,main,FDX
+2012-08-10,Avondale Partners,Market Perform,Market Outperform,down,FDX
+2012-09-05,Wells Fargo,Market Perform,Outperform,down,FDX
+2012-09-05,Stifel Nicolaus,Buy,,main,FDX
+2012-09-05,Citigroup,Buy,,main,FDX
+2012-09-05,Barclays,Overweight,,main,FDX
+2012-09-05,UBS,Buy,,main,FDX
+2012-09-05,Bank of America,Buy,,main,FDX
+2012-09-18,Dahlman Rose,Buy,,main,FDX
+2012-09-19,Barclays,Overweight,,main,FDX
+2012-09-19,Bank of America,Buy,,main,FDX
+2012-09-19,Goldman Sachs,Buy,,main,FDX
+2012-09-19,Jefferies,Hold,,main,FDX
+2012-10-10,Bank of America,Buy,,main,FDX
+2012-10-11,Bank of America,Buy,,main,FDX
+2012-10-11,Citigroup,Buy,,main,FDX
+2012-10-11,JP Morgan,Overweight,,main,FDX
+2012-10-11,Stifel Nicolaus,Buy,,main,FDX
+2012-12-12,Raymond James,Outperform,Strong Buy,down,FDX
+2012-12-20,Goldman Sachs,Buy,,main,FDX
+2012-12-20,Jefferies,Hold,,main,FDX
+2013-01-07,Barclays,Overweight,,main,FDX
+2013-01-14,Deutsche Bank,Buy,,main,FDX
+2013-01-23,Standpoint,Hold,Buy,down,FDX
+2013-02-27,BB&T Capital,Hold,Buy,down,FDX
+2013-03-01,Macquarie,Outperform,,init,FDX
+2013-03-05,Oppenheimer,Outperform,,init,FDX
+2013-03-21,UBS,Buy,,main,FDX
+2013-03-21,JP Morgan,Overweight,,main,FDX
+2013-03-21,Deutsche Bank,Buy,,main,FDX
+2013-03-21,Jefferies,Hold,,main,FDX
+2013-04-10,Deutsche Bank,Buy,,main,FDX
+2013-04-18,RBC Capital,Underperform,Sector Perform,down,FDX
+2013-04-22,Deutsche Bank,Buy,,main,FDX
+2013-05-17,JP Morgan,Overweight,,main,FDX
+2013-05-21,Deutsche Bank,Buy,Buy,main,FDX
+2013-05-21,Deutsche Bank,Buy,,main,FDX
+2013-06-04,Bank of America,Buy,,main,FDX
+2013-06-20,Jefferies,Hold,,main,FDX
+2013-06-20,JP Morgan,Neutral,Overweight,down,FDX
+2013-06-21,Standpoint Research,Buy,Hold,up,FDX
+2013-07-11,Buckingham Research,Buy,,main,FDX
+2013-07-12,Wunderlich,Buy,,init,FDX
+2013-08-01,Standpoint Research,Hold,Buy,down,FDX
+2013-09-19,Goldman Sachs,Neutral,Buy,down,FDX
+2013-09-19,Deutsche Bank,Buy,,main,FDX
+2013-09-23,Stifel Nicolaus,Hold,Buy,down,FDX
+2013-10-16,Buckingham Research,Neutral,Buy,down,FDX
+2013-10-22,JP Morgan,Overweight,Neutral,up,FDX
+2013-11-12,Cowen & Co.,Market Perform,Outperform,down,FDX
+2013-11-25,Barclays,Overweight,,main,FDX
+2013-11-27,PiperJaffray,Buy,,main,FDX
+2013-11-27,PiperJaffray,Buy,,main,FDX
+2013-12-16,Deutsche Bank,Buy,,main,FDX
+2013-12-17,Credit Suisse,Neutral,,main,FDX
+2013-12-19,Nomura,Neutral,,main,FDX
+2013-12-19,Deutsche Bank,Buy,,main,FDX
+2013-12-26,Argus,Buy,,main,FDX
+2014-01-14,Susquehanna,Neutral,,init,FDX
+2014-03-20,Deutsche Bank,Buy,,main,FDX
+2014-03-20,Avondale Partners,Market Outperform,Market Perform,up,FDX
+2014-05-08,Barclays,Equal-Weight,Overweight,down,FDX
+2014-06-19,Oppenheimer,Outperform,,main,FDX
+2014-06-19,Macquarie,Outperform,,main,FDX
+2014-06-19,RBC Capital,Sector Perform,Underperform,up,FDX
+2014-06-20,Barclays,Equal-Weight,,main,FDX
+2014-09-15,Oppenheimer,Outperform,,main,FDX
+2014-09-16,Credit Suisse,Neutral,,main,FDX
+2014-09-18,Citigroup,Buy,,main,FDX
+2014-09-18,Credit Suisse,Neutral,,main,FDX
+2014-09-18,Macquarie,Outperform,,main,FDX
+2014-09-18,Wolfe Research,Outperform,Peer Perform,up,FDX
+2014-09-18,Deutsche Bank,Buy,,main,FDX
+2014-09-29,Cowen & Co.,Outperform,Market Perform,up,FDX
+2014-09-30,Citigroup,Buy,,main,FDX
+2014-12-04,Oppenheimer,Outperform,,main,FDX
+2014-12-08,Barclays,Equal-Weight,,main,FDX
+2014-12-11,UBS,Neutral,,init,FDX
+2014-12-16,Credit Suisse,Neutral,,main,FDX
+2014-12-18,Credit Suisse,Neutral,,main,FDX
+2014-12-18,Goldman Sachs,Buy,Neutral,up,FDX
+2014-12-18,Morgan Stanley,Equal-Weight,,main,FDX
+2015-01-06,UBS,Buy,Neutral,up,FDX
+2015-02-27,Credit Suisse,Outperform,Neutral,up,FDX
+2015-03-16,Deutsche Bank,Buy,,main,FDX
+2015-03-19,Deutsche Bank,Buy,,main,FDX
+2015-03-19,Citigroup,Buy,,main,FDX
+2015-04-09,Citigroup,Buy,,main,FDX
+2015-06-10,RBC Capital,Sector Perform,,main,FDX
+2015-06-11,Credit Suisse,Outperform,,main,FDX
+2015-06-11,RBC Capital,Sector Perform,,main,FDX
+2015-06-15,Deutsche Bank,Buy,,main,FDX
+2015-06-22,Argus,Buy,,main,FDX
+2015-06-24,Susquehanna,Neutral,,main,FDX
+2015-09-02,Keefe Bruyette & Woods,Market Perform,,main,FDX
+2015-09-02,Deutsche Bank,Buy,,main,FDX
+2015-09-17,Oppenheimer,Outperform,,main,FDX
+2015-09-17,Deutsche Bank,Buy,,main,FDX
+2015-09-17,Buckingham Research,Neutral,,main,FDX
+2015-09-17,UBS,Buy,,main,FDX
+2015-09-18,Susquehanna,Neutral,,main,FDX
+2015-10-06,Stifel Nicolaus,Buy,Hold,up,FDX
+2015-11-02,Barclays,Equal-Weight,,main,FDX
+2015-11-30,Wolfe Research,Peer Perform,Outperform,down,FDX
+2015-12-14,Credit Suisse,Outperform,,main,FDX
+2016-01-11,Deutsche Bank,Buy,,main,FDX
+2016-01-20,Standpoint Research,Buy,Hold,up,FDX
+2016-02-02,Deutsche Bank,Buy,,main,FDX
+2016-02-22,Stifel Nicolaus,Buy,,main,FDX
+2016-03-15,Credit Suisse,Outperform,,main,FDX
+2016-03-17,Standpoint Research,Hold,Buy,down,FDX
+2016-03-17,UBS,Buy,,main,FDX
+2016-03-17,Nomura,Neutral,,main,FDX
+2016-03-17,Citigroup,Buy,,main,FDX
+2016-03-17,Credit Suisse,Outperform,,main,FDX
+2016-03-17,Stifel Nicolaus,Buy,,main,FDX
+2016-03-17,Avondale Partners,Market Outperform,,main,FDX
+2016-05-04,Barclays,Overweight,Equal-Weight,up,FDX
+2016-05-19,Citigroup,Buy,,main,FDX
+2016-06-02,Stifel Nicolaus,Buy,,main,FDX
+2016-09-21,Oppenheimer,Outperform,,main,FDX
+2016-11-01,Deutsche Bank,Buy,,init,FDX
+2016-11-15,Stifel Nicolaus,Hold,Buy,down,FDX
+2016-11-18,BMO Capital,Market Perform,,init,FDX
+2016-12-13,JP Morgan,Overweight,,init,FDX
+2016-12-23,Aegis Capital,Buy,,init,FDX
+2017-02-06,Raymond James,Outperform,Market Perform,up,FDX
+2017-03-06,BMO Capital,Outperform,Market Perform,up,FDX
+2017-04-07,Loop Capital,Buy,,init,FDX
+2017-09-15,Credit Suisse,Outperform,,main,FDX
+2017-09-15,UBS,Neutral,Buy,down,FDX
+2017-09-20,Loop Capital,Buy,,main,FDX
+2017-09-21,Wells Fargo,Outperform,,main,FDX
+2017-10-10,KeyBanc,Overweight,,init,FDX
+2017-10-12,JP Morgan,Overweight,,main,FDX
+2017-11-13,Goldman Sachs,Buy,,init,FDX
+2017-11-30,Barclays,Overweight,Overweight,main,FDX
+2018-01-05,UBS,Buy,Neutral,up,FDX
+2018-02-23,Bernstein,Outperform,Market Perform,up,FDX
+2018-03-15,Baird,Outperform,Outperform,main,FDX
+2018-03-21,Credit Suisse,Outperform,Outperform,main,FDX
+2018-03-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2018-03-21,Stifel Nicolaus,Buy,Hold,up,FDX
+2018-03-21,KeyBanc,Overweight,Overweight,main,FDX
+2018-06-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2018-06-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2018-06-20,Credit Suisse,Outperform,Outperform,main,FDX
+2018-09-18,Bank of America,Buy,Buy,main,FDX
+2018-09-18,Credit Suisse,Outperform,Outperform,main,FDX
+2018-09-18,Baird,Outperform,Outperform,main,FDX
+2018-09-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2018-09-21,Berenberg,Buy,,init,FDX
+2018-11-02,Citigroup,Buy,Buy,main,FDX
+2018-12-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2018-12-10,Bank of America,Neutral,Buy,down,FDX
+2018-12-12,Credit Suisse,Outperform,Outperform,main,FDX
+2018-12-19,Deutsche Bank,Buy,Buy,main,FDX
+2018-12-19,UBS,Neutral,Neutral,main,FDX
+2018-12-19,Baird,Outperform,Outperform,main,FDX
+2018-12-19,Citigroup,Buy,Buy,main,FDX
+2018-12-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2019-01-04,UBS,Neutral,Neutral,main,FDX
+2019-03-18,Raymond James,Outperform,Outperform,main,FDX
+2019-03-20,Bank of America,Neutral,Neutral,reit,FDX
+2019-03-20,JP Morgan,Neutral,Overweight,down,FDX
+2019-03-20,Morgan Stanley,Equal-Weight,Equal-Weight,main,FDX
+2019-03-20,KeyBanc,Overweight,Overweight,main,FDX
+2019-03-21,Wells Fargo,Outperform,Outperform,main,FDX
+2019-03-28,Susquehanna,Neutral,Positive,down,FDX
+2019-04-01,Berenberg,Hold,Buy,down,FDX
+2019-04-26,UBS,Sell,Neutral,down,FDX
+2019-05-31,Morgan Stanley,Equal-Weight,,main,FDX
+2019-05-31,Bank of America,Neutral,,reit,FDX
+2019-05-31,UBS,Sell,,main,FDX
+2019-06-03,UBS,Sell,,main,FDX
+2019-06-12,KeyBanc,Overweight,,main,FDX
+2019-06-20,Raymond James,Outperform,,main,FDX
+2019-06-26,Raymond James,Outperform,,main,FDX
+2019-06-26,JP Morgan,Neutral,,main,FDX
+2019-06-26,Credit Suisse,Outperform,,main,FDX
+2019-06-26,Citigroup,Buy,,main,FDX
+2019-07-10,Goldman Sachs,Buy,,init,FDX
+2019-09-18,KeyBanc,Sector Weight,Overweight,down,FDX
+2019-09-18,Deutsche Bank,Hold,Buy,down,FDX
+2019-09-18,Stifel,Hold,Buy,down,FDX
+2019-09-18,Raymond James,Outperform,,main,FDX
+2019-09-18,BMO Capital,Market Perform,Outperform,down,FDX
+2019-09-18,Credit Suisse,Outperform,,main,FDX
+2019-09-18,UBS,Sell,,main,FDX
+2019-09-18,Morgan Stanley,Equal-Weight,,main,FDX
+2019-09-18,Baird,Outperform,,main,FDX
+2019-09-18,JP Morgan,Neutral,,main,FDX
+2019-10-09,Bernstein,Market Perform,Outperform,down,FDX
+2019-10-11,Berenberg,Hold,,main,FDX
+2019-10-29,Wells Fargo,Outperform,,init,FDX
+2019-12-12,Morgan Stanley,Equal-Weight,,main,FDX
+2019-12-12,UBS,Neutral,Sell,up,FDX
+2019-12-18,Credit Suisse,Outperform,,main,FDX
+2019-12-18,Oppenheimer,Perform,Outperform,down,FDX
+2019-12-18,Wells Fargo,Overweight,,main,FDX
+2019-12-18,Morgan Stanley,Equal-Weight,,main,FDX
+2019-12-18,BMO Capital,Market Perform,,main,FDX
+2019-12-18,JP Morgan,Neutral,,main,FDX
+2019-12-18,Raymond James,Outperform,,main,FDX
+2019-12-18,Bank of America,Neutral,,reit,FDX
+2019-12-24,Argus Research,Hold,Buy,down,FDX
+2020-02-10,B of A Securities,Neutral,,main,FDX
+2020-02-10,UBS,Buy,Neutral,up,FDX
+2020-03-04,Credit Suisse,Outperform,,main,FDX
+2020-03-10,Stifel,Hold,,main,FDX
+2020-03-16,UBS,Buy,,main,FDX
+2020-03-16,Wells Fargo,Overweight,,main,FDX
+2020-03-16,Stephens & Co.,Overweight,,main,FDX
+2020-03-18,Stephens & Co.,Overweight,,main,FDX
+2020-03-18,Citigroup,Buy,,main,FDX
+2020-03-18,Credit Suisse,Outperform,,main,FDX
+2020-03-18,Morgan Stanley,Equal-Weight,,main,FDX
+2020-03-18,Raymond James,Outperform,,main,FDX
+2020-03-18,UBS,Buy,,main,FDX
+2020-04-08,Wells Fargo,Overweight,,main,FDX
+2020-04-17,Barclays,Equal-Weight,Overweight,down,FDX
+2020-05-11,Deutsche Bank,Hold,,main,FDX
+2020-06-01,Morgan Stanley,Equal-Weight,,main,FDX
+2020-06-18,Citigroup,Buy,,main,FDX
+2020-06-19,Credit Suisse,Outperform,,main,FDX
+2020-06-22,BMO Capital,Market Perform,,main,FDX
+2020-06-24,UBS,Buy,,main,FDX
+2020-07-01,UBS,Buy,,main,FDX
+2020-07-01,Wells Fargo,Overweight,,main,FDX
+2020-07-01,Credit Suisse,Outperform,,main,FDX
+2020-07-01,Morgan Stanley,Equal-Weight,,main,FDX
+2020-07-01,Raymond James,Outperform,,reit,FDX
+2020-07-01,JP Morgan,Overweight,Neutral,up,FDX
+2020-08-10,Bernstein,Outperform,Market Perform,up,FDX
+2020-08-13,Citigroup,Buy,,main,FDX
+2020-09-03,Berenberg,Buy,Hold,up,FDX
+2020-09-09,JP Morgan,Overweight,,main,FDX
+2020-09-09,Evercore ISI Group,Outperform,,init,FDX
+2020-09-10,Citigroup,Buy,,main,FDX
+2020-09-10,Stephens & Co.,Overweight,,main,FDX
+2020-09-14,Credit Suisse,Outperform,,main,FDX
+2020-09-14,Morgan Stanley,Equal-Weight,,main,FDX
+2020-09-16,UBS,Buy,,main,FDX
+2020-09-16,Credit Suisse,Outperform,,main,FDX
+2020-09-16,Morgan Stanley,Equal-Weight,,main,FDX
+2020-09-16,Raymond James,Outperform,,main,FDX
+2020-09-16,Wells Fargo,Overweight,,main,FDX
+2020-09-16,BMO Capital,Market Perform,,main,FDX
+2020-09-24,Stifel,Buy,Hold,up,FDX
+2020-09-28,Deutsche Bank,Buy,Hold,up,FDX
+2020-12-01,Barclays,Overweight,Equal-Weight,up,FDX
+2020-12-14,Credit Suisse,Outperform,,main,FDX
+2021-03-12,Credit Suisse,Outperform,,main,FDX
+2021-03-19,Raymond James,Outperform,,main,FDX
+2021-03-19,Goldman Sachs,Buy,,main,FDX
+2021-03-26,Vertical Research,Buy,,init,FDX
+2021-04-13,Keybanc,Overweight,Sector Weight,up,FDX
+2021-04-27,Berenberg,Buy,,main,FDX
+2021-05-03,Wolfe Research,Outperform,Peer Perform,up,FDX
+2021-05-20,Wells Fargo,Overweight,,main,FDX
+2021-05-26,Keybanc,Overweight,,main,FDX
+2021-06-03,Morgan Stanley,Equal-Weight,,main,FDX
+2021-06-04,Raymond James,Outperform,,main,FDX
+2021-06-16,Stephens & Co.,Overweight,,main,FDX
+2021-06-18,Credit Suisse,Outperform,,main,FDX
+2021-06-23,Barclays,Overweight,,main,FDX
+2021-06-25,Credit Suisse,Outperform,,main,FDX
+2021-06-25,Stifel,Buy,,main,FDX
+2021-06-25,BMO Capital,Market Perform,,main,FDX
+2021-06-25,Morgan Stanley,Equal-Weight,,main,FDX
+2021-06-28,Deutsche Bank,Buy,,main,FDX
+2021-06-29,Argus Research,Buy,,main,FDX
+2021-09-09,JP Morgan,Overweight,,main,FDX
+2021-09-13,Keybanc,Overweight,,main,FDX
+2021-09-17,UBS,Buy,,main,FDX
+2021-09-22,Morgan Stanley,Equal-Weight,,main,FDX
+2021-09-22,Wells Fargo,Overweight,,main,FDX
+2021-09-22,Barclays,Overweight,,main,FDX
+2021-09-22,Raymond James,Market Perform,Outperform,down,FDX
+2021-09-22,Keybanc,Overweight,,main,FDX
+2021-09-23,Stifel,Buy,,main,FDX
+2021-09-23,Deutsche Bank,Buy,,main,FDX
+2021-10-06,Cowen & Co.,Outperform,,main,FDX
+2021-12-17,JP Morgan,Overweight,,main,FDX
+2021-12-17,Deutsche Bank,Buy,,main,FDX
+2021-12-17,Morgan Stanley,Equal-Weight,,main,FDX
+2021-12-17,Stephens & Co.,Overweight,,main,FDX

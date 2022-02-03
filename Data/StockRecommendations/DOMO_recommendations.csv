@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-07-13,Susquehanna,Positive,,init,DOMO
+2018-07-24,JMP Securities,Market Outperform,,init,DOMO
+2018-07-24,UBS,Neutral,,init,DOMO
+2018-07-24,Credit Suisse,Outperform,,init,DOMO
+2018-07-24,William Blair,Outperform,,init,DOMO
+2018-07-24,Morgan Stanley,Overweight,,init,DOMO
+2018-07-24,Cowen & Co.,Outperform,,init,DOMO
+2018-09-07,JMP Securities,Market Outperform,Market Outperform,main,DOMO
+2018-09-07,Morgan Stanley,Overweight,Overweight,main,DOMO
+2018-09-07,Credit Suisse,Outperform,Outperform,main,DOMO
+2019-01-14,Needham,Buy,,init,DOMO
+2019-03-07,Morgan Stanley,Overweight,Overweight,main,DOMO
+2019-04-02,Credit Suisse,Outperform,Outperform,main,DOMO
+2019-09-06,JMP Securities,Market Outperform,,main,DOMO
+2019-09-06,Credit Suisse,Neutral,Outperform,down,DOMO
+2019-09-09,UBS,Neutral,,main,DOMO
+2019-09-10,UBS,Neutral,,main,DOMO
+2019-12-06,Morgan Stanley,Overweight,,main,DOMO
+2019-12-06,Cowen & Co.,Outperform,,reit,DOMO
+2020-03-10,Needham,Buy,,main,DOMO
+2020-03-11,UBS,Neutral,,main,DOMO
+2020-03-11,Credit Suisse,Neutral,,main,DOMO
+2020-03-11,Cowen & Co.,Outperform,,main,DOMO
+2020-03-19,Cowen & Co.,Outperform,,main,DOMO
+2020-03-19,Credit Suisse,Neutral,,main,DOMO
+2020-03-25,Morgan Stanley,Overweight,,main,DOMO
+2020-04-13,Needham,Buy,,main,DOMO
+2020-05-21,Needham,Buy,,main,DOMO
+2020-06-05,Credit Suisse,Neutral,,main,DOMO
+2020-06-05,Cowen & Co.,Outperform,,main,DOMO
+2020-06-05,Needham,Buy,,main,DOMO
+2020-06-05,UBS,Neutral,,main,DOMO
+2020-06-19,Credit Suisse,Neutral,,main,DOMO
+2020-06-22,Morgan Stanley,Equal-Weight,Overweight,down,DOMO
+2020-09-01,Needham,Buy,,main,DOMO
+2020-09-04,Needham,Buy,,main,DOMO
+2020-09-04,UBS,Neutral,,main,DOMO
+2020-09-04,Credit Suisse,Neutral,,main,DOMO
+2020-09-04,Morgan Stanley,Equal-Weight,,main,DOMO
+2020-12-04,Needham,Buy,,main,DOMO
+2020-12-04,Credit Suisse,Neutral,,main,DOMO
+2020-12-17,Morgan Stanley,Overweight,Equal-Weight,up,DOMO
+2021-01-15,Credit Suisse,Neutral,,main,DOMO
+2021-01-19,Needham,Buy,,main,DOMO
+2021-03-04,JMP Securities,Outperform,,main,DOMO
+2021-03-12,Needham,Buy,,main,DOMO
+2021-03-12,Morgan Stanley,Overweight,,main,DOMO
+2021-03-12,JMP Securities,Outperform,,main,DOMO
+2021-03-15,UBS,Buy,Neutral,up,DOMO
+2021-03-26,Morgan Stanley,Overweight,,main,DOMO
+2021-05-28,Needham,Buy,,main,DOMO
+2021-06-23,Cowen & Co.,Outperform,,main,DOMO
+2021-08-24,Morgan Stanley,Overweight,,main,DOMO
+2021-08-27,Needham,Buy,,main,DOMO
+2021-08-27,Morgan Stanley,Overweight,,main,DOMO
+2021-08-27,Cowen & Co.,Outperform,,main,DOMO
+2021-12-03,Cowen & Co.,Outperform,,main,DOMO

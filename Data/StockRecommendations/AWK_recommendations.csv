@@ -1,0 +1,87 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Brean Capital,Buy,,main,AWK
+2012-08-03,Ladenburg Thalmann,Buy,,main,AWK
+2012-08-03,Barclays,Overweight,,main,AWK
+2012-08-03,Brean Capital,Buy,,main,AWK
+2012-08-03,Hilliard Lyons,Buy,,main,AWK
+2012-08-06,Baird,Outperform,,up,AWK
+2012-08-07,Bank of America,Buy,,main,AWK
+2012-08-31,Citigroup,Buy,,main,AWK
+2012-09-20,Goldman Sachs,Buy,Neutral,up,AWK
+2012-11-09,Barclays,Overweight,,main,AWK
+2013-03-07,Citigroup,Neutral,Buy,down,AWK
+2013-05-09,Wells Fargo,Outperform,Market Perform,up,AWK
+2013-05-10,Citigroup,Buy,Neutral,up,AWK
+2013-06-12,HSBC,Overweight,Neutral,up,AWK
+2013-09-12,Ladenburg Thalmann,Buy,,init,AWK
+2013-12-18,Bank of America,Buy,,main,AWK
+2014-07-11,Hilliard Lyons,Long-Term Buy,Buy,down,AWK
+2014-07-23,Citigroup,Buy,,main,AWK
+2014-08-08,Credit Suisse,Neutral,,main,AWK
+2014-09-02,Wells Fargo,Market Perform,Outperform,down,AWK
+2014-10-20,Maxim Group,Outperform,,main,AWK
+2014-10-20,Macquarie,Outperform,,main,AWK
+2014-11-07,Brean Capital,Buy,,main,AWK
+2014-12-01,Baird,Neutral,Outperform,down,AWK
+2015-03-25,Janney Capital,Buy,,init,AWK
+2015-06-29,Goldman Sachs,Neutral,,init,AWK
+2015-10-15,Ladenburg Thalmann,Neutral,Buy,down,AWK
+2016-01-04,Barclays,Overweight,,main,AWK
+2016-02-26,Janney Capital,Neutral,Buy,down,AWK
+2016-03-02,Baird,Neutral,Outperform,down,AWK
+2016-06-06,Boenning & Scattergood,Neutral,Outperform,down,AWK
+2016-06-24,Argus,Buy,,init,AWK
+2016-07-06,Bank of America,Neutral,Buy,down,AWK
+2016-09-06,Barclays,Overweight,,main,AWK
+2016-10-14,Baird,Outperform,,init,AWK
+2016-11-09,Bank of America,Buy,Neutral,up,AWK
+2016-12-20,Janney Capital,Buy,Neutral,up,AWK
+2017-03-15,HSBC,Hold,Buy,down,AWK
+2017-04-26,Baird,Neutral,Outperform,down,AWK
+2017-11-03,Janney Capital,Neutral,Buy,down,AWK
+2017-11-03,Baird,Neutral,,main,AWK
+2018-01-02,Guggenheim,Neutral,Buy,down,AWK
+2018-01-11,Bank of America,Neutral,Buy,down,AWK
+2018-02-22,Baird,Neutral,Neutral,main,AWK
+2018-02-22,Bank of America,Neutral,Neutral,main,AWK
+2018-02-26,Wells Fargo,Outperform,Market Perform,up,AWK
+2018-02-26,Wells Fargo,Outperform,Outperform,main,AWK
+2018-03-08,UBS,Buy,,init,AWK
+2018-03-23,HSBC,Buy,Hold,up,AWK
+2018-03-23,UBS,Buy,Buy,main,AWK
+2018-04-16,Janney Capital,Buy,Neutral,up,AWK
+2018-09-17,Evercore ISI Group,Outperform,,init,AWK
+2018-12-06,Baird,Outperform,Neutral,up,AWK
+2018-12-12,Wells Fargo,Outperform,Outperform,main,AWK
+2018-12-12,Baird,Outperform,Outperform,main,AWK
+2019-02-21,Wells Fargo,Outperform,Outperform,main,AWK
+2019-02-21,Bank of America,Neutral,Neutral,reit,AWK
+2019-03-27,Wells Fargo,Market Perform,Outperform,down,AWK
+2019-07-15,Bank of America,Underperform,Neutral,down,AWK
+2019-08-14,Wells Fargo,Market Perform,,main,AWK
+2019-10-02,Baird,Outperform,,main,AWK
+2019-11-15,JP Morgan,Neutral,,init,AWK
+2019-12-12,JP Morgan,Neutral,,main,AWK
+2020-02-04,UBS,Neutral,Buy,down,AWK
+2020-02-20,Wells Fargo,Equal-Weight,,main,AWK
+2020-02-20,Baird,Outperform,,main,AWK
+2020-03-16,UBS,Neutral,,main,AWK
+2020-04-16,Goldman Sachs,Buy,Neutral,up,AWK
+2020-04-24,RBC Capital,Outperform,,init,AWK
+2020-05-07,CFRA,Sell,,main,AWK
+2020-06-05,UBS,Neutral,,main,AWK
+2020-07-15,Barclays,Equal-Weight,,init,AWK
+2020-08-28,HSBC,Hold,Buy,down,AWK
+2020-10-13,Janney Capital,Neutral,Buy,down,AWK
+2021-01-07,Atlantic Equities,Overweight,,init,AWK
+2021-01-22,Barclays,Equal-Weight,,main,AWK
+2021-05-12,Argus Research,Hold,Buy,down,AWK
+2021-05-25,Barclays,Equal-Weight,,main,AWK
+2021-07-15,Barclays,Equal-Weight,,main,AWK
+2021-08-04,Janney Montgomery Scott,Neutral,Buy,down,AWK
+2021-08-06,Argus Research,Buy,Hold,up,AWK
+2021-09-01,HSBC,Hold,Buy,down,AWK
+2021-09-27,B of A Securities,Underperform,Neutral,down,AWK
+2021-11-04,Goldman Sachs,Neutral,Buy,down,AWK
+2021-12-01,Wells Fargo,Underweight,Equal-Weight,down,AWK
+2021-12-08,Barclays,Equal-Weight,,main,AWK

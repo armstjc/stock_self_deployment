@@ -1,27 +1,27 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-08-13 07:50:00,Wedbush,Neutral,Outperform,down,ACIW
-2013-02-05 10:43:44,Raymond James,Market Perform,Outperform,down,ACIW
-2014-05-05 16:00:00,Raymond James,Underperform,Market Perform,down,ACIW
-2014-07-16 10:30:00,BMO Capital,Outperform,,init,ACIW
-2014-08-01 11:03:57,Stephens & Co.,Overweight,Equal-Weight,up,ACIW
-2014-09-16 17:48:08,Sterne Agee,Neutral,,init,ACIW
-2015-01-14 00:00:00,Avondale Partners,Outperform,,init,ACIW
-2015-06-04 10:07:57,Sidoti & Co.,Neutral,Buy,down,ACIW
-2015-07-06 07:26:37,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
-2015-12-10 16:21:31,Credit Suisse,Neutral,,init,ACIW
-2016-02-26 03:59:23,Avondale Partners,Market Outperform,,main,ACIW
-2016-06-15 07:32:18,Monness Crespi Hardt,Buy,,init,ACIW
-2017-08-31 11:33:12,DA Davidson,Buy,,init,ACIW
-2018-09-12 12:44:12,Credit Suisse,Neutral,Neutral,main,ACIW
-2019-01-03 14:02:54,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
-2019-03-08 12:18:17,Stephens & Co.,Overweight,Equal-Weight,up,ACIW
-2019-09-12 10:03:26,BTIG,Buy,,init,ACIW
-2019-11-20 15:44:27,Stephens & Co.,Overweight,,main,ACIW
-2019-12-19 16:23:01,Canaccord Genuity,Buy,,init,ACIW
-2020-02-18 15:17:41,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
-2020-05-29 09:37:52,Needham,Buy,,init,ACIW
-2020-09-10 15:17:51,Needham,Buy,,main,ACIW
-2020-09-11 11:41:31,BTIG,Buy,,main,ACIW
-2020-09-17 09:22:32,Compass Point,Buy,,init,ACIW
-2020-11-11 11:38:58,Needham,Buy,,main,ACIW
-2021-01-29 10:19:52,Needham,Buy,,main,ACIW
+2012-08-13,Wedbush,Neutral,Outperform,down,ACIW
+2013-02-05,Raymond James,Market Perform,Outperform,down,ACIW
+2014-05-05,Raymond James,Underperform,Market Perform,down,ACIW
+2014-07-16,BMO Capital,Outperform,,init,ACIW
+2014-08-01,Stephens & Co.,Overweight,Equal-Weight,up,ACIW
+2014-09-16,Sterne Agee,Neutral,,init,ACIW
+2015-01-14,Avondale Partners,Outperform,,init,ACIW
+2015-06-04,Sidoti & Co.,Neutral,Buy,down,ACIW
+2015-07-06,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
+2015-12-10,Credit Suisse,Neutral,,init,ACIW
+2016-02-26,Avondale Partners,Market Outperform,,main,ACIW
+2016-06-15,Monness Crespi Hardt,Buy,,init,ACIW
+2017-08-31,DA Davidson,Buy,,init,ACIW
+2018-09-12,Credit Suisse,Neutral,Neutral,main,ACIW
+2019-01-03,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
+2019-03-08,Stephens & Co.,Overweight,Equal-Weight,up,ACIW
+2019-09-12,BTIG,Buy,,init,ACIW
+2019-11-20,Stephens & Co.,Overweight,,main,ACIW
+2019-12-19,Canaccord Genuity,Buy,,init,ACIW
+2020-02-18,Stephens & Co.,Equal-Weight,Overweight,down,ACIW
+2020-05-29,Needham,Buy,,init,ACIW
+2020-09-10,Needham,Buy,,main,ACIW
+2020-09-11,BTIG,Buy,,main,ACIW
+2020-09-17,Compass Point,Buy,,init,ACIW
+2020-11-11,Needham,Buy,,main,ACIW
+2021-01-29,Needham,Buy,,main,ACIW

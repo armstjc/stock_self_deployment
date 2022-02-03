@@ -1,0 +1,189 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,UBS,Neutral,,main,KNX
+2012-04-16,Deutsche Bank,Hold,,main,KNX
+2012-05-17,Wunderlich,Buy,,init,KNX
+2012-05-24,Sterne Agee,Neutral,,up,KNX
+2012-06-29,Citigroup,Buy,,main,KNX
+2012-07-16,Stephens & Co.,Equal-Weight,Overweight,down,KNX
+2012-07-26,Wunderlich,Buy,,main,KNX
+2012-08-21,Stifel Nicolaus,Buy,Hold,up,KNX
+2012-09-14,Citigroup,Neutral,Buy,down,KNX
+2012-09-17,JP Morgan,Neutral,,main,KNX
+2012-09-20,Stifel Nicolaus,Buy,,main,KNX
+2012-10-01,Avondale Partners,Market Perform,,down,KNX
+2013-01-07,Barclays,Equal-Weight,,main,KNX
+2013-01-14,Deutsche Bank,Hold,,main,KNX
+2013-01-18,Credit Suisse,Underperform,,main,KNX
+2013-01-24,Bank of America,Buy,Neutral,up,KNX
+2013-01-31,Stifel Nicolaus,Hold,Buy,down,KNX
+2013-02-11,KeyBanc,Buy,Hold,up,KNX
+2013-04-10,Deutsche Bank,Hold,,main,KNX
+2013-04-15,Raymond James,Strong Buy,Market Perform,up,KNX
+2013-05-21,Wolfe Research,Outperform,Peer Perform,up,KNX
+2013-06-06,Longbow Research,Neutral,Buy,down,KNX
+2013-07-03,BB&T Capital,Hold,Buy,down,KNX
+2013-11-15,Wolfe Research,,Outperform,down,KNX
+2013-12-02,JP Morgan,Overweight,Neutral,up,KNX
+2013-12-16,Deutsche Bank,Hold,,main,KNX
+2014-01-09,Citigroup,Buy,Neutral,up,KNX
+2014-02-19,Wunderlich,Hold,Buy,down,KNX
+2014-03-31,Longbow Research,Buy,Neutral,up,KNX
+2014-04-11,Deutsche Bank,Hold,,main,KNX
+2014-04-15,Citigroup,Buy,,main,KNX
+2014-04-22,Deutsche Bank,Hold,,main,KNX
+2014-04-24,Deutsche Bank,Hold,,main,KNX
+2014-06-30,Barclays,Equal-Weight,,main,KNX
+2014-07-24,Deutsche Bank,Hold,,main,KNX
+2014-07-24,Barclays,Equal-Weight,,main,KNX
+2014-09-03,Stephens & Co.,Overweight,Equal-Weight,up,KNX
+2014-10-01,Wells Fargo,Market Perform,,init,KNX
+2014-10-02,Citigroup,Buy,,main,KNX
+2014-10-06,Barclays,Equal-Weight,,main,KNX
+2014-10-07,Wunderlich,Hold,,main,KNX
+2014-10-14,Deutsche Bank,Hold,,main,KNX
+2014-11-24,Bank of America,Buy,,main,KNX
+2014-12-08,Citigroup,Buy,,main,KNX
+2015-01-12,Barclays,Overweight,Equal-Weight,up,KNX
+2015-01-15,Deutsche Bank,Hold,,main,KNX
+2015-01-26,KeyBanc,Hold,Buy,down,KNX
+2015-01-29,Credit Suisse,Neutral,,main,KNX
+2015-02-18,UBS,Buy,,init,KNX
+2015-04-10,Stifel Nicolaus,Buy,Hold,up,KNX
+2015-04-23,Raymond James,Outperform,Strong Buy,down,KNX
+2015-04-23,Citigroup,Buy,,main,KNX
+2015-04-24,Avondale Partners,Outperform,Market Perform,up,KNX
+2015-04-27,Wolfe Research,Underperform,Peer Perform,down,KNX
+2015-05-29,Bank of America,Neutral,Buy,down,KNX
+2015-07-09,Credit Suisse,Outperform,Neutral,up,KNX
+2015-07-16,Barclays,Overweight,,main,KNX
+2015-07-23,Macquarie,Outperform,,main,KNX
+2015-07-23,Baird,Neutral,,main,KNX
+2015-08-28,Raymond James,Strong Buy,Outperform,up,KNX
+2015-09-11,Bank of America,Buy,Neutral,up,KNX
+2015-10-05,Barclays,Overweight,,main,KNX
+2015-10-22,UBS,Sell,Neutral,down,KNX
+2015-12-02,Bank of America,Neutral,Buy,down,KNX
+2015-12-04,Longbow Research,Neutral,Buy,down,KNX
+2015-12-18,Barclays,Overweight,,main,KNX
+2015-12-18,Macquarie,Outperform,,main,KNX
+2015-12-18,Deutsche Bank,Hold,,main,KNX
+2015-12-18,Citigroup,Neutral,Buy,down,KNX
+2016-01-11,Deutsche Bank,Hold,,main,KNX
+2016-01-28,Macquarie,Outperform,,main,KNX
+2016-01-28,Stifel Nicolaus,Buy,,main,KNX
+2016-02-10,Evercore ISI Group,Hold,Buy,down,KNX
+2016-02-22,Bank of America,Buy,Neutral,up,KNX
+2016-02-23,Morgan Stanley,Overweight,Underperform,up,KNX
+2016-02-29,JP Morgan,Underweight,,init,KNX
+2016-03-14,Avondale Partners,Market Perform,Market Outperform,down,KNX
+2016-03-21,Cowen & Co.,Market Perform,Outperform,down,KNX
+2016-04-07,Barclays,Equal-Weight,Overweight,down,KNX
+2016-04-21,Cowen & Co.,Market Perform,,main,KNX
+2016-04-21,Credit Suisse,Outperform,,main,KNX
+2016-04-21,RBC Capital,Sector Perform,,main,KNX
+2016-04-21,Macquarie,Outperform,,main,KNX
+2016-04-21,Raymond James,Outperform,Strong Buy,down,KNX
+2016-04-21,Stifel Nicolaus,Hold,Buy,down,KNX
+2016-06-21,Bank of America,Neutral,Buy,down,KNX
+2016-06-23,Avondale Partners,Market Underperform,Market Perform,down,KNX
+2016-07-07,Credit Suisse,Neutral,Outperform,down,KNX
+2016-07-11,Citigroup,Neutral,,main,KNX
+2016-07-13,Citigroup,Neutral,,main,KNX
+2016-07-28,UBS,Neutral,,main,KNX
+2016-07-28,Macquarie,Neutral,Outperform,down,KNX
+2016-07-29,Deutsche Bank,,,main,KNX
+2016-07-29,Deutsche Bank,Hold,,main,KNX
+2016-09-12,Barclays,Equal-Weight,,main,KNX
+2016-09-16,Citigroup,Neutral,,main,KNX
+2016-11-02,Deutsche Bank,Hold,,init,KNX
+2016-12-16,Stifel Nicolaus,Sell,Hold,down,KNX
+2017-02-10,Stifel Nicolaus,Hold,Sell,up,KNX
+2017-03-24,Barclays,Underweight,Equal-Weight,down,KNX
+2017-04-11,Deutsche Bank,Buy,Hold,up,KNX
+2017-04-17,Baird,Outperform,Neutral,up,KNX
+2017-04-24,UBS,Buy,Neutral,up,KNX
+2017-07-31,Deutsche Bank,Buy,,main,KNX
+2017-08-21,Buckingham,Buy,,init,KNX
+2017-09-29,UBS,Buy,,main,KNX
+2017-10-02,Barclays,Underweight,,main,KNX
+2017-10-12,JP Morgan,Neutral,,init,KNX
+2017-11-07,Credit Suisse,Neutral,,main,KNX
+2017-11-07,UBS,Buy,,main,KNX
+2017-11-14,KeyBanc,Overweight,Sector Weight,up,KNX
+2018-01-31,Credit Suisse,Neutral,Neutral,main,KNX
+2018-01-31,Morgan Stanley,Overweight,Overweight,main,KNX
+2018-01-31,Buckingham,Buy,Buy,main,KNX
+2018-02-01,Barclays,Underweight,Underweight,main,KNX
+2018-02-05,Barclays,Equal-Weight,Underweight,up,KNX
+2018-04-10,Goldman Sachs,Neutral,,init,KNX
+2018-04-26,JP Morgan,Neutral,Neutral,main,KNX
+2018-04-26,UBS,Buy,Buy,main,KNX
+2018-04-26,Credit Suisse,Neutral,Neutral,main,KNX
+2018-05-21,Stifel Nicolaus,Buy,Hold,up,KNX
+2018-07-16,Barclays,Overweight,Equal-Weight,up,KNX
+2018-07-26,Credit Suisse,Neutral,Neutral,main,KNX
+2018-07-26,UBS,Buy,Buy,main,KNX
+2018-07-26,Morgan Stanley,Overweight,Overweight,main,KNX
+2018-07-26,Buckingham,Buy,Buy,main,KNX
+2018-07-26,Stifel Nicolaus,Buy,Buy,main,KNX
+2018-07-26,KeyBanc,Overweight,Overweight,main,KNX
+2018-10-02,Loop Capital,Buy,,init,KNX
+2018-10-12,Buckingham,Buy,Buy,main,KNX
+2018-10-25,Baird,Outperform,Outperform,main,KNX
+2018-10-25,KeyBanc,Overweight,Overweight,main,KNX
+2018-11-08,Goldman Sachs,Buy,Neutral,up,KNX
+2018-12-04,UBS,Neutral,Buy,down,KNX
+2019-07-18,Citigroup,Buy,,main,KNX
+2019-07-25,Stifel Nicolaus,Hold,Buy,down,KNX
+2019-07-25,KeyBanc,Overweight,,main,KNX
+2019-09-05,Susquehanna,Positive,,init,KNX
+2019-10-11,UBS,Buy,Neutral,up,KNX
+2019-12-05,Goldman Sachs,Buy,,init,KNX
+2019-12-20,Bank of America,Buy,,main,KNX
+2019-12-20,KeyBanc,Overweight,,main,KNX
+2020-01-07,Wolfe Research,Outperform,Peer Perform,up,KNX
+2020-01-30,KeyBanc,Overweight,,main,KNX
+2020-03-23,Morgan Stanley,Overweight,,main,KNX
+2020-03-27,KeyBanc,Overweight,,main,KNX
+2020-04-17,Barclays,Overweight,,main,KNX
+2020-04-23,UBS,Buy,,main,KNX
+2020-04-23,Morgan Stanley,Overweight,,main,KNX
+2020-04-23,Credit Suisse,Neutral,,main,KNX
+2020-05-06,KeyBanc,Overweight,,main,KNX
+2020-05-27,KeyBanc,Overweight,,main,KNX
+2020-06-18,Baird,Outperform,,main,KNX
+2020-07-06,Morgan Stanley,Overweight,,main,KNX
+2020-07-07,KeyBanc,Overweight,,main,KNX
+2020-07-08,Citigroup,Buy,,main,KNX
+2020-07-23,Credit Suisse,Neutral,,main,KNX
+2020-07-23,KeyBanc,Overweight,,main,KNX
+2020-07-23,Morgan Stanley,Overweight,,main,KNX
+2020-09-24,Wells Fargo,Overweight,,init,KNX
+2020-10-09,JP Morgan,Underweight,Neutral,down,KNX
+2020-10-15,Stifel,Buy,Hold,up,KNX
+2020-10-22,Wells Fargo,Overweight,,main,KNX
+2020-10-22,Morgan Stanley,Overweight,,main,KNX
+2020-11-24,Citigroup,Neutral,Buy,down,KNX
+2020-12-04,Evercore ISI Group,In-Line,,init,KNX
+2021-03-04,B of A Securities,Buy,Neutral,up,KNX
+2021-03-10,Goldman Sachs,Neutral,Buy,down,KNX
+2021-03-11,UBS,Neutral,Buy,down,KNX
+2021-04-09,Keybanc,Overweight,,main,KNX
+2021-04-12,Susquehanna,Neutral,Positive,down,KNX
+2021-07-07,Keybanc,Overweight,,main,KNX
+2021-07-13,Wells Fargo,Overweight,,main,KNX
+2021-07-22,Deutsche Bank,Buy,,main,KNX
+2021-07-22,Morgan Stanley,Overweight,,main,KNX
+2021-07-22,Stephens & Co.,Overweight,,main,KNX
+2021-07-22,Credit Suisse,Neutral,,main,KNX
+2021-09-10,Raymond James,Outperform,,init,KNX
+2021-09-15,Cowen & Co.,Outperform,Market Perform,up,KNX
+2021-10-14,Wells Fargo,Overweight,,main,KNX
+2021-10-21,Morgan Stanley,Overweight,,main,KNX
+2021-10-21,Raymond James,Outperform,,main,KNX
+2021-10-21,Keybanc,Overweight,,main,KNX
+2021-10-25,UBS,Buy,Neutral,up,KNX
+2021-11-23,Keybanc,Overweight,,main,KNX
+2021-12-07,Citigroup,Neutral,,main,KNX
+2021-12-13,Wells Fargo,Overweight,,main,KNX
+2021-12-30,Raymond James,Market Outperform,,main,KNX

@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-21,SunTrust Robinson Humphrey,Buy,,init,MBINP
+2017-11-21,Raymond James,Outperform,,init,MBINP
+2017-11-21,Stephens & Co.,Overweight,,init,MBINP
+2017-11-21,Sandler O'Neill,Buy,,init,MBINP
+2018-07-11,Stephens & Co.,Equal-Weight,Overweight,down,MBINP
+2019-08-29,Raymond James,Outperform,,main,MBINP
+2020-02-03,Raymond James,Outperform,,main,MBINP
+2020-05-19,SunTrust Robinson Humphrey,Buy,,main,MBINP
+2020-07-29,Piper Sandler,Overweight,,main,MBINP
+2020-08-25,Truist Securities,Buy,,main,MBINP
+2020-09-29,Piper Sandler,Overweight,,main,MBINP
+2020-12-07,Raymond James,Strong Buy,,main,MBINP
+2021-02-01,Raymond James,Strong Buy,,main,MBINP
+2021-08-26,Raymond James,Strong Buy,,main,MBINP
+2021-11-02,Raymond James,Strong Buy,,main,MBINP

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGS220218P00005000,2022-01-21 20:06:32+00:00,5.0,0.1,0.0,0.15,0.0,0.0,2,2,1.4609401953124999,False,REGULAR,USD,AGS
-AGS220218P00007500,2022-01-28 14:47:28+00:00,7.5,0.6,0.2,0.5,0.0,0.0,1,1,0.6894562304687502,False,REGULAR,USD,AGS

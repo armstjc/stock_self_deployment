@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-03,JMP Securities,Outperform,,init,MDGL
+2017-09-22,Evercore ISI Group,Outperform,,init,MDGL
+2017-10-19,Roth Capital,Buy,,init,MDGL
+2017-11-29,H.C. Wainwright,Buy,,init,MDGL
+2017-12-06,H.C. Wainwright,Buy,Buy,main,MDGL
+2018-01-30,H.C. Wainwright,Buy,Buy,main,MDGL
+2018-02-08,Evercore ISI Group,Outperform,Outperform,main,MDGL
+2018-02-28,Cowen & Co.,Outperform,,init,MDGL
+2018-03-23,Goldman Sachs,Buy,,init,MDGL
+2018-04-17,Oppenheimer,Perform,,init,MDGL
+2018-06-01,Oppenheimer,Outperform,Perform,up,MDGL
+2018-06-01,H.C. Wainwright,Buy,Buy,main,MDGL
+2018-06-19,Evercore ISI Group,In-Line,Outperform,down,MDGL
+2018-06-28,Raymond James,Market Perform,,init,MDGL
+2018-08-06,Goldman Sachs,Neutral,Buy,down,MDGL
+2018-09-04,Citigroup,Buy,,init,MDGL
+2018-11-16,Evercore ISI Group,Outperform,In-Line,up,MDGL
+2018-11-19,Raymond James,Underperform,Market Perform,down,MDGL
+2018-12-12,B. Riley FBR,Neutral,,init,MDGL
+2019-01-23,UBS,Neutral,,init,MDGL
+2019-06-10,B. Riley,Buy,Neutral,up,MDGL
+2019-06-25,Stifel Nicolaus,Hold,,init,MDGL
+2019-09-17,Citigroup,Buy,,main,MDGL
+2019-12-02,Citi,Buy,,main,MDGL
+2020-01-09,UBS,Buy,Neutral,up,MDGL
+2020-01-30,Canaccord Genuity,Buy,,init,MDGL
+2020-05-05,Chardan Capital,Buy,,init,MDGL
+2020-05-22,B. Riley FBR,Buy,,main,MDGL
+2020-06-05,BMO Capital,Market Perform,,init,MDGL
+2020-11-06,BMO Capital,Market Perform,,main,MDGL
+2020-11-06,HC Wainwright & Co.,Buy,,main,MDGL
+2020-11-12,Canaccord Genuity,Buy,,main,MDGL
+2021-02-26,Chardan Capital,Buy,,main,MDGL
+2021-05-17,Canaccord Genuity,Buy,,main,MDGL
+2021-08-11,HC Wainwright & Co.,Buy,,main,MDGL
+2021-10-07,Jefferies,Buy,,init,MDGL

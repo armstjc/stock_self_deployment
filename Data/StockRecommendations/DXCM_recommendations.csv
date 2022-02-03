@@ -1,0 +1,180 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,Brean Capital,Buy,,main,DXCM
+2012-02-24,Wunderlich,Buy,,main,DXCM
+2012-05-03,Feltl & Co.,Hold,,main,DXCM
+2012-05-03,McNicoll Lewis Vlak,Hold,,main,DXCM
+2012-08-07,Jefferies,Buy,,main,DXCM
+2012-09-20,PiperJaffray,Overweight,,main,DXCM
+2012-09-20,Jefferies,Buy,,main,DXCM
+2012-10-08,Feltl & Co.,Hold,,main,DXCM
+2012-10-08,Canaccord Genuity,Buy,,main,DXCM
+2012-10-09,Wedbush,Outperform,,main,DXCM
+2012-11-02,Canaccord Genuity,Buy,,main,DXCM
+2012-11-02,Jefferies,Buy,,main,DXCM
+2013-01-14,Wunderlich,Buy,,main,DXCM
+2013-03-13,Wunderlich,Buy,,main,DXCM
+2013-06-10,Wunderlich,Hold,Buy,down,DXCM
+2013-06-13,Feltl & Co.,Sell,Hold,down,DXCM
+2013-06-24,Canaccord Genuity,Buy,,main,DXCM
+2013-07-24,Northland Securities,Underperform,Market Perform,down,DXCM
+2013-08-08,Jefferies,Buy,,main,DXCM
+2013-09-13,JP Morgan,Overweight,,init,DXCM
+2013-09-13,JP Morgan,Overweight,,init,DXCM
+2013-10-15,Benchmark,Buy,,init,DXCM
+2013-11-07,Northland Securities,Market Perform,Underperform,up,DXCM
+2013-11-07,Jefferies,Buy,,main,DXCM
+2013-11-07,Benchmark,Buy,,main,DXCM
+2013-11-07,Wedbush,Outperform,,main,DXCM
+2014-02-20,Feltl & Co.,Sell,Hold,down,DXCM
+2014-04-10,Sterne Agee,Buy,Neutral,up,DXCM
+2014-05-02,Raymond James,Outperform,,main,DXCM
+2014-05-02,Leerink Swann,Market Perform,,main,DXCM
+2014-08-07,Raymond James,Outperform,,main,DXCM
+2014-08-07,Canaccord Genuity,Buy,,main,DXCM
+2014-11-07,JP Morgan,Overweight,,main,DXCM
+2014-12-08,Cowen & Co.,Outperform,,init,DXCM
+2014-12-17,JP Morgan,Overweight,,main,DXCM
+2015-01-06,Sterne Agee,Neutral,Buy,down,DXCM
+2015-02-26,JP Morgan,Overweight,,main,DXCM
+2015-02-26,Jefferies,Buy,,main,DXCM
+2015-05-01,Oppenheimer,Perform,,main,DXCM
+2015-07-08,Baird,Outperform,,init,DXCM
+2015-10-15,Leerink Swann,Outperform,Market Perform,up,DXCM
+2015-10-15,Sterne Agee CRT,Buy,Neutral,up,DXCM
+2015-11-02,Morgan Stanley,Overweight,,init,DXCM
+2016-02-08,Baird,Neutral,Outperform,down,DXCM
+2016-02-24,Jefferies,Buy,,main,DXCM
+2016-02-24,JP Morgan,Overweight,,main,DXCM
+2016-04-14,BTIG Research,Buy,,init,DXCM
+2016-07-15,Deutsche Bank,Buy,,main,DXCM
+2016-09-14,BTIG Research,Neutral,Buy,down,DXCM
+2016-09-16,Desjardins,Buy,Hold,up,DXCM
+2016-09-27,B. Riley FBR,Neutral,,init,DXCM
+2016-10-31,BTIG Research,Buy,Neutral,up,DXCM
+2016-12-15,B. Riley FBR,Buy,Neutral,up,DXCM
+2016-12-19,Oppenheimer,Outperform,Perform,up,DXCM
+2017-01-03,Morgan Stanley,Neutral,Overweight,down,DXCM
+2017-04-27,William Blair,Outperform,,init,DXCM
+2017-05-03,BTIG Research,Neutral,Buy,down,DXCM
+2017-08-02,BMO Capital,Outperformer,,main,DXCM
+2017-09-15,Barclays,Equal-Weight,,init,DXCM
+2017-09-26,Northland Securities,Outperform,,init,DXCM
+2017-09-28,Cowen & Co.,Outperform,,main,DXCM
+2017-09-28,Canaccord Genuity,Buy,,main,DXCM
+2017-09-28,Barclays,Equal-Weight,,main,DXCM
+2017-09-28,Baird,Neutral,,main,DXCM
+2017-09-28,Raymond James,Market Perform,Outperform,down,DXCM
+2017-09-28,JP Morgan,Neutral,Overweight,down,DXCM
+2017-11-02,Barclays,Equal-Weight,,main,DXCM
+2017-11-03,Morgan Stanley,Neutral,,main,DXCM
+2018-01-04,Northland Securities,Underperform,Market Perform,down,DXCM
+2018-02-28,Canaccord Genuity,Buy,Buy,main,DXCM
+2018-03-23,Baird,Outperform,Neutral,up,DXCM
+2018-04-04,Guggenheim,Neutral,,init,DXCM
+2018-04-04,Goldman Sachs,Sell,,init,DXCM
+2018-05-03,Canaccord Genuity,Buy,Buy,main,DXCM
+2018-05-03,BMO Capital,Outperformer,Outperformer,main,DXCM
+2018-05-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,DXCM
+2018-05-11,Bank of America,Buy,,init,DXCM
+2018-06-08,JP Morgan,Overweight,Neutral,up,DXCM
+2018-07-02,Raymond James,Outperform,Market Perform,up,DXCM
+2018-08-02,BMO Capital,Outperformer,Outperformer,main,DXCM
+2018-08-02,Bank of America,Buy,Buy,main,DXCM
+2018-08-02,Canaccord Genuity,Buy,Buy,main,DXCM
+2018-08-02,Jefferies,Buy,Buy,main,DXCM
+2018-08-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,DXCM
+2018-08-06,Berenberg,Buy,Hold,up,DXCM
+2018-08-15,Bank of America,Buy,Buy,main,DXCM
+2018-08-23,Canaccord Genuity,Buy,Buy,main,DXCM
+2018-08-23,Baird,Outperform,Outperform,main,DXCM
+2018-08-23,Stephens & Co.,Overweight,Overweight,main,DXCM
+2018-09-12,Northland Securities,Market Perform,Underperform,up,DXCM
+2018-10-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,DXCM
+2018-10-19,Goldman Sachs,Neutral,Sell,up,DXCM
+2018-10-23,Raymond James,Outperform,Outperform,main,DXCM
+2018-11-28,UBS,Neutral,,init,DXCM
+2019-01-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,DXCM
+2019-01-08,UBS,Neutral,Neutral,main,DXCM
+2019-02-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,DXCM
+2019-04-30,UBS,Neutral,Neutral,main,DXCM
+2019-05-02,BMO Capital,Outperform,Outperform,main,DXCM
+2019-05-02,Raymond James,Outperform,Outperform,main,DXCM
+2019-08-01,Bank of America,Buy,,main,DXCM
+2019-08-01,JP Morgan,Overweight,,main,DXCM
+2019-08-01,UBS,Neutral,,main,DXCM
+2019-08-01,Raymond James,Outperform,,main,DXCM
+2019-08-01,Baird,Outperform,,main,DXCM
+2019-08-29,Baird,Outperform,,main,DXCM
+2019-09-03,BMO Capital,Outperform,,main,DXCM
+2019-10-23,Stifel,Buy,,init,DXCM
+2019-11-07,JP Morgan,Overweight,,main,DXCM
+2019-11-07,UBS,Neutral,,main,DXCM
+2019-11-07,Baird,Outperform,,main,DXCM
+2019-11-07,Morgan Stanley,Equal-Weight,,main,DXCM
+2019-11-07,Canaccord Genuity,Buy,,main,DXCM
+2019-11-07,Piper Jaffray,Overweight,,main,DXCM
+2019-11-07,Raymond James,Outperform,,main,DXCM
+2019-11-07,Stifel Nicolaus,Buy,,main,DXCM
+2019-12-17,Morgan Stanley,Equal-Weight,,main,DXCM
+2019-12-18,Bank of America,Buy,,reit,DXCM
+2019-12-20,JP Morgan,Overweight,,main,DXCM
+2020-02-14,Stephens & Co.,Overweight,,main,DXCM
+2020-02-14,Raymond James,Outperform,,main,DXCM
+2020-02-14,UBS,Neutral,,main,DXCM
+2020-02-14,Canaccord Genuity,Buy,,main,DXCM
+2020-02-14,CFRA,Hold,,main,DXCM
+2020-02-14,Oppenheimer,Outperform,,main,DXCM
+2020-02-18,Morgan Stanley,Equal-Weight,,main,DXCM
+2020-03-05,Citigroup,Buy,,init,DXCM
+2020-03-06,Oppenheimer,Outperform,,main,DXCM
+2020-03-23,Stephens & Co.,Overweight,,main,DXCM
+2020-03-27,Morgan Stanley,Equal-Weight,,main,DXCM
+2020-04-27,Raymond James,Outperform,,main,DXCM
+2020-04-29,Raymond James,Outperform,,main,DXCM
+2020-04-29,Oppenheimer,Outperform,,main,DXCM
+2020-04-29,Morgan Stanley,Equal-Weight,,main,DXCM
+2020-04-29,JP Morgan,Overweight,,main,DXCM
+2020-04-29,Piper Sandler,Overweight,,main,DXCM
+2020-04-29,Citigroup,Buy,,main,DXCM
+2020-04-29,Guggenheim,Buy,,main,DXCM
+2020-04-29,Stifel,Buy,,main,DXCM
+2020-04-30,UBS,Neutral,,main,DXCM
+2020-05-14,Wells Fargo,Equal-Weight,,init,DXCM
+2020-05-27,Piper Sandler,Overweight,,main,DXCM
+2020-06-09,Raymond James,Outperform,,main,DXCM
+2020-06-17,B of A Securities,Buy,,main,DXCM
+2020-07-29,SVB Leerink,Outperform,,main,DXCM
+2020-07-29,Morgan Stanley,Equal-Weight,,main,DXCM
+2020-07-29,Raymond James,Outperform,,main,DXCM
+2020-07-29,UBS,Neutral,,main,DXCM
+2020-07-29,Piper Sandler,Overweight,,main,DXCM
+2020-07-29,Stifel,Buy,,main,DXCM
+2020-10-02,Wells Fargo,Underweight,Equal-Weight,down,DXCM
+2020-10-28,Canaccord Genuity,Buy,,main,DXCM
+2020-10-28,Stifel,Buy,,main,DXCM
+2020-10-28,Raymond James,Outperform,,main,DXCM
+2020-10-28,Morgan Stanley,Equal-Weight,,main,DXCM
+2020-12-10,Canaccord Genuity,Buy,,main,DXCM
+2020-12-15,Morgan Stanley,Equal-Weight,,main,DXCM
+2021-02-12,Raymond James,Outperform,,main,DXCM
+2021-02-12,Citigroup,Buy,,main,DXCM
+2021-02-12,Morgan Stanley,Equal-Weight,,main,DXCM
+2021-04-15,Atlantic Equities,Overweight,,init,DXCM
+2021-04-30,Canaccord Genuity,Buy,,main,DXCM
+2021-04-30,Raymond James,Outperform,,main,DXCM
+2021-04-30,Citigroup,Buy,,main,DXCM
+2021-05-25,Barclays,Overweight,,init,DXCM
+2021-05-28,Wells Fargo,Equal-Weight,Underweight,up,DXCM
+2021-07-30,SVB Leerink,Outperform,,main,DXCM
+2021-07-30,Wells Fargo,Equal-Weight,,main,DXCM
+2021-07-30,Raymond James,Outperform,,main,DXCM
+2021-07-30,Canaccord Genuity,Buy,,main,DXCM
+2021-07-30,Piper Sandler,Overweight,,main,DXCM
+2021-07-30,Oppenheimer,Outperform,,main,DXCM
+2021-08-02,Morgan Stanley,Equal-Weight,,main,DXCM
+2021-09-16,Piper Sandler,Overweight,,main,DXCM
+2021-10-18,Guggenheim,Neutral,Buy,down,DXCM
+2021-10-29,Morgan Stanley,Equal-Weight,,main,DXCM
+2021-10-29,SVB Leerink,Outperform,,main,DXCM
+2021-11-01,Raymond James,Outperform,,main,DXCM
+2021-11-03,Piper Sandler,Overweight,,main,DXCM

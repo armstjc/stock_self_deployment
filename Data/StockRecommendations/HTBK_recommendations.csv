@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-01,Stifel Nicolaus,Hold,,init,HTBK
+2013-01-10,FIG Partners,Market Perform,Outperform,down,HTBK
+2013-01-28,DA Davidson,Neutral,,main,HTBK
+2013-07-29,DA Davidson,Neutral,,main,HTBK
+2013-07-30,FIG Partners,Market Perform,Outperform,down,HTBK
+2014-04-28,DA Davidson,Neutral,,main,HTBK
+2014-05-02,Raymond James,Outperform,,main,HTBK
+2014-07-28,Fig Partners,Outperform,Market Perform,up,HTBK
+2015-01-27,Keefe Bruyette & Woods,Market Perform,,main,HTBK
+2015-04-28,Keefe Bruyette & Woods,Market Perform,,main,HTBK
+2015-07-27,Keefe Bruyette & Woods,Market Perform,,main,HTBK
+2015-10-27,Fig Partners,Market Perform,Outperform,down,HTBK
+2017-01-10,Brean Capital,Buy,,init,HTBK
+2017-01-30,Keefe Bruyette & Woods,Market Perform,Outperform,down,HTBK
+2018-02-12,DA Davidson,Buy,Neutral,up,HTBK
+2018-03-14,Keefe Bruyette & Woods,Outperform,Market Perform,up,HTBK
+2018-04-30,DA Davidson,Buy,Buy,main,HTBK
+2018-07-18,Raymond James,Outperform,,init,HTBK
+2020-04-27,Raymond James,Outperform,,reit,HTBK
+2020-10-01,Piper Sandler,Overweight,,main,HTBK
+2020-12-18,DA Davidson,Neutral,Buy,down,HTBK
+2021-02-01,Raymond James,Outperform,,main,HTBK
+2021-04-26,Raymond James,Outperform,,main,HTBK
+2021-12-15,DA Davidson,Buy,Neutral,up,HTBK
+2021-12-28,Stephens & Co.,Overweight,,init,HTBK

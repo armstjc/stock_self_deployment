@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-04-05,SunTrust Robinson Humphrey,Buy,,init,AFI
+2016-06-22,Stifel Nicolaus,Hold,,init,AFI
+2016-08-15,SunTrust Robinson Humphrey,Neutral,Buy,down,AFI
+2017-04-12,Nomura,Neutral,,init,AFI
+2017-08-08,Nomura,Neutral,,main,AFI
+2017-08-08,Gabelli & Co.,Hold,Buy,down,AFI
+2018-05-09,Stifel Nicolaus,Hold,Hold,main,AFI
+2018-09-14,Macquarie,Neutral,Neutral,main,AFI
+2018-11-16,Gabelli & Co.,Buy,Hold,up,AFI
+2019-05-08,Gabelli & Co.,Hold,Buy,down,AFI
+2019-08-07,Nomura,Neutral,,main,AFI
+2020-05-14,Nomura Instinet,Buy,Neutral,up,AFI
+2020-05-27,Nomura Instinet,Neutral,Buy,down,AFI

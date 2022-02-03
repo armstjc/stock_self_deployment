@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-21,Keybanc,Overweight,,init,FIGS
+2021-06-21,Piper Sandler,Overweight,,init,FIGS
+2021-06-21,Barclays,Overweight,,init,FIGS
+2021-06-21,Telsey Advisory Group,Outperform,,init,FIGS
+2021-06-21,Morgan Stanley,Equal-Weight,,init,FIGS
+2021-06-21,Oppenheimer,Outperform,,init,FIGS
+2021-06-21,Goldman Sachs,Neutral,,init,FIGS
+2021-06-21,B of A Securities,Buy,,init,FIGS
+2021-06-21,Cowen & Co.,Outperform,,init,FIGS
+2021-08-13,Telsey Advisory Group,Outperform,,main,FIGS
+2021-08-13,Morgan Stanley,Equal-Weight,,main,FIGS
+2021-11-11,Credit Suisse,Outperform,,main,FIGS

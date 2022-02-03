@@ -1,0 +1,5 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-12-04,Stephens & Co.,Overweight,,init,CBTX
+2020-07-31,"Keefe, Bruyette & Woods",Market Perform,,main,CBTX
+2020-09-22,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,CBTX
+2021-01-29,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,CBTX

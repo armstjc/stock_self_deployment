@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-07,Baird,Outperform,,init,FPI
+2014-05-07,Janney Capital,Buy,,init,FPI
+2014-05-07,Stephens & Co.,Overweight,,init,FPI
+2014-05-19,BMO Capital,Outperform,,init,FPI
+2014-08-28,FBR Capital,Outperform,,init,FPI
+2015-02-26,Stifel Nicolaus,Buy,,main,FPI
+2015-05-19,Baird,Outperform,,main,FPI
+2015-09-23,Wunderlich,Buy,,init,FPI
+2015-12-03,Janney Capital,Buy,,init,FPI
+2016-02-08,FBR Capital,Outperform,,main,FPI
+2016-04-18,BMO Capital,Market Perform,Outperform,down,FPI
+2016-12-14,Wunderlich,Hold,Buy,down,FPI
+2017-07-18,FBR Capital,Market Perform,Outperform,down,FPI
+2017-08-15,Baird,Neutral,Outperform,down,FPI
+2017-09-19,Raymond James,Market Perform,,init,FPI
+2017-09-25,Stifel Nicolaus,Buy,,main,FPI
+2018-03-06,B. Riley FBR,Neutral,,main,FPI
+2018-03-16,Janney Capital,Neutral,Buy,down,FPI
+2018-07-12,B. Riley FBR,Buy,Neutral,up,FPI
+2018-07-18,Raymond James,Outperform,Market Perform,up,FPI
+2018-11-13,B. Riley FBR,Neutral,Buy,down,FPI
+2020-03-13,B. Riley FBR,Neutral,,main,FPI
+2020-05-20,B. Riley FBR,Neutral,,main,FPI
+2021-10-14,Berenberg,Buy,,init,FPI

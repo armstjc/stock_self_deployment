@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-04,Stifel Nicolaus,Hold,,init,FLMN
+2019-04-12,Stephens & Co.,Overweight,,init,FLMN
+2019-04-18,RBC Capital,Sector Perform,,init,FLMN
+2019-05-24,Baird,Outperform,,init,FLMN
+2019-05-29,Stifel Nicolaus,Buy,Hold,up,FLMN
+2019-05-31,Capital One Financial,Overweight,,init,FLMN
+2019-06-17,SunTrust Robinson Humphrey,Buy,,init,FLMN
+2019-10-04,Wells Fargo,Market Perform,,init,FLMN
+2019-11-18,RBC Capital,Sector Perform,,main,FLMN
+2020-02-03,Credit Suisse,Neutral,Outperform,down,FLMN
+2020-03-02,Piper Sandler,Neutral,,init,FLMN
+2020-03-30,Citigroup,Buy,,main,FLMN
+2020-04-13,Piper Sandler,Neutral,,main,FLMN
+2020-05-14,Piper Sandler,Neutral,,main,FLMN
+2020-12-04,Piper Sandler,Overweight,Neutral,up,FLMN
+2021-03-18,Wells Fargo,Overweight,Equal-Weight,up,FLMN
+2021-11-30,Wells Fargo,Equal-Weight,Overweight,down,FLMN

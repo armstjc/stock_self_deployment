@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CCXI220819P00035000,2021-12-30 16:31:01+00:00,35.0,8.7,8.2,8.9,0.0,0.0,1,2,0.4128476684570312,True,REGULAR,USD,CCXI

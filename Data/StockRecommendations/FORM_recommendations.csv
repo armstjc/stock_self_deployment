@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-09,DA Davidson,Buy,,init,FORM
+2012-08-02,Barclays,Equal-Weight,,main,FORM
+2012-10-02,Barclays,Underweight,Equal-Weight,down,FORM
+2012-10-02,Barclays,Underweight,Equal-Weight,down,FORM
+2012-10-12,Stifel Nicolaus,Buy,,main,FORM
+2012-11-02,DA Davidson,Buy,,main,FORM
+2013-12-12,B. Riley FBR,Neutral,,init,FORM
+2014-04-22,Citigroup,Neutral,,main,FORM
+2014-05-28,B. Riley FBR,Buy,Neutral,up,FORM
+2014-07-25,Stifel Nicolaus,Buy,,main,FORM
+2014-09-02,Citigroup,Neutral,,main,FORM
+2014-12-08,Needham,Buy,,init,FORM
+2015-02-05,Stifel Nicolaus,Buy,,main,FORM
+2015-05-05,Citigroup,Neutral,,main,FORM
+2015-10-29,B. Riley FBR,Buy,,main,FORM
+2016-03-15,Citigroup,Neutral,,main,FORM
+2016-03-30,Stifel Nicolaus,Neutral,Buy,down,FORM
+2016-08-02,Stifel Nicolaus,Buy,Hold,up,FORM
+2016-08-03,Citigroup,Neutral,,main,FORM
+2016-09-22,Craig-Hallum,Buy,,init,FORM
+2017-11-02,Citigroup,Neutral,,main,FORM
+2017-12-15,Needham,Strong Buy,Buy,up,FORM
+2018-02-09,Citigroup,Neutral,Neutral,main,FORM
+2018-04-27,Needham,Buy,Strong Buy,down,FORM
+2018-05-04,Citigroup,Neutral,Neutral,main,FORM
+2018-07-30,B. Riley FBR,Buy,Buy,main,FORM
+2019-01-03,Sidoti & Co.,Neutral,Neutral,main,FORM
+2019-02-07,Craig-Hallum,Hold,Buy,down,FORM
+2019-05-02,Northland Securities,Market Perform,Outperform,down,FORM
+2019-08-01,Stifel Nicolaus,Buy,,main,FORM
+2019-10-01,B. Riley,Buy,,main,FORM
+2019-12-12,Needham,Hold,Buy,down,FORM
+2019-12-13,DA Davidson,Buy,,reit,FORM
+2020-02-06,Stifel Nicolaus,Hold,Buy,down,FORM
+2020-02-25,Sidoti & Co.,Buy,Neutral,up,FORM
+2020-03-18,Sidoti & Co.,Buy,,main,FORM
+2020-03-19,B. Riley FBR,Buy,,main,FORM
+2020-04-02,DA Davidson,Neutral,Buy,down,FORM
+2020-04-13,B. Riley FBR,Buy,,main,FORM
+2020-04-17,Cowen & Co.,Market Perform,,init,FORM
+2020-04-21,Stifel,Hold,,main,FORM
+2020-05-07,B. Riley FBR,Buy,,main,FORM
+2020-06-01,DA Davidson,Buy,Neutral,up,FORM
+2020-06-04,Sidoti & Co.,Buy,,main,FORM
+2020-06-15,Stifel,Buy,Hold,up,FORM
+2020-07-02,Craig-Hallum,Hold,Buy,down,FORM
+2020-07-20,Citigroup,Buy,Neutral,up,FORM
+2020-08-17,Needham,Buy,Hold,up,FORM
+2020-09-09,Craig-Hallum,Buy,Hold,up,FORM
+2021-01-26,DA Davidson,Neutral,Buy,down,FORM
+2021-02-04,Craig-Hallum,Buy,,main,FORM
+2021-04-08,Needham,Buy,,main,FORM
+2021-04-29,Needham,Buy,,main,FORM
+2021-06-04,DA Davidson,Buy,Neutral,up,FORM
+2021-06-25,CL King,Buy,,init,FORM
+2021-10-28,Needham,Buy,,main,FORM

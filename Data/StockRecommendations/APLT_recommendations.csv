@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-06-10,Baird,Outperform,,init,APLT
+2019-06-10,Cowen & Co.,Outperform,,init,APLT
+2019-06-10,Citi,Buy,,init,APLT
+2020-01-08,Baird,Outperform,,main,APLT
+2020-01-09,Citigroup,Buy,,main,APLT
+2020-02-27,Barclays,Overweight,,init,APLT
+2020-10-08,Truist Securities,Buy,,init,APLT
+2021-08-27,Goldman Sachs,Sell,Neutral,down,APLT
+2022-01-04,Barclays,Equal-Weight,Overweight,down,APLT

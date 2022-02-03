@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VATE220318C00005000,2022-01-24 20:49:57+00:00,5.0,0.1,0.0,0.0,0.0,0.0,,0,0.2500075,False,REGULAR,USD,VATE

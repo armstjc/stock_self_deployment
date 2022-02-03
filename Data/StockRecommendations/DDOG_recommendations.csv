@@ -1,0 +1,89 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-10-14,Stifel Nicolaus,Buy,,init,DDOG
+2019-10-14,Jefferies,Hold,,init,DDOG
+2019-10-14,JMP Securities,Market Perform,,init,DDOG
+2019-10-14,Raymond James,Market Perform,,init,DDOG
+2019-10-14,JP Morgan,Overweight,,init,DDOG
+2019-10-14,Morgan Stanley,Equal-Weight,,init,DDOG
+2019-10-14,Barclays,Overweight,,init,DDOG
+2019-10-14,William Blair,Outperform,,init,DDOG
+2019-10-14,Goldman Sachs,Neutral,,init,DDOG
+2019-11-06,Credit Suisse,Neutral,,init,DDOG
+2019-11-13,Stifel,Buy,,main,DDOG
+2019-11-13,Barclays,Overweight,,main,DDOG
+2019-11-13,Credit Suisse,Neutral,,main,DDOG
+2019-11-21,Oppenheimer,Perform,,init,DDOG
+2019-12-18,Rosenblatt,Buy,,init,DDOG
+2020-02-11,Needham,Buy,,main,DDOG
+2020-02-14,Rosenblatt,Buy,,reit,DDOG
+2020-02-14,Needham,Buy,,main,DDOG
+2020-02-14,Morgan Stanley,Equal-Weight,,main,DDOG
+2020-03-26,Morgan Stanley,Equal-Weight,,main,DDOG
+2020-03-27,Mizuho,Buy,,init,DDOG
+2020-04-13,Goldman Sachs,Buy,Neutral,up,DDOG
+2020-04-16,DA Davidson,Neutral,,init,DDOG
+2020-04-27,Needham,Buy,,main,DDOG
+2020-05-11,RBC Capital,Sector Perform,,main,DDOG
+2020-05-12,Mizuho,Buy,,main,DDOG
+2020-05-12,JP Morgan,Overweight,,main,DDOG
+2020-05-12,Jefferies,Hold,,main,DDOG
+2020-05-12,Needham,Buy,,main,DDOG
+2020-05-12,Morgan Stanley,Equal-Weight,,main,DDOG
+2020-05-12,Credit Suisse,Neutral,,main,DDOG
+2020-05-12,Rosenblatt,Buy,,main,DDOG
+2020-05-12,Stifel,Buy,,main,DDOG
+2020-07-10,FBN Securities,Outperform,,init,DDOG
+2020-07-20,Barclays,Overweight,,main,DDOG
+2020-07-27,Needham,Buy,,main,DDOG
+2020-07-27,Morgan Stanley,Equal-Weight,,main,DDOG
+2020-08-07,Needham,Buy,,main,DDOG
+2020-08-07,Credit Suisse,Neutral,,main,DDOG
+2020-09-16,Loop Capital,Buy,,init,DDOG
+2020-09-25,Baird,Neutral,,init,DDOG
+2020-10-01,Mizuho,Buy,,main,DDOG
+2020-10-07,Berenberg,Hold,,init,DDOG
+2020-10-09,Barclays,Overweight,,main,DDOG
+2020-11-11,Needham,Buy,,main,DDOG
+2020-11-11,JP Morgan,Neutral,Overweight,down,DDOG
+2020-11-11,Morgan Stanley,Equal-Weight,,main,DDOG
+2020-11-23,Monness Crespi Hardt,Neutral,,init,DDOG
+2020-11-24,KeyBanc,Sector Weight,,init,DDOG
+2020-12-17,Rosenblatt,Neutral,,init,DDOG
+2021-01-11,Jefferies,Buy,Hold,up,DDOG
+2021-01-15,Credit Suisse,Neutral,,main,DDOG
+2021-01-20,Truist Securities,Buy,,init,DDOG
+2021-02-08,RBC Capital,Sector Perform,,main,DDOG
+2021-02-12,Morgan Stanley,Equal-Weight,,main,DDOG
+2021-02-12,Barclays,Overweight,,main,DDOG
+2021-02-12,Needham,Buy,,main,DDOG
+2021-04-01,"Monness, Crespi, Hardt",Buy,Neutral,up,DDOG
+2021-04-09,Barclays,Overweight,,main,DDOG
+2021-05-07,Needham,Buy,,main,DDOG
+2021-05-07,Goldman Sachs,Buy,,main,DDOG
+2021-05-07,"Monness, Crespi, Hardt",Buy,,main,DDOG
+2021-05-07,Berenberg,Buy,Hold,up,DDOG
+2021-05-18,Jefferies,Buy,,main,DDOG
+2021-05-21,Morgan Stanley,Overweight,Equal-Weight,up,DDOG
+2021-07-08,Citigroup,Buy,,init,DDOG
+2021-07-16,Mizuho,Buy,,main,DDOG
+2021-07-23,Barclays,Overweight,,main,DDOG
+2021-07-27,Morgan Stanley,Overweight,,main,DDOG
+2021-08-02,RBC Capital,Sector Perform,,main,DDOG
+2021-08-05,Needham,Buy,,main,DDOG
+2021-08-06,Barclays,Overweight,,main,DDOG
+2021-08-06,Goldman Sachs,Buy,,main,DDOG
+2021-08-06,Rosenblatt,Neutral,,main,DDOG
+2021-08-06,RBC Capital,Sector Perform,,main,DDOG
+2021-09-17,Barclays,Overweight,,main,DDOG
+2021-10-18,Mizuho,Buy,,main,DDOG
+2021-10-22,Morgan Stanley,Overweight,,main,DDOG
+2021-10-28,RBC Capital,Sector Perform,,main,DDOG
+2021-10-29,Rosenblatt,Neutral,,main,DDOG
+2021-11-01,RBC Capital,Sector Perform,,main,DDOG
+2021-11-05,RBC Capital,Sector Perform,,main,DDOG
+2021-11-05,Mizuho,Buy,,main,DDOG
+2021-11-08,Needham,Buy,,main,DDOG
+2021-11-08,Barclays,Overweight,,main,DDOG
+2021-11-08,Morgan Stanley,Overweight,,main,DDOG
+2021-11-19,RBC Capital,Outperform,Sector Perform,up,DDOG
+2021-12-14,JP Morgan,Underweight,Neutral,down,DDOG

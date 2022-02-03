@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-19,Barclays,Equal-Weight,,init,CFLT
+2021-07-19,Goldman Sachs,Neutral,,init,CFLT
+2021-07-19,JMP Securities,Market Outperform,,init,CFLT
+2021-07-19,Morgan Stanley,Equal-Weight,,init,CFLT
+2021-07-19,Deutsche Bank,Hold,,init,CFLT
+2021-07-19,Wells Fargo,Overweight,,init,CFLT
+2021-07-19,Cowen & Co.,Outperform,,init,CFLT
+2021-07-19,B of A Securities,Neutral,,init,CFLT
+2021-07-19,UBS,Buy,,init,CFLT
+2021-07-19,Keybanc,Sector Weight,,init,CFLT
+2021-07-19,JP Morgan,Neutral,,init,CFLT
+2021-07-19,Piper Sandler,Overweight,,init,CFLT
+2021-07-20,Citigroup,Neutral,,init,CFLT
+2021-08-06,Barclays,Equal-Weight,,main,CFLT
+2021-08-06,JMP Securities,Market Outperform,,main,CFLT
+2021-08-16,Morgan Stanley,Equal-Weight,,main,CFLT
+2021-09-15,DA Davidson,Neutral,,init,CFLT
+2021-10-12,Arete Research,Buy,,init,CFLT
+2021-10-18,Barclays,Equal-Weight,,main,CFLT
+2021-11-05,JMP Securities,Market Outperform,,main,CFLT
+2021-11-16,Credit Suisse,Outperform,,init,CFLT
+2021-11-18,William Blair,Outperform,,init,CFLT
+2021-11-22,Morgan Stanley,Equal-Weight,,main,CFLT

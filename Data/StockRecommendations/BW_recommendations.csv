@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-02,UBS,Buy,,init,BW
+2015-07-08,Johnson Rice,Buy,,init,BW
+2015-07-10,BB&T Capital,Buy,,init,BW
+2016-02-29,Credit Suisse,Neutral,,main,BW
+2016-10-13,Credit Suisse,Underperform,Neutral,down,BW
+2016-10-13,Credit Suisse,Underperform,Neutral,down,BW
+2017-03-01,KeyBanc,Sector Weight,Overweight,down,BW
+2017-08-11,Credit Suisse,Underperform,,main,BW
+2017-08-14,UBS,Neutral,Buy,down,BW
+2018-03-19,Credit Suisse,Underperform,Underperform,main,BW
+2020-04-22,Credit Suisse,Underperform,,main,BW
+2021-03-25,DA Davidson,Buy,,init,BW
+2021-03-25,Lake Street,Buy,,init,BW
+2021-09-09,Credit Suisse,Underperform,,main,BW

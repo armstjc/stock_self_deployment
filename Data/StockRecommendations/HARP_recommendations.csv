@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-05,Canaccord Genuity,Buy,,init,HARP
+2019-03-05,Wedbush,Outperform,,init,HARP
+2019-11-11,Canaccord Genuity,Buy,,main,HARP
+2019-11-13,Cantor Fitzgerald,Outperform,,main,HARP
+2019-11-14,Roth Capital,Buy,,init,HARP
+2019-11-25,Canaccord Genuity,Buy,,main,HARP
+2020-02-28,SunTrust Robinson Humphrey,Buy,,init,HARP
+2020-05-22,Piper Sandler,Overweight,,init,HARP
+2020-06-30,Citigroup,Buy,,main,HARP
+2020-08-06,Wedbush,Outperform,,main,HARP
+2020-08-10,Citigroup,Buy,,main,HARP
+2021-01-04,SVB Leerink,Outperform,,main,HARP
+2021-03-11,SVB Leerink,Outperform,,main,HARP
+2021-05-28,Cantor Fitzgerald,Overweight,,init,HARP
+2021-06-07,Wedbush,Neutral,Outperform,down,HARP
+2021-06-08,Citigroup,Neutral,Buy,down,HARP
+2021-08-06,SVB Leerink,Outperform,,main,HARP
+2021-09-28,Citigroup,Buy,Neutral,up,HARP
+2021-11-11,SVB Leerink,Outperform,,main,HARP

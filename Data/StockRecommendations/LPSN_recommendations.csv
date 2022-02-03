@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-28,Ladenburg Thalmann,Buy,,main,LPSN
+2012-03-29,Feltl & Co.,Hold,,init,LPSN
+2012-05-25,Oppenheimer,Outperform,,init,LPSN
+2012-06-07,Oppenheimer,Outperform,,main,LPSN
+2012-08-02,Wunderlich,Buy,,main,LPSN
+2012-09-12,Benchmark,Buy,,init,LPSN
+2012-11-07,Benchmark,Hold,Buy,down,LPSN
+2012-11-07,Janney Capital,Buy,Neutral,up,LPSN
+2013-01-22,Credit Suisse,Neutral,,init,LPSN
+2013-01-29,Maxim Group,Buy,,init,LPSN
+2013-05-09,Wedbush,Neutral,,init,LPSN
+2013-05-09,Craig-Hallum,Hold,Buy,down,LPSN
+2013-05-09,First Analysis,Equal-Weight,Overweight,down,LPSN
+2013-05-09,Credit Suisse,Underperform,Neutral,down,LPSN
+2013-05-09,Oppenheimer,Perform,Outperform,down,LPSN
+2013-05-09,Wunderlich,Buy,,main,LPSN
+2013-05-09,Credit Suisse,Underperform,Neutral,down,LPSN
+2013-05-10,Wedbush,Neutral,,init,LPSN
+2013-08-01,Sidoti & Co.,Neutral,Buy,down,LPSN
+2013-12-23,Benchmark,Buy,Hold,up,LPSN
+2014-04-08,Benchmark,Hold,Buy,down,LPSN
+2014-07-31,Craig-Hallum,Buy,Hold,up,LPSN
+2014-07-31,Credit Suisse,Neutral,Underperform,up,LPSN
+2014-10-09,Credit Agricole,Outperform,Neutral,up,LPSN
+2014-11-05,Credit Suisse,Outperform,,main,LPSN
+2015-05-12,Credit Suisse,Neutral,Outperform,down,LPSN
+2016-02-11,Roth Capital,Neutral,Buy,down,LPSN
+2016-02-11,Northland Securities,Outperform,,main,LPSN
+2016-07-07,Benchmark,Buy,Hold,up,LPSN
+2016-09-23,Benchmark,Buy,,main,LPSN
+2017-09-22,Needham,Buy,,init,LPSN
+2017-12-14,B. Riley FBR,Buy,,init,LPSN
+2018-08-02,B. Riley FBR,Buy,Buy,main,LPSN
+2018-12-21,Summit Insights Group,Buy,,init,LPSN
+2019-01-24,Oppenheimer,Outperform,Perform,up,LPSN
+2019-03-07,Evercore ISI Group,Outperform,,init,LPSN
+2019-03-08,Barclays,Overweight,,init,LPSN
+2019-03-25,PiperJaffray,Overweight,,init,LPSN
+2019-04-01,Jefferies,Buy,,init,LPSN
+2019-05-16,Berenberg,Buy,,init,LPSN
+2019-07-12,KeyBanc,Overweight,,init,LPSN
+2019-08-01,KeyBanc,Overweight,,main,LPSN
+2019-08-20,KeyBanc,Overweight,,main,LPSN
+2019-10-07,Barclays,Overweight,,main,LPSN
+2019-11-08,Benchmark,Buy,,main,LPSN
+2019-11-15,William Blair,Outperform,,init,LPSN
+2019-11-20,JP Morgan,Neutral,,init,LPSN
+2020-01-10,Mizuho,Buy,,init,LPSN
+2020-01-23,KeyBanc,Overweight,,main,LPSN
+2020-02-10,B. Riley FBR,Buy,,reit,LPSN
+2020-02-14,Oppenheimer,Perform,Outperform,down,LPSN
+2020-02-14,KeyBanc,Overweight,,main,LPSN
+2020-03-16,Needham,Buy,,main,LPSN
+2020-03-17,B. Riley FBR,Buy,,main,LPSN
+2020-04-24,Craig-Hallum,Buy,,main,LPSN
+2020-05-06,KeyBanc,Overweight,,main,LPSN
+2020-05-06,Mizuho,Buy,,main,LPSN
+2020-05-06,B. Riley FBR,Buy,,main,LPSN
+2020-05-06,JP Morgan,Neutral,,main,LPSN
+2020-07-01,KeyBanc,Overweight,,main,LPSN
+2020-07-20,Barclays,Overweight,,main,LPSN
+2020-08-05,Benchmark,Buy,,main,LPSN
+2020-08-05,KeyBanc,Overweight,,main,LPSN
+2020-08-05,Needham,Buy,,main,LPSN
+2020-10-30,Needham,Buy,,main,LPSN
+2020-12-18,Rosenblatt,Buy,,init,LPSN
+2021-01-11,Jefferies,Hold,Buy,down,LPSN
+2021-01-19,KeyBanc,Overweight,,main,LPSN
+2021-02-26,Rosenblatt,Buy,,main,LPSN
+2021-02-26,Needham,Buy,,main,LPSN
+2021-02-26,JP Morgan,Overweight,Neutral,up,LPSN
+2021-02-26,Mizuho,Buy,,main,LPSN
+2021-03-31,Citigroup,Buy,,init,LPSN
+2021-07-01,Goldman Sachs,Neutral,,init,LPSN
+2021-08-04,Needham,Buy,,main,LPSN
+2021-09-17,Barclays,Overweight,,main,LPSN
+2021-10-21,Barclays,Underweight,Equal-Weight,down,LPSN
+2021-11-03,Keybanc,Overweight,,main,LPSN
+2021-11-03,Mizuho,Neutral,Buy,down,LPSN
+2021-12-14,JP Morgan,Overweight,,main,LPSN
+2021-12-16,Loop Capital,Buy,,init,LPSN

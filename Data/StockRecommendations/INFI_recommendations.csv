@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-14,Jefferies,Buy,,main,INFI
+2012-05-09,Jefferies,Buy,,main,INFI
+2012-05-09,PiperJaffray,Overweight,,main,INFI
+2012-08-08,Jefferies,Buy,,main,INFI
+2012-08-24,Stifel Nicolaus,Hold,,init,INFI
+2012-11-07,Jefferies,Hold,Buy,down,INFI
+2013-01-15,Credit Suisse,Outperform,,init,INFI
+2013-01-31,JP Morgan,Overweight,,init,INFI
+2013-02-19,Morgan Stanley,Overweight,,init,INFI
+2013-02-28,PiperJaffray,Overweight,Neutral,up,INFI
+2013-03-06,Stifel Nicolaus,Buy,,main,INFI
+2013-03-06,Jefferies,Hold,,main,INFI
+2013-03-06,JP Morgan,Overweight,,main,INFI
+2013-04-02,JMP Securities,Market Perform,,init,INFI
+2013-05-07,Goldman Sachs,Neutral,,init,INFI
+2013-05-09,Wells Fargo,Outperform,,init,INFI
+2013-09-23,William Blair,Market Perform,,init,INFI
+2013-09-24,William Blair,Market Perform,,init,INFI
+2013-12-12,Credit Suisse,Neutral,Outperform,down,INFI
+2014-01-05,Goldman Sachs,Neutral,,main,INFI
+2014-01-08,Nomura,Neutral,,init,INFI
+2014-02-26,Nomura,Neutral,,main,INFI
+2014-03-04,Wedbush,Underperform,,init,INFI
+2014-05-07,Jefferies,Buy,Hold,up,INFI
+2014-05-07,JP Morgan,Overweight,,main,INFI
+2014-05-07,Stifel Nicolaus,Buy,,main,INFI
+2014-06-25,Morgan Stanley,Overweight,,init,INFI
+2014-09-03,Wedbush,Neutral,Underperform,up,INFI
+2014-09-04,JMP Securities,Market Outperform,Market Perform,up,INFI
+2014-09-04,Jefferies,Buy,,main,INFI
+2014-10-20,Stifel Nicolaus,Hold,,init,INFI
+2014-11-10,Nomura,Neutral,,main,INFI
+2014-12-04,Credit Suisse,Outperform,Neutral,up,INFI
+2015-01-05,Morgan Stanley,Equal-weight,Overweight,down,INFI
+2015-05-07,Deutsche Bank,Buy,,init,INFI
+2015-09-21,Morgan Stanley,Overweight,Equal-Weight,up,INFI
+2016-02-24,JP Morgan,Overweight,,main,INFI
+2016-03-02,FBR Capital,Outperform,,init,INFI
+2016-03-09,JMP Securities,Market Outperform,,main,INFI
+2016-03-22,Wedbush,Underperform,Neutral,down,INFI
+2016-06-14,,Neutral,Overweight,down,INFI
+2016-06-14,Wedbush,Neutral,Underperform,up,INFI
+2016-06-14,JMP Securities,Market Perform,Outperform,down,INFI
+2016-06-15,Morgan Stanley,Equal-Weight,Overweight,down,INFI
+2016-06-15,Jefferies,Hold,Buy,down,INFI
+2016-06-15,Wells Fargo,Market Perform,Outperform,down,INFI
+2016-06-15,William Blair,Market Perform,Outperform,down,INFI
+2017-10-12,Wells Fargo,Outperform,Market Perform,up,INFI
+2018-05-31,Seaport Global,Buy,,init,INFI
+2018-11-12,Wells Fargo,Market Perform,Outperform,down,INFI
+2018-11-12,JP Morgan,Underweight,Neutral,down,INFI
+2019-01-04,B. Riley FBR,Buy,,init,INFI
+2019-06-27,Oppenheimer,Outperform,,init,INFI
+2020-03-04,Wells Fargo,Equal-Weight,,main,INFI
+2020-05-12,Wells Fargo,Equal-Weight,,main,INFI
+2020-05-18,B. Riley FBR,Buy,,main,INFI
+2021-02-05,JP Morgan,Neutral,Underweight,up,INFI
+2021-02-18,Piper Sandler,Overweight,,init,INFI
+2021-03-17,Wells Fargo,Equal-Weight,,main,INFI
+2021-03-18,Truist Securities,Buy,,init,INFI
+2021-07-28,Wells Fargo,Overweight,Equal-Weight,up,INFI
+2021-08-02,JP Morgan,Overweight,Neutral,up,INFI
+2021-10-18,HC Wainwright & Co.,Buy,,init,INFI

@@ -1,0 +1,168 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-30,Cantor Fitzgerald,Buy,,init,BXP
+2012-05-02,ISI Group,Hold,,main,BXP
+2012-05-03,Imperial Capital,In-Line,,main,BXP
+2012-05-09,Jefferies,Hold,,main,BXP
+2012-06-25,ISI Group,Buy,Hold,up,BXP
+2012-07-24,Deutsche Bank,Buy,,main,BXP
+2012-08-08,Imperial Capital,In-Line,,main,BXP
+2012-08-15,JP Morgan,Overweight,,main,BXP
+2012-08-21,Jefferies,Hold,,main,BXP
+2012-09-07,Citigroup,Buy,Neutral,up,BXP
+2012-09-20,KeyBanc,Hold,Underweight,up,BXP
+2012-09-20,Keybanc,Hold,Underweight,up,BXP
+2012-10-22,Barclays,Overweight,,main,BXP
+2012-10-24,ISI Group,Buy,,main,BXP
+2012-10-25,Stifel Nicolaus,Buy,Hold,up,BXP
+2012-11-07,Barclays,Overweight,,main,BXP
+2012-12-06,UBS,Buy,Neutral,up,BXP
+2012-12-10,JP Morgan,Overweight,,main,BXP
+2012-12-12,Stifel Nicolaus,Hold,Buy,down,BXP
+2013-01-09,Deutsche Bank,Buy,,main,BXP
+2013-01-15,Baird,Outperform,,init,BXP
+2013-01-16,JP Morgan,Neutral,Overweight,down,BXP
+2013-01-25,Evercore Partners,Overweight,,init,BXP
+2013-01-30,ISI Group,Buy,,main,BXP
+2013-01-31,Imperial Capital,In-Line,,main,BXP
+2013-02-12,RBC Capital,Outperform,Sector Perform,up,BXP
+2013-04-16,Morgan Stanley,Overweight,Equal-Weight,up,BXP
+2013-06-24,Jefferies,Hold,,main,BXP
+2013-08-01,Imperial Capital,In-Line,,main,BXP
+2013-08-19,Deutsche Bank,Buy,,main,BXP
+2013-10-08,Bank of America,Neutral,Buy,down,BXP
+2013-11-18,Sandler O'Neill,Buy,Hold,up,BXP
+2013-12-17,Citigroup,Buy,,main,BXP
+2014-01-15,Deutsche Bank,Buy,,main,BXP
+2014-01-28,Barclays,Overweight,,main,BXP
+2014-03-06,Goldman Sachs,Buy,,init,BXP
+2014-03-10,Deutsche Bank,Buy,,main,BXP
+2014-04-22,JP Morgan,Neutral,,main,BXP
+2014-04-22,Barclays,Overweight,,main,BXP
+2014-05-01,Imperial Capital,In-Line,,main,BXP
+2014-05-02,Argus,Buy,,main,BXP
+2014-05-16,Barclays,Overweight,,main,BXP
+2014-07-17,Deutsche Bank,Buy,,main,BXP
+2014-07-21,Barclays,Overweight,,main,BXP
+2014-08-21,Deutsche Bank,Buy,,main,BXP
+2014-09-02,Capital One Financial,Equal-Weight,,init,BXP
+2014-09-17,Wells Fargo,Outperform,,init,BXP
+2014-09-25,Capital One Financial,Overweight,Equal-weight,up,BXP
+2014-09-29,ISI Group,Buy,Neutral,up,BXP
+2014-10-02,Barclays,Overweight,,main,BXP
+2014-11-12,Credit Suisse,Outperform,,init,BXP
+2014-11-17,Mizuho,Buy,,init,BXP
+2014-12-11,Deutsche Bank,Buy,,main,BXP
+2014-12-12,DA Davidson,Neutral,,init,BXP
+2014-12-15,Citigroup,Buy,,main,BXP
+2014-12-17,JP Morgan,Neutral,,main,BXP
+2015-01-22,Barclays,Overweight,,main,BXP
+2015-01-23,SunTrust Robinson Humphrey,Neutral,Buy,down,BXP
+2015-01-26,Deutsche Bank,Buy,,main,BXP
+2015-02-10,Deutsche Bank,Buy,,main,BXP
+2015-02-19,Citigroup,Buy,,main,BXP
+2015-03-18,Barclays,Overweight,,main,BXP
+2015-04-20,Barclays,Overweight,,main,BXP
+2015-05-05,Deutsche Bank,Buy,,main,BXP
+2015-06-25,Stifel Nicolaus,Hold,Buy,down,BXP
+2015-07-01,Jefferies,Hold,,main,BXP
+2015-07-13,Goldman Sachs,Buy,,main,BXP
+2015-08-24,Barclays,Overweight,,main,BXP
+2015-09-03,SunTrust Robinson Humphrey,Neutral,,main,BXP
+2015-09-08,Evercore ISI Group,Buy,,main,BXP
+2015-09-09,Stifel Nicolaus,Buy,Hold,up,BXP
+2015-09-10,BMO Capital,Outperform,,init,BXP
+2015-09-21,Mizuho,Neutral,Buy,down,BXP
+2015-10-20,Barclays,Overweight,,main,BXP
+2015-12-07,Credit Suisse,Outperform,,main,BXP
+2016-01-04,RBC Capital,Outperform,Top Pick,down,BXP
+2016-01-05,Deutsche Bank,Buy,,main,BXP
+2016-01-19,Credit Suisse,Outperform,,main,BXP
+2016-02-05,Stifel Nicolaus,Buy,,main,BXP
+2016-02-10,Deutsche Bank,Buy,,main,BXP
+2016-05-04,Citigroup,Buy,,main,BXP
+2016-05-05,Argus,Buy,,main,BXP
+2016-05-12,SunTrust Robinson Humphrey,Neutral,,main,BXP
+2016-07-18,Deutsche Bank,Buy,,main,BXP
+2016-07-19,Barclays,Overweight,,main,BXP
+2016-07-25,Morgan Stanley,Equal-Weight,Overweight,down,BXP
+2016-08-11,JP Morgan,Neutral,,main,BXP
+2016-08-22,Evercore ISI Group,Hold,Buy,down,BXP
+2016-08-23,Jefferies,Hold,,main,BXP
+2016-08-25,BTIG Research,Neutral,,init,BXP
+2016-10-14,Bank of America,Neutral,Buy,down,BXP
+2016-10-27,Stifel Nicolaus,Hold,Buy,down,BXP
+2016-12-09,Citigroup,Neutral,Buy,down,BXP
+2016-12-16,KeyBanc,Sector Weight,Overweight,down,BXP
+2017-01-03,RBC Capital,Top Pick,Outperform,up,BXP
+2017-01-09,Deutsche Bank,Hold,Buy,down,BXP
+2017-07-18,Barclays,Overweight,,main,BXP
+2017-08-17,RBC Capital,Outperform,Top Pick,down,BXP
+2017-08-31,Barclays,Overweight,,main,BXP
+2018-01-09,BMO Capital,Market Perform,Outperform,down,BXP
+2018-01-30,Barclays,Overweight,Overweight,main,BXP
+2018-02-05,Edward Jones,Buy,Hold,up,BXP
+2018-02-15,Barclays,Overweight,Overweight,main,BXP
+2018-02-15,Bank of America,Buy,Neutral,up,BXP
+2018-02-26,Argus,Buy,,main,BXP
+2018-03-05,Evercore ISI Group,Outperform,In-Line,up,BXP
+2018-03-13,JP Morgan,Neutral,Neutral,main,BXP
+2018-05-02,Citigroup,Neutral,Neutral,main,BXP
+2018-06-26,Deutsche Bank,Hold,Hold,main,BXP
+2018-08-02,Stifel Nicolaus,Hold,Hold,main,BXP
+2018-09-17,Argus,Buy,Buy,main,BXP
+2018-10-05,JP Morgan,Overweight,Neutral,up,BXP
+2018-10-15,Jefferies,Buy,Hold,up,BXP
+2018-11-19,DA Davidson,Buy,Neutral,up,BXP
+2018-12-10,Evercore ISI Group,In-Line,Outperform,down,BXP
+2018-12-17,Morgan Stanley,Equal-Weight,Equal-Weight,main,BXP
+2019-01-09,Baird,Outperform,Neutral,up,BXP
+2019-01-09,BTIG Research,Buy,Neutral,up,BXP
+2019-03-13,Morgan Stanley,Underweight,Equal-Weight,down,BXP
+2019-03-25,Evercore ISI Group,Outperform,In-Line,up,BXP
+2019-04-10,Deutsche Bank,Hold,Hold,main,BXP
+2019-04-23,KeyBanc,Overweight,Sector Weight,up,BXP
+2019-06-17,Morgan Stanley,Underweight,,main,BXP
+2019-08-14,Citigroup,Neutral,,main,BXP
+2019-09-10,Morgan Stanley,Equal-Weight,Underweight,up,BXP
+2019-10-10,Deutsche Bank,Hold,,main,BXP
+2019-11-05,Citigroup,Neutral,,main,BXP
+2019-11-08,Goldman Sachs,Buy,,init,BXP
+2019-11-26,SunTrust Robinson Humphrey,Hold,,main,BXP
+2019-12-13,Morgan Stanley,Equal-Weight,,main,BXP
+2019-12-18,JP Morgan,Neutral,Overweight,down,BXP
+2020-01-30,Baird,Outperform,,main,BXP
+2020-02-04,Mizuho,Neutral,,init,BXP
+2020-03-10,Stifel,Buy,Hold,up,BXP
+2020-03-18,Deutsche Bank,Buy,,main,BXP
+2020-04-03,Stifel,Buy,,main,BXP
+2020-04-07,Citigroup,Neutral,,main,BXP
+2020-04-16,Jefferies,Hold,Buy,down,BXP
+2020-05-28,Morgan Stanley,Equal-Weight,,main,BXP
+2020-06-09,SunTrust Robinson Humphrey,Buy,Hold,up,BXP
+2020-06-30,Stifel,Buy,,main,BXP
+2020-07-20,Mizuho,Neutral,,main,BXP
+2020-07-30,Piper Sandler,Neutral,Overweight,down,BXP
+2020-08-24,JP Morgan,Neutral,,main,BXP
+2020-09-23,Wells Fargo,Overweight,,main,BXP
+2020-10-16,UBS,Neutral,,init,BXP
+2020-10-19,Evercore ISI Group,In-Line,Outperform,down,BXP
+2020-11-16,B of A Securities,Buy,,main,BXP
+2020-11-16,Argus Research,Buy,,main,BXP
+2020-12-14,Morgan Stanley,Equal-Weight,,main,BXP
+2020-12-14,KeyBanc,Sector Weight,Overweight,down,BXP
+2020-12-15,Deutsche bank,Hold,Buy,down,BXP
+2020-12-21,JP Morgan,Underweight,Neutral,down,BXP
+2021-03-15,Truist Securities,Hold,Buy,down,BXP
+2021-04-14,Mizuho,Neutral,,main,BXP
+2021-04-19,Deutsche Bank,Hold,,main,BXP
+2021-05-04,Argus Research,Buy,,main,BXP
+2021-06-14,Piper Sandler,Overweight,Neutral,up,BXP
+2021-06-17,Truist Securities,Hold,,main,BXP
+2021-06-25,Deutsche Bank,Hold,,main,BXP
+2021-07-14,Morgan Stanley,Equal-Weight,,main,BXP
+2021-08-02,Argus Research,Buy,,main,BXP
+2021-09-01,Barclays,Overweight,,init,BXP
+2021-09-01,Piper Sandler,Overweight,,main,BXP
+2021-12-06,Evercore ISI Group,Outperform,In-Line,up,BXP
+2022-01-03,Deutsche Bank,Buy,Hold,up,BXP
+2022-01-07,BMO Capital,Outperform,Market Perform,up,BXP

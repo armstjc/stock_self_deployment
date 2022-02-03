@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-06-23,Pivotal Research,Buy,,init,ATUS
+2017-07-12,Guggenheim,Buy,,init,ATUS
+2017-07-17,JP Morgan,Overweight,,init,ATUS
+2017-07-17,Goldman Sachs,Neutral,,init,ATUS
+2017-07-17,Citigroup,Buy,,init,ATUS
+2017-07-17,RBC Capital,Outperform,,init,ATUS
+2017-07-17,Barclays,Equal-Weight,,init,ATUS
+2017-07-17,Morgan Stanley,Equal-Weight,,init,ATUS
+2017-07-17,Bank of America,Neutral,,init,ATUS
+2017-07-19,Exane BNP Paribas,Outperform,,init,ATUS
+2017-07-26,Wells Fargo,Market Perform,,init,ATUS
+2017-09-15,Guggenheim,Neutral,Buy,down,ATUS
+2017-10-31,Atlantic Equities,Overweight,,init,ATUS
+2017-11-07,Goldman Sachs,Buy,Neutral,up,ATUS
+2017-11-10,Moffett Nathanson,Buy,Neutral,up,ATUS
+2017-11-14,Morgan Stanley,Equal-Weight,,main,ATUS
+2018-01-23,Barclays,Overweight,Equal-Weight,up,ATUS
+2018-03-06,JP Morgan,Overweight,Overweight,main,ATUS
+2018-03-20,Buckingham,Buy,,init,ATUS
+2018-03-27,Cowen & Co.,Outperform,,init,ATUS
+2018-04-03,Macquarie,Outperform,,init,ATUS
+2018-04-09,TD Securities,Buy,,init,ATUS
+2018-04-11,Evercore ISI Group,Outperform,,init,ATUS
+2018-04-30,Citigroup,Buy,Buy,main,ATUS
+2018-05-17,KeyBanc,Overweight,,init,ATUS
+2018-05-23,Buckingham,Buy,Buy,main,ATUS
+2018-06-12,Wells Fargo,Market Perform,Market Perform,main,ATUS
+2018-07-09,Guggenheim,Buy,Neutral,up,ATUS
+2018-07-11,Credit Suisse,Outperform,,init,ATUS
+2018-08-16,Citigroup,Buy,Buy,main,ATUS
+2018-11-06,Credit Suisse,Outperform,Outperform,main,ATUS
+2018-11-15,UBS,Buy,,init,ATUS
+2018-11-29,Citigroup,Buy,Buy,main,ATUS
+2019-01-16,Nomura,Buy,,init,ATUS
+2019-08-01,Nomura,Buy,,main,ATUS
+2019-08-01,UBS,Buy,,main,ATUS
+2019-08-01,KeyBanc,Overweight,,main,ATUS
+2019-08-23,Citigroup,Buy,,main,ATUS
+2019-09-09,Benchmark,Buy,,init,ATUS
+2019-09-11,Nomura,Buy,,main,ATUS
+2019-09-19,Benchmark,Buy,,main,ATUS
+2019-09-19,Guggenheim Securities,Buy,,main,ATUS
+2019-09-19,TD Securities,Hold,Buy,down,ATUS
+2019-09-19,Guggenheim,Buy,,main,ATUS
+2019-10-04,Citigroup,Buy,,main,ATUS
+2019-10-16,Bernstein,Outperform,,init,ATUS
+2019-11-06,Barclays,Equal-Weight,Overweight,down,ATUS
+2019-11-06,KeyBanc,Sector Weight,Overweight,down,ATUS
+2019-11-06,TD Securities,Hold,,main,ATUS
+2019-11-14,HSBC,Hold,Buy,down,ATUS
+2020-01-09,Raymond James,Outperform,,init,ATUS
+2020-02-13,Raymond James,Strong Buy,Outperform,up,ATUS
+2020-02-13,Credit Suisse,Outperform,,main,ATUS
+2020-04-21,TD Securities,Hold,Buy,down,ATUS
+2020-04-21,Citigroup,Buy,,main,ATUS
+2020-05-01,Citigroup,Buy,,main,ATUS
+2020-05-05,Bernstein,Market Perform,Outperform,down,ATUS
+2020-05-26,Morgan Stanley,Equal-Weight,,main,ATUS
+2020-08-04,TD Securities,Buy,Hold,up,ATUS
+2020-08-10,Citigroup,Buy,,main,ATUS
+2020-10-05,Bernstein,Outperform,Market Perform,up,ATUS
+2020-10-13,Atlantic Equities,Overweight,Neutral,up,ATUS
+2020-11-25,TD Securities,Hold,Buy,down,ATUS
+2020-12-07,HSBC,Hold,Buy,down,ATUS
+2020-12-17,Barclays,Equal-Weight,Overweight,down,ATUS
+2020-12-28,Raymond James,Strong Buy,,main,ATUS
+2021-01-19,Credit Suisse,Outperform,,main,ATUS
+2021-02-11,Raymond James,Strong Buy,,main,ATUS
+2021-02-11,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-03-17,Wells Fargo,Equal-Weight,,init,ATUS
+2021-04-09,Citigroup,Neutral,Buy,down,ATUS
+2021-04-20,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-04-29,Raymond James,Strong Buy,,main,ATUS
+2021-04-30,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-05-18,B of A Securities,Underperform,Neutral,down,ATUS
+2021-06-17,TD Securities,Buy,Hold,up,ATUS
+2021-07-20,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-07-29,Wells Fargo,Equal-Weight,,main,ATUS
+2021-07-29,Raymond James,Outperform,Strong Buy,down,ATUS
+2021-07-29,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-08-06,HSBC,Buy,Hold,up,ATUS
+2021-09-21,Loop Capital,Hold,,init,ATUS
+2021-09-27,Raymond James,Market Perform,Outperform,down,ATUS
+2021-09-27,Credit Suisse,Neutral,Outperform,down,ATUS
+2021-10-05,Barclays,Equal-Weight,,main,ATUS
+2021-10-08,Wells Fargo,Equal-Weight,,main,ATUS
+2021-10-11,Morgan Stanley,Equal-Weight,,main,ATUS
+2021-10-12,Deutsche Bank,Hold,Buy,down,ATUS
+2021-11-05,RBC Capital,Outperform,,main,ATUS
+2021-11-05,Credit Suisse,Neutral,,main,ATUS
+2021-12-08,Benchmark,Buy,,main,ATUS
+2021-12-09,JP Morgan,Neutral,Overweight,down,ATUS

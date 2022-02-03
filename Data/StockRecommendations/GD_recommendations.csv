@@ -1,0 +1,143 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-11,Deutsche Bank,Buy,,main,GD
+2012-04-26,Credit Suisse,Outperform,,main,GD
+2012-05-24,Goldman Sachs,Sell,,down,GD
+2012-09-13,UBS,Buy,,main,GD
+2012-10-25,Deutsche Bank,Buy,,main,GD
+2012-10-25,Credit Suisse,Outperform,,main,GD
+2013-01-24,Credit Suisse,Outperform,,main,GD
+2013-04-02,Deutsche Bank,Buy,,main,GD
+2013-04-11,Drexel Hamilton,Hold,Sell,up,GD
+2013-07-10,Deutsche Bank,Buy,,main,GD
+2013-12-11,CRT Capital,Fair Value,Sell,up,GD
+2014-01-22,Oppenheimer,Outperform,Market Perform,up,GD
+2014-03-05,Morgan Stanley,Equal-Weight,,init,GD
+2014-03-17,Barclays,Equal-Weight,,down,GD
+2014-04-07,Deutsche Bank,Buy,,main,GD
+2014-04-09,Citigroup,Buy,,main,GD
+2014-04-24,Credit Suisse,Outperform,,main,GD
+2014-04-24,CRT Capital,Fair Value,,main,GD
+2014-05-02,Goldman Sachs,Neutral,Sell,up,GD
+2014-05-20,Argus,Hold,Buy,down,GD
+2014-07-09,Deutsche Bank,Buy,,main,GD
+2014-07-24,JP Morgan,Overweight,,main,GD
+2014-07-24,Jefferies,Buy,,main,GD
+2014-07-24,Deutsche Bank,Buy,,main,GD
+2014-07-24,Credit Suisse,Outperform,,main,GD
+2014-08-11,Barclays,Equal-Weight,,main,GD
+2014-10-13,Buckingham Research,Buy,Neutral,up,GD
+2014-10-23,Jefferies,Buy,,main,GD
+2014-10-23,JP Morgan,Overweight,,main,GD
+2014-10-23,Citigroup,Buy,,main,GD
+2014-10-23,Credit Suisse,Outperform,,main,GD
+2014-11-10,Barclays,Equal-Weight,,main,GD
+2014-12-19,Citigroup,Buy,,main,GD
+2015-01-05,Deutsche Bank,Buy,,main,GD
+2015-01-07,RBC Capital,Sector Perform,Outperform,down,GD
+2015-01-29,Citigroup,Buy,,main,GD
+2015-01-29,JP Morgan,Overweight,,main,GD
+2015-01-29,Jefferies,Buy,,main,GD
+2015-02-12,Barclays,Equal-Weight,,main,GD
+2015-03-19,Deutsche Bank,Buy,,main,GD
+2015-03-25,RBC Capital,Outperform,Sector Perform,up,GD
+2015-04-15,Citigroup,Buy,,main,GD
+2015-04-30,Citigroup,Buy,,main,GD
+2015-05-22,Cowen & Co.,Market Perform,Outperform,down,GD
+2015-07-14,JP Morgan,Overweight,,init,GD
+2015-07-30,Drexel Hamilton,Hold,Buy,down,GD
+2015-09-23,Bernstein,Market Perform,,main,GD
+2015-10-29,Wolfe Research,Outperform,,main,GD
+2015-11-09,Barclays,Equal-Weight,,main,GD
+2015-11-19,Argus,Buy,Hold,up,GD
+2015-11-30,Barclays,Overweight,Equal-Weight,up,GD
+2015-12-16,JP Morgan,Neutral,Overweight,down,GD
+2016-01-11,Cowen & Co.,Outperform,,up,GD
+2016-01-28,Jefferies,Buy,,main,GD
+2016-02-24,Bernstein,Market Perform,,main,GD
+2016-03-24,Deutsche Bank,Hold,Buy,down,GD
+2016-05-02,Goldman Sachs,Neutral,,main,GD
+2016-08-02,Argus,Buy,,main,GD
+2016-08-10,Bernstein,Outperform,Market Perform,up,GD
+2016-09-06,Citigroup,Buy,,main,GD
+2016-09-07,Citigroup,Buy,,main,GD
+2016-10-06,Baird,Outperform,,init,GD
+2016-10-28,Vertical Research,Buy,,init,GD
+2016-12-05,Deutsche Bank,Hold,,main,GD
+2017-01-12,RBC Capital,Outperform,,init,GD
+2017-03-01,Citigroup,Neutral,Buy,down,GD
+2017-05-10,Bernstein,Market Perform,Outperform,down,GD
+2017-07-12,Berenberg,Buy,,init,GD
+2017-08-08,Morgan Stanley,Underweight,,init,GD
+2017-08-11,Citigroup,Neutral,,main,GD
+2017-10-09,Citigroup,Neutral,,main,GD
+2017-10-26,Credit Suisse,Outperform,,main,GD
+2017-10-26,Stifel Nicolaus,Hold,,main,GD
+2017-11-13,Morgan Stanley,Underweight,,main,GD
+2017-12-12,JP Morgan,Underweight,Neutral,down,GD
+2018-01-25,Bank of America,Buy,Buy,main,GD
+2018-01-25,Credit Suisse,Outperform,Outperform,main,GD
+2018-01-25,Wells Fargo,Outperform,,main,GD
+2018-01-25,Citigroup,Neutral,Neutral,main,GD
+2018-02-13,Credit Suisse,Outperform,Outperform,main,GD
+2018-02-23,Morgan Stanley,Underweight,Underweight,main,GD
+2018-03-29,Barclays,Overweight,,init,GD
+2018-04-12,Morgan Stanley,Underweight,Underweight,main,GD
+2018-04-26,Credit Suisse,Outperform,Outperform,main,GD
+2018-04-26,Stifel Nicolaus,Hold,Hold,main,GD
+2018-06-22,Morgan Stanley,Underweight,Underweight,main,GD
+2018-07-26,Credit Suisse,Outperform,Outperform,main,GD
+2018-08-16,UBS,Neutral,,init,GD
+2018-10-25,Wells Fargo,Outperform,Outperform,main,GD
+2018-10-25,Citigroup,Neutral,Neutral,main,GD
+2018-10-25,Credit Suisse,Outperform,Outperform,main,GD
+2018-10-25,Baird,Outperform,Outperform,main,GD
+2018-10-26,Argus,Buy,Buy,main,GD
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,GD
+2018-12-04,Barclays,Overweight,Overweight,main,GD
+2019-01-08,Jefferies,Hold,Buy,down,GD
+2019-01-10,Susquehanna,Neutral,,init,GD
+2019-01-14,Citigroup,Neutral,Neutral,main,GD
+2019-01-31,Argus,Hold,Buy,down,GD
+2019-02-15,Credit Suisse,Neutral,Outperform,down,GD
+2019-04-25,UBS,Neutral,Neutral,main,GD
+2019-04-25,JP Morgan,Neutral,Underweight,up,GD
+2019-05-20,Goldman Sachs,Buy,Neutral,up,GD
+2019-06-14,Morgan Stanley,Underweight,,main,GD
+2019-08-14,Morgan Stanley,Underweight,,main,GD
+2019-10-10,Morgan Stanley,Underweight,,main,GD
+2019-10-24,Credit Suisse,Neutral,,main,GD
+2019-12-12,Morgan Stanley,Underweight,,main,GD
+2020-02-03,Argus Research,Buy,Hold,up,GD
+2020-02-06,JP Morgan,Overweight,Neutral,up,GD
+2020-02-12,CFRA,Buy,Hold,up,GD
+2020-03-24,Morgan Stanley,Underweight,,main,GD
+2020-04-14,Morgan Stanley,Underweight,,main,GD
+2020-04-30,Susquehanna,Positive,,main,GD
+2020-04-30,Credit Suisse,Neutral,,main,GD
+2020-05-06,Argus Research,Buy,,main,GD
+2020-05-19,Seaport Global,Buy,,init,GD
+2020-05-21,RBC Capital,Outperform,,init,GD
+2020-06-04,Susquehanna,Positive,,main,GD
+2020-06-11,UBS,Neutral,,main,GD
+2020-07-30,Stifel,Hold,,main,GD
+2020-07-30,RBC Capital,Outperform,,main,GD
+2020-08-03,Argus Research,Hold,Buy,down,GD
+2020-09-08,Morgan Stanley,Underweight,,init,GD
+2020-09-17,Goldman Sachs,Sell,Buy,down,GD
+2020-10-01,Barclays,Overweight,,main,GD
+2020-10-02,Baird,Neutral,Outperform,down,GD
+2021-01-29,Susquehanna,Positive,,main,GD
+2021-02-08,Morgan Stanley,Underweight,,main,GD
+2021-03-29,Cowen & Co.,Outperform,,main,GD
+2021-04-09,Wolfe Research,Underperform,Outperform,down,GD
+2021-04-29,Credit Suisse,Neutral,,main,GD
+2021-04-29,Morgan Stanley,Underweight,,main,GD
+2021-04-29,Baird,Outperform,Neutral,up,GD
+2021-05-07,Argus Research,Buy,Hold,up,GD
+2021-05-13,Wells Fargo,Overweight,,init,GD
+2021-07-29,Credit Suisse,Neutral,,main,GD
+2021-07-30,Wells Fargo,Overweight,,main,GD
+2021-09-23,Goldman Sachs,Neutral,Sell,up,GD
+2021-10-28,Susquehanna,Positive,,main,GD
+2021-10-28,Wells Fargo,Overweight,,main,GD
+2021-12-14,UBS,Buy,Neutral,up,GD

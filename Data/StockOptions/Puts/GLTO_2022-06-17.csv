@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GLTO220617P00005000,2021-12-21 16:56:27+00:00,5.0,2.4,1.85,2.45,0.0,0.0,10,10,1.0000000000000003e-05,True,REGULAR,USD,GLTO

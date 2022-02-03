@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-08-16,B. Riley FBR,Buy,,init,CELH
+2018-02-01,Maxim Group,Buy,,init,CELH
+2018-08-07,B. Riley FBR,Buy,Buy,main,CELH
+2020-04-30,Roth Capital,Buy,,init,CELH
+2020-05-13,B. Riley FBR,Buy,,main,CELH
+2020-11-13,Ladenburg Thalmann,Neutral,Buy,down,CELH
+2021-01-05,Maxim Group,Hold,Buy,down,CELH
+2021-04-06,Credit Suisse,Neutral,,init,CELH
+2021-05-14,B. Riley Securities,Buy,,main,CELH
+2021-05-14,Credit Suisse,Neutral,,main,CELH
+2021-06-11,Credit Suisse,Outperform,Neutral,up,CELH
+2021-08-13,Credit Suisse,Outperform,,main,CELH
+2021-09-10,Roth Capital,Buy,,main,CELH
+2021-09-16,Jefferies,Buy,,init,CELH
+2021-11-12,Credit Suisse,Neutral,Outperform,down,CELH
+2021-11-12,B. Riley Securities,Buy,,main,CELH
+2021-11-16,Stifel,Buy,,init,CELH

@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-07-24,Leerink Swann,Overweight,,init,MRSN
+2017-07-24,JP Morgan,Overweight,,init,MRSN
+2017-07-24,Wedbush,Outperform,,init,MRSN
+2017-07-24,Cowen & Co.,Outperform,,init,MRSN
+2018-02-15,H.C. Wainwright,Buy,,init,MRSN
+2018-03-19,JP Morgan,Neutral,Neutral,main,MRSN
+2018-03-19,JP Morgan,Neutral,Overweight,down,MRSN
+2018-05-08,Baird,Outperform,,init,MRSN
+2018-07-20,Leerink Swann,Market Perform,Overweight,down,MRSN
+2019-03-11,JP Morgan,Underweight,Neutral,down,MRSN
+2019-07-15,Canaccord Genuity,Buy,,init,MRSN
+2019-07-15,Cowen & Co.,Outperform,,init,MRSN
+2019-07-15,JP Morgan,Overweight,,init,MRSN
+2019-07-15,Credit Suisse,Outperform,,init,MRSN
+2019-10-25,H.C. Wainwright,Buy,,init,MRSN
+2019-11-12,BTIG,Neutral,,init,MRSN
+2019-12-03,JP Morgan,Overweight,,main,MRSN
+2019-12-18,Wedbush,Outperform,,init,MRSN
+2020-04-29,BTIG,Buy,,init,MRSN
+2020-05-27,H.C. Wainwright,Buy,,reit,MRSN
+2020-05-27,SVB Leerink,Outperform,,reit,MRSN
+2020-05-28,Baird,Outperform,,main,MRSN
+2020-09-29,Needham,Buy,,init,MRSN
+2020-10-23,Cantor Fitzgerald,Overweight,,init,MRSN
+2020-11-09,SVB Leerink,Outperform,,main,MRSN
+2020-11-13,Credit Suisse,Outperform,,main,MRSN
+2020-11-13,Canaccord Genuity,Buy,,main,MRSN
+2020-12-03,Stifel,Buy,,init,MRSN
+2020-12-11,Needham,Buy,,main,MRSN
+2020-12-28,Canaccord Genuity,Buy,,main,MRSN
+2021-01-14,Needham,Buy,,main,MRSN
+2021-02-10,Wedbush,Neutral,Outperform,down,MRSN
+2021-03-10,Credit Suisse,Outperform,,main,MRSN
+2021-03-11,Canaccord Genuity,Buy,,main,MRSN
+2021-03-31,Credit Suisse,Neutral,,init,MRSN
+2021-05-10,Wedbush,Outperform,Neutral,up,MRSN
+2021-05-18,UBS,Neutral,,init,MRSN
+2021-08-30,HC Wainwright & Co.,Buy,,init,MRSN
+2021-11-22,JP Morgan,Overweight,Neutral,up,MRSN
+2021-12-03,B of A Securities,Buy,,init,MRSN

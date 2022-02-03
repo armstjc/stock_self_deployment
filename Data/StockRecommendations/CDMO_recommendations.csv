@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-14,First Analysis,Overweight,,init,CDMO
+2018-06-25,Janney Capital,Buy,,init,CDMO
+2018-09-11,H.C. Wainwright,Buy,Buy,main,CDMO
+2019-05-09,Janney Capital,Neutral,Buy,down,CDMO
+2019-06-28,Janney Capital,Buy,Neutral,up,CDMO
+2019-10-16,Craig-Hallum,Buy,,init,CDMO
+2019-10-17,Stephens & Co.,Overweight,,init,CDMO
+2019-12-10,Stephens & Co.,Overweight,,reit,CDMO
+2019-12-10,First Analysis,Strong Buy,Outperform,up,CDMO
+2020-03-11,H.C. Wainwright,Buy,,reit,CDMO
+2020-11-10,KeyBanc,Overweight,,init,CDMO
+2021-03-17,RBC Capital,Outperform,,init,CDMO
+2021-06-30,Keybanc,Overweight,,main,CDMO
+2021-06-30,RBC Capital,Outperform,,main,CDMO
+2021-06-30,Craig-Hallum,Buy,,main,CDMO
+2021-12-08,Keybanc,Sector Weight,Overweight,down,CDMO
+2021-12-08,RBC Capital,Outperform,,main,CDMO
+2021-12-08,Craig-Hallum,Buy,,main,CDMO

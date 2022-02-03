@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+WST220916C00480000,2022-01-31 19:06:20+00:00,480.0,14.3,0.0,0.0,0.0,0.0,3,0,0.0312596875,False,REGULAR,USD,WST

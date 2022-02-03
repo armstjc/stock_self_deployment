@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-31,Roth Capital,Buy,,init,LMNR
+2012-10-03,Feltl & Co.,Strong Buy,,init,LMNR
+2014-11-11,Lake Street,Buy,,init,LMNR
+2015-02-25,Janney Capital,Buy,,init,LMNR
+2015-10-19,Buckingham Research,Buy,,init,LMNR
+2018-06-12,Buckingham,Buy,Buy,main,LMNR
+2018-06-25,Stephens & Co.,Overweight,,init,LMNR
+2018-06-28,Stifel Nicolaus,Buy,,init,LMNR
+2018-09-11,Buckingham,Buy,Buy,main,LMNR
+2019-05-14,Stephens & Co.,Equal-Weight,Overweight,down,LMNR
+2019-07-22,National Securities,Buy,,init,LMNR
+2020-03-12,Stephens & Co.,Equal-Weight,,main,LMNR
+2020-06-10,Stifel,Buy,,main,LMNR
+2021-02-19,Seaport Global,Neutral,,init,LMNR
+2021-03-05,Stephens & Co.,Overweight,Equal-Weight,up,LMNR

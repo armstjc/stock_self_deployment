@@ -1,0 +1,148 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,Sterne Agee,Neutral,,down,HAS
+2012-04-24,Citigroup,Neutral,,main,HAS
+2012-05-18,SunTrust Robinson Humphrey,Neutral,,init,HAS
+2012-06-27,Citigroup,Sell,Neutral,down,HAS
+2012-07-24,Citigroup,Sell,,main,HAS
+2012-09-17,Stifel Nicolaus,Hold,Buy,down,HAS
+2012-10-15,Goldman Sachs,Sell,Neutral,down,HAS
+2012-10-19,Goldman Sachs,Sell,Neutral,down,HAS
+2013-02-19,BMO Capital,Underperform,,main,HAS
+2013-03-13,KeyBanc,Hold,Buy,down,HAS
+2013-05-20,PiperJaffray,Overweight,,init,HAS
+2013-07-23,Needham,Buy,Hold,up,HAS
+2013-08-26,Citigroup,Buy,Sell,up,HAS
+2013-10-22,Monness Crespi Hardt,Buy,Neutral,up,HAS
+2013-10-25,BMO Capital,Market Perform,Underperform,up,HAS
+2014-02-11,Citigroup,Buy,,main,HAS
+2014-04-04,Needham,Hold,Buy,down,HAS
+2014-04-22,Barclays,Equal-Weight,,main,HAS
+2014-04-24,Citigroup,Buy,,main,HAS
+2014-07-22,Barclays,Overweight,Equal-Weight,up,HAS
+2014-07-29,Citigroup,Buy,,main,HAS
+2014-10-21,Barclays,Overweight,,main,HAS
+2014-10-30,Citigroup,Buy,,main,HAS
+2015-02-10,BMO Capital,Outperform,Market Perform,up,HAS
+2015-02-20,Barclays,Equal-Weight,Overweight,down,HAS
+2015-02-27,Citigroup,Buy,,main,HAS
+2015-04-21,SunTrust Robinson Humphrey,Neutral,,main,HAS
+2015-04-27,Citigroup,Buy,,main,HAS
+2015-07-21,BMO Capital,Market Perform,Outperform,down,HAS
+2015-07-21,PiperJaffray,Neutral,Overweight,down,HAS
+2015-07-21,Wells Fargo,Market Perform,Outperform,down,HAS
+2015-08-03,Citigroup,Buy,,main,HAS
+2015-08-20,Oppenheimer,Perform,,init,HAS
+2015-09-24,SunTrust Robinson Humphrey,Neutral,,main,HAS
+2015-09-30,BMO Capital,Market Perform,,main,HAS
+2015-12-04,Jefferies,Hold,,init,HAS
+2016-02-09,Barclays,Equal-Weight,,main,HAS
+2016-03-24,UBS,Neutral,,init,HAS
+2016-04-07,JP Morgan,Neutral,,init,HAS
+2016-04-12,Jefferies,Hold,,main,HAS
+2016-04-19,JP Morgan,Neutral,,main,HAS
+2016-04-19,Barclays,Equal-Weight,,main,HAS
+2016-05-10,PiperJaffray,Neutral,Overweight,down,HAS
+2016-06-06,Citigroup,Buy,,main,HAS
+2016-07-19,Barclays,Equal-Weight,,main,HAS
+2016-07-19,PiperJaffray,Overweight,Neutral,up,HAS
+2016-11-28,PiperJaffray,Neutral,Overweight,down,HAS
+2017-01-26,Monness Crespi Hardt,Neutral,Buy,down,HAS
+2017-02-13,Goldman Sachs,Buy,,init,HAS
+2017-04-03,B. Riley FBR,Neutral,,init,HAS
+2017-05-23,DA Davidson,Buy,,init,HAS
+2017-06-08,Jefferies,Buy,,init,HAS
+2017-06-16,Argus,Buy,,init,HAS
+2017-07-13,Stifel Nicolaus,Hold,,main,HAS
+2017-10-16,Stifel Nicolaus,Hold,,main,HAS
+2017-10-24,Wells Fargo,Market Perform,,main,HAS
+2017-10-24,BMO Capital,Market Perform,,main,HAS
+2017-10-24,Barclays,Overweight,Equal-Weight,up,HAS
+2017-12-21,B. Riley FBR,Buy,,init,HAS
+2018-01-30,Stifel Nicolaus,Hold,Hold,main,HAS
+2018-02-08,BMO Capital,Market Perform,Market Perform,main,HAS
+2018-02-08,B. Riley FBR,Buy,Buy,main,HAS
+2018-02-08,KeyBanc,Overweight,Overweight,main,HAS
+2018-02-28,Morgan Stanley,Equal-Weight,Equal-Weight,main,HAS
+2018-03-08,BMO Capital,Market Perform,Market Perform,main,HAS
+2018-03-20,BMO Capital,Market Perform,Market Perform,main,HAS
+2018-03-29,UBS,Neutral,Neutral,main,HAS
+2018-04-04,Stifel Nicolaus,Hold,Hold,main,HAS
+2018-04-24,B. Riley FBR,Buy,Buy,main,HAS
+2018-04-24,BMO Capital,Market Perform,Market Perform,main,HAS
+2018-04-24,KeyBanc,Overweight,Overweight,main,HAS
+2018-04-25,Argus,Buy,Buy,main,HAS
+2018-07-10,Stifel Nicolaus,Hold,Hold,main,HAS
+2018-07-16,BMO Capital,Underperform,Market Perform,down,HAS
+2018-07-24,B. Riley FBR,Buy,Buy,main,HAS
+2018-07-24,KeyBanc,Overweight,Overweight,main,HAS
+2018-07-24,Monness Crespi Hardt,Neutral,Buy,down,HAS
+2018-07-24,Barclays,Overweight,Overweight,main,HAS
+2018-07-24,Stifel Nicolaus,Hold,Hold,main,HAS
+2018-07-25,BMO Capital,Underperform,Underperform,main,HAS
+2018-08-08,Citigroup,Buy,Buy,main,HAS
+2018-08-15,MKM Partners,Buy,Neutral,up,HAS
+2018-10-05,Stifel Nicolaus,Hold,Hold,main,HAS
+2018-10-15,KeyBanc,Overweight,Overweight,main,HAS
+2018-10-23,Barclays,Overweight,Overweight,main,HAS
+2018-10-30,Argus,Buy,Buy,main,HAS
+2018-10-30,Citigroup,Buy,Buy,main,HAS
+2019-02-13,Wells Fargo,Market Perform,Market Perform,main,HAS
+2019-02-26,BMO Capital,Underperform,Underperform,main,HAS
+2019-03-04,BMO Capital,Market Perform,Underperform,up,HAS
+2019-03-11,Citigroup,Buy,Buy,main,HAS
+2019-03-21,Wells Fargo,Market Perform,Market Perform,main,HAS
+2019-04-24,Barclays,Overweight,Overweight,main,HAS
+2019-04-24,Stifel Nicolaus,Hold,Hold,main,HAS
+2019-04-24,MKM Partners,Buy,,main,HAS
+2019-04-25,Argus,Hold,Buy,down,HAS
+2019-05-01,BMO Capital,Market Perform,Market Perform,main,HAS
+2019-05-08,Citigroup,Buy,,main,HAS
+2019-07-15,Stifel Nicolaus,Hold,,main,HAS
+2019-07-24,MKM Partners,Buy,,main,HAS
+2019-07-24,DA Davidson,Buy,,main,HAS
+2019-07-24,BMO Capital,Market Perform,,main,HAS
+2019-07-24,Barclays,Overweight,,main,HAS
+2019-07-26,Argus Research,Buy,Hold,up,HAS
+2019-07-29,KeyBanc,Overweight,,main,HAS
+2019-08-01,Wells Fargo,Market Perform,,main,HAS
+2019-10-01,Stifel Nicolaus,Hold,,main,HAS
+2019-10-08,UBS,Neutral,,main,HAS
+2019-10-23,SunTrust Robinson Humphrey,Hold,,main,HAS
+2019-10-23,BMO Capital,Market Perform,,main,HAS
+2019-10-28,KeyBanc,Overweight,,main,HAS
+2019-11-25,UBS,Buy,Neutral,up,HAS
+2020-01-14,MKM Partners,Buy,,main,HAS
+2020-01-15,Wells Fargo,Equal-Weight,,main,HAS
+2020-01-27,JP Morgan,Neutral,,init,HAS
+2020-01-29,B of A Securities,Neutral,,init,HAS
+2020-02-27,SunTrust Robinson Humphrey,Hold,,main,HAS
+2020-02-27,JP Morgan,Neutral,,main,HAS
+2020-03-03,BMO Capital,Market Perform,,main,HAS
+2020-04-03,Stifel,Hold,,main,HAS
+2020-04-07,MKM Partners,Buy,,main,HAS
+2020-04-09,JP Morgan,Neutral,,main,HAS
+2020-04-17,Wells Fargo,Equal-Weight,,main,HAS
+2020-04-30,SunTrust Robinson Humphrey,Hold,,main,HAS
+2020-04-30,DA Davidson,Buy,,main,HAS
+2020-04-30,Wells Fargo,Equal-Weight,,main,HAS
+2020-05-04,Barclays,Overweight,,main,HAS
+2020-05-26,UBS,Buy,,main,HAS
+2020-06-09,Consumer Edge Research,Equal-Weight,Overweight,down,HAS
+2020-07-28,DA Davidson,Buy,,main,HAS
+2020-09-23,BMO Capital,Outperform,Market Perform,up,HAS
+2020-09-30,Stifel,Buy,Hold,up,HAS
+2020-10-27,DA Davidson,Buy,,main,HAS
+2020-10-27,KeyBanc,Overweight,,main,HAS
+2020-11-23,KeyBanc,Overweight,,main,HAS
+2020-12-02,BMO Capital,Market Perform,Outperform,down,HAS
+2020-12-09,Citigroup,Buy,,init,HAS
+2021-02-09,BMO Capital,Market Perform,,main,HAS
+2021-02-09,DA Davidson,Buy,,main,HAS
+2021-03-15,Truist Securities,Hold,,main,HAS
+2021-04-28,Jefferies,Buy,,main,HAS
+2021-04-28,DA Davidson,Buy,,main,HAS
+2021-04-29,Keybanc,Overweight,,main,HAS
+2021-07-27,BMO Capital,Market Perform,,main,HAS
+2021-07-27,Keybanc,Overweight,,main,HAS
+2021-10-04,Stifel,Buy,,main,HAS
+2021-10-27,DA Davidson,Buy,,main,HAS

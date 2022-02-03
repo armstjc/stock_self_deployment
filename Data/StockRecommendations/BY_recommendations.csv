@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-07-25,Keefe Bruyette & Woods,Market Perform,,init,BY
+2017-07-25,PiperJaffray,Overweight,,init,BY
+2017-07-25,Bank of America,Buy,,init,BY
+2017-07-26,Stephens & Co.,Equal-Weight,,init,BY
+2017-11-29,Keefe Bruyette & Woods,Outperform,Market Perform,up,BY
+2018-05-30,Sandler O'Neill,Hold,,init,BY
+2019-01-10,Bank of America,Neutral,Buy,down,BY
+2019-09-25,Piper Jaffray,Overweight,,main,BY
+2019-12-19,Stephens & Co.,Overweight,Equal-Weight,up,BY
+2020-07-27,Piper Sandler,Overweight,,main,BY
+2020-10-26,Piper Sandler,Overweight,,main,BY
+2021-08-02,Stephens & Co.,Equal-Weight,Overweight,down,BY

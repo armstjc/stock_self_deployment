@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-09,Citigroup,Neutral,,main,MDU
+2013-02-06,DA Davidson,Neutral,,main,MDU
+2013-02-13,Williams Capital,Buy,Hold,up,MDU
+2013-05-02,DA Davidson,Buy,Neutral,up,MDU
+2013-07-29,ISI Group,Neutral,,init,MDU
+2013-07-31,DA Davidson,Neutral,Buy,down,MDU
+2013-08-05,Argus,Hold,Buy,down,MDU
+2013-10-07,Ameriprise Financial,Buy,,init,MDU
+2013-10-30,Citigroup,Neutral,Buy,down,MDU
+2014-02-05,DA Davidson,Buy,,main,MDU
+2014-05-02,DA Davidson,Buy,,main,MDU
+2014-07-10,Wells Fargo,Market Perform,,init,MDU
+2014-11-04,Evercore ISI Group,Sell,Neutral,down,MDU
+2014-11-05,Baird,Neutral,Outperform,down,MDU
+2014-12-19,Barclays,Equal-Weight,,main,MDU
+2015-02-02,DA Davidson,Neutral,Buy,down,MDU
+2015-02-04,Barclays,Underweight,Equal-Weight,down,MDU
+2015-06-01,Baird,Neutral,,main,MDU
+2015-11-12,KeyBanc,Overweight,,main,MDU
+2016-02-05,Barclays,Underweight,,main,MDU
+2016-05-31,Argus,Buy,Hold,up,MDU
+2016-12-20,UBS,Neutral,,init,MDU
+2017-02-13,Argus,Hold,Buy,down,MDU
+2018-07-19,KeyBanc,Overweight,Overweight,main,MDU
+2018-07-31,Citigroup,Neutral,Neutral,main,MDU
+2020-05-11,Wells Fargo,Equal-Weight,,main,MDU
+2020-06-16,Citigroup,Neutral,,main,MDU
+2020-08-06,Wells Fargo,Equal-Weight,,main,MDU
+2021-03-23,B of A Securities,Buy,,init,MDU

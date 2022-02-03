@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Stifel Nicolaus,Buy,,main,COHR
+2012-11-01,Stifel Nicolaus,Buy,,main,COHR
+2012-11-01,Needham,Hold,Buy,down,COHR
+2013-01-07,Stifel Nicolaus,Buy,,main,COHR
+2013-01-25,Noble Financial,Buy,Hold,up,COHR
+2013-04-25,Needham,Buy,Hold,up,COHR
+2013-10-21,Stifel Nicolaus,Buy,,main,COHR
+2013-10-31,Stifel Nicolaus,Buy,,main,COHR
+2014-01-06,Stifel Nicolaus,Buy,,main,COHR
+2014-04-30,B. Riley FBR,Neutral,,main,COHR
+2014-11-05,Longbow Research,Hold,Buy,down,COHR
+2015-01-30,B. Riley FBR,Buy,Neutral,up,COHR
+2015-04-28,B. Riley FBR,Neutral,Buy,down,COHR
+2015-06-02,Benchmark,Buy,,init,COHR
+2015-06-15,Sidoti & Co.,Buy,,init,COHR
+2015-07-31,Stifel Nicolaus,Buy,,main,COHR
+2015-11-05,B. Riley FBR,Neutral,,main,COHR
+2016-01-29,B. Riley FBR,Neutral,,main,COHR
+2016-03-07,Stifel Nicolaus,Buy,,main,COHR
+2016-07-28,Stifel Nicolaus,Buy,,main,COHR
+2016-10-25,Northcoast Research,Buy,,init,COHR
+2017-02-15,Susquehanna,Neutral,,init,COHR
+2017-08-03,Susquehanna,Positive,Neutral,up,COHR
+2017-11-08,Stifel Nicolaus,Buy,,main,COHR
+2017-11-08,Barclays,Overweight,,main,COHR
+2018-02-08,Barclays,Overweight,Overweight,main,COHR
+2018-02-08,Stifel Nicolaus,Buy,Buy,main,COHR
+2018-05-02,Barclays,Overweight,Overweight,main,COHR
+2018-07-27,Stifel Nicolaus,Buy,Buy,main,COHR
+2018-08-01,Stifel Nicolaus,Buy,Buy,main,COHR
+2018-10-09,Longbow Research,Neutral,Buy,down,COHR
+2018-10-23,Barclays,Overweight,Overweight,main,COHR
+2018-12-11,Goldman Sachs,Neutral,,init,COHR
+2019-01-17,Barclays,Equal-Weight,Overweight,down,COHR
+2019-01-30,Needham,Hold,Buy,down,COHR
+2019-04-29,Susquehanna,Neutral,Positive,down,COHR
+2019-05-01,Stifel Nicolaus,Buy,Buy,main,COHR
+2019-09-17,Benchmark,Buy,,main,COHR
+2019-12-16,Susquehanna,Positive,Neutral,up,COHR
+2019-12-20,PiperJaffray,Overweight,,init,COHR
+2020-02-06,Barclays,Equal-Weight,,main,COHR
+2020-04-17,Barclays,Equal-Weight,,main,COHR
+2020-04-24,Goldman Sachs,Buy,Neutral,up,COHR
+2020-05-28,Benchmark,Buy,,main,COHR
+2020-05-28,Stifel,Buy,,main,COHR
+2020-05-28,Piper Sandler,Overweight,,main,COHR
+2020-07-27,Longbow Research,Buy,Neutral,up,COHR
+2020-08-05,Benchmark,Buy,,main,COHR
+2020-11-11,Stifel,Hold,Buy,down,COHR
+2020-11-12,Longbow Research,Neutral,Buy,down,COHR
+2021-01-12,Barclays,Underweight,Equal-Weight,down,COHR
+2021-01-21,Berenberg,Hold,Buy,down,COHR
+2021-02-11,Benchmark,Hold,Buy,down,COHR
+2021-09-22,Susquehanna,Neutral,Positive,down,COHR

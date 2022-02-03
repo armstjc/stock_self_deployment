@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+WCC221216C00130000,2021-12-28 18:15:38+00:00,130.0,21.0,19.4,22.3,0.0,0.0,,1,0.5254564056396485,False,REGULAR,USD,WCC

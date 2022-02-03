@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AKUS220218C00010000,2022-01-24 18:45:22+00:00,10.0,0.2,0.0,0.1,0.0,0.0,7,4,1.3906280468749999,False,REGULAR,USD,AKUS

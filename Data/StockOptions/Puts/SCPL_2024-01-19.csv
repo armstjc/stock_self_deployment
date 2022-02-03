@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SCPL240119P00010000,2021-11-16 20:32:02+00:00,10.0,1.75,0.15,3.6,0.0,0.0,,4,0.8100604931640624,False,REGULAR,USD,SCPL

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-08,Mackie Research,Hold,Buy,down,AGI
+2013-07-17,Canaccord Genuity,Hold,Buy,down,AGI
+2013-07-29,Macquarie,Neutral,Outperform,down,AGI
+2013-11-01,Canaccord Genuity,Buy,,up,AGI
+2013-11-01,Jacob Securities,Hold,,down,AGI
+2014-01-27,RBC Capital,Outperform,Sector Perform,up,AGI
+2014-04-01,Mackie Research,,,up,AGI
+2014-05-29,Credit Suisse,Neutral,,main,AGI
+2015-01-09,Canaccord Genuity,Hold,Buy,down,AGI
+2015-06-15,Desjardins,Buy,Hold,up,AGI
+2015-07-06,Raymond James,Market Perform,,main,AGI
+2015-07-10,Canaccord Genuity,Buy,Hold,up,AGI
+2015-07-24,Raymond James,Outperform,Market Perform,up,AGI
+2015-08-11,Scotia Howard Weil,Outperform,Sector Perform,up,AGI
+2015-08-12,Scotiabank,Sector Outperform,,up,AGI
+2016-03-10,RBC Capital,Sector Perform,Outperform,down,AGI
+2016-03-29,Scotiabank,Sector Perform,Outperform,down,AGI
+2016-04-20,Raymond James,Market Perform,Outperform,down,AGI
+2016-05-03,Canaccord Genuity,Hold,Buy,down,AGI
+2016-06-27,Raymond James,Outperform,Market Perform,up,AGI
+2016-08-11,Desjardins,Buy,Hold,up,AGI
+2016-12-12,RBC Capital,Outperform,Sector Perform,up,AGI
+2017-01-13,Credit Suisse,Neutral,Outperform,down,AGI
+2017-02-10,RBC Capital,Sector Perform,Outperform,down,AGI
+2018-01-26,Credit Suisse,Outperform,Neutral,up,AGI
+2018-03-21,Credit Suisse,Outperform,Outperform,main,AGI
+2018-06-07,Desjardins,Buy,Hold,up,AGI
+2019-04-16,Credit Suisse,Outperform,,init,AGI
+2020-01-16,Credit Suisse,Neutral,Outperform,down,AGI
+2020-03-12,B of A Securities,Underperform,Neutral,down,AGI
+2020-10-08,B of A Securities,Underperform,,main,AGI
+2020-10-29,ScotiaBank,Sector Perform,,main,AGI

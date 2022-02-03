@@ -1,0 +1,60 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Ladenburg Thalmann,Buy,,main,NWE
+2012-09-27,Williams Capital,Hold,,main,NWE
+2012-10-25,DA Davidson,Neutral,,main,NWE
+2013-02-15,DA Davidson,Neutral,,main,NWE
+2013-02-15,Wells Fargo,Market Perform,Outperform,down,NWE
+2013-05-31,Baird,Outperform,Neutral,up,NWE
+2013-07-26,Wunderlich,Neutral,,main,NWE
+2014-06-02,KeyBanc,Buy,Hold,up,NWE
+2014-11-17,Bank of America,Neutral,,init,NWE
+2014-12-01,Baird,Neutral,Outperform,down,NWE
+2014-12-17,Credit Suisse,Neutral,,init,NWE
+2015-01-12,KeyBanc,Hold,Buy,down,NWE
+2015-07-08,Bank of America,Underperform,Neutral,down,NWE
+2015-10-21,Ladenburg Thalmann,Neutral,Buy,down,NWE
+2016-03-31,Mizuho,Neutral,,init,NWE
+2017-01-25,Credit Suisse,Neutral,,init,NWE
+2017-07-24,Credit Suisse,Underperform,Neutral,down,NWE
+2017-07-31,Williams Capital,Sell,Hold,down,NWE
+2017-11-10,Credit Suisse,Underperform,,main,NWE
+2018-06-04,KeyBanc,Overweight,Sector Weight,up,NWE
+2018-07-10,Barclays,Equal-Weight,,init,NWE
+2018-07-19,Credit Suisse,Underperform,Underperform,main,NWE
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,NWE
+2018-10-01,Credit Suisse,Underperform,Underperform,main,NWE
+2018-11-19,Barclays,Equal-Weight,Equal-Weight,main,NWE
+2018-12-17,KeyBanc,Overweight,Overweight,main,NWE
+2019-02-13,Credit Suisse,Underperform,Underperform,main,NWE
+2019-03-20,Barclays,Underweight,Equal-Weight,down,NWE
+2019-08-26,Williams Capital,Hold,Sell,up,NWE
+2019-11-04,Credit Suisse,Underperform,,main,NWE
+2019-11-21,Wells Fargo,Outperform,Market Perform,up,NWE
+2019-12-11,Credit Suisse,Underperform,,main,NWE
+2020-01-02,Credit Suisse,Underperform,,main,NWE
+2020-01-08,Guggenheim,Neutral,,init,NWE
+2020-02-18,Credit Suisse,Underperform,,main,NWE
+2020-03-26,Barclays,Underweight,,main,NWE
+2020-04-20,Credit Suisse,Neutral,Underperform,up,NWE
+2020-04-21,Barclays,Equal-Weight,Underweight,up,NWE
+2020-04-24,Wells Fargo,Overweight,,main,NWE
+2020-06-17,Wells Fargo,Overweight,,main,NWE
+2020-09-21,Barclays,Overweight,Equal-Weight,up,NWE
+2020-10-20,Credit Suisse,Neutral,,main,NWE
+2020-10-23,Credit Suisse,Neutral,,main,NWE
+2020-11-17,Credit Suisse,Outperform,Neutral,up,NWE
+2020-11-18,Barclays,Equal-Weight,Overweight,down,NWE
+2020-11-19,Wells Fargo,Overweight,,main,NWE
+2020-12-04,KeyBanc,Overweight,,init,NWE
+2021-01-12,KeyBanc,Overweight,,main,NWE
+2021-01-19,Credit Suisse,Outperform,,main,NWE
+2021-03-23,B of A Securities,Neutral,Underperform,up,NWE
+2021-04-13,Credit Suisse,Neutral,Outperform,down,NWE
+2021-04-21,Keybanc,Overweight,,main,NWE
+2021-07-20,Keybanc,Overweight,,main,NWE
+2021-07-29,Wells Fargo,Overweight,,main,NWE
+2021-10-19,Keybanc,Overweight,,main,NWE
+2021-10-26,Wells Fargo,Overweight,,main,NWE
+2021-11-16,Barclays,Underweight,Equal-Weight,down,NWE
+2021-11-18,Wells Fargo,Overweight,,main,NWE
+2021-12-13,Wells Fargo,Equal-Weight,Overweight,down,NWE

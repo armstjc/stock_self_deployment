@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-27,Deutsche Bank,Hold,,main,AMKR
+2013-06-06,Topeka,Buy,,init,AMKR
+2013-06-12,Sidoti & Co.,Buy,,init,AMKR
+2013-11-11,Sidoti & Co.,Neutral,Buy,down,AMKR
+2014-04-22,Citigroup,Buy,,main,AMKR
+2014-04-29,Deutsche Bank,Hold,,main,AMKR
+2014-04-29,Topeka,Buy,,main,AMKR
+2014-07-29,Deutsche Bank,Buy,,main,AMKR
+2014-08-08,Citigroup,Buy,,main,AMKR
+2014-10-28,Credit Suisse,Neutral,,main,AMKR
+2015-02-10,Deutsche Bank,Hold,,main,AMKR
+2015-09-15,Citigroup,Neutral,Buy,down,AMKR
+2016-05-25,Citigroup,Sell,Neutral,down,AMKR
+2016-08-03,Citigroup,Sell,,main,AMKR
+2018-04-30,Citigroup,Sell,Sell,main,AMKR
+2018-07-31,Deutsche Bank,Hold,Hold,main,AMKR
+2018-10-30,Deutsche Bank,Hold,Hold,main,AMKR
+2018-10-31,Citigroup,Sell,Sell,main,AMKR
+2019-10-29,Credit Suisse,Outperform,Neutral,up,AMKR
+2020-03-27,Deutsche Bank,Hold,,main,AMKR
+2020-04-28,Credit Suisse,Neutral,Outperform,down,AMKR
+2020-04-28,Deutsche Bank,Hold,,main,AMKR
+2020-04-28,Sidoti & Co.,Buy,,main,AMKR
+2020-04-29,Citigroup,Sell,,main,AMKR
+2020-09-14,Credit Suisse,Outperform,Neutral,up,AMKR
+2021-10-12,Credit Suisse,Neutral,Outperform,down,AMKR

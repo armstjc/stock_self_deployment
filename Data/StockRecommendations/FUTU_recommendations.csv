@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-03,Goldman Sachs,Neutral,,init,FUTU
+2021-02-16,Morgan Stanley,Overweight,,init,FUTU
+2021-02-26,Citigroup,Buy,,main,FUTU
+2021-03-17,Citigroup,Buy,,main,FUTU
+2021-04-26,B of A Securities,Buy,,init,FUTU
+2021-07-14,Goldman Sachs,Neutral,,init,FUTU
+2021-08-02,BOCOM International,Buy,Neutral,up,FUTU
+2021-10-18,JP Morgan,Overweight,,init,FUTU
+2021-10-19,CLSA,Buy,,init,FUTU
+2021-10-29,Morgan Stanley,Equal-Weight,Overweight,down,FUTU

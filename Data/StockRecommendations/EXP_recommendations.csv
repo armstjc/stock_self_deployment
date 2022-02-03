@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-16,Bank of America,Buy,,main,EXP
+2013-02-22,Sterne Agee,Buy,Neutral,up,EXP
+2013-03-11,Sterne Agee,Neutral,Buy,down,EXP
+2013-03-28,Sterne Agee,Buy,Neutral,up,EXP
+2013-04-08,Stephens & Co.,Overweight,Equal-Weight,up,EXP
+2013-04-17,Longbow Research,Buy,Neutral,up,EXP
+2013-05-16,Sterne Agee,Buy,,main,EXP
+2014-10-21,Stifel Nicolaus,Buy,Hold,up,EXP
+2015-11-20,Goldman Sachs,Neutral,Buy,down,EXP
+2015-12-15,Citigroup,Buy,,init,EXP
+2016-03-28,BB&T Capital,Buy,Hold,up,EXP
+2016-03-28,Standpoint Research,Accumulate,,init,EXP
+2016-04-18,Citigroup,Buy,,main,EXP
+2016-07-26,CL King,Neutral,Strong Buy,down,EXP
+2016-10-04,CL King,Buy,Neutral,up,EXP
+2016-10-04,Standpoint Research,Buy,Hold,up,EXP
+2016-11-09,Standpoint Research,Hold,Buy,down,EXP
+2016-11-17,Stephens & Co.,Equal-Weight,Overweight,down,EXP
+2016-12-05,Citigroup,Neutral,Buy,down,EXP
+2017-07-31,Standpoint Research,Buy,Hold,up,EXP
+2017-07-31,Citigroup,Buy,Neutral,up,EXP
+2017-09-28,Standpoint Research,Hold,Buy,down,EXP
+2018-01-25,Citigroup,Buy,Buy,main,EXP
+2018-02-01,Stifel Nicolaus,Buy,Buy,main,EXP
+2018-03-13,Raymond James,Market Perform,,init,EXP
+2018-03-23,Longbow Research,Buy,Neutral,up,EXP
+2018-04-17,Jefferies,Buy,,init,EXP
+2018-06-13,Northcoast Research,Buy,Neutral,up,EXP
+2018-07-31,Citigroup,Buy,Buy,main,EXP
+2018-09-27,Macquarie,Outperform,,init,EXP
+2018-10-12,Standpoint Research,Buy,Hold,up,EXP
+2018-10-31,Citigroup,Buy,Buy,main,EXP
+2019-01-03,Citigroup,Buy,Buy,main,EXP
+2019-01-04,Citigroup,Buy,Buy,main,EXP
+2019-03-21,JP Morgan,Neutral,,init,EXP
+2019-03-25,SunTrust Robinson Humphrey,Buy,,init,EXP
+2019-04-01,Citigroup,Buy,Buy,main,EXP
+2019-04-02,DA Davidson,Neutral,Buy,down,EXP
+2019-04-03,Berenberg,Buy,,init,EXP
+2019-04-05,Raymond James,Outperform,Market Perform,up,EXP
+2019-05-17,Raymond James,Outperform,,main,EXP
+2019-07-01,Northcoast Research,Sell,Neutral,down,EXP
+2019-07-18,Jefferies,Hold,Buy,down,EXP
+2019-09-05,JP Morgan,Neutral,,main,EXP
+2019-09-20,Northcoast Research,Neutral,Sell,up,EXP
+2019-11-29,SunTrust Robinson Humphrey,Buy,,main,EXP
+2020-01-27,Citigroup,Buy,,init,EXP
+2020-02-05,CFRA,Buy,Hold,up,EXP
+2020-04-16,SunTrust Robinson Humphrey,Buy,,main,EXP
+2020-04-23,JP Morgan,Overweight,Neutral,up,EXP
+2020-05-20,Raymond James,Outperform,Market Perform,up,EXP
+2020-05-20,CFRA,Buy,,main,EXP
+2020-05-21,DA Davidson,Neutral,,main,EXP
+2020-07-22,Citigroup,Buy,,main,EXP
+2020-07-29,Raymond James,Outperform,,main,EXP
+2020-07-31,Raymond James,Outperform,,main,EXP
+2020-10-30,Raymond James,Outperform,,main,EXP
+2020-11-19,Loop Capital,Buy,Hold,up,EXP
+2020-11-20,Goldman Sachs,Buy,Neutral,up,EXP
+2021-01-29,Raymond James,Outperform,,main,EXP
+2021-02-01,Truist Securities,Buy,,main,EXP
+2021-05-03,Raymond James,Outperform,,main,EXP
+2021-05-10,Jefferies,Buy,Hold,up,EXP
+2021-05-26,JP Morgan,Overweight,,main,EXP
+2021-08-30,Berenberg,Buy,Hold,up,EXP
+2021-10-26,Citigroup,Buy,,main,EXP
+2021-10-29,Raymond James,Outperform,,main,EXP
+2021-11-02,Stephens & Co.,Overweight,,main,EXP
+2021-12-03,Loop Capital,Hold,Buy,down,EXP
+2022-01-10,Northcoast Research,Buy,Neutral,up,EXP

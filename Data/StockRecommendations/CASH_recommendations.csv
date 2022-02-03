@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-07,Raymond James,Outperform,,init,CASH
+2013-04-04,Sterne Agee,Buy,,init,CASH
+2013-09-06,Raymond James,Strong Buy,Outperform,up,CASH
+2014-05-06,Raymond James,Strong Buy,,main,CASH
+2015-07-20,Raymond James,Strong Buy,,main,CASH
+2016-04-07,Keefe Bruyette & Woods,Outperform,,init,CASH
+2016-08-15,Keefe Bruyette & Woods,Outperform,,main,CASH
+2016-10-04,Keefe Bruyette & Woods,Outperform,,main,CASH
+2017-01-10,FBR Capital,Outperform,,init,CASH
+2017-07-28,FBR Capital,Market Perform,Outperform,down,CASH
+2017-10-31,FBR Capital,Buy,Neutral,up,CASH
+2018-01-31,B. Riley FBR,Buy,Buy,main,CASH
+2018-06-21,B. Riley FBR,Buy,Buy,main,CASH
+2018-09-13,B. Riley FBR,Neutral,Neutral,main,CASH
+2018-09-17,Raymond James,Strong Buy,Strong Buy,main,CASH
+2018-10-15,Raymond James,Strong Buy,Strong Buy,main,CASH
+2019-04-26,B. Riley FBR,Buy,Neutral,up,CASH
+2019-10-25,B. Riley,Buy,,main,CASH
+2019-10-25,Raymond James,Strong Buy,,main,CASH
+2020-01-09,B. Riley FBR,Buy,,main,CASH
+2020-01-30,B. Riley,Buy,,main,CASH
+2020-03-30,B. Riley FBR,Buy,,main,CASH
+2020-04-13,Piper Sandler,Overweight,,main,CASH
+2020-04-23,Raymond James,Strong Buy,,main,CASH
+2020-04-23,Piper Sandler,Overweight,,main,CASH
+2020-04-24,B. Riley FBR,Buy,,main,CASH
+2020-10-29,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,CASH
+2020-10-29,Piper Sandler,Overweight,,main,CASH
+2020-11-16,Raymond James,Strong Buy,,main,CASH
+2021-01-28,Raymond James,Strong Buy,,main,CASH
+2021-04-28,Raymond James,Strong Buy,,main,CASH
+2021-10-28,Raymond James,Strong Buy,,main,CASH

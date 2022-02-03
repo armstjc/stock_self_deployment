@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CLDT220819C00017500,2022-01-03 16:22:58+00:00,17.5,0.5,0.2,0.75,0.0,0.0,5,7,0.48779809082031256,False,REGULAR,USD,CLDT

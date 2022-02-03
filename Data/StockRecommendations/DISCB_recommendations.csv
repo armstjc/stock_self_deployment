@@ -1,0 +1,193 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-27,Goldman Sachs,Neutral,,up,DISCB
+2012-04-05,Miller Tabak,Buy,,main,DISCB
+2012-04-09,Deutsche Bank,Buy,,main,DISCB
+2012-04-09,Citigroup,Neutral,,down,DISCB
+2012-05-14,Barrington Research,Market Perform,,down,DISCB
+2012-07-13,Goldman Sachs,Sell,Neutral,down,DISCB
+2012-08-01,Citigroup,Sell,Neutral,down,DISCB
+2012-09-21,UBS,Neutral,,main,DISCB
+2012-10-05,Bank of America,Buy,,main,DISCB
+2012-10-29,Deutsche Bank,Buy,,main,DISCB
+2012-10-31,Pivotal Research,Hold,,main,DISCB
+2012-11-07,Barclays,Equal-Weight,,main,DISCB
+2012-11-07,Citigroup,Sell,,main,DISCB
+2012-12-14,Pivotal Research,Hold,,main,DISCB
+2013-01-15,Nomura,Neutral,,main,DISCB
+2013-01-30,Barclays,Equal-Weight,,main,DISCB
+2013-02-15,UBS,Neutral,,main,DISCB
+2013-02-15,Nomura,Neutral,,main,DISCB
+2013-02-15,Credit Suisse,Underperform,,main,DISCB
+2013-02-15,Barclays,Equal-Weight,,main,DISCB
+2013-04-08,Deutsche Bank,Buy,,main,DISCB
+2013-04-08,Deutsche Bank,Buy,,main,DISCB
+2013-05-08,Nomura,Neutral,,main,DISCB
+2013-06-12,Sterne Agee,Buy,,init,DISCB
+2013-07-12,B. Riley FBR,Neutral,Buy,down,DISCB
+2013-07-15,Pivotal Research,Sell,Hold,down,DISCB
+2013-07-31,Barrington Research,Outperform,,init,DISCB
+2013-08-05,Pivotal Research,Hold,Sell,up,DISCB
+2013-09-10,ISI Group,Neutral,,init,DISCB
+2013-10-25,FBR Capital,Outperform,,init,DISCB
+2013-11-05,Bernstein,Outperform,,main,DISCB
+2013-12-02,Guggenheim,Neutral,Buy,down,DISCB
+2014-01-15,Nomura,Buy,,init,DISCB
+2014-01-23,Topeka,Buy,,init,DISCB
+2014-04-14,Morgan Stanley,Equal-Weight,,main,DISCB
+2014-04-29,FBR Capital,Outperform,,main,DISCB
+2014-05-07,JP Morgan,Neutral,,main,DISCB
+2014-06-05,Atlantic Equities,Overweight,Neutral,up,DISCB
+2014-06-16,Macquarie,Neutral,,main,DISCB
+2014-06-25,BTIG Research,Neutral,Buy,down,DISCB
+2014-07-09,Barclays,Overweight,,init,DISCB
+2014-08-01,Guggenheim,Neutral,Buy,down,DISCB
+2014-08-21,Barclays,Overweight,,main,DISCB
+2014-09-11,FBR Capital,Outperform,,main,DISCB
+2014-09-18,Argus,Buy,,init,DISCB
+2014-10-02,Bank of America,Neutral,Buy,down,DISCB
+2014-10-13,Jefferies,Hold,,main,DISCB
+2014-10-13,Jefferies,Hold,,main,DISCB
+2014-10-30,Nomura,Neutral,,down,DISCB
+2014-10-31,FBR Capital,Outperform,,main,DISCB
+2014-11-05,Pivotal Research,Buy,Hold,up,DISCB
+2014-11-05,Sterne Agee,Neutral,Buy,down,DISCB
+2014-11-05,Nomura,Neutral,,main,DISCB
+2014-11-05,MKM Partners,Neutral,,main,DISCB
+2014-11-05,Bank of America,Neutral,,main,DISCB
+2014-11-12,Bernstein,Market Perform,Outperform,down,DISCB
+2014-11-18,Barclays,Overweight,,main,DISCB
+2014-11-18,Citigroup,Neutral,Sell,up,DISCB
+2014-12-12,RBC Capital,Sector Perform,Outperform,down,DISCB
+2015-01-16,Atlantic Equities,Neutral,,down,DISCB
+2015-01-20,JP Morgan,Neutral,,main,DISCB
+2015-01-22,Deutsche Bank,Neutral,,main,DISCB
+2015-01-27,Barclays,Overweight,,main,DISCB
+2015-02-09,FBR Capital,Market Perform,Outperform,down,DISCB
+2015-02-24,Macquarie,Outperform,Neutral,up,DISCB
+2015-02-27,Barrington Research,Market Perform,Outperform,down,DISCB
+2015-04-28,CLSA,Underperform,,init,DISCB
+2015-04-28,UBS,Sell,Neutral,down,DISCB
+2015-06-03,Credit Suisse,Neutral,,init,DISCB
+2015-07-31,UBS,Neutral,Sell,up,DISCB
+2015-08-06,Pivotal Research,Buy,,up,DISCB
+2015-08-14,Citigroup,Neutral,,main,DISCB
+2015-08-14,Barclays,Overweight,,main,DISCB
+2015-09-30,FBR Capital,Market Perform,,main,DISCB
+2015-10-14,Macquarie,Neutral,Buy,down,DISCB
+2015-10-16,Barclays,Equal-Weight,Overweight,down,DISCB
+2015-11-04,Macquarie,Neutral,,main,DISCB
+2016-01-28,Barclays,Equal-Weight,,main,DISCB
+2016-01-29,Barclays,Equal-Weight,,main,DISCB
+2016-02-29,Barclays,Equal-Weight,,main,DISCB
+2016-03-03,Credit Suisse,Neutral,,main,DISCB
+2016-04-07,RBC Capital,Outperform,,init,DISCB
+2016-04-25,Topeka,Hold,Buy,down,DISCB
+2016-04-26,Macquarie,Underperform,Neutral,down,DISCB
+2016-05-06,Barrington Research,Outperform,Market Perform,up,DISCB
+2016-05-18,Citigroup,Sell,Neutral,down,DISCB
+2016-06-06,Bernstein,Outperform,Market Perform,down,DISCB
+2016-07-15,UBS,Sell,Neutral,down,DISCB
+2016-08-03,Macquarie,Neutral,Underperform,up,DISCB
+2016-09-27,Moffett Nathanson,Sell,Neutral,down,DISCB
+2016-09-29,Barrington Research,Market Perform,Outperform,down,DISCB
+2016-10-03,Nomura,Neutral,,main,DISCB
+2016-11-11,Argus,Hold,Buy,down,DISCB
+2017-01-05,Barclays,Underweight,Equal-Weight,down,DISCB
+2017-01-10,Credit Suisse,Underperform,Neutral,down,DISCB
+2017-01-12,Pivotal Research,Hold,Buy,down,DISCB
+2017-02-10,Deutsche Bank,Hold,Neutral,init,DISCB
+2017-02-22,Loop Capital,Hold,Buy,down,DISCB
+2017-04-20,Citigroup,Neutral,Sell,up,DISCB
+2017-07-14,Deutsche Bank,Hold,,main,DISCB
+2017-07-20,Wells Fargo,Market Perform,,init,DISCB
+2017-08-01,Citigroup,Buy,Neutral,up,DISCB
+2017-08-08,Pivotal Research,Buy,Hold,up,DISCB
+2017-08-11,PiperJaffray,Neutral,,init,DISCB
+2017-09-15,Credit Suisse,Neutral,Underperform,up,DISCB
+2017-09-26,UBS,Neutral,Sell,up,DISCB
+2017-10-13,Barclays,Underweight,,main,DISCB
+2017-10-26,Morgan Stanley,Equal-Weight,,main,DISCB
+2017-11-03,Jefferies,Hold,,main,DISCB
+2017-11-03,Loop Capital,Hold,,main,DISCB
+2017-11-06,Credit Suisse,Neutral,,main,DISCB
+2017-11-08,B. Riley FBR,Neutral,,main,DISCB
+2017-12-21,Bank of America,Buy,Neutral,up,DISCB
+2018-01-02,Macquarie,Outperform,Neutral,up,DISCB
+2018-01-09,Pivotal Research,Hold,Buy,down,DISCB
+2018-01-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,DISCB
+2018-02-20,Moffett Nathanson,Neutral,Sell,up,DISCB
+2018-03-12,Barclays,Equal-Weight,Underweight,up,DISCB
+2018-04-02,Wells Fargo,Outperform,Market Perform,up,DISCB
+2018-04-24,Deutsche Bank,Buy,Hold,up,DISCB
+2018-05-03,JP Morgan,Overweight,Neutral,up,DISCB
+2018-05-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,DISCB
+2018-06-04,Pivotal Research,Buy,Hold,up,DISCB
+2018-06-05,MKM Partners,Buy,Neutral,up,DISCB
+2018-06-18,Pivotal Research,Hold,Buy,down,DISCB
+2018-06-26,Imperial Capital,Outperform,,init,DISCB
+2018-07-11,Credit Suisse,Neutral,,init,DISCB
+2018-08-15,Citigroup,Buy,Buy,main,DISCB
+2018-08-21,Jefferies,Buy,Hold,up,DISCB
+2018-09-13,Bank of America,Buy,Buy,main,DISCB
+2018-09-14,Macquarie,Outperform,Outperform,main,DISCB
+2018-09-18,Pivotal Research,Sell,Hold,down,DISCB
+2018-09-24,Imperial Capital,Outperform,Outperform,main,DISCB
+2018-10-10,Credit Suisse,Outperform,Neutral,up,DISCB
+2018-11-09,Imperial Capital,In-Line,Outperform,down,DISCB
+2018-11-14,MKM Partners,Buy,Buy,main,DISCB
+2018-11-20,Citigroup,Buy,Buy,main,DISCB
+2018-12-06,Pivotal Research,Hold,Sell,up,DISCB
+2019-02-27,Credit Suisse,Outperform,Outperform,main,DISCB
+2019-06-24,Imperial Capital,In-Line,,main,DISCB
+2019-08-27,Imperial Capital,In-Line,,main,DISCB
+2019-09-24,Wells Fargo,Outperform,,init,DISCB
+2019-10-22,Imperial Capital,Outperform,In-Line,up,DISCB
+2019-11-04,Rosenblatt,Neutral,,init,DISCB
+2019-11-06,Morgan Stanley,Equal-Weight,,main,DISCB
+2019-11-11,Rosenblatt,Neutral,,main,DISCB
+2019-12-13,Wells Fargo,Overweight,,main,DISCB
+2020-02-28,CFRA,Buy,,main,DISCB
+2020-02-28,Rosenblatt,Neutral,,reit,DISCB
+2020-03-02,Wells Fargo,Overweight,,main,DISCB
+2020-03-17,Imperial Capital,Outperform,,main,DISCB
+2020-03-30,Credit Suisse,Outperform,,main,DISCB
+2020-04-17,Citigroup,Buy,,main,DISCB
+2020-04-20,UBS,Neutral,,main,DISCB
+2020-04-23,Evercore ISI Group,In-Line,Outperform,down,DISCB
+2020-04-28,RBC Capital,Outperform,,init,DISCB
+2020-05-05,Morgan Stanley,Equal-Weight,,main,DISCB
+2020-05-06,CFRA,Hold,Buy,down,DISCB
+2020-05-07,MKM Partners,Buy,,main,DISCB
+2020-05-11,Rosenblatt,Neutral,,reit,DISCB
+2020-06-30,Deutsche Bank,Buy,,main,DISCB
+2020-07-13,Goldman Sachs,Neutral,,init,DISCB
+2020-08-19,MKM Partners,Buy,,main,DISCB
+2020-08-26,Citigroup,Buy,,main,DISCB
+2020-09-23,JP Morgan,Neutral,Overweight,down,DISCB
+2020-12-01,Morgan Stanley,Equal-Weight,,main,DISCB
+2020-12-03,MKM Partners,Neutral,Buy,down,DISCB
+2020-12-09,KeyBanc,Sector Weight,,init,DISCB
+2020-12-18,B of A Securities,Underperform,Buy,down,DISCB
+2021-01-15,MoffettNathanson,Buy,Neutral,up,DISCB
+2021-01-19,Barclays,Underweight,Equal-Weight,down,DISCB
+2021-01-19,Credit Suisse,Outperform,,main,DISCB
+2021-02-01,Citigroup,Neutral,Buy,down,DISCB
+2021-02-19,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-02-22,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-02-23,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-02-23,Credit Suisse,Outperform,,main,DISCB
+2021-02-23,Rosenblatt,Neutral,,main,DISCB
+2021-03-23,UBS,Sell,Neutral,down,DISCB
+2021-03-26,Wells Fargo,Equal-Weight,Overweight,down,DISCB
+2021-04-07,Deutsche Bank,Buy,,main,DISCB
+2021-04-27,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-04-29,Wells Fargo,Overweight,Equal-Weight,up,DISCB
+2021-04-30,Macquarie,Neutral,Underperform,up,DISCB
+2021-05-24,MoffettNathanson,Neutral,Buy,down,DISCB
+2021-08-03,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-08-04,Morgan Stanley,Equal-Weight,,main,DISCB
+2021-09-09,Arete Research,Neutral,,init,DISCB
+2021-10-18,Barclays,Equal-Weight,,main,DISCB
+2021-11-01,Bernstein,Market Perform,Underperform,up,DISCB
+2021-11-08,Macquarie,Outperform,Neutral,up,DISCB
+2022-01-07,B of A Securities,Buy,Neutral,up,DISCB

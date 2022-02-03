@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,UBS,Neutral,,main,NWS
+2012-02-09,Deutsche Bank,Buy,,main,NWS
+2012-02-27,Goldman Sachs,Buy,,up,NWS
+2012-04-09,Citigroup,Neutral,,down,NWS
+2012-06-21,Miller Tabak,Buy,,main,NWS
+2012-06-27,BTIG Research,Neutral,,main,NWS
+2012-06-27,Needham,Buy,Hold,up,NWS
+2012-06-28,Miller Tabak,Buy,,main,NWS
+2012-07-19,Citigroup,Buy,Neutral,up,NWS
+2012-08-09,Wedbush,Outperform,,main,NWS
+2012-08-09,Barclays,Equal-Weight,,main,NWS
+2012-08-09,Credit Suisse,Neutral,,main,NWS
+2012-08-10,Shaw Stockbroking,Hold,Buy,down,NWS
+2012-09-04,Barclays,Overweight,Equal-Weight,up,NWS
+2012-09-20,Barclays,Overweight,Equal-Weight,up,NWS
+2012-09-25,Nomura,Buy,,main,NWS
+2012-10-02,Barclays,Overweight,,main,NWS
+2012-10-11,Morgan Stanley,Equal-Weight,,main,NWS
+2012-10-31,Macquarie,Outperform,Neutral,up,NWS
+2012-11-07,UBS,Neutral,,main,NWS
+2012-11-07,Deutsche Bank,Buy,,main,NWS
+2012-11-12,Shaw Stockbroking,Buy,Hold,up,NWS
+2012-11-20,Credit Suisse,Neutral,,main,NWS
+2012-12-19,Canaccord Genuity,Buy,,main,NWS
+2012-12-24,Deutsche Bank,Buy,,main,NWS
+2012-12-28,Deutsche Bank,Buy,,main,NWS
+2013-01-04,Nomura,Buy,,main,NWS
+2013-01-10,Bernstein,Outperform,Market Perform,up,NWS
+2013-01-23,Citigroup,Buy,,main,NWS
+2013-01-28,Deutsche Bank,Buy,,main,NWS
+2013-01-28,Morgan Stanley,Overweight,Equal-Weight,up,NWS
+2013-02-06,Wunderlich,Buy,,main,NWS
+2013-02-07,Nomura,Buy,,main,NWS
+2013-03-06,Wunderlich,Buy,,main,NWS
+2013-04-01,Credit Suisse,Outperform,Neutral,up,NWS
+2013-04-08,Credit Suisse,Outperform,Neutral,up,NWS
+2013-04-16,Deutsche Bank,Buy,,main,NWS
+2013-05-06,Wunderlich,Buy,,main,NWS
+2013-05-09,Wunderlich,Buy,,main,NWS
+2013-06-10,Credit Suisse,Outperform,,main,NWS
+2013-06-14,CIMB,Neutral,,main,NWS
+2013-06-19,BTIG Research,Neutral,Buy,down,NWS
+2013-06-21,Goldman Sachs,Neutral,,init,NWS
+2013-07-01,JP Morgan,Neutral,,init,NWS
+2013-07-01,Lazard,Neutral,,init,NWS
+2013-07-02,Deutsche Bank,Buy,,init,NWS
+2013-07-08,Deutsche Bank,Buy,,init,NWS
+2013-07-12,Bank of America,Neutral,,init,NWS
+2013-10-01,Evercore Partners,Equal-Weight,,init,NWS
+2013-11-05,FBR Capital,Market Perform,,init,NWS
+2013-12-17,S&P Capital IQ,Hold,Buy,down,NWS
+2014-05-01,Credit Suisse,Outperform,Neutral,up,NWS
+2014-10-20,Macquarie,Neutral,Underperform,up,NWS
+2014-10-21,Macquarie,Neutral,Underperform,up,NWS
+2014-11-06,Jefferies,Buy,,main,NWS
+2014-11-06,Jefferies,Buy,,main,NWS
+2015-07-27,Macquarie,Outperform,Neutral,up,NWS
+2015-11-09,Wells Fargo,Market Perform,Outperform,down,NWS
+2016-02-05,CLSA,Buy,Outperform,up,NWS
+2016-05-09,CLSA,Outperform,Buy,down,NWS
+2016-10-27,Bank of America,Underperform,Neutral,down,NWS
+2016-11-08,CLSA,Outperform,Buy,down,NWS
+2017-07-14,Rosenblatt,Buy,,init,NWS
+2017-07-26,Citigroup,Buy,Neutral,up,NWS
+2018-03-16,Loop Capital,Hold,,init,NWS
+2018-08-20,Morgan Stanley,Underweight,Equal-Weight,down,NWS
+2018-08-29,UBS,Neutral,Sell,up,NWS
+2018-09-04,Loop Capital,Buy,Hold,up,NWS
+2018-10-09,Goldman Sachs,Buy,Neutral,up,NWS
+2019-07-19,JP Morgan,Underweight,Neutral,down,NWS
+2019-08-12,Credit Suisse,Outperform,Neutral,up,NWS
+2020-07-22,JP Morgan,Neutral,Underweight,up,NWS
+2021-01-27,JP Morgan,Overweight,Neutral,up,NWS
+2021-03-18,Guggenheim,Buy,Neutral,up,NWS
+2021-07-26,UBS,Buy,Neutral,up,NWS

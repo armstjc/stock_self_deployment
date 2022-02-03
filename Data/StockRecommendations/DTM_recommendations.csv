@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-14,JP Morgan,Overweight,,init,DTM
+2021-07-15,Mizuho,Buy,,init,DTM
+2021-07-28,Wolfe Research,Outperform,Peer Perform,up,DTM
+2021-09-03,Barclays,Equal-Weight,,init,DTM
+2021-09-13,Wells Fargo,Overweight,,init,DTM
+2021-09-14,Morgan Stanley,Equal-Weight,,init,DTM
+2021-10-07,Goldman Sachs,Buy,,init,DTM
+2021-10-19,Barclays,Equal-Weight,,main,DTM
+2021-12-16,Wells Fargo,Overweight,,main,DTM

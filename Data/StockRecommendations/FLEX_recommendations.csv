@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-02,Bank oferica,Neutral,,up,FLEX
+2012-05-15,Bank oferica,Buy,,up,FLEX
+2012-08-07,Goldman Sachs,Buy,Sell,up,FLEX
+2012-10-19,UBS,Buy,,main,FLEX
+2013-01-25,Raymond James,Outperform,Strong Buy,down,FLEX
+2013-01-25,Longbow Research,Neutral,Buy,down,FLEX
+2013-01-25,UBS,Neutral,Buy,down,FLEX
+2013-01-25,Cross Research,Hold,Buy,down,FLEX
+2013-04-08,RBC Capital,Outperform,Sector Perform,up,FLEX
+2013-05-21,Craig-Hallum,Buy,,init,FLEX
+2013-05-23,Deutsche Bank,Hold,Buy,down,FLEX
+2013-05-28,Raymond James,Market Perform,Market Outperform,down,FLEX
+2013-07-08,Needham,Hold,Buy,down,FLEX
+2013-08-13,Stifel Nicolaus,Buy,,main,FLEX
+2013-10-30,Deutsche Bank,Hold,,main,FLEX
+2013-12-04,Goldman Sachs,Sell,Neutral,down,FLEX
+2014-01-30,Craig-Hallum,Buy,Hold,up,FLEX
+2014-05-01,Citigroup,Hold,,main,FLEX
+2014-05-08,Argus,Buy,Hold,up,FLEX
+2014-05-12,Stifel Nicolaus,Hold,Buy,down,FLEX
+2014-05-22,Needham,Buy,Hold,up,FLEX
+2014-07-25,Citigroup,Neutral,,main,FLEX
+2014-07-25,Deutsche Bank,Hold,,main,FLEX
+2014-07-25,UBS,Neutral,,main,FLEX
+2014-10-14,Standpoint Research,Buy,,init,FLEX
+2015-03-13,Goldman Sachs,Neutral,Sell,up,FLEX
+2015-03-30,Standpoint Research,Hold,Buy,down,FLEX
+2015-05-01,Standpoint Research,Buy,Hold,up,FLEX
+2015-09-09,UBS,Buy,Neutral,up,FLEX
+2015-10-20,Deutsche Bank,Hold,,main,FLEX
+2015-10-21,Citigroup,Neutral,,main,FLEX
+2015-12-11,Citigroup,Buy,Neutral,up,FLEX
+2016-01-29,Stifel Nicolaus,Buy,Hold,up,FLEX
+2016-01-29,B. Riley FBR,Buy,,main,FLEX
+2016-01-29,Raymond James,Strong Buy,Market Perform,up,FLEX
+2016-04-26,JP Morgan,Overweight,,init,FLEX
+2016-04-29,Citigroup,Buy,,main,FLEX
+2016-05-24,Standpoint Research,Hold,Buy,down,FLEX
+2016-09-20,Goldman Sachs,Buy,Neutral,up,FLEX
+2016-10-05,Goldman Sachs,Buy,,main,FLEX
+2016-10-28,Craig-Hallum,Hold,Buy,down,FLEX
+2017-07-18,Needham,Buy,,main,FLEX
+2017-10-27,Stifel Nicolaus,Buy,,main,FLEX
+2017-10-27,Citigroup,Buy,,main,FLEX
+2017-10-27,UBS,Buy,,main,FLEX
+2017-10-30,Citigroup,Buy,,main,FLEX
+2017-11-01,Argus,Buy,,main,FLEX
+2018-01-26,Stifel Nicolaus,Buy,Buy,main,FLEX
+2018-04-27,Stifel Nicolaus,Buy,Buy,main,FLEX
+2018-04-27,Raymond James,Market Perform,Strong Buy,down,FLEX
+2018-04-30,Citigroup,Buy,Buy,main,FLEX
+2018-06-18,Standpoint Research,Buy,Hold,up,FLEX
+2018-10-26,Needham,Hold,Buy,down,FLEX
+2018-10-29,Goldman Sachs,Neutral,Buy,down,FLEX
+2018-10-30,Argus,Hold,Buy,down,FLEX
+2019-01-02,JP Morgan,Neutral,Overweight,down,FLEX
+2019-05-29,JP Morgan,Overweight,Neutral,up,FLEX
+2019-06-06,Goldman Sachs,Buy,Neutral,up,FLEX
+2020-01-03,Goldman Sachs,Buy,,main,FLEX
+2020-03-10,Citigroup,Buy,,main,FLEX
+2020-04-22,RBC Capital,Sector Perform,,init,FLEX
+2020-05-11,CFRA,Hold,,reit,FLEX
+2020-07-31,Citigroup,Buy,,main,FLEX
+2020-10-16,RBC Capital,Outperform,Sector Perform,up,FLEX
+2020-12-18,JP Morgan,Neutral,Overweight,down,FLEX
+2021-05-06,Cross Research,Buy,Hold,up,FLEX

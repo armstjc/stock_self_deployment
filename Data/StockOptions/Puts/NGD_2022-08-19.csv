@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NGD220819P00001500,2021-12-31 16:56:38+00:00,1.5,0.3,0.25,0.4,0.0,0.0,1,2,0.8281267187499999,False,REGULAR,USD,NGD
+NGD220819P00001500,2021-12-31 16:56:38+00:00,1.5,0.3,0.25,0.4,0.0,0.0,1,2,0.8320329296874999,False,REGULAR,USD,NGD

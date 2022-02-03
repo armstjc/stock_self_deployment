@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GLPG220218C00060000,2022-01-05 16:59:41+00:00,60.0,1.7,0.55,2.2,-0.29999995,-14.999998,150,151,1.0000000000000003e-05,True,REGULAR,USD,GLPG

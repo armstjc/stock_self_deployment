@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACEL220414P00012500,2021-11-10 11:49:26+00:00,12.5,2.4,1.35,1.9,0.0,0.0,,22,0.8476577734374999,False,REGULAR,USD,ACEL
+ACEL220414P00012500,2021-11-10 11:49:26+00:00,12.5,2.4,1.05,1.4,0.0,0.0,,22,0.6709017285156251,False,REGULAR,USD,ACEL

@@ -1,0 +1,169 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,Citigroup,Buy,Neutral,up,HES
+2012-09-13,Standpoint Research,Buy,Hold,down,HES
+2012-09-20,JP Morgan,Neutral,,main,HES
+2012-11-05,Global Hunter Securities,Buy,Neutral,up,HES
+2012-11-05,Credit Suisse,Underperform,,main,HES
+2012-12-11,Dahlman Rose,Hold,,init,HES
+2013-01-07,Deutsche Bank,Buy,Hold,up,HES
+2013-01-14,Credit Agricole,Neutral,Underperform,up,HES
+2013-01-22,Standpoint Research,Hold,Buy,down,HES
+2013-01-28,Societe Generale,Buy,,main,HES
+2013-01-30,Societe Generale,Hold,Buy,down,HES
+2013-01-30,Citigroup,Buy,,main,HES
+2013-01-30,Capital One Financial,Neutral,Add,down,HES
+2013-01-30,Deutsche Bank,Buy,,main,HES
+2013-01-31,Bank of America,Buy,,main,HES
+2013-01-31,UBS,Neutral,Buy,down,HES
+2013-01-31,Tudor Pickering,Accumulate,Buy,down,HES
+2013-01-31,Societe Generale,Hold,Buy,down,HES
+2013-02-01,Global Hunter Securities,Accumulate,Buy,down,HES
+2013-03-04,Societe Generale,Buy,Hold,up,HES
+2013-03-04,Societe Generale,Buy,Hold,up,HES
+2013-03-06,Credit Suisse,Neutral,,main,HES
+2013-04-05,Citigroup,Buy,,main,HES
+2013-04-22,Barclays,Overweight,Equal-Weight,up,HES
+2013-07-11,JP Morgan,Overweight,Neutral,up,HES
+2013-09-10,Deutsche Bank,Buy,,main,HES
+2013-09-12,Guggenheim,Neutral,,init,HES
+2013-10-01,Societe Generale,Hold,Buy,down,HES
+2013-10-08,Citigroup,Neutral,Buy,down,HES
+2013-10-31,Credit Suisse,Outperform,Neutral,up,HES
+2013-11-18,Atlantic Equities,Overweight,,init,HES
+2013-12-31,iBERIA Capital Partners,Sector Perform,,init,HES
+2014-01-06,Mizuho,Neutral,Buy,down,HES
+2014-01-27,Citigroup,Neutral,,main,HES
+2014-01-30,ISI Group,Neutral,Buy,down,HES
+2014-04-29,Seaport Global,Neutral,Accumulate,down,HES
+2014-05-09,Oppenheimer,Outperform,,main,HES
+2014-05-23,Clarksons Platou,Market Perform,Outperform,down,HES
+2014-06-10,Deutsche Bank,Buy,,init,HES
+2014-07-17,Deutsche Bank,Buy,,main,HES
+2014-07-31,Credit Suisse,Outperform,,main,HES
+2014-09-22,Bank of America,Buy,,main,HES
+2014-10-20,Morgan Stanley,Overweight,,main,HES
+2014-10-22,Barclays,Equal-Weight,,init,HES
+2014-10-30,Credit Suisse,Outperform,,main,HES
+2014-10-30,Scotia Howard Weil,Sector Outperform,,up,HES
+2014-10-30,ISI Group,Buy,,up,HES
+2014-11-11,Credit Suisse,Outperform,,main,HES
+2014-11-24,Raymond James,Outperform,Market Perform,up,HES
+2015-01-14,Barclays,Equal-Weight,,main,HES
+2015-01-23,Credit Suisse,Neutral,Outperform,down,HES
+2015-01-29,Credit Suisse,Neutral,,main,HES
+2015-04-09,BMO Capital,Market Perform,,init,HES
+2015-04-22,Nomura,Neutral,,init,HES
+2015-04-23,Deutsche Bank,Buy,,main,HES
+2015-04-30,Barclays,Equal-Weight,,main,HES
+2015-05-18,Goldman Sachs,Neutral,Buy,down,HES
+2015-06-01,Deutsche Bank,Hold,Buy,down,HES
+2015-06-10,Capital One Financial,Overweight,Hold,up,HES
+2015-06-12,Credit Suisse,Neutral,,main,HES
+2015-06-12,Citigroup,Buy,Hold,up,HES
+2015-06-15,Credit Suisse,Neutral,,main,HES
+2015-07-01,KeyBanc,Sector Weight,Overweight,down,HES
+2015-07-07,Barclays,Equal-Weight,,main,HES
+2015-07-22,Credit Suisse,Outperform,Neutral,up,HES
+2015-07-30,Societe Generale,Buy,Hold,up,HES
+2015-09-14,Citigroup,Buy,,main,HES
+2015-10-12,Barclays,Equal-Weight,,main,HES
+2015-11-17,Oppenheimer,Perform,Outperform,down,HES
+2015-12-09,JP Morgan,Neutral,,init,HES
+2016-01-05,Citigroup,Neutral,Buy,down,HES
+2016-01-07,Deutsche Bank,Hold,,main,HES
+2016-01-21,Nomura,Neutral,,main,HES
+2016-01-25,JP Morgan,Neutral,,main,HES
+2016-02-02,JP Morgan,Neutral,,main,HES
+2016-02-08,Barclays,Equal-Weight,,main,HES
+2016-02-08,Credit Suisse,Outperform,,main,HES
+2016-02-10,Goldman Sachs,Buy,,main,HES
+2016-03-04,iBERIA Capital Partners,Sector Perform,,main,HES
+2016-03-22,Atlantic Equities,Overweight,Neutral,up,HES
+2016-04-07,Citigroup,Neutral,,main,HES
+2016-04-08,Barclays,Equal-Weight,,main,HES
+2016-04-27,Capital One Financial,Equal-Weight,Overweight,down,HES
+2016-04-28,UBS,Neutral,Buy,down,HES
+2016-04-28,Credit Suisse,Neutral,Outperform,down,HES
+2016-05-03,Tigress Financial,Neutral,Buy,down,HES
+2016-07-28,UBS,Neutral,,main,HES
+2016-07-28,Barclays,Equal-Weight,,main,HES
+2016-09-12,Wolfe Research,,Outperform,down,HES
+2016-09-12,KLR Group,Accumulate,,init,HES
+2016-12-08,JP Morgan,Overweight,Neutral,up,HES
+2017-05-05,Wells Fargo,Outperform,Market Perform,up,HES
+2017-06-27,Atlantic Equities,Neutral,Overweight,down,HES
+2017-07-21,Citigroup,Neutral,,main,HES
+2017-09-14,JP Morgan,Neutral,Overweight,down,HES
+2017-10-18,Morgan Stanley,Equal-Weight,,main,HES
+2017-12-12,Credit Suisse,Underperform,,init,HES
+2017-12-15,JP Morgan,Underweight,Neutral,down,HES
+2018-01-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,HES
+2018-02-07,BMO Capital,Market Perform,Market Perform,main,HES
+2018-02-12,Credit Suisse,Neutral,Underperform,up,HES
+2018-03-07,UBS,Neutral,,init,HES
+2018-04-26,Macquarie,Neutral,Outperform,down,HES
+2018-04-26,Barclays,Equal-Weight,Equal-Weight,main,HES
+2018-04-26,KLR Group,Hold,Buy,down,HES
+2018-07-11,Barclays,Underweight,Equal-Weight,down,HES
+2018-07-12,Morgan Stanley,Overweight,,init,HES
+2018-07-24,Mizuho,Neutral,,init,HES
+2018-09-17,Bank of America,Buy,Buy,main,HES
+2018-09-18,Morgan Stanley,Overweight,Overweight,main,HES
+2018-10-12,Morgan Stanley,Overweight,Overweight,main,HES
+2018-10-30,Barclays,Equal-Weight,Underweight,up,HES
+2018-11-05,Morgan Stanley,Overweight,Overweight,main,HES
+2018-11-20,Morgan Stanley,Overweight,Overweight,main,HES
+2019-01-10,Barclays,Overweight,Equal-Weight,up,HES
+2019-04-16,MKM Partners,Neutral,Buy,down,HES
+2019-05-15,Capital One Financial,Equal-Weight,Underweight,up,HES
+2019-05-28,MKM Partners,Buy,Neutral,up,HES
+2019-08-19,Barclays,Overweight,,init,HES
+2019-09-23,Citigroup,Neutral,,init,HES
+2019-10-07,Bank of America,Buy,,reit,HES
+2019-11-04,Morgan Stanley,Overweight,,main,HES
+2019-11-13,ScotiaBank,Sector Underperform,Sector Outperform,down,HES
+2019-12-05,Cowen & Co.,Market Perform,,init,HES
+2019-12-10,JP Morgan,Neutral,Underweight,up,HES
+2020-01-14,Susquehanna,Positive,,init,HES
+2020-01-24,Raymond James,Outperform,,main,HES
+2020-01-30,ScotiaBank,Sector Outperform,Sector Underperform,up,HES
+2020-02-03,Piper Sandler,Overweight,Neutral,up,HES
+2020-02-28,B of A Securities,Buy,,main,HES
+2020-03-16,Goldman Sachs,Buy,Neutral,up,HES
+2020-03-16,BMO Capital,Outperform,Market Perform,up,HES
+2020-03-16,Morgan Stanley,Overweight,,main,HES
+2020-03-20,Wells Fargo,Overweight,,main,HES
+2020-03-20,Citigroup,Neutral,,main,HES
+2020-03-31,UBS,Neutral,,main,HES
+2020-04-03,Wells Fargo,Overweight,,main,HES
+2020-04-29,Citigroup,Neutral,,main,HES
+2020-05-19,Morgan Stanley,Overweight,,main,HES
+2020-06-01,JP Morgan,Overweight,Neutral,up,HES
+2020-06-02,Citigroup,Buy,Neutral,up,HES
+2020-06-29,UBS,Neutral,,main,HES
+2020-07-13,ScotiaBank,Sector Outperform,,main,HES
+2020-07-20,Raymond James,Outperform,,main,HES
+2020-07-24,Piper Sandler,Overweight,,main,HES
+2020-08-21,Morgan Stanley,Overweight,,main,HES
+2020-09-24,ScotiaBank,Sector Perform,Sector Outperform,down,HES
+2020-09-28,B of A Securities,Buy,,main,HES
+2021-03-11,Morgan Stanley,Overweight,,main,HES
+2021-03-23,Citigroup,Buy,,main,HES
+2021-03-31,Mizuho,Buy,Neutral,up,HES
+2021-04-01,Piper Sandler,Overweight,,main,HES
+2021-05-17,Mizuho,Buy,,main,HES
+2021-05-19,Morgan Stanley,Overweight,,main,HES
+2021-06-01,Wells Fargo,Overweight,,main,HES
+2021-06-03,Barclays,Overweight,,main,HES
+2021-06-11,JP Morgan,Overweight,,main,HES
+2021-06-18,Morgan Stanley,Overweight,,main,HES
+2021-06-21,Bernstein,Outperform,,main,HES
+2021-06-30,Wells Fargo,Overweight,,main,HES
+2021-07-15,Mizuho,Buy,,main,HES
+2021-07-29,Credit Suisse,Neutral,,main,HES
+2021-10-06,Morgan Stanley,Overweight,,main,HES
+2021-10-26,Raymond James,Outperform,,main,HES
+2021-11-19,Morgan Stanley,Overweight,,main,HES
+2021-11-30,Mizuho,Buy,,main,HES
+2021-12-13,Morgan Stanley,Overweight,,main,HES
+2022-01-11,Barclays,Overweight,,main,HES

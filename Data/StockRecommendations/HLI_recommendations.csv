@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-09-08,Sandler O'Neill,Buy,,init,HLI
+2015-09-08,Goldman Sachs,Neutral,,init,HLI
+2016-08-18,Sandler O'Neill,Hold,Buy,down,HLI
+2017-05-11,Bank of America,Neutral,Buy,down,HLI
+2017-07-26,UBS,Buy,,main,HLI
+2017-09-12,JP Morgan,Overweight,,init,HLI
+2017-10-25,UBS,Buy,,main,HLI
+2017-10-25,Bank of America,Neutral,,main,HLI
+2018-01-30,Bank of America,Neutral,Neutral,main,HLI
+2018-04-05,Buckingham,Buy,,init,HLI
+2018-06-26,Bank of America,Neutral,Neutral,main,HLI
+2018-07-27,JMP Securities,Market Outperform,Market Outperform,main,HLI
+2018-10-08,UBS,Buy,Buy,main,HLI
+2018-11-06,Goldman Sachs,Neutral,,init,HLI
+2019-01-09,Bank of America,Buy,Neutral,up,HLI
+2019-04-03,Goldman Sachs,Buy,Neutral,up,HLI
+2019-05-23,JMP Securities,Market Perform,Outperform,down,HLI
+2019-07-11,Buckingham Research,Buy,,main,HLI
+2019-11-20,Morgan Stanley,Equal-Weight,,init,HLI
+2019-11-25,Morgan Stanley,Equal-Weight,,init,HLI
+2020-01-13,Buckingham,Buy,,main,HLI
+2020-01-27,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,HLI
+2020-03-25,UBS,Buy,,main,HLI
+2020-04-09,Morgan Stanley,Equal-Weight,,main,HLI
+2020-05-13,UBS,Buy,,main,HLI
+2020-05-13,Morgan Stanley,Equal-Weight,,main,HLI
+2020-07-10,JP Morgan,Neutral,Overweight,down,HLI
+2020-10-02,UBS,Neutral,Buy,down,HLI
+2020-10-12,Morgan Stanley,Equal-Weight,,main,HLI
+2020-12-16,Seaport Global,Neutral,,init,HLI
+2021-01-29,Morgan Stanley,Underweight,,main,HLI
+2021-03-19,Goldman Sachs,Neutral,Buy,down,HLI
+2021-07-14,"Keefe, Bruyette & Woods",Underperform,Market Perform,down,HLI
+2021-10-29,Morgan Stanley,Underweight,,main,HLI
+2021-12-08,Morgan Stanley,Underweight,,main,HLI
+2022-01-04,UBS,Buy,Neutral,up,HLI
+2022-01-06,Goldman Sachs,Buy,Neutral,up,HLI
+2022-01-11,Morgan Stanley,Underweight,,main,HLI

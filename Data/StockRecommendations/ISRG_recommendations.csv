@@ -1,0 +1,184 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-10,Dougherty,Buy,,init,ISRG
+2012-04-18,Goldman Sachs,Neutral,,main,ISRG
+2012-04-18,Dougherty,Buy,,main,ISRG
+2012-04-18,JP Morgan,Neutral,,main,ISRG
+2012-04-18,Cantor Fitzgerald,Hold,,main,ISRG
+2012-05-30,JP Morgan,Neutral,,main,ISRG
+2012-07-25,Mizuho,Buy,Neutral,up,ISRG
+2012-08-27,Goldman Sachs,Neutral,,main,ISRG
+2012-10-15,JP Morgan,Overweight,Neutral,up,ISRG
+2012-10-19,Bank of America,Buy,Neutral,up,ISRG
+2012-10-31,Barrington Research,Outperform,Market Perform,up,ISRG
+2012-11-20,Stifel Nicolaus,Hold,,init,ISRG
+2012-12-04,Cantor Fitzgerald,Hold,,main,ISRG
+2013-01-14,Lazard,Buy,Neutral,up,ISRG
+2013-01-16,Goldman Sachs,Neutral,,main,ISRG
+2013-01-17,Janney Capital,Buy,,init,ISRG
+2013-01-18,Janney Capital,Buy,,init,ISRG
+2013-01-23,Cantor Fitzgerald,Hold,,main,ISRG
+2013-02-22,Goldman Sachs,Buy,Neutral,up,ISRG
+2013-03-01,Cantor Fitzgerald,Buy,Hold,up,ISRG
+2013-03-05,Northland,Underperform,,init,ISRG
+2013-03-18,Canaccord Genuity,Buy,Hold,up,ISRG
+2013-06-17,Wedbush,Outperform,,init,ISRG
+2013-06-18,Wedbush,Outperform,,init,ISRG
+2013-06-25,First Analysis,Equal-Weight,,init,ISRG
+2013-07-09,Canaccord Genuity,Hold,Buy,down,ISRG
+2013-07-09,Goldman Sachs,Neutral,Buy,down,ISRG
+2013-07-09,JMP Securities,Market Perform,Market Outperform,down,ISRG
+2013-07-09,Ameriprise Financial,Sell,Buy,down,ISRG
+2013-07-09,Raymond James,Market Perform,Outperform,down,ISRG
+2013-07-19,Northland Securities,Market Perform,Underperform,up,ISRG
+2013-07-19,JMP Securities,Market Underperform,Market Perform,down,ISRG
+2013-09-03,First Analysis,Underweight,Equal-Weight,down,ISRG
+2013-10-18,Northland,Underperform,Market Perform,down,ISRG
+2013-11-25,CRT Capital,Sell,,init,ISRG
+2013-11-26,CRT Capital,Sell,,init,ISRG
+2013-12-05,Jefferies,Buy,,init,ISRG
+2014-01-21,ISI Group,Strong Buy,,init,ISRG
+2014-03-04,Cantor Fitzgerald,Hold,Buy,down,ISRG
+2014-04-01,JP Morgan,Overweight,,main,ISRG
+2014-04-02,JMP Securities,Market Outperform,Market Underperform,up,ISRG
+2014-04-02,Bank of America,Buy,,main,ISRG
+2014-04-08,Sterne Agee,Underperform,,init,ISRG
+2014-04-09,Sterne Agee,Underperform,,init,ISRG
+2014-04-14,Leerink Swann,Market Perform,,main,ISRG
+2014-04-23,Sterne Agee,Underperform,,main,ISRG
+2014-04-23,Canaccord Genuity,Hold,,main,ISRG
+2014-04-23,JP Morgan,Overweight,,main,ISRG
+2014-04-23,SunTrust Robinson Humphrey,Buy,,main,ISRG
+2014-04-23,Leerink Swann,Market Perform,,main,ISRG
+2014-04-29,Sterne Agee,Neutral,Underperform,up,ISRG
+2014-07-08,BTIG Research,Neutral,,init,ISRG
+2014-07-23,Stifel Nicolaus,Buy,Hold,up,ISRG
+2014-07-23,Raymond James,Outperform,Market Perform,up,ISRG
+2014-07-23,JP Morgan,Overweight,,main,ISRG
+2014-09-22,RBC Capital,Sector Perform,,init,ISRG
+2014-10-06,Goldman Sachs,Buy,Neutral,up,ISRG
+2014-10-17,Leerink Swann,Outperform,Market Perform,up,ISRG
+2014-10-22,Northland Securities,Market Perform,Underperform,up,ISRG
+2014-10-22,BTIG Research,Buy,Neutral,up,ISRG
+2015-01-02,Bank of America,Buy,,main,ISRG
+2015-01-05,Jefferies,Buy,,main,ISRG
+2015-05-12,PiperJaffray,Neutral,,init,ISRG
+2015-06-25,Barclays,Overweight,,init,ISRG
+2015-07-06,Morgan Stanley,Underweight,Equal-Weight,down,ISRG
+2015-07-22,Barclays,Overweight,,main,ISRG
+2015-07-22,Canaccord Genuity,Buy,,up,ISRG
+2015-11-12,Citigroup,Buy,,init,ISRG
+2016-01-04,Morgan Stanley,Overweight,Equal-Weight,up,ISRG
+2016-04-01,BTIG Research,Neutral,Buy,down,ISRG
+2016-04-20,Bank of America,Buy,,main,ISRG
+2016-06-02,Goldman Sachs,Neutral,Buy,down,ISRG
+2016-07-20,Citigroup,Buy,,main,ISRG
+2016-07-20,Barclays,Overweight,,main,ISRG
+2016-08-26,Raymond James,Outperform,,init,ISRG
+2016-10-13,Wells Fargo,Outperform,,init,ISRG
+2017-01-04,Evercore ISI Group,Hold,Buy,down,ISRG
+2017-05-16,Goldman Sachs,Buy,,init,ISRG
+2017-06-30,Cantor Fitzgerald,Neutral,,init,ISRG
+2017-07-25,Morgan Stanley,Overweight,,main,ISRG
+2017-10-20,Morgan Stanley,Overweight,,main,ISRG
+2017-10-20,Barclays,Overweight,,main,ISRG
+2017-10-23,Citigroup,Buy,,main,ISRG
+2018-01-03,Evercore ISI Group,In-Line,,init,ISRG
+2018-01-26,Barclays,Overweight,Overweight,main,ISRG
+2018-01-26,Canaccord Genuity,Hold,Hold,main,ISRG
+2018-01-26,Stifel Nicolaus,Buy,Buy,main,ISRG
+2018-01-26,Morgan Stanley,Overweight,Overweight,main,ISRG
+2018-02-06,Citigroup,Buy,Buy,main,ISRG
+2018-04-18,Bank of America,Buy,Buy,main,ISRG
+2018-04-18,Canaccord Genuity,Hold,Hold,main,ISRG
+2018-04-18,Morgan Stanley,Overweight,Overweight,main,ISRG
+2018-04-18,Stifel Nicolaus,Buy,Buy,main,ISRG
+2018-06-01,Morgan Stanley,Overweight,Overweight,main,ISRG
+2018-06-27,Bernstein,Outperform,,init,ISRG
+2018-07-17,Bank of America,Buy,Buy,main,ISRG
+2018-07-20,Stifel Nicolaus,Buy,Buy,main,ISRG
+2018-07-20,Morgan Stanley,Overweight,Overweight,main,ISRG
+2018-08-02,Citigroup,Buy,Buy,main,ISRG
+2018-09-12,Wells Fargo,Outperform,Outperform,main,ISRG
+2018-10-09,PiperJaffray,Overweight,Neutral,up,ISRG
+2018-10-10,PiperJaffray,Overweight,Neutral,up,ISRG
+2018-10-11,Morgan Stanley,Overweight,Overweight,main,ISRG
+2018-10-19,Raymond James,Outperform,Outperform,main,ISRG
+2018-10-19,Canaccord Genuity,Buy,Hold,up,ISRG
+2018-11-28,UBS,Neutral,,init,ISRG
+2018-11-29,Citigroup,Buy,Buy,main,ISRG
+2019-01-02,Citigroup,Buy,Buy,main,ISRG
+2019-04-01,Raymond James,Outperform,Outperform,main,ISRG
+2019-04-02,Deutsche Bank,Buy,,init,ISRG
+2019-04-22,Canaccord Genuity,Buy,Buy,main,ISRG
+2019-04-22,Raymond James,Outperform,Outperform,main,ISRG
+2019-04-23,Citigroup,Buy,Buy,main,ISRG
+2019-05-14,Citigroup,Buy,,main,ISRG
+2019-07-19,Canaccord Genuity,Buy,,main,ISRG
+2019-10-18,UBS,Neutral,,main,ISRG
+2019-11-21,Oppenheimer,Perform,,init,ISRG
+2019-11-29,First Shanghai,Buy,,init,ISRG
+2019-12-17,Morgan Stanley,Overweight,,main,ISRG
+2020-01-10,UBS,Neutral,,main,ISRG
+2020-01-10,Cantor Fitzgerald,Overweight,,reit,ISRG
+2020-01-24,JP Morgan,Overweight,,main,ISRG
+2020-01-24,Raymond James,Outperform,,main,ISRG
+2020-01-27,Deutsche Bank,Hold,Buy,down,ISRG
+2020-02-13,Goldman Sachs,Buy,,init,ISRG
+2020-03-17,JP Morgan,Overweight,,main,ISRG
+2020-03-24,Stifel,Buy,,main,ISRG
+2020-03-27,Morgan Stanley,Overweight,,main,ISRG
+2020-04-01,Oppenheimer,Underperform,Perform,down,ISRG
+2020-04-02,Wells Fargo,Overweight,,main,ISRG
+2020-04-09,Evercore ISI Group,Underperform,In-Line,down,ISRG
+2020-04-13,Raymond James,Outperform,,main,ISRG
+2020-04-17,UBS,Neutral,,main,ISRG
+2020-04-17,Canaccord Genuity,Buy,,main,ISRG
+2020-04-17,Deutsche Bank,Hold,,main,ISRG
+2020-04-17,Wells Fargo,Overweight,,main,ISRG
+2020-04-17,SVB Leerink,Market Perform,Outperform,down,ISRG
+2020-04-28,Piper Sandler,Neutral,Overweight,down,ISRG
+2020-06-04,Wells Fargo,Overweight,,main,ISRG
+2020-06-18,JP Morgan,Overweight,,main,ISRG
+2020-07-22,Stifel,Buy,,main,ISRG
+2020-07-22,Wells Fargo,Overweight,,main,ISRG
+2020-07-22,Canaccord Genuity,Buy,,main,ISRG
+2020-07-22,Deutsche Bank,Hold,,main,ISRG
+2020-07-22,Morgan Stanley,Overweight,,main,ISRG
+2020-07-22,UBS,Neutral,,main,ISRG
+2020-07-22,Raymond James,Outperform,,main,ISRG
+2020-07-22,SVB Leerink,Market Perform,,main,ISRG
+2020-08-14,SVB Leerink,Market Perform,,main,ISRG
+2020-09-02,Baird,Neutral,,init,ISRG
+2020-09-08,B of A Securities,Neutral,Buy,down,ISRG
+2020-09-11,Wolfe Research,Outperform,,init,ISRG
+2020-09-28,Argus Research,Buy,,init,ISRG
+2020-10-12,Raymond James,Outperform,,main,ISRG
+2020-10-16,SVB Leerink,Market Perform,,main,ISRG
+2020-10-16,Morgan Stanley,Overweight,,main,ISRG
+2020-10-16,Wells Fargo,Overweight,,main,ISRG
+2020-12-15,Morgan Stanley,Equal-Weight,Overweight,down,ISRG
+2021-01-22,Raymond James,Outperform,,main,ISRG
+2021-03-31,Piper Sandler,Neutral,,main,ISRG
+2021-04-01,Citigroup,Buy,,init,ISRG
+2021-04-21,SVB Leerink,Market Perform,,main,ISRG
+2021-04-21,Baird,Outperform,Neutral,up,ISRG
+2021-04-21,Oppenheimer,Perform,Underperform,up,ISRG
+2021-04-21,Deutsche Bank,Hold,,main,ISRG
+2021-04-21,Morgan Stanley,Equal-Weight,,main,ISRG
+2021-04-21,Citigroup,Buy,,main,ISRG
+2021-04-21,Piper Sandler,Neutral,,main,ISRG
+2021-05-24,Argus Research,Buy,,main,ISRG
+2021-06-01,Evercore ISI Group,In-Line,Underperform,up,ISRG
+2021-06-07,Wells Fargo,Overweight,,main,ISRG
+2021-07-14,Stifel,Buy,,main,ISRG
+2021-07-20,SVB Leerink,Market Perform,,main,ISRG
+2021-07-21,Citigroup,Buy,,main,ISRG
+2021-07-21,Evercore ISI Group,In-Line,,main,ISRG
+2021-07-21,Wells Fargo,Overweight,,main,ISRG
+2021-07-21,Morgan Stanley,Equal-Weight,,main,ISRG
+2021-07-22,Deutsche Bank,Hold,,main,ISRG
+2021-08-26,SVB Leerink,Market Perform,,main,ISRG
+2021-10-01,Citigroup,Neutral,Buy,down,ISRG
+2021-10-05,Morgan Stanley,Equal-Weight,,main,ISRG
+2021-10-20,Wells Fargo,Overweight,,main,ISRG
+2021-10-21,Morgan Stanley,Equal-Weight,,main,ISRG

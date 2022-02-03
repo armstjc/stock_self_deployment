@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-02,Bank of America,Buy,,init,HMLP
+2014-09-02,UBS,Neutral,,init,HMLP
+2014-09-02,Citigroup,Buy,,init,HMLP
+2014-09-02,Barclays,Equal-Weight,,init,HMLP
+2014-09-02,Morgan Stanley,Equal-Weight,,init,HMLP
+2014-12-08,UBS,Buy,Neutral,up,HMLP
+2015-08-14,Citigroup,Buy,,main,HMLP
+2016-01-06,Seaport Global,Accumulate,,init,HMLP
+2016-03-01,Morgan Stanley,Equal-Weight,,main,HMLP
+2016-08-26,Citigroup,Buy,,main,HMLP
+2016-08-30,Barclays,Equal-Weight,,main,HMLP
+2016-11-02,Morgan Stanley,Overweight,Equal-Weight,up,HMLP
+2016-12-12,Stifel Nicolaus,Buy,,init,HMLP
+2017-07-18,Barclays,Overweight,Equal-Weight,up,HMLP
+2017-08-25,Citigroup,Buy,,main,HMLP
+2018-02-12,Morgan Stanley,Overweight,Overweight,main,HMLP
+2018-03-02,Bank of America,Buy,Buy,main,HMLP
+2018-05-18,B. Riley FBR,Buy,,init,HMLP
+2018-07-18,BTIG Research,Neutral,,init,HMLP
+2018-09-06,Berenberg,Hold,,init,HMLP
+2018-10-12,Barclays,Equal-Weight,Overweight,down,HMLP
+2019-08-26,Citigroup,Buy,,main,HMLP
+2019-08-30,Barclays,Equal-Weight,,main,HMLP
+2019-10-29,Citigroup,Sell,Buy,down,HMLP
+2020-02-28,B. Riley FBR,Buy,,main,HMLP
+2020-03-02,Stifel Nicolaus,Buy,,main,HMLP
+2020-08-18,Stifel,Hold,Buy,down,HMLP
+2021-06-02,Citigroup,Sell,,main,HMLP
+2021-07-28,Barclays,Underweight,Overweight,down,HMLP
+2021-07-28,B. Riley Securities,Neutral,Buy,down,HMLP

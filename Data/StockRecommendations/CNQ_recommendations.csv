@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-29,Deutsche Bank,Hold,,down,CNQ
+2012-05-04,Societe Generale,Buy,,main,CNQ
+2012-08-10,Raymond James,Market Perform,Outperform,down,CNQ
+2012-11-09,BMO Capital,Market Perform,,main,CNQ
+2013-01-22,Canaccord Genuity,Hold,Buy,down,CNQ
+2013-03-08,Citigroup,Buy,,main,CNQ
+2013-03-08,BMO Capital,Market Perform,,main,CNQ
+2013-03-08,CIBC,Sector Perform,Sector Outperform,down,CNQ
+2013-03-14,Stifel Nicolaus,Buy,Hold,up,CNQ
+2013-05-21,FirstEnergy Capital,Top Pick,Outperform,up,CNQ
+2013-05-30,GMP Securities,Buy,,init,CNQ
+2013-06-06,Global Hunter Securities,Accumulate,,init,CNQ
+2013-07-29,TD Securities,Hold,,main,CNQ
+2013-07-29,Macquarie,Neutral,Outperform,down,CNQ
+2013-08-12,FirstEnergy Capital,Outperform,Top Pick,down,CNQ
+2013-09-26,FirstEnergy Capital,Top Pick,Outperform,up,CNQ
+2013-10-10,Canaccord Genuity,Buy,Hold,up,CNQ
+2013-11-25,Barclays,Overweight,,main,CNQ
+2014-01-06,Cormark Securities,Market Perform,Buy,down,CNQ
+2014-01-21,Seaport Global,Buy,Accumulate,up,CNQ
+2014-02-20,Macquarie,Outperform,Market Perform,up,CNQ
+2014-03-19,Morgan Stanley,Overweight,,init,CNQ
+2014-03-25,Morgan Stanley,Overweight,,init,CNQ
+2014-03-27,FirstEnergy Capital,Outperform,Market Perform,up,CNQ
+2014-04-15,CIBC,Sector Outperform,,main,CNQ
+2014-05-12,FirstEnergy Capital,Top Pick,Outperform,up,CNQ
+2014-06-19,Citigroup,Buy,,main,CNQ
+2014-07-17,CIBC,,,main,CNQ
+2014-09-16,AltaCorp Capital,Outperform,,init,CNQ
+2014-09-26,TD Securities,Buy,Hold,up,CNQ
+2014-12-08,Citigroup,Neutral,Buy,down,CNQ
+2015-03-06,Citigroup,Neutral,,main,CNQ
+2015-03-06,Cormark Securities,Buy,Market Perform,up,CNQ
+2015-03-10,Veritas,Buy,Sell,up,CNQ
+2015-04-09,Citigroup,Neutral,,main,CNQ
+2015-04-14,GMP Securities,Buy,,init,CNQ
+2015-04-22,Nomura,Buy,,init,CNQ
+2015-04-24,UBS,Buy,,init,CNQ
+2015-05-08,RBC Capital,Outperform,,main,CNQ
+2015-05-28,JP Morgan,Overweight,,init,CNQ
+2015-08-07,JP Morgan,Overweight,,main,CNQ
+2015-08-07,Raymond James,,Market Perform,up,CNQ
+2015-08-26,JP Morgan,Neutral,Overweight,down,CNQ
+2015-09-09,Raymond James,Outperform,,up,CNQ
+2015-09-14,Citigroup,Neutral,,main,CNQ
+2015-12-15,JP Morgan,Neutral,,main,CNQ
+2016-01-05,Citigroup,Buy,Neutral,up,CNQ
+2016-01-12,Morgan Stanley,Equal-Weight,,down,CNQ
+2016-01-21,Nomura,Buy,,main,CNQ
+2016-03-04,JP Morgan,Overweight,Neutral,up,CNQ
+2016-04-01,TD Securities,Hold,Buy,down,CNQ
+2016-04-07,Citigroup,Buy,,main,CNQ
+2016-06-16,RBC Capital,Buy,,main,CNQ
+2016-06-17,Citigroup,Buy,,main,CNQ
+2016-08-05,Macquarie,Outperform,Neutral,up,CNQ
+2016-08-05,JP Morgan,Overweight,,main,CNQ
+2016-08-19,Bank of America,Buy,,init,CNQ
+2017-06-27,National Bank Financial,Outperform,,init,CNQ
+2017-07-19,Morgan Stanley,Overweight,Equal-Weight,up,CNQ
+2017-07-21,Citigroup,Neutral,Buy,down,CNQ
+2017-10-13,Morgan Stanley,Overweight,,main,CNQ
+2018-01-24,Morgan Stanley,Overweight,Overweight,main,CNQ
+2018-02-07,Wells Fargo,Market Perform,Outperform,down,CNQ
+2018-03-07,UBS,Buy,,init,CNQ
+2018-04-16,Morgan Stanley,Overweight,Overweight,main,CNQ
+2018-05-23,Morgan Stanley,Overweight,Overweight,main,CNQ
+2018-09-20,RBC Capital,Outperform,Top Pick,down,CNQ
+2018-10-05,CIBC,Outperformer,,init,CNQ
+2018-10-12,Morgan Stanley,Overweight,Overweight,main,CNQ
+2018-11-20,Morgan Stanley,Overweight,Overweight,main,CNQ
+2018-12-07,Citigroup,Neutral,Neutral,main,CNQ
+2019-01-28,Credit Suisse,Outperform,,init,CNQ
+2019-03-12,Mizuho,Buy,,init,CNQ
+2019-04-03,Evercore ISI Group,Outperform,In-Line,up,CNQ
+2019-09-06,Wells Fargo,Underperform,Market Perform,down,CNQ
+2019-10-02,National Bank Financial,Sector Perform,Outperform,down,CNQ
+2019-10-08,Tudor Pickering,Hold,Buy,down,CNQ
+2019-12-11,Tudor Pickering,Buy,Hold,up,CNQ
+2020-05-08,RBC Capital,Outperform,,main,CNQ
+2020-05-14,Goldman Sachs,Buy,Neutral,up,CNQ
+2021-06-11,Goldman Sachs,Buy,Neutral,up,CNQ

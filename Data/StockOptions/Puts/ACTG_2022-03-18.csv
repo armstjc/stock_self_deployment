@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACTG220318P00005000,2021-12-14 14:36:51+00:00,5.0,0.65,0.45,0.65,0.0,0.0,1,339,0.46484910156250003,True,REGULAR,USD,ACTG
+ACTG220318P00005000,2021-12-14 14:36:51+00:00,5.0,0.65,0.4,0.6,0.0,0.0,1,339,0.367193828125,True,REGULAR,USD,ACTG

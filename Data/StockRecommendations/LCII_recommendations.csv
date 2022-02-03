@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-03,Baird,Outperform,,init,LCII
+2017-11-03,Baird,Outperform,,main,LCII
+2017-11-13,Citigroup,Buy,,main,LCII
+2018-01-26,Northcoast Research,Sell,,init,LCII
+2018-05-02,Northcoast Research,Neutral,Sell,up,LCII
+2018-05-07,Baird,Outperform,Outperform,main,LCII
+2018-06-19,Citigroup,Buy,Buy,main,LCII
+2018-09-28,Sidoti & Co.,Buy,Buy,main,LCII
+2018-11-06,Citigroup,Buy,Buy,main,LCII
+2018-11-30,Sidoti & Co.,Buy,Buy,main,LCII
+2019-03-28,Jefferies,Buy,,init,LCII
+2019-09-23,Citigroup,Buy,,main,LCII
+2019-10-31,Sidoti & Co.,Neutral,Buy,down,LCII
+2019-11-14,Citigroup,Buy,,main,LCII
+2020-03-17,Sidoti & Co.,Buy,Neutral,up,LCII
+2020-03-23,Baird,Outperform,,main,LCII
+2020-05-06,Baird,Outperform,,main,LCII
+2020-07-06,Citigroup,Neutral,,init,LCII
+2020-08-06,Citigroup,Neutral,,main,LCII
+2021-07-15,Truist Securities,Buy,,init,LCII

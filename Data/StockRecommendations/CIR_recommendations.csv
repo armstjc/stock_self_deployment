@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-13,Stifel Nicolaus,Hold,,init,CIR
+2012-08-03,Stifel Nicolaus,Buy,Hold,up,CIR
+2012-08-10,Capstone,Buy,,init,CIR
+2012-10-22,Sidoti & Co.,Neutral,Buy,down,CIR
+2012-11-02,BMO Capital,Market Perform,,main,CIR
+2012-11-02,Stifel Nicolaus,Buy,,main,CIR
+2013-03-01,BMO Capital,Market Perform,,main,CIR
+2013-04-22,BB&T Capital,Buy,Hold,up,CIR
+2013-04-29,Ascendiant Capital,Neutral,,init,CIR
+2014-03-05,KeyBanc,Buy,Hold,up,CIR
+2014-04-23,Stifel Nicolaus,Buy,,main,CIR
+2014-11-03,Stifel Nicolaus,Buy,,main,CIR
+2014-12-04,BB&T Capital,Hold,Buy,down,CIR
+2015-01-05,Stifel Nicolaus,Buy,,main,CIR
+2015-01-14,Stifel Nicolaus,Hold,Buy,down,CIR
+2015-04-14,Seaport Global,,,init,CIR
+2015-07-06,KeyBanc,Sector Weight,Overweight,down,CIR
+2015-11-03,SunTrust Robinson Humphrey,Neutral,,init,CIR
+2016-02-22,SunTrust Robinson Humphrey,Neutral,,main,CIR
+2016-03-09,Seaport Global,Accumulate,Neutral,down,CIR
+2016-04-14,SunTrust Robinson Humphrey,Reduce,Neutral,down,CIR
+2016-05-02,Stifel Nicolaus,Buy,Hold,up,CIR
+2016-08-01,Stifel Nicolaus,Buy,,main,CIR
+2016-09-20,KeyBanc,Sector Weight,,init,CIR
+2016-10-17,KeyBanc,Overweight,Sector Weight,up,CIR
+2017-02-17,Stifel Nicolaus,Hold,Buy,down,CIR
+2017-02-17,KeyBanc,Sector Weight,Overweight,down,CIR
+2017-04-17,Stifel Nicolaus,Buy,Hold,up,CIR
+2017-06-21,Seaport Global,Sell,,down,CIR
+2017-06-22,Sidoti & Co.,Buy,Neutral,up,CIR
+2017-08-01,SunTrust Robinson Humphrey,Buy,Hold,up,CIR
+2017-10-30,Stifel Nicolaus,Buy,,main,CIR
+2017-11-07,KeyBanc,Overweight,Sector Weight,up,CIR
+2018-03-01,Stifel Nicolaus,Buy,Buy,main,CIR
+2018-07-09,KeyBanc,Overweight,Overweight,main,CIR
+2018-08-21,Citigroup,Neutral,,init,CIR
+2018-11-06,KeyBanc,Overweight,Overweight,main,CIR
+2018-12-19,Stifel Nicolaus,Hold,Buy,down,CIR
+2019-03-12,KeyBanc,Sector Weight,Overweight,down,CIR
+2019-05-21,Sidoti & Co.,Neutral,Buy,down,CIR
+2019-07-09,Citigroup,Neutral,,main,CIR
+2019-07-18,Sidoti & Co.,Buy,Neutral,up,CIR
+2019-08-02,Citi,Neutral,,main,CIR
+2019-08-05,Stifel,Buy,Hold,up,CIR
+2019-09-17,KeyBanc,Overweight,Sector Weight,up,CIR
+2020-02-27,Sidoti & Co.,Buy,,main,CIR
+2020-04-01,Citigroup,Neutral,,main,CIR
+2020-08-10,Citigroup,Neutral,,main,CIR
+2020-11-18,KeyBanc,Overweight,,main,CIR

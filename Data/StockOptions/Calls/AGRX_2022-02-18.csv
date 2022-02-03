@@ -1,3 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGRX220218C00002500,2022-01-18 17:10:19+00:00,2.5,0.04,0.0,0.05,0.0,0.0,5.0,17,5.62500296875,False,REGULAR,USD,AGRX
-AGRX220218C00007500,2022-01-24 19:08:53+00:00,7.5,0.02,0.0,0.75,0.0,0.0,,1,0.0,False,REGULAR,USD,AGRX
+AGRX220218C00002500,2021-12-27 14:37:39+00:00,2.5,0.03,0.0,0.05,0.0,0.0,5,6,5.7500028125,False,REGULAR,USD,AGRX

@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-20,Sterne Agee,Buy,,init,CRS
+2012-04-26,Citigroup,Neutral,,main,CRS
+2012-09-10,JP Morgan,Overweight,Neutral,up,CRS
+2012-09-26,Topeka,Buy,,init,CRS
+2012-12-14,Goldman Sachs,Buy,,init,CRS
+2012-12-21,Buckingham Research,Buy,,init,CRS
+2013-04-26,JP Morgan,Neutral,,down,CRS
+2013-05-07,Credit Suisse,Outperform,,init,CRS
+2013-09-16,Credit Suisse,Outperform,,main,CRS
+2013-10-30,Goldman Sachs,Neutral,Buy,down,CRS
+2014-07-30,Topeka,Buy,,main,CRS
+2014-10-24,Stifel Nicolaus,Buy,,main,CRS
+2014-10-27,Credit Suisse,Outperform,,main,CRS
+2015-01-28,Cowen & Co.,Market Perform,Outperform,down,CRS
+2015-04-13,Sterne Agee,Neutral,Buy,down,CRS
+2015-10-19,JP Morgan,Neutral,,down,CRS
+2016-09-09,Seaport Global,Neutral,,init,CRS
+2016-12-19,Deutsche Bank,Hold,,init,CRS
+2017-03-16,Seaport Global,Buy,Neutral,up,CRS
+2017-03-21,Longbow Research,Buy,,init,CRS
+2017-07-28,Longbow Research,Buy,,main,CRS
+2018-04-11,Deutsche Bank,Hold,Hold,main,CRS
+2018-04-27,Cowen & Co.,Outperform,Market Perform,up,CRS
+2018-06-25,Longbow Research,Neutral,Buy,down,CRS
+2018-12-11,Longbow Research,Buy,Neutral,up,CRS
+2019-12-16,Longbow Research,Neutral,Buy,down,CRS
+2020-01-16,Benchmark,Hold,,init,CRS
+2020-04-17,JP Morgan,Neutral,,main,CRS
+2020-08-13,Cowen & Co.,Market Perform,Outperform,down,CRS
+2021-06-16,JP Morgan,Neutral,,init,CRS

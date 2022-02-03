@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-17,Cowen & Co.,Outperform,,init,NEXT
+2018-01-05,Stifel Nicolaus,Hold,,init,NEXT
+2018-04-17,Bank of America,Buy,,init,NEXT
+2018-09-26,Cowen & Co.,Market Perform,Outperform,down,NEXT
+2018-10-11,Credit Suisse,Neutral,,init,NEXT
+2019-09-18,Evercore ISI Group,Outperform,,init,NEXT
+2019-09-20,Morgan Stanley,Underweight,,init,NEXT
+2021-03-24,Credit Suisse,Outperform,Neutral,up,NEXT
+2021-03-26,Morgan Stanley,Equal-Weight,Underweight,up,NEXT
+2021-06-07,Morgan Stanley,Overweight,Equal-Weight,up,NEXT
+2021-06-08,Evercore ISI Group,Outperform,In-Line,up,NEXT

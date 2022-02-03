@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TGH220819P00040000,2022-01-03 14:49:38+00:00,40.0,6.81,6.2,6.8,0.0,0.0,2,6,0.5200243310546875,True,REGULAR,USD,TGH

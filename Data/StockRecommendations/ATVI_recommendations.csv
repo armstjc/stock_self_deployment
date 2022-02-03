@@ -1,0 +1,226 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-27,Stifel Nicolaus,Buy,,init,ATVI
+2012-03-30,Ascendiant Capital,Buy,,init,ATVI
+2012-05-08,National Alliance,Accumulate,,main,ATVI
+2012-05-10,National Alliance,Buy,,up,ATVI
+2012-05-10,PiperJaffray,Neutral,,main,ATVI
+2012-05-11,Indaba Global Research,Buy,,init,ATVI
+2012-09-04,Jefferies,Buy,,init,ATVI
+2012-09-06,PiperJaffray,Overweight,Neutral,up,ATVI
+2012-10-11,Credit Suisse,Outperform,,init,ATVI
+2012-11-29,Brean Capital,Buy,,main,ATVI
+2013-01-10,Stifel Nicolaus,Buy,,main,ATVI
+2013-02-08,Sterne Agee,Buy,Neutral,up,ATVI
+2013-03-15,Stifel Nicolaus,Buy,,main,ATVI
+2013-03-26,Wedbush,Outperform,,main,ATVI
+2013-04-02,UBS,Buy,,init,ATVI
+2013-05-09,Brean Capital,Buy,,main,ATVI
+2013-05-09,Hilliard Lyons,Long-Term Buy,Buy,down,ATVI
+2013-05-10,Hilliard Lyons,Long-Term Buy,Buy,down,ATVI
+2013-07-26,Brean Capital,Buy,,main,ATVI
+2013-07-29,Stifel Nicolaus,Buy,,main,ATVI
+2013-08-02,UBS,Buy,,main,ATVI
+2013-08-02,Brean Capital,Buy,,main,ATVI
+2013-08-07,Benchmark,Buy,,init,ATVI
+2013-10-21,Barclays,Overweight,,init,ATVI
+2013-11-07,Benchmark,Buy,,main,ATVI
+2013-11-07,Jefferies,Buy,,main,ATVI
+2014-01-10,Stifel Nicolaus,Buy,,main,ATVI
+2014-01-17,CRT Capital,Buy,,init,ATVI
+2014-02-07,Brean Capital,Buy,,main,ATVI
+2014-02-07,Bank of America,Neutral,,main,ATVI
+2014-02-10,Stifel Nicolaus,Buy,,main,ATVI
+2014-03-13,Bank of America,Buy,,up,ATVI
+2014-04-21,Brean Capital,Buy,,main,ATVI
+2014-05-07,Credit Suisse,Outperform,,main,ATVI
+2014-05-07,Wedbush,Outperform,,main,ATVI
+2014-05-07,Brean Capital,Buy,,main,ATVI
+2014-05-08,Stifel Nicolaus,Buy,,main,ATVI
+2014-08-06,Macquarie,Outperform,,main,ATVI
+2014-08-06,Barclays,Overweight,,main,ATVI
+2014-08-08,Longbow Research,Buy,Neutral,up,ATVI
+2014-10-24,Stifel Nicolaus,Buy,,main,ATVI
+2014-10-27,Brean Capital,Buy,,main,ATVI
+2014-11-05,Bank of America,Buy,,main,ATVI
+2014-11-10,Brean Capital,Buy,,main,ATVI
+2015-02-06,Barclays,Overweight,,main,ATVI
+2015-04-15,Brean Capital,Buy,,main,ATVI
+2015-05-07,Barclays,Overweight,,main,ATVI
+2015-06-26,Mizuho,Buy,,init,ATVI
+2015-07-28,Brean Capital,Buy,,main,ATVI
+2015-08-05,Barclays,Overweight,,main,ATVI
+2015-09-15,Barclays,Overweight,,main,ATVI
+2015-09-22,Baird,Outperform,,main,ATVI
+2015-09-28,PiperJaffray,Overweight,,main,ATVI
+2015-10-02,Stifel Nicolaus,Buy,,main,ATVI
+2015-11-02,Bank of America,Neutral,Buy,down,ATVI
+2015-11-04,Pacific Crest,Overweight,,main,ATVI
+2015-11-04,Macquarie,Outperform,,main,ATVI
+2015-11-05,KeyBanc,Overweight,,main,ATVI
+2016-01-25,Credit Suisse,Outperform,,main,ATVI
+2016-02-12,Macquarie,Outperform,,main,ATVI
+2016-02-12,Barclays,Overweight,,main,ATVI
+2016-02-16,Hilliard Lyons,Buy,Neutral,up,ATVI
+2016-03-17,Barclays,Overweight,,main,ATVI
+2016-03-30,Hilliard Lyons,Long-Term Buy,Buy,down,ATVI
+2016-04-27,BMO Capital,Market Perform,,init,ATVI
+2016-06-16,Barclays,Overweight,,main,ATVI
+2016-07-28,MKM Partners,Neutral,Buy,down,ATVI
+2016-08-05,UBS,Buy,,main,ATVI
+2016-08-05,Jefferies,Buy,,main,ATVI
+2016-08-05,Barclays,Overweight,,main,ATVI
+2016-09-23,Morgan Stanley,Overweight,,init,ATVI
+2016-10-14,Mizuho,Outperform,,init,ATVI
+2016-11-22,BMO Capital,Market Perform,,main,ATVI
+2017-02-13,Hilliard Lyons,Underperform,Neutral,down,ATVI
+2017-07-18,Needham,Buy,,init,ATVI
+2017-08-04,Bank of America,Buy,Neutral,up,ATVI
+2017-08-16,Argus,Buy,,main,ATVI
+2017-09-08,Goldman Sachs,Neutral,,init,ATVI
+2017-09-20,BMO Capital,Market Perform,,main,ATVI
+2017-09-20,Buckingham,Buy,,init,ATVI
+2017-10-04,Barclays,Equal-Weight,,init,ATVI
+2017-10-09,Cowen & Co.,Market Perform,Outperform,down,ATVI
+2017-11-03,Baird,Outperform,,main,ATVI
+2017-11-03,Jefferies,Buy,,main,ATVI
+2017-11-03,UBS,Buy,,main,ATVI
+2017-11-03,Morgan Stanley,Overweight,,main,ATVI
+2017-11-08,Hilliard Lyons,Neutral,Underperform,up,ATVI
+2017-12-12,Goldman Sachs,Buy,Neutral,up,ATVI
+2017-12-18,BTIG Research,Buy,,init,ATVI
+2018-01-18,Bernstein,Market Perform,,init,ATVI
+2018-02-06,Bank of America,Buy,Buy,main,ATVI
+2018-02-09,Barclays,Equal-Weight,Equal-Weight,main,ATVI
+2018-02-09,Credit Suisse,Outperform,Outperform,main,ATVI
+2018-02-09,Baird,Outperform,Outperform,main,ATVI
+2018-02-09,KeyBanc,Overweight,Overweight,main,ATVI
+2018-05-01,JP Morgan,Neutral,,init,ATVI
+2018-05-04,Bank of America,Buy,Buy,main,ATVI
+2018-05-04,Credit Suisse,Outperform,Outperform,main,ATVI
+2018-06-18,KeyBanc,Overweight,Overweight,main,ATVI
+2018-07-11,Morgan Stanley,Overweight,Overweight,main,ATVI
+2018-08-06,Barclays,Equal-Weight,Equal-Weight,main,ATVI
+2018-08-31,Bank of America,Neutral,Buy,down,ATVI
+2018-10-01,Wedbush,Outperform,Outperform,main,ATVI
+2018-10-05,Berenberg,Hold,,init,ATVI
+2018-10-15,Barclays,Overweight,Equal-Weight,up,ATVI
+2018-10-31,KeyBanc,Overweight,Overweight,main,ATVI
+2018-12-06,JP Morgan,Overweight,Neutral,up,ATVI
+2019-01-11,KeyBanc,Overweight,Overweight,main,ATVI
+2019-01-11,Stephens & Co.,Overweight,,init,ATVI
+2019-01-22,Deutsche Bank,Hold,,init,ATVI
+2019-01-29,Oppenheimer,Market Perform,Outperform,down,ATVI
+2019-01-30,Goldman Sachs,Neutral,,init,ATVI
+2019-02-13,Bank of America,Neutral,Neutral,reit,ATVI
+2019-02-13,KeyBanc,Overweight,Overweight,main,ATVI
+2019-02-13,Wedbush,Outperform,Outperform,main,ATVI
+2019-02-13,Morgan Stanley,Overweight,Overweight,main,ATVI
+2019-02-13,Credit Suisse,Outperform,Outperform,main,ATVI
+2019-04-12,Buckingham,Neutral,,init,ATVI
+2019-05-22,Stephens & Co.,Equal-Weight,Overweight,down,ATVI
+2019-05-28,Goldman Sachs,Buy,Neutral,up,ATVI
+2019-06-06,Nomura,Neutral,,init,ATVI
+2019-06-07,Citigroup,Neutral,,init,ATVI
+2019-07-11,Jefferies,Buy,,init,ATVI
+2019-07-15,Morgan Stanley,Overweight,,main,ATVI
+2019-07-25,Bank of America,Buy,Neutral,up,ATVI
+2019-08-08,Credit Suisse,Outperform,,main,ATVI
+2019-08-09,Bank of America,Buy,,reit,ATVI
+2019-08-12,SunTrust Robinson Humphrey,Buy,,main,ATVI
+2019-08-14,BMO Capital,Market Perform,,main,ATVI
+2019-09-04,BMO Capital,Outperform,Market Perform,up,ATVI
+2019-09-05,Stephens & Co.,Overweight,Equal-Weight,up,ATVI
+2019-09-09,Stifel,Buy,,main,ATVI
+2019-09-12,Bank of America,Buy,,main,ATVI
+2019-09-12,Nomura,Buy,Neutral,up,ATVI
+2019-09-18,Piper Jaffray,Overweight,,main,ATVI
+2019-10-02,Bernstein,Underperform,Market Perform,down,ATVI
+2019-10-11,SunTrust Robinson Humphrey,Buy,,main,ATVI
+2019-10-15,Citi,Neutral,,main,ATVI
+2019-10-15,Morgan Stanley,Overweight,,main,ATVI
+2019-11-04,BMO Capital,Outperform,,main,ATVI
+2019-11-08,JP Morgan,Overweight,,main,ATVI
+2019-11-13,UBS,Buy,,main,ATVI
+2019-12-09,SunTrust Robinson Humphrey,Buy,,main,ATVI
+2019-12-31,Credit Suisse,Outperform,,main,ATVI
+2020-01-10,Stifel,Buy,,reit,ATVI
+2020-01-14,Nomura,Buy,,main,ATVI
+2020-01-21,Morgan Stanley,Overweight,,main,ATVI
+2020-01-28,Piper Sandler,Overweight,,main,ATVI
+2020-02-04,KeyBanc,Overweight,,main,ATVI
+2020-02-07,Morgan Stanley,Overweight,,main,ATVI
+2020-02-07,Wedbush,Outperform,,main,ATVI
+2020-02-07,Needham,Buy,,main,ATVI
+2020-02-10,BMO Capital,Outperform,,main,ATVI
+2020-02-12,SunTrust Robinson Humphrey,Buy,,main,ATVI
+2020-02-14,MKM Partners,Neutral,,main,ATVI
+2020-03-02,Stephens & Co.,Overweight,,main,ATVI
+2020-03-10,Oppenheimer,Outperform,Perform,up,ATVI
+2020-03-25,Berenberg,Buy,Hold,up,ATVI
+2020-04-02,MKM Partners,Buy,Neutral,up,ATVI
+2020-04-07,Wells Fargo,Overweight,,init,ATVI
+2020-04-21,Benchmark,Buy,,main,ATVI
+2020-05-06,JP Morgan,Overweight,,main,ATVI
+2020-05-06,UBS,Buy,,main,ATVI
+2020-05-06,Wedbush,Outperform,,main,ATVI
+2020-05-06,Credit Suisse,Outperform,,main,ATVI
+2020-05-06,B of A Securities,Buy,,reit,ATVI
+2020-05-06,Morgan Stanley,Overweight,,main,ATVI
+2020-05-06,Nomura Instinet,Buy,,main,ATVI
+2020-05-07,Baird,Outperform,,main,ATVI
+2020-05-07,BMO Capital,Outperform,,main,ATVI
+2020-05-15,SunTrust Robinson Humphrey,Buy,,main,ATVI
+2020-05-18,Citigroup,Neutral,,main,ATVI
+2020-05-21,Deutsche Bank,Hold,,main,ATVI
+2020-06-08,Oppenheimer,Outperformer,,main,ATVI
+2020-06-09,Morgan Stanley,Overweight,,main,ATVI
+2020-06-25,KeyBanc,Overweight,,main,ATVI
+2020-07-02,Needham,Buy,,main,ATVI
+2020-07-22,Wells Fargo,Overweight,,main,ATVI
+2020-07-23,KeyBanc,Overweight,,main,ATVI
+2020-07-24,Morgan Stanley,Overweight,,main,ATVI
+2020-08-05,Needham,Buy,,main,ATVI
+2020-08-05,Morgan Stanley,Overweight,,main,ATVI
+2020-08-05,Credit Suisse,Outperform,,main,ATVI
+2020-08-06,BMO Capital,Outperform,,main,ATVI
+2020-08-06,Stifel,Buy,,main,ATVI
+2020-08-13,Citigroup,Neutral,,main,ATVI
+2020-10-13,BMO Capital,Market Perform,Outperform,down,ATVI
+2020-10-30,KeyBanc,Overweight,,main,ATVI
+2021-01-14,Deutsche Bank,Buy,,main,ATVI
+2021-01-26,Raymond James,Outperform,,init,ATVI
+2021-02-01,Credit Suisse,Outperform,,main,ATVI
+2021-02-02,Truist Securities,Buy,,main,ATVI
+2021-02-05,KeyBanc,Overweight,,main,ATVI
+2021-02-05,Raymond James,Outperform,,main,ATVI
+2021-02-05,Credit Suisse,Outperform,,main,ATVI
+2021-02-05,Morgan Stanley,Overweight,,main,ATVI
+2021-02-05,Piper Sandler,Overweight,,main,ATVI
+2021-02-05,Barclays,Overweight,,main,ATVI
+2021-02-05,Wedbush,Outperform,,main,ATVI
+2021-02-05,JP Morgan,Overweight,,main,ATVI
+2021-02-09,BMO Capital,Market Perform,,main,ATVI
+2021-02-18,Argus Research,Buy,,main,ATVI
+2021-02-18,Deutsche Bank,Buy,,main,ATVI
+2021-02-23,Benchmark,Buy,,main,ATVI
+2021-04-26,Benchmark,Buy,,main,ATVI
+2021-05-05,Morgan Stanley,Overweight,,main,ATVI
+2021-05-10,Deutsche Bank,Buy,,main,ATVI
+2021-05-11,BMO Capital,Outperform,Market Perform,up,ATVI
+2021-06-24,MoffettNathanson,Buy,,init,ATVI
+2021-07-13,Berenberg,Buy,,main,ATVI
+2021-07-21,Deutsche Bank,Buy,,main,ATVI
+2021-08-04,Barclays,Overweight,,main,ATVI
+2021-08-04,Raymond James,Outperform,,main,ATVI
+2021-08-09,Argus Research,Hold,Buy,down,ATVI
+2021-08-13,Citigroup,Buy,Neutral,up,ATVI
+2021-11-01,Bernstein,Market Perform,Underperform,up,ATVI
+2021-11-03,Deutsche Bank,Buy,,main,ATVI
+2021-11-03,Benchmark,Buy,,main,ATVI
+2021-11-03,MKM Partners,Neutral,Buy,down,ATVI
+2021-11-03,Barclays,Overweight,,main,ATVI
+2021-11-03,Raymond James,Outperform,,main,ATVI
+2021-11-03,Morgan Stanley,Equal-Weight,Overweight,down,ATVI
+2021-11-03,Keybanc,Overweight,,main,ATVI
+2021-11-18,JP Morgan,Neutral,Overweight,down,ATVI
+2021-11-22,MKM Partners,Sell,Neutral,down,ATVI

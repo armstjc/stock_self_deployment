@@ -1,0 +1,196 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-02,Stifel Nicolaus,Buy,,main,CME
+2012-03-05,Evercore Partners,Equal-Weight,,main,CME
+2012-03-16,Deutsche Bank,Hold,,main,CME
+2012-03-20,UBS,Buy,,main,CME
+2012-04-03,Deutsche Bank,Hold,,main,CME
+2012-04-04,Jefferies,Buy,,main,CME
+2012-04-12,Indaba Global Research,Sell,,init,CME
+2012-04-27,UBS,Buy,,main,CME
+2012-04-27,JP Morgan,Neutral,,main,CME
+2012-04-27,ISI Group,Hold,,main,CME
+2012-04-27,Jefferies,Buy,,main,CME
+2012-06-21,BGB Securities,Hold,,init,CME
+2012-08-17,UBS,Neutral,,main,CME
+2012-09-14,JP Morgan,Underweight,Neutral,down,CME
+2012-10-01,Jefferies,Buy,,main,CME
+2012-10-03,JP Morgan,Underweight,,main,CME
+2012-10-08,Stifel Nicolaus,Hold,Buy,down,CME
+2012-10-26,UBS,Buy,,main,CME
+2012-10-26,Evercore Partners,Equal-Weight,Overweight,down,CME
+2012-10-26,Raymond James,Outperform,Market Perform,up,CME
+2012-10-26,BGB Securities,Hold,,main,CME
+2012-12-10,Goldman Sachs,Sell,Neutral,down,CME
+2012-12-14,Keefe Bruyette & Woods,Underperform,Market Perform,down,CME
+2013-01-09,Compass Point,Neutral,,init,CME
+2013-03-05,JP Morgan,Underweight,,main,CME
+2013-04-02,Credit Suisse,Neutral,Overweight,down,CME
+2013-04-15,Jefferies,Buy,,main,CME
+2013-05-03,Compass Point,Neutral,,main,CME
+2013-05-21,Macquarie,Neutral,Outperform,down,CME
+2013-05-31,Keefe Bruyette & Woods,Market Perform,Underperform,up,CME
+2013-06-03,Jefferies,Buy,,main,CME
+2013-06-04,Wells Fargo,Outperform,Market Perform,up,CME
+2013-06-14,ISI Group,Buy,Neutral,up,CME
+2013-06-24,Goldman Sachs,Neutral,Sell,up,CME
+2013-06-25,JP Morgan,Neutral,Underweight,up,CME
+2013-07-02,Raymond James,Market Perform,Outperform,down,CME
+2013-08-02,UBS,Buy,,main,CME
+2013-09-25,Keefe Bruyette & Woods,Outperform,Market Perform,up,CME
+2013-10-21,Compass Point,Neutral,,main,CME
+2014-01-08,Citigroup,Neutral,Buy,down,CME
+2014-01-28,JP Morgan,Neutral,,main,CME
+2014-04-09,Citigroup,Neutral,,main,CME
+2014-04-10,Citigroup,Neutral,,main,CME
+2014-05-02,UBS,Buy,,main,CME
+2014-05-02,Citigroup,Hold,,main,CME
+2014-05-02,Barclays,Equal-Weight,,main,CME
+2014-05-06,JP Morgan,Neutral,,main,CME
+2014-05-09,Jefferies,Buy,,main,CME
+2014-06-10,JP Morgan,Neutral,,main,CME
+2014-06-30,Barclays,Equal-Weight,,main,CME
+2014-07-08,JP Morgan,Neutral,,main,CME
+2014-08-01,Barclays,Equal-Weight,,main,CME
+2014-09-10,Deutsche Bank,Buy,,init,CME
+2014-09-18,Keefe Bruyette & Woods,Outperform,,main,CME
+2014-10-02,Credit Suisse,Neutral,,main,CME
+2014-10-07,Citigroup,Neutral,,main,CME
+2014-10-08,Bank of America,Neutral,,main,CME
+2014-10-14,Deutsche Bank,Buy,,main,CME
+2014-10-31,Citigroup,Neutral,,main,CME
+2014-12-08,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,CME
+2014-12-12,Deutsche Bank,Buy,,main,CME
+2015-01-07,Jefferies,Buy,,main,CME
+2015-01-07,CLSA,Underperform,Outperform,down,CME
+2015-01-20,Citigroup,Buy,Neutral,up,CME
+2015-01-23,Deutsche Bank,Buy,,main,CME
+2015-02-06,Deutsche Bank,Buy,,main,CME
+2015-02-06,Citigroup,Buy,,main,CME
+2015-03-06,Deutsche Bank,Buy,,main,CME
+2015-03-30,Jefferies,Buy,,main,CME
+2015-04-10,Barclays,Equal-Weight,,main,CME
+2015-05-01,Barclays,Equal-Weight,,main,CME
+2015-05-08,Deutsche Bank,Buy,,main,CME
+2015-05-08,Barclays,Equal-Weight,,main,CME
+2015-05-08,Evercore ISI Group,Buy,Hold,up,CME
+2015-06-05,JP Morgan,Neutral,,main,CME
+2015-06-17,Keefe Bruyette & Woods,Market Perform,,main,CME
+2015-07-06,UBS,Buy,,main,CME
+2015-07-10,Barclays,Equal-Weight,,main,CME
+2015-07-31,Keefe Bruyette & Woods,Market Perform,,main,CME
+2015-08-11,Barclays,Equal-Weight,,main,CME
+2015-09-04,JP Morgan,Neutral,,main,CME
+2015-10-08,Keefe Bruyette & Woods,Market Perform,,main,CME
+2015-10-30,Barclays,Equal-Weight,,main,CME
+2015-12-08,RBC Capital,Underperform,,init,CME
+2016-01-06,Credit Suisse,Neutral,,main,CME
+2016-01-13,JP Morgan,Overweight,Neutral,up,CME
+2016-01-26,Deutsche Bank,Buy,,main,CME
+2016-02-08,Keefe Bruyette & Woods,Market Perform,,main,CME
+2016-02-09,Deutsche Bank,Buy,,main,CME
+2016-03-11,JP Morgan,Neutral,,main,CME
+2016-04-08,Keefe Bruyette & Woods,Market Perform,,main,CME
+2016-05-03,Buckingham Research,Buy,,init,CME
+2016-05-20,Sterne Agee CRT,Neutral,,init,CME
+2016-07-14,CLSA,Underperform,,main,CME
+2016-07-29,JP Morgan,Overweight,,main,CME
+2016-07-29,Keefe Bruyette & Woods,Market Perform,,main,CME
+2016-07-29,Deutsche Bank,Buy,,main,CME
+2016-07-29,UBS,Buy,,main,CME
+2016-07-29,Barclays,Equal-Weight,,main,CME
+2016-08-05,Deutsche Bank,Buy,,main,CME
+2016-08-31,Jefferies,Buy,,main,CME
+2016-10-05,Deutsche Bank,Buy,,main,CME
+2016-11-14,JP Morgan,Neutral,Overweight,down,CME
+2017-07-12,Citigroup,Buy,,init,CME
+2017-07-17,Jefferies,Buy,,main,CME
+2017-09-06,UBS,Buy,,main,CME
+2017-09-08,Barclays,Overweight,,init,CME
+2017-10-04,Wells Fargo,Market Perform,,main,CME
+2017-10-10,Barclays,Overweight,,main,CME
+2017-10-19,Citigroup,Buy,,main,CME
+2018-01-25,Berenberg,Hold,,init,CME
+2018-02-02,Barclays,Overweight,Overweight,main,CME
+2018-02-02,Bank of America,Buy,Buy,main,CME
+2018-03-08,Bank of America,Buy,Buy,main,CME
+2018-04-06,Deutsche Bank,Buy,Buy,main,CME
+2018-04-10,Bernstein,Outperform,,init,CME
+2018-07-10,Compass Point,Neutral,,init,CME
+2018-09-05,Rosenblatt,Neutral,,init,CME
+2018-10-11,Deutsche Bank,Buy,Buy,main,CME
+2018-10-26,Wells Fargo,Market Perform,Market Perform,main,CME
+2018-11-16,Deutsche Bank,Buy,Buy,main,CME
+2018-11-20,Citigroup,Buy,Buy,main,CME
+2018-11-20,Berenberg,Buy,Hold,up,CME
+2018-11-28,UBS,Neutral,Buy,down,CME
+2018-11-28,Atlantic Equities,Neutral,,init,CME
+2019-01-11,Bank of America,Neutral,Buy,down,CME
+2019-02-15,JP Morgan,Underweight,Neutral,down,CME
+2019-03-15,Deutsche Bank,Buy,Buy,main,CME
+2019-03-26,Barclays,Overweight,Overweight,main,CME
+2019-04-18,Rosenblatt,Sell,Neutral,down,CME
+2019-05-02,UBS,Neutral,Neutral,main,CME
+2019-06-05,UBS,Neutral,,main,CME
+2019-07-03,UBS,Neutral,,main,CME
+2019-07-03,Wells Fargo,Market Perform,,main,CME
+2019-08-09,Deutsche Bank,Buy,,main,CME
+2019-09-05,UBS,Neutral,,main,CME
+2019-09-17,Oppenheimer,Outperform,,init,CME
+2019-09-19,Berenberg,Hold,Buy,down,CME
+2019-10-03,UBS,Neutral,,main,CME
+2019-10-21,Citigroup,Buy,,main,CME
+2019-10-31,Wells Fargo,Market Perform,,main,CME
+2019-10-31,UBS,Neutral,,main,CME
+2019-11-27,Deutsche Bank,Buy,,main,CME
+2019-12-04,UBS,Neutral,,main,CME
+2019-12-06,JP Morgan,Underweight,,main,CME
+2019-12-16,Credit Suisse,Neutral,,init,CME
+2019-12-19,Deutsche Bank,Buy,,main,CME
+2020-02-13,CFRA,Hold,,main,CME
+2020-02-26,UBS,Buy,Neutral,up,CME
+2020-03-05,Deutsche Bank,Buy,,main,CME
+2020-03-18,Deutsche Bank,Buy,,main,CME
+2020-03-23,B of A Securities,Neutral,,main,CME
+2020-03-30,Raymond James,Outperform,Market Perform,up,CME
+2020-03-31,Deutsche Bank,Buy,,main,CME
+2020-04-03,UBS,Buy,,main,CME
+2020-04-03,Citigroup,Buy,,main,CME
+2020-04-09,Deutsche Bank,Buy,,main,CME
+2020-04-13,Oppenheimer,Outperform,,main,CME
+2020-04-14,"Keefe, Bruyette & Woods",Underperform,Market Perform,down,CME
+2020-04-20,Citigroup,Buy,,main,CME
+2020-04-29,CFRA,Hold,,main,CME
+2020-04-30,UBS,Buy,,main,CME
+2020-04-30,Wells Fargo,Equal-Weight,,main,CME
+2020-05-15,Deutsche Bank,Buy,,main,CME
+2020-06-03,Rosenblatt,Sell,,main,CME
+2020-06-23,Credit Suisse,Neutral,,main,CME
+2020-07-09,Deutsche Bank,Buy,,main,CME
+2020-07-13,Oppenheimer,Outperform,,main,CME
+2020-07-30,Deutsche Bank,Buy,,main,CME
+2020-07-30,Rosenblatt,Sell,,main,CME
+2020-09-10,Credit Suisse,Neutral,,main,CME
+2020-09-23,Atlantic Equities,Overweight,Neutral,up,CME
+2020-10-05,Rosenblatt,Sell,,main,CME
+2020-10-29,Deutsche Bank,Buy,,main,CME
+2020-11-04,Rosenblatt,Sell,,main,CME
+2020-12-03,Rosenblatt,Sell,,main,CME
+2021-01-06,Rosenblatt,Sell,,main,CME
+2021-01-07,JP Morgan,Neutral,Underweight,up,CME
+2021-01-08,Deutsche bank,Hold,Buy,down,CME
+2021-01-15,Oppenheimer,Perform,Outperform,down,CME
+2021-02-11,Citigroup,Buy,,main,CME
+2021-02-25,Wells Fargo,Overweight,Equal-Weight,up,CME
+2021-03-24,B of A Securities,Buy,Neutral,up,CME
+2021-04-20,Citigroup,Buy,,main,CME
+2021-04-29,Citigroup,Buy,,main,CME
+2021-04-30,Argus Research,Hold,Buy,down,CME
+2021-06-10,Atlantic Equities,Neutral,Overweight,down,CME
+2021-06-11,Morgan Stanley,Equal-Weight,,init,CME
+2021-06-14,Morgan Stanley,Equal-Weight,,init,CME
+2021-07-01,Morgan Stanley,Equal-Weight,,main,CME
+2021-10-08,Morgan Stanley,Equal-Weight,,main,CME
+2021-10-28,Morgan Stanley,Equal-Weight,,main,CME
+2021-10-28,Rosenblatt,Sell,,main,CME
+2021-10-28,Raymond James,Outperform,,main,CME
+2022-01-05,Raymond James,Outperform,,main,CME

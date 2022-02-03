@@ -1,0 +1,273 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,Deutsche Bank,Buy,,main,MA
+2012-03-01,UBS,Neutral,,init,MA
+2012-04-05,Oppenheimer,Outperform,,main,MA
+2012-04-09,Stifel Nicolaus,Buy,,main,MA
+2012-04-13,Citigroup,Neutral,,main,MA
+2012-05-01,JP Morgan,Overweight,,main,MA
+2012-05-02,Guggenheim,Buy,,main,MA
+2012-05-03,Meredith Whitney Advisory Group,Outperform,,main,MA
+2012-05-03,JP Morgan,Overweight,,main,MA
+2012-05-03,Deutsche Bank,Buy,,main,MA
+2012-05-17,Goldman Sachs,Neutral,,main,MA
+2012-06-06,Stifel Nicolaus,Buy,,main,MA
+2012-06-21,Morgan Stanley,Overweight,,main,MA
+2012-07-09,UBS,Sell,Neutral,down,MA
+2012-08-02,Deutsche Bank,Buy,,main,MA
+2012-08-02,JP Morgan,Overweight,,main,MA
+2012-09-12,Pacific Crest,Outperform,,init,MA
+2012-09-21,Sterne Agee,Buy,,main,MA
+2012-09-21,Citigroup,Buy,Neutral,up,MA
+2012-10-19,Jefferies,Buy,,main,MA
+2012-11-01,Barclays,Overweight,,main,MA
+2012-11-01,Stifel Nicolaus,Buy,,main,MA
+2012-11-01,Credit Suisse,Outperform,,main,MA
+2012-11-01,UBS,Sell,,main,MA
+2012-12-10,Nomura,Buy,,main,MA
+2013-01-09,Goldman Sachs,Buy,Neutral,up,MA
+2013-01-30,UBS,Sell,,main,MA
+2013-02-01,Wells Fargo,Market Perform,Outperform,down,MA
+2013-02-21,UBS,Neutral,Sell,up,MA
+2013-02-21,UBS,Neutral,Sell,up,MA
+2013-03-06,Argus Capital,Hold,Buy,down,MA
+2013-04-01,Jefferies,Buy,,main,MA
+2013-04-12,Sterne Agee,Neutral,Buy,down,MA
+2013-05-02,Raymond James,Market Perform,Outperform,down,MA
+2013-05-02,Nomura,Buy,,main,MA
+2013-05-02,Stifel Nicolaus,Buy,,main,MA
+2013-06-18,Morgan Stanley,Overweight,,init,MA
+2013-07-15,Deutsche Bank,Buy,,main,MA
+2013-07-22,Nomura,Buy,,main,MA
+2013-09-12,Goldman Sachs,Buy,,main,MA
+2013-09-12,Oppenheimer,Outperform,,main,MA
+2013-09-12,Jefferies,Buy,,main,MA
+2013-10-24,Jefferies,Buy,,main,MA
+2013-10-28,Baird,Neutral,,main,MA
+2013-11-01,Nomura,Buy,,main,MA
+2013-12-11,Credit Suisse,Outperform,,main,MA
+2013-12-16,Bank of America,Buy,,main,MA
+2014-01-27,Sandler O'Neill,Hold,,init,MA
+2014-01-28,JP Morgan,Overweight,,main,MA
+2014-02-03,Susquehanna,Positive,Neutral,up,MA
+2014-02-03,FBR Capital,Market Perform,Outperform,down,MA
+2014-04-14,Baird,Outperform,,up,MA
+2014-04-14,Pacific Crest,Sector Perform,,init,MA
+2014-04-15,Janney Capital,Buy,Neutral,up,MA
+2014-04-29,Stifel Nicolaus,Buy,,main,MA
+2014-05-02,Citigroup,Buy,,main,MA
+2014-05-02,Nomura,Buy,,main,MA
+2014-09-16,PiperJaffray,Overweight,,init,MA
+2014-09-16,Sterne Agee,Buy,,init,MA
+2014-09-16,Bernstein,Outperform,,init,MA
+2014-09-22,Atlantic Equities,Overweight,,init,MA
+2014-10-13,PiperJaffray,Overweight,,main,MA
+2014-10-31,Oppenheimer,Outperform,,main,MA
+2014-10-31,FBR Capital,Market Perform,,main,MA
+2014-11-12,Topeka,Hold,,init,MA
+2014-12-01,Evercore ISI Group,Buy,,main,MA
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,MA
+2014-12-17,Citigroup,Buy,,main,MA
+2015-01-12,Barclays,Overweight,,main,MA
+2015-01-15,JP Morgan,Overweight,,main,MA
+2015-01-16,Deutsche Bank,Buy,,main,MA
+2015-01-21,Jefferies,Buy,,main,MA
+2015-01-23,Oppenheimer,Outperform,,main,MA
+2015-01-26,JP Morgan,Overweight,,main,MA
+2015-02-02,Deutsche Bank,Buy,,main,MA
+2015-02-02,Citigroup,Buy,,main,MA
+2015-04-06,JP Morgan,Overweight,,main,MA
+2015-05-01,Stifel Nicolaus,Buy,,main,MA
+2015-05-19,Pacific Crest,,Sector Perform,up,MA
+2015-05-20,CLSA,Outperform,,init,MA
+2015-06-29,SunTrust Robinson Humphrey,Buy,,main,MA
+2015-07-20,Oppenheimer,Outperform,,main,MA
+2015-07-20,Oppenheimer,Outperform,,main,MA
+2015-08-14,JP Morgan,Overweight,,main,MA
+2015-09-07,Evercore ISI Group,Buy,,main,MA
+2015-09-11,Citigroup,Buy,,main,MA
+2015-09-30,Cowen & Co.,Outperform,,init,MA
+2015-10-30,Wedbush,Neutral,,main,MA
+2015-11-20,Barclays,Overweight,,main,MA
+2015-12-16,UBS,Buy,,init,MA
+2015-12-17,Sterne Agee CRT,Buy,,init,MA
+2016-02-01,Deutsche Bank,Buy,,main,MA
+2016-02-01,Oppenheimer,Outperform,,main,MA
+2016-02-01,BMO Capital,Outperform,,main,MA
+2016-02-11,Bank of America,Neutral,Buy,down,MA
+2016-04-15,Compass Point,Neutral,,init,MA
+2016-04-29,Citigroup,Buy,,main,MA
+2016-07-07,Barclays,Overweight,,main,MA
+2016-07-19,Oppenheimer,Overweight,,main,MA
+2016-07-29,JP Morgan,Overweight,,main,MA
+2016-07-29,Citigroup,Buy,,main,MA
+2016-07-29,Barclays,Overweight,,main,MA
+2016-09-06,Baird,Outperform,,main,MA
+2016-09-08,Barclays,Overweight,,main,MA
+2016-09-08,Nomura,Buy,,main,MA
+2016-10-20,Barclays,Equal-Weight,,main,MA
+2016-11-01,Guggenheim,Neutral,Buy,down,MA
+2016-12-15,Bank of America,Buy,Neutral,up,MA
+2017-01-05,RBC Capital,Top Pick,Outperform,up,MA
+2017-02-15,Loop Capital,Buy,,init,MA
+2017-06-28,Mizuho,Neutral,,init,MA
+2017-07-28,BMO Capital,Outperform,,main,MA
+2017-09-08,Credit Suisse,Outperform,,main,MA
+2017-09-08,Barclays,Overweight,,main,MA
+2017-09-08,Nomura,Buy,,main,MA
+2017-09-11,Guggenheim,Buy,Neutral,up,MA
+2017-09-19,Morgan Stanley,Overweight,,main,MA
+2017-10-02,Buckingham,Buy,,init,MA
+2017-10-13,Stephens & Co.,Overweight,,init,MA
+2017-10-16,Baird,Outperform,,main,MA
+2017-10-18,Citigroup,Buy,,main,MA
+2017-10-18,Barclays,Overweight,,main,MA
+2017-10-30,Cantor Fitzgerald,Overweight,,main,MA
+2017-11-01,Nomura,Buy,,main,MA
+2017-11-01,BMO Capital,Outperform,,main,MA
+2017-11-01,JP Morgan,Overweight,,main,MA
+2017-11-01,KeyBanc,Overweight,,main,MA
+2017-11-06,Bank of America,Buy,,main,MA
+2018-01-04,RBC Capital,Outperform,Top Pick,down,MA
+2018-01-25,Oppenheimer,Outperform,Outperform,main,MA
+2018-01-25,Morgan Stanley,Overweight,Overweight,main,MA
+2018-01-30,Barclays,Overweight,Overweight,main,MA
+2018-02-02,Barclays,Overweight,Overweight,main,MA
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,MA
+2018-02-02,Argus,Buy,Hold,up,MA
+2018-02-02,PiperJaffray,Overweight,Overweight,main,MA
+2018-02-02,KeyBanc,Overweight,Overweight,main,MA
+2018-03-28,Bernstein,Outperform,,init,MA
+2018-05-03,Morgan Stanley,Overweight,Overweight,main,MA
+2018-05-04,Bank of America,Buy,Buy,main,MA
+2018-05-04,KeyBanc,Overweight,Overweight,main,MA
+2018-05-18,UBS,Neutral,,init,MA
+2018-06-26,Buckingham,Buy,Buy,main,MA
+2018-07-12,Wells Fargo,Outperform,Outperform,main,MA
+2018-07-17,Bank of America,Buy,Buy,main,MA
+2018-07-19,Morgan Stanley,Overweight,Overweight,main,MA
+2018-07-27,Morgan Stanley,Overweight,Overweight,main,MA
+2018-07-27,Buckingham,Buy,Buy,main,MA
+2018-07-27,JP Morgan,Overweight,Overweight,main,MA
+2018-07-27,KeyBanc,Overweight,Overweight,main,MA
+2018-09-27,BMO Capital,Outperform,,init,MA
+2018-10-01,Wells Fargo,Outperform,Outperform,main,MA
+2018-11-01,BMO Capital,Outperform,Outperform,main,MA
+2018-11-15,Barclays,Overweight,,init,MA
+2019-01-03,Wells Fargo,Outperform,Outperform,main,MA
+2019-01-08,Bank of America,Neutral,Buy,down,MA
+2019-01-09,UBS,Buy,Neutral,up,MA
+2019-01-29,Jefferies,Buy,,init,MA
+2019-03-14,Wedbush,Outperform,Outperform,main,MA
+2019-04-01,Deutsche Bank,Buy,Buy,main,MA
+2019-04-17,Oppenheimer,Outperform,Outperform,main,MA
+2019-04-26,Raymond James,Outperform,Outperform,main,MA
+2019-05-01,Citigroup,Buy,Buy,main,MA
+2019-05-01,BMO Capital,Outperform,Outperform,main,MA
+2019-05-02,UBS,Buy,Buy,main,MA
+2019-05-06,Barclays,Overweight,Overweight,main,MA
+2019-07-10,Wells Fargo,Outperform,,main,MA
+2019-07-11,Morgan Stanley,Overweight,,main,MA
+2019-07-18,Raymond James,Outperform,,main,MA
+2019-07-19,Barclays,Overweight,,main,MA
+2019-07-31,Raymond James,Outperform,,main,MA
+2019-07-31,Nomura,Buy,,main,MA
+2019-08-01,UBS,Buy,,main,MA
+2019-08-05,Barclays,Overweight,,main,MA
+2019-09-09,Citigroup,Buy,,main,MA
+2019-09-13,SunTrust Robinson Humphrey,Buy,,main,MA
+2019-09-16,Morgan Stanley,Overweight,,main,MA
+2019-10-30,Morgan Stanley,Overweight,,main,MA
+2019-11-04,Barclays,Overweight,,main,MA
+2019-12-05,Compass Point,Buy,,init,MA
+2019-12-11,SunTrust Robinson Humphrey,Buy,,main,MA
+2019-12-16,Morgan Stanley,Overweight,,main,MA
+2020-01-06,Wells Fargo,Overweight,,main,MA
+2020-01-13,Nomura,Buy,,main,MA
+2020-01-16,Oppenheimer,Outperform,,main,MA
+2020-01-22,Baird,Outperform,,main,MA
+2020-01-22,Citigroup,Buy,,main,MA
+2020-01-23,Morgan Stanley,Overweight,,main,MA
+2020-01-30,Stephens & Co.,Overweight,,reit,MA
+2020-01-30,Guggenheim,Buy,,main,MA
+2020-01-30,Cantor Fitzgerald,Overweight,,main,MA
+2020-01-30,BMO Capital,Outperform,,main,MA
+2020-01-30,Wells Fargo,Overweight,,reit,MA
+2020-01-30,Raymond James,Outperform,,main,MA
+2020-01-30,SunTrust Robinson Humphrey,Buy,,main,MA
+2020-02-03,UBS,Buy,,main,MA
+2020-03-11,Baird,Outperform,,main,MA
+2020-03-11,Citigroup,Buy,,main,MA
+2020-03-16,Morgan Stanley,Overweight,,main,MA
+2020-03-23,Morgan Stanley,Overweight,,main,MA
+2020-03-23,KeyBanc,Overweight,,main,MA
+2020-03-24,RBC Capital,Outperform,,main,MA
+2020-03-25,Stephens & Co.,Overweight,,main,MA
+2020-03-26,Barclays,Overweight,,main,MA
+2020-03-31,Wells Fargo,Overweight,,main,MA
+2020-03-31,SunTrust Robinson Humphrey,Buy,,main,MA
+2020-04-01,Stephens & Co.,Overweight,,main,MA
+2020-04-08,Morgan Stanley,Overweight,,main,MA
+2020-04-09,Nomura,Buy,,main,MA
+2020-04-09,Citigroup,Buy,,main,MA
+2020-04-15,Jefferies,Hold,Buy,down,MA
+2020-04-16,Guggenheim,Neutral,Buy,down,MA
+2020-04-27,Wedbush,Outperform,,main,MA
+2020-04-30,SunTrust Robinson Humphrey,Buy,,main,MA
+2020-04-30,Susquehanna,Positive,,main,MA
+2020-04-30,BMO Capital,Outperform,,main,MA
+2020-04-30,Citigroup,Buy,,main,MA
+2020-04-30,Raymond James,Outperform,,main,MA
+2020-04-30,KeyBanc,Overweight,,main,MA
+2020-05-01,UBS,Buy,,main,MA
+2020-05-01,Morgan Stanley,Overweight,,main,MA
+2020-06-17,Citigroup,Buy,,main,MA
+2020-06-23,Oppenheimer,Perform,Outperform,down,MA
+2020-07-14,Goldman Sachs,Buy,,init,MA
+2020-07-22,Barclays,Overweight,,main,MA
+2020-07-28,Morgan Stanley,Overweight,,main,MA
+2020-07-31,Raymond James,Outperform,,main,MA
+2020-07-31,Morgan Stanley,Overweight,,main,MA
+2020-08-03,KeyBanc,Overweight,,main,MA
+2020-08-27,B of A Securities,Neutral,,main,MA
+2020-08-27,Mizuho,Buy,,init,MA
+2020-09-10,Susquehanna,Positive,,main,MA
+2020-09-15,Deutsche Bank,Buy,,main,MA
+2020-10-02,Jefferies,Hold,,main,MA
+2020-10-26,Morgan Stanley,Overweight,,main,MA
+2020-10-27,KeyBanc,Overweight,,main,MA
+2020-10-29,BMO Capital,Outperform,,main,MA
+2020-10-30,Morgan Stanley,Overweight,,main,MA
+2020-11-02,KeyBanc,Overweight,,main,MA
+2020-12-07,Seaport Global,Buy,,init,MA
+2021-01-06,B of A Securities,Buy,Neutral,up,MA
+2021-01-13,Jefferies,Buy,Hold,up,MA
+2021-01-14,Deutsche Bank,Buy,,main,MA
+2021-01-20,Morgan Stanley,Overweight,,main,MA
+2021-01-25,Barclays,Overweight,,main,MA
+2021-01-27,KeyBanc,Sector Weight,Overweight,down,MA
+2021-01-29,Raymond James,Outperform,,main,MA
+2021-01-29,Morgan Stanley,Overweight,,main,MA
+2021-03-05,Truist Securities,Buy,,main,MA
+2021-03-09,Mizuho,Buy,,main,MA
+2021-03-16,Morgan Stanley,Overweight,,main,MA
+2021-04-20,Morgan Stanley,Overweight,,main,MA
+2021-04-20,Barclays,Overweight,,main,MA
+2021-04-30,Mizuho,Buy,,main,MA
+2021-04-30,Jefferies,Buy,,main,MA
+2021-04-30,Morgan Stanley,Overweight,,main,MA
+2021-05-18,Daiwa Capital,Outperform,Neutral,up,MA
+2021-06-07,Barclays,Overweight,,main,MA
+2021-07-15,Baird,Outperform,,main,MA
+2021-07-30,Morgan Stanley,Overweight,,main,MA
+2021-07-30,Raymond James,Outperform,,main,MA
+2021-07-30,Wells Fargo,Overweight,,main,MA
+2021-08-02,Barclays,Overweight,,main,MA
+2021-08-02,Mizuho,Buy,,main,MA
+2021-08-12,Daiwa Capital,Neutral,Outperform,down,MA
+2021-08-17,JP Morgan,Overweight,,main,MA
+2021-10-29,Raymond James,Outperform,,main,MA
+2021-10-29,RBC Capital,Outperform,,main,MA
+2021-10-29,Morgan Stanley,Overweight,,main,MA
+2021-11-11,Wells Fargo,Overweight,,main,MA
+2021-12-20,Wedbush,Outperform,,main,MA
+2022-01-11,Raymond James,Outperform,,main,MA

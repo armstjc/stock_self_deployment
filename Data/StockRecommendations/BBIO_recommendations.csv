@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-22,Piper Jaffray,Overweight,,init,BBIO
+2019-07-22,SVB Leerink,Outperform,,init,BBIO
+2019-07-22,Jefferies,Buy,,init,BBIO
+2019-07-22,JP Morgan,Overweight,,init,BBIO
+2019-07-22,BMO Capital,Outperform,,init,BBIO
+2019-07-22,Goldman Sachs,Buy,,init,BBIO
+2019-07-26,Raymond James,Outperform,,init,BBIO
+2020-02-19,Mizuho,Buy,,init,BBIO
+2020-03-03,JP Morgan,Overweight,,main,BBIO
+2020-04-13,H.C. Wainwright,Buy,,init,BBIO
+2020-05-14,SVB Leerink,Outperform,,reit,BBIO
+2020-05-19,BTIG,Buy,,init,BBIO
+2020-06-25,B of A Securities,Neutral,,init,BBIO
+2020-10-12,HC Wainwright & Co.,Buy,,main,BBIO
+2020-12-04,SVB Leerink,Outperform,,main,BBIO
+2020-12-10,HC Wainwright & Co.,Buy,,main,BBIO
+2021-01-11,HC Wainwright & Co.,Buy,,main,BBIO
+2021-03-04,Mizuho,Buy,,main,BBIO
+2021-03-23,SVB Leerink,Outperform,,main,BBIO
+2021-05-07,Goldman Sachs,Buy,,main,BBIO
+2021-05-21,UBS,Buy,,init,BBIO
+2021-08-06,SVB Leerink,Outperform,,main,BBIO
+2021-09-10,B of A Securities,Buy,Neutral,up,BBIO
+2021-10-04,SVB Leerink,Outperform,,main,BBIO
+2021-10-25,HC Wainwright & Co.,Buy,,main,BBIO
+2021-11-19,SVB Leerink,Outperform,,main,BBIO
+2021-12-28,SVB Leerink,Outperform,,main,BBIO
+2021-12-28,HC Wainwright & Co.,Buy,,main,BBIO

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-19,Cantor Fitzgerald,Buy,,main,CECE
+2013-05-30,Drexel Hamilton,Buy,,init,CECE
+2013-11-11,Drexel Hamilton,Hold,Buy,down,CECE
+2013-12-23,Boenning & Scattergood,Outperform,,init,CECE
+2014-03-24,Jefferies,Hold,,init,CECE
+2014-03-27,FBR Capital,Market Perform,Outperform,down,CECE
+2014-05-09,Jefferies,Hold,,main,CECE
+2014-06-05,William Blair,Outperform,,init,CECE
+2014-07-24,Canaccord Genuity,Buy,,init,CECE
+2014-08-08,Jefferies,Hold,,main,CECE
+2014-12-10,Jefferies,Hold,,main,CECE
+2015-03-10,FBR Capital,Market Perform,,main,CECE
+2015-04-17,Roth Capital,Buy,Neutral,up,CECE
+2015-08-07,Canaccord Genuity,Buy,,main,CECE
+2015-12-14,Seaport Global,Accumulate,Neutral,up,CECE
+2016-01-21,Seaport Global,Buy,Neutral,up,CECE
+2016-02-04,Jefferies,Hold,,main,CECE
+2016-03-11,Drexel Hamilton,,Buy,down,CECE
+2016-03-11,Roth Capital,Buy,,main,CECE
+2016-11-17,Seaport Global,Neutral,Buy,down,CECE
+2017-07-06,Needham,Strong Buy,Buy,up,CECE
+2017-08-11,William Blair,Market Perform,Outperform,down,CECE
+2017-11-09,Needham,Buy,Strong Buy,down,CECE
+2018-12-14,Maxim Group,Buy,,init,CECE
+2018-12-18,H.C. Wainwright,Buy,,init,CECE
+2019-02-12,B. Riley FBR,Buy,,init,CECE
+2019-06-11,Roth Capital,Buy,Neutral,up,CECE
+2020-04-13,Needham,Buy,,main,CECE
+2020-06-05,Needham,Buy,,main,CECE
+2020-11-05,Needham,Buy,,main,CECE
+2021-03-04,HC Wainwright & Co.,Buy,,main,CECE
+2021-11-09,Needham,Buy,,main,CECE

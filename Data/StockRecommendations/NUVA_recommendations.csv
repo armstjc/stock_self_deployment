@@ -1,0 +1,139 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-21,Bank of America,Buy,,main,NUVA
+2012-07-02,Goldman Sachs,Neutral,,main,NUVA
+2012-07-26,Barclays,Overweight,,main,NUVA
+2012-10-04,Canaccord Genuity,Buy,,main,NUVA
+2012-10-04,Goldman Sachs,Neutral,,main,NUVA
+2012-10-04,Brean Capital,Hold,Buy,down,NUVA
+2012-10-04,Wells Fargo,Market Perform,Outperform,down,NUVA
+2012-10-04,RBC Capital,Underperform,Outperform,down,NUVA
+2012-10-04,BMO Capital,Underperform,Market Perform,down,NUVA
+2012-10-05,JP Morgan,Neutral,,main,NUVA
+2012-10-24,Goldman Sachs,Neutral,,main,NUVA
+2012-10-25,Leerink Swann,Market Perform,Outperform,down,NUVA
+2012-11-16,First Analysis,Overweight,Equal-Weight,up,NUVA
+2013-01-04,BMO Capital,Market Perform,Underperform,up,NUVA
+2013-01-09,RBC Capital,Sector Perform,Underperform,up,NUVA
+2013-02-26,JP Morgan,Neutral,,main,NUVA
+2013-02-27,Canaccord Genuity,Buy,,main,NUVA
+2013-02-27,BMO Capital,Market Perform,,main,NUVA
+2013-02-27,JP Morgan,Neutral,,main,NUVA
+2013-02-27,Goldman Sachs,Neutral,,main,NUVA
+2013-02-27,Mizuho,Neutral,Buy,down,NUVA
+2013-02-27,PiperJaffray,Overweight,,main,NUVA
+2013-05-17,Wallachbeth,Buy,,init,NUVA
+2013-07-15,BMO Capital,Underperform,Market Perform,down,NUVA
+2013-07-25,Janney Capital,Neutral,Buy,down,NUVA
+2013-07-31,First Analysis,Equal-Weight,Overweight,down,NUVA
+2013-08-08,Needham,Buy,,init,NUVA
+2013-10-14,BMO Capital,Market Perform,Underperform,up,NUVA
+2013-10-14,Goldman Sachs,Sell,Neutral,down,NUVA
+2014-01-16,Goldman Sachs,Neutral,Sell,up,NUVA
+2014-01-22,Leerink Swann,Outperform,Market Perform,up,NUVA
+2014-03-04,JP Morgan,Neutral,,main,NUVA
+2014-04-30,Canaccord Genuity,Buy,,main,NUVA
+2014-04-30,Summer Street,Buy,Neutral,up,NUVA
+2014-05-21,Needham,Hold,Buy,down,NUVA
+2014-07-30,Barclays,Equal-Weight,,main,NUVA
+2014-07-30,Jefferies,Buy,,main,NUVA
+2014-09-30,Brean Capital,Buy,Hold,up,NUVA
+2014-10-31,Canaccord Genuity,Buy,,main,NUVA
+2014-10-31,Barclays,Equal-Weight,,main,NUVA
+2014-11-03,Barclays,Equal-Weight,,main,NUVA
+2014-11-11,Cowen & Co.,Outperform,Market Perform,up,NUVA
+2014-11-14,Barclays,Equal-Weight,,main,NUVA
+2014-11-17,Wells Fargo,Outperform,Market Perform,up,NUVA
+2014-12-04,Brean Capital,Buy,,main,NUVA
+2015-01-05,Jefferies,Buy,,main,NUVA
+2015-01-08,RBC Capital,Outperform,Sector Perform,up,NUVA
+2015-04-02,Bank of America,Underperform,Neutral,down,NUVA
+2015-04-15,Canaccord Genuity,Hold,Buy,down,NUVA
+2015-05-14,Northland Securities,Market Perform,,init,NUVA
+2015-06-03,Goldman Sachs,Neutral,Buy,down,NUVA
+2015-07-29,Brean Capital,Buy,,main,NUVA
+2015-07-29,Barclays,Equal-Weight,,main,NUVA
+2015-07-29,Northland Securities,Outperform,Market Perform,up,NUVA
+2015-10-06,BMO Capital,Outperform,Market Perform,up,NUVA
+2015-10-06,Canaccord Genuity,Buy,Hold,up,NUVA
+2015-10-28,Leerink Swann,Outperform,,main,NUVA
+2015-12-11,Bank of America,Neutral,Underperform,up,NUVA
+2016-04-27,Cowen & Co.,Outperform,,main,NUVA
+2016-05-27,Barclays,Overweight,Equal-Weight,up,NUVA
+2016-07-13,JP Morgan,Overweight,Neutral,up,NUVA
+2016-07-27,Jefferies,Buy,,main,NUVA
+2016-07-27,Barclays,Overweight,,main,NUVA
+2016-07-28,UBS,Buy,,main,NUVA
+2016-10-10,Barclays,Overweight,,main,NUVA
+2016-11-30,Aegis Capital,Buy,,init,NUVA
+2017-07-10,Morgan Stanley,Equal-Weight,,main,NUVA
+2017-07-25,Morgan Stanley,Equal-Weight,,main,NUVA
+2017-07-28,Baird,Neutral,Buy,down,NUVA
+2017-08-28,Needham,Underperform,Hold,down,NUVA
+2017-10-06,Morgan Stanley,Equal-Weight,,main,NUVA
+2017-10-12,Baird,Neutral,,main,NUVA
+2017-10-19,Barclays,Overweight,,main,NUVA
+2017-10-25,BMO Capital,Outperform,,main,NUVA
+2017-10-25,Wells Fargo,Outperform,,main,NUVA
+2018-01-17,Wells Fargo,Market Perform,Outperform,down,NUVA
+2018-02-01,Leerink Swann,Market Perform,Outperform,down,NUVA
+2018-02-27,Barclays,Overweight,Overweight,main,NUVA
+2018-02-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,NUVA
+2018-02-27,Leerink Swann,Market Perform,Market Perform,main,NUVA
+2018-02-27,Canaccord Genuity,Buy,Buy,main,NUVA
+2018-04-04,Goldman Sachs,Neutral,,init,NUVA
+2018-05-02,BMO Capital,Market Perform,Outperform,down,NUVA
+2018-06-01,Cantor Fitzgerald,Neutral,,init,NUVA
+2018-06-21,JP Morgan,Neutral,Overweight,down,NUVA
+2018-09-17,Canaccord Genuity,Buy,Buy,main,NUVA
+2018-09-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,NUVA
+2018-09-27,Baird,Outperform,Neutral,up,NUVA
+2018-10-31,BMO Capital,Market Perform,Market Perform,main,NUVA
+2018-10-31,Canaccord Genuity,Buy,Buy,main,NUVA
+2018-10-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,NUVA
+2018-11-28,UBS,Sell,,init,NUVA
+2018-12-18,Credit Suisse,Outperform,,init,NUVA
+2019-01-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,NUVA
+2019-01-08,UBS,Sell,Sell,main,NUVA
+2019-02-08,Needham,Hold,Buy,down,NUVA
+2019-02-12,Jefferies,Hold,Buy,down,NUVA
+2019-07-29,Baird,Neutral,Outperform,down,NUVA
+2019-07-31,Morgan Stanley,Equal-Weight,,main,NUVA
+2019-08-09,BMO Capital,Market Perform,,main,NUVA
+2019-09-09,UBS,Sell,,main,NUVA
+2019-09-10,UBS,Sell,,main,NUVA
+2019-12-13,SVB Leerink,Outperform,,main,NUVA
+2019-12-17,Morgan Stanley,Equal-Weight,,main,NUVA
+2020-01-08,Credit Suisse,Outperform,,main,NUVA
+2020-01-08,SunTrust Robinson Humphrey,Buy,,init,NUVA
+2020-01-14,Baird,Neutral,,main,NUVA
+2020-02-21,Cantor Fitzgerald,Neutral,,main,NUVA
+2020-03-05,Citigroup,Neutral,,init,NUVA
+2020-03-06,Credit Suisse,Outperform,,main,NUVA
+2020-03-27,Morgan Stanley,Equal-Weight,,main,NUVA
+2020-03-27,Citigroup,Neutral,,main,NUVA
+2020-04-08,Wells Fargo,Equal-Weight,,main,NUVA
+2020-04-08,Baird,Outperform,Neutral,up,NUVA
+2020-05-04,JP Morgan,Neutral,,main,NUVA
+2020-05-07,Canaccord Genuity,Buy,,main,NUVA
+2020-05-07,Citigroup,Neutral,,main,NUVA
+2020-05-07,UBS,Sell,,main,NUVA
+2020-06-23,Needham,Buy,Hold,up,NUVA
+2020-10-20,Stifel,Buy,,init,NUVA
+2020-10-30,SVB Leerink,Outperform,,main,NUVA
+2020-10-30,Baird,Neutral,Outperform,down,NUVA
+2020-10-30,BTIG,Neutral,Buy,down,NUVA
+2020-10-30,Canaccord Genuity,Hold,Buy,down,NUVA
+2020-11-02,Morgan Stanley,Equal-Weight,,main,NUVA
+2020-12-15,Morgan Stanley,Equal-Weight,,main,NUVA
+2020-12-15,Wells Fargo,Underweight,Equal-Weight,down,NUVA
+2020-12-16,Citigroup,Buy,Neutral,up,NUVA
+2021-03-01,Morgan Stanley,Equal-Weight,,main,NUVA
+2021-03-25,Citigroup,Buy,,main,NUVA
+2021-04-19,Morgan Stanley,Equal-Weight,,main,NUVA
+2021-05-06,Piper Sandler,Overweight,,main,NUVA
+2021-05-06,Needham,Buy,,main,NUVA
+2021-05-07,Morgan Stanley,Equal-Weight,,main,NUVA
+2021-10-27,Needham,Buy,,main,NUVA
+2021-11-10,Needham,Buy,,main,NUVA
+2021-12-10,RBC Capital,Outperform,,init,NUVA
+2021-12-21,Truist Securities,Buy,,main,NUVA

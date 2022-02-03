@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CFX220916P00040000,2022-02-01 17:31:48+00:00,40.0,3.9,3.2,4.4,0.0,0.0,3,9,0.4157773266601562,False,REGULAR,USD,CFX

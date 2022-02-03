@@ -1,0 +1,367 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-16,Argus Research,Buy,,up,MSFT
+2012-03-19,Hilliard Lyons,Long-Term Buy,,main,MSFT
+2012-03-22,Morgan Stanley,Overweight,,main,MSFT
+2012-04-03,UBS,Buy,,main,MSFT
+2012-04-20,UBS,Buy,,main,MSFT
+2012-04-20,Deutsche Bank,Buy,,main,MSFT
+2012-04-20,McAdams Wright Ragen,Buy,,main,MSFT
+2012-04-20,Bank oferica,Buy,,main,MSFT
+2012-04-20,Goldman Sachs,Neutral,,main,MSFT
+2012-07-20,Goldman Sachs,Neutral,,main,MSFT
+2012-07-20,Griffin Securities,Buy,,init,MSFT
+2012-08-20,Longbow Research,Buy,,init,MSFT
+2012-09-12,Jefferies,Hold,,init,MSFT
+2012-10-01,RBC Capital,Sector Perform,Outperform,down,MSFT
+2012-10-01,RBC Capital,Sector Perform,Outperform,down,MSFT
+2012-10-19,Barclays,Equal-Weight,,main,MSFT
+2012-11-28,Nomura,,,main,MSFT
+2012-12-05,MKM Partners,Neutral,,main,MSFT
+2012-12-12,Standpoint Research,Buy,Hold,up,MSFT
+2012-12-13,Barclays,Equal-Weight,,main,MSFT
+2012-12-14,SunTrust Robinson Humphrey,Neutral,,init,MSFT
+2012-12-14,BMO Capital,Market Perform,,init,MSFT
+2013-01-04,Argus,Hold,Buy,down,MSFT
+2013-01-07,Barclays,Equal-Weight,,main,MSFT
+2013-01-10,Morgan Stanley,Equal-Weight,Overweight,down,MSFT
+2013-01-11,Nomura,Buy,,main,MSFT
+2013-01-18,Deutsche Bank,Buy,,main,MSFT
+2013-01-25,Deutsche Bank,Buy,,main,MSFT
+2013-02-04,McAdams Wright Ragen,Buy,,main,MSFT
+2013-04-04,Bank of America,Neutral,Buy,down,MSFT
+2013-04-10,BGC Financial,Hold,Buy,down,MSFT
+2013-04-11,Hilliard Lyons,Neutral,Long-term Buy,down,MSFT
+2013-04-11,Nomura,Neutral,Buy,down,MSFT
+2013-04-11,Goldman Sachs,Sell,Neutral,down,MSFT
+2013-04-12,Credit Agricole,Outperform,Buy,down,MSFT
+2013-04-25,McAdams Wright Ragen,Hold,Buy,down,MSFT
+2013-04-30,Morgan Stanley,Overweight,Equal-Weight,main,MSFT
+2013-04-30,Standpoint Research,Hold,Buy,down,MSFT
+2013-05-15,Stifel Nicolaus,Buy,,main,MSFT
+2013-05-28,Nomura,Neutral,,main,MSFT
+2013-06-05,Deutsche Bank,Hold,Buy,down,MSFT
+2013-06-26,Morgan Stanley,Overweight,,main,MSFT
+2013-07-19,Cowen & Co.,Market Perform,Outperform,down,MSFT
+2013-07-29,Atlantic Equities,Neutral,Overweight,down,MSFT
+2013-08-08,Evercore Partners,Overweight,Equal-Weight,up,MSFT
+2013-08-13,Stifel Nicolaus,Hold,Buy,down,MSFT
+2013-08-22,Nomura,Buy,Neutral,up,MSFT
+2013-08-26,BMO Capital,Market Perform,,main,MSFT
+2013-09-04,Morgan Stanley,Equal-Weight,Overweight,down,MSFT
+2013-10-15,Jefferies,Buy,Hold,up,MSFT
+2013-11-06,Nomura,Buy,,main,MSFT
+2013-11-18,Bank of America,Underperform,Neutral,down,MSFT
+2013-11-19,McAdams Wright Ragen,Hold,,main,MSFT
+2013-11-27,Evercore Partners,Overweight,,main,MSFT
+2014-01-10,Barclays,Overweight,Equal-weight,up,MSFT
+2014-01-14,Citigroup,Neutral,Buy,down,MSFT
+2014-01-23,Deutsche Bank,Buy,Hold,up,MSFT
+2014-01-24,Credit Suisse,Outperform,,main,MSFT
+2014-01-24,Barclays,Overweight,,main,MSFT
+2014-01-24,Deutsche Bank,Buy,,main,MSFT
+2014-01-24,Citigroup,Neutral,,main,MSFT
+2014-02-04,Sterne Agee,Neutral,,init,MSFT
+2014-02-27,B. Riley FBR,Neutral,,init,MSFT
+2014-03-18,Barclays,Overweight,,main,MSFT
+2014-03-19,Cowen & Co.,Market Perform,,main,MSFT
+2014-04-14,Deutsche Bank,Hold,Buy,down,MSFT
+2014-04-22,Jefferies,Buy,,main,MSFT
+2014-04-25,FBR Capital,Market Perform,,main,MSFT
+2014-04-25,Credit Suisse,Outperform,,main,MSFT
+2014-04-25,Oppenheimer,Outperform,,main,MSFT
+2014-04-25,JP Morgan,Neutral,,main,MSFT
+2014-05-30,Summit Research Partners,Hold,,init,MSFT
+2014-06-05,FBR Capital,Outperform,Market Perform,up,MSFT
+2014-06-12,Citigroup,Neutral,,main,MSFT
+2014-07-15,Nomura,Buy,,main,MSFT
+2014-07-18,Deutsche Bank,Hold,,main,MSFT
+2014-07-18,Barclays,Overweight,,main,MSFT
+2014-07-23,Bank of America,Neutral,Underperform,up,MSFT
+2014-07-23,Pacific Crest,Outperform,Sector Perform,up,MSFT
+2014-07-23,FBR Capital,Outperform,,main,MSFT
+2014-07-23,UBS,Buy,,main,MSFT
+2014-07-23,Credit Suisse,Outperform,,main,MSFT
+2014-09-04,Barclays,Overweight,,main,MSFT
+2014-09-10,MKM Partners,Buy,,init,MSFT
+2014-10-02,FBN Securities,Outperform,,init,MSFT
+2014-10-09,BMO Capital,Market Perform,,init,MSFT
+2014-10-24,Credit Suisse,Outperform,,main,MSFT
+2014-10-24,Credit Suisse,Outperform,,main,MSFT
+2014-11-18,Citigroup,Neutral,,main,MSFT
+2014-11-21,Jefferies,Underperform,,init,MSFT
+2014-12-12,PiperJaffray,Overweight,,init,MSFT
+2014-12-16,Bank of America,Underperform,Neutral,down,MSFT
+2015-01-06,Barclays,Overweight,,main,MSFT
+2015-01-27,Nomura,Neutral,Buy,down,MSFT
+2015-01-27,Barclays,Overweight,,main,MSFT
+2015-01-27,JP Morgan,Neutral,Overweight,down,MSFT
+2015-01-28,Citigroup,Sell,,main,MSFT
+2015-01-29,Atlantic Equities,Underweight,Neutral,down,MSFT
+2015-03-13,Pacific Crest,Outperform,,main,MSFT
+2015-04-06,Wells Fargo,Outperform,Market Perform,up,MSFT
+2015-04-10,Barclays,Overweight,,main,MSFT
+2015-04-15,Citigroup,Sell,,main,MSFT
+2015-04-24,Pacific Crest,Overweight,,main,MSFT
+2015-04-24,Citigroup,Neutral,,main,MSFT
+2015-04-24,Nomura,Buy,Neutral,up,MSFT
+2015-04-27,Citigroup,Sell,,main,MSFT
+2015-04-30,KeyBanc,Overweight,,main,MSFT
+2015-05-13,Deutsche Bank,Buy,Hold,up,MSFT
+2015-06-03,Barclays,Overweight,,main,MSFT
+2015-06-09,Wunderlich,Hold,,init,MSFT
+2015-06-18,Jefferies,Underperform,,main,MSFT
+2015-07-08,Morgan Stanley,Equal-Weight,,main,MSFT
+2015-07-09,Jefferies,Underperform,,main,MSFT
+2015-07-22,Barclays,Overweight,,main,MSFT
+2015-07-22,Citigroup,Sell,,main,MSFT
+2015-08-13,Stifel Nicolaus,Buy,Hold,up,MSFT
+2015-10-01,Bank of America,Neutral,Underperform,up,MSFT
+2015-10-23,Bank of America,Buy,Neutral,up,MSFT
+2015-10-23,Jefferies,Underweight,,main,MSFT
+2015-10-23,Barclays,Overweight,,main,MSFT
+2015-11-10,PiperJaffray,Overweight,,main,MSFT
+2015-11-30,Raymond James,Strong Buy,Market Perform,up,MSFT
+2015-12-16,Deutsche Bank,Buy,,main,MSFT
+2015-12-18,Goldman Sachs,Neutral,Sell,up,MSFT
+2016-01-06,Barclays,Overweight,,main,MSFT
+2016-01-08,BMO Capital,Outperform,,init,MSFT
+2016-01-13,Morgan Stanley,Overweight,Equal-Weight,up,MSFT
+2016-01-29,Credit Suisse,Outperform,,main,MSFT
+2016-02-01,Hilliard Lyons,Neutral,Long-Term Buy,down,MSFT
+2016-03-04,Macquarie,Neutral,,init,MSFT
+2016-04-01,Cowen & Co.,Market Perform,,main,MSFT
+2016-04-01,Cowen & Co.,Market Perform,,main,MSFT
+2016-04-19,Nomura,Buy,,main,MSFT
+2016-04-22,Macquarie,Neutral,,main,MSFT
+2016-04-22,RBC Capital,Outperform,,main,MSFT
+2016-04-22,Cowen & Co.,Market Perform,,main,MSFT
+2016-04-22,Morgan Stanley,Overweight,,main,MSFT
+2016-04-22,Goldman Sachs,Neutral,,main,MSFT
+2016-04-26,Macquarie,Neutral,,init,MSFT
+2016-05-16,Canaccord Genuity,Hold,,init,MSFT
+2016-05-24,Cowen & Co.,Outperform,,up,MSFT
+2016-05-24,Cowen & Co.,Outperform,Market Perform,up,MSFT
+2016-07-07,Citigroup,Sell,,main,MSFT
+2016-07-19,William Blair,Market Perform,,init,MSFT
+2016-07-20,Citigroup,Sell,,main,MSFT
+2016-07-20,Wunderlich,Hold,,main,MSFT
+2016-08-29,UBS,Buy,,main,MSFT
+2016-10-17,Goldman Sachs,Neutral,,main,MSFT
+2016-10-21,Nomura,Buy,,main,MSFT
+2016-10-21,William Blair,Outperform,Market Perform,up,MSFT
+2016-10-21,Wunderlich,Buy,Hold,up,MSFT
+2016-11-10,Atlantic Equities,Neutral,Underweight,up,MSFT
+2016-11-17,Goldman Sachs,Buy,Neutral,up,MSFT
+2016-12-22,PiperJaffray,Overweight,,init,MSFT
+2017-01-11,Wells Fargo,Outperform,,init,MSFT
+2017-01-23,Tigress Financial,Buy,Neutral,up,MSFT
+2017-04-27,Credit Suisse,Outperform,,init,MSFT
+2017-06-22,Cleveland Research,Buy,,init,MSFT
+2017-07-17,Credit Suisse,Outperform,,main,MSFT
+2017-07-21,Citigroup,Sell,,main,MSFT
+2017-07-21,Deutsche Bank,Buy,,main,MSFT
+2017-09-06,Moffett Nathanson,Neutral,,init,MSFT
+2017-10-05,Canaccord Genuity,Buy,Hold,up,MSFT
+2017-10-27,Stifel Nicolaus,Buy,,main,MSFT
+2017-10-27,Citigroup,Sell,,main,MSFT
+2017-10-27,Canaccord Genuity,Buy,,main,MSFT
+2017-10-27,BMO Capital,Outperform,,main,MSFT
+2017-10-27,Barclays,Overweight,,main,MSFT
+2017-10-30,Citigroup,Sell,,main,MSFT
+2017-10-31,Oppenheimer,Outperform,,main,MSFT
+2017-10-31,Argus,Buy,Hold,up,MSFT
+2017-11-09,UBS,Buy,,main,MSFT
+2018-01-24,Nomura,Buy,,init,MSFT
+2018-01-25,Barclays,Overweight,Overweight,main,MSFT
+2018-01-25,JP Morgan,Neutral,Neutral,main,MSFT
+2018-02-01,BMO Capital,Outperform,Outperform,main,MSFT
+2018-02-01,Bank of America,Buy,Buy,main,MSFT
+2018-02-01,Stifel Nicolaus,Buy,Buy,main,MSFT
+2018-02-01,KeyBanc,Overweight,Overweight,main,MSFT
+2018-02-01,Canaccord Genuity,Buy,Buy,main,MSFT
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,MSFT
+2018-02-02,Nomura,Buy,Buy,main,MSFT
+2018-03-26,Morgan Stanley,Overweight,Overweight,main,MSFT
+2018-04-27,Barclays,Overweight,Overweight,main,MSFT
+2018-04-27,Canaccord Genuity,Buy,Buy,main,MSFT
+2018-04-27,JP Morgan,Overweight,Neutral,up,MSFT
+2018-04-27,Stifel Nicolaus,Buy,Buy,main,MSFT
+2018-04-30,Citigroup,Neutral,Neutral,main,MSFT
+2018-06-06,Argus,Buy,Buy,main,MSFT
+2018-07-17,Bank of America,Buy,Buy,main,MSFT
+2018-07-17,Raymond James,Strong Buy,Strong Buy,main,MSFT
+2018-07-17,PiperJaffray,Overweight,Overweight,main,MSFT
+2018-07-20,KeyBanc,Overweight,Overweight,main,MSFT
+2018-07-20,Stifel Nicolaus,Buy,Buy,main,MSFT
+2018-07-20,Citigroup,Neutral,Neutral,main,MSFT
+2018-07-20,Wells Fargo,Outperform,Outperform,main,MSFT
+2018-07-20,BMO Capital,Outperform,Outperform,main,MSFT
+2018-07-20,Barclays,Overweight,Overweight,main,MSFT
+2018-07-20,Credit Suisse,Outperform,Outperform,main,MSFT
+2018-07-23,Argus,Buy,Buy,main,MSFT
+2018-09-07,Barclays,Overweight,Overweight,main,MSFT
+2018-10-12,Macquarie,Outperform,Neutral,up,MSFT
+2018-10-19,Wedbush,Outperform,,init,MSFT
+2018-10-25,Citigroup,Neutral,Neutral,main,MSFT
+2018-10-25,Nomura,Buy,Buy,main,MSFT
+2018-10-25,KeyBanc,Overweight,Overweight,main,MSFT
+2019-01-31,Nomura,Buy,Buy,main,MSFT
+2019-03-14,Mizuho,Buy,,init,MSFT
+2019-04-12,Barclays,Overweight,Overweight,main,MSFT
+2019-04-17,KeyBanc,Overweight,Overweight,main,MSFT
+2019-04-25,Wedbush,Outperform,Outperform,main,MSFT
+2019-04-25,KeyBanc,Overweight,Overweight,main,MSFT
+2019-04-25,Deutsche Bank,Buy,Buy,main,MSFT
+2019-04-25,Barclays,Overweight,Overweight,main,MSFT
+2019-04-25,Morgan Stanley,Overweight,Overweight,main,MSFT
+2019-04-25,Bank of America,Buy,Buy,main,MSFT
+2019-04-25,BMO Capital,Outperform,Outperform,main,MSFT
+2019-04-25,Nomura,Buy,Buy,main,MSFT
+2019-04-25,Raymond James,Strong Buy,Strong Buy,main,MSFT
+2019-04-25,UBS,Buy,Buy,main,MSFT
+2019-06-19,Deutsche Bank,Buy,,main,MSFT
+2019-06-25,Jefferies,Underperform,,main,MSFT
+2019-07-11,Cowen & Co.,Outperform,,init,MSFT
+2019-07-12,Wells Fargo,Outperform,,main,MSFT
+2019-07-19,Credit Suisse,Outperform,,main,MSFT
+2019-07-19,Stifel Nicolaus,Buy,,main,MSFT
+2019-07-19,Raymond James,Strong Buy,,main,MSFT
+2019-07-19,KeyBanc,Overweight,,main,MSFT
+2019-07-19,Canaccord Genuity,Buy,,main,MSFT
+2019-07-19,Citigroup,Neutral,,main,MSFT
+2019-07-19,BMO Capital,Outperform,,main,MSFT
+2019-07-19,Morgan Stanley,Overweight,,main,MSFT
+2019-10-08,Jefferies,Buy,Hold,up,MSFT
+2019-10-24,Barclays,Overweight,,main,MSFT
+2019-10-24,Stifel,Buy,,main,MSFT
+2019-10-24,Citi,Neutral,,main,MSFT
+2019-10-24,Morgan Stanley,Overweight,,main,MSFT
+2019-10-24,BMO Capital,Outperform,,main,MSFT
+2019-10-24,Wedbush,Outperform,,main,MSFT
+2019-10-28,Mizuho,Buy,,main,MSFT
+2019-12-17,Wedbush,Outperform,,main,MSFT
+2019-12-17,Deutsche Bank,Buy,,main,MSFT
+2020-01-08,Morgan Stanley,Overweight,,main,MSFT
+2020-01-09,Cowen & Co.,Outperform,,main,MSFT
+2020-01-09,Wedbush,Outperform,,main,MSFT
+2020-01-10,Jefferies,Buy,,main,MSFT
+2020-01-13,Credit Suisse,Outperform,,main,MSFT
+2020-01-16,Wells Fargo,Overweight,,main,MSFT
+2020-01-21,RBC Capital,Outperform,,main,MSFT
+2020-01-23,Piper Sandler,Overweight,,main,MSFT
+2020-01-30,Mizuho,Buy,,main,MSFT
+2020-01-30,Citigroup,Neutral,,main,MSFT
+2020-01-30,RBC Capital,Outperform,,main,MSFT
+2020-01-30,Stifel,Buy,,main,MSFT
+2020-01-30,Wedbush,Outperform,,main,MSFT
+2020-01-30,Raymond James,Strong Buy,,main,MSFT
+2020-01-30,Credit Suisse,Outperform,,main,MSFT
+2020-01-30,UBS,Buy,,main,MSFT
+2020-01-30,Wells Fargo,Overweight,,main,MSFT
+2020-01-30,BMO Capital,Outperform,,main,MSFT
+2020-01-30,Morgan Stanley,Overweight,,main,MSFT
+2020-01-30,Stifel Nicolaus,Buy,,main,MSFT
+2020-01-30,Oppenheimer,Outperform,,main,MSFT
+2020-01-30,Piper Sandler,Overweight,,main,MSFT
+2020-01-31,Nomura,Buy,,main,MSFT
+2020-02-03,CFRA,Buy,,main,MSFT
+2020-03-17,Deutsche Bank,Buy,,main,MSFT
+2020-03-25,Morgan Stanley,Overweight,,main,MSFT
+2020-03-31,Piper Sandler,Overweight,,main,MSFT
+2020-03-31,Citigroup,Neutral,,main,MSFT
+2020-04-03,Raymond James,Strong Buy,,main,MSFT
+2020-04-21,Mizuho,Buy,,main,MSFT
+2020-04-24,RBC Capital,Outperform,,main,MSFT
+2020-04-28,Jefferies,Buy,,main,MSFT
+2020-04-30,Citigroup,Neutral,,main,MSFT
+2020-04-30,Mizuho,Buy,,main,MSFT
+2020-04-30,Morgan Stanley,Overweight,,main,MSFT
+2020-04-30,BMO Capital,Outperform,,main,MSFT
+2020-04-30,UBS,Buy,,main,MSFT
+2020-04-30,Credit Suisse,Outperform,,main,MSFT
+2020-04-30,Wells Fargo,Overweight,,main,MSFT
+2020-05-18,RBC Capital,Outperform,,reit,MSFT
+2020-06-24,Argus Research,Buy,,main,MSFT
+2020-06-24,Goldman Sachs,Buy,,main,MSFT
+2020-07-09,Morgan Stanley,Overweight,,main,MSFT
+2020-07-09,Wedbush,Outperform,,main,MSFT
+2020-07-20,Raymond James,Strong Buy,,main,MSFT
+2020-07-20,Jefferies,Buy,,main,MSFT
+2020-07-20,Barclays,Overweight,,main,MSFT
+2020-07-23,Piper Sandler,Overweight,,main,MSFT
+2020-07-23,Oppenheimer,Perform,Outperform,down,MSFT
+2020-09-09,Morgan Stanley,Overweight,,main,MSFT
+2020-10-13,RBC Capital,Outperform,,main,MSFT
+2020-10-14,UBS,Buy,,init,MSFT
+2020-10-20,Stifel,Buy,,main,MSFT
+2020-10-23,Barclays,Overweight,,main,MSFT
+2020-10-28,Credit Suisse,Outperform,,main,MSFT
+2020-10-28,Morgan Stanley,Overweight,,main,MSFT
+2020-10-28,Piper Sandler,Overweight,,main,MSFT
+2020-10-29,Deutsche Bank,Buy,,main,MSFT
+2020-11-05,Oppenheimer,Outperform,Perform,up,MSFT
+2020-11-24,KeyBanc,Overweight,,init,MSFT
+2020-12-21,Citigroup,Buy,Neutral,up,MSFT
+2021-01-22,Goldman Sachs,Buy,,init,MSFT
+2021-01-27,B of A Securities,Buy,,main,MSFT
+2021-01-27,Piper Sandler,Overweight,,main,MSFT
+2021-01-27,Wedbush,Outperform,,main,MSFT
+2021-01-27,Raymond James,Strong Buy,,main,MSFT
+2021-01-27,Jefferies,Buy,,main,MSFT
+2021-01-27,Morgan Stanley,Overweight,,main,MSFT
+2021-01-27,Mizuho,Buy,,main,MSFT
+2021-01-27,BMO Capital,Outperform,,main,MSFT
+2021-01-27,Barclays,Overweight,,main,MSFT
+2021-01-27,Oppenheimer,Outperform,,main,MSFT
+2021-01-27,Citigroup,Buy,,main,MSFT
+2021-01-27,Credit Suisse,Outperform,,main,MSFT
+2021-01-28,Argus Research,Buy,,main,MSFT
+2021-02-02,Piper Sandler,Overweight,,reit,MSFT
+2021-02-16,Wedbush,Outperform,,main,MSFT
+2021-03-05,Morgan Stanley,Overweight,,main,MSFT
+2021-04-12,BMO Capital,Outperform,,main,MSFT
+2021-04-13,Argus Research,Buy,,main,MSFT
+2021-04-21,B of A Securities,Buy,,main,MSFT
+2021-04-21,Citigroup,Buy,,main,MSFT
+2021-04-23,Wolfe Research,Outperform,,init,MSFT
+2021-04-26,Keybanc,Overweight,,main,MSFT
+2021-04-28,Morgan Stanley,Overweight,,main,MSFT
+2021-04-28,Mizuho,Buy,,main,MSFT
+2021-04-28,Credit Suisse,Outperform,,main,MSFT
+2021-04-28,Raymond James,Strong Buy,,main,MSFT
+2021-04-28,Barclays,Overweight,,main,MSFT
+2021-05-13,Rosenblatt,Buy,,init,MSFT
+2021-05-18,Jefferies,Buy,,main,MSFT
+2021-06-02,KGI Securities,Outperform,,init,MSFT
+2021-06-23,Wedbush,Outperform,,main,MSFT
+2021-06-28,Jefferies,Buy,,main,MSFT
+2021-07-16,Mizuho,Buy,,main,MSFT
+2021-07-21,Stifel,Buy,,main,MSFT
+2021-07-21,Rosenblatt,Buy,,main,MSFT
+2021-07-22,Cowen & Co.,Outperform,,main,MSFT
+2021-07-22,Citigroup,Buy,,main,MSFT
+2021-07-22,Keybanc,Overweight,,main,MSFT
+2021-07-23,Barclays,Overweight,,main,MSFT
+2021-07-28,Rosenblatt,Buy,,main,MSFT
+2021-07-28,Stifel,Buy,,main,MSFT
+2021-07-28,Morgan Stanley,Overweight,,main,MSFT
+2021-07-28,Citigroup,Buy,,main,MSFT
+2021-07-28,Mizuho,Buy,,main,MSFT
+2021-07-28,Credit Suisse,Outperform,,main,MSFT
+2021-07-28,Barclays,Overweight,,main,MSFT
+2021-07-29,JP Morgan,Overweight,,main,MSFT
+2021-08-20,Wedbush,Outperform,,main,MSFT
+2021-09-14,Morgan Stanley,Overweight,,main,MSFT
+2021-09-17,Barclays,Overweight,,main,MSFT
+2021-10-20,Wedbush,Outperform,,main,MSFT
+2021-10-20,Jefferies,Buy,,main,MSFT
+2021-10-25,Keybanc,Overweight,,main,MSFT
+2021-10-27,Piper Sandler,Overweight,,main,MSFT
+2021-10-27,Stifel,Buy,,main,MSFT
+2021-10-27,Morgan Stanley,Overweight,,main,MSFT
+2021-10-27,Credit Suisse,Outperform,,main,MSFT
+2021-10-27,Barclays,Overweight,,main,MSFT
+2021-10-27,Goldman Sachs,Buy,,main,MSFT
+2021-10-28,Citigroup,Buy,,main,MSFT
+2021-11-02,Deutsche Bank,Buy,,init,MSFT
+2021-12-22,SMBC Nikko,Outperform,,init,MSFT

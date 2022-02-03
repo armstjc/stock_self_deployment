@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LMFA220318P00002500,2021-12-03 18:40:51+00:00,2.5,0.25,0.0,4.8,0.0,0.0,1,1,12.312502304687502,False,REGULAR,USD,LMFA

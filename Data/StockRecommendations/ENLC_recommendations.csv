@@ -1,0 +1,92 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-03-25,Credit Suisse,Outperform,,main,ENLC
+2014-05-16,Credit Suisse,Outperform,,main,ENLC
+2014-08-11,Credit Suisse,Outperform,,main,ENLC
+2014-10-15,Bank of America,Buy,Neutral,up,ENLC
+2014-12-04,Wunderlich,Hold,Buy,down,ENLC
+2015-06-30,JP Morgan,Neutral,,init,ENLC
+2015-08-11,Citigroup,Buy,,init,ENLC
+2015-09-09,UBS,Buy,Neutral,up,ENLC
+2015-09-23,Jefferies,Buy,,init,ENLC
+2015-09-24,Barclays,Overweight,,init,ENLC
+2015-12-21,Bank of America,Neutral,Buy,down,ENLC
+2016-01-14,Jefferies,Buy,,main,ENLC
+2016-01-15,Wells Fargo,Market Perform,Outperform,down,ENLC
+2016-02-08,Baird,Underperform,Outperform,down,ENLC
+2016-02-17,Bank of America,Underperform,Neutral,down,ENLC
+2016-02-18,Barclays,Overweight,,main,ENLC
+2016-02-18,Wunderlich,Hold,Buy,down,ENLC
+2016-02-19,Credit Suisse,Outperform,,main,ENLC
+2016-02-26,Mitsubishi UFJ,Neutral,Overweight,down,ENLC
+2016-03-17,Credit Suisse,Neutral,Outperform,down,ENLC
+2016-03-30,JP Morgan,Neutral,,main,ENLC
+2016-04-12,Morgan Stanley,Equal-Weight,,init,ENLC
+2016-05-05,Credit Suisse,Neutral,,main,ENLC
+2016-05-09,Barclays,Overweight,,main,ENLC
+2016-05-12,Goldman Sachs,Neutral,,main,ENLC
+2016-05-31,JP Morgan,Neutral,,main,ENLC
+2016-06-08,Jefferies,Hold,Buy,down,ENLC
+2016-06-10,Mitsubishi UFJ,Underweight,Neutral,down,ENLC
+2016-06-20,Barclays,Equal-Weight,Overweight,down,ENLC
+2016-06-28,Baird,Neutral,Underperform,up,ENLC
+2016-08-17,Barclays,Equal-Weight,,main,ENLC
+2016-09-13,Credit Suisse,Underperform,Neutral,down,ENLC
+2016-09-19,Goldman Sachs,Sell,Neutral,down,ENLC
+2017-03-10,Janney Capital,Neutral,,init,ENLC
+2017-04-18,Guggenheim,Neutral,,init,ENLC
+2017-07-12,Jefferies,Hold,Underperform,up,ENLC
+2017-10-10,Seaport Global,Neutral,,init,ENLC
+2017-10-24,UBS,Buy,Neutral,up,ENLC
+2017-11-02,Citigroup,Buy,,main,ENLC
+2018-01-05,Credit Suisse,Neutral,,init,ENLC
+2018-01-26,B. Riley FBR,Neutral,,init,ENLC
+2018-02-22,Bank of America,Neutral,Neutral,main,ENLC
+2018-03-02,UBS,Buy,Buy,main,ENLC
+2018-03-14,JP Morgan,Neutral,Neutral,main,ENLC
+2018-03-27,Bank of America,Neutral,Neutral,main,ENLC
+2018-04-04,JP Morgan,Underweight,Neutral,down,ENLC
+2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,ENLC
+2018-05-03,RBC Capital,Outperform,Sector Perform,up,ENLC
+2018-06-05,Bank of America,Neutral,Neutral,main,ENLC
+2018-06-12,Barclays,Equal-Weight,Equal-Weight,main,ENLC
+2018-08-29,Barclays,Equal-Weight,Equal-Weight,main,ENLC
+2018-10-11,Credit Suisse,Neutral,,init,ENLC
+2018-11-08,RBC Capital,Outperform,Outperform,main,ENLC
+2018-12-20,Jefferies,Buy,Hold,up,ENLC
+2019-02-08,Stifel Nicolaus,Buy,,init,ENLC
+2019-03-12,Citigroup,Buy,Buy,main,ENLC
+2019-04-15,Stifel Nicolaus,Hold,Buy,down,ENLC
+2019-04-15,Jefferies,Hold,Buy,down,ENLC
+2019-07-15,Jefferies,Buy,Hold,up,ENLC
+2019-07-25,Mizuho,Neutral,,init,ENLC
+2019-08-08,Mitsubishi UFJ,Neutral,Overweight,down,ENLC
+2019-08-19,Credit Suisse,Neutral,Outperform,down,ENLC
+2019-09-09,UBS,Buy,,main,ENLC
+2019-09-10,UBS,Buy,,main,ENLC
+2019-09-11,UBS,Buy,,main,ENLC
+2019-10-08,UBS,Neutral,Buy,down,ENLC
+2019-10-08,Baird,Neutral,,main,ENLC
+2019-12-05,Baird,Outperform,Neutral,up,ENLC
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,ENLC
+2020-01-17,RBC Capital,Outperform,,main,ENLC
+2020-02-27,Raymond James,Outperform,,main,ENLC
+2020-03-09,Baird,Neutral,Outperform,down,ENLC
+2020-03-12,Raymond James,Market Perform,Outperform,down,ENLC
+2020-03-24,Barclays,Underweight,Equal-Weight,down,ENLC
+2020-04-02,Credit Suisse,Underperform,Neutral,down,ENLC
+2020-05-06,Mizuho,Neutral,,main,ENLC
+2020-08-10,UBS,Neutral,,main,ENLC
+2020-09-25,Morgan Stanley,Underweight,,init,ENLC
+2020-11-16,Credit Suisse,Underperform,,main,ENLC
+2020-11-30,Wells Fargo,Equal-Weight,Underweight,up,ENLC
+2021-03-22,Morgan Stanley,Underweight,,main,ENLC
+2021-04-23,UBS,Buy,Neutral,up,ENLC
+2021-05-13,Wells Fargo,Equal-Weight,,main,ENLC
+2021-05-26,RBC Capital,Sector Perform,Outperform,down,ENLC
+2021-06-07,Morgan Stanley,Underweight,,main,ENLC
+2021-06-14,Raymond James,Outperform,Market Perform,up,ENLC
+2021-08-09,Mizuho,Neutral,,main,ENLC
+2021-08-09,Credit Suisse,Underperform,,main,ENLC
+2021-10-18,Raymond James,Outperform,,main,ENLC
+2021-10-19,Barclays,Underweight,,main,ENLC
+2021-11-04,RBC Capital,Sector Perform,,main,ENLC

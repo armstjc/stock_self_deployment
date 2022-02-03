@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-15,Morgan Stanley,Overweight,,init,BZUN
+2017-05-04,Deutsche Bank,Buy,,init,BZUN
+2017-07-21,Bank of America,Buy,,main,BZUN
+2017-08-23,Deutsche Bank,Hold,Buy,down,BZUN
+2017-09-11,Bank of America,Buy,,main,BZUN
+2018-01-30,Bank of America,Buy,Buy,main,BZUN
+2019-08-05,Jefferies,Buy,,init,BZUN
+2019-08-26,Bank of America,Buy,,reit,BZUN
+2019-11-22,Credit Suisse,Neutral,Outperform,down,BZUN
+2019-12-09,HSBC,Hold,,init,BZUN
+2020-06-04,B of A Securities,Neutral,,main,BZUN
+2020-08-25,86 Research,Hold,,init,BZUN
+2020-11-24,Credit Suisse,Neutral,Outperform,down,BZUN
+2021-01-26,CICC,Market Perform,Outperform,down,BZUN
+2021-07-23,Credit Suisse,Underperform,Outperform,down,BZUN
+2021-12-02,CLSA,Outperform,Buy,down,BZUN

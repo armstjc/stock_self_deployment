@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-05,JP Morgan,Neutral,,main,MOD
+2012-07-11,JP Morgan,Neutral,,main,MOD
+2012-10-09,JP Morgan,Neutral,,main,MOD
+2013-10-23,JP Morgan,Underweight,Neutral,down,MOD
+2013-10-24,Baird,Underperform,Neutral,down,MOD
+2014-01-29,Baird,Neutral,Underperform,up,MOD
+2014-01-30,JP Morgan,Neutral,Underweight,up,MOD
+2014-02-18,Sidoti & Co.,Neutral,,init,MOD
+2014-04-22,Baird,Outperform,Neutral,up,MOD
+2016-03-24,Seaport Global,Buy,Neutral,up,MOD
+2017-01-31,Gabelli & Co.,Buy,,init,MOD
+2019-08-28,Dougherty & Co.,Buy,,init,MOD
+2019-08-30,DA Davidson,Neutral,,init,MOD
+2019-11-08,Dougherty & Co.,Neutral,Buy,down,MOD
+2019-11-11,Baird,Neutral,Outperform,down,MOD
+2020-05-13,Sidoti & Co.,Buy,,main,MOD
+2020-08-05,Sidoti & Co.,Buy,,main,MOD

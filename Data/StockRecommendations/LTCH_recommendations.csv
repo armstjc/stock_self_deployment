@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-17,Baird,Neutral,,init,LTCH
+2021-07-01,Cantor Fitzgerald,Overweight,,init,LTCH
+2021-07-09,William Blair,Outperform,,init,LTCH
+2021-07-29,Goldman Sachs,Buy,,init,LTCH
+2021-08-18,Keybanc,Sector Weight,,init,LTCH
+2021-10-05,B of A Securities,Underperform,,init,LTCH
+2021-10-18,Goldman Sachs,Neutral,Buy,down,LTCH
+2021-11-18,Imperial Capital,Outperform,,init,LTCH

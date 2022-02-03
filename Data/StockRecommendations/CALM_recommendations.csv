@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-01-23,BB&T Capital,Hold,,init,CALM
+2015-05-18,Stephens & Co.,Overweight,Equal-Weight,up,CALM
+2015-06-26,DA Davidson,Buy,,init,CALM
+2015-08-31,BB&T Capital,Buy,Hold,up,CALM
+2016-03-04,BB&T Capital,Underweight,Hold,down,CALM
+2016-03-29,DA Davidson,Neutral,Buy,down,CALM
+2016-05-09,DA Davidson,Underperform,Neutral,down,CALM
+2016-06-16,BB&T Capital,Hold,Underweight,up,CALM
+2016-11-10,Goldman Sachs,Neutral,,init,CALM
+2017-06-16,Goldman Sachs,Sell,Neutral,down,CALM
+2017-10-03,Stephens & Co.,Overweight,Equal-Weight,up,CALM
+2018-10-01,Stephens & Co.,Equal-Weight,Overweight,down,CALM
+2019-03-05,Stephens & Co.,Equal-Weight,,init,CALM
+2020-01-07,Cleveland Research,Neutral,Underperform,up,CALM
+2020-03-17,Stephens & Co.,Overweight,Equal-Weight,up,CALM
+2020-03-31,Stephens & Co.,Overweight,,reit,CALM
+2020-10-28,B of A Securities,Buy,,init,CALM
+2021-05-26,B of A Securities,Underperform,Buy,down,CALM

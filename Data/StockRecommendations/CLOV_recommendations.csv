@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-01,JP Morgan,Neutral,,init,CLOV
+2021-02-02,Citigroup,Buy,,init,CLOV
+2021-03-09,Credit Suisse,Neutral,,init,CLOV
+2021-05-17,B of A Securities,Neutral,Buy,down,CLOV
+2021-05-19,Credit Suisse,Neutral,,main,CLOV
+2021-06-10,B of A Securities,Underperform,Neutral,down,CLOV
+2021-07-12,JP Morgan,Underweight,Neutral,down,CLOV
+2021-09-10,Cowen & Co.,Underperform,,init,CLOV
+2021-11-15,Credit Suisse,Neutral,,main,CLOV
+2022-01-07,Credit Suisse,Underperform,Neutral,down,CLOV
+2022-01-19,SVB Leerink,Market Perform,,init,CLOV

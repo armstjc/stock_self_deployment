@@ -1,0 +1,89 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-07-07,Deutsche Bank,Hold,,main,ARCB
+2014-08-01,Raymond James,Strong Buy,,main,ARCB
+2014-09-15,Bank of America,Neutral,,main,ARCB
+2014-10-14,Deutsche Bank,Hold,,main,ARCB
+2014-11-04,Deutsche Bank,Hold,,main,ARCB
+2014-11-04,Bank of America,Neutral,,main,ARCB
+2015-01-15,Deutsche Bank,Hold,,main,ARCB
+2015-01-20,Wolfe Research,Underperform,Peer Perform,down,ARCB
+2015-05-05,Stephens & Co.,Overweight,,main,ARCB
+2015-05-29,Bank of America,Underperform,Neutral,down,ARCB
+2015-07-02,Wolfe Research,,Underperform,up,ARCB
+2015-07-09,Citigroup,Neutral,,main,ARCB
+2015-08-04,Buckingham Research,Buy,,main,ARCB
+2015-08-05,Deutsche Bank,Hold,,main,ARCB
+2015-09-11,Bank of America,Neutral,Underperform,up,ARCB
+2015-11-03,Deutsche Bank,Hold,,main,ARCB
+2015-12-02,Bank of America,Underperform,Neutral,down,ARCB
+2016-01-07,Stephens & Co.,Equal-Weight,Overweight,down,ARCB
+2016-01-11,Deutsche Bank,Hold,,main,ARCB
+2016-02-04,Stifel Nicolaus,Buy,Hold,up,ARCB
+2016-02-04,Citigroup,Neutral,,main,ARCB
+2016-02-04,Deutsche Bank,Hold,,main,ARCB
+2016-02-22,Bank of America,Underperform,,main,ARCB
+2016-05-02,Stifel Nicolaus,Hold,Buy,down,ARCB
+2016-07-11,Citigroup,Neutral,,main,ARCB
+2016-07-13,Citigroup,Neutral,,main,ARCB
+2016-07-20,Deutsche Bank,Hold,,main,ARCB
+2016-08-01,Morgan Stanley,Equal-Weight,,main,ARCB
+2016-09-08,Citigroup,Neutral,,main,ARCB
+2016-11-02,Deutsche Bank,Hold,,init,ARCB
+2016-11-04,Bank of America,Neutral,Underperform,up,ARCB
+2017-08-21,Buckingham,Neutral,,init,ARCB
+2017-10-05,Morgan Stanley,Equal-Weight,,main,ARCB
+2017-10-16,Cowen & Co.,Market Perform,Outperform,down,ARCB
+2017-11-06,Bank of America,Neutral,,main,ARCB
+2017-11-06,Buckingham,Neutral,,main,ARCB
+2017-12-13,Stifel Nicolaus,Sell,Hold,down,ARCB
+2018-02-06,Citigroup,Neutral,Neutral,main,ARCB
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARCB
+2018-04-03,Stifel Nicolaus,Hold,Sell,up,ARCB
+2018-08-01,Bank of America,Neutral,Neutral,main,ARCB
+2018-08-09,Buckingham,Neutral,Neutral,main,ARCB
+2018-10-02,Loop Capital,Hold,,init,ARCB
+2018-10-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARCB
+2018-10-30,Bank of America,Underperform,Neutral,down,ARCB
+2018-11-02,Bank of America,Underperform,Underperform,main,ARCB
+2018-11-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,ARCB
+2018-12-13,SunTrust Robinson Humphrey,Buy,,init,ARCB
+2019-04-11,Citigroup,Neutral,Neutral,main,ARCB
+2019-04-11,Buckingham,Neutral,Neutral,main,ARCB
+2019-05-06,Buckingham Research,Neutral,Neutral,main,ARCB
+2019-05-22,Cowen & Co.,Outperform,Market Perform,up,ARCB
+2019-07-11,Citigroup,Neutral,,main,ARCB
+2019-11-07,Stifel Nicolaus,Hold,,main,ARCB
+2020-01-06,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-02-03,Stephens & Co.,Equal-Weight,,main,ARCB
+2020-03-03,Loop Capital,Buy,Hold,up,ARCB
+2020-03-20,Stifel,Buy,Hold,up,ARCB
+2020-04-08,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-05-11,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-06-03,B of A Securities,Buy,Underperform,up,ARCB
+2020-07-06,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-07-08,Citigroup,Neutral,,main,ARCB
+2020-07-21,B of A Securities,Buy,,main,ARCB
+2020-07-30,Citigroup,Neutral,,main,ARCB
+2020-08-03,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-08-27,Goldman Sachs,Buy,,init,ARCB
+2020-10-05,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-11-11,Morgan Stanley,Equal-Weight,,main,ARCB
+2020-11-24,Citigroup,Buy,Neutral,up,ARCB
+2020-12-10,Morgan Stanley,Overweight,Equal-Weight,up,ARCB
+2021-01-04,Stephens & Co.,Overweight,Equal-Weight,up,ARCB
+2021-01-06,Morgan Stanley,Overweight,,main,ARCB
+2021-02-17,Morgan Stanley,Overweight,,main,ARCB
+2021-03-25,Morgan Stanley,Overweight,,main,ARCB
+2021-03-26,Vertical Research,Hold,,init,ARCB
+2021-04-15,Truist Securities,Buy,,main,ARCB
+2021-05-27,Morgan Stanley,Overweight,,main,ARCB
+2021-06-04,Wolfe Research,Peer Perform,Outperform,down,ARCB
+2021-06-07,Goldman Sachs,Neutral,Buy,down,ARCB
+2021-06-08,Vertical Research,Buy,Hold,up,ARCB
+2021-06-29,Truist Securities,Buy,,main,ARCB
+2021-07-14,Citigroup,Buy,,main,ARCB
+2021-09-30,Cowen & Co.,Outperform,,main,ARCB
+2021-10-04,Morgan Stanley,Overweight,,main,ARCB
+2021-10-05,Truist Securities,Buy,,main,ARCB
+2021-10-19,B of A Securities,Buy,,main,ARCB
+2021-11-09,Morgan Stanley,Overweight,,main,ARCB

@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-10-29,Bank of America,Buy,,init,KOD
+2018-10-29,Morgan Stanley,Overweight,,init,KOD
+2018-10-29,Barclays,Overweight,,init,KOD
+2019-02-20,Chardan Capital,Buy,,init,KOD
+2019-12-17,Morgan Stanley,Overweight,,main,KOD
+2019-12-24,JP Morgan,Overweight,,init,KOD
+2020-01-03,H.C. Wainwright,Buy,,init,KOD
+2020-02-06,SunTrust Robinson Humphrey,Buy,,init,KOD
+2020-02-18,Barclays,Equal-Weight,Overweight,down,KOD
+2020-03-03,Goldman Sachs,Buy,,init,KOD
+2020-03-31,BMO Capital,Outperform,,init,KOD
+2020-04-15,Morgan Stanley,Overweight,,main,KOD
+2020-05-14,SunTrust Robinson Humphrey,Buy,,main,KOD
+2020-07-28,SunTrust Robinson Humphrey,Buy,,main,KOD
+2020-11-10,Roth Capital,Buy,,main,KOD
+2020-11-13,Goldman Sachs,Neutral,Buy,down,KOD
+2020-11-16,Morgan Stanley,Equal-Weight,Overweight,down,KOD
+2020-11-30,JP Morgan,Neutral,Overweight,down,KOD
+2020-12-11,Citigroup,Neutral,,init,KOD
+2020-12-17,Berenberg,Buy,,init,KOD
+2021-01-25,BMO Capital,Market Perform,Outperform,down,KOD
+2021-02-17,Roth Capital,Neutral,Buy,down,KOD
+2021-03-01,Barclays,Underweight,Equal-Weight,down,KOD
+2021-03-08,Morgan Stanley,Equal-Weight,,main,KOD
+2021-03-12,Evercore ISI Group,Outperform,,init,KOD
+2021-04-19,Morgan Stanley,Equal-Weight,,main,KOD
+2021-05-04,Truist Securities,Buy,,main,KOD
+2021-05-11,Roth Capital,Buy,Neutral,up,KOD
+2021-05-11,BMO Capital,Market Perform,,main,KOD
+2021-05-11,Barclays,Underweight,,main,KOD
+2021-11-11,Citigroup,Neutral,,main,KOD

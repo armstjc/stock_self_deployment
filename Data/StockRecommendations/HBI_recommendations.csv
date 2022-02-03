@@ -1,0 +1,128 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,ISI Group,Hold,,main,HBI
+2012-05-30,DA Davidson,Buy,,main,HBI
+2012-07-17,Brean Capital,Buy,,main,HBI
+2012-08-01,Stifel Nicolaus,Buy,,main,HBI
+2012-10-24,DA Davidson,Buy,,main,HBI
+2012-10-24,ISI Group,Hold,,main,HBI
+2012-11-08,Stifel Nicolaus,Buy,,main,HBI
+2012-11-30,DA Davidson,Buy,,main,HBI
+2013-02-06,Stifel Nicolaus,Buy,,main,HBI
+2013-02-06,DA Davidson,Buy,,main,HBI
+2013-03-01,Stifel Nicolaus,Buy,,main,HBI
+2013-03-22,Goldman Sachs,Buy,,init,HBI
+2013-04-02,Barclays,Overweight,Equal-Weight,up,HBI
+2013-04-05,DA Davidson,Buy,,main,HBI
+2013-04-05,Stifel Nicolaus,Buy,,main,HBI
+2013-04-05,Goldman Sachs,Buy,,main,HBI
+2013-04-24,DA Davidson,Buy,,main,HBI
+2013-05-06,Wells Fargo,Outperform,,init,HBI
+2013-06-20,CL King,Neutral,Buy,down,HBI
+2013-07-25,ISI Group,Buy,Neutral,up,HBI
+2013-08-01,FBR Capital,Outperform,,init,HBI
+2013-08-01,Brean Capital,Hold,Buy,down,HBI
+2013-09-24,DA Davidson,Neutral,Buy,down,HBI
+2013-10-31,DA Davidson,Neutral,,main,HBI
+2014-01-31,Citigroup,Buy,,main,HBI
+2014-02-13,Nomura,Neutral,,init,HBI
+2014-02-28,Stifel,Hold,Buy,down,HBI
+2014-02-28,DA Davidson,Neutral,,main,HBI
+2014-04-25,Nomura,Neutral,,main,HBI
+2014-04-25,FBR Capital,Outperform,,main,HBI
+2014-06-24,FBR Capital,Outperform,,main,HBI
+2014-06-25,Brean Capital,Buy,Hold,up,HBI
+2014-06-26,Barclays,Overweight,,main,HBI
+2014-06-26,DA Davidson,Neutral,,main,HBI
+2014-06-30,Citigroup,Buy,,main,HBI
+2014-07-24,Barclays,Overweight,,main,HBI
+2014-07-24,Nomura,Neutral,,main,HBI
+2014-07-25,Citigroup,Buy,,main,HBI
+2014-09-12,Citigroup,Buy,,main,HBI
+2014-09-12,Wunderlich,Buy,,init,HBI
+2014-10-02,Credit Suisse,Outperform,,init,HBI
+2014-10-30,Citigroup,Buy,,main,HBI
+2014-11-25,UBS,Buy,,init,HBI
+2015-01-09,Morgan Stanley,Overweight,,init,HBI
+2015-01-27,Wunderlich,Buy,,main,HBI
+2015-01-30,Citigroup,Buy,,main,HBI
+2015-01-30,Barclays,Overweight,,main,HBI
+2015-02-20,Barclays,Overweight,,main,HBI
+2015-03-05,Citigroup,Buy,,main,HBI
+2015-03-16,Sterne Agee,Buy,,init,HBI
+2015-04-24,Nomura,Neutral,,main,HBI
+2015-04-24,Citigroup,Buy,,main,HBI
+2015-05-04,Cowen & Co.,Outperform,,init,HBI
+2015-05-15,DA Davidson,Neutral,Buy,up,HBI
+2015-09-17,Goldman Sachs,Buy,Neutral,up,HBI
+2015-10-15,Oppenheimer,Outperform,,init,HBI
+2015-10-15,Brean Capital,Buy,,init,HBI
+2015-10-26,DA Davidson,Neutral,Buy,down,HBI
+2015-10-29,Barclays,Overweight,,main,HBI
+2015-12-04,Goldman Sachs,Buy,,main,HBI
+2016-01-11,Northland Securities,Buy,Neutral,up,HBI
+2016-02-05,UBS,Buy,,main,HBI
+2016-04-22,Brean Capital,Buy,,main,HBI
+2016-08-04,Citigroup,Buy,,main,HBI
+2016-10-12,Cowen & Co.,Market Perform,Outperform,down,HBI
+2016-12-12,CL King,Buy,Neutral,up,HBI
+2016-12-12,DA Davidson,Buy,Neutral,up,HBI
+2017-02-27,Morgan Stanley,Equal-Weight,Overweight,down,HBI
+2017-03-28,Goldman Sachs,Neutral,,init,HBI
+2017-08-07,Morgan Stanley,Equal-Weight,,main,HBI
+2017-09-20,Barclays,Overweight,,init,HBI
+2017-09-21,Nomura,Neutral,Buy,down,HBI
+2017-10-24,Deutsche Bank,Buy,,init,HBI
+2017-10-24,Oppenheimer,Perform,Outperform,down,HBI
+2017-10-25,Wells Fargo,Market Perform,Outperform,down,HBI
+2017-11-02,Barclays,Overweight,,main,HBI
+2017-11-02,Morgan Stanley,Equal-Weight,,main,HBI
+2017-11-02,Nomura,Neutral,,main,HBI
+2017-11-02,Buckingham,Buy,,main,HBI
+2017-12-19,Citigroup,Neutral,Buy,down,HBI
+2018-01-25,Barclays,Overweight,Overweight,main,HBI
+2018-02-09,Deutsche Bank,Buy,Buy,main,HBI
+2018-02-09,Citigroup,Neutral,Neutral,main,HBI
+2018-02-09,Wells Fargo,Market Perform,Market Perform,main,HBI
+2018-02-09,B. Riley FBR,Buy,,main,HBI
+2018-03-12,Credit Suisse,Neutral,,init,HBI
+2018-04-23,Stifel Nicolaus,Buy,Hold,up,HBI
+2018-05-02,Barclays,Overweight,Overweight,main,HBI
+2018-05-02,Citigroup,Neutral,Neutral,main,HBI
+2018-06-21,UBS,Neutral,,init,HBI
+2018-08-02,Bank of America,Neutral,Neutral,main,HBI
+2018-08-02,Credit Suisse,Neutral,Neutral,main,HBI
+2018-08-02,Barclays,Equal-Weight,Overweight,down,HBI
+2018-08-16,Buckingham,Buy,Buy,main,HBI
+2018-08-23,Macquarie,Neutral,Neutral,main,HBI
+2018-10-17,Buckingham,Buy,Buy,main,HBI
+2018-10-23,Standpoint Research,Buy,,init,HBI
+2018-11-02,Barclays,Equal-Weight,Equal-Weight,main,HBI
+2018-11-02,Nomura,Neutral,Neutral,main,HBI
+2018-11-02,Bank of America,Neutral,Neutral,main,HBI
+2018-12-03,Citigroup,Neutral,Neutral,main,HBI
+2019-01-02,Wells Fargo,Market Perform,Market Perform,main,HBI
+2019-01-11,Deutsche Bank,Hold,Buy,down,HBI
+2019-08-02,Citi,Neutral,,main,HBI
+2019-08-02,Bank of America,Neutral,,reit,HBI
+2019-09-06,UBS,Neutral,,main,HBI
+2019-11-13,Barclays,Equal-Weight,,init,HBI
+2019-12-13,Bank of America,Underperform,Neutral,down,HBI
+2020-01-02,Wells Fargo,Underweight,Equal-Weight,down,HBI
+2020-02-10,B. Riley FBR,Buy,,reit,HBI
+2020-03-16,Wells Fargo,Underweight,,main,HBI
+2020-03-26,B. Riley FBR,Buy,,main,HBI
+2020-04-01,Raymond James,Market Perform,,init,HBI
+2020-04-15,UBS,Neutral,,main,HBI
+2020-04-24,Deutsche Bank,Hold,,main,HBI
+2020-04-30,CFRA,Sell,,main,HBI
+2020-05-04,UBS,Neutral,,main,HBI
+2020-07-14,Credit Suisse,Outperform,Neutral,up,HBI
+2020-11-06,Raymond James,Strong Buy,,main,HBI
+2020-12-14,Stifel,Hold,Buy,down,HBI
+2021-02-10,Credit Suisse,Outperform,,main,HBI
+2021-05-12,Stifel,Buy,Hold,up,HBI
+2021-05-12,Wells Fargo,Equal-Weight,Underweight,up,HBI
+2021-07-13,Wells Fargo,Overweight,Equal-Weight,up,HBI
+2021-08-06,Barclays,Overweight,,main,HBI
+2021-10-05,Wedbush,Neutral,,init,HBI
+2021-10-15,Wells Fargo,Overweight,,main,HBI

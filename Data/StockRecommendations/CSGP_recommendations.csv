@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-06,Raymond James,Market Perform,Outperform,down,CSGP
+2012-07-06,Raymond James,Market Perform,Outperform,down,CSGP
+2012-08-16,Morgan Stanley,Underweight,Equal-Weight,down,CSGP
+2013-05-23,Wells Fargo,Outperform,,init,CSGP
+2014-02-13,Wells Fargo,Outperform,,init,CSGP
+2014-04-21,B. Riley FBR,Buy,Neutral,up,CSGP
+2014-06-16,Bank of America,Buy,,init,CSGP
+2014-06-30,JMP Securities,Market Outperform,Market Perform,up,CSGP
+2014-08-18,Goldman Sachs,Buy,,init,CSGP
+2014-10-31,Citigroup,Neutral,,main,CSGP
+2014-12-11,Citigroup,Neutral,,main,CSGP
+2015-01-09,Citigroup,Neutral,,main,CSGP
+2015-04-06,SunTrust Robinson Humphrey,Buy,,main,CSGP
+2015-04-30,JMP Securities,Market Outperform,,main,CSGP
+2016-07-28,JMP Securities,Market Outperform,,main,CSGP
+2016-07-29,JP Morgan,Overweight,,main,CSGP
+2017-03-13,B. Riley FBR,Buy,,init,CSGP
+2017-11-08,Goldman Sachs,Buy,,init,CSGP
+2017-12-12,JP Morgan,Underweight,Overweight,down,CSGP
+2018-04-24,JP Morgan,Underweight,Underweight,main,CSGP
+2018-04-24,JMP Securities,Market Outperform,Market Outperform,main,CSGP
+2018-07-20,B. Riley FBR,Buy,Buy,main,CSGP
+2018-07-25,Citigroup,Buy,Buy,main,CSGP
+2018-07-25,Bank of America,Buy,Buy,main,CSGP
+2019-02-27,Wells Fargo,Outperform,Outperform,main,CSGP
+2019-02-27,B. Riley FBR,Buy,Buy,main,CSGP
+2019-04-24,Bank of America,Buy,Buy,main,CSGP
+2019-04-24,Wells Fargo,Outperform,Outperform,main,CSGP
+2019-07-10,Keefe Bruyette & Woods,Outperform,,init,CSGP
+2019-07-24,JMP Securities,Market Outperform,,main,CSGP
+2019-07-24,JP Morgan,Underweight,,main,CSGP
+2019-10-21,B. Riley,Buy,,main,CSGP
+2019-11-22,Jefferies,Hold,,init,CSGP
+2020-01-02,Stephens & Co.,Overweight,,main,CSGP
+2020-01-15,Citigroup,Buy,,main,CSGP
+2020-02-13,B. Riley FBR,Buy,,main,CSGP
+2020-02-14,Citigroup,Buy,,main,CSGP
+2020-02-26,Stephens & Co.,Overweight,,main,CSGP
+2020-02-26,JP Morgan,Underweight,,main,CSGP
+2020-04-23,B. Riley FBR,Buy,,main,CSGP
+2020-04-29,JMP Securities,Market Outperform,,main,CSGP
+2020-04-29,Needham,Buy,,main,CSGP
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,CSGP
+2020-04-29,JP Morgan,Underweight,,main,CSGP
+2020-06-18,Baird,Outperform,,init,CSGP
+2020-06-19,Needham,Buy,,main,CSGP
+2020-07-29,Needham,Buy,,main,CSGP
+2020-07-29,JP Morgan,Overweight,Underweight,up,CSGP
+2020-09-23,Citigroup,Buy,,main,CSGP
+2020-10-28,Needham,Buy,,main,CSGP
+2020-10-28,JMP Securities,Market Outperform,,main,CSGP
+2021-04-28,Needham,Buy,,main,CSGP
+2021-07-28,Needham,Buy,,main,CSGP
+2021-10-27,Needham,Buy,,main,CSGP
+2022-01-11,RBC Capital,Outperform,,init,CSGP

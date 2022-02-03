@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-07,JP Morgan,Overweight,,init,BILI
+2018-05-29,JP Morgan,Overweight,Overweight,main,BILI
+2018-06-26,Bank of America,Buy,Buy,main,BILI
+2018-06-27,Bank of America,Buy,Buy,main,BILI
+2018-08-29,JP Morgan,Overweight,Overweight,main,BILI
+2018-09-11,Bank of America,Buy,Buy,main,BILI
+2018-09-24,Morgan Stanley,Equal-Weight,Overweight,down,BILI
+2019-01-14,Daiwa Capital,Outperform,,init,BILI
+2019-01-31,Citigroup,Buy,,init,BILI
+2019-02-27,China Renaissance,Buy,,init,BILI
+2019-03-01,JP Morgan,Neutral,Overweight,down,BILI
+2019-08-05,Jefferies,Buy,,init,BILI
+2019-08-07,Goldman Sachs,Buy,,init,BILI
+2019-08-27,Citi,Buy,,main,BILI
+2019-10-09,Nomura,Buy,,init,BILI
+2019-11-20,Nomura,Buy,,main,BILI
+2020-01-10,Morgan Stanley,Equal-Weight,Overweight,down,BILI
+2020-03-19,UBS,Buy,,main,BILI
+2020-05-18,Nomura,Buy,,main,BILI
+2020-05-20,Nomura Instinet,Buy,,main,BILI
+2020-05-21,JP Morgan,Overweight,Neutral,up,BILI
+2020-05-27,Morgan Stanley,Overweight,Equal-Weight,up,BILI
+2020-08-27,Nomura Instinet,Neutral,Buy,down,BILI
+2021-01-25,Bernstein,Outperform,,init,BILI
+2021-02-09,Credit Suisse,Neutral,Outperform,down,BILI
+2021-04-08,Credit Suisse,Outperform,Neutral,up,BILI
+2021-05-14,86 Research,Buy,Hold,up,BILI
+2021-07-23,HSBC,Buy,,main,BILI
+2021-07-26,CLSA,Outperform,Buy,down,BILI
+2021-08-13,Deutsche Bank,Buy,,init,BILI
+2021-08-20,HSBC,Buy,,main,BILI
+2021-12-28,Benchmark,Buy,,init,BILI

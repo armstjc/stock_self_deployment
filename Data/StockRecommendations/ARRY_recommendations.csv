@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-09,Morgan Stanley,Underweight,,init,ARRY
+2020-11-09,Cowen & Co.,Market Perform,,init,ARRY
+2020-11-09,Credit Suisse,Neutral,,init,ARRY
+2020-11-09,JP Morgan,Neutral,,init,ARRY
+2020-11-09,Barclays,Equal-Weight,,init,ARRY
+2020-12-09,JP Morgan,Overweight,Neutral,up,ARRY
+2021-01-08,Piper Sandler,Overweight,,init,ARRY
+2021-01-20,Credit Suisse,Neutral,,main,ARRY
+2021-03-10,Morgan Stanley,Underweight,,main,ARRY
+2021-03-29,Morgan Stanley,Equal-Weight,Underweight,up,ARRY
+2021-04-16,UBS,Buy,Neutral,up,ARRY
+2021-04-22,Barclays,Overweight,Equal-Weight,up,ARRY
+2021-05-12,Barclays,Underweight,Overweight,down,ARRY
+2021-05-12,Piper Sandler,Neutral,Overweight,down,ARRY
+2021-05-12,Roth Capital,Neutral,Buy,down,ARRY
+2021-05-13,Credit Suisse,Outperform,Neutral,up,ARRY
+2021-05-14,Morgan Stanley,Equal-Weight,,main,ARRY
+2021-05-24,Barclays,Underweight,,main,ARRY
+2021-07-20,Barclays,Equal-Weight,Underweight,up,ARRY
+2021-08-10,Roth Capital,Buy,Neutral,up,ARRY
+2021-09-08,Morgan Stanley,Equal-Weight,,main,ARRY
+2021-10-15,Truist Securities,Hold,,init,ARRY
+2021-10-20,Guggenheim,Neutral,Buy,down,ARRY
+2021-10-20,Barclays,Underweight,Equal-Weight,down,ARRY
+2021-12-02,Morgan Stanley,Equal-Weight,,main,ARRY

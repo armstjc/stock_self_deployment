@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-07,Deutsche Bank,Buy,,main,BV
+2018-07-23,JP Morgan,Overweight,,init,BV
+2018-07-23,Credit Suisse,Neutral,,init,BV
+2018-07-23,Jefferies,Buy,,init,BV
+2018-07-23,Goldman Sachs,Buy,,init,BV
+2018-07-23,RBC Capital,Outperform,,init,BV
+2018-07-23,Baird,Outperform,,init,BV
+2018-07-23,Nomura,Buy,,init,BV
+2018-07-23,William Blair,Outperform,,init,BV
+2018-07-23,Stifel Nicolaus,Buy,,init,BV
+2018-08-10,JP Morgan,Overweight,Overweight,main,BV
+2018-08-10,Credit Suisse,Neutral,Neutral,main,BV
+2018-10-15,Baird,Outperform,Outperform,main,BV
+2019-02-12,Nomura,Buy,Buy,main,BV
+2019-02-13,Berenberg,Buy,,init,BV
+2019-07-18,JP Morgan,Neutral,Overweight,down,BV
+2019-11-25,RBC Capital,Outperform,,main,BV
+2019-11-27,Stifel Nicolaus,Hold,Buy,down,BV
+2020-04-08,RBC Capital,Outperform,,main,BV
+2020-04-24,Baird,Outperform,,main,BV
+2021-04-15,Baird,Neutral,Outperform,down,BV
+2021-12-20,Goldman Sachs,Neutral,Buy,down,BV
+2021-12-21,Goldman Sachs,Neutral,,main,BV

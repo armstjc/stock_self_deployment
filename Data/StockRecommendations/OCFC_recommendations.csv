@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-19,Sterne Agee,Buy,Neutral,up,OCFC
+2013-02-27,Sterne Agee,Neutral,Buy,down,OCFC
+2013-06-27,Sterne Agee,Buy,Neutral,up,OCFC
+2014-02-24,Boenning & Scattergood,Outperform,,init,OCFC
+2014-08-01,Keefe Bruyette & Woods,Outperform,Market Perform,up,OCFC
+2015-01-26,Keefe Bruyette & Woods,Outperform,,main,OCFC
+2015-10-26,Keefe Bruyette & Woods,Outperform,,main,OCFC
+2016-01-07,Keefe Bruyette & Woods,Outperform,,main,OCFC
+2017-01-30,Sandler O'Neill,Hold,Buy,down,OCFC
+2017-09-21,DA Davidson,Buy,,init,OCFC
+2018-05-24,DA Davidson,Buy,Buy,main,OCFC
+2018-06-28,Raymond James,Outperform,,init,OCFC
+2018-12-21,Boenning & Scattergood,Outperform,,init,OCFC
+2019-07-29,Keefe Bruyette & Woods,Market Perform,Outperform,down,OCFC
+2019-08-12,Raymond James,Outperform,,main,OCFC
+2019-08-12,DA Davidson,Neutral,Buy,down,OCFC
+2019-08-29,Raymond James,Strong Buy,Outperform,up,OCFC
+2019-10-28,Raymond James,Strong Buy,,main,OCFC
+2019-10-29,Stephens & Co.,Equal-Weight,,init,OCFC
+2020-04-30,Stephens & Co.,Overweight,Equal-Weight,up,OCFC
+2020-09-28,Piper Sandler,Neutral,,main,OCFC
+2020-11-02,Raymond James,Strong Buy,,main,OCFC
+2020-12-18,DA Davidson,Buy,Neutral,up,OCFC
+2021-01-07,Raymond James,Strong Buy,,main,OCFC
+2021-03-24,Seaport Global,Buy,,init,OCFC
+2021-05-06,Stephens & Co.,Equal-Weight,Overweight,down,OCFC
+2021-08-04,Stephens & Co.,Overweight,Equal-Weight,up,OCFC
+2021-08-06,Piper Sandler,Overweight,Neutral,up,OCFC
+2021-11-10,Stephens & Co.,Equal-Weight,Overweight,down,OCFC

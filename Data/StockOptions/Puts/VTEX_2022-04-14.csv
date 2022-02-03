@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VTEX220414P00017500,2021-12-13 17:13:32+00:00,17.5,4.5,8.5,10.7,0.0,0.0,,17,1.7070327148437499,True,REGULAR,USD,VTEX

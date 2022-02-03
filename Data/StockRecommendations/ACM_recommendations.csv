@@ -1,88 +1,88 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-05-08 06:19:00,Bank oferica,Underperform,,down,ACM
-2012-07-23 12:24:00,Barclays,Equal-Weight,,main,ACM
-2012-11-14 11:10:00,UBS,Buy,,main,ACM
-2012-11-14 14:02:00,Barclays,Equal-Weight,,main,ACM
-2012-12-07 06:14:35,DA Davidson,Buy,,init,ACM
-2013-01-10 13:11:07,Gilford Securities,Buy,,main,ACM
-2013-01-23 12:07:26,Barclays,Equal-Weight,,main,ACM
-2013-02-05 13:58:19,DA Davidson,Buy,,main,ACM
-2013-02-08 06:35:54,Bank of America,Buy,Underperform,up,ACM
-2013-03-11 12:20:42,Standpoint,Hold,Buy,down,ACM
-2013-04-25 11:44:34,Macquarie,Neutral,Outperform,down,ACM
-2013-08-07 08:52:02,Standpoint Research,Buy,Hold,up,ACM
-2013-11-08 07:15:30,UBS,Neutral,Buy,down,ACM
-2013-11-08 07:37:29,Baird,Neutral,Outperform,down,ACM
-2014-01-16 16:00:00,KeyBanc,Hold,Buy,down,ACM
-2014-04-11 08:44:33,DA Davidson,Neutral,Buy,down,ACM
-2014-05-07 00:30:50,UBS,Neutral,,main,ACM
-2014-05-07 23:32:54,Citigroup,Equal-Weight,,main,ACM
-2014-07-14 09:23:40,BB&T Capital,Buy,Hold,up,ACM
-2014-07-14 13:39:41,UBS,Buy,Neutral,up,ACM
-2014-07-15 19:40:09,DA Davidson,Neutral,,main,ACM
-2014-08-20 06:23:52,Standpoint Research,Hold,Buy,down,ACM
-2014-10-02 11:14:17,Standpoint Research,Buy,Hold,up,ACM
-2014-10-20 08:30:00,Barclays,Equal-Weight,,main,ACM
-2015-01-09 00:00:00,Barclays,Overweight,Equal-Weight,up,ACM
-2015-02-11 09:00:00,Barclays,Overweight,,main,ACM
-2015-03-10 06:55:29,Credit Suisse,Outperform,,init,ACM
-2015-05-13 09:00:00,Baird,Neutral,,main,ACM
-2015-06-12 07:29:43,JP Morgan,Overweight,,init,ACM
-2015-08-12 12:58:19,Credit Suisse,Outperform,,main,ACM
-2015-11-13 07:29:17,Citigroup,Buy,,init,ACM
-2016-02-09 13:41:23,Keybanc,Overweight,Sector Weight,up,ACM
-2016-02-10 12:20:22,JP Morgan,Overweight,,main,ACM
-2016-03-10 08:16:16,Sterne Agee CRT,Buy,,init,ACM
-2016-03-21 07:55:20,BB&T Capital,Hold,Buy,down,ACM
-2016-04-06 16:06:49,Deutsche Bank,Buy,,init,ACM
-2016-04-11 16:37:54,Canaccord Genuity,Hold,,init,ACM
-2016-11-15 12:27:03,Argus,Buy,Hold,up,ACM
-2017-01-04 13:02:18,Baird,Outperform,Neutral,up,ACM
-2017-01-12 13:47:31,Deutsche Bank,Hold,Buy,down,ACM
-2017-04-07 15:55:53,Baird,Neutral,Outperform,down,ACM
-2017-07-24 13:26:22,Credit Suisse,Neutral,Outperform,down,ACM
-2017-09-22 14:51:22,Baird,Neutral,,main,ACM
-2017-10-27 12:38:43,Citigroup,Buy,,main,ACM
-2017-10-30 17:36:50,Citigroup,Buy,,main,ACM
-2017-11-14 13:24:54,UBS,Buy,,main,ACM
-2017-11-14 13:44:51,Credit Suisse,Neutral,,main,ACM
-2017-12-20 14:09:28,Barclays,Underweight,,init,ACM
-2018-01-03 12:05:07,Baird,Outperform,Neutral,up,ACM
-2018-02-06 13:27:36,Citigroup,Buy,Buy,main,ACM
-2018-05-05 13:32:14,Argus,Hold,Buy,down,ACM
-2018-05-05 13:32:14,Argus,Buy,,main,ACM
-2018-07-23 13:14:38,Citigroup,Buy,Buy,main,ACM
-2018-08-08 11:38:53,Citigroup,Buy,Buy,main,ACM
-2018-08-08 13:15:08,Credit Suisse,Neutral,Neutral,main,ACM
-2018-08-15 12:32:08,Argus,Hold,Buy,down,ACM
-2018-11-13 13:08:18,Citigroup,Buy,Buy,main,ACM
-2018-11-13 13:32:44,Credit Suisse,Neutral,Neutral,main,ACM
-2019-08-19 11:43:09,Barclays,Overweight,Underweight,up,ACM
-2019-10-15 09:25:11,KeyBanc,Overweight,,main,ACM
-2019-10-15 11:22:05,Citigroup,Buy,,main,ACM
-2019-11-05 11:21:09,Deutsche Bank,Buy,Hold,up,ACM
-2019-11-13 12:50:16,Barclays,Overweight,,main,ACM
-2019-11-14 12:15:33,UBS,Buy,,main,ACM
-2019-11-14 12:46:25,Citigroup,Buy,,main,ACM
-2019-11-20 16:26:42,Bank of America,Buy,,reit,ACM
-2019-12-11 14:18:35,Citigroup,Buy,,main,ACM
-2019-12-11 14:33:43,Baird,Outperform,,main,ACM
-2020-01-28 12:02:49,Citigroup,Buy,,main,ACM
-2020-02-04 13:43:01,Baird,Outperform,,main,ACM
-2020-02-04 13:53:42,Deutsche Bank,Buy,,main,ACM
-2020-03-26 10:30:27,KeyBanc,Overweight,,main,ACM
-2020-04-02 08:48:22,Citigroup,Buy,,main,ACM
-2020-04-24 14:05:07,B of A Securities,Buy,,reit,ACM
-2020-04-28 10:04:56,KeyBanc,Overweight,,main,ACM
-2020-05-06 11:44:33,Citigroup,Buy,,main,ACM
-2020-05-06 15:22:58,Baird,Outperform,,main,ACM
-2020-08-06 13:37:37,Credit Suisse,Neutral,,main,ACM
-2020-11-17 09:01:10,KeyBanc,Overweight,,main,ACM
-2020-11-17 12:24:01,Citigroup,Buy,,main,ACM
-2021-04-19 10:08:23,Keybanc,Overweight,,main,ACM
-2021-05-12 16:04:23,Credit Suisse,Neutral,,main,ACM
-2021-11-16 09:32:21,Keybanc,Overweight,,main,ACM
-2021-11-16 13:10:23,Barclays,Overweight,,main,ACM
-2021-11-16 13:45:56,Citigroup,Buy,,main,ACM
-2021-12-17 12:26:36,Barclays,Overweight,,main,ACM
-2021-12-30 13:55:14,Argus Research,Buy,,main,ACM
+2012-05-08,Bank oferica,Underperform,,down,ACM
+2012-07-23,Barclays,Equal-Weight,,main,ACM
+2012-11-14,Barclays,Equal-Weight,,main,ACM
+2012-11-14,UBS,Buy,,main,ACM
+2012-12-07,DA Davidson,Buy,,init,ACM
+2013-01-10,Gilford Securities,Buy,,main,ACM
+2013-01-23,Barclays,Equal-Weight,,main,ACM
+2013-02-05,DA Davidson,Buy,,main,ACM
+2013-02-08,Bank of America,Buy,Underperform,up,ACM
+2013-03-11,Standpoint,Hold,Buy,down,ACM
+2013-04-25,Macquarie,Neutral,Outperform,down,ACM
+2013-08-07,Standpoint Research,Buy,Hold,up,ACM
+2013-11-08,Baird,Neutral,Outperform,down,ACM
+2013-11-08,UBS,Neutral,Buy,down,ACM
+2014-01-16,KeyBanc,Hold,Buy,down,ACM
+2014-04-11,DA Davidson,Neutral,Buy,down,ACM
+2014-05-07,Citigroup,Equal-Weight,,main,ACM
+2014-05-07,UBS,Neutral,,main,ACM
+2014-07-14,BB&T Capital,Buy,Hold,up,ACM
+2014-07-14,UBS,Buy,Neutral,up,ACM
+2014-07-15,DA Davidson,Neutral,,main,ACM
+2014-08-13,Argus,Buy,,main,ACM
+2014-08-20,Standpoint Research,Hold,Buy,down,ACM
+2014-10-02,Standpoint Research,Buy,Hold,up,ACM
+2014-10-20,Barclays,Equal-Weight,,main,ACM
+2015-01-09,Barclays,Overweight,Equal-Weight,up,ACM
+2015-02-11,Barclays,Overweight,,main,ACM
+2015-03-10,Credit Suisse,Outperform,,init,ACM
+2015-05-13,Baird,Neutral,,main,ACM
+2015-06-12,JP Morgan,Overweight,,init,ACM
+2015-08-12,Credit Suisse,Outperform,,main,ACM
+2015-11-13,Citigroup,Buy,,init,ACM
+2016-02-09,Keybanc,Overweight,Sector Weight,up,ACM
+2016-02-10,JP Morgan,Overweight,,main,ACM
+2016-02-29,Argus,Hold,Buy,down,ACM
+2016-03-10,Sterne Agee CRT,Buy,,init,ACM
+2016-03-21,BB&T Capital,Hold,Buy,down,ACM
+2016-04-06,Deutsche Bank,Buy,,init,ACM
+2016-04-11,Canaccord Genuity,Hold,,init,ACM
+2016-11-15,Argus,Buy,Hold,up,ACM
+2017-01-04,Baird,Outperform,Neutral,up,ACM
+2017-01-12,Deutsche Bank,Hold,Buy,down,ACM
+2017-04-07,Baird,Neutral,Outperform,down,ACM
+2017-07-24,Credit Suisse,Neutral,Outperform,down,ACM
+2017-09-22,Baird,Neutral,,main,ACM
+2017-10-27,Citigroup,Buy,,main,ACM
+2017-10-30,Citigroup,Buy,,main,ACM
+2017-11-14,UBS,Buy,,main,ACM
+2017-11-14,Credit Suisse,Neutral,,main,ACM
+2017-12-13,Barclays,Underweight,,init,ACM
+2018-01-03,Baird,Outperform,Neutral,up,ACM
+2018-02-06,Citigroup,Buy,Buy,main,ACM
+2018-07-23,Citigroup,Buy,Buy,main,ACM
+2018-08-08,Citigroup,Buy,Buy,main,ACM
+2018-08-08,Credit Suisse,Neutral,Neutral,main,ACM
+2018-08-15,Argus,Hold,Buy,down,ACM
+2018-11-13,Credit Suisse,Neutral,Neutral,main,ACM
+2018-11-13,Citigroup,Buy,Buy,main,ACM
+2019-08-19,Barclays,Overweight,Underweight,up,ACM
+2019-10-15,KeyBanc,Overweight,,main,ACM
+2019-10-15,Citigroup,Buy,,main,ACM
+2019-11-05,Deutsche Bank,Buy,Hold,up,ACM
+2019-11-13,Barclays,Overweight,,main,ACM
+2019-11-14,UBS,Buy,,main,ACM
+2019-11-14,Citigroup,Buy,,main,ACM
+2019-11-20,Bank of America,Buy,,reit,ACM
+2019-12-11,Citigroup,Buy,,main,ACM
+2019-12-11,Baird,Outperform,,main,ACM
+2020-01-28,Citigroup,Buy,,main,ACM
+2020-02-04,Baird,Outperform,,main,ACM
+2020-02-04,Deutsche Bank,Buy,,main,ACM
+2020-03-26,KeyBanc,Overweight,,main,ACM
+2020-04-01,Citigroup,Buy,,main,ACM
+2020-04-24,B of A Securities,Buy,,reit,ACM
+2020-04-28,KeyBanc,Overweight,,main,ACM
+2020-05-06,Citigroup,Buy,,main,ACM
+2020-05-06,Baird,Outperform,,main,ACM
+2020-08-06,Credit Suisse,Neutral,,main,ACM
+2020-11-17,Citigroup,Buy,,main,ACM
+2020-11-17,KeyBanc,Overweight,,main,ACM
+2021-04-19,Keybanc,Overweight,,main,ACM
+2021-05-12,Credit Suisse,Neutral,,main,ACM
+2021-11-16,Keybanc,Overweight,,main,ACM
+2021-11-16,Barclays,Overweight,,main,ACM
+2021-11-16,Citigroup,Buy,,main,ACM
+2021-12-17,Barclays,Overweight,,main,ACM
+2021-12-30,Argus Research,Buy,,main,ACM

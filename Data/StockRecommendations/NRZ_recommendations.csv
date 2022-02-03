@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-18,Sterne Agee,Buy,,init,NRZ
+2014-10-10,Imperial Capital,Neutral,,init,NRZ
+2014-10-10,PiperJaffray,Neutral,,init,NRZ
+2014-11-03,UBS,Buy,,init,NRZ
+2015-03-04,Keefe Bruyette & Woods,Outperform,,main,NRZ
+2015-04-08,FBR Capital,Outperform,,main,NRZ
+2015-04-20,Bank of America,Buy,,init,NRZ
+2015-04-23,Compass Point,BUy,,init,NRZ
+2015-04-23,Citigroup,Buy,,main,NRZ
+2015-05-14,Keefe Bruyette & Woods,Outperform,,main,NRZ
+2015-06-09,Barclays,Overweight,,init,NRZ
+2015-10-19,PiperJaffray,Overweight,Neutral,up,NRZ
+2015-12-23,JMP Securities,Market Outperform,,init,NRZ
+2016-01-19,Barclays,Overweight,,main,NRZ
+2016-05-18,Compass Point,Neutral,Buy,down,NRZ
+2016-05-18,Compass Point,Neutral,Buy,down,NRZ
+2016-08-10,Barclays,Overweight,,main,NRZ
+2016-10-06,Wedbush,Outperform,,init,NRZ
+2016-10-26,Nomura,Neutral,,init,NRZ
+2017-06-20,Wedbush,Neutral,Outperform,down,NRZ
+2017-10-24,Barclays,Overweight,,main,NRZ
+2018-01-18,Wedbush,Outperform,Neutral,up,NRZ
+2018-07-25,Barclays,Overweight,Overweight,main,NRZ
+2018-10-05,Raymond James,Outperform,,init,NRZ
+2019-03-27,Nomura,Buy,,init,NRZ
+2019-09-06,BTIG,Buy,,init,NRZ
+2019-11-14,Piper Jaffray,Neutral,Overweight,down,NRZ
+2019-12-02,Compass Point,Buy,,init,NRZ
+2019-12-31,Argus Research,Buy,,init,NRZ
+2020-02-13,Nomura,Buy,,main,NRZ
+2020-05-27,Piper Sandler,Neutral,,reit,NRZ
+2020-07-16,Piper Sandler,Overweight,Neutral,up,NRZ
+2020-07-27,Argus Research,Buy,Hold,up,NRZ
+2020-08-20,Raymond James,Outperform,,main,NRZ
+2020-09-24,JonesTrading,Buy,,init,NRZ
+2020-10-19,Credit Suisse,Outperform,,main,NRZ
+2020-10-20,Compass Point,Buy,,init,NRZ
+2020-11-23,Raymond James,Outperform,,main,NRZ
+2020-12-18,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,NRZ
+2021-01-22,JMP Securities,Market Outperform,,main,NRZ
+2021-02-10,Raymond James,Outperform,,main,NRZ
+2021-03-15,Credit Suisse,Outperform,,main,NRZ
+2021-03-25,RBC Capital,Outperform,,init,NRZ
+2021-04-15,JonesTrading,Hold,Buy,down,NRZ
+2021-05-20,Raymond James,Outperform,,main,NRZ
+2021-10-18,JMP Securities,Market Outperform,,main,NRZ
+2021-11-19,RBC Capital,Outperform,,main,NRZ

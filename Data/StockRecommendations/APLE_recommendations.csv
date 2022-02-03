@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-28,Baird,Outperform,,init,APLE
+2015-09-18,JMP Securities,Market Outperform,,init,APLE
+2015-12-16,Canaccord Genuity,Buy,,init,APLE
+2016-01-07,Baird,Neutral,Outperform,down,APLE
+2016-01-08,BB&T Capital,Hold,,init,APLE
+2016-01-19,Ladenburg Thalmann,Sell,Neutral,down,APLE
+2016-11-29,Baird,Outperform,Neutral,up,APLE
+2017-03-03,Canaccord Genuity,Hold,Buy,down,APLE
+2017-05-03,Wells Fargo,Market Perform,,init,APLE
+2017-08-11,Canaccord Genuity,Hold,,main,APLE
+2018-01-12,KeyBanc,Sector Weight,,init,APLE
+2018-01-31,Barclays,Equal-Weight,,init,APLE
+2018-02-27,Barclays,Equal-Weight,Equal-Weight,main,APLE
+2018-08-08,B. Riley FBR,Buy,Neutral,up,APLE
+2019-08-12,Barclays,Overweight,Equal-Weight,up,APLE
+2019-11-07,Wells Fargo,Market Perform,,main,APLE
+2019-12-16,Janney Capital,Buy,,init,APLE
+2020-02-27,B. Riley FBR,Buy,,main,APLE
+2020-03-09,Capital One,Overweight,Equal-Weight,up,APLE
+2020-03-17,Barclays,Equal-Weight,Overweight,down,APLE
+2020-03-23,B. Riley FBR,Buy,,main,APLE
+2020-07-22,Wells Fargo,Equal-Weight,,main,APLE
+2020-10-05,Compass Point,Buy,,init,APLE
+2020-11-16,Wells Fargo,Equal-Weight,,main,APLE
+2020-12-02,B. Riley FBR,Neutral,Buy,down,APLE
+2021-04-28,Barclays,Equal-Weight,,main,APLE
+2021-06-04,Barclays,Equal-Weight,,main,APLE
+2021-09-01,Barclays,Overweight,Equal-Weight,up,APLE
+2021-10-18,Wells Fargo,Underweight,Equal-Weight,down,APLE

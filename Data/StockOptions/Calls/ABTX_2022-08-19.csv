@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABTX220819C00045000,2022-01-24 18:07:19+00:00,45.0,4.6,1.15,5.0,0.0,0.0,,1,0.4909718872070313,False,REGULAR,USD,ABTX
-ABTX220819C00055000,2022-01-04 15:33:09+00:00,55.0,0.1,0.05,1.95,0.0,0.0,,2,0.4515435705566406,False,REGULAR,USD,ABTX

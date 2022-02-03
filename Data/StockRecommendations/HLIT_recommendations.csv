@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,Bank of America,Neutral,,main,HLIT
+2012-04-10,Bank oferica,Neutral,,main,HLIT
+2012-04-17,UBS,Neutral,,main,HLIT
+2012-04-25,Bank oferica,Neutral,,main,HLIT
+2012-07-25,UBS,Neutral,,main,HLIT
+2012-09-18,UBS,Neutral,,main,HLIT
+2012-12-18,Jefferies,Hold,,main,HLIT
+2013-02-14,Maxim Group,Buy,Hold,up,HLIT
+2013-04-08,UBS,Neutral,,main,HLIT
+2013-04-24,Jefferies,Hold,,main,HLIT
+2013-07-24,Jefferies,Hold,,main,HLIT
+2014-10-24,National Alliance,Hold,,init,HLIT
+2014-12-11,Sidoti & Co.,Neutral,Buy,down,HLIT
+2015-07-23,Drexel Hamilton,Hold,,init,HLIT
+2015-07-28,Jefferies,Hold,,main,HLIT
+2016-01-13,Northland Securities,Outperform,,init,HLIT
+2016-08-10,Drexel Hamilton,Buy,Hold,up,HLIT
+2016-12-06,Dougherty,Buy,,init,HLIT
+2017-03-14,Drexel Hamilton,Hold,Buy,down,HLIT
+2018-05-01,Raymond James,Market Perform,Underperform,up,HLIT
+2018-09-21,Loop Capital,Buy,,init,HLIT
+2019-02-14,Needham,Buy,,init,HLIT
+2019-02-21,Stifel Nicolaus,Buy,,init,HLIT
+2019-06-14,Raymond James,Outperform,Market Perform,up,HLIT
+2019-07-30,Raymond James,Outperform,,main,HLIT
+2020-04-14,JP Morgan,Overweight,,init,HLIT
+2020-04-28,Needham,Buy,,main,HLIT
+2020-04-28,Northland Capital Markets,Outperform,,main,HLIT
+2020-05-22,Barclays,Equal-Weight,,init,HLIT
+2020-06-01,JP Morgan,Neutral,Overweight,down,HLIT
+2020-08-04,Raymond James,Outperform,,main,HLIT
+2021-02-02,Raymond James,Outperform,,main,HLIT
+2021-02-02,Needham,Buy,,main,HLIT
+2021-06-22,Needham,Buy,,init,HLIT
+2021-08-03,Needham,Buy,,main,HLIT
+2021-08-03,Barclays,Equal-Weight,,main,HLIT
+2021-08-03,Raymond James,Outperform,,main,HLIT
+2021-11-02,Raymond James,Outperform,,main,HLIT
+2021-11-02,Needham,Buy,,main,HLIT

@@ -1,0 +1,526 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-14,Oxen Group,Hold,,init,GOOG
+2012-03-28,Citigroup,Buy,,main,GOOG
+2012-04-03,Global Equities Research,Overweight,,main,GOOG
+2012-04-05,Deutsche Bank,Buy,,main,GOOG
+2012-04-09,Pivotal Research,Buy,,main,GOOG
+2012-04-10,UBS,Buy,,main,GOOG
+2012-04-13,Benchmark,Hold,,main,GOOG
+2012-04-13,Oppenheimer,Outperform,,main,GOOG
+2012-04-13,JP Morgan,Overweight,,main,GOOG
+2012-04-13,Goldman Sachs,Neutral,,main,GOOG
+2012-04-13,PiperJaffray,Overweight,,main,GOOG
+2012-04-13,Jefferies,Buy,,main,GOOG
+2012-04-13,Deutsche Bank,Buy,,main,GOOG
+2012-04-13,BMO Capital,Outperform,,main,GOOG
+2012-04-16,Hilliard Lyons,Buy,,main,GOOG
+2012-06-06,JP Morgan,Overweight,,main,GOOG
+2012-06-06,Deutsche Bank,Buy,,main,GOOG
+2012-06-22,Citigroup,Buy,,main,GOOG
+2012-07-13,Wedbush,Neutral,,init,GOOG
+2012-07-17,,Outperform,,main,GOOG
+2012-07-20,Bank of America,Buy,,main,GOOG
+2012-07-20,Benchmark,Hold,,main,GOOG
+2012-07-20,Deutsche Bank,Buy,,main,GOOG
+2012-08-13,Morgan Stanley,Overweight,Equal-Weight,up,GOOG
+2012-09-17,Global Equities Research,Overweight,,main,GOOG
+2012-09-21,Cantor Fitzgerald,Buy,,init,GOOG
+2012-09-24,Pivotal Research,Buy,,main,GOOG
+2012-09-24,Citigroup,Buy,,main,GOOG
+2012-09-25,Capstone,Buy,,main,GOOG
+2012-09-26,Oracle Investment Research,Hold,Buy,down,GOOG
+2012-09-26,Canaccord Genuity,Buy,,main,GOOG
+2012-10-11,ThinkEquity,Buy,,main,GOOG
+2012-10-11,Nomura,Buy,,main,GOOG
+2012-10-12,JP Morgan,Overweight,,main,GOOG
+2012-10-15,Oppenheimer,Outperform,,main,GOOG
+2012-10-15,PiperJaffray,Overweight,,main,GOOG
+2012-10-17,Wedbush,Neutral,,main,GOOG
+2012-10-19,Hilliard Lyons,Long-Term Buy,Buy,down,GOOG
+2012-10-19,Barclays,Overweight,,main,GOOG
+2012-10-19,Canaccord Genuity,Buy,,main,GOOG
+2012-10-19,Wedbush,Neutral,,main,GOOG
+2012-10-19,Credit Suisse,Outperform,,main,GOOG
+2012-10-19,Nomura,Buy,,main,GOOG
+2012-10-19,Bank of America,Neutral,Buy,down,GOOG
+2012-10-19,Citigroup,Buy,,main,GOOG
+2012-10-19,Oppenheimer,Perform,Outperform,down,GOOG
+2012-11-29,Oracle Investment Research,,Hold,up,GOOG
+2013-01-02,Oppenheimer,Perform,,main,GOOG
+2013-01-07,Pivotal Research,Buy,,main,GOOG
+2013-01-08,Bank of America,Neutral,,main,GOOG
+2013-01-15,Morgan Stanley,Overweight,,main,GOOG
+2013-01-18,Hudson Square,Hold,Buy,down,GOOG
+2013-01-18,Nomura,Buy,,main,GOOG
+2013-01-23,Barclays,Overweight,,main,GOOG
+2013-01-23,BGC Financial,Hold,,main,GOOG
+2013-01-23,Wedbush,Neutral,,main,GOOG
+2013-01-23,Canaccord Genuity,Buy,,main,GOOG
+2013-01-23,BMO Capital,Outperform,,main,GOOG
+2013-01-23,Goldman Sachs,Neutral,,main,GOOG
+2013-01-23,Bank of America,Neutral,,main,GOOG
+2013-01-23,Jefferies,Buy,,main,GOOG
+2013-01-23,Oppenheimer,Perform,,main,GOOG
+2013-02-04,BMO Capital,Market Perform,Outperform,down,GOOG
+2013-02-05,Oracle Investment Research,Sell,Neutral,down,GOOG
+2013-02-06,Hilliard Lyons,Neutral,Long-term Buy,down,GOOG
+2013-02-06,Sterne Agee,Neutral,,init,GOOG
+2013-02-07,Pivotal Research,Hold,Buy,down,GOOG
+2013-02-21,Bernstein,Outperform,,main,GOOG
+2013-02-21,Deutsche Bank,Buy,,main,GOOG
+2013-02-21,CLSA,Buy,,main,GOOG
+2013-02-27,Bank of America,Buy,Neutral,up,GOOG
+2013-03-01,PiperJaffray,Overweight,,main,GOOG
+2013-03-05,Jefferies,Buy,,main,GOOG
+2013-03-11,Pacific Crest,Outperform,,main,GOOG
+2013-03-27,Credit Suisse,Outperform,,main,GOOG
+2013-03-27,Goldman Sachs,Neutral,,main,GOOG
+2013-04-02,UBS,Buy,,init,GOOG
+2013-04-15,Topeka,Buy,,init,GOOG
+2013-04-19,BGC Financial,Hold,,main,GOOG
+2013-04-19,Canaccord Genuity,Buy,,main,GOOG
+2013-04-19,Deutsche Bank,Buy,,main,GOOG
+2013-04-19,Citigroup,Buy,,main,GOOG
+2013-05-15,Morgan Stanley,Overweight,,main,GOOG
+2013-05-16,Topeka,Buy,,main,GOOG
+2013-05-16,Baird,Outperform,,main,GOOG
+2013-06-03,Cantor Fitzgerald,Buy,,main,GOOG
+2013-06-14,Evercore Partners,Overweight,,main,GOOG
+2013-06-24,JP Morgan,Overweight,,main,GOOG
+2013-06-25,Janney Capital,Buy,,init,GOOG
+2013-07-09,Citigroup,Buy,,init,GOOG
+2013-07-09,Deutsche Bank,Buy,,main,GOOG
+2013-07-10,Susquehanna,Positive,,init,GOOG
+2013-07-11,Topeka,,,main,GOOG
+2013-07-15,Credit Suisse,Outperform,Outperform,main,GOOG
+2013-07-16,SunTrust Robinson Humphrey,Buy,,init,GOOG
+2013-09-05,Pivotal Research,Hold,,main,GOOG
+2013-09-19,CRT Capital,Buy,,init,GOOG
+2013-10-18,JP Morgan,Overweight,,main,GOOG
+2013-10-18,Topeka,Buy,,main,GOOG
+2013-10-18,Oppenheimer,Perform,,main,GOOG
+2013-10-18,Bank of America,Buy,,main,GOOG
+2013-10-18,Citigroup,Buy,,main,GOOG
+2013-10-18,Wedbush,Neutral,,main,GOOG
+2013-10-18,Goldman Sachs,Neutral,,main,GOOG
+2013-10-18,Needham,Buy,,main,GOOG
+2013-10-18,Canaccord Genuity,Buy,,main,GOOG
+2013-11-18,Citigroup,Buy,,main,GOOG
+2013-12-11,Topeka,Buy,,main,GOOG
+2014-01-06,Morgan Stanley,Overweight,,main,GOOG
+2014-01-07,JP Morgan,Overweight,,main,GOOG
+2014-01-14,FBN Securities,Outperform,,init,GOOG
+2014-01-14,Wells Fargo,Outperform,Market Perform,up,GOOG
+2014-01-15,Nomura,Buy,,init,GOOG
+2014-01-16,Raymond James,Outperform,,main,GOOG
+2014-01-21,Credit Suisse,Outperform,,main,GOOG
+2014-01-21,Pacific Crest,Outperform,,main,GOOG
+2014-01-31,JP Morgan,Overweight,,main,GOOG
+2014-01-31,UBS,Buy,,main,GOOG
+2014-01-31,Citigroup,Buy,,main,GOOG
+2014-01-31,Bank of America,Buy,,main,GOOG
+2014-01-31,FBN Securities,Outperform,,main,GOOG
+2014-03-28,JP Morgan,Overweight,,main,GOOG
+2014-04-02,CRT Capital,Buy,,main,GOOG
+2014-04-10,Deutsche Bank,Buy,,main,GOOG
+2014-04-15,Jefferies,Buy,,main,GOOG
+2014-04-17,Bank of America,Buy,,main,GOOG
+2014-04-17,Cantor Fitzgerald,Buy,,main,GOOG
+2014-04-17,Citigroup,Buy,,main,GOOG
+2014-04-17,Credit Suisse,Outperform,,main,GOOG
+2014-04-17,JMP Securities,Market Outperform,,main,GOOG
+2014-04-17,Deutsche Bank,Buy,,main,GOOG
+2014-04-17,UBS,Buy,,main,GOOG
+2014-04-17,CRT Capital,Buy,,main,GOOG
+2014-04-17,JP Morgan,Overweight,,main,GOOG
+2014-06-26,Barclays,Overweight,,init,GOOG
+2014-06-27,Citigroup,Buy,,main,GOOG
+2014-07-14,Credit Suisse,Outperform,,main,GOOG
+2014-07-18,Raymond James,Outperform,,main,GOOG
+2014-07-18,JP Morgan,Overweight,,main,GOOG
+2014-07-18,Deutsche Bank,Buy,,main,GOOG
+2014-07-18,Credit Suisse,Outperform,,main,GOOG
+2014-07-18,CRT Capital,Buy,,main,GOOG
+2014-07-18,Cantor Fitzgerald,Buy,,main,GOOG
+2014-07-18,BGC Financial,Buy,,up,GOOG
+2014-07-18,UBS,Buy,,main,GOOG
+2014-10-10,Susquehanna,Positive,,main,GOOG
+2014-10-13,Hudson Square,Buy,Hold,up,GOOG
+2014-10-14,Credit Suisse,Outperform,,main,GOOG
+2014-10-17,Bank of America,Buy,,main,GOOG
+2014-10-17,Topeka,Buy,,main,GOOG
+2014-10-17,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2014-10-17,Canaccord Genuity,Buy,,main,GOOG
+2014-10-17,Citigroup,Buy,,main,GOOG
+2014-10-17,FBR Capital,Outperform,,main,GOOG
+2014-10-17,Deutsche Bank,Buy,,main,GOOG
+2014-10-17,Macquarie,Outperform,,main,GOOG
+2014-10-17,Pacific Crest,Outperform,,main,GOOG
+2014-10-17,CRT Capital,Buy,,main,GOOG
+2014-10-17,JMP Securities,Market Outperform,,main,GOOG
+2014-10-27,"Monness, Crespi, Hardt",Neutral,,init,GOOG
+2014-11-03,Morgan Stanley,Equal-weight,,init,GOOG
+2014-11-20,Credit Suisse,Outperform,,main,GOOG
+2014-12-05,Bank of America,Neutral,Buy,down,GOOG
+2014-12-16,JP Morgan,Overweight,,main,GOOG
+2014-12-17,Pivotal Research,Buy,,up,GOOG
+2015-01-08,Evercore ISI Group,Buy,Buy,main,GOOG
+2015-01-08,Stifel,Hold,Buy,down,GOOG
+2015-01-12,Atlantic Equities,Neutral,Overweight,down,GOOG
+2015-01-14,Credit Suisse,Outperform,,main,GOOG
+2015-01-22,Societe Generale,Buy,,init,GOOG
+2015-01-30,Citigroup,Buy,,main,GOOG
+2015-01-30,Barclays,Overweight,,main,GOOG
+2015-01-30,JMP Securities,Market Outperform,,main,GOOG
+2015-03-02,Bank of America,Buy,Neutral,up,GOOG
+2015-03-02,Axiom Capital,Hold,,init,GOOG
+2015-03-06,Citigroup,Buy,,main,GOOG
+2015-04-21,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2015-04-24,CRT Capital,Buy,,main,GOOG
+2015-06-26,Mizuho,Neutral,,init,GOOG
+2015-07-13,Pivotal Research,Hold,Buy,down,GOOG
+2015-07-15,B. Riley FBR,Buy,,main,GOOG
+2015-07-16,BMO Capital,Outperform,Market Perform,up,GOOG
+2015-07-17,JMP Securities,Market Perform,,main,GOOG
+2015-07-17,Jefferies,Buy,,main,GOOG
+2015-07-17,Mizuho,Neutral,,main,GOOG
+2015-07-17,MKM Partners,Buy,,init,GOOG
+2015-07-17,Credit Suisse,Outperform,,main,GOOG
+2015-07-17,Bernstein,Outperform,,main,GOOG
+2015-07-20,Argus,Buy,,main,GOOG
+2015-08-10,Stifel Nicolaus,Buy,Hold,up,GOOG
+2015-08-10,Susquehanna,Positive,,init,GOOG
+2015-08-11,Deutsche Bank,Buy,,main,GOOG
+2015-08-11,Morgan Stanley,Overweight,Equal-Weight,up,GOOG
+2015-08-11,Stifel Nicolaus,Buy,Hold,up,GOOG
+2015-08-11,Mizuho,Buy,Neutral,up,GOOG
+2015-08-11,Monness Crespi Hardt,Buy,Neutral,up,GOOG
+2015-08-12,Morgan Stanley,Overweight,,up,GOOG
+2015-08-19,Atlantic Equities,Overweight,Neutral,up,GOOG
+2015-08-26,Goldman Sachs,Buy,Neutral,up,GOOG
+2015-09-08,Moffett Nathanson,Buy,,init,GOOG
+2015-09-21,JMP Securities,Market Outperform,,main,GOOG
+2015-10-02,Oppenheimer,Outperform,Perform,up,GOOG
+2015-10-09,Credit Suisse,Outperform,,main,GOOG
+2015-10-23,Cowen & Co.,Outperform,,main,GOOG
+2015-10-23,Nomura,Buy,,main,GOOG
+2015-10-23,Jefferies,Buy,,main,GOOG
+2015-10-23,JP Morgan,Overweight,,main,GOOG
+2015-10-23,JMP Securities,Market Outperform,,main,GOOG
+2015-10-23,Pacific Crest,Overweight,,main,GOOG
+2015-10-23,Canaccord Genuity,Buy,,main,GOOG
+2015-10-23,B. Riley FBR,Buy,,main,GOOG
+2015-10-23,Credit Suisse,Outperform,Outperform,main,GOOG
+2015-10-23,Deutsche Bank,Buy,,main,GOOG
+2015-10-23,Macquarie,Outperform,,main,GOOG
+2015-10-23,RBC Capital,Outperform,,main,GOOG
+2015-10-23,Pivotal Research,Hold,,main,GOOG
+2016-01-12,Credit Suisse,Outperform,,main,GOOG
+2016-02-02,KeyBanc,Overweight,,main,GOOG
+2016-02-02,Cantor Fitzgerald,Buy,,main,GOOG
+2016-02-02,Stifel Nicolaus,Buy,,main,GOOG
+2016-02-02,Barclays,Overweight,,main,GOOG
+2016-02-02,Oppenheimer,Outperform,,main,GOOG
+2016-02-02,JP Morgan,Overweight,,main,GOOG
+2016-02-02,Jefferies,Buy,,main,GOOG
+2016-02-02,Deutsche Bank,Buy,,main,GOOG
+2016-02-02,Nomura,Buy,,main,GOOG
+2016-04-01,Citigroup,Neutral,,main,GOOG
+2016-04-07,Morgan Stanley,Overweight,,main,GOOG
+2016-04-11,Pivotal Research,Buy,Hold,up,GOOG
+2016-04-18,Credit Suisse,Outperform,,main,GOOG
+2016-04-22,Stifel Nicolaus,Buy,,main,GOOG
+2016-04-22,Deutsche Bank,Buy,,main,GOOG
+2016-04-22,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2016-04-22,Morgan Stanley,Overweight,,main,GOOG
+2016-04-22,Oppenheimer,Outperform,,main,GOOG
+2016-04-22,Baird,Outperform,,main,GOOG
+2016-04-22,JMP Securities,Market Outperform,,main,GOOG
+2016-04-22,Jefferies,Buy,,main,GOOG
+2016-04-22,B. Riley FBR,Buy,,main,GOOG
+2016-04-22,Macquarie,Buy,,main,GOOG
+2016-04-22,Cantor Fitzgerald,Buy,,main,GOOG
+2016-06-08,Maxim Group,Overweight,,main,GOOG
+2016-06-29,Goldman Sachs,Buy,,main,GOOG
+2016-07-29,JP Morgan,Overweight,,main,GOOG
+2016-07-29,Credit Suisse,Outperform,,main,GOOG
+2016-07-29,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2016-07-29,UBS,Buy,,main,GOOG
+2016-07-29,Deutsche Bank,Buy,,main,GOOG
+2016-07-29,Jefferies,Buy,,main,GOOG
+2016-07-29,CLSA,Buy,,main,GOOG
+2016-07-29,Citigroup,Buy,,main,GOOG
+2016-07-29,JMP Securities,Market Outperform,,main,GOOG
+2016-09-27,Wedbush,Underperform,Neutral,down,GOOG
+2016-10-17,Credit Suisse,Outperform,,main,GOOG
+2016-12-21,Aegis Capital,Buy,,init,GOOG
+2017-03-20,Pivotal Research,Hold,Buy,down,GOOG
+2017-03-27,Nomura,Buy,,main,GOOG
+2017-03-28,Barclays,Overweight,,init,GOOG
+2017-03-31,Loop Capital,Hold,,init,GOOG
+2017-04-04,BMO Capital,Market Perform,Outperform,down,GOOG
+2017-06-15,Canaccord Genuity,Hold,Buy,down,GOOG
+2017-07-21,Deutsche Bank,Buy,,main,GOOG
+2017-07-25,Morgan Stanley,Overweight,,main,GOOG
+2017-07-25,Bank of America,Buy,,main,GOOG
+2017-07-25,Bank of America,Buy,,main,GOOG
+2017-07-25,JMP Securities,Market Outperform,,main,GOOG
+2017-07-25,Deutsche Bank,Buy,,main,GOOG
+2017-08-16,SunTrust Robinson Humphrey,Buy,,init,GOOG
+2017-09-27,Wells Fargo,Outperform,,main,GOOG
+2017-10-11,Credit Suisse,Outperform,,main,GOOG
+2017-10-27,Canaccord Genuity,Hold,,main,GOOG
+2017-10-27,BMO Capital,Market Perform,,main,GOOG
+2017-10-27,Citigroup,Buy,,main,GOOG
+2017-10-27,Stifel Nicolaus,Buy,,main,GOOG
+2017-10-27,UBS,Buy,,main,GOOG
+2017-10-27,Oppenheimer,Outperform,,main,GOOG
+2017-10-30,Citigroup,Buy,,main,GOOG
+2017-12-06,Evercore ISI Group,Outperform,,init,GOOG
+2018-01-26,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-02-02,PiperJaffray,Overweight,Overweight,main,GOOG
+2018-02-02,Stifel Nicolaus,Hold,Buy,down,GOOG
+2018-02-02,BMO Capital,Market Perform,Market Perform,main,GOOG
+2018-02-02,Barclays,Overweight,Overweight,main,GOOG
+2018-02-02,Morgan Stanley,Outperform,Overweight,main,GOOG
+2018-02-02,Bank of America,Buy,Buy,main,GOOG
+2018-04-10,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-04-20,Credit Suisse,Outperform,Outperform,main,GOOG
+2018-04-23,Credit Suisse,Outperform,Outperform,main,GOOG
+2018-04-24,Barclays,Overweight,Overweight,main,GOOG
+2018-04-24,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-04-24,Stifel Nicolaus,Hold,Hold,main,GOOG
+2018-04-24,KeyBanc,Overweight,Overweight,main,GOOG
+2018-04-24,Canaccord Genuity,Hold,Hold,main,GOOG
+2018-04-24,Deutsche Bank,Buy,Buy,main,GOOG
+2018-04-24,JP Morgan,Overweight,Overweight,main,GOOG
+2018-04-25,Stifel Nicolaus,Buy,Hold,up,GOOG
+2018-06-28,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-07-11,Nomura,Buy,,init,GOOG
+2018-07-13,Barclays,Overweight,Overweight,main,GOOG
+2018-07-13,Cowen & Co.,Outperform,Outperform,main,GOOG
+2018-07-16,Credit Suisse,Outperform,Outperform,main,GOOG
+2018-07-24,Raymond James,Outperform,Outperform,main,GOOG
+2018-07-24,KeyBanc,Overweight,Overweight,main,GOOG
+2018-07-24,Stifel Nicolaus,Buy,Buy,main,GOOG
+2018-07-24,JMP Securities,Market Outperform,Market Outperform,main,GOOG
+2018-07-24,Citigroup,Buy,Buy,main,GOOG
+2018-07-24,Cowen & Co.,Outperform,Outperform,main,GOOG
+2018-07-24,Barclays,Overweight,Overweight,main,GOOG
+2018-07-24,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-07-24,B. Riley FBR,Buy,Buy,main,GOOG
+2018-07-24,BMO Capital,Market Perform,Market Perform,main,GOOG
+2018-07-24,Credit Suisse,Outperform,Outperform,main,GOOG
+2018-07-24,Bank of America,Buy,Buy,main,GOOG
+2018-07-24,Canaccord Genuity,Hold,Hold,main,GOOG
+2018-08-29,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-10-18,Wedbush,Outperform,,init,GOOG
+2018-10-23,Deutsche Bank,Buy,Buy,main,GOOG
+2018-10-26,Raymond James,Outperform,Outperform,main,GOOG
+2018-10-26,Barclays,Overweight,Overweight,main,GOOG
+2018-10-26,Bank of America,Buy,Buy,main,GOOG
+2018-10-26,Canaccord Genuity,Hold,Hold,main,GOOG
+2018-11-02,JMP Securities,Market Outperform,Market Outperform,main,GOOG
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,GOOG
+2018-12-06,Guggenheim,Buy,,init,GOOG
+2019-01-03,Canaccord Genuity,Buy,Hold,up,GOOG
+2019-01-07,Pivotal Research,Buy,Hold,up,GOOG
+2019-01-23,Deutsche Bank,Buy,Buy,main,GOOG
+2019-02-05,Deutsche Bank,Buy,Buy,main,GOOG
+2019-02-05,Barclays,Overweight,Overweight,main,GOOG
+2019-02-05,PiperJaffray,Overweight,Overweight,main,GOOG
+2019-02-05,Nomura,Buy,Buy,main,GOOG
+2019-02-05,BMO Capital,Market Perform,Market Perform,main,GOOG
+2019-02-05,Citigroup,Buy,Buy,main,GOOG
+2019-03-05,Needham,Buy,,init,GOOG
+2019-04-25,BMO Capital,Market Perform,Market Perform,main,GOOG
+2019-04-30,Nomura,Buy,Buy,main,GOOG
+2019-04-30,Morgan Stanley,Overweight,Overweight,main,GOOG
+2019-04-30,Stifel Nicolaus,Hold,Buy,down,GOOG
+2019-05-01,DZ Bank,Hold,Buy,down,GOOG
+2019-05-15,Deutsche Bank,Buy,,main,GOOG
+2019-05-29,Pivotal Research,Hold,,init,GOOG
+2019-05-29,China Renaissance,Hold,,init,GOOG
+2019-06-04,Loop Capital,Hold,,init,GOOG
+2019-07-15,Morgan Stanley,Overweight,,main,GOOG
+2019-07-26,Citigroup,Buy,,main,GOOG
+2019-07-26,KeyBanc,Overweight,,main,GOOG
+2019-07-26,Nomura,Buy,,main,GOOG
+2019-07-26,Canaccord Genuity,Buy,,main,GOOG
+2019-07-26,Morgan Stanley,Overweight,,main,GOOG
+2019-07-26,Mizuho,Buy,,main,GOOG
+2019-07-26,Credit Suisse,Outperform,,main,GOOG
+2019-07-26,Wedbush,Outperform,,main,GOOG
+2019-07-26,Stifel Nicolaus,Hold,,main,GOOG
+2019-10-23,Credit Suisse,Outperform,,main,GOOG
+2019-10-25,BMO Capital,Market Perform,,main,GOOG
+2019-10-29,BMO Capital,Market Perform,,main,GOOG
+2019-10-29,Barclays,Overweight,,main,GOOG
+2019-10-29,Canaccord Genuity,Buy,,main,GOOG
+2019-10-29,KeyBanc,Overweight,,main,GOOG
+2019-10-29,UBS,Buy,,main,GOOG
+2019-10-29,Deutsche Bank,Buy,,main,GOOG
+2019-10-29,Raymond James,Outperform,,main,GOOG
+2019-12-03,Piper Jaffray,Overweight,,init,GOOG
+2019-12-03,PiperJaffray,Overweight,,init,GOOG
+2019-12-05,Stifel Nicolaus,Buy,Hold,up,GOOG
+2020-01-06,Pivotal Research,Buy,Hold,up,GOOG
+2020-01-10,Bernstein,Outperform,,init,GOOG
+2020-01-13,Evercore ISI Group,Outperform,,main,GOOG
+2020-01-17,UBS,Buy,,main,GOOG
+2020-01-17,UBS,Buy,,main,GOOG
+2020-01-21,Morgan Stanley,Overweight,,main,GOOG
+2020-01-24,KeyBanc,Overweight,,main,GOOG
+2020-01-27,Mizuho Securities,Buy,,main,GOOG
+2020-02-04,Needham,Buy,,main,GOOG
+2020-02-04,Nomura,Buy,,main,GOOG
+2020-02-04,Pivotal Research,Buy,,main,GOOG
+2020-02-04,Deutsche Bank,Buy,,main,GOOG
+2020-02-04,Raymond James,Outperform,,main,GOOG
+2020-02-04,Piper Sandler,Overweight,,main,GOOG
+2020-02-05,Argus Research,Buy,,main,GOOG
+2020-02-06,CFRA,Strong Buy,,main,GOOG
+2020-02-07,Citigroup,Buy,,main,GOOG
+2020-02-25,Morgan Stanley,Overweight,,main,GOOG
+2020-03-18,JP Morgan,Overweight,,main,GOOG
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2020-03-30,Morgan Stanley,Overweight,,main,GOOG
+2020-03-30,UBS,Buy,,main,GOOG
+2020-03-30,BMO Capital,Outperform,Market Perform,up,GOOG
+2020-03-30,UBS,Buy,,main,GOOG
+2020-04-17,Mizuho,Buy,,main,GOOG
+2020-04-17,Oppenheimer,Outperform,,main,GOOG
+2020-04-20,Credit Suisse,Outperform,,main,GOOG
+2020-04-22,Wedbush,Outperform,,main,GOOG
+2020-04-29,Credit Suisse,Outperform,,main,GOOG
+2020-04-29,Nomura Instinet,Buy,,main,GOOG
+2020-04-29,Morgan Stanley,Overweight,,main,GOOG
+2020-04-29,UBS,Buy,,main,GOOG
+2020-04-29,JP Morgan,Overweight,,main,GOOG
+2020-04-29,MKM Partners,Buy,,reit,GOOG
+2020-04-29,B of A Securities,Buy,,main,GOOG
+2020-04-29,Stifel,Buy,,main,GOOG
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,GOOG
+2020-04-29,Mizuho,Buy,,main,GOOG
+2020-04-29,RBC Capital,Outperform,,main,GOOG
+2020-04-29,BMO Capital,Outperform,,main,GOOG
+2020-04-29,Barclays,Overweight,,main,GOOG
+2020-05-05,Deutsche Bank,Buy,,main,GOOG
+2020-05-12,Citigroup,Buy,,main,GOOG
+2020-06-24,Goldman Sachs,Buy,,main,GOOG
+2020-07-09,Morgan Stanley,Overweight,,main,GOOG
+2020-07-13,Mizuho,Buy,,main,GOOG
+2020-07-20,Credit Suisse,Outperform,,main,GOOG
+2020-07-21,Mizuho,Buy,,main,GOOG
+2020-07-28,Deutsche Bank,Buy,,main,GOOG
+2020-07-31,Canaccord Genuity,Buy,,main,GOOG
+2020-07-31,Morgan Stanley,Overweight,,main,GOOG
+2020-07-31,Raymond James,Outperform,,main,GOOG
+2020-08-03,JMP Securities,Outperform,,main,GOOG
+2020-08-25,UBS,Buy,,main,GOOG
+2020-09-15,KeyBanc,Overweight,,init,GOOG
+2020-09-24,Morgan Stanley,Overweight,,main,GOOG
+2020-10-12,Deutsche Bank,Buy,,main,GOOG
+2020-10-20,Jefferies,Buy,,main,GOOG
+2020-10-30,Deutsche Bank,Buy,,main,GOOG
+2020-10-30,Morgan Stanley,Overweight,,main,GOOG
+2020-10-30,KeyBanc,Overweight,,main,GOOG
+2020-10-30,Mizuho,Buy,,main,GOOG
+2020-10-30,Credit Suisse,Outperform,,main,GOOG
+2020-10-30,Raymond James,Outperform,,main,GOOG
+2020-11-02,Canaccord Genuity,Buy,,main,GOOG
+2020-11-03,Citigroup,Neutral,,main,GOOG
+2021-01-05,Morgan Stanley,Overweight,,main,GOOG
+2021-01-19,KeyBanc,Overweight,,main,GOOG
+2021-01-21,Piper Sandler,Overweight,,init,GOOG
+2021-01-22,Credit Suisse,Outperform,,main,GOOG
+2021-01-25,Canaccord Genuity,Buy,,main,GOOG
+2021-01-25,Mizuho,Buy,,main,GOOG
+2021-01-28,Wedbush,Outperform,,main,GOOG
+2021-01-28,Wells Fargo,Overweight,,main,GOOG
+2021-02-01,Truist Securities,Buy,,main,GOOG
+2021-02-03,Raymond James,Outperform,,main,GOOG
+2021-02-03,Morgan Stanley,Overweight,,main,GOOG
+2021-02-03,JP Morgan,Overweight,,main,GOOG
+2021-02-03,KeyBanc,Overweight,,main,GOOG
+2021-02-03,Needham,Buy,,main,GOOG
+2021-02-03,Morgan Stanley,Overweight,,main,GOOG
+2021-02-03,Credit Suisse,Outperform,,main,GOOG
+2021-02-03,Canaccord Genuity,Buy,,main,GOOG
+2021-02-03,Wedbush,Outperform,,main,GOOG
+2021-02-03,Evercore ISI Group,Outperform,,main,GOOG
+2021-02-03,"Monness, Crespi, Hardt",Buy,,main,GOOG
+2021-02-03,Cowen & Co.,Outperform,,main,GOOG
+2021-02-03,Truist Securities,Buy,,main,GOOG
+2021-02-03,Deutsche Bank,Buy,,main,GOOG
+2021-02-03,Barclays,Overweight,,main,GOOG
+2021-02-03,UBS,Buy,,main,GOOG
+2021-02-03,Jefferies,Buy,,main,GOOG
+2021-02-03,Pivotal Research,Buy,,main,GOOG
+2021-02-03,MKM Partners,Buy,,main,GOOG
+2021-02-12,Citigroup,Buy,,main,GOOG
+2021-02-16,Loop Capital,Buy,Hold,up,GOOG
+2021-03-25,Morgan Stanley,Overweight,,main,GOOG
+2021-03-30,Stifel,Buy,Hold,up,GOOG
+2021-04-01,Wolfe Research,Outperform,,init,GOOG
+2021-04-09,Argus Research,Buy,,main,GOOG
+2021-04-15,Cowen & Co.,Outperform,,main,GOOG
+2021-04-19,Mizuho,Buy,,main,GOOG
+2021-04-19,Oppenheimer,Outperform,,main,GOOG
+2021-04-19,Canaccord Genuity,Buy,,main,GOOG
+2021-04-20,Keybanc,Overweight,,main,GOOG
+2021-04-22,Jefferies,Buy,,main,GOOG
+2021-04-23,BMO Capital,Outperform,,main,GOOG
+2021-04-26,Truist Securities,Buy,,main,GOOG
+2021-04-28,Raymond James,Outperform,,main,GOOG
+2021-04-28,Oppenheimer,Outperform,,main,GOOG
+2021-04-28,Credit Suisse,Outperform,,main,GOOG
+2021-04-28,Keybanc,Overweight,,main,GOOG
+2021-04-28,Needham,Buy,,main,GOOG
+2021-04-28,Piper Sandler,Overweight,,main,GOOG
+2021-04-28,Wells Fargo,Overweight,,main,GOOG
+2021-04-28,JMP Securities,Market Outperform,,main,GOOG
+2021-04-28,Jefferies,Buy,,main,GOOG
+2021-04-28,Morgan Stanley,Overweight,,main,GOOG
+2021-04-28,Mizuho,Buy,,main,GOOG
+2021-04-28,Canaccord Genuity,Buy,,main,GOOG
+2021-04-28,Barclays,Overweight,,main,GOOG
+2021-04-29,Argus Research,Buy,,main,GOOG
+2021-05-03,China Renaissance,Buy,Hold,up,GOOG
+2021-05-10,Citigroup,Neutral,Buy,down,GOOG
+2021-06-02,KGI Securities,Outperform,,init,GOOG
+2021-07-20,Jefferies,Buy,,main,GOOG
+2021-07-23,Credit Suisse,Outperform,,main,GOOG
+2021-07-28,Raymond James,Outperform,,main,GOOG
+2021-07-28,Oppenheimer,Outperform,,main,GOOG
+2021-07-28,Piper Sandler,Overweight,,main,GOOG
+2021-07-28,Needham,Buy,,main,GOOG
+2021-07-28,BMO Capital,Outperform,,main,GOOG
+2021-07-28,Keybanc,Overweight,,main,GOOG
+2021-07-28,Barclays,Overweight,,main,GOOG
+2021-07-28,Mizuho,Buy,,main,GOOG
+2021-07-28,Truist Securities,Buy,,main,GOOG
+2021-07-28,Morgan Stanley,Overweight,,main,GOOG
+2021-07-28,Credit Suisse,Outperform,,main,GOOG
+2021-07-28,Stifel,Buy,,main,GOOG
+2021-07-28,Jefferies,Buy,,main,GOOG
+2021-07-28,JP Morgan,Overweight,,main,GOOG
+2021-07-28,Canaccord Genuity,Buy,,main,GOOG
+2021-07-28,Susquehanna,Positive,,main,GOOG
+2021-09-13,Goldman Sachs,Buy,,init,GOOG
+2021-10-01,RBC Capital,Outperform,,init,GOOG
+2021-10-21,Mizuho,Buy,,main,GOOG
+2021-10-27,Raymond James,Outperform,,main,GOOG
+2021-10-27,Oppenheimer,Outperform,,main,GOOG
+2021-10-27,Keybanc,Overweight,,main,GOOG
+2021-10-27,Credit Suisse,Outperform,,main,GOOG
+2021-10-27,Canaccord Genuity,Buy,,main,GOOG
+2021-10-27,Wells Fargo,Overweight,,main,GOOG
+2021-10-27,JMP Securities,Market Perform,,main,GOOG
+2021-10-27,BMO Capital,Outperform,,main,GOOG
+2021-10-27,Jefferies,Buy,,main,GOOG
+2021-10-27,"Monness, Crespi, Hardt",Buy,,main,GOOG
+2021-10-27,Truist Securities,Buy,,main,GOOG
+2021-10-27,Barclays,Overweight,,main,GOOG
+2021-10-28,Citigroup,Neutral,,main,GOOG
+2021-11-02,Morgan Stanley,Overweight,,main,GOOG

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+DBX220211P00024000,2022-01-04 18:50:12+00:00,24.0,0.95,1.19,1.53,0.0,0.0,7,8,1.1875040625,False,REGULAR,USD,DBX

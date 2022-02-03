@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-02,Compass Point,Buy,,init,AGM
+2013-03-20,Compass Point,Buy,,main,AGM
+2013-08-12,Compass Point,Buy,,main,AGM
+2013-09-18,Sidoti & Co.,Buy,,init,AGM
+2013-11-14,Compass Point,Buy,,main,AGM
+2014-04-08,Keefe Bruyette & Woods,Outperform,,init,AGM
+2014-11-12,Compass Point,Buy,,main,AGM
+2014-11-13,Keefe Bruyette & Woods,Outperform,,main,AGM
+2015-08-12,Keefe Bruyette & Woods,Outperform,,main,AGM
+2016-03-11,Keefe Bruyette & Woods,Market Perform,Outperform,down,AGM
+2016-05-12,Compass Point,Neutral,Buy,down,AGM
+2018-02-14,Sidoti & Co.,Buy,Neutral,up,AGM
+2019-02-22,Compass Point,Buy,Neutral,up,AGM
+2020-02-18,Sidoti & Co.,Buy,Neutral,up,AGM
+2021-05-07,Sidoti & Co.,Neutral,Buy,down,AGM

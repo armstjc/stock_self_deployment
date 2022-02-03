@@ -1,0 +1,6 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-02-26,Oppenheimer,Outperform,,init,CAAP
+2018-02-26,Bank of America,Buy,,init,CAAP
+2018-09-10,Bank of America,Buy,Buy,main,CAAP
+2019-11-22,Oppenheimer,Perform,Outperform,down,CAAP
+2020-04-09,Goldman Sachs,Neutral,Buy,down,CAAP

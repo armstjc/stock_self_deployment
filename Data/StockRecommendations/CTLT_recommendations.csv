@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-09,JP Morgan,Overweight,,init,CTLT
+2014-09-09,PiperJaffray,Overweight,,init,CTLT
+2014-09-09,Wells Fargo,Outperform,,init,CTLT
+2014-09-09,Raymond James,Outperform,,init,CTLT
+2014-09-09,Deutsche Bank,Hold,,init,CTLT
+2014-09-09,Jefferies,Buy,,init,CTLT
+2014-09-09,Morgan Stanley,Overweight,,init,CTLT
+2014-11-14,Deutsche Bank,Hold,,main,CTLT
+2014-11-14,Bank of America,Buy,,main,CTLT
+2014-11-14,Jefferies,Buy,,main,CTLT
+2015-01-06,JP Morgan,Overweight,,main,CTLT
+2015-02-12,Deutsche Bank,Hold,,main,CTLT
+2015-02-18,Jefferies,Buy,,main,CTLT
+2015-09-03,Bank of America,Buy,,main,CTLT
+2015-11-04,Deutsche Bank,Hold,,main,CTLT
+2015-12-09,Raymond James,Market Perform,Outperform,down,CTLT
+2015-12-22,Wells Fargo,Market Perform,Outperform,down,CTLT
+2016-02-10,JP Morgan,Overweight,,main,CTLT
+2016-02-10,Deutsche Bank,Hold,,main,CTLT
+2016-04-21,Morgan Stanley,Equal-Weight,Overweight,down,CTLT
+2016-05-05,William Blair,Market Perform,Outperform,down,CTLT
+2016-06-20,Bank of America,Buy,Neutral,up,CTLT
+2016-06-21,Wells Fargo,Outperform,Market Perform,up,CTLT
+2016-09-29,Jefferies,Hold,,main,CTLT
+2016-10-18,Stephens & Co.,Overweight,,init,CTLT
+2016-10-20,KeyBanc,Overweight,,init,CTLT
+2016-12-01,Goldman Sachs,Neutral,,init,CTLT
+2017-09-08,KeyBanc,Sector Weight,Overweight,down,CTLT
+2017-09-13,Needham,Hold,,init,CTLT
+2017-09-20,Wells Fargo,Outperform,,main,CTLT
+2017-09-20,Bank of America,Buy,,main,CTLT
+2017-09-21,Morgan Stanley,Overweight,Equal-Weight,up,CTLT
+2017-12-13,RBC Capital,Outperform,,init,CTLT
+2018-01-08,First Analysis,Equal-Weight,,init,CTLT
+2018-01-24,Goldman Sachs,Buy,,init,CTLT
+2018-02-06,Stephens & Co.,Equal-Weight,Overweight,down,CTLT
+2018-02-06,Bank of America,Buy,Buy,main,CTLT
+2018-03-21,Raymond James,Outperform,Market Perform,up,CTLT
+2018-03-28,KeyBanc,Overweight,Sector Weight,up,CTLT
+2018-08-29,JP Morgan,Overweight,Overweight,main,CTLT
+2018-11-07,First Analysis,Outperform,Neutral,up,CTLT
+2019-04-16,UBS,Buy,Neutral,up,CTLT
+2019-06-21,Jefferies,Buy,Hold,up,CTLT
+2019-08-28,KeyBanc,Sector Weight,Overweight,down,CTLT
+2019-08-28,Morgan Stanley,Overweight,,main,CTLT
+2019-08-28,Baird,Outperform,,main,CTLT
+2020-01-27,Stephens & Co.,Overweight,,main,CTLT
+2020-02-04,Morgan Stanley,Overweight,,main,CTLT
+2020-02-04,Baird,Outperform,,main,CTLT
+2020-03-02,Deutsche Bank,Hold,,init,CTLT
+2020-03-27,Morgan Stanley,Overweight,,main,CTLT
+2020-04-13,Baird,Outperform,,main,CTLT
+2020-04-21,RBC Capital,Outperform,,init,CTLT
+2020-05-06,Morgan Stanley,Overweight,,main,CTLT
+2020-05-06,Deutsche Bank,Hold,,main,CTLT
+2020-05-06,Baird,Outperform,,main,CTLT
+2020-05-06,UBS,Buy,,main,CTLT
+2020-06-26,Baird,Outperform,,main,CTLT
+2020-07-31,Morgan Stanley,Overweight,,main,CTLT
+2020-09-01,Morgan Stanley,Overweight,,main,CTLT
+2020-11-04,Morgan Stanley,Overweight,,main,CTLT
+2020-12-10,KeyBanc,Overweight,Sector Weight,up,CTLT
+2021-02-03,Morgan Stanley,Overweight,,main,CTLT
+2021-08-31,B of A Securities,Buy,,main,CTLT
+2021-08-31,Keybanc,Overweight,,main,CTLT
+2021-08-31,Morgan Stanley,Overweight,,main,CTLT
+2021-08-31,UBS,Buy,,main,CTLT
+2021-08-31,RBC Capital,Outperform,,main,CTLT
+2021-09-08,Deutsche Bank,Hold,,main,CTLT
+2021-11-03,RBC Capital,Outperform,,main,CTLT
+2021-11-03,Morgan Stanley,Overweight,,main,CTLT
+2021-12-16,Barclays,Overweight,,init,CTLT

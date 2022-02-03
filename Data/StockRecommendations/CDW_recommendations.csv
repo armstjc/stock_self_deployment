@@ -1,0 +1,69 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-08-06,Goldman Sachs,Buy,,init,CDW
+2013-08-06,Deutsche Bank,Buy,,init,CDW
+2013-08-06,JP Morgan,Overweight,,init,CDW
+2013-08-06,Stifel Nicolaus,Buy,,init,CDW
+2013-08-06,Barclays,Equal-Weight,,init,CDW
+2013-11-25,Barclays,Overweight,Equal-Weight,up,CDW
+2014-05-09,JP Morgan,Overweight,,main,CDW
+2014-05-09,Raymond James,Outperform,,main,CDW
+2014-06-19,Barclays,Overweight,,main,CDW
+2014-07-07,Raymond James,Market Perform,Outperform,down,CDW
+2014-08-01,Barclays,Overweight,,main,CDW
+2014-08-01,JP Morgan,Overweight,,main,CDW
+2014-09-30,RBC Capital,Outperform,,init,CDW
+2014-10-03,Raymond James,Outperform,Market Perform,up,CDW
+2014-11-07,JP Morgan,Overweight,,main,CDW
+2015-01-14,Goldman Sachs,Neutral,Buy,down,CDW
+2015-01-15,JP Morgan,Overweight,,main,CDW
+2015-05-08,RBC Capital,Outperform,,main,CDW
+2015-10-14,Barclays,Overweight,,init,CDW
+2015-12-01,Goldman Sachs,Buy,,init,CDW
+2016-02-10,Barclays,Overweight,,main,CDW
+2016-02-10,JP Morgan,Overweight,,main,CDW
+2016-04-25,Raymond James,Market Perform,Outperform,down,CDW
+2016-08-04,Deutsche Bank,Buy,,main,CDW
+2016-12-09,JP Morgan,Neutral,Overweight,down,CDW
+2017-05-09,Baird,Outperform,Neutral,up,CDW
+2017-07-24,Barclays,Equal-Weight,Overweight,down,CDW
+2017-10-13,Raymond James,Underperform,Market Perform,down,CDW
+2017-11-02,Morgan Stanley,Equal-Weight,,main,CDW
+2018-02-08,Morgan Stanley,Equal-Weight,Equal-Weight,main,CDW
+2018-05-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,CDW
+2018-07-18,Raymond James,Market Perform,Underperform,up,CDW
+2018-08-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,CDW
+2019-04-11,Credit Suisse,Outperform,,init,CDW
+2019-04-17,Stifel Nicolaus,Hold,Buy,down,CDW
+2019-04-26,Northcoast Research,Neutral,Buy,down,CDW
+2019-06-06,Evercore ISI Group,Outperform,,init,CDW
+2019-07-26,Morgan Stanley,Equal-Weight,,main,CDW
+2019-07-30,Bank of America,Buy,,init,CDW
+2019-08-05,JP Morgan,Underweight,Neutral,down,CDW
+2019-11-01,Morgan Stanley,Equal-Weight,,main,CDW
+2020-01-17,Morgan Stanley,Underweight,Equal-Weight,down,CDW
+2020-02-28,JP Morgan,Neutral,Underweight,up,CDW
+2020-03-23,B of A Securities,Buy,,reit,CDW
+2020-03-25,Morgan Stanley,Underweight,,main,CDW
+2020-04-17,Morgan Stanley,Underweight,,main,CDW
+2020-04-17,Credit Suisse,Outperform,,main,CDW
+2020-05-07,Morgan Stanley,Underweight,,main,CDW
+2020-05-07,CFRA,Hold,,main,CDW
+2020-06-09,JP Morgan,Underweight,Neutral,down,CDW
+2020-06-09,Morgan Stanley,Equal-Weight,Underweight,up,CDW
+2020-06-29,Raymond James,Outperform,Market Perform,up,CDW
+2020-08-06,Morgan Stanley,Equal-Weight,,main,CDW
+2020-08-12,Citigroup,Buy,,init,CDW
+2020-10-13,Morgan Stanley,Equal-Weight,,main,CDW
+2020-11-03,Morgan Stanley,Equal-Weight,,main,CDW
+2021-02-04,Morgan Stanley,Overweight,Equal-Weight,up,CDW
+2021-02-11,Credit Suisse,Outperform,,main,CDW
+2021-02-11,Citigroup,Buy,,main,CDW
+2021-04-08,Morgan Stanley,Overweight,,main,CDW
+2021-04-16,Morgan Stanley,Overweight,,main,CDW
+2021-05-06,Credit Suisse,Outperform,,main,CDW
+2021-08-05,Credit Suisse,Outperform,,main,CDW
+2021-08-05,Morgan Stanley,Overweight,,main,CDW
+2021-09-29,JP Morgan,Neutral,Underweight,up,CDW
+2021-10-06,Morgan Stanley,Equal-Weight,Overweight,down,CDW
+2021-11-04,Raymond James,Outperform,,main,CDW
+2021-11-04,Morgan Stanley,Equal-Weight,,main,CDW

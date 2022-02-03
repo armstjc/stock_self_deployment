@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-13,KeyBanc,Hold,,init,CBRL
+2012-09-14,KeyBanc,Hold,Buy,down,CBRL
+2012-09-18,Northcoast Research,Neutral,Buy,down,CBRL
+2012-09-20,Bank of America,Underperform,,main,CBRL
+2013-02-27,Miller Tabak,Buy,,main,CBRL
+2013-03-19,Miller Tabak,Hold,Buy,down,CBRL
+2013-05-30,Bank of America,Neutral,Underperform,up,CBRL
+2013-06-04,Bank of America,Neutral,,main,CBRL
+2013-06-04,Miller Tabak,Hold,,main,CBRL
+2013-06-28,Miller Tabak,Hold,,main,CBRL
+2013-07-22,CL King,Neutral,Buy,down,CBRL
+2014-01-31,Miller Tabak,Buy,Hold,up,CBRL
+2014-03-14,Longbow Research,Neutral,,init,CBRL
+2014-05-05,Raymond James,Market Perform,Underperform,up,CBRL
+2014-06-18,Argus,Hold,Buy,down,CBRL
+2014-10-14,Argus,Buy,Hold,up,CBRL
+2014-12-05,Wunderlich,Hold,,main,CBRL
+2015-03-02,Miller Tabak,Hold,Buy,down,CBRL
+2015-10-08,SunTrust Robinson Humphrey,Neutral,,init,CBRL
+2015-11-25,Argus,Hold,Buy,down,CBRL
+2016-01-26,SunTrust Robinson Humphrey,Buy,Neutral,up,CBRL
+2016-02-22,Telsey Advisory Group,Outperform,Market Perform,up,CBRL
+2016-02-24,SunTrust Robinson Humphrey,Neutral,Buy,down,CBRL
+2016-04-07,Longbow Research,Buy,Neutral,up,CBRL
+2016-06-02,SunTrust Robinson Humphrey,Neutral,,main,CBRL
+2016-07-11,Bank of America,Underperform,Neutral,down,CBRL
+2016-11-28,Maxim Group,Hold,Buy,down,CBRL
+2016-12-01,Argus,Buy,Hold,up,CBRL
+2017-03-21,Argus,Hold,,down,CBRL
+2017-07-12,Instinet,Neutral,,init,CBRL
+2017-09-11,Bank of America,Underperform,,main,CBRL
+2017-09-14,Nomura,Neutral,,main,CBRL
+2017-11-22,Longbow Research,Neutral,Buy,down,CBRL
+2018-02-21,Bank of America,Underperform,Underperform,main,CBRL
+2018-04-10,Bank of America,Underperform,Underperform,main,CBRL
+2018-07-26,Maxim Group,Buy,Hold,up,CBRL
+2018-09-19,Maxim Group,Buy,Buy,main,CBRL
+2018-09-19,Wells Fargo,Market Perform,Market Perform,main,CBRL
+2018-10-19,Gordon Haskett,Hold,,init,CBRL
+2018-11-20,Maxim Group,Hold,Buy,down,CBRL
+2018-11-29,Argus,Buy,Hold,up,CBRL
+2019-02-27,Wells Fargo,Market Perform,Market Perform,main,CBRL
+2019-04-11,Maxim Group,Buy,Hold,up,CBRL
+2019-06-05,Telsey Advisory Group,Market Perform,Outperform,down,CBRL
+2019-06-05,Telsey Advisory Group,Market Perform,Outperform,down,CBRL
+2019-09-11,Wells Fargo,Market Perform,,main,CBRL
+2019-09-18,SunTrust Robinson Humphrey,Hold,,main,CBRL
+2019-09-18,Wells Fargo,Market Perform,,main,CBRL
+2019-09-27,MKM Partners,Neutral,,init,CBRL
+2019-11-08,Wells Fargo,Market Perform,,main,CBRL
+2019-12-03,Argus Research,Hold,Buy,down,CBRL
+2019-12-23,CL King,Neutral,,init,CBRL
+2020-01-23,Wells Fargo,Equal-Weight,,main,CBRL
+2020-04-01,SunTrust Robinson Humphrey,Hold,,main,CBRL
+2020-04-20,MKM Partners,Neutral,,main,CBRL
+2020-06-03,SunTrust Robinson Humphrey,Buy,Hold,up,CBRL
+2020-06-03,B of A Securities,Buy,,main,CBRL
+2020-09-11,MKM Partners,Neutral,,main,CBRL
+2020-09-16,Truist Securities,Buy,,main,CBRL
+2020-09-16,Wells Fargo,Equal-Weight,,main,CBRL
+2020-12-04,Telsey Advisory Group,Outperform,Market Perform,up,CBRL
+2020-12-17,Wells Fargo,Underweight,Equal-Weight,down,CBRL
+2021-02-08,Truist Securities,Hold,Buy,down,CBRL
+2021-03-16,Sidoti & Co.,Neutral,Buy,down,CBRL
+2021-03-29,Deutsche Bank,Buy,,init,CBRL
+2021-04-15,CL King,Neutral,Buy,down,CBRL
+2021-09-08,Wells Fargo,Underweight,,main,CBRL
+2021-09-15,Truist Securities,Hold,,main,CBRL
+2021-09-15,MKM Partners,Neutral,,main,CBRL
+2021-09-22,Wells Fargo,Underweight,,main,CBRL
+2021-09-22,Deutsche Bank,Buy,,main,CBRL
+2021-09-22,Truist Securities,Hold,,main,CBRL
+2021-10-06,Loop Capital,Hold,,init,CBRL
+2021-10-26,B of A Securities,Neutral,,init,CBRL
+2021-11-24,Truist Securities,Hold,,main,CBRL
+2021-11-24,MKM Partners,Neutral,,main,CBRL
+2021-12-02,Benchmark,Hold,,init,CBRL

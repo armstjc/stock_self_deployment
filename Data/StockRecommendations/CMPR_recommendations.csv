@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-01-30,Jefferies,Hold,,main,CMPR
+2015-02-02,Cantor Fitzgerald,Hold,,main,CMPR
+2015-04-01,Barclays,Equal-Weight,Underweight,up,CMPR
+2015-04-08,Axiom Capital,Hold,,init,CMPR
+2015-06-12,Barrington Research,Outperform,Market Perform,up,CMPR
+2015-08-21,Cantor Fitzgerald,Buy,Hold,up,CMPR
+2015-10-30,SunTrust Robinson Humphrey,Neutral,,main,CMPR
+2015-12-30,SunTrust Robinson Humphrey,Neutral,,main,CMPR
+2016-01-13,Barclays,Underweight,Equal-Weight,down,CMPR
+2016-04-26,Cantor Fitzgerald,Hold,Buy,down,CMPR
+2016-05-26,Cowen & Co.,Market Perform,,main,CMPR
+2016-06-01,Axiom Capital,Sell,Hold,down,CMPR
+2016-06-15,Barrington Research,Market Perform,Outperform,down,CMPR
+2016-07-29,Jefferies,Hold,,main,CMPR
+2016-10-31,Axiom Capital,Hold,Sell,up,CMPR
+2016-11-30,Aegis Capital,Hold,,init,CMPR
+2017-09-18,Barrington Research,Outperform,Market Perform,up,CMPR
+2018-01-26,Aegis Capital,Sell,Hold,down,CMPR
+2019-03-11,Aegis Capital,Hold,Sell,up,CMPR
+2019-03-12,Aegis Capital,Hold,Sell,up,CMPR
+2019-09-13,SunTrust Robinson Humphrey,Hold,Sell,up,CMPR
+2020-05-07,SunTrust Robinson Humphrey,Hold,,main,CMPR
+2020-07-30,SunTrust Robinson Humphrey,Buy,Hold,up,CMPR

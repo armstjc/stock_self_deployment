@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CGEM220715C00030000,2021-12-31 19:43:22+00:00,30.0,0.5,0.0,4.1,0.0,0.0,2,2,1.4677760986328123,False,REGULAR,USD,CGEM

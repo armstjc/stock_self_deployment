@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BGCP220916C00005000,2021-11-22 16:41:38+00:00,5.0,0.75,0.45,0.65,0.0,0.0,,8,0.5918009570312501,False,REGULAR,USD,BGCP

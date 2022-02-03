@@ -1,0 +1,166 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-02,Deutsche Bank,Hold,,main,GRPN
+2012-08-08,Sterne Agee,Neutral,Buy,down,GRPN
+2012-08-13,Hudson Square,Buy,,main,GRPN
+2012-08-14,Citigroup,Neutral,Buy,down,GRPN
+2012-08-14,Ascendiant Capital,Sell,,main,GRPN
+2012-08-14,JP Morgan,Neutral,,main,GRPN
+2012-08-14,Benchmark,Hold,Buy,down,GRPN
+2012-08-14,Barrington Research,Outperform,,main,GRPN
+2012-08-14,Goldman Sachs,Buy,,main,GRPN
+2012-08-14,Bank of America,Neutral,,main,GRPN
+2012-08-14,Barclays,Overweight,,main,GRPN
+2012-08-14,Morgan Stanley,Overweight,,main,GRPN
+2012-08-21,Barclays,Underweight,Equal-Weight,down,GRPN
+2012-08-27,Ascendiant Capital,Sell,,main,GRPN
+2012-09-04,Jefferies,Hold,,init,GRPN
+2012-09-17,PiperJaffray,Neutral,,init,GRPN
+2012-09-17,Evercore Partners,,,,GRPN
+2012-10-12,Goldman Sachs,Buy,,main,GRPN
+2012-11-09,Barrington Research,Market Perform,Outperform,down,GRPN
+2012-11-09,Jefferies,Hold,,main,GRPN
+2012-11-09,Deutsche Bank,Hold,,main,GRPN
+2012-11-09,Morgan Stanley,Equal-Weight,Overweight,down,GRPN
+2012-11-09,Benchmark,Hold,,main,GRPN
+2012-11-09,Bank of America,Neutral,,main,GRPN
+2012-11-09,Hudson Square,Hold,Buy,down,GRPN
+2013-02-05,Deutsche Bank,Hold,,main,GRPN
+2013-02-13,Sterne Agee,Buy,Neutral,up,GRPN
+2013-02-21,PiperJaffray,Overweight,Neutral,up,GRPN
+2013-02-28,PiperJaffray,Overweight,,main,GRPN
+2013-02-28,Bank of America,Underperform,Neutral,down,GRPN
+2013-02-28,Raymond James,Underperform,Market Perform,down,GRPN
+2013-02-28,Ascendiant Capital,Sell,,main,GRPN
+2013-02-28,Wells Fargo,Market Perform,Outperform,down,GRPN
+2013-04-02,UBS,Sell,,init,GRPN
+2013-06-14,Deutsche Bank,Buy,Hold,up,GRPN
+2013-07-02,Wunderlich,Buy,,init,GRPN
+2013-08-02,Evercore Partners,Equal-Weight,Underweight,up,GRPN
+2013-08-08,Jefferies,Hold,,main,GRPN
+2013-08-08,Deutsche Bank,Buy,,main,GRPN
+2013-08-08,Ascendiant Capital,Sell,,main,GRPN
+2013-08-08,PiperJaffray,Overweight,,main,GRPN
+2013-08-08,Evercore Partners,Equal-Weight,,main,GRPN
+2013-08-08,B. Riley FBR,Neutral,,main,GRPN
+2013-08-08,Jefferies,Hold,,main,GRPN
+2013-08-08,Credit Suisse,Neutral,Neutral,main,GRPN
+2013-08-08,UBS,Neutral,Sell,up,GRPN
+2013-08-08,Raymond James,Market Perform,Underperform,up,GRPN
+2013-08-08,Bank of America,Neutral,Underperform,up,GRPN
+2013-09-05,Morgan Stanley,Overweight,,up,GRPN
+2013-09-19,Stifel Nicolaus,Buy,Hold,up,GRPN
+2013-10-07,Barrington Research,Outperform,Market Perform,up,GRPN
+2013-11-01,Morgan Stanley,Overweight,,main,GRPN
+2013-11-04,Goldman Sachs,Buy,,main,GRPN
+2013-11-08,Stifel Nicolaus,Buy,,main,GRPN
+2013-12-02,Goldman Sachs,Neutral,Buy,down,GRPN
+2013-12-11,Wells Fargo,Outperform,Market Perform,up,GRPN
+2013-12-18,Northland,Outperform,,init,GRPN
+2014-01-02,Northland Securities,Outperform,,main,GRPN
+2014-02-21,Macquarie,Neutral,,main,GRPN
+2014-02-21,RBC Capital,Underperform,Sector Perform,down,GRPN
+2014-02-21,Bank of America,Neutral,,main,GRPN
+2014-05-02,Morgan Stanley,Overweight,,main,GRPN
+2014-05-07,Northland,Market Perform,Outperform,down,GRPN
+2014-05-07,Stifel Nicolaus,Buy,,main,GRPN
+2014-05-07,Deutsche Bank,Buy,,main,GRPN
+2014-07-08,B. Riley FBR,Buy,Neutral,up,GRPN
+2014-08-06,Macquarie,Neutral,,main,GRPN
+2014-08-06,JP Morgan,Neutral,,main,GRPN
+2014-08-06,Deutsche Bank,Buy,,main,GRPN
+2014-08-06,Credit Suisse,Neutral,,main,GRPN
+2014-08-06,Wunderlich,Hold,Buy,down,GRPN
+2014-09-02,RBC Capital,Sector Perform,Underperform,up,GRPN
+2014-10-10,Evercore Partners,Sell,Equal-weight,down,GRPN
+2014-10-22,Brean Capital,Buy,,init,GRPN
+2014-10-31,Credit Suisse,Neutral,,main,GRPN
+2014-11-04,Macquarie,Neutral,,main,GRPN
+2014-11-12,UBS,Neutral,,main,GRPN
+2014-11-12,UBS,Neutral,,main,GRPN
+2014-11-12,Brean Capital,Buy,,main,GRPN
+2014-11-12,Bank of America,Neutral,,main,GRPN
+2014-12-01,Bank of America,Buy,Neutral,up,GRPN
+2015-01-15,Evercore ISI Group,Hold,Sell,up,GRPN
+2015-01-30,Ascendiant Capital,Buy,Sell,up,GRPN
+2015-02-13,Deutsche Bank,Buy,,main,GRPN
+2015-02-26,Morgan Stanley,Equal-Weight,,init,GRPN
+2015-03-25,Wunderlich,Buy,Hold,up,GRPN
+2015-06-03,B. Riley FBR,Neutral,,down,GRPN
+2015-06-04,B. Riley FBR,Neutral,Buy,down,GRPN
+2015-06-23,Topeka,Hold,,init,GRPN
+2015-07-13,Macquarie,Outperform,Neutral,up,GRPN
+2015-08-04,Bank of America,Buy,,main,GRPN
+2015-08-10,Deutsche Bank,Buy,,main,GRPN
+2015-08-10,Brean Capital,Buy,,main,GRPN
+2015-08-10,Jefferies,Hold,,main,GRPN
+2015-08-10,RBC Capital,Sector Perform,,main,GRPN
+2015-08-10,Northland Securities,Market Perform,,main,GRPN
+2015-08-11,Macquarie,Outperform,,main,GRPN
+2015-10-08,Cowen & Co.,Underperform,,init,GRPN
+2015-11-04,Wells Fargo,Market Perform,Outperform,down,GRPN
+2015-11-04,Bank of America,Underperform,Neutral,down,GRPN
+2015-11-04,PiperJaffray,Neutral,Overweight,down,GRPN
+2015-11-04,Brean Capital,Buy,,main,GRPN
+2016-02-12,Deutsche Bank,Buy,,main,GRPN
+2016-02-23,Wedbush,Neutral,,init,GRPN
+2016-03-09,UBS,Sell,Neutral,down,GRPN
+2016-04-15,Macquarie,Outperform,,main,GRPN
+2016-05-02,RBC Capital,Underperform,Sector Perform,down,GRPN
+2016-06-23,Maxim Group,Buy,,init,GRPN
+2016-07-18,PiperJaffray,Overweight,Neutral,up,GRPN
+2016-07-28,Jefferies,Hold,,main,GRPN
+2016-07-28,UBS,Sell,,main,GRPN
+2016-07-28,Goldman Sachs,Neutral,,main,GRPN
+2016-07-28,Morgan Stanley,Equal-Weight,,main,GRPN
+2016-07-28,Credit Suisse,Neutral,,main,GRPN
+2016-09-13,Loop Capital,Hold,,init,GRPN
+2016-09-29,Boenning & Scattergood,Neutral,,init,GRPN
+2016-10-04,Macquarie,Outperform,,main,GRPN
+2016-10-17,Wedbush,Outperform,Neutral,up,GRPN
+2017-01-03,RBC Capital,Sector Perform,Underperform,up,GRPN
+2017-02-16,Wedbush,Neutral,Outperform,down,GRPN
+2017-03-27,Citigroup,Neutral,,init,GRPN
+2017-03-28,Barclays,Underweight,,init,GRPN
+2017-04-24,Morgan Stanley,Underweight,,down,GRPN
+2017-06-29,B. Riley FBR,Buy,Neutral,up,GRPN
+2017-07-26,Morgan Stanley,Underweight,,main,GRPN
+2017-08-03,Barclays,Underweight,,main,GRPN
+2017-09-22,DA Davidson,Buy,,init,GRPN
+2017-10-16,Cowen & Co.,Market Perform,Underperform,up,GRPN
+2017-10-17,Gabelli & Co.,Buy,,init,GRPN
+2017-10-18,B. Riley FBR,Buy,,main,GRPN
+2017-11-02,Barclays,Underweight,,main,GRPN
+2017-11-02,Morgan Stanley,Underweight,,main,GRPN
+2017-11-02,Citigroup,Neutral,,main,GRPN
+2018-01-17,Goldman Sachs,Neutral,Sell,up,GRPN
+2018-02-15,JP Morgan,Neutral,Neutral,main,GRPN
+2018-03-05,Morgan Stanley,Equal-Weight,Underweight,up,GRPN
+2018-05-10,UBS,Neutral,Sell,up,GRPN
+2018-07-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,GRPN
+2018-09-14,Wedbush,Neutral,,init,GRPN
+2019-02-04,Goldman Sachs,Neutral,,init,GRPN
+2019-11-06,JP Morgan,Underweight,Neutral,down,GRPN
+2019-12-17,Goldman Sachs,Sell,Neutral,down,GRPN
+2019-12-23,Ascendiant Capital,Buy,,main,GRPN
+2020-01-17,UBS,Buy,Neutral,up,GRPN
+2020-02-20,UBS,Buy,,main,GRPN
+2020-02-20,Wedbush,Neutral,,main,GRPN
+2020-02-20,Credit Suisse,Neutral,,main,GRPN
+2020-02-21,Morgan Stanley,Equal-Weight,,main,GRPN
+2020-04-14,Credit Suisse,Neutral,,main,GRPN
+2020-04-21,UBS,Buy,,main,GRPN
+2020-05-07,Morgan Stanley,Equal-Weight,,main,GRPN
+2020-06-19,Morgan Stanley,Equal-Weight,,main,GRPN
+2020-08-10,UBS,Buy,,main,GRPN
+2020-08-10,Credit Suisse,Neutral,,main,GRPN
+2020-10-15,Morgan Stanley,Equal-Weight,,main,GRPN
+2020-11-02,Wedbush,Neutral,,main,GRPN
+2020-11-09,Credit Suisse,Neutral,,main,GRPN
+2021-01-15,Morgan Stanley,Equal-Weight,,main,GRPN
+2021-03-01,JP Morgan,Neutral,Underweight,up,GRPN
+2021-03-01,Credit Suisse,Neutral,,main,GRPN
+2021-08-09,Barclays,Underweight,,main,GRPN
+2021-08-09,Credit Suisse,Neutral,,main,GRPN
+2021-12-10,Barclays,Underweight,,main,GRPN
+2021-12-15,JP Morgan,Neutral,,main,GRPN
+2021-12-23,Ascendiant Capital,Buy,,main,GRPN

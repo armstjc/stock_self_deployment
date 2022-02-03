@@ -1,0 +1,280 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Citigroup,Buy,,up,GPS
+2012-03-01,Jefferies,Buy,,main,GPS
+2012-03-02,JP Morgan,Neutral,,main,GPS
+2012-03-19,BMO Capital,Outperform,,up,GPS
+2012-03-19,Citigroup,Buy,,main,GPS
+2012-03-26,Canaccord Genuity,Sell,,init,GPS
+2012-03-26,Jefferies,Buy,,main,GPS
+2012-03-30,Wedbush,Neutral,,main,GPS
+2012-04-04,PiperJaffray,Overweight,,up,GPS
+2012-04-13,Jefferies,Buy,,main,GPS
+2012-05-03,Canaccord Genuity,Sell,,main,GPS
+2012-05-21,JP Morgan,Neutral,,main,GPS
+2012-08-02,Wedbush,Neutral,,main,GPS
+2012-08-02,Jefferies,Buy,,main,GPS
+2012-08-02,Canaccord Genuity,Sell,,main,GPS
+2012-08-03,UBS,Neutral,,main,GPS
+2012-08-13,PiperJaffray,Overweight,,main,GPS
+2012-08-16,Susquehanna,Positive,,main,GPS
+2012-08-16,BMO Capital,Outperform,,main,GPS
+2012-08-17,Stifel Nicolaus,Buy,,main,GPS
+2012-08-17,UBS,Neutral,,main,GPS
+2012-08-17,Canaccord Genuity,Sell,,main,GPS
+2012-08-20,ISI Group,Hold,Hold,main,GPS
+2012-08-20,ISI Group,Hold,Sell,up,GPS
+2012-08-21,Standpoint Research,Sell,Hold,down,GPS
+2012-08-21,Argus,Buy,Hold,up,GPS
+2012-08-31,UBS,Neutral,,main,GPS
+2012-09-13,Citigroup,Neutral,,init,GPS
+2012-09-21,Jefferies,Buy,,main,GPS
+2012-09-24,Jefferies,Buy,,main,GPS
+2012-10-05,JP Morgan,Neutral,,main,GPS
+2012-10-05,Caris & Co.,Buy,Above Average,up,GPS
+2012-10-05,PiperJaffray,Overweight,,main,GPS
+2012-11-16,Canaccord Genuity,Hold,Sell,up,GPS
+2012-12-05,JP Morgan,Neutral,,main,GPS
+2012-12-27,Standpoint Research,Hold,Sell,up,GPS
+2013-02-26,UBS,Neutral,,main,GPS
+2013-03-04,Sterne Agee,Underperform,,init,GPS
+2013-03-07,Wedbush,Neutral,,main,GPS
+2013-03-13,JP Morgan,Neutral,,main,GPS
+2013-03-18,Jefferies,Buy,,main,GPS
+2013-04-02,Barclays,Overweight,,init,GPS
+2013-04-08,Avondale Partners,Market Perform,Underperform,up,GPS
+2013-04-09,Jefferies,Buy,,main,GPS
+2013-04-11,Topeka,Buy,,init,GPS
+2013-04-12,Sterne Agee,Underperform,,main,GPS
+2013-04-18,BMO Capital,Outperform,,main,GPS
+2013-05-07,Wells Fargo,Outperform,Market Perform,up,GPS
+2013-05-15,Citigroup,Buy,Neutral,up,GPS
+2013-07-10,Cowen & Co.,Market Perform,,init,GPS
+2013-07-12,Stifel Nicolaus,Buy,,main,GPS
+2013-07-19,SunTrust Robinson Humphrey,Neutral,,init,GPS
+2013-08-01,FBR Capital,Outperform,,init,GPS
+2013-08-09,Susquehanna,Neutral,Positive,down,GPS
+2013-09-09,Nomura,Neutral,,init,GPS
+2013-10-11,Nomura,Neutral,,main,GPS
+2013-10-22,BMO Capital,Market Perform,Outperform,down,GPS
+2013-10-24,FBR Capital,Market Perform,Outperform,down,GPS
+2013-10-31,Jefferies,Buy,,main,GPS
+2013-11-04,Goldman Sachs,Neutral,Buy,down,GPS
+2013-11-15,Mizuho,Buy,,init,GPS
+2013-11-27,Argus Capital,Hold,Buy,down,GPS
+2013-12-06,Jefferies,Hold,Buy,down,GPS
+2013-12-06,Jefferies,Hold,Buy,down,GPS
+2014-01-21,Sterne Agee,Buy,Underperform,up,GPS
+2014-02-04,UBS,Buy,Neutral,up,GPS
+2014-02-28,Atlantic Equities,Neutral,Underweight,up,GPS
+2014-04-11,Janney Capital,Neutral,Buy,down,GPS
+2014-04-11,Bank of America,Neutral,,main,GPS
+2014-05-09,Canaccord Genuity,Hold,,main,GPS
+2014-06-05,Wedbush,Neutral,,init,GPS
+2014-06-18,Canaccord Genuity,Buy,Hold,up,GPS
+2014-08-22,Janney Capital,Buy,Neutral,up,GPS
+2014-09-05,Buckingham Research,Neutral,Buy,down,GPS
+2014-09-08,Bank of America,Underperform,,down,GPS
+2014-10-09,Canaccord Genuity,Buy,,main,GPS
+2014-10-09,Buckingham Research,Neutral,,main,GPS
+2014-10-09,Bank of America,Underperform,,main,GPS
+2014-10-09,Wells Fargo,Market Perform,Outperform,down,GPS
+2014-10-09,Telsey Advisory Group,Market Perform,Outperform,down,GPS
+2014-10-09,Janney Capital,Neutral,Buy,down,GPS
+2014-10-09,Sterne Agee,Neutral,Buy,down,GPS
+2014-10-09,Nomura,Neutral,,main,GPS
+2014-10-10,Wedbush,Neutral,,main,GPS
+2014-11-07,Canaccord Genuity,Buy,,main,GPS
+2014-11-21,Wedbush,Neutral,,main,GPS
+2014-12-16,Cowen & Co.,Market Perform,,init,GPS
+2015-01-05,Susquehanna,Positive,Neutral,up,GPS
+2015-01-05,Jefferies,Buy,Hold,up,GPS
+2015-01-16,Atlantic Equities,Underweight,Neutral,down,GPS
+2015-02-03,Guggenheim,Neutral,,init,GPS
+2015-02-10,Mizuho,Neutral,Buy,down,GPS
+2015-02-13,Credit Suisse,Underperform,Neutral,down,GPS
+2015-03-03,FBR Capital,Outperform,,up,GPS
+2015-04-21,Cantor Fitzgerald,Hold,,init,GPS
+2015-04-27,Susquehanna,Positive,,main,GPS
+2015-05-04,RBC Capital,Sector Perform,,init,GPS
+2015-05-12,UBS,Buy,,main,GPS
+2015-05-12,Cantor Fitzgerald,Hold,,main,GPS
+2015-05-12,FBR Capital,Market Perform,Outperform,down,GPS
+2015-06-25,BB&T Capital,Hold,,init,GPS
+2015-07-10,Tigress Financial,Neutral,,init,GPS
+2015-07-10,UBS,Neutral,Buy,down,GPS
+2015-08-04,Buckingham Research,Neutral,,main,GPS
+2015-08-10,JP Morgan,Underweight,Neutral,down,GPS
+2015-08-11,PiperJaffray,Neutral,,main,GPS
+2015-08-17,Wolfe Research,Underperform,,init,GPS
+2015-08-21,Stifel Nicolaus,Buy,,main,GPS
+2015-08-21,SunTrust Robinson Humphrey,Neutral,,main,GPS
+2015-08-21,RBC Capital,Sector Perform,,main,GPS
+2015-08-21,Mizuho,Neutral,,main,GPS
+2015-08-21,FBR Capital,Sector Perform,,main,GPS
+2015-09-04,Cantor Fitzgerald,Hold,,main,GPS
+2015-09-17,MKM Partners,Buy,,init,GPS
+2015-09-30,PiperJaffray,Underweight,Neutral,down,GPS
+2015-09-30,Bank of America,Underperform,,main,GPS
+2015-09-30,Mizuho,Underperform,Neutral,down,GPS
+2015-09-30,UBS,Sell,Neutral,down,GPS
+2015-10-07,Citigroup,Neutral,,init,GPS
+2015-10-09,MKM Partners,Hold,Buy,down,GPS
+2015-10-12,FBR Capital,Market Perform,,main,GPS
+2015-10-22,Wells Fargo,Market Perform,,init,GPS
+2015-10-29,Barclays,Underweight,,init,GPS
+2015-10-30,Oppenheimer,Perform,,main,GPS
+2015-11-17,Bernstein,Market Perform,,main,GPS
+2015-11-20,Wedbush,Neutral,,main,GPS
+2015-11-20,SunTrust Robinson Humphrey,Neutral,,main,GPS
+2015-12-04,Cantor Fitzgerald,Hold,,main,GPS
+2016-03-14,MKM Partners,Neutral,,main,GPS
+2016-03-16,Morgan Stanley,Underweight,Equal-Weight,down,GPS
+2016-04-04,KeyBanc,Overweight,,up,GPS
+2016-04-08,Citigroup,Neutral,,main,GPS
+2016-04-26,Deutsche Bank,Sell,,init,GPS
+2016-05-10,Topeka,Hold,Buy,down,GPS
+2016-05-20,Jefferies,Buy,,main,GPS
+2016-05-20,UBS,Sell,,main,GPS
+2016-05-20,Stifel Nicolaus,Hold,Buy,down,GPS
+2016-05-20,Citigroup,Neutral,,main,GPS
+2016-06-03,Deutsche Bank,Sell,,main,GPS
+2016-06-07,Standpoint Research,Buy,Hold,up,GPS
+2016-06-17,Wolfe Research,Outperform,Peer Perform,up,GPS
+2016-07-25,Standpoint Research,Hold,Buy,down,GPS
+2016-07-25,Wolfe Research,Outperform,Peer Perform,up,GPS
+2016-08-09,Mizuho,Neutral,Underperform,up,GPS
+2016-08-09,Deutsche Bank,Sell,,main,GPS
+2016-08-09,Citigroup,Neutral,,main,GPS
+2016-08-19,Nomura,Neutral,,main,GPS
+2016-08-19,Deutsche Bank,Sell,,main,GPS
+2016-08-19,Jefferies,Buy,,main,GPS
+2016-08-19,Baird,Neutral,,main,GPS
+2016-08-19,UBS,Sell,,main,GPS
+2016-08-19,Wedbush,Neutral,,main,GPS
+2016-08-19,Citigroup,Neutral,,main,GPS
+2016-08-22,Citigroup,Neutral,,main,GPS
+2016-10-07,Deutsche Bank,Hold,Sell,up,GPS
+2016-11-18,Citigroup,Sell,Neutral,down,GPS
+2016-11-28,PiperJaffray,Neutral,Underweight,up,GPS
+2017-03-09,Guggenheim,Neutral,,init,GPS
+2017-04-20,JP Morgan,Neutral,Underweight,up,GPS
+2017-06-05,Oppenheimer,Outperform,Perform,up,GPS
+2017-08-15,FBR Capital,Neutral,,main,GPS
+2017-08-18,Deutsche Bank,Hold,,main,GPS
+2017-09-19,Credit Suisse,Neutral,Underperform,up,GPS
+2017-09-20,Barclays,Overweight,,init,GPS
+2017-10-03,Oppenheimer,Outperform,,main,GPS
+2017-11-17,Barclays,Overweight,,main,GPS
+2017-11-17,Buckingham,Neutral,,main,GPS
+2017-11-17,BMO Capital,Market Perform,,main,GPS
+2017-11-17,Nomura,Neutral,,main,GPS
+2017-11-17,Deutsche Bank,Hold,,main,GPS
+2017-11-17,KeyBanc,Overweight,,main,GPS
+2017-11-30,Citigroup,Sell,Neutral,down,GPS
+2017-12-14,Oppenheimer,Perform,Outperform,down,GPS
+2018-01-25,Barclays,Overweight,Overweight,main,GPS
+2018-02-20,KeyBanc,Sector Weight,Overweight,down,GPS
+2018-02-26,Deutsche Bank,Hold,Hold,main,GPS
+2018-03-02,Buckingham,Neutral,Neutral,main,GPS
+2018-03-02,Wells Fargo,Market Perform,Market Perform,main,GPS
+2018-03-02,Barclays,Overweight,Overweight,main,GPS
+2018-03-02,Baird,Neutral,Neutral,main,GPS
+2018-03-02,BMO Capital,Market Perform,Market Perform,main,GPS
+2018-03-05,Nomura,Neutral,Neutral,main,GPS
+2018-03-12,Credit Suisse,Neutral,,init,GPS
+2018-05-25,Credit Suisse,Neutral,Neutral,main,GPS
+2018-05-25,Deutsche Bank,Hold,Hold,main,GPS
+2018-06-21,UBS,Neutral,,init,GPS
+2018-08-10,Wedbush,Neutral,,init,GPS
+2018-08-24,B. Riley FBR,Neutral,Neutral,main,GPS
+2018-08-24,JP Morgan,Neutral,Neutral,main,GPS
+2018-08-27,Citigroup,Neutral,Sell,up,GPS
+2018-10-11,Wedbush,Neutral,Neutral,main,GPS
+2018-10-18,JP Morgan,Underweight,Neutral,down,GPS
+2018-10-19,Standpoint Research,Buy,Hold,up,GPS
+2018-10-26,Goldman Sachs,Neutral,,init,GPS
+2018-11-21,Credit Suisse,Neutral,Neutral,main,GPS
+2019-01-11,Barclays,Underweight,Overweight,down,GPS
+2019-01-22,Goldman Sachs,Sell,Neutral,down,GPS
+2019-02-26,Credit Suisse,Neutral,Neutral,main,GPS
+2019-03-01,Deutsche Bank,Hold,Hold,main,GPS
+2019-05-31,B. Riley FBR,Neutral,,reit,GPS
+2019-05-31,Nomura,Neutral,,main,GPS
+2019-05-31,Wedbush,Neutral,,main,GPS
+2019-05-31,Bank of America,Underperform,,reit,GPS
+2019-06-11,MKM Partners,Neutral,,main,GPS
+2019-08-23,Morgan Stanley,Underweight,,main,GPS
+2019-08-23,Credit Suisse,Neutral,,main,GPS
+2019-08-23,Wells Fargo,Market Perform,,main,GPS
+2019-09-13,Wells Fargo,Market Perform,,main,GPS
+2019-09-25,RBC Capital,Sector Perform,,main,GPS
+2019-09-30,Wells Fargo,Market Perform,,main,GPS
+2019-10-18,Credit Suisse,Underperform,Neutral,down,GPS
+2019-11-08,Deutsche Bank,Hold,,main,GPS
+2019-11-08,RBC Capital,Sector Perform,,main,GPS
+2019-11-13,Barclays,Underweight,,init,GPS
+2020-01-07,Jefferies,Hold,Buy,down,GPS
+2020-01-17,RBC Capital,Sector Perform,,main,GPS
+2020-02-04,BMO Capital,Market Perform,,init,GPS
+2020-03-12,Wedbush,Neutral,,main,GPS
+2020-03-13,CFRA,Sell,,main,GPS
+2020-03-13,Baird,Neutral,,main,GPS
+2020-03-13,MKM Partners,Neutral,,main,GPS
+2020-03-13,Credit Suisse,Underperform,,main,GPS
+2020-03-13,B. Riley FBR,Neutral,,main,GPS
+2020-03-16,Morgan Stanley,Underweight,,main,GPS
+2020-03-16,Wells Fargo,Equal-Weight,,main,GPS
+2020-03-19,Morgan Stanley,Underweight,,main,GPS
+2020-03-26,B. Riley FBR,Neutral,,main,GPS
+2020-03-30,Wells Fargo,Underweight,Equal-Weight,down,GPS
+2020-04-23,Morgan Stanley,Equal-Weight,Underweight,up,GPS
+2020-04-24,RBC Capital,Sector Perform,,main,GPS
+2020-04-30,UBS,Neutral,,main,GPS
+2020-05-12,Morgan Stanley,Equal-Weight,,main,GPS
+2020-05-19,B. Riley FBR,Neutral,,main,GPS
+2020-05-28,Wedbush,Neutral,,main,GPS
+2020-06-01,JP Morgan,Neutral,Underweight,up,GPS
+2020-06-05,MKM Partners,Neutral,,main,GPS
+2020-06-08,Deutsche Bank,Hold,,main,GPS
+2020-06-10,Morgan Stanley,Equal-Weight,,main,GPS
+2020-06-11,UBS,Neutral,,main,GPS
+2020-06-22,Wells Fargo,Overweight,Equal-Weight,up,GPS
+2020-06-29,Deutsche Bank,Hold,,main,GPS
+2020-07-15,RBC Capital,Outperform,Sector Perform,up,GPS
+2020-08-25,Citigroup,Buy,Neutral,up,GPS
+2020-08-28,B of A Securities,Neutral,Underperform,up,GPS
+2020-09-01,Morgan Stanley,Equal-Weight,,main,GPS
+2020-09-01,UBS,Neutral,,main,GPS
+2020-10-07,Barclays,Overweight,Underweight,up,GPS
+2020-10-14,Morgan Stanley,Equal-Weight,,main,GPS
+2020-10-15,B of A Securities,Neutral,,main,GPS
+2020-10-23,MKM Partners,Neutral,,main,GPS
+2020-10-28,Morgan Stanley,Equal-Weight,,main,GPS
+2020-11-20,Morgan Stanley,Equal-Weight,,main,GPS
+2020-11-23,JP Morgan,Overweight,Neutral,up,GPS
+2020-11-25,Credit Suisse,Underperform,,main,GPS
+2020-11-25,Citigroup,Neutral,Buy,down,GPS
+2020-11-25,B of A Securities,Neutral,,main,GPS
+2021-02-24,Morgan Stanley,Equal-Weight,,main,GPS
+2021-03-05,Morgan Stanley,Equal-Weight,,main,GPS
+2021-03-15,Wells Fargo,Overweight,,main,GPS
+2021-05-18,Credit Suisse,Neutral,Underperform,up,GPS
+2021-05-25,Telsey Advisory Group,Market Perform,,main,GPS
+2021-05-25,Morgan Stanley,Equal-Weight,,main,GPS
+2021-05-28,Telsey Advisory Group,Market Perform,,main,GPS
+2021-07-14,Goldman Sachs,Neutral,,init,GPS
+2021-07-26,Deutsche Bank,Buy,Hold,up,GPS
+2021-08-27,Telsey Advisory Group,Market Perform,,main,GPS
+2021-10-15,Wells Fargo,Overweight,,main,GPS
+2021-11-10,Deutsche Bank,Buy,,main,GPS
+2021-11-24,B of A Securities,Neutral,,main,GPS
+2021-11-24,MKM Partners,Neutral,,main,GPS
+2021-11-24,B. Riley Securities,Neutral,,main,GPS
+2021-11-24,Morgan Stanley,Equal-Weight,,main,GPS
+2021-11-24,Credit Suisse,Neutral,,main,GPS
+2021-11-24,Goldman Sachs,Neutral,,main,GPS
+2021-11-24,Wells Fargo,Overweight,,main,GPS
+2021-11-24,JP Morgan,Neutral,Overweight,down,GPS
+2021-11-24,Telsey Advisory Group,Market Perform,,main,GPS
+2021-12-14,Goldman Sachs,Neutral,,main,GPS
+2022-01-04,JP Morgan,Neutral,,main,GPS

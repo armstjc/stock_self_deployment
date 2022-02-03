@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-17,Deutsche Bank,Hold,,up,GFI
+2012-12-04,UBS,Buy,Neutral,up,GFI
+2013-02-12,Citigroup,Neutral,Sell,up,GFI
+2013-02-15,Bank of America,Neutral,Buy,down,GFI
+2013-02-15,CIBC,,Sector Perform,down,GFI
+2013-04-17,Deutsche Bank,Buy,Hold,up,GFI
+2013-04-29,HSBC,Neutral,Overweight,down,GFI
+2013-08-23,Citigroup,Sell,Neutral,down,GFI
+2013-10-03,CIBC,Sector Perform,Underperform,up,GFI
+2013-10-21,HSBC,Underweight,Neutral,down,GFI
+2013-11-05,Exane BNP Paribas,Buy,,init,GFI
+2013-11-25,Bank of America,Neutral,Underperform,up,GFI
+2014-02-18,Morgan Stanley,Equal-weight,Overweight,down,GFI
+2014-02-20,Goldman Sachs,,Neutral,down,GFI
+2014-02-27,HSBC,Neutral,Underweight,up,GFI
+2014-09-03,UBS,Buy,Neutral,up,GFI
+2015-05-13,UBS,Neutral,Sell,up,GFI
+2015-05-26,HSBC,Buy,Hold,up,GFI
+2015-06-02,RBC Capital,Outperform,Sector Perform,up,GFI
+2015-06-30,Goldman Sachs,Neutral,,up,GFI
+2015-08-31,Scotia Howard Weil,Sector Perform,,up,GFI
+2015-12-01,RBC Capital,Sector Perform,Outperform,down,GFI
+2016-01-15,Goldman Sachs,Neutral,Sell,up,GFI
+2016-03-15,Macquarie,Neutral,Outperform,down,GFI
+2016-03-24,Goldman Sachs,Sell,Neutral,down,GFI
+2016-06-22,RBC Capital,Outperform,Sector Perform,up,GFI
+2016-07-12,JP Morgan,Neutral,Underweight,up,GFI
+2016-12-12,RBC Capital,Sector Perform,Outperform,down,GFI
+2017-03-03,JP Morgan,Overweight,Neutral,up,GFI
+2018-04-09,JP Morgan,Overweight,Overweight,main,GFI
+2018-04-13,Bank of America,Buy,Underperform,up,GFI
+2018-12-10,BMO Capital,Underperform,,init,GFI
+2019-02-21,JP Morgan,Neutral,Overweight,down,GFI
+2019-06-26,RBC Capital,Sector Perform,Outperform,down,GFI
+2019-09-12,JP Morgan,Neutral,,main,GFI
+2020-06-22,JP Morgan,Overweight,Neutral,up,GFI
+2020-08-21,ScotiaBank,Sector Perform,,main,GFI
+2021-02-12,Goldman Sachs,Neutral,,init,GFI
+2021-05-24,RBC Capital,Sector Perform,,main,GFI
+2021-08-13,RBC Capital,Sector Perform,,main,GFI
+2021-10-12,RBC Capital,Outperform,Sector Perform,up,GFI

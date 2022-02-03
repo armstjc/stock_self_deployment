@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-30,William Blair,Outperform,,init,BHVN
+2017-05-30,Barclays,Overweight,,init,BHVN
+2017-09-25,Morgan Stanley,Overweight,,main,BHVN
+2017-10-03,Morgan Stanley,Overweight,,main,BHVN
+2018-03-27,Canaccord Genuity,Buy,Buy,main,BHVN
+2018-04-05,Barclays,Equal-Weight,Overweight,down,BHVN
+2018-06-12,Cantor Fitzgerald,Overweight,,init,BHVN
+2018-07-12,Cantor Fitzgerald,Overweight,Overweight,main,BHVN
+2018-07-13,Morgan Stanley,Overweight,Overweight,main,BHVN
+2018-08-23,Cantor Fitzgerald,Overweight,,init,BHVN
+2018-09-11,Morgan Stanley,Overweight,Overweight,main,BHVN
+2018-10-11,Morgan Stanley,Overweight,Overweight,main,BHVN
+2018-11-13,Leerink Swann,Outperform,,init,BHVN
+2018-11-13,Oppenheimer,Outperform,,init,BHVN
+2018-11-15,Cantor Fitzgerald,Overweight,Overweight,main,BHVN
+2019-04-09,Morgan Stanley,Equal-Weight,Overweight,down,BHVN
+2019-04-15,Oppenheimer,Outperform,Outperform,main,BHVN
+2019-04-15,Canaccord Genuity,Buy,Buy,main,BHVN
+2019-04-23,SVB Leerink,Outperform,,main,BHVN
+2019-05-06,Goldman Sachs,Buy,,init,BHVN
+2019-05-08,PiperJaffray,Overweight,,main,BHVN
+2019-05-14,Morgan Stanley,Equal-Weight,,main,BHVN
+2019-07-22,Morgan Stanley,Equal-Weight,,main,BHVN
+2019-11-22,Wedbush,Outperform,,init,BHVN
+2019-12-12,Wedbush,Outperform,,init,BHVN
+2020-02-06,Mizuho,Buy,,init,BHVN
+2020-02-10,Oppenheimer,Perform,Outperform,down,BHVN
+2020-03-13,Wedbush,Outperform,,main,BHVN
+2020-03-31,Oppenheimer,Perform,,main,BHVN
+2020-04-15,Morgan Stanley,Equal-Weight,,main,BHVN
+2020-04-17,Cowen & Co.,Outperform,,init,BHVN
+2020-05-11,Cantor Fitzgerald,Overweight,,main,BHVN
+2020-05-11,Morgan Stanley,Equal-Weight,,main,BHVN
+2020-06-10,Mizuho,Buy,,main,BHVN
+2020-08-24,Morgan Stanley,Equal-Weight,,main,BHVN
+2020-10-13,Morgan Stanley,Equal-Weight,,main,BHVN
+2020-11-16,Canaccord Genuity,Buy,,main,BHVN
+2020-12-07,SVB Leerink,Outperform,,main,BHVN
+2020-12-15,HC Wainwright & Co.,Buy,,init,BHVN
+2020-12-16,Morgan Stanley,Equal-Weight,,main,BHVN
+2021-01-19,HC Wainwright & Co.,Buy,,main,BHVN
+2021-03-11,UBS,Buy,,init,BHVN
+2021-04-19,Morgan Stanley,Equal-Weight,,main,BHVN
+2021-04-26,Mizuho,Buy,,main,BHVN
+2021-05-11,Mizuho,Buy,,main,BHVN
+2021-05-12,SVB Leerink,Outperform,,main,BHVN
+2021-05-18,Morgan Stanley,Equal-Weight,,main,BHVN
+2021-05-28,Mizuho,Buy,,main,BHVN
+2021-06-01,Cantor Fitzgerald,Overweight,,main,BHVN
+2021-07-08,HC Wainwright & Co.,Buy,,main,BHVN
+2021-07-12,Mizuho,Buy,,main,BHVN
+2021-07-16,Morgan Stanley,Equal-Weight,,main,BHVN
+2021-08-03,Canaccord Genuity,Buy,,main,BHVN
+2021-08-10,UBS,Neutral,Buy,down,BHVN
+2021-09-13,Cantor Fitzgerald,Overweight,,main,BHVN
+2021-10-05,Piper Sandler,Overweight,,main,BHVN
+2021-10-06,HC Wainwright & Co.,Buy,,main,BHVN
+2021-10-06,Goldman Sachs,Buy,,main,BHVN
+2021-10-19,Morgan Stanley,Equal-Weight,,main,BHVN
+2021-11-10,Mizuho,Buy,,main,BHVN
+2021-11-18,Mizuho,Buy,,main,BHVN

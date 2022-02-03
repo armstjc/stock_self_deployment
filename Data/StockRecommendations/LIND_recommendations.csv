@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-02-01,Credit Suisse,Outperform,,init,LIND
+2016-09-29,Deutsche Bank,Hold,,init,LIND
+2016-10-06,Citigroup,Buy,,main,LIND
+2017-04-18,Imperial Capital,Outperform,,init,LIND
+2018-03-05,Citigroup,Buy,Buy,main,LIND
+2018-05-04,Deutsche Bank,Hold,Hold,main,LIND
+2018-05-04,Imperial Capital,Outperform,Outperform,main,LIND
+2018-11-05,Deutsche Bank,Hold,Hold,main,LIND
+2019-02-15,Stifel Nicolaus,Buy,,init,LIND
+2019-07-02,Sidoti & Co.,Neutral,Buy,down,LIND
+2019-12-17,Janney Capital,Buy,,init,LIND
+2020-02-26,Deutsche Bank,Hold,,main,LIND
+2020-02-26,Stifel,Buy,,main,LIND
+2020-03-16,Craig-Hallum,Hold,Buy,down,LIND
+2020-03-25,Sidoti & Co.,Buy,Neutral,up,LIND
+2020-05-04,Craig-Hallum,Hold,,main,LIND
+2020-06-11,Stifel,Buy,,main,LIND
+2021-07-23,Craig-Hallum,Buy,Hold,up,LIND
+2021-12-09,William Blair,Market Perform,,init,LIND

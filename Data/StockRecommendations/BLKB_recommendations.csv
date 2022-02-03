@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Jefferies,Hold,,main,BLKB
+2012-08-08,Jefferies,Hold,,main,BLKB
+2012-11-02,Jefferies,Hold,,main,BLKB
+2013-02-13,JP Morgan,Neutral,,main,BLKB
+2013-02-13,Jefferies,Hold,,main,BLKB
+2013-02-14,Jefferies,Hold,,main,BLKB
+2013-08-27,Stifel Nicolaus,Buy,Hold,up,BLKB
+2014-01-30,JP Morgan,Underweight,Neutral,down,BLKB
+2014-04-22,Jefferies,Hold,,main,BLKB
+2014-08-01,JP Morgan,Underweight,,main,BLKB
+2015-05-01,SunTrust Robinson Humphrey,Buy,,init,BLKB
+2015-10-12,B. Riley FBR,Neutral,,init,BLKB
+2015-10-13,B. Riley FBR,Neutral,,init,BLKB
+2015-10-30,SunTrust Robinson Humphrey,Buy,,main,BLKB
+2015-11-19,Benchmark,Buy,,init,BLKB
+2015-12-10,Baird,Outperform,,init,BLKB
+2015-12-16,B. Riley FBR,Buy,Neutral,up,BLKB
+2016-02-18,Wunderlich,Buy,,init,BLKB
+2016-03-22,Pacific Crest,Sector Weight,,init,BLKB
+2016-06-27,Evercore ISI Group,Hold,,init,BLKB
+2016-10-13,JMP Securities,Outperform,,init,BLKB
+2016-11-23,Bank of America,Underperform,Neutral,down,BLKB
+2017-02-10,Wunderlich,Hold,Buy,down,BLKB
+2017-04-19,Raymond James,Outperform,,init,BLKB
+2017-05-03,B. Riley FBR,Neutral,Buy,down,BLKB
+2017-09-22,Citigroup,Buy,,init,BLKB
+2017-10-19,B. Riley FBR,Neutral,,main,BLKB
+2017-10-23,Baird,Neutral,,main,BLKB
+2017-10-27,Citigroup,Buy,,main,BLKB
+2017-10-30,Citigroup,Buy,,main,BLKB
+2017-10-31,Dougherty,Neutral,,init,BLKB
+2018-02-02,DA Davidson,Neutral,,init,BLKB
+2018-02-08,Stifel Nicolaus,Buy,Buy,main,BLKB
+2018-03-12,Evercore ISI Group,Underperform,In-Line,down,BLKB
+2018-03-22,Stifel Nicolaus,Buy,Buy,main,BLKB
+2018-05-02,B. Riley FBR,Neutral,Neutral,main,BLKB
+2018-07-19,Needham,Hold,,init,BLKB
+2018-07-23,KeyBanc,Sector Weight,,init,BLKB
+2018-10-09,DA Davidson,Neutral,Neutral,main,BLKB
+2018-10-09,Stifel Nicolaus,Hold,Buy,down,BLKB
+2018-10-09,Raymond James,Market Perform,Outperform,down,BLKB
+2018-10-09,JMP Securities,Market Perform,Market Outperform,down,BLKB
+2018-10-12,Baird,Neutral,Neutral,main,BLKB
+2019-01-17,Stephens & Co.,Overweight,,init,BLKB
+2019-04-03,Stephens & Co.,Equal-Weight,Overweight,down,BLKB
+2020-04-07,DA Davidson,Neutral,,main,BLKB
+2020-04-16,BTIG,Neutral,,init,BLKB
+2020-04-20,Evercore ISI Group,In-Line,Underperform,up,BLKB
+2020-08-28,Stephens & Co.,Overweight,,init,BLKB
+2021-02-10,Benchmark,Buy,Hold,up,BLKB

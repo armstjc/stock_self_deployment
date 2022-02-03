@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-17,Stifel,Buy,,init,MEG
+2020-08-17,Needham,Buy,,init,MEG
+2020-08-17,Exane BNP Paribas,Neutral,,init,MEG
+2020-08-17,B of A Securities,Neutral,,init,MEG
+2020-08-28,B of A Securities,Neutral,,main,MEG
+2020-09-01,Needham,Buy,,main,MEG
+2020-11-30,B of A Securities,Buy,Neutral,up,MEG
+2020-12-04,HC Wainwright & Co.,Buy,,main,MEG
+2020-12-04,Needham,Buy,,main,MEG
+2021-03-25,Needham,Buy,,main,MEG
+2021-03-26,Morgan Stanley,Equal-Weight,,init,MEG
+2021-04-19,Needham,Buy,,main,MEG
+2021-04-21,JP Morgan,Neutral,,init,MEG
+2021-05-13,Needham,Buy,,main,MEG
+2021-06-16,Morgan Stanley,Equal-Weight,,main,MEG
+2021-10-01,Needham,Buy,,main,MEG
+2021-11-11,Needham,Buy,,main,MEG

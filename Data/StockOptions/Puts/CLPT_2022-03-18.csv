@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CLPT220318P00007500,2022-02-01 17:34:12+00:00,7.5,0.46,0.25,0.6,0.0,0.0,10,20,0.789064609375,False,REGULAR,USD,CLPT

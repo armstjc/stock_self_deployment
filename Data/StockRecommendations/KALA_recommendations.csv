@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-08-14,JP Morgan,Overweight,,init,KALA
+2017-08-14,Wedbush,Outperform,,init,KALA
+2017-08-14,Wells Fargo,Outperform,,init,KALA
+2018-01-25,Wells Fargo,Outperform,Outperform,main,KALA
+2018-07-23,H.C. Wainwright,Buy,,init,KALA
+2018-08-24,H.C. Wainwright,Buy,Buy,main,KALA
+2018-11-14,JP Morgan,Overweight,Overweight,main,KALA
+2019-03-14,Jefferies,Buy,,init,KALA
+2019-04-25,Oppenheimer,Outperform,,init,KALA
+2019-08-07,H.C. Wainwright,Buy,,reit,KALA
+2019-11-08,JP Morgan,Overweight,,main,KALA
+2019-12-17,Bank of America,Neutral,Buy,down,KALA
+2020-03-10,Oppenheimer,Outperform,,main,KALA
+2020-03-10,Wedbush,Outperform,,main,KALA
+2020-03-18,HC Wainwright & Co.,Buy,,main,KALA
+2020-05-27,HC Wainwright & Co.,Buy,,reit,KALA
+2020-05-27,JP Morgan,Overweight,,main,KALA
+2020-06-01,Oppenheimer,Outperform,,main,KALA
+2020-07-23,Northland Capital Markets,Outperform,,init,KALA
+2020-09-14,Jefferies,Hold,Buy,down,KALA
+2021-05-06,HC Wainwright & Co.,Buy,,main,KALA
+2021-08-06,JP Morgan,Neutral,Overweight,down,KALA
+2021-08-06,HC Wainwright & Co.,Buy,,main,KALA

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ANTE220218C00002500,2022-01-25 18:39:17+00:00,2.5,0.15,0.0,0.15,0.10000001,200.00003,1,4,2.2187544531249994,False,REGULAR,USD,ANTE

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-13,Baird,Outperform,,init,BBCP
+2019-05-17,William Blair,Outperform,,init,BBCP
+2019-05-23,Stifel Nicolaus,Buy,,init,BBCP
+2020-03-17,B. Riley FBR,Buy,,main,BBCP
+2020-03-18,DA Davidson,Neutral,,init,BBCP
+2020-03-24,Baird,Neutral,Outperform,down,BBCP
+2020-04-03,B. Riley FBR,Neutral,Buy,down,BBCP
+2020-05-19,DA Davidson,Neutral,,main,BBCP
+2020-06-10,Stifel,Buy,,main,BBCP
+2020-08-10,UBS,Neutral,,init,BBCP
+2020-09-10,B. Riley FBR,Buy,Neutral,up,BBCP
+2020-12-14,DA Davidson,Buy,Neutral,up,BBCP
+2021-01-05,Baird,Outperform,Neutral,up,BBCP
+2021-06-25,UBS,Buy,Neutral,up,BBCP

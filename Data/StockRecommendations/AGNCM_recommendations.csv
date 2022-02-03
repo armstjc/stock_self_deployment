@@ -1,0 +1,115 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Citigroup,Neutral,,main,AGNCM
+2012-02-08,Jefferies,Buy,,main,AGNCM
+2012-02-08,Sterne Agee,Neutral,,down,AGNCM
+2012-03-14,Guggenheim,Neutral,,main,AGNCM
+2012-05-03,Guggenheim,Neutral,,main,AGNCM
+2012-05-04,UBS,Buy,,main,AGNCM
+2012-05-04,UBS,Buy,,main,AGNCM
+2012-05-04,Deutsche Bank,Hold,,main,AGNCM
+2012-05-04,Citigroup,Neutral,,main,AGNCM
+2012-07-12,Stifel Nicolaus,Buy,,main,AGNCM
+2012-07-18,Wunderlich,Hold,Buy,down,AGNCM
+2012-07-18,Deutsche Bank,Hold,,main,AGNCM
+2012-08-03,Credit Suisse,Outperform,,main,AGNCM
+2012-08-06,Jefferies,Buy,,main,AGNCM
+2012-08-06,Wunderlich,Hold,,main,AGNCM
+2012-08-15,Macquarie,Neutral,Outperform,down,AGNCM
+2012-09-17,Wunderlich,Hold,,main,AGNCM
+2012-09-18,Jefferies,Hold,Buy,down,AGNCM
+2012-10-15,Sterne Agee,Buy,Neutral,up,AGNCM
+2012-10-16,Sterne Agee,Buy,Neutral,up,AGNCM
+2012-10-31,Wunderlich,Buy,Hold,up,AGNCM
+2012-11-02,Jefferies,Hold,,main,AGNCM
+2012-11-02,Compass Point,Buy,,main,AGNCM
+2012-11-05,Deutsche Bank,Hold,,main,AGNCM
+2012-11-07,Stifel Nicolaus,Buy,,main,AGNCM
+2013-01-08,Jefferies,Hold,,main,AGNCM
+2013-02-11,Jefferies,Hold,,main,AGNCM
+2013-02-11,Wunderlich,Buy,,main,AGNCM
+2013-05-03,Credit Suisse,Outperform,,main,AGNCM
+2013-05-03,Deutsche Bank,Hold,,main,AGNCM
+2013-05-03,Wunderlich,Buy,,main,AGNCM
+2013-05-06,Nomura,Neutral,Buy,down,AGNCM
+2013-06-17,Barclays,Equal-Weight,Overweight,down,AGNCM
+2013-06-19,Deutsche Bank,Hold,,main,AGNCM
+2013-07-11,Evercore Partners,Equal-Weight,Overweight,down,AGNCM
+2013-07-30,Compass Point,Buy,,main,AGNCM
+2013-07-31,Wunderlich,Hold,,main,AGNCM
+2013-08-02,Nomura,Neutral,,main,AGNCM
+2013-09-16,Sandler O'Neill,Sell,Hold,down,AGNCM
+2013-09-26,JP Morgan,Neutral,,init,AGNCM
+2013-10-29,Bank of America,Neutral,Buy,down,AGNCM
+2013-12-05,Goldman Sachs,Sell,,init,AGNCM
+2013-12-19,Sandler O'Neill,Hold,Sell,up,AGNCM
+2014-02-05,JP Morgan,Overweight,Neutral,up,AGNCM
+2014-03-24,Compass Point,Neutral,Buy,down,AGNCM
+2014-04-16,JP Morgan,Overweight,,main,AGNCM
+2014-04-29,Deutsche Bank,Hold,,main,AGNCM
+2014-04-30,Keefe Bruyette & Woods,Outperform,,main,AGNCM
+2014-06-12,JP Morgan,Overweight,,main,AGNCM
+2014-07-29,Credit Suisse,Outperform,,main,AGNCM
+2014-07-29,Wunderlich,Buy,Hold,up,AGNCM
+2014-07-31,Citigroup,Neutral,,main,AGNCM
+2014-10-29,Keefe Bruyette & Woods,Outperform,,main,AGNCM
+2014-11-07,JP Morgan,Overweight,,main,AGNCM
+2015-02-02,JP Morgan,Overweight,,main,AGNCM
+2015-02-03,Deutsche Bank,Hold,,main,AGNCM
+2015-04-29,JP Morgan,Overweight,,main,AGNCM
+2015-04-29,UBS,Sell,Neutral,down,AGNCM
+2015-06-17,Bank of America,Underperform,Neutral,down,AGNCM
+2015-07-07,Wells Fargo,Outperform,Market Perform,up,AGNCM
+2015-07-29,Barclays,Equal-Weight,,main,AGNCM
+2015-08-03,Deutsche Bank,Hold,,main,AGNCM
+2015-08-12,Nomura,Buy,Neutral,up,AGNCM
+2015-08-13,Compass Point,Buy,Neutral,up,AGNCM
+2015-10-27,Wunderlich,Hold,Buy,down,AGNCM
+2015-12-16,Morgan Stanley,Underweight,Equal-Weight,down,AGNCM
+2016-02-09,Deutsche Bank,Hold,,main,AGNCM
+2016-06-29,Bank of America,Neutral,Underperform,up,AGNCM
+2016-07-08,Nomura,Neutral,Buy,down,AGNCM
+2016-07-18,JP Morgan,Neutral,Overweight,down,AGNCM
+2016-08-01,Deutsche Bank,Hold,,main,AGNCM
+2016-08-03,Citigroup,Neutral,,main,AGNCM
+2016-12-02,Credit Suisse,Neutral,Outperform,down,AGNCM
+2016-12-08,Compass Point,Neutral,Buy,down,AGNCM
+2016-12-15,Bank of America,Underperform,Neutral,down,AGNCM
+2017-04-11,Wells Fargo,Market Perform,Outperform,down,AGNCM
+2018-02-02,Barclays,Equal-Weight,Equal-Weight,main,AGNCM
+2018-04-27,Barclays,Equal-Weight,Equal-Weight,main,AGNCM
+2018-04-27,Maxim Group,Buy,Buy,main,AGNCM
+2018-07-23,JP Morgan,Neutral,Neutral,main,AGNCM
+2018-07-27,Maxim Group,Buy,Buy,main,AGNCM
+2018-12-14,Barclays,Overweight,Equal-Weight,up,AGNCM
+2018-12-20,JP Morgan,Overweight,Neutral,up,AGNCM
+2019-03-27,Nomura,Neutral,,init,AGNCM
+2019-06-21,UBS,Neutral,,init,AGNCM
+2019-07-24,JP Morgan,Overweight,,main,AGNCM
+2019-10-03,RBC Capital,Sector Perform,,init,AGNCM
+2020-01-10,Wedbush,Neutral,,init,AGNCM
+2020-01-30,Deutsche Bank,Hold,,main,AGNCM
+2020-03-04,Wedbush,Outperform,Neutral,up,AGNCM
+2020-03-16,Nomura,Buy,Neutral,up,AGNCM
+2020-03-25,Maxim Group,Hold,Buy,down,AGNCM
+2020-04-09,Wedbush,Outperform,,main,AGNCM
+2020-04-16,JMP Securities,Market Outperform,Market Perform,up,AGNCM
+2020-04-28,B of A Securities,Buy,Neutral,up,AGNCM
+2020-04-29,Barclays,Overweight,,main,AGNCM
+2020-04-29,UBS,Neutral,,main,AGNCM
+2020-04-29,JP Morgan,Overweight,,main,AGNCM
+2020-04-29,RBC Capital,Outperform,Sector Perform,up,AGNCM
+2020-04-30,Credit Suisse,Neutral,,main,AGNCM
+2020-05-21,B of A Securities,Buy,,main,AGNCM
+2020-07-24,Deutsche Bank,Buy,Hold,up,AGNCM
+2020-07-29,Barclays,Overweight,,main,AGNCM
+2020-11-24,BTIG,Buy,,init,AGNCM
+2020-11-25,B of A Securities,Buy,,main,AGNCM
+2020-12-08,Piper Sandler,Overweight,,init,AGNCM
+2021-01-22,JMP Securities,Market Outperform,,main,AGNCM
+2021-04-28,Barclays,Overweight,,main,AGNCM
+2021-06-07,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,AGNCM
+2021-07-30,JMP Securities,Market Outperform,,main,AGNCM
+2021-10-06,Piper Sandler,Neutral,Overweight,down,AGNCM
+2021-10-27,Barclays,Equal-Weight,Overweight,down,AGNCM
+2021-10-28,JMP Securities,Market Perform,Market Outperform,down,AGNCM
+2021-11-01,RBC Capital,Outperform,,main,AGNCM

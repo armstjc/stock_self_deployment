@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-04-11,Bank of America,Buy,,init,HCM
+2016-04-11,Canaccord Genuity,Buy,,init,HCM
+2016-04-11,Stifel Nicolaus,Buy,,init,HCM
+2017-10-17,Canaccord Genuity,Buy,,main,HCM
+2019-03-04,Deutsche Bank,Buy,,init,HCM
+2019-11-19,CLSA,Buy,,init,HCM
+2020-02-20,Goldman Sachs,Buy,,init,HCM
+2020-03-13,Cantor Fitzgerald,Overweight,,init,HCM
+2021-08-03,Jefferies,Buy,,init,HCM
+2021-09-22,Goldman Sachs,Neutral,Buy,down,HCM

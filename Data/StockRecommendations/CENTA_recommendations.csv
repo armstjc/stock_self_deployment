@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-07,Johnson Rice,Equal-Weight,Overweight,down,CENTA
+2016-02-22,KeyBanc,Sector Weight,,init,CENTA
+2016-06-16,SunTrust Robinson Humphrey,Buy,Neutral,up,CENTA
+2017-04-19,Argus,Buy,,init,CENTA
+2017-10-16,Sidoti & Co.,Neutral,Buy,down,CENTA
+2018-01-23,KeyBanc,Overweight,Sector Weight,up,CENTA
+2018-09-10,Bank of America,Buy,,init,CENTA
+2018-10-11,KeyBanc,Overweight,,init,CENTA
+2019-08-02,KeyBanc,Overweight,,main,CENTA
+2019-08-02,SunTrust Robinson Humphrey,Hold,Buy,down,CENTA
+2019-11-27,KeyBanc,Overweight,,main,CENTA
+2020-02-06,KeyBanc,Overweight,,main,CENTA
+2020-02-06,SunTrust Robinson Humphrey,Hold,,main,CENTA
+2020-03-18,B of A Securities,Buy,Neutral,up,CENTA
+2020-05-07,SunTrust Robinson Humphrey,Hold,,main,CENTA
+2020-05-07,KeyBanc,Overweight,,main,CENTA
+2020-05-14,SunTrust Robinson Humphrey,Hold,,main,CENTA
+2020-08-03,KeyBanc,Overweight,,main,CENTA
+2020-08-06,KeyBanc,Overweight,,main,CENTA
+2021-02-04,KeyBanc,Overweight,,main,CENTA
+2021-03-24,Truist Securities,Buy,Hold,up,CENTA
+2021-04-12,Keybanc,Overweight,,main,CENTA
+2021-05-06,Keybanc,Overweight,,main,CENTA
+2021-05-10,Truist Securities,Buy,,init,CENTA
+2021-05-14,Argus Research,Buy,Hold,up,CENTA
+2021-11-30,Argus Research,Hold,Buy,down,CENTA

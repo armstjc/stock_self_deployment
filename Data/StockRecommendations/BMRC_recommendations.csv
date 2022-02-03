@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-01,Stifel Nicolaus,Buy,,init,BMRC
+2012-10-10,DA Davidson,Buy,,main,BMRC
+2012-10-11,Stifel Nicolaus,Buy,,main,BMRC
+2012-10-22,DA Davidson,Buy,,main,BMRC
+2012-10-23,Wunderlich,Hold,Buy,down,BMRC
+2012-10-23,Stifel Nicolaus,Buy,,main,BMRC
+2013-01-22,DA Davidson,Buy,,main,BMRC
+2013-07-22,DA Davidson,Neutral,Buy,down,BMRC
+2013-07-22,DA Davidson,Neutral,Buy,down,BMRC
+2013-07-23,DA Davidson,Neutral,Buy,down,BMRC
+2013-07-23,Raymond James,Market Perform,Outperform,down,BMRC
+2014-01-28,FIG Partners,Outperform,Market Perform,up,BMRC
+2014-04-09,Raymond James,Outperform,Market Perform,up,BMRC
+2014-07-22,Sandler O'Neill,Buy,Hold,up,BMRC
+2014-10-21,Keefe Bruyette & Woods,Market Perform,Outperform,down,BMRC
+2015-01-27,Raymond James,Market Perform,Outperform,down,BMRC
+2015-01-27,FIG Partners,Market Perform,Outperform,down,BMRC
+2015-01-27,Keefe Bruyette & Woods,Market Perform,,main,BMRC
+2015-10-19,Keefe Bruyette & Woods,Market Perform,,main,BMRC
+2017-01-18,PiperJaffray,Neutral,,init,BMRC
+2020-09-29,Janney Capital,Buy,Neutral,up,BMRC
+2020-12-16,Janney Capital,Neutral,Buy,down,BMRC
+2021-07-20,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BMRC
+2021-12-28,Stephens & Co.,Equal-Weight,,init,BMRC

@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,SunTrust Robinson Humphrey,Buy,,init,CLDT
+2013-01-22,Stifel Nicolaus,Buy,,main,CLDT
+2013-01-31,SunTrust Robinson Humphrey,Neutral,Buy,down,CLDT
+2013-02-20,Stifel Nicolaus,Buy,,main,CLDT
+2013-04-05,Stifel Nicolaus,Buy,,main,CLDT
+2013-05-08,Stifel Nicolaus,Buy,,main,CLDT
+2013-10-07,Cantor Fitzgerald,Buy,,init,CLDT
+2014-05-12,FBR Capital,Outperform,,main,CLDT
+2014-06-18,FBR Capital,Outperform,,main,CLDT
+2014-07-11,JMP Securities,Market Outperform,,main,CLDT
+2014-08-06,Barclays,Overweight,,main,CLDT
+2014-11-05,FBR Capital,Outperform,,main,CLDT
+2014-11-13,JMP Securities,Market Outperform,,main,CLDT
+2014-11-14,Barclays,Overweight,,main,CLDT
+2015-01-16,Barclays,Overweight,,main,CLDT
+2015-02-25,JMP Securities,Market Outperform,,main,CLDT
+2015-08-11,JMP Securities,Market Outperform,,main,CLDT
+2015-12-18,Barclays,Overweight,,main,CLDT
+2016-01-08,BB&T Capital,Buy,,init,CLDT
+2016-03-09,Barclays,Overweight,,main,CLDT
+2016-08-04,Barclays,Equal-Weight,Overweight,down,CLDT
+2016-08-04,SunTrust Robinson Humphrey,Neutral,,main,CLDT
+2016-08-04,FBR Capital,Market Perform,Outperform,down,CLDT
+2016-10-11,Barclays,Equal-Weight,,main,CLDT
+2016-10-12,Cantor Fitzgerald,Hold,Buy,down,CLDT
+2017-08-28,JMP Securities,Market Outperform,Market Perform,up,CLDT
+2017-11-01,Barclays,Equal-Weight,,main,CLDT
+2018-02-27,B. Riley FBR,Neutral,,main,CLDT
+2018-02-27,Barclays,Equal-Weight,Equal-Weight,main,CLDT
+2018-08-02,B. Riley FBR,Neutral,Neutral,main,CLDT
+2019-08-02,B. Riley FBR,Neutral,,main,CLDT
+2020-03-03,B. Riley FBR,Neutral,,main,CLDT
+2020-03-17,Stifel,Hold,,main,CLDT
+2020-03-24,B. Riley,Buy,Neutral,up,CLDT
+2020-03-24,B. Riley FBR,Buy,Neutral,up,CLDT
+2020-04-29,Stifel,Hold,,main,CLDT
+2020-05-13,B. Riley FBR,Buy,,main,CLDT
+2020-12-02,B. Riley FBR,Neutral,Buy,down,CLDT
+2021-01-06,Janney Capital,Buy,Neutral,up,CLDT
+2021-04-28,Barclays,Equal-Weight,,main,CLDT
+2021-05-13,Stifel,Buy,Hold,up,CLDT
+2021-06-04,Barclays,Equal-Weight,,main,CLDT
+2021-08-04,B. Riley Securities,Buy,Neutral,up,CLDT
+2021-09-01,Barclays,Overweight,Equal-Weight,up,CLDT

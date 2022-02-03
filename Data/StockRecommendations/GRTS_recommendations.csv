@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-10-23,Barclays,Overweight,,init,GRTS
+2018-10-23,BTIG Research,Buy,,init,GRTS
+2018-10-23,Goldman Sachs,Neutral,,init,GRTS
+2018-10-23,Cowen & Co.,Outperform,,init,GRTS
+2019-03-07,H.C. Wainwright,Buy,,init,GRTS
+2019-03-15,Raymond James,Outperform,,init,GRTS
+2019-07-26,Baird,Outperform,,init,GRTS
+2020-07-14,BTIG,Buy,,main,GRTS
+2021-01-20,HC Wainwright & Co.,Buy,,main,GRTS
+2021-01-20,Baird,Underperform,Outperform,down,GRTS

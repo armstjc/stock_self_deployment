@@ -1,0 +1,103 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-09,Feltl & Co.,Hold,,down,HIBB
+2012-03-12,Morgan Keegan,Outperform,,main,HIBB
+2012-05-18,Feltl & Co.,Hold,,main,HIBB
+2012-05-21,Canaccord Genuity,Hold,,main,HIBB
+2012-08-17,Feltl & Co.,Hold,,main,HIBB
+2012-08-20,Raymond James,Market Perform,Outperform,down,HIBB
+2012-08-20,PiperJaffray,Neutral,,main,HIBB
+2012-08-20,Canaccord Genuity,Hold,,main,HIBB
+2012-11-12,Needham,Buy,Hold,up,HIBB
+2012-11-19,Canaccord Genuity,Hold,,main,HIBB
+2012-12-17,Feltl & Co.,Buy,Hold,up,HIBB
+2013-03-15,PiperJaffray,Neutral,,main,HIBB
+2013-03-18,Canaccord Genuity,Hold,,main,HIBB
+2013-05-20,PiperJaffray,Neutral,,main,HIBB
+2013-05-24,Feltl & Co.,Hold,Buy,down,HIBB
+2013-06-28,Stephens & Co.,Equal-Weight,Overweight,down,HIBB
+2013-11-13,Susquehanna,Neutral,Positive,down,HIBB
+2013-11-19,Canaccord Genuity,Hold,,main,HIBB
+2013-12-23,Sidoti & Co.,Neutral,Buy,down,HIBB
+2014-02-14,Deutsche Bank,Hold,,init,HIBB
+2014-02-19,Stifel Nicolaus,Sell,Hold,down,HIBB
+2014-02-24,Stifel Nicolaus,Sell,Hold,down,HIBB
+2014-04-08,PiperJaffray,Overweight,Neutral,up,HIBB
+2014-04-28,Bank of America,Buy,,init,HIBB
+2014-06-25,BMO Capital,Outperform,,init,HIBB
+2014-08-08,BMO Capital,Market Perform,Outperform,down,HIBB
+2014-08-08,Credit Suisse,Underperform,Neutral,down,HIBB
+2014-08-08,Deutsche Bank,Hold,,main,HIBB
+2014-08-08,Sterne Agee,Neutral,Buy,down,HIBB
+2014-09-17,PiperJaffray,Neutral,Overweight,down,HIBB
+2014-10-07,Bank of America,Neutral,Buy,down,HIBB
+2014-11-24,Bank of America,Neutral,,main,HIBB
+2015-03-09,Susquehanna,Neutral,,main,HIBB
+2015-03-12,Imperial Capital,In-Line,,init,HIBB
+2015-03-16,SunTrust Robinson Humphrey,Buy,,main,HIBB
+2015-03-16,Deutsche Bank,Hold,,main,HIBB
+2015-03-16,Sterne Agee,Underperform,,down,HIBB
+2015-07-29,Sterne Agee CRT,Neutral,Underperform,up,HIBB
+2015-08-11,Canaccord Genuity,Hold,,main,HIBB
+2015-08-11,Credit Suisse,Underperform,,main,HIBB
+2015-08-11,Stifel Nicolaus,Sell,,main,HIBB
+2015-08-24,PiperJaffray,Neutral,,main,HIBB
+2015-08-24,BMO Capital,Market Perform,,main,HIBB
+2015-09-02,Susquehanna,Neutral,,main,HIBB
+2015-10-02,Barrington Research,Market Perform,,init,HIBB
+2015-10-15,Brean Capital,Sell,,init,HIBB
+2015-11-04,Deutsche Bank,Hold,,main,HIBB
+2015-11-12,Susquehanna,Perform,,main,HIBB
+2015-11-18,SunTrust Robinson Humphrey,Buy,,main,HIBB
+2015-12-18,B. Riley FBR,Neutral,,init,HIBB
+2016-02-11,Credit Suisse,Underperform,,main,HIBB
+2016-03-11,Feltl & Co.,Hold,,down,HIBB
+2016-03-14,Canaccord Genuity,Hold,,main,HIBB
+2016-03-14,Deutsche Bank,Hold,,main,HIBB
+2016-03-15,Goldman Sachs,Sell,Neutral,down,HIBB
+2016-04-04,Sterne Agee CRT,Buy,Neutral,up,HIBB
+2016-04-06,Bank of America,Underperform,Neutral,down,HIBB
+2016-04-29,MKM Partners,Neutral,,init,HIBB
+2016-05-16,Susquehanna,Neutral,,main,HIBB
+2016-06-24,Stifel Nicolaus,Hold,,init,HIBB
+2016-08-12,Susquehanna,Positive,,init,HIBB
+2017-01-30,Goldman Sachs,Neutral,Sell,up,HIBB
+2017-02-14,SunTrust Robinson Humphrey,Hold,Buy,down,HIBB
+2017-02-14,Susquehanna,Neutral,Positive,down,HIBB
+2017-07-17,Buckingham,Neutral,,init,HIBB
+2017-08-21,Bank of America,Underperform,,main,HIBB
+2017-08-21,Canaccord Genuity,Hold,,main,HIBB
+2017-09-20,Susquehanna,Positive,Neutral,up,HIBB
+2017-10-24,Oppenheimer,Perform,Outperform,down,HIBB
+2017-11-20,Bank of America,Underperform,,main,HIBB
+2017-11-20,BMO Capital,Market Perform,,main,HIBB
+2017-11-21,Buckingham,Underperform,Neutral,down,HIBB
+2018-01-08,Canaccord Genuity,Buy,Hold,up,HIBB
+2018-01-16,Bank of America,Buy,Underperform,up,HIBB
+2018-02-27,BMO Capital,Market Perform,Market Perform,main,HIBB
+2018-03-19,Canaccord Genuity,Buy,Buy,main,HIBB
+2018-03-19,Credit Suisse,Underperform,Underperform,main,HIBB
+2018-03-19,Bank of America,Buy,Buy,main,HIBB
+2018-05-22,Canaccord Genuity,Buy,Buy,main,HIBB
+2018-06-18,Bank of America,Underperform,Buy,down,HIBB
+2018-06-29,Credit Suisse,Underperform,Underperform,main,HIBB
+2018-08-16,Stifel Nicolaus,Hold,Hold,main,HIBB
+2018-08-23,Stephens & Co.,Equal-Weight,Equal-Weight,main,HIBB
+2018-08-27,Stifel Nicolaus,Hold,Hold,main,HIBB
+2018-08-27,Deutsche Bank,Hold,Hold,main,HIBB
+2018-08-27,Canaccord Genuity,Hold,Buy,down,HIBB
+2018-10-25,Susquehanna,Neutral,Positive,down,HIBB
+2019-03-21,Consumer Edge Research,Equal-Weight,Overweight,down,HIBB
+2019-03-25,Susquehanna,Positive,Neutral,up,HIBB
+2019-08-26,Bank of America,Underperform,,reit,HIBB
+2019-11-25,Bank of America,Underperform,,main,HIBB
+2019-11-25,Credit Suisse,Underperform,,main,HIBB
+2019-12-02,Bank of America,Underperform,,main,HIBB
+2020-04-06,Susquehanna,Neutral,,main,HIBB
+2020-05-27,Susquehanna,Positive,Neutral,up,HIBB
+2020-07-02,B of A Securities,Buy,Underperform,up,HIBB
+2020-08-31,Credit Suisse,Underperform,,main,HIBB
+2021-06-23,"Monness, Crespi, Hardt",Buy,Neutral,up,HIBB
+2021-07-08,Telsey Advisory Group,Outperform,,init,HIBB
+2021-07-14,Benchmark,Buy,,init,HIBB
+2021-12-02,B of A Securities,Neutral,Buy,down,HIBB
+2021-12-06,Baird,Outperform,Neutral,up,HIBB

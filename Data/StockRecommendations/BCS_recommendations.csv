@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Deutsche Bank,Hold,Buy,down,BCS
+2012-07-06,Bernstein,Market Perform,Outperform,down,BCS
+2012-07-30,Societe Generale,Buy,Hold,up,BCS
+2012-09-06,Credit Suisse,Neutral,Outperform,down,BCS
+2012-09-07,Deutsche Bank,Buy,Hold,up,BCS
+2012-10-19,Canaccord Genuity,Hold,Buy,down,BCS
+2012-11-19,Goldman Sachs,Buy,Neutral,up,BCS
+2013-01-10,HSBC,Overweight,Neutral,up,BCS
+2013-02-08,Macquarie,Neutral,Underperform,up,BCS
+2013-02-14,Investec,Hold,Buy,down,BCS
+2013-02-20,Goldman Sachs,Neutral,Buy,down,BCS
+2013-02-21,Bernstein,Outperform,Market Perform,up,BCS
+2013-02-27,Numis Securities,Buy,Add,up,BCS
+2013-03-14,Oriel,Buy,Hold,up,BCS
+2013-07-31,Societe Generale,Hold,Buy,down,BCS
+2013-07-31,Bernstein,Market Perform,Outperform,down,BCS
+2013-09-12,Investec,Add,Buy,down,BCS
+2013-09-13,Jefferies,Buy,,init,BCS
+2013-09-13,Jefferies,Buy,,init,BCS
+2013-09-16,Nomura,Buy,Reduce,up,BCS
+2013-10-02,Societe Generale,Buy,Hold,up,BCS
+2013-10-04,Investec,,Add,up,BCS
+2014-03-13,Numis Securities,Add,,up,BCS
+2014-05-01,UBS,Buy,Neutral,up,BCS
+2014-05-15,Redburn Partners,Buy,,up,BCS
+2014-06-23,Canaccord Genuity,Buy,Hold,up,BCS
+2014-07-07,Macquarie,Outperform,Neutral,up,BCS
+2015-05-01,Berenberg,Sell,Hold,down,BCS
+2015-08-25,Investec,Buy,Sell,up,BCS
+2015-11-20,Morgan Stanley,Equal-Weight,Overweight,down,BCS
+2016-01-22,Berenberg,Hold,Sell,up,BCS
+2016-03-04,Deutsche Bank,Hold,Buy,down,BCS
+2016-03-16,Keefe Bruyette & Woods,Market Perform,Outperform,down,BCS
+2016-03-22,HSBC,Hold,Buy,down,BCS
+2016-05-12,Exane BNP Paribas,Neutral,Underperform,up,BCS
+2016-05-26,Exane BNP Paribas,Positive,Equal-Weight,up,BCS
+2016-06-27,Bank of America,Neutral,,down,BCS
+2016-06-27,Exane BNP Paribas,Neutral,Outperform,down,BCS
+2016-06-27,Jefferies,Underperform,,down,BCS
+2016-06-27,JP Morgan,Neutral,,down,BCS
+2016-06-28,Goldman Sachs,Neutral,Buy,down,BCS
+2016-07-20,UBS,Neutral,Buy,down,BCS
+2016-08-08,Exane BNP Paribas,Outperform,Neutral,up,BCS
+2016-09-21,HSBC,Buy,Hold,up,BCS
+2016-12-08,Jefferies,Hold,Underperform,up,BCS
+2017-01-09,Deutsche Bank,Buy,Hold,up,BCS
+2017-01-30,Berenberg,Sell,Hold,down,BCS
+2017-03-17,Morgan Stanley,Overweight,Equal-Weight,up,BCS
+2017-11-20,Bank of America,Buy,Underperform,up,BCS
+2018-03-08,Goldman Sachs,Neutral,Sell,up,BCS
+2018-04-16,Jefferies,Buy,Hold,up,BCS
+2018-06-19,Bank of America,Neutral,Buy,down,BCS
+2018-10-01,Berenberg,Buy,Hold,up,BCS
+2018-11-09,Credit Suisse,Neutral,Outperform,down,BCS
+2019-08-21,Exane BNP Paribas,Neutral,Underperform,up,BCS
+2019-09-05,Keefe Bruyette & Woods,Market Perform,Underperform,up,BCS
+2019-10-22,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BCS
+2019-11-26,Exane BNP Paribas,Outperform,Neutral,up,BCS
+2020-02-11,Credit Suisse,Neutral,,init,BCS
+2020-07-10,Investec,Buy,Hold,up,BCS
+2021-03-12,Goldman Sachs,Buy,Neutral,up,BCS
+2021-03-16,Credit Suisse,Outperform,Neutral,up,BCS
+2021-09-30,Redburn Partners,Buy,Neutral,up,BCS

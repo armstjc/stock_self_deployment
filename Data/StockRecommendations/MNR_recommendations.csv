@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,Wunderlich,Buy,,main,MNR
+2012-07-24,BMO Capital,Market Perform,,init,MNR
+2013-02-11,Wunderlich,Buy,,main,MNR
+2013-04-22,McNicoll Lewis Vlak,Hold,,init,MNR
+2013-08-12,Wunderlich,Buy,,main,MNR
+2014-02-11,BMO Capital,Outperform,Market Perform,up,MNR
+2015-02-06,Wunderlich,Buy,,main,MNR
+2015-04-10,DA Davidson,Neutral,,init,MNR
+2015-08-10,Wunderlich,Buy,,main,MNR
+2015-08-24,BMO Capital,Outperform,,main,MNR
+2016-07-19,Janney Capital,Buy,,init,MNR
+2016-12-01,DA Davidson,Neutral,,main,MNR
+2017-05-18,DA Davidson,Buy,Neutral,up,MNR
+2017-09-12,BMO Capital,Market Perform,,init,MNR
+2018-02-09,B. Riley FBR,Neutral,Buy,down,MNR
+2018-06-29,Boenning & Scattergood,Outperform,,init,MNR
+2018-10-09,B. Riley FBR,Buy,Neutral,up,MNR
+2019-03-08,JP Morgan,Neutral,,init,MNR
+2019-09-06,Compass Point,Buy,,init,MNR
+2019-12-18,JP Morgan,Underweight,Neutral,down,MNR
+2020-05-21,JP Morgan,Underweight,,main,MNR
+2020-08-24,RBC Capital,Sector Perform,,main,MNR
+2020-10-28,Berenberg,Buy,,init,MNR
+2021-05-27,Berenberg,Hold,Buy,down,MNR
+2021-07-22,Compass Point,Buy,Neutral,up,MNR
+2021-09-01,RBC Capital,Sector Perform,,main,MNR

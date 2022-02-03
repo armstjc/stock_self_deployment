@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-28,Wedbush,Neutral,,down,CCO
+2012-02-28,Evercore Partners,Equal-Weight,,down,CCO
+2012-03-23,Wedbush,Neutral,,main,CCO
+2012-05-07,UBS,Neutral,,main,CCO
+2012-08-02,UBS,Neutral,,main,CCO
+2012-08-13,Wedbush,Neutral,,main,CCO
+2013-01-03,Wedbush,Underperform,Neutral,down,CCO
+2013-02-20,Barclays,Equal-Weight,,main,CCO
+2013-07-22,B. Riley FBR,Neutral,Sell,up,CCO
+2013-12-05,B. Riley FBR,Sell,Neutral,down,CCO
+2014-01-28,Topeka,Buy,,init,CCO
+2014-08-04,Evercore Partners,Equal-Weight,Underweight,up,CCO
+2015-08-18,Wells Fargo,Market Perform,Outperform,down,CCO
+2015-10-28,Wedbush,Neutral,Underperform,up,CCO
+2016-01-11,Moffett Nathanson,Buy,,init,CCO
+2016-02-17,Topeka,Sell,Buy,down,CCO
+2016-05-05,Wedbush,Neutral,,main,CCO
+2016-05-13,Evercore ISI Group,Sell,Hold,down,CCO
+2016-09-13,Loop Capital,Sell,,init,CCO
+2016-11-03,Loop Capital,Hold,Sell,up,CCO
+2017-11-09,Loop Capital,Hold,,main,CCO
+2019-03-11,Barrington Research,Outperform,Market Perform,up,CCO
+2019-09-04,Citigroup,Neutral,,init,CCO
+2019-09-04,Cowen & Co.,Outperform,,init,CCO
+2019-09-04,Barclays,Overweight,,init,CCO
+2019-09-24,Wells Fargo,Outperform,,init,CCO
+2020-02-03,JP Morgan,Neutral,,init,CCO
+2020-05-11,Wells Fargo,Overweight,,main,CCO
+2020-05-14,Citigroup,Neutral,,main,CCO
+2020-06-24,Citigroup,Buy,Neutral,up,CCO
+2020-10-19,JP Morgan,Underweight,Neutral,down,CCO
+2020-11-02,Morgan Stanley,Equal-Weight,,init,CCO
+2020-11-11,Morgan Stanley,Equal-Weight,,main,CCO
+2021-04-30,Morgan Stanley,Equal-Weight,,main,CCO
+2021-06-11,Morgan Stanley,Equal-Weight,,main,CCO
+2021-07-30,Morgan Stanley,Equal-Weight,,main,CCO
+2021-10-18,Barclays,Equal-Weight,,main,CCO
+2021-11-11,Barrington Research,Outperform,Market Perform,up,CCO

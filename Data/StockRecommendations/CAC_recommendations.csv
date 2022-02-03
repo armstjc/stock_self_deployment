@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-09-14,Keefe Bruyette & Woods,Outperform,,init,CAC
+2015-12-04,PiperJaffray,Overweight,,main,CAC
+2016-10-03,Keefe Bruyette & Woods,Outperform,,main,CAC
+2017-11-01,Keefe Bruyette & Woods,Market Perform,Outperform,down,CAC
+2018-02-02,PiperJaffray,Overweight,Overweight,main,CAC
+2019-11-26,Raymond James,Market Perform,,init,CAC
+2021-01-27,Raymond James,Outperform,Market Perform,up,CAC
+2021-04-28,Raymond James,Outperform,,main,CAC
+2021-06-22,Stephens & Co.,Overweight,,init,CAC
+2021-07-28,Raymond James,Outperform,,main,CAC
+2021-10-07,Raymond James,Market Perform,Outperform,down,CAC

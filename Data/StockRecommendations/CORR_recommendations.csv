@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-24,Bank of America,Neutral,Underperform,up,CORR
+2013-02-12,KeyBanc,Hold,,init,CORR
+2013-02-12,KeyBanc,Hold,,init,CORR
+2013-02-14,Bank of America,Neutral,,main,CORR
+2013-06-13,RBC Capital,Sector Perform,,init,CORR
+2014-01-28,Bank of America,Buy,Neutral,up,CORR
+2014-09-02,Stifel Nicolaus,Buy,Hold,up,CORR
+2014-11-11,Stifel Nicolaus,Buy,,main,CORR
+2015-06-24,RBC Capital,Outperform,Sector Perform,up,CORR
+2015-08-12,Stifel Nicolaus,Buy,,main,CORR
+2016-01-28,Stifel Nicolaus,Hold,Buy,down,CORR
+2016-02-25,Wells Fargo,Market Perform,Outperform,down,CORR
+2016-05-06,RBC Capital,Sector Perform,Outperform,down,CORR
+2016-06-01,Stifel Nicolaus,Buy,Hold,up,CORR
+2016-08-11,Stifel Nicolaus,Hold,Buy,down,CORR
+2016-09-22,DA Davidson,Buy,,init,CORR
+2016-10-17,RBC Capital,Underperform,Sector Perform,down,CORR
+2016-11-14,RBC Capital,Sector Perform,Underperform,up,CORR
+2016-11-15,Stifel Nicolaus,Buy,Hold,up,CORR
+2017-03-06,Stifel Nicolaus,Hold,Buy,down,CORR
+2017-06-26,Bank of America,Underperform,Neutral,down,CORR
+2018-05-08,Stifel Nicolaus,Hold,Hold,main,CORR
+2020-04-14,DA Davidson,Underperform,Neutral,down,CORR
+2020-04-14,Stifel,Hold,,main,CORR
+2020-11-05,Stifel,Sell,Hold,down,CORR
+2020-12-08,Stifel,Hold,Sell,up,CORR
+2021-02-08,DA Davidson,Neutral,Underperform,up,CORR

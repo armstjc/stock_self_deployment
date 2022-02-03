@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-24,B. Riley FBR,Buy,,init,FARM
+2016-04-08,Sidoti & Co.,Buy,,init,FARM
+2018-05-09,B. Riley FBR,Buy,Buy,main,FARM
+2018-09-27,B. Riley FBR,Buy,Buy,main,FARM
+2019-05-08,B. Riley FBR,Neutral,Buy,down,FARM
+2019-09-11,B. Riley,Neutral,,main,FARM
+2020-03-31,B. Riley,Neutral,,main,FARM
+2021-02-08,Roth Capital,Neutral,,main,FARM
+2021-02-09,Roth Capital,Neutral,,main,FARM
+2021-03-31,B. Riley FBR,Buy,Neutral,up,FARM
+2021-09-01,Roth Capital,Buy,Neutral,up,FARM

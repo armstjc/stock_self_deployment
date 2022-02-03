@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-11,Stephens & Co.,Overweight,,up,DAR
+2012-11-05,Avondale Partners,Market Perform,Market Outperform,down,DAR
+2012-11-07,Maxim Group,Hold,Buy,down,DAR
+2012-11-12,BMO Capital,Market Perform,,main,DAR
+2012-12-21,Stephens & Co.,Equal-Weight,Overweight,down,DAR
+2013-05-08,Maxim Group,Buy,Hold,up,DAR
+2013-05-13,BMO Capital,Market Perform,,main,DAR
+2013-06-20,Wedbush,Outperform,,init,DAR
+2013-08-26,Canaccord Genuity,Buy,Hold,up,DAR
+2013-11-18,Wedbush,Market Perform,Outperform,down,DAR
+2013-12-17,Avondale Partners,Market Outperform,Market Perform,up,DAR
+2015-01-05,Off Wall Street,Long-Term Buy,,init,DAR
+2015-03-06,Goldman Sachs,Neutral,Buy,down,DAR
+2015-05-12,Canaccord Genuity,Buy,,main,DAR
+2015-05-21,Roth Capital,Buy,,init,DAR
+2015-07-13,BB&T Capital,Buy,,init,DAR
+2015-07-14,BB&T Capital,Buy,,init,DAR
+2015-10-28,JP Morgan,Neutral,,init,DAR
+2015-11-11,Canaccord Genuity,Buy,,main,DAR
+2016-03-03,JP Morgan,Neutral,,main,DAR
+2016-04-01,Avondale Partners,Market Outperform,,main,DAR
+2016-05-26,JP Morgan,Overweight,Neutral,up,DAR
+2016-06-29,Goldman Sachs,Buy,Neutral,up,DAR
+2016-08-15,JP Morgan,Overweight,,main,DAR
+2017-03-23,Baird,Outperform,,init,DAR
+2017-08-11,Baird,Outperform,,main,DAR
+2017-10-06,JP Morgan,Neutral,Overweight,down,DAR
+2017-11-06,Canaccord Genuity,Buy,,main,DAR
+2018-03-01,Goldman Sachs,Neutral,Buy,down,DAR
+2018-08-10,BMO Capital,Market Perform,Market Perform,main,DAR
+2018-08-10,JP Morgan,Neutral,Neutral,main,DAR
+2018-11-19,JP Morgan,Overweight,Neutral,up,DAR
+2020-01-14,Baird,Outperform,,main,DAR
+2020-01-15,JP Morgan,Neutral,Overweight,down,DAR
+2020-03-09,Goldman Sachs,Buy,Neutral,up,DAR
+2020-09-28,Credit Suisse,Outperform,,init,DAR
+2020-10-09,Tudor Pickering,Buy,,init,DAR
+2020-10-22,Roth Capital,Buy,,main,DAR
+2020-11-05,BMO Capital,Market Perform,,main,DAR
+2021-03-02,Piper Sandler,Overweight,,init,DAR
+2021-03-04,Credit Suisse,Outperform,,main,DAR
+2021-03-05,JP Morgan,Overweight,Neutral,up,DAR
+2021-05-13,Baird,Outperform,,main,DAR
+2021-05-13,BMO Capital,Market Perform,,main,DAR
+2021-06-09,Citigroup,Buy,,init,DAR
+2021-06-18,Piper Sandler,Overweight,,main,DAR
+2021-06-25,BMO Capital,Outperform,Market Perform,up,DAR
+2021-07-15,Evercore ISI Group,Outperform,,init,DAR
+2021-07-16,Raymond James,Strong Buy,,init,DAR
+2021-08-12,Credit Suisse,Outperform,,main,DAR
+2021-08-12,Stephens & Co.,Overweight,,main,DAR
+2021-08-12,Baird,Outperform,,main,DAR
+2021-08-16,Raymond James,Strong Buy,,main,DAR
+2021-11-11,Stephens & Co.,Overweight,,main,DAR

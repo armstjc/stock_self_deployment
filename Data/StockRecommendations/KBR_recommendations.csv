@@ -1,0 +1,103 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,UBS,Buy,,main,KBR
+2012-04-10,JP Morgan,Overweight,,init,KBR
+2012-04-27,Citigroup,Buy,,main,KBR
+2012-04-27,UBS,Buy,,main,KBR
+2012-07-19,Goldman Sachs,Buy,,main,KBR
+2012-07-19,Citigroup,Buy,,main,KBR
+2012-07-23,Barclays,Equal-Weight,,main,KBR
+2012-07-27,UBS,Buy,,main,KBR
+2012-10-26,UBS,Buy,,main,KBR
+2013-01-14,Capital One Financial,Neutral,Add,down,KBR
+2013-01-14,Tudor Pickering,,Buy,down,KBR
+2013-01-14,Johnson Rice,Equal-Weight,Overweight,down,KBR
+2013-01-14,JP Morgan,Overweight,,main,KBR
+2013-02-21,DA Davidson,Buy,,main,KBR
+2013-05-08,Deutsche Bank,Buy,,init,KBR
+2013-07-29,William Blair,Market Perform,Outperform,down,KBR
+2013-10-09,Jefferies,Buy,,init,KBR
+2013-12-20,Stephens & Co.,Equal-Weight,,init,KBR
+2014-01-22,Barclays,Overweight,Equal-weight,up,KBR
+2014-02-28,BB&T Capital,Hold,Buy,down,KBR
+2014-03-03,Deutsche Bank,Buy,,main,KBR
+2014-03-03,Barclays,Overweight,,main,KBR
+2014-03-03,Johnson Rice,Equal-Weight,Overweight,down,KBR
+2014-03-03,Tudor Pickering,Hold,Accumulate,down,KBR
+2014-03-04,UBS,Buy,,main,KBR
+2014-03-17,Cowen & Co.,Market Perform,,init,KBR
+2014-03-25,Goldman Sachs,Neutral,Buy,down,KBR
+2014-05-06,UBS,Neutral,Buy,down,KBR
+2014-06-03,Jefferies,Buy,,main,KBR
+2014-06-12,Alembic Global,Overweight,,init,KBR
+2014-06-20,Macquarie,Outperform,,main,KBR
+2014-06-20,Credit Suisse,Outperform,,main,KBR
+2014-06-20,Barclays,Overweight,,main,KBR
+2014-08-01,UBS,Neutral,,main,KBR
+2014-08-01,Barclays,Overweight,,main,KBR
+2014-10-20,Barclays,Overweight,,main,KBR
+2014-11-05,Deutsche Bank,Buy,,main,KBR
+2014-11-06,Jefferies,Buy,,main,KBR
+2014-11-10,UBS,Neutral,,main,KBR
+2014-11-28,Vertical Research,Sell,,down,KBR
+2015-01-09,Barclays,Overweight,,main,KBR
+2015-01-22,Bank of America,Underperform,,init,KBR
+2015-03-02,Barclays,Overweight,,main,KBR
+2015-03-03,Jefferies,Hold,Buy,down,KBR
+2015-04-13,CLSA,Underperform,Outperform,down,KBR
+2015-04-30,Johnson Rice,Buy,Hold,up,KBR
+2015-05-06,Tudor Pickering,Accumulate,Hold,up,KBR
+2015-06-10,DA Davidson,Buy,,main,KBR
+2015-08-06,Bank of America,Neutral,Underperform,up,KBR
+2015-11-13,Citigroup,Sell,,init,KBR
+2015-12-07,Goldman Sachs,Sell,Neutral,down,KBR
+2016-02-29,Credit Suisse,Outperform,,main,KBR
+2016-02-29,Citigroup,Neutral,Sell,up,KBR
+2016-03-28,Goldman Sachs,Neutral,Sell,up,KBR
+2016-05-02,Johnson Rice,Hold,Accumulate,down,KBR
+2016-06-29,MKM Partners,Neutral,,init,KBR
+2016-09-13,MKM Partners,Neutral,,main,KBR
+2016-10-04,Deutsche Bank,Buy,Hold,up,KBR
+2016-10-05,Johnson Rice,Accumulate,Hold,up,KBR
+2016-10-11,Goldman Sachs,Sell,Neutral,down,KBR
+2016-11-21,MKM Partners,Buy,Neutral,up,KBR
+2017-10-24,Deutsche Bank,Buy,,main,KBR
+2017-10-27,Citigroup,Neutral,,main,KBR
+2017-10-30,Citigroup,Neutral,,main,KBR
+2017-11-01,DA Davidson,Neutral,Buy,down,KBR
+2017-11-02,Credit Suisse,Outperform,,main,KBR
+2018-02-06,Citigroup,Neutral,Neutral,main,KBR
+2018-02-26,Credit Suisse,Neutral,Outperform,down,KBR
+2018-02-26,Citigroup,Neutral,Neutral,main,KBR
+2018-04-27,DA Davidson,Buy,Neutral,up,KBR
+2018-06-14,Goldman Sachs,Neutral,Sell,up,KBR
+2018-07-23,Citigroup,Neutral,Neutral,main,KBR
+2018-07-31,Credit Suisse,Neutral,Neutral,main,KBR
+2018-07-31,Citigroup,Neutral,Neutral,main,KBR
+2018-07-31,KeyBanc,Overweight,Overweight,main,KBR
+2018-08-13,Bank of America,Buy,Buy,main,KBR
+2018-09-19,Macquarie,Neutral,Outperform,down,KBR
+2018-10-31,Credit Suisse,Neutral,Neutral,main,KBR
+2019-01-25,Deutsche Bank,Hold,Buy,down,KBR
+2019-01-28,Cowen & Co.,Market Perform,,init,KBR
+2019-05-06,KeyBanc,Overweight,Overweight,main,KBR
+2019-07-19,Cowen & Co.,Outperform,Market Perform,up,KBR
+2019-07-22,SunTrust Robinson Humphrey,Buy,,init,KBR
+2019-10-31,KeyBanc,Overweight,,main,KBR
+2020-02-03,UBS,Neutral,,main,KBR
+2020-03-26,KeyBanc,Overweight,,main,KBR
+2020-03-27,Credit Suisse,Outperform,Neutral,up,KBR
+2020-04-01,Citigroup,Neutral,,main,KBR
+2020-04-14,SunTrust Robinson Humphrey,Buy,,main,KBR
+2020-04-27,Citigroup,Buy,Neutral,up,KBR
+2020-04-30,Citigroup,Buy,,main,KBR
+2020-04-30,Credit Suisse,Outperform,,main,KBR
+2020-05-04,B of A Securities,Buy,,reit,KBR
+2020-05-26,UBS,Buy,Neutral,up,KBR
+2020-06-15,Citigroup,Buy,,main,KBR
+2020-11-19,KeyBanc,Overweight,,main,KBR
+2021-01-07,KeyBanc,Overweight,,main,KBR
+2021-02-04,DA Davidson,Neutral,Buy,down,KBR
+2021-02-23,Credit Suisse,Outperform,,main,KBR
+2021-04-19,Keybanc,Overweight,,main,KBR
+2021-10-26,Keybanc,Overweight,,main,KBR
+2021-10-29,Credit Suisse,Outperform,,main,KBR

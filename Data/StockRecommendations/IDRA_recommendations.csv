@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-03,PiperJaffray,Overweight,,init,IDRA
+2014-03-03,Cowen & Co.,Outperform,,init,IDRA
+2015-06-15,JP Morgan,Overweight,,init,IDRA
+2016-01-05,Wedbush,Outperform,,init,IDRA
+2017-03-22,JMP Securities,Market Outperform,,init,IDRA
+2017-04-24,Baird,Outperform,,init,IDRA
+2017-11-09,H.C. Wainwright,Buy,,init,IDRA
+2018-06-13,Baird,Outperform,Outperform,main,IDRA
+2018-06-13,JMP Securities,Market Outperform,Market Outperform,main,IDRA
+2018-07-16,Wedbush,Outperform,Outperform,main,IDRA
+2018-09-24,Barclays,Overweight,,init,IDRA
+2021-03-19,Wedbush,Neutral,Outperform,down,IDRA
+2021-03-19,Barclays,Equal-Weight,Overweight,down,IDRA
+2021-03-19,JMP Securities,Market Perform,Outperform,down,IDRA
+2021-03-19,HC Wainwright & Co.,Neutral,Buy,down,IDRA
+2021-03-19,JP Morgan,Neutral,Overweight,down,IDRA

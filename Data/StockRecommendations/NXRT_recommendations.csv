@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-12-22,DA Davidson,Buy,,init,NXRT
+2016-06-28,Canaccord Genuity,Buy,,init,NXRT
+2016-09-23,Compass Point,Buy,,init,NXRT
+2017-09-08,Janney Capital,Neutral,,init,NXRT
+2017-10-26,FBR Capital,Buy,,init,NXRT
+2018-06-11,Jefferies,Buy,,init,NXRT
+2018-08-01,B. Riley FBR,Buy,Buy,main,NXRT
+2018-09-17,Boenning & Scattergood,Outperform,,init,NXRT
+2018-11-05,B. Riley FBR,Buy,Buy,main,NXRT
+2019-02-07,Raymond James,Outperform,,init,NXRT
+2019-02-20,B. Riley FBR,Buy,Buy,main,NXRT
+2019-05-03,Raymond James,Strong Buy,Outperform,up,NXRT
+2019-07-31,Compass Point,Buy,Neutral,up,NXRT
+2019-09-20,Baird,Outperform,,init,NXRT
+2019-10-08,SunTrust Robinson Humphrey,Hold,,init,NXRT
+2019-10-31,Raymond James,Outperform,Strong Buy,down,NXRT
+2019-11-22,National Securities,Buy,,init,NXRT
+2020-02-24,Raymond James,Outperform,,reit,NXRT
+2020-04-02,SunTrust Robinson Humphrey,Hold,,main,NXRT
+2020-05-18,Raymond James,Strong Buy,Outperform,up,NXRT
+2020-08-13,Raymond James,Strong Buy,,main,NXRT
+2020-11-03,Raymond James,Outperform,Strong Buy,down,NXRT
+2021-04-06,Raymond James,Outperform,,main,NXRT
+2021-07-19,Raymond James,Outperform,,main,NXRT

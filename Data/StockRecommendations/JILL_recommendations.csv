@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-04-03,UBS,Buy,,init,JILL
+2017-10-12,SunTrust Robinson Humphrey,Hold,Buy,down,JILL
+2018-03-16,Morgan Stanley,Equal-Weight,,main,JILL
+2018-03-19,Deutsche Bank,Buy,Buy,main,JILL
+2018-08-22,Cowen & Co.,Market Perform,Outperform,down,JILL
+2018-08-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,JILL
+2018-08-22,Deutsche Bank,Buy,Buy,main,JILL
+2018-08-22,Macquarie,Neutral,Neutral,main,JILL
+2018-11-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,JILL
+2019-01-02,Wells Fargo,Market Perform,Market Perform,main,JILL
+2019-05-31,Deutsche Bank,Hold,Buy,down,JILL
+2019-05-31,Morgan Stanley,Equal-Weight,,main,JILL
+2019-12-06,Jefferies,Hold,Buy,down,JILL

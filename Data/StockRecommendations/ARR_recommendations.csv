@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-22,Maxim Group,Buy,,init,ARR
+2012-10-29,Credit Suisse,Outperform,,init,ARR
+2012-11-05,Deutsche Bank,Buy,,main,ARR
+2012-12-18,Compass Point,Neutral,,main,ARR
+2013-01-31,Bank of America,Neutral,Buy,down,ARR
+2013-02-15,Deutsche Bank,Hold,Buy,down,ARR
+2013-04-16,Keefe Bruyette & Woods,Market Perform,,init,ARR
+2013-07-11,Bank of America,Underperform,Neutral,down,ARR
+2013-07-17,Maxim Group,Hold,Buy,down,ARR
+2013-07-19,National Securities,Neutral,Buy,down,ARR
+2013-08-02,Deutsche Bank,Hold,,main,ARR
+2013-09-16,Sandler O'Neill,Sell,Hold,down,ARR
+2013-09-16,Compass Point,Buy,Neutral,up,ARR
+2013-09-17,MLV & Co.,Buy,,init,ARR
+2014-03-24,Compass Point,Neutral,Buy,down,ARR
+2014-05-06,Barclays,Equal-Weight,,main,ARR
+2014-08-01,Keefe Bruyette & Woods,Market Perform,,main,ARR
+2014-09-11,Compass Point,Buy,Neutral,up,ARR
+2014-10-31,Compass Point,Neutral,Buy,down,ARR
+2014-10-31,Deutsche Bank,Hold,,main,ARR
+2014-12-29,MLV & Co.,Hold,Buy,down,ARR
+2015-01-30,Nomura,Neutral,,init,ARR
+2015-02-02,Credit Suisse,Underperform,Outperform,down,ARR
+2015-02-26,Barclays,Equal-Weight,,main,ARR
+2015-02-26,Keefe Bruyette & Woods,Market Perform,,main,ARR
+2015-05-01,Keefe Bruyette & Woods,Market Perform,,main,ARR
+2015-06-23,MLV & Co.,Buy,Hold,up,ARR
+2015-08-03,Stifel Nicolaus,Market Perform,,main,ARR
+2015-10-13,Barclays,Equal-Weight,,main,ARR
+2015-11-09,Deutsche Bank,Hold,,main,ARR
+2016-02-01,Barclays,Underperform,Equal-Weight,down,ARR
+2016-02-23,Deutsche Bank,Hold,,main,ARR
+2016-02-24,Nomura,Reduce,Neutral,down,ARR
+2016-05-04,Ladenburg Thalmann,Neutral,Buy,down,ARR
+2016-08-04,Barclays,Underweight,,main,ARR
+2016-08-04,Deutsche Bank,Hold,,main,ARR
+2016-11-09,Nomura,Neutral,Reduce,up,ARR
+2018-04-27,Barclays,Underweight,Underweight,main,ARR
+2019-03-27,Nomura,Neutral,,init,ARR
+2019-10-24,Ladenburg Thalmann,Buy,Neutral,up,ARR
+2020-01-14,JonesTrading,Buy,,init,ARR
+2020-02-21,JonesTrading,Buy,,reit,ARR
+2020-04-29,Barclays,Underweight,,main,ARR
+2020-05-26,Credit Suisse,Neutral,Underperform,up,ARR
+2021-04-23,JonesTrading,Buy,,main,ARR
+2021-07-14,B. Riley Securities,Neutral,,init,ARR
+2021-07-28,Credit Suisse,Neutral,,main,ARR
+2021-10-28,JonesTrading,Hold,Buy,down,ARR

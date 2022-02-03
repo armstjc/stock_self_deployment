@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-22,JP Morgan,Overweight,Neutral,up,GGB
+2013-05-24,JP Morgan,Neutral,Overweight,down,GGB
+2013-10-03,Morgan Stanley,Overweight,Equal-Weight,up,GGB
+2014-03-14,JP Morgan,Overweight,Neutral,up,GGB
+2014-07-10,JP Morgan,Neutral,,down,GGB
+2015-03-02,Itau BBA,Market Perform,Outperform,down,GGB
+2015-04-16,Bank of America,Neutral,Buy,down,GGB
+2015-08-10,Goldman Sachs,Buy,,init,GGB
+2016-02-22,Bank of America,Underperform,Neutral,down,GGB
+2016-08-04,Credit Suisse,Outperform,Neutral,up,GGB
+2016-08-18,Morgan Stanley,Overweight,Equal-Weight,up,GGB
+2016-10-25,Scotiabank,Underperform,Sector Perform,down,GGB
+2017-09-01,JP Morgan,Overweight,Neutral,up,GGB
+2018-06-05,Morgan Stanley,Overweight,Equal-Weight,up,GGB
+2018-09-17,HSBC,Buy,Hold,up,GGB
+2021-09-09,Credit Suisse,Outperform,Neutral,up,GGB

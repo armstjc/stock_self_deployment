@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SJW220218C00070000,2021-12-27 14:42:32+00:00,70.0,2.4,0.5,5.0,0.0,0.0,,1,0.6059609716796877,False,REGULAR,USD,SJW

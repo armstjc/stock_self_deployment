@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-11-08,Keybanc,Overweight,,init,GTLB
+2021-11-08,JP Morgan,Neutral,,init,GTLB
+2021-11-08,Piper Sandler,Neutral,,init,GTLB
+2021-11-08,RBC Capital,Sector Perform,,init,GTLB
+2021-11-08,Cowen & Co.,Outperform,,init,GTLB
+2021-11-08,Goldman Sachs,Neutral,,init,GTLB
+2021-11-08,B of A Securities,Buy,,init,GTLB
+2021-11-08,Truist Securities,Buy,,init,GTLB
+2021-11-08,UBS,Buy,,init,GTLB
+2021-11-08,William Blair,Outperform,,init,GTLB
+2021-12-07,Keybanc,Overweight,,main,GTLB
+2021-12-07,RBC Capital,Sector Perform,,main,GTLB
+2021-12-07,Cowen & Co.,Outperform,,main,GTLB
+2021-12-14,JP Morgan,Neutral,,main,GTLB

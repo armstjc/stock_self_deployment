@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-01,Credit Suisse,Outperform,,init,ATC
+2021-03-01,RBC Capital,Outperform,,init,ATC
+2021-03-01,BMO Capital,Outperform,,init,ATC
+2021-03-01,JP Morgan,Overweight,,init,ATC
+2021-03-01,Jefferies,Buy,,init,ATC
+2021-03-08,Barclays,Equal-Weight,,init,ATC
+2021-07-01,CL King,Neutral,,init,ATC
+2021-07-02,Deutsche Bank,Hold,Buy,down,ATC
+2021-07-06,Jefferies,Hold,Buy,down,ATC
+2021-07-06,UBS,Neutral,Buy,down,ATC
+2021-07-28,RBC Capital,Sector Perform,Outperform,down,ATC
+2021-08-12,JP Morgan,Underweight,Overweight,down,ATC

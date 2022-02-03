@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-06-20,Citigroup,Buy,,init,AMCR
+2019-12-20,Baird,Neutral,,init,AMCR
+2020-03-13,BMO Capital,Market Perform,,init,AMCR
+2020-03-19,Deutsche Bank,Buy,,init,AMCR
+2020-04-02,Deutsche Bank,Buy,,main,AMCR
+2020-07-08,B of A Securities,Neutral,,init,AMCR
+2020-08-21,Deutsche Bank,Buy,,main,AMCR
+2020-10-14,Seaport Global,Neutral,,init,AMCR
+2020-11-24,B of A Securities,Underperform,Neutral,down,AMCR
+2021-01-05,Citigroup,Neutral,Buy,down,AMCR
+2021-01-20,Deutsche Bank,Hold,Buy,down,AMCR
+2021-02-04,BMO Capital,Outperform,Market Perform,up,AMCR
+2021-04-09,Goldman Sachs,Neutral,,init,AMCR
+2021-08-18,Goldman Sachs,Sell,Neutral,down,AMCR
+2021-12-15,B of A Securities,Buy,Underperform,up,AMCR

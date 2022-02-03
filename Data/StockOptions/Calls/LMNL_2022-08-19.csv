@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LMNL220819C00002500,2022-01-05 17:22:51+00:00,2.5,0.24,0.2,0.25,0.19,380.0,10,84,1.8046884765624998,False,REGULAR,USD,LMNL

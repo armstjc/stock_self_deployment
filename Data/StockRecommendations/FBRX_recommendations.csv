@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-25,Truist Securities,Buy,,init,FBRX
+2020-08-28,Chardan Capital,Buy,Neutral,up,FBRX
+2020-08-28,Brookline Capital,Buy,,init,FBRX
+2020-09-10,Chardan Capital,Buy,,main,FBRX
+2020-09-24,Chardan Capital,Buy,,main,FBRX
+2021-03-17,Chardan Capital,Buy,,main,FBRX
+2021-03-26,Citigroup,Buy,,init,FBRX
+2021-05-14,B. Riley Securities,Buy,,init,FBRX
+2021-09-03,Truist Securities,Hold,Buy,down,FBRX
+2021-09-03,B. Riley Securities,Neutral,Buy,down,FBRX
+2021-09-03,Ladenburg Thalmann,Neutral,Buy,down,FBRX
+2021-09-03,Chardan Capital,Sell,Buy,down,FBRX
+2021-09-03,Brookline Capital,Hold,Buy,down,FBRX
+2021-09-20,Chardan Capital,Neutral,Sell,up,FBRX

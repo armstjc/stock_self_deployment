@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-06,KeyBanc,Sector Weight,,init,HRI
+2016-08-15,Barclays,Equal-Weight,,init,HRI
+2016-11-29,Jefferies,Hold,,init,HRI
+2016-12-09,Goldman Sachs,Neutral,,init,HRI
+2017-04-10,KeyBanc,Overweight,Sector Weight,up,HRI
+2017-11-21,Buckingham,Neutral,,init,HRI
+2017-12-13,Barclays,Overweight,,init,HRI
+2017-12-19,Northcoast Research,Neutral,Buy,down,HRI
+2018-01-24,Barclays,Overweight,Overweight,main,HRI
+2018-02-02,RBC Capital,Outperform,,init,HRI
+2018-04-20,Goldman Sachs,Sell,Neutral,down,HRI
+2018-07-13,Buckingham,Buy,Neutral,up,HRI
+2019-03-29,Longbow Research,Buy,,init,HRI
+2019-06-14,Bank of America,Buy,,init,HRI
+2019-09-20,Goldman Sachs,Buy,Neutral,up,HRI
+2019-09-26,Bank of America,Neutral,Buy,down,HRI
+2020-03-19,Goldman Sachs,Buy,,main,HRI
+2020-06-09,Baird,Outperform,,init,HRI
+2020-07-08,B of A Securities,Buy,Neutral,up,HRI
+2020-12-09,KeyBanc,Overweight,,init,HRI
+2021-01-14,KeyBanc,Overweight,,main,HRI
+2021-02-19,Barclays,Overweight,,main,HRI
+2021-03-10,Northcoast Research,Neutral,Buy,down,HRI
+2021-03-16,Barclays,Overweight,,main,HRI
+2021-03-17,KeyBanc,Overweight,,main,HRI
+2021-03-25,KeyBanc,Overweight,,main,HRI
+2021-07-06,Keybanc,Overweight,,main,HRI
+2021-07-14,Barclays,Overweight,,main,HRI
+2021-07-22,Keybanc,Overweight,,main,HRI
+2021-07-23,Barclays,Overweight,,main,HRI
+2021-09-22,Keybanc,Overweight,,main,HRI
+2021-09-28,Barclays,Overweight,,main,HRI
+2021-09-28,Goldman Sachs,Buy,,main,HRI
+2021-10-22,Keybanc,Overweight,,main,HRI
+2021-12-21,Baird,Neutral,Outperform,down,HRI

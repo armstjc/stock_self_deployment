@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-09,Canaccord Genuity,Buy,,init,LCI
+2013-03-05,Craig-Hallum,Buy,,init,LCI
+2013-05-23,Needham,Buy,,init,LCI
+2013-10-04,Needham,Hold,Buy,down,LCI
+2013-10-23,Oppenheimer,Perform,Outperform,down,LCI
+2013-10-25,Bank of America,Buy,,init,LCI
+2013-10-25,Oppenheimer,Outperform,Perform,up,LCI
+2014-08-19,Craig-Hallum,Hold,Buy,down,LCI
+2014-08-28,Oppenheimer,Outperform,,main,LCI
+2014-10-13,Oppenheimer,Outperform,,main,LCI
+2014-11-04,Canaccord Genuity,Buy,,main,LCI
+2015-06-03,Raymond James,Outperform,,init,LCI
+2015-07-20,Susquehanna,Positive,,init,LCI
+2015-07-21,Susquehanna,Positive,,init,LCI
+2015-08-26,Susquehanna,Positive,,main,LCI
+2015-09-03,Roth Capital,Buy,,main,LCI
+2015-11-05,Craig-Hallum,Hold,Buy,down,LCI
+2016-02-04,Craig-Hallum,Buy,,up,LCI
+2016-03-11,Roth Capital,Buy,,main,LCI
+2016-03-24,Roth Capital,Buy,,main,LCI
+2016-03-24,Canaccord Genuity,Sell,Buy,down,LCI
+2016-06-29,Deutsche Bank,Hold,,init,LCI
+2016-08-24,Raymond James,Outperform,,main,LCI
+2017-07-17,Deutsche Bank,Hold,,main,LCI
+2017-08-14,Deutsche Bank,Hold,,main,LCI
+2017-11-13,BMO Capital,Market Perform,,main,LCI
+2018-01-24,Goldman Sachs,Neutral,,init,LCI
+2018-02-08,BMO Capital,Market Perform,Market Perform,main,LCI
+2018-08-20,Craig-Hallum,Hold,Buy,down,LCI
+2018-08-20,Roth Capital,Neutral,Buy,down,LCI
+2018-08-21,Raymond James,Market Perform,Outperform,down,LCI
+2018-08-21,BMO Capital,Market Perform,Market Perform,main,LCI
+2019-03-20,SunTrust Robinson Humphrey,Hold,,init,LCI
+2019-08-29,SunTrust Robinson Humphrey,Hold,,main,LCI
+2019-09-18,SunTrust Robinson Humphrey,Hold,,main,LCI
+2021-06-10,Roth Capital,Neutral,,main,LCI
+2021-08-31,Roth Capital,Neutral,,main,LCI

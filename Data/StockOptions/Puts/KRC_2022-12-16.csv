@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KRC221216P00065000,2022-01-24 19:42:18+00:00,65.0,8.5,3.5,8.0,0.0,0.0,25,34,0.3610903735351562,False,REGULAR,USD,KRC

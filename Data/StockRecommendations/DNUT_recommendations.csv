@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-26,Goldman Sachs,Neutral,,init,DNUT
+2021-07-26,JP Morgan,Overweight,,init,DNUT
+2021-07-26,CL King,Buy,,init,DNUT
+2021-07-26,Truist Securities,Buy,,init,DNUT
+2021-07-26,BNP Paribas,Outperform,,init,DNUT
+2021-07-26,Citigroup,Buy,,init,DNUT
+2021-07-26,Wells Fargo,Equal-Weight,,init,DNUT
+2021-07-26,Deutsche Bank,Hold,,init,DNUT
+2021-07-26,Morgan Stanley,Overweight,,init,DNUT
+2021-07-26,Evercore ISI Group,Outperform,,init,DNUT
+2021-08-03,HSBC,Buy,,init,DNUT
+2021-10-13,Morgan Stanley,Overweight,,main,DNUT
+2021-10-21,HSBC,Hold,Buy,down,DNUT
+2021-11-08,Truist Securities,Hold,Buy,down,DNUT
+2021-12-01,Goldman Sachs,Sell,Neutral,down,DNUT

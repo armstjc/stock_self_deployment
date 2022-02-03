@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-18,Jefferies,Buy,,init,NSA
+2015-05-18,Morgan Stanley,Overweight,,init,NSA
+2015-05-22,KeyBanc,Sector Weight,,init,NSA
+2016-03-30,Baird,Outperform,,init,NSA
+2016-04-05,Jefferies,Hold,Buy,down,NSA
+2016-04-07,Morgan Stanley,Equal-Weight,Overweight,down,NSA
+2016-05-31,Jefferies,Hold,,main,NSA
+2016-06-23,FBR Capital,Market Perform,,init,NSA
+2016-06-24,DA Davidson,Buy,,init,NSA
+2016-08-10,Jefferies,Hold,,main,NSA
+2016-09-21,Jefferies,Buy,Hold,up,NSA
+2017-08-18,Jefferies,Buy,,main,NSA
+2017-12-19,Wells Fargo,Outperform,Market Perform,up,NSA
+2018-02-13,Citigroup,Neutral,,init,NSA
+2018-02-27,B. Riley FBR,Neutral,,main,NSA
+2018-04-06,BMO Capital,Market Perform,,init,NSA
+2018-06-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,NSA
+2018-07-12,SunTrust Robinson Humphrey,Hold,Hold,main,NSA
+2018-07-17,Jefferies,Hold,Buy,down,NSA
+2018-10-04,Jefferies,Buy,Hold,up,NSA
+2018-10-05,Citigroup,Neutral,Neutral,main,NSA
+2019-08-20,Stifel,Buy,,init,NSA
+2019-08-21,Wells Fargo,Outperform,,main,NSA
+2019-09-16,Morgan Stanley,Equal-Weight,,main,NSA
+2020-01-16,SunTrust Robinson Humphrey,Sell,Hold,down,NSA
+2020-03-24,Stifel,Buy,,main,NSA
+2020-03-31,SunTrust Robinson Humphrey,Hold,Sell,up,NSA
+2020-04-02,Wells Fargo,Overweight,,main,NSA
+2020-04-07,Citigroup,Neutral,,main,NSA
+2020-04-14,Baird,Neutral,Outperform,down,NSA
+2020-04-28,Morgan Stanley,Equal-Weight,,main,NSA
+2020-06-22,Wells Fargo,Overweight,,main,NSA
+2020-07-08,Morgan Stanley,Equal-Weight,,main,NSA
+2020-09-21,Morgan Stanley,Equal-Weight,,main,NSA
+2020-09-22,Wells Fargo,Overweight,,main,NSA
+2020-11-16,Wells Fargo,Overweight,,main,NSA
+2020-12-10,Morgan Stanley,Equal-Weight,,main,NSA
+2021-01-08,Evercore ISI Group,Outperform,,init,NSA
+2021-03-12,Morgan Stanley,Equal-Weight,,main,NSA
+2021-03-31,Wells Fargo,Overweight,,main,NSA
+2021-05-26,Morgan Stanley,Equal-Weight,,main,NSA
+2021-07-08,BMO Capital,Market Perform,Outperform,down,NSA
+2021-07-20,Morgan Stanley,Equal-Weight,,main,NSA
+2021-08-16,Morgan Stanley,Equal-Weight,,main,NSA
+2021-09-15,B of A Securities,Neutral,,init,NSA
+2021-10-07,Berenberg,Buy,,init,NSA
+2021-10-13,Morgan Stanley,Equal-Weight,,main,NSA
+2021-11-29,Morgan Stanley,Equal-Weight,,main,NSA
+2021-12-02,Truist Securities,Hold,,main,NSA
+2021-12-13,BMO Capital,Outperform,Market Perform,up,NSA

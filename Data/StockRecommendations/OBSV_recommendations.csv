@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-02-21,Leerink Swann,Outperform,,init,OBSV
+2017-02-21,Jefferies,Buy,,init,OBSV
+2017-02-21,Credit Suisse,Outperform,,init,OBSV
+2017-06-29,H.C. Wainwright,Buy,,init,OBSV
+2017-12-04,BMO Capital,Outperform,,init,OBSV
+2018-02-27,Credit Suisse,Outperform,Outperform,main,OBSV
+2018-02-27,Leerink Swann,Outperform,Outperform,main,OBSV
+2018-06-12,BMO Capital,Outperform,,init,OBSV
+2018-07-19,Credit Suisse,Outperform,,init,OBSV
+2018-08-06,Wedbush,Outperform,,init,OBSV
+2018-09-13,JP Morgan,Overweight,,init,OBSV
+2019-11-08,Credit Suisse,Neutral,Outperform,down,OBSV
+2019-12-02,H.C. Wainwright,Buy,,reit,OBSV
+2019-12-10,RBC Capital,Outperform,,main,OBSV
+2019-12-19,H.C. Wainwright,Buy,,reit,OBSV
+2020-03-23,HC Wainwright & Co.,Buy,,main,OBSV
+2020-07-07,JP Morgan,Neutral,Overweight,down,OBSV
+2020-07-07,BMO Capital,Market Perform,Outperform,down,OBSV
+2020-07-07,SVB Leerink,Outperform,,main,OBSV
+2020-10-05,HC Wainwright & Co.,Buy,,main,OBSV
+2020-11-09,JP Morgan,Underweight,Neutral,down,OBSV
+2021-01-04,HC Wainwright & Co.,Buy,,main,OBSV
+2021-01-12,SVB Leerink,Outperform,,main,OBSV
+2021-11-29,HC Wainwright & Co.,Buy,,main,OBSV

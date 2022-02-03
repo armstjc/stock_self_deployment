@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CRU220520C00007500,2021-12-23 19:25:08+00:00,7.5,2.25,2.25,2.65,0.0,0.0,10,467,0.5117236328125,True,REGULAR,USD,CRU

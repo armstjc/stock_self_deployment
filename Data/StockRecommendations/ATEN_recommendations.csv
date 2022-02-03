@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-16,RBC Capital,Outperform,,init,ATEN
+2014-04-16,Morgan Stanley,Equal-Weight,,init,ATEN
+2014-04-16,Bank of America,Buy,,init,ATEN
+2014-04-16,JP Morgan,Overweight,,init,ATEN
+2014-04-16,Oppenheimer,Outperform,,init,ATEN
+2014-04-16,Pacific Crest,Outperform,,init,ATEN
+2014-04-16,Morgan Stanley,Equal-Weight,,init,ATEN
+2014-05-02,JP Morgan,Overweight,,main,ATEN
+2014-07-09,DA Davidson,Neutral,,init,ATEN
+2014-07-31,Citigroup,Buy,,main,ATEN
+2014-07-31,JP Morgan,Overweight,,main,ATEN
+2014-10-02,Citigroup,Neutral,,main,ATEN
+2014-10-09,Bank of America,Buy,,main,ATEN
+2014-10-09,Buckingham Research,Neutral,,main,ATEN
+2014-10-31,Oppenheimer,Outperform,,main,ATEN
+2015-01-08,DA Davidson,Buy,Neutral,up,ATEN
+2015-02-11,JP Morgan,Overweight,,main,ATEN
+2015-02-11,Bank of America,Neutral,Buy,down,ATEN
+2015-05-05,Bank of America,Buy,Neutral,up,ATEN
+2015-05-18,Pacific Crest,Overweight,Sector Weight,up,ATEN
+2015-05-20,DA Davidson,Buy,,main,ATEN
+2015-10-30,Dougherty,Buy,Neutral,up,ATEN
+2015-11-02,Dougherty,Buy,Neutral,up,ATEN
+2015-11-12,DA Davidson,Buy,,main,ATEN
+2016-02-10,JP Morgan,Overweight,,main,ATEN
+2016-10-05,DA Davidson,Neutral,Buy,down,ATEN
+2016-10-28,Oppenheimer,Perform,Outperform,down,ATEN
+2017-07-14,Bank of America,Buy,,main,ATEN
+2017-07-14,KeyBanc,Sector Weight,Overweight,down,ATEN
+2018-03-19,DA Davidson,Neutral,Buy,down,ATEN
+2018-12-10,DA Davidson,Buy,Neutral,up,ATEN
+2019-12-16,BWS Financial,Buy,,init,ATEN
+2020-07-29,BWS Financial,Buy,,main,ATEN
+2020-09-18,Sidoti & Co.,Buy,,main,ATEN
+2020-10-28,Sidoti & Co.,Buy,,main,ATEN
+2021-06-23,Craig-Hallum,Buy,,init,ATEN
+2021-10-29,BWS Financial,Buy,,main,ATEN

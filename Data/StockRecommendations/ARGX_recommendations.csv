@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-06-12,JMP Securities,Market Outperform,,init,ARGX
+2017-06-12,Cowen & Co.,Outperform,,init,ARGX
+2017-11-13,JMP Securities,Market Outperform,,main,ARGX
+2018-04-09,SunTrust Robinson Humphrey,Buy,,init,ARGX
+2018-04-26,Wedbush,Outperform,Outperform,main,ARGX
+2018-06-25,Wedbush,Outperform,Outperform,main,ARGX
+2018-06-29,Nomura,Buy,,init,ARGX
+2018-09-14,Stifel Nicolaus,Buy,,init,ARGX
+2018-10-15,Evercore ISI Group,Outperform,,init,ARGX
+2018-11-05,Wedbush,Outperform,Outperform,main,ARGX
+2018-12-04,Wedbush,Outperform,Outperform,main,ARGX
+2018-12-17,Goldman Sachs,Buy,,init,ARGX
+2019-01-04,Morgan Stanley,Overweight,,init,ARGX
+2019-02-22,Guggenheim,Buy,,init,ARGX
+2019-03-01,Wedbush,Outperform,Outperform,main,ARGX
+2019-08-02,Wedbush,Outperform,,main,ARGX
+2019-08-06,Morgan Stanley,Overweight,,main,ARGX
+2019-09-27,Wells Fargo,Market Perform,,init,ARGX
+2019-10-28,Morgan Stanley,Overweight,,main,ARGX
+2019-10-31,William Blair,Outperform,Market Perform,up,ARGX
+2019-11-05,Credit Suisse,Neutral,,init,ARGX
+2019-11-18,SunTrust Robinson Humphrey,Buy,,main,ARGX
+2019-12-13,Nomura,Buy,,main,ARGX
+2019-12-16,SunTrust Robinson Humphrey,Buy,,main,ARGX
+2020-01-06,PiperJaffray,Overweight,,main,ARGX
+2020-01-17,Morgan Stanley,Overweight,,main,ARGX
+2020-02-10,B of A Securities,Buy,,init,ARGX
+2020-05-21,Credit Suisse,Neutral,,main,ARGX
+2020-05-27,SunTrust Robinson Humphrey,Buy,,main,ARGX
+2020-05-27,Morgan Stanley,Overweight,,main,ARGX
+2020-05-27,Guggenheim,Buy,,reit,ARGX
+2020-07-29,HC Wainwright & Co.,Neutral,,init,ARGX
+2020-08-10,Morgan Stanley,Overweight,,main,ARGX
+2020-08-25,Raymond James,Outperform,,init,ARGX
+2020-09-30,Piper Sandler,Overweight,,main,ARGX
+2020-10-05,JMP Securities,Outperform,,main,ARGX
+2020-10-06,B of A Securities,Buy,,main,ARGX
+2020-10-23,HC Wainwright & Co.,Neutral,,main,ARGX
+2020-10-23,Truist Securities,Buy,,main,ARGX
+2020-11-11,Morgan Stanley,Overweight,,main,ARGX
+2020-12-16,Morgan Stanley,Overweight,,main,ARGX
+2021-02-02,Piper Sandler,Neutral,Overweight,down,ARGX
+2021-02-02,Wells Fargo,Equal-Weight,,main,ARGX
+2021-02-18,Cowen & Co.,Outperform,,main,ARGX
+2021-03-05,HC Wainwright & Co.,Neutral,,main,ARGX
+2021-03-08,Morgan Stanley,Overweight,,main,ARGX
+2021-04-19,Morgan Stanley,Overweight,,main,ARGX
+2021-05-10,HC Wainwright & Co.,Buy,Neutral,up,ARGX
+2021-05-18,Morgan Stanley,Overweight,,main,ARGX
+2021-06-08,Wedbush,Outperform,,main,ARGX
+2021-06-08,Baird,Outperform,,main,ARGX
+2021-06-18,UBS,Buy,,init,ARGX
+2021-07-22,Wedbush,Outperform,,main,ARGX
+2021-07-23,Deutsche Bank,Hold,,init,ARGX
+2021-08-03,Morgan Stanley,Overweight,,main,ARGX
+2021-09-07,Morgan Stanley,Equal-Weight,Overweight,down,ARGX
+2021-09-23,Redburn Partners,Buy,Neutral,up,ARGX
+2021-10-07,Jefferies,Buy,,init,ARGX
+2021-10-19,Barclays,Overweight,Equal-Weight,up,ARGX
+2021-10-29,Guggenheim,Buy,Neutral,up,ARGX
+2021-11-29,Piper Sandler,Overweight,Neutral,up,ARGX
+2021-12-08,Wells Fargo,Overweight,,init,ARGX
+2021-12-20,Wells Fargo,Overweight,,main,ARGX
+2021-12-20,Credit Suisse,Neutral,,main,ARGX
+2021-12-20,Raymond James,Strong Buy,,main,ARGX
+2021-12-21,JMP Securities,Market Outperform,,main,ARGX

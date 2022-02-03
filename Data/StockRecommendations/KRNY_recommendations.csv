@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-03-13,Compass Point,Buy,,init,KRNY
+2014-09-08,Keefe Bruyette & Woods,Market Perform,,main,KRNY
+2015-05-20,Keefe Bruyette & Woods,Market Perform,,main,KRNY
+2015-06-29,Sandler O'Neill,Buy,,init,KRNY
+2015-09-03,Keefe Bruyette & Woods,Market Perform,,main,KRNY
+2016-09-07,Keefe Bruyette & Woods,Market Perform,,main,KRNY
+2016-11-18,Compass Point,Neutral,Buy,down,KRNY
+2017-01-31,Compass Point,Buy,Neutral,up,KRNY
+2017-05-16,Keefe Bruyette & Woods,Underperform,Market Perform,down,KRNY
+2019-04-04,Keefe Bruyette & Woods,Market Perform,Underperform,up,KRNY
+2020-04-06,Piper Sandler,Overweight,Neutral,up,KRNY
+2020-09-28,Piper Sandler,Overweight,,main,KRNY

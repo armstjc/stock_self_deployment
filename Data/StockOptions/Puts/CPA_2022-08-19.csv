@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CPA220819P00075000,2022-01-05 20:49:57+00:00,75.0,7.71,7.5,8.1,0.21000004,2.8000004,2,5,0.5032398309326171,False,REGULAR,USD,CPA

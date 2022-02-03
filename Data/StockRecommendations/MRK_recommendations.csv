@@ -1,0 +1,184 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-10,Deutsche Bank,Buy,,main,MRK
+2012-07-12,Goldman Sachs,Neutral,,main,MRK
+2012-07-12,Citigroup,Buy,Neutral,up,MRK
+2012-07-13,Jefferies,Hold,,main,MRK
+2012-07-18,Morgan Stanley,Equal-Weight,,main,MRK
+2012-07-30,UBS,Buy,,main,MRK
+2012-07-30,BMO Capital,Market Perform,,main,MRK
+2012-08-09,Credit Suisse,Outperform,,main,MRK
+2012-08-13,Jefferies,Hold,,main,MRK
+2012-08-24,Bank of America,Neutral,Buy,down,MRK
+2012-10-12,Jefferies,Hold,,main,MRK
+2012-10-15,Barclays,Overweight,,main,MRK
+2012-10-29,BMO Capital,Market Perform,,main,MRK
+2012-11-12,BMO Capital,Outperform,Market Perform,up,MRK
+2012-11-20,MKM Partners,Buy,Neutral,up,MRK
+2012-11-30,Citigroup,Neutral,,init,MRK
+2012-12-20,Goldman Sachs,Neutral,,main,MRK
+2013-01-16,Jefferies,Hold,,main,MRK
+2013-02-04,Barclays,Overweight,,main,MRK
+2013-02-04,Leerink Swann,Market Perform,Outperform,down,MRK
+2013-02-04,BMO Capital,Outperform,,main,MRK
+2013-02-04,Morgan Stanley,Underweight,Equal-Weight,down,MRK
+2013-02-15,BMO Capital,Outperform,,main,MRK
+2013-02-25,Jefferies,Hold,,main,MRK
+2013-03-04,Bank of America,Buy,Neutral,up,MRK
+2013-04-10,Jefferies,Hold,,main,MRK
+2013-04-19,BMO Capital,Outperform,,main,MRK
+2013-05-28,Jefferies,Buy,Hold,up,MRK
+2013-05-29,SunTrust Robinson Humphrey,Neutral,,init,MRK
+2013-06-07,Jefferies,Buy,,main,MRK
+2013-06-24,BMO Capital,Outperform,,main,MRK
+2013-07-12,Jefferies,Buy,,main,MRK
+2013-07-18,BMO Capital,Market Perform,Outperform,down,MRK
+2013-10-08,Credit Suisse,Neutral,,init,MRK
+2013-10-11,Jefferies,Hold,Buy,down,MRK
+2013-10-14,Bernstein,Market Perform,Outperform,down,MRK
+2013-10-14,Barclays,Equal-weight,Overweight,down,MRK
+2013-11-01,BMO Capital,Outperform,,up,MRK
+2014-01-27,Morgan Stanley,Overweight,Underweight,up,MRK
+2014-02-04,SunTrust Robinson Humphrey,Buy,Neutral,up,MRK
+2014-04-14,MKM Partners,Buy,,main,MRK
+2014-04-14,Jefferies,Hold,,main,MRK
+2014-04-24,Bank of America,Buy,,main,MRK
+2014-04-28,Credit Suisse,Outperform,,main,MRK
+2014-04-30,UBS,Buy,,main,MRK
+2014-05-07,Morgan Stanley,Equal-Weight,Overweight,down,MRK
+2014-05-07,JP Morgan,Overweight,,main,MRK
+2014-05-08,Credit Suisse,Neutral,,main,MRK
+2014-05-08,BMO Capital,Market Perform,Outperform,down,MRK
+2014-07-02,Barclays,Equal-Weight,,main,MRK
+2014-07-07,Citigroup,Neutral,,main,MRK
+2014-07-08,Citigroup,Neutral,,main,MRK
+2014-07-28,Mainfirst,Outperform,Underperform,up,MRK
+2014-07-31,Credit Suisse,Neutral,,main,MRK
+2014-08-11,Jefferies,Hold,,main,MRK
+2014-08-27,Deutsche Bank,Hold,,init,MRK
+2014-09-15,Jefferies,Hold,,main,MRK
+2014-10-02,Guggenheim,Neutral,,init,MRK
+2014-10-13,Jefferies,Hold,,main,MRK
+2014-11-18,Jefferies,Hold,,main,MRK
+2014-12-04,Jefferies,Hold,,main,MRK
+2015-01-05,Bernstein,Outperform,Market Perform,up,MRK
+2015-01-15,Jefferies,Hold,,main,MRK
+2015-01-16,Barclays,Equal-weight,Underweight,up,MRK
+2015-01-22,Deutsche Bank,Hold,,main,MRK
+2015-02-20,Jefferies,Hold,,main,MRK
+2015-03-10,Jefferies,Hold,,main,MRK
+2015-03-16,Leerink Swann,Market Perform,,main,MRK
+2015-04-29,Deutsche Bank,Hold,,main,MRK
+2015-05-21,Jefferies,Hold,,main,MRK
+2015-06-17,PiperJaffray,Neutral,,init,MRK
+2015-08-13,BMO Capital,Outperform,Market Perform,up,MRK
+2015-08-27,Jefferies,Hold,,main,MRK
+2015-09-21,JP Morgan,Overweight,,main,MRK
+2015-11-24,Berenberg,Buy,,init,MRK
+2015-12-01,Barclays,Overweight,Equal-Weight,up,MRK
+2016-01-14,Jefferies,Hold,,main,MRK
+2016-01-27,Bank of America,Neutral,Buy,down,MRK
+2016-03-15,Jefferies,Hold,,main,MRK
+2016-04-06,Societe Generale,Buy,,init,MRK
+2016-04-15,Jefferies,Hold,,main,MRK
+2016-05-09,Credit Suisse,Neutral,,main,MRK
+2016-06-14,Jefferies,Hold,,main,MRK
+2016-07-14,Jefferies,Hold,,main,MRK
+2016-07-18,BMO Capital,Market Perform,Outperform,down,MRK
+2016-08-05,BMO Capital,Outperform,Market Perform,up,MRK
+2016-08-07,Credit Suisse,Outperform,Neutral,up,MRK
+2016-08-08,Deutsche Bank,Hold,,main,MRK
+2016-08-08,Jefferies,Hold,,main,MRK
+2016-08-19,UBS,Buy,,main,MRK
+2016-09-09,Barclays,Overweight,,main,MRK
+2016-09-12,Jefferies,Hold,,main,MRK
+2016-10-13,Bank of America,Buy,Neutral,up,MRK
+2016-12-19,Jefferies,Underperform,Hold,down,MRK
+2017-01-12,Morgan Stanley,Overweight,Equal-Weight,up,MRK
+2017-01-12,Guggenheim,Buy,Neutral,up,MRK
+2017-07-17,Deutsche Bank,Hold,,main,MRK
+2017-07-31,UBS,Buy,,main,MRK
+2017-08-30,Credit Suisse,Outperform,,main,MRK
+2017-09-08,Credit Suisse,Outperform,,main,MRK
+2017-10-12,BMO Capital,Outperform,,main,MRK
+2017-10-18,Citigroup,Buy,Neutral,up,MRK
+2017-10-23,Leerink Swann,Market Perform,,main,MRK
+2017-10-30,Morgan Stanley,Equal-Weight,Overweight,down,MRK
+2017-10-30,SunTrust Robinson Humphrey,Hold,Buy,down,MRK
+2017-10-30,Leerink Swann,Market Perform,,main,MRK
+2017-10-30,UBS,Buy,,main,MRK
+2017-10-30,Barclays,Equal-Weight,Overweight,down,MRK
+2017-10-31,BMO Capital,Outperform,,main,MRK
+2017-10-31,Jefferies,Hold,Underperform,up,MRK
+2018-01-16,SunTrust Robinson Humphrey,Buy,Hold,up,MRK
+2018-02-05,Credit Suisse,Outperform,Outperform,main,MRK
+2018-02-06,Leerink Swann,Market Perform,Market Perform,main,MRK
+2018-02-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,MRK
+2018-02-13,DZ Bank,Buy,Hold,up,MRK
+2018-02-14,Credit Suisse,Outperform,Outperform,main,MRK
+2018-02-14,BMO Capital,Outperform,Outperform,main,MRK
+2018-04-05,Barclays,Overweight,Equal-Weight,up,MRK
+2018-04-17,Morgan Stanley,Overweight,Equal-Weight,up,MRK
+2018-04-17,Bank of America,Buy,Buy,main,MRK
+2018-04-18,Bank of America,Buy,Buy,main,MRK
+2018-04-23,Goldman Sachs,Buy,Neutral,up,MRK
+2018-04-26,BMO Capital,Outperform,Outperform,main,MRK
+2018-07-30,Bank of America,Buy,Buy,main,MRK
+2018-08-23,Morgan Stanley,Overweight,Overweight,main,MRK
+2018-09-07,Barclays,Overweight,Overweight,main,MRK
+2018-10-11,Credit Suisse,Outperform,Outperform,main,MRK
+2018-10-12,Barclays,Overweight,Overweight,main,MRK
+2018-10-16,Citigroup,Buy,Buy,main,MRK
+2018-10-22,BMO Capital,Outperform,Outperform,main,MRK
+2018-10-26,BMO Capital,Outperform,Outperform,main,MRK
+2018-10-29,SunTrust Robinson Humphrey,Buy,Buy,main,MRK
+2018-10-31,Citigroup,Buy,Buy,main,MRK
+2018-11-01,Citigroup,Buy,Buy,main,MRK
+2019-01-23,BMO Capital,Market Perform,Outperform,down,MRK
+2019-02-22,Cantor Fitzgerald,Overweight,,init,MRK
+2019-05-01,BMO Capital,Market Perform,Market Perform,main,MRK
+2019-05-01,Bank of America,Buy,Buy,main,MRK
+2019-05-02,UBS,Buy,Buy,main,MRK
+2019-05-28,Goldman Sachs,Neutral,,init,MRK
+2019-06-14,JP Morgan,Overweight,,main,MRK
+2019-06-21,Morgan Stanley,Overweight,,main,MRK
+2019-07-03,Mizuho,Buy,,init,MRK
+2019-08-16,SVB Leerink,Outperform,,init,MRK
+2019-11-13,Morgan Stanley,Overweight,,main,MRK
+2020-01-23,UBS,Buy,,main,MRK
+2020-02-06,UBS,Buy,,main,MRK
+2020-03-24,Argus Research,Buy,,main,MRK
+2020-04-01,RBC Capital,Sector Perform,,main,MRK
+2020-04-02,Morgan Stanley,Overweight,,main,MRK
+2020-04-13,UBS,Buy,,main,MRK
+2020-04-29,Barclays,Overweight,,main,MRK
+2020-04-29,SVB Leerink,Outperform,,main,MRK
+2020-04-29,Guggenheim,Buy,,main,MRK
+2020-06-12,Wolfe Research,Peer Perform,Outperform,down,MRK
+2020-08-03,Goldman Sachs,Buy,Neutral,up,MRK
+2020-08-25,SVB Leerink,Outperform,,main,MRK
+2020-09-29,Berenberg,Hold,,init,MRK
+2020-10-16,JP Morgan,Overweight,,main,MRK
+2020-10-23,Truist Securities,Buy,,init,MRK
+2020-10-29,SVB Leerink,Outperform,,main,MRK
+2021-04-30,SVB Leerink,Outperform,,main,MRK
+2021-05-20,Argus Research,Hold,Buy,down,MRK
+2021-06-03,SVB Leerink,Outperform,,main,MRK
+2021-06-07,Truist Securities,Buy,,main,MRK
+2021-06-09,JP Morgan,Overweight,,main,MRK
+2021-07-30,SVB Leerink,Outperform,,main,MRK
+2021-09-07,Morgan Stanley,Equal-Weight,Overweight,down,MRK
+2021-10-04,SVB Leerink,Outperform,,main,MRK
+2021-10-08,Barclays,Overweight,,main,MRK
+2021-10-11,Berenberg,Hold,,main,MRK
+2021-10-12,Morgan Stanley,Equal-Weight,,main,MRK
+2021-10-22,SVB Leerink,Outperform,,main,MRK
+2021-10-29,Morgan Stanley,Equal-Weight,,main,MRK
+2021-11-01,Argus Research,Buy,Hold,up,MRK
+2021-11-01,Barclays,Overweight,,main,MRK
+2021-11-19,BMO Capital,Market Perform,,init,MRK
+2021-11-29,Morgan Stanley,Equal-Weight,,main,MRK
+2021-11-29,Citigroup,Neutral,Buy,down,MRK
+2021-12-07,Guggenheim,Neutral,Buy,down,MRK
+2021-12-09,Wells Fargo,Overweight,,init,MRK
+2021-12-13,UBS,Neutral,Buy,down,MRK
+2021-12-16,Daiwa Capital,Neutral,,init,MRK

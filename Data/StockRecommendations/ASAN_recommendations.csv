@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-10-26,Piper Sandler,Neutral,,init,ASAN
+2020-10-26,KeyBanc,Sector Weight,,init,ASAN
+2020-10-26,Morgan Stanley,Equal-Weight,,init,ASAN
+2020-10-26,JMP Securities,Market Outperform,,init,ASAN
+2020-10-26,Jefferies,Buy,,init,ASAN
+2020-10-26,JP Morgan,Neutral,,init,ASAN
+2020-10-26,RBC Capital,Outperform,,init,ASAN
+2020-10-26,Credit Suisse,Neutral,,init,ASAN
+2020-11-10,Berenberg,Buy,,init,ASAN
+2020-12-02,Piper Sandler,Overweight,Neutral,up,ASAN
+2020-12-10,Credit Suisse,Neutral,,main,ASAN
+2020-12-10,Piper Sandler,Overweight,,main,ASAN
+2020-12-10,Morgan Stanley,Equal-Weight,,main,ASAN
+2021-03-05,Baird,Outperform,,init,ASAN
+2021-03-11,Piper Sandler,Overweight,,main,ASAN
+2021-03-11,Morgan Stanley,Equal-Weight,,main,ASAN
+2021-03-11,RBC Capital,Outperform,,main,ASAN
+2021-03-11,Credit Suisse,Neutral,,main,ASAN
+2021-04-23,Wolfe Research,Outperform,,init,ASAN
+2021-05-21,Keybanc,Overweight,Sector Weight,up,ASAN
+2021-06-04,Keybanc,Overweight,,main,ASAN
+2021-06-04,JMP Securities,Market Outperform,,main,ASAN
+2021-06-04,RBC Capital,Outperform,,main,ASAN
+2021-06-04,Morgan Stanley,Equal-Weight,,main,ASAN
+2021-06-04,Piper Sandler,Overweight,,main,ASAN
+2021-07-15,Keybanc,Overweight,,main,ASAN
+2021-07-19,Wolfe Research,Outperform,,main,ASAN
+2021-07-22,FBN Securities,Outperform,,init,ASAN
+2021-08-27,JMP Securities,Market Outperform,,main,ASAN
+2021-09-02,Piper Sandler,Overweight,,main,ASAN
+2021-09-02,Oppenheimer,Outperform,,main,ASAN
+2021-09-02,Keybanc,Overweight,,main,ASAN
+2021-10-21,Keybanc,Overweight,,main,ASAN
+2021-10-22,Morgan Stanley,Equal-Weight,,main,ASAN
+2021-11-04,Jefferies,Hold,Buy,down,ASAN
+2021-11-18,Piper Sandler,Overweight,,main,ASAN
+2021-12-03,Keybanc,Overweight,,main,ASAN
+2021-12-03,JMP Securities,Market Outperform,,main,ASAN
+2021-12-13,Morgan Stanley,Equal-Weight,,main,ASAN
+2022-01-05,DA Davidson,Neutral,,init,ASAN

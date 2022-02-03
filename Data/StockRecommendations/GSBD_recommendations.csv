@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-04-13,SunTrust Robinson Humphrey,Buy,,init,GSBD
+2015-04-13,Citigroup,Buy,,init,GSBD
+2015-04-13,Credit Suisse,Neutral,,init,GSBD
+2015-04-14,Bank of America,Neutral,,init,GSBD
+2015-06-01,Wells Fargo,Market Perform,Outperform,down,GSBD
+2015-06-04,Raymond James,Market Perform,Outperform,down,GSBD
+2015-07-01,Cantor Fitzgerald,Hold,,init,GSBD
+2015-08-10,SunTrust Robinson Humphrey,Neutral,Buy,down,GSBD
+2015-09-18,Raymond James,Outperform,Market Perform,up,GSBD
+2015-11-10,SunTrust Robinson Humphrey,Buy,Neutral,up,GSBD
+2016-01-06,Credit Suisse,Neutral,,main,GSBD
+2016-03-04,Wells Fargo,Outperform,Market Perform,up,GSBD
+2016-10-05,Citigroup,Buy,,main,GSBD
+2016-11-03,Bank of America,Underperform,Neutral,down,GSBD
+2017-01-06,SunTrust Robinson Humphrey,Hold,Buy,down,GSBD
+2017-01-18,Wells Fargo,Market Perform,Outperform,down,GSBD
+2017-03-02,Raymond James,Market Perform,Outperform,down,GSBD
+2017-05-26,Raymond James,Outperform,Market Perform,up,GSBD
+2018-02-26,Bank of America,Underperform,Underperform,main,GSBD
+2018-05-07,Raymond James,Strong Buy,Outperform,up,GSBD
+2018-05-07,Credit Suisse,Neutral,Neutral,main,GSBD
+2018-08-23,Citigroup,Neutral,,init,GSBD
+2018-10-04,Wells Fargo,Market Perform,Market Perform,main,GSBD
+2018-11-05,Wells Fargo,Outperform,Market Perform,up,GSBD
+2018-11-05,Wells Fargo,Outperform,Outperform,main,GSBD
+2019-03-04,Raymond James,Strong Buy,Strong Buy,main,GSBD
+2019-04-17,Citigroup,Neutral,Neutral,main,GSBD
+2019-05-13,Raymond James,Outperform,Strong Buy,down,GSBD
+2019-05-13,Wells Fargo,Market Perform,Outperform,down,GSBD
+2020-02-24,Raymond James,Market Perform,Outperform,down,GSBD
+2020-03-25,Wells Fargo,Overweight,Equal-Weight,up,GSBD
+2020-04-07,Citigroup,Neutral,,main,GSBD
+2020-04-27,Wells Fargo,Overweight,,main,GSBD
+2020-05-04,Credit Suisse,Neutral,,main,GSBD
+2020-05-14,Citigroup,Neutral,,main,GSBD
+2020-08-12,Truist Securities,Hold,,main,GSBD
+2020-08-13,Wells Fargo,Overweight,,main,GSBD
+2021-10-25,Wells Fargo,Overweight,,main,GSBD

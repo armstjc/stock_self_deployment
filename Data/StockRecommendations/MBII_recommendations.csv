@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-08-27,Jefferies,Buy,,init,MBII
+2013-08-27,PiperJaffray,Overweight,,init,MBII
+2013-08-27,Stifel Nicolaus,Buy,,init,MBII
+2013-11-11,Stifel Nicolaus,Buy,,main,MBII
+2014-06-09,Jefferies,Buy,,main,MBII
+2014-06-30,Baird,Outperform,,init,MBII
+2014-08-08,Baird,Neutral,Outperform,down,MBII
+2014-08-08,PiperJaffray,Neutral,Overweight,down,MBII
+2014-09-04,Stifel Nicolaus,Buy,,main,MBII
+2015-05-20,Jefferies,Hold,Buy,down,MBII
+2016-03-16,Rodman & Renshaw,Buy,,init,MBII
+2016-11-23,Jefferies,Hold,,main,MBII
+2020-05-14,Aegis Capital,Buy,,main,MBII
+2020-07-28,Canaccord Genuity,Buy,,init,MBII
+2020-08-14,Aegis Capital,Buy,,main,MBII
+2021-02-11,Aegis Capital,Buy,,main,MBII
+2021-08-19,Aegis Capital,Buy,,main,MBII
+2021-09-22,Roth Capital,Buy,,init,MBII

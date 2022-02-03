@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MTL220218P00002500,2022-01-05 19:40:41+00:00,2.5,0.16,0.1,0.15,0.019999996,14.285712,25,371,1.46875265625,False,REGULAR,USD,MTL

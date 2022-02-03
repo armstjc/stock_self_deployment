@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-09,Wunderlich,Hold,,main,CVLT
+2012-05-09,Jefferies,Hold,,main,CVLT
+2012-06-25,Sterne Agee,Buy,,init,CVLT
+2012-07-31,Sterne Agee,Buy,,main,CVLT
+2012-10-01,RBC Capital,Sector Perform,Outperform,down,CVLT
+2012-11-15,PiperJaffray,Neutral,,init,CVLT
+2013-01-07,Craig-Hallum,Hold,Buy,down,CVLT
+2013-01-30,Sterne Agee,Buy,,main,CVLT
+2013-01-30,PiperJaffray,Neutral,,main,CVLT
+2013-01-31,Wunderlich,Hold,,main,CVLT
+2013-05-02,PiperJaffray,Overweight,Neutral,up,CVLT
+2013-06-18,Pacific Crest,Outperform,Sector Perform,up,CVLT
+2013-09-26,Pacific Crest,Outperform,,main,CVLT
+2013-11-25,Monness Crespi Hardt,Buy,,init,CVLT
+2013-12-03,Oppenheimer,Perform,,init,CVLT
+2013-12-04,BMO Capital,Outperform,,init,CVLT
+2013-12-05,BMO Capital,Outperform,,init,CVLT
+2014-02-10,JMP Securities,Outperform,Market Perform,up,CVLT
+2014-03-17,Mizuho,Buy,,up,CVLT
+2014-04-28,Monness Crespi Hardt,Neutral,Buy,down,CVLT
+2014-04-28,Credit Suisse,Neutral,,main,CVLT
+2014-04-28,JMP Securities,Market Outperform,,main,CVLT
+2014-04-28,Pacific Crest,Outperform,,main,CVLT
+2014-10-28,PiperJaffray,Neutral,Overweight,down,CVLT
+2014-10-28,JMP Securities,Market Outperform,,main,CVLT
+2014-10-29,JMP Securities,Market Outperform,,main,CVLT
+2014-10-29,Pacific Crest,Outperform,,main,CVLT
+2014-11-21,Jefferies,Hold,,init,CVLT
+2015-01-28,Lake Street,,Buy,down,CVLT
+2015-01-29,Credit Suisse,Neutral,,main,CVLT
+2015-07-29,JMP Securities,Market Outperform,,main,CVLT
+2015-07-29,Jefferies,Buy,Hold,up,CVLT
+2015-07-29,Pacific Crest,Overweight,,main,CVLT
+2015-10-26,PiperJaffray,Overweight,Neutral,up,CVLT
+2015-10-28,Pacific Crest,Overweight,,main,CVLT
+2016-01-13,Mitsubishi UFJ,Overweight,,init,CVLT
+2016-01-15,Sterne Agee CRT,Neutral,Buy,down,CVLT
+2016-07-27,Jefferies,Buy,,main,CVLT
+2016-07-27,Pacific Crest,Overweight,,main,CVLT
+2016-09-14,Jefferies,Buy,,main,CVLT
+2016-10-06,KeyBanc,Overweight,,main,CVLT
+2016-10-06,Stifel Nicolaus,Buy,,main,CVLT
+2017-10-25,Mitsubishi UFJ,Neutral,Overweight,down,CVLT
+2017-11-15,Wells Fargo,Outperform,,init,CVLT
+2018-04-17,KeyBanc,Overweight,Overweight,main,CVLT
+2018-10-31,KeyBanc,Sector Weight,Overweight,down,CVLT
+2019-02-11,PiperJaffray,Neutral,Overweight,down,CVLT
+2020-03-31,Wells Fargo,Overweight,,main,CVLT
+2020-04-20,Needham,Buy,,init,CVLT
+2020-05-13,Needham,Buy,,main,CVLT
+2021-01-12,Piper Sandler,Overweight,Neutral,up,CVLT
+2021-01-13,KeyBanc,Overweight,Sector Weight,up,CVLT
+2021-01-25,Needham,Buy,,main,CVLT
+2021-01-28,KeyBanc,Overweight,,main,CVLT
+2021-01-28,Needham,Buy,,main,CVLT
+2021-05-05,Needham,Buy,,main,CVLT
+2021-07-22,Keybanc,Overweight,,main,CVLT
+2021-07-23,Needham,Buy,,main,CVLT
+2021-10-27,Keybanc,Overweight,,main,CVLT
+2021-10-27,Needham,Buy,,main,CVLT
+2021-10-27,William Blair,Market Perform,Outperform,down,CVLT

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+HOPE220916C00015000,2022-01-25 18:45:00+00:00,15.0,3.01,0.75,3.8,0.0,0.0,,2,0.5952188916015625,True,REGULAR,USD,HOPE
+HOPE220916C00017500,2022-01-25 18:37:38+00:00,17.5,1.65,0.05,1.5,0.0,0.0,,2,0.358404853515625,False,REGULAR,USD,HOPE

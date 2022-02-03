@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-16,Wells Fargo,Equal-Weight,,main,EPAC
+2020-03-20,Stifel,Hold,,main,EPAC
+2021-03-19,CJS Securities,Outperform,,init,EPAC
+2021-06-08,Wells Fargo,Underweight,Equal-Weight,down,EPAC
+2021-06-24,RBC Capital,Sector Perform,,main,EPAC
+2021-06-30,RBC Capital,Sector Perform,,main,EPAC
+2021-09-30,RBC Capital,Sector Perform,,main,EPAC
+2021-09-30,Wells Fargo,Underweight,,main,EPAC
+2021-11-02,Wells Fargo,Equal-Weight,Underweight,up,EPAC
+2021-12-22,RBC Capital,Sector Perform,,main,EPAC
+2022-01-05,RBC Capital,Underperform,Sector Perform,down,EPAC

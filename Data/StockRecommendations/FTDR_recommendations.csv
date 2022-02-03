@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-11-30,Buckingham,Buy,,init,FTDR
+2019-03-14,Buckingham,Buy,Buy,main,FTDR
+2019-03-25,JP Morgan,Overweight,,init,FTDR
+2019-03-25,Wells Fargo,Outperform,,init,FTDR
+2019-03-27,William Blair,Outperform,,init,FTDR
+2019-03-28,SunTrust Robinson Humphrey,Buy,,init,FTDR
+2019-04-08,Guggenheim,Buy,,init,FTDR
+2019-04-18,Credit Suisse,Neutral,,init,FTDR
+2019-04-24,Goldman Sachs,Buy,,init,FTDR
+2019-04-25,Raymond James,Outperform,,init,FTDR
+2019-05-21,Buckingham,Buy,,main,FTDR
+2019-06-26,Raymond James,Outperform,,main,FTDR
+2019-07-31,Buckingham,Neutral,Buy,down,FTDR
+2019-07-31,Buckingham Research,Neutral,Buy,down,FTDR
+2019-08-19,Guggenheim,Buy,,main,FTDR
+2019-09-27,Wells Fargo,Market Perform,Outperform,down,FTDR
+2019-11-19,Buckingham Research,Neutral,,main,FTDR
+2020-03-18,JP Morgan,Overweight,,main,FTDR
+2020-04-01,SunTrust Robinson Humphrey,Buy,,main,FTDR
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,FTDR
+2020-08-06,Credit Suisse,Neutral,,main,FTDR
+2020-09-15,KeyBanc,Sector Weight,,init,FTDR
+2020-11-05,Raymond James,Outperform,,main,FTDR
+2021-02-19,Goldman Sachs,Buy,,main,FTDR
+2021-02-19,Raymond James,Outperform,,main,FTDR
+2021-02-19,Credit Suisse,Neutral,,main,FTDR
+2021-08-05,Raymond James,Outperform,,main,FTDR
+2021-08-05,Credit Suisse,Neutral,,main,FTDR
+2021-10-29,JP Morgan,Neutral,Overweight,down,FTDR
+2021-10-29,Credit Suisse,Neutral,,main,FTDR
+2021-10-29,Raymond James,Outperform,,main,FTDR

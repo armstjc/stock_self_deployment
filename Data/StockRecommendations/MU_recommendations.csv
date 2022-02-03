@@ -1,0 +1,419 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,Goldman Sachs,Neutral,,main,MU
+2012-02-13,PiperJaffray,Overweight,,main,MU
+2012-02-13,Oppenheimer,Outperform,,main,MU
+2012-02-29,Wedbush,Outperform,,main,MU
+2012-03-21,Citigroup,Buy,,main,MU
+2012-03-26,Oppenheimer,Perform,,down,MU
+2012-05-18,ThinkEquity,Buy,,init,MU
+2012-06-21,Deutsche Bank,Hold,,main,MU
+2012-06-21,Stifel Nicolaus,Buy,,main,MU
+2012-06-21,Sterne Agee,Buy,,main,MU
+2012-09-28,JP Morgan,Neutral,,main,MU
+2012-09-28,Citigroup,Buy,,main,MU
+2012-09-28,Jefferies,Buy,,main,MU
+2012-10-11,Nomura,Neutral,,main,MU
+2012-10-15,PiperJaffray,Overweight,,main,MU
+2012-12-07,Cross Research,Buy,,init,MU
+2012-12-14,Drexel Hamilton,Buy,Hold,up,MU
+2012-12-21,Stifel Nicolaus,Buy,,down,MU
+2012-12-21,Citigroup,Buy,,main,MU
+2012-12-21,Credit Agricole,Outperform,Buy,down,MU
+2012-12-21,Credit Agricole,Outperform,Buy,down,MU
+2013-01-03,Barclays,Overweight,,main,MU
+2013-01-09,Wedbush,Outperform,,main,MU
+2013-02-20,Nomura,Neutral,,main,MU
+2013-03-04,Lazard,Neutral,Buy,down,MU
+2013-03-07,Stifel Nicolaus,Buy,,main,MU
+2013-03-14,Sterne Agee,Buy,,main,MU
+2013-03-14,Bank of America,Buy,,main,MU
+2013-03-18,Wedbush,Outperform,,main,MU
+2013-03-18,Susquehanna,Negative,Neutral,down,MU
+2013-03-22,Citigroup,Buy,,main,MU
+2013-03-22,Jefferies,Buy,,main,MU
+2013-03-22,Deutsche Bank,Hold,,main,MU
+2013-03-22,JP Morgan,Neutral,,main,MU
+2013-03-22,UBS,Buy,,main,MU
+2013-03-22,Stifel Nicolaus,Buy,,main,MU
+2013-03-22,PiperJaffray,Overweight,,main,MU
+2013-03-22,JP Morgan,Neutral,,main,MU
+2013-03-22,Bank of America,Buy,,main,MU
+2013-03-22,Nomura,Neutral,,main,MU
+2013-04-08,Morgan Stanley,Equal-Weight,,init,MU
+2013-05-02,Credit Agricole,Underperform,Outperform,down,MU
+2013-05-06,Topeka,Hold,,init,MU
+2013-05-10,JMP Securities,Market Perform,Market Outperform,down,MU
+2013-05-31,MKM Partners,Neutral,Buy,down,MU
+2013-06-06,Stifel Nicolaus,Buy,,main,MU
+2013-06-10,Wells Fargo,Market Perform,Outperform,down,MU
+2013-06-13,Nomura,Neutral,,main,MU
+2013-06-14,Bank of America,Buy,,main,MU
+2013-06-17,Credit Suisse,Outperform,,main,MU
+2013-06-17,Jefferies,Buy,,main,MU
+2013-06-20,Wedbush,Outperform,,main,MU
+2013-06-20,Nomura,Neutral,,main,MU
+2013-06-20,PiperJaffray,Overweight,,main,MU
+2013-06-20,Sterne Agee,Buy,,main,MU
+2013-06-20,Jefferies,Buy,,main,MU
+2013-06-20,JP Morgan,Neutral,,main,MU
+2013-06-20,Stifel Nicolaus,Buy,,main,MU
+2013-08-12,Stifel Nicolaus,Buy,,main,MU
+2013-08-12,Nomura,Neutral,,main,MU
+2013-08-15,Baird,Neutral,Outperform,down,MU
+2013-09-09,Susquehanna,Neutral,Negative,up,MU
+2013-09-20,Wedbush,Outperform,,main,MU
+2013-09-27,Stifel Nicolaus,Buy,,main,MU
+2013-09-30,Nomura,Neutral,,main,MU
+2013-10-03,Credit Suisse,Outperform,,main,MU
+2013-10-09,PiperJaffray,Overweight,,main,MU
+2013-10-11,Wells Fargo,Underperform,Market Perform,down,MU
+2013-10-22,Drexel Hamilton,Buy,,init,MU
+2013-11-22,Bank of America,Neutral,Buy,down,MU
+2013-12-03,Needham,Buy,,init,MU
+2013-12-03,Bernstein,Outperform,,main,MU
+2013-12-12,Nomura,Buy,Neutral,up,MU
+2013-12-23,Bank of America,Underperform,Neutral,down,MU
+2014-01-03,RBC Capital,Sector Perform,Outperform,down,MU
+2014-01-08,Stifel Nicolaus,Buy,,main,MU
+2014-01-10,Argus Capital,Buy,,init,MU
+2014-01-16,JMP Securities,Market Outperform,Market Perform,up,MU
+2014-04-10,ISI Group,Strong Buy,,init,MU
+2014-05-19,RBC Capital,Outperform,Sector Perform,up,MU
+2014-06-11,Bank of America,Buy,Underperform,up,MU
+2014-06-11,Credit Suisse,Outperform,,main,MU
+2014-06-12,Nomura,Buy,,main,MU
+2014-06-16,Baird,Outperform,Neutral,up,MU
+2014-06-19,Raymond James,Strong Buy,,main,MU
+2014-06-24,JP Morgan,Neutral,,main,MU
+2014-06-24,Jefferies,Buy,,main,MU
+2014-06-24,Needham,Strong Buy,Buy,up,MU
+2014-06-25,Macquarie,Neutral,,main,MU
+2014-09-26,Stifel Nicolaus,Buy,,main,MU
+2014-10-08,Ladenburg Thalmann,Neutral,,init,MU
+2014-10-20,Pacific Crest,Outperform,Sector Perform,up,MU
+2014-12-16,Nomura,Buy,,main,MU
+2015-01-20,Susquehanna,Neutral,Positive,up,MU
+2015-02-17,Macquarie,Outperform,Neutral,up,MU
+2015-02-17,Jefferies,Buy,,main,MU
+2015-03-03,Nomura,Neutral,Buy,down,MU
+2015-03-17,RBC Capital,Outperform,,main,MU
+2015-03-18,Jefferies,Buy,,main,MU
+2015-03-25,MKM Partners,Neutral,,init,MU
+2015-04-02,Stifel Nicolaus,Buy,,main,MU
+2015-04-02,JP Morgan,Overweight,,main,MU
+2015-04-02,Deutsche Bank,Buy,,main,MU
+2015-05-12,Drexel Hamilton,Hold,Buy,down,MU
+2015-05-21,JMP Securities,Market Outperform,,main,MU
+2015-05-22,Mizuho,Buy,,init,MU
+2015-06-09,Drexel Hamilton,Sell,Hold,down,MU
+2015-06-12,Pacific Crest,Overweight,,main,MU
+2015-06-15,Morgan Stanley,Underweight,Equal-Weight,down,MU
+2015-06-18,Stifel Nicolaus,Buy,,main,MU
+2015-06-18,Susquehanna,Positive,,main,MU
+2015-06-19,Topeka,Buy,Hold,up,MU
+2015-06-22,Cowen & Co.,Outperform,,init,MU
+2015-06-22,Goldman Sachs,Sell,Neutral,down,MU
+2015-06-26,Jefferies,Buy,,main,MU
+2015-06-26,Deutsche Bank,Buy,,main,MU
+2015-06-26,Stifel Nicolaus,Buy,,main,MU
+2015-06-26,Bernstein,Outperform,,main,MU
+2015-06-26,Morgan Stanley,Underweight,,main,MU
+2015-06-26,Credit Suisse,Outperform,,main,MU
+2015-06-29,Mizuho,Neutral,Buy,down,MU
+2015-06-30,Standpoint Research,Buy,,init,MU
+2015-07-14,Morgan Stanley,Equal-Weight,Underweight,up,MU
+2015-07-28,,Buy,,up,MU
+2015-08-07,Drexel Hamilton,Hold,Buy,down,MU
+2015-08-11,PiperJaffray,Overweight,,main,MU
+2015-08-17,UBS,Buy,,main,MU
+2015-08-17,Topeka,Buy,,main,MU
+2015-08-17,Wells Fargo,Market Perform,Underperform,up,MU
+2015-08-17,Wedbush,Neutral,Outperform,down,MU
+2015-08-20,Baird,Neutral,Outperform,down,MU
+2015-08-24,Susquehanna,Positive,,main,MU
+2015-08-25,Mizuho,Neutral,,main,MU
+2015-09-08,MKM Partners,Buy,Neutral,up,MU
+2015-09-21,Barclays,Overweight,,init,MU
+2015-09-25,Wedbush,Neutral,,main,MU
+2015-09-29,Wells Fargo,Outperform,Market Perform,up,MU
+2015-10-02,Deutsche Bank,Buy,,main,MU
+2015-10-02,Jefferies,Buy,,main,MU
+2015-10-02,Pacific Crest,Overweight,,main,MU
+2015-10-02,Morgan Stanley,Equal-Weight,,main,MU
+2015-10-02,Credit Suisse,Outperform,,main,MU
+2015-10-21,Bank of America,Underperform,Neutral,down,MU
+2015-12-14,MKM Partners,Buy,,main,MU
+2015-12-17,Morgan Stanley,Overweight,Equal-Weight,up,MU
+2015-12-23,Pacific Crest,Outperform,,main,MU
+2015-12-23,Macquarie,Outperform,,main,MU
+2015-12-23,Raymond James,Outperform,Strong Buy,down,MU
+2016-01-04,Deutsche Bank,Buy,,main,MU
+2016-02-01,Goldman Sachs,Neutral,Sell,up,MU
+2016-02-16,Macquarie,Outperform,,main,MU
+2016-02-16,Nomura,Neutral,,main,MU
+2016-02-16,Mizuho,Buy,Neutral,up,MU
+2016-03-07,Nomura,Reduce,Neutral,down,MU
+2016-03-18,Susquehanna,Neutral,Positive,down,MU
+2016-03-21,UBS,Buy,,main,MU
+2016-03-21,Deutsche Bank,Buy,,main,MU
+2016-03-28,Barclays,Overweight,,main,MU
+2016-03-29,Needham,Underperform,Hold,down,MU
+2016-03-31,Bernstein,Market Perform,Outperform,down,MU
+2016-03-31,Goldman Sachs,Neutral,,main,MU
+2016-03-31,JP Morgan,Overweight,,main,MU
+2016-03-31,Evercore ISI Group,Buy,,main,MU
+2016-03-31,UBS,Buy,,main,MU
+2016-03-31,Barclays,Overweight,,main,MU
+2016-03-31,Pacific Crest,Overweight,,main,MU
+2016-03-31,Macquarie,Neutral,Outperform,down,MU
+2016-04-15,Raymond James,Strong Buy,Outperform,up,MU
+2016-04-15,Brean Capital,Buy,,init,MU
+2016-05-18,Bernstein,Market Perform,,main,MU
+2016-05-31,Baird,Outperform,Neutral,up,MU
+2016-06-06,Goldman Sachs,Neutral,,main,MU
+2016-06-23,Susquehanna,Positive,Neutral,up,MU
+2016-06-23,Nomura,Buy,Reduce,up,MU
+2016-08-05,UBS,Buy,,main,MU
+2016-08-16,Brean Capital,Buy,,main,MU
+2016-08-25,Nomura,Buy,,main,MU
+2016-08-29,Standpoint Research,Hold,Buy,down,MU
+2016-08-30,Morgan Stanley,Overweight,,main,MU
+2016-09-12,Goldman Sachs,Neutral,,main,MU
+2016-09-16,Cleveland Research,Buy,Neutral,up,MU
+2016-09-21,Nomura,Buy,,main,MU
+2016-10-03,Barclays,Overweight,,main,MU
+2016-10-05,Goldman Sachs,Neutral,,main,MU
+2016-10-05,Credit Suisse,Outperform,,main,MU
+2016-10-05,Barclays,Outperform,,main,MU
+2016-10-05,Brean Capital,Buy,,main,MU
+2016-10-05,Morgan Stanley,Overweight,,main,MU
+2016-10-05,Deutsche Bank,Buy,,main,MU
+2016-10-05,Baird,Outperform,,main,MU
+2016-10-06,Baird,Outperform,,main,MU
+2016-11-23,Deutsche Bank,Buy,,main,MU
+2016-11-30,Nomura,Buy,,main,MU
+2016-12-07,Standpoint Research,Buy,Hold,up,MU
+2016-12-07,Citigroup,Buy,,init,MU
+2016-12-13,Loop Capital,Buy,,init,MU
+2016-12-22,Summit Redstone Partners,Buy,Sell,up,MU
+2017-02-09,Bank of America,Buy,Underperform,up,MU
+2017-03-01,Goldman Sachs,Buy,Neutral,up,MU
+2017-03-02,Needham,Buy,,main,MU
+2017-03-24,Deutsche Bank,Buy,,reit,MU
+2017-03-31,Macquarie,Outperform,,init,MU
+2017-05-08,Goldman Sachs,Neutral,Buy,down,MU
+2017-05-24,Standpoint Research,Reduce,Buy,down,MU
+2017-06-30,Susquehanna,Positive,,main,MU
+2017-06-30,Morgan Stanley,Overweight,,main,MU
+2017-06-30,Deutsche Bank,Buy,,main,MU
+2017-08-18,Stifel Nicolaus,Buy,,main,MU
+2017-09-13,Goldman Sachs,Buy,Neutral,up,MU
+2017-09-21,Loop Capital,Buy,,main,MU
+2017-09-27,Morgan Stanley,Overweight,,main,MU
+2017-09-27,Wells Fargo,Outperform,,main,MU
+2017-09-27,Credit Suisse,Outperform,,main,MU
+2017-09-29,Nomura,Buy,,main,MU
+2017-10-02,BMO Capital,Market Perform,,init,MU
+2017-10-12,Barclays,Overweight,,main,MU
+2017-10-13,Loop Capital,Buy,,main,MU
+2017-10-16,Nomura,Buy,,main,MU
+2017-10-19,UBS,Buy,,main,MU
+2017-11-28,Standpoint Research,Hold,Outperform,down,MU
+2018-02-06,Morgan Stanley,Overweight,Overweight,main,MU
+2018-02-06,Stifel Nicolaus,Buy,Buy,main,MU
+2018-02-06,Needham,Strong Buy,Buy,up,MU
+2018-02-06,KeyBanc,Overweight,Sector Weight,up,MU
+2018-03-08,KeyBanc,Overweight,Overweight,main,MU
+2018-03-19,Deutsche Bank,Buy,Buy,main,MU
+2018-03-20,Credit Suisse,Outperform,Outperform,main,MU
+2018-03-21,BMO Capital,Market Perform,Market Perform,main,MU
+2018-03-23,Deutsche Bank,Buy,Buy,main,MU
+2018-03-23,JP Morgan,Overweight,Overweight,main,MU
+2018-03-23,Wells Fargo,Outperform,Outperform,main,MU
+2018-03-23,Morgan Stanley,Overweight,Overweight,main,MU
+2018-03-23,Stifel Nicolaus,Buy,Buy,main,MU
+2018-03-23,KeyBanc,Overweight,Overweight,main,MU
+2018-03-26,Argus,Buy,Buy,main,MU
+2018-04-05,UBS,Sell,,init,MU
+2018-05-16,RBC Capital,Outperform,,init,MU
+2018-05-22,Stifel Nicolaus,Buy,Buy,main,MU
+2018-05-22,Deutsche Bank,Buy,Buy,main,MU
+2018-05-22,JP Morgan,Overweight,Overweight,main,MU
+2018-05-22,Credit Suisse,Outperform,Outperform,main,MU
+2018-05-22,KeyBanc,Overweight,Overweight,main,MU
+2018-05-31,Morgan Stanley,Equal-Weight,Overweight,down,MU
+2018-06-21,JP Morgan,Overweight,Overweight,main,MU
+2018-06-21,Cowen & Co.,Outperform,Outperform,main,MU
+2018-06-21,Credit Suisse,Outperform,Outperform,main,MU
+2018-06-21,Stifel Nicolaus,Buy,Buy,main,MU
+2018-06-22,Benchmark,Buy,,init,MU
+2018-06-26,UBS,Neutral,Sell,up,MU
+2018-09-12,Goldman Sachs,Neutral,Buy,down,MU
+2018-09-14,Macquarie,Outperform,Outperform,main,MU
+2018-09-17,BMO Capital,Market Perform,Market Perform,main,MU
+2018-09-17,Deutsche Bank,Buy,Buy,main,MU
+2018-09-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,MU
+2018-09-21,Nomura,Buy,Buy,main,MU
+2018-09-21,Stifel Nicolaus,Buy,Buy,main,MU
+2018-10-23,Barclays,Overweight,Overweight,main,MU
+2018-10-23,Susquehanna,Neutral,Positive,down,MU
+2018-11-20,Baird,Underperform,Outperform,down,MU
+2018-11-27,UBS,Neutral,Neutral,main,MU
+2018-11-29,Citigroup,Neutral,Neutral,main,MU
+2018-12-10,KeyBanc,Overweight,Overweight,main,MU
+2018-12-19,Wells Fargo,Outperform,Outperform,main,MU
+2018-12-19,Morgan Stanley,Equal-Weight,Equal-Weight,main,MU
+2018-12-19,KeyBanc,Overweight,Overweight,main,MU
+2018-12-19,Deutsche Bank,Buy,Buy,main,MU
+2018-12-19,MKM Partners,Buy,Buy,main,MU
+2018-12-19,RBC Capital,Sector Perform,Outperform,down,MU
+2018-12-19,Barclays,Overweight,Overweight,main,MU
+2019-01-07,BMO Capital,Outperform,Market Perform,up,MU
+2019-03-15,Mizuho,Buy,Buy,main,MU
+2019-03-21,Citigroup,Sell,Neutral,down,MU
+2019-03-21,Summit Insights Group,Buy,Hold,up,MU
+2019-03-21,KeyBanc,Overweight,Overweight,main,MU
+2019-03-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,MU
+2019-04-04,Morgan Stanley,Underweight,Equal-Weight,down,MU
+2019-04-08,Cowen & Co.,Market Perform,Outperform,down,MU
+2019-04-16,Nomura,Neutral,,init,MU
+2019-05-20,Deutsche Bank,Buy,,main,MU
+2019-06-03,Nomura,Neutral,,main,MU
+2019-06-03,KeyBanc,Overweight,,main,MU
+2019-06-06,Barclays,Overweight,,main,MU
+2019-06-26,Needham,Buy,Hold,up,MU
+2019-06-26,KeyBanc,Overweight,,main,MU
+2019-06-26,Morgan Stanley,Underweight,,main,MU
+2019-06-27,Wedbush,Neutral,,init,MU
+2019-07-18,Barclays,Overweight,,main,MU
+2019-07-22,Goldman Sachs,Buy,Neutral,up,MU
+2019-07-30,Morgan Stanley,Equal-Weight,Underweight,up,MU
+2019-09-04,Mizuho,Buy,,main,MU
+2019-09-10,KeyBanc,Overweight,,main,MU
+2019-09-11,Wells Fargo,Outperform,,main,MU
+2019-09-11,Longbow Research,Buy,Neutral,up,MU
+2019-09-17,Cascend,Buy,,reit,MU
+2019-09-20,JP Morgan,Overweight,,reit,MU
+2019-09-25,BMO Capital,Outperform,,main,MU
+2019-09-27,KeyBanc,Overweight,,main,MU
+2019-09-27,Wedbush,Neutral,,main,MU
+2019-09-27,Nomura,Neutral,,main,MU
+2019-09-27,Citigroup,Sell,,main,MU
+2019-09-27,Baird,Underperform,,main,MU
+2019-11-29,GF Securities,Accumulate,,init,MU
+2019-12-16,Morgan Stanley,Equal-Weight,,main,MU
+2019-12-16,Susquehanna,Positive,Neutral,up,MU
+2019-12-17,Needham,Buy,,main,MU
+2019-12-17,Wedbush,Outperform,Neutral,up,MU
+2019-12-19,Mizuho,Buy,,main,MU
+2019-12-19,Citigroup,Sell,,main,MU
+2019-12-19,Wells Fargo,Overweight,,main,MU
+2019-12-19,KeyBanc,Overweight,,main,MU
+2019-12-19,Rosenblatt,Buy,,main,MU
+2019-12-19,Deutsche Bank,Buy,,reit,MU
+2019-12-19,Baird,Underperform,,main,MU
+2019-12-19,Nomura,Neutral,,main,MU
+2019-12-19,Goldman Sachs,Buy,,reit,MU
+2020-01-07,Cowen & Co.,Outperform,Market Perform,up,MU
+2020-01-14,Cleveland Research,Buy,Neutral,up,MU
+2020-01-21,Longbow Research,Buy,,main,MU
+2020-01-23,Morgan Stanley,Overweight,Equal-Weight,up,MU
+2020-01-31,Cascend,Buy,,reit,MU
+2020-02-06,Raymond James,Strong Buy,Market Perform,up,MU
+2020-02-12,UBS,Buy,Neutral,up,MU
+2020-02-25,B of A Securities,Underperform,Buy,down,MU
+2020-03-02,Baird,Neutral,Underperform,up,MU
+2020-03-18,Morgan Stanley,Overweight,,main,MU
+2020-03-20,Wells Fargo,Overweight,,main,MU
+2020-03-24,KeyBanc,Overweight,,main,MU
+2020-03-26,Barclays,Overweight,,main,MU
+2020-03-26,Wells Fargo,Overweight,,main,MU
+2020-03-26,Deutsche Bank,Buy,,main,MU
+2020-03-26,Citigroup,Sell,,main,MU
+2020-03-26,Mizuho,Buy,,main,MU
+2020-03-26,Needham,Buy,,main,MU
+2020-03-26,Raymond James,Strong Buy,,main,MU
+2020-03-26,B of A Securities,Buy,Underperform,up,MU
+2020-04-13,Goldman Sachs,Neutral,Buy,down,MU
+2020-05-26,UBS,Buy,,main,MU
+2020-06-16,Morgan Stanley,Overweight,,main,MU
+2020-06-19,Wells Fargo,Overweight,,main,MU
+2020-06-23,BMO Capital,Market Perform,Outperform,down,MU
+2020-06-30,RBC Capital,Outperform,,main,MU
+2020-06-30,Mizuho,Buy,,main,MU
+2020-06-30,Nomura Instinet,Neutral,,main,MU
+2020-06-30,Piper Sandler,Neutral,,main,MU
+2020-06-30,Raymond James,Strong Buy,,reit,MU
+2020-06-30,Needham,Buy,,main,MU
+2020-06-30,KeyBanc,Overweight,,main,MU
+2020-08-13,Deutsche Bank,Hold,Buy,down,MU
+2020-08-27,B of A Securities,Buy,,main,MU
+2020-09-14,Goldman Sachs,Buy,Neutral,up,MU
+2020-09-23,Cleveland Research,Buy,Neutral,up,MU
+2020-09-30,Needham,Buy,,main,MU
+2020-09-30,Piper Sandler,Neutral,,main,MU
+2020-09-30,RBC Capital,Outperform,,main,MU
+2020-09-30,UBS,Buy,,main,MU
+2020-09-30,Deutsche Bank,Hold,,main,MU
+2020-09-30,Mizuho,Buy,,main,MU
+2020-10-13,Deutsche Bank,Buy,Hold,up,MU
+2020-10-16,Cascend,Buy,,main,MU
+2020-12-01,Needham,Buy,,main,MU
+2020-12-01,KeyBanc,Overweight,,main,MU
+2020-12-02,Morgan Stanley,Overweight,,main,MU
+2020-12-14,Morgan Stanley,Overweight,,main,MU
+2021-01-04,Morgan Stanley,Overweight,,main,MU
+2021-01-05,Citigroup,Buy,Sell,up,MU
+2021-01-08,Credit Suisse,Outperform,,main,MU
+2021-01-08,Rosenblatt,Buy,,main,MU
+2021-01-08,Needham,Buy,,main,MU
+2021-01-08,KeyBanc,Overweight,,main,MU
+2021-01-08,Raymond James,Strong Buy,,main,MU
+2021-02-11,Cascend,Buy,,main,MU
+2021-02-25,Mizuho,Buy,,main,MU
+2021-03-01,Wedbush,Neutral,,main,MU
+2021-03-01,Barclays,Overweight,,main,MU
+2021-03-01,Morgan Stanley,Overweight,,main,MU
+2021-03-04,Needham,Buy,,main,MU
+2021-03-04,KeyBanc,Overweight,,main,MU
+2021-03-05,Goldman Sachs,Buy,,main,MU
+2021-03-15,Cascend,Buy,,main,MU
+2021-03-17,Citigroup,Buy,,main,MU
+2021-03-29,BMO Capital,Market Perform,,main,MU
+2021-04-01,Mizuho,Buy,,main,MU
+2021-04-01,Susquehanna,Positive,,main,MU
+2021-04-01,Goldman Sachs,Buy,,reit,MU
+2021-04-01,RBC Capital,Outperform,,main,MU
+2021-04-01,Rosenblatt,Buy,,main,MU
+2021-04-01,Needham,Buy,,main,MU
+2021-05-20,Keybanc,Overweight,,main,MU
+2021-06-30,BMO Capital,Outperform,Market Perform,up,MU
+2021-07-01,Mizuho,Buy,,main,MU
+2021-07-01,Keybanc,Overweight,,main,MU
+2021-07-01,Summit Insights Group,Hold,Buy,down,MU
+2021-07-01,UBS,Buy,,main,MU
+2021-08-12,Morgan Stanley,Equal-Weight,Overweight,down,MU
+2021-08-30,Deutsche Bank,Buy,,main,MU
+2021-09-24,Mizuho,Buy,,main,MU
+2021-09-24,JP Morgan,Overweight,,main,MU
+2021-09-24,Keybanc,Overweight,,main,MU
+2021-09-27,Raymond James,Strong Buy,,main,MU
+2021-09-27,Citigroup,Buy,,main,MU
+2021-09-29,UBS,Buy,,main,MU
+2021-09-29,Susquehanna,Positive,,main,MU
+2021-09-29,Mizuho,Buy,,main,MU
+2021-09-29,Deutsche Bank,Buy,,main,MU
+2021-09-29,Barclays,Overweight,,main,MU
+2021-10-15,Goldman Sachs,Buy,,main,MU
+2021-10-20,Mizuho,Neutral,Buy,down,MU
+2021-10-25,Bernstein,Underperform,,init,MU
+2021-11-23,Mizuho,Buy,Neutral,up,MU
+2021-12-13,UBS,Buy,,main,MU
+2021-12-21,JP Morgan,Overweight,,main,MU
+2021-12-21,Morgan Stanley,Equal-Weight,,main,MU
+2021-12-21,Goldman Sachs,Buy,,main,MU
+2021-12-21,Raymond James,Strong Buy,,main,MU
+2021-12-21,Credit Suisse,Outperform,,main,MU
+2021-12-21,Mizuho,Buy,,main,MU
+2021-12-21,B of A Securities,Buy,Neutral,up,MU
+2021-12-21,Summit Insights Group,Buy,Hold,up,MU

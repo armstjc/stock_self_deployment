@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-09,UBS,Neutral,,init,GHL
+2013-01-10,UBS,Neutral,,main,GHL
+2013-04-18,UBS,Neutral,,main,GHL
+2014-01-09,Nomura,Reduce,,init,GHL
+2014-01-29,Rafferty,Hold,Buy,down,GHL
+2014-04-16,Nomura,Neutral,Reduce,up,GHL
+2014-05-05,Rafferty,Buy,Hold,up,GHL
+2014-05-13,Bernstein,Market Perform,,init,GHL
+2014-06-25,Sandler O'Neill,Buy,Hold,up,GHL
+2014-07-29,Credit Suisse,Neutral,,main,GHL
+2014-07-29,Nomura,Neutral,,main,GHL
+2014-07-29,UBS,Neutral,,main,GHL
+2014-12-12,Keefe Bruyette & Woods,Market Perform,,main,GHL
+2015-01-13,Goldman Sachs,Sell,Neutral,down,GHL
+2015-01-29,Keefe Bruyette & Woods,Market Perform,,main,GHL
+2015-01-29,Nomura,Neutral,,main,GHL
+2015-02-02,Credit Suisse,Underperform,Neutral,down,GHL
+2015-02-17,Susquehanna,Positive,Neutral,up,GHL
+2015-04-13,Susquehanna,Positive,,main,GHL
+2015-06-25,Goldman Sachs,Buy,Sell,up,GHL
+2015-09-08,Credit Suisse,Neutral,Underperform,up,GHL
+2015-10-07,Keefe Bruyette & Woods,Market Perform,,main,GHL
+2015-10-12,Susquehanna,Positive,,main,GHL
+2016-01-11,Nomura,Neutral,,main,GHL
+2016-01-29,Rafferty,Buy,Hold,up,GHL
+2016-04-06,Goldman Sachs,Neutral,Buy,down,GHL
+2016-04-08,Credit Suisse,Neutral,,main,GHL
+2016-07-21,Credit Suisse,Underperform,Neutral,down,GHL
+2016-12-14,Bank of America,Underperform,,init,GHL
+2017-01-05,Nomura,Reduce,Neutral,down,GHL
+2017-01-10,Goldman Sachs,Sell,Neutral,down,GHL
+2017-06-02,Keefe Bruyette & Woods,Market Perform,,init,GHL
+2017-08-21,UBS,Sell,,main,GHL
+2017-09-26,Buckingham,Neutral,,main,GHL
+2017-09-26,Nomura,Reduce,,main,GHL
+2017-10-10,Sandler O'Neill,Hold,Buy,down,GHL
+2017-10-19,Bank of America,Underperform,,main,GHL
+2018-06-07,Keefe Bruyette & Woods,Underperform,Market Perform,down,GHL
+2018-07-16,Bank of America,Underperform,Underperform,main,GHL
+2018-11-06,Goldman Sachs,Sell,,init,GHL
+2019-01-31,Sandler O'Neill,Hold,Buy,down,GHL
+2019-03-21,UBS,Neutral,Sell,up,GHL
+2019-04-30,Keefe Bruyette & Woods,Underperform,Market Perform,down,GHL
+2019-07-11,Buckingham Research,Neutral,,main,GHL
+2019-10-09,Buckingham,Neutral,,main,GHL
+2020-02-06,Buckingham,Neutral,,main,GHL
+2020-07-24,Piper Sandler,Neutral,,main,GHL
+2020-10-09,"Keefe, Bruyette & Woods",Market Perform,Underperform,up,GHL
+2020-11-03,"Keefe, Bruyette & Woods",Underperform,Market Perform,down,GHL
+2021-02-05,JMP Securities,Market Outperform,Market Perform,up,GHL
+2021-07-14,"Keefe, Bruyette & Woods",Market Perform,Underperform,up,GHL

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-06-19,Citigroup,Neutral,,init,DFIN
+2017-06-23,Bank of America,Buy,,init,DFIN
+2017-08-15,JP Morgan,Neutral,,init,DFIN
+2018-06-07,DA Davidson,Buy,,init,DFIN
+2018-06-25,Wells Fargo,Market Perform,Market Perform,main,DFIN
+2018-08-03,Bank of America,Neutral,Buy,down,DFIN
+2019-01-17,Bank of America,Underperform,Neutral,down,DFIN
+2019-10-16,B. Riley,Buy,,init,DFIN
+2019-10-22,DA Davidson,Buy,,main,DFIN
+2020-04-28,DA Davidson,Buy,,main,DFIN
+2020-05-27,BTIG,Buy,,init,DFIN
+2020-08-06,Wells Fargo,Equal-Weight,,main,DFIN
+2020-11-05,BTIG,Buy,,main,DFIN
+2021-05-06,DA Davidson,Neutral,Buy,down,DFIN

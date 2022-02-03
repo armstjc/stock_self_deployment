@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,Early Bird Capital,Hold,,down,IRBT
+2012-02-09,Morgan Keegan,Underperform,,down,IRBT
+2012-02-09,JP Morgan,Underweight,,down,IRBT
+2012-04-24,Early Bird Capital,Hold,,main,IRBT
+2012-04-25,JP Morgan,Underweight,,main,IRBT
+2012-10-24,JP Morgan,Underweight,,main,IRBT
+2013-05-21,Sidoti & Co.,Neutral,,init,IRBT
+2013-06-21,Benchmark,Buy,,main,IRBT
+2013-09-09,Susquehanna,Positive,,init,IRBT
+2013-12-12,JP Morgan,Neutral,Underweight,up,IRBT
+2013-12-16,Sidoti & Co.,Buy,Neutral,up,IRBT
+2013-12-17,Raymond James,Strong Buy,Market Perform,up,IRBT
+2013-12-18,GARP Research,Buy,,init,IRBT
+2014-02-07,JP Morgan,Underweight,Neutral,down,IRBT
+2014-03-24,CRT Capital,Fair Value,,main,IRBT
+2014-04-29,JP Morgan,Neutral,Underweight,up,IRBT
+2014-07-17,JP Morgan,Neutral,,main,IRBT
+2014-12-02,JMP Securities,Market Outperform,,init,IRBT
+2014-12-03,JMP Securities,Market Outperform,,init,IRBT
+2015-01-14,JP Morgan,Underweight,Neutral,down,IRBT
+2015-02-02,Susquehanna,Neutral,,main,IRBT
+2015-02-05,JMP Securities,Market Outperform,,main,IRBT
+2015-03-18,Raymond James,Outperform,Strong Buy,down,IRBT
+2015-05-07,Oppenheimer,Perform,,init,IRBT
+2015-09-18,Raymond James,Market Perform,Outperform,down,IRBT
+2015-10-13,JMP Securities,Market Outperform,,main,IRBT
+2016-01-04,PiperJaffray,Neutral,Overweight,down,IRBT
+2016-01-06,JP Morgan,Neutral,Underweight,up,IRBT
+2016-02-10,Chardan Capital,Buy,,init,IRBT
+2016-03-18,JP Morgan,Underweight,Neutral,down,IRBT
+2016-04-27,JP Morgan,Underweight,,main,IRBT
+2016-11-14,Needham,Hold,Buy,down,IRBT
+2016-11-17,Dougherty,Buy,,init,IRBT
+2017-05-31,Canaccord Genuity,Hold,Buy,down,IRBT
+2017-07-03,,Neutral,Buy,down,IRBT
+2017-10-26,Canaccord Genuity,Hold,,main,IRBT
+2017-12-04,Citigroup,Neutral,,init,IRBT
+2018-02-09,JP Morgan,Neutral,Underweight,up,IRBT
+2018-02-09,Sidoti & Co.,Buy,Neutral,up,IRBT
+2018-04-19,PiperJaffray,Overweight,Neutral,up,IRBT
+2018-04-26,Canaccord Genuity,Hold,Hold,main,IRBT
+2018-04-26,JP Morgan,Neutral,Neutral,main,IRBT
+2018-07-10,Raymond James,Market Perform,Outperform,down,IRBT
+2018-09-04,Sidoti & Co.,Neutral,Buy,down,IRBT
+2018-10-08,PiperJaffray,Neutral,Overweight,down,IRBT
+2018-10-24,Needham,Buy,Hold,up,IRBT
+2019-02-19,Canaccord Genuity,Hold,Buy,down,IRBT
+2019-02-21,Sidoti & Co.,Neutral,Buy,down,IRBT
+2019-03-19,Needham,Hold,Buy,down,IRBT
+2019-07-25,Canaccord Genuity,Hold,,main,IRBT
+2019-08-29,Sidoti & Co.,Buy,Neutral,up,IRBT
+2019-09-27,Bank of America,Buy,,init,IRBT
+2019-10-09,Raymond James,Underperform,Market Perform,down,IRBT
+2019-10-16,JP Morgan,Neutral,,main,IRBT
+2019-10-23,JP Morgan,Neutral,,main,IRBT
+2019-10-23,Piper Jaffray,Neutral,,reit,IRBT
+2019-10-24,Bank of America,Neutral,Buy,down,IRBT
+2019-10-24,Citi,Neutral,,main,IRBT
+2019-10-24,Canaccord Genuity,Hold,,main,IRBT
+2020-01-16,Raymond James,Market Perform,Underperform,up,IRBT
+2020-01-22,B of A Securities,Neutral,,main,IRBT
+2020-04-22,JP Morgan,Underweight,Neutral,down,IRBT
+2020-04-30,Citigroup,Neutral,,main,IRBT
+2020-05-26,JP Morgan,Neutral,Underweight,up,IRBT
+2020-06-03,B of A Securities,Neutral,,main,IRBT
+2020-06-17,Piper Sandler,Neutral,,main,IRBT
+2020-06-26,B of A Securities,Underperform,Neutral,down,IRBT
+2020-07-23,Colliers Securities,Neutral,Buy,down,IRBT
+2020-10-19,B of A Securities,Underperform,,main,IRBT
+2020-10-22,Raymond James,Outperform,Market Perform,up,IRBT
+2021-02-08,JP Morgan,Neutral,,main,IRBT
+2021-02-12,Citigroup,Neutral,,main,IRBT
+2021-05-05,Northland Capital Markets,Market Perform,,main,IRBT
+2021-07-29,JP Morgan,Neutral,Overweight,down,IRBT
+2021-12-22,Citigroup,Neutral,,main,IRBT

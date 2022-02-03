@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-07-16,Credit Suisse,Outperform,,init,EPRT
+2018-07-16,Ladenburg Thalmann,Buy,,init,EPRT
+2018-07-16,SunTrust Robinson Humphrey,Buy,,init,EPRT
+2018-07-16,Barclays,Equal-Weight,,init,EPRT
+2018-09-10,Bank of America,Neutral,Neutral,main,EPRT
+2018-11-15,Bank of America,Underperform,Neutral,down,EPRT
+2018-12-12,Boenning & Scattergood,Outperform,,init,EPRT
+2019-02-26,Raymond James,Market Perform,,init,EPRT
+2019-03-05,Bank of America,Underperform,Underperform,main,EPRT
+2019-03-19,Credit Suisse,Outperform,Outperform,main,EPRT
+2019-06-11,Bank of America,Buy,Underperform,up,EPRT
+2019-07-12,RBC Capital,Sector Perform,,init,EPRT
+2019-08-19,Citigroup,Neutral,,main,EPRT
+2019-09-25,Stifel Nicolaus,Buy,,main,EPRT
+2019-11-07,Stifel Nicolaus,Buy,,main,EPRT
+2019-12-18,RBC Capital,Underperform,Sector Perform,down,EPRT
+2020-02-24,Credit Suisse,Outperform,,main,EPRT
+2020-04-07,Citigroup,Neutral,,main,EPRT
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,EPRT
+2020-06-08,Evercore ISI Group,Outperform,In-Line,up,EPRT
+2020-09-30,Mizuho,Buy,,init,EPRT
+2020-11-16,B of A Securities,Underperform,,main,EPRT
+2021-01-12,Raymond James,Outperform,,main,EPRT
+2021-01-27,Credit Suisse,Outperform,,main,EPRT
+2021-03-10,Raymond James,Outperform,,main,EPRT
+2021-04-07,B of A Securities,Buy,Underperform,up,EPRT
+2021-04-26,Credit Suisse,Outperform,,main,EPRT
+2021-06-11,Credit Suisse,Outperform,,main,EPRT
+2021-06-15,Wolfe Research,Outperform,,init,EPRT
+2021-06-17,Raymond James,Outperform,,main,EPRT
+2021-08-12,Credit Suisse,Outperform,,main,EPRT

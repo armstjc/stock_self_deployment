@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,KeyBanc,Buy,,up,HEES
+2012-03-07,UBS,Buy,,main,HEES
+2012-05-04,UBS,Buy,,main,HEES
+2013-01-18,UBS,Buy,,main,HEES
+2013-01-29,Northcoast Research,Neutral,Buy,down,HEES
+2013-02-19,UBS,Buy,,main,HEES
+2013-04-03,KeyBanc,Hold,Buy,down,HEES
+2013-09-06,Longbow Research,Neutral,,init,HEES
+2014-07-01,KeyBanc,Buy,Hold,up,HEES
+2015-01-21,UBS,Neutral,Buy,down,HEES
+2015-06-30,KeyBanc,Sector Perform,,down,HEES
+2015-07-01,KeyBanc,Sector Perform,Overweight,down,HEES
+2015-07-31,UBS,Buy,Neutral,up,HEES
+2015-10-30,Macquarie,Neutral,,main,HEES
+2016-01-15,Longbow Research,Buy,Neutral,up,HEES
+2016-01-28,UBS,Neutral,Buy,down,HEES
+2016-02-26,RBC Capital,Outperform,,main,HEES
+2016-04-18,Avondale Partners,Market Perform,,main,HEES
+2016-10-07,UBS,Sell,,down,HEES
+2017-10-27,UBS,Sell,,main,HEES
+2017-11-21,Buckingham,Buy,,init,HEES
+2018-02-16,Stifel Nicolaus,Buy,,init,HEES
+2018-02-23,UBS,Sell,Sell,main,HEES
+2018-02-26,Bank of America,Buy,Buy,main,HEES
+2018-06-27,UBS,Neutral,Sell,up,HEES
+2018-07-27,Bank of America,Buy,Buy,main,HEES
+2019-03-29,Longbow Research,Buy,,init,HEES
+2019-11-11,Buckingham,Buy,,main,HEES
+2019-11-14,Bank of America,Neutral,Buy,down,HEES

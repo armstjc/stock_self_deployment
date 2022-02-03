@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-07-10,Deutsche Bank,Buy,,init,ATNX
+2017-09-15,RBC Capital,Outperform,,init,ATNX
+2017-09-19,Laidlaw & Co.,Buy,,init,ATNX
+2018-01-24,JP Morgan,Neutral,Neutral,main,ATNX
+2018-10-25,Ladenburg Thalmann,Buy,,init,ATNX
+2018-11-15,JP Morgan,Overweight,Neutral,up,ATNX
+2019-03-29,SunTrust Robinson Humphrey,Buy,,init,ATNX
+2019-05-02,Oppenheimer,Outperform,,init,ATNX
+2019-12-06,SunTrust Robinson Humphrey,Buy,,init,ATNX
+2020-10-26,SVB Leerink,Outperform,,init,ATNX
+2020-11-05,Needham,Buy,,main,ATNX
+2021-03-02,SVB Leerink,Market Perform,Outperform,down,ATNX
+2021-03-02,JP Morgan,Neutral,Overweight,down,ATNX
+2021-03-02,Truist Securities,Hold,Buy,down,ATNX
+2021-03-02,Oppenheimer,Perform,Outperform,down,ATNX
+2021-08-06,SVB Leerink,Market Perform,,main,ATNX
+2021-08-06,RBC Capital,Outperform,,main,ATNX
+2021-10-12,RBC Capital,Outperform,,main,ATNX

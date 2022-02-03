@@ -1,0 +1,169 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-13,KeyBanc,Hold,,init,BJRI
+2012-07-27,Morgan Stanley,Overweight,,main,BJRI
+2012-07-27,Jefferies,Hold,,main,BJRI
+2012-07-30,BMO Capital,Market Perform,,main,BJRI
+2012-08-23,PiperJaffray,Overweight,,main,BJRI
+2012-10-05,Stephens & Co.,Equal-Weight,,init,BJRI
+2012-10-26,Jefferies,Hold,,main,BJRI
+2012-10-29,BMO Capital,Market Perform,,main,BJRI
+2012-12-19,Wells Fargo,Neutral,Outperform,down,BJRI
+2013-01-11,Barclays,Overweight,,main,BJRI
+2013-02-20,Barclays,Overweight,,main,BJRI
+2013-02-20,Oppenheimer,Outperform,,main,BJRI
+2013-02-20,Sterne Agee,Buy,,main,BJRI
+2013-02-20,Jefferies,Hold,,main,BJRI
+2013-04-08,Jefferies,Hold,,main,BJRI
+2013-04-29,BMO Capital,Market Perform,,main,BJRI
+2013-05-20,Oppenheimer,Outperform,,main,BJRI
+2013-07-16,Stifel Nicolaus,Buy,,init,BJRI
+2013-07-23,Wunderlich,Hold,,init,BJRI
+2013-07-31,Roth Capital,Neutral,Buy,down,BJRI
+2013-08-01,Jefferies,Hold,,main,BJRI
+2013-10-09,Wunderlich,Hold,,main,BJRI
+2013-11-12,Wunderlich,Hold,,main,BJRI
+2014-01-10,Buckingham Research,Neutral,,init,BJRI
+2014-01-17,Stifel Nicolaus,Buy,,main,BJRI
+2014-01-29,Wunderlich,Hold,,main,BJRI
+2014-01-29,Barclays,Underweight,Overweight,down,BJRI
+2014-02-07,Longbow Research,Buy,,init,BJRI
+2014-02-20,Wunderlich,Hold,,main,BJRI
+2014-03-05,PiperJaffray,Neutral,Overweight,down,BJRI
+2014-03-06,Buckingham Research,Buy,Neutral,up,BJRI
+2014-04-15,Barclays,Underweight,,main,BJRI
+2014-04-22,Wunderlich,Buy,Hold,up,BJRI
+2014-07-25,Stifel Nicolaus,Buy,,main,BJRI
+2014-07-25,Jefferies,Hold,,main,BJRI
+2014-07-25,Barclays,Underweight,,main,BJRI
+2014-12-10,Wunderlich,Buy,,main,BJRI
+2015-01-06,Jefferies,Hold,,main,BJRI
+2015-01-16,Wunderlich,Hold,Buy,down,BJRI
+2015-01-20,KeyBanc,Buy,Hold,up,BJRI
+2015-01-22,Barclays,Underweight,,main,BJRI
+2015-02-19,Barclays,Underweight,,main,BJRI
+2015-02-19,Stifel Nicolaus,Buy,,main,BJRI
+2015-02-23,Wunderlich,Hold,,main,BJRI
+2015-03-17,Wedbush,Outperform,Neutral,up,BJRI
+2015-03-25,Tigress Financial,Underperform,,init,BJRI
+2015-04-16,Guggenheim,Buy,,init,BJRI
+2015-04-24,Barclays,Underweight,,main,BJRI
+2015-05-26,Stephens & Co.,Overweight,Equal-Weight,up,BJRI
+2015-07-24,Stifel Nicolaus,Buy,,main,BJRI
+2015-09-16,Morgan Stanley,Equal-Weight,Underweight,up,BJRI
+2015-10-23,Barclays,Underweight,,main,BJRI
+2016-01-04,Oppenheimer,Perform,Outperform,down,BJRI
+2016-02-19,Wedbush,Outperform,,main,BJRI
+2016-02-19,Barclays,Underweight,,main,BJRI
+2016-06-23,Tigress Financial,Buy,Neutral,up,BJRI
+2016-06-24,Tigress Financial,Buy,,up,BJRI
+2016-07-26,Stifel Nicolaus,Sell,Buy,down,BJRI
+2016-07-28,Barclays,Underweight,,main,BJRI
+2016-08-22,Canaccord Genuity,Hold,,init,BJRI
+2016-09-09,Wedbush,Neutral,Outperform,down,BJRI
+2016-10-20,Morgan Stanley,Equal-Weight,,main,BJRI
+2016-10-20,Wedbush,Neutral,,main,BJRI
+2016-10-20,Barclays,Underweight,,main,BJRI
+2017-01-05,Wedbush,Underperform,Neutral,down,BJRI
+2017-04-20,Wedbush,Neutral,Underperform,up,BJRI
+2017-07-14,Canaccord Genuity,Buy,Hold,up,BJRI
+2017-07-19,Barclays,Underweight,,main,BJRI
+2017-10-03,Stifel Nicolaus,Hold,,init,BJRI
+2017-10-18,Barclays,Underweight,,main,BJRI
+2017-10-27,Canaccord Genuity,Buy,,main,BJRI
+2017-10-27,Barclays,Underweight,,main,BJRI
+2018-01-03,Stifel Nicolaus,Buy,Hold,up,BJRI
+2018-01-24,Barclays,Underweight,Underweight,main,BJRI
+2018-02-15,Wedbush,Outperform,Neutral,up,BJRI
+2018-02-23,Wedbush,Outperform,Outperform,main,BJRI
+2018-02-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,BJRI
+2018-04-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,BJRI
+2018-04-27,Wedbush,Outperform,Outperform,main,BJRI
+2018-04-27,Barclays,Underweight,Underweight,main,BJRI
+2018-04-27,Canaccord Genuity,Buy,Buy,main,BJRI
+2018-04-27,Stifel Nicolaus,Buy,Buy,main,BJRI
+2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,BJRI
+2018-06-27,Wedbush,Outperform,Outperform,main,BJRI
+2018-07-12,Stifel Nicolaus,Buy,Buy,main,BJRI
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,BJRI
+2018-07-18,Barclays,Underweight,Underweight,main,BJRI
+2018-07-27,PiperJaffray,Neutral,Neutral,main,BJRI
+2018-07-27,Wedbush,Outperform,Outperform,main,BJRI
+2018-07-27,Stifel Nicolaus,Buy,Buy,main,BJRI
+2018-10-05,PiperJaffray,Overweight,Neutral,up,BJRI
+2018-10-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,BJRI
+2018-10-19,Gordon Haskett,Underperform,,init,BJRI
+2018-10-24,Stifel Nicolaus,Hold,Buy,down,BJRI
+2018-10-25,Loop Capital,Hold,,init,BJRI
+2018-10-31,Barclays,Underweight,Underweight,main,BJRI
+2018-10-31,Wells Fargo,Market Perform,Market Perform,main,BJRI
+2018-11-29,Barclays,Underweight,Underweight,main,BJRI
+2018-11-29,Loop Capital,Buy,Hold,up,BJRI
+2019-01-07,Stifel Nicolaus,Buy,Hold,up,BJRI
+2019-02-14,Wells Fargo,Market Perform,Market Perform,main,BJRI
+2019-06-14,Oppenheimer,Outperform,Perform,up,BJRI
+2019-06-28,Deutsche Bank,Buy,,init,BJRI
+2019-07-26,Stephens & Co.,Overweight,,main,BJRI
+2019-07-26,Piper Jaffray,Overweight,,main,BJRI
+2019-07-26,Wedbush,Outperform,,main,BJRI
+2019-07-26,Loop Capital,Buy,,main,BJRI
+2019-07-26,Baird,Neutral,,main,BJRI
+2019-07-26,Stifel Nicolaus,Buy,,main,BJRI
+2019-10-18,Morgan Stanley,Equal-Weight,,main,BJRI
+2019-10-18,Barclays,Underweight,,main,BJRI
+2019-10-25,Wells Fargo,Market Perform,,main,BJRI
+2019-10-25,Wedbush,Outperform,,main,BJRI
+2019-10-28,Deutsche Bank,Hold,Buy,down,BJRI
+2019-12-19,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-02-13,Wells Fargo,Equal-Weight,,main,BJRI
+2020-02-21,Stifel Nicolaus,Hold,Buy,down,BJRI
+2020-02-24,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-02-24,Deutsche Bank,Hold,,main,BJRI
+2020-03-24,Baird,Neutral,,main,BJRI
+2020-04-02,Piper Sandler,Overweight,,main,BJRI
+2020-04-08,Wedbush,Outperform,,main,BJRI
+2020-04-15,Stifel,Hold,,main,BJRI
+2020-04-22,Jefferies,Hold,,main,BJRI
+2020-04-27,Deutsche Bank,Hold,,main,BJRI
+2020-04-30,Wells Fargo,Equal-Weight,,main,BJRI
+2020-05-08,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-05-11,Deutsche Bank,Hold,,main,BJRI
+2020-07-13,Stephens & Co.,Equal-Weight,,main,BJRI
+2020-07-14,Wedbush,Outperform,,main,BJRI
+2020-07-24,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-07-24,Barclays,Underweight,,main,BJRI
+2020-07-24,Wedbush,Outperform,,main,BJRI
+2020-07-24,Stephens & Co.,Equal-Weight,,main,BJRI
+2020-10-14,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-10-19,Wedbush,Outperform,,main,BJRI
+2020-10-26,Morgan Stanley,Equal-Weight,,main,BJRI
+2020-11-13,Wedbush,Outperform,,main,BJRI
+2020-12-17,Wells Fargo,Overweight,Equal-Weight,up,BJRI
+2021-01-07,Stephens & Co.,Overweight,Equal-Weight,up,BJRI
+2021-01-19,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-01-21,Deutsche Bank,Hold,Buy,down,BJRI
+2021-02-09,Wedbush,Outperform,,main,BJRI
+2021-02-12,Stephens & Co.,Overweight,,main,BJRI
+2021-02-12,Wedbush,Outperform,,main,BJRI
+2021-02-16,Deutsche Bank,Hold,,main,BJRI
+2021-02-16,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-03-26,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-04-12,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-04-15,Wells Fargo,Overweight,,main,BJRI
+2021-04-16,Wedbush,Outperform,,main,BJRI
+2021-04-20,Stephens & Co.,Overweight,,main,BJRI
+2021-04-23,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-07-20,Wells Fargo,Overweight,,main,BJRI
+2021-07-30,Wells Fargo,Overweight,,main,BJRI
+2021-08-03,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-08-04,Deutsche Bank,Buy,Hold,up,BJRI
+2021-08-25,Wedbush,Outperform,,main,BJRI
+2021-09-24,Jefferies,Buy,Hold,up,BJRI
+2021-10-13,Morgan Stanley,Equal-Weight,,main,BJRI
+2021-10-15,Wedbush,Outperform,,main,BJRI
+2021-10-18,Barclays,Underweight,,main,BJRI
+2021-10-19,Stephens & Co.,Overweight,,main,BJRI
+2021-10-22,Wedbush,Outperform,,main,BJRI
+2021-10-25,Stephens & Co.,Overweight,,main,BJRI
+2021-11-23,Benchmark,Buy,,init,BJRI
+2021-12-10,Wedbush,Neutral,Outperform,down,BJRI
+2021-12-15,Barclays,Underweight,,main,BJRI

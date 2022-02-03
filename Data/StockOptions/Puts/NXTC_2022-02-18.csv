@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NXTC220218P00005000,2022-01-05 19:31:14+00:00,5.0,0.45,0.05,0.6,-0.100000024,-18.181822,8,20,1.11328568359375,False,REGULAR,USD,NXTC

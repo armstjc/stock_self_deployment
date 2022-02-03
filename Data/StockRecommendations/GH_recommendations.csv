@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-10-29,JP Morgan,Overweight,,init,GH
+2018-10-29,William Blair,Outperform,,init,GH
+2018-10-29,Bank of America,Neutral,,init,GH
+2019-04-10,Bank of America,Buy,Neutral,up,GH
+2019-04-16,Canaccord Genuity,Buy,,init,GH
+2019-08-07,Canaccord Genuity,Buy,,main,GH
+2020-02-21,Guggenheim,Buy,,init,GH
+2020-05-08,SVB Leerink,Outperform,,reit,GH
+2020-05-08,Citigroup,Buy,,main,GH
+2020-06-12,BTIG,Buy,,init,GH
+2020-09-09,Morgan Stanley,Overweight,,init,GH
+2020-11-09,Morgan Stanley,Overweight,,main,GH
+2020-12-11,SVB Leerink,Outperform,,main,GH
+2021-01-11,Stifel,Buy,,init,GH
+2021-01-20,SVB Leerink,Outperform,,main,GH
+2021-02-25,Citigroup,Buy,,main,GH
+2021-02-25,Cowen & Co.,Outperform,,main,GH
+2021-02-26,Morgan Stanley,Overweight,,main,GH
+2021-05-07,Morgan Stanley,Overweight,,main,GH
+2021-05-07,BTIG,Buy,,main,GH
+2021-05-25,Wells Fargo,Overweight,,init,GH
+2021-06-03,Goldman Sachs,Buy,,init,GH
+2021-06-15,Raymond James,Market Perform,,init,GH
+2021-06-21,Wells Fargo,Overweight,,main,GH
+2021-11-05,SVB Leerink,Outperform,,main,GH

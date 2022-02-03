@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-10,Bank of America,Buy,,main,KW
+2014-04-11,Bank of America,Buy,,main,KW
+2014-09-08,Deutsche Bank,Buy,,main,KW
+2015-01-26,Deutsche Bank,Buy,,main,KW
+2015-03-18,Deutsche Bank,Buy,,main,KW
+2015-05-07,JMP Securities,Market Outperform,,main,KW
+2015-05-26,B. Riley FBR,Buy,,main,KW
+2015-06-01,Deutsche Bank,Buy,,main,KW
+2015-06-16,BTIG Research,Buy,,init,KW
+2015-08-13,B. Riley FBR,Buy,,main,KW
+2016-01-05,Deutsche Bank,Buy,,main,KW
+2016-01-26,Deutsche Bank,Buy,,main,KW
+2017-04-25,Deutsche Bank,Hold,,down,KW
+2017-05-05,JMP Securities,Market Perform,Market Outperform,down,KW
+2018-03-09,JMP Securities,Market Outperform,Market Perform,up,KW
+2018-06-26,Deutsche Bank,Hold,Hold,main,KW
+2018-08-02,JMP Securities,Market Outperform,Market Outperform,main,KW
+2018-08-29,Deutsche Bank,Hold,Hold,main,KW
+2018-12-19,JP Morgan,Overweight,,init,KW
+2019-04-18,Evercore ISI Group,Outperform,,init,KW
+2020-01-27,B of A Securities,Neutral,,init,KW
+2020-09-08,Deutsche Bank,Buy,Hold,up,KW

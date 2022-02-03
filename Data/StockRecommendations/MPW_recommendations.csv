@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,Bank oferica,Buy,,init,MPW
+2012-06-05,JP Morgan,Underweight,,main,MPW
+2012-11-05,Jefferies,Hold,,main,MPW
+2013-01-16,JP Morgan,Neutral,Underperform,up,MPW
+2013-02-12,Jefferies,Hold,,main,MPW
+2013-02-27,JP Morgan,Neutral,,main,MPW
+2013-04-03,Jefferies,Hold,,main,MPW
+2013-04-12,Bank of America,Underperform,Neutral,down,MPW
+2013-06-13,KeyBanc,Underweight,Hold,down,MPW
+2013-08-09,RBC Capital,Sector Perform,Outperform,down,MPW
+2013-09-10,Janney Capital,Neutral,,init,MPW
+2013-11-07,Jefferies,Hold,,main,MPW
+2014-01-09,Jefferies,Buy,Hold,up,MPW
+2014-10-31,JMP Securities,Market Outperform,Market Perform,up,MPW
+2014-11-21,JP Morgan,Neutral,,main,MPW
+2014-12-08,Jefferies,Buy,,main,MPW
+2015-01-16,JMP Securities,Market Outperform,,main,MPW
+2015-02-26,JP Morgan,Neutral,,main,MPW
+2015-11-13,Jefferies,Buy,,main,MPW
+2016-01-12,Jefferies,Hold,,down,MPW
+2016-02-10,SunTrust Robinson Humphrey,Buy,,main,MPW
+2016-02-25,Jefferies,Hold,,main,MPW
+2016-07-01,JMP Securities,Market Perform,Market Outperform,down,MPW
+2016-07-22,Deutsche Bank,Buy,,init,MPW
+2016-08-25,BTIG Research,Neutral,,init,MPW
+2016-11-22,Barclays,Equal-Weight,,init,MPW
+2016-12-13,Wells Fargo,Underperform,Market Perform,down,MPW
+2016-12-16,JP Morgan,Underweight,Neutral,down,MPW
+2017-03-09,Baird,Outperform,,init,MPW
+2017-04-07,Jefferies,Buy,Hold,up,MPW
+2017-07-17,JMP Securities,Market Outperform,Market Perform,up,MPW
+2017-12-15,JP Morgan,Neutral,Underweight,up,MPW
+2018-01-05,Baird,Neutral,Outperform,down,MPW
+2018-01-10,Deutsche Bank,Hold,Buy,down,MPW
+2018-03-19,Deutsche Bank,Hold,Hold,main,MPW
+2018-05-31,Wells Fargo,Underperform,Underperform,main,MPW
+2018-07-17,Jefferies,Hold,Buy,down,MPW
+2018-12-11,Wells Fargo,Market Perform,Underperform,up,MPW
+2019-02-13,Jefferies,Buy,Hold,up,MPW
+2019-03-29,Deutsche Bank,Hold,Hold,main,MPW
+2019-07-02,SunTrust Robinson Humphrey,Buy,Hold,up,MPW
+2019-07-24,Stifel Nicolaus,Buy,Hold,up,MPW
+2019-08-07,KeyBanc,Overweight,Sector Weight,up,MPW
+2019-08-27,SunTrust Robinson Humphrey,Buy,,main,MPW
+2019-09-03,Barclays,Overweight,,init,MPW
+2019-09-12,Berenberg,Buy,,init,MPW
+2019-10-14,Bank of America,Neutral,,init,MPW
+2019-12-20,Mizuho Securities,Buy,,init,MPW
+2019-12-26,Mizuho,Buy,,main,MPW
+2020-01-14,Baird,Neutral,,main,MPW
+2020-01-16,KeyBanc,Overweight,,main,MPW
+2020-03-30,Mizuho,Neutral,Buy,down,MPW
+2020-04-03,Wells Fargo,Equal-Weight,,main,MPW
+2020-04-03,JP Morgan,Overweight,,main,MPW
+2020-04-21,KeyBanc,Overweight,,main,MPW
+2020-04-23,SunTrust Robinson Humphrey,Buy,,main,MPW
+2020-06-25,SunTrust Robinson Humphrey,Buy,,main,MPW
+2020-07-10,Deutsche Bank,Hold,Buy,down,MPW
+2020-08-24,Mizuho,Buy,Neutral,up,MPW
+2020-12-15,Deutsche bank,Buy,Hold,up,MPW
+2021-01-21,KeyBanc,Overweight,,main,MPW
+2021-01-22,Truist Securities,Hold,Buy,down,MPW
+2021-05-03,RBC Capital,Sector Perform,Outperform,down,MPW
+2021-06-15,Wolfe Research,Peer Perform,,init,MPW
+2021-07-06,B of A Securities,Neutral,Buy,down,MPW
+2021-08-11,RBC Capital,Outperform,Sector Perform,up,MPW
+2021-10-26,Raymond James,Strong Buy,,init,MPW
+2021-10-27,B of A Securities,Buy,Neutral,up,MPW
+2021-10-29,Raymond James,Strong Buy,,main,MPW
+2022-01-03,Deutsche Bank,Hold,Buy,down,MPW

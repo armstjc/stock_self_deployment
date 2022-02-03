@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-27,Compass Point,Neutral,,init,EVER
+2013-04-26,Compass Point,Neutral,,main,EVER
+2014-01-15,Maxim Group,Hold,,init,EVER
+2014-10-30,Compass Point,Neutral,,main,EVER
+2018-07-23,Canaccord Genuity,Buy,,init,EVER
+2018-07-23,JMP Securities,Market Outperform,,init,EVER
+2018-07-23,JP Morgan,Overweight,,init,EVER
+2018-11-13,Bank of America,Neutral,Buy,down,EVER
+2018-11-13,JMP Securities,Market Outperform,Market Outperform,main,EVER
+2018-11-13,Canaccord Genuity,Buy,Buy,main,EVER
+2019-02-26,Canaccord Genuity,Buy,Buy,main,EVER
+2019-02-26,Bank of America,Buy,Neutral,up,EVER
+2019-08-06,JMP Securities,Market Outperform,,main,EVER
+2019-08-06,Raymond James,Outperform,Market Perform,up,EVER
+2019-08-20,Needham,Buy,,main,EVER
+2019-09-17,Bank of America,Underperform,Buy,down,EVER
+2019-11-05,JMP Securities,Outperform,,main,EVER
+2019-11-05,Bank of America,Buy,Underperform,up,EVER
+2019-11-05,Raymond James,Outperform,,main,EVER
+2019-11-05,Canaccord Genuity,Buy,,main,EVER
+2020-02-25,Needham,Buy,,main,EVER
+2020-02-25,Raymond James,Outperform,,main,EVER
+2020-02-25,JP Morgan,Overweight,,main,EVER
+2020-03-18,JP Morgan,Overweight,,main,EVER
+2020-03-26,Needham,Buy,,main,EVER
+2020-05-05,Needham,Buy,,main,EVER
+2020-05-05,JMP Securities,Market Outperform,,main,EVER
+2020-05-27,Canaccord Genuity,Buy,,main,EVER
+2020-06-02,Oppenheimer,Outperform,,main,EVER
+2020-07-14,B of A Securities,Underperform,Neutral,down,EVER
+2020-08-05,Needham,Buy,,main,EVER
+2020-08-05,Raymond James,Outperform,,main,EVER
+2020-11-03,Oppenheimer,Outperform,,main,EVER
+2020-11-03,Raymond James,Outperform,,main,EVER
+2021-02-23,Raymond James,Outperform,,main,EVER
+2021-08-03,JMP Securities,Market Outperform,,main,EVER
+2021-08-03,Raymond James,Outperform,,main,EVER
+2021-08-03,Needham,Buy,,main,EVER
+2021-10-19,Needham,Buy,,main,EVER
+2021-11-02,JP Morgan,Neutral,Overweight,down,EVER
+2021-11-02,Needham,Buy,,main,EVER
+2021-11-02,Raymond James,Outperform,,main,EVER
+2021-11-02,Oppenheimer,Outperform,,main,EVER
+2021-12-15,JP Morgan,Underweight,Neutral,down,EVER

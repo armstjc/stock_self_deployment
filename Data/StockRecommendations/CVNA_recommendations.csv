@@ -1,0 +1,137 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-03,Susquehanna,Neutral,,init,CVNA
+2017-05-22,Craig-Hallum,Buy,,init,CVNA
+2017-05-23,JMP Securities,Outperform,,init,CVNA
+2017-05-23,Citigroup,Buy,,init,CVNA
+2017-05-23,Wells Fargo,Outperform,,init,CVNA
+2017-05-23,William Blair,Outperform,,init,CVNA
+2017-05-23,BMO Capital,Outperform,,init,CVNA
+2017-05-23,Bank of America,Buy,,init,CVNA
+2017-05-23,Baird,Outperform,,init,CVNA
+2017-07-18,Wedbush,Neutral,,init,CVNA
+2017-09-22,B. Riley FBR,Sell,,init,CVNA
+2017-10-27,Barrington Research,Market Perform,,init,CVNA
+2017-11-08,BMO Capital,Outperform,,main,CVNA
+2017-11-08,JMP Securities,Outperform,,main,CVNA
+2017-12-08,Deutsche Bank,Hold,Buy,down,CVNA
+2018-03-07,Craig-Hallum,Hold,Buy,down,CVNA
+2018-03-07,BMO Capital,Market Perform,Outperform,down,CVNA
+2018-03-09,Citigroup,Buy,Buy,main,CVNA
+2018-03-09,Barrington Research,Outperform,Market Perform,up,CVNA
+2018-04-24,Wedbush,Neutral,Neutral,main,CVNA
+2018-05-10,B. Riley FBR,Buy,Sell,up,CVNA
+2018-06-27,Bank of America,Buy,Buy,main,CVNA
+2018-07-09,Baird,Outperform,Outperform,main,CVNA
+2018-07-09,Citigroup,Buy,Buy,main,CVNA
+2018-08-06,Wedbush,Neutral,Neutral,main,CVNA
+2018-08-09,Baird,Outperform,Outperform,main,CVNA
+2018-08-09,Citigroup,Buy,Buy,main,CVNA
+2018-08-09,BMO Capital,Market Perform,Market Perform,main,CVNA
+2018-08-09,JMP Securities,Market Outperform,Market Outperform,main,CVNA
+2018-09-05,Stephens & Co.,Equal-Weight,,init,CVNA
+2018-09-11,Citigroup,Buy,Buy,main,CVNA
+2018-10-01,Wells Fargo,Outperform,Outperform,main,CVNA
+2018-11-08,Baird,Outperform,Outperform,main,CVNA
+2018-11-13,JMP Securities,Market Outperform,Market Outperform,main,CVNA
+2018-12-07,Citigroup,Buy,,init,CVNA
+2019-01-14,Morgan Stanley,Underweight,,init,CVNA
+2019-02-13,Seaport Global,Neutral,,init,CVNA
+2019-02-28,Morgan Stanley,Underweight,Underweight,main,CVNA
+2019-02-28,Baird,Outperform,Outperform,main,CVNA
+2019-03-01,BMO Capital,Market Perform,Market Perform,main,CVNA
+2019-04-30,Wedbush,Neutral,Neutral,main,CVNA
+2019-05-09,Wedbush,Neutral,,main,CVNA
+2019-05-20,Cowen & Co.,Outperform,,init,CVNA
+2019-07-09,Morgan Stanley,Underweight,,reit,CVNA
+2019-08-08,BMO Capital,Market Perform,,main,CVNA
+2019-08-08,JMP Securities,Market Outperform,,reit,CVNA
+2019-09-12,Needham,Buy,,init,CVNA
+2019-09-20,Oppenheimer,Outperform,,init,CVNA
+2019-09-26,JP Morgan,Neutral,,init,CVNA
+2019-10-15,Morgan Stanley,Underweight,,main,CVNA
+2019-11-07,Wedbush,Neutral,,main,CVNA
+2019-11-08,Wedbush,Neutral,,main,CVNA
+2019-12-06,Wells Fargo,Outperform,,main,CVNA
+2019-12-19,Citigroup,Buy,,main,CVNA
+2020-01-09,Benchmark,Hold,,init,CVNA
+2020-02-07,Evercore ISI Group,In-Line,,init,CVNA
+2020-02-24,Deutsche Bank,Hold,,init,CVNA
+2020-02-25,B. Riley FBR,Buy,,main,CVNA
+2020-02-27,Deutsche Bank,Hold,,main,CVNA
+2020-02-27,Wedbush,Neutral,,main,CVNA
+2020-02-27,Stephens & Co.,Equal-Weight,,main,CVNA
+2020-02-27,Needham,Buy,,main,CVNA
+2020-02-28,B of A Securities,Buy,,main,CVNA
+2020-02-28,CFRA,Sell,Hold,down,CVNA
+2020-02-28,Baird,Outperform,,main,CVNA
+2020-03-11,CFRA,Sell,,reit,CVNA
+2020-03-20,CFRA,Strong Sell,Sell,down,CVNA
+2020-03-23,Wells Fargo,Overweight,,main,CVNA
+2020-03-31,B of A Securities,Buy,,reit,CVNA
+2020-04-01,Needham,Buy,,main,CVNA
+2020-04-03,Citigroup,Buy,,main,CVNA
+2020-04-09,Wells Fargo,Overweight,,main,CVNA
+2020-04-21,Wells Fargo,Overweight,,main,CVNA
+2020-04-22,Morgan Stanley,Underweight,,main,CVNA
+2020-04-28,Needham,Buy,,main,CVNA
+2020-04-30,Nomura Instinet,Neutral,,init,CVNA
+2020-05-05,B. Riley FBR,Buy,,main,CVNA
+2020-05-07,B of A Securities,Buy,,reit,CVNA
+2020-05-07,B. Riley FBR,Buy,,main,CVNA
+2020-05-07,Wells Fargo,Overweight,,main,CVNA
+2020-05-07,Morgan Stanley,Underweight,,main,CVNA
+2020-05-08,Morgan Stanley,Underweight,,main,CVNA
+2020-05-11,Oppenheimer,Outperform,,main,CVNA
+2020-05-13,Citigroup,Buy,,main,CVNA
+2020-05-26,Wells Fargo,Overweight,,main,CVNA
+2020-06-09,Nomura Instinet,Neutral,,main,CVNA
+2020-06-10,Needham,Buy,,main,CVNA
+2020-06-26,Wells Fargo,Overweight,,main,CVNA
+2020-07-06,Wedbush,Neutral,,main,CVNA
+2020-07-06,Goldman Sachs,Neutral,,init,CVNA
+2020-07-28,Piper Sandler,Overweight,,init,CVNA
+2020-07-29,Needham,Buy,,main,CVNA
+2020-08-06,Wells Fargo,Overweight,,main,CVNA
+2020-08-06,Piper Sandler,Overweight,,main,CVNA
+2020-08-06,Morgan Stanley,Underweight,,main,CVNA
+2020-08-06,Wedbush,Neutral,,main,CVNA
+2020-08-07,B of A Securities,Neutral,Buy,down,CVNA
+2020-08-11,Citigroup,Buy,,main,CVNA
+2020-08-12,Stifel,Hold,,init,CVNA
+2020-09-22,Goldman Sachs,Buy,Neutral,up,CVNA
+2020-09-23,B. Riley FBR,Neutral,Buy,down,CVNA
+2020-09-23,Needham,Buy,,main,CVNA
+2020-09-29,Piper Sandler,Overweight,,main,CVNA
+2020-10-02,Morgan Stanley,Equal-Weight,Underweight,up,CVNA
+2020-10-20,Baird,Overweight,,main,CVNA
+2020-10-30,Needham,Buy,,main,CVNA
+2020-11-02,Morgan Stanley,Equal-Weight,,main,CVNA
+2020-11-10,DA Davidson,Neutral,,init,CVNA
+2020-12-04,Jefferies,Buy,,init,CVNA
+2020-12-15,Truist Securities,Buy,,init,CVNA
+2021-02-16,Baird,Outperform,,main,CVNA
+2021-02-23,Cowen & Co.,Outperform,,main,CVNA
+2021-02-26,JMP Securities,Market Outperform,,main,CVNA
+2021-02-26,Morgan Stanley,Overweight,Equal-Weight,up,CVNA
+2021-03-11,Jefferies,Buy,,main,CVNA
+2021-04-08,Raymond James,Market Perform,,init,CVNA
+2021-05-03,B of A Securities,Buy,Neutral,up,CVNA
+2021-05-11,Citigroup,Buy,,main,CVNA
+2021-05-12,Deutsche Bank,Hold,,main,CVNA
+2021-05-27,RBC Capital,Outperform,,init,CVNA
+2021-06-17,Baird,Outperform,,main,CVNA
+2021-06-23,JP Morgan,Neutral,Overweight,down,CVNA
+2021-06-23,Jefferies,Buy,,main,CVNA
+2021-06-25,Wells Fargo,Overweight,,main,CVNA
+2021-06-29,Piper Sandler,Neutral,Overweight,down,CVNA
+2021-07-26,Keybanc,Overweight,,main,CVNA
+2021-07-28,Wells Fargo,Overweight,,main,CVNA
+2021-08-06,Keybanc,Overweight,,main,CVNA
+2021-08-09,JMP Securities,Market Outperform,,main,CVNA
+2021-08-09,Needham,Buy,,main,CVNA
+2021-08-18,Citigroup,Buy,,main,CVNA
+2021-09-07,Needham,Buy,,main,CVNA
+2021-10-11,Wedbush,Outperform,Neutral,up,CVNA
+2021-11-05,Needham,Buy,,main,CVNA
+2021-12-03,Wells Fargo,Overweight,,main,CVNA
+2021-12-27,Baird,Outperform,,main,CVNA

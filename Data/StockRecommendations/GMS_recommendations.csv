@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-20,SunTrust Robinson Humphrey,Buy,,init,GMS
+2016-06-20,Credit Suisse,Outperform,,init,GMS
+2016-06-20,Raymond James,Outperform,,init,GMS
+2016-06-20,RBC Capital,Outperform,,init,GMS
+2016-06-20,Baird,Neutral,,init,GMS
+2017-01-06,Barclays,Overweight,,init,GMS
+2017-03-01,Baird,Outperform,Neutral,up,GMS
+2017-03-16,Seaport Global,Neutral,,init,GMS
+2017-07-03,,Buy,Neutral,up,GMS
+2017-10-18,Wells Fargo,Market Perform,,init,GMS
+2018-03-07,Barclays,Overweight,Overweight,main,GMS
+2018-03-07,Seaport Global,Buy,Neutral,up,GMS
+2018-03-13,Instinet,Buy,,init,GMS
+2018-06-29,Raymond James,Strong Buy,Outperform,up,GMS
+2018-07-03,Baird,Neutral,Outperform,down,GMS
+2018-08-31,Nomura,Buy,Buy,main,GMS
+2018-08-31,Raymond James,Strong Buy,Strong Buy,main,GMS
+2019-05-16,Nomura,Neutral,Buy,down,GMS
+2019-08-30,SunTrust Robinson Humphrey,Buy,,main,GMS
+2019-09-04,Barclays,Overweight,,main,GMS
+2019-12-06,Stephens & Co.,Overweight,,main,GMS
+2019-12-06,Baird,Neutral,,main,GMS
+2020-03-06,Stephens & Co.,Overweight,,main,GMS
+2020-03-06,Raymond James,Strong Buy,,main,GMS
+2020-03-06,Baird,Neutral,,main,GMS
+2020-03-16,Raymond James,Strong Buy,,main,GMS
+2020-04-07,RBC Capital,Sector Perform,Outperform,down,GMS
+2020-04-16,SunTrust Robinson Humphrey,Buy,,main,GMS
+2020-04-17,Nomura,Neutral,,main,GMS
+2020-06-26,Nomura Instinet,Neutral,,main,GMS
+2020-09-04,Truist Securities,Buy,,main,GMS
+2020-09-04,Raymond James,Strong Buy,,main,GMS
+2020-11-17,Barclays,Equal-Weight,Overweight,down,GMS
+2020-11-17,Raymond James,Market Perform,Strong Buy,down,GMS
+2021-06-25,RBC Capital,Outperform,Sector Perform,up,GMS
+2021-06-25,Baird,Outperform,Neutral,up,GMS
+2021-06-25,Stephens & Co.,Overweight,Equal-Weight,up,GMS
+2021-09-08,Barclays,Equal-Weight,,main,GMS
+2021-12-03,Barclays,Equal-Weight,,main,GMS
+2021-12-03,RBC Capital,Outperform,,main,GMS
+2021-12-06,Raymond James,Outperform,Market Perform,up,GMS

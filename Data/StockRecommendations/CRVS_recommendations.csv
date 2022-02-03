@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-04-18,Guggenheim,Buy,,init,CRVS
+2016-04-18,Credit Suisse,Outperform,,init,CRVS
+2016-04-18,Cantor Fitzgerald,Buy,,init,CRVS
+2016-04-19,BTIG Research,Buy,,init,CRVS
+2017-05-01,Credit Suisse,Underperform,Outperform,down,CRVS
+2017-08-03,Wedbush,Outperform,,init,CRVS
+2017-08-24,Credit Suisse,Neutral,Underperform,up,CRVS
+2018-06-05,Jefferies,Buy,,init,CRVS
+2019-05-29,Roth Capital,Buy,,init,CRVS
+2019-09-12,Mizuho,Buy,,init,CRVS
+2020-03-10,H.C. Wainwright,Buy,,init,CRVS
+2020-03-13,Wedbush,Outperform,,main,CRVS
+2020-10-06,HC Wainwright & Co.,Buy,,main,CRVS
+2021-02-10,Mizuho,Neutral,Buy,down,CRVS
+2021-03-26,HC Wainwright & Co.,Buy,,main,CRVS
+2021-05-27,Cantor Fitzgerald,Overweight,,init,CRVS
+2021-07-16,HC Wainwright & Co.,Buy,,main,CRVS
+2021-08-03,Mizuho,Neutral,,main,CRVS
+2021-12-01,Jefferies,Buy,,init,CRVS
+2021-12-03,Cantor Fitzgerald,Overweight,,main,CRVS

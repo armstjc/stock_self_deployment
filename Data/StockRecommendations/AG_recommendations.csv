@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-27,Raymond James,Outperform,,main,AG
+2013-07-01,BMO Capital,Outperform,Market Perform,up,AG
+2015-04-08,Desjardins,Hold,Buy,down,AG
+2015-06-15,Desjardins,Buy,Hold,up,AG
+2016-02-29,Rodman & Renshaw,Buy,,init,AG
+2016-03-07,TD Securities,Hold,Buy,down,AG
+2016-03-14,BMO Capital,Underperform,Market Perform,down,AG
+2016-03-31,Desjardins,Sell,Hold,down,AG
+2016-04-15,Rodman & Renshaw,Buy,,main,AG
+2016-04-20,Raymond James,Underperform,Market Perform,down,AG
+2016-10-25,Raymond James,Market Perform,Underweight,up,AG
+2017-02-15,Raymond James,Underperform,Market Perform,down,AG
+2017-04-05,Raymond James,Market Perform,Underperform,up,AG
+2017-12-22,BMO Capital,Underperform,Market Perform,down,AG
+2018-04-25,Roth Capital,Buy,,init,AG
+2018-05-14,BMO Capital,Market Perform,Underperform,up,AG
+2018-07-17,H.C. Wainwright,Buy,Buy,main,AG
+2018-08-27,BMO Capital,Outperform,Market Perform,up,AG
+2019-08-19,H.C. Wainwright,Buy,,main,AG
+2019-09-09,B. Riley,Neutral,,main,AG
+2020-02-06,B. Riley FBR,Neutral,,main,AG
+2020-02-20,H.C. Wainwright,Buy,,main,AG
+2020-02-25,B. Riley FBR,Neutral,,main,AG
+2020-03-24,B. Riley FBR,Neutral,,main,AG
+2020-04-14,B. Riley FBR,Neutral,,main,AG
+2020-05-15,HC Wainwright & Co.,Buy,,reit,AG
+2020-05-15,B. Riley FBR,Neutral,,main,AG
+2020-05-19,B. Riley FBR,Neutral,,main,AG
+2020-08-10,HC Wainwright & Co.,Buy,,main,AG
+2020-10-14,HC Wainwright & Co.,Buy,,main,AG
+2021-01-21,HC Wainwright & Co.,Buy,,main,AG
+2021-04-01,HC Wainwright & Co.,Buy,,main,AG
+2021-04-15,HC Wainwright & Co.,Buy,,main,AG
+2021-05-10,HC Wainwright & Co.,Buy,,main,AG
+2021-07-15,HC Wainwright & Co.,Buy,,main,AG

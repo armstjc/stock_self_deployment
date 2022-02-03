@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CLLS220819P00005000,2022-01-20 15:13:48+00:00,5.0,0.7,0.65,1.25,0.0,0.0,20,33,0.88476677734375,False,REGULAR,USD,CLLS
+CLLS220819P00007500,2022-01-19 15:39:24+00:00,7.5,2.0,2.0,3.0,0.0,0.0,2,2,0.8535170898437501,True,REGULAR,USD,CLLS

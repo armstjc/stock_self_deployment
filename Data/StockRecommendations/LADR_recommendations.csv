@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-28,Deutsche Bank,Hold,,main,LADR
+2014-03-03,JMP Securities,Market Outperform,,init,LADR
+2014-03-03,Citigroup,Neutral,,init,LADR
+2014-03-03,JP Morgan,Overweight,,init,LADR
+2014-03-03,FBR Capital,Outperform,,init,LADR
+2014-03-03,Bank of America,Buy,,init,LADR
+2014-03-07,Deutsche Bank,Buy,,init,LADR
+2014-03-10,Deutsche Bank,Buy,,init,LADR
+2014-05-08,Deutsche Bank,Buy,,main,LADR
+2014-07-25,JP Morgan,Overweight,,main,LADR
+2014-08-06,Deutsche Bank,Buy,,main,LADR
+2014-11-06,JMP Securities,Market Outperform,,main,LADR
+2014-11-07,Keefe Bruyette & Woods,Outperform,,main,LADR
+2015-03-09,Wells Fargo,Outperform,Market Perform,up,LADR
+2015-08-07,JP Morgan,Overweight,,main,LADR
+2015-08-10,JMP Securities,Market Outperform,,main,LADR
+2015-11-06,Deutsche Bank,Buy,,main,LADR
+2016-02-19,Wells Fargo,Market Perform,Outperform,down,LADR
+2016-02-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,LADR
+2016-08-10,Citigroup,Neutral,,main,LADR
+2016-12-13,Keefe Bruyette & Woods,Outperform,Market Perform,up,LADR
+2016-12-15,Bank of America,Neutral,Buy,down,LADR
+2017-03-14,Wells Fargo,Outperform,Market Perform,up,LADR
+2018-03-19,Bank of America,Buy,Buy,main,LADR
+2018-03-27,Raymond James,Strong Buy,,init,LADR
+2018-05-04,Deutsche Bank,Buy,Buy,main,LADR
+2018-07-23,JP Morgan,Overweight,Overweight,main,LADR
+2018-08-01,Deutsche Bank,Buy,Buy,main,LADR
+2018-08-06,JMP Securities,Market Outperform,Market Outperform,main,LADR
+2018-08-07,B. Riley FBR,Buy,Buy,main,LADR
+2018-10-24,JP Morgan,Neutral,Overweight,down,LADR
+2019-03-01,Deutsche Bank,Hold,Buy,down,LADR
+2019-07-24,JP Morgan,Neutral,,main,LADR
+2019-12-02,Compass Point,Buy,,init,LADR
+2020-03-02,Deutsche Bank,Buy,Hold,up,LADR
+2020-04-03,B. Riley FBR,Neutral,Buy,down,LADR
+2020-04-03,JMP Securities,Market Outperform,,main,LADR
+2020-04-13,Raymond James,Strong Buy,,main,LADR
+2020-05-04,JP Morgan,Neutral,,main,LADR
+2020-05-06,B. Riley FBR,Buy,Neutral,up,LADR
+2020-05-07,Keefe Bruyette & Woods,Outperform,,main,LADR
+2020-10-06,JMP Securities,Market Outperform,,main,LADR
+2021-02-03,BTIG,Buy,,init,LADR
+2021-02-09,JP Morgan,Underweight,Neutral,down,LADR
+2021-03-01,Raymond James,Strong Buy,,main,LADR
+2021-03-02,Wolfe Research,Outperform,Underperform,up,LADR
+2021-05-10,Raymond James,Strong Buy,,main,LADR

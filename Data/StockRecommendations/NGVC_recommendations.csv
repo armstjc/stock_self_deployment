@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-20,Canaccord Genuity,Buy,,main,NGVC
+2012-08-20,PiperJaffray,Overweight,,init,NGVC
+2012-08-20,SunTrust Robinson Humphrey,Buy,,init,NGVC
+2012-09-17,Canaccord Genuity,Buy,,main,NGVC
+2013-04-30,Longbow Research,Neutral,,init,NGVC
+2013-09-09,Wells Fargo,Outperform,,init,NGVC
+2013-12-19,Imperial Capital,In-Line,,init,NGVC
+2014-05-05,Imperial Capital,Outperform,In-Line,up,NGVC
+2014-05-21,PiperJaffray,Neutral,Overweight,down,NGVC
+2014-08-04,Stephens & Co.,Equal-Weight,Overweight,down,NGVC
+2014-08-28,Wedbush,Neutral,,init,NGVC
+2014-10-13,Oppenheimer,Perform,,main,NGVC
+2014-12-01,Stephens & Co.,Overweight,Equal-Weight,up,NGVC
+2015-01-23,PiperJaffray,Overweight,Neutral,up,NGVC
+2015-06-05,Stephens & Co.,Overweight,Equal-Weight,up,NGVC
+2015-08-04,Wedbush,Neutral,Underperform,up,NGVC
+2015-08-26,Jefferies,Buy,,init,NGVC
+2015-11-20,SunTrust Robinson Humphrey,Buy,,main,NGVC
+2016-02-10,Deutsche Bank,Hold,,init,NGVC
+2016-04-21,RBC Capital,Sector Perform,Outperform,down,NGVC
+2016-05-19,Jefferies,Buy,,main,NGVC
+2016-09-23,Barclays,Equal-Weight,,init,NGVC
+2016-09-30,Jefferies,Buy,,main,NGVC
+2016-10-11,Citigroup,Buy,,init,NGVC
+2017-01-31,Jefferies,Hold,Buy,down,NGVC
+2017-02-03,SunTrust Robinson Humphrey,Hold,Buy,down,NGVC
+2017-08-14,Citigroup,Buy,,main,NGVC
+2017-11-17,Deutsche Bank,Hold,,main,NGVC
+2018-01-31,RBC Capital,Outperform,Sector Perform,up,NGVC
+2018-06-12,Citigroup,Buy,Buy,main,NGVC
+2018-08-08,Citigroup,Buy,Buy,main,NGVC
+2018-09-18,Citigroup,Buy,Buy,main,NGVC
+2020-10-09,Wolfe Research,Outperform,,init,NGVC

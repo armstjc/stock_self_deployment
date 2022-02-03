@@ -1,0 +1,205 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,UBS,Neutral,,main,BEN
+2012-03-16,Deutsche Bank,Hold,,main,BEN
+2012-04-03,Deutsche Bank,Hold,,main,BEN
+2012-04-09,Jefferies,Hold,,main,BEN
+2012-04-10,Jefferies,Hold,,main,BEN
+2012-04-16,UBS,Neutral,,main,BEN
+2012-05-03,Credit Suisse,Neutral,,main,BEN
+2012-05-03,Bank of America,Buy,,main,BEN
+2012-05-18,UBS,Neutral,,main,BEN
+2012-06-01,Goldman Sachs,Neutral,,down,BEN
+2012-07-10,Morgan Stanley,Overweight,,main,BEN
+2012-07-31,Sterne Agee,Buy,,main,BEN
+2012-09-12,UBS,Neutral,,main,BEN
+2012-10-04,JP Morgan,Neutral,,main,BEN
+2012-10-05,Jefferies,Hold,,main,BEN
+2012-10-09,UBS,Neutral,,main,BEN
+2013-01-10,Stifel Nicolaus,Buy,,main,BEN
+2013-02-04,Barclays,Overweight,,main,BEN
+2013-02-04,Nomura,Neutral,,main,BEN
+2013-02-04,BMO Capital,Market Perform,,main,BEN
+2013-02-04,Keefe Bruyette & Woods,Outperform,Market Perform,up,BEN
+2013-03-12,Stifel Nicolaus,Buy,,main,BEN
+2013-04-04,UBS,Neutral,,main,BEN
+2013-04-05,Jefferies,Hold,,main,BEN
+2013-04-05,Jefferies,Hold,,main,BEN
+2013-05-01,Nomura,Neutral,,main,BEN
+2013-05-02,Sterne Agee,Neutral,Buy,down,BEN
+2013-05-09,Stifel Nicolaus,Buy,,main,BEN
+2013-05-13,Citigroup,Buy,Neutral,up,BEN
+2013-05-13,UBS,Buy,Neutral,up,BEN
+2013-05-15,Barclays,Overweight,,main,BEN
+2013-05-21,Macquarie,Neutral,Outperform,down,BEN
+2013-07-10,Evercore Partners,Equal-Weight,,init,BEN
+2013-07-12,Susquehanna,Positive,Neutral,up,BEN
+2013-07-17,BMO Capital,Outperform,Market Perform,up,BEN
+2013-07-25,Barclays,Overweight,,main,BEN
+2013-07-30,Citigroup,Buy,,main,BEN
+2013-11-22,Evercore Partners,Overweight,Equal-Weight,up,BEN
+2014-01-31,Citigroup,Buy,,main,BEN
+2014-02-11,Susquehanna,Neutral,Positive,down,BEN
+2014-04-04,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,BEN
+2014-04-15,JP Morgan,Neutral,,main,BEN
+2014-04-29,UBS,Buy,,main,BEN
+2014-04-29,JP Morgan,Neutral,,main,BEN
+2014-05-16,Deutsche Bank,Hold,,init,BEN
+2014-06-18,Goldman Sachs,Buy,Neutral,up,BEN
+2014-07-01,JP Morgan,Neutral,,main,BEN
+2014-07-01,UBS,Neutral,Buy,down,BEN
+2014-07-14,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2014-07-14,Deutsche Bank,Hold,,main,BEN
+2014-07-31,Citigroup,Neutral,Buy,down,BEN
+2014-07-31,JP Morgan,Neutral,,main,BEN
+2014-07-31,Deutsche Bank,Hold,,main,BEN
+2014-09-11,Deutsche Bank,Hold,,main,BEN
+2014-10-01,JP Morgan,Neutral,,main,BEN
+2014-10-08,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2014-10-08,Citigroup,Neutral,,main,BEN
+2014-10-14,Deutsche Bank,Hold,,main,BEN
+2014-10-14,Bank of America,Buy,,main,BEN
+2014-10-28,JP Morgan,Neutral,,main,BEN
+2014-10-28,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2014-12-04,Barclays,Equal-Weight,,init,BEN
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2014-12-12,Deutsche Bank,Hold,,main,BEN
+2015-01-08,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-01-13,Barclays,Equal-Weight,,main,BEN
+2015-01-14,Goldman Sachs,Neutral,Buy,down,BEN
+2015-02-02,UBS,Neutral,,main,BEN
+2015-02-02,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-02-02,JP Morgan,Neutral,,main,BEN
+2015-02-02,Deutsche Bank,Hold,,main,BEN
+2015-02-20,Barclays,Equal-Weight,,main,BEN
+2015-03-05,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-04-02,Deutsche Bank,Hold,,main,BEN
+2015-04-08,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-04-10,Barclays,Equal-Weight,,main,BEN
+2015-04-13,Deutsche Bank,Hold,,main,BEN
+2015-04-30,Barclays,Equal-Weight,,main,BEN
+2015-04-30,Citigroup,Neutral,,main,BEN
+2015-05-01,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-05-08,Barclays,Equal-Weight,,main,BEN
+2015-05-08,Deutsche Bank,Hold,,main,BEN
+2015-06-03,PiperJaffray,Neutral,,up,BEN
+2015-06-03,PiperJaffray,Neutral,,init,BEN
+2015-07-09,Susquehanna,Neutral,,main,BEN
+2015-07-10,Deutsche Bank,Hold,,main,BEN
+2015-07-10,Citigroup,Neutral,,main,BEN
+2015-07-10,Barclays,Equal-Weight,,main,BEN
+2015-07-10,Morgan Stanley,Equal-Weight,,main,BEN
+2015-07-30,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-07-31,Citigroup,Neutral,,main,BEN
+2015-08-05,Jefferies,Hold,,main,BEN
+2015-08-11,Barclays,Equal-Weight,,main,BEN
+2015-09-03,Susquehanna,Neutral,,main,BEN
+2015-09-03,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2015-09-08,JP Morgan,Neutral,,main,BEN
+2015-09-09,Deutsche Bank,Buy,Hold,up,BEN
+2015-09-10,Citigroup,Neutral,,main,BEN
+2015-09-10,Barclays,Equal-Weight,,main,BEN
+2015-10-05,JP Morgan,Neutral,,main,BEN
+2015-10-07,Jefferies,Hold,,main,BEN
+2015-10-08,Barclays,Equal-Weight,,main,BEN
+2015-10-23,Barclays,Equal-Weight,,main,BEN
+2015-11-03,Susquehanna,Neutral,,main,BEN
+2015-12-08,Barclays,Underweight,Equal-Weight,down,BEN
+2016-01-04,Credit Suisse,Underperform,Neutral,down,BEN
+2016-01-11,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2016-01-19,Deutsche Bank,Hold,,main,BEN
+2016-01-26,Deutsche Bank,Hold,,main,BEN
+2016-02-04,Barclays,Underweight,,main,BEN
+2016-02-09,Barclays,Underweight,,main,BEN
+2016-02-09,Deutsche Bank,Hold,,main,BEN
+2016-03-09,Barclays,Underweight,,main,BEN
+2016-03-15,Bank of America,Underperform,Neutral,down,BEN
+2016-03-17,Deutsche Bank,Hold,,main,BEN
+2016-04-05,Deutsche Bank,Hold,,main,BEN
+2016-04-05,Barclays,Underweight,,main,BEN
+2016-04-07,JP Morgan,Neutral,,main,BEN
+2016-06-02,UBS,Sell,Neutral,down,BEN
+2016-06-09,Citigroup,Neutral,,main,BEN
+2016-06-09,Barclays,Underweight,,main,BEN
+2016-06-16,Deutsche Bank,Hold,,main,BEN
+2016-07-11,Jefferies,Hold,,main,BEN
+2016-07-29,Keefe Bruyette & Woods,Market Perform,,main,BEN
+2016-07-29,Citigroup,Neutral,,main,BEN
+2016-07-29,Barclays,Underweight,,main,BEN
+2016-08-09,Barclays,Underweight,,main,BEN
+2016-09-09,Deutsche Bank,Hold,,main,BEN
+2016-09-20,Citigroup,Neutral,,main,BEN
+2016-10-05,Deutsche Bank,Hold,,main,BEN
+2016-10-11,Jefferies,Hold,,main,BEN
+2016-11-09,Bank of America,Neutral,Underperform,up,BEN
+2016-11-10,UBS,Neutral,Sell,up,BEN
+2016-11-10,Deutsche Bank,Sell,Hold,down,BEN
+2017-02-24,Deutsche Bank,Hold,Sell,up,BEN
+2017-03-16,Bank of America,Buy,Neutral,up,BEN
+2017-03-17,Morgan Stanley,Underweight,Equal-Weight,down,BEN
+2017-07-24,Wells Fargo,Market Perform,Outperform,down,BEN
+2017-07-31,UBS,Neutral,,main,BEN
+2017-09-08,Barclays,Underweight,,init,BEN
+2017-10-27,Citigroup,Neutral,,main,BEN
+2017-10-27,UBS,Neutral,,main,BEN
+2017-10-27,Wells Fargo,Market Perform,,main,BEN
+2018-03-06,Deutsche Bank,Hold,Hold,main,BEN
+2018-04-06,Deutsche Bank,Hold,Hold,main,BEN
+2018-04-10,Morgan Stanley,Underweight,Underweight,main,BEN
+2018-04-23,Barclays,Underweight,Underweight,main,BEN
+2018-07-12,Morgan Stanley,Underweight,Underweight,main,BEN
+2018-07-30,Wells Fargo,Market Perform,Market Perform,main,BEN
+2018-07-30,Barclays,Underweight,Underweight,main,BEN
+2018-08-02,Morgan Stanley,Underweight,Underweight,main,BEN
+2018-08-16,Deutsche Bank,Hold,Hold,main,BEN
+2018-09-06,JP Morgan,Underweight,Neutral,down,BEN
+2018-09-27,Deutsche Bank,Hold,Hold,main,BEN
+2018-10-08,UBS,Neutral,Neutral,main,BEN
+2018-10-11,Deutsche Bank,Hold,Hold,main,BEN
+2018-10-26,Credit Suisse,Underperform,Underperform,main,BEN
+2018-11-16,Deutsche Bank,Hold,Hold,main,BEN
+2019-01-08,Evercore ISI Group,Underperform,In-Line,down,BEN
+2019-01-11,Bank of America,Underperform,Neutral,down,BEN
+2019-03-14,Citigroup,Sell,Sell,main,BEN
+2019-04-15,Citigroup,Neutral,Sell,up,BEN
+2019-04-29,Keefe Bruyette & Woods,Underperform,Market Perform,down,BEN
+2019-07-09,Citigroup,Neutral,,main,BEN
+2019-07-12,JP Morgan,Underweight,,main,BEN
+2019-09-12,JP Morgan,Neutral,Underweight,up,BEN
+2019-10-08,Morgan Stanley,Underweight,,main,BEN
+2019-10-08,BMO Capital,Underperform,,init,BEN
+2019-11-27,Deutsche Bank,Hold,,main,BEN
+2019-12-19,Deutsche Bank,Hold,,main,BEN
+2019-12-23,Standpoint Research,Accumulate,,init,BEN
+2020-01-02,Wells Fargo,Underweight,Equal-Weight,down,BEN
+2020-01-31,"Keefe, Bruyette & Woods",Market Perform,Underperform,up,BEN
+2020-02-18,CFRA,Hold,,main,BEN
+2020-02-19,Citigroup,Neutral,,main,BEN
+2020-02-20,BMO Capital,Market Perform,Underperform,up,BEN
+2020-02-25,Goldman Sachs,Neutral,Sell,up,BEN
+2020-02-26,Credit Suisse,Underperform,,main,BEN
+2020-03-18,Deutsche Bank,Hold,,main,BEN
+2020-03-23,B of A Securities,Underperform,,main,BEN
+2020-03-31,Deutsche Bank,Hold,,main,BEN
+2020-04-07,UBS,Neutral,,main,BEN
+2020-04-09,Deutsche Bank,Hold,,main,BEN
+2020-05-01,CFRA,Hold,,main,BEN
+2020-05-15,Deutsche Bank,Hold,,main,BEN
+2020-07-30,Citigroup,Neutral,,main,BEN
+2020-10-09,B of A Securities,Buy,Underperform,up,BEN
+2020-10-19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BEN
+2020-10-28,Wells Fargo,Underweight,,main,BEN
+2020-10-28,Credit Suisse,Underperform,,main,BEN
+2020-10-29,Deutsche Bank,Hold,,main,BEN
+2020-10-29,Morgan Stanley,Underweight,,main,BEN
+2020-11-23,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,BEN
+2021-01-05,Goldman Sachs,Sell,Neutral,down,BEN
+2021-01-11,Morgan Stanley,Underweight,,main,BEN
+2021-02-03,Credit Suisse,Underperform,,main,BEN
+2021-02-04,Morgan Stanley,Underweight,,main,BEN
+2021-03-29,BMO Capital,Outperform,Market Perform,up,BEN
+2021-04-08,Morgan Stanley,Underweight,,main,BEN
+2021-05-05,Credit Suisse,Underperform,,main,BEN
+2021-05-05,Morgan Stanley,Underweight,,main,BEN
+2021-11-02,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,BEN
+2021-11-03,Morgan Stanley,Underweight,,main,BEN
+2021-12-17,BMO Capital,Market Perform,Outperform,down,BEN

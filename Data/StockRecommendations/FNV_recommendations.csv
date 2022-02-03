@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-07,National Bank Financial,Outperform,Sector Perform,up,FNV
+2013-04-29,UBS,Buy,,main,FNV
+2013-06-21,UBS,Buy,,main,FNV
+2014-05-29,Morgan Stanley,Equal-Weight,,init,FNV
+2014-10-07,Barclays,Equal-Weight,,main,FNV
+2014-11-07,Barclays,Equal-Weight,,main,FNV
+2015-05-13,Canaccord Genuity,Buy,,init,FNV
+2015-05-14,Macquarie,Outperform,,init,FNV
+2015-06-24,Raymond James,Outperform,Market Perform,up,FNV
+2015-07-16,Barclays,Underweight,,main,FNV
+2016-01-14,Barclays,Equal-Weight,Underweight,up,FNV
+2016-01-20,JP Morgan,Neutral,,init,FNV
+2016-02-04,Credit Suisse,Neutral,Outperform,down,FNV
+2016-02-16,Clarksons Platou,Buy,,init,FNV
+2016-03-01,Deutsche Bank,Sell,Hold,down,FNV
+2016-03-28,UBS,Neutral,Buy,down,FNV
+2016-05-11,Goldman Sachs,Sell,,down,FNV
+2016-05-12,BMO Capital,Market Perform,Outperform,down,FNV
+2016-08-08,Barclays,Equal-Weight,,main,FNV
+2016-09-09,Deutsche Bank,Hold,Sell,up,FNV
+2016-10-13,National Bank FInancial,Sector Perform,Outperform,down,FNV
+2016-10-26,Desjardins,Buy,,init,FNV
+2016-11-09,Deutsche Bank,Buy,Hold,up,FNV
+2016-11-15,Canaccord Genuity,Buy,Hold,up,FNV
+2016-12-08,Dundee,Buy,Neutral,up,FNV
+2016-12-20,Deutsche Bank,Hold,Buy,down,FNV
+2017-01-13,Credit Suisse,Outperform,Neutral,up,FNV
+2017-07-13,Barclays,Equal-Weight,,main,FNV
+2017-09-25,Credit Suisse,Neutral,Outperform,down,FNV
+2018-10-10,Barclays,Overweight,,init,FNV
+2019-04-09,Barclays,Equal-Weight,Overweight,down,FNV
+2019-04-10,Deutsche Bank,Hold,Hold,main,FNV
+2019-05-22,RBC Capital,Sector Perform,Outperform,down,FNV
+2019-07-23,GMP Securities,Hold,Buy,down,FNV
+2019-08-08,Credit Suisse,Neutral,,main,FNV
+2019-08-14,Deutsche Bank,Hold,,main,FNV
+2020-03-26,Deutsche Bank,Hold,,main,FNV
+2020-04-03,Deutsche Bank,Hold,,main,FNV
+2020-05-12,Deutsche Bank,Hold,,main,FNV
+2020-06-17,Deutsche Bank,Hold,,main,FNV
+2020-07-20,Barclays,Underweight,,main,FNV
+2021-03-04,JP Morgan,Neutral,,init,FNV
+2021-03-12,Barclays,Equal-Weight,Underweight,up,FNV
+2021-04-26,RBC Capital,Sector Perform,,main,FNV
+2021-07-08,Barclays,Underweight,Equal-Weight,down,FNV
+2021-09-24,Keybanc,Overweight,,init,FNV
+2021-12-20,Keybanc,Overweight,,main,FNV
+2021-12-20,HC Wainwright & Co.,Buy,,init,FNV
+2021-12-22,Keybanc,Overweight,,main,FNV

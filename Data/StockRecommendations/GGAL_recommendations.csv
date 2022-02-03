@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-20,PiperJaffray,Outperform,Market Perform,up,GGAL
+2016-02-09,JP Morgan,Neutral,Underweight,up,GGAL
+2016-03-29,Credit Suisse,Neutral,,init,GGAL
+2016-08-22,Citigroup,Neutral,Sell,up,GGAL
+2016-10-28,Credit Suisse,Outperform,Neutral,up,GGAL
+2018-01-23,Bank of America,Buy,,init,GGAL
+2019-04-29,JP Morgan,Underweight,Neutral,down,GGAL
+2019-07-02,Credit Suisse,Outperform,Neutral,up,GGAL
+2019-08-07,Scotiabank,Sector Underperform,,init,GGAL
+2019-08-13,Credit Suisse,Neutral,Outperform,down,GGAL
+2019-08-14,JP Morgan,Neutral,Underweight,up,GGAL
+2019-09-26,ScotiaBank,Sector Perform,Sector Underperform,up,GGAL
+2019-12-09,Itau BBA,Underperform,Market Perform,down,GGAL
+2020-07-21,HSBC,Reduce,Hold,down,GGAL
+2020-11-23,Credit Suisse,Neutral,Underperform,up,GGAL

@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-09-13,Janney Capital,Buy,,init,BLFS
+2017-11-10,Maxim Group,Buy,,main,BLFS
+2018-05-11,Maxim Group,Buy,Buy,main,BLFS
+2018-10-03,B. Riley FBR,Buy,Buy,main,BLFS
+2019-07-22,H.C. Wainwright,Buy,,init,BLFS
+2019-09-04,Northland Capital Markets,Outperform,,main,BLFS
+2019-11-21,Oppenheimer,Outperform,,init,BLFS
+2019-12-16,H.C. Wainwright,Buy,,reit,BLFS
+2020-02-06,B. Riley,Buy,,init,BLFS
+2020-02-19,Benchmark,Buy,,init,BLFS
+2020-02-24,Lake Street,Buy,,init,BLFS
+2020-03-12,B. Riley FBR,Buy,,main,BLFS
+2020-03-23,HC Wainwright & Co.,Buy,,main,BLFS
+2020-05-04,B. Riley FBR,Buy,,main,BLFS
+2020-08-11,Benchmark,Hold,Buy,down,BLFS
+2020-09-18,Cowen & Co.,Outperform,,init,BLFS
+2020-09-22,Oppenheimer,Perform,Outperform,down,BLFS
+2020-11-10,KeyBanc,Overweight,,init,BLFS
+2021-03-23,KeyBanc,Overweight,,main,BLFS
+2021-03-23,Benchmark,Buy,Hold,up,BLFS
+2021-05-14,Benchmark,Hold,Buy,down,BLFS
+2021-08-13,Keybanc,Overweight,,main,BLFS

@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-14,JMP Securities,Market Outperform,,init,MOR
+2018-11-05,PiperJaffray,Overweight,,init,MOR
+2018-11-14,JP Morgan,Overweight,Overweight,main,MOR
+2019-11-20,Guggenheim,Buy,,init,MOR
+2020-11-25,Morgan Stanley,Equal-Weight,,init,MOR
+2021-03-23,SVB Leerink,Market Perform,Outperform,down,MOR
+2021-05-24,Morgan Stanley,Overweight,Equal-Weight,up,MOR
+2021-06-03,SVB Leerink,Outperform,Market Perform,up,MOR
+2021-06-03,Bryan Garnier,Neutral,Buy,down,MOR
+2021-06-11,JP Morgan,Neutral,Overweight,down,MOR
+2021-08-06,Deutsche Bank,Hold,Buy,down,MOR
+2022-01-14,Morgan Stanley,Equal-Weight,Overweight,down,MOR

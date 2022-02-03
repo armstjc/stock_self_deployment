@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OPTT220819P00002500,2022-01-31 16:31:45+00:00,2.5,1.55,1.4,1.75,0.0,0.0,8,18,1.36328443359375,True,REGULAR,USD,OPTT
+OPTT220819P00002500,2022-01-31 16:31:45+00:00,2.5,1.55,0.4,2.55,0.0,0.0,8,18,1.0234423828125,True,REGULAR,USD,OPTT

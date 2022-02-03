@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-14,UBS,Neutral,,main,HTFB
+2012-07-30,UBS,Buy,Neutral,up,HTFB
+2012-10-11,National Securities,Buy,,init,HTFB
+2012-11-06,Gilford Securities,Hold,,init,HTFB
+2012-11-08,Raymond James,Market Perform,Outperform,down,HTFB
+2012-11-09,Gilford Securities,Buy,Hold,up,HTFB
+2012-11-29,Gilford Securities,,,main,HTFB
+2013-02-15,Gilford Securities,Neutral,Buy,down,HTFB
+2013-03-01,Wunderlich,Buy,,init,HTFB
+2013-03-14,Wunderlich,Buy,,main,HTFB
+2013-03-26,Wells Fargo,Market Perform,Outperform,down,HTFB
+2013-04-10,UBS,Buy,,main,HTFB
+2013-04-18,Gilford Securities,Buy,Neutral,up,HTFB
+2013-08-08,Raymond James,Underperform,Market Perform,down,HTFB
+2013-11-05,JMP Securities,Market Perform,,init,HTFB
+2013-12-09,National Securities,Buy,,init,HTFB
+2014-03-12,Keefe Bruyette & Woods,Underperform,Market Perform,down,HTFB
+2014-03-13,Wunderlich,Buy,,main,HTFB
+2014-05-13,Gilford Securities,Neutral,Buy,down,HTFB
+2014-06-27,National Securities,Hold,Buy,down,HTFB
+2014-07-28,Wunderlich,Hold,Buy,down,HTFB
+2014-08-06,Raymond James,Market Perform,Underperform,up,HTFB
+2015-03-12,Wunderlich,Buy,Hold,up,HTFB
+2015-05-13,Oppenheimer,Outperform,,init,HTFB
+2015-06-04,Oppenheimer,Perform,Outperform,down,HTFB
+2015-11-10,Raymond James,Outperform,Market Perform,up,HTFB
+2016-01-27,Raymond James,Market Perform,Outperform,down,HTFB
+2016-03-10,Oppenheimer,Outperform,Market Perform,up,HTFB
+2016-08-04,Oppenheimer,Perform,Outperform,down,HTFB
+2016-11-03,National Securities,Neutral,Buy,down,HTFB
+2016-11-09,Compass Point,Sell,Neutral,down,HTFB
+2017-08-03,Raymond James,Underperform,Market Perform,down,HTFB
+2017-08-23,Maxim Group,Buy,Hold,up,HTFB
+2017-11-02,Raymond James,Market Perform,Underperform,up,HTFB
+2018-01-09,Wells Fargo,Underperform,Market Perform,down,HTFB
+2018-08-01,Compass Point,Sell,Neutral,down,HTFB
+2018-10-22,Keefe Bruyette & Woods,Underperform,Market Perform,down,HTFB
+2019-03-07,Maxim Group,Buy,Buy,reit,HTFB
+2019-10-29,Janney Capital,Neutral,,init,HTFB
+2020-01-06,Aegis,Hold,,init,HTFB
+2020-02-04,B. Riley,Neutral,,init,HTFB
+2020-02-04,B. Riley FBR,Neutral,,init,HTFB
+2020-02-28,Compass Point,Neutral,Sell,up,HTFB
+2020-03-04,Aegis,Buy,Hold,up,HTFB
+2020-03-24,B. Riley FBR,Neutral,,main,HTFB
+2020-04-30,B. Riley FBR,Neutral,,main,HTFB
+2020-04-30,Aegis Capital,Buy,,main,HTFB
+2020-09-23,National Securities,Neutral,,init,HTFB

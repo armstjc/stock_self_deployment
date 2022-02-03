@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+EXPO220218C00110000,2021-12-23 18:15:00+00:00,110.0,8.0,4.1,7.5,0.0,0.0,1,1,1.4436062976074218,False,REGULAR,USD,EXPO

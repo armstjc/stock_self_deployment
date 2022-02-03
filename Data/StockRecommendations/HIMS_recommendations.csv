@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-08,Tigress Financial,Buy,,init,HIMS
+2021-02-12,Piper Sandler,Neutral,,init,HIMS
+2021-03-02,Citigroup,Buy,Neutral,up,HIMS
+2021-03-09,Credit Suisse,Neutral,,init,HIMS
+2021-04-21,Truist Securities,Hold,,init,HIMS
+2021-05-20,Credit Suisse,Outperform,Neutral,up,HIMS
+2021-11-11,Piper Sandler,Overweight,Neutral,up,HIMS
+2021-12-02,Jefferies,Hold,,init,HIMS
+2021-12-20,Citigroup,Buy,,main,HIMS

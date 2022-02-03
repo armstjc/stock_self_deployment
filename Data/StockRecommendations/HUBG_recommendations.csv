@@ -1,0 +1,116 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,UBS,Neutral,,main,HUBG
+2012-05-18,Stifel Nicolaus,Buy,,up,HUBG
+2012-07-16,Morgan Stanley,Equal-Weight,,init,HUBG
+2012-07-20,KeyBanc,Hold,Buy,down,HUBG
+2012-07-20,UBS,Neutral,,main,HUBG
+2012-07-20,Raymond James,Market Perform,Outperform,down,HUBG
+2012-08-09,Longbow Research,Neutral,,init,HUBG
+2012-08-23,Wunderlich,Hold,,init,HUBG
+2012-10-09,Sterne Agee,Buy,,main,HUBG
+2012-10-23,UBS,Neutral,,main,HUBG
+2012-11-07,SunTrust Robinson Humphrey,Buy,Neutral,up,HUBG
+2013-01-30,UBS,Neutral,,main,HUBG
+2013-01-30,Sterne Agee,Buy,,main,HUBG
+2013-01-30,Stifel Nicolaus,Hold,Buy,down,HUBG
+2013-03-01,Macquarie,Outperform,,init,HUBG
+2013-03-19,Sidoti & Co.,Neutral,Buy,down,HUBG
+2013-04-19,Stephens & Co.,Equal-Weight,Overweight,down,HUBG
+2013-06-24,Wells Fargo,Underperform,Market Perform,down,HUBG
+2013-07-02,RBC Capital,Sector Perform,Outperform,down,HUBG
+2013-10-01,BMO Capital,Market Perform,,init,HUBG
+2013-10-10,Macquarie,Neutral,Outperform,down,HUBG
+2013-12-05,Wells Fargo,Market Perform,Underperform,up,HUBG
+2014-03-10,Wolfe Research,Outperform,Peer Perform,up,HUBG
+2014-04-08,BB&T Capital,Buy,Hold,up,HUBG
+2014-04-11,Raymond James,Strong Buy,Market Perform,up,HUBG
+2014-04-21,Raymond James,Strong Buy,,main,HUBG
+2014-04-21,Longbow Research,Buy,Neutral,up,HUBG
+2014-05-13,Longbow Research,Buy,,main,HUBG
+2014-05-13,RBC Capital,Sector Perform,,main,HUBG
+2014-05-13,KeyBanc,Buy,Hold,up,HUBG
+2014-07-18,Raymond James,Strong Buy,,main,HUBG
+2014-07-18,JP Morgan,Overweight,,main,HUBG
+2014-09-10,Barclays,Equal-Weight,,init,HUBG
+2014-10-01,Wells Fargo,Market Perform,,init,HUBG
+2015-01-12,Barclays,Underweight,Equal-Weight,down,HUBG
+2015-04-24,BMO Capital,Market Perform,,main,HUBG
+2015-05-15,KeyBanc,Overweight,,main,HUBG
+2015-12-15,Buckingham Research,Neutral,,init,HUBG
+2015-12-18,Baird,Neutral,,down,HUBG
+2016-01-04,Stephens & Co.,Equal-Weight,Overweight,down,HUBG
+2016-01-12,KeyBanc,Overweight,,main,HUBG
+2016-02-04,Macquarie,Neutral,,main,HUBG
+2016-02-04,Stifel Nicolaus,Buy,Hold,up,HUBG
+2016-04-07,Stifel Nicolaus,Hold,Buy,down,HUBG
+2016-04-25,BB&T Capital,Hold,Buy,down,HUBG
+2016-08-17,Cowen & Co.,Market Perform,,init,HUBG
+2016-09-12,Barclays,Underweight,,main,HUBG
+2016-10-28,Stifel Nicolaus,Buy,Hold,up,HUBG
+2016-11-22,Stifel Nicolaus,Hold,Buy,down,HUBG
+2017-02-15,Seaport Global,Buy,,init,HUBG
+2017-04-11,KeyBanc,Sector Weight,Overweight,down,HUBG
+2017-05-23,JP Morgan,Neutral,,init,HUBG
+2017-05-30,Stifel Nicolaus,Buy,Hold,up,HUBG
+2017-07-10,Morgan Stanley,Equal-Weight,,main,HUBG
+2017-07-27,Barclays,Underweight,,main,HUBG
+2017-10-02,Barclays,Underweight,,main,HUBG
+2017-10-04,Loop Capital,Hold,,init,HUBG
+2017-10-12,JP Morgan,Neutral,,main,HUBG
+2017-10-20,Buckingham,Neutral,,init,HUBG
+2017-10-27,UBS,Buy,,main,HUBG
+2017-10-27,BMO Capital,Market Perform,,main,HUBG
+2017-12-19,Baird,Outperform,Neutral,up,HUBG
+2018-02-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBG
+2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBG
+2018-08-02,Susquehanna,Positive,Positive,main,HUBG
+2018-08-02,UBS,Buy,Buy,main,HUBG
+2018-08-02,BMO Capital,Market Perform,Market Perform,main,HUBG
+2018-08-02,Loop Capital,Buy,Hold,up,HUBG
+2018-08-06,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBG
+2018-10-03,BMO Capital,Market Perform,Market Perform,main,HUBG
+2018-10-12,Buckingham,Neutral,Neutral,main,HUBG
+2018-10-26,BMO Capital,Market Perform,Market Perform,main,HUBG
+2018-10-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBG
+2018-10-30,Buckingham,Neutral,Neutral,main,HUBG
+2018-11-06,BMO Capital,Market Perform,Market Perform,main,HUBG
+2018-11-06,Stifel Nicolaus,Buy,Hold,up,HUBG
+2018-12-04,UBS,Neutral,Buy,down,HUBG
+2019-04-02,Buckingham,Neutral,Neutral,main,HUBG
+2019-04-04,Barclays,Underweight,Underweight,main,HUBG
+2019-10-04,JP Morgan,Overweight,Neutral,up,HUBG
+2019-10-07,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-01-02,Stephens & Co.,Overweight,,main,HUBG
+2020-01-13,KeyBanc,Overweight,Sector Weight,up,HUBG
+2020-02-07,Stephens & Co.,Overweight,,main,HUBG
+2020-02-10,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-03-23,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-04-06,Stephens & Co.,Overweight,,main,HUBG
+2020-04-08,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-04-17,Barclays,Underweight,,main,HUBG
+2020-05-01,Stephens & Co.,Overweight,,main,HUBG
+2020-05-01,Loop Capital,Hold,Buy,down,HUBG
+2020-05-04,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-07-09,JP Morgan,Neutral,Overweight,down,HUBG
+2020-08-03,Morgan Stanley,Equal-Weight,,main,HUBG
+2020-09-24,Wells Fargo,Overweight,,init,HUBG
+2021-01-06,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-02-05,KeyBanc,Overweight,,main,HUBG
+2021-02-08,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-02-08,Evercore ISI Group,Outperform,In-Line,up,HUBG
+2021-03-26,KeyBanc,Overweight,,main,HUBG
+2021-04-06,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-04-12,Susquehanna,Positive,,main,HUBG
+2021-05-06,Keybanc,Overweight,,main,HUBG
+2021-05-10,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-06-22,Cowen & Co.,Outperform,,main,HUBG
+2021-07-30,Wells Fargo,Overweight,,main,HUBG
+2021-08-30,Barclays,Equal-Weight,,main,HUBG
+2021-10-04,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-10-14,Wells Fargo,Overweight,,main,HUBG
+2021-10-29,Stephens & Co.,Overweight,,main,HUBG
+2021-10-29,Wells Fargo,Overweight,,main,HUBG
+2021-10-29,Keybanc,Overweight,,main,HUBG
+2021-11-01,Morgan Stanley,Equal-Weight,,main,HUBG
+2021-12-02,Morgan Stanley,Equal-Weight,,main,HUBG
+2022-01-04,Stephens & Co.,Overweight,,main,HUBG

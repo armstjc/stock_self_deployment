@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-03,Stifel Nicolaus,Hold,,init,FOXF
+2013-09-03,PiperJaffray,Overweight,,init,FOXF
+2013-09-03,CJS Securities,Market Perform,,init,FOXF
+2013-09-03,William Blair,Outperform,,init,FOXF
+2013-09-03,Baird,Outperform,,init,FOXF
+2013-09-03,SunTrust Robinson Humphrey,Buy,,init,FOXF
+2014-07-31,Bank of America,Buy,,init,FOXF
+2014-11-06,Baird,Neutral,Outperform,down,FOXF
+2014-11-06,Bank of America,Buy,,main,FOXF
+2015-02-20,BB&T Capital,Hold,,init,FOXF
+2015-03-25,DA Davidson,Buy,,init,FOXF
+2015-07-16,CL King,Buy,,init,FOXF
+2015-09-24,SunTrust Robinson Humphrey,Buy,,main,FOXF
+2016-08-04,SunTrust Robinson Humphrey,Buy,,main,FOXF
+2016-09-30,Jefferies,Buy,,init,FOXF
+2017-01-03,SunTrust Robinson Humphrey,Hold,Buy,down,FOXF
+2017-05-17,DA Davidson,Neutral,Buy,down,FOXF
+2017-06-01,CL King,Neutral,Buy,down,FOXF
+2017-07-12,Bank of America,Neutral,Buy,down,FOXF
+2017-09-21,Bank of America,Neutral,,main,FOXF
+2017-10-24,Bank of America,Neutral,,main,FOXF
+2018-02-09,DA Davidson,Buy,Neutral,up,FOXF
+2018-05-01,Bank of America,Buy,Neutral,up,FOXF
+2018-05-03,Stifel Nicolaus,Hold,Hold,main,FOXF
+2018-06-20,Berenberg,Buy,,init,FOXF
+2018-07-16,Jefferies,Buy,,init,FOXF
+2018-07-24,Baird,Neutral,Neutral,main,FOXF
+2018-08-02,Stifel Nicolaus,Hold,Hold,main,FOXF
+2018-08-02,Bank of America,Buy,Buy,main,FOXF
+2018-08-02,Jefferies,Buy,Buy,main,FOXF
+2018-09-14,Baird,Neutral,Neutral,main,FOXF
+2018-09-18,Stifel Nicolaus,Hold,Hold,main,FOXF
+2018-11-01,Jefferies,Buy,Buy,main,FOXF
+2019-08-01,Stifel Nicolaus,Hold,,main,FOXF
+2020-03-04,B of A Securities,Neutral,,main,FOXF
+2020-05-07,SunTrust Robinson Humphrey,Hold,,main,FOXF
+2020-05-07,Jefferies,Buy,,main,FOXF
+2020-05-29,B of A Securities,Buy,Neutral,up,FOXF
+2020-08-06,Stifel,Hold,,main,FOXF
+2020-09-18,Stifel,Buy,Hold,up,FOXF
+2020-12-21,Truist Securities,Buy,Hold,up,FOXF
+2021-04-30,Stifel,Hold,Buy,down,FOXF

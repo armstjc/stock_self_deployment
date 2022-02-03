@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-11-17,Keefe Bruyette & Woods,Market Perform,,init,ECCC
+2014-11-18,Deutsche Bank,Buy,,init,ECCC
+2015-01-07,Wunderlich,Buy,,init,ECCC
+2015-01-16,Guggenheim,Buy,,init,ECCC
+2015-08-31,Deutsche Bank,Buy,,main,ECCC
+2015-11-20,Deutsche Bank,Buy,,main,ECCC
+2016-02-09,Compass Point,Neutral,Buy,down,ECCC
+2016-02-29,Keefe Bruyette & Woods,Market Perform,,main,ECCC
+2016-03-31,Deutsche Bank,Buy,,main,ECCC
+2016-08-25,Deutsche Bank,Buy,,main,ECCC
+2017-09-25,Ladenburg Thalmann,Buy,,init,ECCC
+2018-11-15,Oppenheimer,Perform,Outperform,down,ECCC
+2019-12-09,Ladenburg Thalmann,Buy,Neutral,up,ECCC
+2020-03-06,B. Riley,Buy,,init,ECCC
+2020-03-06,B. Riley FBR,Buy,,init,ECCC
+2020-03-23,B. Riley FBR,Buy,,main,ECCC
+2020-04-16,B. Riley FBR,Buy,,main,ECCC

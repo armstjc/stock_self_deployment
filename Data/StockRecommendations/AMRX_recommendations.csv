@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-18,JP Morgan,Neutral,,init,AMRX
+2018-06-22,B. Riley FBR,Buy,,init,AMRX
+2018-07-23,Morgan Stanley,Overweight,,init,AMRX
+2018-08-10,BMO Capital,Market Perform,Market Perform,main,AMRX
+2018-08-13,RBC Capital,Outperform,Sector Perform,up,AMRX
+2018-08-14,Canaccord Genuity,Hold,Hold,main,AMRX
+2018-08-22,B. Riley FBR,Buy,Buy,main,AMRX
+2018-10-03,Morgan Stanley,Overweight,Overweight,main,AMRX
+2018-10-16,SunTrust Robinson Humphrey,Hold,Buy,down,AMRX
+2018-12-14,Morgan Stanley,Equal-Weight,Overweight,down,AMRX
+2019-03-20,SunTrust Robinson Humphrey,Buy,,init,AMRX
+2019-05-10,BMO Capital,Market Perform,,main,AMRX
+2019-05-21,Raymond James,Strong Buy,Market Perform,up,AMRX
+2019-06-11,Barclays,Equal-Weight,,init,AMRX
+2019-07-08,Piper Jaffray,Overweight,Neutral,up,AMRX
+2019-07-10,Raymond James,Outperform,Strong Buy,down,AMRX
+2019-07-11,SunTrust Robinson Humphrey,Buy,,main,AMRX
+2019-07-11,RBC Capital,Sector Perform,Outperform,down,AMRX
+2019-07-22,SVB Leerink,Outperform,Market Perform,up,AMRX
+2019-08-06,BMO Capital,Market Perform,,main,AMRX
+2019-09-12,Guggenheim,Sell,,init,AMRX
+2019-11-07,SVB Leerink,Market Perform,Outperform,down,AMRX
+2019-11-07,Raymond James,Outperform,,main,AMRX
+2019-11-11,BMO Capital,Market Perform,,main,AMRX
+2019-11-12,JP Morgan,Underweight,Neutral,down,AMRX
+2019-12-12,Raymond James,Market Perform,Outperform,down,AMRX
+2020-01-02,RBC Capital,Sector Perform,,main,AMRX
+2020-02-27,SunTrust Robinson Humphrey,Buy,,main,AMRX
+2020-04-02,Morgan Stanley,Equal-Weight,,main,AMRX
+2020-05-12,Guggenheim,Neutral,Sell,up,AMRX
+2020-05-12,SVB Leerink,Market Perform,,main,AMRX
+2020-05-13,SunTrust Robinson Humphrey,Buy,,main,AMRX
+2020-07-27,Goldman Sachs,Sell,,init,AMRX
+2020-10-09,Piper Sandler,Overweight,,main,AMRX
+2020-11-09,SVB Leerink,Market Perform,,main,AMRX
+2020-12-14,Guggenheim,Buy,Neutral,up,AMRX
+2021-03-08,Goldman Sachs,Buy,Sell,up,AMRX

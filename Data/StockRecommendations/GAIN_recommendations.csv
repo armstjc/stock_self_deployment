@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-15,Jefferies,Buy,,init,GAIN
+2013-01-30,Jefferies,Buy,,main,GAIN
+2013-09-09,Hilliard Lyons,Long-Term Buy,Neutral,up,GAIN
+2013-11-07,Hilliard Lyons,Buy,Long-Term Buy,up,GAIN
+2014-01-07,Hilliard Lyons,Neutral,Buy,down,GAIN
+2014-01-22,Ladenburg Thalmann,Buy,Neutral,up,GAIN
+2014-05-23,Ladenburg Thalmann,Neutral,Buy,down,GAIN
+2015-07-01,Jefferies,Hold,,init,GAIN
+2016-04-29,Janney Capital,Buy,,init,GAIN
+2017-06-14,Wedbush,Outperform,,init,GAIN
+2017-11-03,Jefferies,Hold,,main,GAIN
+2017-11-20,Wedbush,Neutral,Outperform,down,GAIN
+2018-03-06,Wedbush,Outperform,Neutral,up,GAIN
+2019-05-15,Ladenburg Thalmann,Neutral,Buy,down,GAIN
+2020-02-06,Wedbush,Neutral,Outperform,down,GAIN
+2021-04-21,Oppenheimer,Perform,,init,GAIN

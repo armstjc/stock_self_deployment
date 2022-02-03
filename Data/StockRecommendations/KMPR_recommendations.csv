@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-20,Sandler O'Neill,Hold,Buy,down,KMPR
+2016-02-18,Sandler O'Neill,Buy,Hold,up,KMPR
+2016-04-05,Janney Capital,Buy,,init,KMPR
+2016-05-09,Sandler O'Neill,Hold,Buy,down,KMPR
+2016-08-10,Janney Capital,Neutral,Buy,down,KMPR
+2017-08-03,Raymond James,Strong Buy,Market Perform,up,KMPR
+2018-11-02,Keefe Bruyette & Woods,Market Perform,,init,KMPR
+2019-01-08,JMP Securities,Outperform,Market Perform,up,KMPR
+2019-02-12,JMP Securities,Market Outperform,Market Outperform,main,KMPR
+2019-08-23,William Blair,Market Perform,Outperform,down,KMPR
+2019-09-09,UBS,Buy,,init,KMPR
+2019-09-10,UBS,Buy,,init,KMPR
+2020-04-03,Raymond James,Strong Buy,,main,KMPR
+2020-04-06,Piper Sandler,Overweight,,main,KMPR
+2020-04-16,JMP Securities,Market Outperform,,main,KMPR
+2020-04-24,Raymond James,Strong Buy,,main,KMPR
+2020-08-06,Raymond James,Strong Buy,,main,KMPR
+2020-10-19,Raymond James,Strong Buy,,main,KMPR
+2021-03-11,Raymond James,Strong Buy,,main,KMPR
+2021-05-04,Raymond James,Strong Buy,,main,KMPR
+2021-07-19,Raymond James,Outperform,Strong Buy,down,KMPR
+2021-08-02,Raymond James,Outperform,,main,KMPR
+2021-11-01,Piper Sandler,Neutral,Overweight,down,KMPR

@@ -1,0 +1,118 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-04,Deutsche Bank,Buy,,main,BLL
+2012-04-11,KeyBanc,Hold,,init,BLL
+2012-04-16,Credit Suisse,Neutral,,down,BLL
+2012-06-25,JP Morgan,Neutral,Overweight,down,BLL
+2012-07-12,Jefferies,Buy,,main,BLL
+2012-07-30,Goldman Sachs,Neutral,,main,BLL
+2012-10-02,Credit Suisse,Underperform,Neutral,down,BLL
+2012-10-10,Jefferies,Buy,,main,BLL
+2012-11-26,Deutsche Bank,Hold,Buy,down,BLL
+2012-12-17,Longbow Research,Neutral,Buy,down,BLL
+2013-01-08,Baird,Neutral,Outperform,down,BLL
+2013-01-14,Wells Fargo,Market Perform,Outperform,down,BLL
+2013-01-18,Jefferies,Hold,Buy,down,BLL
+2013-04-12,Citigroup,Buy,,main,BLL
+2013-04-16,Macquarie,Neutral,,init,BLL
+2013-07-10,Jefferies,Hold,,main,BLL
+2013-07-10,Goldman Sachs,Neutral,,main,BLL
+2013-08-16,Bank of America,Neutral,,main,BLL
+2013-08-23,Northcoast Research,Neutral,,init,BLL
+2013-11-15,Bank of America,Buy,Neutral,up,BLL
+2014-02-07,Longbow Research,Buy,,init,BLL
+2014-04-09,Credit Suisse,Neutral,,init,BLL
+2014-04-23,JP Morgan,Neutral,,init,BLL
+2014-05-02,JP Morgan,Neutral,,main,BLL
+2014-05-05,Deutsche Bank,Hold,,main,BLL
+2014-05-05,Barclays,Overweight,,main,BLL
+2014-06-13,Bank of America,Neutral,Buy,down,BLL
+2014-07-11,Jefferies,Hold,,main,BLL
+2014-07-17,JP Morgan,Neutral,,main,BLL
+2014-08-01,Jefferies,Hold,,main,BLL
+2014-08-01,JP Morgan,Neutral,,main,BLL
+2014-08-06,Barclays,Overweight,,main,BLL
+2014-08-08,Citigroup,Neutral,Buy,down,BLL
+2014-09-03,BMO Capital,Market Perform,,init,BLL
+2014-09-04,BMO Capital,Market Perform,,init,BLL
+2014-11-04,Citigroup,Neutral,,main,BLL
+2015-01-06,Bank of America,Neutral,Buy,down,BLL
+2015-01-08,Jefferies,Hold,,main,BLL
+2015-01-20,Barclays,Equal-weight,Overweight,down,BLL
+2015-02-06,JP Morgan,Neutral,,main,BLL
+2015-02-11,Citigroup,Neutral,,main,BLL
+2015-02-20,JP Morgan,Neutral,,main,BLL
+2015-03-31,Jefferies,Hold,,main,BLL
+2015-04-15,Citigroup,Neutral,,main,BLL
+2015-10-15,Jefferies,Hold,,main,BLL
+2015-11-09,Macquarie,Outperform,Neutral,up,BLL
+2015-11-10,Macquarie,Outperform,Neutral,up,BLL
+2015-12-03,Wells Fargo,Outperform,Market Perform,up,BLL
+2015-12-09,Jefferies,Buy,Hold,up,BLL
+2016-03-31,JP Morgan,Overweight,Neutral,up,BLL
+2016-07-14,Barclays,Equal-Weight,,init,BLL
+2016-08-05,JP Morgan,Overweight,,main,BLL
+2016-08-05,Jefferies,Buy,,main,BLL
+2016-08-05,Citigroup,Neutral,,main,BLL
+2016-08-05,Vertical Research,Hold,Buy,down,BLL
+2017-02-03,Vertical Research,Buy,Hold,up,BLL
+2017-03-02,Goldman Sachs,Neutral,,init,BLL
+2017-07-18,Deutsche Bank,Buy,,main,BLL
+2017-08-07,Barclays,Equal-Weight,,main,BLL
+2017-10-10,RBC Capital,Outperform,,init,BLL
+2017-10-23,UBS,Buy,,init,BLL
+2017-11-03,Baird,Neutral,,main,BLL
+2017-12-04,BMO Capital,Outperform,Market Perform,up,BLL
+2017-12-08,KeyBanc,Underweight,Sector Weight,down,BLL
+2017-12-15,Vertical Research,Buy,Hold,up,BLL
+2018-01-17,Citigroup,Buy,Neutral,up,BLL
+2018-02-12,KeyBanc,Sector Weight,Underweight,up,BLL
+2018-07-10,Citigroup,Buy,Buy,main,BLL
+2018-08-09,Barclays,Equal-Weight,Equal-Weight,main,BLL
+2018-09-24,Bank of America,Buy,Buy,main,BLL
+2018-10-11,Citigroup,Buy,Buy,main,BLL
+2018-11-02,JP Morgan,Overweight,Overweight,main,BLL
+2018-11-02,Citigroup,Buy,Buy,main,BLL
+2018-11-02,Baird,Outperform,Outperform,main,BLL
+2018-11-02,Bank of America,Buy,Buy,main,BLL
+2018-11-06,RBC Capital,Outperform,Outperform,main,BLL
+2019-01-07,Citigroup,Buy,Buy,main,BLL
+2019-01-17,Morgan Stanley,Overweight,,init,BLL
+2019-02-13,BMO Capital,Outperform,Outperform,main,BLL
+2019-02-15,UBS,Neutral,Buy,down,BLL
+2019-02-21,Wells Fargo,Outperform,Outperform,main,BLL
+2019-04-05,Citigroup,Buy,Buy,main,BLL
+2019-04-09,BMO Capital,Market Perform,Outperform,down,BLL
+2019-04-17,Morgan Stanley,Overweight,Overweight,main,BLL
+2019-05-17,Wells Fargo,Outperform,,main,BLL
+2019-06-05,Morgan Stanley,Overweight,,main,BLL
+2019-07-11,Citigroup,Buy,,main,BLL
+2019-08-02,UBS,Neutral,,main,BLL
+2019-08-05,Wells Fargo,Market Perform,Outperform,down,BLL
+2019-08-06,Morgan Stanley,Overweight,,main,BLL
+2019-10-17,Citigroup,Buy,,main,BLL
+2019-12-02,Northland Capital Markets,Outperform,,init,BLL
+2020-01-16,Barclays,Equal-Weight,,init,BLL
+2020-02-07,Wells Fargo,Equal-Weight,,main,BLL
+2020-03-11,Citigroup,Buy,,main,BLL
+2020-03-24,Goldman Sachs,Buy,Neutral,up,BLL
+2020-04-16,Deutsche Bank,Buy,,main,BLL
+2020-04-17,Wells Fargo,Equal-Weight,,main,BLL
+2020-08-10,Citigroup,Buy,,main,BLL
+2020-09-16,Wells Fargo,Equal-Weight,,main,BLL
+2020-10-08,BMO Capital,Outperform,Market Perform,up,BLL
+2020-10-14,Seaport Global,Neutral,,init,BLL
+2020-11-09,Morgan Stanley,Overweight,,main,BLL
+2021-01-04,Baird,Neutral,Outperform,down,BLL
+2021-04-09,Goldman Sachs,Buy,,init,BLL
+2021-04-15,Jefferies,Hold,,main,BLL
+2021-05-20,Longbow Research,Buy,,init,BLL
+2021-05-26,BMO Capital,Market Perform,Outperform,down,BLL
+2021-06-22,Atlantic Equities,Overweight,Neutral,up,BLL
+2021-08-09,Wells Fargo,Equal-Weight,,main,BLL
+2021-09-14,Truist Securities,Hold,,init,BLL
+2021-09-20,Barclays,Equal-Weight,,main,BLL
+2021-10-06,Loop Capital,Buy,,init,BLL
+2021-10-13,Mizuho,Neutral,,init,BLL
+2021-10-14,B of A Securities,Neutral,Buy,down,BLL
+2021-11-05,Mizuho,Neutral,,main,BLL
+2022-01-04,Citigroup,Neutral,Buy,down,BLL

@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-10,Wunderlich,Buy,,init,LILA
+2015-07-14,Pivotal Research,Buy,,init,LILA
+2015-08-03,Morgan Stanley,Equal-Weight,,init,LILA
+2015-09-01,Wunderlich,Buy,,main,LILA
+2015-09-03,Macquarie,Outperform,,main,LILA
+2016-03-30,Barclays,Equal-Weight,,init,LILA
+2016-05-12,Citigroup,Buy,,init,LILA
+2016-08-08,Barclays,Equal-Weight,,main,LILA
+2016-08-11,Barclays,Equal-Weight,,main,LILA
+2016-08-15,Citigroup,Buy,,main,LILA
+2016-11-07,Morgan Stanley,Equal-Weight,Overweight,down,LILA
+2017-07-24,RBC Capital,Sector Perform,,down,LILA
+2017-08-10,Morgan Stanley,Underweight,Equal-Weight,down,LILA
+2017-09-01,Barclays,Equal-Weight,,main,LILA
+2017-09-27,Macquarie,Neutral,Outperform,down,LILA
+2017-09-29,Buckingham,Buy,,init,LILA
+2017-10-09,HSBC,Reduce,,init,LILA
+2017-10-16,Barclays,Equal-Weight,,main,LILA
+2017-11-06,Barclays,Underweight,Equal-Weight,down,LILA
+2017-11-13,HSBC,Hold,Reduce,up,LILA
+2018-04-03,Goldman Sachs,Neutral,,init,LILA
+2018-04-03,Morgan Stanley,Equal-Weight,Underweight,up,LILA
+2018-08-16,Buckingham,Buy,Buy,main,LILA
+2018-08-27,Citigroup,Buy,Buy,main,LILA
+2019-07-25,Benchmark,Buy,,init,LILA
+2019-10-04,Citigroup,Buy,,main,LILA
+2019-10-17,Barclays,Equal-Weight,Underweight,up,LILA
+2019-11-13,Barclays,Equal-Weight,,main,LILA
+2019-11-15,Benchmark,Buy,,main,LILA
+2020-03-12,HSBC,Buy,Hold,up,LILA
+2020-04-21,Benchmark,Buy,,main,LILA
+2020-05-20,Citigroup,Buy,,main,LILA
+2020-09-28,ScotiaBank,Sector Perform,Sector Underperform,up,LILA
+2020-10-09,Morgan Stanley,Overweight,Equal-Weight,up,LILA
+2020-10-09,Goldman Sachs,Buy,Neutral,up,LILA
+2020-11-05,ScotiaBank,Sector Underperform,Sector Perform,down,LILA
+2021-04-16,Morgan Stanley,Equal-Weight,Overweight,down,LILA

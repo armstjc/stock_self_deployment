@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-17,Seaport Global,Neutral,,init,HZN
+2015-08-05,Seaport Global,Accumulate,Speculative Buy,down,HZN
+2015-10-15,Roth Capital,Buy,,init,HZN
+2015-11-12,Roth Capital,Buy,,main,HZN
+2015-11-12,Roth Capital,Buy,,main,HZN
+2016-03-02,Barrington Research,Outperform,Market Perform,up,HZN
+2016-03-02,Seaport Global,Speculative Buy,Accumulate,up,HZN
+2016-09-20,CJS Securities,Market Perform,,init,HZN
+2017-03-14,Bank of America,Neutral,,init,HZN
+2017-04-12,BMO Capital,Outperform,,init,HZN
+2017-08-02,BMO Capital,Outperform,,main,HZN
+2018-01-30,BMO Capital,Market Perform,Outperform,down,HZN
+2018-02-07,Bank of America,Buy,Underperform,up,HZN
+2018-04-13,B. Riley FBR,Buy,,init,HZN
+2018-06-22,Bank of America,Underperform,Buy,down,HZN
+2018-06-25,B. Riley FBR,Buy,Buy,main,HZN
+2018-08-08,Roth Capital,Buy,Neutral,up,HZN
+2018-11-09,B. Riley FBR,Neutral,Buy,down,HZN
+2020-03-09,B. Riley,Sell,Neutral,down,HZN
+2020-03-17,B. Riley FBR,Sell,,main,HZN
+2020-05-19,B. Riley FBR,Sell,,main,HZN

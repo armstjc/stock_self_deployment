@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-17,SunTrust Robinson Humphrey,Neutral,,init,LOB
+2015-08-17,Keefe Bruyette & Woods,Outperform,,init,LOB
+2016-01-29,SunTrust Robinson Humphrey,Buy,Neutral,up,LOB
+2016-07-29,Keefe Bruyette & Woods,Outperform,,main,LOB
+2016-08-01,SunTrust Robinson Humphrey,Buy,,main,LOB
+2017-09-06,Sandler O'Neill,Buy,Hold,up,LOB
+2017-10-16,Keefe Bruyette & Woods,Market Perform,,init,LOB
+2018-10-29,SunTrust Robinson Humphrey,Buy,Buy,main,LOB
+2018-12-12,SunTrust Robinson Humphrey,Hold,Buy,down,LOB
+2019-12-05,SunTrust Robinson Humphrey,Buy,Hold,up,LOB
+2020-04-24,SunTrust Robinson Humphrey,Buy,,main,LOB
+2020-05-05,SunTrust Robinson Humphrey,Buy,,main,LOB
+2020-09-29,Raymond James,Outperform,,init,LOB
+2020-10-26,Raymond James,Strong Buy,Outperform,up,LOB
+2021-01-29,Raymond James,Strong Buy,,main,LOB
+2021-04-12,JP Morgan,Neutral,,init,LOB
+2021-10-07,Raymond James,Outperform,Strong Buy,down,LOB
+2021-10-29,JP Morgan,Overweight,Neutral,up,LOB
+2021-11-01,Raymond James,Outperform,,main,LOB

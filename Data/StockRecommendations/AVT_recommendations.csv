@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-27,Stifel Nicolaus,Buy,,main,AVT
+2012-04-27,UBS,Buy,,main,AVT
+2012-06-27,UBS,Buy,,main,AVT
+2012-06-27,Miller Tabak,Buy,,main,AVT
+2012-07-02,Citigroup,Buy,,main,AVT
+2012-08-09,Brean Capital,Buy,,main,AVT
+2012-08-09,UBS,buy,,main,AVT
+2012-08-14,CLSA,Outperform,,init,AVT
+2012-09-18,Miller Tabak,Neutral,Buy,down,AVT
+2012-10-10,Deutsche Bank,Buy,,main,AVT
+2012-10-11,Citigroup,Buy,,main,AVT
+2012-10-11,Goldman Sachs,Neutral,,main,AVT
+2012-10-15,UBS,Buy,,main,AVT
+2013-01-25,Stifel Nicolaus,Buy,,main,AVT
+2013-01-25,UBS,Buy,,main,AVT
+2013-01-25,Deutsche Bank,Buy,,main,AVT
+2013-08-08,Deutsche Bank,Buy,,main,AVT
+2013-08-08,Stifel Nicolaus,Buy,,main,AVT
+2013-09-26,UBS,Neutral,Buy,down,AVT
+2013-10-09,SunTrust Robinson Humphrey,Buy,,init,AVT
+2013-10-14,Deutsche Bank,Hold,Buy,down,AVT
+2014-01-24,Deutsche Bank,Hold,,main,AVT
+2014-01-24,Citigroup,Buy,,main,AVT
+2014-01-24,Stifel Nicolaus,Buy,,main,AVT
+2014-04-25,SunTrust Robinson Humphrey,Buy,,main,AVT
+2014-08-07,Deutsche Bank,Hold,,main,AVT
+2014-10-16,Stifel Nicolaus,Buy,,main,AVT
+2014-10-24,Citigroup,Buy,,main,AVT
+2014-11-13,Goldman Sachs,Sell,Neutral,down,AVT
+2014-12-11,Brean Capital,Buy,,main,AVT
+2015-03-09,Longbow Research,Neutral,Buy,down,AVT
+2015-04-24,Citigroup,Buy,,main,AVT
+2015-04-27,SunTrust Robinson Humphrey,Buy,,main,AVT
+2015-06-24,Cross Research,Buy,Hold,up,AVT
+2016-01-22,Longbow Research,Buy,Neutral,up,AVT
+2016-04-27,Bank of America,Neutral,,init,AVT
+2016-04-29,Brean Capital,Hold,Buy,down,AVT
+2016-05-02,Citigroup,Sell,Buy,down,AVT
+2016-06-07,Goldman Sachs,Neutral,Sell,up,AVT
+2016-08-11,Citigroup,Sell,,main,AVT
+2016-09-20,Stifel Nicolaus,Hold,Buy,down,AVT
+2016-09-20,Cross Research,Sell,Hold,down,AVT
+2016-09-22,Citigroup,Sell,,main,AVT
+2016-10-04,Raymond James,Strong Buy,Outperform,up,AVT
+2016-10-21,Longbow Research,Buy,Neutral,up,AVT
+2017-03-01,Goldman Sachs,Sell,Neutral,down,AVT
+2017-04-28,Longbow Research,Neutral,Buy,down,AVT
+2017-04-28,SunTrust Robinson Humphrey,Hold,Buy,down,AVT
+2017-07-14,Bank of America,Underperform,Neutral,down,AVT
+2017-08-10,Deutsche Bank,Hold,,main,AVT
+2017-10-27,Stifel Nicolaus,Hold,,main,AVT
+2017-10-27,Citigroup,Sell,,main,AVT
+2018-01-05,Goldman Sachs,Neutral,Sell,up,AVT
+2018-01-19,Longbow Research,Buy,Neutral,up,AVT
+2018-04-25,Bank of America,Neutral,Underperform,up,AVT
+2018-05-16,Goldman Sachs,Sell,Neutral,down,AVT
+2018-06-15,Pivotal Research,Buy,Hold,up,AVT
+2018-07-17,Wells Fargo,Market Perform,,init,AVT
+2018-08-09,Citigroup,Sell,Sell,main,AVT
+2018-08-10,Bank of America,Buy,Neutral,up,AVT
+2018-10-26,Citigroup,Neutral,Sell,up,AVT
+2019-08-09,Raymond James,Strong Buy,,main,AVT
+2019-08-09,Bank of America,Buy,,reit,AVT
+2019-10-25,SunTrust Robinson Humphrey,Sell,Hold,down,AVT
+2019-10-25,Raymond James,Strong Buy,,main,AVT
+2019-10-25,Wells Fargo,Market Perform,,main,AVT
+2020-01-13,Wells Fargo,Underweight,Equal-Weight,down,AVT
+2020-01-24,Citigroup,Neutral,,main,AVT
+2020-01-24,Raymond James,Strong Buy,,main,AVT
+2020-03-16,SunTrust Robinson Humphrey,Hold,Sell,up,AVT
+2020-03-19,Wells Fargo,Equal-Weight,Underweight,up,AVT
+2020-04-24,Loop Capital,Hold,,init,AVT
+2020-04-28,Raymond James,Strong Buy,,main,AVT
+2020-04-28,Wells Fargo,Equal-Weight,,main,AVT
+2020-04-28,Citigroup,Neutral,,main,AVT
+2020-08-07,Raymond James,Strong Buy,,main,AVT
+2020-09-03,Longbow Research,Buy,Neutral,up,AVT
+2020-10-29,Wells Fargo,Equal-Weight,,main,AVT
+2021-01-28,Raymond James,Strong Buy,,main,AVT
+2021-04-29,Raymond James,Strong Buy,,main,AVT
+2021-04-30,Loop Capital,Buy,Hold,up,AVT
+2021-08-12,Raymond James,Strong Buy,,main,AVT

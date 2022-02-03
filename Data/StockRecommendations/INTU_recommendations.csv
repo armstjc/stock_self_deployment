@@ -1,0 +1,255 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-22,UBS,Buy,,main,INTU
+2012-02-22,Oppenheimer,Outperform,,main,INTU
+2012-02-22,Goldman Sachs,Neutral,,main,INTU
+2012-02-23,Stifel Nicolaus,Hold,,init,INTU
+2012-04-13,Jefferies,Hold,,main,INTU
+2012-04-20,JP Morgan,Overweight,,main,INTU
+2012-04-23,Deutsche Bank,Buy,,main,INTU
+2012-04-26,Deutsche Bank,Buy,,main,INTU
+2012-05-18,Goldman Sachs,Neutral,,main,INTU
+2012-05-18,Bank oferica,Buy,,main,INTU
+2012-08-03,Barclays,Equal-Weight,Overweight,down,INTU
+2012-08-07,Jefferies,Hold,,main,INTU
+2012-08-22,UBS,Buy,,main,INTU
+2012-08-22,Wedbush,Outperform,,main,INTU
+2012-08-22,Citigroup,Buy,,main,INTU
+2012-08-22,Bank of America,Buy,,main,INTU
+2012-08-22,JP Morgan,Overweight,,main,INTU
+2012-08-22,Oppenheimer,Outperform,,main,INTU
+2012-09-11,Evercore Partners,Equal-Weight,,init,INTU
+2012-10-03,Wedbush,Outperform,,main,INTU
+2012-11-16,Millman Research,Hold,Buy,down,INTU
+2013-01-10,Wells Fargo,Market Perform,,init,INTU
+2013-01-25,First Analysis,Equal-Weight,Overweight,down,INTU
+2013-02-04,Jefferies,Hold,,main,INTU
+2013-02-22,UBS,Buy,,main,INTU
+2013-03-11,Bank of America,Neutral,Buy,down,INTU
+2013-04-25,Raymond James,Market Perform,Outperform,down,INTU
+2013-04-25,Citigroup,Neutral,Buy,down,INTU
+2013-04-25,Bank of America,Neutral,,main,INTU
+2013-04-25,JP Morgan,Neutral,Overweight,down,INTU
+2013-05-06,First Analysis,Overweight,Equal-Weight,up,INTU
+2013-05-22,Goldman Sachs,Neutral,,main,INTU
+2013-06-05,Deutsche Bank,Hold,Buy,down,INTU
+2013-09-18,Morgan Stanley,Underweight,Equal-Weight,down,INTU
+2013-10-18,Bank of America,Buy,Neutral,up,INTU
+2013-11-22,Deutsche Bank,Hold,,main,INTU
+2014-02-12,Evercore Partners,Underweight,Equal-weight,down,INTU
+2014-03-03,Citigroup,Buy,Neutral,up,INTU
+2014-05-21,Raymond James,Strong Buy,,main,INTU
+2014-05-28,JP Morgan,Neutral,,main,INTU
+2014-08-14,UBS,Buy,,main,INTU
+2014-08-22,Raymond James,Strong Buy,,main,INTU
+2014-08-22,Barclays,Equal-Weight,,main,INTU
+2014-09-16,RBC Capital,Outperform,,init,INTU
+2014-10-02,Evercore Partners,Underweight,Equal-weight,down,INTU
+2014-11-21,JP Morgan,Neutral,,main,INTU
+2014-11-21,Citigroup,Buy,,main,INTU
+2014-11-21,Barclays,Equal-Weight,,main,INTU
+2014-11-21,Wedbush,Outperform,,main,INTU
+2014-11-21,Bank of America,Buy,,main,INTU
+2014-12-18,Wedbush,Neutral,Outperform,down,INTU
+2015-02-18,Jefferies,Buy,,main,INTU
+2015-02-20,Barclays,Equal-Weight,,main,INTU
+2015-02-20,Jefferies,Hold,,main,INTU
+2015-04-13,Evercore ISI Group,Hold,Sell,up,INTU
+2015-04-22,Jefferies,Buy,,main,INTU
+2015-04-22,Barclays,Equal-Weight,,main,INTU
+2015-05-14,Deutsche Bank,Hold,,main,INTU
+2015-05-20,Raymond James,Strong Buy,,main,INTU
+2015-05-22,Barclays,Equal-Weight,,main,INTU
+2015-06-24,Stifel Nicolaus,Hold,,init,INTU
+2015-08-10,Raymond James,Market Perform,Outperform,down,INTU
+2015-08-11,RBC Capital,Sector Perform,Outperform,down,INTU
+2015-08-19,Deutsche Bank,Buy,Hold,up,INTU
+2015-08-21,UBS,Buy,,main,INTU
+2015-08-21,Jefferies,Buy,,main,INTU
+2015-08-21,Barclays,Equal-Weight,,main,INTU
+2015-08-21,FBR Capital,Sector Perform,,main,INTU
+2015-08-21,First Analysis,Underweight,Equal-Weight,down,INTU
+2015-08-21,UBS,Buy,,main,INTU
+2015-09-09,UBS,Buy,,main,INTU
+2015-09-10,Barclays,Overweight,Equal-Weight,up,INTU
+2015-09-18,Jefferies,Buy,,main,INTU
+2015-09-18,Oppenheimer,Outperform,,main,INTU
+2015-11-04,Deutsche Bank,Buy,,main,INTU
+2015-11-20,Barclays,Overweight,,main,INTU
+2015-11-20,Deutsche Bank,Buy,,main,INTU
+2015-11-20,Wedbush,Neutral,,main,INTU
+2016-02-26,UBS,Buy,,main,INTU
+2016-02-26,RBC Capital,Sector Perform,,main,INTU
+2016-04-14,Brean Capital,Buy,,init,INTU
+2016-04-21,Credit Suisse,Neutral,,init,INTU
+2016-05-23,Goldman Sachs,Buy,,init,INTU
+2016-06-20,Brean Capital,Buy,,main,INTU
+2016-06-23,Goldman Sachs,Buy,,main,INTU
+2016-07-15,Barclays,Equal-Weight,Overweight,down,INTU
+2016-08-24,Brean Capital,Buy,,main,INTU
+2016-08-24,UBS,Buy,,main,INTU
+2016-08-24,Credit Suisse,Neutral,,main,INTU
+2016-08-24,Citigroup,Buy,,main,INTU
+2016-08-24,Goldman Sachs,Buy,,main,INTU
+2016-08-25,Oppenheimer,Outperform,,main,INTU
+2016-09-13,Morgan Stanley,Underweight,Equal-Weight,down,INTU
+2016-11-16,Evercore ISI Group,Hold,,init,INTU
+2017-02-24,Credit Suisse,Outperform,Neutral,up,INTU
+2017-04-27,Benchmark,Buy,,init,INTU
+2017-06-26,Citigroup,Neutral,Buy,down,INTU
+2017-08-23,Credit Suisse,Outperform,,main,INTU
+2017-08-23,First Analysis,Equal-Weight,Underweight,up,INTU
+2017-08-25,Jefferies,Buy,,init,INTU
+2017-09-19,William Blair,Outperform,,init,INTU
+2017-09-20,Argus,Buy,,init,INTU
+2017-09-27,Raymond James,Underperform,Market Perform,down,INTU
+2017-10-27,Oppenheimer,Outperform,,main,INTU
+2017-11-09,UBS,Neutral,,init,INTU
+2017-11-15,Barclays,Equal-Weight,,main,INTU
+2017-11-21,Morgan Stanley,Underweight,Underweight,main,INTU
+2018-02-12,Deutsche Bank,Buy,Buy,main,INTU
+2018-02-13,Barclays,Equal-Weight,Equal-Weight,main,INTU
+2018-02-21,Bank of America,Buy,Buy,main,INTU
+2018-02-23,Barclays,Equal-Weight,Equal-Weight,main,INTU
+2018-02-23,Stifel Nicolaus,Hold,Hold,main,INTU
+2018-02-23,UBS,Neutral,Neutral,main,INTU
+2018-02-26,Argus,Buy,Buy,main,INTU
+2018-03-12,Credit Suisse,Outperform,Outperform,main,INTU
+2018-04-26,UBS,Neutral,Neutral,main,INTU
+2018-04-26,JP Morgan,Neutral,Neutral,main,INTU
+2018-04-26,Stifel Nicolaus,Hold,Hold,main,INTU
+2018-05-01,Bank of America,Buy,Buy,main,INTU
+2018-05-23,First Analysis,Underweight,Equal-Weight,down,INTU
+2018-05-23,Morgan Stanley,Underweight,Underweight,main,INTU
+2018-05-23,Credit Suisse,Outperform,Outperform,main,INTU
+2018-05-23,JP Morgan,Neutral,Neutral,main,INTU
+2018-05-23,Stifel Nicolaus,Hold,Hold,main,INTU
+2018-06-11,Bank of America,Buy,Buy,main,INTU
+2018-06-19,Stifel Nicolaus,Buy,Hold,up,INTU
+2018-08-08,Guggenheim,Buy,,init,INTU
+2018-08-15,Barclays,Equal-Weight,Equal-Weight,main,INTU
+2018-08-24,Citigroup,Neutral,Neutral,main,INTU
+2018-08-24,Stifel Nicolaus,Buy,Buy,main,INTU
+2018-08-24,Credit Suisse,Outperform,Outperform,main,INTU
+2018-08-24,Oppenheimer,Outperform,Outperform,main,INTU
+2018-08-27,Wells Fargo,Outperform,Outperform,main,INTU
+2018-09-07,Barclays,Equal-Weight,Equal-Weight,main,INTU
+2018-09-28,Credit Suisse,Outperform,Outperform,main,INTU
+2018-09-28,Oppenheimer,Outperform,Outperform,main,INTU
+2018-10-04,Argus,Buy,Buy,main,INTU
+2018-10-09,Deutsche Bank,Buy,,init,INTU
+2018-11-20,Deutsche Bank,Buy,Buy,main,INTU
+2018-11-21,Argus,Buy,Buy,main,INTU
+2018-11-26,RBC Capital,Outperform,Sector Perform,up,INTU
+2018-12-13,JP Morgan,Underweight,Neutral,down,INTU
+2018-12-18,KeyBanc,Overweight,,init,INTU
+2019-02-04,Morgan Stanley,Equal-Weight,Underweight,up,INTU
+2019-02-22,Citigroup,Neutral,Neutral,main,INTU
+2019-03-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,INTU
+2019-03-29,Exane BNP Paribas,Underperform,,init,INTU
+2019-04-02,KeyBanc,Overweight,Overweight,main,INTU
+2019-04-12,Deutsche Bank,Buy,Buy,main,INTU
+2019-04-26,KeyBanc,Overweight,Overweight,main,INTU
+2019-05-16,Morgan Stanley,Equal-Weight,,main,INTU
+2019-05-24,KeyBanc,Overweight,,main,INTU
+2019-05-24,Stifel Nicolaus,Buy,,main,INTU
+2019-05-24,Morgan Stanley,Equal-Weight,,main,INTU
+2019-05-24,UBS,Neutral,,main,INTU
+2019-08-23,Barclays,Equal-Weight,,main,INTU
+2019-08-23,Citigroup,Neutral,,main,INTU
+2019-08-23,KeyBanc,Overweight,,main,INTU
+2019-08-23,Stifel Nicolaus,Buy,,main,INTU
+2019-08-23,Credit Suisse,Outperform,,main,INTU
+2019-08-23,UBS,Neutral,,main,INTU
+2019-08-23,Deutsche Bank,Buy,,main,INTU
+2019-08-26,Morgan Stanley,Equal-Weight,,main,INTU
+2019-10-22,Evercore ISI Group,In-Line,Outperform,down,INTU
+2020-01-13,Morgan Stanley,Equal-Weight,,main,INTU
+2020-01-21,KeyBanc,Overweight,,main,INTU
+2020-01-28,Wells Fargo,Equal-Weight,,init,INTU
+2020-02-25,Barclays,Equal-Weight,,main,INTU
+2020-02-25,JP Morgan,Underweight,,main,INTU
+2020-02-25,UBS,Neutral,,main,INTU
+2020-03-11,Wells Fargo,Overweight,Equal-Weight,up,INTU
+2020-03-23,Wells Fargo,Overweight,,main,INTU
+2020-03-23,KeyBanc,Overweight,,main,INTU
+2020-03-25,Morgan Stanley,Equal-Weight,,main,INTU
+2020-03-26,JP Morgan,Underweight,,main,INTU
+2020-03-26,Mizuho,Buy,,init,INTU
+2020-04-03,Morgan Stanley,Equal-Weight,,main,INTU
+2020-04-07,Citigroup,Neutral,,main,INTU
+2020-04-17,RBC Capital,Outperform,,main,INTU
+2020-05-05,KeyBanc,Overweight,,main,INTU
+2020-05-06,Morgan Stanley,Equal-Weight,,main,INTU
+2020-05-19,KeyBanc,Overweight,,main,INTU
+2020-05-22,Jefferies,Buy,,main,INTU
+2020-05-22,RBC Capital,Outperform,,main,INTU
+2020-05-22,Wells Fargo,Overweight,,main,INTU
+2020-05-22,Mizuho,Buy,,main,INTU
+2020-05-22,Morgan Stanley,Equal-Weight,,main,INTU
+2020-08-24,KeyBanc,Overweight,,main,INTU
+2020-08-26,KeyBanc,Overweight,,main,INTU
+2020-08-26,Mizuho,Buy,,main,INTU
+2020-08-26,Morgan Stanley,Equal-Weight,,main,INTU
+2020-08-26,B of A Securities,Buy,,main,INTU
+2020-08-26,Credit Suisse,Outperform,,main,INTU
+2020-08-26,Stifel,Buy,,main,INTU
+2020-08-27,Citigroup,Neutral,,main,INTU
+2020-09-18,Piper Sandler,Overweight,,init,INTU
+2020-10-05,Morgan Stanley,Overweight,Equal-Weight,up,INTU
+2020-10-06,Piper Sandler,Overweight,,main,INTU
+2020-11-20,Credit Suisse,Outperform,,main,INTU
+2020-11-20,Morgan Stanley,Overweight,,main,INTU
+2020-11-20,RBC Capital,Outperform,,main,INTU
+2020-11-20,Piper Sandler,Overweight,,main,INTU
+2020-12-08,Credit Suisse,Outperform,,main,INTU
+2020-12-08,Piper Sandler,Overweight,,main,INTU
+2020-12-08,KeyBanc,Overweight,,main,INTU
+2020-12-09,JP Morgan,Overweight,Underweight,up,INTU
+2021-01-15,Credit Suisse,Outperform,,main,INTU
+2021-01-22,Goldman Sachs,Neutral,,init,INTU
+2021-02-02,KeyBanc,Overweight,,main,INTU
+2021-02-04,Mizuho,Buy,,main,INTU
+2021-02-12,Citigroup,Neutral,,main,INTU
+2021-02-19,Barclays,Overweight,,main,INTU
+2021-02-23,Evercore ISI Group,Outperform,In-Line,up,INTU
+2021-02-24,Wells Fargo,Overweight,,main,INTU
+2021-02-24,Stifel,Buy,,main,INTU
+2021-02-24,UBS,Neutral,,main,INTU
+2021-02-24,Mizuho,Buy,,main,INTU
+2021-02-24,Morgan Stanley,Overweight,,main,INTU
+2021-02-24,Piper Sandler,Overweight,,main,INTU
+2021-04-23,Wolfe Research,Outperform,,init,INTU
+2021-05-12,RBC Capital,Outperform,,main,INTU
+2021-05-26,Keybanc,Overweight,,main,INTU
+2021-05-26,Wells Fargo,Overweight,,main,INTU
+2021-05-26,Mizuho,Buy,,main,INTU
+2021-05-26,Barclays,Overweight,,main,INTU
+2021-05-26,RBC Capital,Outperform,,main,INTU
+2021-05-26,Piper Sandler,Overweight,,main,INTU
+2021-05-26,Jefferies,Buy,,main,INTU
+2021-05-26,Morgan Stanley,Overweight,,main,INTU
+2021-05-27,Exane BNP Paribas,Neutral,Underperform,up,INTU
+2021-08-16,Mizuho,Buy,,main,INTU
+2021-08-23,Jefferies,Buy,,main,INTU
+2021-08-23,Barclays,Overweight,,main,INTU
+2021-08-25,Piper Sandler,Overweight,,main,INTU
+2021-08-25,Morgan Stanley,Overweight,,main,INTU
+2021-08-25,Barclays,Overweight,,main,INTU
+2021-08-25,Wells Fargo,Overweight,,main,INTU
+2021-08-25,Mizuho,Buy,,main,INTU
+2021-08-25,Stifel,Buy,,main,INTU
+2021-08-25,B of A Securities,Buy,,main,INTU
+2021-08-25,Wolfe Research,Outperform,,main,INTU
+2021-08-25,Oppenheimer,Outperform,,main,INTU
+2021-08-26,Keybanc,Overweight,,main,INTU
+2021-11-02,Deutsche Bank,Buy,,init,INTU
+2021-11-15,Morgan Stanley,Overweight,,main,INTU
+2021-11-17,Wells Fargo,Overweight,,main,INTU
+2021-11-19,Piper Sandler,Overweight,,main,INTU
+2021-11-19,Mizuho,Buy,,main,INTU
+2021-11-19,Barclays,Overweight,,main,INTU
+2021-11-19,Deutsche Bank,Buy,,main,INTU
+2021-11-19,Morgan Stanley,Overweight,,main,INTU
+2021-11-19,Wells Fargo,Overweight,,main,INTU
+2021-11-19,Goldman Sachs,Buy,Neutral,up,INTU
+2021-11-19,Keybanc,Overweight,,main,INTU

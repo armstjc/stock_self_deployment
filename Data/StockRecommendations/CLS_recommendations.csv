@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-17,Deutsche Bank,Hold,,down,CLS
+2012-04-17,Deutsche Bank,Hold,,down,CLS
+2012-07-02,Citigroup,Sell,,main,CLS
+2012-10-24,Deutsche Bank,Hold,,main,CLS
+2012-12-05,Paradigm Capital,Buy,,main,CLS
+2013-01-15,Scotiabank,Sector Perform,Outperform,down,CLS
+2013-01-23,Paradigm Capital,Buy,Hold,up,CLS
+2013-01-23,Deutsche Bank,Hold,,main,CLS
+2013-04-24,Salman Partners,Top Pick,Buy,up,CLS
+2013-06-18,Scotiabank,Underperform,Perform,down,CLS
+2013-07-22,BMO Capital,Market Perform,,init,CLS
+2013-07-26,Raymond James,Outperform,Market Perform,up,CLS
+2013-07-29,Canaccord Genuity,Buy,Hold,up,CLS
+2013-09-18,Salman Partners,Hold,Top Pick,down,CLS
+2013-10-21,Canaccord Genuity,Hold,Buy,down,CLS
+2013-10-23,Salman Partners,Buy,Hold,up,CLS
+2013-10-23,Paradigm Capital,Buy,Hold,up,CLS
+2014-01-31,Citigroup,Sell,,main,CLS
+2014-06-24,Raymond James,Market Perform,Outperform,down,CLS
+2014-07-25,Citigroup,Neutral,,main,CLS
+2014-10-30,Standpoint Research,Buy,,init,CLS
+2015-04-22,Citigroup,Sell,,main,CLS
+2015-12-04,B. Riley FBR,Neutral,,init,CLS
+2016-01-28,B. Riley FBR,Neutral,,main,CLS
+2016-01-29,Scotia Howard Weil,Sector Outperform,Sector Perform,up,CLS
+2016-02-02,TD Securities,Hold,,init,CLS
+2016-03-01,SunTrust Robinson Humphrey,,,init,CLS
+2016-07-22,Canaccord Genuity,Buy,Hold,up,CLS
+2016-11-18,Standpoint Research,Hold,Buy,down,CLS
+2017-07-26,BMO Capital,Market Perform,,main,CLS
+2017-08-17,Standpoint Research,Buy,Hold,up,CLS
+2018-01-25,Stifel Nicolaus,Hold,Hold,main,CLS
+2018-10-11,Macquarie,Outperform,,up,CLS
+2019-02-01,Macquarie,Neutral,Outperform,down,CLS
+2020-03-18,RBC Capital,Sector Perform,,main,CLS
+2020-04-30,BMO Capital,Market Perform,,main,CLS
+2020-04-30,Stifel,Hold,,main,CLS
+2020-07-30,RBC Capital,Sector Perform,,main,CLS
+2020-07-30,Citigroup,Sell,,main,CLS
+2020-07-30,Stifel,Hold,,main,CLS
+2020-07-30,TD Securities,Hold,,main,CLS
+2020-07-30,ScotiaBank,Sector Perform,,main,CLS
+2020-10-29,BMO Capital,Market Perform,,main,CLS
+2020-10-29,TD Securities,Hold,,main,CLS
+2021-09-23,RBC Capital,Sector Perform,,main,CLS

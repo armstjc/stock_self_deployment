@@ -1,0 +1,132 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-01,UBS,Buy,,main,CNX
+2012-03-06,Citigroup,Buy,,main,CNX
+2012-03-07,Citigroup,Buy,,main,CNX
+2012-03-20,Deutsche Bank,Buy,,main,CNX
+2012-03-29,UBS,Buy,,main,CNX
+2012-04-27,UBS,Buy,,main,CNX
+2012-05-02,Dahlman Rose,Buy,,main,CNX
+2012-07-27,BB&T Capital,Hold,Buy,down,CNX
+2012-07-27,Jefferies,Buy,,main,CNX
+2012-09-04,Citigroup,Buy,,main,CNX
+2012-09-07,Dahlman Rose,Buy,,main,CNX
+2012-09-14,Global Hunter Securities,Neutral,,init,CNX
+2012-10-02,Deutsche Bank,Buy,,main,CNX
+2012-10-09,Goldman Sachs,Buy,,main,CNX
+2012-10-12,CLSA,Sell,Outperform,down,CNX
+2012-12-11,Davenport,Buy,Neutral,up,CNX
+2013-01-07,Raymond James,Outperform,Strong Buy,down,CNX
+2013-01-15,Bank of America,Buy,Underperform,up,CNX
+2013-02-04,JP Morgan,Overweight,,main,CNX
+2013-02-08,UBS,Buy,,main,CNX
+2013-03-04,Goldman Sachs,Neutral,Buy,down,CNX
+2013-03-11,BMO Capital,Outperform,Market Perform,up,CNX
+2013-05-02,Morgan Stanley,Overweight,Equal-Weight,up,CNX
+2013-09-06,Macquarie,Outperform,,init,CNX
+2013-09-27,Goldman Sachs,Buy,Neutral,up,CNX
+2013-10-14,Deutsche Bank,Buy,,main,CNX
+2013-10-30,Macquarie,Neutral,Outperform,down,CNX
+2013-11-04,Morgan Stanley,Overweight,,main,CNX
+2013-11-18,Citigroup,Neutral,Buy,down,CNX
+2014-01-08,Scotia Howard Weil,Sector Perform,Sector Outperform,down,CNX
+2014-02-05,Stifel Nicolaus,Buy,,main,CNX
+2014-03-25,Raymond James,Outperform,,main,CNX
+2014-03-26,UBS,Neutral,Buy,down,CNX
+2014-04-08,Stifel Nicolaus,Buy,,main,CNX
+2014-04-09,Macquarie,Outperform,Neutral,up,CNX
+2014-04-22,Citigroup,Neutral,,main,CNX
+2014-04-30,Nomura,Buy,,main,CNX
+2014-04-30,Raymond James,Outperform,,main,CNX
+2014-05-01,JP Morgan,Overweight,,main,CNX
+2014-06-06,Goldman Sachs,Buy,Neutral,up,CNX
+2014-06-13,UBS,Neutral,,main,CNX
+2014-06-13,Raymond James,Outperform,,main,CNX
+2014-07-07,Deutsche Bank,Buy,,main,CNX
+2014-07-14,Citigroup,Neutral,,main,CNX
+2014-07-30,UBS,Neutral,,main,CNX
+2014-07-30,Raymond James,Outperform,,main,CNX
+2014-07-30,Brean Capital,Buy,,main,CNX
+2014-08-14,Stifel Nicolaus,Buy,,main,CNX
+2014-10-15,Bank of America,Buy,,main,CNX
+2014-10-17,FBR Capital,Outperform,,main,CNX
+2014-10-20,Citigroup,Buy,Neutral,up,CNX
+2014-10-30,Stifel Nicolaus,Buy,,main,CNX
+2014-11-03,SunTrust Robinson Humphrey,Buy,,init,CNX
+2014-12-01,Citigroup,Neutral,Buy,down,CNX
+2014-12-02,Bank of America,Neutral,Buy,down,CNX
+2015-01-06,Raymond James,Market Perform,Outperform,down,CNX
+2015-01-12,Deutsche Bank,Buy,,main,CNX
+2015-01-27,Citigroup,Neutral,,main,CNX
+2015-02-02,Nomura,Buy,,main,CNX
+2015-02-02,Citigroup,Neutral,,main,CNX
+2015-03-12,Bank of America,Underperform,Neutral,down,CNX
+2015-03-16,Brean Capital,Buy,,main,CNX
+2015-04-06,Deutsche Bank,Hold,Buy,down,CNX
+2015-04-13,Citigroup,Neutral,,main,CNX
+2015-04-14,Citigroup,Neutral,,main,CNX
+2015-04-24,Jefferies,Buy,,main,CNX
+2015-04-29,JP Morgan,Overweight,,main,CNX
+2015-07-09,Barclays,Equal-Weight,,main,CNX
+2015-07-20,Bank of America,Underperform,,main,CNX
+2015-07-20,Macquarie,Neutral,,main,CNX
+2015-07-21,Macquarie,Neutral,,main,CNX
+2015-08-04,Deutsche Bank,Sell,Hold,down,CNX
+2015-08-14,Jefferies,Buy,,main,CNX
+2015-09-24,Citigroup,Neutral,,main,CNX
+2015-10-05,Barclays,Equal-Weight,,main,CNX
+2015-10-05,Deutsche Bank,Hold,Sell,up,CNX
+2015-10-28,BMO Capital,Outperform,,main,CNX
+2015-10-28,Macquarie,Neutral,,main,CNX
+2015-10-30,Susquehanna,Neutral,,init,CNX
+2015-11-02,Barclays,Equal-Weight,,main,CNX
+2015-11-03,Deutsche Bank,Sell,Hold,down,CNX
+2015-12-17,Deutsche Bank,Hold,Sell,up,CNX
+2016-01-22,Morgan Stanley,Equal-Weight,Overweight,down,CNX
+2016-01-26,Susquehanna,Neutral,,main,CNX
+2016-02-09,Barclays,Equal-Weight,,main,CNX
+2016-02-11,Deutsche Bank,Hold,,main,CNX
+2016-02-22,SunTrust Robinson Humphrey,Buy,,main,CNX
+2016-04-04,KLR Group,Buy,,init,CNX
+2016-07-13,Barclays,Equal-Weight,,main,CNX
+2016-07-18,KLR Group,Accumulate,Buy,down,CNX
+2016-07-27,Jefferies,Buy,,main,CNX
+2016-08-15,Bank of America,Neutral,Underperform,up,CNX
+2016-11-11,KLR Group,Buy,Accumulate,up,CNX
+2016-12-09,Goldman Sachs,Neutral,,init,CNX
+2017-01-30,SunTrust Robinson Humphrey,Hold,Buy,down,CNX
+2017-12-08,SunTrust Robinson Humphrey,Buy,Hold,up,CNX
+2017-12-13,Barclays,Equal-Weight,,main,CNX
+2017-12-19,Baird,Outperform,,init,CNX
+2018-01-30,Baird,Outperform,Outperform,main,CNX
+2018-08-06,Raymond James,Underperform,Market Perform,down,CNX
+2018-09-11,Goldman Sachs,Sell,Neutral,down,CNX
+2018-12-06,MKM Partners,Buy,,init,CNX
+2019-02-01,Tudor Pickering,Hold,Buy,down,CNX
+2019-10-09,KeyBanc,Sector Weight,,init,CNX
+2020-03-31,Stifel,Buy,Hold,up,CNX
+2020-04-20,Stifel,Buy,,main,CNX
+2020-04-24,SunTrust Robinson Humphrey,Buy,,main,CNX
+2020-04-27,CFRA,Hold,,reit,CNX
+2020-04-28,MKM Partners,Neutral,Buy,down,CNX
+2020-04-28,Raymond James,Outperform,Underperform,up,CNX
+2020-06-12,Raymond James,Outperform,,main,CNX
+2020-06-17,BMO Capital,Outperform,,init,CNX
+2020-06-25,Wells Fargo,Overweight,,init,CNX
+2020-07-09,MKM Partners,Buy,Neutral,up,CNX
+2020-07-09,Piper Sandler,Neutral,,init,CNX
+2020-07-20,Raymond James,Outperform,,main,CNX
+2020-08-12,Piper Sandler,Overweight,Neutral,up,CNX
+2020-08-17,MKM Partners,Neutral,Buy,down,CNX
+2020-09-23,Capital One Financial,Overweight,,init,CNX
+2020-10-21,Raymond James,Outperform,,main,CNX
+2020-10-30,MKM Partners,Buy,Neutral,up,CNX
+2021-01-15,JP Morgan,Overweight,,init,CNX
+2021-03-11,MKM Partners,Neutral,Buy,down,CNX
+2021-03-30,Truist Securities,Hold,Buy,down,CNX
+2021-05-19,Wells Fargo,Overweight,,main,CNX
+2021-06-21,B of A Securities,Underperform,Neutral,down,CNX
+2021-07-08,MKM Partners,Buy,Neutral,up,CNX
+2021-08-27,BMO Capital,Market Perform,Outperform,down,CNX
+2021-08-31,Raymond James,Outperform,,main,CNX
+2021-10-26,Raymond James,Underperform,Outperform,down,CNX
+2021-12-07,JP Morgan,Neutral,Overweight,down,CNX

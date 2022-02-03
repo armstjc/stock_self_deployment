@@ -1,0 +1,97 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-22,Citigroup,Buy,,init,ESPR
+2013-07-22,Stifel Nicolaus,Buy,,init,ESPR
+2013-07-22,Credit Suisse,Outperform,,init,ESPR
+2013-07-22,Credit Suisse,Outperform,,init,ESPR
+2014-09-30,Citigroup,Buy,,main,ESPR
+2014-10-02,JMP Securities,Market Outperform,,main,ESPR
+2014-10-02,Credit Suisse,Outperform,,main,ESPR
+2014-10-03,Citigroup,Buy,,main,ESPR
+2014-12-04,Credit Suisse,Outperform,,main,ESPR
+2015-01-05,JMP Securities,Market Outperform,,main,ESPR
+2015-01-21,Bank of America,Buy,Neutral,up,ESPR
+2015-02-03,JMP Securities,Market Outperform,,main,ESPR
+2015-02-17,Stifel Nicolaus,Buy,,main,ESPR
+2015-04-01,UBS,Buy,,init,ESPR
+2015-04-23,RBC Capital,Outperform,,init,ESPR
+2015-05-08,Stifel Nicolaus,Buy,,main,ESPR
+2015-05-08,Stifel Nicolaus,Buy,,main,ESPR
+2015-05-21,Barclays,Overweight,,init,ESPR
+2015-05-22,Chardan Capital,Sell,,init,ESPR
+2015-06-03,JMP Securities,Market Outperform,,main,ESPR
+2015-06-10,Chardan Capital,Sell,,main,ESPR
+2015-06-24,Credit Suisse,Neutral,Outperform,down,ESPR
+2015-06-25,JP Morgan,Overweight,,init,ESPR
+2015-07-08,Chardan Capital,Sell,,main,ESPR
+2015-07-27,Citigroup,Buy,,main,ESPR
+2015-08-10,Needham,Strong Buy,Buy,up,ESPR
+2015-08-19,Needham,Strong Buy,Buy,up,ESPR
+2015-09-29,Chardan Capital,Neutral,Sell,up,ESPR
+2016-02-24,Barclays,Overweight,,main,ESPR
+2016-02-25,Stifel Nicolaus,Buy,,main,ESPR
+2016-02-26,Chardan Capital,Neutral,,main,ESPR
+2016-03-09,JMP Securities,Market Outperform,,main,ESPR
+2016-06-29,JP Morgan,Neutral,Overweight,down,ESPR
+2016-06-29,Credit Suisse,Underperform,Neutral,down,ESPR
+2016-06-29,Lake Street,Buy,,main,ESPR
+2016-06-29,Citigroup,Buy,,main,ESPR
+2016-06-29,Barclays,Equal-Weight,Overweight,down,ESPR
+2016-06-29,RBC Capital,Sector Perform,Outperform,down,ESPR
+2016-07-05,Wallachbeth,Hold,,down,ESPR
+2016-07-05,UBS,Neutral,Buy,down,ESPR
+2016-11-14,Citigroup,Neutral,Buy,down,ESPR
+2017-02-28,Citigroup,Buy,Neutral,up,ESPR
+2017-03-20,Credit Suisse,Neutral,Underperform,up,ESPR
+2017-03-20,Needham,Strong Buy,Strong Buy,main,ESPR
+2017-06-23,Deutsche Bank,Buy,,init,ESPR
+2017-07-11,Jefferies,Hold,,init,ESPR
+2017-08-09,Jefferies,Buy,Hold,up,ESPR
+2017-08-09,Deutsche Bank,Buy,,main,ESPR
+2018-01-05,Bank of America,Buy,Neutral,up,ESPR
+2018-01-17,Credit Suisse,Outperform,,init,ESPR
+2018-01-22,Citigroup,Neutral,Buy,down,ESPR
+2018-02-21,UBS,Neutral,Neutral,main,ESPR
+2018-02-21,JP Morgan,Neutral,Neutral,main,ESPR
+2018-03-27,Chardan Capital,Neutral,Neutral,main,ESPR
+2018-05-02,Bank of America,Underperform,Buy,down,ESPR
+2018-05-03,Deutsche Bank,Buy,Buy,main,ESPR
+2018-05-03,JP Morgan,Underweight,Neutral,down,ESPR
+2018-05-04,Credit Suisse,Outperform,Outperform,main,ESPR
+2018-07-11,Northland Securities,Market Perform,Outperform,down,ESPR
+2018-08-17,Citigroup,Buy,Neutral,up,ESPR
+2018-10-16,BTIG Research,Buy,,init,ESPR
+2018-12-13,Goldman Sachs,Sell,,init,ESPR
+2019-03-13,JP Morgan,Neutral,Underweight,up,ESPR
+2019-04-26,Goldman Sachs,Neutral,Sell,up,ESPR
+2019-05-29,Goldman Sachs,Sell,Neutral,down,ESPR
+2019-09-16,Goldman Sachs,Neutral,Sell,up,ESPR
+2019-09-18,Stifel Nicolaus,Buy,,main,ESPR
+2020-02-14,Citigroup,Neutral,Buy,down,ESPR
+2020-02-24,Northland Securities,Market Perform,Outperform,down,ESPR
+2020-02-24,Needham,Strong Buy,,main,ESPR
+2020-02-28,JP Morgan,Neutral,,main,ESPR
+2020-03-17,Citigroup,Buy,Neutral,up,ESPR
+2020-04-01,B of A Securities,Buy,,init,ESPR
+2020-04-16,Northland Capital Markets,Market Perform,,main,ESPR
+2020-05-07,Jefferies,Buy,,main,ESPR
+2020-08-11,Credit Suisse,Neutral,Outperform,down,ESPR
+2020-08-17,B of A Securities,Buy,,main,ESPR
+2020-10-15,B of A Securities,Buy,,main,ESPR
+2020-11-10,Credit Suisse,Outperform,Neutral,up,ESPR
+2021-01-15,B of A Securities,Neutral,Buy,down,ESPR
+2021-02-09,Goldman Sachs,Sell,Neutral,down,ESPR
+2021-02-12,Jefferies,Hold,Buy,down,ESPR
+2021-02-24,Needham,Strong Buy,,main,ESPR
+2021-03-11,Morgan Stanley,Equal-Weight,,init,ESPR
+2021-05-05,Stifel,Hold,Buy,down,ESPR
+2021-05-05,JMP Securities,Market Outperform,,main,ESPR
+2021-05-05,Northland Capital Markets,Market Perform,,main,ESPR
+2021-05-05,Credit Suisse,Outperform,,main,ESPR
+2021-05-05,Morgan Stanley,Equal-Weight,,main,ESPR
+2021-08-03,Needham,Strong Buy,,main,ESPR
+2021-08-04,Morgan Stanley,Equal-Weight,,main,ESPR
+2021-10-14,Morgan Stanley,Underweight,Equal-Weight,down,ESPR
+2021-10-19,Credit Suisse,Neutral,Outperform,down,ESPR
+2021-12-06,Credit Suisse,Neutral,,main,ESPR
+2021-12-06,Goldman Sachs,Sell,,main,ESPR
+2021-12-09,Needham,Buy,,main,ESPR

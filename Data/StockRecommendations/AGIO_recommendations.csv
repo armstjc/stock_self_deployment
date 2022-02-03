@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-08-19,Cowen & Co.,Outperform,,init,AGIO
+2013-08-19,Goldman Sachs,Buy,,init,AGIO
+2013-08-19,Leerink Swann,Outperform,,init,AGIO
+2013-08-19,JP Morgan,Neutral,,init,AGIO
+2014-03-28,JP Morgan,Neutral,,main,AGIO
+2014-04-07,JP Morgan,Overweight,Neutral,up,AGIO
+2014-06-16,JP Morgan,Overweight,,main,AGIO
+2014-07-01,Citigroup,Buy,,init,AGIO
+2014-11-10,Citigroup,Hold,,main,AGIO
+2014-11-12,Canaccord Genuity,Buy,,init,AGIO
+2014-12-02,JP Morgan,Neutral,Overweight,down,AGIO
+2014-12-04,MLV & Co.,Buy,,init,AGIO
+2015-01-28,Citigroup,Neutral,Buy,down,AGIO
+2015-02-18,Citigroup,Neutral,,main,AGIO
+2015-04-21,Oppenheimer,Perform,,init,AGIO
+2015-04-30,Canaccord Genuity,Hold,Buy,down,AGIO
+2015-06-15,Canaccord Genuity,Hold,,main,AGIO
+2015-07-22,Northland Securities,Outperform,,init,AGIO
+2015-10-19,Canaccord Genuity,Hold,,main,AGIO
+2015-12-07,Leerink Swann,Market Perform,Outperform,down,AGIO
+2016-01-20,Credit Suisse,Outperform,,init,AGIO
+2016-03-02,Janney Capital,Neutral,,init,AGIO
+2016-03-30,SunTrust Robinson Humphrey,Buy,,init,AGIO
+2016-05-18,Credit Suisse,Outperform,,main,AGIO
+2016-06-13,Canaccord Genuity,Buy,Hold,up,AGIO
+2016-06-13,JP Morgan,Overweight,Neutral,up,AGIO
+2016-08-19,BTIG Research,Neutral,,init,AGIO
+2016-11-29,Oppenheimer,Perform,,init,AGIO
+2017-01-17,Oppenheimer,Outperform,Perform,up,AGIO
+2017-02-16,Janney Capital,Buy,Neutral,up,AGIO
+2017-06-26,Janney Capital,Neutral,Buy,down,AGIO
+2017-08-02,Leerink Swann,Outperform,Market Perform,up,AGIO
+2017-09-15,RBC Capital,Outperform,,init,AGIO
+2017-11-02,Credit Suisse,Outperform,,main,AGIO
+2018-02-15,JP Morgan,Overweight,Overweight,main,AGIO
+2018-02-15,Credit Suisse,Outperform,Outperform,main,AGIO
+2018-04-11,Credit Suisse,Outperform,Outperform,main,AGIO
+2018-05-23,Citigroup,Buy,,init,AGIO
+2018-05-31,PiperJaffray,Overweight,,init,AGIO
+2018-09-25,Leerink Swann,Market Perform,,init,AGIO
+2019-02-15,Leerink Swann,Outperform,Market Perform,up,AGIO
+2019-09-12,BMO Capital,Outperform,,init,AGIO
+2019-09-23,Guggenheim,Buy,Neutral,up,AGIO
+2019-11-05,Citigroup,Buy,,main,AGIO
+2019-11-26,Cantor Fitzgerald,Overweight,,init,AGIO
+2019-12-04,JP Morgan,Overweight,,main,AGIO
+2019-12-09,BMO Capital,Outperform,,main,AGIO
+2020-02-14,Cantor Fitzgerald,Overweight,,reit,AGIO
+2020-03-04,Barclays,Equal-Weight,,init,AGIO
+2020-05-04,JP Morgan,Overweight,,main,AGIO
+2020-06-15,Citigroup,Buy,,main,AGIO
+2020-06-15,SVB Leerink,Outperform,,main,AGIO
+2020-07-31,Cantor Fitzgerald,Overweight,,main,AGIO
+2020-10-19,Piper Sandler,Overweight,,main,AGIO
+2020-10-19,Needham,Buy,,main,AGIO
+2020-10-19,Canaccord Genuity,Buy,,main,AGIO
+2020-10-19,SVB Leerink,Outperform,,main,AGIO
+2020-10-22,Barclays,Overweight,Equal-Weight,up,AGIO
+2020-12-09,SVB Leerink,Outperform,,main,AGIO
+2020-12-28,Canaccord Genuity,Buy,,main,AGIO
+2021-01-27,SVB Leerink,Outperform,,main,AGIO
+2021-02-26,SVB Leerink,Market Perform,Outperform,down,AGIO
+2021-03-01,JP Morgan,Neutral,Overweight,down,AGIO
+2021-04-30,Canaccord Genuity,Buy,,main,AGIO
+2021-06-10,HC Wainwright & Co.,Buy,,init,AGIO
+2021-07-01,Raymond James,Market Perform,,init,AGIO
+2021-07-30,Goldman Sachs,Sell,Neutral,down,AGIO
+2021-07-30,HC Wainwright & Co.,Buy,,main,AGIO
+2021-11-04,HC Wainwright & Co.,Buy,,main,AGIO
+2021-11-18,SVB Leerink,Market Perform,,main,AGIO
+2021-12-03,B of A Securities,Buy,,init,AGIO

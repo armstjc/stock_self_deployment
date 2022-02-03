@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-20,KeyBanc,Buy,,main,AKR
+2012-10-11,JP Morgan,Neutral,,main,AKR
+2012-12-07,BMO Capital,Outperform,Market Perform,up,AKR
+2013-12-17,Citigroup,Neutral,,main,AKR
+2014-03-26,Citigroup,Neutral,,main,AKR
+2014-09-16,Citigroup,Neutral,,main,AKR
+2014-12-15,Citigroup,Neutral,,main,AKR
+2015-03-23,Citigroup,Buy,,main,AKR
+2015-07-02,Citigroup,Buy,Neutral,up,AKR
+2016-04-01,Citigroup,Buy,,main,AKR
+2016-08-12,Citigroup,Buy,,main,AKR
+2016-08-25,BTIG Research,Neutral,,init,AKR
+2016-12-13,Citigroup,Neutral,Buy,down,AKR
+2017-07-07,Citigroup,Neutral,,main,AKR
+2017-11-20,KeyBanc,Sector Weight,Overweight,down,AKR
+2018-02-28,Citigroup,Neutral,Neutral,main,AKR
+2018-08-15,Citigroup,Neutral,Neutral,main,AKR
+2018-09-17,Bank of America,Buy,Buy,main,AKR
+2019-08-15,Compass Point,Buy,,init,AKR
+2020-01-15,Jefferies,Hold,,init,AKR
+2020-04-07,Citigroup,Neutral,,main,AKR
+2020-04-22,JP Morgan,Underweight,Neutral,down,AKR
+2020-04-28,SunTrust Robinson Humphrey,Hold,,init,AKR
+2020-06-15,SunTrust Robinson Humphrey,Hold,,main,AKR
+2020-07-21,SunTrust Robinson Humphrey,Hold,,main,AKR
+2020-08-27,Citigroup,Neutral,,main,AKR
+2020-11-16,B of A Securities,Buy,,main,AKR
+2020-12-14,KeyBanc,Overweight,Sector Weight,up,AKR
+2021-01-13,Jefferies,Buy,Hold,up,AKR
+2021-06-08,Keybanc,Overweight,,main,AKR
+2021-06-24,Truist Securities,Buy,Hold,up,AKR
+2021-12-02,Truist Securities,Buy,,main,AKR

@@ -1,0 +1,116 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-06,Barclays,Overweight,,main,MTZ
+2012-08-20,FBR Capital,Outperform,,main,MTZ
+2012-10-05,DA Davidson,Neutral,Buy,down,MTZ
+2012-10-09,FIG Partners,,,init,MTZ
+2012-11-02,DA Davidson,Neutral,,main,MTZ
+2012-11-05,Barclays,Overweight,,main,MTZ
+2012-12-20,Citigroup,Buy,,init,MTZ
+2013-01-10,Gilford Securities,Neutral,,main,MTZ
+2013-01-23,Barclays,Overweight,,main,MTZ
+2013-03-27,Lazard,Buy,,init,MTZ
+2013-04-05,FBR Capital,Outperform,,main,MTZ
+2013-05-08,Deutsche Bank,Buy,,init,MTZ
+2013-06-28,Wunderlich,Buy,,init,MTZ
+2013-08-02,DA Davidson,Neutral,,main,MTZ
+2013-08-05,Wunderlich,Buy,,main,MTZ
+2013-10-03,DA Davidson,Buy,Neutral,up,MTZ
+2013-12-20,Stephens & Co.,Equal-Weight,,init,MTZ
+2014-01-24,Stifel Nicolaus,Buy,,main,MTZ
+2014-02-18,DA Davidson,Neutral,Buy,down,MTZ
+2014-02-28,Stephens & Co.,Overweight,Equal-Weight,up,MTZ
+2014-03-03,Deutsche Bank,Buy,,main,MTZ
+2014-03-03,Barclays,Overweight,,main,MTZ
+2014-03-03,Barclays,Overweight,,main,MTZ
+2014-03-03,Stifel Nicolaus,Buy,,main,MTZ
+2014-03-03,Wunderlich,Buy,,main,MTZ
+2014-06-03,FBR Capital,Outperform,,main,MTZ
+2014-06-03,Barclays,Overweight,,main,MTZ
+2014-07-21,Barclays,Overweight,,main,MTZ
+2014-08-13,Deutsche Bank,Buy,,main,MTZ
+2014-08-13,Wunderlich,Buy,,main,MTZ
+2014-10-20,Barclays,Overweight,,main,MTZ
+2014-10-22,Wunderlich,Buy,,main,MTZ
+2014-11-03,DA Davidson,Neutral,,main,MTZ
+2014-11-10,Barclays,Overweight,,main,MTZ
+2014-11-10,BB&T Capital,Hold,Buy,down,MTZ
+2014-12-15,Stifel Nicolaus,Buy,,main,MTZ
+2014-12-18,Barclays,Overweight,,main,MTZ
+2015-01-27,Deutsche Bank,Buy,,main,MTZ
+2015-03-02,Deutsche Bank,Buy,,main,MTZ
+2015-03-02,Barclays,Overweight,,main,MTZ
+2015-05-21,Stephens & Co.,Overweight,,init,MTZ
+2015-08-19,DA Davidson,Buy,,main,MTZ
+2015-08-25,Baird,Neutral,,init,MTZ
+2015-11-12,Craig-Hallum,Buy,,init,MTZ
+2015-11-13,Citigroup,Neutral,,init,MTZ
+2016-04-06,Deutsche Bank,Hold,Buy,down,MTZ
+2016-04-11,Canaccord Genuity,Buy,,init,MTZ
+2016-08-08,Citigroup,Neutral,,main,MTZ
+2016-11-16,DA Davidson,Neutral,Buy,down,MTZ
+2016-11-18,Avondale Partners,Market Perform,Market Outperform,down,MTZ
+2016-11-29,KeyBanc,Overweight,,main,MTZ
+2017-04-03,Credit Suisse,Neutral,,init,MTZ
+2017-04-13,DA Davidson,Buy,Neutral,up,MTZ
+2017-07-24,Credit Suisse,Outperform,Neutral,up,MTZ
+2017-08-18,Citigroup,Buy,Neutral,up,MTZ
+2017-09-12,Deutsche Bank,Buy,Hold,up,MTZ
+2017-10-27,Citigroup,Buy,,main,MTZ
+2017-10-30,Citigroup,Buy,,main,MTZ
+2017-11-06,Credit Suisse,Outperform,,main,MTZ
+2017-11-07,B. Riley FBR,Buy,,main,MTZ
+2017-12-13,Barclays,Overweight,,init,MTZ
+2018-01-26,Stifel Nicolaus,Buy,Buy,main,MTZ
+2018-02-06,Citigroup,Buy,Buy,main,MTZ
+2018-03-01,B. Riley FBR,Buy,Buy,main,MTZ
+2018-03-01,Baird,Neutral,Outperform,down,MTZ
+2018-03-01,Credit Suisse,Outperform,Outperform,main,MTZ
+2018-05-01,Baird,Neutral,Neutral,main,MTZ
+2018-05-02,Credit Suisse,Outperform,Outperform,main,MTZ
+2018-08-07,Baird,Outperform,Neutral,up,MTZ
+2018-11-02,Baird,Outperform,Outperform,main,MTZ
+2018-11-05,Canaccord Genuity,Buy,Buy,main,MTZ
+2018-11-09,Baird,Neutral,Outperform,down,MTZ
+2019-03-04,Baird,Neutral,Neutral,main,MTZ
+2019-03-05,B. Riley FBR,Buy,Buy,main,MTZ
+2019-05-06,KeyBanc,Overweight,Overweight,main,MTZ
+2019-08-05,B. Riley,Buy,,main,MTZ
+2019-08-05,Canaccord Genuity,Buy,,main,MTZ
+2019-08-05,Deutsche Bank,Buy,,main,MTZ
+2019-09-04,Barclays,Overweight,,main,MTZ
+2019-10-23,KeyBanc,Overweight,,main,MTZ
+2019-10-24,UBS,Neutral,Buy,down,MTZ
+2019-11-04,DA Davidson,Buy,,main,MTZ
+2019-11-04,Barclays,Overweight,,main,MTZ
+2019-11-04,Credit Suisse,Outperform,,main,MTZ
+2020-03-02,Citigroup,Buy,,main,MTZ
+2020-03-02,Stephens & Co.,Overweight,,reit,MTZ
+2020-03-02,Baird,Outperform,Neutral,up,MTZ
+2020-03-03,B. Riley FBR,Buy,,main,MTZ
+2020-03-04,KeyBanc,Overweight,,main,MTZ
+2020-03-17,B. Riley FBR,Buy,,main,MTZ
+2020-03-17,Stephens & Co.,Overweight,,main,MTZ
+2020-03-26,KeyBanc,Overweight,,main,MTZ
+2020-04-01,Citigroup,Buy,,main,MTZ
+2020-04-02,Stifel,Buy,,main,MTZ
+2020-04-07,DA Davidson,Buy,,main,MTZ
+2020-04-15,UBS,Neutral,,main,MTZ
+2020-05-04,Baird,Outperform,,main,MTZ
+2020-05-04,B. Riley FBR,Buy,,main,MTZ
+2020-05-04,KeyBanc,Overweight,,main,MTZ
+2020-06-10,Stifel,Buy,,main,MTZ
+2020-08-03,Credit Suisse,Outperform,,main,MTZ
+2020-08-03,KeyBanc,Overweight,,main,MTZ
+2020-08-12,UBS,Buy,Neutral,up,MTZ
+2020-10-27,KeyBanc,Overweight,,main,MTZ
+2020-11-02,Credit Suisse,Outperform,,main,MTZ
+2021-01-27,KeyBanc,Sector Weight,Overweight,down,MTZ
+2021-03-01,Credit Suisse,Outperform,,main,MTZ
+2021-03-01,Barclays,Overweight,,main,MTZ
+2021-04-21,Citigroup,Buy,,main,MTZ
+2021-05-10,Credit Suisse,Outperform,,main,MTZ
+2021-05-10,Craig-Hallum,Buy,,main,MTZ
+2021-05-10,DA Davidson,Buy,,main,MTZ
+2021-07-19,Cowen & Co.,Outperform,,init,MTZ
+2021-09-17,Goldman Sachs,Buy,,init,MTZ
+2021-12-21,Credit Suisse,Outperform,,main,MTZ

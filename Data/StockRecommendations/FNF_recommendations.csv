@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-09,Barclays,Equal-Weight,,main,FNF
+2012-11-07,Stephens & Co.,Equal-Weight,Overweight,down,FNF
+2012-11-19,Barclays,Equal-Weight,,main,FNF
+2012-12-19,Barclays,Overweight,Equal-Weight,up,FNF
+2012-12-19,Barclays,Overweight,Equal-Weight,up,FNF
+2013-07-08,Barclays,Overweight,,init,FNF
+2013-07-23,Credit Suisse,Neutral,,up,FNF
+2013-09-03,Keefe Bruyette & Woods,Outperform,Market Perform,up,FNF
+2013-12-05,Goldman Sachs,Neutral,,init,FNF
+2014-01-03,Janney Capital,Buy,Neutral,up,FNF
+2014-07-21,SunTrust Robinson Humphrey,Buy,,init,FNF
+2014-11-03,Keefe Bruyette & Woods,Outperform,,main,FNF
+2014-12-16,Keefe Bruyette & Woods,Outperform,,main,FNF
+2015-01-02,Stephens & Co.,Overweight,Equal-weight,up,FNF
+2015-01-13,Barclays,Overweight,,main,FNF
+2015-02-27,Keefe Bruyette & Woods,Outperform,,main,FNF
+2015-03-09,Monness Crespi Hardt,Buy,,init,FNF
+2015-04-24,Barclays,Overweight,,main,FNF
+2015-07-31,Barclays,Overweight,,main,FNF
+2015-08-04,Keefe Bruyette & Woods,Outperform,,main,FNF
+2015-09-25,PiperJaffray,Overweight,,main,FNF
+2016-02-12,Barclays,Overweight,,main,FNF
+2016-02-16,Keefe Bruyette & Woods,Outperform,,main,FNF
+2016-07-18,Keefe Bruyette & Woods,Market Perform,Outperform,down,FNF
+2017-06-30,Barclays,Overweight,,main,FNF
+2017-10-27,Barclays,Overweight,,main,FNF
+2018-07-17,Keefe Bruyette & Woods,Outperform,Market Perform,up,FNF
+2019-01-24,Compass Point,Buy,,init,FNF
+2019-06-19,Susquehanna,Positive,,init,FNF
+2019-10-09,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,FNF
+2020-04-07,SunTrust Robinson Humphrey,Buy,,main,FNF
+2020-04-08,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,FNF
+2020-04-20,Compass Point,Neutral,Buy,down,FNF
+2020-04-24,SunTrust Robinson Humphrey,Buy,,main,FNF
+2020-10-09,Barclays,Overweight,,main,FNF
+2021-05-03,Credit Suisse,Outperform,,init,FNF
+2021-07-09,Barclays,Overweight,,main,FNF
+2021-10-11,Barclays,Overweight,,main,FNF
+2021-11-04,Barclays,Overweight,,main,FNF
+2021-11-19,Credit Suisse,Outperform,,main,FNF

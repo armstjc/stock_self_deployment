@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-01-09,Goldman Sachs,Neutral,Buy,down,FGEN
+2015-07-20,Goldman Sachs,Buy,Neutral,up,FGEN
+2015-07-29,Citigroup,Buy,,init,FGEN
+2015-12-04,Citigroup,Buy,,init,FGEN
+2016-01-20,Credit Suisse,Neutral,,init,FGEN
+2016-02-11,Credit Suisse,Outperform,Neutral,up,FGEN
+2017-07-11,Jefferies,Buy,,init,FGEN
+2017-07-21,Goldman Sachs,Neutral,Buy,down,FGEN
+2017-10-05,Mizuho,Neutral,,init,FGEN
+2018-05-15,Mizuho,Buy,Neutral,up,FGEN
+2018-10-15,Leerink Swann,Outperform,Outperform,main,FGEN
+2018-12-19,Citigroup,Buy,Neutral,up,FGEN
+2019-04-12,PiperJaffray,Neutral,,init,FGEN
+2019-05-10,William Blair,Market Perform,Outperform,down,FGEN
+2019-08-26,Mizuho,Buy,,main,FGEN
+2020-04-27,B of A Securities,Neutral,,init,FGEN
+2020-05-01,Cowen & Co.,Market Perform,,init,FGEN
+2020-08-07,SVB Leerink,Outperform,,main,FGEN
+2020-09-08,SVB Leerink,Outperform,,main,FGEN
+2020-10-26,Raymond James,Underperform,,init,FGEN
+2020-11-06,SVB Leerink,Outperform,,main,FGEN
+2021-02-01,HC Wainwright & Co.,Buy,,init,FGEN
+2021-03-02,Jefferies,Hold,Buy,down,FGEN
+2021-03-02,SVB Leerink,Outperform,,main,FGEN
+2021-03-31,B of A Securities,Buy,Neutral,up,FGEN
+2021-04-07,Mizuho,Neutral,Buy,down,FGEN
+2021-04-07,SVB Leerink,Outperform,,main,FGEN
+2021-04-07,HC Wainwright & Co.,Neutral,Buy,down,FGEN
+2021-04-07,JP Morgan,Neutral,Underweight,up,FGEN
+2021-07-16,Stifel,Hold,Buy,down,FGEN
+2021-07-16,B of A Securities,Neutral,Buy,down,FGEN
+2021-08-10,SVB Leerink,Outperform,,main,FGEN
+2021-08-20,Raymond James,Market Perform,Underperform,up,FGEN
+2021-09-22,Goldman Sachs,Sell,Neutral,down,FGEN

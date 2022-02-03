@@ -1,0 +1,106 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Jefferies,Buy,,main,MD
+2012-05-04,Deutsche Bank,Hold,,down,MD
+2012-05-07,Dougherty,Buy,,main,MD
+2012-05-08,Citigroup,Buy,,main,MD
+2012-06-05,Stifel Nicolaus,Buy,,init,MD
+2012-07-18,Deutsche Bank,Sell,Hold,down,MD
+2012-07-31,PiperJaffray,Overweight,,main,MD
+2012-09-19,Jefferies,Buy,,main,MD
+2012-09-20,Feltl & Co.,Buy,,main,MD
+2012-09-20,Stifel Nicolaus,Buy,,main,MD
+2012-09-20,Deutsche Bank,Sell,,main,MD
+2012-11-02,Stephens & Co.,Equal-Weight,Overweight,down,MD
+2012-11-02,Deutsche Bank,Hold,Sell,up,MD
+2012-12-21,Bank of America,Buy,,main,MD
+2013-01-04,Jefferies,Buy,,main,MD
+2013-01-04,Jefferies,Buy,,main,MD
+2013-03-12,Dawson James,Neutral,Buy,down,MD
+2013-04-04,Goldman Sachs,Neutral,,init,MD
+2013-05-03,Feltl & Co.,Hold,Buy,down,MD
+2013-05-28,Jefferies,Buy,,main,MD
+2013-07-08,Wells Fargo,Market Perform,,init,MD
+2013-10-21,Stifel Nicolaus,Buy,,main,MD
+2013-10-31,Deutsche Bank,Hold,,main,MD
+2013-11-01,Deutsche Bank,Hold,,main,MD
+2013-12-17,KeyBanc,Hold,,init,MD
+2014-04-01,Deutsche Bank,Buy,,up,MD
+2014-04-17,Jefferies,Buy,,main,MD
+2014-09-15,Deutsche Bank,Buy,,main,MD
+2014-09-16,SunTrust Robinson Humphrey,Neutral,,init,MD
+2014-10-09,Baird,Outperform,,init,MD
+2014-10-31,Citigroup,Buy,,main,MD
+2015-01-30,Jefferies,Buy,,main,MD
+2015-01-30,Citigroup,Buy,,main,MD
+2015-01-30,Deutsche Bank,Buy,,main,MD
+2015-02-06,Stifel Nicolaus,Buy,Hold,up,MD
+2015-05-13,Raymond James,Outperform,,main,MD
+2015-08-25,Stifel Nicolaus,Buy,,main,MD
+2015-09-16,JP Morgan,Overweight,,init,MD
+2015-09-30,Mizuho,Buy,,init,MD
+2015-09-30,Mizuho,Buy,,init,MD
+2015-10-30,SunTrust Robinson Humphrey,Neutral,,main,MD
+2016-03-07,Susquehanna,Neutral,Positive,down,MD
+2016-03-08,Stifel Nicolaus,Buy,,main,MD
+2016-07-29,JP Morgan,Overweight,,main,MD
+2016-08-17,Citigroup,Neutral,,main,MD
+2016-08-26,Jefferies,Buy,,main,MD
+2016-11-09,Mizuho,Neutral,Buy,down,MD
+2016-12-09,Goldman Sachs,Neutral,,init,MD
+2016-12-13,Jefferies,Hold,Buy,down,MD
+2017-03-10,JP Morgan,Neutral,Overweight,down,MD
+2017-03-21,Baird,Neutral,Outperform,down,MD
+2017-06-22,Stephens & Co.,Overweight,Equal-Weight,up,MD
+2017-09-18,KeyBanc,Overweight,Sector Weight,up,MD
+2017-10-17,BMO Capital,Market Perform,,init,MD
+2017-11-03,Citigroup,Neutral,,main,MD
+2017-11-03,Baird,Neutral,,main,MD
+2017-12-13,PiperJaffray,Overweight,,init,MD
+2018-02-09,Baird,Neutral,Neutral,main,MD
+2018-02-12,BMO Capital,Market Perform,Market Perform,main,MD
+2018-02-12,JP Morgan,Neutral,Neutral,main,MD
+2018-03-27,Credit Suisse,Neutral,,init,MD
+2018-05-04,Citigroup,Neutral,Neutral,main,MD
+2018-05-07,Credit Suisse,Neutral,Neutral,main,MD
+2018-07-12,Leerink Swann,Market Perform,,init,MD
+2018-08-03,Credit Suisse,Outperform,Neutral,up,MD
+2018-09-18,Bank of America,Neutral,Underperform,up,MD
+2018-09-24,Leerink Swann,Outperform,Market Perform,up,MD
+2018-10-19,Baird,Neutral,Neutral,main,MD
+2018-11-02,Baird,Neutral,Neutral,main,MD
+2018-11-02,BMO Capital,Market Perform,Market Perform,main,MD
+2018-11-06,Credit Suisse,Outperform,Outperform,main,MD
+2018-11-16,UBS,Sell,,init,MD
+2019-01-03,Deutsche Bank,Hold,,init,MD
+2019-01-15,Citigroup,Buy,Neutral,up,MD
+2019-02-13,Credit Suisse,Outperform,Outperform,main,MD
+2019-08-02,Mizuho,Neutral,,main,MD
+2019-08-05,BMO Capital,Market Perform,,main,MD
+2019-08-27,Credit Suisse,Outperform,,main,MD
+2019-09-06,Bank of America,Underperform,Neutral,down,MD
+2019-10-18,UBS,Sell,,main,MD
+2019-12-12,Stifel,Buy,Hold,up,MD
+2019-12-18,SunTrust Robinson Humphrey,Hold,,main,MD
+2019-12-20,JP Morgan,Neutral,,main,MD
+2020-01-03,Citigroup,Neutral,Buy,down,MD
+2020-02-21,Mizuho,Neutral,,main,MD
+2020-02-21,Citigroup,Neutral,,main,MD
+2020-02-24,Credit Suisse,Outperform,,main,MD
+2020-02-24,JP Morgan,Neutral,,main,MD
+2020-03-03,Baird,Neutral,,main,MD
+2020-03-26,Credit Suisse,Outperform,,main,MD
+2020-04-13,SunTrust Robinson Humphrey,Hold,,main,MD
+2020-04-21,Baird,Neutral,,main,MD
+2020-05-11,Credit Suisse,Outperform,,main,MD
+2020-05-11,CFRA,Hold,,main,MD
+2020-05-21,SunTrust Robinson Humphrey,Hold,,main,MD
+2020-06-08,Credit Suisse,Outperform,,main,MD
+2020-10-06,UBS,Sell,,main,MD
+2020-10-19,Deutsche Bank,Sell,Hold,down,MD
+2021-02-19,Credit Suisse,Outperform,,main,MD
+2021-05-10,Deutsche Bank,Sell,,main,MD
+2021-05-24,Citigroup,Neutral,,main,MD
+2021-08-09,Mizuho,Neutral,,main,MD
+2021-09-27,SVB Leerink,Market Perform,,init,MD
+2021-11-04,SVB Leerink,Market Perform,,main,MD
+2021-12-22,Credit Suisse,Outperform,,main,MD

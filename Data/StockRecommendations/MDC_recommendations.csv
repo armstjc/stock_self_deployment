@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Guggenheim,Neutral,,down,MDC
+2012-04-05,JP Morgan,Underweight,,down,MDC
+2012-07-23,Goldman Sachs,Buy,,main,MDC
+2013-01-30,Credit Suisse,Underperform,,main,MDC
+2013-02-05,Deutsche Bank,Buy,,main,MDC
+2013-03-13,Sterne Agee,Neutral,,init,MDC
+2013-04-03,FBN Securities,Sector Perform,Underperform,up,MDC
+2013-04-22,Credit Suisse,Neutral,Underperform,up,MDC
+2013-05-14,Raymond James,Outperform,Market Perform,up,MDC
+2013-05-22,KeyBanc,Buy,Hold,up,MDC
+2013-06-03,Deutsche Bank,Buy,,main,MDC
+2013-08-15,Sterne Agee,Buy,Neutral,up,MDC
+2013-09-10,Credit Suisse,Outperform,Neutral,up,MDC
+2013-09-10,Credit Suisse,Outperform,Neutral,up,MDC
+2013-09-10,Citigroup,Neutral,Sell,up,MDC
+2014-01-24,KeyBanc,Hold,Buy,down,MDC
+2014-02-05,Raymond James,Underperform,Outperform,down,MDC
+2014-02-06,Raymond James,Underperform,Outperform,down,MDC
+2014-02-10,Credit Suisse,Neutral,Outperform,down,MDC
+2014-04-17,Citigroup,Neutral,,main,MDC
+2014-09-09,JP Morgan,Underweight,Neutral,down,MDC
+2014-10-31,Sterne Agee,Neutral,Buy,down,MDC
+2014-11-03,Citigroup,Neutral,,main,MDC
+2015-01-12,KeyBanc,Underperform,Hold,down,MDC
+2015-01-29,JP Morgan,Underweight,,main,MDC
+2015-02-11,Citigroup,Buy,Neutral,up,MDC
+2015-02-13,Deutsche Bank,Buy,,main,MDC
+2015-05-06,JP Morgan,Underweight,,main,MDC
+2015-05-15,Raymond James,Market Perform,Outperform,down,MDC
+2015-08-06,KeyBanc,,Underweight,up,MDC
+2015-08-07,Citigroup,Buy,,main,MDC
+2015-10-13,Barclays,Overweight,,init,MDC
+2016-01-13,JP Morgan,Underweight,,main,MDC
+2016-01-20,Barclays,Equal-Weight,Overweight,down,MDC
+2016-02-04,Barclays,Equal-Weight,,main,MDC
+2016-02-09,Deutsche Bank,Buy,,main,MDC
+2016-05-16,Deutsche Bank,Buy,,main,MDC
+2016-08-05,Citigroup,Buy,,main,MDC
+2016-08-08,Deutsche Bank,Hold,Buy,down,MDC
+2016-09-29,Wells Fargo,Market Perform,,init,MDC
+2016-11-15,Evercore ISI Group,Hold,,init,MDC
+2017-01-30,Evercore ISI Group,Sell,Hold,down,MDC
+2017-03-17,FBN Securities,Sector Perform,Outperform,down,MDC
+2017-05-10,Citigroup,Neutral,Buy,down,MDC
+2017-05-16,Wells Fargo,Underperform,Market Perform,down,MDC
+2017-08-03,Deutsche Bank,Hold,,main,MDC
+2017-08-30,Wells Fargo,Market Perform,Underperform,up,MDC
+2017-10-25,UBS,Sell,,init,MDC
+2017-11-03,Citigroup,Neutral,,main,MDC
+2017-11-06,UBS,Sell,,main,MDC
+2018-01-03,Evercore ISI Group,In-Line,Underperform,up,MDC
+2018-02-02,Bank of America,Underperform,Underperform,main,MDC
+2018-02-13,Raymond James,Outperform,Market Perform,up,MDC
+2018-03-13,UBS,Buy,Sell,up,MDC
+2018-03-20,Wedbush,Neutral,,init,MDC
+2018-05-04,Zelman,Buy,Hold,up,MDC
+2018-05-08,Raymond James,Outperform,Outperform,main,MDC
+2018-07-13,JP Morgan,Neutral,Underweight,up,MDC
+2018-08-02,Wedbush,Neutral,Neutral,main,MDC
+2018-08-02,Bank of America,Buy,Underperform,up,MDC
+2018-09-21,JP Morgan,Underweight,Neutral,down,MDC
+2018-10-25,Evercore ISI Group,Outperform,In-Line,up,MDC
+2018-11-02,Wedbush,Neutral,Neutral,main,MDC
+2018-11-12,Wedbush,Neutral,Neutral,main,MDC
+2019-08-01,Wedbush,Neutral,,reit,MDC
+2019-09-13,Wedbush,Neutral,,main,MDC
+2019-09-13,Raymond James,Strong Buy,Outperform,up,MDC
+2020-01-31,Wells Fargo,Underweight,Equal-Weight,down,MDC
+2020-03-18,JP Morgan,Neutral,,main,MDC
+2020-04-09,Raymond James,Strong Buy,,reit,MDC
+2020-06-05,Evercore ISI Group,In-Line,Outperform,down,MDC
+2020-07-29,Evercore ISI Group,Outperform,In-Line,up,MDC
+2020-07-29,JP Morgan,Neutral,,main,MDC
+2020-09-15,B of A Securities,Buy,Neutral,up,MDC
+2020-10-08,JP Morgan,Overweight,Neutral,up,MDC
+2020-10-30,Wells Fargo,Equal-Weight,Underweight,up,MDC
+2021-01-05,B of A Securities,Neutral,Buy,down,MDC
+2021-01-25,Raymond James,Strong Buy,,main,MDC
+2021-03-12,B of A Securities,Underperform,Neutral,down,MDC
+2021-03-16,Wolfe Research,Peer Perform,,init,MDC
+2021-04-16,Wells Fargo,Equal-Weight,,init,MDC
+2021-08-19,Raymond James,Strong Buy,,main,MDC
+2021-10-14,JP Morgan,Neutral,Overweight,down,MDC
+2021-11-08,Raymond James,Strong Buy,,main,MDC

@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-26,Raymond James,Market Perform,Outperform,down,LOGI
+2013-01-14,Goldman Sachs,Neutral,Sell,up,LOGI
+2013-01-15,Credit Suisse,Underperform,Neutral,down,LOGI
+2013-01-25,Avondale Partners,Market Perform,Outperform,down,LOGI
+2013-04-22,Avondale Partners,Market Underperform,Perform,down,LOGI
+2014-01-02,S&P Capital IQ,Sell,Hold,down,LOGI
+2014-02-17,JP Morgan,Underweight,,main,LOGI
+2014-07-25,JP Morgan,Neutral,,main,LOGI
+2015-03-12,JP Morgan,Underweight,Neutral,down,LOGI
+2016-02-02,Morgan Stanley,Underperform,,down,LOGI
+2016-04-05,Sterne Agee CRT,Neutral,,init,LOGI
+2016-07-29,JP Morgan,Underweight,,main,LOGI
+2016-08-10,Morgan Stanley,Equal-Weight,Underweight,up,LOGI
+2016-08-23,UBS,Neutral,Buy,down,LOGI
+2016-10-25,Brean Capital,Buy,,init,LOGI
+2016-10-27,JP Morgan,Neutral,Underweight,up,LOGI
+2016-10-27,Brean Capital,Buy,,main,LOGI
+2017-07-24,Loop Capital,Buy,,init,LOGI
+2018-01-24,Citigroup,Buy,Buy,main,LOGI
+2018-01-24,JP Morgan,Neutral,Neutral,main,LOGI
+2018-02-06,JP Morgan,Underweight,Neutral,down,LOGI
+2018-03-15,DA Davidson,Buy,,init,LOGI
+2018-08-02,Citigroup,Buy,Buy,main,LOGI
+2018-09-05,DA Davidson,Buy,Buy,main,LOGI
+2018-10-16,Citigroup,Buy,Buy,main,LOGI
+2019-01-23,JP Morgan,Overweight,Neutral,up,LOGI
+2019-01-23,Maxim Group,Hold,Sell,up,LOGI
+2019-01-28,Goldman Sachs,Buy,Neutral,up,LOGI
+2019-12-18,UBS,Neutral,Buy,down,LOGI
+2020-01-14,JP Morgan,Neutral,Overweight,down,LOGI
+2020-01-15,Wedbush,Neutral,Outperform,down,LOGI
+2020-02-27,JP Morgan,Overweight,Neutral,up,LOGI
+2020-03-09,Wedbush,Outperform,Neutral,up,LOGI
+2020-05-04,Wedbush,Outperform,,main,LOGI
+2020-05-13,Citigroup,Buy,,main,LOGI
+2020-05-20,UBS,Neutral,Sell,up,LOGI
+2020-05-21,JP Morgan,Neutral,Overweight,down,LOGI
+2020-06-24,Wedbush,Neutral,Outperform,down,LOGI
+2020-07-22,Citigroup,Buy,,main,LOGI
+2020-07-22,Wedbush,Neutral,,main,LOGI
+2020-11-12,Morgan Stanley,Overweight,,init,LOGI
+2020-12-16,Morgan Stanley,Overweight,,main,LOGI
+2021-01-14,Morgan Stanley,Overweight,,main,LOGI
+2021-01-20,Morgan Stanley,Overweight,,main,LOGI
+2021-03-02,Morgan Stanley,Overweight,,main,LOGI
+2021-04-16,Morgan Stanley,Overweight,,main,LOGI
+2021-04-30,Morgan Stanley,Overweight,,main,LOGI
+2021-06-11,Morgan Stanley,Equal-Weight,Overweight,down,LOGI
+2021-06-25,Goldman Sachs,Neutral,Buy,down,LOGI
+2021-07-28,Loop Capital,Hold,Buy,down,LOGI
+2021-07-28,Morgan Stanley,Equal-Weight,,main,LOGI
+2021-09-28,Morgan Stanley,Underweight,Equal-Weight,down,LOGI
+2021-10-06,Morgan Stanley,Underweight,,main,LOGI
+2021-12-13,Deutsche Bank,Buy,,init,LOGI

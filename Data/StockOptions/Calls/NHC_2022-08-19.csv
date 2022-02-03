@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NHC220819C00085000,2022-01-05 19:20:11+00:00,85.0,0.5,0.6,0.8,-0.050000012,-9.090911,2,2,0.3042061767578125,False,REGULAR,USD,NHC
+NHC220819C00085000,2022-01-05 19:20:11+00:00,85.0,0.5,0.6,0.8,-0.050000012,-9.090911,2,2,0.30225307128906254,False,REGULAR,USD,NHC

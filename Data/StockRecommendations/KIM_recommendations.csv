@@ -1,0 +1,117 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-01,ISI Group,Hold,,main,KIM
+2012-08-17,UBS,Neutral,,main,KIM
+2012-09-10,Stifel Nicolaus,Buy,,main,KIM
+2012-09-26,Citigroup,Neutral,,main,KIM
+2012-10-11,JP Morgan,Overweight,,main,KIM
+2012-10-22,Barclays,Overweight,,main,KIM
+2012-10-31,ISI Group,Hold,,main,KIM
+2012-11-29,JP Morgan,Overweight,,main,KIM
+2013-01-09,Deutsche Bank,Hold,,main,KIM
+2013-01-16,JP Morgan,Neutral,Overweight,down,KIM
+2013-02-12,Imperial Capital,In-Line,,main,KIM
+2013-05-02,Stifel Nicolaus,Buy,,main,KIM
+2013-05-06,Goldman Sachs,Neutral,Buy,down,KIM
+2013-07-12,JP Morgan,Neutral,,main,KIM
+2013-07-12,SunTrust Robinson Humphrey,Neutral,,init,KIM
+2013-08-09,Bank of America,Buy,Neutral,up,KIM
+2013-09-10,Janney Capital,Neutral,,init,KIM
+2013-10-31,Imperial Capital,In-Line,,main,KIM
+2013-11-18,McNicoll Lewis Vlak,Hold,,init,KIM
+2013-12-16,Capital One Financial,Add,Strong Buy,down,KIM
+2014-01-15,Deutsche Bank,Hold,,main,KIM
+2014-03-24,Citigroup,Neutral,,main,KIM
+2014-03-27,Citigroup,Neutral,,main,KIM
+2014-04-22,Barclays,Overweight,,main,KIM
+2014-07-17,Deutsche Bank,Hold,,main,KIM
+2014-08-20,Deutsche Bank,Hold,,main,KIM
+2014-10-14,UBS,Neutral,Sell,up,KIM
+2014-11-12,Credit Suisse,Outperform,,init,KIM
+2014-12-05,Citigroup,Neutral,,main,KIM
+2014-12-11,Deutsche Bank,Hold,,main,KIM
+2015-01-05,Stifel Nicolaus,Buy,,main,KIM
+2015-01-15,JP Morgan,Overweight,Neutral,up,KIM
+2015-01-22,Barclays,Overweight,,main,KIM
+2015-03-20,Citigroup,Neutral,,main,KIM
+2015-03-24,Baird,Neutral,,init,KIM
+2015-04-20,Barclays,Overweight,,main,KIM
+2015-07-02,Citigroup,Buy,Neutral,up,KIM
+2015-09-08,Evercore ISI Group,Hold,,main,KIM
+2015-10-20,Barclays,Overweight,,main,KIM
+2015-12-15,Barclays,Overweight,,main,KIM
+2015-12-16,Argus,Buy,,up,KIM
+2016-02-19,Barclays,Overweight,,main,KIM
+2016-04-13,Mizuho,Neutral,,init,KIM
+2016-06-28,Boenning & Scattergood,Neutral,,init,KIM
+2016-07-07,Citigroup,Neutral,Buy,down,KIM
+2016-07-19,Barclays,Overweight,,main,KIM
+2016-07-28,UBS,Neutral,,main,KIM
+2016-08-11,JP Morgan,Overweight,,main,KIM
+2016-08-17,Deutsche Bank,Hold,,main,KIM
+2016-08-25,BTIG Research,Buy,,init,KIM
+2016-11-25,Argus,Hold,Buy,up,KIM
+2016-11-29,Goldman Sachs,Sell,Neutral,down,KIM
+2016-12-16,JP Morgan,Neutral,Overweight,down,KIM
+2017-01-09,Raymond James,Outperform,Market Perform,up,KIM
+2017-03-13,Baird,Outperform,Neutral,up,KIM
+2017-06-20,Goldman Sachs,Neutral,Sell,up,KIM
+2017-08-14,Citigroup,Neutral,,main,KIM
+2017-08-14,Evercore ISI Group,In-Line,Outperform,down,KIM
+2017-08-28,Argus,Hold,Buy,down,KIM
+2017-09-12,BMO Capital,Market Perform,,init,KIM
+2017-09-26,JP Morgan,Overweight,Neutral,up,KIM
+2017-11-13,Citigroup,Neutral,,main,KIM
+2017-11-27,Baird,Neutral,Outperform,down,KIM
+2017-12-15,JP Morgan,Neutral,Overweight,down,KIM
+2018-01-30,Barclays,Overweight,Overweight,main,KIM
+2018-02-16,Bank of America,Neutral,Buy,down,KIM
+2018-02-27,Citigroup,Neutral,Neutral,main,KIM
+2018-03-05,Evercore ISI Group,Underperform,In-Line,down,KIM
+2018-03-19,Deutsche Bank,Hold,Hold,main,KIM
+2018-03-27,Morgan Stanley,Underweight,Equal-Weight,down,KIM
+2018-06-15,JP Morgan,Overweight,Neutral,up,KIM
+2018-07-30,Wells Fargo,Market Perform,Market Perform,main,KIM
+2018-11-15,Evercore ISI Group,In-Line,Underperform,up,KIM
+2019-05-28,Raymond James,Market Perform,Outperform,down,KIM
+2019-06-11,Bank of America,Buy,Neutral,up,KIM
+2019-07-30,Citigroup,Neutral,,main,KIM
+2019-08-15,Compass Point,Neutral,,init,KIM
+2019-08-22,RBC Capital,Sector Perform,Outperform,down,KIM
+2019-09-03,Morgan Stanley,Underweight,,main,KIM
+2019-09-04,Compass Point,Sell,Neutral,down,KIM
+2019-10-23,Capital One Financial,Equal-Weight,Overweight,down,KIM
+2019-11-25,Compass Point,Neutral,Sell,up,KIM
+2019-12-17,Morgan Stanley,Equal-Weight,Underweight,up,KIM
+2019-12-18,JP Morgan,Neutral,Overweight,down,KIM
+2020-01-15,Jefferies,Hold,,init,KIM
+2020-04-07,Citigroup,Neutral,,main,KIM
+2020-04-16,Wells Fargo,Equal-Weight,,main,KIM
+2020-04-16,Compass Point,Sell,Neutral,down,KIM
+2020-04-22,JP Morgan,Overweight,Neutral,up,KIM
+2020-04-24,SunTrust Robinson Humphrey,Hold,,main,KIM
+2020-04-27,Morgan Stanley,Equal-Weight,,main,KIM
+2020-05-11,Deutsche Bank,Hold,,main,KIM
+2020-06-01,JP Morgan,Overweight,,main,KIM
+2020-06-15,SunTrust Robinson Humphrey,Hold,,main,KIM
+2020-06-15,Evercore ISI Group,Underperform,In-Line,down,KIM
+2020-07-02,Morgan Stanley,Equal-Weight,,main,KIM
+2020-07-06,Deutsche Bank,Buy,Hold,up,KIM
+2020-07-08,Compass Point,Neutral,Sell,up,KIM
+2020-09-14,Morgan Stanley,Overweight,Equal-Weight,up,KIM
+2020-10-19,Evercore ISI Group,In-Line,Underperform,up,KIM
+2020-11-03,Truist Securities,Buy,Hold,up,KIM
+2020-12-03,Morgan Stanley,Overweight,,main,KIM
+2021-01-11,Mizuho,Buy,Neutral,up,KIM
+2021-02-25,Morgan Stanley,Overweight,,main,KIM
+2021-05-18,Morgan Stanley,Overweight,,main,KIM
+2021-06-04,UBS,Buy,,init,KIM
+2021-06-11,Morgan Stanley,Overweight,,main,KIM
+2021-08-02,Capital One,Overweight,Equal-Weight,up,KIM
+2021-08-19,Morgan Stanley,Overweight,,main,KIM
+2021-09-01,Barclays,Overweight,,init,KIM
+2021-09-23,Wolfe Research,Peer Perform,,init,KIM
+2021-11-22,Evercore ISI Group,Outperform,In-Line,up,KIM
+2021-11-22,Stifel,Buy,Hold,up,KIM
+2021-12-02,Citigroup,Buy,,main,KIM
+2022-01-03,Deutsche Bank,Hold,Buy,down,KIM
+2022-01-05,Argus Research,Buy,Hold,up,KIM

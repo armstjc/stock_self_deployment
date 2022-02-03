@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-23,Wedbush,Outperform,,init,HMPT
+2021-02-23,Credit Suisse,Outperform,,init,HMPT
+2021-02-23,Piper Sandler,Overweight,,init,HMPT
+2021-02-23,Morgan Stanley,Equal-Weight,,init,HMPT
+2021-02-23,JMP Securities,Market Outperform,,init,HMPT
+2021-02-23,Wells Fargo,Overweight,,init,HMPT
+2021-04-21,B of A Securities,Underperform,Buy,down,HMPT
+2021-05-07,Piper Sandler,Neutral,Overweight,down,HMPT
+2021-05-28,Morgan Stanley,Equal-Weight,,main,HMPT
+2021-06-09,UBS,Neutral,Buy,down,HMPT
+2021-08-26,JMP Securities,Market Outperform,,main,HMPT
+2022-01-06,Goldman Sachs,Sell,Neutral,down,HMPT

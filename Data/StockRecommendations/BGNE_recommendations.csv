@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-02-29,Baird,Outperform,,init,BGNE
+2016-02-29,Goldman Sachs,Buy,,init,BGNE
+2016-02-29,Cowen & Co.,Outperform,,init,BGNE
+2016-02-29,Morgan Stanley,Overweight,,init,BGNE
+2016-09-22,Maxim Group,Buy,,init,BGNE
+2017-08-07,Ladenburg Thalmann,Buy,,init,BGNE
+2017-10-06,Morgan Stanley,Overweight,,main,BGNE
+2017-11-14,Baird,Neutral,Outperform,down,BGNE
+2018-03-21,Morgan Stanley,Overweight,Overweight,main,BGNE
+2018-04-13,PiperJaffray,Overweight,,init,BGNE
+2018-09-25,Leerink Swann,Outperform,,init,BGNE
+2018-11-21,JP Morgan,Overweight,,init,BGNE
+2019-05-14,Morgan Stanley,Overweight,,main,BGNE
+2019-07-15,Morgan Stanley,Overweight,,main,BGNE
+2019-08-12,Morgan Stanley,Overweight,,main,BGNE
+2019-10-11,Morgan Stanley,Overweight,,main,BGNE
+2019-11-04,JP Morgan,Overweight,,main,BGNE
+2019-11-04,Maxim Group,Buy,,main,BGNE
+2019-11-13,Cowen & Co.,Outperform,,main,BGNE
+2019-11-13,CLSA,Outperform,Buy,down,BGNE
+2019-11-15,Guggenheim,Buy,,main,BGNE
+2019-11-18,Bank of America,Buy,,reit,BGNE
+2019-12-16,PiperJaffray,Neutral,Overweight,down,BGNE
+2019-12-16,Guggenheim,Neutral,Buy,down,BGNE
+2020-03-03,Maxim Group,Buy,,main,BGNE
+2020-04-15,Morgan Stanley,Overweight,,main,BGNE
+2020-05-28,Morgan Stanley,Overweight,,main,BGNE
+2020-06-03,SVB Leerink,Outperform,,main,BGNE
+2020-08-10,Morgan Stanley,Overweight,,main,BGNE
+2020-10-13,Morgan Stanley,Overweight,,main,BGNE
+2020-11-06,Piper Sandler,Underweight,Neutral,down,BGNE
+2020-11-06,SVB Leerink,Outperform,,main,BGNE
+2020-11-11,Morgan Stanley,Overweight,,main,BGNE
+2020-11-19,SVB Leerink,Outperform,,main,BGNE
+2020-12-08,Ladenburg Thalmann,Buy,Neutral,up,BGNE
+2021-01-19,Morgan Stanley,Overweight,,main,BGNE
+2021-02-18,Cowen & Co.,Outperform,,main,BGNE
+2021-05-10,Morgan Stanley,Overweight,,main,BGNE
+2021-06-03,Morgan Stanley,Overweight,,main,BGNE
+2021-06-14,SVB Leerink,Outperform,,main,BGNE
+2021-08-16,Morgan Stanley,Overweight,,main,BGNE
+2021-10-12,Bernstein,Outperform,,init,BGNE
+2021-10-14,SVB Leerink,Outperform,,main,BGNE
+2022-01-18,Morgan Stanley,Overweight,,main,BGNE

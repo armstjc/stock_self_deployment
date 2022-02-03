@@ -1,0 +1,196 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-04,Bank oferica,Buy,,main,LYB
+2012-05-09,Morgan Stanley,Overweight,,main,LYB
+2012-05-22,Credit Suisse,Outperform,,init,LYB
+2012-05-24,UBS,Buy,,main,LYB
+2012-06-07,Jefferies,Buy,,main,LYB
+2012-07-30,Deutsche Bank,Buy,,main,LYB
+2012-07-30,Morgan Stanley,Overweight,,main,LYB
+2012-08-27,UBS,Neutral,Buy,down,LYB
+2012-09-24,CLSA,Outperform,Underperform,up,LYB
+2012-09-25,Jefferies,Buy,,main,LYB
+2012-10-09,Morgan Stanley,Overweight,,main,LYB
+2012-10-22,Imperial Capital,Outperform,,main,LYB
+2012-10-29,PiperJaffray,Neutral,,main,LYB
+2012-10-29,Deutsche Bank,Buy,,main,LYB
+2012-10-29,Bank of America,Buy,,main,LYB
+2012-10-29,JP Morgan,Overweight,,main,LYB
+2012-11-02,Jefferies,Buy,,main,LYB
+2012-11-13,Goldman Sachs,Neutral,Buy,down,LYB
+2012-11-19,UBS,Neutral,,main,LYB
+2012-11-30,JP Morgan,Overweight,,main,LYB
+2013-01-03,Citigroup,Neutral,Buy,down,LYB
+2013-01-04,Jefferies,Buy,,main,LYB
+2013-01-09,Dahlman Rose,Buy,,main,LYB
+2013-02-04,Imperial Capital,Outperform,,main,LYB
+2013-02-04,Jefferies,Buy,,main,LYB
+2013-02-08,UBS,Neutral,,main,LYB
+2013-03-07,JP Morgan,Overweight,,main,LYB
+2013-03-14,Deutsche Bank,Buy,,main,LYB
+2013-03-18,Bank of America,Buy,,main,LYB
+2013-04-29,Jefferies,Buy,,main,LYB
+2013-05-13,Citigroup,Buy,Neutral,up,LYB
+2013-07-29,Imperial Capital,Buy,,main,LYB
+2013-12-12,RBC Capital,Top Pick,Outperform,up,LYB
+2014-02-03,Citigroup,Neutral,,main,LYB
+2014-04-22,Atlantic Equities,Overweight,,init,LYB
+2014-05-20,Jefferies,Buy,,main,LYB
+2014-06-12,JP Morgan,Overweight,,main,LYB
+2014-07-09,Jefferies,Buy,,main,LYB
+2014-07-28,Citigroup,Buy,,main,LYB
+2014-07-28,Deutsche Bank,Buy,,main,LYB
+2014-07-28,JP Morgan,Overweight,,main,LYB
+2014-07-29,Jefferies,Buy,,main,LYB
+2014-09-24,Citigroup,Buy,,main,LYB
+2014-10-06,Citigroup,Buy,,main,LYB
+2014-10-09,RBC Capital,Top Pick,,init,LYB
+2014-10-28,Barclays,Overweight,,main,LYB
+2014-10-28,Jefferies,Buy,,main,LYB
+2014-10-28,Citigroup,Buy,,main,LYB
+2014-10-28,Credit Suisse,Outperform,,main,LYB
+2014-10-29,Barclays,Overweight,,main,LYB
+2014-11-20,Citigroup,Buy,,main,LYB
+2014-12-01,Jefferies,Hold,Buy,down,LYB
+2015-01-26,Bank of America,Neutral,Buy,down,LYB
+2015-02-04,Deutsche Bank,Buy,,main,LYB
+2015-02-17,Citigroup,Neutral,Buy,down,LYB
+2015-03-13,Argus,Hold,,init,LYB
+2015-04-27,Jefferies,Hold,,main,LYB
+2015-04-27,Nomura,Buy,,main,LYB
+2015-04-27,Barclays,Overweight,,main,LYB
+2015-04-28,Citigroup,Neutral,,main,LYB
+2015-05-08,Standpoint Research,Buy,,init,LYB
+2015-06-15,Jefferies,Hold,,main,LYB
+2015-09-17,Deutsche Bank,Hold,,main,LYB
+2015-10-12,Macquarie,Neutral,Outperform,down,LYB
+2016-01-11,CLSA,Underperform,Outperform,down,LYB
+2016-01-14,Jefferies,Hold,,main,LYB
+2016-01-21,Deutsche Bank,Hold,,main,LYB
+2016-02-03,RBC Capital,Outperform,Top Pick,down,LYB
+2016-02-04,Deutsche Bank,Hold,,main,LYB
+2016-04-05,Atlantic Equities,Underweight,Neutral,down,LYB
+2016-04-18,Citigroup,Neutral,,main,LYB
+2016-04-25,Citigroup,Neutral,,main,LYB
+2016-04-27,Nomura,Neutral,Buy,down,LYB
+2016-06-13,Cowen & Co.,Market Perform,Outperform,down,LYB
+2016-06-23,JP Morgan,Neutral,Overweight,down,LYB
+2016-06-27,RBC Capital,Sector Perform,,down,LYB
+2016-07-11,Nomura,Neutral,,main,LYB
+2016-07-15,Citigroup,Neutral,,main,LYB
+2016-08-02,Barclays,Overweight,,main,LYB
+2016-08-02,Citigroup,Neutral,,main,LYB
+2016-08-26,Susquehanna,Positive,,main,LYB
+2016-09-13,Deutsche Bank,Hold,,main,LYB
+2016-09-22,Jefferies,Hold,,main,LYB
+2016-10-14,Tudor Pickering,Buy,,init,LYB
+2017-02-10,Susquehanna,Neutral,Positive,down,LYB
+2017-02-14,Evercore ISI Group,Buy,,init,LYB
+2017-05-08,Bank of America,Underperform,,down,LYB
+2017-06-26,HSBC,Buy,,init,LYB
+2017-07-31,Deutsche Bank,Hold,,main,LYB
+2017-09-26,Nomura,Neutral,,main,LYB
+2017-10-10,HSBC,Hold,Buy,down,LYB
+2017-10-13,UBS,Neutral,,main,LYB
+2017-10-30,UBS,Neutral,,main,LYB
+2017-10-31,Barclays,Overweight,,main,LYB
+2017-12-18,Citigroup,Buy,Neutral,up,LYB
+2018-02-05,Barclays,Overweight,Overweight,main,LYB
+2018-02-06,Citigroup,Buy,Buy,main,LYB
+2018-03-28,BMO Capital,Outperform,,init,LYB
+2018-05-16,Jefferies,Buy,Hold,up,LYB
+2018-05-21,Standpoint Research,Hold,Buy,down,LYB
+2018-08-07,BMO Capital,Market Perform,Market Perform,main,LYB
+2018-08-15,Citigroup,Buy,Buy,main,LYB
+2018-09-17,Citigroup,Neutral,Buy,down,LYB
+2018-09-19,JP Morgan,Underweight,Neutral,down,LYB
+2018-10-02,Exane BNP Paribas,Outperform,,init,LYB
+2018-10-12,Standpoint Research,Buy,Hold,up,LYB
+2018-10-15,Nomura,Neutral,Neutral,main,LYB
+2018-10-31,Nomura,Neutral,Neutral,main,LYB
+2018-10-31,Deutsche Bank,Hold,Hold,main,LYB
+2018-11-01,BMO Capital,Market Perform,Market Perform,main,LYB
+2018-11-02,HSBC,Buy,Hold,up,LYB
+2018-11-20,RBC Capital,Outperform,Sector Perform,up,LYB
+2018-12-17,Deutsche Bank,Buy,Hold,up,LYB
+2019-02-05,BMO Capital,Market Perform,Market Perform,main,LYB
+2019-03-06,Goldman Sachs,Buy,Neutral,up,LYB
+2019-04-15,Nomura,Buy,Neutral,up,LYB
+2019-06-17,Deutsche Bank,Hold,Buy,down,LYB
+2019-07-11,UBS,Neutral,,main,LYB
+2019-07-22,Nomura,Neutral,Buy,down,LYB
+2019-08-05,BMO Capital,Market Perform,,main,LYB
+2019-08-05,Barclays,Overweight,,main,LYB
+2019-08-05,Nomura,Neutral,,main,LYB
+2019-08-05,Bank of America,Buy,,main,LYB
+2019-09-18,Nomura,Neutral,,main,LYB
+2019-09-26,Bank of America,Buy,,reit,LYB
+2019-10-02,UBS,Neutral,,main,LYB
+2019-10-09,Citigroup,Neutral,,main,LYB
+2019-10-16,Wells Fargo,Outperform,,init,LYB
+2019-11-18,JP Morgan,Underweight,,main,LYB
+2019-11-18,Goldman Sachs,Buy,,main,LYB
+2019-12-20,RBC Capital,Sector Perform,Outperform,down,LYB
+2020-01-31,CFRA,Strong Buy,,main,LYB
+2020-02-03,UBS,Neutral,,main,LYB
+2020-02-28,JP Morgan,Neutral,Underweight,up,LYB
+2020-03-11,Citigroup,Neutral,,main,LYB
+2020-03-11,Deutsche Bank,Hold,,main,LYB
+2020-03-11,Morgan Stanley,Overweight,,main,LYB
+2020-03-13,UBS,Neutral,,main,LYB
+2020-03-20,Wells Fargo,Overweight,,main,LYB
+2020-03-25,Citigroup,Buy,Neutral,up,LYB
+2020-03-26,KeyBanc,Sector Weight,,init,LYB
+2020-03-27,JP Morgan,Neutral,,main,LYB
+2020-03-30,Morgan Stanley,Overweight,,main,LYB
+2020-04-01,Exane BNP Paribas,Neutral,Outperform,down,LYB
+2020-04-03,JP Morgan,Neutral,,main,LYB
+2020-04-08,UBS,Neutral,,main,LYB
+2020-04-09,Citigroup,Buy,,main,LYB
+2020-04-16,Deutsche Bank,Hold,,main,LYB
+2020-04-16,Wells Fargo,Equal-Weight,Overweight,down,LYB
+2020-04-17,B of A Securities,Neutral,Buy,down,LYB
+2020-05-04,B of A Securities,Underperform,Neutral,down,LYB
+2020-05-04,ScotiaBank,Sector Perform,Sector Outperform,down,LYB
+2020-05-04,JP Morgan,Neutral,,main,LYB
+2020-05-05,RBC Capital,Sector Perform,,main,LYB
+2020-05-06,SunTrust Robinson Humphrey,Hold,,main,LYB
+2020-05-26,Deutsche Bank,Buy,Hold,up,LYB
+2020-06-25,Jefferies,Buy,,main,LYB
+2020-07-09,UBS,Neutral,,main,LYB
+2020-08-03,RBC Capital,Sector Perform,,main,LYB
+2020-08-04,B of A Securities,Neutral,Underperform,up,LYB
+2020-08-06,BMO Capital,Market Perform,,main,LYB
+2020-09-10,B of A Securities,Neutral,,main,LYB
+2020-09-11,JP Morgan,Overweight,Neutral,up,LYB
+2020-09-16,HSBC,Hold,Buy,down,LYB
+2020-09-22,Evercore ISI Group,Outperform,,init,LYB
+2020-09-30,Morgan Stanley,Overweight,,main,LYB
+2020-10-06,Wells Fargo,Equal-Weight,,main,LYB
+2020-10-06,UBS,Neutral,,main,LYB
+2020-11-13,Bernstein,Market Perform,Outperform,down,LYB
+2020-11-13,Deutsche Bank,Hold,Buy,down,LYB
+2020-11-30,B of A Securities,Neutral,,main,LYB
+2020-12-14,Morgan Stanley,Overweight,,main,LYB
+2021-01-06,Exane BNP Paribas,Underperform,Neutral,down,LYB
+2021-02-02,Argus Research,Buy,Hold,up,LYB
+2021-03-02,Wells Fargo,Overweight,Equal-Weight,up,LYB
+2021-03-18,Deutsche Bank,Hold,,main,LYB
+2021-04-08,Morgan Stanley,Overweight,,main,LYB
+2021-05-11,Goldman Sachs,Neutral,Buy,down,LYB
+2021-06-03,JP Morgan,Overweight,,main,LYB
+2021-06-04,Deutsche Bank,Hold,,main,LYB
+2021-06-10,Wolfe Research,Peer Perform,,init,LYB
+2021-06-17,Wells Fargo,Overweight,,main,LYB
+2021-07-16,B of A Securities,Neutral,Buy,down,LYB
+2021-07-27,RBC Capital,Sector Perform,,main,LYB
+2021-08-02,Deutsche Bank,Hold,,main,LYB
+2021-09-14,Piper Sandler,Overweight,,init,LYB
+2021-10-05,Redburn Partners,Buy,,init,LYB
+2021-10-12,Wells Fargo,Overweight,,main,LYB
+2021-10-13,Mizuho,Buy,,init,LYB
+2021-11-01,JP Morgan,Overweight,,main,LYB
+2021-11-02,Wells Fargo,Overweight,,main,LYB
+2021-11-03,RBC Capital,Sector Perform,,main,LYB
+2021-12-10,HSBC,Buy,Hold,up,LYB
+2021-12-15,Goldman Sachs,Neutral,,main,LYB
+2022-01-04,UBS,Neutral,,main,LYB

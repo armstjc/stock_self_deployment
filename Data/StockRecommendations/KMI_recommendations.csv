@@ -1,0 +1,141 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Deutsche Bank,Buy,,up,KMI
+2012-02-27,Deutsche Bank,Buy,,main,KMI
+2012-03-19,Credit Suisse,Neutral,,main,KMI
+2012-03-20,Bank oferica,Underperform,,down,KMI
+2012-04-03,Deutsche Bank,Buy,,main,KMI
+2012-05-09,Tudor Pickering,Accumulate,,up,KMI
+2012-07-13,Citigroup,Buy,Neutral,up,KMI
+2012-08-16,JP Morgan,Overweight,Neutral,up,KMI
+2012-09-12,Bank of America,Neutral,Underperform,up,KMI
+2012-09-26,JP Morgan,Overweight,,main,KMI
+2012-10-17,Citigroup,Buy,,main,KMI
+2012-12-06,Citigroup,Buy,,main,KMI
+2013-01-11,Deutsche Bank,Buy,,main,KMI
+2013-01-17,Credit Suisse,Outperform,,main,KMI
+2013-01-22,Tudor Pickering,Hold,Accumulate,down,KMI
+2013-01-31,Morgan Stanley,Equal-Weight,Overweight,down,KMI
+2013-09-04,Jefferies,Hold,,init,KMI
+2014-03-27,JP Morgan,Overweight,,main,KMI
+2014-04-17,Barclays,Overweight,,main,KMI
+2014-05-15,Goldman Sachs,Conviction Buy,Buy,up,KMI
+2014-06-20,UBS,Buy,,init,KMI
+2014-07-17,Barclays,Overweight,,main,KMI
+2014-07-18,Raymond James,Outperform,,main,KMI
+2014-08-07,Jefferies,Hold,,main,KMI
+2014-08-11,Bank of America,Buy,Neutral,up,KMI
+2014-08-12,Credit Suisse,Outperform,,main,KMI
+2014-10-02,JP Morgan,Overweight,,main,KMI
+2015-01-09,Jefferies,Hold,,main,KMI
+2015-01-13,Citigroup,Neutral,,main,KMI
+2015-03-23,Argus,Buy,,init,KMI
+2015-04-01,Stifel Nicolaus,Buy,,init,KMI
+2015-04-06,JP Morgan,Overweight,,main,KMI
+2015-04-08,Goldman Sachs,Buy,,main,KMI
+2015-05-19,Deutsche Bank,Buy,,init,KMI
+2015-06-16,SunTrust Robinson Humphrey,Buy,,init,KMI
+2015-07-14,Barclays,Overweight,,main,KMI
+2015-07-29,Stifel Nicolaus,Buy,,main,KMI
+2015-08-20,Jefferies,Hold,,main,KMI
+2015-09-28,Bank of America,Buy,,main,KMI
+2015-10-20,Deutsche Bank,Buy,,main,KMI
+2015-10-22,Barclays,Overweight,,main,KMI
+2015-10-22,Stifel Nicolaus,Hold,Buy,down,KMI
+2015-10-22,Credit Suisse,Neutral,Outperform,down,KMI
+2015-11-16,Deutsche Bank,Buy,,main,KMI
+2015-11-18,Deutsche Bank,Buy,,main,KMI
+2015-12-03,Argus,Hold,Buy,down,KMI
+2015-12-07,Credit Suisse,Neutral,,main,KMI
+2015-12-07,Barclays,Overweight,,main,KMI
+2015-12-09,Deutsche Bank,Buy,,main,KMI
+2015-12-09,RBC Capital,Sector Perform,Outperform,down,KMI
+2015-12-09,Credit Suisse,Neutral,,main,KMI
+2016-01-14,Jefferies,Hold,,main,KMI
+2016-01-21,SunTrust Robinson Humphrey,Buy,,main,KMI
+2016-01-28,Credit Suisse,Outperform,Neutral,up,KMI
+2016-01-28,Stifel Nicolaus,Buy,Hold,up,KMI
+2016-03-17,Credit Suisse,Neutral,Outperform,down,KMI
+2016-04-08,Barclays,Overweight,,main,KMI
+2016-04-19,BMO Capital,Market Perform,,init,KMI
+2016-05-11,Bernstein,Market Perform,,init,KMI
+2016-07-18,Barclays,Overweight,,main,KMI
+2016-07-19,Citigroup,Neutral,,main,KMI
+2016-08-18,Morgan Stanley,Overweight,Equal-Weight,up,KMI
+2016-09-12,UBS,Buy,,main,KMI
+2016-10-04,Stifel Nicolaus,Hold,Buy,down,KMI
+2016-10-20,Wolfe Research,Outperform,Peer Perform,up,KMI
+2016-10-20,Stifel Nicolaus,Buy,Hold,up,KMI
+2016-10-20,Credit Suisse,Outperform,Neutral,up,KMI
+2016-10-24,BMO Capital,Outperform,Market Perform,up,KMI
+2017-07-27,Mizuho,Neutral,,init,KMI
+2017-10-17,Citigroup,Neutral,,main,KMI
+2017-10-17,Goldman Sachs,Neutral,Buy,down,KMI
+2017-11-17,Morgan Stanley,Overweight,,main,KMI
+2018-01-05,Credit Suisse,Outperform,,init,KMI
+2018-01-11,Wells Fargo,Market Perform,Outperform,down,KMI
+2018-01-29,Argus,Buy,Hold,up,KMI
+2018-02-09,Morgan Stanley,Overweight,Overweight,main,KMI
+2018-02-12,JP Morgan,Overweight,Overweight,main,KMI
+2018-03-02,UBS,Buy,Buy,main,KMI
+2018-03-21,Bank of America,Buy,Neutral,up,KMI
+2018-04-17,Barclays,Overweight,Overweight,main,KMI
+2018-04-20,Deutsche Bank,Buy,,init,KMI
+2018-04-30,Stifel Nicolaus,Buy,Buy,main,KMI
+2018-05-30,Morgan Stanley,Overweight,Overweight,main,KMI
+2018-06-18,Wells Fargo,Outperform,Market Perform,up,KMI
+2018-06-26,Bernstein,Outperform,Market Perform,up,KMI
+2018-07-20,Citigroup,Buy,Buy,main,KMI
+2018-07-27,JP Morgan,Overweight,Overweight,main,KMI
+2018-08-01,Stifel Nicolaus,Buy,Buy,main,KMI
+2018-10-09,Goldman Sachs,Buy,,init,KMI
+2018-10-11,Credit Suisse,Outperform,,init,KMI
+2018-10-12,Barclays,Overweight,Overweight,main,KMI
+2018-11-26,Wolfe Research,Underperform,Peer Perform,down,KMI
+2018-11-29,Mizuho,Buy,,init,KMI
+2018-12-20,Jefferies,Buy,Hold,up,KMI
+2019-03-22,JP Morgan,Neutral,Overweight,down,KMI
+2019-03-27,Citigroup,Neutral,Buy,down,KMI
+2019-04-01,Jefferies,Hold,Buy,down,KMI
+2019-04-16,Raymond James,Outperform,Strong Buy,down,KMI
+2019-06-17,Stifel Nicolaus,Hold,Buy,down,KMI
+2019-06-26,Raymond James,Market Perform,Outperform,down,KMI
+2019-07-30,BMO Capital,Market Perform,Outperform,down,KMI
+2019-08-22,Wolfe Research,Peer Perform,Underperform,up,KMI
+2019-09-03,Scotiabank,Sector Perform,,init,KMI
+2019-09-10,Argus Research,Hold,Buy,down,KMI
+2019-10-02,TD Securities,Buy,,init,KMI
+2019-10-17,SunTrust Robinson Humphrey,Buy,,main,KMI
+2019-10-25,Goldman Sachs,Neutral,Buy,down,KMI
+2019-11-13,Barclays,Overweight,,main,KMI
+2019-12-18,PiperJaffray,Neutral,,init,KMI
+2020-01-06,Morgan Stanley,Underweight,,init,KMI
+2020-01-14,Barclays,Equal-Weight,Overweight,down,KMI
+2020-03-11,B of A Securities,Buy,Neutral,up,KMI
+2020-03-12,Raymond James,Outperform,Market Perform,up,KMI
+2020-03-16,Morgan Stanley,Equal-Weight,Underweight,up,KMI
+2020-03-24,Barclays,Overweight,Equal-Weight,up,KMI
+2020-04-07,Mizuho,Buy,,main,KMI
+2020-04-14,Wells Fargo,Overweight,,main,KMI
+2020-04-23,Raymond James,Outperform,,main,KMI
+2020-04-24,Piper Sandler,Neutral,,main,KMI
+2020-04-24,CFRA,Buy,,main,KMI
+2020-05-20,Citigroup,Neutral,,main,KMI
+2020-06-01,Morgan Stanley,Equal-Weight,,main,KMI
+2020-07-07,Goldman Sachs,Sell,Neutral,down,KMI
+2020-08-10,Stifel,Buy,,main,KMI
+2020-09-25,Morgan Stanley,Equal-Weight,,main,KMI
+2020-10-09,Piper Sandler,Neutral,,main,KMI
+2020-10-15,Goldman Sachs,Neutral,Sell,up,KMI
+2020-10-20,Raymond James,Outperform,,main,KMI
+2020-10-27,Credit Suisse,Outperform,,main,KMI
+2020-12-03,SMBC Nikko,Outperform,,init,KMI
+2020-12-17,Credit Suisse,Neutral,Outperform,down,KMI
+2021-01-11,Raymond James,Market Perform,Outperform,down,KMI
+2021-01-12,Barclays,Equal-Weight,Overweight,down,KMI
+2021-03-09,Bernstein,Market Perform,Outperform,down,KMI
+2021-03-22,Morgan Stanley,Equal-Weight,,main,KMI
+2021-05-13,Wells Fargo,Underweight,Equal-Weight,down,KMI
+2021-05-26,Morgan Stanley,Underweight,Equal-Weight,down,KMI
+2021-05-27,Credit Suisse,Neutral,,main,KMI
+2021-06-14,Goldman Sachs,Sell,Neutral,down,KMI
+2021-06-16,Stifel,Hold,Buy,down,KMI

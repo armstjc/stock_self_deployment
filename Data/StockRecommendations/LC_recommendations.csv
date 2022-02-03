@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-15,Canaccord Genuity,Hold,Buy,down,LC
+2014-12-17,Compass Point,Outperform,,init,LC
+2015-01-20,Morgan Stanley,Equal-Weight,,init,LC
+2015-01-20,Stifel Nicolaus,Hold,,init,LC
+2015-01-20,BMO Capital,Outperform,,init,LC
+2015-01-20,Goldman Sachs,Neutral,,init,LC
+2015-01-20,Citigroup,Neutral,,init,LC
+2015-03-27,Portales Partners,Underperform,,init,LC
+2015-03-30,Pacific Crest,Sector Perform,,init,LC
+2015-04-14,Sterne Agee,Neutral,Underperform,up,LC
+2015-05-19,Morgan Stanley,Overweight,Equal-Weight,up,LC
+2015-06-08,KeyBanc,Overweight,Sector Weight,up,LC
+2015-06-10,Stifel Nicolaus,Buy,Hold,up,LC
+2015-07-31,Canaccord Genuity,Buy,,init,LC
+2015-08-12,Keefe Bruyette & Woods,Market Perform,,init,LC
+2015-11-18,Sterne Agee CRT,Buy,Neutral,up,LC
+2016-01-21,Pacific Crest,Overweight,,main,LC
+2016-02-12,FBR Capital,Outperform,,main,LC
+2016-02-25,Sterne Agee CRT,Neutral,Buy,down,LC
+2016-03-09,Craig-Hallum,Buy,,init,LC
+2016-04-15,Raymond James,Market Perform,,init,LC
+2016-05-05,Pacific Crest,Overweight,,main,LC
+2016-05-10,Pacific Crest,Sector Weight,Overweight,down,LC
+2016-05-10,Guggenheim,Neutral,Buy,down,LC
+2016-05-11,Keefe Bruyette & Woods,Underperform,Market Perform,down,LC
+2016-05-18,Goldman Sachs,Neutral,,main,LC
+2016-05-26,Macquarie,Neutral,,init,LC
+2016-06-08,Keefe Bruyette & Woods,Market Perform,Underperform,up,LC
+2016-06-29,Goldman Sachs,Neutral,,main,LC
+2016-08-04,Oppenheimer,Perform,,init,LC
+2016-08-09,Credit Suisse,Neutral,,main,LC
+2016-08-09,Citigroup,Neutral,,main,LC
+2016-10-10,Wedbush,Underperform,,init,LC
+2016-10-11,Wedbush,Underperform,,init,LC
+2016-10-28,Craig-Hallum,Buy,Hold,up,LC
+2016-11-03,Morgan Stanley,Overweight,Equal-Weight,up,LC
+2016-12-06,Janney Capital,Neutral,,init,LC
+2017-03-16,Guggenheim,Buy,Neutral,up,LC
+2017-08-03,Oppenheimer,Outperform,Perform,up,LC
+2017-11-01,Needham,Buy,,init,LC
+2017-11-07,Maxim Group,Buy,,init,LC
+2017-11-08,Morgan Stanley,Overweight,,main,LC
+2017-11-08,Credit Suisse,Neutral,,main,LC
+2017-11-08,Oppenheimer,Outperform,,main,LC
+2017-11-08,Canaccord Genuity,Buy,,main,LC
+2017-12-08,Compass Point,Neutral,Sell,up,LC
+2018-02-21,Credit Suisse,Neutral,Neutral,main,LC
+2018-02-22,Citigroup,Neutral,Neutral,main,LC
+2018-02-23,Guggenheim,Neutral,Buy,down,LC
+2018-03-28,UBS,Neutral,,init,LC
+2018-05-09,Credit Suisse,Neutral,Neutral,main,LC
+2018-07-19,Morgan Stanley,Equal-Weight,Overweight,down,LC
+2018-07-30,Citigroup,Neutral,Neutral,main,LC
+2018-08-08,Citigroup,Neutral,Neutral,main,LC
+2019-05-08,Wedbush,Outperform,Neutral,up,LC
+2019-07-12,Morgan Stanley,Equal-Weight,,main,LC
+2019-10-14,BTIG,Buy,,main,LC
+2020-04-14,Morgan Stanley,Equal-Weight,,main,LC
+2020-05-06,Credit Suisse,Neutral,,main,LC
+2020-05-07,"Keefe, Bruyette & Woods",Market Perform,,main,LC
+2020-05-13,UBS,Neutral,,main,LC
+2020-07-10,Oppenheimer,Perform,Outperform,down,LC
+2020-11-05,UBS,Neutral,,main,LC
+2020-11-05,Morgan Stanley,Equal-Weight,,main,LC
+2020-11-05,Credit Suisse,Neutral,,main,LC
+2021-03-11,Credit Suisse,Neutral,,main,LC
+2021-04-29,Credit Suisse,Neutral,,main,LC
+2021-07-29,Credit Suisse,Neutral,,main,LC
+2021-08-20,Maxim Group,Buy,Hold,up,LC
+2021-10-28,Credit Suisse,Neutral,,main,LC
+2021-10-28,Compass Point,Buy,Neutral,up,LC
+2021-10-29,Compass Point,Buy,Neutral,up,LC

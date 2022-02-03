@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-12,Citigroup,Buy,,init,ATIP
+2021-07-15,Jefferies,Buy,,init,ATIP
+2021-07-27,Jefferies,Hold,Buy,down,ATIP
+2021-07-27,Citigroup,Neutral,Buy,down,ATIP
+2021-07-27,Benchmark,Hold,Buy,down,ATIP
+2021-07-27,Barrington Research,Market Perform,Outperform,down,ATIP

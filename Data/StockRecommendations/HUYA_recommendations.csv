@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-06-13,Needham,Buy,,init,HUYA
+2018-06-18,86 Research,Sell,,down,HUYA
+2018-08-03,Goldman Sachs,Neutral,,init,HUYA
+2018-10-29,Citigroup,Buy,,init,HUYA
+2018-11-13,Credit Suisse,Outperform,Neutral,up,HUYA
+2018-12-06,Goldman Sachs,Buy,Neutral,up,HUYA
+2019-01-14,Daiwa Capital,Neutral,,init,HUYA
+2019-05-08,UBS,Buy,Neutral,up,HUYA
+2019-05-14,Jefferies,Buy,,init,HUYA
+2019-05-28,JP Morgan,Overweight,Neutral,up,HUYA
+2019-05-30,Bank of America,Buy,,init,HUYA
+2019-07-02,86 Research,Buy,Hold,up,HUYA
+2019-07-08,Daiwa Capital,Outperform,Neutral,up,HUYA
+2019-07-09,CLSA,Outperform,Buy,down,HUYA
+2019-08-05,Jefferies,Buy,,init,HUYA
+2019-09-16,HSBC,Buy,,init,HUYA
+2019-12-02,Morgan Stanley,Equal-Weight,Overweight,down,HUYA
+2019-12-12,Needham,Buy,,init,HUYA
+2020-02-26,Goldman Sachs,Neutral,Buy,down,HUYA
+2020-03-18,UBS,Buy,,main,HUYA
+2020-05-21,Credit Suisse,Neutral,Outperform,down,HUYA
+2020-05-26,B of A Securities,Buy,,reit,HUYA
+2020-11-05,China Renaissance,Hold,Buy,down,HUYA
+2021-02-08,CLSA,Underperform,Outperform,down,HUYA
+2021-02-09,Daiwa Capital,Neutral,Outperform,down,HUYA
+2021-04-23,86 Research,Buy,Hold,up,HUYA
+2021-08-18,Needham,Buy,,main,HUYA

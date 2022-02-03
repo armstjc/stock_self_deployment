@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-05,UBS,Neutral,Buy,down,AU
+2013-01-24,CIBC,Sector Perform,Sector Outperform,down,AU
+2013-04-11,Societe Generale,Hold,Buy,down,AU
+2013-04-17,Deutsche Bank,Buy,Hold,up,AU
+2013-05-03,Goldman Sachs,Sell,,down,AU
+2013-06-13,Societe Generale,Sell,Hold,down,AU
+2013-06-14,UBS,Sell,Neutral,down,AU
+2013-07-15,BMO Capital,Underperform,Market Perform,down,AU
+2013-08-08,HSBC,Underweight,Neutral,down,AU
+2013-09-12,JP Morgan,Neutral,Underweight,up,AU
+2013-10-21,HSBC,Neutral,Underweight,up,AU
+2013-12-04,Goldman Sachs,Neutral,Sell,up,AU
+2014-02-11,BMO Capital,Market Perform,Underperform,up,AU
+2014-03-04,UBS,Sell,Neutral,down,AU
+2015-02-24,Goldman Sachs,Buy,Neutral,up,AU
+2016-01-15,Goldman Sachs,Buy,Neutral,up,AU
+2016-02-23,Citigroup,Neutral,Sell,up,AU
+2016-03-08,RBC Capital,Sector Perform,Outperform,down,AU
+2016-04-11,RBC Capital,Outperform,Sector Perform,up,AU
+2016-05-10,Citigroup,Sell,Neutral,down,AU
+2016-10-18,Gabelli & Co.,Buy,,init,AU
+2017-02-22,Citigroup,Sell,Neutral,down,AU
+2017-04-24,RBC Capital,Market Perform,Outperform,down,AU
+2017-11-07,HSBC,Buy,Hold,up,AU
+2017-11-13,RBC Capital,Outperform,Sector Perform,up,AU
+2018-11-06,Citigroup,Sell,Neutral,down,AU
+2018-12-10,BMO Capital,Market Perform,,init,AU
+2019-06-26,RBC Capital,Outperform,Sector Perform,up,AU
+2019-06-27,BMO Capital,Outperform,Market Perform,up,AU
+2019-09-12,JP Morgan,Overweight,,main,AU
+2020-02-06,UBS,Neutral,,init,AU
+2020-05-27,RBC Capital,Outperform,,reit,AU
+2020-12-08,BMO Capital,Outperform,Market Perform,up,AU
+2021-02-22,RBC Capital,Sector Perform,Outperform,down,AU
+2021-02-24,ScotiaBank,Sector Perform,,main,AU
+2021-03-08,HSBC,Hold,Reduce,up,AU
+2021-08-06,RBC Capital,Sector Perform,,main,AU
+2021-10-12,RBC Capital,Sector Perform,,main,AU

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-G220218C00050000,2021-12-29 20:23:27+00:00,50.0,4.5,3.2,3.7,0.0,0.0,2,5,0.8032246240234374,False,REGULAR,USD,G
+G220218C00050000,2021-12-29 20:23:27+00:00,50.0,4.5,3.2,3.7,0.0,0.0,2,5,0.8334977587890623,False,REGULAR,USD,G

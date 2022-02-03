@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AVID220715P00025000,2022-01-05 17:54:14+00:00,25.0,2.6,0.35,4.6,-0.5,-16.129034,,59,0.6337927246093751,False,REGULAR,USD,AVID

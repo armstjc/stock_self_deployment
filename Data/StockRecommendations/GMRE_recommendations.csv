@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-11,Compass Point,Buy,,init,GMRE
+2016-07-11,Wunderlich,Buy,,init,GMRE
+2016-07-11,BB&T Capital,Hold,,init,GMRE
+2016-07-25,Oppenheimer,Outperform,,init,GMRE
+2016-09-20,Compass Point,Neutral,Buy,down,GMRE
+2016-11-10,Wunderlich,Hold,Buy,down,GMRE
+2017-02-23,Janney Capital,Buy,,init,GMRE
+2017-08-22,DA Davidson,Neutral,Buy,down,GMRE
+2017-09-01,Cantor Fitzgerald,Overweight,,init,GMRE
+2017-09-18,FBR Capital,Buy,,main,GMRE
+2018-03-29,DA Davidson,Buy,Neutral,up,GMRE
+2018-05-10,B. Riley FBR,Buy,Buy,main,GMRE
+2018-10-11,Baird,Outperform,,init,GMRE
+2018-11-07,Boenning & Scattergood,Outperform,Neutral,up,GMRE
+2018-12-20,Janney Capital,Neutral,Buy,down,GMRE
+2019-04-15,Stifel Nicolaus,Buy,,init,GMRE
+2019-11-07,Stifel Nicolaus,Buy,,main,GMRE
+2019-12-17,Stifel Nicolaus,Buy,,main,GMRE
+2019-12-20,B. Riley,Buy,,main,GMRE
+2020-01-07,Janney Capital,Buy,Neutral,up,GMRE
+2020-03-05,Stifel,Buy,,main,GMRE
+2020-03-06,B. Riley,Neutral,Buy,down,GMRE
+2020-03-06,Baird,Outperform,,main,GMRE
+2020-03-18,B. Riley FBR,Buy,Neutral,up,GMRE
+2021-04-16,BMO Capital,Outperform,,init,GMRE
+2021-07-09,Colliers Securities,Buy,,init,GMRE
+2021-09-20,Keybanc,Overweight,,init,GMRE

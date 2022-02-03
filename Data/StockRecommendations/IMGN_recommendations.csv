@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-30,Oppenheimer,Outperform,,main,IMGN
+2012-08-06,JP Morgan,Neutral,,main,IMGN
+2012-08-22,Cowen & Co.,Outperform,,init,IMGN
+2012-08-24,Stifel Nicolaus,Hold,,init,IMGN
+2012-09-27,UBS,Sell,,init,IMGN
+2012-11-12,Credit Suisse,Neutral,,init,IMGN
+2012-11-13,Morgan Stanley,Equal-Weight,,init,IMGN
+2013-01-28,Oppenheimer,Perform,Outperform,down,IMGN
+2013-02-25,Jefferies,Buy,,main,IMGN
+2013-09-04,Leerink Swann,Outperform,,init,IMGN
+2013-09-30,Chardan Capital,Buy,,init,IMGN
+2013-11-05,Stifel,Sell,Hold,down,IMGN
+2013-11-11,Morgan Stanley,Underweight,Equal-weight,down,IMGN
+2014-04-16,Canaccord Genuity,Buy,,init,IMGN
+2014-06-11,UBS,Neutral,Sell,up,IMGN
+2014-06-25,Morgan Stanley,Underweight,,init,IMGN
+2014-08-04,UBS,Neutral,,main,IMGN
+2014-12-19,Jefferies,Hold,Buy,down,IMGN
+2014-12-22,JP Morgan,Neutral,,main,IMGN
+2015-02-06,Oppenheimer,Outperform,Market Perform,up,IMGN
+2015-03-31,Cantor Fitzgerald,Buy,Hold,up,IMGN
+2015-06-01,Morgan Stanley,Equal-Weight,Underweight,up,IMGN
+2015-08-03,Cantor Fitzgerald,Neutral,Buy,down,IMGN
+2015-09-21,Morgan Stanley,Underweight,Equal-Weight,down,IMGN
+2015-10-28,Leerink Swann,Market Perform,,main,IMGN
+2016-05-02,RBC Capital,Sector Perform,Outperform,down,IMGN
+2016-05-02,Leerink Swann,Market Perform,,main,IMGN
+2016-08-05,Jefferies,Buy,,main,IMGN
+2016-08-05,JP Morgan,Neutral,,main,IMGN
+2017-07-06,RBC Capital,Outperform,Sector Perform,up,IMGN
+2017-07-10,Morgan Stanley,Underweight,,main,IMGN
+2017-08-31,Canaccord Genuity,Buy,,main,IMGN
+2018-01-31,H.C. Wainwright,Buy,,init,IMGN
+2019-03-04,H.C. Wainwright,Neutral,Buy,down,IMGN
+2019-03-05,Morgan Stanley,Equal-Weight,Underweight,up,IMGN
+2019-03-19,JP Morgan,Underweight,Neutral,down,IMGN
+2019-05-06,Cowen & Co.,Outperform,Market Perform,up,IMGN
+2020-10-02,Guggenheim,Buy,Neutral,up,IMGN
+2020-10-06,SVB Leerink,Market Perform,,main,IMGN
+2020-11-06,SVB Leerink,Market Perform,,main,IMGN
+2021-10-29,SVB Leerink,Market Perform,,main,IMGN
+2021-12-01,Jefferies,Buy,Hold,up,IMGN

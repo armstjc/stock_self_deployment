@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+DGLY220819C00007500,2021-12-23 18:36:22+00:00,7.5,0.05,0.0,0.3,0.0,0.0,2,2,2.031254921875,False,REGULAR,USD,DGLY

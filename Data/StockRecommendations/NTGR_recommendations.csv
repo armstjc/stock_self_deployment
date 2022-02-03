@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Deutsche Bank,Hold,,down,NTGR
+2012-04-26,Goldman Sachs,Neutral,,main,NTGR
+2012-04-26,BWS Financial,Strong Buy,,up,NTGR
+2012-07-03,Barclays,Overweight,Equal-Weight,up,NTGR
+2012-09-21,Sterne Agee,Neutral,,init,NTGR
+2013-01-29,RBC Capital,Sector Perform,Outperform,down,NTGR
+2013-01-31,Barclays,Equal-Weight,Overweight,down,NTGR
+2013-02-15,Sterne Agee,Buy,Neutral,up,NTGR
+2013-04-08,Wedbush,Neutral,,main,NTGR
+2013-06-21,Wedbush,Outperform,Neutral,up,NTGR
+2013-06-26,Goldman Sachs,Sell,Neutral,down,NTGR
+2013-07-26,RBC Capital,Underperform,Sector Perform,down,NTGR
+2013-09-27,Raymond James,Outperform,,init,NTGR
+2013-10-25,Wedbush,Neutral,Outperform,down,NTGR
+2013-11-08,BWS Financial,Buy,Strong Buy,down,NTGR
+2013-11-11,RBC Capital,Sector Perform,Underperform,up,NTGR
+2014-04-04,Northland Securities,Market Perform,,init,NTGR
+2014-07-25,Raymond James,Market Perform,Outperform,down,NTGR
+2014-07-30,Pacific Crest,Sector Perform,,init,NTGR
+2014-10-23,Buckingham Research,Neutral,,init,NTGR
+2015-03-09,Goldman Sachs,Neutral,Sell,up,NTGR
+2015-03-12,Raymond James,Underperform,Market Perform,down,NTGR
+2015-10-23,Raymond James,Outperform,Underperform,up,NTGR
+2015-10-27,Rosenblatt,Buy,,up,NTGR
+2015-11-17,RBC Capital,Sector Perform,,main,NTGR
+2016-04-05,Sterne Agee CRT,Neutral,,init,NTGR
+2016-06-08,Wunderlich,Buy,,init,NTGR
+2016-07-12,Rosenblatt,Neutral,Buy,down,NTGR
+2016-10-03,BWS Financial,Hold,Buy,down,NTGR
+2017-01-04,Guggenheim,Buy,,init,NTGR
+2017-02-08,Raymond James,Market Perform,Outperform,down,NTGR
+2017-12-18,Raymond James,Outperform,Market Perform,up,NTGR
+2018-10-01,Cowen & Co.,Market Perform,,init,NTGR
+2019-06-19,Guggenheim,Buy,,init,NTGR
+2019-06-28,Deutsche Bank,Hold,,init,NTGR
+2019-10-24,Raymond James,Outperform,,main,NTGR
+2020-02-07,BWS Financial,Neutral,,down,NTGR
+2020-07-23,Raymond James,Outperform,,main,NTGR
+2020-07-23,BWS Financial,Buy,,main,NTGR
+2020-10-22,Raymond James,Outperform,,main,NTGR
+2020-12-11,Raymond James,Outperform,,main,NTGR
+2021-02-04,Raymond James,Outperform,,main,NTGR
+2021-02-04,BWS Financial,Buy,,main,NTGR
+2021-04-22,Raymond James,Outperform,,main,NTGR
+2021-07-22,Raymond James,Outperform,,main,NTGR
+2021-07-22,BWS Financial,Buy,,main,NTGR
+2021-10-28,Raymond James,Outperform,,main,NTGR
+2021-10-28,BWS Financial,Neutral,Buy,down,NTGR
+2022-01-04,Raymond James,Outperform,,main,NTGR

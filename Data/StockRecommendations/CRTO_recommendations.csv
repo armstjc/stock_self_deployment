@@ -1,0 +1,101 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-11-25,William Blair,Outperform,,init,CRTO
+2013-11-25,Deutsche Bank,Buy,,init,CRTO
+2013-11-25,JP Morgan,Overweight,,init,CRTO
+2013-11-25,Jefferies,Buy,,init,CRTO
+2014-02-12,Stifel Nicolaus,Buy,,main,CRTO
+2014-04-28,Goldman Sachs,Neutral,,init,CRTO
+2014-07-02,Exane BNP Paribas,Outperform,,init,CRTO
+2014-08-06,JP Morgan,Overweight,,main,CRTO
+2014-08-06,Deutsche Bank,Buy,,main,CRTO
+2015-02-19,Deutsche Bank,Buy,,main,CRTO
+2015-04-21,Raymond James,Outperform,,init,CRTO
+2015-05-13,Evercore ISI Group,Hold,,init,CRTO
+2015-06-10,JP Morgan,Overweight,,main,CRTO
+2015-06-25,Cowen & Co.,Outperform,,init,CRTO
+2015-07-01,KeyBanc,Overweight,,main,CRTO
+2015-07-01,Pacific Crest,Overweight,,main,CRTO
+2015-07-13,RBC Capital,Outperform,,init,CRTO
+2015-08-10,Susquehanna,Positive,,init,CRTO
+2015-12-22,SunTrust Robinson Humphrey,Buy,,init,CRTO
+2016-01-05,Pacific Crest,Overweight,,main,CRTO
+2016-01-26,Morgan Stanley,Equal-Weight,,init,CRTO
+2016-02-05,Boenning & Scattergood,Outperform,,init,CRTO
+2016-04-11,Citigroup,Buy,,init,CRTO
+2016-08-04,Jefferies,Buy,,main,CRTO
+2016-08-04,Citigroup,Buy,,main,CRTO
+2016-09-06,Susquehanna,Neutral,Positive,down,CRTO
+2016-10-18,Berenberg,Buy,,init,CRTO
+2017-03-29,Goldman Sachs,Neutral,,down,CRTO
+2017-04-24,Raymond James,Market Perform,Outperform,down,CRTO
+2017-08-01,BMO Capital,Outperform,,init,CRTO
+2017-08-03,Deutsche Bank,Buy,,main,CRTO
+2017-10-02,Morgan Stanley,Equal-Weight,,main,CRTO
+2017-10-24,KeyBanc,Sector Weight,Overweight,down,CRTO
+2017-10-30,BMO Capital,Outperform,,main,CRTO
+2017-11-02,BMO Capital,Outperform,,main,CRTO
+2017-11-02,Citigroup,Buy,,main,CRTO
+2017-11-02,Jefferies,Hold,Buy,down,CRTO
+2017-11-02,Cowen & Co.,Market Perform,Outperform,down,CRTO
+2017-12-15,Citigroup,Neutral,Buy,down,CRTO
+2017-12-15,JMP Securities,Market Perform,Outperform,down,CRTO
+2017-12-15,Macquarie,Outperform,Neutral,up,CRTO
+2018-01-23,BMO Capital,Market Perform,Outperform,down,CRTO
+2018-02-15,JP Morgan,Overweight,Overweight,main,CRTO
+2018-02-15,BMO Capital,Market Perform,Market Perform,main,CRTO
+2018-02-15,KeyBanc,Overweight,Sector Weight,up,CRTO
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,CRTO
+2018-02-21,Citigroup,Neutral,Neutral,main,CRTO
+2018-03-09,Citigroup,Neutral,Neutral,main,CRTO
+2018-06-25,Raymond James,Outperform,Market Perform,up,CRTO
+2018-07-09,Pivotal Research,Buy,,init,CRTO
+2018-07-09,Citigroup,Neutral,Neutral,main,CRTO
+2018-07-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,CRTO
+2018-07-11,Nomura,Neutral,,init,CRTO
+2018-08-02,BMO Capital,Market Perform,Market Perform,main,CRTO
+2018-08-02,JP Morgan,Neutral,Overweight,down,CRTO
+2018-08-02,KeyBanc,Overweight,Overweight,main,CRTO
+2018-08-02,Citigroup,Neutral,Neutral,main,CRTO
+2018-10-08,DA Davidson,Neutral,,init,CRTO
+2018-11-01,KeyBanc,Overweight,Overweight,main,CRTO
+2018-11-01,BMO Capital,Market Perform,Market Perform,main,CRTO
+2018-11-01,Citigroup,Neutral,Neutral,main,CRTO
+2018-11-01,Nomura,Neutral,Neutral,main,CRTO
+2019-01-04,Goldman Sachs,Sell,Neutral,down,CRTO
+2019-03-26,KeyBanc,Sector Weight,Overweight,down,CRTO
+2019-03-26,SunTrust Robinson Humphrey,Hold,Buy,down,CRTO
+2019-05-01,Macquarie,Neutral,Outperform,down,CRTO
+2019-10-31,JP Morgan,Underweight,Neutral,down,CRTO
+2020-02-12,Nomura,Neutral,,main,CRTO
+2020-02-12,Stifel Nicolaus,Hold,,main,CRTO
+2020-02-12,Rosenblatt,Neutral,,reit,CRTO
+2020-02-12,Societe Generale,Hold,Buy,down,CRTO
+2020-03-18,JP Morgan,Underweight,,main,CRTO
+2020-03-30,Morgan Stanley,Equal-Weight,,main,CRTO
+2020-03-30,BMO Capital,Outperform,Market Perform,up,CRTO
+2020-04-02,Citigroup,Buy,Neutral,up,CRTO
+2020-04-08,Societe Generale,Buy,Hold,up,CRTO
+2020-04-20,Nomura Instinet,Neutral,,main,CRTO
+2020-04-30,BMO Capital,Outperform,,main,CRTO
+2020-04-30,Nomura Instinet,Neutral,,main,CRTO
+2020-04-30,Susquehanna,Neutral,,main,CRTO
+2020-05-05,SunTrust Robinson Humphrey,Buy,,main,CRTO
+2020-06-24,BMO Capital,Market Perform,Outperform,down,CRTO
+2020-07-30,Citigroup,Buy,,main,CRTO
+2020-07-30,DA Davidson,Neutral,,main,CRTO
+2020-07-31,Morgan Stanley,Equal-Weight,,main,CRTO
+2020-08-18,Rosenblatt,Neutral,,main,CRTO
+2020-10-29,Raymond James,Outperform,,main,CRTO
+2020-10-29,BMO Capital,Outperform,Market Perform,up,CRTO
+2020-10-30,DA Davidson,Neutral,,main,CRTO
+2021-01-05,Morgan Stanley,Equal-Weight,,main,CRTO
+2021-02-11,Raymond James,Outperform,,main,CRTO
+2021-02-19,Berenberg,Buy,,main,CRTO
+2021-03-26,JMP Securities,Market Outperform,Market Perform,up,CRTO
+2021-03-30,Morgan Stanley,Equal-Weight,,main,CRTO
+2021-05-06,Rosenblatt,Buy,,main,CRTO
+2021-06-03,Stifel,Buy,Hold,up,CRTO
+2021-08-05,Rosenblatt,Buy,,main,CRTO
+2021-10-11,Morgan Stanley,Equal-Weight,,main,CRTO
+2021-11-04,Rosenblatt,Buy,,main,CRTO
+2021-11-05,DA Davidson,Neutral,,main,CRTO

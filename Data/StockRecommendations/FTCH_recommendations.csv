@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-01,Goldman Sachs,Buy,Neutral,up,FTCH
+2019-03-11,Oppenheimer,Outperform,,init,FTCH
+2019-06-12,KeyBanc,Overweight,,init,FTCH
+2019-07-17,BTIG Research,Buy,,init,FTCH
+2019-08-09,China Renaissance,Hold,Buy,down,FTCH
+2019-08-29,Bank of America,Buy,,reit,FTCH
+2019-11-15,KeyBanc,Overweight,,main,FTCH
+2019-11-15,UBS,Buy,,main,FTCH
+2019-11-15,Credit Suisse,Outperform,,main,FTCH
+2019-11-15,JP Morgan,Overweight,,main,FTCH
+2020-02-28,KeyBanc,Overweight,,main,FTCH
+2020-03-18,JP Morgan,Overweight,,main,FTCH
+2020-03-30,Wells Fargo,Underweight,Equal-Weight,down,FTCH
+2020-04-17,Credit Suisse,Outperform,,main,FTCH
+2020-04-21,UBS,Buy,,main,FTCH
+2020-05-12,Oppenheimer,Outperform,,main,FTCH
+2020-05-15,BTIG,Neutral,Buy,down,FTCH
+2020-05-15,Oppenheimer,Outperform,,main,FTCH
+2020-05-15,Deutsche Bank,Buy,,main,FTCH
+2020-05-15,Credit Suisse,Outperform,,main,FTCH
+2020-05-15,UBS,Buy,,main,FTCH
+2020-06-26,KeyBanc,Overweight,,main,FTCH
+2020-06-26,BTIG,Buy,Neutral,up,FTCH
+2020-06-26,Wells Fargo,Underweight,,main,FTCH
+2020-06-26,Credit Suisse,Outperform,,main,FTCH
+2020-07-09,China Renaissance,Buy,Hold,up,FTCH
+2020-07-21,B of A Securities,Buy,,main,FTCH
+2020-07-28,KeyBanc,Overweight,,main,FTCH
+2020-08-11,Credit Suisse,Outperform,,main,FTCH
+2020-08-14,KeyBanc,Overweight,,main,FTCH
+2020-08-14,Credit Suisse,Outperform,,main,FTCH
+2020-09-08,Bernstein,Market Perform,Underperform,up,FTCH
+2020-11-03,Goldman Sachs,Buy,,main,FTCH
+2020-11-06,Wells Fargo,Equal-Weight,Underweight,up,FTCH
+2020-11-09,KeyBanc,Overweight,,main,FTCH
+2020-11-11,Credit Suisse,Outperform,,main,FTCH
+2020-11-13,KeyBanc,Overweight,,main,FTCH
+2020-11-13,Credit Suisse,Outperform,,main,FTCH
+2020-11-17,Morgan Stanley,Overweight,,init,FTCH
+2020-11-25,B of A Securities,Buy,,main,FTCH
+2021-01-15,Morgan Stanley,Overweight,,main,FTCH
+2021-01-22,KeyBanc,Overweight,,main,FTCH
+2021-02-23,Credit Suisse,Outperform,,main,FTCH
+2021-02-26,Credit Suisse,Outperform,,main,FTCH
+2021-05-14,Credit Suisse,Outperform,,main,FTCH
+2021-08-20,Credit Suisse,Outperform,,main,FTCH
+2021-08-27,Wells Fargo,Overweight,Equal-Weight,up,FTCH
+2021-10-05,Wedbush,Neutral,,init,FTCH
+2021-11-16,Credit Suisse,Outperform,,main,FTCH
+2021-11-19,Keybanc,Overweight,,main,FTCH
+2021-11-19,Credit Suisse,Outperform,,main,FTCH
+2021-11-23,Guggenheim,Buy,,init,FTCH
+2021-12-10,Societe Generale,Sell,,init,FTCH

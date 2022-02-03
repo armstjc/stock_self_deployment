@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-15,Sandler O'Neill,Buy,,init,CHCT
+2015-06-15,SunTrust Robinson Humphrey,Buy,,init,CHCT
+2015-06-15,Janney Capital,Buy,,init,CHCT
+2015-06-17,Oppenheimer,Outperform,,init,CHCT
+2015-06-26,Evercore ISI Group,Buy,,init,CHCT
+2015-09-08,Evercore ISI Group,Buy,,main,CHCT
+2017-12-19,B. Riley FBR,Neutral,,init,CHCT
+2018-05-11,B. Riley FBR,Neutral,Neutral,main,CHCT
+2018-08-13,B. Riley FBR,Neutral,Neutral,main,CHCT
+2018-11-12,B. Riley FBR,Neutral,Neutral,main,CHCT
+2018-11-16,UBS,Sell,,init,CHCT
+2019-03-28,DA Davidson,Neutral,,init,CHCT
+2019-04-10,Baird,Outperform,,init,CHCT
+2019-04-23,Berenberg,Buy,,init,CHCT
+2019-07-10,Janney Capital,Neutral,Buy,down,CHCT
+2019-11-07,B. Riley,Neutral,,main,CHCT
+2019-11-18,Sandler O'Neill,Buy,Hold,up,CHCT
+2020-02-28,Baird,Outperform,,main,CHCT
+2020-03-06,B. Riley FBR,Neutral,,main,CHCT
+2020-03-20,B. Riley FBR,Buy,Neutral,up,CHCT
+2020-04-23,SunTrust Robinson Humphrey,Buy,,main,CHCT
+2020-05-07,B. Riley FBR,Neutral,Buy,down,CHCT
+2020-05-14,Piper Sandler,Overweight,,main,CHCT
+2020-06-08,Evercore ISI Group,In-Line,Outperform,down,CHCT
+2020-08-06,Piper Sandler,Overweight,,main,CHCT
+2020-11-25,Evercore ISI Group,Outperform,In-Line,up,CHCT

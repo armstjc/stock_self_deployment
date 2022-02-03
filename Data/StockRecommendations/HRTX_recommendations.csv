@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-08-07,Noble Financial,Buy,,init,HRTX
+2015-03-18,Leerink Swann,Outperform,,main,HRTX
+2015-03-20,Jefferies,Buy,,init,HRTX
+2015-05-29,JMP Securities,Market Outperform,,main,HRTX
+2015-06-01,Leerink Swann,Outperform,,main,HRTX
+2015-06-19,Leerink Swann,Outperform,,main,HRTX
+2015-06-26,Cowen & Co.,Outperform,,init,HRTX
+2015-06-30,JMP Securities,Market Outperform,,main,HRTX
+2015-08-19,JMP Securities,,Market Outperform,main,HRTX
+2015-09-02,Bank of America,Buy,,init,HRTX
+2015-09-23,Jefferies,Buy,,main,HRTX
+2015-09-23,JMP Securities,Market Outperform,,main,HRTX
+2015-09-23,Brean Capital,Buy,,main,HRTX
+2015-12-10,Lake Street,Buy,,init,HRTX
+2016-05-02,Cantor Fitzgerald,Buy,,init,HRTX
+2016-10-03,Jefferies,Buy,,main,HRTX
+2016-10-26,Aegis Capital,Buy,,init,HRTX
+2017-02-27,Needham,Buy,,init,HRTX
+2017-09-27,Mizuho,Buy,,init,HRTX
+2017-09-27,Northland Securities,Outperform,,init,HRTX
+2017-10-31,Oppenheimer,Outperform,,init,HRTX
+2018-01-03,Leerink Swann,Outperform,,init,HRTX
+2018-06-21,Evercore ISI Group,Outperform,,main,HRTX
+2018-06-22,Oppenheimer,Outperform,Outperform,main,HRTX
+2018-07-19,Cantor Fitzgerald,Overweight,Overweight,main,HRTX
+2018-09-14,Stifel Nicolaus,Buy,,init,HRTX
+2019-10-03,JMP Securities,Market Outperform,,reit,HRTX
+2020-02-20,Needham,Buy,,main,HRTX
+2020-03-02,Needham,Buy,,main,HRTX
+2020-05-27,Guggenheim,Buy,,init,HRTX
+2020-12-02,SVB Leerink,Outperform,,main,HRTX

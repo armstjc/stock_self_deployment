@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-12,Credit Suisse,Outperform,,init,LEJU
+2014-05-21,JP Morgan,Overweight,,main,LEJU
+2014-08-21,Macquarie,Outperform,,main,LEJU
+2014-08-22,JP Morgan,Overweight,,main,LEJU
+2014-08-27,Goldman Sachs,Neutral,Buy,down,LEJU
+2015-03-26,JP Morgan,Overweight,,main,LEJU
+2015-05-20,CLSA,Underperform,Buy,down,LEJU
+2015-06-22,Barclays,Overweight,,init,LEJU
+2015-06-22,Macquarie,Outperform,,main,LEJU
+2015-11-04,UBS,Neutral,Buy,down,LEJU
+2015-11-17,Bank of America,Neutral,Buy,down,LEJU
+2016-02-23,JP Morgan,Underweight,Overweight,down,LEJU
+2016-08-26,CLSA,Sell,Underperform,down,LEJU
+2017-06-23,JP Morgan,Underweight,Neutral,down,LEJU
+2018-08-29,JP Morgan,Neutral,Underweight,up,LEJU

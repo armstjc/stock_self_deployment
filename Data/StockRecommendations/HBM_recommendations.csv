@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-07,Raymond James,Market Perform,,main,HBM
+2013-01-09,UBS,Neutral,Buy,down,HBM
+2013-06-10,Macquarie,Neutral,Outperform,down,HBM
+2013-06-10,National Bank Financial,Sector Perform,Outperform,down,HBM
+2013-06-26,Credit Suisse,Neutral,Outperform,down,HBM
+2013-07-03,Scotiabank,Sector Perform,,init,HBM
+2013-07-08,Dundee,Neutral,Buy,down,HBM
+2013-08-06,Raymond James,Market Perform,Outperform,down,HBM
+2014-02-10,Citigroup,Sector Perform,Outperform,down,HBM
+2014-02-11,Paradigm Capital,Hold,Buy,down,HBM
+2015-04-13,Bank of America,Buy,Neutral,up,HBM
+2015-05-11,Canaccord Genuity,Hold,Buy,down,HBM
+2015-06-03,Bank of America,Buy,Neutral,up,HBM
+2016-01-14,Barclays,Underweight,Overweight,down,HBM
+2016-07-28,Credit Suisse,Neutral,Outperform,down,HBM
+2016-08-02,BMO Capital,Market Perform,Outperform,down,HBM
+2016-09-29,BMO Capital,Outperform,Market Perform,up,HBM
+2017-02-02,BMO Capital,Market Perform,,init,HBM
+2017-09-11,Credit Suisse,Neutral,,main,HBM
+2017-10-02,BMO Capital,Market Perform,,main,HBM
+2018-10-10,Barclays,Overweight,,init,HBM
+2018-12-13,RBC Capital,Sector Perform,Outperform,down,HBM
+2019-01-09,BMO Capital,Outperform,,init,HBM
+2019-03-11,Credit Suisse,Outperform,Neutral,up,HBM
+2019-11-12,ScotiaBank,Sector Outperform,Sector Perform,down,HBM
+2020-01-23,CIBC,Outperformer,Neutral,up,HBM
+2021-03-31,RBC Capital,Outperform,Sector Perform,up,HBM

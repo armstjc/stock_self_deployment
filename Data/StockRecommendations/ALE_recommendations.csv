@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-05,Ladenburg Thalmann,Neutral,,init,ALE
+2012-05-03,Ladenburg Thalmann,Neutral,,main,ALE
+2012-08-02,DA Davidson,Neutral,,main,ALE
+2012-12-04,KeyBanc,Buy,,init,ALE
+2012-12-04,KeyBanc,Buy,,init,ALE
+2012-12-11,DA Davidson,Neutral,,main,ALE
+2013-01-04,DA Davidson,Buy,Neutral,up,ALE
+2013-01-04,DA Davidson,Buy,Neutral,up,ALE
+2013-03-04,DA Davidson,Buy,,main,ALE
+2013-08-02,DA Davidson,Buy,,main,ALE
+2013-12-10,Wunderlich,Buy,,init,ALE
+2014-03-17,Wunderlich,Buy,,main,ALE
+2014-06-12,JP Morgan,Neutral,,init,ALE
+2015-01-12,JP Morgan,Neutral,,main,ALE
+2015-04-22,KeyBanc,Overweight,,main,ALE
+2015-05-08,Baird,Neutral,Outperform,down,ALE
+2015-06-09,KeyBanc,Overweight,,main,ALE
+2015-06-25,JP Morgan,Underweight,Neutral,down,ALE
+2015-10-15,Wells Fargo,Market Perform,,init,ALE
+2015-10-19,Wunderlich,Hold,,down,ALE
+2015-12-08,Wunderlich,Buy,Hold,up,ALE
+2016-03-29,William Blair,Hold,Buy,down,ALE
+2016-03-30,JP Morgan,Underweight,,main,ALE
+2016-11-04,Macquarie,Neutral,,init,ALE
+2017-10-12,JP Morgan,Underweight,,main,ALE
+2017-10-12,Williams Capital,Hold,Buy,down,ALE
+2017-10-19,KeyBanc,Sector Weight,Overweight,down,ALE
+2017-11-15,JP Morgan,Underweight,,main,ALE
+2018-01-25,JP Morgan,Underweight,Underweight,main,ALE
+2018-02-28,Mizuho,Buy,,init,ALE
+2018-03-16,JP Morgan,Underweight,Underweight,main,ALE
+2018-04-10,JP Morgan,Underweight,Underweight,main,ALE
+2018-05-07,Mizuho,Neutral,Buy,down,ALE
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,ALE
+2019-02-11,Mizuho,Underperform,Neutral,down,ALE
+2020-01-08,Guggenheim,Buy,Neutral,up,ALE
+2020-03-03,Mizuho,Neutral,Underperform,up,ALE
+2020-05-07,Wells Fargo,Equal-Weight,,main,ALE
+2020-06-01,JP Morgan,Underweight,,main,ALE
+2020-08-26,Mizuho,Neutral,,main,ALE
+2021-01-21,Guggenheim,Neutral,Buy,down,ALE
+2021-04-28,Wells Fargo,Equal-Weight,,main,ALE

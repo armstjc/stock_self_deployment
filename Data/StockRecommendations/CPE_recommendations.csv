@@ -1,0 +1,125 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-13,Global Hunter Securities,Accumulate,Buy,down,CPE
+2013-03-18,Global Hunter Securities,Neutral,Accumulate,down,CPE
+2013-03-18,Canaccord Genuity,Hold,,main,CPE
+2013-05-13,Capital One Financial,Neutral,Add,down,CPE
+2013-06-28,Sterne Agee,Buy,,init,CPE
+2013-07-18,Capital One Financial,Add,Neutral,up,CPE
+2013-09-09,Scotia Howard Weil,Sector Outperform,Sector Perform,up,CPE
+2013-10-15,Northland Securities,Market Perform,,init,CPE
+2013-10-16,Noble Financial,Buy,,init,CPE
+2013-10-22,Capital One Financial,Neutral,Add,down,CPE
+2014-01-08,Scotia Howard Weil,Sector Perform,Sector Outperform,down,CPE
+2014-02-04,SunTrust Robinson Humphrey,Neutral,Buy,down,CPE
+2014-03-20,Noble Financial,Hold,Buy,down,CPE
+2014-05-12,Canaccord Genuity,Hold,,main,CPE
+2014-05-12,Northland Securities,Outperform,Market Perform,up,CPE
+2014-05-13,Noble Financial,Buy,Hold,up,CPE
+2014-05-21,Capital One Financial,Equal-Weight,Underweight,up,CPE
+2014-05-30,Imperial Capital,Outperform,,init,CPE
+2014-07-01,Canaccord Genuity,Buy,,init,CPE
+2014-08-08,Brean Capital,Buy,,main,CPE
+2014-09-03,Capital One Financial,Overweight,Equal-Weight,up,CPE
+2014-09-03,Canaccord Genuity,Buy,,main,CPE
+2014-09-04,Imperial Capital,Outperform,,main,CPE
+2014-09-09,GMP Securities,Buy,,init,CPE
+2014-09-10,SunTrust Robinson Humphrey,Buy,Neutral,up,CPE
+2014-11-07,MLV & Co.,Buy,,main,CPE
+2014-11-10,SunTrust Robinson Humphrey,Neutral,Buy,down,CPE
+2014-11-14,Imperial Capital,Outperform,,main,CPE
+2014-12-02,Roth Capital,Buy,,init,CPE
+2014-12-04,Imperial Capital,Outperform,,main,CPE
+2015-02-09,Seaport Global,Accumulate,,up,CPE
+2015-03-06,SunTrust Robinson Humphrey,Neutral,,main,CPE
+2015-04-15,SunTrust Robinson Humphrey,Neutral,,main,CPE
+2015-04-20,SunTrust Robinson Humphrey,Buy,Neutral,up,CPE
+2015-04-29,MLV & Co.,Hold,Buy,down,CPE
+2015-06-24,SunTrust Robinson Humphrey,Buy,,main,CPE
+2015-06-25,Wunderlich,Buy,,init,CPE
+2015-06-26,Euro Pacific Capital,Buy,,init,CPE
+2015-07-13,Cowen & Co.,Outperform,,init,CPE
+2015-07-14,Cowen & Co.,Outperform,,init,CPE
+2015-09-08,Cowen & Co.,Market Perform,Outperform,down,CPE
+2015-09-21,RBC Capital,Sector Perform,,init,CPE
+2015-10-13,JP Morgan,Overweight,,init,CPE
+2015-10-20,Canaccord Genuity,Buy,,init,CPE
+2016-02-09,JP Morgan,Overweight,,main,CPE
+2016-02-09,Imperial Capital,Outperform,,main,CPE
+2016-03-15,JP Morgan,Overweight,,main,CPE
+2016-03-30,Seaport Global,Buy,Accumulate,up,CPE
+2016-04-18,Stephens & Co.,Overweight,,main,CPE
+2016-04-28,iBERIA Capital Partners,Outperform,,main,CPE
+2016-05-24,Credit Suisse,Outperform,,init,CPE
+2016-05-24,Credit Suisse,Outperform,,init,CPE
+2016-05-26,Wunderlich,Buy,,main,CPE
+2016-06-29,Citigroup,Neutral,,init,CPE
+2016-07-18,Citigroup,Neutral,,main,CPE
+2016-08-11,JP Morgan,Overweight,,main,CPE
+2016-08-11,Citigroup,Neutral,,main,CPE
+2016-08-22,KeyBanc,Overweight,,main,CPE
+2016-09-06,RBC Capital,Outperform,Sector Perform,up,CPE
+2016-09-22,BMO Capital,Outperform,,init,CPE
+2016-09-28,Evercore ISI Group,Buy,,init,CPE
+2016-10-06,Mizuho Securities,Neutral,,init,CPE
+2016-11-22,KeyBanc,Overweight,,main,CPE
+2016-11-28,Deutsche Bank,Buy,,init,CPE
+2017-03-09,Citigroup,Buy,Neutral,up,CPE
+2017-04-13,Stifel Nicolaus,Buy,,init,CPE
+2017-04-26,Barclays,Overweight,,init,CPE
+2017-06-21,Seaport Global,Neutral,Buy,down,CPE
+2017-07-13,Citigroup,Buy,,main,CPE
+2017-07-21,Citigroup,Buy,,main,CPE
+2017-08-15,Imperial Capital,Outperform,,init,CPE
+2017-10-10,Jefferies,Buy,,init,CPE
+2017-11-21,Mizuho,Buy,Neutral,up,CPE
+2017-12-12,Credit Suisse,Neutral,,init,CPE
+2018-01-03,Citigroup,Neutral,Buy,down,CPE
+2018-02-02,Deutsche Bank,Buy,,init,CPE
+2018-02-06,B. Riley FBR,Neutral,,init,CPE
+2018-04-23,KeyBanc,Overweight,Overweight,main,CPE
+2018-06-12,Stifel Nicolaus,Buy,Buy,main,CPE
+2018-08-29,Barclays,Overweight,,init,CPE
+2018-10-03,Oppenheimer,Outperform,,init,CPE
+2018-12-10,Seaport Global,Buy,Neutral,up,CPE
+2019-01-16,Barclays,Equal-Weight,Overweight,down,CPE
+2019-01-23,Citigroup,Buy,Neutral,up,CPE
+2019-03-20,Capital One Financial,Equal-Weight,Overweight,down,CPE
+2019-03-21,Morgan Stanley,Equal-Weight,,init,CPE
+2019-05-23,Capital One Financial,Overweight,Equal-Weight,up,CPE
+2019-07-01,Barclays,Overweight,Equal-Weight,up,CPE
+2019-07-15,Jefferies,Hold,Buy,down,CPE
+2019-08-30,Barclays,Overweight,,main,CPE
+2019-09-23,Citigroup,Buy,,main,CPE
+2019-10-04,Morgan Stanley,Equal-Weight,,main,CPE
+2019-11-19,Johnson Rice,Accumulate,Buy,down,CPE
+2019-12-23,Imperial Capital,Outperform,,main,CPE
+2020-01-23,Credit Suisse,Neutral,Outperform,down,CPE
+2020-02-05,Barclays,Equal-Weight,Overweight,down,CPE
+2020-03-09,SunTrust Robinson Humphrey,Hold,Buy,down,CPE
+2020-03-16,Morgan Stanley,Equal-Weight,,main,CPE
+2020-03-16,BMO Capital,Market Perform,Outperform,down,CPE
+2020-05-28,MKM Partners,Buy,,init,CPE
+2020-07-13,ScotiaBank,Sector Perform,,main,CPE
+2020-08-10,Morgan Stanley,Equal-Weight,,main,CPE
+2020-08-17,Barclays,Underweight,,main,CPE
+2020-08-21,Morgan Stanley,Equal-Weight,,main,CPE
+2020-09-25,Wells Fargo,Underweight,,init,CPE
+2020-10-19,Morgan Stanley,Equal-Weight,,main,CPE
+2020-11-17,Morgan Stanley,Equal-Weight,,main,CPE
+2021-03-02,MKM Partners,Neutral,Buy,down,CPE
+2021-03-09,Johnson Rice,Accumulate,Hold,up,CPE
+2021-03-11,Morgan Stanley,Equal-Weight,,main,CPE
+2021-05-19,Wells Fargo,Underweight,,main,CPE
+2021-05-19,Morgan Stanley,Equal-Weight,,main,CPE
+2021-06-10,RBC Capital,Sector Perform,Outperform,down,CPE
+2021-06-18,Morgan Stanley,Equal-Weight,,main,CPE
+2021-07-13,Wells Fargo,Underweight,,main,CPE
+2021-07-19,MKM Partners,Buy,Neutral,up,CPE
+2021-07-19,Morgan Stanley,Equal-Weight,,main,CPE
+2021-08-23,Morgan Stanley,Equal-Weight,,main,CPE
+2021-08-23,Wells Fargo,Underweight,,main,CPE
+2021-10-06,Morgan Stanley,Equal-Weight,,main,CPE
+2021-11-09,RBC Capital,Sector Perform,,main,CPE
+2021-11-19,Morgan Stanley,Equal-Weight,,main,CPE
+2021-11-19,Wells Fargo,Equal-Weight,Underweight,up,CPE
+2021-12-13,Morgan Stanley,Equal-Weight,,main,CPE

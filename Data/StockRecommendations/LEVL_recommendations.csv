@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-15,Raymond James,Outperform,,init,LEVL
+2018-05-15,Keefe Bruyette & Woods,Outperform,,init,LEVL
+2018-05-15,PiperJaffray,Neutral,,init,LEVL
+2019-06-07,Sandler O'Neill,Hold,,init,LEVL
+2019-07-31,Raymond James,Outperform,,main,LEVL
+2020-05-04,Piper Sandler,Neutral,,main,LEVL
+2021-01-07,Raymond James,Outperform,,main,LEVL
+2021-02-01,Raymond James,Strong Buy,Outperform,up,LEVL
+2021-03-18,Raymond James,Strong Buy,,reit,LEVL
+2021-11-01,Raymond James,Strong Buy,,main,LEVL
+2021-11-05,Raymond James,Outperform,Strong Buy,down,LEVL

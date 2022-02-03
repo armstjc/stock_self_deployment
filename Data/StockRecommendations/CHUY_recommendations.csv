@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-20,KeyBanc,Hold,,init,CHUY
+2012-08-20,Jefferies,Hold,,init,CHUY
+2012-08-20,Stephens & Co.,Overweight,,init,CHUY
+2013-01-14,Jefferies,Hold,,main,CHUY
+2013-02-05,Wedbush,Underperform,,init,CHUY
+2013-02-26,Jefferies,Hold,,main,CHUY
+2013-04-08,Jefferies,Hold,,main,CHUY
+2013-04-08,Wedbush,Underperform,,main,CHUY
+2013-06-24,Wedbush,Neutral,Underperform,up,CHUY
+2013-07-16,Stifel Nicolaus,Hold,,init,CHUY
+2013-07-16,Baird,Neutral,Outperform,down,CHUY
+2013-07-18,Wells Fargo,Market Perform,,init,CHUY
+2013-10-31,Raymond James,Market Perform,Underperform,down,CHUY
+2014-02-07,Longbow Research,Buy,,init,CHUY
+2014-05-07,Longbow Research,Buy,,main,CHUY
+2014-08-06,Jefferies,Buy,Hold,up,CHUY
+2014-08-11,Raymond James,Outperform,Market Perform,up,CHUY
+2014-09-15,KeyBanc,Buy,Hold,up,CHUY
+2014-10-10,BMO Capital,Market Perform,,init,CHUY
+2014-10-22,Stifel Nicolaus,Buy,Hold,up,CHUY
+2014-11-05,Wedbush,Neutral,,main,CHUY
+2014-11-05,Jefferies,Hold,Buy,down,CHUY
+2014-11-05,KeyBanc,Hold,Buy,down,CHUY
+2014-11-05,Baird,Neutral,Outperform,down,CHUY
+2014-11-05,Stifel Nicolaus,Buy,,main,CHUY
+2014-11-05,Longbow Research,Neutral,Buy,down,CHUY
+2014-12-23,Wunderlich,Hold,,init,CHUY
+2015-01-06,Jefferies,Hold,,main,CHUY
+2015-01-22,Wells Fargo,Outperform,Market Perform,up,CHUY
+2015-03-03,Wunderlich,Hold,,main,CHUY
+2015-05-05,Raymond James,Outperform,Market Perform,up,CHUY
+2015-08-05,Wunderlich,Buy,Hold,up,CHUY
+2015-08-05,Wedbush,Neutral,,main,CHUY
+2015-10-09,Wedbush,Outperform,Neutral,up,CHUY
+2016-01-29,Raymond James,Market Perform,Outperform,down,CHUY
+2016-07-26,Telsey Advisory Group,Market Perform,Outperform,down,CHUY
+2016-07-26,Stifel Nicolaus,Hold,Buy,down,CHUY
+2017-05-19,Wells Fargo,Perform,Outperform,down,CHUY
+2017-07-17,Raymond James,Outperform,Market Perform,up,CHUY
+2017-10-03,Stifel Nicolaus,Hold,,init,CHUY
+2017-11-03,Baird,Neutral,,main,CHUY
+2018-03-09,BMO Capital,Market Perform,Market Perform,main,CHUY
+2018-04-18,Stifel Nicolaus,Hold,Hold,main,CHUY
+2018-05-09,BMO Capital,Market Perform,Market Perform,main,CHUY
+2018-07-12,Stifel Nicolaus,Hold,Hold,main,CHUY
+2018-07-17,Raymond James,Market Perform,Outperform,down,CHUY
+2018-08-10,Wedbush,Neutral,Neutral,main,CHUY
+2018-09-12,Stephens & Co.,Equal-Weight,Overweight,down,CHUY
+2018-09-24,BMO Capital,Underperform,Market Perform,down,CHUY
+2018-10-01,Stifel Nicolaus,Hold,Hold,main,CHUY
+2019-08-09,BMO Capital,Underperform,,main,CHUY
+2019-11-22,Wedbush,Outperform,Neutral,up,CHUY
+2020-03-06,Wedbush,Outperform,,main,CHUY
+2020-03-06,Baird,Neutral,,main,CHUY
+2020-04-02,Raymond James,Outperform,Market Perform,up,CHUY
+2020-04-08,Wedbush,Outperform,,main,CHUY
+2020-04-15,Stifel,Hold,,main,CHUY
+2020-04-20,Raymond James,Outperform,,main,CHUY
+2020-04-22,Jefferies,Hold,,main,CHUY
+2020-04-23,BMO Capital,Market Perform,Underperform,up,CHUY
+2020-05-22,Wedbush,Outperform,,main,CHUY
+2020-05-22,Raymond James,Outperform,,reit,CHUY
+2020-07-29,Wedbush,Outperform,,main,CHUY
+2020-08-07,Raymond James,Outperform,,main,CHUY
+2020-08-07,Stephens & Co.,Overweight,,main,CHUY
+2020-09-01,Raymond James,Outperform,,main,CHUY
+2020-10-28,Wedbush,Outperform,,main,CHUY
+2020-11-06,Wedbush,Outperform,,main,CHUY
+2020-11-06,BMO Capital,Market Perform,,main,CHUY
+2020-11-06,Raymond James,Outperform,,main,CHUY
+2020-11-13,Wedbush,Outperform,,main,CHUY
+2020-11-16,BMO Capital,Outperform,Market Perform,up,CHUY
+2020-12-02,Raymond James,Outperform,,main,CHUY
+2021-01-06,Raymond James,Outperform,,main,CHUY
+2021-01-07,Stephens & Co.,Overweight,,main,CHUY
+2021-01-15,Stifel,Buy,Hold,up,CHUY
+2021-01-26,Raymond James,Outperform,,main,CHUY
+2021-02-09,Wedbush,Outperform,,main,CHUY
+2021-02-10,Raymond James,Market Perform,Outperform,down,CHUY
+2021-03-05,Stephens & Co.,Overweight,,main,CHUY
+2021-04-09,Stifel,Hold,Buy,down,CHUY
+2021-04-20,Stephens & Co.,Equal-Weight,Overweight,down,CHUY
+2021-04-26,Wedbush,Outperform,,main,CHUY
+2021-05-07,Wedbush,Outperform,,main,CHUY
+2021-08-25,Wedbush,Outperform,,main,CHUY
+2021-09-24,Jefferies,Buy,Hold,up,CHUY
+2021-10-19,Stephens & Co.,Equal-Weight,,main,CHUY
+2021-10-28,Wedbush,Outperform,,main,CHUY
+2021-11-05,Stephens & Co.,Equal-Weight,,main,CHUY
+2021-11-23,Benchmark,Hold,,init,CHUY

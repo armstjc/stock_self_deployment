@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-03-07,Aegis Capital,Buy,,init,CRBP
+2016-10-04,Cantor Fitzgerald,Buy,,init,CRBP
+2016-10-05,Cantor Fitzgerald,Buy,,init,CRBP
+2017-03-30,Cantor Fitzgerald,Overweight,,reit,CRBP
+2018-01-19,Raymond James,Outperform,,init,CRBP
+2018-09-14,Cantor Fitzgerald,Overweight,Overweight,main,CRBP
+2018-10-24,B. Riley FBR,Buy,,init,CRBP
+2018-12-07,RBC Capital,Outperform,,init,CRBP
+2018-12-26,H.C. Wainwright,Buy,,init,CRBP
+2019-03-19,Oppenheimer,Outperform,,init,CRBP
+2019-04-05,Jefferies,Buy,,init,CRBP
+2020-03-26,Nomura,Buy,,init,CRBP
+2020-06-04,Nomura Instinet,Buy,,main,CRBP
+2020-06-17,BTIG,Buy,,init,CRBP
+2020-09-08,RBC Capital,Sector Perform,Outperform,down,CRBP
+2020-09-08,BTIG,Neutral,Buy,down,CRBP
+2020-09-08,Roth Capital,Neutral,Buy,down,CRBP
+2020-09-09,HC Wainwright & Co.,Buy,,main,CRBP
+2020-10-08,HC Wainwright & Co.,Buy,,main,CRBP

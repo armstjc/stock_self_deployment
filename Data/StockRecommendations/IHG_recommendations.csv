@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,SunTrust Robinson Humphrey,Buy,,init,IHG
+2012-08-08,JP Morgan,Neutral,Overweight,down,IHG
+2012-08-08,Deutsche Bank,Hold,Buy,down,IHG
+2012-12-06,Credit Suisse,Neutral,Outperform,down,IHG
+2013-02-06,Baird,Neutral,Outperform,down,IHG
+2013-02-19,Numis Securities,Hold,Add,down,IHG
+2013-02-19,Investec,Hold,Buy,down,IHG
+2013-03-28,Investec,Buy,Hold,up,IHG
+2013-04-17,Barclays,Equal-Weight,Overweight,down,IHG
+2013-05-08,Numis Securities,Hold,Add,down,IHG
+2013-06-20,Oriel,Buy,Hold,up,IHG
+2013-07-01,Deutsche Bank,Buy,Hold,up,IHG
+2013-07-23,Exane BNP Paribas,Neutral,Outperform,down,IHG
+2013-08-06,Numis Securities,Add,Hold,up,IHG
+2014-01-09,Bank of America,Neutral,Buy,down,IHG
+2014-05-29,Societe Generale,Hold,Buy,down,IHG
+2015-02-27,Bank of America,Buy,Neutral,up,IHG
+2015-04-09,Jefferies,Hold,Underperform,up,IHG
+2015-06-23,Credit Suisse,Neutral,Underperform,up,IHG
+2015-07-01,MKM Partners,Buy,Neutral,up,IHG
+2015-07-24,Jefferies,Hold,,up,IHG
+2015-07-27,SunTrust Robinson Humphrey,Neutral,,main,IHG
+2015-08-28,Credit Suisse,Outperform,Neutral,up,IHG
+2016-01-04,Telsey Advisory Group,Market Perform,,init,IHG
+2016-01-12,Citigroup,Neutral,Buy,down,IHG
+2016-02-24,SunTrust Robinson Humphrey,Neutral,,main,IHG
+2016-03-07,Citigroup,Sell,Neutral,down,IHG
+2016-03-17,Morgan Stanley,Equal-Weight,Overweight,down,IHG
+2016-04-12,CLSA,Underperform,,init,IHG
+2016-04-14,JP Morgan,Underweight,Neutral,down,IHG
+2016-06-22,Goldman Sachs,Neutral,Buy,down,IHG
+2016-08-04,SunTrust Robinson Humphrey,Neutral,,main,IHG
+2016-09-26,Morgan Stanley,Underweight,Equal-Weight,down,IHG
+2016-12-05,MKM Partners,Neutral,Buy,down,IHG
+2017-01-03,Barclays,Overweight,Equal-Weight,up,IHG
+2017-06-19,Credit Suisse,Neutral,Outperform,down,IHG
+2017-10-20,Bank of America,Buy,,main,IHG
+2017-11-01,Credit Suisse,Outperform,Neutral,up,IHG
+2018-09-04,Raymond James,Underperform,Market Perform,down,IHG
+2019-01-10,UBS,Sell,Neutral,down,IHG
+2019-01-17,Berenberg,Buy,Hold,up,IHG
+2019-10-11,Deutsche Bank,Hold,,init,IHG
+2020-04-01,RBC Capital,Outperform,Sector Perform,up,IHG
+2020-10-20,JP Morgan,Neutral,Underweight,up,IHG
+2021-02-24,Deutsche Bank,Hold,Buy,down,IHG
+2021-03-04,JP Morgan,Underweight,Neutral,down,IHG
+2021-07-15,Deutsche Bank,Buy,Hold,up,IHG
+2021-09-17,Berenberg,Buy,Hold,up,IHG
+2022-01-05,UBS,Buy,Neutral,up,IHG

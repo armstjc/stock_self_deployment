@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-03-01,Raymond James,Outperform,,init,LPTX
+2017-03-07,Ladenburg Thalmann,Buy,,init,LPTX
+2018-04-12,H.C. Wainwright,Buy,,init,LPTX
+2018-12-19,Raymond James,Outperform,Outperform,main,LPTX
+2019-11-15,Raymond James,Market Perform,Outperform,down,LPTX
+2020-01-08,Raymond James,Outperform,Market Perform,up,LPTX
+2020-02-11,Baird,Outperform,,init,LPTX
+2020-03-17,H.C. Wainwright,Buy,,main,LPTX
+2020-05-19,HC Wainwright & Co.,Buy,,reit,LPTX
+2020-06-29,Piper Sandler,Overweight,,init,LPTX
+2020-08-17,HC Wainwright & Co.,Buy,,main,LPTX
+2021-03-02,Raymond James,Outperform,,main,LPTX
+2021-09-14,Raymond James,Outperform,,main,LPTX
+2021-10-04,Mizuho,Buy,,init,LPTX

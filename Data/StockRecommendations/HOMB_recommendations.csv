@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,Wunderlich,Buy,,main,HOMB
+2012-06-25,Stifel Nicolaus,Buy,,main,HOMB
+2012-07-19,Wunderlich,Buy,,main,HOMB
+2012-09-26,Stifel Nicolaus,Hold,Buy,down,HOMB
+2012-10-01,Wunderlich,Buy,,main,HOMB
+2012-12-12,BGB Securities,Hold,,init,HOMB
+2013-01-18,Wunderlich,Buy,,main,HOMB
+2013-03-12,Stephens & Co.,Overweight,Equal-Weight,up,HOMB
+2013-04-19,Wunderlich,Buy,,main,HOMB
+2013-05-29,Wunderlich,Hold,Buy,down,HOMB
+2013-06-26,Wunderlich,Buy,Hold,up,HOMB
+2013-06-26,Raymond James,Outperform,Market Perform,up,HOMB
+2013-07-19,Wunderlich,Buy,,main,HOMB
+2013-09-27,Wunderlich,Hold,Buy,down,HOMB
+2013-10-18,Raymond James,Market Perform,Outperform,down,HOMB
+2013-10-18,Wunderlich,Hold,,main,HOMB
+2013-10-23,Sterne Agee,Neutral,,init,HOMB
+2013-10-24,Sterne Agee,Neutral,,init,HOMB
+2014-02-14,Wunderlich,Buy,Hold,up,HOMB
+2014-04-21,Raymond James,Outperform,Market Perform,up,HOMB
+2014-05-16,Keefe Bruyette & Woods,Outperform,Market Perform,up,HOMB
+2014-05-16,Raymond James,Hold,,main,HOMB
+2014-07-18,Raymond James,Outperform,,main,HOMB
+2014-07-21,FIG Partners,Outperform,Market Perform,up,HOMB
+2015-03-02,Sandler O'Neill,Hold,Buy,down,HOMB
+2015-04-17,Wunderlich,Hold,Buy,down,HOMB
+2015-04-17,Keefe Bruyette & Woods,Outperform,,main,HOMB
+2015-06-05,Stephens & Co.,Overweight,,main,HOMB
+2015-06-18,Keefe Bruyette & Woods,Outperform,,main,HOMB
+2015-07-17,Keefe Bruyette & Woods,Market Perform,,main,HOMB
+2015-08-21,Keefe Bruyette & Woods,Outperform,,main,HOMB
+2016-01-08,Sandler O'Neill,Buy,Hold,up,HOMB
+2016-01-22,Merion Capital Group,Outperform,Neutral,up,HOMB
+2016-09-13,Sandler O'Neill,Hold,Buy,down,HOMB
+2016-11-10,Keefe Bruyette & Woods,Market Perform,Outperform,down,HOMB
+2016-11-11,Merion Capital,Neutral,Outperform,down,HOMB
+2017-05-15,Keefe Bruyette & Woods,Outperform,Market Perform,up,HOMB
+2017-10-20,Sandler O'Neill,Hold,Buy,down,HOMB
+2018-03-01,PiperJaffray,Overweight,Neutral,up,HOMB
+2018-04-20,Sandler O'Neill,Buy,Hold,up,HOMB
+2018-06-18,Citigroup,Buy,,init,HOMB
+2018-10-19,Citigroup,Buy,Buy,main,HOMB
+2019-10-18,Citigroup,Buy,,main,HOMB
+2020-01-17,Stephens & Co.,Overweight,,reit,HOMB
+2020-01-17,RBC Capital,Sector Perform,,main,HOMB
+2020-03-24,Citigroup,Neutral,,main,HOMB
+2020-04-17,Raymond James,Outperform,Market Perform,up,HOMB
+2020-06-18,Citigroup,Neutral,,main,HOMB
+2021-01-22,Raymond James,Outperform,,main,HOMB
+2021-04-16,Raymond James,Outperform,,main,HOMB
+2021-07-16,Raymond James,Market Perform,Outperform,down,HOMB
+2021-10-22,RBC Capital,Sector Perform,,main,HOMB

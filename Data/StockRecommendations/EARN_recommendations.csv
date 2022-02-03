@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-28,Deutsche Bank,Hold,,init,EARN
+2013-05-28,Credit Suisse,Neutral,,init,EARN
+2013-05-28,Citigroup,Neutral,,init,EARN
+2013-06-21,Deutsche Bank,Hold,,main,EARN
+2014-08-13,Deutsche Bank,Hold,,main,EARN
+2014-11-11,Deutsche Bank,Hold,,main,EARN
+2015-02-19,Deutsche Bank,Hold,,main,EARN
+2015-05-07,Deutsche Bank,Hold,,main,EARN
+2015-09-14,Citigroup,Neutral,,main,EARN
+2015-11-05,Deutsche Bank,Hold,,main,EARN
+2016-08-12,Citigroup,Neutral,,main,EARN
+2017-08-02,Deutsche Bank,Hold,,main,EARN
+2019-07-29,JMP Securities,Market Outperform,Market Perform,up,EARN
+2020-11-24,BTIG,Buy,,init,EARN
+2021-10-12,Piper Sandler,Overweight,,init,EARN
+2021-11-08,BTIG,Neutral,Buy,down,EARN

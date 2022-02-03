@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-07,Bernstein,Outperform,,init,BYND
+2019-05-20,Consumer Edge,Equal-Weight,,init,BYND
+2019-05-28,Jefferies,Hold,,init,BYND
+2019-05-28,Bank of America,Neutral,,init,BYND
+2019-05-28,JP Morgan,Overweight,,init,BYND
+2019-05-28,Goldman Sachs,Neutral,,init,BYND
+2019-05-28,Credit Suisse,Neutral,,init,BYND
+2019-05-28,JP Morgan,Overweight,,init,BYND
+2019-05-28,William Blair,Market Perform,,init,BYND
+2019-06-11,JP Morgan,Neutral,Overweight,down,BYND
+2019-06-12,Bernstein,Market Perform,Outperform,down,BYND
+2019-08-02,Bank of America,Neutral,,reit,BYND
+2019-08-20,JP Morgan,Overweight,Neutral,up,BYND
+2019-09-06,DA Davidson,Underperform,,init,BYND
+2019-09-19,Barclays,Overweight,,init,BYND
+2019-09-23,Exane BNP Paribas,Underperform,,init,BYND
+2019-10-14,Wells Fargo,Market Perform,,init,BYND
+2019-10-29,Credit Suisse,Neutral,,main,BYND
+2019-10-29,Wells Fargo,Market Perform,,main,BYND
+2019-10-29,DA Davidson,Underperform,,main,BYND
+2019-11-05,Bernstein,Outperform,Market Perform,up,BYND
+2019-11-08,UBS,Neutral,,init,BYND
+2019-11-14,Berenberg,Buy,,init,BYND
+2019-11-15,Berenberg,Buy,,init,BYND
+2019-12-03,Oppenheimer,Perform,,init,BYND
+2020-01-08,Bernstein,Outperform,,main,BYND
+2020-01-15,Bernstein,Market Perform,Outperform,down,BYND
+2020-01-17,Credit Suisse,Neutral,,main,BYND
+2020-01-28,JP Morgan,Neutral,Overweight,down,BYND
+2020-02-12,Piper Sandler,Neutral,,init,BYND
+2020-02-28,UBS,Neutral,,main,BYND
+2020-02-28,Jefferies,Hold,,main,BYND
+2020-03-04,Argus Research,Buy,,init,BYND
+2020-03-11,JP Morgan,Neutral,,main,BYND
+2020-03-19,B of A Securities,Underperform,Neutral,down,BYND
+2020-03-26,Goldman Sachs,Sell,Neutral,down,BYND
+2020-03-31,Barclays,Overweight,,main,BYND
+2020-04-02,Piper Sandler,Neutral,,main,BYND
+2020-04-08,Credit Suisse,Neutral,,main,BYND
+2020-04-27,UBS,Sell,Neutral,down,BYND
+2020-05-01,Wells Fargo,Underweight,Equal-Weight,down,BYND
+2020-05-06,B of A Securities,Underperform,,reit,BYND
+2020-05-06,UBS,Sell,,main,BYND
+2020-05-06,DA Davidson,Neutral,,main,BYND
+2020-05-06,JP Morgan,Neutral,,main,BYND
+2020-05-19,BTIG,Buy,,init,BYND
+2020-06-17,Credit Suisse,Neutral,,main,BYND
+2020-06-29,Barclays,Underweight,Overweight,down,BYND
+2020-07-09,UBS,Sell,,main,BYND
+2020-07-09,Bernstein,Market Perform,,main,BYND
+2020-07-10,Citigroup,Sell,,init,BYND
+2020-07-28,Canaccord Genuity,Hold,,init,BYND
+2020-08-05,UBS,Sell,,main,BYND
+2020-08-31,Citigroup,Neutral,Sell,up,BYND
+2020-09-03,Baird,Outperform,,init,BYND
+2020-09-18,JP Morgan,Underweight,Neutral,down,BYND
+2020-10-06,Piper Sandler,Neutral,,main,BYND
+2020-10-13,Bernstein,Underperform,Market Perform,down,BYND
+2020-11-10,UBS,Neutral,Sell,up,BYND
+2020-11-10,Piper Sandler,Overweight,Neutral,up,BYND
+2020-11-10,CFRA,Sell,,main,BYND
+2020-11-10,Canaccord Genuity,Hold,,main,BYND
+2021-01-06,Piper Sandler,Neutral,Overweight,down,BYND
+2021-01-20,BTIG,Neutral,Buy,down,BYND
+2021-01-22,Longbow Research,Neutral,,init,BYND
+2021-01-27,Canaccord Genuity,Hold,,main,BYND
+2021-02-03,DA Davidson,Underperform,Neutral,down,BYND
+2021-02-26,Canaccord Genuity,Hold,,main,BYND
+2021-02-26,Goldman Sachs,Sell,,main,BYND
+2021-03-01,DA Davidson,Underperform,,main,BYND
+2021-03-02,Citigroup,Buy,Neutral,up,BYND
+2021-03-16,JP Morgan,Underweight,,main,BYND
+2021-03-19,Stephens & Co.,Overweight,,init,BYND
+2021-05-07,Goldman Sachs,Sell,,main,BYND
+2021-05-10,DA Davidson,Underperform,,main,BYND
+2021-05-10,Canaccord Genuity,Hold,,main,BYND
+2021-05-11,Citigroup,Buy,,main,BYND
+2021-05-11,Barclays,Underweight,,main,BYND
+2021-05-24,Bernstein,Outperform,Underperform,up,BYND
+2021-05-28,Credit Suisse,Neutral,,main,BYND
+2021-08-25,Argus Research,Hold,Buy,down,BYND
+2021-09-10,Cowen & Co.,Market Perform,,init,BYND
+2021-09-16,Piper Sandler,Underweight,Neutral,down,BYND
+2021-10-25,Citigroup,Buy,,main,BYND
+2021-10-25,Barclays,Underweight,,main,BYND
+2021-10-26,Credit Suisse,Underperform,Neutral,down,BYND
+2021-10-27,Canaccord Genuity,Hold,,main,BYND
+2021-11-11,Bernstein,Market Perform,Outperform,down,BYND
+2021-11-11,Credit Suisse,Underperform,,main,BYND
+2021-11-11,Piper Sandler,Underweight,,main,BYND
+2021-11-30,HSBC,Reduce,,init,BYND
+2021-12-14,Piper Sandler,Neutral,Underweight,up,BYND

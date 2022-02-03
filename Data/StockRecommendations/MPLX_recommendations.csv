@@ -1,0 +1,117 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-20,Citigroup,Buy,,init,MPLX
+2012-11-20,Bank of America,Buy,,init,MPLX
+2012-11-20,Morgan Stanley,Overweight,,init,MPLX
+2013-12-02,Scotia Howard Weil,Sector Perform,,init,MPLX
+2014-01-03,Bank of America,Underperform,Neutral,down,MPLX
+2014-01-14,Barclays,Overweight,Equal-Weight,up,MPLX
+2014-03-03,Barclays,Overweight,,main,MPLX
+2014-03-28,Citigroup,Buy,,main,MPLX
+2014-05-02,UBS,Neutral,,main,MPLX
+2014-05-02,Citigroup,Buy,,main,MPLX
+2014-06-04,JP Morgan,Overweight,,main,MPLX
+2014-07-23,Citigroup,Buy,,main,MPLX
+2014-10-31,Barclays,Overweight,,main,MPLX
+2014-10-31,Citigroup,Buy,,main,MPLX
+2014-10-31,UBS,Buy,Neutral,up,MPLX
+2014-10-31,Scotia Howard Weil,Sector Outperform,Sector Perform,up,MPLX
+2014-11-03,Barclays,Overweight,,main,MPLX
+2015-01-06,JP Morgan,Overweight,,main,MPLX
+2015-03-03,Evercore ISI Group,Hold,,init,MPLX
+2015-04-06,JP Morgan,Overweight,,main,MPLX
+2015-05-19,Deutsche Bank,Buy,,init,MPLX
+2015-07-14,Barclays,Overweight,,main,MPLX
+2015-07-14,Scotia Howard Weil,Sector Perform,Outperform,down,MPLX
+2015-07-16,Evercore ISI Group,Sell,Hold,down,MPLX
+2015-10-20,Deutsche Bank,Buy,,main,MPLX
+2015-10-30,Barclays,Overweight,,main,MPLX
+2015-11-02,Barclays,Overweight,,main,MPLX
+2015-11-11,Evercore ISI Group,Buy,Sell,up,MPLX
+2015-11-30,Ladenburg Thalmann,Buy,,init,MPLX
+2015-12-15,Scotia Howard Weil,Sector Outperform,Sector Perform,up,MPLX
+2015-12-22,Credit Suisse,Neutral,,init,MPLX
+2016-02-04,Barclays,Overweight,,main,MPLX
+2016-02-19,Goldman Sachs,Buy,,init,MPLX
+2016-02-23,Stifel Nicolaus,Hold,,init,MPLX
+2016-03-15,Deutsche Bank,Buy,,main,MPLX
+2016-04-08,Evercore ISI Group,Hold,Buy,down,MPLX
+2016-04-19,Citigroup,Buy,,main,MPLX
+2016-04-21,Raymond James,Market Perform,,init,MPLX
+2016-04-29,Stifel Nicolaus,Buy,Hold,up,MPLX
+2016-05-02,RBC Capital,Outperform,,init,MPLX
+2016-05-03,Ladenburg Thalmann,Buy,,main,MPLX
+2016-05-26,Mitsubishi UFJ,Neutral,,init,MPLX
+2016-07-19,Barclays,Overweight,,init,MPLX
+2016-08-22,Jefferies,Hold,,init,MPLX
+2016-09-09,FBR Capital,Market Perform,,init,MPLX
+2016-09-30,Mizuho,Neutral,,init,MPLX
+2016-10-31,Raymond James,Strong Buy,Outperform,up,MPLX
+2016-10-31,Jefferies,Buy,Hold,up,MPLX
+2016-12-08,Evercore ISI Group,Buy,Hold,up,MPLX
+2017-01-04,Mizuho,Buy,Neutral,up,MPLX
+2017-01-10,Wells Fargo,Outperform,Market Perform,up,MPLX
+2017-03-01,Mitsubishi UFJ,Overweight,Neutral,up,MPLX
+2017-07-20,Guggenheim,Buy,,init,MPLX
+2017-08-28,Jefferies,Buy,,main,MPLX
+2017-10-27,UBS,Buy,,main,MPLX
+2017-10-27,Stifel Nicolaus,Buy,,main,MPLX
+2018-01-05,Credit Suisse,Outperform,,init,MPLX
+2018-01-17,Barclays,Equal-Weight,Overweight,down,MPLX
+2018-02-05,Jefferies,Hold,Buy,down,MPLX
+2018-03-23,Morgan Stanley,Overweight,Equal-Weight,up,MPLX
+2018-04-10,Citigroup,Buy,Buy,main,MPLX
+2018-04-16,Guggenheim,Buy,Neutral,up,MPLX
+2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,MPLX
+2018-04-20,Deutsche Bank,Buy,,init,MPLX
+2018-05-01,Stifel Nicolaus,Buy,Buy,main,MPLX
+2018-07-18,Jefferies,Buy,Hold,up,MPLX
+2018-07-27,Stifel Nicolaus,Buy,Buy,main,MPLX
+2018-10-09,Goldman Sachs,Neutral,Buy,down,MPLX
+2018-10-11,Credit Suisse,Outperform,,init,MPLX
+2018-11-02,Bank of America,Buy,Buy,main,MPLX
+2018-11-29,Citigroup,Buy,Buy,main,MPLX
+2018-11-29,Bank of America,Neutral,Buy,down,MPLX
+2019-04-16,Raymond James,Outperform,Strong Buy,down,MPLX
+2019-05-09,Wells Fargo,Outperform,,main,MPLX
+2019-06-10,BMO Capital,Market Perform,,init,MPLX
+2019-06-11,Bank of America,Buy,Neutral,up,MPLX
+2019-08-02,Raymond James,Outperform,,reit,MPLX
+2019-08-14,Evercore ISI Group,In-Line,Outperform,down,MPLX
+2019-09-03,Scotiabank,Sector Outperform,,init,MPLX
+2019-10-08,Raymond James,Outperform,,main,MPLX
+2019-11-19,Credit Suisse,Outperform,,main,MPLX
+2019-12-13,SunTrust Robinson Humphrey,Hold,,init,MPLX
+2020-01-06,Morgan Stanley,Overweight,,init,MPLX
+2020-01-14,Barclays,Equal-Weight,Overweight,down,MPLX
+2020-02-10,Credit Suisse,Neutral,Outperform,down,MPLX
+2020-02-24,Wells Fargo,Equal-Weight,Overweight,down,MPLX
+2020-02-25,JP Morgan,Neutral,Overweight,down,MPLX
+2020-03-02,UBS,Buy,,main,MPLX
+2020-03-12,Raymond James,Market Perform,Outperform,down,MPLX
+2020-03-18,Stifel,Buy,,main,MPLX
+2020-03-24,Barclays,Overweight,Equal-Weight,up,MPLX
+2020-04-02,Credit Suisse,Outperform,Neutral,up,MPLX
+2020-04-14,Wells Fargo,Overweight,,main,MPLX
+2020-04-16,B of A Securities,Buy,,main,MPLX
+2020-04-27,Citigroup,Buy,,main,MPLX
+2020-04-30,Morgan Stanley,Overweight,,main,MPLX
+2020-05-11,UBS,Buy,,main,MPLX
+2020-05-14,Credit Suisse,Outperform,,main,MPLX
+2020-06-01,Morgan Stanley,Overweight,,main,MPLX
+2020-08-04,Citigroup,Buy,,main,MPLX
+2020-09-25,Morgan Stanley,Equal-Weight,,main,MPLX
+2020-12-11,Morgan Stanley,Equal-Weight,,main,MPLX
+2021-01-11,Raymond James,Outperform,Market Perform,up,MPLX
+2021-03-22,Morgan Stanley,Equal-Weight,,main,MPLX
+2021-04-15,Raymond James,Outperform,,main,MPLX
+2021-05-13,Wells Fargo,Overweight,,main,MPLX
+2021-05-26,Morgan Stanley,Equal-Weight,,main,MPLX
+2021-05-27,Credit Suisse,Outperform,,main,MPLX
+2021-06-18,Morgan Stanley,Equal-Weight,,main,MPLX
+2021-06-24,Wells Fargo,Overweight,,main,MPLX
+2021-07-16,Wolfe Research,Peer Perform,Outperform,down,MPLX
+2021-07-21,Raymond James,Outperform,,main,MPLX
+2021-10-07,Barclays,Overweight,,main,MPLX
+2021-10-19,Barclays,Overweight,,main,MPLX
+2021-11-23,Morgan Stanley,Equal-Weight,,main,MPLX
+2021-12-16,Wells Fargo,Overweight,,main,MPLX

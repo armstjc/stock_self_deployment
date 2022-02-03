@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-24,PiperJaffray,Overweight,,main,MMSI
+2013-02-22,Raymond James,Market Perform,Strong Buy,down,MMSI
+2013-05-09,Benchmark,Hold,,init,MMSI
+2013-10-02,Raymond James,Strong Buy,Market Perform,up,MMSI
+2014-07-30,Raymond James,Outperform,Strong Buy,down,MMSI
+2015-01-22,Barrington Research,Market Perform,,init,MMSI
+2015-04-24,Barrington Research,Outperform,Market Perform,up,MMSI
+2015-10-23,Barrington Research,Market Perform,,down,MMSI
+2015-10-26,Barrington Research,Outperform,Market Perform,up,MMSI
+2016-07-19,Canaccord Genuity,Buy,,init,MMSI
+2017-04-05,Wells Fargo,Outperform,,init,MMSI
+2017-06-20,SunTrust Robinson Humphrey,Buy,,init,MMSI
+2017-07-20,Bank of America,Buy,,init,MMSI
+2017-08-28,Raymond James,Outperform,Strong Buy,down,MMSI
+2017-10-26,Canaccord Genuity,Buy,,main,MMSI
+2018-03-01,Barrington Research,Outperform,Market Perform,up,MMSI
+2018-03-01,Canaccord Genuity,Buy,Buy,main,MMSI
+2018-04-20,Needham,Buy,,init,MMSI
+2018-04-26,Raymond James,Outperform,Outperform,main,MMSI
+2018-06-04,Wells Fargo,Outperform,Outperform,main,MMSI
+2018-07-24,Canaccord Genuity,Buy,Buy,main,MMSI
+2018-07-24,Raymond James,Outperform,Outperform,main,MMSI
+2018-10-26,Canaccord Genuity,Buy,Buy,main,MMSI
+2019-07-26,Wells Fargo,Market Perform,Outperform,down,MMSI
+2019-07-26,Canaccord Genuity,Buy,,main,MMSI
+2019-07-26,Needham,Hold,Buy,down,MMSI
+2019-09-10,Raymond James,Market Perform,Outperform,down,MMSI
+2019-09-17,Piper Jaffray,Overweight,,main,MMSI
+2019-09-20,Canaccord Genuity,Buy,,main,MMSI
+2019-09-24,Oppenheimer,Outperform,,init,MMSI
+2019-10-31,Sidoti & Co.,Buy,,main,MMSI
+2019-10-31,Bank of America,Underperform,,main,MMSI
+2019-10-31,Piper Jaffray,Overweight,,main,MMSI
+2019-12-12,Wells Fargo,Underweight,Equal-Weight,down,MMSI
+2020-02-03,Raymond James,Outperform,Market Perform,up,MMSI
+2020-02-25,Raymond James,Outperform,,main,MMSI
+2020-02-25,Wells Fargo,Underweight,,main,MMSI
+2020-02-25,Piper Sandler,Overweight,,reit,MMSI
+2020-04-24,Wells Fargo,Underweight,,main,MMSI
+2020-04-24,Raymond James,Outperform,,main,MMSI
+2020-05-27,Raymond James,Outperform,,main,MMSI
+2020-06-01,Sidoti & Co.,Buy,,main,MMSI
+2020-07-30,Raymond James,Outperform,,main,MMSI
+2020-07-30,Oppenheimer,Outperform,,main,MMSI
+2020-07-30,Piper Sandler,Overweight,,main,MMSI
+2020-09-28,Wells Fargo,Equal-Weight,Underweight,up,MMSI
+2020-10-29,Canaccord Genuity,Buy,,main,MMSI
+2020-10-29,Raymond James,Outperform,,main,MMSI
+2020-10-29,Wells Fargo,Equal-Weight,,main,MMSI
+2020-10-29,Sidoti & Co.,Buy,,main,MMSI
+2020-10-29,Piper Sandler,Overweight,,main,MMSI
+2020-11-11,Raymond James,Outperform,,main,MMSI
+2021-01-05,Needham,Buy,Hold,up,MMSI
+2021-02-25,Needham,Buy,,main,MMSI
+2021-02-25,Raymond James,Outperform,,main,MMSI
+2021-04-30,Raymond James,Outperform,,main,MMSI
+2021-04-30,Needham,Buy,,main,MMSI
+2021-07-30,Needham,Buy,,main,MMSI
+2021-07-30,Wells Fargo,Equal-Weight,,main,MMSI
+2021-07-30,Raymond James,Outperform,,main,MMSI
+2021-10-29,Wells Fargo,Equal-Weight,,main,MMSI

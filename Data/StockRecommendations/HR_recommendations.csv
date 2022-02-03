@@ -1,0 +1,65 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-18,JP Morgan,Neutral,,main,HR
+2012-07-24,Deutsche Bank,Hold,,main,HR
+2012-09-20,KeyBanc,Buy,Hold,up,HR
+2012-12-13,SunTrust Robinson Humphrey,Neutral,,init,HR
+2013-01-09,Deutsche Bank,Hold,,main,HR
+2013-01-16,JP Morgan,Overweight,Neutral,up,HR
+2013-02-25,BMO Capital,Outperform,,main,HR
+2013-03-07,JP Morgan,Overweight,,main,HR
+2013-03-21,Goldman Sachs,Sell,,init,HR
+2013-05-03,BMO Capital,Market Perform,Outperform,down,HR
+2014-07-15,KeyBanc,Buy,,main,HR
+2014-09-10,Mizuho,Neutral,,init,HR
+2014-09-11,Mizuho,Neutral,,init,HR
+2014-10-07,JP Morgan,Neutral,,main,HR
+2015-05-08,RBC Capital,Sector Perform,,main,HR
+2015-05-26,Mizuho,Buy,Neutral,up,HR
+2015-08-26,Stifel Nicolaus,Buy,Hold,up,HR
+2015-09-21,Mizuho,Buy,,main,HR
+2015-11-06,Stifel Nicolaus,Hold,Buy,down,HR
+2015-12-09,Morgan Stanley,Overweight,,init,HR
+2016-02-22,Mizuho,Neutral,Buy,down,HR
+2016-03-23,Cowen & Co.,Market Perform,Underperform,up,HR
+2016-06-22,JMP Securities,Underperform,Market Perform,down,HR
+2016-08-04,Stifel Nicolaus,Buy,,main,HR
+2016-08-25,BTIG Research,Neutral,,init,HR
+2016-11-04,JMP Securities,Market Perform,Underperform,up,HR
+2016-11-14,Cantor Fitzgerald,Buy,Hold,up,HR
+2016-12-13,Wells Fargo,Outperform,Market Perform,up,HR
+2016-12-16,KeyBanc,Underweight,Sector Weight,down,HR
+2016-12-16,Jefferies,Buy,,init,HR
+2016-12-22,BMO Capital,Market Perform,,init,HR
+2017-03-15,BMO Capital,Outperform,Market Perform,up,HR
+2017-06-15,Jefferies,Hold,Buy,down,HR
+2017-09-25,Morgan Stanley,Overweight,,main,HR
+2017-12-14,Morgan Stanley,Overweight,,main,HR
+2017-12-19,KeyBanc,Sector Weight,Underweight,up,HR
+2018-01-09,BMO Capital,Market Perform,Outperform,down,HR
+2018-02-15,Stifel Nicolaus,Buy,Buy,main,HR
+2018-03-20,Morgan Stanley,Overweight,Overweight,main,HR
+2018-04-25,Stifel Nicolaus,Hold,Buy,down,HR
+2018-06-14,Morgan Stanley,Overweight,Overweight,main,HR
+2018-06-28,Capital One Financial,Equal-Weight,,init,HR
+2018-08-16,Morgan Stanley,Equal-Weight,Overweight,down,HR
+2018-11-13,Mizuho,Buy,Neutral,up,HR
+2019-01-08,Raymond James,Market Perform,Underperform,up,HR
+2019-06-20,Citigroup,Neutral,,init,HR
+2019-09-17,Morgan Stanley,Equal-Weight,,main,HR
+2019-11-26,Stifel,Buy,Hold,up,HR
+2019-12-12,Citigroup,Buy,Neutral,up,HR
+2020-03-09,BMO Capital,Outperform,Market Perform,up,HR
+2020-03-12,Raymond James,Outperform,,main,HR
+2020-03-26,Morgan Stanley,Equal-Weight,,main,HR
+2020-04-03,JP Morgan,Neutral,,main,HR
+2020-04-03,Wells Fargo,Equal-Weight,,main,HR
+2020-04-07,Citigroup,Neutral,Buy,down,HR
+2020-04-29,Raymond James,Outperform,,main,HR
+2020-08-31,Raymond James,Strong Buy,Outperform,up,HR
+2020-09-18,Capital One,Overweight,Equal-Weight,up,HR
+2021-01-13,Jefferies,Buy,Hold,up,HR
+2021-01-28,ScotiaBank,Sector Perform,,init,HR
+2021-03-15,Morgan Stanley,Equal-Weight,,main,HR
+2021-03-31,Wells Fargo,Equal-Weight,,main,HR
+2021-07-29,Morgan Stanley,Equal-Weight,,main,HR
+2021-08-20,Raymond James,Market Perform,Strong Buy,down,HR

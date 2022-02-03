@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-07-18,JP Morgan,Overweight,,init,GPMT
+2017-07-18,Keefe Bruyette & Woods,Market Perform,,init,GPMT
+2017-07-18,JMP Securities,Market Outperform,,init,GPMT
+2017-10-27,Compass Point,Buy,,init,GPMT
+2017-11-08,Bank of America,Neutral,,main,GPMT
+2017-12-08,Keefe Bruyette & Woods,Outperform,Market Perform,up,GPMT
+2018-03-27,Citigroup,Neutral,,init,GPMT
+2018-03-27,Raymond James,Strong Buy,,init,GPMT
+2018-07-23,JP Morgan,Overweight,Overweight,main,GPMT
+2018-10-09,BTIG Research,Neutral,,init,GPMT
+2018-10-24,JP Morgan,Overweight,Overweight,main,GPMT
+2019-01-16,JP Morgan,Neutral,Overweight,down,GPMT
+2019-08-14,Raymond James,Outperform,Strong Buy,down,GPMT
+2020-01-02,JMP Securities,Market Perform,Market Outperform,down,GPMT
+2020-01-08,Credit Suisse,Neutral,,init,GPMT
+2020-03-04,Raymond James,Outperform,,main,GPMT
+2020-03-26,JMP Securities,Market Outperform,Market Perform,up,GPMT
+2020-03-26,Citigroup,Neutral,,main,GPMT
+2020-04-13,Raymond James,Outperform,,main,GPMT
+2020-08-12,Raymond James,Outperform,,main,GPMT
+2020-11-12,Raymond James,Outperform,,main,GPMT
+2021-03-09,Raymond James,Outperform,,main,GPMT
+2021-03-17,Credit Suisse,Neutral,,main,GPMT
+2021-05-14,Credit Suisse,Outperform,Neutral,up,GPMT
+2021-05-18,Raymond James,Outperform,,main,GPMT

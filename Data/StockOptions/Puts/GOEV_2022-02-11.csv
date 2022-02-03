@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GOEV220211P00008000,2022-01-04 15:38:10+00:00,8.0,0.88,0.93,1.31,0.0,0.0,1,2,1.0000000000000003e-05,True,REGULAR,USD,GOEV

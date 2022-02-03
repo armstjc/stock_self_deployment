@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-02-17,Deutsche Bank,Buy,,init,EURN
+2015-02-17,Morgan Stanley,Overweight,,init,EURN
+2015-02-17,Citigroup,,,init,EURN
+2015-02-17,Evercore ISI Group,Buy,,init,EURN
+2015-02-20,Seaport Global,Buy,,init,EURN
+2015-03-02,JP Morgan,Overweight,,init,EURN
+2015-04-02,Citigroup,Buy,,main,EURN
+2015-05-14,Credit Suisse,Outperform,,init,EURN
+2015-05-18,JP Morgan,Overweight,,init,EURN
+2015-07-15,Stifel Nicolaus,Hold,,init,EURN
+2015-07-15,Stifel Nicolaus,Hold,,init,EURN
+2015-08-20,UBS,Buy,,init,EURN
+2015-08-25,Wells Fargo,Outperform,,init,EURN
+2016-01-12,JP Morgan,Neutral,,down,EURN
+2016-02-26,Deutsche Bank,Hold,Buy,down,EURN
+2016-04-07,JP Morgan,Neutral,,main,EURN
+2016-07-26,UBS,Neutral,Buy,down,EURN
+2016-07-29,Citigroup,Buy,,main,EURN
+2016-08-25,Morgan Stanley,Equal-Weight,Overweight,down,EURN
+2016-10-06,Citigroup,Buy,,main,EURN
+2016-10-17,Credit Suisse,Outperform,,main,EURN
+2017-01-03,Deutsche Bank,Buy,Hold,up,EURN
+2018-01-26,UBS,Neutral,Neutral,main,EURN
+2018-02-12,Morgan Stanley,Overweight,Equal-Weight,up,EURN
+2018-03-23,JP Morgan,Neutral,Neutral,main,EURN
+2018-08-10,JP Morgan,Neutral,Neutral,main,EURN
+2018-08-14,Wells Fargo,Outperform,Outperform,main,EURN
+2018-08-14,Pareto,Buy,Hold,up,EURN
+2018-09-27,BTIG Research,Buy,,init,EURN
+2018-10-01,Jefferies,Buy,,init,EURN
+2018-11-30,DNB Markets,Hold,Buy,down,EURN
+2019-01-23,JP Morgan,Overweight,Neutral,up,EURN
+2020-09-21,JonesTrading,Buy,,init,EURN
+2020-10-21,BTIG,Neutral,Buy,down,EURN
+2020-10-23,Jefferies,Buy,,main,EURN
+2021-01-08,BTIG,Buy,Neutral,up,EURN
+2021-03-29,HC Wainwright & Co.,Buy,,init,EURN

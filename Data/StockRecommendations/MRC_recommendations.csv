@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-14,KeyBanc,Buy,,init,MRC
+2013-03-01,Longbow Research,Neutral,,init,MRC
+2013-06-21,Maxim Group,Buy,,init,MRC
+2013-08-02,Raymond James,Market Perform,Outperform,down,MRC
+2013-09-13,Wunderlich,Buy,,init,MRC
+2013-09-13,Wunderlich,Buy,,init,MRC
+2013-10-17,BB&T Capital,Buy,,init,MRC
+2013-11-04,Wunderlich,Buy,,main,MRC
+2014-01-16,Bank of America,Underperform,Buy,down,MRC
+2014-03-12,Longbow Research,Buy,Neutral,up,MRC
+2014-05-05,Seaport Global,Buy,Accumulate,up,MRC
+2014-07-10,Bank of America,Neutral,Underperform,up,MRC
+2014-10-16,ISI Group,Buy,,init,MRC
+2015-02-05,Wells Fargo,Market Perform,Outperform,down,MRC
+2015-02-23,Baird,Neutral,Outperform,down,MRC
+2015-05-04,Stephens & Co.,Overweight,Equal-Weight,up,MRC
+2015-05-29,JP Morgan,Overweight,,init,MRC
+2015-11-09,KeyBanc,Sector Weight,Overweight,down,MRC
+2015-11-10,Maxim Group,Hold,Buy,down,MRC
+2015-12-29,Capital One Financial,Overweight,,init,MRC
+2016-02-24,JP Morgan,Overweight,,main,MRC
+2016-02-25,Longbow Research,Neutral,Buy,down,MRC
+2016-02-25,Capital One Financial,Equal-Weight,Overweight,down,MRC
+2016-08-04,Maxim Group,Buy,Hold,up,MRC
+2016-09-16,Cowen & Co.,Market Perform,,init,MRC
+2016-11-08,Cowen & Co.,Outperform,Market Perform,up,MRC
+2017-04-11,Susquehanna,Positive,,init,MRC
+2017-05-26,KeyBanc,Sector Weight,Sector Weight,init,MRC
+2017-06-06,Stifel Nicolaus,Buy,,init,MRC
+2017-09-12,JP Morgan,Overweight,,main,MRC
+2018-04-16,Stifel Nicolaus,Buy,Buy,main,MRC
+2018-05-04,Stifel Nicolaus,Buy,Buy,main,MRC
+2018-07-31,Northcoast Research,Buy,,init,MRC
+2018-08-03,Stifel Nicolaus,Buy,Buy,main,MRC
+2018-09-17,JP Morgan,Overweight,Overweight,main,MRC
+2018-10-19,Raymond James,Outperform,Outperform,main,MRC
+2018-11-02,Baird,Neutral,Neutral,main,MRC
+2018-12-21,Wells Fargo,Market Perform,Market Perform,main,MRC
+2019-04-16,Stifel Nicolaus,Hold,Buy,down,MRC
+2019-04-25,Jefferies,Hold,,init,MRC
+2019-04-25,Jefferies,Hold,,init,MRC
+2019-08-05,Raymond James,Outperform,,reit,MRC
+2019-09-06,Scotiabank,Sector Perform,Sector Outperform,down,MRC
+2019-09-12,Cowen & Co.,Market Perform,Outperform,down,MRC
+2019-09-24,Stifel Nicolaus,Hold,,main,MRC
+2019-10-17,Raymond James,Outperform,,main,MRC
+2020-01-06,ScotiaBank,Sector Outperform,Sector Perform,up,MRC
+2020-02-10,Raymond James,Market Perform,Outperform,down,MRC
+2020-02-18,Stephens & Co.,Overweight,,main,MRC
+2020-02-18,Stifel Nicolaus,Hold,,main,MRC
+2020-03-11,Stifel,Buy,Hold,up,MRC
+2020-04-03,Stephens & Co.,Overweight,,reit,MRC
+2020-04-30,Susquehanna,Positive,,main,MRC
+2020-06-24,Northland Capital Markets,Outperform,,init,MRC
+2020-07-30,Stifel,Buy,,main,MRC
+2021-02-19,JP Morgan,Neutral,Overweight,down,MRC
+2021-11-10,Susquehanna,Positive,,main,MRC

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CPT220819P00175000,2022-01-05 17:46:07+00:00,175.0,12.5,11.9,16.0,-1.1000004,-8.088238,1.0,2,0.17783414947509768,True,REGULAR,USD,CPT
+CPT220819P00200000,2021-12-30 15:30:06+00:00,200.0,26.56,29.6,32.1,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,CPT

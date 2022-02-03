@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-08,Baird,Neutral,Outperform,down,NMFC
+2013-03-08,BB&T Capital,Hold,Buy,down,NMFC
+2013-04-30,Wells Fargo,Market Perform,Outperform,down,NMFC
+2013-07-01,Oppenheimer,Outperform,,init,NMFC
+2013-10-04,Keefe Bruyette & Woods,Outperform,Market Perform,up,NMFC
+2014-08-07,Wells Fargo,Outperform,Market Perform,up,NMFC
+2014-08-08,Wells Fargo,Outperform,Market Perform,up,NMFC
+2015-03-04,Keefe Bruyette & Woods,Market Perform,,main,NMFC
+2015-06-10,Wedbush,Neutral,,init,NMFC
+2016-01-20,Baird,Outperform,Neutral,up,NMFC
+2016-03-07,Keefe Bruyette & Woods,Market Perform,,main,NMFC
+2016-07-14,Baird,Neutral,Outperform,down,NMFC
+2016-08-05,Oppenheimer,Outperform,,main,NMFC
+2018-10-04,Wells Fargo,Outperform,Outperform,main,NMFC
+2019-12-05,Deutsche Bank,Buy,,init,NMFC
+2020-02-03,B of A Securities,Buy,,init,NMFC
+2020-03-06,National Securities,Neutral,,init,NMFC
+2020-03-25,Wells Fargo,Overweight,,main,NMFC
+2020-04-13,Oppenheimer,Outperform,,main,NMFC
+2020-04-27,Wells Fargo,Overweight,,main,NMFC
+2021-10-25,Wells Fargo,Overweight,,main,NMFC

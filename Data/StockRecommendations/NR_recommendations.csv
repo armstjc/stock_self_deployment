@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-30,Global Hunter Securities,Accumulate,,main,NR
+2012-11-19,Dahlman Rose,Buy,,main,NR
+2013-02-11,Dahlman Rose,Hold,Buy,down,NR
+2013-02-19,SunTrust Robinson Humphrey,Neutral,Buy,down,NR
+2013-07-23,Tudor Pickering,,,init,NR
+2013-08-12,Clarksons Platou,Outperform,Market Perform,up,NR
+2013-09-30,Raymond James,Outperform,Market Perform,up,NR
+2013-11-15,Imperial Capital,Buy,,init,NR
+2013-11-15,DA Davidson,Buy,,init,NR
+2014-02-18,Capital One Financial,Equal-Weight,Overweight,down,NR
+2014-03-28,First Analysis,Overweight,Equal-Weight,up,NR
+2014-09-11,Credit Suisse,Outperform,,init,NR
+2014-10-17,Cowen & Co.,Outperform,Market Perform,up,NR
+2015-05-04,Credit Suisse,Neutral,Outperform,down,NR
+2015-05-04,Raymond James,Outperform,,main,NR
+2015-06-17,Cowen & Co.,Outperform,,main,NR
+2015-06-25,Raymond James,Strong Buy,Outperform,up,NR
+2015-09-04,Credit Suisse,Neutral,,main,NR
+2015-12-14,KLR Group,Buy,,init,NR
+2016-05-01,Credit Suisse,Neutral,,main,NR
+2016-05-02,Tudor Pickering,Buy,Hold,up,NR
+2016-06-01,Credit Suisse,Outperform,Neutral,up,NR
+2016-06-15,Capital One Financial,Overweight,Equal-Weight,up,NR
+2016-09-30,Loop Capital,Hold,,init,NR
+2017-01-05,Loop Capital,Buy,Hold,up,NR
+2017-01-10,Evercore ISI Group,Buy,,init,NR
+2017-01-19,Cowen & Co.,Market Perform,Outperform,down,NR
+2017-11-02,SunTrust Robinson Humphrey,Buy,Hold,up,NR
+2018-03-05,Johnson Rice,Buy,Hold,up,NR
+2018-07-30,Credit Suisse,Outperform,Outperform,main,NR
+2020-03-17,Capital One,Equal-Weight,Overweight,down,NR

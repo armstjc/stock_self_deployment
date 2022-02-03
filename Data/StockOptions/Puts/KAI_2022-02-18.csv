@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KAI220218P00195000,2021-12-27 14:30:12+00:00,195.0,4.4,0.2,5.0,0.0,0.0,,1,0.5809368078613282,False,REGULAR,USD,KAI

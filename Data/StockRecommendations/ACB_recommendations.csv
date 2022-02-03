@@ -1,19 +1,19 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2020-11-25 09:37:04,Seaport Global,Neutral,,init,ACB
-2020-11-25 09:37:04,Jefferies,Buy,,init,ACB
-2020-11-25 09:37:05,Cowen & Co.,Outperform,,init,ACB
-2020-11-25 09:37:05,Bank of America,Buy,,init,ACB
-2020-11-25 09:37:06,Desjardins,Buy,,init,ACB
-2020-11-25 09:37:06,Stifel Nicolaus,Hold,,init,ACB
-2020-11-25 09:37:07,Ladenburg Thalmann,Buy,,init,ACB
-2020-11-25 09:37:07,Bank of America,Neutral,Buy,down,ACB
-2020-11-25 09:37:09,Stifel,Sell,Hold,down,ACB
-2020-11-25 09:37:09,MKM Partners,Sell,,init,ACB
-2020-11-25 09:37:10,Piper Jaffray,Neutral,,main,ACB
-2020-11-25 09:37:12,B of A Securities,Neutral,Buy,down,ACB
-2020-11-25 09:37:12,Piper Sandler,Underweight,Neutral,down,ACB
-2020-11-25 09:37:14,Needham,Hold,,init,ACB
-2020-11-25 09:37:19,Piper Sandler,Neutral,Underweight,up,ACB
-2020-11-25 09:37:23,Ladenburg Thalmann,Neutral,Buy,down,ACB
-2020-11-25 09:37:24,Piper Sandler,Neutral,,main,ACB
-2020-12-18 11:49:05,BMO Capital,Underperform,Market Perform,down,ACB
+2019-02-21,Seaport Global,Neutral,,init,ACB
+2019-02-25,Jefferies,Buy,,init,ACB
+2019-03-05,Cowen & Co.,Outperform,,init,ACB
+2019-04-17,Bank of America,Buy,,init,ACB
+2019-04-26,Desjardins,Buy,,init,ACB
+2019-06-06,Stifel Nicolaus,Hold,,init,ACB
+2019-07-17,Ladenburg Thalmann,Buy,,init,ACB
+2019-07-18,Bank of America,Neutral,Buy,down,ACB
+2019-09-16,Stifel,Sell,Hold,down,ACB
+2019-09-20,MKM Partners,Sell,,init,ACB
+2019-10-22,Piper Jaffray,Neutral,,main,ACB
+2020-01-10,B of A Securities,Neutral,Buy,down,ACB
+2020-01-10,Piper Sandler,Underweight,Neutral,down,ACB
+2020-02-25,Needham,Hold,,init,ACB
+2020-05-15,Piper Sandler,Neutral,Underweight,up,ACB
+2020-09-08,Ladenburg Thalmann,Neutral,Buy,down,ACB
+2020-09-23,Piper Sandler,Neutral,,main,ACB
+2020-12-18,BMO Capital,Underperform,Market Perform,down,ACB

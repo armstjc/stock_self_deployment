@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-09-12,BTIG Research,Buy,,init,IMXI
+2019-10-18,KeyBanc,Sector Weight,,init,IMXI
+2019-11-12,Cantor Fitzgerald,Overweight,,main,IMXI
+2019-11-21,Cowen & Co.,Outperform,,init,IMXI
+2020-01-16,JMP Securities,Market Perform,Market Outperform,down,IMXI
+2020-01-24,Credit Suisse,Neutral,,init,IMXI
+2020-03-10,Cantor Fitzgerald,Overweight,,main,IMXI
+2020-03-10,Cowen & Co.,Market Perform,Outperform,down,IMXI
+2020-03-10,Credit Suisse,Neutral,,main,IMXI
+2020-03-30,BTIG,Buy,,main,IMXI
+2020-05-01,Credit Suisse,Neutral,,main,IMXI
+2020-08-05,JMP Securities,Outperform,Market Perform,up,IMXI
+2020-11-05,BMO Capital,Market Perform,,main,IMXI
+2020-11-05,Credit Suisse,Neutral,,main,IMXI
+2021-08-06,BMO Capital,Outperform,Market Perform,up,IMXI
+2021-11-04,Credit Suisse,Neutral,,main,IMXI

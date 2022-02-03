@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-15,Goldman Sachs,Neutral,,init,GO
+2019-07-15,Morgan Stanley,Equal-Weight,,init,GO
+2019-07-15,Jefferies,Buy,,init,GO
+2019-07-15,Telsey Advisory Group,Outperform,,init,GO
+2019-07-15,Bank of America,Neutral,,init,GO
+2019-08-14,Deutsche Bank,Buy,,main,GO
+2020-01-29,Craig-Hallum,Buy,,init,GO
+2020-02-12,Morgan Stanley,Equal-Weight,,main,GO
+2020-02-18,Deutsche Bank,Buy,,main,GO
+2020-03-17,Morgan Stanley,Equal-Weight,,main,GO
+2020-03-25,Deutsche Bank,Buy,,main,GO
+2020-03-25,Morgan Stanley,Equal-Weight,,main,GO
+2020-05-12,Morgan Stanley,Equal-Weight,,main,GO
+2020-05-12,Deutsche Bank,Buy,,main,GO
+2020-05-12,UBS,Neutral,,main,GO
+2020-06-16,Nomura Instinet,Buy,,init,GO
+2020-07-30,MKM Partners,Buy,,init,GO
+2020-08-04,Deutsche Bank,Buy,,main,GO
+2020-08-11,UBS,Neutral,,main,GO
+2020-08-12,Morgan Stanley,Equal-Weight,,main,GO
+2020-08-14,DA Davidson,Buy,,init,GO
+2020-11-11,Morgan Stanley,Equal-Weight,,main,GO
+2021-03-03,Morgan Stanley,Equal-Weight,,main,GO
+2021-05-12,Deutsche Bank,Hold,Buy,down,GO
+2021-05-12,Craig-Hallum,Hold,Buy,down,GO
+2021-05-12,Morgan Stanley,Equal-Weight,,main,GO
+2021-06-04,Jefferies,Hold,Buy,down,GO
+2021-08-11,Telsey Advisory Group,Outperform,,main,GO
+2021-08-11,MKM Partners,Neutral,Buy,down,GO
+2021-11-03,Telsey Advisory Group,Outperform,,main,GO
+2021-11-10,MKM Partners,Neutral,,main,GO
+2021-11-11,Morgan Stanley,Equal-Weight,,main,GO

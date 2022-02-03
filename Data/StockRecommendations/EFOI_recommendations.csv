@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-25,H.C. Wainwright,Buy,,init,EFOI
+2015-08-19,Roth Capital,Buy,,main,EFOI
+2015-08-28,H.C. Wainwright,Buy,,main,EFOI
+2015-11-05,Roth Capital,Neutral,Buy,down,EFOI
+2015-11-06,Canaccord Genuity,Buy,,init,EFOI
+2015-12-18,FBR Capital,Outperform,,init,EFOI
+2016-01-15,Benchmark,Buy,,init,EFOI
+2016-03-16,Canaccord Genuity,Hold,Buy,down,EFOI
+2016-08-12,Benchmark,Hold,Buy,down,EFOI
+2016-08-12,Oppenheimer,Hold,Buy,down,EFOI
+2016-08-15,FBR Capital,Market Perform,Outperform,down,EFOI
+2016-08-15,Rodman & Renshaw,Buy,,main,EFOI

@@ -1,0 +1,234 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-29,Citigroup,Buy,,main,JPM
+2012-03-01,Citigroup,Buy,,main,JPM
+2012-03-08,Morgan Stanley,Overweight,,main,JPM
+2012-03-19,Morgan Stanley,Overweight,,main,JPM
+2012-03-27,Bank oferica,Buy,,main,JPM
+2012-03-29,Citigroup,Buy,,main,JPM
+2012-03-30,Deutsche Bank,Buy,,main,JPM
+2012-04-02,UBS,Buy,,main,JPM
+2012-05-11,Stifel Nicolaus,Hold,,down,JPM
+2012-05-11,FBR Capital,Market Perform,,down,JPM
+2012-05-14,Standpoint Research,Buy,,up,JPM
+2012-05-21,JMP Securities,Underperform,,down,JPM
+2012-05-21,Guggenheim,Buy,,main,JPM
+2012-05-22,UBS,Buy,,main,JPM
+2012-05-22,Sterne Agee,Neutral,,main,JPM
+2012-05-22,Credit Suisse,Outperform,,main,JPM
+2012-06-26,Goldman Sachs,Buy,Buy,up,JPM
+2012-07-13,ISI Group,Buy,,main,JPM
+2012-07-30,Deutsche Bank,Hold,Buy,down,JPM
+2012-09-14,Standpoint Research,Hold,Buy,down,JPM
+2012-09-17,Citigroup,Buy,,main,JPM
+2012-10-02,Drexel Hamilton,Buy,,init,JPM
+2012-11-16,Standpoint Research,Buy,Hold,up,JPM
+2013-01-03,Nomura,Buy,,main,JPM
+2013-01-03,Sterne Agee,Buy,Neutral,up,JPM
+2013-01-04,Deutsche Bank,Hold,,main,JPM
+2013-01-04,Goldman Sachs,Buy,,main,JPM
+2013-01-08,Standpoint Research,Hold,Buy,down,JPM
+2013-01-09,Credit Suisse,Outperform,,main,JPM
+2013-01-10,UBS,Buy,,main,JPM
+2013-01-17,ISI Group,Buy,,main,JPM
+2013-01-17,Oppenheimer,Outperform,,main,JPM
+2013-01-17,Nomura,Buy,,main,JPM
+2013-01-25,Deutsche Bank,Buy,Hold,up,JPM
+2013-02-25,ISI Group,Buy,,main,JPM
+2013-02-27,UBS,Buy,,main,JPM
+2013-02-27,Morgan Stanley,Overweight,,main,JPM
+2013-04-14,Oppenheimer,Outperform,,main,JPM
+2013-04-15,Nomura,Buy,,main,JPM
+2013-04-24,Standpoint Research,Buy,Hold,up,JPM
+2013-06-07,Macquarie,Neutral,Outperform,down,JPM
+2013-07-02,Raymond James,Strong Buy,Outperform,up,JPM
+2013-07-24,Standpoint Research,Hold,Buy,down,JPM
+2013-08-26,Rafferty,Hold,Buy,down,JPM
+2013-09-19,Societe Generale,Hold,,init,JPM
+2013-12-18,SunTrust Robinson Humphrey,Neutral,Buy,down,JPM
+2013-12-19,SunTrust Robinson Humphrey,Neutral,Buy,down,JPM
+2014-01-02,Citigroup,Buy,,main,JPM
+2014-01-08,Jefferies,Buy,,init,JPM
+2014-01-09,Nomura,Neutral,,init,JPM
+2014-01-15,Nomura,Neutral,,main,JPM
+2014-01-28,Mediobanca Securities,Neutral,Outperform,down,JPM
+2014-02-10,Societe Generale,Buy,Hold,up,JPM
+2014-02-26,Goldman Sachs,Buy,,main,JPM
+2014-02-26,Nomura,Neutral,,main,JPM
+2014-04-04,Macquarie,Outperform,Neutral,up,JPM
+2014-04-14,Wells Fargo,Buy,,main,JPM
+2014-04-14,Jefferies,Buy,,main,JPM
+2014-04-14,Macquarie,Outperform,,main,JPM
+2014-04-14,FBR Capital,Market Perform,,main,JPM
+2014-04-21,Nomura,Neutral,,main,JPM
+2014-05-05,Citigroup,Buy,,main,JPM
+2014-05-12,Jefferies,Buy,,main,JPM
+2014-05-21,MKM Partners,Buy,,init,JPM
+2014-07-15,Rafferty,Buy,Hold,up,JPM
+2014-07-15,Portales Partners,Outperform,Underperform,up,JPM
+2014-07-21,FBR Capital,Outperform,Market Perform,up,JPM
+2014-09-03,Nomura,Buy,Neutral,up,JPM
+2014-10-02,UBS,Neutral,Buy,down,JPM
+2014-10-15,Argus Capital,Buy,Hold,up,JPM
+2014-11-11,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,JPM
+2015-01-05,Barclays,Overweight,,main,JPM
+2015-01-08,Credit Suisse,Outperform,,init,JPM
+2015-01-14,HSBC,Underweight,Neutral,down,JPM
+2015-01-15,Jefferies,Buy,,main,JPM
+2015-02-26,Citigroup,Buy,,main,JPM
+2015-03-13,Oppenheimer,Outperform,,main,JPM
+2015-04-07,Bernstein,Outperform,Market Perform,up,JPM
+2015-04-15,Macquarie,Outperform,,main,JPM
+2015-04-15,Keefe Bruyette & Woods,Market Perform,,main,JPM
+2015-05-11,MKM Partners,Neutral,Buy,down,JPM
+2015-06-29,Oppenheimer,Perform,Outperform,down,JPM
+2015-07-15,Keefe Bruyette & Woods,Market Perform,,main,JPM
+2015-07-15,BMO Capital,Market Perform,,main,JPM
+2015-07-20,Jefferies,Buy,,main,JPM
+2015-08-17,Keefe Bruyette & Woods,Outperform,Market Perform,up,JPM
+2015-08-25,CLSA,Buy,Outperform,up,JPM
+2015-09-16,BMO Capital,Outperform,Market Perform,up,JPM
+2015-10-05,Citigroup,Buy,,main,JPM
+2015-10-07,Jefferies,Buy,,main,JPM
+2015-10-14,Keefe Bruyette & Woods,Outperform,,main,JPM
+2016-01-11,Nomura,Buy,,main,JPM
+2016-01-11,Goldman Sachs,Neutral,Buy,down,JPM
+2016-01-15,Macquarie,Outperform,,main,JPM
+2016-01-15,Argus,Buy,,main,JPM
+2016-01-15,Atlantic Equities,Overweight,Neutral,up,JPM
+2016-01-25,Nomura,Neutral,Buy,down,JPM
+2016-01-26,Deutsche Bank,Buy,,main,JPM
+2016-02-05,UBS,Buy,Neutral,up,JPM
+2016-02-22,Portales Partners,Underperform,Sector Perform,down,JPM
+2016-02-24,Nomura,Neutral,,main,JPM
+2016-02-24,Jefferies,Buy,,main,JPM
+2016-02-24,Buckingham Research,Buy,,main,JPM
+2016-02-24,Keefe Bruyette & Woods,Outperform,,main,JPM
+2016-04-14,Nomura,Neutral,,main,JPM
+2016-04-14,BMO Capital,Outperform,,main,JPM
+2016-04-14,Goldman Sachs,Neutral,,main,JPM
+2016-04-25,Erste Group,Hold,Buy,down,JPM
+2016-05-16,Keefe Bruyette & Woods,Outperform,,main,JPM
+2016-07-13,Berenberg,Sell,,init,JPM
+2016-07-15,Keefe Bruyette & Woods,Outperform,,main,JPM
+2016-08-08,Citigroup,Neutral,Buy,down,JPM
+2016-08-16,Bernstein,Market Perform,Outperform,down,JPM
+2016-09-07,Nomura,Neutral,,main,JPM
+2016-09-09,Macquarie,Neutral,Outperform,down,JPM
+2016-09-23,CLSA,Buy,,main,JPM
+2016-10-06,Sandler O'Neill,Hold,Buy,down,JPM
+2016-10-10,Jefferies,Buy,,main,JPM
+2016-10-17,Buckingham,Neutral,Buy,down,JPM
+2016-10-17,BMO Capital,Market Perform,Outperform,down,JPM
+2016-11-09,Baird,Neutral,Outperform,down,JPM
+2016-11-30,Deutsche Bank,Buy,,main,JPM
+2017-01-11,UBS,Buy,,init,JPM
+2017-01-17,Keefe Bruyette & Woods,Market Perform,Outperform,down,JPM
+2017-04-25,Guggenheim,Buy,,up,JPM
+2017-07-17,Credit Suisse,Outperform,,main,JPM
+2017-09-26,Deutsche Bank,Hold,Buy,down,JPM
+2017-10-06,Citigroup,Neutral,,main,JPM
+2017-10-13,Baird,Neutral,,main,JPM
+2017-10-13,Morgan Stanley,Overweight,,main,JPM
+2017-10-13,BMO Capital,Market Perform,,main,JPM
+2017-10-13,Nomura,Neutral,,main,JPM
+2017-10-13,Barclays,Overweight,,main,JPM
+2017-10-13,Bank of America,Buy,,main,JPM
+2017-12-21,Buckingham,Buy,Neutral,up,JPM
+2018-01-17,DZ Bank,Hold,Sell,up,JPM
+2018-02-02,Morgan Stanley,Overweight,Overweight,main,JPM
+2018-02-13,Keefe Bruyette & Woods,Outperform,Market Perform,up,JPM
+2018-02-21,Morgan Stanley,Overweight,Overweight,main,JPM
+2018-02-28,BMO Capital,Market Perform,Market Perform,main,JPM
+2018-02-28,Nomura,Neutral,Neutral,main,JPM
+2018-03-19,Credit Suisse,Outperform,Outperform,main,JPM
+2018-04-11,HSBC,Hold,,init,JPM
+2018-04-30,Morgan Stanley,Overweight,Overweight,main,JPM
+2018-07-16,BMO Capital,Market Perform,Market Perform,main,JPM
+2018-07-19,DZ Bank,Buy,Hold,up,JPM
+2018-09-17,Bank of America,Buy,Buy,main,JPM
+2018-09-26,Citigroup,Neutral,Neutral,main,JPM
+2018-12-07,Credit Suisse,Outperform,Outperform,main,JPM
+2019-01-08,Jefferies,Hold,Buy,down,JPM
+2019-01-08,Morgan Stanley,Overweight,Overweight,main,JPM
+2019-01-16,BMO Capital,Market Perform,Market Perform,main,JPM
+2019-02-14,Wells Fargo,Outperform,Outperform,main,JPM
+2019-02-28,BMO Capital,Market Perform,Market Perform,main,JPM
+2019-04-15,Morgan Stanley,Overweight,Overweight,main,JPM
+2019-04-15,Credit Suisse,Outperform,Outperform,main,JPM
+2019-04-15,BMO Capital,Market Perform,Market Perform,main,JPM
+2019-08-21,DZ Bank,Hold,Buy,down,JPM
+2019-09-16,Buckingham,Neutral,Buy,down,JPM
+2019-09-16,Buckingham Research,Neutral,Buy,down,JPM
+2019-10-03,UBS,Buy,,main,JPM
+2019-10-16,Baird,Neutral,,main,JPM
+2019-10-16,Morgan Stanley,Overweight,,main,JPM
+2019-10-16,UBS,Buy,,main,JPM
+2019-10-29,Morgan Stanley,Overweight,,main,JPM
+2019-11-18,Morgan Stanley,Overweight,,main,JPM
+2019-11-26,Credit Suisse,Outperform,,main,JPM
+2019-12-10,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,JPM
+2019-12-16,Citigroup,Neutral,,main,JPM
+2019-12-20,Wells Fargo,Overweight,,main,JPM
+2020-01-06,Wolfe Research,Peer Perform,Outperform,down,JPM
+2020-01-08,DA Davidson,Neutral,,init,JPM
+2020-01-09,DA Davidson,Neutral,,init,JPM
+2020-01-15,Morgan Stanley,Overweight,,main,JPM
+2020-01-15,Credit Suisse,Outperform,,main,JPM
+2020-01-15,Piper Sandler,Neutral,,main,JPM
+2020-01-15,B of A Securities,Buy,,reit,JPM
+2020-01-16,Credit Suisse,Outperform,,main,JPM
+2020-02-03,Odeon Capital,Buy,Hold,up,JPM
+2020-02-26,BMO Capital,Market Perform,,main,JPM
+2020-03-02,Morgan Stanley,Overweight,,main,JPM
+2020-03-02,Piper Sandler,Overweight,Neutral,up,JPM
+2020-03-09,Morgan Stanley,Overweight,,main,JPM
+2020-03-10,Citigroup,Neutral,,main,JPM
+2020-03-20,DZ Bank,Buy,Hold,up,JPM
+2020-03-27,Morgan Stanley,Overweight,,main,JPM
+2020-03-27,Citigroup,Neutral,,main,JPM
+2020-04-01,Wells Fargo,Overweight,,main,JPM
+2020-04-02,Deutsche Bank,Hold,,main,JPM
+2020-04-03,Piper Sandler,Overweight,,main,JPM
+2020-04-06,Wells Fargo,Overweight,,main,JPM
+2020-04-06,UBS,Neutral,,main,JPM
+2020-04-15,BMO Capital,Market Perform,,main,JPM
+2020-04-15,Morgan Stanley,Overweight,,main,JPM
+2020-05-04,UBS,Neutral,,main,JPM
+2020-06-25,Morgan Stanley,Overweight,,main,JPM
+2020-07-08,Seaport Global,Buy,,init,JPM
+2020-07-09,Wolfe Research,Outperform,Peer Perform,up,JPM
+2020-07-09,DA Davidson,Buy,Neutral,up,JPM
+2020-07-22,Atlantic Equities,Overweight,Neutral,up,JPM
+2020-09-03,Deutsche Bank,Buy,Hold,up,JPM
+2020-09-17,RBC Capital,Outperform,,main,JPM
+2020-09-29,Independent Research,Buy,Hold,up,JPM
+2020-10-14,Credit Suisse,Outperform,,main,JPM
+2020-11-19,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,JPM
+2020-11-30,Morgan Stanley,Underweight,Overweight,down,JPM
+2020-12-03,Independent Research,Hold,Buy,down,JPM
+2021-01-07,B of A Securities,Buy,Neutral,up,JPM
+2021-01-07,Jefferies,Buy,Hold,up,JPM
+2021-01-19,Credit Suisse,Outperform,,main,JPM
+2021-03-01,Morgan Stanley,Underweight,,main,JPM
+2021-03-15,Wells Fargo,Overweight,,main,JPM
+2021-03-22,Credit Suisse,Outperform,,main,JPM
+2021-04-01,Deutsche Bank,Buy,,main,JPM
+2021-04-09,Jefferies,Buy,,main,JPM
+2021-04-15,DA Davidson,Buy,,main,JPM
+2021-04-15,Piper Sandler,Overweight,,main,JPM
+2021-04-15,RBC Capital,Outperform,,main,JPM
+2021-04-27,Atlantic Equities,Neutral,Overweight,down,JPM
+2021-04-30,Wells Fargo,Overweight,,main,JPM
+2021-06-08,Wells Fargo,Overweight,,main,JPM
+2021-07-14,BMO Capital,Market Perform,,main,JPM
+2021-07-29,Morgan Stanley,Underweight,,main,JPM
+2021-10-11,Jefferies,Buy,,main,JPM
+2021-10-14,RBC Capital,Outperform,,main,JPM
+2021-10-15,Barclays,Overweight,,main,JPM
+2021-10-25,Wells Fargo,Overweight,,main,JPM
+2021-12-06,Morgan Stanley,Underweight,,main,JPM
+2022-01-03,Barclays,Overweight,,main,JPM
+2022-01-04,Wolfe Research,Peer Perform,Outperform,down,JPM
+2022-01-05,Seaport Global,Buy,,main,JPM
+2022-01-18,Morgan Stanley,Underweight,,main,JPM
+2022-01-18,Citigroup,Neutral,,main,JPM

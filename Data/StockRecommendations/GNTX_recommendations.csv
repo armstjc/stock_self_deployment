@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-19,Bank of America,Underperform,,main,GNTX
+2012-07-18,JP Morgan,Overweight,,init,GNTX
+2012-07-25,Jefferies,Hold,,main,GNTX
+2012-07-25,JP Morgan,Overweight,,main,GNTX
+2012-07-25,Craig-Hallum,Hold,Buy,down,GNTX
+2013-01-29,Bank of America,Underperform,,main,GNTX
+2013-01-30,Jefferies,Hold,,main,GNTX
+2013-04-23,Jefferies,Hold,,main,GNTX
+2013-04-24,Jefferies,Hold,,main,GNTX
+2013-07-01,JP Morgan,Neutral,Overweight,down,GNTX
+2013-07-09,Baird,Neutral,Outperform,down,GNTX
+2013-07-25,Buckingham Research,Underperform,Neutral,down,GNTX
+2013-10-23,Craig-Hallum,Buy,Hold,up,GNTX
+2013-10-23,Baird,Outperform,Neutral,up,GNTX
+2013-10-23,Jefferies,Hold,,main,GNTX
+2013-10-24,Guggenheim,Neutral,Buy,down,GNTX
+2014-04-22,JP Morgan,Neutral,,main,GNTX
+2014-04-29,Pacific Crest,Sector Perform,,init,GNTX
+2014-07-25,Wellington Shields,Buy,Gradually Accumulate,up,GNTX
+2014-09-22,JP Morgan,Neutral,,main,GNTX
+2014-10-02,Wells Fargo,Outperform,Market Perform,up,GNTX
+2014-10-23,JP Morgan,Neutral,,main,GNTX
+2014-12-04,KeyBanc,Buy,Hold,up,GNTX
+2015-01-26,JP Morgan,Neutral,,main,GNTX
+2015-01-29,JP Morgan,Neutral,,main,GNTX
+2016-01-27,Baird,Neutral,Outperform,down,GNTX
+2016-12-21,BMO Capital,Outperform,,init,GNTX
+2017-07-24,Craig-Hallum,Hold,Buy,down,GNTX
+2017-08-24,Baird,Outperform,Neutral,up,GNTX
+2017-10-23,Baird,Outperform,,main,GNTX
+2018-01-05,Longbow Research,Buy,,init,GNTX
+2018-04-24,JP Morgan,Neutral,Neutral,main,GNTX
+2018-10-22,Baird,Neutral,Neutral,main,GNTX
+2018-10-22,BMO Capital,Outperform,Outperform,main,GNTX
+2018-12-04,Jefferies,Hold,,init,GNTX
+2018-12-11,KeyBanc,Sector Weight,,init,GNTX
+2019-02-05,Longbow Research,Neutral,Buy,down,GNTX
+2019-04-02,BMO Capital,Outperform,Outperform,main,GNTX
+2019-10-16,Guggenheim,Buy,,init,GNTX
+2019-10-21,B. Riley,Buy,,main,GNTX
+2020-01-06,Jefferies,Buy,Hold,up,GNTX
+2020-01-31,CFRA,Buy,,reit,GNTX
+2020-04-15,Goldman Sachs,Sell,,init,GNTX
+2020-04-24,CFRA,Buy,,main,GNTX
+2020-07-27,KeyBanc,Overweight,Sector Weight,up,GNTX
+2020-07-27,Jefferies,Buy,,main,GNTX
+2020-10-09,Jefferies,Buy,,main,GNTX
+2020-10-26,KeyBanc,Overweight,,main,GNTX
+2020-11-17,B of A Securities,Underperform,,main,GNTX
+2020-11-19,KeyBanc,Overweight,,main,GNTX
+2021-01-25,KeyBanc,Overweight,,main,GNTX
+2021-01-28,Seaport Global,Neutral,,init,GNTX
+2021-07-26,Keybanc,Overweight,,main,GNTX
+2021-07-26,Seaport Global,Buy,Neutral,up,GNTX

@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-12-17,UBS,Buy,,main,NLOK
+2020-01-06,Barclays,Overweight,Equal-Weight,up,NLOK
+2020-02-04,Mizuho,Buy,,main,NLOK
+2020-02-04,Credit Suisse,Neutral,,main,NLOK
+2020-02-04,Baird,Neutral,,main,NLOK
+2020-02-07,Mizuho,Buy,,main,NLOK
+2020-02-07,Wells Fargo,Equal-Weight,,main,NLOK
+2020-05-15,Stifel,Hold,,main,NLOK
+2020-05-15,Morgan Stanley,Overweight,,main,NLOK
+2020-05-15,Credit Suisse,Neutral,,main,NLOK
+2020-05-15,Citigroup,Neutral,,main,NLOK
+2020-05-15,Mizuho,Buy,,main,NLOK
+2020-05-15,Baird,Neutral,,main,NLOK
+2020-05-15,UBS,Buy,,main,NLOK
+2020-06-08,Baird,Outperform,Neutral,up,NLOK
+2020-08-10,Citigroup,Neutral,,main,NLOK
+2020-08-21,Argus Research,Buy,Hold,up,NLOK
+2020-09-01,Morgan Stanley,Overweight,,main,NLOK
+2020-11-11,Morgan Stanley,Overweight,,main,NLOK
+2021-02-05,Morgan Stanley,Overweight,,main,NLOK
+2021-02-05,Credit Suisse,Neutral,,main,NLOK
+2021-04-13,B of A Securities,Underperform,,init,NLOK
+2021-05-12,B of A Securities,Buy,Underperform,up,NLOK
+2021-05-12,Morgan Stanley,Overweight,,main,NLOK
+2021-11-05,RBC Capital,Sector Perform,,main,NLOK

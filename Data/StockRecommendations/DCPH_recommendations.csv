@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-10-23,JMP Securities,Market Outperform,,init,DCPH
+2017-10-23,Instinet,Buy,,init,DCPH
+2017-10-23,JP Morgan,Overweight,,init,DCPH
+2018-02-16,B. Riley FBR,Buy,,init,DCPH
+2018-05-09,B. Riley FBR,Buy,Buy,main,DCPH
+2018-06-04,JP Morgan,Overweight,Overweight,main,DCPH
+2018-06-19,B. Riley FBR,Neutral,Buy,down,DCPH
+2018-08-07,Canaccord Genuity,Buy,,init,DCPH
+2018-08-23,Cantor Fitzgerald,Overweight,,init,DCPH
+2018-08-29,Raymond James,Outperform,,init,DCPH
+2018-09-25,Leerink Swann,Underperform,,init,DCPH
+2019-03-15,Canaccord Genuity,Buy,Buy,main,DCPH
+2019-07-18,Deutsche Bank,Buy,,init,DCPH
+2019-08-14,Cantor Fitzgerald,Overweight,,main,DCPH
+2019-08-14,Canaccord Genuity,Buy,,reit,DCPH
+2019-09-30,Jefferies,Buy,,init,DCPH
+2019-10-03,H.C. Wainwright,Buy,,init,DCPH
+2019-10-29,SVB Leerink,Market Perform,Underperform,up,DCPH
+2019-11-05,JMP Securities,Market Outperform,,main,DCPH
+2020-01-13,SunTrust Robinson Humphrey,Buy,,init,DCPH
+2020-01-22,Nomura,Buy,,main,DCPH
+2020-03-04,Barclays,Overweight,,init,DCPH
+2020-04-29,SVB Leerink,Market Perform,,main,DCPH
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,DCPH
+2020-05-06,JP Morgan,Overweight,,main,DCPH
+2020-05-06,H.C. Wainwright,Buy,,reit,DCPH
+2020-05-07,Nomura,Neutral,Buy,down,DCPH
+2020-05-07,Nomura Instinet,Neutral,Buy,down,DCPH
+2020-05-18,SunTrust Robinson Humphrey,Buy,,main,DCPH
+2020-08-05,SVB Leerink,Market Perform,,main,DCPH
+2020-09-14,SVB Leerink,Market Perform,,main,DCPH
+2020-11-12,SVB Leerink,Market Perform,,main,DCPH
+2020-12-03,Stifel,Buy,,init,DCPH
+2021-02-10,SVB Leerink,Outperform,Market Perform,up,DCPH
+2021-02-10,Barclays,Overweight,,main,DCPH
+2021-03-31,Credit Suisse,Outperform,,init,DCPH
+2021-05-05,HC Wainwright & Co.,Buy,,main,DCPH
+2021-08-04,HC Wainwright & Co.,Buy,,main,DCPH
+2021-11-05,JMP Securities,Market Outperform,,main,DCPH
+2021-11-05,Truist Securities,Hold,Buy,down,DCPH
+2021-11-08,Stifel,Hold,Buy,down,DCPH
+2021-11-08,Barclays,Equal-Weight,Overweight,down,DCPH
+2021-11-08,HC Wainwright & Co.,Buy,,main,DCPH
+2021-11-08,Canaccord Genuity,Hold,Buy,down,DCPH
+2021-11-08,Truist Securities,Hold,Buy,down,DCPH
+2021-12-01,HC Wainwright & Co.,Buy,,main,DCPH

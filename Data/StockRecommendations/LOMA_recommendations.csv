@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-27,Morgan Stanley,Equal-Weight,,init,LOMA
+2017-11-27,Bank of America,Neutral,,init,LOMA
+2017-11-28,HSBC,Hold,,init,LOMA
+2018-05-08,HSBC,Buy,Hold,up,LOMA
+2018-05-08,Morgan Stanley,Overweight,Equal-Weight,up,LOMA
+2018-05-09,Citigroup,Buy,Neutral,up,LOMA
+2018-09-24,Bank of America,Buy,Buy,main,LOMA
+2019-08-14,Bank of America,Neutral,Buy,down,LOMA
+2019-11-27,Morgan Stanley,Underweight,Equal-Weight,down,LOMA
+2020-02-24,Bank of America,Underperform,Neutral,down,LOMA
