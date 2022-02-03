@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-05,Argus,Buy,,main,THRM
+2014-05-12,Singular Research,Buy,,init,THRM
+2014-06-25,Barrington Research,Market Perform,,init,THRM
+2014-07-23,JP Morgan,Overweight,,init,THRM
+2014-09-22,JP Morgan,Overweight,,main,THRM
+2014-10-02,Barrington Research,Outperform,Market Perform,up,THRM
+2015-01-26,JP Morgan,Overweight,,main,THRM
+2015-02-25,JP Morgan,Overweight,,main,THRM
+2016-07-28,Barrington Research,Market Perform,Outperform,down,THRM
+2016-07-29,FBR Capital,Market Perform,,main,THRM
+2016-07-29,Buckingham Research,Neutral,Buy,down,THRM
+2016-07-29,JP Morgan,Overweight,,main,THRM
+2016-09-23,Argus,Hold,Buy,down,THRM
+2016-10-13,FBR Capital,Outperform,Market Perform,up,THRM
+2016-12-21,BMO Capital,Outperform,,init,THRM
+2017-01-13,Barrington Research,Outperform,Market Perform,up,THRM
+2017-08-01,BMO Capital,Outperform,,main,THRM
+2018-01-05,Longbow Research,Underweight,,init,THRM
+2018-02-21,JP Morgan,Overweight,Overweight,main,THRM
+2018-02-21,Craig-Hallum,Buy,Neutral,up,THRM
+2018-02-28,BMO Capital,Outperform,Outperform,main,THRM
+2018-05-01,Buckingham,Neutral,Neutral,main,THRM
+2018-06-26,B. Riley FBR,Buy,Buy,main,THRM
+2018-07-27,JP Morgan,Overweight,Overweight,main,THRM
+2018-07-27,Buckingham,Neutral,Neutral,main,THRM
+2018-07-31,BMO Capital,Outperform,Outperform,main,THRM
+2018-10-03,Buckingham,Neutral,Neutral,main,THRM
+2018-10-19,JP Morgan,Neutral,Overweight,down,THRM
+2019-07-29,Argus,Hold,Buy,down,THRM
+2019-10-30,Buckingham,Neutral,,main,THRM
+2020-02-20,Craig-Hallum,Hold,,main,THRM
+2020-02-21,Argus Research,Buy,Hold,up,THRM
+2021-01-22,JP Morgan,Underweight,Neutral,down,THRM
+2021-07-30,Craig-Hallum,Buy,Hold,up,THRM
+2021-07-30,Roth Capital,Buy,,main,THRM
+2021-09-22,Baird,Outperform,,init,THRM
+2021-10-27,Seaport Global,Buy,,init,THRM

@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-24,Citigroup,Neutral,,init,VERX
+2020-08-24,Goldman Sachs,Neutral,,init,VERX
+2020-08-24,B of A Securities,Neutral,,init,VERX
+2020-08-24,Stifel,Buy,,init,VERX
+2020-08-24,Morgan Stanley,Equal-Weight,,init,VERX
+2020-08-24,William Blair,Outperform,,init,VERX
+2020-08-24,Jefferies,Buy,,init,VERX
+2020-11-12,Morgan Stanley,Equal-Weight,,main,VERX
+2020-11-17,Needham,Buy,,init,VERX
+2021-04-07,Morgan Stanley,Underweight,Equal-Weight,down,VERX
+2021-05-14,Morgan Stanley,Underweight,,main,VERX
+2021-06-03,Goldman Sachs,Sell,Neutral,down,VERX
+2021-08-24,Berenberg,Buy,,init,VERX
+2021-08-25,Berenberg,Buy,,init,VERX
+2021-10-04,B of A Securities,Underperform,Neutral,down,VERX

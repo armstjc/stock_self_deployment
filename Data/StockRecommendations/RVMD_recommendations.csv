@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-09,Guggenheim Securities,Buy,,init,RVMD
+2020-03-09,JP Morgan,Neutral,,init,RVMD
+2020-03-09,Cowen & Co.,Outperform,,init,RVMD
+2020-05-21,HC Wainwright & Co.,Buy,,init,RVMD
+2020-08-10,SVB Leerink,Outperform,,main,RVMD
+2020-08-11,HC Wainwright & Co.,Buy,,main,RVMD
+2020-10-26,HC Wainwright & Co.,Buy,,main,RVMD
+2021-05-11,SVB Leerink,Outperform,,main,RVMD
+2021-05-18,Goldman Sachs,Buy,,init,RVMD
+2021-08-12,SVB Leerink,Outperform,,main,RVMD
+2021-08-12,Goldman Sachs,Neutral,Buy,down,RVMD
+2021-08-17,HC Wainwright & Co.,Buy,,main,RVMD
+2021-09-23,Stifel,Hold,,init,RVMD
+2021-11-12,HC Wainwright & Co.,Buy,,main,RVMD

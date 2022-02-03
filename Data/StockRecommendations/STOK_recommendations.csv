@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-15,Canaccord Genuity,Buy,,init,STOK
+2019-07-15,JP Morgan,Overweight,,init,STOK
+2019-07-15,Credit Suisse,Outperform,,init,STOK
+2019-07-15,Cowen & Co.,Outperform,,init,STOK
+2019-10-25,H.C. Wainwright,Buy,,init,STOK
+2019-11-12,BTIG,Neutral,,init,STOK
+2019-12-03,JP Morgan,Overweight,,main,STOK
+2019-12-18,Wedbush,Outperform,,init,STOK
+2020-09-29,Needham,Buy,,init,STOK
+2020-10-23,Cantor Fitzgerald,Overweight,,init,STOK
+2020-11-13,Credit Suisse,Outperform,,main,STOK
+2020-11-13,Canaccord Genuity,Buy,,main,STOK
+2020-12-11,Needham,Buy,,main,STOK
+2020-12-28,Canaccord Genuity,Buy,,main,STOK
+2021-01-14,Needham,Buy,,main,STOK
+2021-02-10,Wedbush,Neutral,Outperform,down,STOK
+2021-03-10,Credit Suisse,Outperform,,main,STOK
+2021-03-11,Canaccord Genuity,Buy,,main,STOK
+2021-05-10,Wedbush,Outperform,Neutral,up,STOK
+2021-05-18,UBS,Neutral,,init,STOK
+2021-11-22,JP Morgan,Overweight,Neutral,up,STOK
+2021-12-03,B of A Securities,Buy,,init,STOK

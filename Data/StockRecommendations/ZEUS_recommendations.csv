@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Jefferies,Buy,,main,ZEUS
+2012-08-06,Jefferies,Buy,,main,ZEUS
+2012-12-04,Jefferies,Hold,Buy,down,ZEUS
+2013-01-02,Credit Suisse,Neutral,Underperform,up,ZEUS
+2013-04-12,Davenport,Neutral,Buy,down,ZEUS
+2013-08-12,Macquarie,Neutral,Outperform,down,ZEUS
+2013-08-12,Jefferies,Hold,,main,ZEUS
+2013-09-16,Jefferies,Hold,,main,ZEUS
+2014-08-08,Jefferies,Hold,,main,ZEUS
+2014-08-08,Macquarie,Neutral,,main,ZEUS
+2014-11-07,Credit Suisse,Neutral,,main,ZEUS
+2014-12-17,Jefferies,Hold,,main,ZEUS
+2015-02-24,Credit Suisse,Underperform,Neutral,down,ZEUS
+2015-02-27,Jefferies,Hold,,main,ZEUS
+2015-03-16,Jefferies,Hold,,main,ZEUS
+2015-05-04,Credit Suisse,Outperform,Underperform,up,ZEUS
+2015-05-05,Macquarie,Outperform,Neutral,up,ZEUS
+2015-06-15,Jefferies,Hold,,main,ZEUS
+2015-08-10,Jefferies,Hold,,main,ZEUS
+2015-08-24,Jefferies,Buy,Hold,up,ZEUS
+2015-09-21,KeyBanc,Sector Weight,Overweight,down,ZEUS
+2016-01-13,Jefferies,Buy,,main,ZEUS
+2016-03-21,Jefferies,Hold,Buy,down,ZEUS
+2016-06-10,Jefferies,Hold,,main,ZEUS
+2016-08-19,KeyBanc,Underweight,Sector Weight,down,ZEUS
+2016-09-15,Jefferies,Hold,,main,ZEUS
+2016-09-19,KeyBanc,Sector Weight,Underweight,up,ZEUS
+2016-11-08,Macquarie,Neutral,Outperform,down,ZEUS
+2017-01-09,KeyBanc,Overweight,Sector Weight,up,ZEUS
+2017-03-14,Macquarie,Outperform,Neutral,up,ZEUS
+2017-05-04,KeyBanc,Sector Weight,Overweight,down,ZEUS

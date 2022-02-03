@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-30,KeyBanc,Buy,,up,SAFM
+2012-07-10,JP Morgan,Neutral,,main,SAFM
+2013-03-21,Sidoti & Co.,Neutral,Buy,down,SAFM
+2013-05-31,Stephens & Co.,Overweight,Equal-Weight,up,SAFM
+2013-06-18,KeyBanc,Hold,Buy,down,SAFM
+2013-10-21,Stephens & Co.,Equal-Weight,Overweight,down,SAFM
+2014-05-08,Goldman Sachs,Neutral,Buy,down,SAFM
+2014-07-30,CLSA,Underperform,Outperform,down,SAFM
+2014-12-08,JP Morgan,Neutral,,main,SAFM
+2015-04-06,KeyBanc,Underweight,Sector Weight,down,SAFM
+2015-04-24,Cleveland Research,Neutral,,down,SAFM
+2015-05-05,Stephens & Co.,Overweight,Equal-Weight,up,SAFM
+2015-10-19,BMO Capital,Market Perform,,main,SAFM
+2015-12-03,CLSA,Outperform,Underperform,up,SAFM
+2015-12-15,Jefferies,Underperform,,init,SAFM
+2015-12-16,Jefferies,Underperform,,init,SAFM
+2016-01-11,JP Morgan,Overweight,Neutral,up,SAFM
+2016-03-15,Goldman Sachs,Sell,Neutral,down,SAFM
+2016-05-27,JP Morgan,Neutral,Overweight,down,SAFM
+2016-08-18,CLSA,Buy,Outperform,up,SAFM
+2016-10-05,DA Davidson,Neutral,,init,SAFM
+2016-12-02,KeyBanc,Sector Weight,,init,SAFM
+2016-12-05,DA Davidson,Buy,Neutral,up,SAFM
+2017-03-27,KeyBanc,Overweight,,up,SAFM
+2017-06-06,Barclays,Equal-Weight,,init,SAFM
+2017-06-08,Mizuho,Buy,,init,SAFM
+2017-06-12,KeyBanc,Equal-Weight,Overweight,down,SAFM
+2017-08-25,BMO Capital,Market Perform,,main,SAFM
+2017-08-25,Barclays,Equal-Weight,,main,SAFM
+2017-10-02,Mizuho,Neutral,Buy,down,SAFM
+2017-10-06,JP Morgan,Underweight,Neutral,down,SAFM
+2017-10-31,KeyBanc,Sector Weight,,init,SAFM
+2017-11-03,Morgan Stanley,Equal-Weight,,init,SAFM
+2018-02-21,Buckingham,Neutral,,init,SAFM
+2018-02-23,Buckingham,Neutral,Neutral,main,SAFM
+2018-02-23,BMO Capital,Market Perform,Market Perform,main,SAFM
+2018-02-26,Barclays,Equal-Weight,Equal-Weight,main,SAFM
+2018-02-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,SAFM
+2018-02-28,Vertical Group,Buy,Hold,up,SAFM
+2018-04-11,Buckingham,Neutral,Neutral,main,SAFM
+2018-05-25,Buckingham,Neutral,Neutral,main,SAFM
+2018-05-25,BMO Capital,Market Perform,Market Perform,main,SAFM
+2018-06-01,JP Morgan,Underweight,Underweight,main,SAFM
+2018-07-25,Buckingham,Neutral,Neutral,main,SAFM
+2018-08-16,Buckingham,Neutral,Neutral,main,SAFM
+2018-08-24,Stephens & Co.,Overweight,Equal-Weight,up,SAFM
+2018-12-18,Barclays,Equal-Weight,Equal-Weight,main,SAFM
+2019-01-28,Mizuho,Buy,Neutral,up,SAFM
+2019-02-27,BMO Capital,Market Perform,Market Perform,main,SAFM
+2019-03-05,Stephens & Co.,Equal-Weight,,init,SAFM
+2019-03-13,JP Morgan,Neutral,Underweight,up,SAFM
+2019-04-11,Buckingham,Neutral,Neutral,main,SAFM
+2019-04-23,Goldman Sachs,Neutral,Sell,up,SAFM
+2019-10-25,Bank of America,Underperform,,init,SAFM
+2019-12-13,Credit Suisse,Outperform,,init,SAFM
+2019-12-20,Buckingham,Neutral,,main,SAFM
+2019-12-20,Barclays,Equal-Weight,,main,SAFM
+2020-01-28,Buckingham,Neutral,,main,SAFM
+2020-01-28,Buckingham Research,Neutral,,main,SAFM
+2020-02-28,Stephens & Co.,Equal-Weight,,reit,SAFM
+2020-02-28,JP Morgan,Neutral,,main,SAFM
+2020-03-20,JP Morgan,Overweight,Neutral,up,SAFM
+2020-03-31,Barclays,Overweight,Equal-Weight,up,SAFM
+2020-04-02,B of A Securities,Neutral,Buy,down,SAFM
+2020-04-02,JP Morgan,Overweight,,main,SAFM
+2020-04-03,Credit Suisse,Outperform,,main,SAFM
+2020-05-29,CFRA,Hold,,main,SAFM
+2020-08-05,Credit Suisse,Neutral,Outperform,down,SAFM
+2020-08-28,Credit Suisse,Neutral,,main,SAFM
+2020-09-08,Seaport Global,Neutral,,init,SAFM
+2020-09-10,Goldman Sachs,Buy,Neutral,up,SAFM
+2020-12-18,Goldman Sachs,Buy,Neutral,down,SAFM
+2021-01-21,BMO Capital,Outperform,Market Perform,up,SAFM
+2021-02-08,Stephens & Co.,Overweight,Equal-Weight,up,SAFM
+2021-02-26,Credit Suisse,Neutral,,main,SAFM
+2021-05-28,BMO Capital,Outperform,,main,SAFM
+2021-06-02,Barclays,Equal-Weight,Overweight,down,SAFM
+2021-06-22,JP Morgan,Overweight,,main,SAFM
+2021-07-09,Stephens & Co.,Equal-Weight,Overweight,down,SAFM
+2021-08-10,BMO Capital,Market Perform,Outperform,down,SAFM
+2021-08-10,JP Morgan,Neutral,Overweight,down,SAFM
+2021-08-18,Credit Suisse,Neutral,,main,SAFM
+2021-08-24,Barclays,Equal-Weight,,main,SAFM
+2021-08-27,Stephens & Co.,Equal-Weight,,main,SAFM

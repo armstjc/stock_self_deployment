@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Stifel Nicolaus,Buy,,main,SEIC
+2012-10-25,Keefe Bruyette & Woods,Outperform,Market Perform,up,SEIC
+2012-10-25,Stifel Nicolaus,Buy,,main,SEIC
+2013-01-31,Stifel Nicolaus,Buy,,main,SEIC
+2013-04-25,Keefe Bruyette & Woods,Market Perform,Outperform,down,SEIC
+2013-05-30,Stifel Nicolaus,Buy,,main,SEIC
+2014-07-24,Keefe Bruyette & Woods,Outperform,Market Perform,up,SEIC
+2014-07-30,Oppenheimer,Outperform,Market Perform,up,SEIC
+2014-09-16,Sterne Agee,Buy,,init,SEIC
+2014-12-09,Keefe Bruyette & Woods,Market Perform,Outperform,down,SEIC
+2015-01-09,William Blair,Outperform,,init,SEIC
+2015-01-29,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2015-03-05,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2015-04-23,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2015-05-20,CLSA,Outperform,,init,SEIC
+2015-06-05,Raymond James,Outperform,,init,SEIC
+2015-08-27,CLSA,Buy,Outperform,up,SEIC
+2015-09-03,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2015-10-22,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2016-01-15,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2016-01-28,Oppenheimer,Outperform,,main,SEIC
+2016-01-28,Keefe Bruyette & Woods,Underperform,,down,SEIC
+2016-04-06,Keefe Bruyette & Woods,Market Perform,Underperform,up,SEIC
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,SEIC
+2016-07-28,Oppenheimer,Outperform,,main,SEIC
+2017-04-20,Raymond James,Market Perform,Outperform,down,SEIC
+2017-06-28,Mizuho,Buy,,init,SEIC
+2018-10-24,Keefe Bruyette & Woods,Outperform,Market Perform,up,SEIC
+2019-04-15,Keefe Bruyette & Woods,Market Perform,Outperform,down,SEIC
+2020-04-24,Oppenheimer,Outperform,,main,SEIC
+2020-10-06,Morgan Stanley,Overweight,,init,SEIC
+2020-11-30,Morgan Stanley,Equal-Weight,Overweight,down,SEIC
+2021-01-06,Goldman Sachs,Buy,,init,SEIC
+2021-01-28,Morgan Stanley,Equal-Weight,,main,SEIC
+2021-04-01,Morgan Stanley,Equal-Weight,,main,SEIC
+2021-04-22,Morgan Stanley,Equal-Weight,,main,SEIC
+2021-07-22,Oppenheimer,Outperform,,main,SEIC
+2021-11-02,Truist Securities,Hold,,init,SEIC
+2021-11-03,Truist Securities,Hold,,init,SEIC

@@ -1,0 +1,60 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-11-24,Citigroup,Buy,,init,SHLX
+2014-11-24,Barclays,Overweight,,init,SHLX
+2014-11-24,UBS,Buy,,init,SHLX
+2014-11-24,Morgan Stanley,Equal-Weight,,init,SHLX
+2015-03-03,Evercore ISI Group,Buy,,init,SHLX
+2015-05-14,Barclays,Overweight,,main,SHLX
+2015-07-02,Barclays,Overweight,,main,SHLX
+2016-05-02,RBC Capital,Outperform,,init,SHLX
+2016-06-16,Morgan Stanley,Equal-Weight,,init,SHLX
+2016-07-28,Barclays,Overweight,,main,SHLX
+2016-08-18,Stifel Nicolaus,Buy,,init,SHLX
+2016-09-30,Mizuho,Buy,,init,SHLX
+2016-11-09,Barclays,Equal-Weight,Overweight,down,SHLX
+2017-02-01,JP Morgan,Overweight,,init,SHLX
+2017-11-06,Barclays,Equal-Weight,,main,SHLX
+2017-11-17,UBS,Buy,,main,SHLX
+2017-11-17,Barclays,Equal-Weight,,main,SHLX
+2017-11-17,Morgan Stanley,Equal-Weight,,main,SHLX
+2017-11-20,Citigroup,Buy,,main,SHLX
+2018-01-17,Stifel Nicolaus,Hold,Buy,down,SHLX
+2018-03-02,UBS,Buy,Buy,main,SHLX
+2018-03-13,JP Morgan,Overweight,Overweight,main,SHLX
+2018-03-28,Citigroup,Buy,Buy,main,SHLX
+2018-03-29,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHLX
+2018-04-05,Stifel Nicolaus,Hold,Hold,main,SHLX
+2018-04-16,Barclays,Equal-Weight,Equal-Weight,main,SHLX
+2018-04-20,Deutsche Bank,Buy,,init,SHLX
+2018-07-11,Barclays,Equal-Weight,Equal-Weight,main,SHLX
+2018-08-03,Stifel Nicolaus,Hold,Hold,main,SHLX
+2018-08-24,JP Morgan,Overweight,Overweight,main,SHLX
+2018-09-13,Wells Fargo,Market Perform,Market Perform,main,SHLX
+2018-10-11,Credit Suisse,Neutral,,init,SHLX
+2018-11-06,RBC Capital,Sector Perform,Outperform,down,SHLX
+2018-11-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHLX
+2018-12-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHLX
+2018-12-10,Bank of America,Underperform,Neutral,down,SHLX
+2019-03-04,UBS,Buy,Buy,main,SHLX
+2019-03-13,JP Morgan,Neutral,Overweight,down,SHLX
+2019-06-06,Mizuho,Neutral,,init,SHLX
+2019-06-11,Credit Suisse,Underperform,Neutral,down,SHLX
+2019-07-17,Mizuho,Underperform,Neutral,down,SHLX
+2019-08-20,JP Morgan,Underweight,Neutral,down,SHLX
+2019-09-11,UBS,Buy,,main,SHLX
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,SHLX
+2020-03-02,Wells Fargo,Underweight,,main,SHLX
+2020-03-02,Mizuho,Neutral,Underperform,up,SHLX
+2020-03-12,Credit Suisse,Neutral,Underperform,up,SHLX
+2020-03-25,UBS,Buy,,main,SHLX
+2020-03-30,Mizuho,Neutral,,main,SHLX
+2020-04-21,Stifel,Hold,,main,SHLX
+2020-04-28,Citigroup,Buy,,main,SHLX
+2020-08-06,Stifel,Hold,,main,SHLX
+2020-11-02,Stifel,Hold,,main,SHLX
+2021-01-20,Barclays,Equal-Weight,Overweight,down,SHLX
+2021-05-13,Wells Fargo,Underweight,,main,SHLX
+2021-10-15,Credit Suisse,Neutral,Underperform,up,SHLX
+2021-10-19,Barclays,Overweight,Equal-Weight,up,SHLX
+2022-01-18,B of A Securities,Underperform,,main,SHLX
+2022-01-20,Barclays,Equal-Weight,Overweight,down,SHLX

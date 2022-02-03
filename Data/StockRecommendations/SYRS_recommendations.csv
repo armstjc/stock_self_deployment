@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-18,H.C. Wainwright,Neutral,,init,SYRS
+2016-07-25,Wedbush,Outperform,,init,SYRS
+2016-07-25,JMP Securities,Outperform,,init,SYRS
+2016-07-25,PiperJaffray,Overweight,,init,SYRS
+2016-07-25,Cowen & Co.,Outperform,,init,SYRS
+2016-11-29,Oppenheimer,Outperform,,init,SYRS
+2017-08-10,JMP Securities,Market Perform,Outperform,down,SYRS
+2017-09-28,JMP Securities,Market Outperform,Market Perform,up,SYRS
+2018-03-13,Wedbush,Outperform,Outperform,main,SYRS
+2019-10-18,JMP Securities,Market Outperform,,main,SYRS
+2020-01-17,Wedbush,Neutral,Outperform,down,SYRS
+2020-03-06,H.C. Wainwright,Neutral,,reit,SYRS
+2020-11-04,HC Wainwright & Co.,Buy,Neutral,up,SYRS
+2021-09-23,Roth Capital,Buy,,main,SYRS

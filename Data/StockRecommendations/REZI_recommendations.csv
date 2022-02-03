@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-08,Bank of America,Buy,Buy,reit,REZI
+2019-08-13,Oppenheimer,Outperform,,main,REZI
+2019-10-23,Oppenheimer,Perform,Outperform,down,REZI
+2019-10-23,Bank of America,Neutral,Buy,down,REZI
+2019-10-24,Imperial Capital,Outperform,,main,REZI
+2019-11-08,Imperial Capital,In-Line,Outperform,down,REZI
+2020-01-07,Bank of America,Buy,Neutral,up,REZI
+2020-02-28,Imperial Capital,Outperform,In-Line,up,REZI
+2020-04-28,Imperial Capital,In-Line,Outperform,down,REZI
+2020-06-08,Imperial Capital,In-Line,,main,REZI
+2020-12-21,JP Morgan,Overweight,,init,REZI
+2021-03-03,William Blair,Market Perform,,init,REZI
+2021-03-11,Roth Capital,Neutral,Buy,down,REZI
+2021-03-17,Morgan Stanley,Equal-Weight,,init,REZI
+2021-09-21,Morgan Stanley,Equal-Weight,,main,REZI
+2021-10-06,Morgan Stanley,Equal-Weight,,main,REZI

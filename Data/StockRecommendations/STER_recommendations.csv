@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-10-18,Keybanc,Overweight,,init,STER
+2021-10-18,Goldman Sachs,Buy,,init,STER
+2021-10-18,JP Morgan,Overweight,,init,STER
+2021-10-18,Stifel,Buy,,init,STER
+2021-10-18,Baird,Outperform,,init,STER
+2021-10-18,Wolfe Research,Peer Perform,,init,STER
+2021-10-18,William Blair,Outperform,,init,STER
+2021-10-18,Morgan Stanley,Equal-Weight,,init,STER
+2021-11-11,Keybanc,Overweight,,main,STER
+2021-11-23,Barclays,Equal-Weight,,init,STER
+2022-01-05,Morgan Stanley,Overweight,Equal-Weight,up,STER

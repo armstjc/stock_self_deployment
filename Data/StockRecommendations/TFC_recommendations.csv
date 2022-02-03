@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-12-16,Citigroup,Neutral,,main,TFC
+2019-12-16,Credit Suisse,Neutral,,init,TFC
+2020-02-03,Stephens & Co.,Equal-Weight,,main,TFC
+2020-03-17,Baird,Outperform,Neutral,up,TFC
+2020-03-27,Citigroup,Neutral,,main,TFC
+2020-04-01,Wells Fargo,Overweight,,main,TFC
+2020-04-02,Deutsche Bank,Buy,,main,TFC
+2020-04-06,Credit Suisse,Neutral,,main,TFC
+2020-04-06,Wells Fargo,Overweight,,main,TFC
+2020-04-06,UBS,Neutral,,main,TFC
+2020-04-09,Janney Capital,Neutral,,main,TFC
+2020-04-14,Compass Point,Buy,,init,TFC
+2020-04-21,CFRA,Buy,,main,TFC
+2020-04-21,Piper Sandler,Overweight,Neutral,up,TFC
+2020-04-21,Argus Research,Buy,,main,TFC
+2020-05-04,UBS,Neutral,,main,TFC
+2020-05-13,Compass Point,Buy,,main,TFC
+2020-06-17,Raymond James,Outperform,Market Perform,up,TFC
+2020-06-25,Morgan Stanley,Equal-Weight,,main,TFC
+2020-09-18,Raymond James,Outperform,,main,TFC
+2020-10-16,Morgan Stanley,Equal-Weight,,main,TFC
+2020-10-16,B of A Securities,Buy,,main,TFC
+2020-11-30,Morgan Stanley,Equal-Weight,,main,TFC
+2021-01-07,Baird,Neutral,Outperform,down,TFC
+2021-01-07,Raymond James,Outperform,,main,TFC
+2021-01-22,B of A Securities,Buy,,main,TFC
+2021-01-22,Credit Suisse,Neutral,,main,TFC
+2021-01-22,Morgan Stanley,Equal-Weight,,main,TFC
+2021-03-01,Morgan Stanley,Equal-Weight,,main,TFC
+2021-03-24,Morgan Stanley,Equal-Weight,,main,TFC
+2021-04-07,Raymond James,Outperform,,main,TFC
+2021-05-10,Raymond James,Market Perform,Outperform,down,TFC
+2021-10-05,Wolfe Research,Underperform,Outperform,down,TFC
+2021-11-29,Stephens & Co.,Overweight,Equal-Weight,up,TFC
+2021-12-06,Morgan Stanley,Equal-Weight,,main,TFC
+2021-12-10,UBS,Neutral,,init,TFC
+2022-01-06,JP Morgan,Neutral,,main,TFC

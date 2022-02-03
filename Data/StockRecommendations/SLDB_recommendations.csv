@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-02-20,Goldman Sachs,Neutral,,init,SLDB
+2018-02-20,Leerink Swann,Outperform,,init,SLDB
+2018-02-20,Instinet,Buy,,init,SLDB
+2018-02-20,JP Morgan,Neutral,,init,SLDB
+2018-02-21,Chardan Capital,Buy,,init,SLDB
+2018-03-15,JP Morgan,Underweight,Neutral,down,SLDB
+2018-03-19,Nomura,Buy,Buy,main,SLDB
+2018-09-06,Credit Suisse,Neutral,,init,SLDB
+2018-11-06,Citigroup,Sell,,init,SLDB
+2018-12-03,Citigroup,Sell,Sell,main,SLDB
+2018-12-10,BTIG Research,Neutral,,init,SLDB
+2019-02-08,Citigroup,Neutral,Sell,up,SLDB
+2019-02-08,Leerink Swann,Market Perform,Outperform,down,SLDB
+2019-05-14,Credit Suisse,Underperform,Neutral,down,SLDB
+2019-05-14,Chardan Capital,Neutral,Buy,down,SLDB
+2019-08-16,Chardan Capital,Buy,Neutral,up,SLDB
+2019-08-19,SVB Leerink,Outperform,Market Perform,up,SLDB
+2019-08-29,Citigroup,Sell,Neutral,down,SLDB
+2019-10-11,Evercore ISI Group,Outperform,,init,SLDB
+2019-11-13,Nomura,Buy,,main,SLDB
+2019-12-18,Nomura,Buy,,main,SLDB
+2019-12-19,Nomura,Buy,,main,SLDB
+2020-03-23,Chardan Capital,Buy,,main,SLDB
+2020-10-01,Chardan Capital,Buy,,main,SLDB
+2021-01-08,Credit Suisse,Neutral,Underperform,up,SLDB
+2021-03-09,Barclays,Overweight,,init,SLDB
+2021-03-16,SVB Leerink,Outperform,Market Perform,up,SLDB
+2021-03-16,Credit Suisse,Neutral,,main,SLDB
+2021-03-16,Chardan Capital,Buy,,main,SLDB
+2021-05-17,Barclays,Overweight,,main,SLDB
+2021-05-27,Jefferies,Buy,,init,SLDB
+2021-07-12,Piper Sandler,Neutral,,init,SLDB
+2021-09-24,Chardan Capital,Buy,,main,SLDB

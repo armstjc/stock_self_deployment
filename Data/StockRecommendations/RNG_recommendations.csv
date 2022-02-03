@@ -1,0 +1,153 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-22,Goldman Sachs,Buy,,init,RNG
+2013-10-22,Bank of America,Buy,,init,RNG
+2013-10-22,Raymond James,Outperform,,init,RNG
+2013-10-22,JP Morgan,Overweight,,init,RNG
+2013-11-06,JP Morgan,Overweight,,main,RNG
+2014-02-20,Bank of America,Buy,,main,RNG
+2014-03-17,William Blair,Outperform,,init,RNG
+2014-03-27,Macquarie,Outperform,,init,RNG
+2014-04-01,Macquarie,Outperform,,init,RNG
+2014-04-30,Raymond James,Outperform,,main,RNG
+2014-08-06,Oppenheimer,Outperform,,init,RNG
+2014-11-11,Macquarie,Outperform,,init,RNG
+2014-11-21,Jefferies,Buy,,init,RNG
+2015-04-29,Jefferies,Buy,,main,RNG
+2015-07-23,JP Morgan,Overweight,,init,RNG
+2015-07-31,Raymond James,Strong Buy,Outperform,up,RNG
+2015-08-10,Canaccord Genuity,Buy,,init,RNG
+2015-10-06,RBC Capital,Outperform,,init,RNG
+2015-11-03,Oppenheimer,Outperform,,main,RNG
+2015-11-03,Summit Research Partners,Buy,Hold,up,RNG
+2015-12-17,Morgan Stanley,Equal-Weight,Overweight,down,RNG
+2016-06-28,Summit Redstone,Buy,,init,RNG
+2016-07-07,Craig-Hallum,Buy,,init,RNG
+2016-08-04,Jefferies,Buy,,main,RNG
+2016-08-25,Baird,Neutral,,init,RNG
+2016-08-25,Baird,Neutral,,init,RNG
+2016-12-12,Baird,Outperform,Neutral,up,RNG
+2017-04-11,Morgan Stanley,Overweight,Equal-Weight,up,RNG
+2017-06-26,SunTrust Robinson Humphrey,Buy,,init,RNG
+2017-08-10,Baird,Neutral,Outperform,down,RNG
+2017-10-25,Bank of America,Buy,,main,RNG
+2017-11-09,Oppenheimer,Outperform,,main,RNG
+2017-12-12,JP Morgan,Neutral,Overweight,down,RNG
+2018-02-13,Bank of America,Buy,Buy,main,RNG
+2018-02-13,JP Morgan,Neutral,Neutral,main,RNG
+2018-02-13,Morgan Stanley,Overweight,Overweight,main,RNG
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,RNG
+2018-06-15,JP Morgan,Neutral,Neutral,main,RNG
+2018-06-19,Oppenheimer,Outperform,Outperform,main,RNG
+2018-07-12,Stifel Nicolaus,Buy,,init,RNG
+2018-08-07,Bank of America,Buy,Buy,main,RNG
+2018-08-07,Baird,Neutral,Neutral,main,RNG
+2018-10-09,Deutsche Bank,Buy,,init,RNG
+2018-11-19,Baird,Outperform,Neutral,up,RNG
+2019-01-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,RNG
+2019-02-12,Deutsche Bank,Buy,Buy,main,RNG
+2019-02-12,Raymond James,Strong Buy,Strong Buy,main,RNG
+2019-03-12,Guggenheim,Buy,,init,RNG
+2019-03-22,Deutsche Bank,Buy,Buy,main,RNG
+2019-05-02,Bank of America,Buy,,reit,RNG
+2019-05-07,Raymond James,Strong Buy,Strong Buy,main,RNG
+2019-06-18,Needham,Buy,,init,RNG
+2019-07-30,Bank of America,Buy,,main,RNG
+2019-07-30,Raymond James,Strong Buy,,main,RNG
+2019-09-19,Morgan Stanley,Equal-Weight,,main,RNG
+2019-10-04,Morgan Stanley,Equal-Weight,,main,RNG
+2019-10-07,Bank of America,Buy,,main,RNG
+2019-10-07,JP Morgan,Overweight,Neutral,up,RNG
+2019-11-05,Raymond James,Strong Buy,,main,RNG
+2019-11-05,SunTrust Robinson Humphrey,Buy,,main,RNG
+2019-11-05,Craig-Hallum,Buy,,main,RNG
+2019-11-05,Morgan Stanley,Equal-Weight,,main,RNG
+2019-12-09,Bank of America,Buy,,reit,RNG
+2019-12-10,PiperJaffray,Overweight,,init,RNG
+2020-01-13,Morgan Stanley,Equal-Weight,,main,RNG
+2020-01-21,Goldman Sachs,Buy,Neutral,up,RNG
+2020-01-23,Needham,Buy,,main,RNG
+2020-01-28,Wells Fargo,Overweight,,init,RNG
+2020-02-05,B of A Securities,Buy,,main,RNG
+2020-02-11,Wells Fargo,Overweight,,main,RNG
+2020-02-11,SunTrust Robinson Humphrey,Buy,,main,RNG
+2020-02-11,Guggenheim Securities,Buy,,main,RNG
+2020-02-11,Northland Securities,Outperform,,main,RNG
+2020-02-11,Craig-Hallum,Buy,,main,RNG
+2020-02-11,Oppenheimer,Outperform,,main,RNG
+2020-02-11,Piper Sandler,Overweight,,main,RNG
+2020-02-11,Goldman Sachs,Buy,,main,RNG
+2020-02-11,Raymond James,Strong Buy,,main,RNG
+2020-02-11,Needham,Buy,,main,RNG
+2020-02-11,Morgan Stanley,Equal-Weight,,main,RNG
+2020-02-11,Rosenblatt,Buy,,main,RNG
+2020-02-12,Morgan Stanley,Equal-Weight,,main,RNG
+2020-03-17,Oppenheimer,Outperform,,main,RNG
+2020-03-25,Morgan Stanley,Equal-Weight,,main,RNG
+2020-04-03,Oppenheimer,Outperform,,main,RNG
+2020-04-08,Evercore ISI Group,Outperform,,init,RNG
+2020-04-15,Rosenblatt,Buy,,main,RNG
+2020-04-16,BTIG,Buy,,init,RNG
+2020-04-21,Wells Fargo,Overweight,,main,RNG
+2020-04-23,Morgan Stanley,Equal-Weight,,main,RNG
+2020-05-07,Needham,Buy,,main,RNG
+2020-05-07,Wells Fargo,Overweight,,main,RNG
+2020-05-07,Oppenheimer,Outperform,,main,RNG
+2020-05-07,Deutsche Bank,Buy,,main,RNG
+2020-05-07,Baird,Outperform,,main,RNG
+2020-05-07,B of A Securities,Buy,,reit,RNG
+2020-05-07,Jefferies,Buy,,main,RNG
+2020-05-07,Raymond James,Strong Buy,,reit,RNG
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,RNG
+2020-06-09,Morgan Stanley,Equal-Weight,,main,RNG
+2020-07-22,Morgan Stanley,Equal-Weight,,main,RNG
+2020-07-24,Wolfe Research,Outperform,,init,RNG
+2020-07-27,Rosenblatt,Buy,,main,RNG
+2020-08-04,Jefferies,Buy,,main,RNG
+2020-08-04,Raymond James,Strong Buy,,main,RNG
+2020-08-04,Rosenblatt,Buy,,main,RNG
+2020-08-04,Needham,Buy,,main,RNG
+2020-08-04,KeyBanc,Overweight,,main,RNG
+2020-08-04,Deutsche Bank,Buy,,main,RNG
+2020-09-29,Morgan Stanley,Equal-Weight,,main,RNG
+2020-10-09,Mizuho,Buy,,init,RNG
+2020-12-17,Morgan Stanley,Overweight,Equal-Weight,up,RNG
+2021-01-19,KeyBanc,Overweight,,main,RNG
+2021-01-21,KeyBanc,Overweight,,main,RNG
+2021-02-10,Wells Fargo,Overweight,,main,RNG
+2021-02-10,BTIG,Buy,,main,RNG
+2021-02-17,Needham,Buy,,main,RNG
+2021-02-17,Raymond James,Strong Buy,,main,RNG
+2021-02-17,Morgan Stanley,Overweight,,main,RNG
+2021-02-17,Oppenheimer,Outperform,,main,RNG
+2021-02-17,Mizuho,Buy,,main,RNG
+2021-02-17,Deutsche Bank,Buy,,main,RNG
+2021-02-17,Craig-Hallum,Buy,,main,RNG
+2021-02-17,Evercore ISI Group,Outperform,,main,RNG
+2021-02-17,Wells Fargo,Overweight,,main,RNG
+2021-02-17,Truist Securities,Buy,,main,RNG
+2021-02-17,Jefferies,Buy,,main,RNG
+2021-02-17,Northland Capital Markets,Outperform,,main,RNG
+2021-02-17,KeyBanc,Overweight,,main,RNG
+2021-02-17,Piper Sandler,Overweight,,main,RNG
+2021-03-16,Craig-Hallum,Buy,,main,RNG
+2021-04-23,Oppenheimer,Perform,Outperform,down,RNG
+2021-05-05,Raymond James,Strong Buy,,main,RNG
+2021-05-14,Morgan Stanley,Overweight,,main,RNG
+2021-05-26,BTIG,Buy,,main,RNG
+2021-05-27,UBS,Neutral,,init,RNG
+2021-06-22,Needham,Buy,,init,RNG
+2021-08-04,Piper Sandler,Overweight,,main,RNG
+2021-08-04,UBS,Neutral,,main,RNG
+2021-08-04,Deutsche Bank,Buy,,main,RNG
+2021-10-11,Wells Fargo,Overweight,,main,RNG
+2021-10-21,Barclays,Overweight,,init,RNG
+2021-11-10,Keybanc,Overweight,,main,RNG
+2021-11-10,Wells Fargo,Overweight,,main,RNG
+2021-11-10,Needham,Buy,,main,RNG
+2021-12-09,Mizuho,Buy,,main,RNG
+2021-12-09,Deutsche Bank,Buy,,main,RNG
+2021-12-13,Wells Fargo,Overweight,,main,RNG
+2021-12-16,Morgan Stanley,Equal-Weight,Overweight,down,RNG
+2021-12-16,Goldman Sachs,Buy,,init,RNG
+2022-01-14,Keybanc,Overweight,,main,RNG
+2022-01-24,Barclays,Overweight,,main,RNG

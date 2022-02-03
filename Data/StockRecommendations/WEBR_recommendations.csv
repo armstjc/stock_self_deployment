@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-30,Keybanc,Sector Weight,,init,WEBR
+2021-08-30,Goldman Sachs,Buy,,init,WEBR
+2021-08-30,JP Morgan,Overweight,,init,WEBR
+2021-08-30,BMO Capital,Market Perform,,init,WEBR
+2021-08-30,Wells Fargo,Equal-Weight,,init,WEBR
+2021-08-30,B of A Securities,Buy,,init,WEBR
+2021-08-30,Citigroup,Neutral,,init,WEBR
+2021-12-09,Goldman Sachs,Buy,,main,WEBR
+2021-12-09,Wells Fargo,Equal-Weight,,main,WEBR
+2021-12-27,B of A Securities,Buy,,main,WEBR

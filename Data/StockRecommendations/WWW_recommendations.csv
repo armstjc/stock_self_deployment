@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-27,DA Davidson,Neutral,,init,WWW
+2012-04-23,DA Davidson,Neutral,,main,WWW
+2012-04-24,Sterne Agee,Underperform,,down,WWW
+2012-05-02,DA Davidson,Buy,,up,WWW
+2012-05-02,Jefferies,Buy,,up,WWW
+2012-05-02,Stifel Nicolaus,Buy,,main,WWW
+2012-07-06,DA Davidson,Buy,,main,WWW
+2012-09-06,Citigroup,Neutral,,main,WWW
+2012-09-10,DA Davidson,Buy,,main,WWW
+2012-10-17,Citigroup,Neutral,,main,WWW
+2012-11-27,Goldman Sachs,Neutral,,init,WWW
+2013-04-16,DA Davidson,Buy,,main,WWW
+2013-04-19,Credit Suisse,Outperform,Neutral,up,WWW
+2013-06-06,PiperJaffray,Neutral,,init,WWW
+2013-07-02,DA Davidson,Neutral,Buy,down,WWW
+2013-07-09,DA Davidson,Neutral,,main,WWW
+2013-07-09,PiperJaffray,Neutral,,main,WWW
+2013-07-10,Sterne Agee,Underperform,,main,WWW
+2013-07-10,KeyBanc,Hold,Buy,down,WWW
+2013-10-08,DA Davidson,Neutral,,main,WWW
+2014-02-18,Citigroup,Sell,Neutral,down,WWW
+2014-02-18,DA Davidson,Neutral,,main,WWW
+2014-02-19,Citigroup,Sell,Neutral,down,WWW
+2014-04-10,Buckingham Research,Neutral,,init,WWW
+2014-04-29,DA Davidson,Neutral,,main,WWW
+2014-04-30,Citigroup,Sell,,main,WWW
+2014-07-16,Citigroup,Sell,,main,WWW
+2014-07-18,Argus,Hold,Buy,down,WWW
+2014-08-19,KeyBanc,Buy,Hold,up,WWW
+2014-08-26,Macquarie,Neutral,,init,WWW
+2014-09-02,CL King,Buy,Neutral,up,WWW
+2014-09-04,Wunderlich,Buy,,init,WWW
+2014-10-15,Macquarie,Neutral,,main,WWW
+2014-11-04,DA Davidson,Neutral,,main,WWW
+2014-11-21,DA Davidson,Buy,Neutral,up,WWW
+2015-01-05,Citigroup,Sell,,main,WWW
+2015-01-13,Citigroup,Sell,,main,WWW
+2015-01-13,Wunderlich,Hold,Buy,down,WWW
+2015-02-18,Sterne Agee,Neutral,Underperform,up,WWW
+2015-03-30,Baird,Outperform,Neutral,up,WWW
+2015-04-14,RBC Capital,Sector Perform,Outperform,down,WWW
+2015-04-15,Susquehanna,Neutral,,main,WWW
+2015-06-04,B. Riley FBR,Neutral,,init,WWW
+2015-08-10,Stifel Nicolaus,Buy,Hold,up,WWW
+2015-09-17,DA Davidson,Neutral,,down,WWW
+2015-09-18,Baird,Neutral,,down,WWW
+2015-09-18,Susquehanna,Neutral,,main,WWW
+2015-09-23,Citigroup,Neutral,Sell,up,WWW
+2015-10-21,B. Riley FBR,Neutral,,main,WWW
+2015-10-21,Stifel Nicolaus,Buy,,main,WWW
+2015-10-21,Sterne Agee CRT,Underperform,Neutral,down,WWW
+2015-10-21,Citigroup,Neutral,,main,WWW
+2015-11-11,KeyBanc,Overweight,,main,WWW
+2016-01-05,Sterne Agee CRT,Neutral,Underperform,up,WWW
+2016-01-05,PiperJaffray,Neutral,,main,WWW
+2016-04-27,Sterne Agee CRT,Underperform,Neutral,down,WWW
+2016-07-07,Susquehanna,Positive,Neutral,up,WWW
+2016-08-12,Susquehanna,Negative,,init,WWW
+2016-08-26,B. Riley FBR,Neutral,,main,WWW
+2016-11-01,Wedbush,Outperform,,init,WWW
+2017-05-17,Baird,Outperform,Neutral,up,WWW
+2017-09-25,Morgan Stanley,Equal-Weight,,main,WWW
+2017-10-05,Pivotal Research,Hold,,init,WWW
+2017-11-09,Buckingham,Neutral,,main,WWW
+2018-02-22,DA Davidson,Buy,Neutral,up,WWW
+2018-02-22,Citigroup,Neutral,Neutral,main,WWW
+2018-05-10,Susquehanna,Neutral,Negative,up,WWW
+2018-05-30,Argus,Buy,Hold,up,WWW
+2018-07-17,CL King,Strong Buy,Buy,up,WWW
+2018-08-01,Susquehanna,Positive,Neutral,up,WWW
+2018-08-06,Wedbush,Outperform,Outperform,main,WWW
+2018-08-16,Buckingham,Neutral,Neutral,main,WWW
+2018-08-17,Argus,Buy,Buy,main,WWW
+2018-08-30,Citigroup,Neutral,Neutral,main,WWW
+2018-11-08,Baird,Outperform,Outperform,main,WWW
+2019-05-17,Argus,Hold,Buy,down,WWW
+2019-11-08,Stifel Nicolaus,Buy,,main,WWW
+2019-11-18,Argus Research,Buy,Hold,up,WWW
+2020-04-06,Susquehanna,Positive,,main,WWW
+2020-04-14,Stifel,Buy,,main,WWW
+2020-04-23,Susquehanna,Neutral,Positive,down,WWW
+2020-05-01,KeyBanc,Overweight,Sector Weight,up,WWW
+2020-05-21,Stifel,Buy,,main,WWW
+2020-06-04,KeyBanc,Overweight,,main,WWW
+2020-07-27,Pivotal Research,Buy,Hold,up,WWW
+2020-09-30,Piper Sandler,Neutral,,main,WWW
+2020-10-26,Wedbush,Outperform,,main,WWW
+2020-10-27,KeyBanc,Overweight,,main,WWW
+2020-12-07,KeyBanc,Overweight,,main,WWW
+2021-05-06,Telsey Advisory Group,Market Perform,,main,WWW
+2021-07-30,Telsey Advisory Group,Market Perform,,main,WWW
+2021-08-04,Telsey Advisory Group,Market Perform,,main,WWW
+2021-08-10,Exane BNP Paribas,Outperform,Neutral,up,WWW
+2022-01-04,Baird,Neutral,Outperform,down,WWW

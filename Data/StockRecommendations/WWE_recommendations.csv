@@ -1,0 +1,101 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Wedbush,Neutral,,main,WWE
+2013-03-07,Roth Capital,Neutral,Buy,down,WWE
+2013-06-18,CJS Securities,Market Perform,,init,WWE
+2013-09-04,Roth Capital,Buy,Neutral,up,WWE
+2013-11-05,National Alliance,Hold,,init,WWE
+2014-01-10,National Alliance,Buy,Hold,up,WWE
+2014-01-22,Benchmark,Buy,,init,WWE
+2014-01-27,National Alliance,Hold,Buy,down,WWE
+2014-04-07,Sidoti & Co.,Buy,Neutral,up,WWE
+2014-04-15,Needham,Buy,,init,WWE
+2014-05-16,Benchmark,Hold,Buy,down,WWE
+2014-05-21,Hilliard Lyons,Long-Term Buy,Buy,down,WWE
+2014-05-21,Vertical Research,Neutral,Buy,down,WWE
+2015-01-26,Macquarie,Neutral,Underperform,up,WWE
+2015-02-06,Benchmark,Buy,Hold,up,WWE
+2015-06-17,BTIG Research,Buy,,init,WWE
+2015-07-08,Wells Fargo,Outperform,,init,WWE
+2015-07-31,Hilliard Lyons,Neutral,Long-Term Buy,down,WWE
+2015-08-04,Macquarie,Neutral,,main,WWE
+2016-03-29,Pacific Crest,Overweight,,init,WWE
+2016-04-05,KeyBanc,Overweight,,main,WWE
+2016-04-05,Pacific Crest,Overweight,,main,WWE
+2016-06-16,KeyBanc,Overweight,,main,WWE
+2016-10-28,Deutsche Bank,Sell,Hold,down,WWE
+2016-10-28,Pacific Crest,Sector Weight,Overweight,down,WWE
+2016-10-28,Wells Fargo,Market Perform,Outperform,down,WWE
+2016-10-28,KeyBanc,Sector Weight,Overweight,down,WWE
+2017-01-10,MKM Partners,Buy,,init,WWE
+2017-03-27,Citigroup,Buy,,init,WWE
+2017-06-30,Morgan Stanley,Equal-Weight,,init,WWE
+2017-10-30,FBN Securities,Sector Perform,Outperform,down,WWE
+2017-12-06,JP Morgan,Overweight,,init,WWE
+2017-12-22,Citigroup,Neutral,Buy,down,WWE
+2018-01-04,Wells Fargo,Outperform,Market Perform,up,WWE
+2018-01-30,Morgan Stanley,Overweight,Equal-Weight,up,WWE
+2018-02-12,KeyBanc,Overweight,Sector Weight,up,WWE
+2018-04-17,JP Morgan,Neutral,Overweight,down,WWE
+2018-05-04,Benchmark,Hold,Buy,down,WWE
+2018-05-04,KeyBanc,Overweight,Overweight,main,WWE
+2018-05-04,Citigroup,Neutral,Neutral,main,WWE
+2018-06-04,KeyBanc,Overweight,Overweight,main,WWE
+2018-06-15,Wells Fargo,Outperform,Outperform,main,WWE
+2018-06-28,Citigroup,Neutral,Neutral,main,WWE
+2018-07-06,BTIG Research,Buy,Buy,main,WWE
+2018-07-13,Morgan Stanley,Overweight,Overweight,main,WWE
+2018-07-27,Morgan Stanley,Overweight,Overweight,main,WWE
+2018-07-27,JP Morgan,Neutral,Neutral,main,WWE
+2018-08-27,Citigroup,Neutral,Neutral,main,WWE
+2018-10-29,Citigroup,Neutral,Neutral,main,WWE
+2018-10-30,Morgan Stanley,Overweight,Overweight,main,WWE
+2018-11-30,JP Morgan,Overweight,Neutral,up,WWE
+2018-12-21,Loop Capital,Hold,,init,WWE
+2019-03-26,MKM Partners,Buy,Buy,main,WWE
+2019-04-23,JP Morgan,Overweight,Overweight,main,WWE
+2019-04-26,KeyBanc,Overweight,Overweight,main,WWE
+2019-05-02,Loop Capital,Buy,Hold,up,WWE
+2019-07-26,Morgan Stanley,Overweight,,main,WWE
+2019-07-26,Benchmark,Buy,Hold,up,WWE
+2019-08-14,Rosenblatt,Buy,,init,WWE
+2019-09-04,Citigroup,Neutral,,main,WWE
+2019-09-04,Evercore ISI Group,Outperform,,init,WWE
+2019-09-24,Wells Fargo,Outperform,,init,WWE
+2019-10-11,FBN Securities,Outperform,Sector Perform,up,WWE
+2019-11-01,Morgan Stanley,Overweight,,main,WWE
+2019-11-01,Loop Capital,Buy,,main,WWE
+2019-11-01,Benchmark,Buy,,main,WWE
+2019-11-01,Guggenheim,Buy,,main,WWE
+2019-11-04,Wells Fargo,Outperform,,main,WWE
+2019-11-08,Citigroup,Buy,Neutral,up,WWE
+2020-01-28,Northcoast Research,Buy,,init,WWE
+2020-01-31,Morgan Stanley,Equal-Weight,Overweight,down,WWE
+2020-01-31,Loop Capital,Hold,Buy,down,WWE
+2020-02-07,Wolfe Research,Peer Perform,Outperform,down,WWE
+2020-02-07,Rosenblatt,Buy,,reit,WWE
+2020-02-07,Needham,Buy,,main,WWE
+2020-02-10,Wells Fargo,Underweight,Overweight,down,WWE
+2020-02-11,JP Morgan,Neutral,Overweight,down,WWE
+2020-02-18,Consumer Edge Research,Overweight,Equal-Weight,up,WWE
+2020-03-13,Needham,Buy,,main,WWE
+2020-03-16,Benchmark,Hold,Buy,down,WWE
+2020-04-09,MKM Partners,Buy,,main,WWE
+2020-04-17,Benchmark,Buy,Hold,up,WWE
+2020-04-22,Morgan Stanley,Equal-Weight,,main,WWE
+2020-04-24,Benchmark,Buy,,main,WWE
+2020-06-23,Needham,Buy,,main,WWE
+2020-07-07,JP Morgan,Neutral,,main,WWE
+2020-07-31,Morgan Stanley,Equal-Weight,,main,WWE
+2020-07-31,Rosenblatt,Buy,,main,WWE
+2020-08-04,Citigroup,Buy,,main,WWE
+2020-09-14,Loop Capital,Hold,Sell,up,WWE
+2020-10-27,Morgan Stanley,Equal-Weight,,main,WWE
+2020-10-30,Rosenblatt,Buy,,main,WWE
+2021-01-11,Barclays,Equal-Weight,,init,WWE
+2021-01-19,Evercore ISI Group,Outperform,In-Line,up,WWE
+2021-01-26,Rosenblatt,Buy,,main,WWE
+2021-02-05,Needham,Buy,,main,WWE
+2021-02-08,Morgan Stanley,Equal-Weight,,main,WWE
+2021-04-23,Morgan Stanley,Equal-Weight,,main,WWE
+2021-11-05,Barclays,Equal-Weight,,main,WWE
+2021-11-11,Citigroup,Buy,,main,WWE

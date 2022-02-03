@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-01,Roth Capital,Buy,,init,TNXP
+2015-05-06,Janney Capital,Buy,,init,TNXP
+2015-05-07,Janney Capital,Buy,,init,TNXP
+2015-06-12,Oppenheimer,Outperform,,init,TNXP
+2015-11-04,Cantor Fitzgerald,Buy,,init,TNXP
+2016-02-17,Cantor Fitzgerald,Speculative Buy,Buy,down,TNXP
+2016-02-17,Oppenheimer,Outperform,,main,TNXP
+2016-06-02,Cantor Fitzgerald,Buy,Speculative Buy,up,TNXP
+2016-09-07,Cantor Fitzgerald,Hold,Buy,down,TNXP
+2016-09-07,Roth Capital,Neutral,Buy,down,TNXP
+2017-08-18,Roth Capital,Buy,Neutral,up,TNXP
+2018-06-06,B. Riley FBR,Buy,,init,TNXP
+2018-07-27,Roth Capital,Neutral,Buy,down,TNXP
+2018-07-27,B. Riley FBR,Neutral,Buy,down,TNXP
+2019-04-18,Roth Capital,Buy,Neutral,up,TNXP

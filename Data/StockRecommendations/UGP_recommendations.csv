@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-14,JP Morgan,Neutral,,init,UGP
+2013-12-27,Credit Suisse,Neutral,,init,UGP
+2015-05-07,HSBC,Hold,,down,UGP
+2015-06-09,JP Morgan,Neutral,Overweight,down,UGP
+2015-09-24,Goldman Sachs,Neutral,,init,UGP
+2016-11-18,Citigroup,Buy,Neutral,up,UGP
+2017-08-10,Bank of America,Underperform,Neutral,down,UGP
+2018-05-18,HSBC,Buy,Hold,up,UGP
+2018-08-16,Goldman Sachs,Buy,Neutral,up,UGP
+2019-09-03,JP Morgan,Neutral,,main,UGP
+2019-10-03,Goldman Sachs,Neutral,,init,UGP
+2019-12-10,Santander,Buy,Hold,up,UGP
+2020-01-17,B of A Securities,Neutral,Underperform,up,UGP
+2020-03-31,B of A Securities,Buy,Neutral,up,UGP
+2021-12-14,Santander,Hold,Buy,down,UGP

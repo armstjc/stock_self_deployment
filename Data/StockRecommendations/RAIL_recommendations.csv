@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-21,UBS,Neutral,,main,RAIL
+2012-03-12,KeyBanc,Underweight,,down,RAIL
+2012-04-02,Jefferies,Buy,,main,RAIL
+2012-04-30,UBS,Neutral,,main,RAIL
+2012-07-12,Stifel Nicolaus,Hold,,init,RAIL
+2012-08-07,Jefferies,Buy,,main,RAIL
+2012-10-15,UBS,Sell,Neutral,down,RAIL
+2013-01-03,Jefferies,Buy,,main,RAIL
+2013-05-03,Jefferies,Buy,,main,RAIL
+2013-08-06,Longbow Research,Neutral,Underperform,up,RAIL
+2013-09-17,Stephens & Co.,Overweight,Equal-Weight,up,RAIL
+2013-12-09,Longbow Research,Buy,Neutral,up,RAIL
+2015-04-27,Avondale Partners,Market Perform,Outperform,down,RAIL
+2015-06-16,Stifel Nicolaus,Buy,Hold,up,RAIL
+2015-07-16,UBS,Sell,Neutral,down,RAIL
+2015-07-16,UBS,Neutral,Sell,up,RAIL
+2016-05-04,Longbow Research,Neutral,Buy,down,RAIL
+2016-06-22,Cowen & Co.,Market Perform,,init,RAIL
+2016-07-13,Stifel Nicolaus,Hold,Buy,down,RAIL
+2018-01-04,Seaport Global,Neutral,,init,RAIL
+2018-02-28,Buckingham,Neutral,Neutral,main,RAIL
+2018-05-07,Stifel Nicolaus,Hold,Hold,main,RAIL
+2018-08-03,Stifel Nicolaus,Hold,Hold,main,RAIL
+2018-08-13,Buckingham,Neutral,Neutral,main,RAIL
+2018-11-01,CL King,Neutral,Buy,down,RAIL
+2020-04-15,Cowen & Co.,Market Perform,,main,RAIL

@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-17,Wunderlich,Buy,,init,RUSHB
+2012-07-27,Wunderlich,Buy,,main,RUSHB
+2013-01-14,Wunderlich,Hold,Buy,down,RUSHB
+2013-02-14,Wunderlich,Hold,,main,RUSHB
+2013-09-06,Longbow Research,Buy,,init,RUSHB
+2013-09-11,Raymond James,Market Perform,Outperform,down,RUSHB
+2013-10-24,Wunderlich,Hold,,main,RUSHB
+2014-04-01,BMO Capital,Outperform,,up,RUSHB
+2014-04-22,Bank of America,Underperform,Buy,down,RUSHB
+2014-07-24,Credit Suisse,Outperform,,main,RUSHB
+2014-09-30,Credit Suisse,Neutral,Outperform,down,RUSHB
+2014-10-08,Raymond James,Strong Buy,Market Perform,up,RUSHB
+2015-06-11,Raymond James,Strong Buy,,main,RUSHB
+2015-07-23,Longbow Research,Buy,,main,RUSHB
+2015-12-17,BB&T Capital,Hold,Buy,down,RUSHB
+2016-01-06,Longbow Research,Neutral,Buy,down,RUSHB
+2016-01-07,RBC Capital,Sector Perform,Outperform,down,RUSHB
+2016-02-11,CL King,Neutral,Buy,down,RUSHB
+2016-02-11,Raymond James,Market Perform,Outperform,down,RUSHB
+2016-02-11,BMO Capital,Outperform,,main,RUSHB
+2016-02-11,Credit Suisse,Neutral,,main,RUSHB
+2016-02-16,Stephens & Co.,Overweight,Equal-Weight,up,RUSHB
+2016-05-10,Bank of America,Buy,Neutral,up,RUSHB
+2016-07-15,Stephens & Co.,Equal-Weight,Overweight,down,RUSHB
+2016-08-01,BMO Capital,Outperform,,main,RUSHB
+2016-10-10,Stifel Nicolaus,Hold,,init,RUSHB
+2017-04-06,Seaport Global,Buy,,init,RUSHB
+2017-08-01,BMO Capital,Outperform,,main,RUSHB
+2017-09-05,Buckingham,Neutral,,init,RUSHB
+2017-10-30,Stifel Nicolaus,Hold,,main,RUSHB
+2017-10-30,BMO Capital,Outperform,,main,RUSHB
+2018-02-09,Stephens & Co.,Overweight,Equal-Weight,up,RUSHB
+2018-02-20,Stifel Nicolaus,Hold,Hold,main,RUSHB
+2018-02-20,BMO Capital,Market Perform,Market Perform,main,RUSHB
+2018-02-27,Buckingham,Buy,Neutral,up,RUSHB
+2018-04-25,Stifel Nicolaus,Buy,Hold,up,RUSHB
+2018-04-25,Credit Suisse,Neutral,Neutral,main,RUSHB
+2018-06-01,Longbow Research,Buy,Neutral,up,RUSHB
+2018-10-25,Credit Suisse,Neutral,Neutral,main,RUSHB
+2020-01-17,Buckingham,Buy,,main,RUSHB
+2020-02-14,Stephens & Co.,Overweight,,main,RUSHB
+2020-02-14,Buckingham,Buy,,main,RUSHB
+2020-07-24,BMO Capital,Market Perform,,main,RUSHB
+2021-07-22,Credit Suisse,Neutral,,main,RUSHB
+2021-07-22,BMO Capital,Market Perform,,main,RUSHB
+2021-10-22,Credit Suisse,Neutral,,main,RUSHB

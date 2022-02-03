@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-22,Imperial Capital,Outperform,,init,TPC
+2012-08-07,Imperial Capital,Outperform,,main,TPC
+2013-02-01,Imperial Capital,Outperform,,main,TPC
+2013-02-22,Imperial Capital,Outperform,,main,TPC
+2013-02-22,UBS,Buy,,main,TPC
+2013-09-11,FBR Capital,Outperform,,init,TPC
+2014-04-08,Stephens & Co.,Overweight,,init,TPC
+2014-12-18,Seaport Global,Accumulate,,init,TPC
+2015-01-09,Macquarie,Outperform,,init,TPC
+2015-12-09,Stifel Nicolaus,Hold,,init,TPC
+2016-04-11,Standpoint Research,Buy,,init,TPC
+2016-04-11,Canaccord Genuity,Buy,,init,TPC
+2016-05-24,Standpoint Research,Hold,Buy,down,TPC
+2016-06-29,MKM Partners,Neutral,,init,TPC
+2016-08-24,MKM Partners,Buy,Neutral,up,TPC
+2016-10-03,Standpoint Research,Buy,Hold,up,TPC
+2016-10-24,Seaport Global,Buy,Accumulate,up,TPC
+2016-11-03,Sidoti & Co.,Neutral,Buy,down,TPC
+2017-01-25,Standpoint Research,Buy,Hold,up,TPC
+2017-01-27,KeyBanc,Sector Weight,,init,TPC
+2017-11-10,Canaccord Genuity,Buy,,main,TPC
+2017-11-13,UBS,Buy,,main,TPC
+2017-11-15,B. Riley FBR,Buy,,main,TPC
+2018-02-28,KeyBanc,Overweight,Sector Weight,up,TPC
+2018-02-28,B. Riley FBR,Buy,Buy,main,TPC
+2018-08-08,B. Riley FBR,Buy,Buy,main,TPC
+2019-01-22,DA Davidson,Neutral,Buy,down,TPC
+2019-02-01,UBS,Neutral,Buy,down,TPC
+2019-05-09,KeyBanc,Sector Weight,Overweight,down,TPC
+2019-07-01,DA Davidson,Buy,Neutral,up,TPC
+2019-11-07,B. Riley,Buy,,main,TPC
+2020-03-17,B. Riley FBR,Buy,,main,TPC
+2020-05-07,B. Riley FBR,Buy,,main,TPC
+2020-11-05,UBS,Neutral,,main,TPC

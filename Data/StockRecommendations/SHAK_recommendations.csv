@@ -1,0 +1,135 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-02-09,Longbow Research,Underperform,,init,SHAK
+2015-02-24,Morgan Stanley,Equal-Weight,,init,SHAK
+2015-02-24,Barclays,Equal-Weight,,init,SHAK
+2015-02-24,Stifel Nicolaus,Buy,,init,SHAK
+2015-02-24,Goldman Sachs,Neutral,,init,SHAK
+2015-02-24,Jefferies,Hold,,init,SHAK
+2015-02-24,JP Morgan,Neutral,,init,SHAK
+2015-02-24,William Blair,Market Perform,,init,SHAK
+2015-04-21,Stifel Nicolaus,Hold,Buy,down,SHAK
+2015-05-14,Barclays,Equal-Weight,,main,SHAK
+2015-05-14,Longbow Research,Neutral,Underperform,up,SHAK
+2015-07-07,Morgan Stanley,Underweight,Equal-Weight,down,SHAK
+2015-07-09,Goldman Sachs,Sell,Neutral,down,SHAK
+2015-08-11,Barclays,Equal-Weight,,main,SHAK
+2016-01-05,SunTrust Robinson Humphrey,Neutral,,init,SHAK
+2016-01-19,William Blair,Outperform,Market Perform,up,SHAK
+2016-03-08,Barclays,Equal-Weight,,main,SHAK
+2016-03-30,Longbow Research,Buy,Neutral,up,SHAK
+2016-06-16,Buckingham Research,Buy,,init,SHAK
+2016-07-06,Wedbush,Underperform,,init,SHAK
+2016-08-11,SunTrust Robinson Humphrey,Buy,Neutral,up,SHAK
+2016-08-11,Jefferies,Hold,,main,SHAK
+2016-08-11,JP Morgan,Neutral,,main,SHAK
+2017-03-20,Wedbush,Neutral,Underperform,up,SHAK
+2017-05-18,Wedbush,Outperform,Neutral,up,SHAK
+2017-05-24,PiperJaffray,Overweight,,init,SHAK
+2017-08-04,Barclays,Equal-Weight,,main,SHAK
+2017-09-26,Wedbush,Neutral,Outperform,down,SHAK
+2017-11-02,Barclays,Equal-Weight,,main,SHAK
+2017-11-02,Morgan Stanley,Underweight,,main,SHAK
+2017-12-07,Morgan Stanley,Equal-Weight,Underweight,up,SHAK
+2017-12-22,Jefferies,Underperform,Hold,down,SHAK
+2018-05-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHAK
+2018-05-07,JP Morgan,Underweight,Neutral,down,SHAK
+2018-05-23,Longbow Research,Neutral,Buy,down,SHAK
+2018-07-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHAK
+2018-08-06,Barclays,Equal-Weight,Equal-Weight,main,SHAK
+2018-10-10,Stifel Nicolaus,Hold,,init,SHAK
+2018-11-02,Barclays,Equal-Weight,Equal-Weight,main,SHAK
+2018-11-02,Wedbush,Neutral,Neutral,main,SHAK
+2018-11-06,Longbow Research,Buy,Neutral,up,SHAK
+2018-12-19,Jefferies,Hold,Underperform,up,SHAK
+2019-02-26,Wedbush,Neutral,Neutral,main,SHAK
+2019-04-17,Longbow Research,Neutral,Buy,down,SHAK
+2019-05-03,Morgan Stanley,Equal-Weight,,main,SHAK
+2019-05-03,Stifel,Hold,Hold,main,SHAK
+2019-06-25,Credit Suisse,Outperform,,init,SHAK
+2019-07-29,Goldman Sachs,Buy,,init,SHAK
+2019-08-02,Wedbush,Neutral,,main,SHAK
+2019-08-06,Wedbush,Neutral,,main,SHAK
+2019-08-06,Barclays,Equal-Weight,,main,SHAK
+2019-08-06,Morgan Stanley,Equal-Weight,,main,SHAK
+2019-08-06,Credit Suisse,Outperform,,main,SHAK
+2019-08-13,MKM Partners,Neutral,,init,SHAK
+2019-09-05,Piper Jaffray,Overweight,,main,SHAK
+2019-09-17,Stifel,Hold,,main,SHAK
+2019-09-30,Deutsche Bank,Hold,,init,SHAK
+2019-10-18,Morgan Stanley,Equal-Weight,,main,SHAK
+2019-11-05,Morgan Stanley,Equal-Weight,,main,SHAK
+2019-11-05,Wedbush,Neutral,,main,SHAK
+2019-11-05,Barclays,Equal-Weight,,main,SHAK
+2019-11-05,JP Morgan,Underweight,,main,SHAK
+2019-11-19,Baird,Neutral,,init,SHAK
+2019-12-17,Northcoast Research,Neutral,,init,SHAK
+2019-12-19,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-01-07,MKM Partners,Neutral,,main,SHAK
+2020-01-09,Raymond James,Underperform,,init,SHAK
+2020-01-15,Goldman Sachs,Buy,,reit,SHAK
+2020-01-21,SunTrust Robinson Humphrey,Buy,,main,SHAK
+2020-02-21,SunTrust Robinson Humphrey,Hold,Buy,down,SHAK
+2020-02-25,Barclays,Equal-Weight,,main,SHAK
+2020-02-25,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-02-25,Piper Sandler,Overweight,,reit,SHAK
+2020-02-25,Credit Suisse,Outperform,,main,SHAK
+2020-02-25,Deutsche Bank,Hold,,main,SHAK
+2020-02-25,MKM Partners,Neutral,,main,SHAK
+2020-02-25,CFRA,Sell,Hold,down,SHAK
+2020-03-11,Stifel,Hold,,main,SHAK
+2020-03-11,Wedbush,Neutral,,main,SHAK
+2020-03-17,Deutsche Bank,Hold,,main,SHAK
+2020-03-20,Goldman Sachs,Neutral,Buy,down,SHAK
+2020-03-25,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-04-01,SunTrust Robinson Humphrey,Hold,,main,SHAK
+2020-04-03,Credit Suisse,Neutral,Outperform,down,SHAK
+2020-04-08,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-04-14,MKM Partners,Neutral,,main,SHAK
+2020-04-21,SunTrust Robinson Humphrey,Hold,,main,SHAK
+2020-04-21,BTIG,Neutral,,init,SHAK
+2020-04-21,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,SHAK
+2020-05-05,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-05-05,Credit Suisse,Neutral,,main,SHAK
+2020-05-06,Deutsche Bank,Hold,,main,SHAK
+2020-07-10,MKM Partners,Neutral,,main,SHAK
+2020-07-31,Credit Suisse,Neutral,,main,SHAK
+2020-07-31,Wedbush,Neutral,,main,SHAK
+2020-08-20,Wedbush,Outperform,Neutral,up,SHAK
+2020-09-14,Piper Sandler,Overweight,,main,SHAK
+2020-10-02,Loop Capital,Buy,,init,SHAK
+2020-10-14,Morgan Stanley,Equal-Weight,,main,SHAK
+2020-10-23,Oppenheimer,Outperform,,init,SHAK
+2020-10-30,Cowen & Co.,Market Perform,,main,SHAK
+2020-10-30,Credit Suisse,Neutral,,main,SHAK
+2020-11-20,Wedbush,Neutral,Outperform,down,SHAK
+2020-12-14,Cowen & Co.,Market Perform,,main,SHAK
+2021-01-19,Goldman Sachs,Neutral,,init,SHAK
+2021-01-19,Morgan Stanley,Equal-Weight,,main,SHAK
+2021-01-25,JP Morgan,Underweight,,main,SHAK
+2021-02-09,Wedbush,Neutral,,main,SHAK
+2021-02-26,Piper Sandler,Overweight,,main,SHAK
+2021-02-26,Morgan Stanley,Equal-Weight,,main,SHAK
+2021-03-04,Deutsche Bank,Hold,,main,SHAK
+2021-04-12,Morgan Stanley,Equal-Weight,,main,SHAK
+2021-04-12,JP Morgan,Underweight,,main,SHAK
+2021-05-07,Cowen & Co.,Market Perform,,main,SHAK
+2021-05-07,Morgan Stanley,Equal-Weight,,main,SHAK
+2021-05-07,Wedbush,Neutral,,main,SHAK
+2021-05-10,Deutsche Bank,Hold,,main,SHAK
+2021-05-25,Goldman Sachs,Buy,Neutral,up,SHAK
+2021-05-25,Wedbush,Outperform,Neutral,up,SHAK
+2021-08-06,Oppenheimer,Outperform,,main,SHAK
+2021-08-06,Barclays,Equal-Weight,,main,SHAK
+2021-08-06,Cowen & Co.,Market Perform,,main,SHAK
+2021-10-06,Loop Capital,Hold,,init,SHAK
+2021-10-11,Piper Sandler,Overweight,,main,SHAK
+2021-10-13,Morgan Stanley,Equal-Weight,,main,SHAK
+2021-11-01,Truist Securities,Buy,Hold,up,SHAK
+2021-11-03,Northcoast Research,Buy,Neutral,up,SHAK
+2021-11-05,Credit Suisse,Neutral,,main,SHAK
+2021-11-05,BTIG,Buy,Neutral,up,SHAK
+2021-11-05,Cowen & Co.,Market Perform,,main,SHAK
+2021-11-08,Northcoast Research,Neutral,Buy,down,SHAK
+2021-12-03,UBS,Neutral,,init,SHAK
+2021-12-15,Barclays,Equal-Weight,,main,SHAK

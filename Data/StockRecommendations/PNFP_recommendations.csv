@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-17,Wunderlich,Hold,,main,PNFP
+2012-07-18,Wunderlich,Hold,,main,PNFP
+2012-10-17,Wunderlich,Hold,,main,PNFP
+2012-10-17,Raymond James,Outperform,Market Perform,up,PNFP
+2012-12-12,BGB Securities,Buy,,init,PNFP
+2013-03-18,Raymond James,Market Perform,Outperform,down,PNFP
+2013-04-16,Wunderlich,Buy,Hold,up,PNFP
+2013-05-29,Wunderlich,Hold,Buy,down,PNFP
+2013-07-17,Wunderlich,Hold,,main,PNFP
+2013-07-18,Raymond James,Outperform,Market Perform,up,PNFP
+2013-08-26,Wunderlich,Buy,Hold,up,PNFP
+2013-10-17,Raymond James,Market Perform,Outperform,down,PNFP
+2014-01-22,Keefe Bruyette & Woods,Outperform,Market Perform,up,PNFP
+2014-01-23,Keefe Bruyette & Woods,Outperform,Market Perform,up,PNFP
+2014-03-07,Wunderlich,Hold,Buy,down,PNFP
+2014-03-31,SunTrust Robinson Humphrey,Buy,,init,PNFP
+2014-04-16,FIG Partners,Outperform,Market Perform,up,PNFP
+2014-07-17,Wunderlich,Hold,,main,PNFP
+2015-01-22,Hilliard Lyons,Buy,Long-Term Buy,up,PNFP
+2015-03-20,Keefe Bruyette & Woods,Outperform,,main,PNFP
+2015-04-08,Raymond James,Outperform,Market Perform,up,PNFP
+2015-04-10,Wunderlich,Hold,,main,PNFP
+2015-04-22,Stephens & Co.,Equal-Weight,,main,PNFP
+2015-04-22,Keefe Bruyette & Woods,Outperform,,main,PNFP
+2015-04-29,Wunderlich,Buy,Hold,up,PNFP
+2015-04-30,Hilliard Lyons,Buy,Neutral,up,PNFP
+2015-06-29,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2015-07-02,Raymond James,Market Perform,Outperform,down,PNFP
+2015-07-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,PNFP
+2015-07-27,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2015-08-24,PiperJaffray,Neutral,,init,PNFP
+2015-09-11,Keefe Bruyette & Woods,Outperform,Market Perform,up,PNFP
+2016-01-21,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2016-01-25,Hovde Group,Market Perform,Underperform,up,PNFP
+2016-01-29,Stephens & Co.,Overweight,Equal-Weight,up,PNFP
+2016-07-15,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2016-09-13,Sandler O'Neill,Hold,Buy,down,PNFP
+2016-10-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,PNFP
+2016-10-20,Hilliard Lyons,Neutral,Long-Term Buy,down,PNFP
+2017-01-18,Stephens & Co.,Equal-Weight,Overweight,down,PNFP
+2017-10-20,Hilliard Lyons,Neutral,Buy,down,PNFP
+2017-12-21,Wells Fargo,Outperform,,init,PNFP
+2018-02-05,Stephens & Co.,Overweight,Equal-Weight,up,PNFP
+2018-03-22,UBS,Sell,,init,PNFP
+2018-04-10,Raymond James,Outperform,Market Perform,up,PNFP
+2018-10-18,Raymond James,Outperform,Outperform,main,PNFP
+2019-01-03,Wells Fargo,Outperform,Outperform,main,PNFP
+2019-01-08,UBS,Neutral,Sell,up,PNFP
+2019-04-17,Raymond James,Market Perform,Outperform,down,PNFP
+2019-07-09,Stephens & Co.,Equal-Weight,Overweight,down,PNFP
+2019-09-18,JP Morgan,Neutral,,init,PNFP
+2020-01-02,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2020-03-30,Wells Fargo,Overweight,,main,PNFP
+2020-04-06,UBS,Neutral,,main,PNFP
+2020-04-06,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2020-04-23,JP Morgan,Neutral,,main,PNFP
+2020-05-05,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2020-05-15,UBS,Neutral,,main,PNFP
+2020-05-22,UBS,Neutral,,main,PNFP
+2020-06-15,SunTrust Robinson Humphrey,Buy,,main,PNFP
+2020-06-17,Raymond James,Outperform,Market Perform,up,PNFP
+2020-06-18,JP Morgan,Neutral,,main,PNFP
+2020-07-07,Wells Fargo,Overweight,,main,PNFP
+2020-10-22,Wells Fargo,Overweight,,main,PNFP
+2021-01-21,Raymond James,Outperform,,main,PNFP
+2021-03-17,Stephens & Co.,Overweight,,main,PNFP
+2021-04-21,Wells Fargo,Overweight,Equal-Weight,up,PNFP
+2021-04-21,Raymond James,Market Perform,Outperform,down,PNFP
+2021-05-21,Seaport Global,Buy,,init,PNFP
+2021-11-11,Wells Fargo,Overweight,,main,PNFP

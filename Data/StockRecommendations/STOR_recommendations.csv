@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-12-22,Credit Suisse,Neutral,,init,STOR
+2014-12-30,Stifel Nicolaus,Buy,,main,STOR
+2014-12-31,Stifel Nicolaus,Buy,,main,STOR
+2015-03-23,Goldman Sachs,Buy,,main,STOR
+2015-03-24,Baird,Outperform,,init,STOR
+2015-04-10,Raymond James,Outperform,,init,STOR
+2015-04-14,Stifel Nicolaus,Buy,,main,STOR
+2015-06-16,Cowen & Co.,Outperform,,init,STOR
+2015-07-23,Morgan Stanley,Overweight,Equal-Weight,up,STOR
+2015-10-19,UBS,Neutral,,init,STOR
+2015-10-27,Wunderlich,Buy,,init,STOR
+2015-12-07,Capital One Financial,Overweight,,init,STOR
+2015-12-11,Credit Suisse,Underperform,Neutral,down,STOR
+2016-01-19,Credit Suisse,Underperform,,main,STOR
+2016-02-03,Ladenburg Thalmann,Neutral,Buy,down,STOR
+2016-04-12,Janney Capital,Buy,,init,STOR
+2016-07-11,Stifel Nicolaus,Buy,,main,STOR
+2016-08-25,BTIG Research,Buy,,init,STOR
+2016-09-26,UBS,Neutral,,init,STOR
+2016-10-14,Mizuho,Buy,,init,STOR
+2016-12-13,Morgan Stanley,Equal-Weight,Overweight,down,STOR
+2016-12-16,KeyBanc,Sector Weight,Overweight,down,STOR
+2017-02-10,Ladenburg Thalmann,Buy,Neutral,up,STOR
+2017-05-10,Ladenburg Thalmann,Neutral,Buy,down,STOR
+2017-06-27,Mizuho,Neutral,Buy,down,STOR
+2017-07-17,FBR Capital,Market Perform,,init,STOR
+2017-08-31,Mizuho,Buy,Neutral,up,STOR
+2017-10-16,Stifel Nicolaus,Buy,,main,STOR
+2018-03-20,Wells Fargo,Market Perform,Market Perform,main,STOR
+2018-07-13,Stifel Nicolaus,Buy,Buy,main,STOR
+2018-07-13,Janney Capital,Neutral,Buy,down,STOR
+2018-10-01,Morgan Stanley,Overweight,Equal-Weight,up,STOR
+2019-04-23,Berenberg,Buy,,init,STOR
+2019-05-06,Raymond James,Outperform,,reit,STOR
+2019-07-11,Morgan Stanley,Overweight,,main,STOR
+2019-08-27,Deutsche Bank,Buy,,init,STOR
+2019-09-17,Morgan Stanley,Overweight,,main,STOR
+2020-01-06,BTIG,Neutral,Buy,down,STOR
+2020-01-16,SunTrust Robinson Humphrey,Hold,Buy,down,STOR
+2020-03-25,Deutsche Bank,Buy,,main,STOR
+2020-04-02,Wells Fargo,Equal-Weight,,main,STOR
+2020-04-17,SunTrust Robinson Humphrey,Hold,,main,STOR
+2020-04-20,BMO Capital,Market Perform,Outperform,down,STOR
+2020-05-04,Morgan Stanley,Equal-Weight,Overweight,down,STOR
+2020-05-20,Raymond James,Outperform,,main,STOR
+2020-05-28,Deutsche Bank,Buy,,main,STOR
+2020-08-21,Morgan Stanley,Equal-Weight,,main,STOR
+2020-09-17,Wells Fargo,Overweight,Equal-Weight,up,STOR
+2020-12-10,Wells Fargo,Overweight,Equal-Weight,up,STOR
+2021-01-12,Raymond James,Outperform,,main,STOR
+2021-02-19,Morgan Stanley,Equal-Weight,,main,STOR
+2021-02-22,Morgan Stanley,Equal-Weight,,main,STOR
+2021-03-10,Raymond James,Outperform,,main,STOR
+2021-03-17,Wells Fargo,Overweight,,main,STOR
+2021-04-05,Morgan Stanley,Equal-Weight,,main,STOR
+2021-04-15,Morgan Stanley,Equal-Weight,,main,STOR
+2021-05-07,Goldman Sachs,Neutral,,main,STOR
+2021-06-03,Morgan Stanley,Equal-Weight,,main,STOR
+2021-06-17,Raymond James,Outperform,,main,STOR
+2021-08-18,Raymond James,Market Perform,Outperform,down,STOR
+2021-12-03,Morgan Stanley,Equal-Weight,,main,STOR

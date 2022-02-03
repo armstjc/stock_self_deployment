@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-07,Credit Suisse,Hold,Buy,down,RDY
+2012-06-28,Anand Rathi,Buy,Hold,up,RDY
+2012-12-12,Credit Suisse,Outperform,Neutral,up,RDY
+2013-02-15,Bank of America,Neutral,Buy,down,RDY
+2015-12-02,Deutsche Bank,Sell,,init,RDY
+2016-02-10,CLSA,Buy,Underperform,up,RDY
+2016-05-02,Goldman Sachs,Neutral,,init,RDY
+2016-07-26,Credit Suisse,Underweight,Neutral,down,RDY
+2016-07-27,Jefferies,Underperform,Hold,down,RDY
+2016-07-27,HSBC,Reduce,Hold,down,RDY
+2017-09-21,Morgan Stanley,Overweight,Equal-Weight,up,RDY
+2017-11-01,Jefferies,Underperform,,main,RDY
+2019-05-20,Morgan Stanley,Equal-Weight,Overweight,down,RDY
+2019-06-11,Barclays,Equal-Weight,,init,RDY
+2019-09-04,Credit Suisse,Outperform,Underperform,up,RDY
+2019-11-04,Bank of America,Neutral,Buy,down,RDY
+2020-01-09,Citigroup,Buy,Sell,up,RDY
+2020-01-28,CLSA,Outperform,Buy,down,RDY
+2021-02-02,Barclays,Overweight,Equal-Weight,up,RDY
+2021-11-01,Barclays,Overweight,,main,RDY

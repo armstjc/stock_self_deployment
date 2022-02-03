@@ -1,0 +1,130 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-12,Stifel Nicolaus,Buy,,main,TER
+2012-04-27,UBS,Neutral,,main,TER
+2012-04-27,DA Davidson,Buy,,main,TER
+2012-06-11,UBS,Neutral,,main,TER
+2012-07-05,DA Davidson,Buy,,main,TER
+2012-07-06,Pacific Crest,Sector Perform,,init,TER
+2012-07-26,Goldman Sachs,Buy,,main,TER
+2012-07-26,Bank of America,Neutral,,main,TER
+2012-07-27,UBS,Neutral,,main,TER
+2012-12-10,Needham,,,init,TER
+2012-12-14,Pacific Crest,Outperform,Sector Perform,up,TER
+2013-01-25,UBS,Neutral,,main,TER
+2013-01-25,Craig-Hallum,Hold,Buy,down,TER
+2013-01-28,Citigroup,Buy,,main,TER
+2013-04-26,UBS,Buy,,up,TER
+2013-07-26,Pacific Crest,Sector Perform,Outperform,down,TER
+2014-01-15,Pacific Crest,Outperform,,up,TER
+2014-01-17,Sidoti & Co.,Neutral,Buy,down,TER
+2014-01-21,DA Davidson,Buy,,main,TER
+2014-01-24,Deutsche Bank,Buy,,main,TER
+2014-01-24,Credit Suisse,Outperform,,main,TER
+2014-04-10,ISI Group,Buy,,init,TER
+2014-04-25,Pacific Crest,Outperform,,main,TER
+2014-06-04,Craig-Hallum,Buy,Hold,up,TER
+2014-07-25,UBS,Buy,,main,TER
+2014-07-25,Credit Suisse,Outperform,,main,TER
+2014-09-02,Citigroup,Buy,,main,TER
+2014-10-03,ISI Group,Neutral,Buy,down,TER
+2014-12-18,Citigroup,Neutral,Buy,down,TER
+2015-01-12,Credit Suisse,Neutral,Outperform,down,TER
+2015-01-30,Susquehanna,Neutral,Positive,down,TER
+2015-05-04,UBS,Buy,,main,TER
+2015-05-05,Citigroup,Neutral,,main,TER
+2015-05-14,Craig-Hallum,Hold,Buy,down,TER
+2015-06-24,Goldman Sachs,Buy,,main,TER
+2015-08-25,Craig-Hallum,Buy,Hold,up,TER
+2015-09-15,Citigroup,Buy,Neutral,up,TER
+2015-09-17,Pacific Crest,Overweight,,main,TER
+2015-09-21,Susquehanna,Neutral,,main,TER
+2015-09-23,Sidoti & Co.,Buy,,main,TER
+2015-10-08,KeyBanc,Overweight,,main,TER
+2015-10-29,Susquehanna,Neutral,,main,TER
+2015-10-29,Pacific Crest,Sector Weight,Overweight,down,TER
+2015-12-17,Evercore ISI Group,Buy,Hold,up,TER
+2016-01-29,Credit Suisse,Neutral,,main,TER
+2016-02-03,Goldman Sachs,Neutral,Buy,down,TER
+2016-07-21,Stifel Nicolaus,Hold,Buy,down,TER
+2016-07-29,Deutsche Bank,Buy,,main,TER
+2016-07-29,UBS,Buy,,main,TER
+2017-04-03,Baird,Outperform,,init,TER
+2017-07-05,Stifel Nicolaus,Buy,Hold,up,TER
+2017-07-28,KeyBanc,Overweight,Sector Weight,up,TER
+2017-10-27,Credit Suisse,Neutral,,main,TER
+2017-10-27,Evercore ISI Group,In-Line,Outperform,down,TER
+2017-10-30,Citigroup,Buy,,main,TER
+2017-10-31,Citigroup,Buy,,main,TER
+2017-11-21,Deutsche Bank,Hold,Buy,down,TER
+2017-12-12,Goldman Sachs,Buy,Neutral,up,TER
+2018-01-02,Evercore ISI Group,Outperform,In-Line,up,TER
+2018-01-24,Stifel Nicolaus,Buy,Buy,main,TER
+2018-01-30,Citigroup,Buy,Buy,main,TER
+2018-04-05,UBS,Neutral,,init,TER
+2018-04-25,Baird,Neutral,Outperform,down,TER
+2018-04-26,Credit Suisse,Neutral,Neutral,main,TER
+2018-04-26,Stifel Nicolaus,Buy,Buy,main,TER
+2018-04-26,DA Davidson,Neutral,Buy,down,TER
+2018-05-15,Cowen & Co.,Market Perform,,init,TER
+2018-09-25,Citigroup,Buy,Buy,main,TER
+2018-10-10,Baird,Outperform,Outperform,main,TER
+2018-10-18,Goldman Sachs,Neutral,Buy,down,TER
+2018-10-25,Credit Suisse,Neutral,Neutral,main,TER
+2018-10-25,Craig-Hallum,Buy,Hold,up,TER
+2018-11-20,Bank of America,Neutral,Buy,down,TER
+2018-12-17,Citigroup,Buy,Buy,main,TER
+2018-12-21,Baird,Neutral,Outperform,down,TER
+2019-01-14,Evercore ISI Group,In-Line,Outperform,down,TER
+2019-02-22,Craig-Hallum,Hold,Buy,down,TER
+2019-04-16,Stifel Nicolaus,Buy,Buy,main,TER
+2019-04-25,Baird,Outperform,Neutral,up,TER
+2019-07-25,Stifel,Hold,Buy,down,TER
+2019-10-21,UBS,Neutral,,main,TER
+2019-10-24,Baird,Outperform,,main,TER
+2019-10-24,Stifel Nicolaus,Hold,,main,TER
+2019-10-24,Deutsche Bank,Hold,,main,TER
+2019-10-25,Citi,Buy,,main,TER
+2020-01-13,Evercore ISI Group,Outperform,In-Line,up,TER
+2020-01-24,DA Davidson,Neutral,,main,TER
+2020-01-24,Deutsche Bank,Hold,,main,TER
+2020-01-24,UBS,Neutral,,main,TER
+2020-01-24,Citigroup,Buy,,main,TER
+2020-01-24,Credit Suisse,Neutral,,main,TER
+2020-01-24,KeyBanc,Overweight,,main,TER
+2020-01-24,Susquehanna,Negative,Neutral,down,TER
+2020-03-27,Deutsche Bank,Buy,Hold,up,TER
+2020-04-15,Stifel,Hold,,main,TER
+2020-04-22,CFRA,Hold,,main,TER
+2020-04-23,UBS,Sell,Neutral,down,TER
+2020-04-23,Deutsche Bank,Buy,,main,TER
+2020-07-10,Northland Capital Markets,Market Perform,Outperform,down,TER
+2020-07-13,Deutsche Bank,Buy,,main,TER
+2020-07-14,Craig-Hallum,Hold,Buy,down,TER
+2020-07-23,Credit Suisse,Neutral,,main,TER
+2020-07-27,Citigroup,Buy,,main,TER
+2020-10-09,Stifel,Buy,Hold,up,TER
+2020-10-22,Susquehanna,Neutral,Negative,up,TER
+2020-11-04,Goldman Sachs,Buy,Neutral,up,TER
+2020-12-10,Morgan Stanley,Overweight,,init,TER
+2021-01-06,KeyBanc,Overweight,,main,TER
+2021-01-25,Deutsche Bank,Buy,,main,TER
+2021-01-26,Rosenblatt,Buy,,init,TER
+2021-01-29,DA Davidson,Neutral,,main,TER
+2021-01-29,Credit Suisse,Neutral,,main,TER
+2021-03-11,Rosenblatt,Buy,,main,TER
+2021-04-29,Credit Suisse,Neutral,,main,TER
+2021-04-29,Morgan Stanley,Overweight,,main,TER
+2021-04-30,Rosenblatt,Buy,,main,TER
+2021-06-21,Evercore ISI Group,Outperform,,main,TER
+2021-07-29,Susquehanna,Positive,Neutral,up,TER
+2021-10-07,DA Davidson,Buy,Neutral,up,TER
+2021-10-15,Piper Sandler,Overweight,,init,TER
+2021-10-28,UBS,Buy,Sell,up,TER
+2021-10-28,Morgan Stanley,Overweight,,main,TER
+2021-10-28,Craig-Hallum,Buy,Hold,up,TER
+2021-10-28,Cowen & Co.,Outperform,Market Perform,up,TER
+2021-11-15,Piper Sandler,Overweight,,main,TER
+2021-12-15,Morgan Stanley,Overweight,,main,TER
+2021-12-15,Piper Sandler,Overweight,,main,TER
+2021-12-17,Goldman Sachs,Buy,,main,TER
+2022-01-14,Loop Capital,Buy,,init,TER

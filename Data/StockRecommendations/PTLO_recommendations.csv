@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-11-15,Baird,Neutral,,init,PTLO
+2021-11-15,Jefferies,Buy,,init,PTLO
+2021-11-15,Piper Sandler,Overweight,,init,PTLO
+2021-11-15,B of A Securities,Buy,,init,PTLO
+2021-11-15,UBS,Neutral,,init,PTLO
+2021-11-15,Guggenheim,Neutral,,init,PTLO
+2021-11-15,William Blair,Outperform,,init,PTLO
+2021-11-15,Loop Capital,Buy,,init,PTLO
+2021-11-15,Stifel,Hold,,init,PTLO
+2021-12-13,Baird,Outperform,Neutral,up,PTLO

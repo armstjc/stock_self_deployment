@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-04,The Oxen Group,Sell,,main,SKX
+2012-05-03,Wedbush,Underperform,,main,SKX
+2012-07-26,Wedbush,Neutral,Underperform,up,SKX
+2013-04-22,BB&T Capital,Buy,Hold,up,SKX
+2013-07-16,Susquehanna,Positive,,main,SKX
+2013-07-22,Wedbush,Neutral,,main,SKX
+2013-10-30,Brean Capital,Buy,,init,SKX
+2013-12-05,Sterne Agee,Buy,,main,SKX
+2014-01-21,BB&T Capital,Hold,Buy,down,SKX
+2014-04-10,Buckingham Research,Underperform,,init,SKX
+2014-05-19,Citigroup,Buy,,init,SKX
+2014-05-30,Citigroup,Buy,,main,SKX
+2014-07-22,B. Riley FBR,Buy,,main,SKX
+2014-07-24,Sidoti & Co.,Buy,Neutral,up,SKX
+2014-08-20,Citigroup,Buy,,main,SKX
+2014-10-23,Citigroup,Buy,,main,SKX
+2014-10-30,Morgan Stanley,Overweight,,init,SKX
+2015-02-09,B. Riley FBR,Neutral,Buy,down,SKX
+2015-02-12,Wunderlich,Buy,,main,SKX
+2015-02-12,Buckingham Research,Neutral,Underperform,up,SKX
+2015-04-15,Susquehanna,Positive,,main,SKX
+2015-04-20,Wunderlich,Buy,,main,SKX
+2015-04-23,Citigroup,Buy,,main,SKX
+2015-04-23,Buckingham Research,Buy,Neutral,up,SKX
+2015-04-23,B. Riley FBR,Buy,Neutral,up,SKX
+2015-05-07,Citigroup,Buy,,main,SKX
+2015-05-26,B. Riley FBR,Buy,,main,SKX
+2015-06-09,Susquehanna,Positive,,main,SKX
+2015-07-21,Citigroup,Buy,,main,SKX
+2015-10-13,Argus,Buy,,init,SKX
+2015-10-23,B. Riley FBR,Buy,,main,SKX
+2016-01-04,Cowen & Co.,Market Perform,,init,SKX
+2016-01-22,Susquehanna,Neutral,Positive,down,SKX
+2016-04-07,Macquarie,Outperform,,init,SKX
+2016-07-22,Monness Crespi Hardt,Neutral,Buy,down,SKX
+2016-08-01,Argus,Hold,Buy,down,SKX
+2016-08-12,Susquehanna,Neutral,,init,SKX
+2016-08-23,Citigroup,Buy,,main,SKX
+2016-09-21,Morgan Stanley,Equal-Weight,Overweight,down,SKX
+2016-09-30,Susquehanna,Positive,Neutral,up,SKX
+2016-10-03,Standpoint Research,Buy,,init,SKX
+2016-10-21,Citigroup,Neutral,Buy,down,SKX
+2016-11-01,Wedbush,Neutral,,init,SKX
+2016-11-03,B. Riley FBR,Neutral,Buy,down,SKX
+2016-12-01,Buckingham,Buy,Neutral,up,SKX
+2016-12-06,Wells Fargo,Outperform,,init,SKX
+2016-12-23,Monness Crespi Hardt,Buy,Neutral,up,SKX
+2017-03-16,Standpoint Research,Hold,Buy,down,SKX
+2017-03-24,Cowen & Co.,Outperform,Market Perform,up,SKX
+2017-03-29,Susquehanna,Negative,Positive,down,SKX
+2017-04-10,Susquehanna,Neutral,Negative,up,SKX
+2017-04-21,B. Riley FBR,Buy,Neutral,up,SKX
+2017-06-01,Citigroup,Buy,Neutral,up,SKX
+2017-06-05,Susquehanna,Positive,Neutral,up,SKX
+2017-07-18,OTR Global,Positive,Mixed,up,SKX
+2017-07-21,Citigroup,Buy,,main,SKX
+2017-09-25,Buckingham,Buy,,main,SKX
+2017-10-20,Buckingham,Buy,,main,SKX
+2017-10-20,Wells Fargo,Market Perform,,main,SKX
+2017-10-20,Morgan Stanley,Equal-Weight,,main,SKX
+2017-10-20,Wedbush,Outperform,Neutral,up,SKX
+2017-12-15,Argus,Buy,Hold,up,SKX
+2018-02-06,B. Riley FBR,Buy,Buy,main,SKX
+2018-02-09,B. Riley FBR,Buy,Buy,main,SKX
+2018-02-09,Citigroup,Buy,Buy,main,SKX
+2018-04-20,Wedbush,Neutral,Outperform,down,SKX
+2018-06-08,Wedbush,Neutral,Neutral,main,SKX
+2018-06-21,UBS,Buy,,init,SKX
+2018-07-20,Standpoint Research,Buy,Hold,up,SKX
+2018-07-20,B. Riley FBR,Buy,Buy,main,SKX
+2018-07-20,UBS,Buy,Buy,main,SKX
+2018-07-20,Wedbush,Neutral,Neutral,main,SKX
+2018-07-20,Buckingham,Buy,Buy,main,SKX
+2018-07-20,Susquehanna,Neutral,Positive,down,SKX
+2018-07-20,Wells Fargo,Market Perform,Outperform,down,SKX
+2018-07-23,Citigroup,Buy,Buy,main,SKX
+2018-07-26,Argus,Hold,Buy,down,SKX
+2018-08-02,Morgan Stanley,Equal-Weight,,init,SKX
+2018-08-16,Buckingham,Buy,Buy,main,SKX
+2018-09-20,Cowen & Co.,Market Perform,Outperform,down,SKX
+2018-10-02,Citigroup,Neutral,Buy,down,SKX
+2018-10-17,Buckingham,Buy,Buy,main,SKX
+2018-10-19,Buckingham,Buy,Buy,main,SKX
+2018-10-22,Citigroup,Neutral,Neutral,main,SKX
+2018-12-17,Stifel Nicolaus,Buy,,init,SKX
+2019-01-02,Wells Fargo,Market Perform,Market Perform,main,SKX
+2019-02-08,CFRA,Sell,Hold,down,SKX
+2019-03-27,Susquehanna,Positive,Neutral,up,SKX
+2019-07-11,OTR Global,Positive,Mixed,up,SKX
+2019-07-19,Morgan Stanley,Equal-Weight,,main,SKX
+2019-07-19,Wedbush,Outperform,Neutral,up,SKX
+2019-07-19,Stifel,Buy,,main,SKX
+2019-10-23,Morgan Stanley,Equal-Weight,,main,SKX
+2019-12-18,Deutsche Bank,Buy,,init,SKX
+2020-01-28,UBS,Buy,,main,SKX
+2020-02-04,Morgan Stanley,Equal-Weight,,main,SKX
+2020-02-07,Deutsche Bank,Buy,,main,SKX
+2020-02-07,Wells Fargo,Equal-Weight,,main,SKX
+2020-03-10,B. Riley FBR,Buy,,main,SKX
+2020-03-16,Wells Fargo,Equal-Weight,,main,SKX
+2020-03-19,Deutsche Bank,Buy,,main,SKX
+2020-03-30,Wells Fargo,Overweight,Equal-Weight,up,SKX
+2020-04-06,Susquehanna,Positive,,main,SKX
+2020-04-15,UBS,Buy,,main,SKX
+2020-04-24,Morgan Stanley,Equal-Weight,,main,SKX
+2020-04-24,Deutsche Bank,Buy,,main,SKX
+2020-10-14,Morgan Stanley,Equal-Weight,,main,SKX
+2020-10-30,Morgan Stanley,Equal-Weight,,main,SKX
+2020-11-03,Susquehanna,Neutral,Positive,down,SKX
+2021-01-26,Morgan Stanley,Equal-Weight,,main,SKX
+2021-04-19,"Monness, Crespi, Hardt",Neutral,Buy,down,SKX
+2021-04-20,Morgan Stanley,Equal-Weight,,main,SKX
+2021-04-23,Morgan Stanley,Overweight,Equal-Weight,up,SKX
+2021-07-16,Morgan Stanley,Overweight,,main,SKX
+2021-07-20,"Monness, Crespi, Hardt",Buy,Neutral,up,SKX
+2021-07-23,Morgan Stanley,Overweight,,main,SKX
+2021-10-05,Wedbush,Neutral,,init,SKX
+2021-11-02,Argus Research,Hold,Buy,down,SKX
+2022-01-04,Wedbush,Outperform,Neutral,up,SKX

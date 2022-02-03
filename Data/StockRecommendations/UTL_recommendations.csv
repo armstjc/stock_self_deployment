@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-14,Baird,Neutral,,init,UTL
+2013-04-25,Brean Capital,Buy,Hold,up,UTL
+2013-10-29,RBC Capital,Sector Perform,Outperform,down,UTL
+2014-06-30,Brean Capital,Hold,Buy,down,UTL
+2015-01-09,RBC Capital,Underperform,Sector Perform,down,UTL
+2015-05-05,Janney Capital,Neutral,,init,UTL
+2015-07-24,Janney Capital,Buy,Neutral,up,UTL
+2015-10-15,Janney Capital,Neutral,Buy,down,UTL
+2016-04-25,RBC Capital,Sector Perform,Underperform,up,UTL
+2017-12-18,Bank of America,Neutral,,init,UTL
+2017-12-26,Janney Capital,Buy,Neutral,up,UTL
+2018-08-01,Bank of America,Underperform,Underperform,main,UTL
+2019-06-28,Janney Capital,Neutral,Buy,down,UTL
+2020-03-06,Janney Capital,Buy,Neutral,up,UTL
+2020-05-06,B of A Securities,Underperform,,main,UTL
+2020-09-16,B of A Securities,Neutral,Underperform,up,UTL
+2021-05-06,B of A Securities,Underperform,Neutral,down,UTL

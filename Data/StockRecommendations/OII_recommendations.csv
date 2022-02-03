@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-13,Goldman Sachs,Buy,,up,OII
+2012-02-17,Societe Generale,Hold,,main,OII
+2012-04-23,Morgan Stanley,Underweight,,main,OII
+2012-05-22,Guggenheim,Buy,,init,OII
+2012-07-30,Dahlman Rose,Buy,,main,OII
+2012-08-09,Societe Generale,Hold,Buy,down,OII
+2012-09-24,ISI Group,Buy,Neutral,up,OII
+2012-10-31,Barclays,Overweight,,main,OII
+2012-11-02,Jefferies,Hold,,main,OII
+2013-01-15,Morgan Stanley,Overweight,Equal-weight,up,OII
+2013-02-01,Credit Suisse,Neutral,,init,OII
+2013-02-15,Societe Generale,Hold,,main,OII
+2013-02-15,Barclays,Overweight,,main,OII
+2013-02-15,BMO Capital,Market Perform,Outperform,down,OII
+2013-02-19,Jefferies,Hold,,main,OII
+2013-02-19,Dahlman Rose,Buy,,main,OII
+2013-02-19,Guggenheim,Neutral,Buy,down,OII
+2013-02-26,Macquarie,Neutral,Outperform,down,OII
+2013-02-27,Sterne Agee,Buy,Neutral,up,OII
+2013-07-26,BMO Capital,Market Perform,,main,OII
+2013-08-14,Credit Suisse,Neutral,Neutral,main,OII
+2013-08-15,RBC Capital,Sector Perform,Outperform,down,OII
+2013-09-23,Global Hunter Securities,Neutral,Buy,down,OII
+2013-10-07,Clarksons Platou,Market Perform,,init,OII
+2013-10-14,Baird,Neutral,,init,OII
+2013-10-30,Scotia Howard Weil,Sector Outperform,Sector Perform,up,OII
+2013-12-02,Jefferies,Buy,Hold,up,OII
+2013-12-03,Societe Generale,Buy,Hold,up,OII
+2013-12-16,Goldman Sachs,Buy,Neutral,up,OII
+2014-01-08,RBC Capital,Outperform,Sector Perform,up,OII
+2014-01-15,Societe Generale,Hold,,down,OII
+2014-07-29,Deutsche Bank,Buy,,main,OII
+2014-10-16,ISI Group,Buy,,init,OII
+2014-10-27,Morgan Stanley,Equal-Weight,Overweight,down,OII
+2014-10-31,Capital One Financial,Equal-Weight,Overweight,down,OII
+2014-11-18,SunTrust Robinson Humphrey,Neutral,,init,OII
+2014-12-02,Deutsche Bank,Buy,,main,OII
+2014-12-17,Credit Suisse,Neutral,,main,OII
+2014-12-18,RBC Capital,Sector Perform,Outperform,down,OII
+2014-12-23,Seaport Global,Accumulate,Neutral,up,OII
+2015-01-06,Societe Generale,,Hold,up,OII
+2015-02-02,Jefferies,Hold,,main,OII
+2015-02-03,Deutsche Bank,Buy,,main,OII
+2015-02-13,Jefferies,Hold,,main,OII
+2015-02-13,Deutsche Bank,Buy,,main,OII
+2015-04-21,Jefferies,Underperform,Hold,down,OII
+2015-04-24,Jefferies,Underweight,,main,OII
+2015-04-27,Goldman Sachs,Neutral,Buy,down,OII
+2015-04-29,Sterne Agee CRT,Neutral,Buy,down,OII
+2015-07-23,Jefferies,Hold,Underperform,up,OII
+2015-07-27,Seaport Global,Buy,Accumulate,up,OII
+2015-09-04,Credit Suisse,Neutral,,main,OII
+2015-10-30,Cowen & Co.,Market Perform,Outperform,down,OII
+2015-11-10,Deutsche Bank,Buy,,main,OII
+2015-11-30,Guggenheim,Buy,Neutral,up,OII
+2015-12-14,KLR Group,Accumulate,,init,OII
+2016-01-05,GMP Securities,Hold,,init,OII
+2016-01-13,Seaport Global,Accumulate,Buy,down,OII
+2016-02-11,RBC Capital,Underperform,Sector Perform,down,OII
+2016-02-12,RBC Capital,Underperform,Sector Perform,down,OII
+2016-02-16,iBERIA Capital Partners,Sector Perform,,main,OII
+2016-02-16,Deutsche Bank,Buy,,main,OII
+2016-03-11,Goldman Sachs,Buy,Neutral,up,OII
+2016-04-19,Morgan Stanley,Equal-Weight,,main,OII
+2016-04-29,Societe Generale,Buy,Hold,up,OII
+2016-05-20,RBC Capital,Sector Perform,Underperform,up,OII
+2016-06-22,JP Morgan,Underweight,,init,OII
+2016-06-29,Evercore ISI Group,Hold,Buy,down,OII
+2016-07-11,Jefferies,Hold,,main,OII
+2016-07-25,Jefferies,Hold,,main,OII
+2016-09-27,Citigroup,Neutral,,init,OII
+2016-10-18,Wells Fargo,Outperform,,init,OII
+2016-12-01,Seaport Global,Sell,Accumulate,down,OII
+2016-12-08,Wolfe Research,Peer Perform,,up,OII
+2016-12-16,RBC Capital,Underperform,Sector Perform,down,OII
+2017-06-21,Morgan Stanley,Underweight,Equal-Weight,down,OII
+2017-08-25,RBC Capital,Outperform,Underperform,up,OII
+2017-09-12,JP Morgan,Underweight,,main,OII
+2017-10-10,Deutsche Bank,Hold,,init,OII
+2017-10-27,Loop Capital,Hold,,main,OII
+2017-10-27,Credit Suisse,Neutral,,main,OII
+2017-10-27,Goldman Sachs,Neutral,Buy,down,OII
+2017-10-27,PiperJaffray,Neutral,Overweight,down,OII
+2017-10-30,Barclays,Overweight,,main,OII
+2017-10-30,Citigroup,Neutral,,main,OII
+2017-10-30,JP Morgan,Underweight,,main,OII
+2017-10-31,Citigroup,Neutral,,main,OII
+2017-11-16,Capital One Financial,Equal-Weight,Overweight,down,OII
+2018-01-04,Jefferies,Underperform,Hold,down,OII
+2018-02-26,Wells Fargo,Outperform,Outperform,main,OII
+2018-02-26,Credit Suisse,Neutral,Neutral,main,OII
+2018-02-27,Barclays,Equal-Weight,Equal-Weight,main,OII
+2018-02-27,Loop Capital,Hold,Hold,main,OII
+2018-03-14,Jefferies,Hold,Underperform,up,OII
+2018-05-14,Goldman Sachs,Buy,Neutral,up,OII
+2018-05-24,Wells Fargo,Market Perform,Underperform,up,OII
+2018-07-27,Credit Suisse,Neutral,Neutral,main,OII
+2018-07-27,Wells Fargo,Market Perform,Market Perform,main,OII
+2018-09-17,JP Morgan,Underweight,Underweight,main,OII
+2018-10-12,Societe Generale,Buy,Hold,up,OII
+2018-10-29,Barclays,Equal-Weight,Equal-Weight,main,OII
+2018-12-20,Societe Generale,Hold,Buy,down,OII
+2019-01-17,JP Morgan,Underweight,,init,OII
+2019-02-20,Barclays,Overweight,Equal-Weight,up,OII
+2019-03-11,Goldman Sachs,Neutral,,init,OII
+2019-03-15,Jefferies,Buy,Hold,up,OII
+2019-08-15,Citigroup,Neutral,,main,OII
+2019-11-12,Bank of America,Buy,,init,OII
+2019-11-21,Wolfe Research,Outperform,,init,OII
+2019-12-12,Evercore ISI Group,Outperform,In-Line,up,OII
+2019-12-17,Goldman Sachs,Buy,Neutral,up,OII
+2020-01-14,Bernstein,Underperform,,init,OII
+2020-03-09,B of A Securities,Neutral,Buy,down,OII
+2020-04-06,Bernstein,Market Perform,Underperform,up,OII
+2020-04-15,Piper Sandler,Neutral,,main,OII
+2020-04-24,Citigroup,Buy,Neutral,up,OII
+2020-05-14,CFRA,Hold,,main,OII
+2020-08-12,Piper Sandler,Neutral,,main,OII
+2021-05-05,B of A Securities,Buy,Neutral,up,OII

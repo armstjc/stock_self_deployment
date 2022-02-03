@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-19,Raymond James,Outperform,,init,SUPV
+2017-09-21,UBS,Buy,,main,SUPV
+2017-11-21,JP Morgan,Overweight,,init,SUPV
+2018-05-11,Santander,Buy,Hold,up,SUPV
+2018-08-30,Bank of America,Neutral,Buy,down,SUPV
+2018-11-16,Santander,Underperform,Buy,down,SUPV
+2019-09-19,Bank of America,Underperform,Neutral,down,SUPV
+2019-12-09,Itau BBA,Underperform,Market Perform,down,SUPV

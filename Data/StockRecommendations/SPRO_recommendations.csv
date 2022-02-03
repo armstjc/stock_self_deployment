@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-27,Stifel Nicolaus,Buy,,init,SPRO
+2017-11-27,Cowen & Co.,Outperform,,init,SPRO
+2017-11-27,Bank of America,Neutral,,init,SPRO
+2018-02-09,Cantor Fitzgerald,Overweight,,init,SPRO
+2018-05-11,H.C. Wainwright,Buy,,init,SPRO
+2018-10-16,Bank of America,Underperform,Neutral,down,SPRO
+2019-09-09,Janney Capital,Buy,,init,SPRO
+2019-11-05,H.C. Wainwright,Buy,,main,SPRO
+2020-03-17,Stifel,Buy,,main,SPRO
+2020-05-11,HC Wainwright & Co.,Buy,,reit,SPRO
+2020-09-29,Evercore ISI Group,Outperform,,init,SPRO
+2020-11-23,HC Wainwright & Co.,Buy,,main,SPRO
+2020-12-16,Berenberg,Buy,,init,SPRO
+2021-01-22,HC Wainwright & Co.,Buy,,main,SPRO
+2021-10-01,Oppenheimer,Perform,Outperform,down,SPRO

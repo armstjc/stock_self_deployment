@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-11-04,William Blair,Outperform,,init,PLAY
+2014-11-04,Jefferies,Buy,,init,PLAY
+2014-11-04,Stifel Nicolaus,Buy,,init,PLAY
+2014-11-04,PiperJaffray,Overweight,,init,PLAY
+2014-11-04,Raymond James,Outperform,,init,PLAY
+2014-12-17,Stifel Nicolaus,Buy,,main,PLAY
+2015-01-06,Jefferies,Buy,,main,PLAY
+2015-04-08,Jefferies,Buy,,main,PLAY
+2015-06-09,PiperJaffray,Overweight,,main,PLAY
+2015-06-09,Jefferies,Buy,,main,PLAY
+2015-07-13,PiperJaffray,Overweight,,main,PLAY
+2015-09-09,Jefferies,Buy,,main,PLAY
+2015-09-09,Stifel Nicolaus,Buy,,main,PLAY
+2016-07-26,Stifel Nicolaus,Hold,Buy,down,PLAY
+2016-08-22,Canaccord Genuity,Buy,,init,PLAY
+2016-10-12,Wells Fargo,Outperform,,init,PLAY
+2016-12-21,SunTrust Robinson Humphrey,Buy,,init,PLAY
+2017-03-20,Maxim Group,Buy,,init,PLAY
+2017-08-30,BMO Capital,Outperform,,main,PLAY
+2017-08-31,Canaccord Genuity,Buy,,main,PLAY
+2017-09-06,BMO Capital,Outperform,,main,PLAY
+2017-10-12,Raymond James,Outperform,,main,PLAY
+2017-10-13,Longbow Research,Buy,,init,PLAY
+2018-03-28,Wells Fargo,Outperform,Outperform,main,PLAY
+2018-04-02,Canaccord Genuity,Buy,Buy,main,PLAY
+2018-04-04,BMO Capital,Outperform,Outperform,main,PLAY
+2018-05-21,Maxim Group,Buy,Buy,main,PLAY
+2018-06-12,BMO Capital,Outperform,Outperform,main,PLAY
+2018-06-12,Raymond James,Outperform,Outperform,main,PLAY
+2018-08-24,Raymond James,Outperform,Outperform,main,PLAY
+2018-08-29,Wells Fargo,Outperform,Outperform,main,PLAY
+2018-09-17,Raymond James,Outperform,Outperform,main,PLAY
+2018-09-17,BMO Capital,Outperform,Outperform,main,PLAY
+2018-09-17,Canaccord Genuity,Buy,Buy,main,PLAY
+2018-09-17,Wells Fargo,Outperform,Outperform,main,PLAY
+2018-10-19,Gordon Haskett,Buy,,init,PLAY
+2018-10-25,Loop Capital,Buy,,init,PLAY
+2018-12-07,Maxim Group,Buy,Buy,main,PLAY
+2018-12-12,BMO Capital,Outperform,Outperform,main,PLAY
+2018-12-12,Raymond James,Outperform,Outperform,reit,PLAY
+2018-12-12,Wells Fargo,Outperform,Outperform,main,PLAY
+2018-12-12,Raymond James,Outperform,Outperform,main,PLAY
+2019-04-03,BMO Capital,Outperform,Outperform,main,PLAY
+2019-04-03,Wells Fargo,Outperform,Outperform,main,PLAY
+2019-06-12,SunTrust Robinson Humphrey,Hold,Buy,down,PLAY
+2019-06-12,Gordon Haskett,Hold,Buy,down,PLAY
+2019-06-12,Wells Fargo,Market Perform,Outperform,down,PLAY
+2019-06-28,Deutsche Bank,Hold,,init,PLAY
+2019-07-02,Jefferies,Hold,Buy,down,PLAY
+2019-09-05,SunTrust Robinson Humphrey,Hold,,main,PLAY
+2019-09-11,Raymond James,Market Perform,Outperform,down,PLAY
+2019-09-11,William Blair,Market Perform,Outperform,down,PLAY
+2019-09-11,Wells Fargo,Market Perform,,main,PLAY
+2019-09-11,BMO Capital,Outperform,,main,PLAY
+2019-09-11,SunTrust Robinson Humphrey,Hold,,main,PLAY
+2019-09-11,Piper Jaffray,Overweight,,main,PLAY
+2019-09-17,Wells Fargo,Market Perform,,main,PLAY
+2019-09-19,Stifel,Hold,,init,PLAY
+2019-12-04,Wells Fargo,Market Perform,,main,PLAY
+2019-12-11,BMO Capital,Outperform,,main,PLAY
+2019-12-11,SunTrust Robinson Humphrey,Hold,,main,PLAY
+2020-03-17,Piper Sandler,Neutral,Overweight,down,PLAY
+2020-04-01,SunTrust Robinson Humphrey,Hold,,main,PLAY
+2020-04-03,BMO Capital,Market Perform,Outperform,down,PLAY
+2020-04-03,SunTrust Robinson Humphrey,Hold,,main,PLAY
+2020-04-06,Longbow Research,Buy,,main,PLAY
+2020-04-22,Jefferies,Hold,,main,PLAY
+2020-06-12,SunTrust Robinson Humphrey,Buy,Hold,up,PLAY
+2020-09-08,Deutsche Bank,Buy,Hold,up,PLAY
+2020-09-11,Stifel,Hold,,main,PLAY
+2020-09-18,Raymond James,Outperform,Market Perform,up,PLAY
+2020-09-18,Stifel,Buy,Hold,up,PLAY
+2020-10-20,BMO Capital,Outperform,Market Perform,up,PLAY
+2020-10-21,Raymond James,Strong Buy,Outperform,up,PLAY
+2020-11-11,Longbow Research,Neutral,Buy,down,PLAY
+2020-12-02,Truist Securities,Hold,Buy,down,PLAY
+2020-12-02,Raymond James,Strong Buy,,main,PLAY
+2020-12-17,Wells Fargo,Underweight,Equal-Weight,down,PLAY
+2021-01-19,Raymond James,Strong Buy,,main,PLAY
+2021-01-25,Deutsche Bank,Buy,,main,PLAY
+2021-02-10,Raymond James,Strong Buy,,main,PLAY
+2021-03-22,Raymond James,Strong Buy,,main,PLAY
+2021-06-09,Wells Fargo,Underweight,,main,PLAY
+2021-08-27,Truist Securities,Buy,Hold,up,PLAY
+2021-08-30,Stifel,Hold,Buy,down,PLAY
+2021-09-10,BMO Capital,Outperform,,main,PLAY
+2021-09-10,Wells Fargo,Underweight,,main,PLAY
+2021-09-24,Jefferies,Buy,Hold,up,PLAY
+2021-10-06,Loop Capital,Buy,,init,PLAY
+2021-12-08,Truist Securities,Buy,,main,PLAY

@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-07-10,Barclays,Overweight,,main,PTC
+2014-07-24,JP Morgan,Overweight,,main,PTC
+2014-07-24,Barclays,Overweight,,main,PTC
+2015-01-12,Barclays,Overweight,,main,PTC
+2015-04-09,Berenberg,Buy,,init,PTC
+2015-07-10,RBC Capital,Outperform,,main,PTC
+2015-10-08,KeyBanc,Overweight,,init,PTC
+2015-10-29,Barclays,Overweight,,main,PTC
+2016-01-13,Mitsubishi UFJ,Neutral,,init,PTC
+2016-02-01,Sterne Agee CRT,Buy,Neutral,up,PTC
+2016-08-01,Citigroup,Buy,,init,PTC
+2016-09-14,Evercore ISI Group,Buy,,init,PTC
+2016-09-15,Evercore ISI Group,Buy,,init,PTC
+2016-10-04,CLSA,Outperform,,main,PTC
+2016-10-07,Brean Capital,Buy,,init,PTC
+2016-11-04,Goldman Sachs,Buy,,init,PTC
+2017-05-10,Baird,Outperform,,init,PTC
+2017-05-18,Benchmark,Buy,,init,PTC
+2017-07-17,Goldman Sachs,Neutral,,init,PTC
+2017-08-23,Berenberg,Buy,,init,PTC
+2017-10-26,KeyBanc,Overweight,,main,PTC
+2017-10-26,Barclays,Overweight,,main,PTC
+2017-11-06,Bank of America,Underperform,,init,PTC
+2017-12-12,JP Morgan,Neutral,Overweight,down,PTC
+2018-01-18,Bank of America,Neutral,Underperform,up,PTC
+2018-03-09,KeyBanc,Overweight,Overweight,main,PTC
+2018-04-19,KeyBanc,Overweight,Overweight,main,PTC
+2018-04-19,Baird,Outperform,Outperform,main,PTC
+2018-04-19,Barclays,Overweight,Overweight,main,PTC
+2018-06-08,Wedbush,Outperform,Outperform,main,PTC
+2018-06-13,Barclays,Overweight,Overweight,main,PTC
+2018-06-14,KeyBanc,Overweight,Overweight,main,PTC
+2018-06-19,Wedbush,Outperform,Outperform,main,PTC
+2018-06-19,Baird,Outperform,Outperform,main,PTC
+2018-06-19,Bank of America,Neutral,Neutral,main,PTC
+2018-07-09,Cowen & Co.,Outperform,,init,PTC
+2018-12-19,Stifel Nicolaus,Buy,,init,PTC
+2019-01-16,Deutsche Bank,Buy,,init,PTC
+2019-04-12,Mizuho,Buy,,init,PTC
+2019-04-25,Wedbush,Neutral,Outperform,down,PTC
+2019-04-25,Bank of America,Underperform,Neutral,down,PTC
+2019-04-25,JP Morgan,Underweight,Neutral,down,PTC
+2019-04-25,Deutsche Bank,Buy,Buy,main,PTC
+2019-07-22,Citigroup,Neutral,,init,PTC
+2019-07-25,KeyBanc,Sector Weight,Overweight,down,PTC
+2019-07-25,Stifel,Hold,Buy,down,PTC
+2019-07-25,RBC Capital,Sector Perform,Outperform,down,PTC
+2019-07-25,Guggenheim,Neutral,Buy,down,PTC
+2019-07-25,Mizuho,Buy,,main,PTC
+2019-08-22,Rosenblatt,Buy,,init,PTC
+2019-10-02,Citigroup,Neutral,,main,PTC
+2019-10-07,Barclays,Overweight,,main,PTC
+2020-01-23,Mizuho,Buy,,main,PTC
+2020-01-23,Wedbush,Neutral,,main,PTC
+2020-01-23,Baird,Outperform,,main,PTC
+2020-01-23,Stifel Nicolaus,Hold,,main,PTC
+2020-01-24,Citigroup,Neutral,,main,PTC
+2020-04-30,Citigroup,Neutral,,main,PTC
+2020-05-01,Mizuho,Buy,,main,PTC
+2020-06-05,Needham,Buy,,init,PTC
+2020-06-10,Mizuho,Buy,,main,PTC
+2020-07-20,Barclays,Overweight,,main,PTC
+2020-07-30,RBC Capital,Sector Perform,,main,PTC
+2020-07-30,Rosenblatt,Buy,,main,PTC
+2020-07-30,Citigroup,Neutral,,main,PTC
+2020-09-16,Loop Capital,Buy,,init,PTC
+2020-10-30,Credit Suisse,Neutral,,main,PTC
+2020-12-09,JP Morgan,Overweight,Underweight,up,PTC
+2020-12-16,Needham,Buy,,main,PTC
+2021-01-28,RBC Capital,Outperform,Sector Perform,up,PTC
+2021-04-16,Barclays,Overweight,,main,PTC
+2021-04-19,RBC Capital,Outperform,,main,PTC
+2021-06-08,Rosenblatt,Buy,,init,PTC
+2021-10-13,Barclays,Overweight,,main,PTC
+2021-10-18,Mizuho,Buy,,main,PTC
+2021-11-04,Rosenblatt,Buy,,main,PTC
+2021-12-14,JP Morgan,Neutral,Overweight,down,PTC

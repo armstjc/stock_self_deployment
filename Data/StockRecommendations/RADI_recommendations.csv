@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-12-22,Credit Suisse,Outperform,,init,RADI
+2021-04-12,Jefferies,Buy,,init,RADI
+2021-04-23,Raymond James,Outperform,,init,RADI
+2021-08-12,Credit Suisse,Outperform,,main,RADI
+2021-08-17,Raymond James,Outperform,,main,RADI
+2021-11-12,Raymond James,Strong Buy,Outperform,up,RADI
+2021-11-12,Credit Suisse,Outperform,,main,RADI

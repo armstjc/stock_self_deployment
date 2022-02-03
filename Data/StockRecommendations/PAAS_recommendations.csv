@@ -1,0 +1,90 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-05,Scotiabank,Sector Outperform,,init,PAAS
+2012-03-30,Deutsche Bank,Buy,,init,PAAS
+2012-04-10,Scotiabank,Sector Outperform,,main,PAAS
+2012-07-03,BMO Capital,Outperform,,main,PAAS
+2012-07-03,Bank of America,Underperform,,main,PAAS
+2012-07-09,Deutsche Bank,Hold,Buy,down,PAAS
+2012-08-16,Canaccord Genuity,Hold,,main,PAAS
+2012-10-02,Deutsche Bank,Buy,Hold,up,PAAS
+2013-01-15,Deutsche Bank,Hold,Buy,down,PAAS
+2013-02-25,Canaccord Genuity,Buy,,up,PAAS
+2013-04-15,BMO Capital,Market Perform,Outperform,down,PAAS
+2013-05-15,Canaccord Genuity,Buy,,main,PAAS
+2013-06-25,Cowen & Co.,Market Perform,Outperform,down,PAAS
+2013-06-26,Credit Suisse,Neutral,Outperform,down,PAAS
+2013-06-28,Deutsche Bank,Hold,,main,PAAS
+2013-07-01,BMO Capital,Underperform,Market Perform,down,PAAS
+2013-07-10,CIBC,Sector Underperform,Sector Perform,down,PAAS
+2013-07-17,Canaccord Genuity,Hold,Buy,down,PAAS
+2013-12-18,JP Morgan,Neutral,Underweight,up,PAAS
+2014-01-31,Raymond James,Market Perform,Outperform,down,PAAS
+2014-02-19,BMO Capital,Market Perform,Underperform,down,PAAS
+2014-02-21,TD Securities,,Hold,up,PAAS
+2014-02-25,Goldman Sachs,Sell,,down,PAAS
+2014-02-28,Deutsche Bank,,Buy,down,PAAS
+2014-02-28,Deutsche Bank,Hold,Buy,down,PAAS
+2014-03-18,CIBC,Sector Perform,Sector Underperform,up,PAAS
+2014-05-14,JP Morgan,Neutral,,main,PAAS
+2014-07-07,Deutsche Bank,Hold,,main,PAAS
+2014-07-09,JP Morgan,,Neutral,main,PAAS
+2014-09-24,TD Securities,Hold,Buy,down,PAAS
+2014-10-13,JP Morgan,Neutral,,main,PAAS
+2014-11-24,Raymond James,Market Perform,Outperform,down,PAAS
+2015-01-12,Deutsche Bank,Hold,,main,PAAS
+2015-01-26,JP Morgan,Neutral,,main,PAAS
+2015-02-20,CIBC,Underperform,Sector Perform,down,PAAS
+2015-02-25,JP Morgan,Neutral,,main,PAAS
+2015-04-06,Deutsche Bank,Hold,,main,PAAS
+2015-05-18,Deutsche Bank,Hold,,main,PAAS
+2015-05-18,RBC Capital,Sector Perform,,main,PAAS
+2015-07-08,JP Morgan,Neutral,,main,PAAS
+2015-08-12,Deutsche Bank,Buy,Hold,up,PAAS
+2015-08-13,Deutsche Bank,Buy,Hold,up,PAAS
+2015-09-18,FBR Capital,Outperform,,init,PAAS
+2015-11-04,BMO Capital,Underperform,Market Perform,down,PAAS
+2016-01-28,FBR Capital,Market Perform,Outperform,down,PAAS
+2016-02-22,CiBC,Sector Perform,Sector Underperform,up,PAAS
+2016-03-14,BMO Capital,Market Perform,Underperform,up,PAAS
+2016-03-23,Deutsche Bank,Hold,Buy,down,PAAS
+2016-04-08,CIBC,Outperformer,Sector Performer,up,PAAS
+2016-05-12,BMO Capital,Outperform,Market Perform,up,PAAS
+2016-06-27,Raymond James,Outperform,Market Perform,up,PAAS
+2016-08-23,BMO Capital,Market Perform,Outperform,down,PAAS
+2016-10-03,Deutsche Bank,Buy,Hold,up,PAAS
+2016-10-25,Canaccord Genuity,Hold,,init,PAAS
+2016-11-15,Canaccord Genuity,Buy,Hold,up,PAAS
+2016-11-16,BMO Capital,Outperform,Market Perform,up,PAAS
+2017-01-09,Canaccord Genuity,Hold,Buy,down,PAAS
+2017-03-21,RBC Capital,Outperform,Sector Perform,up,PAAS
+2017-03-31,BMO Capital,Market Perform,Outperform,down,PAAS
+2017-11-09,B. Riley FBR,Buy,Neutral,up,PAAS
+2017-11-22,Credit Suisse,Outperform,Neutral,up,PAAS
+2018-02-27,B. Riley FBR,Buy,Buy,main,PAAS
+2018-03-15,Deutsche Bank,Buy,Buy,main,PAAS
+2018-07-11,Deutsche Bank,Hold,Buy,down,PAAS
+2018-11-15,RBC Capital,Sector Perform,Outperform,down,PAAS
+2018-11-19,Bank of America,Underperform,Neutral,down,PAAS
+2019-03-01,B. Riley FBR,Neutral,Buy,down,PAAS
+2019-04-10,Deutsche Bank,Buy,Hold,up,PAAS
+2019-08-30,National Bank Financial,Outperform,Sector Perform,up,PAAS
+2019-09-05,RBC Capital,Outperform,Sector Perform,up,PAAS
+2019-09-09,B. Riley,Neutral,,main,PAAS
+2019-10-21,B. Riley,Neutral,,main,PAAS
+2020-01-09,Deutsche Bank,Hold,Buy,down,PAAS
+2020-01-16,B of A Securities,Underperform,Neutral,down,PAAS
+2020-02-21,Canaccord Genuity,Hold,Buy,down,PAAS
+2020-02-25,B. Riley FBR,Neutral,,main,PAAS
+2020-03-02,Deutsche Bank,Buy,Hold,up,PAAS
+2020-03-24,B. Riley FBR,Neutral,,main,PAAS
+2020-04-03,Deutsche Bank,Buy,,main,PAAS
+2020-04-14,B. Riley FBR,Neutral,,main,PAAS
+2020-05-08,Canaccord Genuity,Hold,Buy,down,PAAS
+2020-05-12,Deutsche Bank,Buy,,main,PAAS
+2020-05-19,B. Riley FBR,Neutral,,main,PAAS
+2020-06-17,Deutsche Bank,Buy,,main,PAAS
+2020-07-23,B of A Securities,Buy,Neutral,up,PAAS
+2020-08-11,Deutsche Bank,Hold,Buy,down,PAAS
+2020-10-01,Deutsche Bank,Buy,Hold,up,PAAS
+2021-01-13,Deutsche bank,Hold,Buy,down,PAAS
+2021-05-17,National Bank Of Canada,Outperform,Sector Perform,up,PAAS

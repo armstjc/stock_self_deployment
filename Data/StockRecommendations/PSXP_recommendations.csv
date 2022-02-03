@@ -1,0 +1,103 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-18,Citigroup,Neutral,,init,PSXP
+2014-02-26,Credit Suisse,Neutral,Outperform,down,PSXP
+2014-03-03,Scotia Howard Weil,Sector Perform,,init,PSXP
+2014-03-28,Citigroup,Neutral,,main,PSXP
+2014-05-01,Citigroup,Hold,,main,PSXP
+2014-07-23,Citigroup,Neutral,,main,PSXP
+2014-07-24,Scotia Howard Weil,,Sector Perform,up,PSXP
+2014-07-31,Citigroup,Neutral,,main,PSXP
+2014-10-23,Barclays,Equal-Weight,,main,PSXP
+2014-10-30,Citigroup,Neutral,,main,PSXP
+2014-10-30,Credit Suisse,Neutral,,main,PSXP
+2014-10-30,Barclays,Equal-Weight,,main,PSXP
+2014-12-19,Barclays,Equal-Weight,,main,PSXP
+2015-01-30,Barclays,Equal-Weight,,main,PSXP
+2015-02-19,Citigroup,Neutral,,main,PSXP
+2015-03-04,Evercore ISI Group,Buy,,init,PSXP
+2015-03-04,JP Morgan,Overweight,,main,PSXP
+2015-05-01,Barclays,Equal-Weight,,main,PSXP
+2015-05-19,Deutsche Bank,Buy,,init,PSXP
+2015-08-03,Barclays,Equal-Weight,,main,PSXP
+2015-09-03,Evercore ISI Group,Buy,,main,PSXP
+2015-10-20,Deutsche Bank,Buy,,main,PSXP
+2015-10-26,Credit Suisse,Outperform,Neutral,up,PSXP
+2015-11-02,Barclays,Equal-Weight,,main,PSXP
+2016-02-25,Morgan Stanley,Overweight,,init,PSXP
+2016-03-15,JP Morgan,Overweight,,main,PSXP
+2016-04-21,Raymond James,Outperform,,init,PSXP
+2016-05-03,Wells Fargo,Market Perform,Outperform,down,PSXP
+2016-05-16,JP Morgan,Overweight,,main,PSXP
+2016-07-28,Barclays,Equal-Weight,,main,PSXP
+2016-08-18,Stifel Nicolaus,Buy,,init,PSXP
+2016-08-22,Jefferies,Hold,,init,PSXP
+2016-08-24,Goldman Sachs,Neutral,,init,PSXP
+2016-09-30,Mizuho,Buy,,init,PSXP
+2016-10-10,,Buy,,main,PSXP
+2017-01-25,Citigroup,Buy,Neutral,up,PSXP
+2017-07-17,Citigroup,Buy,,main,PSXP
+2017-07-18,Barclays,Overweight,Equal-Weight,up,PSXP
+2017-09-25,Stifel Nicolaus,Buy,,main,PSXP
+2017-10-17,Goldman Sachs,Neutral,Sell,up,PSXP
+2017-10-18,Citigroup,Buy,,main,PSXP
+2017-10-30,Barclays,Overweight,,main,PSXP
+2017-10-30,Stifel Nicolaus,Buy,,main,PSXP
+2017-11-17,Morgan Stanley,Overweight,,main,PSXP
+2017-12-18,Goldman Sachs,Buy,Neutral,up,PSXP
+2018-01-05,Credit Suisse,Neutral,,init,PSXP
+2018-01-17,Barclays,Equal-Weight,Overweight,down,PSXP
+2018-02-05,Stifel Nicolaus,Buy,Buy,main,PSXP
+2018-02-05,Barclays,Equal-Weight,Equal-Weight,main,PSXP
+2018-03-13,JP Morgan,Overweight,Overweight,main,PSXP
+2018-03-27,Citigroup,Buy,Buy,main,PSXP
+2018-03-28,Citigroup,Buy,Buy,main,PSXP
+2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,PSXP
+2018-04-20,Deutsche Bank,Hold,,init,PSXP
+2018-04-30,Stifel Nicolaus,Buy,Buy,main,PSXP
+2018-08-01,Bank of America,Buy,Buy,main,PSXP
+2018-08-17,Morgan Stanley,Equal-Weight,Equal-Weight,main,PSXP
+2018-08-24,JP Morgan,Neutral,Overweight,down,PSXP
+2018-09-28,Morgan Stanley,Underweight,Equal-Weight,down,PSXP
+2018-10-11,Credit Suisse,Outperform,,init,PSXP
+2018-10-29,Raymond James,Outperform,Outperform,main,PSXP
+2018-10-31,Wells Fargo,Market Perform,Market Perform,main,PSXP
+2018-12-20,Jefferies,Buy,Hold,up,PSXP
+2019-01-28,Jefferies,Hold,Buy,down,PSXP
+2019-02-11,Stifel Nicolaus,Hold,Buy,down,PSXP
+2019-02-11,Credit Suisse,Outperform,Outperform,main,PSXP
+2019-06-06,Mizuho,Buy,,init,PSXP
+2019-08-02,Bank of America,Buy,Neutral,up,PSXP
+2019-09-10,Bank of America,Buy,,reit,PSXP
+2019-10-23,Raymond James,Outperform,,main,PSXP
+2019-10-28,Mizuho,Buy,,main,PSXP
+2019-10-29,Citigroup,Buy,,main,PSXP
+2019-11-07,Credit Suisse,Outperform,,main,PSXP
+2019-12-20,RBC Capital,Outperform,,main,PSXP
+2020-02-25,Stifel Nicolaus,Hold,,main,PSXP
+2020-03-25,Mizuho,Buy,,main,PSXP
+2020-03-26,Jefferies,Buy,Hold,up,PSXP
+2020-04-14,Wells Fargo,Overweight,Equal-Weight,up,PSXP
+2020-04-21,Jefferies,Hold,Buy,down,PSXP
+2020-04-28,Citigroup,Buy,,main,PSXP
+2020-05-04,JP Morgan,Neutral,,main,PSXP
+2020-05-04,Stifel,Hold,,main,PSXP
+2020-05-05,RBC Capital,Outperform,,main,PSXP
+2020-05-11,Wells Fargo,Overweight,,main,PSXP
+2020-06-16,Citigroup,Buy,,main,PSXP
+2020-07-07,Mizuho,Buy,,main,PSXP
+2020-07-20,Jefferies,Buy,Hold,up,PSXP
+2020-07-21,Raymond James,Outperform,,main,PSXP
+2020-07-22,Wells Fargo,Equal-Weight,Overweight,down,PSXP
+2020-08-03,RBC Capital,Outperform,,main,PSXP
+2020-08-03,Mizuho,Buy,,main,PSXP
+2020-10-06,Barclays,Equal-Weight,,main,PSXP
+2020-10-20,Raymond James,Outperform,,main,PSXP
+2021-02-25,Mizuho,Neutral,Buy,down,PSXP
+2021-03-01,Credit Suisse,Outperform,,main,PSXP
+2021-04-28,Wells Fargo,Equal-Weight,,main,PSXP
+2021-06-09,Mizuho,Neutral,,main,PSXP
+2021-06-24,Wells Fargo,Equal-Weight,,main,PSXP
+2021-07-21,Raymond James,Outperform,,main,PSXP
+2021-10-06,Barclays,Equal-Weight,,main,PSXP
+2021-10-28,Credit Suisse,Neutral,Outperform,down,PSXP
+2021-11-01,Raymond James,Market Perform,Outperform,down,PSXP

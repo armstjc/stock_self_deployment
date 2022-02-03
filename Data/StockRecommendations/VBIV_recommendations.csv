@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-07,Noble Financial,Buy,,init,VBIV
+2016-07-26,Ladenburg Thalmann,Buy,,init,VBIV
+2017-11-01,Canaccord Genuity,Buy,,init,VBIV
+2017-11-15,BMO Capital,Outperform,,init,VBIV
+2018-07-27,BMO Capital,Outperform,Outperform,main,VBIV
+2019-01-16,Oppenheimer,Outperform,,init,VBIV
+2019-11-14,Raymond James,Outperform,,init,VBIV
+2020-07-22,Raymond James,Outperform,,main,VBIV
+2020-08-27,Raymond James,Strong Buy,Outperform,up,VBIV

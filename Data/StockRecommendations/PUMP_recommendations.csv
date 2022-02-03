@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-04-11,JP Morgan,Overweight,,init,PUMP
+2017-04-11,RBC Capital,Outperform,,init,PUMP
+2017-04-11,PiperJaffray,Overweight,,init,PUMP
+2017-04-11,Evercore ISI Group,Outperform,,init,PUMP
+2017-04-11,Barclays,Overweight,,init,PUMP
+2017-04-11,Goldman Sachs,Buy,,init,PUMP
+2017-04-19,Nomura,Buy,,init,PUMP
+2017-07-12,Barclays,Equal-Weight,Overweight,down,PUMP
+2017-07-12,RF Lafferty,Buy,,init,PUMP
+2017-08-11,Credit Suisse,Outperform,,main,PUMP
+2017-10-05,Jefferies,Buy,,init,PUMP
+2017-11-03,Credit Suisse,Outperform,,main,PUMP
+2017-12-20,SunTrust Robinson Humphrey,Buy,,init,PUMP
+2018-01-10,Stephens & Co.,Overweight,,init,PUMP
+2018-02-07,Cowen & Co.,Market Perform,,init,PUMP
+2018-05-21,Credit Suisse,Outperform,Outperform,main,PUMP
+2018-06-07,RF Lafferty,Buy,Buy,main,PUMP
+2018-09-11,Stifel Nicolaus,Buy,,init,PUMP
+2018-09-17,JP Morgan,Overweight,Overweight,main,PUMP
+2018-10-10,Stifel Nicolaus,Buy,Buy,main,PUMP
+2018-11-08,Raymond James,Strong Buy,Strong Buy,main,PUMP
+2018-11-15,Credit Suisse,Outperform,Outperform,main,PUMP
+2018-11-19,Citigroup,Buy,,init,PUMP
+2019-01-15,Barclays,Overweight,Equal-Weight,up,PUMP
+2019-01-17,Cowen & Co.,Outperform,Market Perform,up,PUMP
+2019-02-28,Credit Suisse,Outperform,Outperform,main,PUMP
+2019-03-11,Goldman Sachs,Buy,,init,PUMP
+2019-03-29,Wells Fargo,Outperform,,init,PUMP
+2019-04-04,Raymond James,Outperform,Strong Buy,down,PUMP
+2019-05-17,B. Riley FBR,Buy,,init,PUMP
+2019-08-09,Citi,Neutral,Buy,down,PUMP
+2019-08-09,Bank of America,Neutral,,reit,PUMP
+2019-09-03,Piper Jaffray,Neutral,Overweight,down,PUMP
+2019-09-04,RF Lafferty,Hold,Buy,down,PUMP
+2019-09-12,Wells Fargo,Outperform,,main,PUMP
+2019-09-12,Cowen & Co.,Market Perform,Outperform,down,PUMP
+2019-09-23,Citigroup,Neutral,,main,PUMP
+2019-09-30,Barclays,Overweight,,main,PUMP
+2019-10-01,Citigroup,Neutral,,main,PUMP
+2019-10-10,Piper Jaffray,Overweight,Neutral,up,PUMP
+2019-10-10,Raymond James,Outperform,,main,PUMP
+2019-10-18,B. Riley,Buy,,main,PUMP
+2019-11-14,Goldman Sachs,Neutral,Buy,down,PUMP
+2019-11-15,JP Morgan,Overweight,,main,PUMP
+2020-01-06,Raymond James,Strong Buy,Outperform,up,PUMP
+2020-01-09,Wells Fargo,Overweight,,main,PUMP
+2020-02-25,Raymond James,Strong Buy,,main,PUMP
+2020-03-09,B of A Securities,Underperform,Neutral,down,PUMP
+2020-03-10,Raymond James,Outperform,Strong Buy,down,PUMP
+2020-03-16,Stephens & Co.,Equal-Weight,Overweight,down,PUMP
+2020-03-17,B. Riley,Neutral,Buy,down,PUMP
+2020-03-17,B. Riley FBR,Neutral,Buy,down,PUMP
+2020-04-02,Raymond James,Outperform,,main,PUMP
+2020-04-02,Credit Suisse,Outperform,,main,PUMP
+2020-04-02,JP Morgan,Overweight,,main,PUMP
+2020-04-06,Piper Sandler,Neutral,,main,PUMP
+2020-05-28,Piper Sandler,Neutral,,main,PUMP
+2020-06-03,Raymond James,Outperform,,main,PUMP
+2020-06-03,Credit Suisse,Outperform,,main,PUMP
+2020-07-15,Cowen & Co.,Outperform,Market Perform,up,PUMP
+2020-08-06,Credit Suisse,Outperform,,main,PUMP
+2020-08-26,Citigroup,Neutral,,main,PUMP
+2020-12-15,Citigroup,Buy,Neutral,up,PUMP

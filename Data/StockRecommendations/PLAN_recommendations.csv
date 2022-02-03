@@ -1,0 +1,97 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-11-06,Goldman Sachs,Neutral,,init,PLAN
+2018-11-06,Barclays,Overweight,,init,PLAN
+2018-11-06,KeyBanc,Sector Weight,,init,PLAN
+2018-11-06,PiperJaffray,Overweight,,init,PLAN
+2018-11-06,Canaccord Genuity,Buy,,init,PLAN
+2018-11-06,JMP Securities,Market Outperform,,init,PLAN
+2018-11-06,SunTrust Robinson Humphrey,Buy,,init,PLAN
+2018-11-06,Morgan Stanley,Equal-Weight,,init,PLAN
+2018-11-06,Evercore ISI Group,In-Line,,init,PLAN
+2018-11-06,Needham,Buy,,init,PLAN
+2019-02-08,Barclays,Equal-Weight,Overweight,down,PLAN
+2019-03-25,Monness Crespi Hardt,Buy,,init,PLAN
+2019-04-11,FBN Securities,Outperform,,init,PLAN
+2019-06-07,KeyBanc,Overweight,Sector Weight,up,PLAN
+2019-07-01,Goldman Sachs,Buy,Neutral,up,PLAN
+2019-07-15,Macquarie,Outperform,,init,PLAN
+2019-07-24,Deutsche Bank,Buy,,init,PLAN
+2019-08-13,Compass Point,Neutral,,init,PLAN
+2019-08-15,Morgan Stanley,Equal-Weight,,main,PLAN
+2019-08-28,Goldman Sachs,Buy,,main,PLAN
+2019-08-28,Canaccord Genuity,Buy,,main,PLAN
+2019-08-28,Needham,Buy,,main,PLAN
+2019-08-28,SunTrust Robinson Humphrey,Buy,,reit,PLAN
+2019-08-28,Barclays,Equal-Weight,,main,PLAN
+2019-08-28,Morgan Stanley,Equal-Weight,,main,PLAN
+2019-09-25,Rosenblatt,Buy,,init,PLAN
+2019-10-22,Evercore ISI Group,Outperform,In-Line,up,PLAN
+2019-10-25,Citi,Neutral,,init,PLAN
+2019-11-22,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-01-28,Wells Fargo,Overweight,,init,PLAN
+2020-02-12,RBC Capital,Outperform,,main,PLAN
+2020-02-20,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-02-28,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-02-28,SunTrust Robinson Humphrey,Buy,,main,PLAN
+2020-03-02,Citigroup,Neutral,,main,PLAN
+2020-03-11,Wells Fargo,Overweight,,main,PLAN
+2020-03-25,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-03-31,Piper Sandler,Overweight,,main,PLAN
+2020-04-13,Needham,Buy,,main,PLAN
+2020-04-16,Rosenblatt,Neutral,Buy,down,PLAN
+2020-04-21,Deutsche Bank,Buy,,init,PLAN
+2020-05-20,Wells Fargo,Equal-Weight,Overweight,down,PLAN
+2020-05-20,Mizuho,Buy,,main,PLAN
+2020-05-21,RBC Capital,Outperform,,main,PLAN
+2020-05-22,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-05-27,Mizuho,Buy,,main,PLAN
+2020-05-27,Rosenblatt,Neutral,,main,PLAN
+2020-05-27,Deutsche Bank,Buy,,main,PLAN
+2020-07-01,KeyBanc,Overweight,,init,PLAN
+2020-08-21,Loop Capital,Sell,,init,PLAN
+2020-08-27,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-08-27,KeyBanc,Overweight,,main,PLAN
+2020-08-27,Needham,Buy,,main,PLAN
+2020-08-27,Citigroup,Neutral,,main,PLAN
+2020-10-07,Jefferies,Hold,,init,PLAN
+2020-11-10,Berenberg,Buy,,init,PLAN
+2020-11-25,KeyBanc,Overweight,,main,PLAN
+2020-11-25,Needham,Buy,,main,PLAN
+2020-11-25,Morgan Stanley,Equal-Weight,,main,PLAN
+2020-12-28,Needham,Buy,,main,PLAN
+2021-01-05,Wells Fargo,Overweight,Equal-Weight,up,PLAN
+2021-01-11,Piper Sandler,Overweight,Neutral,up,PLAN
+2021-01-11,Jefferies,Buy,Hold,up,PLAN
+2021-01-15,William Blair,Outperform,,init,PLAN
+2021-02-02,KeyBanc,Overweight,,main,PLAN
+2021-02-16,Morgan Stanley,Overweight,Equal-Weight,up,PLAN
+2021-02-19,Barclays,Equal-Weight,,main,PLAN
+2021-02-24,Jefferies,Buy,,main,PLAN
+2021-04-23,Wolfe Research,Outperform,,init,PLAN
+2021-05-10,Jefferies,Buy,,main,PLAN
+2021-05-14,Goldman Sachs,Neutral,,init,PLAN
+2021-05-27,Piper Sandler,Overweight,,main,PLAN
+2021-05-28,Morgan Stanley,Overweight,,main,PLAN
+2021-07-15,Keybanc,Overweight,,main,PLAN
+2021-07-23,Loop Capital,Hold,Sell,up,PLAN
+2021-08-03,Barclays,Overweight,Equal-Weight,up,PLAN
+2021-09-01,Piper Sandler,Overweight,,main,PLAN
+2021-09-01,Barclays,Overweight,,main,PLAN
+2021-09-01,Mizuho,Buy,,main,PLAN
+2021-09-01,JMP Securities,Market Outperform,,main,PLAN
+2021-09-01,Jefferies,Buy,,main,PLAN
+2021-09-01,Wells Fargo,Overweight,,main,PLAN
+2021-09-01,Truist Securities,Buy,,main,PLAN
+2021-09-02,Keybanc,Overweight,,main,PLAN
+2021-09-02,Morgan Stanley,Overweight,,main,PLAN
+2021-09-17,Barclays,Overweight,,main,PLAN
+2021-10-01,UBS,Buy,,init,PLAN
+2021-11-24,Piper Sandler,Neutral,Overweight,down,PLAN
+2021-11-24,Keybanc,Overweight,,main,PLAN
+2021-11-24,Wells Fargo,Overweight,,main,PLAN
+2021-11-24,Barclays,Overweight,,main,PLAN
+2021-11-24,Canaccord Genuity,Buy,,main,PLAN
+2021-11-24,Morgan Stanley,Overweight,,main,PLAN
+2021-11-24,"Monness, Crespi, Hardt",Buy,,main,PLAN
+2021-11-24,Loop Capital,Hold,,main,PLAN
+2021-12-16,Morgan Stanley,Equal-Weight,Overweight,down,PLAN

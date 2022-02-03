@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-02-21,Stifel Nicolaus,Buy,,init,REVG
+2017-02-21,Credit Suisse,Outperform,,init,REVG
+2017-02-21,Deutsche Bank,Hold,,init,REVG
+2017-02-21,Goldman Sachs,Neutral,,init,REVG
+2017-02-21,Morgan Stanley,Equal-Weight,,init,REVG
+2017-02-22,Jefferies,Buy,,init,REVG
+2017-03-15,BMO Capital,Outperform,,init,REVG
+2017-11-17,SunTrust Robinson Humphrey,Buy,,init,REVG
+2018-03-02,Morgan Stanley,Equal-Weight,,init,REVG
+2018-03-09,Stifel Nicolaus,Buy,Buy,main,REVG
+2018-03-09,Credit Suisse,Outperform,Outperform,main,REVG
+2018-03-09,Wells Fargo,Market Perform,Outperform,down,REVG
+2018-03-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,REVG
+2018-05-07,Stifel Nicolaus,Buy,Buy,main,REVG
+2018-06-07,SunTrust Robinson Humphrey,Hold,Buy,down,REVG
+2018-06-08,Stifel Nicolaus,Buy,Buy,main,REVG
+2018-06-08,Morgan Stanley,Equal-Weight,Equal-Weight,main,REVG
+2018-06-11,Credit Suisse,Outperform,Outperform,main,REVG
+2018-06-12,BMO Capital,Outperform,Outperform,main,REVG
+2018-09-07,Stifel Nicolaus,Buy,Buy,main,REVG
+2018-09-07,Credit Suisse,Outperform,Outperform,main,REVG
+2018-10-01,Stifel Nicolaus,Hold,Buy,down,REVG
+2018-12-04,Wells Fargo,Market Perform,Market Perform,main,REVG
+2018-12-21,Baird,Outperform,Outperform,main,REVG
+2018-12-21,Wells Fargo,Market Perform,Market Perform,main,REVG
+2019-01-22,Credit Suisse,Neutral,Outperform,down,REVG
+2019-08-08,Goldman Sachs,Sell,Neutral,down,REVG
+2019-09-06,Morgan Stanley,Equal-Weight,,main,REVG
+2019-09-06,Wells Fargo,Market Perform,,main,REVG
+2019-09-09,BMO Capital,Outperform,,main,REVG
+2019-09-27,BMO Capital,Market Perform,Outperform,down,REVG
+2019-10-15,Wells Fargo,Market Perform,,main,REVG
+2019-12-16,Morgan Stanley,Underweight,Equal-Weight,down,REVG
+2019-12-20,Wells Fargo,Equal-Weight,,main,REVG
+2019-12-20,Deutsche Bank,Hold,,main,REVG
+2019-12-20,Baird,Outperform,,main,REVG
+2020-01-14,Wells Fargo,Underweight,Equal-Weight,down,REVG
+2020-03-17,Morgan Stanley,Underweight,,main,REVG
+2020-03-19,Goldman Sachs,Sell,,main,REVG
+2020-03-24,Baird,Outperform,,main,REVG
+2020-03-25,Wells Fargo,Underweight,,main,REVG
+2020-04-13,Baird,Outperform,,main,REVG
+2020-05-11,Wells Fargo,Underweight,,main,REVG
+2020-06-09,Credit Suisse,Underperform,Neutral,down,REVG
+2020-06-09,Morgan Stanley,Underweight,,main,REVG
+2020-09-10,Credit Suisse,Underperform,,main,REVG
+2020-12-10,Jefferies,Hold,Buy,down,REVG
+2020-12-15,Morgan Stanley,Equal-Weight,Underweight,up,REVG
+2021-03-11,Morgan Stanley,Equal-Weight,,main,REVG
+2021-04-16,Morgan Stanley,Equal-Weight,,main,REVG
+2021-06-09,Morgan Stanley,Equal-Weight,,main,REVG
+2021-06-16,Credit Suisse,Underperform,,main,REVG
+2021-09-09,Morgan Stanley,Equal-Weight,,main,REVG
+2021-10-13,Morgan Stanley,Equal-Weight,,main,REVG
+2021-12-09,Morgan Stanley,Equal-Weight,,main,REVG
+2021-12-16,Morgan Stanley,Equal-Weight,,main,REVG
+2021-12-17,Goldman Sachs,Sell,,main,REVG
+2021-12-21,Credit Suisse,Underperform,,main,REVG

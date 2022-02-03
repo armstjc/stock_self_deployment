@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-03,UBS,Buy,,init,SCI
+2012-10-01,Bank of America,Buy,,main,SCI
+2013-02-13,UBS,Buy,,main,SCI
+2014-08-01,UBS,Buy,,main,SCI
+2014-12-29,Bank of America,Buy,,main,SCI
+2015-11-11,Oppenheimer,Outperform,,init,SCI
+2016-02-11,UBS,Buy,,main,SCI
+2016-02-12,Oppenheimer,Outperform,,main,SCI
+2016-03-15,Credit Suisse,Neutral,,init,SCI
+2016-04-28,Credit Suisse,Outperform,Neutral,up,SCI
+2016-07-28,Oppenheimer,Outperform,,main,SCI
+2016-08-02,Wells Fargo,Market Perform,,init,SCI
+2017-05-01,Deutsche Bank,Buy,,init,SCI
+2018-02-05,Credit Suisse,Outperform,Outperform,main,SCI
+2018-02-15,Deutsche Bank,Buy,Buy,main,SCI
+2018-02-21,Bank of America,Buy,Buy,main,SCI
+2018-09-17,Credit Suisse,Outperform,Outperform,main,SCI
+2018-10-26,Oppenheimer,Outperform,Outperform,main,SCI
+2018-10-31,Raymond James,Strong Buy,Strong Buy,main,SCI
+2019-02-20,Raymond James,Outperform,Strong Buy,down,SCI
+2019-07-31,Raymond James,Outperform,,main,SCI
+2020-02-18,Credit Suisse,Outperform,,main,SCI
+2020-02-19,Raymond James,Outperform,,main,SCI
+2020-03-31,Oppenheimer,Outperform,,main,SCI
+2020-04-21,Raymond James,Outperform,,reit,SCI
+2020-04-30,Credit Suisse,Outperform,,main,SCI
+2020-06-18,Oppenheimer,Outperform,,main,SCI
+2020-07-31,Credit Suisse,Outperform,,main,SCI
+2020-07-31,Raymond James,Outperform,,main,SCI
+2020-10-30,Raymond James,Outperform,,main,SCI
+2020-11-02,Credit Suisse,Outperform,,main,SCI
+2021-07-30,Credit Suisse,Outperform,,main,SCI
+2021-08-02,Raymond James,Outperform,,main,SCI
+2021-10-29,Credit Suisse,Outperform,,main,SCI
+2021-10-29,Raymond James,Outperform,,main,SCI
+2022-01-19,Oppenheimer,Outperform,,main,SCI

@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-23,Stifel Nicolaus,Buy,,main,VMI
+2012-07-25,BB&T Capital,Hold,Buy,down,VMI
+2012-10-08,Stifel Nicolaus,Buy,,main,VMI
+2012-10-09,Stifel Nicolaus,Buy,,main,VMI
+2013-01-03,Stifel Nicolaus,Buy,,main,VMI
+2013-01-16,Wedbush,Neutral,,init,VMI
+2013-02-14,Stifel Nicolaus,Buy,,main,VMI
+2013-02-14,Wedbush,Neutral,,main,VMI
+2013-04-22,Wedbush,Neutral,Outperform,up,VMI
+2013-09-26,William Blair,Market Perform,Outperform,down,VMI
+2013-10-01,Stifel Nicolaus,Hold,Buy,down,VMI
+2013-12-16,Gabelli & Co.,Hold,,init,VMI
+2013-12-19,Sterne Agee,Buy,,init,VMI
+2014-04-23,DA Davidson,Buy,,main,VMI
+2014-06-25,Wedbush,Neutral,Outperform,down,VMI
+2014-06-25,Credit Suisse,Underperform,,main,VMI
+2014-09-22,Sterne Agee,Neutral,Buy,down,VMI
+2014-10-27,DA Davidson,Buy,,main,VMI
+2014-10-27,Credit Suisse,Underperform,,main,VMI
+2017-04-17,Stifel Nicolaus,Buy,Hold,up,VMI
+2017-08-11,Boenning & Scattergood,Outperform,Neutral,up,VMI
+2017-12-11,Stifel Nicolaus,Hold,Buy,down,VMI
+2018-02-23,Stifel Nicolaus,Hold,Hold,main,VMI
+2018-04-16,Stifel Nicolaus,Hold,Hold,main,VMI
+2018-04-20,Stifel Nicolaus,Hold,Hold,main,VMI
+2018-07-13,Boenning & Scattergood,Neutral,Outperform,down,VMI
+2018-07-25,Stifel Nicolaus,Hold,Hold,main,VMI
+2019-04-25,Stifel Nicolaus,Buy,Hold,up,VMI
+2020-02-21,DA Davidson,Neutral,Buy,down,VMI
+2020-02-24,Stifel Nicolaus,Hold,Buy,down,VMI
+2020-04-24,Stifel,Hold,,main,VMI
+2020-07-07,Stifel,Buy,Hold,up,VMI
+2020-07-24,Stifel,Buy,,main,VMI
+2020-11-02,William Blair,Outperform,Market Perform,up,VMI
+2021-02-22,Kansas City Capital,Perform,Outperform,down,VMI
+2021-07-22,Boenning & Scattergood,Outperform,Neutral,up,VMI

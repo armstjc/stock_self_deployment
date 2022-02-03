@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-01-23,Mizuho,Buy,Neutral,up,SITC
+2019-06-10,Evercore ISI Group,In-Line,Underperform,up,SITC
+2019-08-15,Compass Point,Neutral,,init,SITC
+2019-09-13,Mizuho,Neutral,Buy,down,SITC
+2019-11-22,Stifel,Buy,Hold,up,SITC
+2019-11-25,Compass Point,Sell,Neutral,down,SITC
+2019-12-04,Citigroup,Neutral,,main,SITC
+2019-12-17,Morgan Stanley,Overweight,Equal-Weight,up,SITC
+2020-03-11,SunTrust Robinson Humphrey,Hold,,main,SITC
+2020-04-07,Citigroup,Neutral,,main,SITC
+2020-04-24,SunTrust Robinson Humphrey,Hold,,main,SITC
+2020-04-27,Morgan Stanley,Equal-Weight,Overweight,down,SITC
+2020-06-01,JP Morgan,Neutral,,main,SITC
+2020-06-11,Raymond James,Market Perform,Outperform,down,SITC
+2020-06-15,SunTrust Robinson Humphrey,Hold,,main,SITC
+2020-07-02,Morgan Stanley,Equal-Weight,,main,SITC
+2020-09-14,Morgan Stanley,Equal-Weight,,main,SITC
+2020-12-03,Morgan Stanley,Equal-Weight,,main,SITC
+2020-12-10,Wells Fargo,Overweight,Equal-Weight,up,SITC
+2021-02-25,Morgan Stanley,Equal-Weight,,main,SITC
+2021-03-04,KeyBanc,Overweight,Sector Weight,up,SITC
+2021-04-23,Keybanc,Overweight,,main,SITC
+2021-04-26,Morgan Stanley,Equal-Weight,,main,SITC
+2021-05-18,Morgan Stanley,Equal-Weight,,main,SITC
+2021-06-11,Morgan Stanley,Equal-Weight,,main,SITC
+2021-07-30,Keybanc,Overweight,,main,SITC
+2021-08-19,Morgan Stanley,Equal-Weight,,main,SITC
+2021-09-23,Wolfe Research,Outperform,,init,SITC

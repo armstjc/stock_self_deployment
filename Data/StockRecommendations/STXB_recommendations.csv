@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-29,Stephens & Co.,Overweight,,init,STXB
+2018-05-29,Keefe Bruyette & Woods,Outperform,,init,STXB
+2018-05-29,PiperJaffray,Neutral,,init,STXB
+2018-12-03,PiperJaffray,Overweight,Neutral,up,STXB
+2019-04-15,Sandler O'Neill,Buy,,init,STXB
+2019-07-30,Piper Jaffray,Overweight,,main,STXB
+2021-07-08,Stephens & Co.,Overweight,Equal-Weight,up,STXB
+2021-11-22,Piper Sandler,Neutral,Overweight,down,STXB
+2021-11-30,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,STXB

@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-07-15,Credit Suisse,Outperform,,init,PTCT
+2013-07-15,JP Morgan,Overweight,,init,PTCT
+2013-07-16,Wedbush,Outperform,,init,PTCT
+2013-07-17,Wedbush,Outperform,,init,PTCT
+2013-07-26,Cowen & Co.,Outperform,,init,PTCT
+2014-02-17,JP Morgan,Overweight,,main,PTCT
+2014-07-07,Roth Capital,Buy,,init,PTCT
+2014-09-15,Deutsche Bank,Buy,,init,PTCT
+2014-09-23,Bank of America,Buy,,main,PTCT
+2014-09-24,Credit Suisse,Outperform,,main,PTCT
+2014-10-13,Bank of America,Buy,,main,PTCT
+2014-11-07,Credit Suisse,Outperform,,main,PTCT
+2015-03-02,JP Morgan,Neutral,Overweight,down,PTCT
+2015-03-04,Barclays,Overweight,,init,PTCT
+2015-04-09,Deutsche Bank,Buy,,main,PTCT
+2015-04-16,Cowen & Co.,Outperform,Market Perform,up,PTCT
+2015-05-05,Roth Capital,Neutral,Buy,down,PTCT
+2015-07-15,JP Morgan,Overweight,Neutral,up,PTCT
+2015-10-23,Jefferies,Hold,,init,PTCT
+2015-11-25,Jefferies,Underperform,Hold,down,PTCT
+2016-01-20,Credit Suisse,Outperform,,init,PTCT
+2016-02-23,JP Morgan,Neutral,Overweight,down,PTCT
+2016-02-24,Citigroup,Neutral,Buy,down,PTCT
+2016-02-24,RBC Capital,Sector Perform,Outperform,down,PTCT
+2016-02-24,Jefferies,Hold,Underperform,up,PTCT
+2016-02-25,Oppenheimer,Outperform,,main,PTCT
+2016-02-27,Cowen & Co.,Outperform,,main,PTCT
+2016-02-29,Bank of America,Neutral,Buy,down,PTCT
+2016-03-01,Wedbush,Neutral,Outperform,down,PTCT
+2016-03-01,Cowen & Co.,Market Perform,Outperform,down,PTCT
+2016-03-01,Credit Suisse,Outperform,,main,PTCT
+2016-03-01,Barclays,Overweight,,main,PTCT
+2016-03-01,Jefferies,Hold,,main,PTCT
+2016-07-26,Credit Suisse,Neutral,Outperform,down,PTCT
+2016-08-05,JP Morgan,Neutral,,main,PTCT
+2016-08-05,Jefferies,Hold,,main,PTCT
+2016-08-08,Citigroup,Neutral,,main,PTCT
+2016-11-11,Citigroup,Buy,Neutral,up,PTCT
+2016-11-14,Credit Suisse,Outperform,Neutral,up,PTCT
+2017-03-03,Barclays,Equal-Weight,Overweight,down,PTCT
+2017-08-23,William Blair,Market Perform,,init,PTCT
+2017-09-29,Barclays,Equal-Weight,,main,PTCT
+2017-10-09,JP Morgan,Underweight,Neutral,down,PTCT
+2017-10-26,Bank of America,Underperform,Neutral,down,PTCT
+2017-11-16,JP Morgan,Neutral,Underweight,up,PTCT
+2018-02-22,Citigroup,Buy,Buy,main,PTCT
+2018-03-07,Barclays,Equal-Weight,Equal-Weight,main,PTCT
+2018-04-04,Barclays,Underweight,Equal-Weight,down,PTCT
+2018-06-18,RBC Capital,Outperform,Sector Perform,up,PTCT
+2018-06-18,William Blair,Outperform,Market Perform,up,PTCT
+2018-06-20,Barclays,Equal-Weight,Underweight,up,PTCT
+2018-07-19,Credit Suisse,Outperform,,init,PTCT
+2018-07-24,Citigroup,Buy,Buy,main,PTCT
+2018-07-31,Bank of America,Underperform,Underperform,main,PTCT
+2018-08-08,Barclays,Equal-Weight,Equal-Weight,main,PTCT
+2018-09-05,Credit Suisse,Outperform,Outperform,main,PTCT
+2018-10-01,Cantor Fitzgerald,Overweight,,init,PTCT
+2018-11-06,Barclays,Equal-Weight,Equal-Weight,main,PTCT
+2018-11-06,RBC Capital,Outperform,Outperform,main,PTCT
+2018-11-12,Cantor Fitzgerald,Overweight,Overweight,main,PTCT
+2019-04-11,Bernstein,Outperform,,init,PTCT
+2019-05-13,Bank of America,Buy,Neutral,up,PTCT
+2019-10-30,Citigroup,Buy,,main,PTCT
+2019-11-12,SunTrust Robinson Humphrey,Buy,,init,PTCT
+2019-11-13,Credit Suisse,Outperform,,main,PTCT
+2020-01-23,Cantor Fitzgerald,Overweight,,main,PTCT
+2020-02-20,Citigroup,Neutral,Buy,down,PTCT
+2020-02-20,RBC Capital,Sector Perform,Outperform,down,PTCT
+2020-03-03,Cantor Fitzgerald,Overweight,,reit,PTCT
+2020-04-08,Cantor Fitzgerald,Overweight,,reit,PTCT
+2020-04-09,Citigroup,Buy,Neutral,up,PTCT
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,PTCT
+2020-07-21,SunTrust Robinson Humphrey,Buy,,main,PTCT
+2020-08-10,Credit Suisse,Neutral,,main,PTCT
+2020-08-10,B of A Securities,Buy,,main,PTCT
+2020-08-25,Raymond James,Outperform,,init,PTCT
+2020-10-07,JP Morgan,Overweight,Neutral,up,PTCT
+2020-10-28,UBS,Neutral,,init,PTCT
+2020-11-30,RBC Capital,Underperform,Sector Perform,down,PTCT
+2020-12-16,Raymond James,Outperform,,main,PTCT
+2021-01-05,Citigroup,Buy,Neutral,up,PTCT
+2021-03-29,RBC Capital,Sector Perform,Underperform,up,PTCT
+2021-07-30,Credit Suisse,Neutral,,main,PTCT
+2021-10-18,B of A Securities,Underperform,Neutral,down,PTCT
+2021-10-29,Credit Suisse,Neutral,,main,PTCT
+2021-10-29,RBC Capital,Sector Perform,,main,PTCT
+2021-10-29,Raymond James,Outperform,,main,PTCT

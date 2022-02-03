@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Canaccord Genuity,Buy,,main,STAA
+2012-07-20,Canaccord Genuity,Buy,,main,STAA
+2012-11-01,Canaccord Genuity,Hold,Buy,down,STAA
+2013-02-28,William Blair,Market Perform,Outperform,down,STAA
+2014-03-17,Canaccord Genuity,Buy,,up,STAA
+2014-03-24,William Blair,Outperform,Market Perform,up,STAA
+2014-04-29,Canaccord Genuity,Buy,,main,STAA
+2014-10-31,William Blair,Market Perform,Outperform,down,STAA
+2014-10-31,Canaccord Genuity,Hold,Buy,down,STAA
+2016-01-29,Benchmark,Hold,,init,STAA
+2017-08-03,Canaccord Genuity,Hold,,main,STAA
+2017-09-25,Canaccord Genuity,Buy,Hold,up,STAA
+2017-11-17,Canaccord Genuity,Buy,,main,STAA
+2018-04-30,William Blair,Outperform,Market Perform,up,STAA
+2018-05-03,Canaccord Genuity,Buy,Buy,main,STAA
+2018-05-03,Stephens & Co.,Overweight,Equal-Weight,up,STAA
+2018-06-21,Canaccord Genuity,Buy,Buy,main,STAA
+2019-11-11,Canaccord Genuity,Buy,,main,STAA
+2019-11-19,Benchmark,Buy,,main,STAA
+2019-12-04,BTIG,Buy,,init,STAA
+2020-03-23,Stephens & Co.,Overweight,,main,STAA
+2020-04-14,Canaccord Genuity,Buy,,main,STAA
+2020-06-15,Jefferies,Buy,,init,STAA
+2020-06-24,BTIG,Neutral,Buy,down,STAA
+2020-08-06,Benchmark,Buy,,main,STAA
+2020-08-31,Sidoti & Co.,Buy,Neutral,up,STAA
+2021-01-19,Benchmark,Hold,Buy,down,STAA
+2021-05-06,Canaccord Genuity,Buy,,main,STAA
+2021-07-09,Oppenheimer,Perform,,init,STAA

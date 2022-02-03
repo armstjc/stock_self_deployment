@@ -1,0 +1,110 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-02,Susquehanna,Positive,,init,TPR
+2017-11-08,UBS,Buy,,main,TPR
+2017-11-08,Buckingham,Buy,,main,TPR
+2017-12-19,Needham,Hold,,init,TPR
+2018-02-07,Baird,Outperform,,main,TPR
+2018-02-07,BMO Capital,Market Perform,,main,TPR
+2018-02-07,Buckingham,Buy,Buy,main,TPR
+2018-02-07,Bank of America,Neutral,Neutral,main,TPR
+2018-02-07,KeyBanc,Overweight,Overweight,main,TPR
+2018-02-07,Barclays,Equal-Weight,,main,TPR
+2018-03-09,Loop Capital,Buy,,init,TPR
+2018-03-12,Credit Suisse,Outperform,,init,TPR
+2018-05-02,Morgan Stanley,Underweight,Underweight,main,TPR
+2018-05-02,Buckingham,Buy,Buy,main,TPR
+2018-05-10,Bank of America,Buy,Neutral,up,TPR
+2018-06-21,UBS,Buy,,init,TPR
+2018-06-25,Goldman Sachs,Buy,,init,TPR
+2018-08-13,Canaccord Genuity,Buy,Buy,main,TPR
+2018-08-15,Bank of America,Buy,Buy,main,TPR
+2018-08-15,Canaccord Genuity,Buy,Buy,main,TPR
+2018-08-15,KeyBanc,Overweight,Overweight,main,TPR
+2018-08-16,Barclays,Equal-Weight,Equal-Weight,main,TPR
+2018-08-16,Buckingham,Buy,Buy,main,TPR
+2018-08-16,Citigroup,Neutral,Neutral,main,TPR
+2018-08-16,Morgan Stanley,Underweight,Underweight,main,TPR
+2018-10-15,Loop Capital,Hold,Buy,down,TPR
+2018-10-16,Needham,Buy,Hold,up,TPR
+2018-10-17,Buckingham,Buy,Buy,main,TPR
+2018-10-17,Morgan Stanley,Equal-Weight,Underweight,up,TPR
+2018-10-31,Canaccord Genuity,Buy,Buy,main,TPR
+2018-10-31,Citigroup,Neutral,Neutral,main,TPR
+2018-10-31,Credit Suisse,Outperform,Outperform,main,TPR
+2018-10-31,Buckingham,Buy,Buy,main,TPR
+2018-10-31,Barclays,Equal-Weight,Equal-Weight,main,TPR
+2018-11-01,Citigroup,Neutral,Neutral,main,TPR
+2018-11-13,Macquarie,Neutral,,init,TPR
+2018-11-14,Atlantic Equities,Overweight,Neutral,up,TPR
+2019-01-02,Wells Fargo,Outperform,Outperform,main,TPR
+2019-01-25,Wolfe Research,Outperform,Peer Perform,up,TPR
+2019-04-30,UBS,Buy,Buy,main,TPR
+2019-05-10,UBS,Buy,,main,TPR
+2019-08-16,KeyBanc,Overweight,,main,TPR
+2019-08-16,Credit Suisse,Neutral,Outperform,down,TPR
+2019-08-16,Oppenheimer,Perform,Outperform,down,TPR
+2019-08-16,MKM Partners,Neutral,Buy,down,TPR
+2019-08-16,Piper Jaffray,Neutral,Overweight,down,TPR
+2019-08-16,Morgan Stanley,Equal-Weight,,main,TPR
+2019-08-29,Cowen & Co.,Market Perform,Outperform,down,TPR
+2019-09-13,Wells Fargo,Outperform,,main,TPR
+2019-10-14,UBS,Neutral,Buy,down,TPR
+2019-10-28,HSBC,Hold,Buy,down,TPR
+2019-11-06,Citigroup,Neutral,,main,TPR
+2019-11-13,Barclays,Equal-Weight,,init,TPR
+2019-11-13,UBS,Neutral,,main,TPR
+2019-12-06,Evercore ISI Group,In-Line,Outperform,down,TPR
+2019-12-19,Edward Jones,Buy,Hold,up,TPR
+2020-02-04,BMO Capital,Market Perform,,init,TPR
+2020-02-06,CFRA,Hold,,main,TPR
+2020-02-07,KeyBanc,Overweight,,main,TPR
+2020-02-10,Morgan Stanley,Equal-Weight,,main,TPR
+2020-03-13,Deutsche Bank,Hold,Buy,down,TPR
+2020-03-16,Wells Fargo,Overweight,,main,TPR
+2020-03-23,Needham,Buy,,main,TPR
+2020-04-07,Morgan Stanley,Equal-Weight,,main,TPR
+2020-04-15,UBS,Neutral,,main,TPR
+2020-04-24,Deutsche Bank,Hold,,main,TPR
+2020-04-27,Needham,Buy,,main,TPR
+2020-04-29,Guggenheim,Buy,,main,TPR
+2020-04-29,BTIG,Neutral,,init,TPR
+2020-04-30,CFRA,Buy,,main,TPR
+2020-05-01,MKM Partners,Neutral,,main,TPR
+2020-05-01,KeyBanc,Overweight,,main,TPR
+2020-05-01,Needham,Buy,,main,TPR
+2020-05-04,Morgan Stanley,Equal-Weight,,main,TPR
+2020-05-07,HSBC,Buy,Hold,up,TPR
+2020-07-27,Goldman Sachs,Buy,Neutral,up,TPR
+2020-08-10,UBS,Neutral,,main,TPR
+2020-08-14,Credit Suisse,Neutral,,main,TPR
+2020-08-14,Morgan Stanley,Equal-Weight,,main,TPR
+2020-08-19,MKM Partners,Neutral,,main,TPR
+2020-09-16,Deutsche Bank,Buy,Hold,up,TPR
+2020-09-21,Piper Sandler,Overweight,Neutral,up,TPR
+2020-10-27,Needham,Buy,,main,TPR
+2020-10-27,KeyBanc,Overweight,,main,TPR
+2020-10-29,Morgan Stanley,Equal-Weight,,main,TPR
+2020-10-30,Morgan Stanley,Equal-Weight,,main,TPR
+2020-10-30,Credit Suisse,Neutral,,main,TPR
+2020-10-30,KeyBanc,Overweight,,main,TPR
+2020-11-02,Needham,Buy,,main,TPR
+2020-11-11,Cowen & Co.,Outperform,Market Perform,up,TPR
+2020-11-16,JP Morgan,Overweight,Neutral,up,TPR
+2020-11-23,KeyBanc,Overweight,,main,TPR
+2021-01-25,KeyBanc,Overweight,,main,TPR
+2021-02-01,Needham,Buy,,main,TPR
+2021-02-02,Morgan Stanley,Equal-Weight,,main,TPR
+2021-02-05,KeyBanc,Overweight,,main,TPR
+2021-02-05,Needham,Buy,,main,TPR
+2021-02-05,Credit Suisse,Neutral,,main,TPR
+2021-02-08,Morgan Stanley,Equal-Weight,,main,TPR
+2021-02-09,Telsey Advisory Group,Outperform,Market Perform,up,TPR
+2021-02-09,KeyBanc,Overweight,,main,TPR
+2021-02-22,Credit Suisse,Outperform,Neutral,up,TPR
+2021-05-05,Morgan Stanley,Equal-Weight,,main,TPR
+2021-05-07,Morgan Stanley,Equal-Weight,,main,TPR
+2021-05-07,BTIG,Buy,Neutral,up,TPR
+2021-07-14,Goldman Sachs,Neutral,,init,TPR
+2021-11-15,Morgan Stanley,Equal-Weight,,main,TPR
+2021-11-16,Citigroup,Neutral,,main,TPR
+2021-11-19,Argus Research,Buy,Hold,up,TPR

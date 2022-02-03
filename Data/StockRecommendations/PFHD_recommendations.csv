@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-03,"Keefe, Bruyette & Woods",Market Perform,,init,PFHD
+2020-03-03,Stephens & Co.,Overweight,,init,PFHD
+2020-09-23,Piper Sandler,Overweight,,init,PFHD
+2021-02-03,Stephens & Co.,Overweight,Equal-Weight,up,PFHD
+2021-07-09,Raymond James,Outperform,,init,PFHD
+2021-08-03,Piper Sandler,Neutral,Overweight,down,PFHD

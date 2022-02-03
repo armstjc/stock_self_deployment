@@ -1,0 +1,5 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-09-24,Jefferies,Buy,,init,TAK
+2019-11-01,Cowen & Co.,Market Perform,,init,TAK
+2020-03-11,JP Morgan,Overweight,,main,TAK
+2021-10-07,Morgan Stanley,Equal-Weight,Overweight,down,TAK

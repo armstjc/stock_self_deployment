@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-08-13,Barclays,Underweight,Overweight,down,OZK
+2018-09-18,Morgan Stanley,Overweight,Overweight,main,OZK
+2018-10-19,Raymond James,Market Perform,Strong Buy,down,OZK
+2018-10-22,Morgan Stanley,Equal-Weight,Overweight,down,OZK
+2018-10-22,Wells Fargo,Market Perform,Market Perform,main,OZK
+2018-10-22,Barclays,Underweight,Underweight,main,OZK
+2018-10-22,Citigroup,Buy,Buy,main,OZK
+2018-10-24,UBS,Neutral,Sell,up,OZK
+2018-12-04,PiperJaffray,Neutral,Overweight,down,OZK
+2018-12-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,OZK
+2019-01-10,Barclays,Equal-Weight,Underweight,up,OZK
+2019-10-03,Morgan Stanley,Equal-Weight,,main,OZK
+2019-10-22,Morgan Stanley,Equal-Weight,,main,OZK
+2019-11-18,SunTrust Robinson Humphrey,Hold,,main,OZK
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,OZK
+2020-01-10,Piper Sandler,Overweight,Neutral,up,OZK
+2020-03-05,Morgan Stanley,Equal-Weight,,main,OZK
+2020-03-17,Morgan Stanley,Equal-Weight,,main,OZK
+2020-03-24,Citigroup,Buy,,main,OZK
+2020-03-30,Wells Fargo,Equal-Weight,,main,OZK
+2020-04-06,SunTrust Robinson Humphrey,Hold,,main,OZK
+2020-04-07,Morgan Stanley,Equal-Weight,,main,OZK
+2020-04-27,Stephens & Co.,Equal-Weight,,main,OZK
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,OZK
+2020-05-06,Morgan Stanley,Equal-Weight,,main,OZK
+2020-05-15,UBS,Neutral,,main,OZK
+2020-06-08,Morgan Stanley,Equal-Weight,,main,OZK
+2020-06-17,Raymond James,Outperform,Market Perform,up,OZK
+2020-06-18,Citigroup,Neutral,Buy,down,OZK
+2020-07-24,Piper Sandler,Overweight,,main,OZK
+2020-08-04,Morgan Stanley,Equal-Weight,,main,OZK
+2020-11-03,Morgan Stanley,Equal-Weight,,main,OZK
+2020-12-07,Morgan Stanley,Equal-Weight,,main,OZK
+2021-01-07,Morgan Stanley,Equal-Weight,,main,OZK
+2021-01-25,Raymond James,Outperform,,main,OZK
+2021-01-27,Morgan Stanley,Equal-Weight,,main,OZK
+2021-02-24,Morgan Stanley,Equal-Weight,,main,OZK
+2021-03-18,Morgan Stanley,Equal-Weight,,main,OZK
+2021-06-04,Wells Fargo,Overweight,Equal-Weight,up,OZK
+2021-08-02,Morgan Stanley,Equal-Weight,,main,OZK
+2021-10-25,Raymond James,Outperform,,main,OZK
+2021-12-06,Morgan Stanley,Equal-Weight,,main,OZK

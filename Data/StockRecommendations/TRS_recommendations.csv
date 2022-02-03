@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-28,Jefferies,Hold,,main,TRS
+2012-03-15,Rodman & Renshaw,Market Outperform,,init,TRS
+2012-04-27,Jefferies,Buy,,main,TRS
+2012-07-31,Jefferies,Hold,,main,TRS
+2012-10-26,Jefferies,Hold,,main,TRS
+2013-02-27,Jefferies,Hold,,main,TRS
+2013-06-10,Barrington Research,Outperform,Market Perform,up,TRS
+2013-06-10,Barrington Research,Outperform,Market Perform,up,TRS
+2013-09-11,Global Hunter Securities,Buy,Neutral,up,TRS
+2013-09-11,Global Hunter Securities,Buy,Neutral,up,TRS
+2013-10-29,Global Hunter Securities,Accumulate,Buy,down,TRS
+2013-11-12,Deutsche Bank,Buy,,init,TRS
+2013-12-20,Wells Fargo,Outperform,,init,TRS
+2014-09-23,Seaport Global,Speculative Buy,Accumulate,up,TRS
+2014-09-24,Wells Fargo,Market Perform,Outperform,down,TRS
+2014-10-16,William Blair,Market Perform,,init,TRS
+2014-11-14,JP Morgan,Overweight,,init,TRS
+2014-12-10,Jefferies,Hold,,main,TRS
+2015-01-09,Deutsche Bank,Hold,Buy,down,TRS
+2015-01-15,JP Morgan,Overweight,,main,TRS
+2015-02-26,Jefferies,Hold,,main,TRS
+2015-03-17,KeyBanc,Sector Weight,Overweight,down,TRS
+2015-04-29,Jefferies,Hold,,main,TRS
+2015-06-01,Deutsche Bank,Hold,,main,TRS
+2015-08-05,JP Morgan,Neutral,Overweight,down,TRS
+2015-08-05,Roth Capital,Neutral,Buy,down,TRS
+2015-08-05,Seaport Global,,Buy,down,TRS
+2016-02-04,Jefferies,Hold,,main,TRS
+2016-07-29,Jefferies,Hold,,main,TRS
+2016-09-27,JP Morgan,Overweight,Neutral,up,TRS
+2017-01-13,JP Morgan,Neutral,Overweight,down,TRS
+2017-08-09,JP Morgan,Overweight,Neutral,up,TRS
+2017-09-15,Seaport Global,Neutral,Buy,down,TRS
+2018-03-06,JP Morgan,Overweight,Overweight,main,TRS
+2018-04-03,BMO Capital,Outperform,,init,TRS
+2018-08-08,BMO Capital,Outperform,Outperform,main,TRS
+2019-03-01,Wells Fargo,Market Perform,Market Perform,main,TRS

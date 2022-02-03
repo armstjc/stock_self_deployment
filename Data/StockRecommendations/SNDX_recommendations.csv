@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-03-28,Citigroup,Buy,,init,SNDX
+2016-03-28,Morgan Stanley,Overweight,,init,SNDX
+2016-03-28,JMP Securities,Market Outperform,,init,SNDX
+2016-03-31,Oppenheimer,Outperform,,init,SNDX
+2017-03-02,Nomura,Buy,,init,SNDX
+2017-03-16,FBR Capital,Outperform,,init,SNDX
+2017-03-24,Cowen & Co.,Outperform,,init,SNDX
+2017-08-11,Nomura,Buy,,main,SNDX
+2017-08-11,Citigroup,Buy,,main,SNDX
+2018-01-05,B. Riley FBR,Buy,,init,SNDX
+2018-03-14,Morgan Stanley,Overweight,Overweight,main,SNDX
+2018-07-12,H.C. Wainwright,Buy,,init,SNDX
+2018-10-11,Citigroup,Buy,Buy,main,SNDX
+2018-10-29,Morgan Stanley,Equal-Weight,Overweight,down,SNDX
+2018-12-17,Nomura,Buy,Buy,main,SNDX
+2020-01-13,H.C. Wainwright,Buy,,main,SNDX
+2020-03-04,Baird,Outperform,,main,SNDX
+2020-03-04,Barclays,Overweight,,init,SNDX
+2020-03-11,Morgan Stanley,Equal-Weight,,main,SNDX
+2020-04-28,HC Wainwright & Co.,Buy,,main,SNDX
+2020-05-11,H.C. Wainwright,Buy,,reit,SNDX
+2020-05-21,Morgan Stanley,Equal-Weight,,main,SNDX
+2020-05-22,Barclays,Overweight,,main,SNDX
+2020-05-29,Morgan Stanley,Equal-Weight,,main,SNDX
+2020-06-01,Morgan Stanley,Equal-Weight,,main,SNDX
+2020-11-04,Morgan Stanley,Equal-Weight,,main,SNDX
+2020-12-03,Stifel,Buy,,init,SNDX
+2020-12-07,Morgan Stanley,Equal-Weight,,main,SNDX
+2021-05-12,Morgan Stanley,Equal-Weight,,main,SNDX
+2021-05-25,Citigroup,Buy,,init,SNDX
+2021-10-12,Morgan Stanley,Equal-Weight,,main,SNDX

@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-18,Sandler O'Neill,Hold,Buy,down,PIPR
+2014-10-24,Keefe Bruyette & Woods,Market Perform,,main,PIPR
+2014-11-25,Macquarie,Underperform,,init,PIPR
+2015-01-26,Macquarie,Neutral,Underperform,up,PIPR
+2015-03-19,MKM Partners,Neutral,,init,PIPR
+2015-07-15,Susquehanna,Neutral,,main,PIPR
+2015-09-22,Sandler O'Neill,Buy,,init,PIPR
+2015-10-07,Keefe Bruyette & Woods,Market Perform,,main,PIPR
+2015-10-30,Keefe Bruyette & Woods,Outperform,Market Perform,up,PIPR
+2015-10-30,Macquarie,Neutral,,main,PIPR
+2015-11-18,Macquarie,Neutral,,main,PIPR
+2015-12-11,Keefe Bruyette & Woods,Market Perform,Outperform,down,PIPR
+2016-02-08,Macquarie,Neutral,,main,PIPR
+2017-10-30,Keefe Bruyette & Woods,Outperform,Market Perform,up,PIPR
+2017-11-07,JMP Securities,Market Perform,,init,PIPR
+2018-04-30,Keefe Bruyette & Woods,Market Perform,Outperform,down,PIPR
+2019-10-04,Buckingham,Neutral,,init,PIPR
+2020-02-03,Buckingham Research,Neutral,,main,PIPR
+2020-10-09,JMP Securities,Market Outperform,,main,PIPR
+2021-07-12,JMP Securities,Market Outperform,,main,PIPR
+2021-08-31,Northland Capital Markets,Outperform,,main,PIPR
+2021-09-21,Goldman Sachs,Buy,,init,PIPR
+2021-11-01,JMP Securities,Market Outperform,,main,PIPR
+2021-12-02,Wolfe Research,Outperform,,init,PIPR

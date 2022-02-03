@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-29,Deutsche Bank,Hold,,main,RGP
+2012-03-29,Bank oferica,Buy,,main,RGP
+2012-05-09,Morgan Stanley,Equal-Weight,,main,RGP
+2012-05-10,Global Hunter Securities,Accumulate,,down,RGP
+2012-06-25,Barclays,Overweight,,main,RGP
+2012-07-13,BMO Capital,Market Perform,,main,RGP
+2012-10-03,Bank of America,Buy,,main,RGP
+2012-10-08,Deutsche Bank,Hold,,main,RGP
+2012-10-17,Macquarie,Neutral,Outperform,down,RGP
+2012-11-09,UBS,Buy,,main,RGP
+2012-12-21,BMO Capital,Market Perform,,main,RGP
+2012-12-21,Deutsche Bank,Hold,,main,RGP
+2012-12-21,Bank of America,Buy,,main,RGP
+2013-02-21,Oppenheimer,Outperform,,main,RGP
+2013-02-22,Credit Suisse,Neutral,Outperform,down,RGP
+2013-02-27,UBS,Buy,,main,RGP
+2013-03-01,Bank of America,Neutral,Buy,down,RGP
+2013-04-03,Deutsche Bank,Hold,,main,RGP
+2013-04-29,Baird,Neutral,Outperform,down,RGP
+2013-05-15,Wells Fargo,Market Perform,Outperform,down,RGP
+2013-07-26,Raymond James,Market Perform,,init,RGP
+2013-09-27,JP Morgan,Overweight,,main,RGP
+2013-10-23,Morgan Stanley,Underweight,Equal-Weight,down,RGP
+2013-11-07,Oppenheimer,Outperform,,main,RGP
+2013-12-11,Goldman Sachs,Neutral,,init,RGP
+2014-03-07,Deutsche Bank,Hold,,init,RGP
+2014-04-14,Bank of America,Buy,Neutral,up,RGP
+2014-05-08,Credit Suisse,Outperform,,main,RGP
+2014-06-23,JP Morgan,Overweight,,main,RGP
+2014-07-18,Macquarie,Neutral,,main,RGP
+2014-08-08,Credit Suisse,Outperform,,main,RGP
+2014-11-03,RBC Capital,Outperform,,init,RGP
+2014-11-07,Barclays,Equal-Weight,,main,RGP
+2016-08-18,Deutsche Bank,Sell,,init,RGP
+2016-10-06,Baird,Neutral,,main,RGP
+2016-10-06,Deutsche Bank,Sell,,main,RGP
+2017-07-21,Deutsche Bank,Sell,,main,RGP
+2018-01-04,JP Morgan,Underweight,Neutral,down,RGP
+2019-01-04,Baird,Neutral,Neutral,main,RGP
+2020-04-03,JP Morgan,Underweight,,main,RGP
+2020-04-03,Baird,Neutral,,main,RGP

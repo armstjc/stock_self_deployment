@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-11-05,Cowen & Co.,Outperform,,init,VIR
+2019-11-05,Barclays,Overweight,,init,VIR
+2019-11-05,JP Morgan,Overweight,,init,VIR
+2019-11-05,Goldman Sachs,Buy,,init,VIR
+2019-11-14,Baird,Neutral,,init,VIR
+2020-02-04,JP Morgan,Neutral,Overweight,down,VIR
+2020-03-13,Goldman Sachs,Neutral,Buy,down,VIR
+2020-03-19,JP Morgan,Underweight,Neutral,down,VIR
+2020-03-27,Baird,Underperform,,main,VIR
+2020-08-20,Needham,Buy,,init,VIR
+2020-09-11,JP Morgan,Neutral,Underweight,up,VIR
+2020-09-14,Goldman Sachs,Buy,Neutral,up,VIR
+2020-09-21,HC Wainwright & Co.,Buy,,main,VIR
+2020-10-05,B of A Securities,Buy,,init,VIR
+2020-10-07,HC Wainwright & Co.,Buy,,main,VIR
+2021-01-20,HC Wainwright & Co.,Buy,,main,VIR
+2021-01-27,JP Morgan,Underweight,Neutral,down,VIR
+2021-03-02,Needham,Buy,,main,VIR
+2021-03-08,HC Wainwright & Co.,Buy,,main,VIR
+2021-03-11,Needham,Buy,,main,VIR
+2021-08-06,Barclays,Overweight,,main,VIR
+2021-09-22,Goldman Sachs,Neutral,Buy,down,VIR
+2021-10-25,JP Morgan,Neutral,Underweight,up,VIR
+2021-11-30,HC Wainwright & Co.,Buy,,main,VIR
+2021-12-21,HC Wainwright & Co.,Buy,,main,VIR
+2021-12-21,Baird,Underperform,Neutral,down,VIR

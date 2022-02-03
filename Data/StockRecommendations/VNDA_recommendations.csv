@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-13,Jefferies,Hold,,down,VNDA
+2012-11-08,Jefferies,Hold,,main,VNDA
+2013-02-05,Lazard,Buy,,init,VNDA
+2013-02-14,Jefferies,Buy,Hold,up,VNDA
+2013-03-05,PiperJaffray,Overweight,,init,VNDA
+2013-06-20,Jefferies,Buy,,main,VNDA
+2013-07-30,Jefferies,Buy,,main,VNDA
+2013-08-01,Jefferies,Buy,,main,VNDA
+2013-11-27,PiperJaffray,Overweight,,init,VNDA
+2014-02-13,PiperJaffray,Overweight,,main,VNDA
+2014-06-10,Empire Asset Management,Sell,,init,VNDA
+2015-02-20,Jefferies,Market Outperform,,main,VNDA
+2015-03-09,Jefferies,Buy,,init,VNDA
+2015-10-21,Brean Capital,Buy,,init,VNDA
+2016-03-09,JMP Securities,Market Outperform,,main,VNDA
+2016-08-24,PiperJaffray,Overweight,,main,VNDA
+2016-08-26,JMP Securities,Market Outperform,,main,VNDA
+2016-11-09,Aegis Capital,Buy,,init,VNDA
+2017-04-12,Oppenheimer,Outperform,,init,VNDA
+2017-05-26,H.C. Wainwright,Buy,,init,VNDA
+2017-10-30,Oppenheimer,Outperform,,main,VNDA
+2018-01-19,Seaport Global,Buy,,init,VNDA
+2018-05-23,Citigroup,Buy,,init,VNDA
+2018-08-23,Cantor Fitzgerald,Neutral,,init,VNDA
+2018-09-14,Stifel Nicolaus,Buy,,init,VNDA
+2018-09-21,Oppenheimer,Outperform,Outperform,main,VNDA
+2018-10-16,Citigroup,Buy,Buy,main,VNDA
+2018-11-08,Jefferies,Buy,,init,VNDA
+2018-12-04,Cantor Fitzgerald,Overweight,Neutral,up,VNDA
+2018-12-06,JMP Securities,Market Outperform,Market Outperform,main,VNDA
+2018-12-07,Citigroup,Buy,Buy,main,VNDA
+2018-12-11,Oppenheimer,Perform,Outperform,down,VNDA
+2018-12-11,Stifel Nicolaus,Buy,Buy,main,VNDA
+2019-02-06,Cantor Fitzgerald,Neutral,Overweight,down,VNDA
+2019-07-25,Stifel Nicolaus,Hold,Buy,down,VNDA
+2019-08-01,Citi,Buy,Neutral,up,VNDA
+2020-02-26,JMP Securities,Market Outperform,,main,VNDA
+2020-02-26,Stifel,Hold,,main,VNDA
+2020-03-12,Citigroup,Buy,Neutral,up,VNDA
+2020-06-09,Citigroup,Neutral,Buy,down,VNDA
+2020-10-29,Citigroup,Buy,Neutral,up,VNDA
+2021-01-14,Citigroup,Neutral,Buy,down,VNDA
+2021-05-12,B of A Securities,Buy,,init,VNDA

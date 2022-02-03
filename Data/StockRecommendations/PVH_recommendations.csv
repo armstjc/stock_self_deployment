@@ -1,0 +1,210 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-05,Goldman Sachs,Buy,,main,PVH
+2012-03-22,Deutsche Bank,Buy,,up,PVH
+2012-03-26,Brean Capital,Buy,,main,PVH
+2012-03-28,ISI Group,Buy,,main,PVH
+2012-03-28,Brean Capital,Buy,,main,PVH
+2012-03-29,Miller Tabak,Buy,,main,PVH
+2012-04-02,Credit Suisse,Outperform,,up,PVH
+2012-05-04,PiperJaffray,Neutral,,down,PVH
+2012-05-24,Bank of America,Neutral,,main,PVH
+2012-05-25,Goldman Sachs,Buy,,main,PVH
+2012-06-22,JP Morgan,Neutral,,init,PVH
+2012-08-28,Bank of America,Neutral,,main,PVH
+2012-08-28,Brean Capital,Buy,,main,PVH
+2012-08-29,Barclays,Overweight,,main,PVH
+2012-08-29,Citigroup,Buy,,main,PVH
+2012-08-29,Goldman Sachs,Buy,,main,PVH
+2012-09-24,PiperJaffray,Overweight,Neutral,up,PVH
+2012-09-26,CL King,Buy,Neutral,up,PVH
+2012-10-03,Bank of America,Neutral,,main,PVH
+2012-11-01,Miller Tabak,Buy,,main,PVH
+2012-11-23,CL King,Buy,Neutral,up,PVH
+2013-01-07,Morgan Stanley,Outperform,Equal-Weight,up,PVH
+2013-03-12,PiperJaffray,Neutral,Overweight,down,PVH
+2013-03-21,PiperJaffray,Neutral,,main,PVH
+2013-03-28,PiperJaffray,Neutral,,main,PVH
+2013-06-04,RBC Capital,Outperform,Underperform,down,PVH
+2013-06-24,PiperJaffray,Overweight,Neutral,up,PVH
+2013-09-09,Deutsche Bank,Buy,,main,PVH
+2013-12-11,Citigroup,Buy,,main,PVH
+2013-12-16,UBS,Buy,,init,PVH
+2013-12-19,Janney Capital,Buy,,init,PVH
+2014-02-13,Nomura,Buy,,init,PVH
+2014-03-13,Wells Fargo,Market Perform,,down,PVH
+2014-03-13,Morgan Stanley,Equal-weight,,down,PVH
+2014-03-18,Barclays,Overweight,,init,PVH
+2014-03-27,Citigroup,Buy,,main,PVH
+2014-03-27,Goldman Sachs,Conviction Buy,Buy,up,PVH
+2014-04-02,Barclays,Overweight,,main,PVH
+2014-04-11,Bank of America,Neutral,,main,PVH
+2014-05-13,JP Morgan,Neutral,,main,PVH
+2014-06-05,ISI Group,Buy,Strong Buy,down,PVH
+2014-06-06,UBS,Buy,,main,PVH
+2014-06-11,JP Morgan,Neutral,,main,PVH
+2014-09-04,UBS,Buy,,main,PVH
+2014-09-05,Bank of America,Underperform,Neutral,down,PVH
+2014-09-12,Wunderlich,Buy,,init,PVH
+2014-11-05,Citigroup,Buy,,main,PVH
+2014-12-01,Morgan Stanley,Equal-Weight,,main,PVH
+2014-12-04,Citigroup,Buy,,main,PVH
+2015-01-22,Deutsche Bank,Buy,,main,PVH
+2015-02-09,JP Morgan,Neutral,,main,PVH
+2015-03-03,Goldman Sachs,Neutral,Buy,down,PVH
+2015-03-23,Citigroup,Neutral,,main,PVH
+2015-04-02,JP Morgan,Neutral,,main,PVH
+2015-06-03,UBS,Buy,,main,PVH
+2015-06-22,Citigroup,Neutral,,main,PVH
+2015-06-23,JP Morgan,Neutral,,main,PVH
+2015-06-23,Citigroup,Neutral,,main,PVH
+2015-08-27,PiperJaffray,Overweight,,main,PVH
+2015-08-28,Deutsche Bank,Buy,,main,PVH
+2015-08-28,Buckingham Research,Buy,,main,PVH
+2015-10-15,Brean Capital,Buy,,init,PVH
+2015-11-16,PiperJaffray,Overweight,,main,PVH
+2015-11-24,Brean Capital,Buy,,main,PVH
+2015-12-04,Citigroup,Neutral,,main,PVH
+2015-12-16,Bank of America,Underperform,,main,PVH
+2016-03-21,JP Morgan,Neutral,,main,PVH
+2016-03-28,Brean Capital,Buy,,main,PVH
+2016-03-28,Goldman Sachs,Neutral,,main,PVH
+2016-03-28,Deutsche Bank,Buy,,main,PVH
+2016-05-27,Citigroup,Neutral,,main,PVH
+2016-05-27,Buckingham Research,Buy,,main,PVH
+2016-05-27,Brean Capital,Buy,,main,PVH
+2016-08-16,Deutsche Bank,Buy,,main,PVH
+2016-08-23,Brean Capital,Buy,,main,PVH
+2016-08-25,Goldman Sachs,Neutral,,main,PVH
+2016-08-26,Deutsche Bank,Buy,,main,PVH
+2016-08-26,Citigroup,Neutral,,main,PVH
+2016-08-26,Buckingham Research,Buy,,main,PVH
+2016-08-26,UBS,Buy,,main,PVH
+2016-09-30,Guggenheim,Buy,,init,PVH
+2017-02-01,Evercore ISI Group,Hold,Buy,down,PVH
+2017-04-04,B. Riley FBR,Buy,,init,PVH
+2017-05-25,JP Morgan,Overweight,Neutral,up,PVH
+2017-05-30,Credit Suisse,Outperform,Neutral,up,PVH
+2017-08-24,FBR Capital,Buy,,main,PVH
+2017-08-25,Citigroup,Neutral,,main,PVH
+2017-08-25,Buckingham,Buy,,main,PVH
+2017-08-25,Credit Suisse,Outperform,,main,PVH
+2017-09-12,Bernstein,Market Perform,,init,PVH
+2017-09-20,Barclays,Overweight,,init,PVH
+2017-10-24,Deutsche Bank,Hold,,init,PVH
+2017-12-05,Wells Fargo,Outperform,Outperform,main,PVH
+2018-01-25,Barclays,Overweight,Overweight,main,PVH
+2018-02-07,Deutsche Bank,Buy,Hold,up,PVH
+2018-02-15,Instinet,Neutral,,init,PVH
+2018-03-12,Credit Suisse,Outperform,,init,PVH
+2018-03-29,Deutsche Bank,Buy,Buy,main,PVH
+2018-03-29,Credit Suisse,Outperform,Outperform,main,PVH
+2018-04-02,Barclays,Overweight,Overweight,main,PVH
+2018-05-25,Deutsche Bank,Buy,Buy,main,PVH
+2018-05-31,PiperJaffray,Overweight,Overweight,main,PVH
+2018-05-31,Citigroup,Buy,Buy,main,PVH
+2018-05-31,JP Morgan,Overweight,Overweight,main,PVH
+2018-06-01,Buckingham,Buy,Buy,main,PVH
+2018-06-15,Citigroup,Buy,Buy,main,PVH
+2018-06-21,UBS,Neutral,,init,PVH
+2018-06-25,Goldman Sachs,Sell,,init,PVH
+2018-06-26,Credit Suisse,Outperform,Outperform,main,PVH
+2018-08-30,Deutsche Bank,Buy,Buy,main,PVH
+2018-09-26,DA Davidson,Buy,,init,PVH
+2018-10-17,Buckingham,Buy,Buy,main,PVH
+2018-11-09,Goldman Sachs,Neutral,Sell,up,PVH
+2018-11-19,Credit Suisse,Outperform,Outperform,main,PVH
+2018-11-21,PiperJaffray,Overweight,Overweight,main,PVH
+2018-11-30,Credit Suisse,Outperform,Outperform,main,PVH
+2018-11-30,CL King,Strong Buy,Buy,up,PVH
+2018-12-03,Buckingham,Buy,Buy,main,PVH
+2018-12-03,Barclays,Overweight,Overweight,main,PVH
+2018-12-03,Nomura,Neutral,Neutral,main,PVH
+2019-01-02,Wells Fargo,Outperform,Outperform,main,PVH
+2019-01-07,UBS,Buy,Neutral,up,PVH
+2019-01-09,RBC Capital,Outperform,,init,PVH
+2019-01-11,Nomura,Neutral,Neutral,main,PVH
+2019-01-22,Cowen & Co.,Market Perform,Outperform,down,PVH
+2019-03-28,Credit Suisse,Outperform,Outperform,main,PVH
+2019-03-29,Citigroup,Neutral,Neutral,main,PVH
+2019-04-01,UBS,Buy,Buy,main,PVH
+2019-04-09,Morgan Stanley,Overweight,,init,PVH
+2019-05-30,Wells Fargo,Outperform,,main,PVH
+2019-05-30,Deutsche Bank,Buy,,main,PVH
+2019-05-31,Citi,Neutral,,main,PVH
+2019-05-31,Morgan Stanley,Overweight,,main,PVH
+2019-05-31,Nomura,Neutral,,main,PVH
+2019-06-03,UBS,Buy,,reit,PVH
+2019-07-17,Goldman Sachs,Sell,Neutral,down,PVH
+2019-08-28,Morgan Stanley,Overweight,,main,PVH
+2019-08-29,Cowen & Co.,Market Perform,,main,PVH
+2019-08-29,Wells Fargo,Outperform,,main,PVH
+2019-08-29,Credit Suisse,Outperform,,main,PVH
+2019-08-29,Bank of America,Buy,,reit,PVH
+2019-08-30,Goldman Sachs,Sell,,main,PVH
+2019-08-30,Morgan Stanley,Overweight,,main,PVH
+2019-09-03,Bernstein,Outperform,Market Perform,up,PVH
+2019-09-17,Piper Jaffray,Overweight,,main,PVH
+2019-10-28,JP Morgan,Neutral,Overweight,down,PVH
+2019-11-13,Barclays,Equal-Weight,,init,PVH
+2019-11-26,Bank of America,Buy,,main,PVH
+2019-11-27,Barclays,Equal-Weight,,main,PVH
+2019-11-27,DA Davidson,Buy,,main,PVH
+2019-11-27,RBC Capital,Outperform,,main,PVH
+2019-11-27,Evercore ISI Group,In-Line,Outperform,down,PVH
+2020-01-10,B of A Securities,Buy,,reit,PVH
+2020-02-04,BMO Capital,Market Perform,,init,PVH
+2020-02-18,Wells Fargo,Overweight,,main,PVH
+2020-02-19,Morgan Stanley,Overweight,,main,PVH
+2020-03-16,Wells Fargo,Overweight,,main,PVH
+2020-03-19,Morgan Stanley,Overweight,,main,PVH
+2020-03-30,Wells Fargo,Overweight,,main,PVH
+2020-04-02,Piper Sandler,Overweight,,main,PVH
+2020-04-02,Wells Fargo,Overweight,,main,PVH
+2020-04-03,JP Morgan,Neutral,,main,PVH
+2020-04-03,Citigroup,Neutral,,main,PVH
+2020-04-03,Deutsche Bank,Hold,,reit,PVH
+2020-04-03,RBC Capital,Sector Perform,Outperform,down,PVH
+2020-04-06,UBS,Buy,,main,PVH
+2020-06-03,Deutsche Bank,Hold,,main,PVH
+2020-06-08,Wells Fargo,Equal-Weight,Overweight,down,PVH
+2020-06-11,B of A Securities,Buy,,main,PVH
+2020-06-15,Citigroup,Neutral,,main,PVH
+2020-06-16,Morgan Stanley,Overweight,,main,PVH
+2020-09-01,Morgan Stanley,Overweight,,main,PVH
+2020-09-03,Credit Suisse,Outperform,,main,PVH
+2020-09-04,Morgan Stanley,Overweight,,main,PVH
+2020-10-07,Barclays,Underweight,Equal-Weight,down,PVH
+2020-12-01,Morgan Stanley,Overweight,,main,PVH
+2020-12-04,Morgan Stanley,Overweight,,main,PVH
+2020-12-10,Goldman Sachs,Neutral,Sell,up,PVH
+2020-12-11,KeyBanc,Overweight,,init,PVH
+2021-03-24,Morgan Stanley,Overweight,,main,PVH
+2021-03-25,Telsey Advisory Group,Outperform,,main,PVH
+2021-03-29,Piper Sandler,Overweight,,main,PVH
+2021-04-01,Deutsche Bank,Hold,,main,PVH
+2021-04-01,Morgan Stanley,Overweight,,main,PVH
+2021-04-01,Citigroup,Neutral,,main,PVH
+2021-04-01,UBS,Buy,,main,PVH
+2021-04-01,RBC Capital,Sector Perform,,main,PVH
+2021-04-01,Telsey Advisory Group,Outperform,,main,PVH
+2021-05-06,OTR Global,Positive,,init,PVH
+2021-06-03,Piper Sandler,Overweight,,main,PVH
+2021-06-04,Deutsche Bank,Hold,,main,PVH
+2021-06-04,Morgan Stanley,Overweight,,main,PVH
+2021-06-04,RBC Capital,Sector Perform,,main,PVH
+2021-06-04,Barclays,Underweight,,main,PVH
+2021-06-04,Telsey Advisory Group,Outperform,,main,PVH
+2021-06-08,Citigroup,Neutral,,main,PVH
+2021-06-24,Morgan Stanley,Overweight,,main,PVH
+2021-07-14,Goldman Sachs,Buy,,init,PVH
+2021-09-01,BMO Capital,Market Perform,,main,PVH
+2021-09-01,Credit Suisse,Outperform,,main,PVH
+2021-09-02,UBS,Buy,,main,PVH
+2021-09-02,Morgan Stanley,Overweight,,main,PVH
+2021-09-02,Deutsche Bank,Hold,,main,PVH
+2021-09-02,Telsey Advisory Group,Outperform,,main,PVH
+2021-10-01,Barclays,Equal-Weight,Underweight,up,PVH
+2021-10-05,Wedbush,Outperform,,init,PVH
+2021-12-03,Morgan Stanley,Overweight,,main,PVH
+2021-12-03,Deutsche Bank,Hold,,main,PVH
+2021-12-16,Truist Securities,Hold,,init,PVH

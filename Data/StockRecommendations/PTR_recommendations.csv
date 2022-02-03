@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-25,Citigroup,Neutral,Buy,down,PTR
+2012-07-11,Credit Suisse,Neutral,Outperform,down,PTR
+2013-01-09,Macquarie,Neutral,Outperform,down,PTR
+2013-02-20,Nomura,Reduce,Neutral,down,PTR
+2013-07-01,Morgan Stanley,Overweight,Equal-Weight,up,PTR
+2013-07-02,Credit Suisse,Outperform,Neutral,up,PTR
+2013-07-02,HSBC,Overweight,Underweight,up,PTR
+2013-07-02,Exane BNP Paribas,Buy,,up,PTR
+2013-07-08,Bernstein,Outperform,Market Perform,up,PTR
+2014-02-27,Deutsche Bank,Buy,Hold,up,PTR
+2014-06-23,Macquarie,Outperform,Neutral,up,PTR
+2014-07-29,UBS,Neutral,Buy,down,PTR
+2014-07-30,Societe Generale,Neutral,Buy,down,PTR
+2014-10-10,Societe Generale,Sell,Neutral,down,PTR
+2015-06-01,Bernstein,Underperform,,init,PTR
+2015-06-04,Gabelli & Co.,Hold,,init,PTR
+2015-08-31,Bank of America,Neutral,Buy,down,PTR
+2016-03-10,HSBC,Reduce,Hold,down,PTR
+2016-03-21,Mizuho,Buy,Underperform,up,PTR
+2016-04-18,Bank of America,Buy,Neutral,up,PTR
+2016-05-10,Morgan Stanley,Underweight,Equal-Weight,down,PTR
+2016-07-25,Macquarie,Neutral,Outperform,down,PTR
+2016-10-21,Macquarie,Neutral,Outperform,down,PTR
+2017-02-24,Jefferies,Buy,Hold,up,PTR
+2018-05-29,Bernstein,Outperform,Market Perform,up,PTR
+2018-11-15,Morgan Stanley,Equal-Weight,Overweight,down,PTR
+2019-05-14,Goldman Sachs,Buy,Neutral,up,PTR
+2019-05-24,Citigroup,Buy,Neutral,up,PTR
+2019-09-11,HSBC,Reduce,Hold,down,PTR
+2019-10-07,Daiwa Capital,Buy,Outperform,up,PTR
+2020-01-15,Credit Suisse,Underperform,Neutral,up,PTR
+2020-03-03,JP Morgan,Neutral,Overweight,down,PTR
+2020-03-11,Citigroup,Sell,Buy,down,PTR
+2020-03-27,CFRA,Hold,Buy,down,PTR
+2021-03-25,JP Morgan,Neutral,Underweight,up,PTR
+2021-11-30,JP Morgan,Overweight,Underweight,up,PTR

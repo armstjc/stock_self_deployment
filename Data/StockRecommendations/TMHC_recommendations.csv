@@ -1,0 +1,87 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-23,Sterne Agee,Buy,,init,TMHC
+2013-04-24,Sterne Agee,Buy,,init,TMHC
+2013-05-20,Credit Suisse,Outperform,,init,TMHC
+2013-05-20,Citigroup,Buy,,init,TMHC
+2013-05-20,JP Morgan,Overweight,,init,TMHC
+2013-05-20,Wells Fargo,Outperform,,init,TMHC
+2013-05-20,Credit Suisse,Outperform,,init,TMHC
+2013-05-21,Deutsche Bank,Hold,,init,TMHC
+2013-05-21,FBR Capital,Outperform,,init,TMHC
+2013-05-21,Deutsche Bank,Hold,,init,TMHC
+2013-05-21,Deutsche Bank,Hold,,init,TMHC
+2013-05-21,Deutsche Bank,Hold,,init,TMHC
+2013-06-24,Goldman Sachs,Neutral,,init,TMHC
+2013-08-12,JMP Securities,Market Outperform,,init,TMHC
+2013-08-14,Susquehanna,Positive,,main,TMHC
+2013-11-13,Sterne Agee,Neutral,Buy,down,TMHC
+2013-12-12,Citigroup,Buy,,main,TMHC
+2014-01-27,ISI Group,Neutral,,init,TMHC
+2014-03-10,Citigroup,Neutral,Buy,down,TMHC
+2014-08-01,Susquehanna,Positive,Neutral,up,TMHC
+2014-08-18,Citigroup,Buy,,main,TMHC
+2014-12-17,Evercore ISI Group,Buy,,up,TMHC
+2015-01-20,Credit Suisse,Neutral,Outperform,down,TMHC
+2015-01-20,JMP Securities,Market Perform,Market Outperform,down,TMHC
+2015-02-11,Citigroup,Neutral,Buy,down,TMHC
+2015-08-06,Sterne Agee CRT,Buy,Neutral,up,TMHC
+2015-08-24,Deutsche Bank,Hold,,main,TMHC
+2015-09-11,JP Morgan,Neutral,,down,TMHC
+2015-09-21,Deutsche Bank,Buy,Hold,up,TMHC
+2016-01-13,JP Morgan,Neutral,,main,TMHC
+2016-01-29,Citigroup,Neutral,,init,TMHC
+2016-02-09,Deutsche Bank,Buy,,main,TMHC
+2016-03-08,Credit Suisse,Outperform,Neutral,up,TMHC
+2016-05-12,Citigroup,Neutral,,main,TMHC
+2016-08-04,Citigroup,Neutral,,main,TMHC
+2016-08-04,Susquehanna,Neutral,Positive,down,TMHC
+2016-08-05,JP Morgan,Neutral,,main,TMHC
+2016-08-09,Deutsche Bank,Buy,,main,TMHC
+2016-09-20,Wedbush,Neutral,,init,TMHC
+2016-09-29,Wells Fargo,Market Perform,,init,TMHC
+2017-01-06,Barclays,Equal-Weight,,init,TMHC
+2017-02-08,BTIG Research,Neutral,,init,TMHC
+2017-02-14,FBR Capital,Market Perform,Outperform,down,TMHC
+2017-08-07,Deutsche Bank,Buy,,main,TMHC
+2018-01-02,Citigroup,Buy,Neutral,up,TMHC
+2018-01-04,Susquehanna,Positive,Neutral,up,TMHC
+2018-01-05,Wells Fargo,Outperform,Market Perform,up,TMHC
+2018-02-08,JMP Securities,Market Outperform,Market Perform,up,TMHC
+2018-02-08,Barclays,Equal-Weight,Equal-Weight,main,TMHC
+2018-02-08,B. Riley FBR,Neutral,,main,TMHC
+2018-02-23,Deutsche Bank,Buy,Buy,main,TMHC
+2018-03-26,Barclays,Equal-Weight,Equal-Weight,main,TMHC
+2018-08-02,JMP Securities,Market Outperform,Market Outperform,main,TMHC
+2018-08-02,Susquehanna,Positive,Positive,main,TMHC
+2018-09-14,Barclays,Underweight,Equal-Weight,down,TMHC
+2018-10-08,JMP Securities,Market Perform,Market Outperform,down,TMHC
+2018-10-22,Deutsche Bank,Hold,Buy,down,TMHC
+2018-10-29,Citigroup,Buy,Buy,main,TMHC
+2018-11-01,Deutsche Bank,Hold,Hold,main,TMHC
+2018-11-02,Wells Fargo,Outperform,Outperform,main,TMHC
+2019-01-14,Wells Fargo,Market Perform,Outperform,down,TMHC
+2019-02-14,B. Riley FBR,Neutral,Neutral,main,TMHC
+2019-03-07,JP Morgan,Overweight,Neutral,up,TMHC
+2019-05-02,Citi,Buy,Buy,main,TMHC
+2019-05-13,Barclays,Equal-Weight,Underweight,up,TMHC
+2019-05-13,Wedbush,Outperform,Neutral,up,TMHC
+2019-05-16,RBC Capital,Outperform,Sector Perform,up,TMHC
+2019-07-19,Barclays,Equal-Weight,,main,TMHC
+2019-08-01,B. Riley,Buy,Neutral,up,TMHC
+2019-08-01,Wells Fargo,Market Perform,,main,TMHC
+2020-03-17,B. Riley FBR,Buy,,main,TMHC
+2020-03-18,JP Morgan,Neutral,Overweight,down,TMHC
+2020-05-07,B. Riley FBR,Buy,,main,TMHC
+2020-05-12,Wells Fargo,Equal-Weight,,main,TMHC
+2020-06-11,JP Morgan,Overweight,Neutral,up,TMHC
+2020-07-09,B. Riley FBR,Buy,,main,TMHC
+2020-07-21,BTIG,Buy,Neutral,up,TMHC
+2020-10-16,BTIG,Buy,,main,TMHC
+2021-01-08,RBC Capital,Sector Perform,Outperform,down,TMHC
+2021-01-22,Janney Capital,Neutral,,init,TMHC
+2021-02-22,KeyBanc,Sector Weight,,init,TMHC
+2021-03-16,Wolfe Research,Peer Perform,,init,TMHC
+2021-04-16,Wells Fargo,Equal-Weight,,init,TMHC
+2021-10-28,RBC Capital,Sector Perform,,main,TMHC
+2021-10-28,Barclays,Overweight,,main,TMHC
+2021-12-15,Barclays,Overweight,,main,TMHC

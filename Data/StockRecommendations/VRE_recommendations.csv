@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-24,Deutsche Bank,Buy,,main,VRE
+2012-08-27,Barclays,Equal-Weight,,main,VRE
+2012-11-06,Citigroup,Neutral,,main,VRE
+2012-12-13,JP Morgan,Neutral,,main,VRE
+2013-01-09,Deutsche Bank,Buy,,main,VRE
+2013-01-10,KeyBanc,Buy,Hold,up,VRE
+2013-04-16,Deutsche Bank,Hold,Buy,down,VRE
+2013-05-23,Stifel Nicolaus,Hold,Sell,up,VRE
+2013-11-25,Deutsche Bank,Hold,,main,VRE
+2014-01-15,Deutsche Bank,Hold,,main,VRE
+2014-01-28,Barclays,Equal-Weight,,main,VRE
+2014-03-31,Barclays,Underweight,Equal-Weight,down,VRE
+2014-04-01,KeyBanc,Hold,,down,VRE
+2014-04-22,Barclays,Underweight,,main,VRE
+2014-04-29,Barclays,Underweight,,main,VRE
+2014-08-21,Deutsche Bank,Hold,,main,VRE
+2015-01-26,Deutsche Bank,Hold,,main,VRE
+2015-06-04,Stifel Nicolaus,Hold,Sell,up,VRE
+2015-06-19,Stifel Nicolaus,Buy,Hold,up,VRE
+2015-09-08,Evercore ISI Group,Hold,,main,VRE
+2015-09-14,Citigroup,Buy,Neutral,up,VRE
+2015-10-20,Barclays,Underweight,,main,VRE
+2015-12-17,JP Morgan,Neutral,Underweight,up,VRE
+2016-01-05,Deutsche Bank,Hold,,main,VRE
+2016-03-21,Deutsche Bank,Hold,,main,VRE
+2016-03-30,Barclays,Underweight,,main,VRE
+2016-05-16,Deutsche Bank,Hold,,main,VRE
+2016-07-07,Citigroup,Buy,,main,VRE
+2016-07-18,Deutsche Bank,Hold,,main,VRE
+2016-07-19,Barclays,Underweight,,main,VRE
+2016-08-05,Stifel Nicolaus,Buy,,main,VRE
+2016-08-25,BTIG Research,Neutral,,init,VRE
+2016-09-19,Evercore ISI Group,Buy,Hold,up,VRE
+2016-12-16,JP Morgan,Overweight,Neutral,up,VRE
+2017-07-18,Barclays,Underweight,,main,VRE
+2017-08-18,Barclays,Underweight,,main,VRE
+2017-09-05,SunTrust Robinson Humphrey,Buy,Hold,up,VRE
+2017-09-21,Citigroup,Neutral,,main,VRE
+2017-11-08,Stifel Nicolaus,Sell,Buy,down,VRE
+2017-12-04,Evercore ISI Group,In-Line,Outperform,down,VRE
+2018-01-30,Barclays,Underweight,Underweight,main,VRE
+2018-02-26,Stifel Nicolaus,Hold,Sell,up,VRE
+2018-03-05,Citigroup,Neutral,Neutral,main,VRE
+2018-06-26,Deutsche Bank,Hold,Hold,main,VRE
+2018-06-28,Citigroup,Neutral,Neutral,main,VRE
+2018-08-16,Stifel Nicolaus,Hold,Hold,main,VRE
+2018-08-29,Deutsche Bank,Hold,Hold,main,VRE
+2018-09-25,Stifel Nicolaus,Hold,Hold,main,VRE
+2018-10-05,JP Morgan,Neutral,Overweight,down,VRE
+2019-01-15,SunTrust Robinson Humphrey,Hold,Buy,down,VRE
+2019-03-19,BTIG Research,Buy,Neutral,up,VRE
+2019-04-10,Deutsche Bank,Hold,Hold,main,VRE
+2019-04-17,Stifel Nicolaus,Buy,Hold,up,VRE
+2019-10-10,Deutsche Bank,Hold,,main,VRE
+2019-12-18,JP Morgan,Underweight,Neutral,down,VRE
+2020-01-06,Evercore ISI Group,Outperform,In-Line,up,VRE
+2020-01-07,Stifel Nicolaus,Hold,Buy,down,VRE
+2020-03-25,Evercore ISI Group,In-Line,Outperform,down,VRE
+2020-04-07,Citigroup,Neutral,,main,VRE
+2020-05-05,JP Morgan,Underweight,,main,VRE
+2020-05-18,SunTrust Robinson Humphrey,Hold,,main,VRE
+2020-08-04,Deutsche Bank,Hold,Buy,down,VRE

@@ -1,0 +1,121 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-20,BTIG Research,Buy,,init,VOYA
+2013-06-11,Morgan Stanley,Equal-Weight,,init,VOYA
+2013-06-11,JP Morgan,Neutral,,init,VOYA
+2013-06-11,Deutsche Bank,Hold,,init,VOYA
+2013-06-11,Bank of America,Neutral,,init,VOYA
+2013-06-11,Barclays,Equal-Weight,,init,VOYA
+2013-06-11,Citigroup,Neutral,,init,VOYA
+2013-06-11,Evercore Partners,Equal-Weight,,init,VOYA
+2013-06-11,Sandler O'Neill,Hold,,init,VOYA
+2013-06-11,Credit Suisse,Neutral,,init,VOYA
+2013-06-11,Wells Fargo,Market Perform,,init,VOYA
+2013-06-11,Keefe Bruyette & Woods,Market Perform,,init,VOYA
+2013-06-11,SunTrust Robinson Humphrey,Neutral,,init,VOYA
+2013-06-12,RBC Capital,,,init,VOYA
+2013-07-29,BTIG Research,Neutral,Buy,down,VOYA
+2013-07-29,BTIG Research,Neutral,Buy,down,VOYA
+2013-08-12,Deutsche Bank,Hold,,main,VOYA
+2013-08-12,JP Morgan,Underweight,Neutral,down,VOYA
+2013-11-06,BTIG Research,Buy,Neutral,up,VOYA
+2013-11-20,Citigroup,Neutral,,main,VOYA
+2013-11-20,Citigroup,Neutral,,main,VOYA
+2013-12-18,Deutsche Bank,Hold,,main,VOYA
+2014-01-09,BTIG Research,Neutral,Buy,down,VOYA
+2014-03-20,Deutsche Bank,Buy,Hold,up,VOYA
+2014-03-31,Goldman Sachs,Buy,Neutral,up,VOYA
+2014-04-07,Citigroup,Neutral,,main,VOYA
+2014-04-14,Raymond James,Outperform,,main,VOYA
+2014-04-29,BTIG Research,Buy,Neutral,up,VOYA
+2014-05-07,Credit Suisse,Outperform,,up,VOYA
+2014-05-08,Keefe Bruyette & Woods,Outperform,,init,VOYA
+2014-05-09,Raymond James,Outperform,,main,VOYA
+2014-07-01,JP Morgan,Underweight,,main,VOYA
+2014-07-14,Deutsche Bank,Buy,,main,VOYA
+2014-08-07,Deutsche Bank,Buy,,main,VOYA
+2014-08-07,Raymond James,Outperform,,main,VOYA
+2014-08-18,Deutsche Bank,Buy,,main,VOYA
+2014-09-29,Raymond James,Strong Buy,Outperform,up,VOYA
+2014-10-21,UBS,Buy,,init,VOYA
+2014-11-06,Bank of America,Neutral,,main,VOYA
+2014-11-14,Credit Suisse,Outperform,,main,VOYA
+2014-11-17,Keefe Bruyette & Woods,Outperform,,main,VOYA
+2014-12-15,Keefe Bruyette & Woods,Outperform,,main,VOYA
+2015-01-05,Bank of America,Underperform,Neutral,down,VOYA
+2015-01-07,Deutsche Bank,Buy,,main,VOYA
+2015-01-09,Wells Fargo,Outperform,Market Perform,up,VOYA
+2015-02-13,Keefe Bruyette & Woods,Outperform,,main,VOYA
+2015-02-17,Citigroup,Neutral,,main,VOYA
+2015-03-06,Citigroup,Neutral,,main,VOYA
+2015-04-14,Bank of America,Neutral,Underperform,up,VOYA
+2015-04-17,Raymond James,Outperform,Strong Buy,down,VOYA
+2015-05-15,Goldman Sachs,Buy,,init,VOYA
+2015-06-04,Raymond James,Outperform,,main,VOYA
+2015-06-04,Keefe Bruyette & Woods,Outperform,,main,VOYA
+2015-10-05,JP Morgan,Underweight,,main,VOYA
+2015-10-12,Keefe Bruyette & Woods,Outperform,,main,VOYA
+2015-11-11,Morgan Stanley,Overweight,Equal-Weight,up,VOYA
+2016-01-14,Deutsche Bank,Buy,,main,VOYA
+2016-01-20,Bank of America,Buy,Neutral,up,VOYA
+2016-02-11,JP Morgan,Neutral,Underweight,up,VOYA
+2016-02-12,Deutsche Bank,Buy,,main,VOYA
+2016-02-24,Goldman Sachs,Buy,,main,VOYA
+2016-07-07,Citigroup,Neutral,,main,VOYA
+2016-07-07,Deutsche Bank,Buy,,main,VOYA
+2016-07-14,Deutsche Bank,Buy,,main,VOYA
+2016-07-15,Goldman Sachs,Neutral,Buy,down,VOYA
+2016-09-23,Wells Fargo,Market Perform,,init,VOYA
+2016-11-09,RBC Capital,Outperform,Top Pick,down,VOYA
+2017-01-03,JP Morgan,Underweight,Neutral,down,VOYA
+2017-01-26,Citigroup,Buy,,init,VOYA
+2017-10-18,Goldman Sachs,Buy,,init,VOYA
+2017-11-13,Sandler O'Neill,Buy,Hold,up,VOYA
+2017-12-21,Evercore ISI Group,Outperform,In-Line,up,VOYA
+2018-03-02,UBS,Buy,,init,VOYA
+2018-04-05,Morgan Stanley,Overweight,Overweight,main,VOYA
+2018-04-17,Deutsche Bank,Buy,Buy,main,VOYA
+2018-04-25,Credit Suisse,Outperform,,init,VOYA
+2018-05-02,Morgan Stanley,Overweight,Overweight,main,VOYA
+2018-07-09,Barclays,Equal-Weight,Equal-Weight,main,VOYA
+2018-08-17,Credit Suisse,Outperform,Outperform,main,VOYA
+2018-10-31,Morgan Stanley,Overweight,Overweight,main,VOYA
+2018-10-31,Credit Suisse,Outperform,Outperform,main,VOYA
+2018-11-13,Morgan Stanley,Overweight,Overweight,main,VOYA
+2019-01-02,JP Morgan,Underweight,Underweight,main,VOYA
+2019-01-08,Goldman Sachs,Buy,Neutral,up,VOYA
+2019-07-10,Morgan Stanley,Overweight,,main,VOYA
+2019-08-20,Morgan Stanley,Overweight,,main,VOYA
+2019-09-12,Goldman Sachs,Buy,,main,VOYA
+2019-09-13,Citigroup,Buy,,main,VOYA
+2019-10-10,UBS,Buy,,main,VOYA
+2019-11-06,Morgan Stanley,Overweight,,main,VOYA
+2019-11-08,UBS,Buy,,main,VOYA
+2019-12-19,Morgan Stanley,Overweight,,main,VOYA
+2019-12-20,RBC Capital,Outperform,,main,VOYA
+2020-01-07,Credit Suisse,Outperform,,main,VOYA
+2020-01-23,B of A Securities,Buy,,main,VOYA
+2020-02-11,Morgan Stanley,Overweight,,main,VOYA
+2020-02-12,Morgan Stanley,Overweight,,main,VOYA
+2020-03-10,Piper Sandler,Overweight,,main,VOYA
+2020-04-03,Piper Sandler,Overweight,,main,VOYA
+2020-04-07,JP Morgan,Neutral,Underweight,up,VOYA
+2020-05-15,SunTrust Robinson Humphrey,Hold,,main,VOYA
+2020-07-02,Piper Sandler,Overweight,,main,VOYA
+2020-07-06,Morgan Stanley,Overweight,,main,VOYA
+2020-08-07,Morgan Stanley,Overweight,,main,VOYA
+2020-08-13,Piper Sandler,Overweight,,main,VOYA
+2020-08-13,Barclays,Overweight,,init,VOYA
+2020-08-18,Wells Fargo,Overweight,,init,VOYA
+2020-08-20,Morgan Stanley,Overweight,,main,VOYA
+2020-10-06,Morgan Stanley,Overweight,,main,VOYA
+2020-11-18,Morgan Stanley,Overweight,,main,VOYA
+2020-12-01,Credit Suisse,Outperform,,main,VOYA
+2021-01-08,Evercore ISI Group,In-Line,Outperform,down,VOYA
+2021-01-15,Morgan Stanley,Overweight,,main,VOYA
+2021-03-12,Morgan Stanley,Overweight,,main,VOYA
+2021-05-12,Barclays,Overweight,,main,VOYA
+2021-06-17,Citigroup,Neutral,Buy,down,VOYA
+2021-08-19,Credit Suisse,Outperform,,main,VOYA
+2021-12-03,Goldman Sachs,Neutral,,init,VOYA
+2022-01-04,Wells Fargo,Overweight,,main,VOYA
+2022-01-05,Evercore ISI Group,Outperform,In-Line,up,VOYA

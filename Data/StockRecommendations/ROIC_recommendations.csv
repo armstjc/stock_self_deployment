@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-19,Bank of America,Underperform,Neutral,down,ROIC
+2012-12-13,Raymond James,Market Perform,Outperform,down,ROIC
+2013-04-16,KeyBanc,Hold,,init,ROIC
+2013-09-10,Janney Capital,Buy,,init,ROIC
+2013-11-18,McNicoll Lewis Vlak,Buy,,init,ROIC
+2014-07-23,Citigroup,Neutral,,init,ROIC
+2014-10-21,Wells Fargo,Market Perform,,init,ROIC
+2014-12-04,Citigroup,Neutral,,main,ROIC
+2015-01-20,Cowen & Co.,Outperform,,init,ROIC
+2015-03-20,Citigroup,Neutral,,main,ROIC
+2015-03-24,Baird,Outperform,,init,ROIC
+2015-06-19,Raymond James,Buy,Neutral,up,ROIC
+2015-08-24,Canaccord Genuity,Buy,,main,ROIC
+2015-09-03,Raymond James,Strong Buy,Outperform,up,ROIC
+2016-03-15,Canaccord Genuity,Buy,,main,ROIC
+2016-03-17,FBR Capital,Market Perform,,main,ROIC
+2016-04-01,DA Davidson,Buy,,init,ROIC
+2016-04-01,Citigroup,Neutral,,main,ROIC
+2016-04-21,JP Morgan,Neutral,,init,ROIC
+2016-06-14,RBC Capital,Sector Perform,,init,ROIC
+2016-08-15,Citigroup,Neutral,,main,ROIC
+2016-08-25,BTIG Research,Buy,,init,ROIC
+2016-11-18,Jefferies,Buy,,init,ROIC
+2017-08-17,RBC Capital,Outperform,Sector Perform,up,ROIC
+2017-09-15,Jefferies,Hold,Buy,down,ROIC
+2017-10-30,Citigroup,Neutral,,main,ROIC
+2017-10-31,Citigroup,Neutral,,main,ROIC
+2018-02-28,Citigroup,Neutral,Neutral,main,ROIC
+2018-03-16,JP Morgan,Neutral,Neutral,main,ROIC
+2018-07-26,Capital One Financial,Equal-Weight,Overweight,down,ROIC
+2018-07-31,Wells Fargo,Market Perform,Market Perform,main,ROIC
+2019-07-10,KeyBanc,Overweight,Sector Weight,up,ROIC
+2019-10-23,Capital One Financial,Overweight,Equal-Weight,up,ROIC
+2020-01-07,Raymond James,Outperform,Strong Buy,down,ROIC
+2020-03-25,BTIG,Buy,,main,ROIC
+2020-04-03,KeyBanc,Overweight,,main,ROIC
+2020-04-07,Citigroup,Neutral,,main,ROIC
+2020-04-27,Capital One,Equal-Weight,Overweight,down,ROIC
+2020-06-15,KeyBanc,Overweight,,main,ROIC
+2020-08-28,JP Morgan,Neutral,Underweight,up,ROIC
+2020-12-10,Wells Fargo,Underweight,Equal-Weight,down,ROIC
+2020-12-14,KeyBanc,Sector Weight,Overweight,down,ROIC
+2021-01-19,B of A Securities,Buy,Underperform,up,ROIC
+2021-03-17,Wells Fargo,Underweight,,main,ROIC
+2021-08-26,Wells Fargo,Underweight,,main,ROIC

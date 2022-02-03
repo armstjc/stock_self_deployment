@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-10,Wunderlich,Buy,,init,PTSI
+2013-09-24,Wunderlich,Buy,,main,PTSI
+2014-04-24,Wunderlich,Buy,,main,PTSI
+2014-10-29,Wunderlich,Buy,,main,PTSI
+2016-03-23,Stifel Nicolaus,Buy,,init,PTSI
+2016-03-23,Stifel Nicolaus,Buy,,init,PTSI
+2017-01-05,Stifel Nicolaus,Hold,Buy,down,PTSI
+2017-11-06,Stifel Nicolaus,Hold,,main,PTSI
+2021-11-29,Stephens & Co.,Equal-Weight,,init,PTSI

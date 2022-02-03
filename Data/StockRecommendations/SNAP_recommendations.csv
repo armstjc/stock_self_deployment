@@ -1,0 +1,272 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-03-03,Susquehanna,Neutral,,init,SNAP
+2017-03-06,Needham,Underperform,,init,SNAP
+2017-03-09,FBN Securities,Sector Perform,,init,SNAP
+2017-03-15,Cantor Fitzgerald,Underweight,,init,SNAP
+2017-03-16,Moffett Nathanson,Sell,,init,SNAP
+2017-03-17,Mizuho,Neutral,,init,SNAP
+2017-03-20,Monness Crespi Hardt,Buy,,init,SNAP
+2017-03-21,Drexel Hamilton,Buy,,init,SNAP
+2017-03-27,Summit Redstone Partners,Sell,,init,SNAP
+2017-03-27,William Blair,Outperform,,init,SNAP
+2017-03-27,JMP Securities,Market Outperform,,init,SNAP
+2017-03-27,Stifel Nicolaus,Hold,,init,SNAP
+2017-03-27,Bank of America,Neutral,,init,SNAP
+2017-03-27,Credit Suisse,Outperform,,init,SNAP
+2017-03-27,Morgan Stanley,Overweight,,init,SNAP
+2017-03-27,RBC Capital,Outperform,,init,SNAP
+2017-03-27,Jefferies,Buy,,init,SNAP
+2017-03-27,Cowen & Co.,Outperform,,init,SNAP
+2017-03-27,Goldman Sachs,Buy,,init,SNAP
+2017-03-27,Citigroup,Buy,,init,SNAP
+2017-03-28,Loop Capital,Hold,,init,SNAP
+2017-03-28,Barclays,Equal-Weight,,init,SNAP
+2017-03-31,Wells Fargo,Market Perform,,init,SNAP
+2017-04-03,Argus,Hold,,init,SNAP
+2017-04-04,BTIG Research,Neutral,,init,SNAP
+2017-04-26,Raymond James,Market Perform,,init,SNAP
+2017-04-28,Canaccord Genuity,Hold,,init,SNAP
+2017-05-05,Cleveland Research,Buy,,init,SNAP
+2017-05-11,Citigroup,Buy,,main,SNAP
+2017-05-11,Cantor Fitzgerald,Neutral,Underweight,up,SNAP
+2017-05-11,Oppenheimer,Outperform,Perform,up,SNAP
+2017-05-11,JP Morgan,Neutral,,main,SNAP
+2017-06-09,Citigroup,Neutral,Buy,down,SNAP
+2017-07-11,Morgan Stanley,Equal-Weight,Overweight,down,SNAP
+2017-07-13,Stifel Nicolaus,Buy,Hold,up,SNAP
+2017-07-14,Cowen & Co.,Market Perform,Outperform,down,SNAP
+2017-07-31,OTR Global,Mixed,Positive,down,SNAP
+2017-08-11,Barclays,Equal-Weight,,main,SNAP
+2017-08-11,Canaccord Genuity,Hold,,main,SNAP
+2017-08-11,Citigroup,Neutral,,main,SNAP
+2017-08-15,Cantor Fitzgerald,Overweight,Neutral,up,SNAP
+2017-08-16,SunTrust Robinson Humphrey,Sell,,init,SNAP
+2017-08-31,Wedbush,Neutral,,init,SNAP
+2017-09-11,Deutsche Bank,Hold,Buy,down,SNAP
+2017-10-11,Credit Suisse,Outperform,,main,SNAP
+2017-11-08,RBC Capital,Sector Perform,Outperform,down,SNAP
+2017-11-08,UBS,Sell,Neutral,down,SNAP
+2017-11-08,Credit Suisse,Outperform,,main,SNAP
+2017-11-08,Stifel Nicolaus,Hold,Buy,down,SNAP
+2017-11-08,JP Morgan,Underweight,Neutral,down,SNAP
+2017-11-08,Bank of America,Neutral,,main,SNAP
+2017-11-08,Canaccord Genuity,Hold,Hold,main,SNAP
+2017-11-08,Oppenheimer,Outperform,,main,SNAP
+2017-11-08,Barclays,Equal-Weight,,main,SNAP
+2017-11-09,Morgan Stanley,Underweight,Equal-Weight,down,SNAP
+2017-11-15,JMP Securities,Market Perform,Market Outperform,down,SNAP
+2017-12-05,Barclays,Overweight,Equal-Weight,up,SNAP
+2017-12-06,Evercore ISI Group,Underperform,,init,SNAP
+2018-01-04,Cowen & Co.,Underperform,Market Perform,down,SNAP
+2018-01-08,Jefferies,Hold,Buy,down,SNAP
+2018-01-12,Raymond James,Underperform,Market Perform,down,SNAP
+2018-02-07,RBC Capital,Outperform,Sector Perform,up,SNAP
+2018-02-07,Stifel Nicolaus,Hold,Hold,main,SNAP
+2018-02-07,Morgan Stanley,Underweight,Underweight,main,SNAP
+2018-02-07,SunTrust Robinson Humphrey,Hold,Sell,up,SNAP
+2018-02-07,Susquehanna,Negative,Neutral,down,SNAP
+2018-02-07,Bank of America,Buy,Neutral,up,SNAP
+2018-02-07,JP Morgan,Neutral,Underweight,up,SNAP
+2018-02-20,Citigroup,Sell,Neutral,down,SNAP
+2018-02-21,Citigroup,Sell,Neutral,main,SNAP
+2018-04-19,Morgan Stanley,Underweight,Underweight,main,SNAP
+2018-04-20,Credit Suisse,Outperform,Outperform,main,SNAP
+2018-05-02,Evercore ISI Group,Underperform,In-Line,down,SNAP
+2018-05-02,Morgan Stanley,Underweight,Underweight,main,SNAP
+2018-05-02,Summit Insights Group,Sell,Hold,down,SNAP
+2018-05-02,Oppenheimer,Perform,Outperform,down,SNAP
+2018-05-21,Moffett Nathanson,Neutral,Sell,up,SNAP
+2018-07-11,Nomura,Neutral,,init,SNAP
+2018-07-13,Cowen & Co.,Underperform,Underperform,main,SNAP
+2018-08-08,Credit Suisse,Outperform,Outperform,main,SNAP
+2018-08-08,Stifel Nicolaus,Hold,Hold,main,SNAP
+2018-09-11,Wedbush,Outperform,Neutral,up,SNAP
+2018-09-12,BTIG Research,Sell,Neutral,down,SNAP
+2018-09-13,Pivotal Research,Hold,Sell,up,SNAP
+2018-10-04,Citigroup,Sell,Sell,main,SNAP
+2018-10-12,Pivotal Research,Buy,Hold,up,SNAP
+2018-10-26,JP Morgan,Underweight,Neutral,down,SNAP
+2018-10-26,Jefferies,Hold,Hold,main,SNAP
+2018-10-26,Canaccord Genuity,Hold,Hold,main,SNAP
+2018-12-06,Guggenheim,Neutral,,init,SNAP
+2019-01-04,Goldman Sachs,Neutral,Buy,down,SNAP
+2019-01-07,Pivotal Research,Hold,Buy,down,SNAP
+2019-01-10,Cowen & Co.,Market Perform,Underperform,up,SNAP
+2019-01-14,Citigroup,Neutral,Sell,up,SNAP
+2019-01-16,RBC Capital,Sector Perform,Outperform,down,SNAP
+2019-01-28,Credit Suisse,Outperform,Outperform,main,SNAP
+2019-02-06,Raymond James,Market Perform,Underperform,up,SNAP
+2019-03-14,BTIG Research,Buy,Neutral,up,SNAP
+2019-04-05,Summit Insights Group,Hold,Sell,up,SNAP
+2019-04-05,Bank of America,Neutral,Neutral,main,SNAP
+2019-04-08,RBC Capital,Outperform,Sector Perform,up,SNAP
+2019-04-16,Morgan Stanley,Underweight,Underweight,main,SNAP
+2019-04-18,Wedbush,Neutral,Outperform,down,SNAP
+2019-04-18,Vertical Group,Negative,Mixed,down,SNAP
+2019-04-24,JP Morgan,Neutral,Underweight,up,SNAP
+2019-04-24,Canaccord Genuity,Hold,Hold,main,SNAP
+2019-04-24,Evercore ISI Group,In-Line,Underperform,up,SNAP
+2019-04-24,UBS,Sell,Sell,main,SNAP
+2019-04-24,Morgan Stanley,Underweight,Underweight,main,SNAP
+2019-04-24,Barclays,Overweight,Overweight,main,SNAP
+2019-04-24,Stifel Nicolaus,Hold,Hold,main,SNAP
+2019-04-24,Nomura,Neutral,Neutral,main,SNAP
+2019-05-29,China Renaissance,Hold,,init,SNAP
+2019-05-29,Pivotal Research,Hold,,init,SNAP
+2019-06-17,Aegis Capital,Buy,Hold,up,SNAP
+2019-06-18,BTIG,Buy,,main,SNAP
+2019-07-11,Bank of America,Neutral,,reit,SNAP
+2019-07-12,Goldman Sachs,Buy,Neutral,up,SNAP
+2019-07-15,Morgan Stanley,Underweight,,main,SNAP
+2019-07-23,Rosenblatt,Buy,,init,SNAP
+2019-07-23,Stifel Nicolaus,Buy,Hold,up,SNAP
+2019-07-24,JP Morgan,Neutral,,main,SNAP
+2019-07-24,Rosenblatt,Buy,,main,SNAP
+2019-07-24,SunTrust Robinson Humphrey,Hold,,main,SNAP
+2019-07-24,Deutsche Bank,Hold,,main,SNAP
+2019-07-24,Stifel,Buy,,main,SNAP
+2019-07-24,Morgan Stanley,Underweight,,main,SNAP
+2019-07-24,Canaccord Genuity,Hold,,main,SNAP
+2019-07-24,Credit Suisse,Outperform,,main,SNAP
+2019-07-24,Nomura,Neutral,,main,SNAP
+2019-07-24,Summit Insights Group,Buy,Hold,up,SNAP
+2019-07-24,UBS,Neutral,Sell,up,SNAP
+2019-07-24,Wedbush,Neutral,,main,SNAP
+2019-09-03,Evercore ISI Group,Outperform,In-Line,up,SNAP
+2019-09-17,Susquehanna,Neutral,Negative,up,SNAP
+2019-09-24,Guggenheim,Buy,Neutral,up,SNAP
+2019-10-01,MoffettNathanson,Neutral,,main,SNAP
+2019-10-04,Morgan Stanley,Equal-Weight,Underweight,up,SNAP
+2019-10-15,Arete,Buy,Neutral,up,SNAP
+2019-10-18,MKM Partners,Neutral,,init,SNAP
+2019-10-18,Bank of America,Buy,Neutral,up,SNAP
+2019-10-21,Credit Suisse,Outperform,,main,SNAP
+2019-10-21,LightShed Partners,Buy,,init,SNAP
+2019-10-23,Nomura,Neutral,,main,SNAP
+2019-10-23,Credit Suisse,Outperform,,main,SNAP
+2019-10-23,Wedbush,Neutral,,main,SNAP
+2019-10-23,Needham,Hold,Underperform,up,SNAP
+2019-10-23,Barclays,Overweight,,main,SNAP
+2019-10-23,JP Morgan,Overweight,Neutral,up,SNAP
+2019-11-25,Loop Capital,Buy,Hold,up,SNAP
+2019-12-13,JMP Securities,Market Outperform,Market Perform,up,SNAP
+2020-01-09,Cowen & Co.,Outperform,Market Perform,up,SNAP
+2020-01-09,Jefferies,Buy,Hold,up,SNAP
+2020-01-10,Bernstein,Outperform,,init,SNAP
+2020-01-17,UBS,Buy,Neutral,up,SNAP
+2020-01-21,Morgan Stanley,Equal-Weight,,main,SNAP
+2020-01-23,B of A Securities,Buy,,reit,SNAP
+2020-01-29,Stifel Nicolaus,Buy,,main,SNAP
+2020-02-03,Credit Suisse,Outperform,,main,SNAP
+2020-02-05,MKM Partners,Neutral,,reit,SNAP
+2020-02-05,Atlantic Equities,Neutral,Underweight,up,SNAP
+2020-02-05,Rosenblatt,Buy,,reit,SNAP
+2020-03-05,MKM Partners,Buy,Neutral,up,SNAP
+2020-03-12,Argus Research,Buy,Hold,up,SNAP
+2020-03-12,Deutsche Bank,Buy,Hold,up,SNAP
+2020-03-18,JP Morgan,Overweight,,main,SNAP
+2020-03-20,Wells Fargo,Overweight,Equal-Weight,up,SNAP
+2020-03-30,Morgan Stanley,Equal-Weight,,main,SNAP
+2020-03-30,UBS,Buy,,main,SNAP
+2020-03-31,SunTrust Robinson Humphrey,Hold,,main,SNAP
+2020-04-03,Goldman Sachs,Buy,,main,SNAP
+2020-04-16,MKM Partners,Buy,,main,SNAP
+2020-04-20,Credit Suisse,Outperform,,main,SNAP
+2020-04-20,B of A Securities,Buy,,reit,SNAP
+2020-04-22,JMP Securities,Market Outperform,,main,SNAP
+2020-04-22,JP Morgan,Overweight,,reit,SNAP
+2020-04-22,SunTrust Robinson Humphrey,Hold,,main,SNAP
+2020-04-22,Wedbush,Neutral,,main,SNAP
+2020-04-22,UBS,Buy,,main,SNAP
+2020-04-22,Jefferies,Buy,,main,SNAP
+2020-04-22,MKM Partners,Buy,,main,SNAP
+2020-04-22,Credit Suisse,Outperform,,main,SNAP
+2020-04-22,RBC Capital,Outperform,,reit,SNAP
+2020-04-22,Oppenheimer,Outperform,Perform,up,SNAP
+2020-04-22,Barclays,Overweight,,main,SNAP
+2020-04-23,Morgan Stanley,Equal-Weight,,main,SNAP
+2020-04-23,Rosenblatt,Buy,,reit,SNAP
+2020-05-06,Citigroup,Sell,Neutral,down,SNAP
+2020-06-01,Deutsche Bank,Buy,,main,SNAP
+2020-06-12,JP Morgan,Overweight,,main,SNAP
+2020-06-26,Wells Fargo,Overweight,,main,SNAP
+2020-07-09,Morgan Stanley,Equal-Weight,,main,SNAP
+2020-07-20,SunTrust Robinson Humphrey,Hold,,main,SNAP
+2020-07-21,Deutsche Bank,Buy,,main,SNAP
+2020-07-22,Credit Suisse,Outperform,,main,SNAP
+2020-07-22,Barclays,Overweight,,main,SNAP
+2020-07-22,Guggenheim,Neutral,Buy,down,SNAP
+2020-08-24,Citigroup,Sell,,main,SNAP
+2020-09-15,KeyBanc,Overweight,,init,SNAP
+2020-09-28,Guggenheim,Buy,Neutral,up,SNAP
+2020-10-12,Deutsche Bank,Buy,,main,SNAP
+2020-10-14,Stifel,Buy,,main,SNAP
+2020-10-16,Credit Suisse,Outperform,,main,SNAP
+2020-10-19,KeyBanc,Overweight,,main,SNAP
+2020-10-20,Jefferies,Buy,,main,SNAP
+2020-10-21,Canaccord Genuity,Hold,,main,SNAP
+2020-10-21,KeyBanc,Overweight,,main,SNAP
+2020-10-21,Truist Securities,Buy,Hold,up,SNAP
+2020-10-21,Pivotal Research,Buy,,main,SNAP
+2020-10-21,Morgan Stanley,Equal-Weight,,main,SNAP
+2020-10-21,Credit Suisse,Outperform,,main,SNAP
+2020-10-21,Rosenblatt,Buy,,main,SNAP
+2020-11-12,Deutsche Bank,Buy,,main,SNAP
+2020-12-16,B of A Securities,Buy,,main,SNAP
+2020-12-29,Goldman Sachs,Buy,,main,SNAP
+2021-01-05,Morgan Stanley,Equal-Weight,,main,SNAP
+2021-01-15,MoffettNathanson,Buy,Neutral,up,SNAP
+2021-01-19,KeyBanc,Overweight,,main,SNAP
+2021-01-21,Piper Sandler,Overweight,,init,SNAP
+2021-01-28,Wells Fargo,Overweight,,main,SNAP
+2021-02-01,Credit Suisse,Outperform,,main,SNAP
+2021-02-05,KeyBanc,Overweight,,main,SNAP
+2021-02-05,Credit Suisse,Outperform,,main,SNAP
+2021-02-05,Oppenheimer,Outperform,,main,SNAP
+2021-02-05,Stifel,Buy,,main,SNAP
+2021-02-05,Deutsche Bank,Buy,,main,SNAP
+2021-02-05,Truist Securities,Buy,,main,SNAP
+2021-02-05,Canaccord Genuity,Hold,,main,SNAP
+2021-02-05,Cowen & Co.,Outperform,,main,SNAP
+2021-02-05,Rosenblatt,Buy,,main,SNAP
+2021-02-08,Morgan Stanley,Equal-Weight,,main,SNAP
+2021-02-09,Argus Research,Buy,,main,SNAP
+2021-02-22,Morgan Stanley,Overweight,Equal-Weight,up,SNAP
+2021-02-24,Credit Suisse,Outperform,,main,SNAP
+2021-02-24,KeyBanc,Overweight,,main,SNAP
+2021-02-24,Rosenblatt,Buy,,main,SNAP
+2021-02-24,Morgan Stanley,Overweight,,main,SNAP
+2021-02-24,Piper Sandler,Overweight,,main,SNAP
+2021-02-24,Canaccord Genuity,Hold,,main,SNAP
+2021-02-24,UBS,Buy,,main,SNAP
+2021-02-24,Truist Securities,Buy,,main,SNAP
+2021-02-24,Jefferies,Buy,,main,SNAP
+2021-03-22,B of A Securities,Neutral,Buy,down,SNAP
+2021-03-30,Morgan Stanley,Overweight,,main,SNAP
+2021-04-01,Wolfe Research,Outperform,,init,SNAP
+2021-04-06,Atlantic Equities,Overweight,Neutral,up,SNAP
+2021-04-14,Wedbush,Outperform,Neutral,up,SNAP
+2021-04-15,Cowen & Co.,Outperform,,main,SNAP
+2021-04-23,Morgan Stanley,Overweight,,main,SNAP
+2021-04-23,Keybanc,Overweight,,main,SNAP
+2021-07-20,Credit Suisse,Outperform,,main,SNAP
+2021-07-23,Keybanc,Overweight,,main,SNAP
+2021-07-23,Credit Suisse,Outperform,,main,SNAP
+2021-07-23,JMP Securities,Market Outperform,,main,SNAP
+2021-07-23,Canaccord Genuity,Hold,,main,SNAP
+2021-07-23,Barclays,Overweight,,main,SNAP
+2021-07-23,Morgan Stanley,Overweight,,main,SNAP
+2021-08-23,Arete Research,Buy,Neutral,up,SNAP
+2021-09-13,Goldman Sachs,Buy,,init,SNAP
+2021-10-01,RBC Capital,Outperform,,init,SNAP
+2021-10-18,Credit Suisse,Outperform,,main,SNAP
+2021-10-18,Keybanc,Overweight,,main,SNAP
+2021-10-22,Keybanc,Overweight,,main,SNAP
+2021-10-22,JMP Securities,Market Outperform,,main,SNAP
+2021-10-22,RBC Capital,Outperform,,main,SNAP
+2021-10-22,Oppenheimer,Outperform,,main,SNAP
+2021-10-22,Credit Suisse,Outperform,,main,SNAP
+2021-10-25,Rosenblatt,Buy,,main,SNAP
+2021-11-24,Morgan Stanley,Overweight,,main,SNAP
+2021-12-10,Piper Sandler,Overweight,,main,SNAP
+2021-12-15,JP Morgan,Overweight,,main,SNAP

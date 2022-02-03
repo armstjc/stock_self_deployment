@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Gabelli & Co.,Hold,,down,OMI
+2012-10-22,UBS,Sell,Neutral,down,OMI
+2013-07-31,Baird,Neutral,Underperform,up,OMI
+2013-12-05,UBS,Sell,,main,OMI
+2014-06-16,Wells Fargo,Market Perform,,init,OMI
+2014-07-02,Jefferies,Hold,,init,OMI
+2014-07-30,Credit Suisse,Underperform,,main,OMI
+2015-06-10,RBC Capital,Sector Perform,,init,OMI
+2016-03-15,Credit Suisse,Underperform,,init,OMI
+2016-04-21,Baird,Underperform,Neutral,down,OMI
+2016-10-06,UBS,Sell,,init,OMI
+2016-11-07,Bank of America,Underperform,Neutral,down,OMI
+2017-09-01,Baird,Neutral,Underperform,up,OMI
+2017-11-02,Leerink Swann,Market Perform,,main,OMI
+2017-11-20,Credit Suisse,Underperform,,main,OMI
+2017-12-19,JP Morgan,Underweight,Neutral,down,OMI
+2018-02-15,JP Morgan,Underweight,Underweight,main,OMI
+2018-03-08,Barclays,Underweight,,init,OMI
+2018-11-01,Barclays,Underweight,Underweight,main,OMI
+2019-01-03,Bank of America,Neutral,Neutral,reit,OMI
+2019-01-17,UBS,Neutral,,init,OMI
+2020-01-21,Baird,Outperform,Neutral,up,OMI
+2020-03-30,CFRA,Buy,Hold,up,OMI
+2020-05-05,Baird,Neutral,Outperform,down,OMI
+2020-05-07,CFRA,Buy,,main,OMI
+2020-06-10,CFRA,Buy,,main,OMI
+2020-07-22,Barclays,Underweight,,main,OMI
+2020-08-07,Credit Suisse,Neutral,,main,OMI
+2020-09-25,Barclays,Equal-Weight,Underweight,up,OMI
+2020-09-25,Credit Suisse,Neutral,,main,OMI
+2020-11-05,UBS,Neutral,,main,OMI
+2021-05-11,Credit Suisse,Neutral,,main,OMI
+2021-05-27,Credit Suisse,Neutral,,main,OMI
+2021-08-04,Credit Suisse,Neutral,,main,OMI

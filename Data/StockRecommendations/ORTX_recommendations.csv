@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-11-26,JP Morgan,Overweight,,init,ORTX
+2018-11-26,Wedbush,Outperform,,init,ORTX
+2018-11-26,Cowen & Co.,Outperform,,init,ORTX
+2018-11-26,Goldman Sachs,Neutral,,init,ORTX
+2018-12-17,Goldman Sachs,Buy,Neutral,up,ORTX
+2019-08-30,Oppenheimer,Outperform,,init,ORTX
+2019-09-05,Barclays,Overweight,,init,ORTX
+2019-09-17,Guggenheim,Buy,,init,ORTX
+2020-04-01,Oppenheimer,Outperform,,main,ORTX
+2021-01-07,Cantor Fitzgerald,Overweight,,init,ORTX
+2021-08-18,JP Morgan,Neutral,Overweight,down,ORTX
+2021-11-05,Oppenheimer,Outperform,,main,ORTX
+2021-11-16,JP Morgan,Underweight,Neutral,down,ORTX

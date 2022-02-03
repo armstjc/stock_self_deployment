@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-21,Compass Point,Buy,,init,TWOU
+2014-04-22,Credit Suisse,Outperform,,init,TWOU
+2014-04-22,Goldman Sachs,Buy,,init,TWOU
+2014-04-22,Needham,Buy,,init,TWOU
+2014-04-22,Pacific Crest,Outperform,,init,TWOU
+2014-04-22,Oppenheimer,Outperform,,init,TWOU
+2014-07-25,Barrington Research,Outperform,,init,TWOU
+2014-08-11,Goldman Sachs,Neutral,Buy,down,TWOU
+2014-10-10,Pacific Crest,Outperform,,init,TWOU
+2014-11-05,Compass Point,Buy,,main,TWOU
+2014-11-05,Barrington Research,Outperform,,main,TWOU
+2015-02-27,Pacific Crest,Outperform,,main,TWOU
+2015-04-01,Oppenheimer,Outperform,,main,TWOU
+2015-05-08,Pacific Crest,Overweight,,main,TWOU
+2015-06-26,BMO Capital,Outperform,,main,TWOU
+2015-07-15,Pacific Crest,Overweight,,main,TWOU
+2015-07-15,Baird,Outperform,,init,TWOU
+2015-08-13,Oppenheimer,Overweight,,main,TWOU
+2015-10-27,Oppenheimer,Outperform,,main,TWOU
+2016-02-26,Oppenheimer,Outperform,,main,TWOU
+2016-07-15,Needham,Buy,,init,TWOU
+2016-08-05,Oppenheimer,Outperform,,main,TWOU
+2017-07-18,Citigroup,Buy,,init,TWOU
+2017-08-08,Credit Suisse,Outperform,,main,TWOU
+2017-08-08,Baird,Outperform,,main,TWOU
+2017-11-08,BMO Capital,Outperform,,main,TWOU
+2017-11-08,Credit Suisse,Outperform,,main,TWOU
+2017-11-08,Oppenheimer,Outperform,,main,TWOU
+2017-11-20,Citigroup,Buy,,main,TWOU
+2017-12-07,Macquarie,Outperform,,init,TWOU
+2018-01-30,KeyBanc,Overweight,Overweight,main,TWOU
+2018-02-27,Credit Suisse,Outperform,Outperform,main,TWOU
+2018-02-27,KeyBanc,Overweight,Overweight,main,TWOU
+2018-02-27,BMO Capital,Outperform,Outperform,main,TWOU
+2018-03-12,KeyBanc,Overweight,Overweight,main,TWOU
+2018-03-26,Credit Suisse,Outperform,Outperform,main,TWOU
+2018-03-27,Goldman Sachs,Neutral,,init,TWOU
+2018-06-04,BMO Capital,Outperform,Outperform,main,TWOU
+2018-08-29,DA Davidson,Buy,,init,TWOU
+2018-09-06,PiperJaffray,Neutral,,init,TWOU
+2018-10-24,Needham,Buy,,init,TWOU
+2018-11-06,KeyBanc,Overweight,Overweight,main,TWOU
+2018-11-06,BMO Capital,Outperform,Outperform,main,TWOU
+2018-11-06,Credit Suisse,Outperform,Outperform,main,TWOU
+2019-01-08,KeyBanc,Overweight,Overweight,main,TWOU
+2019-02-26,KeyBanc,Overweight,Overweight,main,TWOU
+2019-02-26,Credit Suisse,Outperform,Outperform,main,TWOU
+2019-02-26,BMO Capital,Outperform,Outperform,main,TWOU
+2019-03-06,Berenberg,Buy,,init,TWOU
+2019-05-08,Credit Suisse,Neutral,Outperform,down,TWOU
+2019-05-08,BMO Capital,Outperform,,main,TWOU
+2019-07-17,KeyBanc,Overweight,,init,TWOU
+2019-07-31,Baird,Neutral,Outperform,down,TWOU
+2019-07-31,Macquarie,Neutral,Outperform,down,TWOU
+2019-07-31,Oppenheimer,Perform,Outperform,down,TWOU
+2019-07-31,Needham,Hold,Buy,down,TWOU
+2019-08-01,Berenberg,Hold,Buy,down,TWOU
+2019-09-25,KeyBanc,Overweight,,main,TWOU
+2019-10-17,DA Davidson,Neutral,,main,TWOU
+2019-11-13,Credit Suisse,Neutral,,main,TWOU
+2019-11-13,BMO Capital,Market Perform,,main,TWOU
+2019-11-13,DA Davidson,Neutral,,main,TWOU
+2020-02-07,William Blair,Outperform,Market Perform,up,TWOU
+2020-02-07,KeyBanc,Sector Weight,Overweight,down,TWOU
+2020-03-11,Baird,Neutral,,main,TWOU
+2020-03-16,BMO Capital,Outperform,Market Perform,up,TWOU
+2020-03-25,Needham,Buy,Hold,up,TWOU
+2020-05-01,Credit Suisse,Neutral,,main,TWOU
+2020-05-01,Needham,Buy,,main,TWOU
+2020-05-04,Baird,Outperform,Neutral,up,TWOU
+2020-05-18,BMO Capital,Outperform,,main,TWOU
+2020-05-21,Needham,Buy,,main,TWOU
+2020-05-22,Piper Sandler,Overweight,,init,TWOU
+2020-06-30,KeyBanc,Sector Weight,,init,TWOU
+2020-06-30,Citigroup,Buy,,main,TWOU
+2020-07-16,Jefferies,Buy,,init,TWOU
+2020-07-31,Needham,Buy,,main,TWOU
+2020-07-31,Credit Suisse,Outperform,Neutral,up,TWOU
+2020-10-28,Piper Sandler,Overweight,,main,TWOU
+2020-11-24,Morgan Stanley,Equal-Weight,,init,TWOU
+2021-01-26,Morgan Stanley,Equal-Weight,,main,TWOU
+2021-02-12,Piper Sandler,Overweight,,main,TWOU
+2021-02-12,Needham,Buy,,main,TWOU
+2021-02-12,Morgan Stanley,Equal-Weight,,main,TWOU
+2021-04-29,Morgan Stanley,Equal-Weight,,main,TWOU
+2021-07-12,Macquarie,Outperform,Neutral,up,TWOU
+2021-07-30,Morgan Stanley,Equal-Weight,,main,TWOU
+2021-11-10,Piper Sandler,Overweight,,main,TWOU
+2021-11-10,Needham,Buy,,main,TWOU
+2021-12-09,Morgan Stanley,Equal-Weight,,main,TWOU

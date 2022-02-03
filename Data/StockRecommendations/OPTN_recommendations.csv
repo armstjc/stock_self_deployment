@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-11-07,RBC Capital,Outperform,,init,OPTN
+2017-11-07,BMO Capital,Outperform,,init,OPTN
+2017-11-07,Jefferies,Buy,,init,OPTN
+2018-08-08,Cantor Fitzgerald,Overweight,,init,OPTN
+2018-08-15,BMO Capital,Outperform,Outperform,main,OPTN
+2018-11-14,Cantor Fitzgerald,Overweight,Overweight,main,OPTN
+2019-08-13,BMO Capital,Outperform,,main,OPTN
+2019-12-18,Cowen & Co.,Outperform,,init,OPTN
+2020-03-05,Cantor Fitzgerald,Overweight,,reit,OPTN

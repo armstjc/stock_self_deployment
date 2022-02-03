@@ -1,0 +1,126 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-28,Deutsche Bank,Hold,,main,SYF
+2014-07-31,BTIG Research,Buy,,init,SYF
+2014-09-09,Morgan Stanley,Overweight,,init,SYF
+2014-09-09,Barclays,Equal-Weight,,init,SYF
+2014-09-09,Keefe Bruyette & Woods,Outperform,,init,SYF
+2014-09-09,JP Morgan,Overweight,,init,SYF
+2014-09-09,Nomura,Neutral,,init,SYF
+2014-09-09,Deutsche Bank,Hold,,init,SYF
+2014-09-09,Citigroup,Buy,,init,SYF
+2014-09-09,Goldman Sachs,Buy,,init,SYF
+2014-09-12,UBS,Neutral,,init,SYF
+2014-10-20,Nomura,Neutral,,main,SYF
+2014-10-20,Nomura,Neutral,,main,SYF
+2014-12-09,Keefe Bruyette & Woods,Market Perform,,main,SYF
+2014-12-17,Citigroup,Buy,,main,SYF
+2014-12-18,Jefferies,Buy,,init,SYF
+2014-12-22,BTIG Research,Neutral,Buy,down,SYF
+2015-01-07,Evercore ISI Group,Buy,,init,SYF
+2015-01-26,JP Morgan,Overweight,,main,SYF
+2015-01-26,Barclays,Equal-Weight,,main,SYF
+2015-01-26,Keefe Bruyette & Woods,Outperform,,main,SYF
+2015-03-11,Deutsche Bank,Hold,,main,SYF
+2015-03-25,Bank of America,Neutral,Buy,down,SYF
+2015-04-20,BTIG Research,Buy,Neutral,up,SYF
+2015-04-23,Deutsche Bank,Buy,Hold,up,SYF
+2015-05-05,JMP Securities,Market Outperform,,init,SYF
+2015-05-06,Bernstein,Outperform,,main,SYF
+2015-06-30,Guggenheim,Buy,,init,SYF
+2015-07-09,Barclays,Overweight,Equal-Weight,up,SYF
+2015-07-20,Barclays,Overweight,,main,SYF
+2015-07-20,Keefe Bruyette & Woods,Market Perform,,main,SYF
+2015-07-20,JMP Securities,Market Outperform,,main,SYF
+2015-08-26,Buckingham Research,Buy,,init,SYF
+2015-09-16,BMO Capital,Market Perform,Outperform,down,SYF
+2015-10-19,BMO Capital,Market Perform,,main,SYF
+2015-10-20,Nomura,Buy,Neutral,up,SYF
+2015-11-23,Sterne Agee CRT,Buy,Neutral,up,SYF
+2015-11-30,BMO Capital,Outperform,Market Perform,up,SYF
+2016-01-13,DA Davidson,Buy,,init,SYF
+2016-01-13,Goldman Sachs,Buy,,main,SYF
+2016-02-11,Nomura,Buy,,main,SYF
+2016-02-18,Deutsche Bank,Hold,,main,SYF
+2016-04-08,Bank of America,Neutral,Buy,down,SYF
+2016-05-04,Deutsche Bank,Buy,,main,SYF
+2016-05-11,Macquarie,Neutral,,init,SYF
+2016-06-15,Citigroup,Buy,,main,SYF
+2016-06-15,Jefferies,Buy,,main,SYF
+2016-10-11,Wedbush,Outperform,,init,SYF
+2016-11-22,JMP Securities,Market Outperform,,main,SYF
+2016-12-07,Wedbush,Neutral,Outperform,down,SYF
+2016-12-15,Bank of America,Buy,Neutral,up,SYF
+2017-03-29,Wells Fargo,Outperform,,init,SYF
+2017-05-01,Goldman Sachs,Neutral,Buy,down,SYF
+2017-05-03,Guggenheim,Neutral,Buy,down,SYF
+2017-07-25,Morgan Stanley,Overweight,,main,SYF
+2017-09-08,Morgan Stanley,Equal-Weight,Overweight,down,SYF
+2017-10-06,Bank of America,Neutral,Buy,down,SYF
+2017-10-23,Barclays,Overweight,,main,SYF
+2017-10-23,Wells Fargo,Market Perform,,main,SYF
+2017-10-23,Morgan Stanley,Equal-Weight,,main,SYF
+2017-10-23,JMP Securities,Market Outperform,,main,SYF
+2017-12-18,Bank of America,Buy,Neutral,up,SYF
+2018-01-09,Wells Fargo,Outperform,Market Perform,up,SYF
+2018-03-14,Buckingham,Buy,,init,SYF
+2018-03-28,UBS,Sell,,init,SYF
+2018-04-05,Citigroup,Neutral,,init,SYF
+2018-04-17,RBC Capital,Outperform,,init,SYF
+2018-04-23,BMO Capital,Outperform,Outperform,main,SYF
+2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,SYF
+2018-07-27,JP Morgan,Overweight,Overweight,main,SYF
+2018-07-30,BMO Capital,Outperform,Outperform,main,SYF
+2018-07-30,Barclays,Equal-Weight,Overweight,down,SYF
+2018-08-03,UBS,Neutral,Sell,up,SYF
+2018-09-26,Bank of America,Neutral,Buy,down,SYF
+2018-10-22,BMO Capital,Outperform,Outperform,main,SYF
+2018-11-01,Citigroup,Neutral,Neutral,main,SYF
+2018-11-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,SYF
+2019-01-03,Stephens & Co.,Equal-Weight,Underweight,up,SYF
+2019-01-24,Oppenheimer,Outperform,Perform,up,SYF
+2019-01-30,Bank of America,Buy,Neutral,up,SYF
+2019-02-14,Goldman Sachs,Buy,Neutral,up,SYF
+2019-04-22,Morgan Stanley,Equal-Weight,Equal-Weight,main,SYF
+2019-09-11,Nomura,Buy,,main,SYF
+2019-12-05,Nomura,Neutral,Buy,down,SYF
+2020-01-27,Nomura,Neutral,,main,SYF
+2020-01-27,Stephens & Co.,Overweight,Equal-Weight,up,SYF
+2020-04-03,CFRA,Strong Sell,Sell,down,SYF
+2020-04-08,Wells Fargo,Overweight,,main,SYF
+2020-04-14,Nomura,Neutral,,main,SYF
+2020-04-22,JMP Securities,Market Outperform,,main,SYF
+2020-04-22,BMO Capital,Outperform,,main,SYF
+2020-04-22,Morgan Stanley,Equal-Weight,,main,SYF
+2020-06-17,JMP Securities,Market Outperform,,main,SYF
+2020-06-22,UBS,Neutral,,main,SYF
+2020-06-25,Morgan Stanley,Equal-Weight,,main,SYF
+2020-07-08,Citigroup,Neutral,,main,SYF
+2020-07-22,Morgan Stanley,Equal-Weight,,main,SYF
+2020-07-22,Barclays,Equal-Weight,,main,SYF
+2020-09-10,Deutsche Bank,Buy,,init,SYF
+2020-09-16,Morgan Stanley,Equal-Weight,,main,SYF
+2020-10-05,Morgan Stanley,Equal-Weight,,main,SYF
+2020-11-30,Morgan Stanley,Overweight,Equal-Weight,up,SYF
+2020-12-10,Barclays,Overweight,Equal-Weight,up,SYF
+2021-01-19,JP Morgan,Overweight,Neutral,up,SYF
+2021-02-01,Deutsche Bank,Buy,,main,SYF
+2021-02-01,Morgan Stanley,Overweight,,main,SYF
+2021-03-15,Wells Fargo,Overweight,,main,SYF
+2021-04-01,Morgan Stanley,Overweight,,main,SYF
+2021-04-09,Evercore ISI Group,Outperform,,init,SYF
+2021-04-14,Oppenheimer,Perform,Outperform,down,SYF
+2021-04-28,Morgan Stanley,Overweight,,main,SYF
+2021-05-10,Morgan Stanley,Overweight,,main,SYF
+2021-07-02,Credit Suisse,Outperform,,main,SYF
+2021-07-09,Barclays,Overweight,,main,SYF
+2021-07-12,Wells Fargo,Overweight,,main,SYF
+2021-07-19,JMP Securities,Market Outperform,,main,SYF
+2021-07-29,Morgan Stanley,Overweight,,main,SYF
+2021-08-30,Seaport Global,Buy,,init,SYF
+2021-09-10,Credit Suisse,Outperform,,main,SYF
+2021-10-20,JP Morgan,Neutral,Overweight,down,SYF
+2021-10-20,BMO Capital,Outperform,,main,SYF
+2021-10-29,Citigroup,Buy,Neutral,up,SYF
+2021-11-29,Piper Sandler,Neutral,,init,SYF
+2021-12-06,Morgan Stanley,Overweight,,main,SYF
+2022-01-03,Stephens & Co.,Equal-Weight,Overweight,down,SYF

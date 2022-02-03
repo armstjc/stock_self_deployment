@@ -1,0 +1,107 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-01-04,Raymond James,Outperform,,init,TEAM
+2016-01-04,Jefferies,Buy,,init,TEAM
+2016-01-04,Canaccord Genuity,Buy,,init,TEAM
+2016-01-04,Morgan Stanley,Equal-Weight,,init,TEAM
+2016-01-04,Goldman Sachs,Neutral,,init,TEAM
+2016-01-04,William Blair,Outperform,,init,TEAM
+2016-01-04,JMP Securities,Perform,,init,TEAM
+2016-01-29,JMP Securities,Outperform,Market Perform,up,TEAM
+2016-02-05,UBS,Buy,,main,TEAM
+2016-02-10,Baird,Neutral,,init,TEAM
+2016-04-14,BTIG Research,Buy,,init,TEAM
+2016-05-26,Oppenheimer,Outperform,,init,TEAM
+2016-08-05,Oppenheimer,Outperform,,main,TEAM
+2016-08-05,Jefferies,Buy,,main,TEAM
+2016-08-10,BTIG Research,Neutral,Buy,down,TEAM
+2016-08-16,Summit Redstone,Buy,,init,TEAM
+2016-10-05,Cowen & Co.,Outperform,,init,TEAM
+2016-11-15,Pacific Crest,Sector Weight,,init,TEAM
+2016-12-02,Baird,Outperform,Neutral,up,TEAM
+2017-01-05,BMO Capital,Market Perform,,init,TEAM
+2017-04-13,Guggenheim,Neutral,,init,TEAM
+2017-04-20,Raymond James,Market Perform,Outperform,down,TEAM
+2017-07-25,Morgan Stanley,Overweight,Equal-Weight,up,TEAM
+2017-07-28,BMO Capital,Market Perform,,main,TEAM
+2017-10-20,Baird,Outperform,,main,TEAM
+2017-10-20,Morgan Stanley,Overweight,,main,TEAM
+2018-04-18,Jefferies,Hold,Buy,down,TEAM
+2018-04-20,JMP Securities,Market Perform,Outperform,down,TEAM
+2018-05-23,DA Davidson,Buy,,init,TEAM
+2018-05-30,Bank of America,Neutral,,init,TEAM
+2018-07-26,Morgan Stanley,Overweight,Overweight,main,TEAM
+2018-07-27,Morgan Stanley,Overweight,Overweight,main,TEAM
+2018-07-27,Canaccord Genuity,Buy,Buy,main,TEAM
+2018-09-05,DA Davidson,Buy,Buy,main,TEAM
+2018-10-04,Morgan Stanley,Equal-Weight,Overweight,down,TEAM
+2018-10-23,Needham,Hold,,init,TEAM
+2018-10-23,KeyBanc,Overweight,Sector Weight,up,TEAM
+2018-11-13,BTIG Research,Buy,Neutral,up,TEAM
+2019-01-15,Morgan Stanley,Underweight,Equal-Weight,down,TEAM
+2019-02-28,Deutsche Bank,Hold,,init,TEAM
+2019-03-14,Mizuho,Buy,,init,TEAM
+2019-04-02,KeyBanc,Overweight,Overweight,main,TEAM
+2019-04-11,Mizuho,Buy,Buy,main,TEAM
+2019-04-11,Baird,Outperform,Outperform,main,TEAM
+2019-05-09,Goldman Sachs,Buy,Neutral,up,TEAM
+2019-05-23,Morgan Stanley,Equal-Weight,Underweight,up,TEAM
+2019-05-29,BTIG Research,Neutral,Buy,down,TEAM
+2019-06-13,Deutsche Bank,Hold,,main,TEAM
+2019-06-13,KeyBanc,Overweight,,main,TEAM
+2019-07-26,Baird,Outperform,,main,TEAM
+2019-07-26,Canaccord Genuity,Buy,,main,TEAM
+2019-07-26,KeyBanc,Overweight,,main,TEAM
+2019-10-03,SunTrust Robinson Humphrey,Buy,,init,TEAM
+2019-10-28,Bank of America,Buy,Neutral,up,TEAM
+2019-12-20,Cleveland Research,Buy,,init,TEAM
+2020-01-13,Morgan Stanley,Overweight,Equal-Weight,up,TEAM
+2020-01-24,BMO Capital,Market Perform,,main,TEAM
+2020-01-24,Mizuho,Buy,,main,TEAM
+2020-01-24,Cowen & Co.,Outperform,,main,TEAM
+2020-01-24,B of A Securities,Buy,,reit,TEAM
+2020-01-24,KeyBanc,Overweight,,main,TEAM
+2020-01-24,Canaccord Genuity,Buy,,main,TEAM
+2020-01-28,Wells Fargo,Overweight,,init,TEAM
+2020-03-25,Morgan Stanley,Overweight,,main,TEAM
+2020-03-27,Goldman Sachs,Buy,,main,TEAM
+2020-05-01,Morgan Stanley,Overweight,,main,TEAM
+2020-05-01,Oppenheimer,Outperform,,main,TEAM
+2020-05-15,Citigroup,Buy,,init,TEAM
+2020-05-26,Mizuho,Buy,,main,TEAM
+2020-07-01,KeyBanc,Overweight,,main,TEAM
+2020-07-14,Morgan Stanley,Overweight,,main,TEAM
+2020-07-31,Morgan Stanley,Overweight,,main,TEAM
+2020-07-31,KeyBanc,Overweight,,main,TEAM
+2020-09-16,Piper Sandler,Overweight,,init,TEAM
+2020-10-20,KeyBanc,Overweight,,main,TEAM
+2020-10-30,Truist Securities,Hold,Buy,down,TEAM
+2020-10-30,Canaccord Genuity,Buy,,main,TEAM
+2020-11-30,KeyBanc,Overweight,,main,TEAM
+2021-01-19,KeyBanc,Overweight,,main,TEAM
+2021-01-29,KeyBanc,Overweight,,main,TEAM
+2021-01-29,Cowen & Co.,Outperform,,main,TEAM
+2021-01-29,Mizuho,Buy,,main,TEAM
+2021-01-29,Morgan Stanley,Overweight,,main,TEAM
+2021-04-14,DA Davidson,Buy,,main,TEAM
+2021-04-14,Wells Fargo,Overweight,,main,TEAM
+2021-04-30,Canaccord Genuity,Buy,,main,TEAM
+2021-04-30,Morgan Stanley,Overweight,,main,TEAM
+2021-05-18,Jefferies,Hold,,main,TEAM
+2021-06-29,Baird,Outperform,,main,TEAM
+2021-07-16,Mizuho,Buy,,main,TEAM
+2021-07-22,Cowen & Co.,Market Perform,Outperform,down,TEAM
+2021-07-30,Mizuho,Buy,,main,TEAM
+2021-07-30,Wells Fargo,Overweight,,main,TEAM
+2021-07-30,Canaccord Genuity,Buy,,main,TEAM
+2021-07-30,Piper Sandler,Overweight,,main,TEAM
+2021-07-30,Morgan Stanley,Overweight,,main,TEAM
+2021-07-30,Truist Securities,Hold,,main,TEAM
+2021-08-30,Wolfe Research,Outperform,,init,TEAM
+2021-08-31,Wolfe Research,Outperform,,init,TEAM
+2021-10-08,Mizuho,Buy,,main,TEAM
+2021-10-19,Cowen & Co.,Market Perform,,main,TEAM
+2021-10-22,Morgan Stanley,Overweight,,main,TEAM
+2021-10-29,Mizuho,Buy,,main,TEAM
+2021-10-29,Wells Fargo,Overweight,,main,TEAM
+2021-10-29,Oppenheimer,Outperform,,main,TEAM
+2021-12-16,Goldman Sachs,Neutral,,init,TEAM

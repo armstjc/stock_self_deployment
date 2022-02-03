@@ -1,0 +1,6 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-21,Goldman Sachs,Buy,,init,OMIC
+2021-06-21,JP Morgan,Overweight,,init,OMIC
+2021-06-21,Cowen & Co.,Outperform,,init,OMIC
+2021-06-21,B of A Securities,Neutral,,init,OMIC
+2022-01-07,B of A Securities,Buy,Neutral,up,OMIC

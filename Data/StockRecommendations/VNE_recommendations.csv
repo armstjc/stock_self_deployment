@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-07-02,Cowen & Co.,Market Perform,,init,VNE
+2018-07-02,RBC Capital,Sector Perform,,init,VNE
+2018-07-03,UBS,Neutral,,init,VNE
+2018-07-05,Barclays,Overweight,,init,VNE
+2018-07-10,Morgan Stanley,Overweight,,init,VNE
+2018-07-12,Daiwa Capital,Neutral,,init,VNE
+2018-07-16,BMO Capital,Outperform,,init,VNE
+2018-07-16,Jefferies,Hold,,init,VNE
+2018-07-18,Citigroup,Neutral,,init,VNE
+2018-07-18,Mizuho,Buy,,init,VNE
+2018-07-30,Baird,Neutral,Neutral,main,VNE
+2018-08-03,Longbow Research,Neutral,Buy,down,VNE
+2018-09-19,Buckingham,Neutral,,init,VNE
+2018-10-02,UBS,Sell,Neutral,down,VNE
+2018-11-05,BMO Capital,Outperform,Outperform,main,VNE
+2018-11-08,Jefferies,Buy,Hold,up,VNE
+2018-12-06,Morgan Stanley,Equal-Weight,Overweight,down,VNE
+2018-12-11,KeyBanc,Sector Weight,,init,VNE
+2018-12-14,Deutsche Bank,Sell,,init,VNE
+2019-01-04,Baird,Underperform,Neutral,down,VNE
+2019-01-14,Longbow Research,Buy,Neutral,up,VNE
+2019-04-23,Baird,Neutral,Underperform,up,VNE
+2019-04-30,Baird,Neutral,Neutral,main,VNE
+2019-04-30,Mizuho,Buy,Buy,main,VNE
+2019-06-27,Credit Suisse,Neutral,,init,VNE
+2019-10-02,Barclays,Overweight,,main,VNE
+2019-10-16,Guggenheim,Neutral,,init,VNE
+2019-10-24,Deutsche Bank,Sell,,main,VNE
+2019-10-29,Citigroup,Neutral,,main,VNE
+2020-02-06,Barclays,Overweight,,main,VNE
+2020-02-10,Deutsche Bank,Hold,Sell,up,VNE
+2020-03-24,Citigroup,Neutral,,main,VNE
+2020-04-07,Barclays,Equal-Weight,Overweight,down,VNE
+2020-04-28,Citigroup,Neutral,,main,VNE
+2020-07-27,Deutsche Bank,Hold,,main,VNE
+2020-08-04,Citigroup,Neutral,,main,VNE
+2020-10-06,Berenberg,Hold,,init,VNE
+2020-10-28,Credit Suisse,Underperform,Neutral,down,VNE
+2021-01-07,RBC Capital,Underperform,Sector Perform,down,VNE
+2021-03-03,Credit Suisse,Underperform,,main,VNE
+2021-04-16,JP Morgan,Neutral,,init,VNE
+2021-04-20,B of A Securities,Underperform,,init,VNE
+2021-07-23,RBC Capital,Sector Perform,Underperform,up,VNE
+2021-07-26,Mizuho,Neutral,Buy,down,VNE
+2021-07-26,Barclays,Equal-Weight,,main,VNE
+2021-08-02,Evercore ISI Group,In-Line,Underperform,up,VNE
+2021-08-18,Credit Suisse,Neutral,Underperform,up,VNE
+2021-10-11,Barclays,Equal-Weight,,main,VNE

@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-10,Sandler O'Neill,Buy,Hold,up,WASH
+2013-08-20,Guggenheim,Buy,,init,WASH
+2013-10-22,Sandler O'Neill,Hold,Buy,down,WASH
+2014-07-10,Guggenheim,Neutral,Buy,down,WASH
+2015-02-23,Compass Point,Neutral,,init,WASH
+2015-04-23,Keefe Bruyette & Woods,Market Perform,,main,WASH
+2015-07-22,Keefe Bruyette & Woods,Market Perform,,main,WASH
+2015-12-30,Keefe Bruyette & Woods,Outperform,Market Perform,up,WASH
+2016-01-27,Compass Point,Buy,Neutral,up,WASH
+2016-09-20,Compass Point,Neutral,Buy,down,WASH
+2016-10-03,Keefe Bruyette & Woods,Market Perform,Outperform,down,WASH
+2016-10-25,Compass Point,Buy,Neutral,up,WASH
+2016-11-18,Compass Point,Neutral,Buy,down,WASH
+2017-01-26,Compass Point,Buy,Neutral,up,WASH
+2017-12-18,Compass Point,Buy,Neutral,up,WASH
+2019-01-29,Compass Point,Neutral,Buy,down,WASH
+2020-09-28,Piper Sandler,Neutral,,main,WASH
+2021-07-08,Piper Sandler,Overweight,Neutral,up,WASH

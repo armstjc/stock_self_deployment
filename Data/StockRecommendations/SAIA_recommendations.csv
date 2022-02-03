@@ -1,0 +1,98 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-21,Morgan Stanley,Equal-Weight,,init,SAIA
+2012-10-05,Wunderlich,Hold,,init,SAIA
+2012-11-02,Wunderlich,Hold,,main,SAIA
+2013-03-01,Stifel Nicolaus,Hold,Buy,down,SAIA
+2013-03-05,Sidoti & Co.,Neutral,Buy,down,SAIA
+2013-03-13,Cowen & Co.,Buy,,main,SAIA
+2013-04-29,Wunderlich,Hold,,main,SAIA
+2013-04-30,BB&T Capital,Buy,Hold,up,SAIA
+2013-10-31,Wunderlich,Hold,,main,SAIA
+2013-10-31,Raymond James,Outperform,Strong Buy,down,SAIA
+2014-02-19,Wunderlich,Buy,Hold,up,SAIA
+2014-04-28,Wunderlich,Buy,,main,SAIA
+2014-10-29,Cowen & Co.,Market Perform,Outperform,down,SAIA
+2015-01-20,Wolfe Research,Peer Perform,Outperform,down,SAIA
+2015-01-21,BB&T Capital,Hold,Buy,down,SAIA
+2015-03-26,Stifel Nicolaus,Buy,Hold,up,SAIA
+2016-01-06,Stifel Nicolaus,Buy,,main,SAIA
+2016-01-07,Stephens & Co.,Equal-Weight,Overweight,down,SAIA
+2016-03-03,KeyBanc,Sector Weight,,init,SAIA
+2016-08-04,Stifel Nicolaus,Hold,Buy,down,SAIA
+2016-12-16,KeyBanc,Overweight,Sector Weight,up,SAIA
+2017-01-17,Raymond James,Outperform,Strong Buy,down,SAIA
+2017-07-10,Morgan Stanley,Equal-Weight,,main,SAIA
+2017-10-05,Morgan Stanley,Equal-Weight,,main,SAIA
+2018-02-21,Morgan Stanley,Underweight,Equal-Weight,main,SAIA
+2018-03-26,Buckingham,Buy,,init,SAIA
+2018-04-06,Morgan Stanley,Underweight,Underweight,main,SAIA
+2018-05-01,Stifel Nicolaus,Buy,Hold,up,SAIA
+2018-09-04,Deutsche Bank,Hold,,init,SAIA
+2018-10-09,Morgan Stanley,Underweight,Underweight,main,SAIA
+2018-10-12,Buckingham,Buy,Buy,main,SAIA
+2018-11-01,Raymond James,Outperform,Outperform,main,SAIA
+2018-12-13,SunTrust Robinson Humphrey,Buy,,init,SAIA
+2019-01-02,KeyBanc,Overweight,Overweight,main,SAIA
+2019-02-07,Deutsche Bank,Buy,Hold,up,SAIA
+2019-08-01,Stephens & Co.,Overweight,Equal-Weight,up,SAIA
+2019-08-01,Buckingham Research,Buy,,main,SAIA
+2019-08-01,Stifel Nicolaus,Hold,,main,SAIA
+2019-08-01,KeyBanc,Overweight,,main,SAIA
+2019-09-05,KeyBanc,Overweight,,main,SAIA
+2019-10-07,Morgan Stanley,Underweight,,main,SAIA
+2019-11-07,Morgan Stanley,Underweight,,main,SAIA
+2020-01-06,Morgan Stanley,Underweight,,main,SAIA
+2020-02-04,Stephens & Co.,Equal-Weight,Overweight,down,SAIA
+2020-02-04,Deutsche Bank,Buy,,main,SAIA
+2020-02-20,KeyBanc,Overweight,,main,SAIA
+2020-03-04,KeyBanc,Overweight,,main,SAIA
+2020-03-05,Stifel Nicolaus,Buy,,main,SAIA
+2020-03-12,Deutsche Bank,Buy,,main,SAIA
+2020-03-23,Morgan Stanley,Underweight,,main,SAIA
+2020-04-07,KeyBanc,Sector Weight,Overweight,down,SAIA
+2020-04-17,Raymond James,Outperform,,main,SAIA
+2020-04-30,Raymond James,Outperform,,reit,SAIA
+2020-04-30,SunTrust Robinson Humphrey,Buy,,main,SAIA
+2020-06-16,Raymond James,Outperform,,main,SAIA
+2020-06-17,Deutsche Bank,Buy,,main,SAIA
+2020-07-28,B of A Securities,Neutral,,init,SAIA
+2020-07-30,Deutsche Bank,Buy,,main,SAIA
+2020-07-30,Raymond James,Outperform,,main,SAIA
+2020-08-03,Morgan Stanley,Underweight,,main,SAIA
+2020-08-27,Goldman Sachs,Neutral,,init,SAIA
+2020-09-24,Wells Fargo,Equal-Weight,,init,SAIA
+2020-10-05,Morgan Stanley,Underweight,,main,SAIA
+2020-10-15,B of A Securities,Neutral,,main,SAIA
+2020-10-30,Raymond James,Outperform,,main,SAIA
+2020-11-11,Morgan Stanley,Underweight,,main,SAIA
+2020-12-04,Evercore ISI Group,Outperform,,init,SAIA
+2021-01-19,UBS,Neutral,,init,SAIA
+2021-02-09,Raymond James,Outperform,,main,SAIA
+2021-02-09,Truist Securities,Buy,,main,SAIA
+2021-02-09,Wells Fargo,Equal-Weight,,main,SAIA
+2021-02-17,Morgan Stanley,Underweight,,main,SAIA
+2021-03-04,B of A Securities,Underperform,Neutral,down,SAIA
+2021-04-06,Morgan Stanley,Underweight,,main,SAIA
+2021-04-07,Stephens & Co.,Overweight,Equal-Weight,up,SAIA
+2021-04-15,Raymond James,Outperform,,main,SAIA
+2021-04-15,Truist Securities,Buy,,main,SAIA
+2021-04-29,Raymond James,Outperform,,main,SAIA
+2021-05-27,Morgan Stanley,Underweight,,main,SAIA
+2021-06-18,Wells Fargo,Overweight,Equal-Weight,up,SAIA
+2021-06-29,Truist Securities,Buy,,main,SAIA
+2021-07-08,Morgan Stanley,Underweight,,main,SAIA
+2021-07-30,Wells Fargo,Overweight,,main,SAIA
+2021-08-02,B of A Securities,Neutral,Underperform,up,SAIA
+2021-08-12,Morgan Stanley,Underweight,,main,SAIA
+2021-09-29,Raymond James,Outperform,,main,SAIA
+2021-10-04,Morgan Stanley,Underweight,,main,SAIA
+2021-10-14,Wells Fargo,Overweight,,main,SAIA
+2021-10-19,B of A Securities,Neutral,,main,SAIA
+2021-10-29,Wells Fargo,Overweight,,main,SAIA
+2021-10-29,Raymond James,Outperform,,main,SAIA
+2021-10-29,B of A Securities,Buy,Neutral,up,SAIA
+2021-11-09,Morgan Stanley,Underweight,,main,SAIA
+2021-11-19,Benchmark,Buy,,init,SAIA
+2021-11-29,Deutsche Bank,Hold,Buy,down,SAIA
+2021-12-09,Susquehanna,Positive,,init,SAIA
+2021-12-30,Raymond James,Market Outperform,,main,SAIA

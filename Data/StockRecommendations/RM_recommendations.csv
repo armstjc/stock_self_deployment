@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,Jefferies,Buy,,init,RM
+2012-05-07,Stephens & Co.,Overweight,,init,RM
+2013-01-16,Jefferies,Buy,,main,RM
+2013-02-28,BMO Capital,Outperform,,main,RM
+2013-05-03,Jefferies,Buy,,main,RM
+2013-06-28,Jefferies,Buy,,main,RM
+2013-08-07,Jefferies,Hold,Buy,down,RM
+2013-09-23,FBR Capital,Outperform,Market Perform,up,RM
+2014-01-03,Sidoti & Co.,Buy,,init,RM
+2014-04-30,JMP Securities,Market Outperform,,main,RM
+2014-04-30,Jefferies,Hold,,main,RM
+2014-04-30,BMO Capital,Market Perform,Outperform,down,RM
+2014-09-04,Jefferies,Buy,,init,RM
+2014-09-16,Sidoti & Co.,Neutral,Buy,down,RM
+2014-10-08,Macquarie,Underperform,,init,RM
+2014-10-31,FBR Capital,Market Perform,Outperform,down,RM
+2014-10-31,Jefferies,Hold,Buy,down,RM
+2014-10-31,JMP Securities,Market Perform,Market Outperform,down,RM
+2014-10-31,Keefe Bruyette & Woods,Market Perform,Market Outperform,down,RM
+2014-11-03,Macquarie,Neutral,,main,RM
+2015-01-02,Jefferies,Hold,,main,RM
+2015-03-10,BMO Capital,Outperform,,main,RM
+2015-03-13,Keefe Bruyette & Woods,Market Perform,,main,RM
+2015-03-13,Macquarie,Underperform,Neutral,down,RM
+2015-05-13,Bank of America,Neutral,Buy,down,RM
+2015-06-17,Janney Capital,Buy,,init,RM
+2015-07-28,Keefe Bruyette & Woods,Market Perform,,main,RM
+2015-09-23,Jefferies,Buy,Hold,up,RM
+2015-10-06,Keefe Bruyette & Woods,Market Perform,,main,RM
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,RM
+2016-11-18,BMO Capital,Market Perform,Outperform,down,RM
+2017-06-13,JMP Securities,Market Outperform,Market Perform,up,RM
+2017-07-18,DA Davidson,Neutral,,init,RM
+2017-08-02,BMO Capital,Market Perform,,main,RM
+2017-08-23,Stephens & Co.,Equal-Weight,,init,RM
+2018-08-02,BMO Capital,Market Perform,Market Perform,main,RM
+2019-02-22,BTIG Research,Buy,,init,RM
+2020-05-15,BMO Capital,Outperform,Market Perform,up,RM
+2020-11-12,Janney Capital,Neutral,Buy,down,RM
+2021-06-09,BMO Capital,Market Perform,Outperform,down,RM
+2021-07-19,JMP Securities,Market Outperform,,main,RM
+2021-09-29,JMP Securities,Market Perform,Market Outperform,down,RM

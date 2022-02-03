@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-02-25,Goldman Sachs,Buy,,init,REYN
+2020-02-25,Stifel Nicolaus,Buy,,init,REYN
+2020-02-25,Barclays,Equal-Weight,,init,REYN
+2020-02-25,RBC Capital,Sector Perform,,init,REYN
+2020-02-25,JP Morgan,Overweight,,init,REYN
+2020-02-25,Credit Suisse,Outperform,,init,REYN
+2020-04-29,Stifel,Buy,,main,REYN
+2020-05-15,Citigroup,Buy,,main,REYN
+2021-01-04,RBC Capital,Outperform,Sector Perform,up,REYN
+2021-06-24,UBS,Neutral,,init,REYN
+2021-08-03,Credit Suisse,Outperform,,main,REYN
+2021-08-03,RBC Capital,Outperform,,main,REYN
+2021-10-15,Credit Suisse,Outperform,,main,REYN

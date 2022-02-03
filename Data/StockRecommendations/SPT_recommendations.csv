@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-01-07,Morgan Stanley,Overweight,,init,SPT
+2020-01-07,Goldman Sachs,Buy,,init,SPT
+2020-01-07,Stifel Nicolaus,Buy,,init,SPT
+2020-01-07,KeyBanc,Overweight,,init,SPT
+2020-02-27,KeyBanc,Overweight,,main,SPT
+2020-02-27,Stifel Nicolaus,Buy,,main,SPT
+2020-05-07,Morgan Stanley,Overweight,,main,SPT
+2020-06-02,Baird,Outperform,,init,SPT
+2020-06-04,KeyBanc,Overweight,,main,SPT
+2020-06-09,BTIG,Buy,,init,SPT
+2020-07-30,Stifel,Buy,,main,SPT
+2020-08-06,Morgan Stanley,Overweight,,main,SPT
+2020-08-06,Canaccord Genuity,Buy,,main,SPT
+2020-08-24,Needham,Buy,,init,SPT
+2020-10-01,BTIG,Buy,,reit,SPT
+2020-10-05,Needham,Buy,,main,SPT
+2020-10-08,Barclays,Overweight,,init,SPT
+2020-11-10,KeyBanc,Overweight,,main,SPT
+2020-11-10,Needham,Buy,,main,SPT
+2020-11-10,Canaccord Genuity,Buy,,main,SPT
+2020-11-17,Morgan Stanley,Equal-Weight,Overweight,down,SPT
+2021-02-24,Morgan Stanley,Equal-Weight,,main,SPT
+2021-02-24,Barclays,Overweight,,main,SPT
+2021-02-24,Needham,Buy,,main,SPT
+2021-02-24,Canaccord Genuity,Buy,,main,SPT
+2021-04-27,Piper Sandler,Overweight,,init,SPT
+2021-06-01,Keybanc,Overweight,,init,SPT
+2021-06-18,Baird,Outperform,,main,SPT
+2021-06-24,BTIG,Buy,,main,SPT
+2021-07-16,Needham,Buy,,main,SPT
+2021-07-16,Stifel,Buy,,main,SPT
+2021-07-23,Barclays,Overweight,,main,SPT
+2021-08-04,Piper Sandler,Overweight,,main,SPT
+2021-08-04,Canaccord Genuity,Buy,,main,SPT
+2021-08-04,Needham,Buy,,main,SPT
+2021-09-17,Barclays,Overweight,,main,SPT
+2021-09-20,Keybanc,Overweight,,main,SPT
+2021-09-20,BTIG,Buy,,main,SPT
+2021-09-23,Piper Sandler,Overweight,,main,SPT
+2021-09-23,Needham,Buy,,main,SPT
+2021-12-03,Keybanc,Overweight,,main,SPT
+2021-12-16,Morgan Stanley,Equal-Weight,,main,SPT

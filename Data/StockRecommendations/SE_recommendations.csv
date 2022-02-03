@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-23,Scotiabank,Sector Perform,,down,SE
+2012-06-28,UBS,Buy,Neutral,up,SE
+2012-07-17,Barclays,Overweight,,main,SE
+2012-08-03,Deutsche Bank,Hold,Buy,down,SE
+2012-08-31,Barclays,Equal-Weight,Overweight,down,SE
+2012-11-05,BMO Capital,Market Perform,,main,SE
+2012-11-21,Bank of America,Buy,,main,SE
+2012-12-05,Tudor Pickering,Buy,,init,SE
+2013-01-17,BMO Capital,Market Perform,,main,SE
+2013-01-25,Citigroup,Neutral,,main,SE
+2013-02-21,UBS,Neutral,Buy,down,SE
+2013-04-08,BMO Capital,Market Perform,,main,SE
+2013-04-15,Deutsche Bank,Hold,,main,SE
+2013-04-18,Atlantic Equities,Overweight,Neutral,up,SE
+2013-05-30,Tudor Pickering,,,init,SE
+2013-06-12,Morgan Stanley,Overweight,Equal-Weight,up,SE
+2013-06-12,Deutsche Bank,Buy,Hold,up,SE
+2013-06-12,Tudor Pickering,Buy,Accumulate,up,SE
+2013-09-04,Jefferies,Hold,,init,SE
+2013-10-08,Deutsche Bank,Buy,,main,SE
+2013-12-03,Tudor Pickering,Hold,Buy,down,SE
+2013-12-10,CIBC,Sector Perform,,init,SE
+2014-01-08,Morgan Stanley,Equal-Weight,Overweight,down,SE
+2014-04-17,Jefferies,Hold,,main,SE
+2014-04-17,Citigroup,Neutral,,main,SE
+2014-05-08,CIBC,Sector Perform,,main,SE
+2014-06-16,Argus,Buy,,main,SE
+2014-06-20,UBS,Neutral,,init,SE
+2014-08-08,Scotiabank,Sector Perform,,main,SE
+2014-09-02,Barclays,Equal-Weight,,main,SE
+2014-11-03,Bank of America,Neutral,Buy,down,SE
+2015-01-09,Jefferies,Hold,,main,SE
+2015-01-14,Tudor Pickering,Trim,Accumulate,down,SE
+2015-01-26,Barclays,Equal-Weight,,main,SE
+2015-01-26,JP Morgan,Neutral,,main,SE
+2015-01-26,Jefferies,Hold,,main,SE
+2015-01-26,Citigroup,Neutral,,main,SE
+2015-02-02,Jefferies,Hold,,main,SE
+2015-02-06,Barclays,Equal-Weight,,main,SE
+2015-02-09,UBS,Neutral,,main,SE
+2015-05-14,Janney Capital,Buy,,init,SE
+2015-06-08,PiperJaffray,Overweight,,main,SE
+2015-08-24,Barclays,Equal-Weight,,main,SE
+2015-08-26,UBS,Buy,Neutral,up,SE
+2015-09-11,Goldman Sachs,Buy,Neutral,up,SE
+2015-12-18,Wells Fargo,Market Perform,,init,SE
+2016-01-04,Raymond James,Strong Buy,Outperform,up,SE
+2016-02-08,Deutsche Bank,Hold,,init,SE
+2016-04-19,BMO Capital,Market Perform,,init,SE
+2016-05-11,Bernstein,Market Perform,,init,SE
+2016-06-08,Jefferies,Hold,,main,SE
+2016-06-27,RBC Capital,Outperform,,init,SE
+2016-07-25,Jefferies,Hold,,main,SE
+2016-09-07,Raymond James,Outperform,Strong Buy,down,SE
+2016-09-07,CIBC,Outperformer,Sector Performer,up,SE
+2016-09-08,Goldman Sachs,Neutral,Buy,down,SE
+2016-09-12,UBS,Neutral,Buy,down,SE
+2016-09-26,Argus,Hold,Buy,down,SE
+2016-10-10,Deutsche Bank,Hold,,main,SE
+2017-11-14,Goldman Sachs,Buy,,init,SE
+2017-11-14,Stifel Nicolaus,Buy,,init,SE
+2017-11-14,Cowen & Co.,Outperform,,init,SE
+2017-11-16,Citigroup,Buy,,init,SE
+2017-12-01,Morgan Stanley,Overweight,Equal-Weight,up,SE
+2019-06-13,JP Morgan,Overweight,,init,SE
+2019-08-06,CLSA,Outperform,Buy,down,SE
+2019-08-08,Piper Jaffray,Overweight,,main,SE
+2019-08-21,Stifel Nicolaus,Buy,,main,SE
+2019-08-28,CLSA,Buy,Outperform,up,SE
+2019-11-07,Stifel Nicolaus,Buy,,main,SE
+2020-01-22,Goldman Sachs,Buy,,main,SE
+2020-03-04,Stifel Nicolaus,Buy,,main,SE
+2020-05-15,Stifel,Hold,Buy,down,SE
+2020-07-01,Stephens & Co.,Overweight,,init,SE
+2020-07-08,B of A Securities,Buy,,reit,SE
+2020-08-20,DBS Bank,Buy,Sell,up,SE
+2020-10-06,UBS,Buy,,init,SE
+2020-11-11,B of A Securities,Neutral,Buy,down,SE
+2020-11-18,B of A Securities,Neutral,,reit,SE
+2021-02-23,Cowen & Co.,Outperform,,main,SE
+2021-03-03,Stifel,Hold,,main,SE
+2021-03-08,Macquarie,Outperform,Neutral,up,SE
+2021-03-29,CLSA,Buy,Outperform,up,SE
+2021-04-20,Autonomous Research,Outperform,,init,SE
+2021-06-10,B of A Securities,Buy,Neutral,up,SE
+2021-06-16,Bernstein,Outperform,,init,SE
+2021-06-25,New Street Research,Buy,,init,SE
+2021-07-22,Morgan Stanley,Overweight,,main,SE
+2021-08-16,Cowen & Co.,Outperform,,main,SE
+2021-09-15,Stifel,Buy,Hold,up,SE
+2021-09-29,DZ Bank,Buy,,init,SE
+2021-11-03,Barclays,Overweight,,init,SE
+2021-11-17,B of A Securities,Neutral,Buy,down,SE
+2021-11-17,UBS,Buy,,main,SE

@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-28,JP Morgan,Neutral,,init,RMAX
+2013-10-28,William Blair,Outperform,,init,RMAX
+2013-10-28,Bank of America,Buy,,init,RMAX
+2014-01-06,JMP Securities,Market Perform,,init,RMAX
+2014-02-24,Morgan Stanley,Overweight,Equal-weight,up,RMAX
+2014-08-18,JP Morgan,Neutral,,main,RMAX
+2014-12-04,Morgan Stanley,Overweight,,main,RMAX
+2015-01-28,JMP Securities,Market Underperform,Market Perform,down,RMAX
+2015-01-29,Bank of America,Neutral,Buy,down,RMAX
+2015-06-19,Stephens & Co.,Overweight,,init,RMAX
+2015-08-11,JMP Securities,Market Underperform,,main,RMAX
+2015-08-18,Compass Point,Neutral,Buy,down,RMAX
+2015-08-19,Morgan Stanley,Equal-Weight,,down,RMAX
+2015-11-18,JMP Securities,Market Perform,Market Underperform,up,RMAX
+2016-03-31,Keefe Bruyette & Woods,Market Perform,,init,RMAX
+2016-08-08,Keefe Bruyette & Woods,Market Perform,,main,RMAX
+2017-03-09,Compass Point,Sell,Neutral,down,RMAX
+2017-06-30,Bank of America,Underperform,Neutral,down,RMAX
+2017-08-07,Stephens & Co.,Equal-Weight,Overweight,down,RMAX
+2017-08-30,Craig-Hallum,Buy,,init,RMAX
+2017-12-15,JP Morgan,Underweight,Neutral,down,RMAX
+2017-12-22,Compass Point,Neutral,Sell,up,RMAX
+2018-03-28,JP Morgan,Underweight,Underweight,main,RMAX
+2018-11-19,Morgan Stanley,Overweight,Equal-Weight,up,RMAX
+2019-01-24,Compass Point,Neutral,,init,RMAX
+2019-08-05,Stephens & Co.,Equal-Weight,,main,RMAX
+2019-08-06,Compass Point,Neutral,Buy,down,RMAX
+2019-08-21,Craig-Hallum,Buy,Hold,up,RMAX
+2019-09-16,JMP Securities,Market Outperform,Market Perform,up,RMAX
+2020-02-26,Morgan Stanley,Overweight,,main,RMAX
+2020-03-13,Stephens & Co.,Overweight,Equal-Weight,up,RMAX
+2020-05-08,William Blair,Market Perform,Outperform,down,RMAX
+2020-08-10,Stephens & Co.,Overweight,,main,RMAX
+2020-12-21,JP Morgan,Neutral,Underweight,up,RMAX
+2021-01-05,Morgan Stanley,Overweight,,main,RMAX
+2021-07-21,Berenberg,Buy,,init,RMAX
+2021-09-22,Morgan Stanley,Equal-Weight,Overweight,down,RMAX
+2021-12-09,Morgan Stanley,Equal-Weight,,main,RMAX

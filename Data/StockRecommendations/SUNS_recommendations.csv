@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-23,Maxim Group,Buy,,init,SUNS
+2014-02-26,BB&T Capital,Hold,Buy,down,SUNS
+2014-02-28,JMP Securities,Market Perform,Market Outperform,down,SUNS
+2015-08-07,Ladenburg Thalmann,Buy,Neutral,up,SUNS
+2016-03-30,Citigroup,Neutral,,main,SUNS
+2016-08-04,Citigroup,Neutral,,main,SUNS
+2016-11-04,Citigroup,Neutral,,init,SUNS
+2016-11-22,Oppenheimer,Outperform,,init,SUNS
+2020-04-13,Oppenheimer,Outperform,,main,SUNS
+2021-02-26,Ladenburg Thalmann,Neutral,Buy,down,SUNS

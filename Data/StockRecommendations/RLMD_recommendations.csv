@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-12-16,Guggenheim,Buy,,init,RLMD
+2020-01-27,Jefferies,Buy,,init,RLMD
+2020-04-21,Goldman Sachs,Buy,,init,RLMD
+2020-05-04,SunTrust Robinson Humphrey,Buy,,init,RLMD
+2020-10-28,Goldman Sachs,Neutral,Buy,down,RLMD
+2021-11-18,Mizuho,Buy,,init,RLMD
+2021-12-20,SVB Leerink,Outperform,,main,RLMD

@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-17,KeyBanc,Buy,,init,SCL
+2014-10-14,Guggenheim,Buy,,init,SCL
+2015-06-04,Seaport Global,Accumulate,,init,SCL
+2016-08-24,Seaport Global,Neutral,,main,SCL
+2018-12-11,Stifel Nicolaus,Buy,,init,SCL
+2020-03-24,Stifel,Buy,,main,SCL
+2020-06-18,Stifel,Buy,,main,SCL
+2021-01-11,Seaport Global,Neutral,Buy,down,SCL

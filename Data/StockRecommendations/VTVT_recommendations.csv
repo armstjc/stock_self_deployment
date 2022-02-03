@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-24,Stifel Nicolaus,Buy,,init,VTVT
+2015-08-24,PiperJaffray,Overweight,,init,VTVT
+2015-09-04,Canaccord Genuity,Buy,,init,VTVT
+2015-12-17,Janney Capital,Buy,,init,VTVT
+2016-09-26,H.C. Wainwright,Buy,,init,VTVT
+2018-02-08,Northland Securities,Outperform,,init,VTVT
+2018-03-29,Seaport Global,Buy,,init,VTVT
+2018-04-10,Stifel Nicolaus,Hold,Buy,down,VTVT
+2018-04-10,PiperJaffray,Neutral,Overweight,down,VTVT
+2018-04-10,Northland Securities,Market Perform,Outperform,down,VTVT
+2018-04-10,Roth Capital,Neutral,Buy,down,VTVT
+2018-04-10,Seaport Global,Neutral,Buy,down,VTVT
+2019-05-06,Northland Capital Markets,Outperform,Market Perform,up,VTVT
+2019-05-30,H.C. Wainwright,Buy,,init,VTVT
+2020-02-10,H.C. Wainwright,Buy,,reit,VTVT

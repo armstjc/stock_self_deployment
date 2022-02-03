@@ -1,0 +1,5 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-11,Goldman Sachs,Buy,,init,OWL
+2021-12-07,Oppenheimer,Perform,,init,OWL
+2021-12-14,UBS,Buy,,init,OWL
+2022-01-04,Goldman Sachs,Buy,,main,OWL

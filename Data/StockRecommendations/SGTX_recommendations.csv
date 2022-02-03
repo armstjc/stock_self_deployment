@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-12-29,Jefferies,Buy,,init,SGTX
+2020-12-29,Morgan Stanley,Equal-Weight,,init,SGTX
+2021-01-08,Canaccord Genuity,Buy,,init,SGTX
+2021-07-16,Morgan Stanley,Equal-Weight,,main,SGTX
+2021-07-19,Canaccord Genuity,Buy,,main,SGTX
+2021-10-29,BTIG,Buy,,init,SGTX
+2021-11-30,Jefferies,Hold,Buy,down,SGTX
+2021-11-30,Morgan Stanley,Equal-Weight,,main,SGTX
+2021-12-01,Barclays,Overweight,,main,SGTX
+2021-12-23,Canaccord Genuity,Buy,,main,SGTX

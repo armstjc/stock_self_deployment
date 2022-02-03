@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-12-20,Susquehanna,Neutral,,init,TRVG
+2017-01-10,Morgan Stanley,Overweight,,init,TRVG
+2017-01-10,JP Morgan,Overweight,,init,TRVG
+2017-01-10,Citigroup,Neutral,,init,TRVG
+2017-01-10,Deutsche Bank,Hold,,init,TRVG
+2017-01-10,Cowen & Co.,Outperform,,init,TRVG
+2017-01-10,Goldman Sachs,Neutral,,init,TRVG
+2017-01-10,Guggenheim,Buy,,init,TRVG
+2017-02-22,Cowen & Co.,Market Perform,Outperform,down,TRVG
+2017-07-12,Wells Fargo,Market Perform,,init,TRVG
+2017-08-07,Citigroup,Neutral,,main,TRVG
+2017-09-07,Bank of America,Neutral,Buy,down,TRVG
+2017-09-27,JP Morgan,Neutral,Overweight,down,TRVG
+2017-09-28,Morgan Stanley,Equal-Weight,Overweight,down,TRVG
+2017-10-24,Deutsche Bank,Hold,,main,TRVG
+2017-10-26,Guggenheim,Neutral,Buy,down,TRVG
+2017-10-26,Bank of America,Underperform,Neutral,down,TRVG
+2017-10-26,Morgan Stanley,Equal-Weight,,main,TRVG
+2017-10-27,Citigroup,Neutral,,main,TRVG
+2017-11-07,Citigroup,Buy,Neutral,up,TRVG
+2017-12-08,Deutsche Bank,Buy,Hold,up,TRVG
+2018-01-05,Citigroup,Neutral,Buy,down,TRVG
+2018-01-24,SunTrust Robinson Humphrey,Hold,,init,TRVG
+2018-03-22,JP Morgan,Underweight,Neutral,down,TRVG
+2018-03-22,Mizuho,Buy,,init,TRVG
+2018-04-04,Wedbush,Neutral,,init,TRVG
+2018-04-04,DA Davidson,Neutral,,init,TRVG
+2018-04-24,Deutsche Bank,Buy,Buy,main,TRVG
+2018-04-26,Deutsche Bank,Hold,Buy,down,TRVG
+2018-04-26,DA Davidson,Neutral,Neutral,main,TRVG
+2018-04-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,TRVG
+2019-04-23,Guggenheim,Buy,Neutral,up,TRVG
+2020-03-06,Citigroup,Buy,,init,TRVG
+2020-03-23,Deutsche Bank,Hold,,main,TRVG
+2020-03-30,Morgan Stanley,Equal-Weight,,main,TRVG
+2020-04-20,Citigroup,Neutral,Buy,down,TRVG
+2020-05-20,Cowen & Co.,Market Perform,,main,TRVG
+2020-05-21,Deutsche Bank,Hold,,main,TRVG
+2020-06-03,Morgan Stanley,Equal-Weight,,main,TRVG
+2020-06-11,BTIG,Neutral,,init,TRVG
+2020-07-30,SunTrust Robinson Humphrey,Hold,,main,TRVG
+2020-08-11,Citigroup,Neutral,,main,TRVG
+2020-11-04,Wedbush,Neutral,,main,TRVG
+2020-11-30,Morgan Stanley,Equal-Weight,,main,TRVG
+2021-01-11,Morgan Stanley,Equal-Weight,,main,TRVG
+2021-02-12,Morgan Stanley,Equal-Weight,,main,TRVG
+2021-05-05,DA Davidson,Neutral,,main,TRVG
+2021-05-07,Morgan Stanley,Equal-Weight,,main,TRVG
+2021-11-02,DA Davidson,Neutral,,main,TRVG
+2021-12-21,Citigroup,Neutral,,main,TRVG

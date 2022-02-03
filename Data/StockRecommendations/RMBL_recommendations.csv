@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-10-25,Roth Capital,Buy,,init,RMBL
+2018-02-09,Aegis Capital,Buy,,init,RMBL
+2018-10-10,Maxim Group,Buy,Buy,main,RMBL
+2018-11-02,Craig-Hallum,Buy,,init,RMBL
+2019-03-15,B. Riley FBR,Buy,,init,RMBL
+2019-07-30,JMP Securities,Market Outperform,,init,RMBL
+2019-09-24,DA Davidson,Buy,,init,RMBL
+2019-09-25,DA Davidson,Buy,,init,RMBL
+2019-11-14,B. Riley FBR,Buy,,main,RMBL
+2020-07-28,Aegis Capital,Buy,,init,RMBL
+2020-11-10,Aegis Capital,Buy,,main,RMBL
+2021-09-02,Baird,Outperform,,init,RMBL
+2021-09-02,B. Riley Securities,Buy,,init,RMBL
+2021-09-15,Wedbush,Outperform,,init,RMBL

@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-31,PiperJaffray,Overweight,,init,ZYNE
+2015-09-14,Canaccord Genuity,Buy,,init,ZYNE
+2015-11-12,Oppenheimer,Outperform,,main,ZYNE
+2015-11-12,Jefferies,Buy,,main,ZYNE
+2016-03-17,Roth Capital,Buy,,init,ZYNE
+2016-10-07,H.C. Wainwright,Buy,,init,ZYNE
+2016-12-21,Cantor Fitzgerald,Overweight,,init,ZYNE
+2017-02-24,Maxim Group,Buy,,init,ZYNE
+2017-03-28,H.C. Wainwright,Buy,,reit,ZYNE
+2017-08-08,H.C. Wainwright,Neutral,Buy,down,ZYNE
+2017-08-15,Jefferies,Hold,Buy,down,ZYNE
+2017-08-15,Oppenheimer,Market Perform,Outperform,down,ZYNE
+2017-08-21,Canaccord Genuity,Buy,,main,ZYNE
+2017-09-29,PiperJaffray,Overweight,Neutral,up,ZYNE
+2017-09-29,Canaccord Genuity,Buy,,main,ZYNE
+2017-10-02,Cantor Fitzgerald,Overweight,Neutral,up,ZYNE
+2018-01-26,Seaport Global,Buy,,init,ZYNE
+2018-01-29,Ladenburg Thalmann,Buy,,init,ZYNE
+2018-08-03,Canaccord Genuity,Buy,Buy,main,ZYNE
+2018-09-21,Cantor Fitzgerald,Overweight,,init,ZYNE
+2019-04-30,Roth Capital,Buy,,init,ZYNE
+2019-10-21,Needham,Buy,,init,ZYNE
+2020-05-28,Cantor Fitzgerald,Overweight,,main,ZYNE
+2020-07-01,Needham,Hold,Buy,down,ZYNE

@@ -1,0 +1,87 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-18,Raymond James,Outperform,,init,VRTS
+2013-03-19,Sandler O'Neill,Hold,Buy,down,VRTS
+2013-07-10,Raymond James,Market Perform,Outperform,down,VRTS
+2013-10-09,Jefferies,Hold,,init,VRTS
+2013-10-31,Jefferies,Hold,,main,VRTS
+2013-11-22,Goldman Sachs,Neutral,,init,VRTS
+2014-01-15,Morgan Stanley,Equal-Weight,,init,VRTS
+2014-02-10,Furey Research,Buy,,init,VRTS
+2014-02-28,Bank of America,Neutral,,init,VRTS
+2014-05-05,Raymond James,Outperform,Market Perform,up,VRTS
+2014-07-09,Jefferies,Hold,,main,VRTS
+2014-07-29,Raymond James,Outperform,,main,VRTS
+2014-10-08,Jefferies,Hold,,main,VRTS
+2014-10-14,Bank of America,Neutral,,main,VRTS
+2015-01-07,Jefferies,Hold,,main,VRTS
+2015-01-30,Jefferies,Hold,,main,VRTS
+2015-04-20,Raymond James,Outperform,,main,VRTS
+2015-05-18,Raymond James,Outperform,,main,VRTS
+2015-06-03,Credit Suisse,Neutral,,init,VRTS
+2015-06-05,Jefferies,Buy,Hold,up,VRTS
+2015-06-08,Goldman Sachs,Neutral,,init,VRTS
+2015-07-08,Bank of America,Underperform,Neutral,down,VRTS
+2015-07-10,Goldman Sachs,Sell,Neutral,down,VRTS
+2015-08-04,Raymond James,Market Perform,Outperform,down,VRTS
+2015-10-07,Jefferies,Buy,,main,VRTS
+2015-11-02,Sandler O'Neill,Hold,Sell,up,VRTS
+2016-03-10,Jefferies,Hold,Buy,down,VRTS
+2016-08-08,Jefferies,Hold,,main,VRTS
+2016-10-11,Jefferies,Hold,,main,VRTS
+2016-10-31,Credit Suisse,Neutral,Outperform,up,VRTS
+2017-06-01,Morgan Stanley,Equal-Weight,,init,VRTS
+2017-07-17,Morgan Stanley,Equal-Weight,,main,VRTS
+2017-07-31,Credit Suisse,Outperform,Neutral,up,VRTS
+2017-09-08,Barclays,Equal-Weight,,init,VRTS
+2017-10-05,Morgan Stanley,Equal-Weight,,main,VRTS
+2017-10-09,Bank of America,Neutral,Underperform,up,VRTS
+2017-10-10,Barclays,Equal-Weight,,main,VRTS
+2017-10-23,Morgan Stanley,Equal-Weight,,main,VRTS
+2017-10-30,Barclays,Equal-Weight,,main,VRTS
+2018-01-09,Goldman Sachs,Neutral,Sell,up,VRTS
+2018-02-05,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2018-02-06,Credit Suisse,Outperform,Outperform,main,VRTS
+2018-02-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,VRTS
+2018-04-10,Morgan Stanley,Equal-Weight,Equal-Weight,main,VRTS
+2018-04-23,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2018-04-30,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2018-07-12,Morgan Stanley,Equal-Weight,Equal-Weight,main,VRTS
+2018-07-30,Credit Suisse,Outperform,Outperform,main,VRTS
+2018-07-30,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2018-10-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,VRTS
+2018-10-29,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2018-11-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,VRTS
+2019-02-19,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2019-04-11,Barclays,Equal-Weight,Equal-Weight,main,VRTS
+2019-07-09,Morgan Stanley,Equal-Weight,,main,VRTS
+2019-08-05,Morgan Stanley,Equal-Weight,,main,VRTS
+2019-10-08,Morgan Stanley,Equal-Weight,,main,VRTS
+2019-10-14,Bank of America,Buy,Neutral,up,VRTS
+2019-10-28,Barclays,Equal-Weight,,main,VRTS
+2019-10-28,Morgan Stanley,Equal-Weight,,main,VRTS
+2019-12-12,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-02-03,Barclays,Overweight,Equal-Weight,up,VRTS
+2020-02-03,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-02-18,Piper Sandler,Overweight,,main,VRTS
+2020-03-13,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-03-23,B of A Securities,Buy,,main,VRTS
+2020-04-08,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-04-15,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-05-04,Barclays,Overweight,,main,VRTS
+2020-05-06,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-07-02,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-07-27,Piper Sandler,Overweight,,main,VRTS
+2020-07-28,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-10-09,Morgan Stanley,Equal-Weight,,main,VRTS
+2020-10-26,Piper Sandler,Overweight,,main,VRTS
+2020-10-27,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-01-11,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-01-20,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-02-03,Barclays,Overweight,,main,VRTS
+2021-02-04,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-04-08,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-04-15,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-05-04,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-07-09,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-07-19,Morgan Stanley,Equal-Weight,,main,VRTS
+2021-08-05,Morgan Stanley,Overweight,Equal-Weight,up,VRTS

@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-10-27,Credit Suisse,Outperform,,init,PFGC
+2015-10-27,Barclays,Overweight,,init,PFGC
+2015-10-27,BB&T Capital,Buy,,init,PFGC
+2015-10-27,Morgan Stanley,Equal-Weight,,init,PFGC
+2016-02-04,Barclays,Overweight,,main,PFGC
+2016-09-23,Barclays,Overweight,,init,PFGC
+2016-10-13,BMO Capital,Outperform,,init,PFGC
+2016-12-09,Goldman Sachs,Buy,,init,PFGC
+2017-01-24,Barclays,Equal-Weight,Overweight,down,PFGC
+2017-01-24,RBC Capital,Sector Perform,,init,PFGC
+2017-01-25,RBC Capital,Sector Perform,,init,PFGC
+2017-05-16,Loop Capital,Buy,,init,PFGC
+2017-09-13,Morgan Stanley,Equal-Weight,,main,PFGC
+2017-09-13,BMO Capital,Outperform,,main,PFGC
+2017-11-03,Wells Fargo,Outperform,Market Perform,up,PFGC
+2017-11-09,Morgan Stanley,Equal-Weight,,main,PFGC
+2018-04-18,Credit Suisse,Outperform,,init,PFGC
+2018-06-08,Jefferies,Hold,,init,PFGC
+2018-08-10,RBC Capital,Sector Perform,Sector Perform,main,PFGC
+2018-08-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,PFGC
+2018-08-16,BMO Capital,Outperform,Outperform,main,PFGC
+2018-10-23,Buckingham,Buy,,init,PFGC
+2018-12-21,Citigroup,Buy,,init,PFGC
+2019-04-17,Bank of America,Buy,,init,PFGC
+2019-07-30,Wells Fargo,Outperform,,main,PFGC
+2019-08-15,Buckingham Research,Buy,,main,PFGC
+2019-10-02,Bank of America,Buy,,main,PFGC
+2019-11-07,Buckingham,Buy,,main,PFGC
+2019-11-07,Barclays,Equal-Weight,,main,PFGC
+2019-12-23,Wells Fargo,Overweight,,main,PFGC
+2020-02-06,Buckingham,Buy,,main,PFGC
+2020-03-16,Wells Fargo,Overweight,,main,PFGC
+2020-03-26,Jefferies,Buy,Hold,up,PFGC
+2020-04-23,BMO Capital,Market Perform,Outperform,down,PFGC
+2020-05-05,Guggenheim,Buy,,main,PFGC
+2020-08-13,BTIG,Buy,,main,PFGC
+2020-09-21,Credit Suisse,Outperform,,main,PFGC
+2020-09-23,Wolfe Research,Outperform,,init,PFGC
+2020-09-29,Morgan Stanley,Overweight,,init,PFGC
+2020-11-05,Morgan Stanley,Overweight,,main,PFGC
+2020-11-05,Credit Suisse,Outperform,,main,PFGC
+2020-11-05,BTIG,Buy,,main,PFGC
+2020-11-10,BMO Capital,Outperform,Market Perform,up,PFGC
+2021-01-06,Barclays,Overweight,Equal-Weight,up,PFGC
+2021-01-19,Morgan Stanley,Overweight,,main,PFGC
+2021-01-27,Wells Fargo,Overweight,,main,PFGC
+2021-02-04,Morgan Stanley,Overweight,,main,PFGC
+2021-02-04,Credit Suisse,Outperform,,main,PFGC
+2021-04-09,Piper Sandler,Overweight,,init,PFGC
+2021-04-12,Morgan Stanley,Overweight,,main,PFGC
+2021-07-29,UBS,Buy,,init,PFGC
+2021-08-20,BTIG,Neutral,Buy,down,PFGC
+2021-08-20,Credit Suisse,Outperform,,main,PFGC
+2021-09-17,BMO Capital,Outperform,,main,PFGC
+2021-11-11,Credit Suisse,Outperform,,main,PFGC
+2021-12-15,Barclays,Overweight,,main,PFGC

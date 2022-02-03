@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-02-12,Imperial Capital,Outperform,,init,VSTO
+2015-02-17,Cowen & Co.,Market Perform,,init,VSTO
+2015-03-03,CRT Capital,Buy,,init,VSTO
+2015-03-23,KeyBanc,Sector Weight,,init,VSTO
+2015-03-23,CRT Capital,Buy,,main,VSTO
+2015-04-15,Jefferies,Buy,,init,VSTO
+2015-04-20,RBC Capital,Outperform,,init,VSTO
+2015-05-11,Monness Crespi Hardt,Buy,,init,VSTO
+2015-05-27,Wunderlich,Buy,,init,VSTO
+2015-05-29,Morgan Stanley,Equal-Weight,,init,VSTO
+2015-07-24,BB&T Capital,Buy,,init,VSTO
+2016-02-18,DA Davidson,Buy,,init,VSTO
+2016-03-28,Cowen & Co.,Market Perform,,main,VSTO
+2016-06-15,Roth Capital,Buy,,init,VSTO
+2016-08-12,Monness Crespi Hardt,Neutral,Buy,down,VSTO
+2016-08-30,KeyBanc,Overweight,Sector Weight,up,VSTO
+2016-09-19,CL King,Buy,,init,VSTO
+2017-02-06,DA Davidson,Neutral,Buy,down,VSTO
+2017-06-08,DA Davidson,Buy,Neutral,up,VSTO
+2017-08-21,Aegis Capital,Hold,,init,VSTO
+2017-11-09,DA Davidson,Neutral,Buy,down,VSTO
+2019-02-28,B. Riley FBR,Buy,,init,VSTO
+2019-05-10,Monness Crespi Hardt,Buy,Neutral,up,VSTO
+2019-10-11,DA Davidson,Neutral,,init,VSTO
+2020-04-28,B. Riley FBR,Buy,,main,VSTO
+2020-07-08,B. Riley FBR,Neutral,Buy,down,VSTO
+2020-09-04,William Blair,Outperform,,init,VSTO
+2020-09-11,B. Riley FBR,Buy,Neutral,up,VSTO
+2020-09-24,Aegis Capital,Buy,,init,VSTO
+2020-11-09,KeyBanc,Overweight,Sector Weight,up,VSTO
+2020-12-22,Cowen & Co.,Outperform,Market Perform,up,VSTO
+2021-01-22,Wedbush,Outperform,,init,VSTO
+2021-02-04,Aegis Capital,Buy,,main,VSTO
+2021-02-05,KeyBanc,Overweight,,main,VSTO
+2021-05-26,Argus Research,Buy,,main,VSTO
+2021-05-27,Keybanc,Overweight,,main,VSTO
+2021-07-29,Aegis Capital,Buy,,main,VSTO
+2021-08-02,Keybanc,Overweight,,main,VSTO
+2021-09-14,Roth Capital,Buy,,main,VSTO
+2021-11-04,Aegis Capital,Buy,,main,VSTO

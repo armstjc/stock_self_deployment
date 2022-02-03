@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-28,DA Davidson,Buy,,init,PPBI
+2012-09-26,Raymond James,Strong Buy,Outperform,up,PPBI
+2012-10-11,DA Davidson,Buy,,main,PPBI
+2012-10-12,Sterne Agee,Buy,,main,PPBI
+2013-03-07,Sterne Agee,Buy,,main,PPBI
+2013-03-07,DA Davidson,Buy,,main,PPBI
+2013-07-24,Raymond James,Outperform,Strong Buy,down,PPBI
+2013-07-26,FIG Partners,Market Perform,Outperform,down,PPBI
+2013-11-19,FIG Partners,Outperform,Market Perform,up,PPBI
+2013-11-19,DA Davidson,Buy,,main,PPBI
+2014-09-03,Keefe Bruyette & Woods,Outperform,,main,PPBI
+2014-10-24,Keefe Bruyette & Woods,Outperform,,main,PPBI
+2015-04-23,Keefe Bruyette & Woods,Outperform,,main,PPBI
+2015-09-28,PiperJaffray,Overweight,,init,PPBI
+2015-10-02,Keefe Bruyette & Woods,Outperform,,main,PPBI
+2016-04-21,DA Davidson,Buy,,main,PPBI
+2016-07-01,FBR Capital,Outperform,,init,PPBI
+2016-07-21,Fig Partners,Market Perform,Outperform,down,PPBI
+2016-10-11,FBR Capital,Market Perform,Outperform,down,PPBI
+2017-07-26,Stephens & Co.,Equal-Weight,Overweight,down,PPBI
+2019-06-07,Janney Capital,Neutral,Buy,down,PPBI
+2020-01-27,Stephens & Co.,Equal-Weight,,main,PPBI
+2020-03-25,Stephens & Co.,Overweight,Equal-Weight,up,PPBI
+2020-04-29,Raymond James,Outperform,,main,PPBI
+2020-10-01,Piper Sandler,Overweight,,main,PPBI
+2020-10-28,Raymond James,Strong Buy,,main,PPBI
+2021-01-27,Raymond James,Strong Buy,,main,PPBI
+2021-04-28,Raymond James,Strong Buy,,main,PPBI
+2021-05-26,Wedbush,Neutral,,init,PPBI
+2021-07-28,Raymond James,Strong Buy,,main,PPBI
+2021-10-07,Raymond James,Outperform,Strong Buy,down,PPBI

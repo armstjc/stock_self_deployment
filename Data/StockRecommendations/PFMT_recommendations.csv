@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-04,Morgan Stanley,Overweight,,init,PFMT
+2012-09-04,Goldman Sachs,Buy,,init,PFMT
+2012-09-04,Credit Suisse,Outperform,,init,PFMT
+2012-12-19,Compass Point,Buy,,init,PFMT
+2013-01-23,Compass Point,Buy,,main,PFMT
+2013-03-01,Compass Point,Buy,,main,PFMT
+2013-08-02,Compass Point,Buy,,main,PFMT
+2013-10-04,Compass Point,Buy,,main,PFMT
+2014-01-21,Compass Point,Buy,,main,PFMT
+2014-02-21,Wells Fargo,Market Perform,Outperform,down,PFMT
+2014-02-28,Credit Suisse,Neutral,Outperform,down,PFMT
+2014-02-28,Morgan Stanley,Overweight,,main,PFMT
+2014-02-28,SunTrust Robinson Humphrey,Buy,Neutral,up,PFMT
+2014-02-28,Compass Point,Buy,,main,PFMT
+2014-06-11,SunTrust Robinson Humphrey,Buy,,main,PFMT
+2014-10-08,Compass Point,Buy,,main,PFMT
+2014-11-07,William Blair,Market Perform,Outperform,down,PFMT
+2014-11-10,Morgan Stanley,Equal-Weight,Overweight,down,PFMT
+2014-11-25,Macquarie,Neutral,,init,PFMT
+2015-02-27,Compass Point,Neutral,Buy,down,PFMT
+2016-12-12,Compass Point,Neutral,Buy,down,PFMT
+2018-01-12,Compass Point,Buy,Neutral,up,PFMT
+2021-06-04,Colliers Securities,Buy,,init,PFMT
+2021-07-07,Craig-Hallum,Buy,,init,PFMT

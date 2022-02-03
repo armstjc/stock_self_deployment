@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-13,Santander,Buy,Hold,up,SQM
+2013-03-06,Bank of America,Neutral,Buy,down,SQM
+2013-03-06,Miller Tabak,Neutral,Buy,down,SQM
+2013-05-21,Craig-Hallum,Hold,Buy,down,SQM
+2013-06-25,Scotiabank,,Sector Perform,up,SQM
+2013-07-02,Miller Tabak,,Neutral,up,SQM
+2013-07-30,Bank of America,Underperform,Neutral,down,SQM
+2013-11-04,HSBC,Neutral,Underweight,up,SQM
+2014-04-03,Morgan Stanley,Equal-Weight,,main,SQM
+2014-07-18,JP Morgan,Neutral,,main,SQM
+2014-09-16,JP Morgan,Neutral,,main,SQM
+2015-04-02,JP Morgan,Overweight,Neutral,up,SQM
+2015-07-02,HSBC,Buy,Hold,up,SQM
+2015-11-17,HSBC,Hold,Buy,down,SQM
+2016-07-13,Citigroup,Sell,Neutral,down,SQM
+2016-10-19,HSBC,Buy,Hold,up,SQM
+2016-10-19,HSBC,Buy,Neutral,up,SQM
+2016-11-08,BMO Capital,Market Perform,,init,SQM
+2017-04-17,Deutsche Bank,Hold,Buy,down,SQM
+2017-08-29,BMO Capital,Market Perform,,main,SQM
+2017-09-13,Bank of America,Buy,Neutral,up,SQM
+2017-10-11,HSBC,Reduce,Buy,down,SQM
+2018-01-18,Deutsche Bank,Buy,Hold,up,SQM
+2018-03-06,Deutsche Bank,Buy,Buy,main,SQM
+2018-03-08,HSBC,Hold,Reduce,up,SQM
+2018-10-03,Jefferies,Hold,,init,SQM
+2018-12-03,HSBC,Buy,Hold,up,SQM
+2019-02-25,Deutsche Bank,Hold,Buy,down,SQM
+2019-03-01,JP Morgan,Neutral,Overweight,down,SQM
+2019-03-05,Citigroup,Neutral,Buy,down,SQM
+2019-03-08,Bank of America,Neutral,Buy,down,SQM
+2019-04-03,Santander,Hold,Buy,down,SQM
+2019-05-24,BMO Capital,Market Perform,Outperform,down,SQM
+2019-08-22,JP Morgan,Underweight,Neutral,down,SQM
+2020-01-22,HSBC,Reduce,Hold,down,SQM
+2020-04-02,BMO Capital,Market Perform,,main,SQM
+2020-05-21,ScotiaBank,Sector Underperform,Sector Perform,down,SQM
+2020-05-22,Deutsche Bank,Hold,,main,SQM
+2020-08-21,ScotiaBank,Sector Underperform,,main,SQM
+2020-10-21,HSBC,Buy,Hold,up,SQM
+2021-02-12,Citigroup,Buy,Neutral,up,SQM
+2021-02-16,Deutsche Bank,Buy,Hold,up,SQM
+2021-07-23,Morgan Stanley,Underweight,Equal-Weight,down,SQM
+2021-09-29,B of A Securities,Neutral,Underperform,up,SQM
+2021-12-20,B of A Securities,Underperform,Neutral,down,SQM
+2022-01-25,Loop Capital,Buy,,init,SQM

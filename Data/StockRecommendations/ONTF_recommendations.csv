@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-01,KeyBanc,Overweight,,init,ONTF
+2021-03-01,Goldman Sachs,Buy,,init,ONTF
+2021-03-01,William Blair,Outperform,,init,ONTF
+2021-03-01,JP Morgan,Overweight,,init,ONTF
+2021-03-01,Baird,Outperform,,init,ONTF
+2021-03-01,Canaccord Genuity,Buy,,init,ONTF
+2021-03-01,Piper Sandler,Overweight,,init,ONTF
+2021-03-01,Needham,Buy,,init,ONTF
+2021-04-29,Keybanc,Overweight,,main,ONTF
+2021-05-13,Keybanc,Overweight,,main,ONTF
+2021-05-13,Canaccord Genuity,Buy,,main,ONTF
+2021-05-13,Needham,Buy,,main,ONTF
+2021-08-11,Keybanc,Overweight,,main,ONTF
+2021-08-11,JP Morgan,Neutral,Overweight,down,ONTF
+2021-08-11,Canaccord Genuity,Hold,Buy,down,ONTF
+2021-11-10,Piper Sandler,Overweight,,main,ONTF
+2021-11-10,Needham,Buy,,main,ONTF

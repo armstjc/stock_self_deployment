@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-07-14,Wells Fargo,Outperform,,init,VNOM
+2014-07-14,Barclays,Overweight,,init,VNOM
+2014-07-14,Credit Suisse,Neutral,,init,VNOM
+2014-07-14,Scotia Howard Weil,Sector Perform,,init,VNOM
+2014-07-14,Baird,Neutral,,init,VNOM
+2014-07-14,Sterne Agee,Neutral,,init,VNOM
+2014-07-14,Raymond James,Market Perform,,init,VNOM
+2014-07-14,Wunderlich,Buy,,init,VNOM
+2014-07-16,Northland Securities,Market Perform,,init,VNOM
+2014-09-03,Tudor Pickering,Accumulate,,init,VNOM
+2014-09-09,GMP Securities,Hold,,init,VNOM
+2014-10-03,Wunderlich,Buy,,main,VNOM
+2014-10-16,Baird,Outperform,Neutral,up,VNOM
+2014-10-17,Northland Securities,Outperform,Market Perform,up,VNOM
+2014-10-20,Barclays,Overweight,,main,VNOM
+2015-05-11,Stifel Nicolaus,Buy,,main,VNOM
+2015-06-24,Barclays,Overweight,,main,VNOM
+2015-08-07,Stifel Nicolaus,Buy,,main,VNOM
+2015-09-17,Euro Pacific Capital,Buy,,init,VNOM
+2015-09-30,Barclays,Overweight,,main,VNOM
+2015-11-05,Stifel Nicolaus,Buy,,main,VNOM
+2016-10-06,Mizuho Securities,Neutral,,init,VNOM
+2016-10-11,Barclays,Overweight,,main,VNOM
+2017-01-31,Credit Suisse,Outperform,Neutral,up,VNOM
+2017-02-21,Raymond James,Strong Buy,Market Perform,up,VNOM
+2017-03-31,Citigroup,Buy,,init,VNOM
+2017-07-13,Barclays,Overweight,,main,VNOM
+2017-07-25,Scotiabank,Outperform,Sector Perform,up,VNOM
+2017-08-08,Barclays,Overweight,,main,VNOM
+2017-08-15,Imperial Capital,Outperform,,init,VNOM
+2017-08-23,Mizuho,Buy,Neutral,up,VNOM
+2017-09-18,PiperJaffray,Overweight,,main,VNOM
+2017-10-02,UBS,Neutral,,init,VNOM
+2017-10-16,Barclays,Overweight,,main,VNOM
+2017-10-26,Barclays,Overweight,,main,VNOM
+2017-10-30,Citigroup,Buy,,main,VNOM
+2017-10-31,Citigroup,Buy,,main,VNOM
+2017-11-29,SunTrust Robinson Humphrey,Buy,,init,VNOM
+2017-12-05,UBS,Buy,Neutral,up,VNOM
+2017-12-12,Credit Suisse,Outperform,,init,VNOM
+2018-02-02,Deutsche Bank,Buy,,init,VNOM
+2018-02-22,Citigroup,Buy,Buy,main,VNOM
+2018-05-03,Stifel Nicolaus,Buy,Buy,main,VNOM
+2018-06-04,Stifel Nicolaus,Hold,Buy,down,VNOM
+2018-07-05,TD Securities,Buy,,init,VNOM
+2018-07-31,Citigroup,Neutral,Neutral,main,VNOM
+2018-08-14,Stifel Nicolaus,Hold,Hold,main,VNOM
+2018-08-16,Raymond James,Strong Buy,Strong Buy,main,VNOM
+2018-08-17,Stifel Nicolaus,Buy,Hold,up,VNOM
+2018-08-21,Citigroup,Buy,Neutral,up,VNOM
+2018-10-03,Oppenheimer,Outperform,,init,VNOM
+2018-10-30,Credit Suisse,Outperform,Outperform,main,VNOM
+2018-12-17,Citigroup,Buy,Buy,main,VNOM
+2019-04-12,Stephens & Co.,Overweight,,init,VNOM
+2019-04-18,RBC Capital,Outperform,,init,VNOM
+2019-05-13,Barclays,Overweight,,init,VNOM
+2019-07-02,Capital One Financial,Overweight,,init,VNOM
+2019-07-30,Evercore ISI Group,Outperform,,init,VNOM
+2019-08-01,Raymond James,Strong Buy,,main,VNOM
+2019-08-01,Stifel Nicolaus,Buy,,main,VNOM
+2019-09-19,JP Morgan,Overweight,,init,VNOM
+2019-09-25,Goldman Sachs,Buy,,init,VNOM
+2019-10-09,JP Morgan,Overweight,,main,VNOM
+2019-10-30,TD Securities,Buy,,main,VNOM
+2019-11-12,Wells Fargo,Outperform,,main,VNOM
+2020-01-22,KeyBanc,Overweight,,init,VNOM
+2020-03-17,Raymond James,Outperform,Strong Buy,down,VNOM
+2020-03-20,Credit Suisse,Outperform,,main,VNOM
+2020-03-27,Imperial Capital,Outperform,,main,VNOM
+2020-03-30,Citigroup,Buy,,main,VNOM
+2020-03-30,KeyBanc,Overweight,,main,VNOM
+2020-03-31,UBS,Buy,,main,VNOM
+2020-04-13,Piper Sandler,Neutral,,main,VNOM
+2020-05-08,Raymond James,Outperform,,reit,VNOM
+2020-06-12,KeyBanc,Overweight,,main,VNOM
+2020-06-29,UBS,Buy,,main,VNOM
+2020-07-13,ScotiaBank,Sector Outperform,,main,VNOM
+2020-07-16,Imperial Capital,Outperform,,main,VNOM
+2020-07-20,Raymond James,Outperform,,main,VNOM
+2020-07-27,Seaport Global,Neutral,,init,VNOM
+2020-09-18,Piper Sandler,Neutral,,main,VNOM
+2020-10-14,ScotiaBank,Sector Outperform,,main,VNOM
+2020-10-21,Raymond James,Outperform,,main,VNOM
+2020-12-04,Truist Securities,Buy,Hold,up,VNOM
+2020-12-16,KeyBanc,Overweight,,main,VNOM
+2021-01-15,KeyBanc,Overweight,,main,VNOM
+2021-03-16,KeyBanc,Overweight,,main,VNOM
+2021-04-08,Piper Sandler,Overweight,Neutral,up,VNOM
+2021-08-12,Raymond James,Outperform,,main,VNOM
+2021-09-17,Keybanc,Overweight,,main,VNOM
+2021-10-20,Keybanc,Overweight,,main,VNOM
+2021-10-26,Raymond James,Outperform,,main,VNOM
+2021-11-16,Raymond James,Outperform,,main,VNOM
+2022-01-21,Keybanc,Overweight,,main,VNOM

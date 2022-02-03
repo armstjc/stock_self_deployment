@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-05,Jefferies,Buy,,init,PBR
+2012-09-06,Citigroup,Buy,,main,PBR
+2012-10-31,Barclays,Equal-Weight,,main,PBR
+2012-10-31,Barclays,Equal-Weight,,main,PBR
+2012-11-12,Bank of America,Neutral,Buy,down,PBR
+2012-11-20,Raymond James,Market Perform,Outperform,down,PBR
+2013-02-05,Societe Generale,Buy,,main,PBR
+2013-02-06,Jefferies,Hold,Buy,down,PBR
+2013-02-26,BTG Pactual,Neutral,Buy,down,PBR
+2013-03-07,Credit Suisse,Outperform,Neutral,up,PBR
+2013-04-29,Bank of America,Buy,Neutral,up,PBR
+2013-06-17,Wells Fargo,Outperform,Market Perform,up,PBR
+2013-12-02,Citigroup,Neutral,Buy,down,PBR
+2014-03-12,Credit Suisse,Neutral,Underperform,up,PBR
+2014-04-03,BMO Capital,Market Perform,,init,PBR
+2014-06-25,UBS,Neutral,,down,PBR
+2014-07-25,Barclays,Overweight,Neutral,up,PBR
+2014-08-11,GBM,,,down,PBR
+2014-11-10,Cowen & Co.,Market Perform,Outperform,down,PBR
+2014-11-14,Bank of America,Neutral,Buy,down,PBR
+2014-11-19,UBS,Neutral,Buy,down,PBR
+2014-12-15,Credit Suisse,Neutral,,main,PBR
+2015-01-14,Barclays,Overweight,,main,PBR
+2015-04-14,Bank of America,Buy,Neutral,up,PBR
+2015-04-27,Morgan Stanley,Underweight,Equal-Weight,down,PBR
+2015-05-18,Goldman Sachs,Sell,Neutral,down,PBR
+2015-06-03,Tudor Pickering,Buy,Accumulate,up,PBR
+2015-06-15,JP Morgan,Overweight,Neutral,up,PBR
+2015-06-30,HSBC,Hold,,up,PBR
+2015-07-07,Barclays,Overweight,,main,PBR
+2015-08-11,Barclays,Overweight,,main,PBR
+2015-08-11,Barclays,Overweight,,main,PBR
+2015-09-11,Credit Suisse,Underperform,,main,PBR
+2015-09-11,JP Morgan,Neutral,Overweight,down,PBR
+2015-09-30,Macquarie,Underperform,,init,PBR
+2015-10-12,Barclays,Equal-Weight,Overweight,down,PBR
+2016-01-12,Credit Suisse,Underperform,,init,PBR
+2016-02-04,JP Morgan,Underperform,Neutral,down,PBR
+2016-03-22,Morgan Stanley,Equal-Weight,Underweight,up,PBR
+2016-03-23,Barclays,Equal-Weight,,main,PBR
+2016-03-24,Deutsche Bank,Sell,Hold,down,PBR
+2016-05-19,Raymond James,Underperform,Market Perform,down,PBR
+2016-05-24,JP Morgan,Neutral,Underweight,up,PBR
+2016-07-13,Barclays,Underweight,Equal-Weight,down,PBR
+2016-08-26,Credit Suisse,Neutral,Underperform,up,PBR
+2016-09-13,Tudor Pickering,Hold,Buy,down,PBR
+2016-09-15,Macquarie,Neutral,Underperform,up,PBR
+2016-09-21,Raymond James,Market Perform,Underperform,up,PBR
+2016-09-26,Credit Suisse,Neutral,,main,PBR
+2016-10-05,Citigroup,Buy,Neutral,up,PBR
+2016-10-06,Morgan Stanley,Overweight,,main,PBR
+2016-10-10,Barclays,Underweight,,main,PBR
+2016-10-17,HSBC,Hold,Buy,down,PBR
+2016-11-17,Tudor Pickering,Hold,Buy,down,PBR
+2017-02-13,JP Morgan,Overweight,Neutral,up,PBR
+2017-10-10,Barclays,Underweight,,main,PBR
+2017-10-10,Barclays,Equal-Weight,,main,PBR
+2017-10-18,Societe Generale,Hold,Buy,down,PBR
+2018-04-23,Raymond James,Underperform,Market Perform,down,PBR
+2018-05-10,Bank of America,Buy,Neutral,up,PBR
+2018-05-24,Bank of America,Neutral,Buy,down,PBR
+2018-05-24,Morgan Stanley,Equal-Weight,Overweight,down,PBR
+2018-05-24,Credit Suisse,Neutral,Outperform,down,PBR
+2018-06-04,Societe Generale,Hold,Buy,down,PBR
+2018-06-11,Raymond James,Market Perform,Underperform,up,PBR
+2018-10-08,JP Morgan,Overweight,Overweight,main,PBR
+2018-10-08,Bank of America,Buy,Neutral,up,PBR
+2018-10-08,JP Morgan,Overweight,Neutral,up,PBR
+2019-01-10,Barclays,Underweight,Overweight,down,PBR
+2019-04-08,Credit Suisse,Outperform,Neutral,up,PBR
+2019-07-03,Bank of America,Buy,,init,PBR
+2019-07-11,Goldman Sachs,Buy,,init,PBR
+2020-04-17,B of A Securities,Buy,,reit,PBR
+2020-05-14,B of A Securities,Neutral,Buy,down,PBR
+2020-05-18,Raymond James,Underperform,Market Perform,down,PBR
+2020-07-22,ScotiaBank,Sector Outperform,,main,PBR
+2021-03-15,B of A Securities,Neutral,Underperform,up,PBR
+2021-04-14,Goldman Sachs,Neutral,Buy,down,PBR
+2021-04-22,JP Morgan,Neutral,Underweight,up,PBR
+2021-05-28,JP Morgan,Overweight,Neutral,up,PBR
+2021-08-05,Scotiabank,Sector Outperform,Sector Perform,up,PBR
+2021-12-16,Goldman Sachs,Buy,Neutral,up,PBR

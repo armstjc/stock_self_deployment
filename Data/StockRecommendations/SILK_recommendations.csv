@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-04-29,BMO Capital,Outperform,,init,SILK
+2019-04-29,JP Morgan,Overweight,,init,SILK
+2019-04-29,Stifel,Buy,,init,SILK
+2019-08-20,Argus Research,Buy,,init,SILK
+2020-02-27,Stifel Nicolaus,Buy,,main,SILK
+2020-05-01,Stifel,Buy,,main,SILK
+2020-07-09,SVB Leerink,Outperform,,init,SILK
+2020-08-06,SVB Leerink,Outperform,,main,SILK
+2020-08-06,Citigroup,Buy,,main,SILK
+2020-08-06,Stifel,Buy,,main,SILK
+2020-08-21,Piper Sandler,Neutral,,init,SILK
+2020-10-01,Citigroup,Neutral,Buy,down,SILK
+2020-10-12,SVB Leerink,Outperform,,main,SILK
+2021-11-10,SVB Leerink,Outperform,,main,SILK

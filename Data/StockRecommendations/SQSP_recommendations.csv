@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-08,Atlantic Equities,Overweight,,init,SQSP
+2021-06-14,Raymond James,Outperform,,init,SQSP
+2021-06-14,Piper Sandler,Neutral,,init,SQSP
+2021-06-14,RBC Capital,Sector Perform,,init,SQSP
+2021-06-14,Citigroup,Buy,,init,SQSP
+2021-06-14,Goldman Sachs,Buy,,init,SQSP
+2021-06-14,JMP Securities,Market Outperform,,init,SQSP
+2021-06-14,JP Morgan,Overweight,,init,SQSP
+2021-06-14,William Blair,Outperform,,init,SQSP
+2021-06-14,Keybanc,Overweight,,init,SQSP
+2021-06-16,Mizuho,Buy,,init,SQSP
+2021-06-28,Barclays,Equal-Weight,,init,SQSP
+2021-06-28,Wedbush,Neutral,,init,SQSP
+2021-07-06,Guggenheim,Buy,,init,SQSP
+2021-07-13,Atlantic Equities,Overweight,,init,SQSP
+2021-07-19,B of A Securities,Buy,,init,SQSP
+2021-08-10,Keybanc,Overweight,,main,SQSP
+2021-08-10,Piper Sandler,Neutral,,main,SQSP
+2021-08-10,Raymond James,Outperform,,main,SQSP
+2021-10-15,Piper Sandler,Overweight,Neutral,up,SQSP
+2021-10-21,Keybanc,Overweight,,main,SQSP
+2021-10-21,Truist Securities,Buy,,init,SQSP
+2021-11-09,Piper Sandler,Overweight,,main,SQSP
+2021-11-09,JMP Securities,Market Outperform,,main,SQSP
+2021-11-19,RBC Capital,Sector Perform,,main,SQSP

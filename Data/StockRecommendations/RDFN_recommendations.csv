@@ -1,0 +1,79 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-08-22,Stifel Nicolaus,Hold,,init,RDFN
+2017-08-22,RBC Capital,Sector Perform,,init,RDFN
+2017-08-22,Bank of America,Neutral,,init,RDFN
+2017-08-22,Goldman Sachs,Neutral,,init,RDFN
+2017-08-22,Oppenheimer,Outperform,,init,RDFN
+2017-09-28,PiperJaffray,Neutral,,init,RDFN
+2017-11-10,Oppenheimer,Outperform,,main,RDFN
+2017-11-10,Bank of America,Neutral,,main,RDFN
+2017-12-01,Stephens & Co.,Underweight,,init,RDFN
+2017-12-15,Cowen & Co.,Outperform,,init,RDFN
+2017-12-19,KeyBanc,Sector Weight,,init,RDFN
+2018-02-05,RBC Capital,Outperform,Sector Perform,up,RDFN
+2018-02-06,Jefferies,Buy,,init,RDFN
+2018-04-04,DA Davidson,Buy,,init,RDFN
+2018-06-18,Goldman Sachs,Sell,Neutral,down,RDFN
+2018-09-17,Macquarie,Neutral,,init,RDFN
+2018-11-09,William Blair,Market Perform,Outperform,down,RDFN
+2018-11-29,Susquehanna,Positive,,init,RDFN
+2019-01-08,Needham,Hold,,init,RDFN
+2019-01-09,Jefferies,Hold,Buy,down,RDFN
+2019-01-22,DA Davidson,Underperform,Neutral,down,RDFN
+2019-01-24,Compass Point,Buy,,init,RDFN
+2019-04-01,PiperJaffray,Overweight,Neutral,up,RDFN
+2019-04-08,Susquehanna,Neutral,Positive,down,RDFN
+2019-04-12,Wedbush,Outperform,,init,RDFN
+2019-05-09,Compass Point,Neutral,Buy,down,RDFN
+2019-05-22,DA Davidson,Neutral,Underperform,up,RDFN
+2019-06-10,Stephens & Co.,Overweight,Underweight,up,RDFN
+2019-07-10,SunTrust Robinson Humphrey,Buy,,init,RDFN
+2019-07-17,Susquehanna,Positive,Neutral,up,RDFN
+2019-07-19,KeyBanc,Sector Weight,,init,RDFN
+2019-08-02,Compass Point,Buy,Neutral,up,RDFN
+2019-08-02,Bank of America,Neutral,,reit,RDFN
+2019-08-02,Stifel,Hold,,main,RDFN
+2019-08-21,Craig-Hallum,Buy,Hold,up,RDFN
+2019-11-07,Piper Jaffray,Overweight,,main,RDFN
+2019-11-07,Stifel Nicolaus,Hold,,main,RDFN
+2019-12-10,DA Davidson,Buy,Neutral,up,RDFN
+2020-01-27,Stephens & Co.,Overweight,,reit,RDFN
+2020-02-13,Oppenheimer,Outperform,,main,RDFN
+2020-02-13,B of A Securities,Neutral,,main,RDFN
+2020-02-13,Wedbush,Outperform,,main,RDFN
+2020-02-13,Stephens & Co.,Overweight,,main,RDFN
+2020-02-28,KeyBanc,Sector Weight,,init,RDFN
+2020-03-24,Needham,Hold,Underperform,up,RDFN
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,RDFN
+2020-05-11,Susquehanna,Neutral,Positive,down,RDFN
+2020-05-11,SunTrust Robinson Humphrey,Buy,,main,RDFN
+2020-06-11,BTIG,Buy,,init,RDFN
+2020-06-25,SunTrust Robinson Humphrey,Buy,,main,RDFN
+2020-07-10,RBC Capital,Sector Perform,Outperform,down,RDFN
+2020-07-13,B of A Securities,Underperform,Neutral,down,RDFN
+2020-07-27,Zelman,Buy,Hold,up,RDFN
+2020-07-28,Susquehanna,Negative,Neutral,down,RDFN
+2020-07-29,Stifel,Hold,,main,RDFN
+2020-09-24,DA Davidson,Buy,,main,RDFN
+2020-09-25,Piper Sandler,Overweight,,init,RDFN
+2020-10-16,BTIG,Buy,,reit,RDFN
+2020-11-06,B of A Securities,Underperform,,main,RDFN
+2021-01-12,BTIG,Neutral,Buy,down,RDFN
+2021-01-20,DA Davidson,Neutral,Buy,down,RDFN
+2021-02-05,Goldman Sachs,Neutral,Sell,up,RDFN
+2021-02-23,Truist Securities,Buy,,main,RDFN
+2021-02-25,DA Davidson,Neutral,,main,RDFN
+2021-02-25,Piper Sandler,Overweight,,main,RDFN
+2021-04-06,Evercore ISI Group,In-Line,,init,RDFN
+2021-04-27,Needham,Hold,,init,RDFN
+2021-05-06,Piper Sandler,Overweight,,main,RDFN
+2021-06-03,Stephens & Co.,Overweight,Equal-Weight,up,RDFN
+2021-07-21,Berenberg,Hold,,init,RDFN
+2021-07-29,RBC Capital,Outperform,,main,RDFN
+2021-08-06,RBC Capital,Outperform,,main,RDFN
+2021-08-09,DA Davidson,Neutral,,main,RDFN
+2021-08-11,Wedbush,Outperform,,main,RDFN
+2021-08-13,Susquehanna,Neutral,,init,RDFN
+2021-11-05,RBC Capital,Outperform,,main,RDFN
+2021-11-08,Truist Securities,Buy,,main,RDFN
+2021-11-22,DA Davidson,Neutral,,main,RDFN

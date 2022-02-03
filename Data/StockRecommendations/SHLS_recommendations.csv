@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-22,Guggenheim,Buy,,init,SHLS
+2021-02-22,Morgan Stanley,Equal-Weight,,init,SHLS
+2021-02-22,UBS,Buy,,init,SHLS
+2021-02-22,Credit Suisse,Neutral,,init,SHLS
+2021-02-22,Barclays,Overweight,,init,SHLS
+2021-03-10,Morgan Stanley,Equal-Weight,,main,SHLS
+2021-03-11,Roth Capital,Buy,,init,SHLS
+2021-03-23,Johnson Rice,Buy,,init,SHLS
+2021-04-22,Barclays,Equal-Weight,Overweight,down,SHLS
+2021-05-20,Goldman Sachs,Buy,Neutral,up,SHLS
+2021-05-24,Credit Suisse,Outperform,Neutral,up,SHLS
+2021-05-26,Morgan Stanley,Equal-Weight,,main,SHLS
+2021-06-30,Piper Sandler,Overweight,,init,SHLS
+2021-08-19,Morgan Stanley,Equal-Weight,,main,SHLS
+2021-10-15,Truist Securities,Hold,,init,SHLS
+2021-10-20,Guggenheim,Neutral,Buy,down,SHLS
+2021-11-10,Barclays,Equal-Weight,,main,SHLS

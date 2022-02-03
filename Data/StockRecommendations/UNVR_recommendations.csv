@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-28,Goldman Sachs,Buy,,init,UNVR
+2015-07-28,SunTrust Robinson Humphrey,Neutral,,init,UNVR
+2015-07-28,William Blair,Market Perform,,init,UNVR
+2015-07-30,Credit Suisse,Neutral,,init,UNVR
+2015-07-30,Jefferies,Buy,,init,UNVR
+2015-08-10,Barclays,Equal-Weight,,init,UNVR
+2015-11-04,Bank of America,Buy,Neutral,up,UNVR
+2015-11-04,Deutsche Bank,Hold,,main,UNVR
+2016-01-20,Goldman Sachs,Neutral,Buy,down,UNVR
+2016-02-16,Barclays,Overweight,Equal-Weight,up,UNVR
+2016-02-25,Credit Suisse,Neutral,,main,UNVR
+2016-06-24,Barclays,Equal-Weight,Overweight,down,UNVR
+2016-08-11,Bank of America,Buy,,main,UNVR
+2016-08-16,Barclays,Equal-Weight,,main,UNVR
+2016-09-09,Jefferies,Buy,,init,UNVR
+2016-12-09,Credit Suisse,Outperform,Neutral,up,UNVR
+2016-12-15,Wells Fargo,Outperform,Market Perform,up,UNVR
+2017-02-14,Evercore ISI Group,Buy,,init,UNVR
+2017-07-06,Berenberg,Sell,,init,UNVR
+2017-08-07,Barclays,Equal-Weight,,main,UNVR
+2017-08-31,Credit Suisse,Outperform,,main,UNVR
+2018-02-13,SunTrust Robinson Humphrey,Buy,Hold,up,UNVR
+2018-08-06,Barclays,Equal-Weight,Equal-Weight,main,UNVR
+2018-09-04,Berenberg,Buy,Hold,up,UNVR
+2018-12-21,Wells Fargo,Outperform,Outperform,main,UNVR
+2019-04-17,Berenberg,Hold,Buy,down,UNVR
+2020-02-26,Deutsche Bank,Buy,,main,UNVR
+2020-03-19,Wells Fargo,Equal-Weight,Overweight,down,UNVR
+2020-03-30,Goldman Sachs,Buy,Neutral,up,UNVR
+2020-05-12,Wells Fargo,Equal-Weight,,main,UNVR
+2020-05-12,SunTrust Robinson Humphrey,Buy,,main,UNVR
+2020-05-12,Deutsche Bank,Buy,,main,UNVR
+2020-08-10,Truist Securities,Buy,,main,UNVR
+2020-11-06,Goldman Sachs,Neutral,Buy,down,UNVR
+2021-03-08,B of A Securities,Underperform,Buy,down,UNVR
+2021-05-11,Goldman Sachs,Buy,Neutral,up,UNVR
+2021-08-25,Berenberg,Buy,Hold,up,UNVR
+2021-09-21,UBS,Buy,,init,UNVR

@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-23,Sterne Agee,Buy,,init,OFG
+2013-02-21,Jefferies,Buy,,init,OFG
+2013-07-24,Jefferies,Buy,,main,OFG
+2014-10-27,Keefe Bruyette & Woods,Outperform,,main,OFG
+2014-10-30,Jefferies,Buy,,main,OFG
+2015-02-06,Keefe Bruyette & Woods,Market Perform,Outperform,down,OFG
+2015-03-31,Guggenheim,Neutral,Buy,down,OFG
+2015-04-20,Keefe Bruyette & Woods,Market Perform,,main,OFG
+2015-04-29,Keefe Bruyette & Woods,Market Perform,,main,OFG
+2015-07-27,Guggenheim,Buy,Neutral,up,OFG
+2015-07-27,Keefe Bruyette & Woods,Market Perform,,main,OFG
+2015-10-14,Keefe Bruyette & Woods,Market Perform,,main,OFG
+2016-01-12,Merion Capital Group,Outperform,,init,OFG
+2016-02-16,Merion Capital Group,Outperform,Neutral,up,OFG
+2016-04-08,PiperJaffray,Neutral,,init,OFG
+2016-04-25,Merion Capital Group,Outperform,,main,OFG
+2016-07-25,Keefe Bruyette & Woods,Market Perform,,main,OFG
+2017-10-30,Sandler O'Neill,Buy,Hold,up,OFG
+2017-11-28,Keefe Bruyette & Woods,Outperform,Market Perform,up,OFG
+2018-07-16,PiperJaffray,Overweight,Neutral,up,OFG
+2019-03-06,Alden Securities,Neutral,Outperform,down,OFG
+2021-11-09,Wells Fargo,Overweight,,init,OFG
+2022-01-04,Wells Fargo,Overweight,,main,OFG

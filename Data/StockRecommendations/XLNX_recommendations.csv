@@ -1,0 +1,213 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,Auriga,Buy,,main,XLNX
+2012-03-23,Auriga,Hold,,down,XLNX
+2012-04-26,PiperJaffray,Overweight,,main,XLNX
+2012-04-26,Goldman Sachs,Neutral,,main,XLNX
+2012-07-19,PiperJaffray,Overweight,,main,XLNX
+2012-07-19,Canaccord Genuity,Hold,,main,XLNX
+2012-10-08,ISI Group,Buy,,main,XLNX
+2012-10-09,Pacific Crest,Sector Perform,,init,XLNX
+2012-10-18,PiperJaffray,Overweight,,main,XLNX
+2013-01-14,Credit Suisse,Outperform,Neutral,up,XLNX
+2013-01-18,Jefferies,Hold,,main,XLNX
+2013-02-19,Bank of America,Buy,Neutral,up,XLNX
+2013-03-06,UBS,Neutral,,main,XLNX
+2013-03-06,JP Morgan,Overweight,,main,XLNX
+2013-03-08,Argus,Hold,,init,XLNX
+2013-04-25,Nomura,Neutral,,main,XLNX
+2013-05-06,Topeka,Hold,,init,XLNX
+2013-07-01,ISI Group,Strong Buy,Buy,up,XLNX
+2013-07-12,Citigroup,Buy,Neutral,up,XLNX
+2013-07-18,Lazard,Buy,Neutral,up,XLNX
+2013-07-18,Deutsche Bank,Hold,,main,XLNX
+2013-08-16,Morgan Stanley,Overweight,Equal-Weight,up,XLNX
+2013-09-30,Pacific Crest,Outperform,Sector Perform,up,XLNX
+2013-10-17,Baird,Outperform,Neutral,up,XLNX
+2013-10-17,PiperJaffray,Neutral,Overweight,down,XLNX
+2013-10-22,Drexel Hamilton,Buy,,init,XLNX
+2013-12-12,JMP Securities,Market Outperform,,init,XLNX
+2013-12-12,Nomura,Buy,Neutral,up,XLNX
+2014-01-02,Goldman Sachs,Buy,Neutral,up,XLNX
+2014-01-15,Barclays,Overweight,,up,XLNX
+2014-01-24,Citigroup,Buy,,main,XLNX
+2014-02-11,MKM Partners,Buy,,init,XLNX
+2014-04-03,FBR Capital,Outperform,,init,XLNX
+2014-04-07,Pacific Crest,Outperform,,main,XLNX
+2014-04-24,Jefferies,Hold,,main,XLNX
+2014-04-24,Deutsche Bank,Hold,,main,XLNX
+2014-04-24,Citigroup,Buy,,main,XLNX
+2014-04-24,Credit Suisse,Neutral,Outperform,down,XLNX
+2014-04-24,Nomura,Buy,,main,XLNX
+2014-06-02,Goldman Sachs,Neutral,Buy,down,XLNX
+2014-07-23,Macquarie,Neutral,,main,XLNX
+2014-07-23,FBR Capital,Outperform,,main,XLNX
+2014-07-23,Credit Suisse,Neutral,,main,XLNX
+2014-07-23,Bank of America,Neutral,Outperform,down,XLNX
+2014-07-23,William Blair,Market Perform,Outperform,down,XLNX
+2014-07-23,BMO Capital,Market Perform,Outperform,down,XLNX
+2014-07-23,Nomura,Buy,,main,XLNX
+2014-07-24,Argus,Buy,Hold,up,XLNX
+2014-08-08,JP Morgan,Overweight,,main,XLNX
+2014-10-13,Pacific Crest,Outperform,,main,XLNX
+2014-10-17,FBR Capital,Outperform,,main,XLNX
+2014-10-17,Wells Fargo,Outperform,Market Perform,up,XLNX
+2014-10-17,Deutsche Bank,Hold,,main,XLNX
+2014-10-17,Jefferies,Hold,,main,XLNX
+2014-10-17,JMP Securities,Market Outperform,,main,XLNX
+2014-12-19,Bank of America,Underperform,Neutral,down,XLNX
+2015-01-14,Pacific Crest,Sector Perform,Outperform,down,XLNX
+2015-01-14,JP Morgan,Neutral,Overweight,down,XLNX
+2015-01-21,Nomura,Buy,,main,XLNX
+2015-01-21,CLSA,Outperform,Buy,down,XLNX
+2015-01-22,Barclays,Equal-Weight,,main,XLNX
+2015-01-22,Deutsche Bank,Hold,,main,XLNX
+2015-01-22,Jefferies,Hold,,main,XLNX
+2015-01-22,Nomura,Buy,,main,XLNX
+2015-01-22,Drexel Hamilton,Hold,Buy,down,XLNX
+2015-02-03,Nomura,Neutral,Buy,down,XLNX
+2015-03-16,Drexel Hamilton,Buy,Hold,up,XLNX
+2015-03-30,Morgan Stanley,Equal-Weight,Overweight,down,XLNX
+2015-03-30,MKM Partners,Neutral,Buy,down,XLNX
+2015-04-23,PiperJaffray,Neutral,,main,XLNX
+2015-04-23,JMP Securities,Market Outperform,,main,XLNX
+2015-04-23,Citigroup,Neutral,,main,XLNX
+2015-05-19,Pacific Crest,Overweight,Sector Perform,up,XLNX
+2015-06-01,Raymond James,Strong Buy,Market Perform,up,XLNX
+2015-06-04,FBR Capital,Market Perform,Outperform,down,XLNX
+2015-07-23,Pacific Crest,Overweight,,main,XLNX
+2015-07-23,KeyBanc,Overweight,,main,XLNX
+2015-07-23,Jefferies,Hold,,main,XLNX
+2015-07-23,Baird,Outperform,,main,XLNX
+2015-09-14,Goldman Sachs,Buy,Neutral,up,XLNX
+2015-10-15,FBR Capital,Market Perform,,main,XLNX
+2015-10-15,Jefferies,Hold,,main,XLNX
+2015-12-21,Macquarie,Neutral,,main,XLNX
+2016-01-21,SunTrust Robinson Humphrey,Neutral,,main,XLNX
+2016-01-21,Jefferies,Hold,,main,XLNX
+2016-01-21,Deutsche Bank,Hold,,main,XLNX
+2016-01-21,Barclays,Equal-Weight,,main,XLNX
+2016-01-21,BMO Capital,Outperform,Market Perform,up,XLNX
+2016-02-03,Goldman Sachs,Buy,,main,XLNX
+2016-06-02,Goldman Sachs,Neutral,Buy,down,XLNX
+2016-07-28,Deutsche Bank,Hold,,main,XLNX
+2016-07-28,Citigroup,Neutral,,main,XLNX
+2016-07-28,Morgan Stanley,Equal-Weight,,main,XLNX
+2016-07-28,Jefferies,Hold,,main,XLNX
+2016-08-18,Pacific Crest,Overweight,,main,XLNX
+2016-08-31,MKM Partners,Neutral,,main,XLNX
+2016-10-12,Baird,Neutral,Outperform,down,XLNX
+2016-10-20,Barclays,Equal-Weight,,main,XLNX
+2016-12-14,Evercore ISI Group,Buy,,init,XLNX
+2016-12-15,Morgan Stanley,Overweight,Equal-Weight,up,XLNX
+2016-12-21,Susquehanna,Neutral,,init,XLNX
+2017-01-03,Nomura,Reduce,Neutral,down,XLNX
+2017-01-18,Barclays,Underweight,,down,XLNX
+2017-03-02,Mizuho,Neutral,,init,XLNX
+2017-03-31,Macquarie,Neutral,,init,XLNX
+2017-04-24,Credit Suisse,Outperform,Neutral,up,XLNX
+2017-05-23,Wells Fargo,Market Perform,Outperform,down,XLNX
+2017-07-10,Jefferies,Buy,Hold,up,XLNX
+2017-07-18,Barclays,Equal-Weight,Underweight,up,XLNX
+2017-07-27,Barclays,Equal-Weight,,main,XLNX
+2017-10-26,Barclays,Equal-Weight,,main,XLNX
+2017-10-26,Deutsche Bank,Hold,,main,XLNX
+2017-12-13,Morgan Stanley,Overweight,,main,XLNX
+2018-01-05,Goldman Sachs,Buy,Neutral,up,XLNX
+2018-01-25,Bank of America,Underperform,Underperform,main,XLNX
+2018-01-25,JP Morgan,Neutral,Neutral,main,XLNX
+2018-01-25,Credit Suisse,Outperform,Outperform,main,XLNX
+2018-01-25,Wells Fargo,Market Perform,Market Perform,main,XLNX
+2018-04-06,JP Morgan,Underweight,Neutral,down,XLNX
+2018-04-26,Macquarie,Neutral,Neutral,main,XLNX
+2018-04-26,KeyBanc,Overweight,Overweight,main,XLNX
+2018-04-26,JP Morgan,Underweight,Underweight,main,XLNX
+2018-05-09,Nomura,Neutral,Reduce,up,XLNX
+2018-05-23,JP Morgan,Underweight,Underweight,main,XLNX
+2018-07-26,Rosenblatt,Buy,Neutral,up,XLNX
+2018-07-26,Bank of America,Buy,Underperform,up,XLNX
+2018-07-26,Morgan Stanley,Overweight,Overweight,main,XLNX
+2018-07-26,KeyBanc,Overweight,Overweight,main,XLNX
+2018-08-22,Deutsche Bank,Hold,Hold,main,XLNX
+2018-08-28,Baird,Outperform,Neutral,up,XLNX
+2018-09-07,Cowen & Co.,Market Perform,,init,XLNX
+2018-09-25,KeyBanc,Overweight,Overweight,main,XLNX
+2018-09-27,Needham,Buy,,init,XLNX
+2018-10-01,Bank of America,Buy,Buy,main,XLNX
+2018-10-03,BMO Capital,Outperform,Outperform,main,XLNX
+2018-10-03,Credit Suisse,Outperform,Outperform,main,XLNX
+2018-10-25,Citigroup,Neutral,Neutral,main,XLNX
+2018-11-13,Susquehanna,Positive,Neutral,up,XLNX
+2018-12-03,KeyBanc,Overweight,Overweight,main,XLNX
+2018-12-19,Morgan Stanley,Overweight,Overweight,main,XLNX
+2019-01-08,Argus,Buy,Buy,main,XLNX
+2019-01-17,Mizuho,Buy,Neutral,up,XLNX
+2019-02-26,KeyBanc,Overweight,Overweight,main,XLNX
+2019-03-04,BMO Capital,Market Perform,Outperform,down,XLNX
+2019-03-29,Mizuho,Buy,Buy,main,XLNX
+2019-04-02,KeyBanc,Overweight,Overweight,main,XLNX
+2019-04-03,Nomura,Neutral,,init,XLNX
+2019-04-17,Deutsche Bank,Hold,Hold,main,XLNX
+2019-04-22,Morgan Stanley,Overweight,Overweight,main,XLNX
+2019-04-25,Needham,Hold,Buy,down,XLNX
+2019-04-25,Goldman Sachs,Neutral,Buy,down,XLNX
+2019-04-25,Deutsche Bank,Hold,Hold,main,XLNX
+2019-05-15,BMO Capital,Market Perform,,main,XLNX
+2019-06-06,Barclays,Equal-Weight,,main,XLNX
+2019-06-10,Morgan Stanley,Overweight,,main,XLNX
+2019-06-18,KeyBanc,Overweight,,main,XLNX
+2019-07-23,Benchmark,Hold,,init,XLNX
+2019-07-25,Mizuho,Buy,,main,XLNX
+2019-07-25,Morgan Stanley,Overweight,,main,XLNX
+2019-07-25,KeyBanc,Overweight,,main,XLNX
+2019-08-26,KeyBanc,Overweight,,main,XLNX
+2019-09-12,Barclays,Equal-Weight,,main,XLNX
+2019-09-20,Bank of America,Neutral,Buy,down,XLNX
+2019-09-23,Baird,Outperform,,main,XLNX
+2019-10-01,KeyBanc,Sector Weight,Overweight,down,XLNX
+2019-10-02,SunTrust Robinson Humphrey,Hold,,main,XLNX
+2019-10-14,Nomura,Buy,Neutral,up,XLNX
+2019-10-22,Cascend,Buy,Hold,up,XLNX
+2019-10-24,Deutsche Bank,Hold,,main,XLNX
+2019-10-24,Morgan Stanley,Overweight,,main,XLNX
+2019-10-24,Barclays,Equal-Weight,,main,XLNX
+2019-10-24,BMO Capital,Market Perform,,main,XLNX
+2019-10-24,Citi,Neutral,,main,XLNX
+2019-12-18,Morgan Stanley,Overweight,,main,XLNX
+2020-01-10,B of A Securities,Underperform,Neutral,down,XLNX
+2020-01-16,Mizuho,Neutral,Buy,down,XLNX
+2020-01-29,Cascend,Buy,,reit,XLNX
+2020-01-29,Nomura,Buy,,main,XLNX
+2020-01-29,Credit Suisse,Outperform,,main,XLNX
+2020-01-29,Citigroup,Neutral,,main,XLNX
+2020-01-29,B of A Securities,Underperform,,reit,XLNX
+2020-01-29,Mizuho Securities,Neutral,,main,XLNX
+2020-02-13,Wells Fargo,Equal-Weight,,init,XLNX
+2020-03-10,Morgan Stanley,Overweight,,main,XLNX
+2020-03-18,Morgan Stanley,Overweight,,main,XLNX
+2020-03-20,Wells Fargo,Equal-Weight,,main,XLNX
+2020-03-24,Goldman Sachs,Buy,Neutral,up,XLNX
+2020-03-30,Citigroup,Neutral,,main,XLNX
+2020-04-17,Barclays,Equal-Weight,,main,XLNX
+2020-04-23,SunTrust Robinson Humphrey,Hold,,main,XLNX
+2020-04-23,Mizuho,Neutral,,main,XLNX
+2020-04-23,CFRA,Hold,,main,XLNX
+2020-04-23,Wells Fargo,Equal-Weight,,main,XLNX
+2020-04-23,Rosenblatt,Buy,,main,XLNX
+2020-06-16,Morgan Stanley,Overweight,,main,XLNX
+2020-06-16,Jefferies,Buy,,main,XLNX
+2020-06-26,Evercore ISI Group,In-Line,Outperform,down,XLNX
+2020-06-30,Rosenblatt,Buy,,main,XLNX
+2020-07-31,Rosenblatt,Buy,,main,XLNX
+2020-07-31,Morgan Stanley,Overweight,,main,XLNX
+2020-07-31,Credit Suisse,Outperform,,main,XLNX
+2020-10-12,Baird,Neutral,Outperform,down,XLNX
+2020-10-22,Wells Fargo,Equal-Weight,,main,XLNX
+2020-10-22,Morgan Stanley,Overweight,,main,XLNX
+2020-10-27,Susquehanna,Neutral,Positive,down,XLNX
+2020-10-28,JP Morgan,Neutral,Underweight,up,XLNX
+2020-10-29,Rosenblatt,Neutral,Buy,down,XLNX
+2021-07-29,Wells Fargo,Equal-Weight,,main,XLNX
+2021-08-03,Barclays,Equal-Weight,,main,XLNX
+2021-10-28,Deutsche Bank,Hold,,main,XLNX
+2021-10-28,Rosenblatt,Neutral,,main,XLNX
+2021-10-28,Wells Fargo,Equal-Weight,,main,XLNX

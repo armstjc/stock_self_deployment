@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-16,Jefferies,Buy,,init,PYCR
+2021-08-16,Needham,Buy,,init,PYCR
+2021-08-16,JMP Securities,Market Outperform,,init,PYCR
+2021-08-16,Credit Suisse,Outperform,,init,PYCR
+2021-08-16,Stifel,Buy,,init,PYCR
+2021-08-16,Deutsche Bank,Hold,,init,PYCR
+2021-08-16,Raymond James,Outperform,,init,PYCR
+2021-08-16,Baird,Outperform,,init,PYCR
+2021-08-16,Cowen & Co.,Market Perform,,init,PYCR
+2021-08-16,Truist Securities,Buy,,init,PYCR
+2021-08-16,JP Morgan,Neutral,,init,PYCR
+2021-09-01,Credit Suisse,Outperform,,main,PYCR
+2021-09-01,JMP Securities,Market Outperform,,main,PYCR
+2021-12-13,Goldman Sachs,Neutral,,init,PYCR

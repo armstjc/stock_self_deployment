@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-27,Wedbush,Outperform,,init,PRTA
+2013-10-25,Wedbush,Outperform,,main,PRTA
+2013-10-30,RBC Capital,Outperform,,init,PRTA
+2013-11-15,Bank of America,Neutral,,init,PRTA
+2013-12-12,Credit Suisse,Outperform,,main,PRTA
+2014-03-19,Morgan Stanley,Outperform,,main,PRTA
+2014-04-09,Citigroup,Buy,,init,PRTA
+2014-04-24,Citigroup,Buy,,main,PRTA
+2014-05-22,Ladenburg Thalmann,Buy,,init,PRTA
+2014-07-10,Oppenheimer,Outperform,,init,PRTA
+2014-07-11,Oppenheimer,Outperform,,init,PRTA
+2014-12-04,Citigroup,Buy,,main,PRTA
+2015-05-29,UBS,Buy,,init,PRTA
+2015-06-01,UBS,Buy,,init,PRTA
+2016-01-20,Credit Suisse,Outperform,,init,PRTA
+2016-05-13,Barclays,Overweight,,init,PRTA
+2016-08-04,Barclays,Overweight,,main,PRTA
+2016-11-03,Deutsche Bank,Buy,,init,PRTA
+2016-12-20,SunTrust Robinson Humphrey,Buy,,init,PRTA
+2017-03-02,Nomura,Buy,,init,PRTA
+2017-04-12,PiperJaffray,Overweight,,init,PRTA
+2017-04-12,Cantor Fitzgerald,Overweight,,init,PRTA
+2017-05-19,BTIG Research,Buy,,init,PRTA
+2017-07-11,Jefferies,Buy,,init,PRTA
+2017-08-17,Evercore ISI Group,Outperform,,init,PRTA
+2017-09-15,RBC Capital,Outperform,,init,PRTA
+2017-09-29,BTIG Research,Buy,,main,PRTA
+2017-11-20,Wedbush,Neutral,Outperform,down,PRTA
+2018-04-05,Barclays,Overweight,Overweight,main,PRTA
+2018-04-23,Evercore ISI Group,In-Line,Outperform,down,PRTA
+2018-04-23,Jefferies,Hold,Buy,down,PRTA
+2018-04-23,RBC Capital,Sector Perform,Outperform,down,PRTA
+2018-04-24,Deutsche Bank,Buy,Buy,main,PRTA
+2018-04-24,BTIG Research,Neutral,Buy,down,PRTA
+2018-04-24,Oppenheimer,Perform,Outperform,down,PRTA
+2018-04-24,Nomura,Buy,Buy,main,PRTA
+2018-04-24,Cantor Fitzgerald,Overweight,Overweight,main,PRTA
+2018-05-21,Barclays,Underweight,Equal-Weight,down,PRTA
+2018-06-15,Cantor Fitzgerald,Overweight,Overweight,main,PRTA
+2019-11-19,Evercore ISI Group,Outperform,In-Line,up,PRTA
+2020-07-09,Oppenheimer,Outperform,Perform,up,PRTA
+2020-10-21,Cantor Fitzgerald,Overweight,,main,PRTA
+2020-12-07,HC Wainwright & Co.,Buy,,init,PRTA
+2021-02-02,BTIG,Buy,Neutral,up,PRTA
+2021-02-02,Oppenheimer,Outperform,,main,PRTA
+2021-02-04,HC Wainwright & Co.,Buy,,main,PRTA
+2021-02-12,Jefferies,Buy,Hold,up,PRTA
+2021-05-26,Citigroup,Buy,,init,PRTA
+2021-06-10,HC Wainwright & Co.,Buy,,main,PRTA
+2021-06-11,RBC Capital,Outperform,,main,PRTA
+2021-06-18,B of A Securities,Neutral,Underperform,up,PRTA
+2021-07-13,HC Wainwright & Co.,Buy,,main,PRTA
+2021-07-13,Oppenheimer,Outperform,,main,PRTA
+2021-07-13,Citigroup,Buy,,main,PRTA
+2021-07-19,RBC Capital,Outperform,,main,PRTA
+2021-08-09,Oppenheimer,Outperform,,main,PRTA
+2021-09-14,Oppenheimer,Outperform,,main,PRTA
+2021-09-17,Cantor Fitzgerald,Overweight,,main,PRTA
+2021-09-20,Fox Advisors,Overweight,,init,PRTA
+2021-09-27,Oppenheimer,Outperform,,main,PRTA
+2021-09-30,RBC Capital,Outperform,,main,PRTA
+2021-11-19,JMP Securities,Market Outperform,,init,PRTA

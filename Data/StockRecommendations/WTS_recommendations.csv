@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-22,Brean Capital,Buy,,main,WTS
+2012-02-22,Sterne Agee,Neutral,,down,WTS
+2012-02-22,Wedbush,Neutral,,main,WTS
+2012-04-24,Brean Capital,Buy,,main,WTS
+2012-05-07,JP Morgan,Neutral,,main,WTS
+2012-08-01,S&P Capital IQ,Hold,Sell,up,WTS
+2012-09-10,JP Morgan,Neutral,,main,WTS
+2012-11-05,JP Morgan,Neutral,,main,WTS
+2013-02-19,Janney Capital,Neutral,Buy,down,WTS
+2013-11-19,Cowen & Co.,Market Perform,,init,WTS
+2014-03-04,Cowen & Co.,Underperform,Market Perform,down,WTS
+2014-03-17,BB&T Capital,Buy,,up,WTS
+2014-04-21,Oppenheimer,Outperform,Market Perform,up,WTS
+2014-05-05,Sterne Agee,Buy,Neutral,up,WTS
+2014-06-06,KeyBanc,Buy,Hold,up,WTS
+2014-09-22,Janney Capital,Neutral,Buy,down,WTS
+2014-10-31,BB&T Capital,Hold,Buy,down,WTS
+2014-12-03,Sterne Agee,Buy,,main,WTS
+2015-01-28,Boenning & Scattergood,Neutral,,init,WTS
+2015-06-16,Boenning & Scattergood,Outperform,Neutral,up,WTS
+2015-07-09,Seaport Global,,,init,WTS
+2015-08-17,Cowen & Co.,Market Perform,Underperform,up,WTS
+2016-01-04,Oppenheimer,Perform,Outperform,down,WTS
+2016-02-17,KeyBanc,Sector Weight,Overweight,down,WTS
+2016-05-06,BB&T Capital,Buy,Hold,up,WTS
+2016-06-10,Seaport Global,Neutral,Accumulate,down,WTS
+2016-09-16,Janney Capital,Neutral,,init,WTS
+2017-03-08,Goldman Sachs,Neutral,,init,WTS
+2017-09-19,Stifel Nicolaus,Buy,,init,WTS
+2017-11-03,Baird,Neutral,,main,WTS
+2018-02-14,Janney Capital,Buy,Neutral,up,WTS
+2018-05-07,Baird,Neutral,Neutral,main,WTS
+2018-08-03,Stifel Nicolaus,Buy,Buy,main,WTS
+2019-02-11,Janney Capital,Neutral,Buy,down,WTS
+2019-04-16,Stifel Nicolaus,Buy,Buy,main,WTS
+2019-05-06,Janney Capital,Buy,Neutral,up,WTS
+2019-07-02,Janney Capital,Neutral,Buy,down,WTS
+2019-08-02,Stifel,Buy,,main,WTS
+2020-02-07,Seaport Global,Neutral,Buy,down,WTS
+2020-02-11,Boenning & Scattergood,Outperform,Neutral,up,WTS
+2020-04-21,Stifel,Buy,,main,WTS
+2020-12-15,Stifel,Hold,Buy,down,WTS
+2021-08-06,Goldman Sachs,Neutral,,main,WTS
+2021-11-05,Goldman Sachs,Neutral,,main,WTS

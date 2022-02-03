@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-10-16,JP Morgan,Neutral,,init,ZLAB
+2018-02-14,JP Morgan,Overweight,Neutral,up,ZLAB
+2018-02-14,JP Morgan,Overweight,Overweight,main,ZLAB
+2019-01-29,Credit Suisse,Outperform,,init,ZLAB
+2019-07-05,Macquarie,Outperform,,init,ZLAB
+2019-09-04,China Renaissance,Buy,,init,ZLAB
+2019-12-30,Citigroup,Buy,,main,ZLAB
+2020-09-10,SVB Leerink,Outperform,,main,ZLAB
+2021-02-03,SVB Leerink,Outperform,,main,ZLAB
+2021-04-14,SVB Leerink,Outperform,,main,ZLAB
+2021-06-01,SVB Leerink,Outperform,,main,ZLAB
+2021-10-12,Bernstein,Market Perform,,init,ZLAB
+2021-11-10,SVB Leerink,Outperform,,main,ZLAB
+2021-11-11,Citigroup,Buy,,main,ZLAB
+2021-12-15,JP Morgan,Overweight,,main,ZLAB

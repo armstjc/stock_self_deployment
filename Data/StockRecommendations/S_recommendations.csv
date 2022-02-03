@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-07-26,Morgan Stanley,Overweight,,init,S
+2021-07-26,Needham,Buy,,init,S
+2021-07-26,Barclays,Overweight,,init,S
+2021-07-26,Cowen & Co.,Outperform,,init,S
+2021-07-26,Wells Fargo,Overweight,,init,S
+2021-07-26,Loop Capital,Buy,,init,S
+2021-07-26,Deutsche Bank,Buy,,init,S
+2021-07-26,Piper Sandler,Neutral,,init,S
+2021-07-26,Jefferies,Hold,,init,S
+2021-07-26,BTIG,Buy,,init,S
+2021-07-26,Goldman Sachs,Buy,,init,S
+2021-07-26,B of A Securities,Buy,,init,S
+2021-09-09,Needham,Buy,,main,S
+2021-09-09,Wells Fargo,Overweight,,main,S
+2021-09-09,Barclays,Overweight,,main,S
+2021-09-09,Morgan Stanley,Overweight,,main,S
+2021-11-22,Morgan Stanley,Overweight,,main,S
+2021-12-08,Wells Fargo,Overweight,,main,S
+2021-12-08,Piper Sandler,Neutral,,main,S
+2021-12-08,B of A Securities,Buy,,main,S
+2021-12-08,Deutsche Bank,Buy,,main,S

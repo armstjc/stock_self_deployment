@@ -1,0 +1,105 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-06,Morgan Stanley,Equal-Weight,,init,PKI
+2012-04-27,UBS,Buy,,main,PKI
+2012-04-27,Jefferies,Hold,,main,PKI
+2012-07-10,ISI Group,Overweight,,init,PKI
+2012-07-23,Barclays,Equal-Weight,,main,PKI
+2012-10-02,Cowen & Co.,Neutral,,init,PKI
+2012-10-03,JP Morgan,Overweight,,init,PKI
+2012-10-26,UBS,Buy,,main,PKI
+2012-10-26,Jefferies,Hold,,main,PKI
+2013-01-03,Morgan Stanley,Overweight,,up,PKI
+2013-01-04,Morgan Stanley,Overweight,Equal-Weight,up,PKI
+2013-01-17,CLSA,Buy,Outperform,up,PKI
+2013-02-01,UBS,Buy,,main,PKI
+2013-02-01,Jefferies,Hold,,main,PKI
+2013-04-18,Citigroup,Neutral,,init,PKI
+2013-04-26,ISI Group,Buy,,down,PKI
+2013-08-15,Janney Capital,Neutral,,init,PKI
+2013-09-16,PiperJaffray,Overweight,,init,PKI
+2013-09-17,PiperJaffray,Overweight,,init,PKI
+2013-10-31,Jefferies,Hold,,main,PKI
+2013-12-10,Macquarie,Outperform,Neutral,up,PKI
+2013-12-12,Bank of America,Buy,,main,PKI
+2014-01-06,Cowen & Co.,Outperform,Market Perform,up,PKI
+2014-01-31,UBS,Buy,,main,PKI
+2014-04-09,ISI Group,Neutral,Buy,down,PKI
+2014-04-25,Jefferies,Hold,,main,PKI
+2014-04-25,JP Morgan,Overweight,,main,PKI
+2014-05-05,Janney Capital,Buy,Neutral,up,PKI
+2014-08-01,JP Morgan,Overweight,,main,PKI
+2014-08-12,Stifel Nicolaus,Buy,,init,PKI
+2014-09-08,Morgan Stanley,Overweight,,init,PKI
+2014-12-02,Goldman Sachs,Neutral,Buy,down,PKI
+2015-01-06,JP Morgan,Neutral,Overweight,down,PKI
+2015-03-10,UBS,,,init,PKI
+2015-05-04,KeyBanc,Sector Weight,Overweight,down,PKI
+2015-06-30,Stifel Nicolaus,Buy,,main,PKI
+2015-07-31,Citigroup,Buy,,main,PKI
+2015-08-27,Cantor Fitzgerald,Buy,,init,PKI
+2015-12-03,Wedbush,Neutral,Outperform,down,PKI
+2015-12-08,Goldman Sachs,Sell,Neutral,down,PKI
+2016-01-06,Deutsche Bank,Hold,,init,PKI
+2016-01-07,Cowen & Co.,Market Perform,Outperform,down,PKI
+2016-02-05,Stifel Nicolaus,Buy,,main,PKI
+2016-03-01,Barclays,Underweight,,init,PKI
+2016-04-05,Bank of America,Neutral,Buy,down,PKI
+2016-08-05,JP Morgan,Neutral,,main,PKI
+2016-08-05,Jefferies,Hold,,main,PKI
+2016-08-05,Barclays,Underweight,,main,PKI
+2016-08-05,Mizuho,Neutral,Buy,down,PKI
+2016-09-22,UBS,Buy,,main,PKI
+2017-01-18,Deutsche Bank,Hold,,init,PKI
+2017-02-03,Bank of America,Underperform,Neutral,down,PKI
+2017-03-27,Janney Capital,Buy,Neutral,up,PKI
+2017-04-19,Cantor Fitzgerald,Neutral,,down,PKI
+2017-07-10,Morgan Stanley,Overweight,,main,PKI
+2017-07-13,Wells Fargo,Market Perform,,init,PKI
+2017-08-07,Citigroup,Buy,,main,PKI
+2017-10-06,Morgan Stanley,Overweight,,main,PKI
+2017-11-03,Morgan Stanley,Overweight,,main,PKI
+2017-11-03,Baird,Outperform,,main,PKI
+2017-12-19,Bank of America,Neutral,Underperform,up,PKI
+2018-01-04,Evercore ISI Group,In-Line,,init,PKI
+2018-01-26,Barclays,Underweight,Underweight,main,PKI
+2018-04-09,Deutsche Bank,Hold,Hold,main,PKI
+2018-04-11,Morgan Stanley,Overweight,Overweight,main,PKI
+2018-05-01,Baird,Outperform,Outperform,main,PKI
+2018-05-01,Morgan Stanley,Overweight,Overweight,main,PKI
+2018-05-01,Bank of America,Neutral,Neutral,main,PKI
+2018-08-02,Bank of America,Neutral,Neutral,main,PKI
+2018-08-02,Barclays,Underweight,Underweight,main,PKI
+2018-08-02,Morgan Stanley,Overweight,Overweight,main,PKI
+2018-09-05,Barclays,Equal-Weight,Underweight,up,PKI
+2018-10-10,Morgan Stanley,Overweight,Overweight,main,PKI
+2018-11-02,Janney Capital,Neutral,Buy,down,PKI
+2019-01-03,Morgan Stanley,Overweight,Overweight,main,PKI
+2019-01-03,Needham,Hold,,init,PKI
+2019-04-09,Goldman Sachs,Conviction Buy,Neutral,up,PKI
+2019-07-30,UBS,Neutral,,main,PKI
+2019-09-26,Bank of America,Buy,Neutral,up,PKI
+2019-10-18,UBS,Neutral,,main,PKI
+2019-10-31,Piper Jaffray,Neutral,Overweight,down,PKI
+2019-11-15,Stifel Nicolaus,Buy,,init,PKI
+2020-01-02,Evercore ISI Group,Outperform,In-Line,up,PKI
+2020-01-07,Citigroup,Neutral,,init,PKI
+2020-01-08,Wells Fargo,Equal-Weight,,init,PKI
+2020-01-28,UBS,Neutral,,main,PKI
+2020-03-20,Citigroup,Neutral,,main,PKI
+2020-03-26,Barclays,Equal-Weight,,main,PKI
+2020-03-30,Wells Fargo,Equal-Weight,,main,PKI
+2020-04-02,Stifel,Buy,,main,PKI
+2020-04-20,Citigroup,Neutral,,main,PKI
+2020-05-06,JP Morgan,Neutral,,main,PKI
+2020-05-06,Baird,Outperform,,main,PKI
+2020-05-06,CFRA,Hold,,main,PKI
+2020-05-07,UBS,Neutral,,main,PKI
+2020-07-29,JP Morgan,Neutral,,main,PKI
+2020-07-29,Stifel,Buy,,main,PKI
+2020-09-11,Needham,Buy,Hold,up,PKI
+2020-10-29,Wells Fargo,Equal-Weight,,main,PKI
+2020-11-09,Needham,Buy,,main,PKI
+2020-11-10,KeyBanc,Sector Weight,,init,PKI
+2021-01-07,Wells Fargo,Overweight,Equal-Weight,up,PKI
+2021-11-03,Wells Fargo,Overweight,,main,PKI
+2021-12-14,Wells Fargo,Overweight,,main,PKI

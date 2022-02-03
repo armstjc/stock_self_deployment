@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-14,DA Davidson,Neutral,Buy,down,RYN
+2013-01-25,DA Davidson,Neutral,,main,RYN
+2013-01-25,RBC Capital,Sector Perform,Outperform,down,RYN
+2013-01-28,Deutsche Bank,Hold,,main,RYN
+2013-01-29,Deutsche Bank,Hold,,main,RYN
+2013-04-10,Deutsche Bank,Hold,,main,RYN
+2013-04-18,Stifel Nicolaus,Buy,,main,RYN
+2013-06-18,DA Davidson,Buy,Neutral,up,RYN
+2013-07-26,DA Davidson,Buy,,main,RYN
+2013-08-16,Bank of America,Buy,,main,RYN
+2013-10-25,Bank of America,Neutral,Buy,down,RYN
+2013-10-25,Deutsche Bank,Sell,Hold,down,RYN
+2013-11-18,RBC Capital,Outperform,Sector Perform,up,RYN
+2013-11-21,Deutsche Bank,Hold,Sell,up,RYN
+2013-12-12,JP Morgan,Underweight,,init,RYN
+2014-06-30,RBC Capital,Sector Perform,Outperform,down,RYN
+2014-06-30,DA Davidson,Neutral,Buy,down,RYN
+2014-09-03,BMO Capital,Market Perform,,init,RYN
+2014-10-10,RBC Capital,Outperform,Sector Perform,up,RYN
+2014-11-11,DA Davidson,Neutral,,main,RYN
+2014-11-11,RBC Capital,Sector Perform,Outperform,down,RYN
+2014-11-11,Bank of America,Underperform,Neutral,down,RYN
+2014-11-17,RBC Capital,Outperform,Sector Perform,up,RYN
+2015-02-17,RBC Capital,Sector Perform,Outperform,down,RYN
+2015-05-08,DA Davidson,Buy,Neutral,up,RYN
+2016-01-29,BMO Capital,Outperform,Market Perform,up,RYN
+2016-09-07,Buckingham Research,Neutral,Buy,down,RYN
+2017-01-09,Raymond James,Outperform,Market Perform,up,RYN
+2017-02-10,DA Davidson,Neutral,Buy,down,RYN
+2017-08-14,BMO Capital,Market Perform,Outperform,down,RYN
+2018-03-01,Citigroup,Neutral,,init,RYN
+2018-05-08,Raymond James,Outperform,Outperform,main,RYN
+2018-07-18,BMO Capital,Underperform,Market Perform,down,RYN
+2019-02-08,BMO Capital,Market Perform,Underperform,up,RYN
+2019-04-02,Seaport Global,Neutral,,init,RYN
+2019-08-09,BMO Capital,Market Perform,,main,RYN
+2019-08-09,Bank of America,Underperform,,reit,RYN
+2019-11-01,DA Davidson,Buy,Neutral,up,RYN
+2020-01-17,Citigroup,Neutral,,main,RYN
+2020-02-10,Raymond James,Outperform,,main,RYN
+2020-03-27,Citigroup,Buy,Neutral,up,RYN
+2020-05-06,Raymond James,Outperform,,main,RYN
+2020-08-10,Citigroup,Neutral,Buy,down,RYN
+2020-09-08,Raymond James,Outperform,,main,RYN
+2020-12-15,Raymond James,Market Perform,Outperform,down,RYN
+2021-05-10,BMO Capital,Market Perform,,main,RYN
+2021-11-05,RBC Capital,Sector Perform,,main,RYN

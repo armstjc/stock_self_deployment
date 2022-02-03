@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-27,Morgan Stanley,Equal-Weight,,main,TK
+2012-04-16,Morgan Stanley,Equal-Weight,,main,TK
+2012-04-18,Jefferies,Buy,,main,TK
+2012-05-21,Morgan Stanley,Equal-Weight,,main,TK
+2012-07-24,Jefferies,Buy,,main,TK
+2012-08-10,Credit Suisse,Neutral,Outperform,down,TK
+2012-08-13,Morgan Stanley,Equal-Weight,,main,TK
+2012-11-09,Jefferies,Buy,,main,TK
+2013-01-07,Barclays,Equal-Weight,,main,TK
+2013-01-30,Deutsche Bank,Buy,,main,TK
+2013-02-25,Deutsche Bank,Buy,,main,TK
+2013-03-27,RBC Capital,Outperform,,init,TK
+2013-04-17,Global Hunter Securities,Buy,,init,TK
+2013-04-23,Jefferies,Buy,,main,TK
+2013-05-15,Morgan Stanley,Equal-Weight,,main,TK
+2013-06-26,BTIG Research,Buy,,init,TK
+2013-10-08,Barclays,Overweight,Equal-Weight,up,TK
+2013-10-22,Jefferies,Hold,Buy,down,TK
+2014-02-27,Credit Suisse,Outperform,Neutral,up,TK
+2014-04-08,Raymond James,Outperform,,init,TK
+2014-04-23,Deutsche Bank,Hold,,main,TK
+2014-05-16,Barclays,Overweight,,main,TK
+2014-07-28,Jefferies,Hold,,main,TK
+2014-08-05,Barclays,Overweight,,main,TK
+2014-08-19,Raymond James,Strong Buy,Outperform,up,TK
+2014-09-16,Deutsche Bank,Hold,,init,TK
+2014-09-30,Deutsche Bank,Buy,Hold,up,TK
+2015-02-20,Deutsche Bank,Buy,,main,TK
+2015-05-11,Deutsche Bank,Hold,Buy,down,TK
+2015-05-18,JP Morgan,Overweight,,init,TK
+2015-08-07,Credit Suisse,Outperform,,main,TK
+2015-08-10,Jefferies,Hold,,main,TK
+2015-12-17,Seaport Global,Neutral,Buy,down,TK
+2015-12-17,Wells Fargo,Market Perform,Outperform,down,TK
+2015-12-17,RBC Capital,Sector Perform,Outperform,down,TK
+2015-12-21,Raymond James,Market Perform,Outperform,down,TK
+2016-01-19,Jefferies,Hold,,main,TK
+2016-02-22,Deutsche Bank,Hold,,main,TK
+2016-05-31,Morgan Stanley,Equal-Weight,,main,TK
+2016-07-27,Jefferies,Hold,,main,TK
+2017-06-09,Morgan Stanley,Underweight,Equal-Weight,down,TK
+2018-02-12,Morgan Stanley,Underweight,Underweight,main,TK
+2018-06-13,Morgan Stanley,Underweight,Underweight,main,TK
+2018-10-22,Bank of America,Buy,,init,TK

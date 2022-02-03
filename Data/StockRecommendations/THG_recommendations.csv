@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-19,Sterne Agee,Buy,,main,THG
+2012-08-03,Barclays,Equal-Weight,,main,THG
+2013-03-18,Keefe Bruyette & Woods,Outperform,Market Perform,up,THG
+2013-03-26,Macquarie,Outperform,Neutral,up,THG
+2013-09-24,JMP Securities,Market Outperform,Market Perform,up,THG
+2014-02-14,Guggenheim,Buy,,init,THG
+2014-07-21,JMP Securities,Market Perform,,main,THG
+2014-10-30,JMP Securities,Market Outperform,,main,THG
+2015-01-21,JMP Securities,Market Outperform,,main,THG
+2015-04-09,JMP Securities,Market Outperform,,main,THG
+2015-07-14,PiperJaffray,Overweight,,init,THG
+2015-07-20,JMP Securities,Market Outperform,,main,THG
+2015-11-12,PiperJaffray,Neutral,Overweight,down,THG
+2016-03-28,BMO Capital,Outperform,Market Perform,up,THG
+2016-10-24,Sandler O'Neill,Buy,,init,THG
+2017-01-12,Keefe Bruyette & Woods,Underperform,Market Perform,down,THG
+2017-05-18,Keefe Bruyette & Woods,Market Perform,Underperform,up,THG
+2018-08-30,Sandler O'Neill,Neutral,Buy,down,THG
+2018-09-26,Sandler O'Neill,Buy,Neutral,up,THG
+2019-03-01,Compass Point,Buy,,init,THG
+2020-01-22,Buckingham,Buy,,main,THG
+2020-03-11,Piper Sandler,Overweight,,main,THG
+2020-04-06,Piper Sandler,Overweight,,main,THG
+2020-04-16,JMP Securities,Market Outperform,,main,THG
+2020-06-03,Piper Sandler,Overweight,,main,THG
+2020-09-03,Credit Suisse,Neutral,,init,THG
+2021-04-16,JMP Securities,Market Outperform,,main,THG
+2021-05-21,B of A Securities,Buy,,init,THG
+2021-08-17,Wolfe Research,Peer Perform,,init,THG

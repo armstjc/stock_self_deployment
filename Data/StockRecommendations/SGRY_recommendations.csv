@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-10-26,RBC Capital,Outperform,,init,SGRY
+2015-10-26,Goldman Sachs,Neutral,,init,SGRY
+2015-10-26,Jefferies,Buy,,init,SGRY
+2015-10-26,Raymond James,Strong Buy,,init,SGRY
+2015-10-27,Stifel Nicolaus,Buy,,init,SGRY
+2016-03-14,Citigroup,Buy,,main,SGRY
+2016-06-09,KeyBanc,Overweight,,init,SGRY
+2017-01-31,Benchmark,Buy,,init,SGRY
+2017-03-10,Stifel Nicolaus,Hold,Buy,down,SGRY
+2017-08-09,KeyBanc,Sector Weight,Overweight,down,SGRY
+2017-08-09,Stifel Nicolaus,Sell,Hold,down,SGRY
+2017-08-09,Raymond James,Market Perform,Strong Buy,down,SGRY
+2017-08-11,Citigroup,Buy,,main,SGRY
+2017-10-09,Bank of America,Buy,,main,SGRY
+2017-11-01,Bank of America,Neutral,Buy,down,SGRY
+2017-11-01,Jefferies,Buy,,main,SGRY
+2017-11-13,Citigroup,Buy,,main,SGRY
+2018-04-11,Stifel Nicolaus,Sell,Sell,main,SGRY
+2018-06-28,Stifel Nicolaus,Hold,Sell,up,SGRY
+2018-08-07,Leerink Swann,Outperform,,init,SGRY
+2018-08-10,RBC Capital,Outperform,Outperform,main,SGRY
+2018-09-18,Bank of America,Buy,Neutral,up,SGRY
+2018-11-16,UBS,Neutral,,init,SGRY
+2019-11-12,UBS,Neutral,,main,SGRY
+2019-11-20,Bank of America,Buy,,reit,SGRY
+2019-12-10,Citigroup,Buy,,main,SGRY
+2020-01-14,Benchmark,Buy,,reit,SGRY
+2020-02-20,UBS,Neutral,,main,SGRY
+2020-03-03,Benchmark,Hold,Buy,down,SGRY
+2020-04-27,Benchmark,Buy,Hold,up,SGRY
+2020-05-13,Citigroup,Buy,,main,SGRY
+2020-07-27,UBS,Neutral,,main,SGRY
+2020-09-17,B of A Securities,Buy,,reit,SGRY
+2020-09-17,Benchmark,Buy,,main,SGRY
+2021-09-10,Cowen & Co.,Market Perform,,init,SGRY
+2021-10-18,SVB Leerink,Outperform,,init,SGRY
+2021-11-01,JP Morgan,Neutral,,init,SGRY
+2021-11-03,SVB Leerink,Outperform,,main,SGRY
+2021-11-29,Stifel,Buy,Hold,up,SGRY
+2021-11-30,Barclays,Overweight,,init,SGRY
+2021-12-03,SVB Leerink,Outperform,,main,SGRY

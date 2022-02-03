@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-02-23,Wells Fargo,Outperform,Market Perform,up,SYNH
+2018-02-26,KeyBanc,Overweight,Overweight,main,SYNH
+2018-03-01,Barclays,Equal-Weight,Equal-Weight,main,SYNH
+2018-04-20,Mitsubishi UFJ,Overweight,,init,SYNH
+2018-08-06,Barclays,Equal-Weight,Equal-Weight,main,SYNH
+2018-08-10,KeyBanc,Overweight,Overweight,main,SYNH
+2018-10-04,Evercore ISI Group,Outperform,,init,SYNH
+2018-10-19,William Blair,Outperform,Market Perform,up,SYNH
+2019-01-03,Barclays,Equal-Weight,Equal-Weight,main,SYNH
+2019-03-19,Credit Suisse,Outperform,Outperform,main,SYNH
+2019-08-08,KeyBanc,Overweight,,main,SYNH
+2019-08-23,Credit Suisse,Outperform,,main,SYNH
+2019-08-29,UBS,Neutral,,main,SYNH
+2019-09-03,KeyBanc,Overweight,,main,SYNH
+2020-01-07,Citigroup,Buy,,init,SYNH
+2020-01-16,KeyBanc,Overweight,,main,SYNH
+2020-01-16,Baird,Outperform,,main,SYNH
+2020-02-21,Mizuho,Neutral,,main,SYNH
+2020-02-21,UBS,Neutral,,main,SYNH
+2020-02-21,Baird,Outperform,,main,SYNH
+2020-02-21,Credit Suisse,Outperform,,main,SYNH
+2020-03-17,SunTrust Robinson Humphrey,Buy,,main,SYNH
+2020-03-23,Jefferies,Buy,,main,SYNH
+2020-03-26,Barclays,Equal-Weight,,main,SYNH
+2020-03-30,Goldman Sachs,Neutral,Buy,down,SYNH
+2020-04-02,Credit Suisse,Outperform,,main,SYNH
+2020-04-09,Citigroup,Buy,,main,SYNH
+2020-04-30,CFRA,Buy,,main,SYNH
+2020-05-01,UBS,Neutral,,main,SYNH
+2020-05-01,SunTrust Robinson Humphrey,Buy,,main,SYNH
+2020-08-12,Truist Securities,Buy,,main,SYNH
+2020-10-01,Goldman Sachs,Buy,Neutral,up,SYNH
+2020-10-06,Mizuho,Buy,Neutral,up,SYNH
+2020-12-07,Credit Suisse,Outperform,,main,SYNH
+2021-03-03,Barclays,Equal-Weight,,init,SYNH
+2021-03-08,KeyBanc,Overweight,,main,SYNH
+2021-04-30,Mizuho,Buy,,main,SYNH
+2021-06-02,Truist Securities,Buy,,main,SYNH
+2021-07-13,Barclays,Equal-Weight,,main,SYNH
+2021-08-10,Credit Suisse,Outperform,,main,SYNH
+2021-11-04,Keybanc,Overweight,,main,SYNH
+2021-11-05,Barclays,Overweight,Equal-Weight,up,SYNH
+2021-12-15,Citigroup,Neutral,Buy,down,SYNH

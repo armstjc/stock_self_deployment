@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-12,Sidoti & Co.,Neutral,Buy,down,PRAA
+2013-01-17,Janney Capital,Neutral,,init,PRAA
+2013-08-12,Sidoti & Co.,Buy,Neutral,up,PRAA
+2014-05-23,Janney Capital,Buy,Neutral,up,PRAA
+2014-11-25,Macquarie,Outperform,,init,PRAA
+2015-05-11,Macquarie,Neutral,Outperform,down,PRAA
+2015-10-14,JMP Securities,Market Outperform,,main,PRAA
+2015-11-17,Raymond James,Strong Buy,Market Perform,up,PRAA
+2016-02-26,Macquarie,Neutral,,main,PRAA
+2016-05-10,Raymond James,Outperform,Strong Buy,down,PRAA
+2016-06-07,First Analysis,Overweight,,init,PRAA
+2016-11-08,Raymond James,Market Perform,Outperform,down,PRAA
+2017-05-25,Keefe Bruyette & Woods,Outperform,,init,PRAA
+2017-09-21,Raymond James,Underperform,Market Perform,down,PRAA
+2017-10-04,Janney Capital,Sell,Neutral,down,PRAA
+2017-10-10,Keefe Bruyette & Woods,Market Perform,Outperform,down,PRAA
+2017-11-09,Janney Capital,Neutral,Sell,up,PRAA
+2018-01-09,Oppenheimer,Perform,,init,PRAA
+2018-02-28,Raymond James,Market Perform,Underperform,up,PRAA
+2019-08-09,Buckingham Research,Neutral,,main,PRAA
+2020-04-13,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,PRAA
+2020-05-08,JMP Securities,Market Outperform,Market Perform,up,PRAA
+2021-11-09,JMP Securities,Market Outperform,,main,PRAA

@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-15,UBS,Neutral,,main,SAH
+2012-05-23,UBS,Neutral,,main,SAH
+2012-07-24,UBS,Neutral,,main,SAH
+2012-10-24,UBS,Neutral,,main,SAH
+2013-05-29,CL King,Buy,,init,SAH
+2013-05-30,UBS,Sell,Neutral,down,SAH
+2013-10-22,Stephens & Co.,Equal-Weight,Overweight,down,SAH
+2014-07-23,Bank of America,Underperform,Buy,down,SAH
+2014-09-29,Morgan Stanley,Overweight,Underperform,up,SAH
+2015-02-25,Bank of America,Neutral,Underperform,up,SAH
+2015-07-22,Bank of America,Buy,Neutral,up,SAH
+2015-11-09,Goldman Sachs,Neutral,Sell,up,SAH
+2016-04-11,Jefferies,Hold,,init,SAH
+2017-01-10,CL King,Neutral,Buy,down,SAH
+2017-10-19,Bank of America,Underperform,Neutral,down,SAH
+2018-03-14,Morgan Stanley,Overweight,Overweight,main,SAH
+2018-07-10,Morgan Stanley,Underweight,Overweight,down,SAH
+2018-07-18,Buckingham,Neutral,Neutral,main,SAH
+2018-08-15,Morgan Stanley,Underweight,Underweight,main,SAH
+2019-02-19,JP Morgan,Underweight,,init,SAH
+2019-04-26,Bank of America,Buy,Neutral,up,SAH
+2019-05-06,Morgan Stanley,Underweight,,main,SAH
+2019-06-05,Stephens & Co.,Overweight,Equal-Weight,up,SAH
+2019-07-15,Buckingham Research,Neutral,,main,SAH
+2019-08-02,Morgan Stanley,Underweight,,main,SAH
+2019-08-15,Bank of America,Neutral,Buy,down,SAH
+2019-09-10,JP Morgan,Neutral,Underweight,up,SAH
+2019-09-13,Bank of America,Underperform,Neutral,down,SAH
+2019-10-15,Morgan Stanley,Underweight,,main,SAH
+2019-11-14,Morgan Stanley,Equal-Weight,Underweight,up,SAH
+2019-12-18,JP Morgan,Neutral,,main,SAH
+2020-02-20,JP Morgan,Neutral,,main,SAH
+2020-03-11,JP Morgan,Neutral,,main,SAH
+2020-03-12,Benchmark,Buy,,init,SAH
+2020-03-23,Benchmark,Buy,,main,SAH
+2020-03-30,Morgan Stanley,Equal-Weight,,main,SAH
+2020-04-13,Morgan Stanley,Equal-Weight,,main,SAH
+2020-05-05,Morgan Stanley,Equal-Weight,,main,SAH
+2020-05-18,Morgan Stanley,Equal-Weight,,main,SAH
+2020-06-17,Benchmark,Buy,,main,SAH
+2020-07-10,Morgan Stanley,Equal-Weight,,main,SAH
+2020-08-05,Morgan Stanley,Equal-Weight,,main,SAH
+2020-10-15,B of A Securities,Underperform,,main,SAH
+2020-10-19,Seaport Global,Buy,,init,SAH
+2020-11-17,B of A Securities,Buy,Underperform,up,SAH
+2020-12-07,Morgan Stanley,Equal-Weight,,main,SAH
+2021-01-15,JP Morgan,Overweight,Neutral,up,SAH
+2021-05-07,Morgan Stanley,Equal-Weight,,main,SAH
+2021-07-26,Morgan Stanley,Equal-Weight,,main,SAH
+2021-08-05,Morgan Stanley,Equal-Weight,,main,SAH
+2021-11-17,Morgan Stanley,Underweight,Equal-Weight,down,SAH

@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-06,KeyBanc,Hold,,down,VRA
+2012-03-15,Jefferies,Buy,,main,VRA
+2012-06-01,Citigroup,Neutral,,down,VRA
+2012-06-01,Jefferies,Hold,,down,VRA
+2012-06-06,JP Morgan,Neutral,,main,VRA
+2012-08-30,PiperJaffray,Overweight,,main,VRA
+2012-08-30,Jefferies,Hold,,main,VRA
+2012-08-30,JP Morgan,Neutral,,main,VRA
+2012-09-19,JP Morgan,Overweight,Neutral,up,VRA
+2012-12-06,Jefferies,Hold,,main,VRA
+2012-12-13,Jefferies,Buy,Hold,up,VRA
+2013-01-14,Lazard,Neutral,Buy,down,VRA
+2013-03-04,Sterne Agee,Underperform,,init,VRA
+2013-03-14,Sterne Agee,Underperform,,main,VRA
+2013-03-14,William Blair,Market Perform,Outperform,down,VRA
+2013-05-21,Standpoint Research,Buy,,init,VRA
+2013-06-06,PiperJaffray,Neutral,Overweight,down,VRA
+2013-06-06,Jefferies,Buy,,main,VRA
+2013-06-06,Baird,Neutral,Outperform,down,VRA
+2013-06-06,Wells Fargo,Market Perform,Outperform,down,VRA
+2013-06-06,Lazard,Sell,Neutral,down,VRA
+2013-06-07,Sterne Agee,Neutral,Underperform,up,VRA
+2013-09-12,Jefferies,Buy,,main,VRA
+2014-03-20,Citigroup,Hold,,main,VRA
+2014-03-20,Standpoint Research,Hold,Buy,down,VRA
+2014-06-06,Citigroup,Neutral,,main,VRA
+2014-06-24,Buckingham Research,Neutral,,init,VRA
+2014-07-02,Standpoint Research,Buy,Hold,up,VRA
+2014-09-10,Standpoint Research,,,main,VRA
+2014-09-11,Baird,Outperform,Neutral,up,VRA
+2014-09-17,Wunderlich,Buy,,init,VRA
+2015-03-11,Wunderlich,Hold,Buy,down,VRA
+2015-03-12,Cowen & Co.,Underperform,Market Perform,down,VRA
+2015-06-04,Baird,Neutral,Outperform,down,VRA
+2015-06-04,Jefferies,Buy,,main,VRA
+2015-08-18,Jefferies,Hold,Buy,down,VRA
+2015-09-03,Cowen & Co.,Underperform,,main,VRA
+2015-12-10,Standpoint Research,Hold,Buy,down,VRA
+2015-12-18,Cowen & Co.,Market Perform,Underperform,up,VRA
+2016-01-15,Standpoint Research,Buy,Hold,up,VRA
+2016-03-24,Wunderlich,Buy,Hold,up,VRA
+2016-04-25,Cowen & Co.,Market Perform,,main,VRA
+2016-10-06,KeyBanc,Sector Weight,Overweight,down,VRA
+2019-10-24,Small Cap Consumer Research,Buy,,init,VRA
+2019-12-17,Cowen & Co.,Outperform,Market Perform,up,VRA
+2021-03-22,Cowen & Co.,Market Perform,Outperform,down,VRA
+2021-06-09,Small Cap Consumer Research,Buy,,main,VRA
+2021-06-10,Telsey Advisory Group,Market Perform,,main,VRA
+2021-09-02,Telsey Advisory Group,Market Perform,,main,VRA
+2021-12-09,Telsey Advisory Group,Market Perform,,main,VRA

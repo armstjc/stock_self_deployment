@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-09,Goldman Sachs,Buy,,up,SXC
+2012-04-12,Brean Capital,Hold,,init,SXC
+2012-04-30,Oppenheimer,Outperform,,main,SXC
+2012-05-02,Goldman Sachs,Buy,,main,SXC
+2012-07-20,Brean Capital,Buy,Hold,up,SXC
+2012-12-12,BB&T Capital,Hold,Buy,down,SXC
+2013-07-26,Bank of America,Neutral,Underperform,up,SXC
+2013-12-13,Bank of America,Buy,Neutral,up,SXC
+2013-12-17,Credit Suisse,Neutral,Outperform,down,SXC
+2014-01-31,Credit Suisse,Outperform,Market Perform,up,SXC
+2014-05-13,Barclays,Equal-Weight,,main,SXC
+2014-08-20,Credit Suisse,Neutral,Outperform,down,SXC
+2014-09-17,Bank of America,Buy,,main,SXC
+2015-04-15,JP Morgan,Neutral,,main,SXC
+2015-09-18,FBR Capital,Outperform,,init,SXC
+2015-12-02,Clarksons Platou,Neutral,Buy,down,SXC
+2015-12-09,Bank of America,Underperform,Neutral,down,SXC
+2018-03-06,B. Riley FBR,Buy,,main,SXC
+2018-04-03,Seaport Global,Buy,,init,SXC
+2018-04-30,B. Riley FBR,Buy,Buy,main,SXC
+2019-09-30,B. Riley,Neutral,Buy,down,SXC
+2019-12-05,B. Riley,Buy,Neutral,up,SXC
+2020-01-30,B. Riley,Buy,,main,SXC
+2020-02-06,Benchmark,Hold,,init,SXC
+2020-03-24,B. Riley FBR,Buy,,main,SXC

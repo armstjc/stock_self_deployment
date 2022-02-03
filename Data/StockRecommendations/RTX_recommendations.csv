@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-12,Sterne Agee,Buy,,main,RTX
+2012-03-19,Citigroup,Neutral,,main,RTX
+2012-03-20,Drexel Hamilton,Buy,,main,RTX
+2012-03-22,Jefferies,Buy,,main,RTX
+2012-03-23,Jefferies,Buy,,main,RTX
+2012-04-11,Deutsche Bank,Buy,,main,RTX
+2020-09-08,Morgan Stanley,Overweight,,init,RTX
+2020-10-12,Credit Suisse,Outperform,,main,RTX
+2020-11-10,JP Morgan,Overweight,Neutral,up,RTX
+2020-12-17,DZ Bank,Buy,Hold,up,RTX
+2021-04-09,Wolfe Research,Outperform,,init,RTX
+2021-04-12,Susquehanna,Positive,,main,RTX
+2021-04-14,Credit Suisse,Outperform,,main,RTX
+2021-04-28,Morgan Stanley,Overweight,,main,RTX
+2021-05-07,Redburn Partners,Buy,,init,RTX
+2021-05-13,Wells Fargo,Equal-Weight,,init,RTX
+2021-05-19,Credit Suisse,Outperform,,main,RTX
+2021-06-03,Jefferies,Buy,,main,RTX
+2021-07-28,Susquehanna,Positive,,main,RTX
+2021-07-29,Argus Research,Buy,Hold,up,RTX

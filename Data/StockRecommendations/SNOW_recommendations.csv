@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-09-21,Summit Insights Group,Sell,,init,SNOW
+2020-10-01,Jefferies,Hold,,init,SNOW
+2020-10-02,Bernstein,Market Perform,,init,SNOW
+2020-10-08,Atlantic Equities,Underweight,,init,SNOW
+2020-10-12,Canaccord Genuity,Hold,,init,SNOW
+2020-10-12,Oppenheimer,Outperform,,init,SNOW
+2020-10-12,Morgan Stanley,Equal-Weight,,init,SNOW
+2020-10-12,Stifel,Hold,,init,SNOW
+2020-10-12,Truist Securities,Buy,,init,SNOW
+2020-10-12,Mizuho,Buy,,init,SNOW
+2020-10-12,Deutsche Bank,Buy,,init,SNOW
+2020-10-12,Piper Sandler,Overweight,,init,SNOW
+2020-10-12,Barclays,Equal-Weight,,init,SNOW
+2020-10-12,JP Morgan,Neutral,,init,SNOW
+2020-10-12,Cowen & Co.,Outperform,,init,SNOW
+2020-12-03,Piper Sandler,Overweight,,main,SNOW
+2020-12-03,Canaccord Genuity,Hold,,main,SNOW
+2020-12-03,Credit Suisse,Neutral,,main,SNOW
+2020-12-03,Morgan Stanley,Equal-Weight,,main,SNOW
+2021-01-15,Credit Suisse,Neutral,,main,SNOW
+2021-01-20,Rosenblatt,Neutral,,init,SNOW
+2021-01-22,Goldman Sachs,Neutral,,init,SNOW
+2021-03-04,Deutsche Bank,Buy,Hold,up,SNOW
+2021-03-04,Morgan Stanley,Equal-Weight,,main,SNOW
+2021-03-04,Citigroup,Neutral,,main,SNOW
+2021-03-04,Barclays,Equal-Weight,,main,SNOW
+2021-03-04,Credit Suisse,Neutral,,main,SNOW
+2021-03-23,UBS,Buy,,init,SNOW
+2021-03-26,Evercore ISI Group,Outperform,,init,SNOW
+2021-05-03,Needham,Hold,,init,SNOW
+2021-05-14,Goldman Sachs,Buy,Neutral,up,SNOW
+2021-05-18,Jefferies,Hold,,main,SNOW
+2021-05-18,Rosenblatt,Buy,Neutral,up,SNOW
+2021-05-27,Rosenblatt,Buy,,main,SNOW
+2021-05-27,Deutsche Bank,Buy,,main,SNOW
+2021-05-27,Canaccord Genuity,Hold,,main,SNOW
+2021-05-27,Loop Capital,Hold,,main,SNOW
+2021-05-27,DA Davidson,Buy,,main,SNOW
+2021-06-08,UBS,Buy,,main,SNOW
+2021-06-11,Rosenblatt,Buy,,main,SNOW
+2021-06-11,Piper Sandler,Overweight,,main,SNOW
+2021-06-14,Deutsche Bank,Buy,,main,SNOW
+2021-08-24,Rosenblatt,Buy,,main,SNOW
+2021-08-26,Morgan Stanley,Equal-Weight,,main,SNOW
+2021-08-26,Piper Sandler,Overweight,,main,SNOW
+2021-08-26,Barclays,Equal-Weight,,main,SNOW
+2021-08-26,Loop Capital,Hold,,main,SNOW
+2021-08-26,Cowen & Co.,Outperform,,main,SNOW
+2021-08-26,JMP Securities,Market Outperform,,main,SNOW
+2021-09-30,BTIG,Buy,Neutral,up,SNOW
+2021-10-19,JMP Securities,Market Outperform,,main,SNOW
+2021-11-16,Credit Suisse,Outperform,,init,SNOW
+2021-11-19,Rosenblatt,Neutral,Buy,down,SNOW
+2021-12-02,Piper Sandler,Overweight,,main,SNOW
+2021-12-02,Barclays,Equal-Weight,,main,SNOW
+2021-12-02,Goldman Sachs,Buy,,main,SNOW
+2021-12-02,JMP Securities,Market Outperform,,main,SNOW
+2021-12-02,Deutsche Bank,Buy,,main,SNOW
+2021-12-03,Morgan Stanley,Equal-Weight,,main,SNOW
+2021-12-03,Rosenblatt,Neutral,,main,SNOW
+2021-12-06,Credit Suisse,Outperform,,main,SNOW

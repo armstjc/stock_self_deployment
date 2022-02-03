@@ -1,0 +1,146 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-10,Guggenheim,Neutral,,init,SFM
+2013-09-10,Bank of America,Underperform,,init,SFM
+2013-09-10,Credit Suisse,Neutral,,init,SFM
+2013-09-10,Goldman Sachs,Neutral,,init,SFM
+2013-09-11,Wolfe Research,Outperform,,init,SFM
+2013-09-25,Deutsche Bank,Buy,,init,SFM
+2013-09-27,Susquehanna,Neutral,,init,SFM
+2013-10-15,BMO Capital,Market Perform,,init,SFM
+2013-12-11,Wolfe Research,Outperform,Peer Perform,up,SFM
+2013-12-11,Credit Suisse,Neutral,,init,SFM
+2013-12-11,Bank of America,Neutral,Underperform,up,SFM
+2013-12-16,Deutsche Bank,Buy,,main,SFM
+2013-12-20,SunTrust Robinson Humphrey,Neutral,,init,SFM
+2014-02-20,Oppenheimer,Market Perform,,init,SFM
+2014-04-08,UBS,Buy,Neutral,up,SFM
+2014-05-02,Deutsche Bank,Buy,,main,SFM
+2014-05-07,Deutsche Bank,Hold,Buy,down,SFM
+2014-05-08,Credit Suisse,Neutral,,main,SFM
+2014-06-25,Morgan Stanley,Overweight,,init,SFM
+2014-07-11,Longbow Research,Neutral,,init,SFM
+2014-07-11,Imperial Capital,In-Line,,init,SFM
+2014-08-11,Imperial Capital,In-Line,,main,SFM
+2014-08-28,Wedbush,Outperform,,init,SFM
+2014-09-18,PiperJaffray,Neutral,,init,SFM
+2014-09-19,Barclays,Overweight,,init,SFM
+2014-12-05,Longbow Research,Underperform,,init,SFM
+2015-01-21,Bank of America,Buy,Neutral,up,SFM
+2015-01-22,Cowen & Co.,Outperform,,init,SFM
+2015-02-25,BB&T Capital,Buy,,init,SFM
+2015-02-26,Deutsche Bank,Hold,,main,SFM
+2015-03-20,Sterne Agee,Neutral,,init,SFM
+2015-05-08,Deutsche Bank,Hold,,main,SFM
+2015-05-08,Barclays,Overweight,,main,SFM
+2015-05-11,BMO Capital,Outperform,Market Perform,up,SFM
+2015-06-08,Wolfe Research,Peer Perform,,down,SFM
+2015-06-09,Macquarie,Outperform,,init,SFM
+2015-06-17,Cleveland Research,Neutral,,init,SFM
+2015-07-29,Longbow Research,Neutral,Underperform,up,SFM
+2015-08-07,Stephens & Co.,Equal-Weight,Overweight,down,SFM
+2015-08-07,Barclays,Overweight,,main,SFM
+2015-08-07,Deutsche Bank,Hold,,main,SFM
+2015-08-07,Oppenheimer,Perform,,main,SFM
+2015-08-25,Deutsche Bank,Buy,Hold,up,SFM
+2015-08-26,Jefferies,Hold,,init,SFM
+2015-11-06,Deutsche Bank,Buy,,main,SFM
+2016-01-22,Wells Fargo,Outperform,,init,SFM
+2016-02-03,OTR Global,Mixed,Neutral,up,SFM
+2016-02-12,Stifel Nicolaus,Buy,,init,SFM
+2016-02-26,Stifel Nicolaus,Buy,,main,SFM
+2016-03-21,Deutsche Bank,Buy,,main,SFM
+2016-04-12,Wolfe Research,Outperform,Peer Perform,up,SFM
+2016-05-10,Goldman Sachs,Sell,Neutral,down,SFM
+2016-07-14,Deutsche Bank,Buy,,main,SFM
+2016-07-18,JP Morgan,Neutral,,init,SFM
+2016-07-20,OTR Global,Negative,Mixed,down,SFM
+2016-07-26,Goldman Sachs,Buy,Sell,up,SFM
+2016-08-05,Deutsche Bank,Buy,,main,SFM
+2016-08-05,JP Morgan,Neutral,,main,SFM
+2016-08-08,Citigroup,Buy,,main,SFM
+2016-08-08,Northcoast Research,Neutral,Buy,down,SFM
+2016-09-08,SunTrust Robinson Humphrey,Buy,,main,SFM
+2016-09-08,Macquarie,Outperform,,main,SFM
+2016-09-08,Citigroup,Buy,,main,SFM
+2016-09-08,Deutsche Bank,Hold,Buy,down,SFM
+2016-09-23,Barclays,Overweight,,init,SFM
+2016-09-30,Jefferies,Buy,Hold,up,SFM
+2017-01-19,Goldman Sachs,Neutral,Buy,down,SFM
+2017-01-20,William Blair,Outperform,,init,SFM
+2017-03-21,BMO Capital,Market Perform,Outperform,down,SFM
+2017-03-23,UBS,Buy,,init,SFM
+2017-05-09,Gordon Haskett,Accumulate,,init,SFM
+2017-05-16,Loop Capital,Hold,,init,SFM
+2017-06-15,Morgan Stanley,Equal-Weight,Overweight,down,SFM
+2017-06-16,Oppenheimer,Outperform,Perform,up,SFM
+2017-07-27,Jefferies,Hold,Buy,down,SFM
+2017-08-04,JP Morgan,Overweight,Neutral,up,SFM
+2017-08-11,Stephens & Co.,Equal-Weight,,init,SFM
+2017-10-17,Susquehanna,Positive,,init,SFM
+2017-10-30,UBS,Buy,,main,SFM
+2017-10-30,Jefferies,Hold,,main,SFM
+2017-11-03,UBS,Buy,,main,SFM
+2017-11-03,BMO Capital,Market Perform,,main,SFM
+2017-11-03,Jefferies,Hold,,main,SFM
+2017-11-03,Loop Capital,Hold,,main,SFM
+2017-11-20,Northcoast Research,Buy,Neutral,up,SFM
+2018-01-31,Gordon Haskett,Buy,Accumulate,up,SFM
+2018-02-23,Deutsche Bank,Hold,Hold,main,SFM
+2018-02-27,Citigroup,Buy,Buy,main,SFM
+2018-02-27,BMO Capital,Market Perform,Market Perform,main,SFM
+2018-04-18,Credit Suisse,Neutral,,init,SFM
+2018-05-04,Deutsche Bank,Hold,Hold,main,SFM
+2018-05-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,SFM
+2018-05-04,BMO Capital,Market Perform,Market Perform,main,SFM
+2018-08-03,UBS,Buy,Buy,main,SFM
+2018-08-06,BMO Capital,Market Perform,Market Perform,main,SFM
+2018-08-08,Citigroup,Buy,Buy,main,SFM
+2018-09-10,UBS,Buy,Buy,main,SFM
+2018-09-17,Barclays,Equal-Weight,Overweight,down,SFM
+2018-09-21,Oppenheimer,Outperform,Outperform,main,SFM
+2018-09-24,Wells Fargo,Market Perform,Outperform,down,SFM
+2018-11-30,Bank of America,Underperform,Buy,down,SFM
+2019-02-08,Buckingham,Neutral,,init,SFM
+2019-03-21,Gordon Haskett,Reduce,Hold,down,SFM
+2019-04-29,Deutsche Bank,Buy,Hold,up,SFM
+2019-06-24,Bernstein,Market Perform,Underperform,up,SFM
+2019-07-23,Oppenheimer,Perform,Outperform,down,SFM
+2019-08-02,BMO Capital,Underperform,Market Perform,down,SFM
+2019-08-02,JP Morgan,Neutral,Overweight,down,SFM
+2019-08-15,Northcoast Research,Buy,Neutral,up,SFM
+2020-01-17,Wells Fargo,Underweight,Equal-Weight,down,SFM
+2020-01-30,UBS,Neutral,Buy,down,SFM
+2020-02-11,Gordon Haskett,Hold,Reduce,up,SFM
+2020-02-21,CFRA,Buy,,main,SFM
+2020-02-21,Deutsche Bank,Buy,,main,SFM
+2020-02-21,Bernstein,Outperform,Market Perform,up,SFM
+2020-02-26,JP Morgan,Neutral,,main,SFM
+2020-03-17,Gordon Haskett,Buy,Hold,up,SFM
+2020-03-18,BMO Capital,Market Perform,Underperform,up,SFM
+2020-04-06,Deutsche Bank,Buy,,main,SFM
+2020-04-17,JP Morgan,Neutral,,main,SFM
+2020-04-21,Oppenheimer,Outperform,Perform,up,SFM
+2020-04-24,CFRA,Buy,,main,SFM
+2020-05-01,Wells Fargo,Underweight,,main,SFM
+2020-05-01,UBS,Neutral,,main,SFM
+2020-05-06,Deutsche Bank,Buy,,reit,SFM
+2020-05-06,Credit Suisse,Neutral,,main,SFM
+2020-05-06,B of A Securities,Underperform,,reit,SFM
+2020-05-06,JP Morgan,Neutral,,main,SFM
+2020-05-06,CFRA,Buy,,reit,SFM
+2020-05-06,UBS,Neutral,,main,SFM
+2020-05-07,BMO Capital,Market Perform,,main,SFM
+2020-05-13,B of A Securities,Underperform,,main,SFM
+2020-05-14,Oppenheimer,Perform,Outperform,down,SFM
+2020-07-08,Barclays,Underweight,Equal-Weight,down,SFM
+2020-07-27,UBS,Neutral,,main,SFM
+2020-07-30,MKM Partners,Buy,,init,SFM
+2020-10-27,Credit Suisse,Neutral,,main,SFM
+2020-10-29,Deutsche Bank,Buy,,main,SFM
+2020-10-29,BMO Capital,Market Perform,,main,SFM
+2020-10-29,B of A Securities,Underperform,,main,SFM
+2020-10-29,UBS,Neutral,,main,SFM
+2020-11-03,MKM Partners,Buy,,main,SFM
+2020-12-10,Goldman Sachs,Sell,Neutral,down,SFM
+2021-10-05,BMO Capital,Underperform,Market Perform,down,SFM
+2021-11-11,Gordon Haskett,Reduce,Hold,down,SFM

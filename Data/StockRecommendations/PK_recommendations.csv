@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-01-05,Goldman Sachs,Neutral,,init,PK
+2017-01-10,UBS,Neutral,,init,PK
+2017-01-11,Canaccord Genuity,Buy,,init,PK
+2017-02-13,Barclays,Overweight,,init,PK
+2017-02-14,Nomura,Buy,,init,PK
+2017-03-01,Raymond James,Outperform,,init,PK
+2017-04-12,Deutsche Bank,Hold,,init,PK
+2017-04-12,Boenning & Scattergood,Outperform,,init,PK
+2017-04-26,Susquehanna,Neutral,,init,PK
+2017-05-31,Evercore ISI Group,Outperform,,init,PK
+2017-06-15,JP Morgan,Overweight,,init,PK
+2017-08-04,Canaccord Genuity,Buy,,main,PK
+2017-11-06,Nomura,Buy,,main,PK
+2017-11-20,Evercore ISI Group,In-Line,Outperform,down,PK
+2017-12-04,Evercore ISI Group,Outperform,In-Line,up,PK
+2017-12-21,SunTrust Robinson Humphrey,Buy,Hold,up,PK
+2018-02-09,Deutsche Bank,Hold,Hold,main,PK
+2018-02-21,Boenning & Scattergood,Neutral,Buy,down,PK
+2018-02-27,Citigroup,Neutral,,init,PK
+2018-03-01,Nomura,Buy,Buy,main,PK
+2018-03-05,JP Morgan,Overweight,Overweight,main,PK
+2018-03-19,Deutsche Bank,Hold,Hold,main,PK
+2018-05-31,Jefferies,Buy,,init,PK
+2018-06-01,Barclays,Overweight,Overweight,main,PK
+2018-06-05,JP Morgan,Neutral,Overweight,down,PK
+2018-06-11,Goldman Sachs,Sell,Neutral,down,PK
+2018-08-20,Evercore ISI Group,In-Line,Outperform,down,PK
+2018-11-02,Nomura,Buy,Buy,main,PK
+2018-11-05,Deutsche Bank,Hold,Hold,main,PK
+2018-11-16,Wells Fargo,Market Perform,Market Perform,main,PK
+2019-01-10,Goldman Sachs,Neutral,Sell,up,PK
+2019-02-28,Nomura,Buy,Buy,main,PK
+2019-06-25,Capital One Financial,Overweight,,init,PK
+2019-09-05,Citigroup,Neutral,,main,PK
+2019-09-12,Evercore ISI Group,Outperform,In-Line,up,PK
+2019-10-11,Nomura,Buy,,main,PK
+2019-10-17,BMO Capital,Market Perform,,init,PK
+2019-10-24,Deutsche Bank,Hold,,main,PK
+2019-11-08,Deutsche Bank,Hold,,main,PK
+2020-01-07,Raymond James,Market Perform,Outperform,down,PK
+2020-03-17,Barclays,Equal-Weight,Overweight,down,PK
+2020-04-07,Citigroup,Sell,Neutral,down,PK
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,PK
+2020-05-04,UBS,Neutral,,main,PK
+2020-05-12,JP Morgan,Underweight,,main,PK
+2020-06-08,Raymond James,Outperform,Market Perform,up,PK
+2020-07-14,Raymond James,Outperform,,main,PK
+2020-07-22,Wells Fargo,Underweight,,main,PK
+2020-07-28,Evercore ISI Group,In-Line,Outperform,down,PK
+2020-09-10,Wells Fargo,Equal-Weight,Underweight,up,PK
+2020-09-29,B of A Securities,Buy,Underperform,up,PK
+2020-09-30,B of A Securities,Buy,Underperform,up,PK
+2020-10-05,Compass Point,Neutral,,init,PK
+2020-10-13,BMO Capital,Outperform,Market Perform,up,PK
+2020-11-16,Wells Fargo,Equal-Weight,,main,PK
+2020-11-23,Jefferies,Buy,Hold,up,PK
+2020-11-23,Raymond James,Market Perform,Outperform,down,PK
+2021-03-01,Compass Point,Buy,Neutral,up,PK
+2021-05-10,Deutsche Bank,Hold,,main,PK
+2021-07-12,Evercore ISI Group,Outperform,In-Line,up,PK
+2021-07-14,Deutsche Bank,Buy,Hold,up,PK
+2021-08-17,Truist Securities,Hold,Sell,up,PK
+2021-10-06,Citigroup,Neutral,,main,PK
+2021-10-18,Wells Fargo,Equal-Weight,Overweight,down,PK
+2021-12-15,Goldman Sachs,Sell,Neutral,down,PK

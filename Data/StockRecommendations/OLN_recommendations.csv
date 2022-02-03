@@ -1,0 +1,105 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-30,UBS,Neutral,,main,OLN
+2012-07-03,Longbow Research,Sell,Neutral,down,OLN
+2012-08-24,UBS,Neutral,,main,OLN
+2013-01-10,Dahlman Rose,Hold,,init,OLN
+2013-01-31,Wells Fargo,Outperform,Market Perform,up,OLN
+2013-03-11,Monness Crespi Hardt,Buy,Neutral,up,OLN
+2014-04-07,Monness Crespi Hardt,Neutral,Buy,down,OLN
+2014-04-25,UBS,Neutral,,main,OLN
+2014-07-25,UBS,Neutral,,main,OLN
+2014-10-09,RBC Capital,Sector Perform,,init,OLN
+2015-03-20,Sidoti & Co.,Neutral,Buy,down,OLN
+2015-03-23,UBS,Sell,Neutral,down,OLN
+2015-05-04,Sidoti & Co.,Outperform,Neutral,up,OLN
+2015-08-06,Susquehanna,Positive,Neutral,up,OLN
+2015-08-26,Susquehanna,Positive,,main,OLN
+2015-09-02,UBS,Neutral,Sell,up,OLN
+2015-10-30,RBC Capital,Outperform,Sector Perform,up,OLN
+2016-01-07,Nomura,Buy,,up,OLN
+2016-02-04,Macquarie,Neutral,,main,OLN
+2016-02-04,Monness Crespi Hardt,Buy,Neutral,up,OLN
+2016-02-05,Susquehanna,Positive,,main,OLN
+2016-06-28,Cowen & Co.,Outperform,Market Perform,up,OLN
+2016-09-07,Longbow Research,Underperform,Neutral,down,OLN
+2017-02-02,Monness Crespi Hardt,Neutral,Buy,down,OLN
+2017-02-02,Longbow Research,Neutral,Underperform,up,OLN
+2017-05-08,Bank of America,Buy,,init,OLN
+2017-09-27,Citigroup,Buy,,init,OLN
+2018-01-09,Morgan Stanley,Overweight,,init,OLN
+2018-02-08,Nomura,Buy,Buy,main,OLN
+2018-02-12,Morgan Stanley,Overweight,Overweight,main,OLN
+2018-03-09,JP Morgan,Overweight,,init,OLN
+2018-04-10,Citigroup,Buy,Buy,main,OLN
+2018-04-20,Nomura,Neutral,Buy,down,OLN
+2018-07-11,Citigroup,Buy,Buy,main,OLN
+2018-08-02,Susquehanna,Positive,Positive,main,OLN
+2018-08-28,Standpoint Research,Buy,,init,OLN
+2018-10-08,Barclays,Equal-Weight,,init,OLN
+2018-10-15,Nomura,Neutral,Neutral,main,OLN
+2018-10-31,Barclays,Equal-Weight,Equal-Weight,main,OLN
+2018-10-31,Nomura,Neutral,Neutral,main,OLN
+2018-11-01,Citigroup,Buy,Buy,main,OLN
+2018-12-11,Stifel Nicolaus,Buy,,init,OLN
+2019-01-28,KeyBanc,Overweight,,init,OLN
+2019-01-30,Nomura,Reduce,Neutral,down,OLN
+2019-04-15,Nomura,Neutral,Reduce,up,OLN
+2019-07-19,Morgan Stanley,Equal-Weight,Overweight,down,OLN
+2019-10-09,Citi,Neutral,Buy,down,OLN
+2019-10-16,Wells Fargo,Market Perform,,init,OLN
+2019-10-17,JP Morgan,Neutral,Overweight,down,OLN
+2019-11-04,Bank of America,Buy,,reit,OLN
+2019-11-04,Tudor Pickering,Hold,Buy,down,OLN
+2019-11-04,SunTrust Robinson Humphrey,Hold,Buy,down,OLN
+2019-12-19,UBS,Neutral,,main,OLN
+2020-03-13,UBS,Neutral,,main,OLN
+2020-03-20,Wells Fargo,Equal-Weight,,main,OLN
+2020-03-24,Stifel,Buy,,main,OLN
+2020-03-26,SunTrust Robinson Humphrey,Hold,,main,OLN
+2020-03-26,RBC Capital,Underperform,Sector Perform,down,OLN
+2020-03-26,KeyBanc,Overweight,,init,OLN
+2020-03-30,Morgan Stanley,Equal-Weight,,main,OLN
+2020-04-08,UBS,Neutral,,main,OLN
+2020-04-09,Citigroup,Neutral,,main,OLN
+2020-04-30,UBS,Neutral,,main,OLN
+2020-05-01,Wells Fargo,Equal-Weight,,main,OLN
+2020-05-01,Stifel,Buy,,main,OLN
+2020-05-01,Vertical Research,Hold,Buy,down,OLN
+2020-07-09,UBS,Neutral,,main,OLN
+2020-08-10,B of A Securities,Neutral,Buy,down,OLN
+2020-10-06,Wells Fargo,Equal-Weight,,main,OLN
+2020-10-15,Wells Fargo,Equal-Weight,,main,OLN
+2020-11-06,RBC Capital,Sector Perform,Underperform,up,OLN
+2020-11-16,Morgan Stanley,Equal-Weight,,main,OLN
+2020-11-30,B of A Securities,Neutral,,main,OLN
+2020-12-09,Wells Fargo,Overweight,Equal-Weight,up,OLN
+2020-12-14,Morgan Stanley,Equal-Weight,,main,OLN
+2020-12-17,KeyBanc,Overweight,Sector Weight,up,OLN
+2021-01-15,KeyBanc,Overweight,,main,OLN
+2021-02-01,JP Morgan,Overweight,Neutral,up,OLN
+2021-02-04,Morgan Stanley,Equal-Weight,,main,OLN
+2021-03-03,Morgan Stanley,Equal-Weight,,main,OLN
+2021-03-17,KeyBanc,Overweight,,main,OLN
+2021-03-17,Wells Fargo,Overweight,,main,OLN
+2021-03-18,Tudor Pickering,Buy,Hold,up,OLN
+2021-03-19,Morgan Stanley,Equal-Weight,,main,OLN
+2021-03-26,RBC Capital,Outperform,Sector Perform,up,OLN
+2021-04-12,Keybanc,Overweight,,main,OLN
+2021-04-29,Vertical Research,Buy,Hold,up,OLN
+2021-04-29,Keybanc,Overweight,,main,OLN
+2021-05-03,Morgan Stanley,Equal-Weight,,main,OLN
+2021-05-19,Vertical Research,Buy,Hold,up,OLN
+2021-06-15,UBS,Buy,Neutral,up,OLN
+2021-07-16,B of A Securities,Buy,Neutral,up,OLN
+2021-07-29,RBC Capital,Outperform,,main,OLN
+2021-07-29,Keybanc,Overweight,,main,OLN
+2021-07-30,Morgan Stanley,Equal-Weight,,main,OLN
+2021-09-14,Piper Sandler,Overweight,,init,OLN
+2021-10-05,Barclays,Equal-Weight,,main,OLN
+2021-10-11,Keybanc,Overweight,,main,OLN
+2021-10-25,Barclays,Equal-Weight,,main,OLN
+2021-10-25,Wells Fargo,Overweight,,main,OLN
+2021-10-25,RBC Capital,Outperform,,main,OLN
+2021-10-25,Keybanc,Overweight,,main,OLN
+2021-11-22,Keybanc,Sector Weight,Overweight,down,OLN
+2022-01-04,UBS,Buy,,main,OLN

@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-08,JP Morgan,Neutral,,main,SNCR
+2012-05-08,Wedbush,Outperform,,main,SNCR
+2012-05-08,Deutsche Bank,Buy,,main,SNCR
+2012-05-08,Deutsche Bank,Buy,,main,SNCR
+2012-05-14,Goldman Sachs,Buy,,main,SNCR
+2012-05-31,JP Morgan,Overweight,,up,SNCR
+2012-07-20,Credit Suisse,Neutral,,init,SNCR
+2012-07-23,Credit Suisse,Neutral,,init,SNCR
+2012-08-02,Wedbush,Outperform,,main,SNCR
+2012-09-04,Goldman Sachs,Neutral,Buy,down,SNCR
+2012-11-06,Stifel Nicolaus,Buy,,main,SNCR
+2013-01-10,Wells Fargo,Outperform,Market Perform,up,SNCR
+2013-01-16,Credit Suisse,Outperform,Neutral,up,SNCR
+2013-02-08,Stifel Nicolaus,Buy,,main,SNCR
+2013-03-11,Avondale Partners,Market Outperform,Market Perform,up,SNCR
+2013-05-09,Wedbush,Outperform,,init,SNCR
+2013-05-10,Wedbush,Outperform,,init,SNCR
+2013-06-27,Pacific Crest,Outperform,,init,SNCR
+2013-07-09,Goldman Sachs,Sell,Neutral,down,SNCR
+2013-08-02,FBR Capital,Outperform,,main,SNCR
+2013-09-18,Goldman Sachs,Neutral,Sell,up,SNCR
+2013-11-18,Baird,Neutral,Outperform,down,SNCR
+2013-12-12,Raymond James,Strong Buy,Outperform,up,SNCR
+2014-03-20,Raymond James,Outperform,Strong Buy,down,SNCR
+2014-05-01,Raymond James,Strong Buy,Outperform,up,SNCR
+2014-10-28,FBR Capital,Outperform,,main,SNCR
+2014-10-28,Stifel Nicolaus,Buy,,main,SNCR
+2014-10-29,Deutsche Bank,Buy,,main,SNCR
+2014-10-29,Raymond James,Outperform,Strong Buy,down,SNCR
+2014-10-29,JP Morgan,Overweight,,main,SNCR
+2014-10-29,Stifel Nicolaus,Buy,,main,SNCR
+2014-10-29,FBR Capital,Outperform,,main,SNCR
+2014-11-19,Baird,Underperform,Neutral,down,SNCR
+2015-02-06,Baird,Neutral,Underperform,up,SNCR
+2015-04-02,Tigress Financial,Buy,,init,SNCR
+2015-04-30,Deutsche Bank,Buy,,main,SNCR
+2015-07-30,Stifel Nicolaus,Buy,,main,SNCR
+2015-10-29,Raymond James,Strong Buy,Outperform,up,SNCR
+2015-11-04,Tigress Financial,Strong Buy,Buy,up,SNCR
+2016-02-04,Stifel Nicolaus,Hold,Buy,down,SNCR
+2016-02-04,Deutsche Bank,Buy,,main,SNCR
+2016-06-01,Drexel Hamilton,Buy,,init,SNCR
+2016-08-10,Stephens & Co.,Overweight,,init,SNCR
+2017-01-10,Deutsche Bank,Hold,Buy,down,SNCR
+2017-04-27,Wells Fargo,Market Perform,Outperform,down,SNCR
+2017-04-28,Credit Suisse,Neutral,Outperform,down,SNCR
+2017-05-22,Credit Suisse,Underperform,Neutral,down,SNCR
+2018-07-30,Stifel Nicolaus,Sell,Hold,down,SNCR
+2018-12-10,Stifel Nicolaus,Hold,Sell,up,SNCR
+2019-06-18,Roth Capital,Buy,,init,SNCR
+2019-08-27,Canaccord Genuity,Buy,,init,SNCR
+2020-08-25,Ladenburg Thalmann,Buy,,init,SNCR
+2021-05-11,Canaccord Genuity,Buy,,main,SNCR
+2021-06-30,B. Riley Securities,Buy,,init,SNCR
+2021-08-10,Roth Capital,Neutral,Buy,down,SNCR

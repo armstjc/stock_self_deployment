@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-12,Stifel Nicolaus,Buy,,init,RMTI
+2012-04-11,Summer Street,Buy,,init,RMTI
+2012-11-09,Stifel Nicolaus,Buy,,main,RMTI
+2012-11-27,Dawson James,Market Outperform,,init,RMTI
+2013-05-09,Stifel Nicolaus,Buy,,main,RMTI
+2013-09-13,Craig-Hallum,Buy,,init,RMTI
+2013-12-17,Brean Capital,Sell,,init,RMTI
+2013-12-19,Chardan Capital,Buy,,init,RMTI
+2014-08-14,FBR Capital,Underperform,,init,RMTI
+2014-11-07,Chardan Capital,Buy,,main,RMTI
+2015-01-07,Oppenheimer,Outperform,,init,RMTI
+2015-08-13,Morgan Stanley,Underweight,,init,RMTI
+2016-03-01,Stifel Nicolaus,Hold,Buy,down,RMTI
+2016-03-01,Craig-Hallum,Hold,Buy,down,RMTI
+2016-08-19,BTIG Research,Buy,,init,RMTI
+2016-11-08,Bank of America,Underperform,Neutral,down,RMTI
+2017-08-14,IFS Securities,Strong Buy,,init,RMTI
+2018-10-19,IFS Securities,Outperform,Strong Buy,down,RMTI
+2019-06-24,Piper Jaffray,Overweight,,init,RMTI
+2019-06-25,Cantor Fitzgerald,Overweight,,init,RMTI
+2019-11-12,Piper Jaffray,Overweight,,main,RMTI
+2020-04-07,HC Wainwright & Co.,Buy,,main,RMTI
+2021-02-08,HC Wainwright & Co.,Buy,,main,RMTI
+2021-09-07,HC Wainwright & Co.,Buy,,main,RMTI

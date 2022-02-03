@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-23,JP Morgan,Overweight,,init,VCRA
+2012-04-23,PiperJaffray,Overweight,,init,VCRA
+2012-05-07,Leerink Swann,Outperform,,init,VCRA
+2012-07-17,PiperJaffray,Overweight,,main,VCRA
+2013-03-12,Lazard,Neutral,,init,VCRA
+2013-04-18,Sidoti & Co.,Buy,Neutral,up,VCRA
+2013-05-03,Leerink Swann,Market Perform,Outperform,down,VCRA
+2013-08-06,Wells Fargo,Outperform,Market Perform,up,VCRA
+2014-02-19,B. Riley FBR,Buy,,init,VCRA
+2014-05-02,JP Morgan,Neutral,Overweight,down,VCRA
+2014-08-01,Stephens & Co.,Equal-Weight,Overweight,down,VCRA
+2014-08-01,Craig-Hallum,Hold,Buy,down,VCRA
+2014-08-01,JP Morgan,Neutral,,main,VCRA
+2014-10-08,FBR Capital,Outperform,Market Perform,up,VCRA
+2014-10-31,FBR Capital,Outperform,,main,VCRA
+2014-11-03,JP Morgan,Neutral,,main,VCRA
+2015-01-08,JP Morgan,Neutral,,main,VCRA
+2015-04-24,Craig-Hallum,Buy,Hold,up,VCRA
+2015-06-18,Oppenheimer,Outperform,,init,VCRA
+2015-07-31,Leerink Swann,Market Perform,,main,VCRA
+2015-12-02,Leerink Swann,Outperform,,main,VCRA
+2017-01-06,Cantor Fitzgerald,Overweight,,init,VCRA
+2017-01-19,Dougherty,Buy,,init,VCRA
+2017-07-28,Leerink Swann,Outperform,,main,VCRA
+2017-10-27,Oppenheimer,Outperform,,main,VCRA
+2017-12-21,Baird,Outperform,,init,VCRA
+2018-01-30,Chardan Capital,Buy,,init,VCRA
+2018-02-09,Leerink Swann,Outperform,Outperform,main,VCRA
+2018-03-13,Leerink Swann,Market Perform,Outperform,down,VCRA
+2018-07-27,PiperJaffray,Overweight,Overweight,main,VCRA
+2018-07-27,Wells Fargo,Outperform,Outperform,main,VCRA
+2018-07-30,Citigroup,Buy,Buy,main,VCRA
+2018-09-19,Jefferies,Buy,,init,VCRA
+2018-12-19,Citigroup,Buy,Buy,main,VCRA
+2019-02-08,Citigroup,Neutral,Buy,down,VCRA
+2019-02-11,Chardan Capital,Neutral,Buy,down,VCRA
+2019-02-28,Dougherty,Buy,Neutral,up,VCRA
+2019-04-18,Guggenheim,Buy,,init,VCRA
+2019-10-25,Cantor Fitzgerald,Neutral,Overweight,down,VCRA
+2019-10-25,Baird,Neutral,Outperform,down,VCRA
+2019-10-25,Piper Jaffray,Overweight,,main,VCRA
+2019-10-25,Craig-Hallum,Hold,Buy,down,VCRA
+2019-11-22,RBC Capital,Sector Perform,,init,VCRA
+2020-01-08,Wells Fargo,Overweight,,main,VCRA
+2020-02-07,Cantor Fitzgerald,Neutral,,reit,VCRA
+2020-02-18,Baird,Outperform,Neutral,up,VCRA
+2020-04-24,Cantor Fitzgerald,Neutral,,reit,VCRA
+2020-04-24,RBC Capital,Sector Perform,,main,VCRA
+2020-04-24,Wells Fargo,Sector Overweight,,main,VCRA
+2020-04-24,Piper Sandler,Overweight,,main,VCRA
+2020-04-24,Baird,Outperform,,main,VCRA
+2020-07-28,RBC Capital,Sector Perform,,main,VCRA
+2020-07-28,SVB Leerink,Underperform,,main,VCRA
+2020-07-28,Craig-Hallum,Buy,Hold,up,VCRA
+2020-10-30,SVB Leerink,Underperform,,main,VCRA
+2021-01-08,Baird,Neutral,Outperform,down,VCRA
+2021-02-12,SVB Leerink,Underperform,,main,VCRA
+2021-02-12,Baird,Outperform,Neutral,up,VCRA
+2021-06-01,Morgan Stanley,Equal-Weight,,init,VCRA
+2021-06-07,BTIG,Buy,,init,VCRA
+2021-06-08,Berenberg,Buy,,init,VCRA
+2021-07-30,SVB Leerink,Underperform,,main,VCRA
+2021-08-18,Morgan Stanley,Equal-Weight,,main,VCRA
+2021-10-29,SVB Leerink,Underperform,,main,VCRA
+2021-10-29,RBC Capital,Sector Perform,,main,VCRA
+2022-01-07,BTIG,Neutral,Buy,down,VCRA
+2022-01-07,Piper Sandler,Neutral,Overweight,down,VCRA
+2022-01-07,SVB Leerink,Market Perform,Underperform,up,VCRA
+2022-01-07,Baird,Neutral,Outperform,down,VCRA

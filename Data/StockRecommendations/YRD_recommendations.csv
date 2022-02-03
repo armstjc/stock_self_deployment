@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-01-27,Needham,Buy,,init,YRD
+2016-04-11,Nomura,Neutral,Buy,down,YRD
+2016-08-10,Nomura,,,down,YRD
+2017-11-14,Macquarie,Outperform,,init,YRD
+2018-06-25,Morgan Stanley,Equal-Weight,Overweight,down,YRD
+2018-08-29,Needham,Hold,Buy,down,YRD
+2019-09-05,Macquarie,Underperform,Neutral,down,YRD
+2019-10-03,Citi,Sell,Neutral,down,YRD
+2020-01-22,Credit Suisse,Underperform,Neutral,down,YRD
+2020-02-04,UBS,Sell,Neutral,down,YRD

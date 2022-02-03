@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-17,Piper Sandler,Overweight,,init,XPOF
+2021-08-17,Jefferies,Buy,,init,XPOF
+2021-08-17,Raymond James,Market Perform,,init,XPOF
+2021-08-17,Citigroup,Buy,,init,XPOF
+2021-08-17,Baird,Outperform,,init,XPOF
+2021-08-17,Morgan Stanley,Overweight,,init,XPOF
+2021-08-17,Guggenheim,Buy,,init,XPOF
+2021-08-17,B of A Securities,Buy,,init,XPOF
+2021-09-22,Raymond James,Strong Buy,Market Perform,up,XPOF
+2021-11-12,Raymond James,Strong Buy,,main,XPOF
+2021-11-16,Roth Capital,Buy,,init,XPOF

@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-25,Jefferies,Hold,,main,PDCO
+2012-05-25,UBS,Neutral,,main,PDCO
+2012-05-25,Barrington Research,Outperform,,main,PDCO
+2012-06-29,PiperJaffray,Overweight,,init,PDCO
+2012-07-12,ISI Group,Underweight,,init,PDCO
+2012-12-20,Stifel Nicolaus,Buy,,init,PDCO
+2013-01-15,Goldman Sachs,Sell,Neutral,down,PDCO
+2013-02-05,Bank of America,Buy,,main,PDCO
+2013-02-06,Stifel Nicolaus,Buy,,main,PDCO
+2013-03-19,UBS,Buy,Neutral,up,PDCO
+2013-04-09,PiperJaffray,Neutral,Overweight,down,PDCO
+2013-04-15,ISI Group,Cautious,Sell,up,PDCO
+2013-05-20,Stifel Nicolaus,Buy,,main,PDCO
+2013-05-20,Barrington Research,Market Perform,Outperform,down,PDCO
+2013-06-13,Wells Fargo,Market Perform,,init,PDCO
+2013-07-15,ISI Group,Neutral,Cautious,up,PDCO
+2013-11-20,UBS,Neutral,Buy,down,PDCO
+2014-01-09,Stifel Nicolaus,Hold,Buy,down,PDCO
+2014-05-23,JP Morgan,Neutral,,main,PDCO
+2014-09-23,Bank of America,Buy,,main,PDCO
+2014-10-02,JP Morgan,Neutral,,main,PDCO
+2014-11-17,Northcoast Research,Buy,Neutral,up,PDCO
+2014-11-21,Credit Suisse,Underperform,,main,PDCO
+2014-11-21,JP Morgan,Neutral,,main,PDCO
+2014-11-21,Credit Suisse,Underperform,,main,PDCO
+2014-12-29,Bank of America,Buy,,main,PDCO
+2015-08-28,PiperJaffray,Overweight,Neutral,up,PDCO
+2016-01-06,Evercore ISI Group,Buy,Hold,up,PDCO
+2016-01-28,UBS,Buy,Neutral,up,PDCO
+2016-03-15,Credit Suisse,Outperform,,init,PDCO
+2016-05-27,Evercore ISI Group,Hold,Buy,down,PDCO
+2016-08-26,Baird,Neutral,,main,PDCO
+2016-10-06,UBS,Neutral,,init,PDCO
+2016-11-29,Jefferies,Hold,,main,PDCO
+2017-01-03,Baird,Outperform,Neutral,up,PDCO
+2017-03-15,Deutsche Bank,Hold,,init,PDCO
+2017-04-12,Craig-Hallum,Hold,,init,PDCO
+2017-07-06,Stifel Nicolaus,Sell,Hold,down,PDCO
+2017-07-11,UBS,Sell,Neutral,down,PDCO
+2017-09-19,RBC Capital,Sector Perform,,init,PDCO
+2017-09-21,Morgan Stanley,Equal-Weight,,init,PDCO
+2017-10-19,PiperJaffray,Neutral,,init,PDCO
+2017-11-16,Stifel Nicolaus,Hold,Sell,up,PDCO
+2017-12-06,Morgan Stanley,Underweight,Equal-Weight,down,PDCO
+2017-12-08,Deutsche Bank,Hold,,init,PDCO
+2018-01-05,Evercore ISI Group,In-Line,,init,PDCO
+2018-02-15,JP Morgan,Underweight,Neutral,down,PDCO
+2018-02-15,JP Morgan,Underweight,Underweight,main,PDCO
+2018-03-02,Morgan Stanley,Underweight,Underweight,main,PDCO
+2018-03-05,JP Morgan,Underweight,Underweight,main,PDCO
+2018-03-08,Barclays,Underweight,,init,PDCO
+2018-04-06,Craig-Hallum,Buy,Hold,up,PDCO
+2018-05-29,Bank of America,Underperform,Underperform,main,PDCO
+2018-06-07,JP Morgan,Underweight,Underweight,main,PDCO
+2018-06-18,Stifel Nicolaus,Hold,Hold,main,PDCO
+2018-06-22,Morgan Stanley,Underweight,Underweight,main,PDCO
+2018-08-10,Leerink Swann,Market Perform,,init,PDCO
+2018-08-31,Morgan Stanley,Underweight,Underweight,main,PDCO
+2018-08-31,Barclays,Underweight,Underweight,main,PDCO
+2019-01-03,Evercore ISI Group,In-Line,Underperform,up,PDCO
+2019-01-17,UBS,Neutral,,init,PDCO
+2019-04-18,Guggenheim,Neutral,,init,PDCO
+2019-06-28,JP Morgan,Underweight,,main,PDCO
+2019-08-30,Barclays,Underweight,,main,PDCO
+2019-09-06,UBS,Neutral,,main,PDCO
+2019-12-06,Baird,Neutral,,main,PDCO
+2019-12-06,JP Morgan,Underweight,,main,PDCO
+2020-01-07,Guggenheim,Buy,Neutral,up,PDCO
+2020-01-09,B of A Securities,Neutral,Underperform,up,PDCO
+2020-02-28,JP Morgan,Neutral,Underweight,up,PDCO
+2020-02-28,Baird,Neutral,,main,PDCO
+2020-06-25,Goldman Sachs,Neutral,Sell,up,PDCO
+2020-06-25,JP Morgan,Neutral,,main,PDCO
+2020-06-26,UBS,Neutral,,main,PDCO
+2020-07-20,B of A Securities,Buy,,main,PDCO
+2020-08-27,B of A Securities,Buy,,main,PDCO
+2021-06-17,Piper Sandler,Overweight,Neutral,up,PDCO

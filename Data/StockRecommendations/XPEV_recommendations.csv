@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-04,Citigroup,Buy,,init,XPEV
+2020-11-16,Citigroup,Buy,,main,XPEV
+2020-12-03,UBS,Neutral,Buy,down,XPEV
+2020-12-14,Deutsche bank,Buy,,init,XPEV
+2021-01-04,B of A Securities,Buy,,main,XPEV
+2021-01-19,Jefferies,Hold,,init,XPEV
+2021-01-29,Morgan Stanley,Overweight,,init,XPEV
+2021-03-09,Daiwa Capital,Buy,Sell,up,XPEV
+2021-05-26,Nomura Instinet,Buy,,init,XPEV
+2021-10-28,Bernstein,Outperform,,init,XPEV
+2021-11-24,B of A Securities,Buy,,main,XPEV
+2022-01-12,Macquarie,Outperform,,init,XPEV

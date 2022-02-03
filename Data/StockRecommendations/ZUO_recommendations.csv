@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-05-07,Morgan Stanley,Equal-Weight,,init,ZUO
+2018-05-07,Needham,Buy,,init,ZUO
+2018-05-07,Goldman Sachs,Neutral,,init,ZUO
+2018-05-07,Jefferies,Buy,,init,ZUO
+2018-05-07,Canaccord Genuity,Hold,,init,ZUO
+2018-06-04,Morgan Stanley,Equal-Weight,Equal-Weight,main,ZUO
+2018-06-06,Canaccord Genuity,Hold,Hold,main,ZUO
+2018-06-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,ZUO
+2018-08-31,Canaccord Genuity,Hold,Hold,main,ZUO
+2018-08-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,ZUO
+2018-10-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,ZUO
+2019-03-19,Canaccord Genuity,Buy,Hold,up,ZUO
+2019-05-31,Needham,Buy,Strong Buy,down,ZUO
+2019-05-31,Morgan Stanley,Equal-Weight,,main,ZUO
+2019-05-31,Canaccord Genuity,Buy,,main,ZUO
+2020-01-15,First Analysis,Outperform,,init,ZUO
+2020-03-13,Needham,Hold,Buy,down,ZUO
+2020-03-16,Morgan Stanley,Equal-Weight,,main,ZUO
+2020-04-14,Morgan Stanley,Underweight,Equal-Weight,down,ZUO
+2020-05-14,Jefferies,Hold,Buy,down,ZUO
+2020-06-04,Morgan Stanley,Underweight,,main,ZUO
+2020-06-04,Canaccord Genuity,Buy,,main,ZUO
+2020-06-16,Northland Capital Markets,Market Perform,,init,ZUO
+2021-04-08,Berenberg,Buy,,init,ZUO
+2021-04-13,Canaccord Genuity,Buy,,main,ZUO
+2021-09-30,Craig-Hallum,Buy,,init,ZUO
+2021-10-01,Morgan Stanley,Equal-Weight,Underweight,up,ZUO
+2021-10-11,Needham,Buy,Hold,up,ZUO

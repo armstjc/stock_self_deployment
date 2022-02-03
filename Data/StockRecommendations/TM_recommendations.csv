@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Oxen Group,Hold,,init,TM
+2012-11-05,Credit Suisse,Outperform,Neutral,up,TM
+2013-01-10,Bank of America,Buy,,up,TM
+2013-01-15,Citigroup,Buy,Neutral,up,TM
+2013-02-07,Goldman Sachs,Buy,Neutral,up,TM
+2013-08-06,Mito Securities,Outperform,Neutral,up,TM
+2013-10-21,Barclays,Overweight,,init,TM
+2013-11-21,Jefferies,Hold,,init,TM
+2014-01-28,UBS,Buy,,init,TM
+2014-02-25,JP Morgan,Neutral,,init,TM
+2014-04-11,Mizuho,Buy,Neutral,up,TM
+2014-04-22,Mitsubishi UFJ,Neutral,Outperform,down,TM
+2014-06-16,ISI Group,Strong Buy,,init,TM
+2014-09-30,JP Morgan,Overweight,Neutral,up,TM
+2014-10-08,Jefferies,Buy,,main,TM
+2014-10-09,Bank of America,Buy,Neutral,up,TM
+2015-01-20,Jefferies,Buy,,main,TM
+2015-03-02,Jefferies,Hold,Buy,down,TM
+2015-04-07,UBS,Neutral,Buy,down,TM
+2015-06-04,Jefferies,Hold,,main,TM
+2015-07-15,Jefferies,Buy,Hold,up,TM
+2016-02-08,Societe Generale,Neutral,Buy,down,TM
+2016-05-13,Jefferies,Hold,,main,TM
+2016-05-27,UBS,Sell,Neutral,down,TM
+2016-08-25,Citigroup,Hold,Buy,down,TM
+2016-09-05,Goldman Sachs,Neutral,Buy,down,TM
+2017-07-11,Bank of America,Underperform,Neutral,down,TM
+2018-03-01,Bank of America,Neutral,Underperform,up,TM
+2018-06-04,Goldman Sachs,Buy,Neutral,up,TM
+2018-11-19,JP Morgan,Overweight,Neutral,up,TM
+2019-09-05,Morgan Stanley,Underweight,Equal-Weight,down,TM
+2020-03-31,UBS,Buy,Neutral,up,TM

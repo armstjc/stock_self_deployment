@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-11,Sidoti & Co.,Buy,,init,PLUS
+2013-12-12,Canaccord Genuity,Buy,,init,PLUS
+2014-05-12,Stifel Nicolaus,Buy,,init,PLUS
+2014-11-06,Canaccord Genuity,Buy,,main,PLUS
+2014-11-06,Stifel Nicolaus,Buy,,main,PLUS
+2015-01-02,Sidoti & Co.,Neutral,Buy,down,PLUS
+2015-07-08,Sidoti & Co.,Buy,Neutral,up,PLUS
+2015-10-12,Sidoti & Co.,Neutral,Buy,down,PLUS
+2015-10-30,Stifel Nicolaus,Hold,Buy,down,PLUS
+2016-02-08,Sidoti & Co.,Buy,Neutral,up,PLUS
+2016-05-26,Sidoti & Co.,Buy,,main,PLUS
+2018-02-09,Sidoti & Co.,Buy,Neutral,up,PLUS
+2018-05-25,Stifel Nicolaus,Hold,Hold,main,PLUS
+2018-11-16,Berenberg,Buy,,init,PLUS
+2019-07-01,Sidoti & Co.,Buy,Neutral,up,PLUS
+2019-11-07,Sidoti & Co.,Buy,,main,PLUS
+2019-11-14,Sidoti & Co.,Neutral,Buy,down,PLUS
+2020-02-06,Sidoti & Co.,Buy,Neutral,up,PLUS
+2020-02-11,Berenberg,Buy,Hold,up,PLUS
+2021-08-05,Sidoti & Co.,Buy,Neutral,up,PLUS

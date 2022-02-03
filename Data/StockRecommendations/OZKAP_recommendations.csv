@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-08-13,Barclays,Underweight,Overweight,down,OZKAP
+2018-09-18,Morgan Stanley,Overweight,Overweight,main,OZKAP
+2018-10-19,Raymond James,Market Perform,Strong Buy,down,OZKAP
+2018-10-22,Morgan Stanley,Equal-Weight,Overweight,down,OZKAP
+2018-10-22,Wells Fargo,Market Perform,Market Perform,main,OZKAP
+2018-10-22,Barclays,Underweight,Underweight,main,OZKAP
+2018-10-22,Citigroup,Buy,Buy,main,OZKAP
+2018-10-24,UBS,Neutral,Sell,up,OZKAP
+2018-12-04,PiperJaffray,Neutral,Overweight,down,OZKAP
+2018-12-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,OZKAP
+2019-01-10,Barclays,Equal-Weight,Underweight,up,OZKAP
+2019-10-03,Morgan Stanley,Equal-Weight,,main,OZKAP
+2019-10-22,Morgan Stanley,Equal-Weight,,main,OZKAP
+2019-11-18,SunTrust Robinson Humphrey,Hold,,main,OZKAP
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,OZKAP
+2020-01-10,Piper Sandler,Overweight,Neutral,up,OZKAP
+2020-03-05,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-03-17,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-03-24,Citigroup,Buy,,main,OZKAP
+2020-03-30,Wells Fargo,Equal-Weight,,main,OZKAP
+2020-04-06,SunTrust Robinson Humphrey,Hold,,main,OZKAP
+2020-04-07,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-04-27,Stephens & Co.,Equal-Weight,,main,OZKAP
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,OZKAP
+2020-05-06,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-05-15,UBS,Neutral,,main,OZKAP
+2020-06-08,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-06-17,Raymond James,Outperform,Market Perform,up,OZKAP
+2020-06-18,Citigroup,Neutral,Buy,down,OZKAP
+2020-07-24,Piper Sandler,Overweight,,main,OZKAP
+2020-08-04,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-11-03,Morgan Stanley,Equal-Weight,,main,OZKAP
+2020-12-07,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-01-07,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-01-25,Raymond James,Outperform,,main,OZKAP
+2021-01-27,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-02-24,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-03-18,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-06-04,Wells Fargo,Overweight,Equal-Weight,up,OZKAP
+2021-08-02,Morgan Stanley,Equal-Weight,,main,OZKAP
+2021-10-25,Raymond James,Outperform,,main,OZKAP
+2021-12-06,Morgan Stanley,Equal-Weight,,main,OZKAP

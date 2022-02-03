@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-14,Cantor Fitzgerald,Overweight,,init,RCM
+2018-04-09,Baird,Outperform,,up,RCM
+2018-08-10,Cantor Fitzgerald,Overweight,Overweight,main,RCM
+2018-09-04,Chardan Capital,Buy,,init,RCM
+2018-12-10,Citigroup,Buy,,init,RCM
+2018-12-11,Citigroup,Buy,,init,RCM
+2019-01-22,KeyBanc,Overweight,,init,RCM
+2020-01-14,KeyBanc,Overweight,,main,RCM
+2020-04-21,RBC Capital,Outperform,,init,RCM
+2020-07-14,KeyBanc,Overweight,,main,RCM
+2020-08-05,SVB Leerink,Outperform,Market Perform,up,RCM
+2020-11-02,KeyBanc,Overweight,,main,RCM
+2020-11-04,SVB Leerink,Outperform,,main,RCM
+2020-11-04,Cantor Fitzgerald,Overweight,,reit,RCM
+2020-12-03,SVB Leerink,Outperform,,main,RCM
+2021-01-06,KeyBanc,Overweight,,main,RCM
+2021-06-02,Baird,Outperform,,init,RCM
+2021-07-22,B of A Securities,Buy,,init,RCM
+2021-09-30,Barclays,Overweight,,init,RCM
+2021-10-14,JP Morgan,Overweight,,init,RCM
+2021-12-02,Jefferies,Buy,,init,RCM

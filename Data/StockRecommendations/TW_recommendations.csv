@@ -1,0 +1,103 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-14,Bank of America,Buy,,main,TW
+2012-08-15,Deutsche Bank,Buy,,main,TW
+2012-08-15,Citigroup,Buy,,main,TW
+2012-08-15,Stifel Nicolaus,Buy,,main,TW
+2012-08-15,Goldman Sachs,Neutral,,main,TW
+2012-09-17,JP Morgan,Overweight,,main,TW
+2012-09-17,Bank of America,Buy,,main,TW
+2012-09-17,Deutsche Bank,Buy,,main,TW
+2012-09-17,Goldman Sachs,Neutral,,main,TW
+2012-12-12,Baird,Outperform,Neutral,up,TW
+2013-02-08,Stifel Nicolaus,Buy,,main,TW
+2013-04-04,Citigroup,Buy,,main,TW
+2013-04-17,Deutsche Bank,Buy,,main,TW
+2013-07-22,Deutsche Bank,Hold,Buy,down,TW
+2013-08-15,Deutsche Bank,Hold,,main,TW
+2013-08-15,Stifel Nicolaus,Hold,Buy,down,TW
+2013-09-09,Deutsche Bank,Hold,,main,TW
+2013-09-23,JP Morgan,Neutral,Overweight,down,TW
+2013-09-23,Deutsche Bank,Buy,Hold,up,TW
+2013-10-08,MKM Partners,Buy,,init,TW
+2013-10-16,Credit Suisse,Neutral,,init,TW
+2013-11-27,Citigroup,Buy,,main,TW
+2013-12-18,Goldman Sachs,Buy,,init,TW
+2014-01-13,Credit Suisse,Outperform,,up,TW
+2014-01-16,Raymond James,Outperform,,main,TW
+2014-01-22,Citigroup,Neutral,Buy,down,TW
+2014-02-07,JP Morgan,Overweight,Neutral,up,TW
+2014-05-07,Citigroup,Hold,,main,TW
+2014-05-08,Raymond James,Outperform,,main,TW
+2014-05-08,Stifel Nicolaus,Buy,Hold,up,TW
+2014-08-13,MKM Partners,Buy,,main,TW
+2014-09-10,Canaccord Genuity,Buy,,init,TW
+2014-09-22,Deutsche Bank,Buy,,main,TW
+2014-11-06,Citigroup,Neutral,,main,TW
+2015-01-09,Citigroup,Buy,,main,TW
+2015-01-12,Goldman Sachs,Neutral,Buy,down,TW
+2015-02-06,Deutsche Bank,Buy,,main,TW
+2015-02-06,Citigroup,Buy,,main,TW
+2015-02-09,JP Morgan,Overweight,,main,TW
+2015-04-20,Barclays,Neutral,,main,TW
+2015-05-06,Deutsche Bank,Buy,,main,TW
+2015-05-27,Jefferies,Buy,,main,TW
+2015-06-01,Baird,Outperform,,main,TW
+2015-06-30,Deutsche Bank,Hold,,down,TW
+2015-07-01,Stifel Nicolaus,Buy,,main,TW
+2015-07-01,Deutsche Bank,Hold,Buy,down,TW
+2015-08-12,Deutsche Bank,Hold,,main,TW
+2015-12-07,Raymond James,Market Perform,Outperform,down,TW
+2019-04-15,Rosenblatt,Buy,,init,TW
+2019-04-23,Compass Point,Neutral,,init,TW
+2019-04-29,Sandler O'Neill,Hold,,init,TW
+2019-04-29,Jefferies,Hold,,init,TW
+2019-04-29,Morgan Stanley,Equal-Weight,,init,TW
+2019-04-29,Bank of America,Neutral,,init,TW
+2019-04-29,JP Morgan,Overweight,,init,TW
+2019-04-29,Wells Fargo,Market Perform,,init,TW
+2019-04-29,Barclays,Equal-Weight,,init,TW
+2019-04-29,Goldman Sachs,Neutral,,init,TW
+2019-06-18,Raymond James,Market Perform,,init,TW
+2019-08-09,Credit Suisse,Neutral,,main,TW
+2019-09-13,Bank of America,Buy,Neutral,up,TW
+2019-10-01,Barclays,Overweight,Equal-Weight,up,TW
+2019-10-17,Citigroup,Neutral,,main,TW
+2019-10-21,UBS,Buy,Neutral,up,TW
+2019-11-08,Deutsche Bank,Hold,,main,TW
+2019-11-08,Barclays,Overweight,,main,TW
+2019-11-20,Goldman Sachs,Buy,Neutral,up,TW
+2019-11-27,Deutsche Bank,Hold,,main,TW
+2019-12-16,Credit Suisse,Outperform,Neutral,up,TW
+2020-02-13,B of A Securities,Buy,,main,TW
+2020-02-13,Citigroup,Neutral,,main,TW
+2020-03-05,Deutsche Bank,Hold,,main,TW
+2020-03-18,Deutsche Bank,Hold,,main,TW
+2020-03-23,B of A Securities,Buy,,main,TW
+2020-04-03,Citigroup,Neutral,,main,TW
+2020-04-06,Rosenblatt,Buy,,main,TW
+2020-04-09,Deutsche Bank,Hold,,main,TW
+2020-04-20,Citigroup,Neutral,,main,TW
+2020-04-21,Rosenblatt,Buy,,main,TW
+2020-05-08,Citigroup,Neutral,,main,TW
+2020-05-15,Deutsche Bank,Hold,,main,TW
+2020-05-21,Credit Suisse,Outperform,,main,TW
+2020-06-22,Goldman Sachs,Neutral,Buy,down,TW
+2020-07-20,Citigroup,Neutral,,main,TW
+2020-09-14,Rosenblatt,Buy,Neutral,up,TW
+2020-10-06,Rosenblatt,Buy,,main,TW
+2020-10-29,Rosenblatt,Buy,,main,TW
+2020-11-06,Rosenblatt,Buy,,main,TW
+2020-12-04,Rosenblatt,Buy,,main,TW
+2021-01-13,Compass Point,Buy,Neutral,up,TW
+2021-03-31,Redburn,Buy,,init,TW
+2021-04-12,Barclays,Overweight,,main,TW
+2021-04-12,Morgan Stanley,Overweight,,main,TW
+2021-04-20,Citigroup,Neutral,,main,TW
+2021-04-30,Morgan Stanley,Overweight,,main,TW
+2021-04-30,Rosenblatt,Buy,,main,TW
+2021-07-01,Morgan Stanley,Overweight,,main,TW
+2021-07-12,Deutsche Bank,Hold,,main,TW
+2021-07-15,JP Morgan,Overweight,,main,TW
+2021-07-16,Morgan Stanley,Overweight,,main,TW
+2021-07-30,Rosenblatt,Buy,,main,TW
+2021-11-01,Morgan Stanley,Overweight,,main,TW

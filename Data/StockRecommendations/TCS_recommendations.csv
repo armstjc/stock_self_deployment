@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-11-11,Stifel Nicolaus,Buy,,init,TCS
+2013-11-12,Stifel Nicolaus,Buy,,init,TCS
+2013-11-26,JP Morgan,Overweight,,init,TCS
+2013-11-26,Jefferies,Hold,,init,TCS
+2013-11-26,Barclays,Equal-Weight,,init,TCS
+2013-11-26,Wells Fargo,Market Perform,,init,TCS
+2013-11-26,Guggenheim,Neutral,,init,TCS
+2013-11-26,Credit Suisse,Outperform,,init,TCS
+2013-11-26,Bank of America,Buy,,init,TCS
+2014-01-08,Bank of America,Neutral,Buy,down,TCS
+2014-02-24,Bank of America,Underperform,Neutral,down,TCS
+2014-04-17,JP Morgan,Overweight,,main,TCS
+2014-04-24,Barclays,Equal-Weight,,main,TCS
+2014-04-29,Barclays,Equal-Weight,,main,TCS
+2014-04-29,JP Morgan,Overweight,,main,TCS
+2014-06-24,Morgan Stanley,Equal-Weight,,init,TCS
+2014-07-09,Barclays,Equal-Weight,,main,TCS
+2014-07-09,Credit Suisse,Outperform,,main,TCS
+2014-07-09,Jefferies,Hold,,main,TCS
+2014-07-09,JP Morgan,,Overweight,main,TCS
+2014-07-16,BB&T Capital,Hold,,init,TCS
+2014-10-02,Barclays,Equal-Weight,,main,TCS
+2014-10-07,Jefferies,Hold,,main,TCS
+2014-10-07,Barclays,Equal-Weight,,main,TCS
+2014-11-07,Bank of America,Buy,Underperform,up,TCS
+2014-11-14,CRT Capital,Fair Value,,init,TCS
+2015-01-09,CRT Capital,Fair Value,,main,TCS
+2015-01-09,Jefferies,Hold,,main,TCS
+2015-03-26,BB&T Capital,Underweight,Hold,down,TCS
+2015-04-28,Barclays,Equal-Weight,,main,TCS
+2015-04-28,CRT Capital,Fair Value,,main,TCS
+2015-07-08,Jefferies,Hold,,main,TCS
+2015-08-20,BB&T Capital,Hold,Underweight,up,TCS
+2015-12-11,Bank of America,Underperform,Buy,down,TCS
+2016-01-08,Credit Suisse,Outperform,,main,TCS
+2016-03-30,Barclays,Equal-Weight,,init,TCS
+2016-04-06,Goldman Sachs,Neutral,,main,TCS
+2016-04-26,Goldman Sachs,Neutral,,main,TCS
+2017-01-17,Morgan Stanley,Underweight,Equal-Weight,down,TCS
+2018-10-31,JP Morgan,Underweight,Neutral,down,TCS
+2019-07-11,Goldman Sachs,Sell,,init,TCS
+2019-10-17,Goldman Sachs,Neutral,Sell,up,TCS
+2020-08-04,Goldman Sachs,Sell,Neutral,down,TCS
+2020-11-09,Goldman Sachs,Neutral,Sell,up,TCS

@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-14,Barclays,Overweight,Overweight,main,USAC
+2013-06-26,RBC Capital,Outperform,,init,USAC
+2013-07-11,Guzman & Company,Outperform,,init,USAC
+2013-08-14,Goldman Sachs,Neutral,Buy,down,USAC
+2013-08-14,Barclays,Overweight,,main,USAC
+2013-08-14,Wells Fargo,Outperform,Market Perform,up,USAC
+2014-04-30,Raymond James,Outperform,,main,USAC
+2014-05-01,Wells Fargo,Market Perform,Outperform,down,USAC
+2014-06-18,Ladenburg Thalmann,Buy,,init,USAC
+2014-06-23,JP Morgan,Overweight,,main,USAC
+2014-08-13,Raymond James,Outperform,,main,USAC
+2014-11-04,Barclays,Overweight,,main,USAC
+2015-01-05,UBS,Buy,,init,USAC
+2015-02-02,Barclays,Equal-Weight,Overweight,down,USAC
+2015-05-08,Barclays,Equal-Weight,,main,USAC
+2015-07-28,JP Morgan,Neutral,Overweight,down,USAC
+2015-08-10,Barclays,Equal-Weight,,main,USAC
+2016-01-11,Barclays,Underweight,Equal-Weight,down,USAC
+2016-05-12,Goldman Sachs,Neutral,,main,USAC
+2016-06-21,Goldman Sachs,Sell,Neutral,down,USAC
+2016-09-09,FBR Capital,Outperform,,init,USAC
+2017-02-14,RBC Capital,Sector Perform,Outperform,down,USAC
+2018-01-19,JP Morgan,Overweight,Neutral,up,USAC
+2018-02-13,JP Morgan,Overweight,Overweight,main,USAC
+2018-03-05,Janney Capital,Buy,Neutral,up,USAC
+2018-09-05,Mitsubishi UFJ,Overweight,,init,USAC
+2018-09-13,Wells Fargo,Market Perform,Market Perform,main,USAC
+2018-11-07,RBC Capital,Outperform,Sector Perform,up,USAC
+2019-01-03,UBS,Neutral,Buy,down,USAC
+2019-04-04,Stifel Nicolaus,Buy,,init,USAC
+2019-10-17,Stifel Nicolaus,Hold,Buy,down,USAC
+2019-11-07,Wells Fargo,Market Perform,,main,USAC
+2020-01-07,Wells Fargo,Underweight,Equal-Weight,down,USAC
+2020-03-09,JP Morgan,Overweight,,main,USAC
+2020-03-10,Raymond James,Market Perform,Outperform,down,USAC
+2020-03-17,B. Riley,Neutral,Buy,down,USAC
+2020-04-14,Wells Fargo,Underweight,,main,USAC
+2020-04-24,JP Morgan,Neutral,Overweight,down,USAC
+2020-05-06,JP Morgan,Neutral,,main,USAC
+2020-06-05,UBS,Buy,Neutral,up,USAC
+2020-07-22,Wells Fargo,Underweight,,main,USAC
+2020-08-06,Stifel,Hold,,main,USAC
+2020-08-06,Wells Fargo,Underweight,,main,USAC
+2021-12-16,Wells Fargo,Underweight,,main,USAC

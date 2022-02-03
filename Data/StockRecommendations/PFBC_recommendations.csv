@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-31,DA Davidson,Buy,,main,PFBC
+2013-04-19,Raymond James,Outperform,Market Perform,up,PFBC
+2013-10-07,FIG Partners,Outperform,,init,PFBC
+2014-04-28,Raymond James,Outperform,,main,PFBC
+2014-07-31,Raymond James,Outperform,,main,PFBC
+2014-10-17,DA Davidson,Buy,,main,PFBC
+2014-10-20,Raymond James,Outperform,Strong Buy,down,PFBC
+2015-08-25,Raymond James,Strong Buy,Outperform,up,PFBC
+2015-10-05,Raymond James,Outperform,Strong Buy,down,PFBC
+2016-07-01,FBR Capital,Outperform,,init,PFBC
+2017-04-06,Stephens & Co.,Equal-Weight,,init,PFBC
+2018-01-09,Raymond James,Strong Buy,Outperform,up,PFBC
+2018-07-20,B. Riley FBR,Buy,Buy,main,PFBC
+2018-10-04,Raymond James,Strong Buy,Outperform,up,PFBC
+2018-10-19,Raymond James,Strong Buy,Strong Buy,main,PFBC
+2019-04-22,Raymond James,Strong Buy,Strong Buy,main,PFBC
+2019-06-05,DA Davidson,Neutral,Buy,down,PFBC
+2019-06-05,DA Davidson,Neutral,Buy,down,PFBC
+2019-08-21,B. Riley FBR,Neutral,Buy,down,PFBC
+2019-08-21,B. Riley,Neutral,Buy,down,PFBC
+2019-08-29,Raymond James,Outperform,,main,PFBC
+2019-10-17,Janney Capital,Neutral,Buy,down,PFBC
+2019-10-18,Raymond James,Outperform,,main,PFBC
+2020-01-07,Raymond James,Market Perform,Outperform,down,PFBC
+2020-01-09,B. Riley FBR,Neutral,,main,PFBC
+2020-01-28,Stephens & Co.,Equal-Weight,,main,PFBC
+2020-04-13,B. Riley FBR,Neutral,,main,PFBC
+2020-10-01,Piper Sandler,Overweight,,main,PFBC
+2020-12-18,B. Riley FBR,Buy,Neutral,up,PFBC
+2021-02-02,B. Riley FBR,Buy,,main,PFBC
+2021-04-07,Raymond James,Outperform,Market Perform,up,PFBC
+2021-04-09,B. Riley FBR,Buy,,main,PFBC
+2021-04-14,Piper Sandler,Overweight,,main,PFBC
+2021-10-25,Raymond James,Outperform,,main,PFBC
+2021-10-29,Stephens & Co.,Overweight,Equal-Weight,up,PFBC
+2021-11-17,Piper Sandler,Overweight,,main,PFBC

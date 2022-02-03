@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-12-07,Cowen & Co.,Outperform,,init,VYGR
+2015-12-07,Wedbush,Outperform,,init,VYGR
+2015-12-07,PiperJaffray,Overweight,,init,VYGR
+2015-12-09,Chardan Capital,Sell,,init,VYGR
+2016-01-25,Chardan Capital,Neutral,Sell,up,VYGR
+2016-05-20,Wells Fargo,Outperform,,init,VYGR
+2016-07-15,Stifel Nicolaus,Buy,,init,VYGR
+2017-03-02,Nomura,Buy,,init,VYGR
+2017-08-17,Evercore ISI Group,Outperform,,init,VYGR
+2017-10-12,Raymond James,Outperform,,init,VYGR
+2017-10-23,Stifel Nicolaus,Buy,,main,VYGR
+2017-10-27,Canaccord Genuity,Buy,,init,VYGR
+2017-12-20,BTIG Research,Buy,,init,VYGR
+2018-02-02,Morgan Stanley,Overweight,,init,VYGR
+2018-02-21,Morgan Stanley,Overweight,Overweight,main,VYGR
+2018-03-12,Wedbush,Neutral,Outperform,down,VYGR
+2018-03-12,Evercore ISI Group,In-Line,Outperform,down,VYGR
+2018-03-15,Canaccord Genuity,Buy,Buy,main,VYGR
+2018-05-11,Wedbush,Outperform,Neutral,up,VYGR
+2018-06-04,H.C. Wainwright,Buy,,init,VYGR
+2018-11-08,Baird,Outperform,Outperform,main,VYGR
+2018-11-15,Raymond James,Strong Buy,Outperform,up,VYGR
+2019-03-06,Cantor Fitzgerald,Overweight,,init,VYGR
+2019-07-12,Morgan Stanley,Equal-Weight,,main,VYGR
+2019-10-11,Morgan Stanley,Equal-Weight,,main,VYGR
+2020-02-06,Oppenheimer,Outperform,,init,VYGR
+2020-03-04,Wedbush,Outperform,,main,VYGR
+2020-03-04,Morgan Stanley,Equal-Weight,,main,VYGR
+2020-03-04,HC Wainwright & Co.,Buy,,main,VYGR
+2020-03-19,Benchmark,Buy,,init,VYGR
+2020-03-30,Nomura,Buy,,main,VYGR
+2020-04-15,Morgan Stanley,Equal-Weight,,main,VYGR
+2020-08-04,HC Wainwright & Co.,Buy,,main,VYGR
+2020-11-10,Wells Fargo,Equal-Weight,Overweight,down,VYGR
+2020-11-10,Raymond James,Outperform,Strong Buy,down,VYGR
+2020-11-11,Oppenheimer,Perform,Outperform,down,VYGR
+2021-02-03,BTIG,Neutral,Buy,down,VYGR
+2021-02-03,Morgan Stanley,Equal-Weight,,main,VYGR
+2021-02-03,Wedbush,Neutral,Outperform,down,VYGR
+2021-02-26,Baird,Neutral,Outperform,down,VYGR
+2021-04-19,Morgan Stanley,Equal-Weight,,main,VYGR
+2021-10-07,Baird,Outperform,Neutral,up,VYGR
+2021-11-03,Chardan Capital,Neutral,,main,VYGR

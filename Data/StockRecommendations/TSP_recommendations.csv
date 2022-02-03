@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-05-10,Needham,Buy,,init,TSP
+2021-05-10,RBC Capital,Outperform,,init,TSP
+2021-05-10,JP Morgan,Overweight,Above Average,init,TSP
+2021-05-10,Citigroup,Buy,,init,TSP
+2021-05-10,Piper Sandler,Overweight,,init,TSP
+2021-05-10,Cowen & Co.,Market Perform,,init,TSP
+2021-05-10,Morgan Stanley,Overweight,,init,TSP
+2021-05-10,Baird,Outperform,,init,TSP
+2021-05-11,Oppenheimer,Outperform,,init,TSP
+2021-05-11,Wolfe Research,Peer Perform,,init,TSP
+2021-05-12,Credit Suisse,Outperform,,init,TSP
+2021-07-07,CICC,Outperform,,init,TSP
+2021-07-08,Morgan Stanley,Overweight,,main,TSP
+2021-11-04,RBC Capital,Outperform,,main,TSP
+2021-12-07,China Renaissance,Hold,,init,TSP

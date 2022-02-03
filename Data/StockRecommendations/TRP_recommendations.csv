@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-11,Canaccord Genuity,Hold,,main,TRP
+2012-09-11,Canaccord Genuity,Hold,,main,TRP
+2012-10-29,Canaccord Genuity,Hold,,main,TRP
+2012-10-31,BMO Capital,Outperform,,main,TRP
+2013-01-11,Deutsche Bank,Hold,,main,TRP
+2013-01-23,National Bank Financial,Sector Perform,Underperform,up,TRP
+2013-03-04,Canaccord Genuity,Hold,,main,TRP
+2013-06-03,Canaccord Genuity,Buy,Hold,up,TRP
+2013-07-29,TD Securities,Buy,Hold,up,TRP
+2013-07-29,Desjardins,Buy,Hold,up,TRP
+2014-05-05,Desjardins,Hold,Buy,down,TRP
+2014-06-30,Citigroup,Buy,Neutral,up,TRP
+2014-07-01,Citigroup,Buy,,main,TRP
+2014-07-28,Credit Suisse,Neutral,Outperform,down,TRP
+2014-08-01,TD Securities,Hold,Buy,down,TRP
+2014-09-15,Goldman Sachs,Sell,Neutral,down,TRP
+2014-11-17,Barclays,Buy,,main,TRP
+2014-11-19,Credit Suisse,Outperform,Neutral,up,TRP
+2015-01-19,TD Securities,Buy,Hold,up,TRP
+2015-01-26,Macquarie,Neutral,,init,TRP
+2015-09-11,Goldman Sachs,Neutral,Sell,up,TRP
+2015-10-23,BMO Capital,Outperform,,init,TRP
+2015-12-02,Macquarie,Outperform,Neutral,up,TRP
+2015-12-07,CIBC,Outperform,Sector Perform,up,TRP
+2015-12-15,JP Morgan,Overweight,,init,TRP
+2016-03-11,Citigroup,Neutral,Buy,down,TRP
+2016-03-31,Citigroup,Buy,Neutral,up,TRP
+2016-04-08,Credit Suisse,Outperform,,init,TRP
+2016-05-02,Barclays,Equal-Weight,,main,TRP
+2016-09-01,Bank of America,Buy,,init,TRP
+2017-03-31,Wells Fargo,Outperform,,init,TRP
+2017-07-31,BMO Capital,Outperform,,main,TRP
+2017-09-22,Morgan Stanley,Equal-Weight,,init,TRP
+2017-11-17,Morgan Stanley,Equal-Weight,,main,TRP
+2018-01-11,Morgan Stanley,Overweight,Equal-Weight,up,TRP
+2018-02-09,Morgan Stanley,Overweight,Overweight,main,TRP
+2018-03-16,Morgan Stanley,Overweight,Overweight,main,TRP
+2018-03-22,Wells Fargo,Market Perform,Outperform,down,TRP
+2018-03-23,Morgan Stanley,Overweight,Overweight,main,TRP
+2018-03-28,Citigroup,Buy,Buy,main,TRP
+2018-08-15,Deutsche Bank,Buy,Buy,main,TRP
+2018-10-09,Goldman Sachs,Neutral,,init,TRP
+2020-03-09,B of A Securities,Buy,Neutral,up,TRP
+2020-04-01,BMO Capital,Outperform,,main,TRP
+2020-04-14,Wells Fargo,Overweight,,main,TRP
+2020-05-13,BMO Capital,Market Perform,Outperform,down,TRP
+2020-06-17,Citigroup,Buy,,main,TRP
+2020-10-15,Goldman Sachs,Buy,Neutral,up,TRP
+2021-01-21,Credit Suisse,Outperform,Neutral,up,TRP

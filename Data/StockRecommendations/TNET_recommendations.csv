@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-05-06,Morgan Stanley,Overweight,,init,TNET
+2014-05-06,Stifel Nicolaus,Buy,,init,TNET
+2014-05-06,Stifel Nicolaus,Buy,,init,TNET
+2014-05-06,Deutsche Bank,Buy,,init,TNET
+2014-05-06,JP Morgan,Overweight,,init,TNET
+2014-05-06,Jefferies,Hold,,init,TNET
+2014-08-05,Deutsche Bank,Buy,,main,TNET
+2014-08-12,Jefferies,Hold,,main,TNET
+2014-08-13,JP Morgan,Overweight,,main,TNET
+2014-10-08,Deutsche Bank,Buy,,main,TNET
+2014-11-05,Deutsche Bank,Buy,,main,TNET
+2014-11-05,Stifel Nicolaus,Buy,,main,TNET
+2015-03-02,Jefferies,Hold,,main,TNET
+2015-03-02,Deutsche Bank,Buy,,main,TNET
+2015-05-06,Deutsche Bank,Buy,,main,TNET
+2015-05-08,Jefferies,Hold,,main,TNET
+2015-05-22,PiperJaffray,Neutral,,init,TNET
+2015-08-04,William Blair,Market Perform,Outperform,down,TNET
+2015-08-04,Stifel Nicolaus,Buy,,main,TNET
+2015-08-04,PiperJaffray,Neutral,,main,TNET
+2015-11-03,PiperJaffray,Neutral,,main,TNET
+2016-08-04,Morgan Stanley,Equal-Weight,Overweight,down,TNET
+2016-08-05,Jefferies,Hold,,main,TNET
+2016-12-01,Stifel Nicolaus,Buy,,main,TNET
+2016-12-09,JP Morgan,Neutral,Overweight,down,TNET
+2017-04-19,Deutsche Bank,Hold,Buy,down,TNET
+2017-08-17,JP Morgan,Underweight,Neutral,down,TNET
+2017-08-22,Morgan Stanley,Underweight,Equal-Weight,down,TNET
+2017-11-03,Morgan Stanley,Underweight,,main,TNET
+2018-02-28,Stifel Nicolaus,Buy,Buy,main,TNET
+2018-04-04,Morgan Stanley,Equal-Weight,Underweight,up,TNET
+2018-04-12,Stifel Nicolaus,Buy,Buy,main,TNET
+2018-05-01,Stifel Nicolaus,Buy,Buy,main,TNET
+2018-05-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,TNET
+2018-07-31,Stifel Nicolaus,Buy,Buy,main,TNET
+2018-07-31,Morgan Stanley,Equal-Weight,Equal-Weight,main,TNET
+2018-08-10,Credit Suisse,Neutral,,init,TNET
+2018-10-30,Credit Suisse,Neutral,Neutral,main,TNET
+2019-02-12,William Blair,Outperform,Market Perform,up,TNET
+2019-02-15,JP Morgan,Neutral,Underweight,up,TNET
+2020-04-29,Credit Suisse,Neutral,,main,TNET
+2020-07-28,Credit Suisse,Neutral,,main,TNET
+2020-10-27,Credit Suisse,Neutral,,main,TNET
+2021-02-17,Credit Suisse,Neutral,,main,TNET
+2021-04-27,Credit Suisse,Neutral,,main,TNET
+2021-08-17,JP Morgan,Neutral,,main,TNET
+2021-10-26,Credit Suisse,Neutral,,main,TNET

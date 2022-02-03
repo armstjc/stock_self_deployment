@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-07,Feltl & Co.,Hold,,down,SREV
+2012-05-21,Feltl & Co.,Buy,,up,SREV
+2012-06-29,Northland Securities,Outperform,,init,SREV
+2012-08-01,Northland Securities,Market Perform,Outperform,down,SREV
+2012-11-05,PiperJaffray,Overweight,,main,SREV
+2012-11-06,Deutsche Bank,Hold,Buy,down,SREV
+2012-11-06,Morgan Stanley,Equal-Weight,Overweight,down,SREV
+2012-11-06,CLSA,Outperform,Buy,down,SREV
+2013-05-10,Northland Securities,Market Perform,Outperform,down,SREV
+2014-05-02,CLSA,Underperform,Buy,down,SREV
+2014-05-02,JMP Securities,Market Outperform,,main,SREV
+2014-08-01,JMP Securities,Market Perform,Market Outperform,down,SREV
+2015-04-28,JMP Securities,Market Outperform,Market Perform,up,SREV
+2016-08-24,JMP Securities,Market Outperform,,main,SREV
+2017-02-22,Northland Securities,Market Perform,Outperform,down,SREV
+2018-03-27,B. Riley FBR,Buy,,init,SREV
+2018-10-19,JMP Securities,Market Perform,Market Outperform,down,SREV
+2019-02-21,B. Riley FBR,Neutral,Buy,down,SREV
+2019-10-31,B. Riley,Buy,Neutral,up,SREV
+2020-02-21,B. Riley FBR,Buy,,main,SREV
+2020-05-04,B. Riley FBR,Buy,,main,SREV
+2020-05-11,B. Riley FBR,Buy,,main,SREV

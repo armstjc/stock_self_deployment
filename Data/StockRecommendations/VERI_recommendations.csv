@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-06-06,Wunderlich,Buy,,init,VERI
+2017-08-11,Roth Capital,Buy,,init,VERI
+2017-11-07,B. Riley FBR,Sell,Buy,down,VERI
+2018-02-27,B. Riley FBR,Sell,Sell,main,VERI
+2018-04-23,Cowen & Co.,Outperform,,init,VERI
+2018-04-26,DA Davidson,Buy,,init,VERI
+2018-11-13,B. Riley FBR,Neutral,Sell,up,VERI
+2019-04-03,JMP Securities,Outperform,,init,VERI
+2019-11-07,Craig-Hallum,Hold,Buy,down,VERI
+2020-05-12,JMP Securities,Market Outperform,,main,VERI
+2020-12-21,Stifel,Hold,,init,VERI
+2020-12-21,Roth Capital,Buy,,main,VERI
+2021-03-05,Roth Capital,Buy,,main,VERI
+2021-11-10,JMP Securities,Market Outperform,,main,VERI

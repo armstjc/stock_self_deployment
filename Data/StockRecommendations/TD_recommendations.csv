@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-28,Stifel Nicolaus,Hold,,init,TD
+2012-08-31,Canaccord Genuity,Buy,,main,TD
+2012-08-31,National Bank Financial,Outperform,,main,TD
+2012-08-31,Credit Suisse,Neutral,Outperform,down,TD
+2012-12-04,Citigroup,Buy,,init,TD
+2012-12-07,BMO Capital,Outperform,,main,TD
+2013-03-01,BMO Capital,Outperform,,main,TD
+2013-06-18,Barclays,Equal-Weight,Overweight,down,TD
+2013-06-25,Rafferty,Buy,,init,TD
+2013-12-06,Rafferty,Hold,Buy,down,TD
+2014-05-01,Canaccord Genuity,Hold,,init,TD
+2015-03-16,Citigroup,Neutral,,main,TD
+2015-03-31,Citigroup,Buy,Neutral,up,TD
+2015-05-29,Scotiabank,Sector Perform,Outperform,down,TD
+2015-09-22,Credit Suisse,Neutral,Outperform,down,TD
+2015-12-04,Macquarie,Outperform,,main,TD
+2015-12-09,Canaccord Genuity,Buy,Hold,up,TD
+2015-12-17,Credit Suisse,Neutral,,main,TD
+2016-05-03,Credit Suisse,Outperform,Neutral,up,TD
+2016-08-25,Canaccord Genuity,Hold,Buy,down,TD
+2016-08-25,Credit Suisse,Outperform,,main,TD
+2016-08-26,CIBC,Sector Performer,Outperformer,down,TD
+2016-09-14,Citigroup,Buy,,main,TD
+2016-11-01,Bank of America,Buy,,init,TD
+2017-03-13,RBC Capital,Sector Perform,Outperform,down,TD
+2017-05-23,Barclays,Equal-Weight,Underweight,up,TD
+2018-01-30,Bank of America,Buy,Buy,main,TD
+2019-08-15,Bank of America,Neutral,Buy,down,TD
+2020-02-04,B of A Securities,Buy,Neutral,up,TD
+2020-03-03,CFRA,Buy,,reit,TD
+2020-05-13,B of A Securities,Neutral,,main,TD
+2021-11-22,B of A Securities,Buy,Underperform,up,TD
+2021-12-03,BMO Capital,Market Perform,,main,TD

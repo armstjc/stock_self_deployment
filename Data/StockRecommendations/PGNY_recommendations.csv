@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-11-19,Citi,Buy,,init,PGNY
+2019-11-19,JP Morgan,Overweight,,init,PGNY
+2019-11-19,Piper Jaffray,Overweight,,init,PGNY
+2019-11-19,SVB Leerink,Outperform,,init,PGNY
+2019-12-04,Bank of America,Neutral,,reit,PGNY
+2020-03-10,Citigroup,Buy,,main,PGNY
+2020-05-13,Citigroup,Buy,,main,PGNY
+2020-06-02,Guggenheim,Buy,,init,PGNY
+2020-07-01,SVB Leerink,Outperform,,init,PGNY
+2020-07-27,B of A Securities,Neutral,,main,PGNY
+2020-08-06,Citigroup,Buy,,main,PGNY
+2020-08-06,SVB Leerink,Outperform,,main,PGNY
+2020-08-06,Piper Sandler,Overweight,,main,PGNY
+2020-08-24,JP Morgan,Overweight,,main,PGNY
+2020-11-06,SVB Leerink,Outperform,,main,PGNY
+2020-11-25,B of A Securities,Neutral,,main,PGNY
+2021-03-10,B of A Securities,Buy,Neutral,up,PGNY
+2021-05-07,SVB Leerink,Outperform,,main,PGNY
+2021-06-02,Guggenheim,Neutral,Buy,down,PGNY
+2021-08-06,SVB Leerink,Outperform,,main,PGNY
+2021-08-12,Barclays,Overweight,,init,PGNY
+2021-08-25,Barclays,Overweight,,main,PGNY
+2021-09-28,Barclays,Overweight,,main,PGNY
+2021-09-30,Berenberg,Buy,,init,PGNY
+2021-12-02,Jefferies,Buy,,init,PGNY

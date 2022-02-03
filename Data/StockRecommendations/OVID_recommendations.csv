@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-30,Cowen & Co.,Outperform,,init,OVID
+2017-05-30,William Blair,Outperform,,init,OVID
+2018-03-09,PiperJaffray,Overweight,,init,OVID
+2018-04-20,Ladenburg Thalmann,Buy,,init,OVID
+2018-11-15,Cantor Fitzgerald,Overweight,,init,OVID
+2019-09-04,RBC Capital,Outperform,,init,OVID
+2019-09-24,Citi,Buy,,main,OVID
+2019-09-24,Citigroup,Buy,,main,OVID
+2020-06-18,Cantor Fitzgerald,Overweight,,main,OVID
+2020-08-26,Citigroup,Buy,,main,OVID
+2020-12-02,JMP Securities,Market Perform,Market Outperform,down,OVID
+2020-12-02,Citigroup,Neutral,Buy,down,OVID
+2021-04-20,Cantor Fitzgerald,Neutral,Overweight,down,OVID
+2021-08-25,Citigroup,Neutral,,main,OVID

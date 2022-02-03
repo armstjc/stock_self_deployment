@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-04,Jefferies,Hold,,main,PRLB
+2012-06-29,Jefferies,Hold,,main,PRLB
+2012-07-24,PiperJaffray,Overweight,,main,PRLB
+2013-02-13,Jefferies,Hold,,main,PRLB
+2013-02-13,PiperJaffray,Overweight,,main,PRLB
+2013-02-21,Morgan Stanley,Equal-Weight,,init,PRLB
+2013-04-25,PiperJaffray,Overweight,,main,PRLB
+2013-06-17,PiperJaffray,Overweight,,main,PRLB
+2013-07-15,Jefferies,Hold,,main,PRLB
+2014-05-02,Jefferies,Hold,,main,PRLB
+2014-06-18,Canaccord Genuity,Hold,,init,PRLB
+2014-10-03,Canaccord Genuity,Buy,Hold,up,PRLB
+2014-12-18,Oppenheimer,Outperform,,init,PRLB
+2015-02-19,Pacific Crest,Sector Perform,,init,PRLB
+2015-04-20,Needham,Hold,Buy,down,PRLB
+2015-04-24,Craig-Hallum,Hold,Buy,down,PRLB
+2015-04-24,PiperJaffray,Neutral,Overweight,down,PRLB
+2015-10-15,Canaccord Genuity,Buy,Hold,up,PRLB
+2016-04-29,Stephens & Co.,Equal-Weight,Overweight,down,PRLB
+2016-04-29,Stephens & Co.,Equal-Weight,Overweight,down,PRLB
+2016-05-11,FBR Capital,Outperform,,init,PRLB
+2016-10-28,Canaccord Genuity,Hold,Buy,down,PRLB
+2018-12-12,Northcoast Research,Buy,,init,PRLB
+2019-10-25,Northcoast Research,Neutral,Buy,down,PRLB
+2019-10-25,William Blair,Market Perform,Outperform,down,PRLB
+2020-01-23,Berenberg,Hold,Buy,down,PRLB
+2020-05-14,Benchmark,Buy,,init,PRLB
+2020-09-21,Benchmark,Buy,,main,PRLB
+2021-05-21,Craig-Hallum,Hold,,main,PRLB
+2021-10-29,Benchmark,Hold,Buy,down,PRLB

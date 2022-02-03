@@ -1,0 +1,165 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-27,Canaccord Genuity,Buy,,main,SBAC
+2012-06-27,Deutsche Bank,Buy,,main,SBAC
+2012-07-24,Morgan Stanley,Overweight,,main,SBAC
+2012-07-27,Stifel Nicolaus,Buy,Hold,up,SBAC
+2012-08-03,Bank of America,Buy,,main,SBAC
+2012-08-03,Benchmark,Buy,,main,SBAC
+2012-08-03,Canaccord Genuity,Buy,,main,SBAC
+2012-08-03,PiperJaffray,Overweight,,main,SBAC
+2012-08-06,Deutsche Bank,Buy,,main,SBAC
+2012-08-16,Citigroup,Neutral,Buy,down,SBAC
+2012-10-04,Citigroup,Buy,Neutral,up,SBAC
+2012-10-09,Goldman Sachs,Buy,,main,SBAC
+2012-10-11,Nomura,Buy,,init,SBAC
+2012-10-16,Deutsche Bank,Buy,,main,SBAC
+2012-10-17,Barclays,Overweight,,main,SBAC
+2012-11-06,Canaccord Genuity,Buy,,main,SBAC
+2012-11-07,Deutsche Bank,Buy,,main,SBAC
+2012-12-04,RBC Capital,Top Pick,Outperform,up,SBAC
+2012-12-04,RBC Capital,,Outperform,up,SBAC
+2012-12-19,Morgan Stanley,Overweight,,main,SBAC
+2013-01-02,Citigroup,Buy,,main,SBAC
+2013-01-03,Macquarie,Neutral,Outperform,down,SBAC
+2013-01-14,Nomura,Buy,,main,SBAC
+2013-01-15,Deutsche Bank,Buy,,main,SBAC
+2013-01-22,Pacific Crest,Outperform,,init,SBAC
+2013-02-25,Canaccord Genuity,Buy,,main,SBAC
+2013-04-30,Bank of America,Buy,,main,SBAC
+2013-05-17,Barclays,Overweight,,init,SBAC
+2013-08-05,Deutsche Bank,Buy,,main,SBAC
+2013-09-16,Nomura,Buy,,main,SBAC
+2013-11-06,Deutsche Bank,Buy,,main,SBAC
+2013-12-19,Jefferies,Buy,,init,SBAC
+2013-12-19,Macquarie,Outperform,Neutral,up,SBAC
+2014-05-05,Pacific Crest,Outperform,,main,SBAC
+2014-05-05,Nomura,Buy,,main,SBAC
+2014-05-05,Evercore Partners,Overweight,,main,SBAC
+2014-05-21,Jefferies,Buy,,main,SBAC
+2014-06-13,Credit Suisse,Neutral,,init,SBAC
+2014-07-25,Citigroup,Neutral,,main,SBAC
+2014-07-28,Barclays,Overweight,,main,SBAC
+2014-07-28,JP Morgan,Overweight,,main,SBAC
+2014-07-29,Jefferies,Buy,,main,SBAC
+2014-11-06,Barclays,Overweight,,main,SBAC
+2014-11-06,Canaccord Genuity,Buy,,main,SBAC
+2014-11-12,Jefferies,Buy,,main,SBAC
+2015-02-06,Macquarie,Neutral,Outperform,down,SBAC
+2015-02-23,Citigroup,Neutral,,main,SBAC
+2015-02-27,Citigroup,Neutral,,main,SBAC
+2015-03-02,Barclays,Overweight,,main,SBAC
+2015-03-02,RBC Capital,Outperform,Top Pick,down,SBAC
+2015-04-27,Citigroup,Neutral,,main,SBAC
+2015-04-27,Barclays,Overweight,,main,SBAC
+2015-06-18,BTIG Research,Buy,,init,SBAC
+2015-10-02,Citigroup,Neutral,,main,SBAC
+2015-10-05,Macquarie,Outperform,Neutral,up,SBAC
+2015-10-07,JP Morgan,Overweight,,main,SBAC
+2015-10-19,Barclays,Overweight,,main,SBAC
+2015-11-05,Evercore ISI Group,Hold,Buy,down,SBAC
+2016-01-11,Moffett Nathanson,Buy,,init,SBAC
+2016-01-26,Stifel Nicolaus,Buy,Hold,up,SBAC
+2016-02-23,Deutsche Bank,Hold,,init,SBAC
+2016-03-04,Wells Fargo,Market Perform,Outperform,down,SBAC
+2016-05-03,JP Morgan,Neutral,Overweight,down,SBAC
+2016-05-03,Stifel Nicolaus,Buy,,main,SBAC
+2016-05-27,Deutsche Bank,Hold,,main,SBAC
+2016-07-11,Citigroup,Buy,,main,SBAC
+2016-07-13,Citigroup,Buy,,main,SBAC
+2016-07-29,Jefferies,Buy,,main,SBAC
+2016-09-13,SunTrust Robinson Humphrey,Buy,,init,SBAC
+2016-11-30,JP Morgan,Overweight,Neutral,up,SBAC
+2016-12-06,Macquarie,Neutral,,init,SBAC
+2016-12-16,Guggenheim,Neutral,,init,SBAC
+2017-01-25,Citigroup,Neutral,Buy,down,SBAC
+2017-04-11,Guggenheim,Buy,Neutral,up,SBAC
+2017-06-12,Raymond James,Outperform,Strong Buy,down,SBAC
+2017-07-14,Deutsche Bank,Hold,,main,SBAC
+2017-08-01,Barclays,Overweight,,main,SBAC
+2017-08-24,Morgan Stanley,Overweight,,main,SBAC
+2017-08-28,Citigroup,Neutral,,main,SBAC
+2017-09-27,KeyBanc,Overweight,Sector Weight,up,SBAC
+2017-11-06,KeyBanc,Overweight,,main,SBAC
+2017-11-14,Morgan Stanley,Overweight,,main,SBAC
+2018-02-27,Wells Fargo,Market Perform,Market Perform,main,SBAC
+2018-02-27,KeyBanc,Overweight,Overweight,main,SBAC
+2018-02-27,Deutsche Bank,Hold,Hold,main,SBAC
+2018-02-28,Citigroup,Neutral,Neutral,main,SBAC
+2018-03-16,Morgan Stanley,Overweight,Overweight,main,SBAC
+2018-05-31,Morgan Stanley,Overweight,Overweight,main,SBAC
+2018-08-01,Deutsche Bank,Hold,Hold,main,SBAC
+2018-08-16,Morgan Stanley,Overweight,Overweight,main,SBAC
+2018-08-29,Macquarie,Neutral,Neutral,main,SBAC
+2018-10-31,Citigroup,Buy,Neutral,up,SBAC
+2018-11-06,Citigroup,Buy,Buy,main,SBAC
+2019-02-12,KeyBanc,Overweight,Overweight,main,SBAC
+2019-02-22,Guggenheim,Neutral,Buy,down,SBAC
+2019-03-11,Morgan Stanley,Overweight,Overweight,main,SBAC
+2019-04-30,KeyBanc,Overweight,Overweight,main,SBAC
+2019-05-01,Raymond James,Market Perform,Outperform,down,SBAC
+2019-05-20,Morgan Stanley,Overweight,,main,SBAC
+2019-06-07,UBS,Neutral,Buy,down,SBAC
+2019-07-08,Moffett Nathanson,Neutral,Buy,down,SBAC
+2019-07-15,Bank of America,Neutral,Buy,down,SBAC
+2019-07-15,KeyBanc,Overweight,,main,SBAC
+2019-07-30,KeyBanc,Overweight,,main,SBAC
+2019-08-01,JP Morgan,Neutral,Overweight,down,SBAC
+2019-08-19,KeyBanc,Overweight,,main,SBAC
+2019-09-19,Morgan Stanley,Equal-Weight,Overweight,down,SBAC
+2019-11-22,Morgan Stanley,Equal-Weight,,main,SBAC
+2020-01-13,Goldman Sachs,Buy,Neutral,up,SBAC
+2020-02-19,Citigroup,Buy,,main,SBAC
+2020-02-21,UBS,Neutral,,main,SBAC
+2020-02-21,Wells Fargo,Equal-Weight,,main,SBAC
+2020-02-21,KeyBanc,Overweight,,main,SBAC
+2020-02-24,SunTrust Robinson Humphrey,Buy,,main,SBAC
+2020-03-02,B of A Securities,Buy,Neutral,up,SBAC
+2020-03-19,Raymond James,Outperform,Market Perform,up,SBAC
+2020-04-07,Wells Fargo,Overweight,Equal-Weight,up,SBAC
+2020-04-27,Morgan Stanley,Equal-Weight,,main,SBAC
+2020-04-28,Credit Suisse,Outperform,,init,SBAC
+2020-05-06,Credit Suisse,Outperform,,main,SBAC
+2020-05-06,B of A Securities,Buy,,reit,SBAC
+2020-05-11,RBC Capital,Outperform,,main,SBAC
+2020-06-01,Morgan Stanley,Equal-Weight,,main,SBAC
+2020-06-09,JP Morgan,Overweight,Neutral,up,SBAC
+2020-07-10,Wells Fargo,Overweight,,main,SBAC
+2020-07-13,KeyBanc,Sector Weight,Overweight,down,SBAC
+2020-09-16,Wells Fargo,Overweight,,main,SBAC
+2020-11-03,Raymond James,Outperform,,main,SBAC
+2020-11-03,Credit Suisse,Outperform,,main,SBAC
+2020-12-11,Morgan Stanley,Equal-Weight,,main,SBAC
+2021-01-15,Barclays,Overweight,Equal-Weight,up,SBAC
+2021-02-03,Credit Suisse,Neutral,Outperform,down,SBAC
+2021-02-08,JP Morgan,Neutral,Overweight,down,SBAC
+2021-02-23,Raymond James,Outperform,,main,SBAC
+2021-02-23,Barclays,Overweight,,main,SBAC
+2021-02-23,Deutsche Bank,Buy,,main,SBAC
+2021-02-23,Credit Suisse,Neutral,,main,SBAC
+2021-03-05,Raymond James,Strong Buy,Outperform,up,SBAC
+2021-03-26,KeyBanc,Overweight,Sector Weight,up,SBAC
+2021-04-12,Jefferies,Buy,,init,SBAC
+2021-04-19,Morgan Stanley,Equal-Weight,,main,SBAC
+2021-04-27,Credit Suisse,Neutral,,main,SBAC
+2021-04-27,Wells Fargo,Overweight,,main,SBAC
+2021-05-04,Raymond James,Strong Buy,,main,SBAC
+2021-06-02,Morgan Stanley,Overweight,Equal-Weight,up,SBAC
+2021-07-08,Deutsche Bank,Buy,,main,SBAC
+2021-07-19,Keybanc,Overweight,,main,SBAC
+2021-08-03,Truist Securities,Buy,,main,SBAC
+2021-08-03,Raymond James,Strong Buy,,main,SBAC
+2021-08-03,Barclays,Overweight,,main,SBAC
+2021-08-03,Wells Fargo,Overweight,,main,SBAC
+2021-08-03,Credit Suisse,Neutral,,main,SBAC
+2021-08-03,Keybanc,Overweight,,main,SBAC
+2021-08-19,Citigroup,Buy,,main,SBAC
+2021-09-10,Morgan Stanley,Overweight,,main,SBAC
+2021-10-19,Credit Suisse,Outperform,Neutral,up,SBAC
+2021-11-02,Barclays,Overweight,,main,SBAC
+2021-11-02,Credit Suisse,Outperform,,main,SBAC
+2021-11-02,Keybanc,Overweight,,main,SBAC
+2021-11-02,Cowen & Co.,Outperform,,main,SBAC
+2021-11-08,RBC Capital,Outperform,,main,SBAC
+2021-12-01,Morgan Stanley,Overweight,,main,SBAC
+2022-01-10,Jefferies,Hold,Buy,down,SBAC
+2022-01-14,Barclays,Overweight,,main,SBAC

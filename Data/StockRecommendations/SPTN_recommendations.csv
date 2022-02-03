@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-03,BMO Capital,Market Perform,Outperform,down,SPTN
+2013-09-25,Deutsche Bank,Hold,,init,SPTN
+2014-05-22,Cantor Fitzgerald,Buy,Hold,up,SPTN
+2014-09-05,Jefferies,Hold,,init,SPTN
+2014-12-16,Jefferies,Hold,,main,SPTN
+2015-03-05,Cantor Fitzgerald,Buy,,main,SPTN
+2015-03-05,Deutsche Bank,Hold,,main,SPTN
+2015-05-29,Deutsche Bank,Hold,,main,SPTN
+2015-06-24,Northcoast Research,Neutral,Buy,down,SPTN
+2015-09-25,Jefferies,Hold,,main,SPTN
+2016-01-27,Pivotal Research,Buy,,init,SPTN
+2016-04-01,Pivotal Research,Hold,Buy,down,SPTN
+2016-07-27,Jefferies,Hold,,main,SPTN
+2016-08-18,Deutsche Bank,Hold,,main,SPTN
+2016-08-23,Northcoast Research,Buy,Neutral,up,SPTN
+2016-09-23,Barclays,Equal-Weight,,init,SPTN
+2016-09-30,Jefferies,Hold,,main,SPTN
+2017-08-18,Deutsche Bank,Hold,,main,SPTN
+2017-09-11,Jefferies,Hold,,main,SPTN
+2017-09-12,BMO Capital,Market Perform,,init,SPTN
+2017-11-10,Barclays,Equal-Weight,,main,SPTN
+2017-11-13,BMO Capital,Market Perform,,main,SPTN
+2018-01-05,Northcoast Research,Neutral,Buy,down,SPTN
+2018-02-22,Deutsche Bank,Hold,Hold,main,SPTN
+2018-03-02,BMO Capital,Outperform,Market Perform,up,SPTN
+2018-05-31,BMO Capital,Outperform,Outperform,main,SPTN
+2018-05-31,Barclays,Equal-Weight,Equal-Weight,main,SPTN
+2018-08-17,BMO Capital,Outperform,Outperform,main,SPTN
+2018-08-17,Deutsche Bank,Hold,Hold,main,SPTN
+2018-11-09,BMO Capital,Market Perform,Outperform,down,SPTN
+2019-01-10,RBC Capital,Outperform,,init,SPTN
+2019-06-25,Loop Capital,Buy,,init,SPTN
+2019-08-02,BMO Capital,Underperform,Market Perform,down,SPTN
+2019-08-13,Barclays,Underweight,,main,SPTN
+2020-03-18,BMO Capital,Market Perform,Underperform,up,SPTN
+2020-03-19,Barclays,Equal-Weight,Underweight,up,SPTN
+2020-08-17,Deutsche Bank,Hold,,main,SPTN
+2021-01-07,Barclays,Underweight,Equal-Weight,down,SPTN
+2021-11-15,Northcoast Research,Neutral,Buy,down,SPTN

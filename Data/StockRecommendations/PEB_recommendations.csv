@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-30,ISI Group,Hold,,main,PEB
+2012-12-17,Baird,Outperform,Neutral,up,PEB
+2012-12-19,Sandler O'Neill,Buy,,init,PEB
+2013-02-06,Baird,Neutral,Outperform,down,PEB
+2013-06-03,ISI Group,Buy,Neutral,up,PEB
+2013-10-14,ISI Group,Neutral,Buy,down,PEB
+2014-04-25,Stifel Nicolaus,Buy,,main,PEB
+2014-06-09,Raymond James,Outperform,,main,PEB
+2014-07-25,Stifel Nicolaus,Buy,,main,PEB
+2014-09-15,ISI Group,Buy,Neutral,up,PEB
+2014-10-24,Stifel Nicolaus,Buy,,main,PEB
+2014-11-12,Credit Suisse,Outperform,,init,PEB
+2014-12-12,Stifel Nicolaus,Buy,,main,PEB
+2014-12-22,Evercore ISI Group,Hold,Buy,down,PEB
+2015-01-16,Bank of America,Neutral,Buy,down,PEB
+2015-02-18,Credit Suisse,Neutral,Outperform,down,PEB
+2015-02-18,Stifel Nicolaus,Buy,,main,PEB
+2015-05-26,Credit Suisse,Outperform,Neutral,up,PEB
+2015-05-26,Baird,Outperform,Neutral,up,PEB
+2015-07-21,Barclays,Overweight,,init,PEB
+2015-07-27,Barclays,Overweight,,main,PEB
+2015-09-07,Evercore ISI Group,Hold,,main,PEB
+2015-09-17,Stifel Nicolaus,Buy,,main,PEB
+2015-10-26,Evercore ISI Group,Buy,Hold,up,PEB
+2015-10-26,Barclays,Overweight,,main,PEB
+2015-12-11,Credit Suisse,Outperform,Neutral,up,PEB
+2016-01-19,Ladenburg Thalmann,Sell,Neutral,down,PEB
+2016-02-16,Credit Suisse,Outperform,,main,PEB
+2016-02-23,Credit Suisse,Outperform,,main,PEB
+2016-03-04,Barclays,Overweight,,main,PEB
+2016-03-23,Credit Suisse,Outperform,,main,PEB
+2016-07-20,Evercore ISI Group,Hold,Buy,down,PEB
+2016-07-21,Credit Suisse,Neutral,Outperform,down,PEB
+2016-07-26,Wells Fargo,Market Perform,Market Outperform,down,PEB
+2016-07-27,Barclays,Overweight,,main,PEB
+2016-08-25,BTIG Research,Neutral,,init,PEB
+2016-11-23,Barclays,Overweight,,main,PEB
+2017-04-10,Goldman Sachs,Neutral,,init,PEB
+2017-04-12,Boenning & Scattergood,Neutral,,init,PEB
+2017-08-02,Goldman Sachs,Sell,Neutral,down,PEB
+2017-08-28,Evercore ISI Group,In-Line,Underperform,up,PEB
+2017-10-02,Baird,Neutral,Outperform,down,PEB
+2017-10-25,Baird,Neutral,,main,PEB
+2017-10-25,Barclays,Overweight,,main,PEB
+2018-05-01,Baird,Neutral,Neutral,main,PEB
+2018-11-12,Stifel Nicolaus,Buy,Hold,up,PEB
+2018-12-21,Raymond James,Outperform,Outperform,main,PEB
+2019-03-28,Citigroup,Neutral,,init,PEB
+2019-05-06,SunTrust Robinson Humphrey,Hold,,init,PEB
+2019-06-25,Capital One Financial,Overweight,,init,PEB
+2019-07-17,Bank of America,Neutral,Buy,down,PEB
+2019-08-15,BTIG,Neutral,Buy,down,PEB
+2019-10-17,BMO Capital,Market Perform,,init,PEB
+2019-10-18,Wells Fargo,Market Perform,,main,PEB
+2019-10-21,Raymond James,Outperform,,main,PEB
+2019-11-11,Barclays,Underweight,Overweight,down,PEB
+2020-01-07,Raymond James,Market Perform,Outperform,down,PEB
+2020-01-13,Capital One Financial,Equal-Weight,Overweight,down,PEB
+2020-01-13,Capital One,Equal-Weight,Overweight,down,PEB
+2020-02-25,Barclays,Underweight,,main,PEB
+2020-03-17,Stifel,Hold,Buy,down,PEB
+2020-04-07,Citigroup,Sell,Neutral,down,PEB
+2020-04-29,Stifel,Hold,,main,PEB
+2020-04-29,SunTrust Robinson Humphrey,Hold,,main,PEB
+2020-05-18,SunTrust Robinson Humphrey,Hold,,main,PEB
+2020-06-05,Stifel,Hold,,main,PEB
+2020-06-08,Evercore ISI Group,Underperform,In-Line,down,PEB
+2020-06-12,RBC Capital,Outperform,,main,PEB
+2020-06-22,Barclays,Equal-Weight,Underweight,up,PEB
+2020-07-22,Wells Fargo,Equal-Weight,,main,PEB
+2020-09-29,B of A Securities,Buy,Neutral,up,PEB
+2020-09-30,B of A Securities,Buy,Neutral,main,PEB
+2020-10-05,Compass Point,Neutral,,init,PEB
+2020-11-16,Wells Fargo,Equal-Weight,,main,PEB
+2021-03-01,Compass Point,Buy,Neutral,up,PEB
+2021-06-14,Evercore ISI Group,In-Line,Underperform,up,PEB
+2021-10-06,Citigroup,Neutral,,main,PEB

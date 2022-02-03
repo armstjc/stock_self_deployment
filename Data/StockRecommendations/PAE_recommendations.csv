@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-12-28,Morgan Stanley,Overweight,,init,PAE
+2021-03-17,Deutsche Bank,Hold,Buy,down,PAE
+2021-03-18,Morgan Stanley,Overweight,,main,PAE
+2021-06-15,Morgan Stanley,Overweight,,main,PAE
+2021-08-17,Morgan Stanley,Overweight,,main,PAE
+2021-08-25,Morgan Stanley,Equal-Weight,Overweight,down,PAE
+2021-09-20,B of A Securities,Buy,,init,PAE

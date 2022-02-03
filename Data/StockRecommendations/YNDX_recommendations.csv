@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-29,JP Morgan,Overweight,,main,YNDX
+2012-04-27,Deutsche Bank,Buy,,main,YNDX
+2012-04-27,Morgan Stanley,Overweight,,main,YNDX
+2012-05-30,Jefferies,Buy,,main,YNDX
+2012-07-05,Bank of America,Buy,Neutral,up,YNDX
+2012-07-20,Goldman Sachs,Buy,,main,YNDX
+2012-07-31,PiperJaffray,Overweight,,main,YNDX
+2012-10-01,Infina Investment Co.,Hold,Buy,down,YNDX
+2012-10-31,Infina Investment Co.,Buy,Hold,up,YNDX
+2013-02-07,HSBC,Overweight,Neutral,up,YNDX
+2013-02-15,Barclays,Overweight,,init,YNDX
+2013-02-19,PiperJaffray,Overweight,,main,YNDX
+2013-02-19,Morgan Stanley,Overweight,,main,YNDX
+2013-02-20,JP Morgan,Overweight,,main,YNDX
+2013-03-27,VTB Capital,Hold,Sell,up,YNDX
+2013-04-03,Infina Investment Co.,Buy,Hold,up,YNDX
+2013-07-09,Deutsche Bank,Buy,,main,YNDX
+2013-07-18,Infina Investment Co.,Sell,Hold,down,YNDX
+2013-10-03,Citigroup,Buy,,init,YNDX
+2013-10-08,Jefferies,Buy,,main,YNDX
+2013-10-08,Jefferies,Buy,,main,YNDX
+2014-02-21,Morgan Stanley,Overweight,,main,YNDX
+2014-02-21,Sberbank,Buy,Hold,up,YNDX
+2014-04-16,Standpoint Research,Buy,,init,YNDX
+2014-04-23,VTB Capital,Buy,Hold,up,YNDX
+2014-04-25,Deutsche Bank,Buy,,main,YNDX
+2014-05-16,Barclays,Overweight,,main,YNDX
+2014-06-27,Standpoint Research,Hold,Buy,down,YNDX
+2014-07-25,Raiffeisen,Hold,Buy,down,YNDX
+2014-07-30,Deutsche Bank,Buy,,main,YNDX
+2014-08-21,Goldman Sachs,Neutral,Buy,down,YNDX
+2014-09-11,Canaccord Genuity,Buy,,init,YNDX
+2014-10-23,Renaissance Capital,Buy,Hold,up,YNDX
+2014-10-30,Standpoint Research,Buy,,up,YNDX
+2015-01-20,Goldman Sachs,Sell,Neutral,down,YNDX
+2015-02-16,Raiffeisen,Sell,Hold,down,YNDX
+2015-02-17,JP Morgan,Overweight,,main,YNDX
+2015-03-26,BCS,Buy,Hold,up,YNDX
+2015-05-06,UBS,Buy,Neutral,up,YNDX
+2015-09-16,Goldman Sachs,Neutral,Sell,up,YNDX
+2015-10-12,Raiffeisen,Buy,,up,YNDX
+2015-10-28,Pacific Crest,Overweight,,main,YNDX
+2015-11-12,Sberbank,Hold,,down,YNDX
+2015-11-17,Morgan Stanley,Overweight,Equal-Weight,up,YNDX
+2016-02-04,Deutsche Bank,Buy,,main,YNDX
+2016-02-17,Deutsche Bank,Buy,,main,YNDX
+2016-03-14,Citigroup,Buy,Neutral,up,YNDX
+2016-04-11,Goldman Sachs,Buy,Neutral,up,YNDX
+2016-05-06,Citigroup,Neutral,Buy,down,YNDX
+2016-07-18,HSBC,Buy,,init,YNDX
+2016-09-08,JP Morgan,Overweight,,main,YNDX
+2017-04-07,Standpoint Research,Hold,Buy,down,YNDX
+2017-07-14,Deutsche Bank,Buy,,main,YNDX
+2017-10-25,Deutsche Bank,Buy,,main,YNDX
+2018-03-29,Citigroup,Buy,Neutral,up,YNDX
+2018-04-26,JP Morgan,Overweight,Overweight,main,YNDX
+2018-10-05,Bank of America,Buy,Buy,main,YNDX
+2018-10-23,Deutsche Bank,Buy,Buy,main,YNDX
+2018-10-30,Deutsche Bank,Buy,Buy,main,YNDX
+2018-11-02,Bank of America,Buy,Buy,main,YNDX
+2018-11-06,HSBC,Buy,,init,YNDX
+2019-03-06,Deutsche Bank,Buy,Buy,main,YNDX
+2020-02-18,Morgan Stanley,Equal-Weight,Overweight,down,YNDX
+2020-02-18,B of A Securities,Buy,,main,YNDX
+2020-03-11,JP Morgan,Overweight,,main,YNDX
+2020-10-16,B of A Securities,Neutral,,main,YNDX
+2020-10-30,Jefferies,Hold,Buy,down,YNDX
+2020-11-24,B of A Securities,Buy,Neutral,up,YNDX
+2020-12-10,HSBC,Hold,Buy,down,YNDX
+2021-02-09,Renaissance Capital,Buy,Hold,up,YNDX
+2021-03-01,Morgan Stanley,Overweight,Equal-Weight,up,YNDX
+2021-04-06,New Street Research,Buy,,init,YNDX
+2021-09-27,UBS,Buy,Neutral,up,YNDX
+2021-12-16,HSBC,Buy,Hold,up,YNDX

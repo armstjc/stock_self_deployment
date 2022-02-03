@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-03-29,Cowen & Co.,Market Perform,,init,OSCR
+2021-03-29,Goldman Sachs,Buy,,init,OSCR
+2021-03-29,Credit Suisse,Outperform,,init,OSCR
+2021-03-29,B of A Securities,Buy,,init,OSCR
+2021-03-29,Morgan Stanley,Overweight,,init,OSCR
+2021-03-30,Wells Fargo,Overweight,,init,OSCR
+2021-08-13,Wells Fargo,Overweight,,main,OSCR
+2021-08-31,Morgan Stanley,Overweight,,main,OSCR
+2021-11-11,Credit Suisse,Outperform,,main,OSCR
+2021-12-14,Goldman Sachs,Sell,,init,OSCR
+2021-12-17,Morgan Stanley,Overweight,,main,OSCR

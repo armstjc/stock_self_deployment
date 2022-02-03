@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-28,Raymond James,Market Perform,,down,PAM
+2017-09-19,Morgan Stanley,Equal-Weight,,init,PAM
+2018-03-13,Morgan Stanley,Overweight,Equal-Weight,up,PAM
+2018-07-12,Credit Suisse,Underperform,,init,PAM
+2018-09-14,Bank of America,Buy,Buy,main,PAM
+2018-11-14,JP Morgan,Overweight,Overweight,main,PAM
+2018-11-21,Credit Suisse,Outperform,Neutral,up,PAM
+2019-08-13,Bank of America,Neutral,Buy,down,PAM
+2019-10-03,Citigroup,Buy,Neutral,up,PAM
+2019-12-19,JP Morgan,Neutral,Overweight,down,PAM
+2020-06-22,JP Morgan,Underweight,Neutral,down,PAM

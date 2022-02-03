@@ -1,0 +1,74 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-03,Sterne Agee,Buy,,up,WAL
+2012-04-23,Jefferies,Buy,,main,WAL
+2012-07-23,Jefferies,Buy,,main,WAL
+2012-08-20,DA Davidson,Neutral,,main,WAL
+2012-08-20,FIG Partners,Outperform,,main,WAL
+2012-10-05,Keefe Bruyette & Woods,Outperform,Market Perform,up,WAL
+2012-10-21,DA Davidson,Neutral,,main,WAL
+2012-10-22,Jefferies,Buy,,main,WAL
+2012-10-22,Macquarie,Neutral,Outperform,down,WAL
+2012-10-23,FIG Partners,Market Perform,Outperform,down,WAL
+2013-01-09,Wells Fargo,Outperform,,init,WAL
+2013-01-28,Sterne Agee,Buy,,main,WAL
+2013-03-26,Keefe Bruyette & Woods,Market Perform,Outperform,down,WAL
+2013-03-27,Keefe Bruyette & Woods,Market Perform,Outperform,down,WAL
+2013-04-23,Jefferies,Buy,,main,WAL
+2013-06-26,Macquarie,Outperform,Neutral,up,WAL
+2013-09-27,Credit Suisse,Outperform,,init,WAL
+2013-10-22,Sterne Agee,Neutral,Buy,down,WAL
+2014-01-27,Sandler O'Neill,Buy,Hold,up,WAL
+2014-04-23,Credit Suisse,Outperform,,main,WAL
+2014-04-23,DA Davidson,Neutral,,main,WAL
+2014-04-28,FIG Partners,Outperform,Market Perform,up,WAL
+2014-10-20,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,WAL
+2014-10-20,Sterne Agee,Buy,Neutral,up,WAL
+2014-11-25,Sterne Agee,Buy,,main,WAL
+2014-12-22,Keefe Bruyette & Woods,Outperform,,main,WAL
+2015-04-22,Jefferies,Buy,,main,WAL
+2015-04-22,Keefe Bruyette & Woods,Outperform,,main,WAL
+2015-05-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,WAL
+2015-06-29,Keefe Bruyette & Woods,Market Perform,,main,WAL
+2015-10-19,Keefe Bruyette & Woods,Market Perform,,main,WAL
+2015-10-19,Macquarie,Outperform,,main,WAL
+2016-02-11,DA Davidson,Buy,Neutral,up,WAL
+2016-03-30,Keefe Bruyette & Woods,Outperform,Market Outperform,up,WAL
+2017-02-14,Barclays,Overweight,,init,WAL
+2017-07-24,Barclays,Overweight,,main,WAL
+2017-08-18,SunTrust Robinson Humphrey,Buy,,init,WAL
+2017-10-11,Barclays,Overweight,,main,WAL
+2017-10-23,Barclays,Overweight,,main,WAL
+2017-10-26,SunTrust Robinson Humphrey,Buy,,main,WAL
+2018-01-17,Stephens & Co.,Overweight,,init,WAL
+2018-01-29,Wells Fargo,Outperform,Market Perform,up,WAL
+2018-03-22,UBS,Buy,,init,WAL
+2018-07-10,Wedbush,Outperform,,init,WAL
+2018-10-22,Barclays,Overweight,Overweight,main,WAL
+2018-10-22,Citigroup,Neutral,Neutral,main,WAL
+2019-01-15,Citigroup,Buy,Neutral,up,WAL
+2019-01-16,Citigroup,Buy,Neutral,up,WAL
+2019-10-03,SunTrust Robinson Humphrey,Buy,,main,WAL
+2020-03-24,Citigroup,Buy,,main,WAL
+2020-03-30,Wells Fargo,Overweight,,main,WAL
+2020-04-06,UBS,Buy,,main,WAL
+2020-04-20,RBC Capital,Outperform,,main,WAL
+2020-04-22,UBS,Neutral,Buy,down,WAL
+2020-05-15,UBS,Neutral,,main,WAL
+2020-05-19,SunTrust Robinson Humphrey,Buy,,main,WAL
+2020-06-02,Wells Fargo,Equal-Weight,Overweight,down,WAL
+2020-06-18,Citigroup,Neutral,Buy,down,WAL
+2020-10-26,Piper Sandler,Overweight,,main,WAL
+2021-01-08,UBS,Buy,Neutral,up,WAL
+2021-01-22,Wedbush,Outperform,,main,WAL
+2021-02-17,Piper Sandler,Overweight,,main,WAL
+2021-02-17,Wedbush,Outperform,,main,WAL
+2021-04-14,Citigroup,Neutral,,main,WAL
+2021-04-19,Wells Fargo,Overweight,Equal-Weight,up,WAL
+2021-04-20,Truist Securities,Buy,,main,WAL
+2021-07-19,RBC Capital,Outperform,,main,WAL
+2021-10-07,Wells Fargo,Overweight,,main,WAL
+2021-10-11,Jefferies,Buy,,main,WAL
+2021-10-18,B of A Securities,Buy,,init,WAL
+2021-10-25,Wells Fargo,Overweight,,main,WAL
+2021-10-25,RBC Capital,Outperform,,main,WAL
+2022-01-04,Wells Fargo,Overweight,,main,WAL

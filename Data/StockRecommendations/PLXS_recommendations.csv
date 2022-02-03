@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,Citigroup,Neutral,,main,PLXS
+2012-09-20,Stifel Nicolaus,Hold,,init,PLXS
+2012-10-26,Deutsche Bank,Hold,Buy,down,PLXS
+2012-11-07,Citigroup,Neutral,,main,PLXS
+2012-11-13,Deutsche Bank,Hold,,main,PLXS
+2012-12-10,Bank of America,Neutral,Underperform,up,PLXS
+2013-07-08,Needham,Hold,Buy,down,PLXS
+2013-07-19,Bank of America,Neutral,,main,PLXS
+2013-10-21,Longbow Research,Neutral,Buy,down,PLXS
+2013-10-25,Bank of America,Underperform,Neutral,down,PLXS
+2014-01-13,Raymond James,Underperform,,down,PLXS
+2014-01-14,Goldman Sachs,Neutral,Buy,down,PLXS
+2014-02-19,Raymond James,Market Perform,Underperform,up,PLXS
+2014-04-21,Citigroup,Neutral,,main,PLXS
+2014-04-21,Needham,Buy,Hold,up,PLXS
+2014-07-18,Longbow Research,Buy,Neutral,up,PLXS
+2015-07-14,B. Riley FBR,Buy,,init,PLXS
+2015-08-03,Goldman Sachs,Buy,Neutral,up,PLXS
+2015-11-18,Numis Securities,Add,Buy,down,PLXS
+2016-06-09,Citigroup,Neutral,,main,PLXS
+2016-07-22,B. Riley FBR,Neutral,Buy,down,PLXS
+2016-12-15,Longbow Research,Neutral,Buy,down,PLXS
+2017-07-21,Deutsche Bank,Hold,,main,PLXS
+2017-07-21,Citigroup,Neutral,,main,PLXS
+2017-08-28,JP Morgan,Overweight,Neutral,up,PLXS
+2017-10-10,JP Morgan,Neutral,Overweight,down,PLXS
+2017-10-27,Citigroup,Neutral,,main,PLXS
+2018-01-08,Longbow Research,Buy,Neutral,up,PLXS
+2018-03-16,JP Morgan,Neutral,Neutral,main,PLXS
+2019-03-20,Sidoti & Co.,Buy,,init,PLXS
+2019-10-25,Sidoti & Co.,Neutral,Buy,down,PLXS
+2020-01-24,Needham,Buy,,reit,PLXS
+2020-01-24,Sidoti & Co.,Neutral,,main,PLXS
+2020-02-28,Raymond James,Market Perform,,init,PLXS
+2020-03-09,JP Morgan,Overweight,Neutral,up,PLXS
+2020-03-24,Needham,Buy,,main,PLXS
+2020-04-15,JP Morgan,Overweight,,main,PLXS
+2020-07-24,Needham,Buy,,main,PLXS
+2020-07-24,Stifel,Hold,,main,PLXS
+2020-08-12,JP Morgan,Neutral,Overweight,down,PLXS
+2021-01-22,Needham,Buy,,main,PLXS
+2021-03-31,Sidoti & Co.,Neutral,Buy,down,PLXS
+2021-04-23,Needham,Buy,,main,PLXS
+2021-05-25,Needham,Buy,,main,PLXS
+2021-06-11,Loop Capital,Buy,,main,PLXS
+2021-06-22,Sidoti & Co.,Buy,Neutral,up,PLXS
+2021-08-23,Fox Advisors,Overweight,Equal-Weight,up,PLXS
+2021-10-29,Needham,Buy,,main,PLXS

@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-11,KeyBanc,Buy,,init,SLGN
+2012-10-24,Bank of America,Buy,,main,SLGN
+2013-01-10,KeyBanc,Hold,Buy,down,SLGN
+2013-02-06,Citigroup,Neutral,Buy,down,SLGN
+2013-04-10,Deutsche Bank,Hold,,main,SLGN
+2013-04-12,Citigroup,Neutral,,main,SLGN
+2013-04-16,Macquarie,Neutral,,init,SLGN
+2013-07-10,Goldman Sachs,Sell,,main,SLGN
+2013-07-25,Barclays,Equal-Weight,,main,SLGN
+2013-08-23,Northcoast Research,Neutral,,init,SLGN
+2013-11-15,Bank of America,Underperform,Neutral,down,SLGN
+2014-02-07,Longbow Research,Buy,,init,SLGN
+2014-04-11,Wells Fargo,Market Perform,Outperform,down,SLGN
+2014-07-24,Barclays,Equal-Weight,,main,SLGN
+2014-07-24,Macquarie,Neutral,,main,SLGN
+2014-07-30,Citigroup,Neutral,,main,SLGN
+2014-09-04,BMO Capital,Market Perform,,init,SLGN
+2014-10-17,Citigroup,Neutral,,main,SLGN
+2014-10-23,Barclays,Equal-Weight,,main,SLGN
+2014-10-28,Citigroup,Neutral,,main,SLGN
+2015-01-15,Citigroup,Neutral,,main,SLGN
+2015-01-20,Barclays,Equal-Weight,,main,SLGN
+2015-01-21,Deutsche Bank,Hold,Buy,down,SLGN
+2015-02-11,Citigroup,Neutral,,main,SLGN
+2015-04-15,Barclays,Equal-Weight,,main,SLGN
+2015-04-15,Citigroup,Neutral,,main,SLGN
+2015-05-04,Barclays,Equal-Weight,,main,SLGN
+2015-05-05,Citigroup,Neutral,,main,SLGN
+2015-09-15,Bank of America,Neutral,Underperform,up,SLGN
+2015-10-26,Barclays,Equal-Weight,,main,SLGN
+2015-11-10,Macquarie,Neutral,,init,SLGN
+2016-01-05,Baird,Outperform,Neutral,up,SLGN
+2016-01-19,Wells Fargo,Outperform,Market Perform,up,SLGN
+2016-01-21,BMO Capital,Market Perform,Underperform,up,SLGN
+2016-02-08,Barclays,Equal-Weight,,main,SLGN
+2016-03-18,Bank of America,Underperform,Neutral,down,SLGN
+2016-05-12,Goldman Sachs,Neutral,,init,SLGN
+2016-06-08,BMO Capital,Market Perform,Outperform,down,SLGN
+2016-07-19,Citigroup,Neutral,,main,SLGN
+2016-07-28,Wells Fargo,Market Perform,Outperform,down,SLGN
+2016-08-02,Citigroup,Neutral,,main,SLGN
+2016-09-13,JP Morgan,Neutral,,init,SLGN
+2017-01-24,BMO Capital,Outperform,Market Perform,up,SLGN
+2017-07-13,Goldman Sachs,Sell,Neutral,down,SLGN
+2017-07-19,Baird,Neutral,Outperform,down,SLGN
+2017-07-27,Bank of America,Neutral,Buy,down,SLGN
+2017-10-10,RBC Capital,Sector Perform,,init,SLGN
+2017-12-08,KeyBanc,Underweight,Sector Weight,down,SLGN
+2018-01-02,Bank of America,Underperform,Neutral,down,SLGN
+2018-01-17,JP Morgan,Underweight,Neutral,down,SLGN
+2018-02-01,Bank of America,Underperform,Underperform,main,SLGN
+2018-02-12,Barclays,Overweight,Equal-Weight,up,SLGN
+2018-04-05,Citigroup,Neutral,Neutral,main,SLGN
+2018-04-26,JP Morgan,Underweight,Underweight,main,SLGN
+2018-05-07,KeyBanc,Sector Weight,Underweight,up,SLGN
+2018-05-18,Jefferies,Buy,,init,SLGN
+2018-06-20,UBS,Sell,,init,SLGN
+2018-10-25,Wells Fargo,Market Perform,Market Perform,main,SLGN
+2018-10-25,BMO Capital,Outperform,Outperform,main,SLGN
+2018-10-25,Baird,Neutral,Neutral,main,SLGN
+2018-10-29,Barclays,Overweight,Overweight,main,SLGN
+2019-01-07,Barclays,Buy,Neutral,up,SLGN
+2019-07-11,Citigroup,Buy,,main,SLGN
+2019-07-17,JP Morgan,Neutral,Underweight,up,SLGN
+2020-03-20,RBC Capital,Outperform,Sector Perform,up,SLGN
+2020-10-14,Seaport Global,Neutral,,init,SLGN
+2020-10-22,B of A Securities,Neutral,Buy,down,SLGN
+2020-10-22,Wells Fargo,Equal-Weight,,main,SLGN
+2020-11-24,B of A Securities,Underperform,Neutral,down,SLGN
+2020-12-03,KeyBanc,Overweight,Sector Weight,up,SLGN
+2020-12-04,Wells Fargo,Overweight,Equal-Weight,up,SLGN
+2021-01-25,KeyBanc,Overweight,,main,SLGN
+2021-01-28,B of A Securities,Buy,Underperform,up,SLGN
+2021-04-05,Keybanc,Overweight,,main,SLGN
+2021-05-20,Longbow Research,Buy,,init,SLGN
+2021-09-14,Truist Securities,Hold,,init,SLGN
+2021-10-01,JP Morgan,Underweight,Neutral,down,SLGN
+2021-10-06,Loop Capital,Buy,,init,SLGN
+2021-10-28,RBC Capital,Outperform,,main,SLGN
+2021-11-24,Raymond James,Outperform,,init,SLGN

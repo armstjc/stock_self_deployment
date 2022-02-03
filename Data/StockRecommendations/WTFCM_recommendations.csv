@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-16,UBS,Buy,,main,WTFCM
+2012-03-30,UBS,Buy,,main,WTFCM
+2012-04-20,Stifel Nicolaus,Buy,,up,WTFCM
+2012-08-16,UBS,Buy,,main,WTFCM
+2012-08-20,Keefe Bruyette & Woods,Market Perform,Outperform,down,WTFCM
+2012-09-04,Stifel Nicolaus,Hold,Buy,down,WTFCM
+2012-09-07,Sandler O'Neill,Hold,,down,WTFCM
+2012-10-18,UBS,Buy,,main,WTFCM
+2012-12-04,Evercore Partners,Equal-Weight,,init,WTFCM
+2013-06-13,DA Davidson,Neutral,,init,WTFCM
+2013-06-14,DA Davidson,Neutral,,init,WTFCM
+2013-07-10,UBS,Buy,,main,WTFCM
+2013-11-26,DA Davidson,Neutral,,main,WTFCM
+2014-03-31,SunTrust Robinson Humphrey,Neutral,,init,WTFCM
+2014-04-17,DA Davidson,Buy,Neutral,up,WTFCM
+2014-07-16,Macquarie,Neutral,,main,WTFCM
+2015-01-20,Keefe Bruyette & Woods,Market Perform,,main,WTFCM
+2015-04-17,Keefe Bruyette & Woods,Market Perform,,main,WTFCM
+2015-07-17,Keefe Bruyette & Woods,Market Perform,,main,WTFCM
+2015-10-19,SunTrust Robinson Humphrey,Neutral,,main,WTFCM
+2015-10-19,Macquarie,Neutral,,main,WTFCM
+2016-01-12,Stephens & Co.,Overweight,,init,WTFCM
+2016-01-20,Macquarie,Neutral,,main,WTFCM
+2016-01-20,Keefe Bruyette & Woods,Market Perform,,main,WTFCM
+2016-01-21,SunTrust Robinson Humphrey,Neutral,,main,WTFCM
+2016-04-07,DA Davidson,Neutral,,init,WTFCM
+2016-06-10,PiperJaffray,Neutral,,init,WTFCM
+2016-08-24,Hovde Group,Market Perform,,init,WTFCM
+2016-11-29,Keefe Bruyette & Woods,Outperform,Market Perform,up,WTFCM
+2016-12-21,SunTrust Robinson Humphrey,Hold,,init,WTFCM
+2017-06-28,Wedbush,Outperform,,init,WTFCM
+2018-03-22,UBS,Neutral,,init,WTFCM
+2018-04-17,Wedbush,Outperform,Outperform,main,WTFCM
+2018-07-18,Wedbush,Outperform,Outperform,main,WTFCM
+2018-10-15,Stephens & Co.,Overweight,Equal-Weight,up,WTFCM
+2018-10-19,DA Davidson,Buy,Neutral,up,WTFCM
+2018-10-19,Raymond James,Strong Buy,Strong Buy,main,WTFCM
+2019-04-16,Wedbush,Outperform,Outperform,main,WTFCM
+2019-07-17,Raymond James,Strong Buy,,main,WTFCM
+2019-08-29,Raymond James,Outperform,Strong Buy,down,WTFCM
+2019-10-03,SunTrust Robinson Humphrey,Hold,,main,WTFCM
+2019-10-17,Wedbush,Outperform,,main,WTFCM
+2019-10-21,UBS,Neutral,,main,WTFCM
+2019-12-09,SunTrust Robinson Humphrey,Hold,,main,WTFCM
+2020-01-14,Piper Sandler,Neutral,Overweight,down,WTFCM
+2020-01-23,Stephens & Co.,Overweight,,main,WTFCM
+2020-01-23,Keefe Bruyette & Woods,Market Perform,Outperform,down,WTFCM
+2020-01-23,Raymond James,Outperform,,main,WTFCM
+2020-04-06,Raymond James,Strong Buy,Outperform,up,WTFCM
+2020-04-06,UBS,Neutral,,main,WTFCM
+2020-04-23,Piper Sandler,Neutral,,main,WTFCM
+2020-05-15,UBS,Neutral,,main,WTFCM
+2020-05-19,SunTrust Robinson Humphrey,Hold,,main,WTFCM
+2020-06-04,Raymond James,Strong Buy,,main,WTFCM
+2020-10-22,Wedbush,Outperform,,main,WTFCM
+2020-10-23,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,WTFCM
+2020-10-23,Raymond James,Strong Buy,,main,WTFCM
+2020-10-26,Piper Sandler,Neutral,,main,WTFCM
+2020-11-25,Janney Capital,Neutral,Buy,down,WTFCM
+2020-12-02,Raymond James,Strong Buy,,main,WTFCM
+2021-01-13,Piper Sandler,Overweight,Neutral,up,WTFCM
+2021-01-22,Raymond James,Strong Buy,,main,WTFCM
+2021-03-16,Raymond James,Strong Buy,,main,WTFCM
+2021-04-09,Jefferies,Buy,,main,WTFCM
+2021-05-21,Truist Securities,Buy,Hold,up,WTFCM
+2021-07-20,Wedbush,Outperform,,main,WTFCM
+2021-07-21,Raymond James,Strong Buy,,main,WTFCM
+2021-10-21,Raymond James,Strong Buy,,main,WTFCM
+2021-10-21,Janney Montgomery Scott,Neutral,Buy,down,WTFCM
+2021-10-21,RBC Capital,Outperform,,main,WTFCM
+2021-10-21,Truist Securities,Buy,,main,WTFCM
+2021-11-29,Raymond James,Strong Buy,,main,WTFCM

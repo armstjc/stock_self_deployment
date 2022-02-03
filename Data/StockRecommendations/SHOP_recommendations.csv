@@ -1,0 +1,194 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-06-30,Raymond James,Market Perform,,init,SHOP
+2015-06-30,Credit Suisse,Outperform,,init,SHOP
+2015-06-30,Pacific Crest,Sector Weight,,init,SHOP
+2015-06-30,Morgan Stanley,Equal-Weight,,init,SHOP
+2015-06-30,Canaccord Genuity,Hold,,init,SHOP
+2015-06-30,KeyBanc,Sector Weight,,init,SHOP
+2015-11-05,RBC Capital,Outperform,Sector Perform,up,SHOP
+2016-01-06,Baird,Outperform,,init,SHOP
+2016-01-19,Morgan Stanley,Overweight,Equal-Weight,up,SHOP
+2016-01-20,Wedbush,Outperform,,init,SHOP
+2016-02-16,PiperJaffray,Overweight,,init,SHOP
+2016-02-18,Credit Suisse,Outperform,,main,SHOP
+2016-02-18,Canaccord Genuity,Buy,Hold,up,SHOP
+2016-03-08,Pacific Crest,Overweight,Sector Weight,up,SHOP
+2016-04-14,Roth Capital,Buy,,init,SHOP
+2016-04-14,Paradigm Capital,Buy,,init,SHOP
+2016-05-04,Roth Capital,Buy,,main,SHOP
+2016-05-05,Roth Capital,Buy,,main,SHOP
+2016-05-18,Macquarie,Outperform,,init,SHOP
+2016-05-26,Maxim Group,Hold,,init,SHOP
+2016-06-29,Monness Crespi Hardt,Buy,,init,SHOP
+2016-08-01,Citigroup,Neutral,,init,SHOP
+2016-08-04,Citigroup,Neutral,,main,SHOP
+2016-08-05,Citigroup,Neutral,,main,SHOP
+2016-08-12,Bank of America,Neutral,,init,SHOP
+2016-08-22,KeyBanc,Overweight,,main,SHOP
+2016-09-28,Morgan Stanley,Equal-Weight,Overweight,down,SHOP
+2016-10-04,Goldman Sachs,Buy,,init,SHOP
+2016-10-17,Dundee,Neutral,,init,SHOP
+2016-11-17,BTIG Research,Buy,,init,SHOP
+2016-12-02,Oppenheimer,Perform,,init,SHOP
+2017-03-28,Barclays,Equal-Weight,,init,SHOP
+2017-04-26,RBC Capital,Sector Perform,Outperform,down,SHOP
+2017-04-27,BTIG Research,Neutral,Buy,down,SHOP
+2017-05-03,Bank of America,Underperform,Neutral,down,SHOP
+2017-05-03,Eight Capital,Buy,Neutral,up,SHOP
+2017-06-13,Goldman Sachs,Neutral,Buy,down,SHOP
+2017-06-26,SunTrust Robinson Humphrey,Hold,,init,SHOP
+2017-07-12,Benchmark,Hold,,init,SHOP
+2017-08-02,Barclays,Equal-Weight,,main,SHOP
+2017-09-06,DA Davidson,Neutral,,init,SHOP
+2017-10-27,Monness Crespi Hardt,Buy,Neutral,up,SHOP
+2017-11-01,Barclays,Equal-Weight,,main,SHOP
+2018-01-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHOP
+2018-02-15,Canaccord Genuity,Buy,Buy,main,SHOP
+2018-02-16,KeyBanc,Overweight,Overweight,main,SHOP
+2018-02-16,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHOP
+2018-03-22,KeyBanc,Overweight,Overweight,main,SHOP
+2018-05-02,Barclays,Equal-Weight,Equal-Weight,main,SHOP
+2018-05-09,Canaccord Genuity,Buy,Buy,main,SHOP
+2018-06-19,KeyBanc,Overweight,Overweight,main,SHOP
+2018-07-23,Barclays,Equal-Weight,Equal-Weight,main,SHOP
+2018-07-24,Roth Capital,Buy,Buy,main,SHOP
+2018-08-01,Barclays,Equal-Weight,Equal-Weight,main,SHOP
+2018-08-01,PiperJaffray,Neutral,Overweight,down,SHOP
+2018-08-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHOP
+2018-08-08,Guggenheim,Buy,,init,SHOP
+2018-09-14,Wedbush,Outperform,,init,SHOP
+2018-10-02,Jefferies,Hold,,init,SHOP
+2018-12-18,Wells Fargo,Outperform,,init,SHOP
+2018-12-21,DA Davidson,Buy,Neutral,up,SHOP
+2019-02-11,Wedbush,Outperform,Outperform,main,SHOP
+2019-02-13,Raymond James,Outperform,,reit,SHOP
+2019-02-13,Canaccord Genuity,Buy,Buy,main,SHOP
+2019-02-13,KeyBanc,Overweight,Overweight,reit,SHOP
+2019-02-13,Wells Fargo,Outperform,Outperform,main,SHOP
+2019-02-13,DA Davidson,Buy,Buy,main,SHOP
+2019-02-13,RBC Capital,Outperform,Sector Perform,up,SHOP
+2019-02-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,SHOP
+2019-04-29,KeyBanc,Overweight,,init,SHOP
+2019-05-01,Barclays,Equal-Weight,Equal-Weight,main,SHOP
+2019-05-01,KeyBanc,Overweight,Overweight,main,SHOP
+2019-05-01,Canaccord Genuity,Buy,Buy,main,SHOP
+2019-05-01,Wedbush,Outperform,Outperform,main,SHOP
+2019-05-01,DA Davidson,Buy,Buy,main,SHOP
+2019-05-01,Wells Fargo,Outperform,Outperform,main,SHOP
+2019-05-13,Guggenheim,Neutral,Buy,down,SHOP
+2019-05-14,Morgan Stanley,Underweight,Equal-Weight,down,SHOP
+2019-06-06,KeyBanc,Overweight,,main,SHOP
+2019-06-07,Goldman Sachs,Neutral,,init,SHOP
+2019-06-20,Baird,Outperform,,main,SHOP
+2019-06-20,CIBC,Neutral,Outperformer,down,SHOP
+2019-06-21,Barclays,Equal-Weight,,main,SHOP
+2019-06-24,Roth Capital,Neutral,Buy,down,SHOP
+2019-06-24,DA Davidson,Buy,,main,SHOP
+2019-06-25,Wedbush,Neutral,Outperform,down,SHOP
+2019-07-08,KeyBanc,Overweight,,main,SHOP
+2019-08-02,Raymond James,Outperform,,reit,SHOP
+2019-08-02,Bank of America,Underperform,,reit,SHOP
+2019-08-02,KeyBanc,Overweight,,main,SHOP
+2019-08-27,Rosenblatt,Buy,,main,SHOP
+2019-09-09,Baird,Outperform,,main,SHOP
+2019-10-30,Baird,Outperform,,main,SHOP
+2020-01-10,Mizuho,Neutral,,init,SHOP
+2020-01-13,Credit Suisse,Outperform,,main,SHOP
+2020-01-16,Loop Capital,Hold,,init,SHOP
+2020-01-21,KeyBanc,Overweight,,main,SHOP
+2020-01-22,Roth Capital,Neutral,,main,SHOP
+2020-02-12,RBC Capital,Outperform,,main,SHOP
+2020-02-12,Canaccord Genuity,Buy,,main,SHOP
+2020-02-12,Raymond James,Outperform,,main,SHOP
+2020-02-13,Canaccord Genuity,Buy,,main,SHOP
+2020-02-13,SunTrust Robinson Humphrey,Hold,,main,SHOP
+2020-02-13,Rosenblatt,Buy,,reit,SHOP
+2020-02-13,Baird,Outperform,,main,SHOP
+2020-02-13,Wedbush,Neutral,,main,SHOP
+2020-02-13,Wells Fargo,Overweight,,main,SHOP
+2020-02-13,Credit Suisse,Neutral,Outperform,down,SHOP
+2020-02-13,KeyBanc,Overweight,,main,SHOP
+2020-03-23,KeyBanc,Overweight,,main,SHOP
+2020-03-31,Piper Sandler,Neutral,,main,SHOP
+2020-04-02,Mizuho,Neutral,,main,SHOP
+2020-04-02,Raymond James,Outperform,,main,SHOP
+2020-04-07,Raymond James,Market Perform,Outperform,down,SHOP
+2020-04-08,Wells Fargo,Overweight,,main,SHOP
+2020-04-30,Canaccord Genuity,Hold,Buy,down,SHOP
+2020-05-04,KeyBanc,Overweight,,main,SHOP
+2020-05-07,Credit Suisse,Neutral,,main,SHOP
+2020-05-07,DA Davidson,Neutral,Buy,down,SHOP
+2020-05-07,Mizuho,Neutral,,main,SHOP
+2020-05-07,Wells Fargo,Equal-Weight,Overweight,down,SHOP
+2020-05-07,Baird,Outperform,,main,SHOP
+2020-05-07,Barclays,Equal-Weight,,main,SHOP
+2020-05-07,B of A Securities,Underperform,,reit,SHOP
+2020-05-07,SunTrust Robinson Humphrey,Hold,,main,SHOP
+2020-05-07,Rosenblatt,Buy,,main,SHOP
+2020-05-07,RBC Capital,Outperform,,main,SHOP
+2020-05-21,Canaccord Genuity,Hold,,main,SHOP
+2020-06-02,KeyBanc,Overweight,,main,SHOP
+2020-06-15,Piper Sandler,Overweight,Neutral,up,SHOP
+2020-06-24,KeyBanc,Overweight,,main,SHOP
+2020-07-02,Baird,Outperform,,main,SHOP
+2020-07-22,KeyBanc,Overweight,,main,SHOP
+2020-07-23,Piper Sandler,Overweight,,main,SHOP
+2020-07-23,Credit Suisse,Neutral,,main,SHOP
+2020-07-28,Jefferies,Hold,,main,SHOP
+2020-07-28,Goldman Sachs,Buy,Neutral,up,SHOP
+2020-07-29,Piper Sandler,Overweight,,main,SHOP
+2020-07-30,Rosenblatt,Buy,,main,SHOP
+2020-07-30,RBC Capital,Outperform,,main,SHOP
+2020-07-30,Citigroup,Neutral,,main,SHOP
+2020-07-30,KeyBanc,Overweight,,main,SHOP
+2020-07-30,Jefferies,Hold,,main,SHOP
+2020-07-30,SunTrust Robinson Humphrey,Hold,,main,SHOP
+2020-07-30,Wedbush,Neutral,,main,SHOP
+2020-07-30,Canaccord Genuity,Hold,,main,SHOP
+2020-08-26,Atlantic Equities,Overweight,,init,SHOP
+2020-09-30,Wedbush,Outperform,Neutral,up,SHOP
+2020-10-05,Morgan Stanley,Equal-Weight,,init,SHOP
+2020-10-06,KeyBanc,Overweight,,main,SHOP
+2020-10-14,Roth Capital,Neutral,,main,SHOP
+2020-10-30,Morgan Stanley,Equal-Weight,,main,SHOP
+2020-11-19,Jefferies,Buy,Hold,up,SHOP
+2020-12-02,Susquehanna,Neutral,,init,SHOP
+2021-01-11,KeyBanc,Overweight,,main,SHOP
+2021-01-14,Oppenheimer,Outperform,Perform,up,SHOP
+2021-01-15,Roth Capital,Neutral,,main,SHOP
+2021-01-15,KeyBanc,Overweight,,main,SHOP
+2021-02-18,Wells Fargo,Equal-Weight,,main,SHOP
+2021-02-18,Canaccord Genuity,Hold,,main,SHOP
+2021-02-18,Barclays,Equal-Weight,,main,SHOP
+2021-02-18,Goldman Sachs,Buy,,main,SHOP
+2021-02-18,Oppenheimer,Outperform,,main,SHOP
+2021-02-18,Roth Capital,Neutral,,main,SHOP
+2021-02-18,Morgan Stanley,Equal-Weight,,main,SHOP
+2021-02-18,Rosenblatt,Buy,,main,SHOP
+2021-03-31,Stifel,Buy,,init,SHOP
+2021-04-01,Wolfe Research,Outperform,,init,SHOP
+2021-04-06,Evercore ISI Group,In-Line,,init,SHOP
+2021-04-28,Piper Sandler,Overweight,,main,SHOP
+2021-04-29,Credit Suisse,Neutral,,main,SHOP
+2021-04-29,Morgan Stanley,Equal-Weight,,main,SHOP
+2021-04-29,Roth Capital,Buy,Neutral,up,SHOP
+2021-04-29,Susquehanna,Positive,Neutral,up,SHOP
+2021-04-29,Citigroup,Neutral,,main,SHOP
+2021-05-11,Loop Capital,Buy,Hold,up,SHOP
+2021-06-30,Loop Capital,Buy,,main,SHOP
+2021-06-30,RBC Capital,Outperform,,main,SHOP
+2021-07-22,Susquehanna,Positive,,main,SHOP
+2021-07-22,Roth Capital,Buy,,main,SHOP
+2021-07-22,Stifel,Buy,,main,SHOP
+2021-07-23,RBC Capital,Outperform,,main,SHOP
+2021-07-28,Keybanc,Overweight,,main,SHOP
+2021-07-29,Canaccord Genuity,Hold,,main,SHOP
+2021-07-29,Mizuho,Neutral,,main,SHOP
+2021-07-29,Morgan Stanley,Equal-Weight,,main,SHOP
+2021-07-29,Roth Capital,Buy,,main,SHOP
+2021-07-29,Credit Suisse,Neutral,,main,SHOP
+2021-10-29,Mizuho,Neutral,,main,SHOP
+2021-11-02,Deutsche Bank,Hold,,init,SHOP
+2021-11-15,Loop Capital,Hold,Buy,down,SHOP
+2021-12-16,Evercore ISI Group,Outperform,In-Line,up,SHOP
+2021-12-28,Roth Capital,Buy,,main,SHOP

@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-06-03,Morgan Stanley,Equal-Weight,,init,PSN
+2019-06-03,SunTrust Robinson Humphrey,Buy,,init,PSN
+2019-06-03,Goldman Sachs,Buy,,init,PSN
+2019-06-03,Wells Fargo,Outperform,,init,PSN
+2019-06-26,Wells Fargo,Market Perform,Outperform,down,PSN
+2019-08-28,SunTrust Robinson Humphrey,Buy,,main,PSN
+2019-12-11,Stifel Nicolaus,Hold,,init,PSN
+2019-12-11,Stifel,Hold,,init,PSN
+2020-01-09,Wells Fargo,Underweight,Equal-Weight,down,PSN
+2020-03-11,Stifel,Buy,Hold,up,PSN
+2020-03-24,Morgan Stanley,Equal-Weight,,main,PSN
+2020-03-31,William Blair,Outperform,,init,PSN
+2020-04-02,Wells Fargo,Underweight,,main,PSN
+2020-04-14,Morgan Stanley,Equal-Weight,,main,PSN
+2020-04-15,Benchmark,Buy,,init,PSN
+2020-05-05,Wells Fargo,Underweight,,main,PSN
+2020-08-06,Stifel,Buy,,main,PSN
+2021-03-10,Morgan Stanley,Equal-Weight,,main,PSN
+2021-04-05,Goldman Sachs,Neutral,Buy,down,PSN
+2021-08-12,B of A Securities,Underperform,Neutral,down,PSN
+2021-09-03,Morgan Stanley,Equal-Weight,,main,PSN
+2021-12-15,William Blair,Market Perform,Outperform,down,PSN

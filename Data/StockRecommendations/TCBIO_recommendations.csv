@@ -1,0 +1,161 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-28,Bank oferica,Underperform,,main,TCBIO
+2012-02-28,Deutsche Bank,Hold,,main,TCBIO
+2012-04-26,Sterne Agee,Buy,,up,TCBIO
+2012-04-27,Wunderlich,Hold,,main,TCBIO
+2012-05-31,DA Davidson,Buy,,main,TCBIO
+2012-06-01,Sterne Agee,Buy,,main,TCBIO
+2012-06-06,Deutsche Bank,Hold,,main,TCBIO
+2012-07-09,DA Davidson,Neutral,Buy,down,TCBIO
+2012-07-26,Wunderlich,Hold,,main,TCBIO
+2012-09-11,Sterne Agee,Buy,,main,TCBIO
+2012-10-02,DA Davidson,Neutral,,main,TCBIO
+2012-10-09,Barclays,Equal-Weight,,main,TCBIO
+2012-10-25,DA Davidson,Neutral,,main,TCBIO
+2012-11-20,Credit Suisse,Neutral,,init,TCBIO
+2013-03-22,DA Davidson,Neutral,,main,TCBIO
+2013-03-22,Sterne Agee,Buy,,main,TCBIO
+2013-03-22,Keefe Bruyette & Woods,Outperform,Market Perform,up,TCBIO
+2013-03-25,DA Davidson,Neutral,,main,TCBIO
+2013-04-04,Barclays,Overweight,Equal-Weight,up,TCBIO
+2013-04-25,DA Davidson,Neutral,,main,TCBIO
+2013-07-25,DA Davidson,Neutral,,main,TCBIO
+2013-07-25,Wunderlich,Hold,,main,TCBIO
+2013-07-25,Raymond James,Outperform,Strong Buy,down,TCBIO
+2013-07-25,Barclays,Overweight,,main,TCBIO
+2013-07-25,SunTrust Robinson Humphrey,Neutral,Buy,down,TCBIO
+2013-10-09,Bank of America,Buy,,init,TCBIO
+2013-10-14,Jefferies,Buy,,init,TCBIO
+2013-10-24,Deutsche Bank,Hold,,main,TCBIO
+2013-10-24,Jefferies,Buy,,main,TCBIO
+2013-10-24,Evercore Partners,Overweight,Equal-Weight,up,TCBIO
+2013-10-24,DA Davidson,Neutral,,main,TCBIO
+2013-10-25,Keefe Bruyette & Woods,Market Perform,Outperform,down,TCBIO
+2014-01-22,Evercore Partners,Equal-Weight,Overweight,down,TCBIO
+2014-01-22,Sterne Agee,Neutral,Buy,down,TCBIO
+2014-01-23,DA Davidson,Neutral,,main,TCBIO
+2014-01-28,SunTrust Robinson Humphrey,Buy,Neutral,up,TCBIO
+2014-04-24,Jefferies,Buy,,main,TCBIO
+2014-04-24,Deutsche Bank,Hold,,main,TCBIO
+2014-04-24,Credit Suisse,Neutral,,main,TCBIO
+2014-04-25,Deutsche Bank,Hold,,main,TCBIO
+2014-04-30,Deutsche Bank,Buy,Hold,up,TCBIO
+2014-06-09,Jefferies,Buy,,main,TCBIO
+2014-06-11,SunTrust Robinson Humphrey,Buy,,main,TCBIO
+2014-07-24,Deutsche Bank,Buy,,main,TCBIO
+2014-07-29,FBR Capital,Market Perform,,main,TCBIO
+2014-09-19,Raymond James,Strong Buy,Market Perform,up,TCBIO
+2014-09-19,Wunderlich,Buy,Hold,up,TCBIO
+2014-09-26,Wunderlich,Buy,Hold,up,TCBIO
+2014-10-23,Jefferies,Buy,,main,TCBIO
+2014-10-23,Keefe Bruyette & Woods,Market Perform,,main,TCBIO
+2014-12-01,DA Davidson,Neutral,,main,TCBIO
+2014-12-11,Jefferies,Buy,,main,TCBIO
+2015-01-13,Barclays,Overweight,,main,TCBIO
+2015-01-22,Barclays,Overweight,,main,TCBIO
+2015-01-22,Deutsche Bank,Buy,,main,TCBIO
+2015-01-22,Jefferies,Buy,,main,TCBIO
+2015-01-22,Keefe Bruyette & Woods,Market Perform,,main,TCBIO
+2015-04-06,SunTrust Robinson Humphrey,Buy,,main,TCBIO
+2015-04-10,Barclays,Equal-Weight,Overweight,down,TCBIO
+2015-04-23,Raymond James,Outperform,Strong Buy,down,TCBIO
+2015-04-23,Barclays,Equal-Weight,,main,TCBIO
+2015-04-23,Jefferies,Buy,,main,TCBIO
+2015-04-23,Deutsche Bank,Buy,,main,TCBIO
+2015-06-12,PiperJaffray,Overweight,,init,TCBIO
+2015-06-16,Barclays,Equal-Weight,,main,TCBIO
+2015-07-23,Macquarie,Outperform,,main,TCBIO
+2015-07-23,Drexel Hamilton,Hold,Buy,down,TCBIO
+2015-08-17,PiperJaffray,Neutral,Overweight,down,TCBIO
+2015-08-19,Sterne Agee CRT,Neutral,,init,TCBIO
+2015-08-28,DA Davidson,Buy,,up,TCBIO
+2015-10-08,Sterne Agee CRT,Neutral,,main,TCBIO
+2015-10-09,Barclays,Equal-Weight,,main,TCBIO
+2015-10-22,Keefe Bruyette & Woods,Market Perform,,main,TCBIO
+2015-12-28,PiperJaffray,Neutral,,main,TCBIO
+2016-01-21,Deutsche Bank,Buy,,main,TCBIO
+2016-01-21,Barclays,Equal-Weight,,main,TCBIO
+2016-01-21,Macquarie,Neutral,Outperform,down,TCBIO
+2016-01-25,Jefferies,Buy,,main,TCBIO
+2016-02-24,Deutsche Bank,Buy,,main,TCBIO
+2016-04-01,Barclays,Equal-Weight,,main,TCBIO
+2016-04-01,Hovde Group,Underperform,Market Perform,down,TCBIO
+2016-05-09,Raymond James,Strong Buy,Outperform,up,TCBIO
+2016-05-11,Hovde Group,Market Perform,,up,TCBIO
+2016-07-01,Compass Point,Buy,,init,TCBIO
+2016-07-21,Raymond James,Outperform,Strong Buy,down,TCBIO
+2016-10-07,Wedbush,Neutral,,init,TCBIO
+2016-10-11,Deutsche Bank,Buy,,main,TCBIO
+2016-10-11,Barclays,Equal-Weight,,main,TCBIO
+2016-11-03,Raymond James,Strong Buy,Outperform,up,TCBIO
+2016-11-11,Deutsche Bank,Hold,Buy,down,TCBIO
+2016-11-18,Compass Point,Neutral,Buy,down,TCBIO
+2016-11-30,DA Davidson,Neutral,Buy,down,TCBIO
+2016-12-05,Barclays,Equal-Weight,,main,TCBIO
+2016-12-15,Bank of America,Buy,Neutral,up,TCBIO
+2017-03-16,Raymond James,Outperform,Strong Buy,down,TCBIO
+2017-04-06,Raymond James,Strong Buy,Outperform,up,TCBIO
+2017-04-20,Raymond James,Market Perform,Strong Buy,down,TCBIO
+2017-09-06,RBC Capital,Outperform,,init,TCBIO
+2017-10-04,Wedbush,Neutral,Outperform,down,TCBIO
+2017-10-19,Bank of America,Buy,,main,TCBIO
+2017-11-08,Deutsche Bank,Hold,,main,TCBIO
+2017-12-21,Wedbush,Outperform,Neutral,up,TCBIO
+2018-01-25,Raymond James,Outperform,Market Perform,up,TCBIO
+2018-01-25,Bank of America,Buy,Buy,main,TCBIO
+2018-01-26,Barclays,Neutral,Neutral,reit,TCBIO
+2018-04-19,PiperJaffray,Overweight,Neutral,up,TCBIO
+2018-05-04,Deutsche Bank,Hold,Hold,main,TCBIO
+2018-07-19,Wedbush,Outperform,Outperform,main,TCBIO
+2018-10-03,Barclays,Equal-Weight,Equal-Weight,main,TCBIO
+2018-10-18,Raymond James,Outperform,Outperform,main,TCBIO
+2018-10-23,Compass Point,Buy,Neutral,up,TCBIO
+2018-10-24,UBS,Neutral,Sell,up,TCBIO
+2018-11-15,Compass Point,Buy,,up,TCBIO
+2018-12-06,Wedbush,Outperform,Outperform,main,TCBIO
+2019-01-08,Jefferies,Hold,Buy,down,TCBIO
+2019-01-10,Barclays,Overweight,Equal-Weight,up,TCBIO
+2019-04-18,Compass Point,Neutral,Buy,down,TCBIO
+2019-06-07,Piper Jaffray,Neutral,Overweight,down,TCBIO
+2019-07-18,Raymond James,Outperform,,main,TCBIO
+2019-07-18,SunTrust Robinson Humphrey,Hold,Buy,down,TCBIO
+2019-08-02,Raymond James,Outperform,,main,TCBIO
+2019-08-05,UBS,Sell,Neutral,down,TCBIO
+2019-08-29,Raymond James,Market Perform,Outperform,down,TCBIO
+2019-10-17,SunTrust Robinson Humphrey,Hold,,main,TCBIO
+2019-10-17,Wedbush,Neutral,,main,TCBIO
+2019-12-10,RBC Capital,Sector Perform,Outperform,down,TCBIO
+2019-12-11,Sandler O'Neill,Buy,Hold,up,TCBIO
+2019-12-18,Bank of America,Neutral,Buy,down,TCBIO
+2020-01-23,RBC Capital,Sector Perform,,main,TCBIO
+2020-01-23,Wedbush,Neutral,,main,TCBIO
+2020-02-20,UBS,Neutral,Sell,up,TCBIO
+2020-04-06,UBS,Neutral,,main,TCBIO
+2020-04-23,B of A Securities,Neutral,,reit,TCBIO
+2020-04-23,JP Morgan,Neutral,,main,TCBIO
+2020-04-29,SunTrust Robinson Humphrey,Hold,,main,TCBIO
+2020-04-29,Piper Sandler,Overweight,,main,TCBIO
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,TCBIO
+2020-05-15,UBS,Neutral,,main,TCBIO
+2020-05-26,Piper Sandler,Neutral,Overweight,down,TCBIO
+2020-05-27,KBW,Market Perform,Outperform,down,TCBIO
+2020-06-04,SunTrust Robinson Humphrey,Hold,,main,TCBIO
+2020-07-23,Wedbush,Neutral,,main,TCBIO
+2020-09-30,Piper Sandler,Neutral,,main,TCBIO
+2020-10-08,B of A Securities,Underperform,Neutral,down,TCBIO
+2020-10-22,Wedbush,Neutral,,main,TCBIO
+2020-10-23,Truist Securities,Hold,,main,TCBIO
+2021-01-26,JP Morgan,Underweight,Neutral,down,TCBIO
+2021-03-15,Truist Securities,Hold,,main,TCBIO
+2021-03-30,Keefe Bruyette & Woods,Outperform,Market Perform,up,TCBIO
+2021-04-07,Janney Capital,Buy,Neutral,up,TCBIO
+2021-04-07,Janney Montgomery Scott,Buy,Neutral,up,TCBIO
+2021-05-11,Truist Securities,Buy,Hold,up,TCBIO
+2021-07-08,Raymond James,Outperform,Market Perform,up,TCBIO
+2021-07-08,Stephens & Co.,Overweight,Equal-Weight,up,TCBIO
+2021-07-22,Stephens & Co.,Overweight,,main,TCBIO
+2021-07-22,Piper Sandler,Overweight,Neutral,up,TCBIO
+2021-07-27,Wedbush,Outperform,Neutral,up,TCBIO
+2021-09-02,Raymond James,Outperform,,main,TCBIO
+2021-09-02,Janney Montgomery Scott,Neutral,Buy,down,TCBIO
+2021-09-02,Wedbush,Neutral,Outperform,down,TCBIO

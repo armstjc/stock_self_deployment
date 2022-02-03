@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-01,Evercore ISI Group,Hold,,init,YUMC
+2016-11-01,Morgan Stanley,Overweight,,init,YUMC
+2016-11-04,Bernstein,Market Perform,,init,YUMC
+2016-11-10,Oppenheimer,Outperform,,init,YUMC
+2016-11-23,Goldman Sachs,Neutral,,init,YUMC
+2017-01-17,Goldman Sachs,Buy,Neutral,up,YUMC
+2017-02-24,Deutsche Bank,Buy,,init,YUMC
+2017-05-05,Goldman Sachs,Neutral,Buy,down,YUMC
+2017-06-02,JP Morgan,Overweight,,init,YUMC
+2017-10-09,Nomura,Buy,,init,YUMC
+2017-10-09,Morgan Stanley,Overweight,,main,YUMC
+2018-03-20,Morgan Stanley,Overweight,Overweight,main,YUMC
+2018-07-20,Bank of America,Underperform,Neutral,down,YUMC
+2018-08-17,Oppenheimer,Perform,Outperform,down,YUMC
+2018-10-31,Bank of America,Neutral,Underperform,up,YUMC
+2019-03-18,JP Morgan,Overweight,Overweight,main,YUMC
+2019-04-30,Bank of America,Buy,Neutral,up,YUMC
+2019-05-01,UBS,Buy,,main,YUMC
+2019-08-06,DBS Bank,Buy,,init,YUMC
+2019-10-28,Jefferies,Buy,,init,YUMC
+2020-04-29,B of A Securities,Buy,,main,YUMC
+2020-07-30,Jefferies,Buy,,main,YUMC
+2020-10-29,Credit Suisse,Outperform,,init,YUMC
+2021-04-06,Atlantic Equities,Overweight,,init,YUMC
+2021-09-15,Macquarie,Underperform,Neutral,down,YUMC

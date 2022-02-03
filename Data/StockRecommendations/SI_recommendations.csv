@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-25,Deutsche Bank,Buy,,up,SI
+2012-10-10,Deutsche Bank,Hold,Buy,down,SI
+2012-10-12,Societe Generale,Hold,Buy,down,SI
+2012-11-20,Deutsche Bank,Sell,Hold,down,SI
+2013-03-18,Bank of America,Buy,Neutral,up,SI
+2013-03-20,Morgan Stanley,Overweight,Equal-weight,up,SI
+2013-04-10,Exane BNP Paribas,Neutral,Underperform,up,SI
+2013-06-03,Commerzbank,Add,Hold,up,SI
+2013-06-19,Nomura,Buy,Neutral,up,SI
+2013-07-09,Deutsche Bank,Hold,Sell,up,SI
+2013-07-31,Deutsche Bank,Buy,Hold,up,SI
+2013-08-05,LBBW Research,Hold,Buy,down,SI
+2013-08-27,Kepler Cheuvreux,Buy,,init,SI
+2013-09-04,Exane BNP Paribas,Outperform,Neutral,up,SI
+2013-09-05,Barclays,Overweight,Equal-Weight,up,SI
+2013-09-06,Societe Generale,Buy,Hold,up,SI
+2013-10-11,DZ Bank,Buy,Hold,up,SI
+2013-10-31,Commerzbank,Hold,Add,down,SI
+2013-11-14,Banco Sabadell,Sell,Buy,down,SI
+2013-11-18,Mainfirst,Underperform,,down,SI
+2013-11-18,LBBW Research,Buy,Hold,up,SI
+2014-01-10,Berenberg,Hold,Buy,down,SI
+2014-01-16,Morgan Stanley,Equal-Weight,Overweight,down,SI
+2014-03-17,Bank of America,Buy,,up,SI
+2014-03-17,JP Morgan,Overweight,,up,SI
+2014-03-19,UBS,Buy,Neutral,up,SI
+2014-04-08,Bank of America,Buy,Neutral,up,SI
+2014-07-11,LBBW Research,Hold,Buy,down,SI
+2014-07-11,RBC Capital,Outperform,Sector Perform,up,SI
+2014-08-20,Goldman Sachs,Buy,Neutral,up,SI
+2014-11-10,JP Morgan,Neutral,Overweight,down,SI
+2019-11-18,Compass Point,Buy,,init,SI
+2019-12-02,Barclays,Overweight,,init,SI
+2020-03-16,Canaccord Genuity,Buy,,init,SI
+2020-10-16,Compass Point,Buy,,init,SI
+2020-10-27,Canaccord Genuity,Buy,,main,SI
+2020-11-30,Canaccord Genuity,Buy,,main,SI
+2020-12-02,Craig-Hallum,Buy,,init,SI
+2020-12-17,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,SI
+2020-12-22,Wedbush,Outperform,,init,SI
+2021-01-14,Barclays,Equal-Weight,Overweight,down,SI
+2021-02-04,Craig-Hallum,Buy,,main,SI
+2021-03-30,Canaccord Genuity,Buy,,main,SI
+2021-04-13,Barclays,Equal-Weight,,main,SI
+2021-06-14,Goldman Sachs,Neutral,,init,SI
+2021-09-27,Morgan Stanley,Overweight,,init,SI
+2021-10-20,Craig-Hallum,Buy,,main,SI
+2021-10-20,Canaccord Genuity,Buy,,main,SI
+2021-10-27,Morgan Stanley,Overweight,,main,SI
+2021-11-11,JP Morgan,Overweight,,init,SI
+2021-12-06,Morgan Stanley,Overweight,,main,SI
+2021-12-13,Goldman Sachs,Neutral,,main,SI
+2021-12-16,B. Riley Securities,Buy,,init,SI

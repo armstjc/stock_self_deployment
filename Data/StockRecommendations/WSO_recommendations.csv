@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-16,BB&T Capital,Hold,,down,WSO
+2012-04-20,UBS,Neutral,,main,WSO
+2012-04-30,Oppenheimer,Outperform,,main,WSO
+2012-07-06,Goldman Sachs,Neutral,,init,WSO
+2012-07-06,Goldman Sachs,Neutral,,init,WSO
+2012-07-09,MKM Partners,Neutral,Buy,down,WSO
+2012-07-26,Barclays,Underweight,,main,WSO
+2012-07-27,UBS,Neutral,,main,WSO
+2012-09-10,JP Morgan,Overweight,,main,WSO
+2013-01-11,JP Morgan,Underweight,Overweight,down,WSO
+2013-01-15,Baird,Neutral,Outperform,down,WSO
+2013-02-15,Barclays,Underweight,,main,WSO
+2013-03-05,UBS,Neutral,,main,WSO
+2013-03-18,SunTrust Robinson Humphrey,Buy,Neutral,up,WSO
+2013-05-30,Longbow Research,Neutral,,init,WSO
+2013-07-19,Global Hunter Securities,Buy,Accumulate,up,WSO
+2013-09-26,Baird,Outperform,Neutral,up,WSO
+2014-05-13,Morgan Stanley,Equal-Weight,,init,WSO
+2014-07-18,Barclays,Underweight,,main,WSO
+2014-07-22,JP Morgan,Underweight,,main,WSO
+2014-09-05,Buckingham Research,Neutral,,init,WSO
+2014-09-23,Seaport Global,Accumulate,Buy,down,WSO
+2014-10-06,Barclays,Underweight,,main,WSO
+2014-11-12,UBS,Neutral,,main,WSO
+2015-01-15,JP Morgan,Underweight,,main,WSO
+2015-01-20,Goldman Sachs,Neutral,Sell,up,WSO
+2015-02-13,Stephens & Co.,Overweight,Equal-Weight,up,WSO
+2015-02-13,Barclays,Underweight,,main,WSO
+2015-02-17,JP Morgan,Neutral,Underweight,up,WSO
+2015-04-16,Baird,Outperform,,main,WSO
+2015-04-16,Barclays,Underweight,,main,WSO
+2015-07-13,Barclays,Underweight,,main,WSO
+2015-10-05,Barclays,Underweight,,main,WSO
+2015-10-28,Stephens & Co.,Overweight,,main,WSO
+2015-11-25,Stifel Nicolaus,Buy,,init,WSO
+2016-01-19,Barclays,Underweight,,main,WSO
+2016-02-12,Stifel Nicolaus,Buy,,main,WSO
+2016-03-24,Stifel Nicolaus,Buy,,main,WSO
+2016-04-18,Barclays,Underweight,,main,WSO
+2016-04-20,Goldman Sachs,Neutral,,main,WSO
+2016-04-21,Baird,Outperform,,main,WSO
+2016-04-21,Seaport Global,Accumulate,,main,WSO
+2016-04-25,Stifel Nicolaus,Neutral,Buy,down,WSO
+2016-06-01,Susquehanna,Positive,,init,WSO
+2016-06-06,SunTrust Robinson Humphrey,Buy,,init,WSO
+2016-07-25,Barclays,Underweight,,main,WSO
+2016-07-25,Stifel Nicolaus,Buy,,main,WSO
+2016-07-25,Seaport Global,Neutral,Accumulate,down,WSO
+2016-07-27,JP Morgan,Neutral,,main,WSO
+2016-10-14,Longbow Research,Buy,Neutral,up,WSO
+2016-12-20,Morgan Stanley,Underweight,Equal-Weight,down,WSO
+2017-07-11,Wolfe Research,Peer Perform,,init,WSO
+2017-07-26,Morgan Stanley,Underweight,,main,WSO
+2017-09-25,Morgan Stanley,Underweight,,main,WSO
+2017-10-26,Morgan Stanley,Underweight,,main,WSO
+2018-02-12,JP Morgan,Neutral,Neutral,main,WSO
+2018-04-25,Stifel Nicolaus,Buy,Buy,main,WSO
+2018-04-25,Baird,Outperform,Outperform,main,WSO
+2018-07-03,Baird,Neutral,Outperform,down,WSO
+2018-07-30,Longbow Research,Neutral,Buy,down,WSO
+2018-09-21,JP Morgan,Underweight,Neutral,down,WSO
+2018-10-09,Buckingham,Neutral,,init,WSO
+2018-10-12,Jefferies,Hold,,init,WSO
+2018-10-26,Buckingham,Neutral,Neutral,main,WSO
+2019-10-08,Buckingham,Neutral,,main,WSO
+2019-10-10,JP Morgan,Underweight,,main,WSO
+2019-10-18,Buckingham,Neutral,,main,WSO
+2019-10-18,Baird,Neutral,,main,WSO
+2019-10-21,Morgan Stanley,Equal-Weight,,main,WSO
+2020-02-14,Buckingham,Neutral,,main,WSO
+2020-02-18,Stephens & Co.,Overweight,,main,WSO
+2020-03-17,Morgan Stanley,Equal-Weight,,main,WSO
+2020-03-23,Morgan Stanley,Equal-Weight,,main,WSO
+2020-04-24,Baird,Neutral,,main,WSO
+2020-06-23,JP Morgan,Underweight,,main,WSO
+2020-07-24,Morgan Stanley,Equal-Weight,,main,WSO
+2020-10-13,Morgan Stanley,Equal-Weight,,main,WSO
+2020-10-23,Morgan Stanley,Equal-Weight,,main,WSO
+2021-02-12,Morgan Stanley,Equal-Weight,,main,WSO
+2021-04-12,Morgan Stanley,Equal-Weight,,main,WSO
+2021-04-23,Morgan Stanley,Equal-Weight,,main,WSO
+2021-05-19,Wolfe Research,Peer Perform,,init,WSO
+2021-07-12,Wolfe Research,Underperform,Peer Perform,down,WSO
+2021-07-23,Stephens & Co.,Overweight,Equal-Weight,up,WSO
+2021-08-03,Loop Capital,Hold,,init,WSO

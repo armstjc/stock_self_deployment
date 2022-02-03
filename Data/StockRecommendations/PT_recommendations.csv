@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-03-04,Jefferies,Hold,,init,PT
+2013-03-27,Credit Suisse,Neutral,Underperform,up,PT
+2013-03-27,Credit Suisse,Neutral,Underperform,up,PT
+2013-04-04,Goldman Sachs,Buy,Neutral,up,PT
+2013-05-29,Berenberg,Hold,Buy,down,PT
+2013-07-15,Exane BNP Paribas,Underperform,Neutral,down,PT
+2013-08-16,Goldman Sachs,Neutral,Buy,down,PT
+2013-08-16,Natixis,Neutral,Buy,down,PT
+2013-09-20,Bernstein,Outperform,Market Perform,up,PT
+2013-10-04,Citigroup,Neutral,Buy,down,PT
+2013-10-04,Berenberg,Buy,Hold,up,PT
+2013-10-14,Santander,Underweight,Buy,down,PT

@@ -1,0 +1,150 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-10-09,Baird,Outperform,,init,PTON
+2019-10-11,MKM Partners,Neutral,,init,PTON
+2019-10-21,Goldman Sachs,Buy,,init,PTON
+2019-10-21,KeyBanc,Overweight,,init,PTON
+2019-10-21,JMP Securities,Market Outperform,,init,PTON
+2019-10-21,Barclays,Overweight,,init,PTON
+2019-10-21,JP Morgan,Overweight,,init,PTON
+2019-10-21,Stifel,Buy,,init,PTON
+2019-10-21,Oppenheimer,Outperform,,init,PTON
+2019-10-21,Bank of America,Buy,,init,PTON
+2019-10-21,Canaccord Genuity,Buy,,init,PTON
+2019-10-21,Cowen & Co.,Outperform,,init,PTON
+2019-10-21,Telsey Advisory Group,Outperform,,init,PTON
+2019-10-21,Raymond James,Outperform,,init,PTON
+2019-10-21,UBS,Buy,,init,PTON
+2019-10-21,Needham,Buy,,init,PTON
+2019-10-21,SunTrust Robinson Humphrey,Buy,,init,PTON
+2019-10-24,Bernstein,Outperform,,init,PTON
+2019-11-06,Baird,Outperform,,main,PTON
+2019-11-06,JMP Securities,Market Outperform,,main,PTON
+2019-12-02,KeyBanc,Overweight,,main,PTON
+2019-12-05,JMP Securities,Market Outperform,,main,PTON
+2019-12-10,Oppenheimer,Outperform,,main,PTON
+2019-12-12,Argus Research,Buy,,init,PTON
+2020-01-15,Wedbush,Outperform,,init,PTON
+2020-01-28,B of A Securities,Buy,,reit,PTON
+2020-01-29,Raymond James,Outperform,,main,PTON
+2020-02-04,BMO Capital,Market Perform,,init,PTON
+2020-02-06,Canaccord Genuity,Buy,,main,PTON
+2020-02-06,MKM Partners,Neutral,,main,PTON
+2020-02-06,Stifel,Buy,,main,PTON
+2020-02-06,BMO Capital,Market Perform,,main,PTON
+2020-02-06,Needham,Buy,,main,PTON
+2020-03-17,Wedbush,Outperform,,main,PTON
+2020-03-18,JP Morgan,Overweight,,main,PTON
+2020-04-03,Rosenblatt,Buy,,init,PTON
+2020-04-15,Roth Capital,Buy,,init,PTON
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,PTON
+2020-04-20,BMO Capital,Underperform,Market Perform,down,PTON
+2020-04-30,Stifel,Buy,,main,PTON
+2020-04-30,JMP Securities,Market Outperform,,main,PTON
+2020-05-05,B of A Securities,Buy,,reit,PTON
+2020-05-07,CFRA,Buy,,main,PTON
+2020-05-07,Canaccord Genuity,Buy,,main,PTON
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,PTON
+2020-05-07,Baird,Outperform,,main,PTON
+2020-05-07,UBS,Buy,,main,PTON
+2020-05-07,B of A Securities,Buy,,reit,PTON
+2020-05-07,Oppenheimer,Outperform,,main,PTON
+2020-05-07,MKM Partners,Neutral,,main,PTON
+2020-05-07,Rosenblatt,Buy,,reit,PTON
+2020-05-07,Needham,Buy,,main,PTON
+2020-05-07,KeyBanc,Overweight,,main,PTON
+2020-05-13,Argus Research,Buy,,main,PTON
+2020-05-13,JMP Securities,Market Outperform,,main,PTON
+2020-05-19,SunTrust Robinson Humphrey,Buy,,main,PTON
+2020-05-27,Oppenheimer,Outperform,,main,PTON
+2020-06-03,B of A Securities,Buy,,main,PTON
+2020-06-24,KeyBanc,Overweight,,main,PTON
+2020-06-26,Needham,Buy,,main,PTON
+2020-07-01,Rosenblatt,Buy,,main,PTON
+2020-07-28,KeyBanc,Overweight,,main,PTON
+2020-08-27,Goldman Sachs,Buy,,main,PTON
+2020-09-02,JP Morgan,Overweight,,main,PTON
+2020-09-09,Goldman Sachs,Buy,,main,PTON
+2020-09-09,Wedbush,Outperform,,main,PTON
+2020-09-11,Rosenblatt,Buy,,main,PTON
+2020-09-11,B of A Securities,Buy,,main,PTON
+2020-09-11,Truist Securities,Buy,,main,PTON
+2020-09-11,MKM Partners,Neutral,,main,PTON
+2020-09-11,Wedbush,Outperform,,main,PTON
+2020-09-11,Stifel,Buy,,main,PTON
+2020-09-11,Raymond James,Outperform,,main,PTON
+2020-09-11,Canaccord Genuity,Buy,,main,PTON
+2020-09-11,Needham,Buy,,main,PTON
+2020-09-11,KeyBanc,Overweight,,main,PTON
+2020-09-15,Argus Research,Buy,,main,PTON
+2020-10-15,B of A Securities,Buy,,main,PTON
+2020-10-21,KeyBanc,Overweight,,main,PTON
+2020-10-22,Goldman Sachs,Neutral,Buy,down,PTON
+2020-11-02,Needham,Buy,,main,PTON
+2020-11-04,Rosenblatt,Buy,,reit,PTON
+2020-11-06,UBS,Neutral,,main,PTON
+2020-11-06,Canaccord Genuity,Buy,,main,PTON
+2020-11-06,Raymond James,Outperform,,main,PTON
+2020-11-06,Rosenblatt,Buy,,main,PTON
+2020-11-11,Rosenblatt,Buy,,main,PTON
+2020-11-13,Exane BNP Paribas,Outperform,,init,PTON
+2020-12-02,Needham,Buy,,main,PTON
+2020-12-22,KeyBanc,Overweight,,main,PTON
+2021-01-08,Gordon Haskett,Buy,,init,PTON
+2021-01-13,B of A Securities,Buy,,main,PTON
+2021-01-19,UBS,Sell,Neutral,down,PTON
+2021-02-01,Cowen & Co.,Outperform,,main,PTON
+2021-02-05,Raymond James,Market Perform,Outperform,down,PTON
+2021-02-05,Truist Securities,Buy,,main,PTON
+2021-02-05,Gordon Haskett,Buy,,main,PTON
+2021-02-05,JP Morgan,Overweight,,main,PTON
+2021-02-05,BMO Capital,Underperform,,main,PTON
+2021-02-05,Goldman Sachs,Neutral,,main,PTON
+2021-02-05,Needham,Buy,,main,PTON
+2021-02-05,Barclays,Overweight,,main,PTON
+2021-02-05,Roth Capital,Buy,,main,PTON
+2021-02-05,Cowen & Co.,Outperform,,main,PTON
+2021-02-05,MKM Partners,Neutral,,main,PTON
+2021-02-05,Rosenblatt,Buy,,main,PTON
+2021-02-17,Argus Research,Buy,,main,PTON
+2021-03-08,MKM Partners,Buy,Neutral,up,PTON
+2021-04-01,Wolfe Research,Peer Perform,,init,PTON
+2021-04-06,Credit Suisse,Outperform,,init,PTON
+2021-04-06,Evercore ISI Group,In-Line,Outperform,down,PTON
+2021-04-19,B of A Securities,Buy,,main,PTON
+2021-05-06,B of A Securities,Neutral,Buy,down,PTON
+2021-05-07,Telsey Advisory Group,Outperform,,main,PTON
+2021-05-07,Canaccord Genuity,Buy,,main,PTON
+2021-05-21,Argus Research,Buy,,main,PTON
+2021-06-07,Loop Capital,Buy,,init,PTON
+2021-06-23,Telsey Advisory Group,Outperform,,main,PTON
+2021-07-01,Truist Securities,Buy,,main,PTON
+2021-07-14,Wedbush,Neutral,Outperform,down,PTON
+2021-08-24,Truist Securities,Buy,,main,PTON
+2021-08-24,JP Morgan,Overweight,,main,PTON
+2021-08-24,Credit Suisse,Outperform,,main,PTON
+2021-08-26,Needham,Buy,,main,PTON
+2021-08-27,Roth Capital,Buy,,main,PTON
+2021-08-27,Cowen & Co.,Outperform,,main,PTON
+2021-08-27,B of A Securities,Buy,Neutral,up,PTON
+2021-08-27,Credit Suisse,Outperform,,main,PTON
+2021-08-27,Needham,Buy,,main,PTON
+2021-08-30,Citigroup,Neutral,,init,PTON
+2021-09-13,Goldman Sachs,Neutral,,init,PTON
+2021-10-06,Stifel,Buy,,main,PTON
+2021-10-11,Keybanc,Overweight,,main,PTON
+2021-11-05,Goldman Sachs,Neutral,,main,PTON
+2021-11-05,Telsey Advisory Group,Market Perform,Outperform,down,PTON
+2021-11-05,Stifel,Hold,Buy,down,PTON
+2021-11-05,Truist Securities,Hold,Buy,down,PTON
+2021-11-05,Keybanc,Overweight,,main,PTON
+2021-11-05,Needham,Buy,,main,PTON
+2021-11-05,Credit Suisse,Outperform,,main,PTON
+2021-11-05,MKM Partners,Neutral,Buy,down,PTON
+2021-11-05,Exane BNP Paribas,Neutral,Outperform,down,PTON
+2021-11-11,Citigroup,Neutral,,main,PTON
+2021-12-03,Deutsche Bank,Buy,,init,PTON
+2021-12-10,Credit Suisse,Neutral,Outperform,down,PTON
+2021-12-15,JP Morgan,Overweight,,main,PTON
+2021-12-20,UBS,Sell,,main,PTON
+2021-12-23,Citigroup,Neutral,,main,PTON
+2021-12-31,JMP Securities,Market Perform,Market Outperform,down,PTON

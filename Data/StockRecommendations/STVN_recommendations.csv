@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-10,Keybanc,Overweight,,init,STVN
+2021-08-10,Jefferies,Buy,,init,STVN
+2021-08-10,UBS,Neutral,,init,STVN
+2021-08-10,Wells Fargo,Overweight,,init,STVN
+2021-08-10,B of A Securities,Buy,,init,STVN
+2021-08-10,Morgan Stanley,Overweight,,init,STVN
+2021-08-20,Morgan Stanley,Overweight,,main,STVN

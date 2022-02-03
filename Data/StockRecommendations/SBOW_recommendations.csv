@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-08-01,Seaport Global,Neutral,,init,SBOW
+2017-09-29,Stephens & Co.,Overweight,,init,SBOW
+2017-12-19,Seaport Global,Buy,Neutral,up,SBOW
+2018-04-10,SunTrust Robinson Humphrey,Buy,,init,SBOW
+2018-09-25,SunTrust Robinson Humphrey,Hold,Buy,down,SBOW
+2021-09-08,Truist Securities,Buy,Hold,up,SBOW

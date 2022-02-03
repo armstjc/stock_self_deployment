@@ -1,0 +1,179 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-26,William Blair,Outperform,,init,RH
+2012-11-27,Goldman Sachs,Neutral,,init,RH
+2012-11-27,Bank of America,Neutral,,init,RH
+2012-11-29,Goldman Sachs,,,init,RH
+2012-12-13,Goldman Sachs,Neutral,,main,RH
+2012-12-13,PiperJaffray,Overweight,,main,RH
+2013-04-15,Wells Fargo,Outperform,,init,RH
+2013-06-10,Jefferies,Buy,,init,RH
+2013-06-11,Jefferies,Buy,,init,RH
+2013-09-11,Jefferies,Buy,,main,RH
+2013-12-13,PiperJaffray,Neutral,Overweight,down,RH
+2013-12-18,KeyBanc,Buy,,init,RH
+2014-02-21,BB&T Capital,Buy,,init,RH
+2014-06-25,Bank of America,Buy,Neutral,up,RH
+2014-07-01,Barrington Research,Market Perform,,init,RH
+2014-07-17,Nomura,Buy,,init,RH
+2014-07-21,BB&T Capital,Hold,Buy,down,RH
+2014-09-05,Wolfe Research,Peer Perform,Underperform,up,RH
+2014-09-19,CRT Capital,Buy,,init,RH
+2014-10-09,Raymond James,Outperform,,init,RH
+2014-10-16,Deutsche Bank,Buy,,init,RH
+2014-12-11,Deutsche Bank,Buy,,main,RH
+2015-02-04,Telsey Advisory Group,Outperform,,init,RH
+2015-02-18,Cowen & Co.,Outperform,,init,RH
+2015-03-30,Goldman Sachs,Buy,Neutral,up,RH
+2015-06-12,PiperJaffray,Neutral,,main,RH
+2015-06-12,Deutsche Bank,Buy,,main,RH
+2015-06-26,BB&T Capital,Buy,Hold,up,RH
+2015-07-14,Longbow Research,Buy,,init,RH
+2015-07-31,Evercore ISI Group,Hold,,init,RH
+2015-10-12,Wolfe Research,Outperform,Peer Perform,up,RH
+2015-11-09,UBS,Buy,,init,RH
+2015-11-20,Goldman Sachs,Neutral,Buy,down,RH
+2015-12-11,PiperJaffray,Neutral,,main,RH
+2015-12-16,Guggenheim,Buy,,init,RH
+2015-12-17,Guggenheim,Buy,,init,RH
+2016-02-01,Cowen & Co.,Market Perform,Outperform,down,RH
+2016-02-04,Deutsche Bank,Buy,,main,RH
+2016-02-25,Nomura,Buy,,main,RH
+2016-02-25,Cowen & Co.,Market Perform,,main,RH
+2016-02-25,Deutsche Bank,Buy,,main,RH
+2016-02-25,Baird,Neutral,Outperform,down,RH
+2016-03-17,BB&T Capital,Hold,Buy,down,RH
+2016-03-18,Buckingham Research,Underperform,Neutral,down,RH
+2016-03-30,Nomura,Buy,,main,RH
+2016-03-30,Baird,Neutral,,main,RH
+2016-03-30,Deutsche Bank,Buy,,main,RH
+2016-03-30,Barclays,Equal-Weight,,init,RH
+2016-03-30,UBS,Buy,,main,RH
+2016-04-14,Oppenheimer,Perform,,init,RH
+2016-05-10,Longbow Research,Buy,,init,RH
+2016-06-09,Telsey Advisory Group,Market Perform,Outperform,down,RH
+2016-06-09,UBS,Neutral,Buy,down,RH
+2016-06-09,Deutsche Bank,Hold,Buy,down,RH
+2016-06-09,Longbow Research,Neutral,Buy,down,RH
+2016-06-09,Raymond James,Market Perform,Strong Buy,down,RH
+2016-06-09,Goldman Sachs,Neutral,,main,RH
+2016-08-18,Goldman Sachs,Buy,Neutral,up,RH
+2016-09-09,Deutsche Bank,Hold,,main,RH
+2016-09-09,Goldman Sachs,Buy,,main,RH
+2016-10-07,Buckingham Research,Neutral,Underperform,up,RH
+2017-01-03,Loop Capital,Hold,,init,RH
+2017-02-15,KeyBanc,Overweight,Sector Weight,up,RH
+2017-04-28,Citigroup,Buy,,init,RH
+2017-05-09,Gordon Haskett,Hold,,init,RH
+2017-06-23,Deutsche Bank,Buy,Hold,up,RH
+2017-07-17,KeyBanc,Sector Weight,Overweight,down,RH
+2017-07-18,Deutsche Bank,Buy,,main,RH
+2017-07-21,Deutsche Bank,Hold,Buy,down,RH
+2017-07-24,Citigroup,Neutral,Buy,down,RH
+2017-09-07,Bank of America,Underperform,,main,RH
+2017-09-07,Buckingham,Buy,Neutral,up,RH
+2017-09-26,Deutsche Bank,Buy,Hold,up,RH
+2017-10-12,Loop Capital,Hold,,main,RH
+2017-10-13,Stifel Nicolaus,Hold,,init,RH
+2017-11-15,Buckingham,Buy,,main,RH
+2017-11-16,Citigroup,Buy,Neutral,up,RH
+2017-11-16,Deutsche Bank,Buy,,main,RH
+2017-11-17,Buckingham,Buy,,main,RH
+2017-11-20,Bank of America,Underperform,,main,RH
+2017-12-04,Moffett Nathanson,Neutral,,init,RH
+2017-12-06,Barclays,Equal-Weight,Equal-Weight,main,RH
+2018-01-11,Loop Capital,Buy,Hold,up,RH
+2018-03-14,Raymond James,Outperform,Market Perform,up,RH
+2018-03-28,Deutsche Bank,Buy,Buy,main,RH
+2018-06-12,Buckingham,Buy,Buy,main,RH
+2018-06-12,Bank of America,Underperform,Underperform,main,RH
+2018-06-12,Stifel Nicolaus,Hold,Hold,main,RH
+2018-06-12,Citigroup,Buy,Buy,main,RH
+2018-06-12,Deutsche Bank,Buy,Buy,main,RH
+2018-06-12,Barclays,Equal-Weight,Equal-Weight,main,RH
+2018-07-09,Citigroup,Buy,Buy,main,RH
+2018-08-28,Gordon Haskett,Accumulate,Hold,up,RH
+2018-09-05,Deutsche Bank,Buy,Buy,main,RH
+2018-09-05,Stifel Nicolaus,Hold,Hold,main,RH
+2018-09-10,KeyBanc,Overweight,Sector Weight,up,RH
+2018-10-12,Stifel Nicolaus,Buy,Hold,up,RH
+2018-10-23,Wedbush,Outperform,,init,RH
+2018-11-08,Gordon Haskett,Hold,Buy,down,RH
+2018-11-09,JP Morgan,Overweight,,init,RH
+2018-12-04,Deutsche Bank,Buy,Buy,main,RH
+2018-12-04,Wedbush,Outperform,Outperform,main,RH
+2018-12-04,Wells Fargo,Outperform,Outperform,main,RH
+2018-12-04,Citigroup,Buy,Buy,main,RH
+2019-01-07,KeyBanc,Sector Weight,Overweight,down,RH
+2019-03-29,Wells Fargo,Outperform,Outperform,main,RH
+2019-03-29,Baird,Neutral,Neutral,main,RH
+2019-03-29,Deutsche Bank,Hold,Buy,down,RH
+2019-04-01,Citigroup,Buy,Buy,main,RH
+2019-05-28,Bank of America,Underperform,,main,RH
+2019-06-04,Gordon Haskett,Hold,Reduce,up,RH
+2019-06-13,Stifel Nicolaus,Buy,,main,RH
+2019-07-11,Goldman Sachs,Neutral,,init,RH
+2019-07-30,Citigroup,Buy,,main,RH
+2019-07-30,UBS,Neutral,,main,RH
+2019-08-01,Bank of America,Buy,Underperform,up,RH
+2019-09-11,Baird,Neutral,,main,RH
+2019-09-11,Stifel,Buy,,main,RH
+2019-09-11,Wells Fargo,Outperform,,main,RH
+2019-09-11,Bank of America,Buy,,reit,RH
+2019-09-11,UBS,Neutral,,main,RH
+2019-09-11,Wedbush,Outperform,,main,RH
+2019-09-19,Wells Fargo,Outperform,,main,RH
+2019-09-19,Stifel Nicolaus,Buy,,main,RH
+2019-09-20,Wedbush,Outperform,,main,RH
+2019-11-13,Barclays,Overweight,,init,RH
+2019-11-21,Loop Capital,Hold,Buy,down,RH
+2019-12-04,Bank of America,Buy,,reit,RH
+2019-12-05,Stifel Nicolaus,Buy,,main,RH
+2019-12-05,Baird,Neutral,,main,RH
+2019-12-05,Wells Fargo,Outperform,,main,RH
+2019-12-09,Guggenheim Securities,Buy,,main,RH
+2020-03-23,Wells Fargo,Overweight,,main,RH
+2020-03-27,Barclays,Overweight,,main,RH
+2020-03-27,JP Morgan,Overweight,,main,RH
+2020-03-31,UBS,Neutral,,main,RH
+2020-03-31,Wells Fargo,Overweight,,main,RH
+2020-03-31,Barclays,Overweight,,main,RH
+2020-04-14,Barclays,Overweight,,main,RH
+2020-04-29,Gordon Haskett,Underperform,Hold,down,RH
+2020-06-02,JP Morgan,Overweight,,main,RH
+2020-06-02,Gordon Haskett,Hold,Reduce,up,RH
+2020-06-03,Wedbush,Outperform,,main,RH
+2020-06-05,Stifel,Buy,,main,RH
+2020-06-15,Loop Capital,Buy,Hold,up,RH
+2020-09-02,Wedbush,Outperform,,main,RH
+2020-09-03,JP Morgan,Overweight,,main,RH
+2020-09-10,Barclays,Overweight,,main,RH
+2020-09-10,B of A Securities,Buy,,main,RH
+2020-09-10,Wedbush,Outperform,,main,RH
+2020-09-10,Wells Fargo,Overweight,,main,RH
+2020-09-29,Cowen & Co.,Outperform,Market Perform,up,RH
+2020-10-07,Barclays,Overweight,,main,RH
+2021-02-17,Cowen & Co.,Outperform,,main,RH
+2021-03-09,Citigroup,Buy,,init,RH
+2021-03-25,Telsey Advisory Group,Outperform,,main,RH
+2021-03-25,JP Morgan,Overweight,,main,RH
+2021-03-25,Loop Capital,Buy,,main,RH
+2021-03-25,Wells Fargo,Overweight,,main,RH
+2021-03-25,Cowen & Co.,Outperform,,main,RH
+2021-03-26,Barclays,Overweight,,main,RH
+2021-03-26,Jefferies,Hold,Underperform,up,RH
+2021-04-14,Cowen & Co.,Outperform,,main,RH
+2021-05-10,Loop Capital,Buy,,main,RH
+2021-05-25,Wells Fargo,Overweight,,main,RH
+2021-05-27,Wedbush,Outperform,,main,RH
+2021-06-07,Telsey Advisory Group,Outperform,,main,RH
+2021-06-10,Telsey Advisory Group,Outperform,,main,RH
+2021-06-10,Wedbush,Outperform,,main,RH
+2021-06-10,Wells Fargo,Overweight,,main,RH
+2021-06-10,Citigroup,Buy,,main,RH
+2021-06-10,Baird,Neutral,,main,RH
+2021-06-10,Gordon Haskett,Accumulate,Hold,up,RH
+2021-06-10,JP Morgan,Overweight,,main,RH
+2021-09-09,UBS,Neutral,,main,RH
+2021-09-09,Wells Fargo,Overweight,,main,RH
+2021-09-09,Telsey Advisory Group,Outperform,,main,RH
+2022-01-18,Citigroup,Buy,,main,RH

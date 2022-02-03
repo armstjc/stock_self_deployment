@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-08,Stifel Nicolaus,Hold,,down,SNX
+2012-03-28,Citigroup,Neutral,,down,SNX
+2012-03-28,Sterne Agee,Neutral,,main,SNX
+2012-06-26,Brean Capital,Buy,,main,SNX
+2012-06-26,Sterne Agee,Neutral,,main,SNX
+2012-06-26,Goldman Sachs,Neutral,,main,SNX
+2012-06-26,Bank of America,Buy,,main,SNX
+2012-08-08,JP Morgan,Overweight,Neutral,up,SNX
+2012-08-14,CLSA,Buy,,init,SNX
+2012-09-26,Needham,Buy,Strong Buy,down,SNX
+2012-09-26,Sterne Agee,Neutral,,main,SNX
+2012-09-26,Goldman Sachs,Neutral,,main,SNX
+2012-09-26,Bank of America,Buy,,main,SNX
+2012-10-08,Citigroup,Neutral,,init,SNX
+2013-01-11,Citigroup,Neutral,,main,SNX
+2013-01-11,Bank of America,Buy,,main,SNX
+2013-03-28,Citigroup,Neutral,,main,SNX
+2013-03-28,Credit Agricole,Outperform,Buy,down,SNX
+2013-06-12,Raymond James,Market Perform,Outperform,down,SNX
+2013-06-20,Credit Agricole,Underperform,,down,SNX
+2013-08-07,Needham,Hold,Buy,down,SNX
+2013-08-27,Raymond James,Underperform,Market Perform,down,SNX
+2013-08-28,Bank of America,Buy,,main,SNX
+2013-09-06,CLSA,Underperform,,main,SNX
+2013-09-11,Cross Research,Buy,Hold,up,SNX
+2013-09-11,Raymond James,Market Perform,Underperform,up,SNX
+2013-09-26,Brean Capital,Buy,,main,SNX
+2014-01-03,Cross Research,Hold,Buy,down,SNX
+2014-01-15,Citigroup,Buy,,up,SNX
+2014-04-04,Citigroup,Buy,,main,SNX
+2014-05-12,Needham,Buy,Hold,up,SNX
+2014-05-19,Cross Research,Buy,Hold,up,SNX
+2014-09-16,Stifel,Buy,Hold,up,SNX
+2014-09-24,Raymond James,Outperform,Market Perform,up,SNX
+2014-09-30,Citigroup,Buy,,main,SNX
+2014-12-30,Brean Capital,Buy,,main,SNX
+2015-01-05,Raymond James,Market Perform,Outperform,down,SNX
+2015-01-13,Citigroup,Buy,,main,SNX
+2015-01-13,Stifel Nicolaus,Buy,,main,SNX
+2015-02-27,Stifel Nicolaus,Hold,Buy,down,SNX
+2015-04-01,Citigroup,Buy,,main,SNX
+2015-06-26,Needham,Hold,Buy,down,SNX
+2015-06-29,Citigroup,Buy,,main,SNX
+2015-09-25,Brean Capital,Buy,,main,SNX
+2015-10-29,CLSA,Underperform,Outperform,down,SNX
+2016-01-11,Macquarie,Outperform,,main,SNX
+2016-03-23,Raymond James,Underperform,Market Perform,down,SNX
+2016-03-24,Cross Research,Hold,Buy,down,SNX
+2016-03-29,Citigroup,Buy,,main,SNX
+2016-05-18,Raymond James,Outperform,Underperform,up,SNX
+2016-06-08,Raymond James,Market Perform,Outperform,down,SNX
+2016-06-24,Brean Capital,Buy,,main,SNX
+2016-09-27,Citigroup,Neutral,,main,SNX
+2016-09-27,CLSA,Underperform,,main,SNX
+2017-04-12,Stifel Nicolaus,Buy,Hold,up,SNX
+2017-05-19,Raymond James,Strong Buy,Market Perform,up,SNX
+2017-08-25,Loop Capital,Buy,,init,SNX
+2017-09-26,Citigroup,Neutral,,main,SNX
+2017-10-06,Pivotal Research,Hold,,init,SNX
+2017-12-07,SunTrust Robinson Humphrey,Buy,,init,SNX
+2018-01-31,Pivotal Research,Buy,Hold,up,SNX
+2018-04-02,Stifel Nicolaus,Buy,Buy,main,SNX
+2018-06-29,Stifel Nicolaus,Buy,Buy,main,SNX
+2018-10-04,Stifel Nicolaus,Buy,Buy,main,SNX
+2019-01-11,Cross Research,Buy,Hold,up,SNX
+2019-01-28,Citigroup,Buy,Neutral,up,SNX
+2019-04-04,Barrington Research,Outperform,,init,SNX
+2019-09-06,Bank of America,Buy,,init,SNX
+2020-01-13,Citigroup,Buy,,main,SNX
+2020-03-25,Raymond James,Strong Buy,,main,SNX
+2020-06-26,Raymond James,Strong Buy,,main,SNX
+2020-09-30,Raymond James,Strong Buy,,main,SNX
+2020-09-30,Citigroup,Buy,,main,SNX
+2020-12-08,Stifel,Hold,Buy,down,SNX
+2021-01-12,Raymond James,Strong Buy,,main,SNX
+2021-03-23,Loop Capital,Buy,,main,SNX
+2021-05-24,Citigroup,Buy,,main,SNX
+2021-06-25,Raymond James,Strong Buy,,main,SNX
+2021-06-28,Barrington Research,Outperform,,main,SNX
+2021-09-29,Raymond James,Strong Buy,,main,SNX
+2021-10-05,Loop Capital,Buy,,main,SNX
+2021-12-16,Northcoast Research,Buy,,init,SNX

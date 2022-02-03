@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-09,Jefferies,Hold,,main,TGH
+2012-05-09,Dahlman Rose,Buy,,main,TGH
+2012-08-08,Deutsche Bank,Hold,,main,TGH
+2012-08-21,Nomura,Neutral,Buy,down,TGH
+2012-09-24,Bank of America,Neutral,,init,TGH
+2012-10-08,Jefferies,Hold,,main,TGH
+2012-11-07,Jefferies,Hold,,main,TGH
+2012-11-07,Deutsche Bank,Hold,,main,TGH
+2012-11-07,Nomura,Neutral,,main,TGH
+2013-02-13,Deutsche Bank,Hold,,main,TGH
+2013-02-13,Jefferies,Hold,,main,TGH
+2013-04-02,Keefe Bruyette & Woods,Market Perform,,init,TGH
+2013-07-10,Bank of America,Neutral,Buy,down,TGH
+2013-09-04,RBC Capital,Sector Perform,,init,TGH
+2013-10-29,Cowen & Co.,Market Perform,Outperform,down,TGH
+2013-11-06,Nomura,Neutral,,main,TGH
+2014-04-23,Deutsche Bank,Hold,,main,TGH
+2014-07-10,Macquarie,Neutral,,init,TGH
+2014-08-08,Macquarie,Neutral,,main,TGH
+2014-09-16,Deutsche Bank,Hold,,init,TGH
+2014-10-16,FBR Capital,Outperform,,main,TGH
+2014-11-05,Deutsche Bank,Hold,,main,TGH
+2015-01-06,FBR Capital,Market Perform,Overweight,down,TGH
+2015-02-19,Keefe Bruyette & Woods,Market Perform,,main,TGH
+2015-05-06,RBC Capital,Sector Perform,,main,TGH
+2015-05-06,Deutsche Bank,Hold,,main,TGH
+2015-07-09,SunTrust Robinson Humphrey,Buy,Neutral,up,TGH
+2015-08-05,Macquarie,Underperform,Neutral,down,TGH
+2015-08-05,Keefe Bruyette & Woods,Market Perform,,main,TGH
+2015-11-04,Macquarie,Neutral,Underperform,up,TGH
+2015-11-05,Deutsche Bank,Hold,,main,TGH
+2016-01-15,SunTrust Robinson Humphrey,Buy,,main,TGH
+2016-02-16,Keefe Bruyette & Woods,Market Perform,,main,TGH
+2017-01-23,Cowen & Co.,Outperform,,up,TGH
+2017-10-20,Wells Fargo,Market Perform,,main,TGH
+2017-11-14,Wells Fargo,Market Perform,,main,TGH
+2018-04-24,Compass Point,Neutral,,init,TGH
+2018-09-28,Wells Fargo,Underperform,Market Perform,down,TGH
+2019-11-05,Cowen & Co.,Market Perform,Outperform,down,TGH
+2020-10-19,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,TGH
+2020-12-09,B. Riley FBR,Buy,,init,TGH

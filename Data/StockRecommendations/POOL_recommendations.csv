@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Morgan Keegan,Outperform,,main,POOL
+2012-05-25,Wunderlich,Buy,,init,POOL
+2012-07-17,Wedbush,Neutral,,main,POOL
+2013-02-15,Wunderlich,Buy,,main,POOL
+2013-07-17,Wunderlich,Buy,,main,POOL
+2013-11-04,Stephens & Co.,Overweight,,init,POOL
+2014-02-14,Wunderlich,Buy,,main,POOL
+2014-11-19,KeyBanc,Hold,Buy,down,POOL
+2015-07-27,William Blair,Outperform,Market Perform,up,POOL
+2015-09-08,KeyBanc,Overweight,,up,POOL
+2015-10-12,Sidoti & Co.,Neutral,Buy,down,POOL
+2016-02-02,Stephens & Co.,Equal-Weight,,down,POOL
+2016-07-15,Johnson Rice,Accumulate,Buy,down,POOL
+2016-08-24,Wedbush,Outperform,,init,POOL
+2017-02-17,Baird,Outperform,Market Perform,up,POOL
+2017-07-24,Johnson Rice,Buy,Accumulate,up,POOL
+2017-08-25,KeyBanc,Sector Weight,Overweight,down,POOL
+2017-09-15,Sidoti & Co.,Buy,Neutral,up,POOL
+2017-10-20,Baird,Outperform,,main,POOL
+2018-06-20,Berenberg,Hold,,init,POOL
+2018-07-03,Baird,Neutral,Outperform,down,POOL
+2018-10-12,Jefferies,Hold,,init,POOL
+2018-10-19,Baird,Neutral,Neutral,main,POOL
+2019-02-22,Baird,Outperform,Neutral,up,POOL
+2019-08-23,Sidoti & Co.,Neutral,Buy,down,POOL
+2019-09-23,Stephens & Co.,Equal-Weight,,reit,POOL
+2019-10-18,Baird,Outperform,,main,POOL
+2020-01-07,Loop Capital,Hold,,init,POOL
+2020-02-18,Stephens & Co.,Equal-Weight,,main,POOL
+2020-03-18,KeyBanc,Overweight,Sector Weight,up,POOL
+2020-04-24,KeyBanc,Overweight,,main,POOL
+2020-04-27,Stephens & Co.,Equal-Weight,,main,POOL
+2020-05-19,KeyBanc,Overweight,,main,POOL
+2020-05-27,CFRA,Strong Buy,,main,POOL
+2020-06-02,KeyBanc,Overweight,,main,POOL
+2020-06-19,Baird,Outperform,,main,POOL
+2020-10-08,Sidoti & Co.,Neutral,,main,POOL
+2020-10-23,KeyBanc,Overweight,,main,POOL
+2021-04-20,Loop Capital,Hold,,main,POOL
+2021-05-18,Goldman Sachs,Buy,,init,POOL
+2021-06-04,Loop Capital,Buy,,main,POOL
+2021-06-08,Keybanc,Overweight,,main,POOL
+2021-10-22,Keybanc,Overweight,,main,POOL
+2021-10-22,Loop Capital,Hold,,main,POOL
+2021-10-25,Stephens & Co.,Equal-Weight,,main,POOL

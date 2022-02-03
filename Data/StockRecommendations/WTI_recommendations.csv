@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-27,Jefferies,Hold,,main,WTI
+2012-03-09,Global Hunter Securities,Buy,,up,WTI
+2012-05-10,Pritchard Capital Partners,Buy,,main,WTI
+2012-07-02,Barclays,Equal-Weight,,main,WTI
+2012-10-08,Jefferies,Hold,,main,WTI
+2012-11-06,Jefferies,Hold,,main,WTI
+2012-11-09,Barclays,Equal-Weight,,main,WTI
+2013-02-19,BMO Capital,Market Perform,,main,WTI
+2013-04-01,Jefferies,Hold,,main,WTI
+2013-06-06,SunTrust Robinson Humphrey,Buy,,init,WTI
+2013-07-26,Clarksons Platou,Outperform,,init,WTI
+2013-10-17,SunTrust Robinson Humphrey,Neutral,Buy,down,WTI
+2013-11-29,Capital One Financial,Neutral,Add,down,WTI
+2014-01-22,Capital One Financial,Equal-Weight,Underweight,up,WTI
+2014-01-30,Goldman Sachs,Neutral,,init,WTI
+2014-04-23,Barclays,Equal-Weight,,main,WTI
+2014-07-23,Barclays,Equal-Weight,,main,WTI
+2014-08-11,Barclays,Equal-Weight,,main,WTI
+2014-09-05,Capital One Financial,Overweight,Equal-Weight,up,WTI
+2014-09-25,KLR Group,Buy,Accumulate,up,WTI
+2014-10-09,Barclays,Equal-Weight,,main,WTI
+2014-12-02,Seaport Global,Neutral,Buy,down,WTI
+2014-12-16,Barclays,Equal-Weight,,main,WTI
+2015-03-06,SunTrust Robinson Humphrey,Neutral,,main,WTI
+2015-03-18,Capital One Financial,Equal-Weight,Overweight,down,WTI
+2015-06-03,Barclays,Equal-Weight,,main,WTI
+2015-09-08,Barclays,Equal-Weight,,main,WTI
+2016-01-13,Seaport Global,Neutral,Accumulate,down,WTI
+2016-01-19,Capital One Financial,Underweight,Equal-Weight,down,WTI
+2016-01-28,Barclays,Equal-Weight,,main,WTI
+2016-01-29,Barclays,Equal-Weight,,main,WTI
+2016-03-10,KLR Group,Hold,Buy,down,WTI
+2016-10-17,Barclays,Underweight,Equal-Weight,down,WTI
+2018-01-10,Capital One Financial,Underweight,Equal-Weight,down,WTI
+2018-03-12,Capital One Financial,Equal-Weight,Underweight,up,WTI
+2018-05-15,KLR Group,Sell,Hold,down,WTI
+2019-03-08,Stifel Nicolaus,Buy,,init,WTI
+2019-05-23,Capital One Financial,Equal-Weight,Underweight,up,WTI
+2020-04-17,Roth Capital,Buy,Neutral,up,WTI
+2021-07-26,Roth Capital,Buy,,main,WTI
+2021-10-20,Stifel,Buy,Hold,up,WTI

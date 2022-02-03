@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-02-16,BMO Capital,Outperform,Market Perform,up,OMF
+2016-02-26,Barclays,Overweight,,init,OMF
+2016-02-26,FBR Capital,Outperform,,main,OMF
+2016-09-12,JP Morgan,Overweight,,init,OMF
+2016-10-11,Wedbush,Outperform,,init,OMF
+2016-11-01,Stephens & Co.,Equal-Weight,,init,OMF
+2016-11-08,FBR Capital,Market Perform,Outperform,down,OMF
+2016-11-08,Janney Capital,Neutral,Buy,down,OMF
+2016-11-08,Bank of America,Underperform,Buy,down,OMF
+2016-11-08,Keefe Bruyette & Woods,Market Outperform,Outperform,down,OMF
+2016-11-08,Guggenheim,Neutral,Buy,down,OMF
+2016-11-09,Citigroup,Neutral,Buy,down,OMF
+2016-11-10,Barclays,Equal-Weight,Overweight,down,OMF
+2016-12-14,Deutsche Bank,Buy,,init,OMF
+2017-01-17,JP Morgan,Neutral,Overweight,down,OMF
+2017-02-14,Compass Point,Buy,Neutral,up,OMF
+2017-02-15,Wedbush,Outperform,Neutral,up,OMF
+2017-05-11,Bank of America,Buy,Underperform,up,OMF
+2017-07-18,DA Davidson,Buy,,init,OMF
+2017-08-04,Barclays,Equal-Weight,,main,OMF
+2017-08-23,Stephens & Co.,Overweight,Equal-Weight,up,OMF
+2017-10-13,Bank of America,Buy,,main,OMF
+2017-10-17,Citigroup,Buy,,init,OMF
+2017-11-03,Compass Point,Neutral,Buy,down,OMF
+2017-11-03,BMO Capital,Outperform,,main,OMF
+2018-01-04,Compass Point,Buy,Neutral,up,OMF
+2018-01-12,JP Morgan,Underweight,Neutral,down,OMF
+2018-03-01,Janney Capital,Buy,Neutral,up,OMF
+2018-03-28,UBS,Buy,,init,OMF
+2018-04-04,Wells Fargo,Outperform,,init,OMF
+2018-04-20,Citigroup,Buy,Neutral,up,OMF
+2018-08-01,BMO Capital,Outperform,Outperform,main,OMF
+2018-08-01,Barclays,Equal-Weight,Equal-Weight,main,OMF
+2019-01-16,JP Morgan,Neutral,Underweight,up,OMF
+2019-02-13,JMP Securities,Market Outperform,Market Outperform,main,OMF
+2019-02-13,BMO Capital,Outperform,Outperform,main,OMF
+2019-02-22,BTIG Research,Buy,,init,OMF
+2019-05-15,Wedbush,Neutral,Outperform,down,OMF
+2019-07-16,JP Morgan,Overweight,Neutral,up,OMF
+2019-07-30,Wedbush,Outperform,Neutral,up,OMF
+2019-07-31,Compass Point,Buy,,main,OMF
+2020-02-12,Stephens & Co.,Overweight,,main,OMF
+2020-03-20,RBC Capital,Outperform,,init,OMF
+2020-04-09,Piper Sandler,Overweight,,main,OMF
+2020-04-20,Credit Suisse,Outperform,,main,OMF
+2020-04-29,JMP Securities,Market Outperform,,main,OMF
+2020-04-29,BMO Capital,Outperform,,main,OMF
+2020-04-29,Piper Sandler,Overweight,,main,OMF
+2020-04-29,JP Morgan,Overweight,,main,OMF
+2020-04-29,Barclays,Equal-Weight,,main,OMF
+2020-05-04,Wedbush,Outperform,,main,OMF
+2020-05-20,Piper Sandler,Overweight,,main,OMF
+2020-06-22,UBS,Buy,,main,OMF
+2020-07-29,Barclays,Equal-Weight,,main,OMF
+2020-07-29,JP Morgan,Overweight,,main,OMF
+2020-07-30,Wedbush,Outperform,,main,OMF
+2020-10-07,Credit Suisse,Outperform,,main,OMF
+2020-10-28,JMP Securities,Market Outperform,,main,OMF
+2020-12-10,Barclays,Overweight,Equal-Weight,up,OMF
+2021-04-09,Credit Suisse,Outperform,,main,OMF
+2021-04-19,BMO Capital,Market Perform,Outperform,down,OMF
+2021-04-28,Credit Suisse,Outperform,,main,OMF
+2021-07-23,RBC Capital,Outperform,,main,OMF
+2021-07-23,Credit Suisse,Outperform,,main,OMF
+2021-07-23,Barclays,Overweight,,main,OMF
+2021-07-23,JMP Securities,Market Outperform,,main,OMF
+2021-10-08,Deutsche Bank,Buy,,init,OMF
+2021-10-22,Stephens & Co.,Overweight,,main,OMF
+2021-12-02,Seaport Global,Neutral,,init,OMF
+2021-12-16,JMP Securities,Market Outperform,,main,OMF
+2022-01-10,Barclays,Overweight,,main,OMF

@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-12-03,Oppenheimer,Outperform,,init,SCM
+2012-12-03,Stifel Nicolaus,,,init,SCM
+2012-12-03,Raymond James,Outperform,,init,SCM
+2012-12-04,Janney Capital,Neutral,,init,SCM
+2013-05-23,Janney Capital,Buy,Neutral,up,SCM
+2014-05-12,Oppenheimer,Outperform,,main,SCM
+2014-06-04,Baird,Neutral,Outperform,down,SCM
+2014-11-11,Keefe Bruyette & Woods,Market Perform,Outperform,down,SCM
+2015-03-11,Keefe Bruyette & Woods,Market Perform,,main,SCM
+2015-03-11,Raymond James,Outperform,,main,SCM
+2015-07-16,Stephens & Co.,Equal-Weight,,init,SCM
+2015-08-10,Keefe Bruyette & Woods,Outperform,,main,SCM
+2016-01-20,Baird,Outperform,Neutral,up,SCM
+2016-07-14,Baird,Neutral,Outperform,down,SCM
+2016-08-11,Raymond James,Market Perform,Outperform,down,SCM
+2017-02-02,Keefe Bruyette & Woods,Market Perform,,init,SCM
+2019-08-12,Oppenheimer,Perform,Outperform,down,SCM
+2020-05-06,National Securities,Neutral,,init,SCM
+2021-01-13,Raymond James,Outperform,,main,SCM
+2021-03-08,Raymond James,Outperform,,main,SCM
+2021-11-01,Raymond James,Outperform,,main,SCM
+2021-11-01,Oppenheimer,Outperform,Perform,up,SCM

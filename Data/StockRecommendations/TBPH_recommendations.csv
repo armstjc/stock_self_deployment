@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-06-06,Bank of America,Buy,,init,TBPH
+2014-08-14,Baird,Underperform,Neutral,down,TBPH
+2016-05-05,Bank of America,Neutral,Buy,down,TBPH
+2016-06-20,Guggenheim,Buy,,init,TBPH
+2016-08-03,Bank of America,Underperform,Neutral,down,TBPH
+2016-08-29,Evercore ISI Group,Buy,,init,TBPH
+2016-10-12,Baird,Underperform,Neutral,down,TBPH
+2016-11-03,PiperJaffray,Overweight,,init,TBPH
+2017-06-16,Cantor Fitzgerald,Overweight,,init,TBPH
+2017-08-17,Evercore ISI Group,Outperform,,init,TBPH
+2018-02-08,Leerink Swann,Outperform,,main,TBPH
+2019-10-29,HC Wainwright & Co.,Buy,,init,TBPH
+2019-11-06,Baird,Neutral,Underperform,up,TBPH
+2020-02-25,Piper Sandler,Overweight,,main,TBPH
+2020-02-25,HC Wainwright & Co.,Buy,,main,TBPH
+2020-05-13,Cowen & Co.,Outperform,,init,TBPH
+2020-06-15,Morgan Stanley,Equal-Weight,,init,TBPH
+2020-07-07,JP Morgan,Overweight,,init,TBPH
+2020-08-10,Morgan Stanley,Equal-Weight,,main,TBPH
+2020-08-10,Piper Sandler,Overweight,,main,TBPH
+2020-10-14,Morgan Stanley,Overweight,Equal-Weight,up,TBPH
+2020-11-06,SVB Leerink,Outperform,,main,TBPH
+2020-12-16,Morgan Stanley,Overweight,,main,TBPH
+2021-02-24,SVB Leerink,Outperform,,main,TBPH
+2021-03-01,Morgan Stanley,Overweight,,main,TBPH
+2021-04-01,SVB Leerink,Outperform,,main,TBPH
+2021-05-05,SVB Leerink,Outperform,,main,TBPH
+2021-05-05,Needham,Buy,,main,TBPH
+2021-05-13,Morgan Stanley,Overweight,,main,TBPH
+2021-06-28,SVB Leerink,Outperform,,main,TBPH
+2021-07-16,Morgan Stanley,Overweight,,main,TBPH
+2021-08-04,SVB Leerink,Outperform,,main,TBPH
+2021-08-24,Needham,Buy,,main,TBPH
+2021-08-24,SVB Leerink,Outperform,,main,TBPH
+2021-08-24,Cowen & Co.,Market Perform,Outperform,down,TBPH
+2021-08-24,HC Wainwright & Co.,Buy,,main,TBPH
+2021-08-25,Morgan Stanley,Underweight,Overweight,down,TBPH
+2021-09-16,SVB Leerink,Outperform,,main,TBPH
+2021-09-16,HC Wainwright & Co.,Buy,,main,TBPH
+2021-09-16,Morgan Stanley,Underweight,,main,TBPH
+2021-11-05,JP Morgan,Neutral,Underweight,up,TBPH

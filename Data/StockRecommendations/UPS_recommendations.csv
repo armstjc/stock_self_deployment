@@ -1,0 +1,208 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-19,JP Morgan,Overweight,,up,UPS
+2012-03-20,Stifel Nicolaus,Hold,,down,UPS
+2012-03-20,Citigroup,Buy,,main,UPS
+2012-04-16,Deutsche Bank,Buy,,main,UPS
+2012-04-27,Jefferies,Hold,,main,UPS
+2012-05-04,UBS,Neutral,,main,UPS
+2012-07-02,Deutsche Bank,Hold,Buy,down,UPS
+2012-07-24,Bank of America,Neutral,Buy,down,UPS
+2012-07-25,Barclays,Overweight,,main,UPS
+2012-07-25,Sterne Agee,Buy,,main,UPS
+2012-07-25,Jefferies,Hold,,main,UPS
+2012-07-25,Deutsche Bank,Hold,,main,UPS
+2012-07-25,JP Morgan,Overweight,,main,UPS
+2012-10-04,RBC Capital,Sector Perform,Outperform,down,UPS
+2012-10-22,Barclays,Equal-Weight,,main,UPS
+2012-10-22,Deutsche Bank,Hold,,main,UPS
+2012-10-24,Jefferies,Hold,,main,UPS
+2013-01-07,Barclays,Equal-Weight,,main,UPS
+2013-01-14,Deutsche Bank,Buy,Hold,up,UPS
+2013-01-14,Avondale Partners,Market Perform,Underperform,up,UPS
+2013-01-14,Bank of America,Neutral,,main,UPS
+2013-01-14,Deutsche Bank,Hold,,main,UPS
+2013-01-18,Credit Suisse,Outperform,,main,UPS
+2013-01-24,Bank of America,Buy,Neutral,up,UPS
+2013-02-01,Citigroup,Neutral,Buy,down,UPS
+2013-02-15,Bank of America,Buy,,main,UPS
+2013-03-01,Macquarie,Outperform,,init,UPS
+2013-03-05,Oppenheimer,Outperform,,init,UPS
+2013-03-28,Stephens & Co.,Equal-Weight,,init,UPS
+2013-04-10,Deutsche Bank,Buy,,main,UPS
+2013-04-18,RBC Capital,Outperform,Sector Perform,up,UPS
+2013-07-11,Buckingham Research,Buy,,init,UPS
+2013-07-15,BB&T Capital,Hold,Buy,down,UPS
+2013-07-15,Raymond James,Outperform,Strong Buy,down,UPS
+2013-07-15,JP Morgan,Neutral,Overweight,down,UPS
+2013-07-24,Jefferies,Hold,,main,UPS
+2013-09-16,Barclays,Overweight,Equal-Weight,up,UPS
+2013-10-28,Baird,Neutral,,main,UPS
+2013-11-25,Citigroup,Neutral,,main,UPS
+2013-12-16,Deutsche Bank,Buy,,main,UPS
+2013-12-19,Nomura,Neutral,,main,UPS
+2014-01-14,Susquehanna,Neutral,,init,UPS
+2014-01-31,JP Morgan,Neutral,,main,UPS
+2014-01-31,Credit Suisse,Outperform,,main,UPS
+2014-05-27,Macquarie,Outperform,,main,UPS
+2014-06-16,Credit Suisse,Outperform,,main,UPS
+2014-06-30,Barclays,Overweight,,main,UPS
+2014-07-21,Barclays,Overweight,,main,UPS
+2014-07-30,Deutsche Bank,Buy,,main,UPS
+2014-07-30,Credit Suisse,Outperform,,main,UPS
+2014-07-30,Citigroup,Neutral,,main,UPS
+2014-07-30,Barclays,Overweight,,main,UPS
+2014-10-14,Deutsche Bank,Buy,,main,UPS
+2014-10-27,Credit Suisse,Outperform,,main,UPS
+2014-11-11,Bank of America,Buy,,main,UPS
+2014-12-11,UBS,Neutral,,init,UPS
+2014-12-15,Deutsche Bank,Hold,Buy,down,UPS
+2015-01-23,Raymond James,Market Perform,Outperform,down,UPS
+2015-01-23,Bank of America,Neutral,Buy,down,UPS
+2015-01-26,Deutsche Bank,Hold,,main,UPS
+2015-01-26,Macquarie,Neutral,,down,UPS
+2015-01-26,Barclays,Equal-weight,Overweight,down,UPS
+2015-04-29,Bank of America,Buy,Neutral,up,UPS
+2015-05-15,Goldman Sachs,Neutral,Buy,up,UPS
+2015-10-28,Macquarie,Neutral,,main,UPS
+2016-01-11,Deutsche Bank,Hold,,main,UPS
+2016-02-03,Oppenheimer,Outperform,,main,UPS
+2016-04-29,Citigroup,Neutral,,main,UPS
+2016-08-01,Morgan Stanley,Underweight,,main,UPS
+2016-08-02,Argus,Buy,,main,UPS
+2016-09-12,Barclays,Equal-Weight,,main,UPS
+2016-11-18,BMO Capital,Outperform,,init,UPS
+2016-12-13,JP Morgan,Neutral,,init,UPS
+2016-12-20,Loop Capital,Hold,,init,UPS
+2016-12-23,Aegis Capital,Neutral,,init,UPS
+2017-02-01,BMO Capital,Market Perform,Outperform,down,UPS
+2017-02-08,Aegis Capital,Buy,Hold,up,UPS
+2017-02-22,Bank of America,Neutral,Buy,down,UPS
+2017-08-08,Citigroup,Buy,Neutral,up,UPS
+2017-10-12,JP Morgan,Neutral,,main,UPS
+2017-10-27,Stifel Nicolaus,Hold,,main,UPS
+2017-10-27,UBS,Neutral,,main,UPS
+2017-10-27,Loop Capital,Hold,,main,UPS
+2017-10-27,BMO Capital,Market Perform,,main,UPS
+2017-11-13,Goldman Sachs,Buy,,init,UPS
+2017-12-04,Deutsche Bank,Buy,Hold,up,UPS
+2018-02-02,Morgan Stanley,Underweight,Underweight,main,UPS
+2018-02-16,Edward Jones,Buy,Hold,up,UPS
+2018-02-23,Deutsche Bank,Hold,Buy,down,UPS
+2018-02-26,Loop Capital,Buy,Hold,up,UPS
+2018-03-06,Stifel Nicolaus,Buy,Hold,up,UPS
+2018-03-07,Loop Capital,Buy,Buy,main,UPS
+2018-05-14,Bank of America,Buy,Neutral,up,UPS
+2018-07-16,UBS,Buy,Neutral,up,UPS
+2018-07-26,Credit Suisse,Neutral,Neutral,main,UPS
+2018-07-26,Morgan Stanley,Underweight,Underweight,main,UPS
+2018-09-04,Raymond James,Strong Buy,Market Perform,up,UPS
+2018-09-21,Berenberg,Hold,,init,UPS
+2018-09-27,KeyBanc,Sector Weight,,init,UPS
+2018-10-01,BMO Capital,Outperform,Market Perform,up,UPS
+2018-10-09,Morgan Stanley,Underweight,Underweight,main,UPS
+2018-10-25,Baird,Neutral,Neutral,main,UPS
+2018-10-25,Credit Suisse,Neutral,Neutral,main,UPS
+2018-10-25,Raymond James,Strong Buy,Strong Buy,main,UPS
+2018-10-25,UBS,Buy,Buy,main,UPS
+2018-10-25,Bank of America,Neutral,Buy,down,UPS
+2018-10-25,Citigroup,Buy,Buy,main,UPS
+2018-11-02,Citigroup,Neutral,Buy,down,UPS
+2018-12-04,Morgan Stanley,Underweight,Underweight,main,UPS
+2018-12-26,Standpoint Research,Buy,,init,UPS
+2019-04-01,Berenberg,Buy,Hold,up,UPS
+2019-04-26,Raymond James,Strong Buy,Strong Buy,main,UPS
+2019-05-31,UBS,Buy,,main,UPS
+2019-07-10,Goldman Sachs,Buy,,init,UPS
+2019-07-25,Raymond James,Strong Buy,,main,UPS
+2019-07-25,Credit Suisse,Neutral,,main,UPS
+2019-07-25,Bank of America,Buy,Neutral,up,UPS
+2019-07-29,Stifel Nicolaus,Hold,Buy,down,UPS
+2019-09-09,Bank of America,Buy,,reit,UPS
+2019-10-23,UBS,Buy,,main,UPS
+2019-10-23,Credit Suisse,Neutral,,main,UPS
+2019-10-29,Wells Fargo,Outperform,,init,UPS
+2019-12-11,BMO Capital,Market Perform,Outperform,down,UPS
+2019-12-12,Morgan Stanley,Underweight,,main,UPS
+2020-01-28,UBS,Buy,,main,UPS
+2020-01-30,CFRA,Strong Buy,,main,UPS
+2020-01-31,UBS,Buy,,main,UPS
+2020-01-31,Raymond James,Strong Buy,,main,UPS
+2020-01-31,Credit Suisse,Neutral,,main,UPS
+2020-01-31,Wells Fargo,Overweight,,main,UPS
+2020-03-03,Deutsche Bank,Buy,Hold,up,UPS
+2020-03-10,Stifel,Buy,Hold,up,UPS
+2020-03-16,UBS,Buy,,main,UPS
+2020-03-23,Morgan Stanley,Underweight,,main,UPS
+2020-03-27,Berenberg,Hold,Buy,down,UPS
+2020-04-08,Morgan Stanley,Underweight,,main,UPS
+2020-04-08,Wells Fargo,Overweight,,main,UPS
+2020-04-09,JP Morgan,Neutral,,main,UPS
+2020-04-09,Citigroup,Neutral,,main,UPS
+2020-04-09,UBS,Neutral,Buy,down,UPS
+2020-04-17,Barclays,Underweight,Equal-Weight,down,UPS
+2020-04-24,Oppenheimer,Outperform,,main,UPS
+2020-04-27,BMO Capital,Market Perform,,main,UPS
+2020-04-29,Citigroup,Neutral,,main,UPS
+2020-04-29,Stifel,Buy,,main,UPS
+2020-04-29,JP Morgan,Neutral,,main,UPS
+2020-04-29,Morgan Stanley,Underweight,,main,UPS
+2020-04-29,Credit Suisse,Neutral,,main,UPS
+2020-04-29,BMO Capital,Underperform,Market Perform,down,UPS
+2020-06-15,Citigroup,Neutral,,main,UPS
+2020-07-09,UBS,Neutral,,main,UPS
+2020-07-10,Credit Suisse,Neutral,,main,UPS
+2020-07-27,Citigroup,Neutral,,main,UPS
+2020-07-31,Morgan Stanley,Underweight,,main,UPS
+2020-07-31,Credit Suisse,Neutral,,main,UPS
+2020-07-31,UBS,Neutral,,main,UPS
+2020-07-31,Raymond James,Strong Buy,,main,UPS
+2020-08-10,UBS,Neutral,,main,UPS
+2020-09-03,Berenberg,Sell,Hold,down,UPS
+2020-09-21,Credit Suisse,Outperform,Neutral,up,UPS
+2020-09-23,B of A Securities,Buy,,main,UPS
+2020-09-28,KeyBanc,Overweight,Sector Weight,up,UPS
+2020-09-29,Raymond James,Strong Buy,,main,UPS
+2020-10-05,Morgan Stanley,Underweight,,main,UPS
+2020-10-14,Citigroup,Buy,,main,UPS
+2020-10-27,UBS,Buy,Neutral,up,UPS
+2020-10-29,KeyBanc,Overweight,,main,UPS
+2020-10-29,Morgan Stanley,Underweight,,main,UPS
+2020-10-29,Wells Fargo,Overweight,,main,UPS
+2020-10-29,BMO Capital,Underperform,,main,UPS
+2020-10-29,UBS,Buy,,main,UPS
+2020-10-29,Deutsche Bank,Buy,,main,UPS
+2021-02-03,Wells Fargo,Overweight,,main,UPS
+2021-02-03,Morgan Stanley,Underweight,,main,UPS
+2021-02-03,Credit Suisse,Outperform,,main,UPS
+2021-02-04,Deutsche Bank,Buy,,main,UPS
+2021-03-26,Vertical Research,Buy,,init,UPS
+2021-04-15,Citigroup,Neutral,,main,UPS
+2021-04-15,Raymond James,Strong Buy,,main,UPS
+2021-04-15,Barclays,Equal-Weight,Underweight,up,UPS
+2021-04-27,Berenberg,Hold,Sell,up,UPS
+2021-04-28,Keybanc,Overweight,,main,UPS
+2021-04-28,Raymond James,Strong Buy,,main,UPS
+2021-04-28,BMO Capital,Market Perform,Underperform,up,UPS
+2021-04-28,Credit Suisse,Outperform,,main,UPS
+2021-04-28,Morgan Stanley,Underweight,,main,UPS
+2021-04-28,Oppenheimer,Outperform,,main,UPS
+2021-05-03,Wolfe Research,Outperform,Peer Perform,up,UPS
+2021-05-26,Keybanc,Overweight,,main,UPS
+2021-06-01,Citigroup,Neutral,,main,UPS
+2021-06-04,Raymond James,Strong Buy,,main,UPS
+2021-06-08,Barclays,Equal-Weight,,main,UPS
+2021-06-10,Deutsche Bank,Buy,,main,UPS
+2021-06-10,JP Morgan,Overweight,Neutral,up,UPS
+2021-06-10,Stephens & Co.,Equal-Weight,,main,UPS
+2021-06-10,Morgan Stanley,Underweight,,main,UPS
+2021-06-10,Oppenheimer,Outperform,,main,UPS
+2021-07-28,Credit Suisse,Outperform,,main,UPS
+2021-09-28,Evercore ISI Group,Outperform,,init,UPS
+2021-10-14,Stifel,Buy,Hold,up,UPS
+2021-10-27,Morgan Stanley,Underweight,,main,UPS
+2021-10-27,Loop Capital,Hold,Buy,down,UPS
+2021-10-27,Stifel,Buy,,main,UPS
+2021-10-27,Raymond James,Strong Buy,,main,UPS
+2021-10-27,Keybanc,Overweight,,main,UPS
+2021-11-29,Deutsche Bank,Hold,Buy,down,UPS
+2021-12-15,Citigroup,Buy,Neutral,up,UPS

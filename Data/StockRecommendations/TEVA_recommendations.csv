@@ -1,0 +1,199 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-12,Clal Finance,Market Perform,,main,TEVA
+2012-05-10,Needham,Hold,,down,TEVA
+2012-05-24,Bank of America,Buy,,main,TEVA
+2012-05-25,UBS,Buy,,main,TEVA
+2012-05-25,Citigroup,Buy,,main,TEVA
+2012-05-29,Morgan Stanley,Equal-Weight,,main,TEVA
+2012-06-25,Goldman Sachs,Neutral,,main,TEVA
+2012-10-16,Canaccord Genuity,Buy,,main,TEVA
+2012-11-30,Buckingham Research,Neutral,Buy,down,TEVA
+2012-12-03,UBS,Neutral,Buy,down,TEVA
+2012-12-12,Leerink Swann,Market Perform,Outperform,down,TEVA
+2012-12-13,Bank of America,Buy,,main,TEVA
+2013-02-25,Argus,Hold,Buy,down,TEVA
+2013-03-18,Wells Fargo,Market Perform,Outperform,down,TEVA
+2013-05-10,BMO Capital,Outperform,,init,TEVA
+2013-06-19,Maxim Group,Buy,,init,TEVA
+2013-07-30,Goldman Sachs,Sell,Neutral,down,TEVA
+2013-07-31,Morgan Stanley,Equal-Weight,,main,TEVA
+2013-08-05,Morgan Stanley,Underweight,Equal-Weight,down,TEVA
+2013-09-13,JP Morgan,Neutral,Overweight,down,TEVA
+2013-10-25,Citigroup,Buy,,init,TEVA
+2013-10-31,BMO Capital,Outperform,,main,TEVA
+2013-10-31,Barclays,Market Weight,,down,TEVA
+2013-11-04,JP Morgan,Underweight,Neutral,down,TEVA
+2013-11-20,Susquehanna,Positive,Neutral,up,TEVA
+2014-01-06,RBC Capital,Sector Perform,,init,TEVA
+2014-01-28,Citigroup,Buy,,main,TEVA
+2014-03-03,Citigroup,Buy,,main,TEVA
+2014-03-06,Leerink Swann,Outperform,Market Perform,up,TEVA
+2014-03-07,Barclays,Overweight,Equal-Weight,up,TEVA
+2014-03-14,JP Morgan,Neutral,Underweight,up,TEVA
+2014-03-14,Morgan Stanley,Equal-weight,Underweight,up,TEVA
+2014-03-19,Goldman Sachs,Neutral,Sell,up,TEVA
+2014-03-28,Citigroup,Buy,,main,TEVA
+2014-03-31,UBS,Neutral,,main,TEVA
+2014-04-01,Citigroup,Buy,,main,TEVA
+2014-04-04,JP Morgan,Neutral,,main,TEVA
+2014-04-07,National Alliance,Buy,,init,TEVA
+2014-04-16,Sterne Agee,Neutral,,init,TEVA
+2014-06-06,Argus,Buy,Hold,up,TEVA
+2014-06-10,JP Morgan,Neutral,,main,TEVA
+2014-06-11,Wells Fargo,Market Perform,,init,TEVA
+2014-07-24,Barclays,Overweight,,main,TEVA
+2014-07-28,JP Morgan,Neutral,,main,TEVA
+2014-08-04,UBS,Neutral,,main,TEVA
+2014-10-02,Standpoint,Hold,Buy,down,TEVA
+2014-10-14,Standpoint,Buy,Hold,up,TEVA
+2014-10-31,Morgan Stanley,Equal-Weight,,main,TEVA
+2014-11-03,RBC Capital,Outperform,Sector Perform,up,TEVA
+2014-11-04,Canaccord Genuity,Hold,,main,TEVA
+2014-12-08,Bank of America,Buy,,main,TEVA
+2014-12-12,Sterne Agee,Buy,Neutral,up,TEVA
+2014-12-12,Deutsche Bank,Buy,,main,TEVA
+2015-01-20,Jefferies,Buy,,main,TEVA
+2015-03-10,Leerink Swann,Outperform,,main,TEVA
+2015-03-17,JP Morgan,Neutral,,main,TEVA
+2015-03-31,CRT Capital,Buy,,main,TEVA
+2015-03-31,Canaccord Genuity,Hold,,main,TEVA
+2015-03-31,Oppenheimer,Outperform,Perform,up,TEVA
+2015-04-08,Leerink Swann,Outperform,,main,TEVA
+2015-04-08,Standpoint Research,Hold,Buy,down,TEVA
+2015-04-09,Barclays,Overweight,,main,TEVA
+2015-04-13,Deutsche Bank,Buy,,main,TEVA
+2015-04-21,BMO Capital,Market Perform,Outperform,down,TEVA
+2015-04-22,Argus,Buy,,main,TEVA
+2015-04-29,Standpoint Research,Buy,Hold,up,TEVA
+2015-06-03,Raymond James,Market Perform,,init,TEVA
+2015-07-07,BTIG Research,Buy,,init,TEVA
+2015-07-27,Standpoint Research,Buy,,main,TEVA
+2015-07-28,BMO Capital,Outperform,Market Perform,up,TEVA
+2015-07-31,Leerink Swann,Outperform,,main,TEVA
+2015-08-03,JP Morgan,Overweight,Neutral,up,TEVA
+2015-09-29,Nomura,Neutral,,init,TEVA
+2015-11-23,Goldman Sachs,Buy,Neutral,up,TEVA
+2015-12-04,Guggenheim,Buy,Neutral,up,TEVA
+2015-12-07,Mizuho,Buy,,init,TEVA
+2016-01-14,Deutsche Bank,Buy,,main,TEVA
+2016-02-12,Deutsche Bank,Buy,,main,TEVA
+2016-02-19,Wells Fargo,Outperform,,init,TEVA
+2016-05-03,Morgan Stanley,Overweight,,main,TEVA
+2016-05-04,Credit Suisse,Neutral,,init,TEVA
+2016-07-14,Oppenheimer,Outperform,,main,TEVA
+2016-07-14,Jefferies,Buy,,main,TEVA
+2016-07-18,HSBC,Buy,Hold,up,TEVA
+2016-08-24,BTIG Research,Buy,,main,TEVA
+2016-08-31,Leerink Swann,Outperform,,main,TEVA
+2016-09-02,Oppenheimer,Outperform,Perform,up,TEVA
+2016-09-29,OTR Global,Positive,,init,TEVA
+2016-10-24,Mizuho,Neutral,Buy,down,TEVA
+2016-10-31,Credit Suisse,Outperform,Neutral,up,TEVA
+2016-11-04,HSBC,Hold,Buy,down,TEVA
+2016-11-07,Bank of America,Neutral,Buy,down,TEVA
+2016-11-14,Barclays,Equal-Weight,,init,TEVA
+2016-11-16,BTIG Research,Neutral,Buy,down,TEVA
+2016-11-16,Morgan Stanley,Equal-Weight,Overweight,down,TEVA
+2016-11-16,Jefferies,Hold,Buy,down,TEVA
+2017-01-20,JP Morgan,Neutral,Overweight,down,TEVA
+2017-01-31,Bank of America,Buy,Neutral,up,TEVA
+2017-02-10,Mizuho,Underperform,Neutral,down,TEVA
+2017-02-28,Argus,Hold,,down,TEVA
+2017-06-15,Cantor Fitzgerald,Neutral,Hold,init,TEVA
+2017-06-15,Mizuho,Neutral,Underperform,up,TEVA
+2017-06-16,Mizuho,Neutral,Underperform,up,TEVA
+2017-08-03,Oppenheimer,Perform,Outperform,down,TEVA
+2017-08-04,Credit Suisse,Neutral,Outperform,down,TEVA
+2017-08-04,RBC Capital,Underperform,Outperform,down,TEVA
+2017-08-04,Cowen & Co.,Market Perform,Outperform,down,TEVA
+2017-08-04,Bernstein,Market Perform,Outperform,down,TEVA
+2017-08-07,Barclays,Equal-Weight,,main,TEVA
+2017-08-07,Morgan Stanley,Underweight,Equal-Weight,down,TEVA
+2017-08-16,Citigroup,Neutral,Buy,down,TEVA
+2017-08-24,Credit Suisse,Underperform,Neutral,down,TEVA
+2017-09-06,JMP Securities,Underperform,,main,TEVA
+2017-09-11,BTIG Research,Buy,Neutral,up,TEVA
+2017-10-04,Barclays,Equal-Weight,,main,TEVA
+2017-10-05,Morgan Stanley,Underweight,,main,TEVA
+2017-10-20,Barclays,Equal-Weight,,main,TEVA
+2017-11-03,Morgan Stanley,Underweight,,main,TEVA
+2017-11-03,Deutsche Bank,Hold,Buy,down,TEVA
+2017-11-06,Credit Suisse,Underperform,,main,TEVA
+2017-11-13,Citigroup,Neutral,,main,TEVA
+2017-11-13,JP Morgan,Underweight,Neutral,down,TEVA
+2017-12-12,Guggenheim,Neutral,,init,TEVA
+2017-12-15,Goldman Sachs,Buy,Neutral,up,TEVA
+2017-12-15,Morgan Stanley,Equal-Weight,Underweight,up,TEVA
+2017-12-15,Credit Suisse,Neutral,Underperform,up,TEVA
+2018-01-02,Leerink Swann,Underweight,,init,TEVA
+2018-01-04,Citigroup,Buy,Neutral,up,TEVA
+2018-01-05,Wells Fargo,Underperform,Market Perform,down,TEVA
+2018-01-09,Mizuho,Buy,Neutral,up,TEVA
+2018-01-18,BTIG Research,Neutral,Buy,down,TEVA
+2018-02-09,Bank of America,Underperform,Underperform,main,TEVA
+2018-02-09,Leerink Swann,Underperform,Underweight,main,TEVA
+2018-02-09,Deutsche Bank,Hold,Hold,main,TEVA
+2018-02-09,PiperJaffray,Underweight,Neutral,down,TEVA
+2018-02-12,Credit Suisse,Outperform,Neutral,up,TEVA
+2018-02-12,Credit Suisse,Outperform,Outperform,main,TEVA
+2018-05-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,TEVA
+2018-05-24,Barclays,Equal-Weight,Equal-Weight,main,TEVA
+2018-05-31,Citigroup,Buy,Buy,main,TEVA
+2018-06-18,Wells Fargo,Market Perform,Underperform,up,TEVA
+2018-07-16,Cantor Fitzgerald,Neutral,Neutral,main,TEVA
+2018-08-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,TEVA
+2018-08-06,Barclays,Equal-Weight,Equal-Weight,main,TEVA
+2018-09-07,Credit Suisse,Neutral,Outperform,down,TEVA
+2018-09-17,Mizuho,Buy,Buy,main,TEVA
+2018-09-17,Credit Suisse,Neutral,Neutral,main,TEVA
+2018-09-17,BTIG Research,Neutral,Sell,up,TEVA
+2018-10-01,Leerink Swann,Market Perform,Underperform,up,TEVA
+2018-10-01,Goldman Sachs,Buy,Buy,main,TEVA
+2018-11-02,Bank of America,Underperform,Underperform,main,TEVA
+2018-11-05,Morgan Stanley,Overweight,Equal-Weight,up,TEVA
+2019-01-03,Bank of America,Buy,Underperform,up,TEVA
+2019-01-23,PiperJaffray,Neutral,Underweight,up,TEVA
+2019-02-14,Credit Suisse,Neutral,Neutral,main,TEVA
+2019-02-14,Raymond James,Outperform,Market Perform,up,TEVA
+2019-03-06,Morgan Stanley,Equal-Weight,Overweight,down,TEVA
+2019-03-20,SunTrust Robinson Humphrey,Hold,,init,TEVA
+2019-03-28,BMO Capital,Market Perform,,init,TEVA
+2019-04-03,Wells Fargo,Market Perform,Market Perform,main,TEVA
+2019-04-11,Citigroup,Buy,Buy,main,TEVA
+2019-05-09,Wells Fargo,Market Perform,,main,TEVA
+2019-05-28,UBS,Neutral,Buy,down,TEVA
+2019-05-30,Bank of America,Underperform,Buy,down,TEVA
+2019-06-03,Oppenheimer,Outperform,Perform,up,TEVA
+2019-06-11,Barclays,Underweight,,init,TEVA
+2019-07-15,Morgan Stanley,Underweight,Equal-Weight,down,TEVA
+2019-08-09,BMO Capital,Market Perform,,main,TEVA
+2019-09-06,JP Morgan,Underweight,,main,TEVA
+2019-09-12,Guggenheim,Neutral,,init,TEVA
+2019-09-30,Wells Fargo,Market Perform,,main,TEVA
+2019-10-17,Gabelli & Co.,Buy,Hold,up,TEVA
+2019-11-08,PiperJaffray,Neutral,,main,TEVA
+2019-11-12,JP Morgan,Neutral,Underweight,up,TEVA
+2020-01-22,Wells Fargo,Equal-Weight,,main,TEVA
+2020-02-12,CFRA,Hold,,main,TEVA
+2020-02-12,Cantor Fitzgerald,Neutral,,main,TEVA
+2020-02-13,B of A Securities,Underperform,,main,TEVA
+2020-02-13,SunTrust Robinson Humphrey,Hold,,main,TEVA
+2020-02-13,Oppenheimer,Outperform,,main,TEVA
+2020-02-14,Morgan Stanley,Underweight,,main,TEVA
+2020-02-18,Argus Research,Buy,,main,TEVA
+2020-03-05,Wells Fargo,Equal-Weight,,main,TEVA
+2020-03-23,B of A Securities,Underperform,,main,TEVA
+2020-04-02,Morgan Stanley,Underweight,,main,TEVA
+2020-04-06,UBS,Buy,Neutral,up,TEVA
+2020-04-15,Piper Sandler,Neutral,,main,TEVA
+2020-05-11,UBS,Buy,,main,TEVA
+2020-06-01,SunTrust Robinson Humphrey,Buy,Hold,up,TEVA
+2020-07-27,Goldman Sachs,Neutral,,init,TEVA
+2020-08-06,Barclays,Equal-Weight,Underweight,up,TEVA
+2020-08-06,SVB Leerink,Market Perform,,main,TEVA
+2020-11-06,BMO Capital,Market Perform,,main,TEVA
+2020-11-25,Oppenheimer,Perform,,init,TEVA
+2021-05-04,UBS,Neutral,Buy,down,TEVA
+2021-07-29,Raymond James,Outperform,,main,TEVA
+2021-07-29,Wells Fargo,Equal-Weight,,main,TEVA
+2021-10-28,Raymond James,Market Perform,Outperform,down,TEVA

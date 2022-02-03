@@ -1,0 +1,190 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-02,Bank oferica,Buy,,main,TRIP
+2012-07-25,Morgan Stanley,Underweight,,main,TRIP
+2012-07-25,Bank of America,Buy,,main,TRIP
+2012-08-24,Citigroup,Buy,Neutral,up,TRIP
+2012-09-04,Jefferies,Hold,,init,TRIP
+2012-09-21,Deutsche Bank,Hold,,init,TRIP
+2012-09-27,RBC Capital,Sector Perform,Outperform,down,TRIP
+2012-10-04,Needham,Buy,,init,TRIP
+2012-11-02,Deutsche Bank,Hold,,main,TRIP
+2012-11-07,Stifel Nicolaus,Buy,,init,TRIP
+2012-11-12,Morgan Stanley,Overweight,Underweight,up,TRIP
+2012-12-10,Deutsche Bank,Buy,Hold,up,TRIP
+2012-12-12,Janney Capital,Buy,,init,TRIP
+2012-12-21,Cowen & Co.,Neutral,,init,TRIP
+2013-01-02,Stifel Nicolaus,Buy,,main,TRIP
+2013-01-03,Bank of America,Buy,,main,TRIP
+2013-01-07,JG Capital,Overweight,,init,TRIP
+2013-01-15,Morgan Stanley,Overweight,,main,TRIP
+2013-01-25,Nomura,Neutral,,main,TRIP
+2013-02-14,Monness Crespi Hardt,Buy,Neutral,up,TRIP
+2013-02-14,Morgan Stanley,Equal-Weight,Overweight,down,TRIP
+2013-03-06,Deutsche Bank,Buy,,main,TRIP
+2013-03-18,Bank of America,Buy,,main,TRIP
+2013-03-21,Evercore Partners,Underperform,,init,TRIP
+2013-03-26,Stifel Nicolaus,Buy,,main,TRIP
+2013-04-18,Deutsche Bank,Buy,,main,TRIP
+2013-05-06,Monness Crespi Hardt,Buy,,main,TRIP
+2013-05-20,Deutsche Bank,Buy,,main,TRIP
+2013-06-03,Stifel Nicolaus,Hold,Buy,down,TRIP
+2013-06-13,Wunderlich,Buy,,init,TRIP
+2013-07-18,Ascendiant Capital,,,init,TRIP
+2013-07-25,Monness Crespi Hardt,Buy,,main,TRIP
+2013-09-23,Stifel Nicolaus,Buy,Hold,up,TRIP
+2013-10-22,Credit Suisse,Outperform,,init,TRIP
+2013-10-23,FBR Capital,Market Perform,,init,TRIP
+2013-10-24,Stifel Nicolaus,Buy,,main,TRIP
+2013-10-24,Deutsche Bank,Buy,,main,TRIP
+2013-11-05,Monness Crespi Hardt,Buy,,main,TRIP
+2013-11-07,Cantor Fitzgerald,Hold,,init,TRIP
+2013-12-16,Janney Capital,Sell,,init,TRIP
+2014-01-14,Wunderlich,Hold,Buy,down,TRIP
+2014-01-15,Nomura,Buy,,init,TRIP
+2014-02-12,RBC Capital,Outperform,Sector Perform,up,TRIP
+2014-02-12,Wunderlich,Hold,,main,TRIP
+2014-02-28,Susquehanna,Neutral,Negative,up,TRIP
+2014-04-15,Credit Suisse,Outperform,,main,TRIP
+2014-05-07,Cantor Fitzgerald,Buy,Hold,up,TRIP
+2014-05-07,Stifel Nicolaus,Buy,,main,TRIP
+2014-05-07,JP Morgan,Neutral,,main,TRIP
+2014-06-02,Pacific Crest,Outperform,Sector Perform,up,TRIP
+2014-06-06,SunTrust Robinson Humphrey,Neutral,,init,TRIP
+2014-07-14,Nomura,Neutral,Buy,down,TRIP
+2014-07-14,Credit Suisse,Outperform,,main,TRIP
+2014-07-24,UBS,Neutral,,main,TRIP
+2014-07-24,Macquarie,Outperform,,main,TRIP
+2014-07-24,Credit Suisse,Outperform,,main,TRIP
+2014-07-24,Cantor Fitzgerald,Hold,Buy,down,TRIP
+2014-08-25,Wunderlich,Hold,,main,TRIP
+2014-09-04,BMO Capital,Fair Value,,init,TRIP
+2014-09-05,Evercore Partners,Equal-weight,Underweight,up,TRIP
+2014-10-10,Susquehanna,Neutral,,main,TRIP
+2014-10-21,Oppenheimer,Outperform,,init,TRIP
+2014-10-30,Deutsche Bank,Buy,,main,TRIP
+2014-11-05,Wunderlich,Hold,,main,TRIP
+2014-11-05,Stifel Nicolaus,Buy,,main,TRIP
+2014-11-05,Nomura,Neutral,,main,TRIP
+2014-11-05,FBR Capital,Market Perform,,main,TRIP
+2014-11-05,Deutsche Bank,Buy,,main,TRIP
+2014-11-05,Jefferies,Hold,,main,TRIP
+2014-11-05,Pacific Crest,Sector Perform,Outperform,down,TRIP
+2014-11-14,Cantor Fitzgerald,Hold,,main,TRIP
+2014-11-24,Credit Suisse,Outperform,,init,TRIP
+2014-12-17,Buckingham Research,Neutral,,init,TRIP
+2015-01-08,Stifel Nicolaus,,Buy,down,TRIP
+2015-01-23,Deutsche Bank,Buy,,main,TRIP
+2015-02-12,Deutsche Bank,Buy,,main,TRIP
+2015-02-12,CRT Capital,Fair Value,,main,TRIP
+2015-04-06,Needham,Hold,Buy,down,TRIP
+2015-05-05,RBC Capital,Sector Perform,Outperform,down,TRIP
+2015-05-07,Jefferies,Hold,,main,TRIP
+2015-05-07,Deutsche Bank,Buy,,main,TRIP
+2015-05-19,Guggenheim,Buy,,init,TRIP
+2015-06-03,Barclays,Underweight,,init,TRIP
+2015-07-06,Barclays,Equal-Weight,Underweight,up,TRIP
+2015-07-20,Ascendiant Capital,Buy,,main,TRIP
+2015-10-27,Macquarie,Neutral,Outperform,down,TRIP
+2015-11-06,Deutsche Bank,Buy,,main,TRIP
+2015-11-06,Oppenheimer,Perform,Outperform,down,TRIP
+2015-11-06,Canaccord Genuity,Perform,Outperform,down,TRIP
+2015-11-06,Guggenheim,Neutral,Buy,down,TRIP
+2016-01-20,SunTrust Robinson Humphrey,Neutral,,main,TRIP
+2016-01-27,Goldman Sachs,Sell,Neutral,down,TRIP
+2016-01-28,Raymond James,Underperform,Market Perform,down,TRIP
+2016-02-12,SunTrust Robinson Humphrey,Neutral,,main,TRIP
+2016-02-12,Credit Suisse,Outperform,,main,TRIP
+2016-02-22,Stifel Nicolaus,Sell,Hold,down,TRIP
+2016-03-08,Moffett Nathanson,Neutral,,init,TRIP
+2016-04-12,JP Morgan,Neutral,,main,TRIP
+2016-07-28,Raymond James,Market Perform,Underperform,up,TRIP
+2016-08-05,Deutsche Bank,Hold,Buy,down,TRIP
+2016-08-05,Jefferies,Hold,,main,TRIP
+2016-10-19,Susquehanna,Neutral,,init,TRIP
+2016-12-05,Stifel Nicolaus,Hold,Sell,up,TRIP
+2016-12-08,CLSA,Underperform,,init,TRIP
+2017-01-10,Citigroup,Neutral,,init,TRIP
+2017-02-22,Cowen & Co.,Underperform,Market Perform,down,TRIP
+2017-02-28,Needham,Underperform,Hold,down,TRIP
+2017-03-02,PiperJaffray,Neutral,Overweight,down,TRIP
+2017-06-19,Credit Suisse,Underperform,Neutral,down,TRIP
+2017-07-19,Cowen & Co.,Market Perform,Underperform,up,TRIP
+2017-08-07,Barclays,Equal-Weight,,main,TRIP
+2017-08-10,Barclays,Equal-Weight,,main,TRIP
+2017-08-16,SunTrust Robinson Humphrey,Hold,,init,TRIP
+2017-08-25,Jefferies,Underperform,Hold,down,TRIP
+2017-10-03,Citigroup,Neutral,,main,TRIP
+2017-10-24,Deutsche Bank,Hold,,main,TRIP
+2017-11-08,Barclays,Equal-Weight,,main,TRIP
+2017-11-08,UBS,Neutral,,main,TRIP
+2017-11-08,Stifel Nicolaus,Hold,,main,TRIP
+2017-11-27,Cowen & Co.,Market Perform,Market Perform,main,TRIP
+2018-03-22,Mizuho,Neutral,,init,TRIP
+2018-04-04,Wedbush,Neutral,,init,TRIP
+2018-04-04,DA Davidson,Neutral,,init,TRIP
+2018-05-08,Deutsche Bank,Hold,Hold,main,TRIP
+2018-05-16,Guggenheim,Sell,Neutral,down,TRIP
+2018-05-16,Macquarie,Outperform,Underperform,up,TRIP
+2018-07-11,Barclays,Overweight,Equal-Weight,up,TRIP
+2018-07-31,Deutsche Bank,Hold,Hold,main,TRIP
+2018-08-03,Stifel Nicolaus,Hold,Hold,main,TRIP
+2018-08-03,Needham,Hold,Underperform,up,TRIP
+2018-08-06,Barclays,Overweight,Overweight,main,TRIP
+2018-10-16,Evercore ISI Group,In-Line,,init,TRIP
+2018-10-25,Credit Suisse,Neutral,Underperform,up,TRIP
+2018-11-09,UBS,Sell,Neutral,down,TRIP
+2019-03-06,Cowen & Co.,Underperform,Market Perform,down,TRIP
+2019-05-03,Deutsche Bank,Buy,Hold,up,TRIP
+2019-05-09,Stifel Nicolaus,Hold,,main,TRIP
+2019-05-09,Barclays,Overweight,,main,TRIP
+2019-05-21,Guggenheim,Neutral,Sell,up,TRIP
+2019-06-27,DA Davidson,Buy,Neutral,up,TRIP
+2019-08-06,Deutsche Bank,Buy,,main,TRIP
+2019-08-09,Credit Suisse,Neutral,,main,TRIP
+2019-08-09,Barclays,Overweight,,main,TRIP
+2019-08-09,Bank of America,Underperform,,reit,TRIP
+2019-08-09,Deutsche Bank,Buy,,main,TRIP
+2019-09-04,UBS,Neutral,Sell,up,TRIP
+2019-10-22,Deutsche Bank,Buy,,main,TRIP
+2019-11-08,DA Davidson,Buy,,main,TRIP
+2019-11-08,Stifel Nicolaus,Hold,,main,TRIP
+2019-11-08,UBS,Neutral,,main,TRIP
+2019-11-08,JP Morgan,Underweight,Neutral,down,TRIP
+2019-11-14,SunTrust Robinson Humphrey,Buy,,main,TRIP
+2019-11-18,Consumer Edge Research,Underweight,,init,TRIP
+2019-11-18,Cowen & Co.,Market Perform,Underperform,up,TRIP
+2020-02-14,Wedbush,Neutral,,main,TRIP
+2020-02-14,Needham,Buy,,main,TRIP
+2020-03-06,Citigroup,Neutral,,init,TRIP
+2020-03-18,JP Morgan,Underweight,,main,TRIP
+2020-04-20,Citigroup,Neutral,,main,TRIP
+2020-04-21,UBS,Neutral,,main,TRIP
+2020-04-21,Credit Suisse,Neutral,,main,TRIP
+2020-04-29,SunTrust Robinson Humphrey,Buy,,main,TRIP
+2020-05-05,Needham,Buy,,main,TRIP
+2020-05-06,Deutsche Bank,Hold,Buy,down,TRIP
+2020-05-11,Stifel,Hold,,main,TRIP
+2020-05-11,Credit Suisse,Neutral,,main,TRIP
+2020-05-11,UBS,Neutral,,main,TRIP
+2020-05-11,Barclays,Overweight,,main,TRIP
+2020-05-11,Mizuho,Neutral,,main,TRIP
+2020-05-12,SunTrust Robinson Humphrey,Buy,,main,TRIP
+2020-05-21,DA Davidson,Buy,,main,TRIP
+2020-06-11,BTIG,Neutral,,init,TRIP
+2020-08-10,Truist Securities,Buy,,main,TRIP
+2020-08-17,Wells Fargo,Equal-Weight,,main,TRIP
+2020-11-09,Needham,Buy,,main,TRIP
+2020-12-01,Bernstein,Outperform,,init,TRIP
+2021-02-22,DA Davidson,Buy,,main,TRIP
+2021-02-22,Credit Suisse,Neutral,,main,TRIP
+2021-03-02,Citigroup,Buy,Neutral,up,TRIP
+2021-04-01,Wolfe Research,Peer Perform,,init,TRIP
+2021-08-09,Credit Suisse,Neutral,,main,TRIP
+2021-08-18,DA Davidson,Buy,,main,TRIP
+2021-11-01,Barclays,Underweight,Overweight,down,TRIP
+2021-11-10,Credit Suisse,Neutral,,main,TRIP
+2021-11-10,Barclays,Underweight,,main,TRIP
+2021-11-15,DA Davidson,Buy,,main,TRIP
+2021-11-16,Citigroup,Buy,,main,TRIP
+2021-12-02,UBS,Neutral,,init,TRIP
+2021-12-15,JP Morgan,Underweight,,main,TRIP

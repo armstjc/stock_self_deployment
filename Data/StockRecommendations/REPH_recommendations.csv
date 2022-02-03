@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-06-12,Aegis Capital,Buy,,init,REPH
+2014-12-09,Aegis Capital,Hold,Buy,down,REPH
+2015-06-18,Brean Capital,Buy,,main,REPH
+2015-09-02,H.C. Wainwright,Buy,,init,REPH
+2016-08-29,Janney Capital,Buy,,init,REPH
+2016-09-16,Roth Capital,Buy,,init,REPH
+2016-12-19,PiperJaffray,Overweight,,init,REPH
+2018-02-14,Oppenheimer,Outperform,,init,REPH
+2019-03-25,Roth Capital,Neutral,Buy,down,REPH
+2019-10-17,Stephens & Co.,Overweight,,init,REPH
+2019-11-26,Stephens & Co.,Overweight,,main,REPH
+2020-03-05,Stephens & Co.,Overweight,,main,REPH
+2020-05-12,Oppenheimer,Outperform,,main,REPH
+2021-10-12,William Blair,Outperform,,init,REPH

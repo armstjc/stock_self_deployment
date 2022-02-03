@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-23,Citigroup,Buy,,init,ZYME
+2018-03-19,Raymond James,Outperform,,init,ZYME
+2018-05-11,Barclays,Equal-Weight,Underweight,up,ZYME
+2018-05-14,Ladenburg Thalmann,Buy,,init,ZYME
+2018-06-04,Wells Fargo,Outperform,Outperform,main,ZYME
+2018-06-05,Raymond James,Outperform,Outperform,main,ZYME
+2018-06-21,Citigroup,Neutral,Neutral,main,ZYME
+2018-08-02,Citigroup,Buy,Neutral,up,ZYME
+2019-07-18,Deutsche Bank,Buy,,init,ZYME
+2019-08-05,Barclays,Equal-Weight,,main,ZYME
+2019-08-27,Citi,Buy,,main,ZYME
+2019-08-30,Stifel,Buy,,init,ZYME
+2019-09-30,Raymond James,Strong Buy,Outperform,up,ZYME
+2019-10-29,Deutsche Bank,Buy,,main,ZYME
+2019-11-20,Guggenheim,Buy,,init,ZYME
+2019-11-25,Raymond James,Strong Buy,,main,ZYME
+2019-11-25,H.C. Wainwright,Buy,,init,ZYME
+2019-12-09,JP Morgan,Neutral,,init,ZYME
+2020-01-10,Wolfe Research,Outperform,,init,ZYME
+2020-01-15,Wells Fargo,Overweight,,main,ZYME
+2020-02-03,Stifel Nicolaus,Buy,,main,ZYME
+2020-03-03,H.C. Wainwright,Buy,,reit,ZYME
+2020-06-02,Citigroup,Buy,,main,ZYME
+2020-07-09,HC Wainwright & Co.,Buy,,main,ZYME
+2020-08-06,SVB Leerink,Outperform,,init,ZYME
+2021-01-12,SVB Leerink,Outperform,,main,ZYME
+2021-01-19,Raymond James,Strong Buy,,main,ZYME
+2021-01-25,Citigroup,Neutral,Buy,down,ZYME
+2021-02-25,SVB Leerink,Market Perform,Outperform,down,ZYME
+2021-03-31,Credit Suisse,Outperform,,init,ZYME
+2021-05-07,HC Wainwright & Co.,Buy,,main,ZYME
+2021-08-05,HC Wainwright & Co.,Buy,,main,ZYME
+2021-11-04,SVB Leerink,Market Perform,,main,ZYME
+2021-11-10,SVB Leerink,Market Perform,,main,ZYME
+2021-12-10,SVB Leerink,Outperform,Market Perform,up,ZYME
+2021-12-10,Raymond James,Outperform,Strong Buy,down,ZYME

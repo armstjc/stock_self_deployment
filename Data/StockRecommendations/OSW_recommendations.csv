@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-27,Stifel Nicolaus,Buy,,init,OSW
+2019-03-27,Nomura,Buy,,init,OSW
+2019-05-20,Jefferies,Buy,,init,OSW
+2019-08-23,Nomura,Buy,,main,OSW
+2019-11-14,Nomura,Neutral,Buy,down,OSW
+2019-11-15,Imperial Capital,Outperform,,main,OSW
+2020-01-10,Jefferies,Hold,Buy,down,OSW
+2020-01-16,Imperial Capital,Outperform,,main,OSW
+2020-02-27,Stifel Nicolaus,Buy,,main,OSW
+2020-03-20,Stifel,Buy,,main,OSW
+2020-04-30,William Blair,Outperform,Market Perform,up,OSW
+2020-06-09,Jefferies,Buy,Hold,up,OSW
+2021-01-13,Jefferies,Hold,Buy,down,OSW

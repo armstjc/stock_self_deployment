@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-04,Feltl & Co.,Strong Buy,,main,TITN
+2012-06-26,PiperJaffray,Overweight,,init,TITN
+2012-09-10,Feltl & Co.,Buy,Strong Buy,down,TITN
+2012-09-10,PiperJaffray,Overweight,,main,TITN
+2013-01-02,PiperJaffray,Overweight,,main,TITN
+2013-01-02,Standpoint Research,Hold,Buy,down,TITN
+2013-04-10,Standpoint Research,Buy,Hold,up,TITN
+2013-04-10,PiperJaffray,Neutral,Overweight,down,TITN
+2013-04-11,Stephens & Co.,Equal-Weight,Overweight,down,TITN
+2013-04-17,Sidoti & Co.,Buy,Neutral,up,TITN
+2013-05-24,Baird,Neutral,Outperform,down,TITN
+2013-06-25,William Blair,Market Perform,Outperform,down,TITN
+2013-08-05,William Blair,Underperform,Market Perform,down,TITN
+2013-09-06,M Partners,Hold,Buy,down,TITN
+2013-10-15,Longbow Research,Neutral,,init,TITN
+2014-01-15,Cantor Fitzgerald,Sell,,down,TITN
+2014-02-04,Cantor Fitzgerald,Hold,Sell,up,TITN
+2014-02-13,Longbow Research,Underperform,Neutral,down,TITN
+2014-04-11,Longbow Research,Neutral,Underperform,up,TITN
+2015-04-16,Baird,Neutral,,main,TITN
+2015-05-29,Feltl & Co.,Strong Buy,Buy,up,TITN
+2015-06-04,Sidoti & Co.,Neutral,Buy,down,TITN
+2015-11-05,Avondale Partners,Outperform,,init,TITN
+2016-03-04,Baird,Outperform,Neutral,up,TITN
+2016-12-02,Standpoint Research,Hold,Buy,down,TITN
+2017-01-10,Aegis Capital,Buy,,init,TITN
+2018-01-02,William Blair,Market Perform,Underperform,up,TITN
+2019-05-13,Baird,Neutral,Outperform,down,TITN
+2019-06-17,Baird,Outperform,Neutral,up,TITN
+2020-03-27,Stephens & Co.,Equal-Weight,,main,TITN
+2020-03-27,Baird,Outperform,,main,TITN
+2021-05-28,Stephens & Co.,Overweight,Equal-Weight,up,TITN
+2021-11-24,Baird,Neutral,Outperform,down,TITN
+2021-11-24,Craig-Hallum,Buy,,main,TITN

@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-07,Sidoti & Co.,Buy,,init,TUP
+2012-11-01,Morgan Stanley,Overweight,Equal-Weight,up,TUP
+2012-12-05,Argus,Buy,Hold,up,TUP
+2013-03-11,Morgan Stanley,Equal-Weight,Overweight,down,TUP
+2013-03-13,BMO Capital,Outperform,,init,TUP
+2013-07-22,FirstEnergy Capital,Outperform,,init,TUP
+2013-08-21,BMO Capital,Market Perform,Outperform,down,TUP
+2013-10-23,Bank of America,Neutral,Buy,down,TUP
+2013-12-16,KeyBanc,Buy,,init,TUP
+2013-12-17,KeyBanc,Buy,,init,TUP
+2014-01-15,S&P Capital IQ,Buy,,up,TUP
+2014-02-06,FirstEnergy Capital,Market Perform,Outperform,down,TUP
+2014-02-28,Argus Capital,Hold,Buy,down,TUP
+2014-07-24,JP Morgan,Overweight,,main,TUP
+2014-10-23,JP Morgan,Neutral,,main,TUP
+2014-10-23,KeyBanc,Buy,,main,TUP
+2014-11-25,B. Riley FBR,Neutral,Buy,down,TUP
+2014-12-04,BMO Capital,Underperform,Market Perform,down,TUP
+2014-12-12,Bank of America,Neutral,,main,TUP
+2014-12-18,PiperJaffray,Overweight,,init,TUP
+2015-01-12,JP Morgan,Neutral,,main,TUP
+2015-01-29,JP Morgan,Neutral,,main,TUP
+2015-07-23,B. Riley FBR,Neutral,,main,TUP
+2015-09-02,JP Morgan,Neutral,,main,TUP
+2015-09-24,SunTrust Robinson Humphrey,Neutral,,main,TUP
+2015-10-08,Bank of America,Underperform,Neutral,down,TUP
+2015-10-22,B. Riley FBR,Neutral,,main,TUP
+2016-01-28,PiperJaffray,Neutral,Overweight,down,TUP
+2016-01-28,JP Morgan,Neutral,,main,TUP
+2016-01-28,B. Riley FBR,Neutral,,main,TUP
+2016-02-26,KeyBanc,Sector Weight,Overweight,down,TUP
+2016-03-18,Citigroup,Neutral,,main,TUP
+2016-04-18,Citigroup,Neutral,,main,TUP
+2016-04-21,B. Riley FBR,Neutral,,main,TUP
+2016-07-19,Citigroup,,,main,TUP
+2016-11-28,B. Riley FBR,Sell,Neutral,down,TUP
+2017-01-31,B. Riley FBR,Neutral,Sell,up,TUP
+2017-10-02,Citigroup,Neutral,,main,TUP
+2017-10-26,Morgan Stanley,Equal-Weight,,main,TUP
+2018-02-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,TUP
+2018-02-22,Bank of America,Underperform,Underperform,main,TUP
+2018-03-13,Citigroup,Neutral,Neutral,main,TUP
+2018-04-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,TUP
+2018-04-10,Bank of America,Underperform,Underperform,main,TUP
+2018-04-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,TUP
+2018-04-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,TUP
+2018-07-31,Argus,Sell,Hold,down,TUP
+2018-10-04,Bank of America,Underperform,Underperform,main,TUP
+2018-10-17,Citigroup,Neutral,Neutral,main,TUP
+2019-06-28,Citigroup,Neutral,,main,TUP
+2020-03-02,Citigroup,Neutral,,main,TUP
+2020-04-30,Citigroup,Neutral,,main,TUP
+2020-07-30,Citigroup,Neutral,,main,TUP
+2020-08-13,Citigroup,Neutral,,main,TUP
+2020-08-17,Argus Research,Hold,Sell,up,TUP
+2020-09-10,Sidoti & Co.,Buy,,main,TUP
+2020-09-15,DA Davidson,Buy,,init,TUP
+2020-10-29,DA Davidson,Buy,,main,TUP
+2020-11-20,Citigroup,Neutral,,main,TUP
+2021-05-07,Citigroup,Buy,Neutral,up,TUP
+2021-08-05,DA Davidson,Buy,,main,TUP
+2021-11-04,DA Davidson,Buy,,main,TUP
+2021-12-22,Citigroup,Buy,,main,TUP

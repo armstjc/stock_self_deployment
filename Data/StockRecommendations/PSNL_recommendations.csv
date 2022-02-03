@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-07-15,Oppenheimer,Outperform,,init,PSNL
+2019-07-15,Cowen & Co.,Outperform,,init,PSNL
+2019-07-15,Morgan Stanley,Overweight,,init,PSNL
+2019-07-15,Bank of America,Neutral,,init,PSNL
+2019-09-26,Bank of America,Buy,Neutral,up,PSNL
+2019-11-15,Morgan Stanley,Overweight,,main,PSNL
+2020-03-26,Morgan Stanley,Overweight,,main,PSNL
+2020-05-08,Morgan Stanley,Overweight,,main,PSNL
+2020-08-07,Morgan Stanley,Overweight,,main,PSNL
+2020-08-18,Needham,Buy,,init,PSNL
+2020-08-27,HC Wainwright & Co.,Buy,,init,PSNL
+2020-10-08,BTIG,Buy,,init,PSNL
+2020-10-19,Citigroup,Buy,,init,PSNL
+2020-11-06,Oppenheimer,Perform,Outperform,down,PSNL
+2020-11-09,Morgan Stanley,Overweight,,main,PSNL
+2020-11-12,Needham,Buy,,main,PSNL
+2021-01-13,HC Wainwright & Co.,Buy,,main,PSNL
+2021-01-28,Truist Securities,Buy,,init,PSNL
+2021-03-01,Morgan Stanley,Overweight,,main,PSNL
+2021-05-06,Oppenheimer,Outperform,Perform,up,PSNL
+2021-05-06,Needham,Buy,,main,PSNL
+2021-05-07,Morgan Stanley,Overweight,,main,PSNL
+2021-09-20,Needham,Buy,,main,PSNL
+2021-11-03,Needham,Hold,Buy,down,PSNL
+2021-11-08,Morgan Stanley,Equal-Weight,Overweight,down,PSNL

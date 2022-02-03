@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-26,Macquarie,Neutral,,down,RDN
+2012-11-05,Compass Point,Neutral,,main,RDN
+2013-02-20,Susquehanna,Positive,Neutral,up,RDN
+2013-03-04,Keefe Bruyette & Woods,Outperform,Market Perform,up,RDN
+2013-03-05,Barclays,Overweight,Underweight,up,RDN
+2013-04-08,Macquarie,Outperform,Neutral,up,RDN
+2013-07-25,Barclays,Overweight,,main,RDN
+2013-09-17,JMP Securities,Market Outperform,,init,RDN
+2013-11-05,Keefe Bruyette & Woods,Outperform,,main,RDN
+2013-12-05,Goldman Sachs,Buy,,init,RDN
+2014-02-06,Compass Point,Neutral,,main,RDN
+2014-05-08,Susquehanna,Positive,,main,RDN
+2014-09-17,Compass Point,Buy,Neutral,up,RDN
+2014-10-31,JMP Securities,Market Outperform,,main,RDN
+2014-10-31,Barclays,Overweight,,main,RDN
+2014-10-31,FBR Capital,Market Perform,,main,RDN
+2014-11-03,Barclays,Outperform,,main,RDN
+2014-11-03,Keefe Bruyette & Woods,Outperform,,main,RDN
+2014-12-16,Keefe Bruyette & Woods,Outperform,,main,RDN
+2015-02-17,Keefe Bruyette & Woods,Outperform,,main,RDN
+2015-03-04,MKM Partners,Buy,,init,RDN
+2015-03-10,BTIG Research,Buy,,init,RDN
+2015-04-20,JMP Securities,Market Outperform,,main,RDN
+2015-07-14,JMP Securities,Market Outperform,,main,RDN
+2015-10-28,Macquarie,Outperform,,main,RDN
+2016-01-20,Macquarie,Neutral,Outperform,down,RDN
+2016-04-04,Deutsche Bank,Buy,,init,RDN
+2016-05-02,Credit Suisse,Neutral,,main,RDN
+2016-06-30,FBR Capital,Outperform,Market Perform,up,RDN
+2016-07-29,FBR Capital,Outperform,,main,RDN
+2016-10-17,Bank of America,Buy,,init,RDN
+2017-08-02,Barclays,Outperform,,main,RDN
+2017-10-25,Deutsche Bank,Buy,,main,RDN
+2017-10-27,Compass Point,Buy,Neutral,up,RDN
+2017-11-03,Deutsche Bank,Hold,Buy,down,RDN
+2017-12-20,RBC Capital,Outperform,,init,RDN
+2018-01-04,B. Riley FBR,Neutral,Buy,down,RDN
+2018-01-08,Deutsche Bank,Buy,Hold,up,RDN
+2018-02-02,Barclays,Overweight,Outperform,main,RDN
+2018-03-15,Macquarie,Neutral,,init,RDN
+2018-04-10,RBC Capital,Sector Perform,Outperform,down,RDN
+2018-04-10,Deutsche Bank,Buy,Buy,main,RDN
+2018-04-10,B. Riley FBR,Neutral,Neutral,main,RDN
+2018-04-11,Barclays,Overweight,Overweight,main,RDN
+2018-08-07,B. Riley FBR,Neutral,Neutral,main,RDN
+2018-08-13,Bank of America,Buy,Buy,main,RDN
+2020-03-11,B. Riley FBR,Neutral,,main,RDN
+2020-03-23,B. Riley FBR,Neutral,,main,RDN
+2020-04-14,Deutsche Bank,Buy,,main,RDN
+2020-04-21,B. Riley FBR,Neutral,,main,RDN
+2020-05-12,Deutsche Bank,Buy,,main,RDN
+2020-05-26,Compass Point,Buy,,main,RDN
+2020-06-09,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,RDN
+2020-10-07,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,RDN
+2021-11-17,B of A Securities,Underperform,Buy,down,RDN

@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-01,Stephens & Co.,Equal-Weight,,down,WRLD
+2013-04-02,FBR Capital,Market Perform,Outperform,down,WRLD
+2013-07-08,CL King,Neutral,Strong Buy,down,WRLD
+2013-08-22,Sidoti & Co.,Neutral,Buy,down,WRLD
+2013-09-30,Sidoti & Co.,Buy,Neutral,up,WRLD
+2013-10-01,FBR Capital,Outperform,Market Perform,up,WRLD
+2014-07-10,Macquarie,Neutral,,init,WRLD
+2014-09-04,Jefferies,Hold,,init,WRLD
+2014-10-07,Jefferies,Hold,,main,WRLD
+2014-10-23,FBR Capital,Outperform,,main,WRLD
+2015-02-02,FBR Capital,Outperform,,main,WRLD
+2015-03-02,Jefferies,Hold,,main,WRLD
+2015-03-26,Goldman Sachs,Underperform,,down,WRLD
+2015-06-17,Janney Capital,Buy,,init,WRLD
+2015-06-25,FBR Capital,Market Perform,Outperform,down,WRLD
+2015-06-30,Jefferies,Hold,,main,WRLD
+2015-08-11,Janney Capital,Neutral,Buy,down,WRLD
+2016-11-01,Stephens & Co.,Underweight,,init,WRLD
+2016-11-09,Stephens & Co.,Equal-Weight,Underweight,up,WRLD
+2016-11-18,BMO Capital,Underperform,Market Perform,down,WRLD
+2017-01-10,Jefferies,Underperform,Hold,down,WRLD
+2018-07-23,BMO Capital,Underperform,Underperform,main,WRLD
+2018-07-27,BMO Capital,Underperform,Underperform,main,WRLD
+2018-11-05,BMO Capital,Underperform,Underperform,main,WRLD
+2019-07-25,Janney Capital,Sell,Neutral,down,WRLD
+2019-12-18,Janney Capital,Neutral,Sell,up,WRLD
+2021-07-22,Stephens & Co.,Equal-Weight,Underweight,up,WRLD

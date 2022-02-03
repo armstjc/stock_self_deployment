@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-27,Dawson James,Market Outperform,,init,SPPI
+2013-01-15,Credit Suisse,Neutral,,init,SPPI
+2013-04-02,JMP Securities,Market Perform,,init,SPPI
+2013-05-29,Burrill & Company,Market Outperform,,init,SPPI
+2013-06-24,Credit Suisse,Underperform,Neutral,down,SPPI
+2013-07-16,JMP Securities,Market Outperform,Market Perform,up,SPPI
+2013-10-07,H.C. Wainwright,Buy,,init,SPPI
+2014-11-19,Jefferies,Hold,,init,SPPI
+2015-02-23,Roth Capital,,Buy,down,SPPI
+2015-03-16,Jefferies,Hold,,main,SPPI
+2015-04-02,FBR Capital,Outperform,,init,SPPI
+2017-10-09,Jefferies,Buy,,main,SPPI
+2017-10-24,Guggenheim,Buy,,init,SPPI
+2017-12-18,B. Riley FBR,Buy,,init,SPPI
+2018-08-31,B. Riley FBR,Buy,Buy,main,SPPI
+2018-11-12,B. Riley FBR,Buy,Buy,main,SPPI
+2019-02-07,Cantor Fitzgerald,Overweight,,init,SPPI
+2019-05-13,Guggenheim,Buy,,init,SPPI
+2019-07-11,B. Riley,Buy,,init,SPPI
+2019-12-26,Cantor Fitzgerald,Neutral,Overweight,down,SPPI
+2019-12-27,Guggenheim,Neutral,Buy,down,SPPI
+2019-12-27,B. Riley FBR,Buy,,main,SPPI
+2020-03-02,B. Riley FBR,Buy,,main,SPPI
+2020-07-28,Cantor Fitzgerald,Neutral,,main,SPPI
+2020-08-03,HC Wainwright & Co.,Buy,,main,SPPI
+2020-09-17,JMP Securities,Outperform,,init,SPPI
+2020-10-26,H.C. Wainwright,Buy,,reit,SPPI

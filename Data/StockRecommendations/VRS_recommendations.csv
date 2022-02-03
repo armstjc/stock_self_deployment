@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-27,BWS Financial,Buy,,init,VRS
+2017-04-28,B. Riley FBR,Buy,,init,VRS
+2017-10-18,BWS Financial,Strong Buy,Buy,up,VRS
+2017-11-17,BWS Financial,Strong Buy,,main,VRS
+2018-08-06,B. Riley FBR,Buy,Buy,main,VRS
+2018-09-25,B. Riley FBR,Buy,Buy,main,VRS
+2019-04-12,B. Riley FBR,Neutral,Buy,down,VRS
+2019-08-06,B. Riley,Neutral,,main,VRS
+2019-11-13,B. Riley FBR,Buy,Neutral,up,VRS
+2020-05-06,B. Riley FBR,Buy,,main,VRS
+2020-05-12,B. Riley FBR,Buy,,main,VRS
+2021-05-10,BWS Financial,Strong Buy,,main,VRS
+2021-08-09,B. Riley Securities,Neutral,Buy,down,VRS
+2021-12-14,BWS Financial,Buy,,main,VRS
+2021-12-28,BWS Financial,Neutral,Top Pick,down,VRS

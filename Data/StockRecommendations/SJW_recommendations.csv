@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-23,Brean Capital,Buy,,up,SJW
+2013-08-02,Brean Capital,Hold,Buy,down,SJW
+2013-08-06,Janney Capital,Neutral,Buy,down,SJW
+2014-07-16,Baird,Outperform,,up,SJW
+2015-03-25,Baird,Neutral,Outperform,down,SJW
+2016-02-22,Baird,Outperform,Neutral,up,SJW
+2017-07-28,Janney Capital,Buy,Neutral,up,SJW
+2018-09-10,Janney Capital,Buy,Neutral,up,SJW
+2018-09-17,Evercore ISI Group,In-Line,,init,SJW
+2019-01-28,Wells Fargo,Outperform,,init,SJW
+2019-05-15,UBS,Neutral,,init,SJW
+2019-10-07,Macquarie,Outperform,,init,SJW
+2019-11-15,JP Morgan,Neutral,,init,SJW
+2019-11-25,UBS,Neutral,,main,SJW
+2020-03-11,Wells Fargo,Overweight,,main,SJW
+2020-04-24,RBC Capital,Outperform,,init,SJW
+2020-05-05,Wells Fargo,Overweight,,main,SJW
+2020-05-20,Seaport Global,Neutral,,init,SJW
+2020-08-11,Wells Fargo,Equal-Weight,Overweight,down,SJW
+2021-01-06,Wells Fargo,Underweight,Equal-Weight,down,SJW
+2021-07-15,Barclays,Equal-Weight,,init,SJW
+2021-12-01,Wells Fargo,Overweight,,main,SJW
+2021-12-08,Barclays,Equal-Weight,,main,SJW

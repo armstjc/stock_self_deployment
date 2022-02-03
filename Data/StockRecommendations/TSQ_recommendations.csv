@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-08-18,Guggenheim,Buy,,init,TSQ
+2014-08-18,RBC Capital,Outperform,,init,TSQ
+2014-08-18,Jefferies,Buy,,init,TSQ
+2015-01-28,Barrington Research,Outperform,,init,TSQ
+2015-12-11,Stephens & Co.,Overweight,,init,TSQ
+2016-08-05,Jefferies,Buy,,main,TSQ
+2017-01-03,Barrington Research,Market Perform,Outperform,down,TSQ
+2017-09-29,Bank of America,Underperform,Buy,down,TSQ
+2017-11-08,Stephens & Co.,Equal-Weight,Overweight,down,TSQ
+2021-01-27,Barrington Research,Outperform,Market Perform,up,TSQ

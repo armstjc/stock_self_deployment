@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-31,PiperJaffray,Neutral,,main,OFIX
+2013-01-03,Lazard,Buy,,main,OFIX
+2013-02-25,PiperJaffray,Neutral,,main,OFIX
+2013-05-09,Lazard,Sell,Buy,down,OFIX
+2013-05-09,Janney Capital,Neutral,Buy,down,OFIX
+2013-05-09,Mizuho,Neutral,Buy,down,OFIX
+2013-05-09,JMP Securities,Market Perform,Market Outperform,down,OFIX
+2017-05-23,SunTrust Robinson Humphrey,Buy,,init,OFIX
+2017-06-14,Ladenburg Thalmann,Buy,,init,OFIX
+2017-06-21,BTIG Research,Buy,,init,OFIX
+2018-06-01,Cantor Fitzgerald,Overweight,,init,OFIX
+2019-02-26,BTIG Research,Neutral,Buy,down,OFIX
+2019-10-29,Cantor Fitzgerald,Neutral,Overweight,down,OFIX
+2020-02-25,Cantor Fitzgerald,Neutral,,main,OFIX
+2020-02-25,Sidoti & Co.,Buy,,main,OFIX
+2020-10-20,Stifel,Hold,,init,OFIX

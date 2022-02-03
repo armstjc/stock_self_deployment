@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-08,Jefferies,Hold,Underperform,up,OPI
+2019-06-28,RBC Capital,Sector Perform,Underperform,up,OPI
+2019-12-13,Morgan Stanley,Underweight,Equal-Weight,down,OPI
+2020-02-04,Mizuho,Neutral,,init,OPI
+2020-02-21,B. Riley FBR,Buy,,main,OPI
+2020-05-04,B. Riley FBR,Buy,,main,OPI
+2020-05-28,Morgan Stanley,Underweight,,main,OPI
+2020-06-10,RBC Capital,Sector Perform,,main,OPI
+2020-06-25,Morgan Stanley,Underweight,,main,OPI
+2020-07-20,Mizuho,Neutral,,main,OPI
+2020-12-14,Morgan Stanley,Underweight,,main,OPI
+2021-03-15,RBC Capital,Sector Perform,,main,OPI
+2021-04-08,Morgan Stanley,Underweight,,main,OPI
+2021-04-16,Morgan Stanley,Underweight,,main,OPI
+2021-09-30,Morgan Stanley,Underweight,,main,OPI
+2021-12-14,Morgan Stanley,Underweight,,main,OPI

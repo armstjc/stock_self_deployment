@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-14,Brean Capital,Buy,,main,UTHR
+2012-03-26,Canaccord Genuity,Buy,,init,UTHR
+2012-04-27,Canaccord Genuity,Hold,,down,UTHR
+2012-04-30,Ladenburg Thalmann,Buy,,main,UTHR
+2012-07-26,Deutsche Bank,Hold,,main,UTHR
+2012-10-24,JP Morgan,Underweight,Neutral,down,UTHR
+2012-10-24,BMO Capital,Market Perform,Outperform,down,UTHR
+2012-12-13,Goldman Sachs,Sell,Neutral,down,UTHR
+2013-01-23,Guggenheim,Neutral,,init,UTHR
+2013-02-04,Standpoint,Buy,Hold,up,UTHR
+2013-02-26,Brean Capital,Hold,Buy,down,UTHR
+2013-02-26,Jefferies,Hold,,main,UTHR
+2013-02-27,Deutsche Bank,Hold,,main,UTHR
+2013-05-15,Standpoint Research,Hold,Buy,down,UTHR
+2013-07-26,BMO Capital,Market Perform,,main,UTHR
+2013-07-30,Standpoint Research,Hold,Buy,down,UTHR
+2013-12-23,JP Morgan,Neutral,Underweight,up,UTHR
+2013-12-23,Ladenburg Thalmann,Buy,Neutral,up,UTHR
+2014-01-05,Goldman Sachs,Sell,,main,UTHR
+2014-04-07,Standpoint Research,Buy,Hold,up,UTHR
+2014-06-16,Credit Suisse,Outperform,Market Perform,up,UTHR
+2014-07-30,Credit Suisse,Neutral,,main,UTHR
+2014-08-29,Wedbush,Outperform,,main,UTHR
+2014-09-22,Standpoint Research,Hold,Buy,down,UTHR
+2014-10-15,Standpoint,Buy,Hold,up,UTHR
+2014-11-03,Argus,Hold,Buy,down,UTHR
+2014-12-11,Credit Suisse,Underperform,Neutral,down,UTHR
+2014-12-16,JP Morgan,Neutral,,main,UTHR
+2015-01-06,BTIG Research,Neutral,,init,UTHR
+2015-01-06,Barclays,Equal-weight,,init,UTHR
+2015-02-25,Jefferies,Hold,,main,UTHR
+2015-02-25,JP Morgan,Neutral,,main,UTHR
+2015-03-12,Argus,Buy,Hold,up,UTHR
+2015-04-01,JP Morgan,Neutral,,main,UTHR
+2015-04-29,Leerink Swann,Market Perform,,main,UTHR
+2015-04-29,Jefferies,Hold,,main,UTHR
+2015-04-29,JP Morgan,Neutral,,main,UTHR
+2015-08-19,Wedbush,Outperform,,main,UTHR
+2016-02-10,Standpoint Research,Buy,Hold,up,UTHR
+2016-02-26,Barclays,Equal-Weight,,main,UTHR
+2016-04-29,Ladenburg Thalmann,Neutral,Buy,down,UTHR
+2016-05-24,Argus,Hold,Buy,down,UTHR
+2016-06-15,H.C. Wainwright,Neutral,Buy,down,UTHR
+2016-07-29,JP Morgan,Neutral,,main,UTHR
+2016-10-28,Ladenburg Thalmann,Buy,Neutral,up,UTHR
+2016-11-29,Barclays,Underweight,Equal-Weight,down,UTHR
+2016-12-14,Oppenheimer,Outperform,,init,UTHR
+2017-01-19,Standpoint Research,Hold,Buy,down,UTHR
+2017-03-06,Jefferies,Underperform,Hold,down,UTHR
+2017-03-16,Credit Suisse,Underperform,,init,UTHR
+2017-03-30,UBS,Sell,,init,UTHR
+2017-04-03,Cowen & Co.,Market Perform,Outperform,down,UTHR
+2018-02-22,Barclays,Underweight,Underweight,main,UTHR
+2018-02-22,Credit Suisse,Underperform,Underperform,main,UTHR
+2018-04-03,Credit Suisse,Neutral,Underperform,up,UTHR
+2018-05-03,Barclays,Underweight,Underweight,main,UTHR
+2018-05-03,Credit Suisse,Neutral,Neutral,main,UTHR
+2018-07-10,Credit Suisse,Neutral,Neutral,main,UTHR
+2018-08-02,Wedbush,Outperform,Outperform,main,UTHR
+2018-10-12,Standpoint Research,Buy,Hold,up,UTHR
+2018-11-01,Credit Suisse,Underperform,Underperform,main,UTHR
+2018-11-02,JP Morgan,Neutral,Neutral,main,UTHR
+2018-11-19,Credit Suisse,Underperform,Underperform,main,UTHR
+2019-03-01,Barclays,Underweight,Underweight,main,UTHR
+2019-05-02,Wedbush,Outperform,Outperform,main,UTHR
+2019-05-09,Credit Suisse,Neutral,Underperform,up,UTHR
+2019-05-17,UBS,Neutral,Sell,up,UTHR
+2019-07-01,Credit Suisse,Outperform,Neutral,up,UTHR
+2019-08-01,Jefferies,Hold,Underperform,up,UTHR
+2019-08-01,Ladenburg Thalmann,Buy,Neutral,up,UTHR
+2020-01-31,JP Morgan,Overweight,Neutral,up,UTHR
+2020-02-13,Credit Suisse,Outperform,,main,UTHR
+2020-02-27,Cowen & Co.,Outperform,Market Perform,up,UTHR
+2020-03-10,Jefferies,Buy,Hold,up,UTHR
+2020-06-25,HC Wainwright & Co.,Neutral,,main,UTHR
+2020-06-25,Credit Suisse,Outperform,,main,UTHR
+2020-07-30,Wedbush,Outperform,,main,UTHR
+2020-07-30,Oppenheimer,Outperform,,main,UTHR
+2021-02-01,HC Wainwright & Co.,Buy,Neutral,up,UTHR
+2021-02-16,Oppenheimer,Outperform,,main,UTHR
+2021-02-22,Credit Suisse,Outperform,,main,UTHR
+2021-04-08,JP Morgan,Overweight,,main,UTHR
+2021-05-06,HC Wainwright & Co.,Buy,,main,UTHR
+2021-07-14,Argus Research,Buy,Hold,up,UTHR

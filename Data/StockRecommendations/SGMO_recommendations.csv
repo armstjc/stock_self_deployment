@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-02,PiperJaffray,Underweight,Neutral,down,SGMO
+2013-02-19,Burrill & Company,Market Outperform,,init,SGMO
+2013-02-28,Lazard,Buy,,init,SGMO
+2013-03-07,Wedbush,Outperform,,main,SGMO
+2013-03-28,JMP Securities,Market Outperform,,init,SGMO
+2013-06-17,Cowen & Co.,Outperform,,init,SGMO
+2014-08-01,JP Morgan,Overweight,,init,SGMO
+2014-09-23,Jefferies,Buy,,init,SGMO
+2015-04-23,BMO Capital,Outperform,,init,SGMO
+2015-09-02,Jefferies,Buy,,main,SGMO
+2015-12-04,Wells Fargo,Outperform,,init,SGMO
+2015-12-17,Janney Capital,Buy,,init,SGMO
+2016-08-04,Janney Capital,Neutral,Buy,down,SGMO
+2016-10-19,PiperJaffray,Neutral,Overweight,down,SGMO
+2016-11-01,Wedbush,Neutral,Outperform,down,SGMO
+2017-11-15,PiperJaffray,Overweight,Neutral,up,SGMO
+2017-11-22,Barclays,Overweight,,init,SGMO
+2018-06-20,Bank of America,Buy,,init,SGMO
+2018-11-09,Guggenheim,Neutral,Buy,down,SGMO
+2018-11-14,JP Morgan,Neutral,Overweight,down,SGMO
+2018-11-14,JP Morgan,Neutral,Neutral,main,SGMO
+2020-06-22,HC Wainwright & Co.,Buy,,main,SGMO
+2020-07-07,SunTrust Robinson Humphrey,Buy,,init,SGMO
+2021-01-06,Stifel,Hold,,init,SGMO
+2021-05-04,RBC Capital,Outperform,,init,SGMO

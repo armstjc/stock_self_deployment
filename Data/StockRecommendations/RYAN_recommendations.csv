@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-08-16,Barclays,Overweight,,init,RYAN
+2021-08-16,RBC Capital,Outperform,,init,RYAN
+2021-08-16,JP Morgan,Neutral,,init,RYAN
+2021-08-16,Goldman Sachs,Neutral,,init,RYAN
+2021-08-16,Wells Fargo,Equal-Weight,,init,RYAN
+2021-08-16,UBS,Buy,,init,RYAN
+2021-08-17,Wolfe Research,Peer Perform,,init,RYAN
+2021-08-20,William Blair,Outperform,,init,RYAN
+2022-01-04,Wells Fargo,Equal-Weight,,main,RYAN

@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-12,Bank of America,Buy,,init,SMP
+2013-03-05,Bank of America,Buy,,main,SMP
+2013-03-05,BB&T Capital,Hold,Buy,down,SMP
+2013-07-16,Goldman Sachs,Sell,Neutral,down,SMP
+2015-06-23,CL King,Neutral,,init,SMP
+2016-01-25,CL King,Buy,Neutral,up,SMP
+2016-02-29,Jefferies,Buy,,main,SMP
+2016-04-18,Sidoti & Co.,Buy,,init,SMP
+2016-08-04,Jefferies,Buy,,main,SMP
+2019-12-20,Stephens & Co.,Overweight,,init,SMP
+2020-04-16,Stephens & Co.,Overweight,,main,SMP

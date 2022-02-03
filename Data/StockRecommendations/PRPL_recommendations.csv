@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-04-11,Wedbush,Outperform,,init,PRPL
+2018-08-10,Wedbush,Outperform,Outperform,main,PRPL
+2018-11-15,Wedbush,Outperform,Outperform,main,PRPL
+2019-09-23,Wedbush,Outperform,,main,PRPL
+2019-10-28,Roth Capital,Buy,,init,PRPL
+2019-11-25,KeyBanc,Overweight,,init,PRPL
+2019-11-26,Raymond James,Outperform,,init,PRPL
+2019-12-19,Bank of America,Buy,,init,PRPL
+2020-01-14,Wedbush,Outperform,,main,PRPL
+2020-01-16,Raymond James,Outperform,,main,PRPL
+2020-01-27,KeyBanc,Overweight,,main,PRPL
+2020-02-14,Oppenheimer,Outperform,,main,PRPL
+2020-03-10,Wedbush,Outperform,,main,PRPL
+2020-03-31,KeyBanc,Overweight,,main,PRPL
+2020-05-12,KeyBanc,Overweight,,main,PRPL
+2020-05-12,Raymond James,Outperform,,main,PRPL
+2020-05-12,Wedbush,Outperform,,main,PRPL
+2020-06-10,KeyBanc,Overweight,,main,PRPL
+2020-06-11,Raymond James,Outperform,,main,PRPL
+2020-06-16,B. Riley FBR,Buy,,init,PRPL
+2020-07-24,KeyBanc,Overweight,,main,PRPL
+2020-08-03,Craig-Hallum,Buy,,init,PRPL
+2020-08-14,Raymond James,Outperform,,main,PRPL
+2020-08-14,KeyBanc,Overweight,,main,PRPL
+2020-10-26,Raymond James,Outperform,,main,PRPL
+2020-11-10,KeyBanc,Overweight,,main,PRPL
+2021-01-14,KeyBanc,Overweight,,main,PRPL
+2021-02-09,KeyBanc,Overweight,,main,PRPL
+2021-03-05,KeyBanc,Overweight,,main,PRPL
+2021-03-05,Raymond James,Outperform,,main,PRPL
+2021-05-18,Raymond James,Outperform,,main,PRPL
+2021-05-18,Roth Capital,Buy,,main,PRPL
+2021-06-30,Raymond James,Outperform,,main,PRPL
+2021-07-01,Roth Capital,Buy,,main,PRPL
+2021-08-11,Roth Capital,Buy,,main,PRPL
+2021-09-28,Craig-Hallum,Hold,Buy,down,PRPL
+2021-10-04,Keybanc,Overweight,,main,PRPL
+2021-11-08,B of A Securities,Underperform,Buy,down,PRPL
+2021-11-10,Keybanc,Overweight,,main,PRPL
+2021-11-10,B. Riley Securities,Neutral,Buy,down,PRPL
+2021-11-10,Raymond James,Market Perform,Outperform,down,PRPL
+2021-11-10,Truist Securities,Hold,Buy,down,PRPL
+2021-11-10,UBS,Neutral,Buy,down,PRPL
+2021-12-14,Keybanc,Overweight,,main,PRPL
+2021-12-14,Wedbush,Outperform,,main,PRPL

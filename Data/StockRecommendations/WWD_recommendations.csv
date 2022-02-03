@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-21,Credit Suisse,Outperform,,init,WWD
+2012-07-17,Maxim Group,Hold,Buy,down,WWD
+2012-11-07,Jefferies,Hold,,init,WWD
+2012-12-03,Drexel Hamilton,Hold,Buy,down,WWD
+2012-12-18,Credit Suisse,Neutral,Outperform,down,WWD
+2013-01-23,Jefferies,Hold,,main,WWD
+2013-02-07,DA Davidson,Buy,,main,WWD
+2013-04-23,Jefferies,Hold,,main,WWD
+2013-04-23,Maxim Group,Buy,Hold,up,WWD
+2013-06-03,Jefferies,Buy,Hold,up,WWD
+2013-07-10,KeyBanc,Hold,Buy,down,WWD
+2013-07-29,Drexel Hamilton,Buy,Hold,up,WWD
+2014-01-09,Stifel Nicolaus,Buy,,init,WWD
+2014-04-23,CL King,Buy,Neutral,up,WWD
+2014-07-22,Jefferies,Buy,,main,WWD
+2014-07-22,Credit Suisse,Neutral,,main,WWD
+2014-11-11,Drexel Hamilton,Hold,Buy,down,WWD
+2014-11-17,Jefferies,Buy,,main,WWD
+2015-04-07,Jefferies,Hold,Buy,down,WWD
+2015-05-21,KeyBanc,Sector Weight,Underweight,up,WWD
+2015-06-08,Jefferies,Hold,,main,WWD
+2015-09-14,Cowen & Co.,Market Perform,,init,WWD
+2015-12-14,Jefferies,Hold,,main,WWD
+2016-01-20,Jefferies,Hold,,main,WWD
+2016-09-16,Barrington Research,Market Perform,,init,WWD
+2017-01-19,SunTrust Robinson Humphrey,Hold,,init,WWD
+2017-04-13,Stephens & Co.,Overweight,,init,WWD
+2017-06-22,CL King,Buy,,init,WWD
+2017-07-14,Oppenheimer,Outperform,,init,WWD
+2017-10-26,Oppenheimer,Perform,Outperform,down,WWD
+2018-03-29,Barclays,Equal-Weight,,init,WWD
+2018-04-24,Credit Suisse,Neutral,Neutral,main,WWD
+2018-11-08,Credit Suisse,Neutral,Neutral,main,WWD
+2018-11-20,SunTrust Robinson Humphrey,Buy,Hold,up,WWD
+2018-12-10,Credit Suisse,Neutral,Neutral,main,WWD
+2019-04-18,William Blair,Outperform,,init,WWD
+2019-06-14,SunTrust Robinson Humphrey,Hold,Buy,down,WWD
+2019-11-20,Barrington Research,Market Perform,Outperform,down,WWD
+2019-12-04,Jefferies,Buy,Hold,up,WWD
+2020-01-13,Credit Suisse,Outperform,Neutral,up,WWD
+2020-02-04,Credit Suisse,Outperform,,main,WWD
+2020-04-29,Barclays,Equal-Weight,,main,WWD
+2020-05-05,Credit Suisse,Outperform,,main,WWD
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,WWD
+2020-08-07,Credit Suisse,Outperform,,main,WWD
+2020-09-18,Credit Suisse,Outperform,,main,WWD
+2020-11-20,Credit Suisse,Outperform,,main,WWD
+2020-12-04,Barclays,Equal-Weight,Overweight,down,WWD
+2021-01-11,Truist Securities,Hold,Sell,up,WWD
+2021-02-02,Credit Suisse,Outperform,,main,WWD
+2021-05-04,Credit Suisse,Outperform,,main,WWD
+2021-05-13,Wells Fargo,Equal-Weight,,init,WWD
+2021-08-03,Credit Suisse,Outperform,,main,WWD
+2021-11-22,Barclays,Equal-Weight,,main,WWD
+2022-01-07,Truist Securities,Buy,Hold,up,WWD

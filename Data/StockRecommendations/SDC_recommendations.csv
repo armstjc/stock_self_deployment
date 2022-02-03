@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-10-07,Stifel,Buy,,init,SDC
+2019-10-07,William Blair,Outperform,,init,SDC
+2019-10-07,Loop Capital,Buy,,init,SDC
+2019-10-07,Credit Suisse,Outperform,,init,SDC
+2019-10-07,JP Morgan,Overweight,,init,SDC
+2019-10-07,Citi,Buy,,init,SDC
+2019-11-13,Credit Suisse,Outperform,,main,SDC
+2019-11-13,Loop Capital,Buy,,main,SDC
+2019-11-14,UBS,Buy,,main,SDC
+2019-12-18,Goldman Sachs,Neutral,,init,SDC
+2020-01-06,Craig-Hallum,Buy,,init,SDC
+2020-01-09,Wolfe Research,Underperform,,init,SDC
+2020-02-26,B of A Securities,Buy,,main,SDC
+2020-02-26,JP Morgan,Overweight,,main,SDC
+2020-02-26,Jefferies,Hold,Buy,down,SDC
+2020-02-26,Credit Suisse,Outperform,,main,SDC
+2020-02-26,Stifel,Buy,,main,SDC
+2020-03-02,UBS,Neutral,Buy,down,SDC
+2020-05-14,JP Morgan,Overweight,,main,SDC
+2020-05-14,B of A Securities,Underperform,Buy,down,SDC
+2020-05-20,UBS,Neutral,,main,SDC
+2020-06-25,Stephens & Co.,Overweight,,init,SDC
+2020-09-09,Wolfe Research,Peer Perform,Underperform,up,SDC
+2020-12-08,Wolfe Research,Outperform,Peer Perform,up,SDC
+2021-05-11,JP Morgan,Neutral,Overweight,down,SDC
+2021-06-23,Loop Capital,Hold,Buy,down,SDC
+2021-07-08,BNP Paribas,Underperform,,init,SDC
+2021-08-10,JP Morgan,Underweight,Neutral,down,SDC
+2021-08-10,William Blair,Market Perform,Outperform,down,SDC
+2021-08-10,Stephens & Co.,Equal-Weight,Overweight,down,SDC
+2021-08-10,Craig-Hallum,Hold,Buy,down,SDC
+2021-08-13,Wolfe Research,Peer Perform,Outperform,down,SDC
+2021-09-21,Stifel,Hold,Buy,down,SDC
+2021-11-09,Craig-Hallum,Sell,Hold,down,SDC

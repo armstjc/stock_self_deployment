@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Oxen Group,Sell,,init,TTM
+2012-06-07,Kotak Institutional Equities,Buy,,up,TTM
+2012-08-09,Credit Suisse,Underperform,Neutral,down,TTM
+2012-08-10,Karvy Stock Broking,Hold,Buy,down,TTM
+2012-08-10,IIFL Institutional Equities,Reduce,Add,down,TTM
+2012-08-29,Spark Capital,Buy,Add,up,TTM
+2012-10-18,Arihant Capital Markets,Accumulate,,init,TTM
+2012-11-08,Spark Capital,Add,Buy,down,TTM
+2012-11-09,ICICI Securities,Add,Buy,down,TTM
+2013-01-02,Bank of America,Buy,Neutral,up,TTM
+2013-01-08,Credit Suisse,Outperform,Neutral,up,TTM
+2013-01-18,Deutsche Bank,Sell,Hold,down,TTM
+2013-04-11,Oppenheimer,Outperform,,init,TTM
+2013-04-12,Oppenheimer,Outperform,,init,TTM
+2013-04-17,Standard Chartered Bank,Outperform,In-Line,up,TTM
+2013-04-25,Deutsche Bank,Hold,Sell,up,TTM
+2013-08-08,Nomura,Buy,Neutral,up,TTM
+2013-08-08,Nomura,Buy,Neutral,up,TTM
+2013-10-03,Deutsche Bank,Buy,Hold,up,TTM
+2013-11-11,HDFC Securities,Buy,Neutral,up,TTM
+2013-11-11,CLSA,Outperform,Buy,down,TTM
+2013-11-11,Nomura,Neutral,Buy,down,TTM
+2014-02-11,Nomura,Buy,Neutral,up,TTM
+2014-05-21,Morgan Stanley,Equal-Weight,Overweight,down,TTM
+2014-09-02,Jefferies,Buy,Hold,up,TTM
+2015-05-06,Societe Generale,Buy,Hold,up,TTM
+2015-11-03,Bernstein,Outperform,Market Perform,up,TTM
+2015-11-09,Deutsche Bank,Sell,Hold,down,TTM
+2015-11-09,Karvy Stock Broking,Hold,Buy,down,TTM
+2015-11-23,Goldman Sachs,Sell,Neutral,down,TTM
+2016-02-12,Deutsche Bank,Hold,Sell,up,TTM
+2016-02-16,Goldman Sachs,Neutral,Sell,up,TTM
+2016-09-09,Bernstein,Market Perform,Outperform,down,TTM
+2016-11-21,Bernstein,Outperform,Market Perform,up,TTM
+2017-08-10,Morgan Stanley,Equal-Weight,Overweight,down,TTM
+2017-08-11,Bernstein,Market Perform,Outperform,down,TTM
+2019-02-08,Bank of America,Neutral,Buy,down,TTM
+2019-02-08,Nomura,Neutral,Buy,down,TTM
+2019-10-28,CLSA,Buy,Sell,up,TTM
+2020-01-27,UBS,Buy,Neutral,up,TTM
+2021-06-29,Nomura Instinet,Neutral,Reduce,up,TTM
+2021-10-07,Morgan Stanley,Overweight,Equal-Weight,up,TTM

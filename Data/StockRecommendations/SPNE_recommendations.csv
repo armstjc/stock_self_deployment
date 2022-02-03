@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-02,PiperJaffray,Overweight,,init,SPNE
+2017-06-21,BTIG Research,Buy,,init,SPNE
+2017-07-10,H.C. Wainwright,Buy,,init,SPNE
+2018-06-01,Cantor Fitzgerald,Overweight,,init,SPNE
+2018-12-13,Wells Fargo,Outperform,,init,SPNE
+2019-12-12,Wells Fargo,Underweight,Overweight,down,SPNE
+2020-02-05,Canaccord Genuity,Buy,,init,SPNE
+2020-04-03,SunTrust Robinson Humphrey,Buy,,init,SPNE
+2020-04-07,Wells Fargo,Equal-Weight,Underweight,up,SPNE
+2020-10-20,Stifel,Buy,,init,SPNE
+2021-03-02,Canaccord Genuity,Buy,,main,SPNE
+2021-04-08,Wells Fargo,Overweight,Equal-Weight,up,SPNE
+2021-05-04,Canaccord Genuity,Buy,,main,SPNE
+2021-12-21,Truist Securities,Buy,,main,SPNE

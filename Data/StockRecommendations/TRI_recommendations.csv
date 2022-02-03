@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-01,Deutsche Bank,Hold,,main,TRI
+2012-08-01,Bank of America,Buy,,main,TRI
+2012-09-14,Barclays,Equal-Weight,,main,TRI
+2012-11-05,Barclays,Equal-Weight,,main,TRI
+2013-02-15,Barclays,Equal-Weight,,main,TRI
+2013-02-20,National Bank Financial,Underperform,Sector Perform,down,TRI
+2013-02-20,National Bank Financial,Underperform,Sector Perform,down,TRI
+2013-03-25,Deutsche Bank,Hold,,main,TRI
+2013-03-25,Bank of America,Buy,,main,TRI
+2013-03-28,Citigroup,Buy,,main,TRI
+2013-04-15,Canaccord Genuity,Buy,,init,TRI
+2013-05-23,PiperJaffray,Neutral,Underweight,up,TRI
+2013-10-30,RBC Capital,Outperform,Sector Perform,up,TRI
+2013-10-30,National Bank Financial,Sector Perform,Underperform,up,TRI
+2013-11-21,FBR Capital,Outperform,,init,TRI
+2013-12-04,Nomura,Reduce,Neutral,down,TRI
+2013-12-19,Credit Suisse,Outperform,Neutral,up,TRI
+2014-02-13,Credit Suisse,Outperform,,main,TRI
+2014-02-13,Nomura,Reduce,,main,TRI
+2014-03-07,Deutsche Bank,Hold,,init,TRI
+2014-05-01,Deutsche Bank,Hold,,main,TRI
+2014-06-02,TD Securities,Buy,Hold,up,TRI
+2014-07-14,Barclays,Equal-Weight,,main,TRI
+2014-07-24,Jefferies,Hold,,init,TRI
+2014-07-31,Deutsche Bank,Hold,,main,TRI
+2014-07-31,Nomura,,,main,TRI
+2014-07-31,Credit Suisse,Outperform,,main,TRI
+2014-11-03,JP Morgan,Neutral,,main,TRI
+2015-02-06,National Bank Financial,Sector Perform,Outperform,down,TRI
+2015-04-16,RBC Capital,Sector Perform,Outperform,down,TRI
+2015-10-26,FBR Capital,Market Perform,Outperform,down,TRI
+2015-12-17,Barclays,Equal-Weight,,main,TRI
+2016-01-07,Bank of America,Neutral,Buy,down,TRI
+2016-02-12,Deutsche Bank,Hold,,main,TRI
+2016-02-16,Nomura,Neutral,,main,TRI
+2016-06-27,TD Securities,Hold,,down,TRI
+2016-08-01,Morgan Stanley,Equal-Weight,,main,TRI
+2016-08-23,Barclays,Equal-Weight,,main,TRI
+2016-08-25,Macquarie,Neutral,,init,TRI
+2017-04-20,Berenberg,Sell,,init,TRI
+2017-05-01,Canaccord Genuity,Hold,Buy,down,TRI
+2017-06-15,Macquarie,Outperform,Neutral,up,TRI
+2017-06-19,Deutsche Bank,Buy,Hold,up,TRI
+2017-08-02,Deutsche Bank,Buy,,main,TRI
+2017-09-06,TD Securities,Buy,Hold,up,TRI
+2017-10-17,Scotiabank,Sector Outperform,Sector Perform,up,TRI
+2017-10-23,Morgan Stanley,Equal-Weight,,main,TRI
+2017-10-24,Credit Suisse,Neutral,,init,TRI
+2017-11-02,Morgan Stanley,Equal-Weight,,main,TRI
+2017-11-02,Credit Suisse,Neutral,,main,TRI
+2017-11-08,Goldman Sachs,Sell,,init,TRI
+2018-02-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,TRI
+2018-04-13,Barclays,Equal-Weight,Equal-Weight,main,TRI
+2018-05-14,Barclays,Equal-Weight,Equal-Weight,main,TRI
+2018-05-14,Canaccord Genuity,Buy,Hold,up,TRI
+2018-05-14,Bank of America,Neutral,Neutral,main,TRI
+2018-10-15,Morgan Stanley,Overweight,Overweight,main,TRI
+2018-12-06,Morgan Stanley,Overweight,Overweight,main,TRI
+2018-12-07,Credit Suisse,Neutral,,init,TRI
+2019-02-27,BMO Capital,Outperform,Outperform,main,TRI
+2019-04-22,National Bank Financial,Outperform,Sector Perform,up,TRI
+2019-04-29,Morgan Stanley,Overweight,Overweight,main,TRI
+2019-06-25,Macquarie,Neutral,Outperform,down,TRI
+2019-07-29,Credit Suisse,Outperform,Neutral,up,TRI
+2019-07-29,National Bank Financial,Sector Perform,Outperform,down,TRI
+2019-08-02,Bank of America,Neutral,,reit,TRI
+2019-08-21,TD Securities,Hold,Buy,down,TRI
+2019-11-11,Bank of America,Buy,Neutral,up,TRI
+2020-02-07,RBC Capital,Sector Perform,Outperform,down,TRI
+2020-02-26,JP Morgan,Neutral,,main,TRI
+2020-02-26,B of A Securities,Buy,,main,TRI
+2020-03-27,RBC Capital,Outperform,Sector Perform,up,TRI
+2020-04-09,Barclays,Equal-Weight,,main,TRI
+2020-05-06,B of A Securities,Buy,,reit,TRI
+2020-05-06,JP Morgan,Neutral,,main,TRI
+2020-07-15,ScotiaBank,Sector Perform,,main,TRI
+2020-08-03,RBC Capital,Outperform,,main,TRI
+2020-11-04,ScotiaBank,Sector Perform,,main,TRI
+2021-02-24,Morgan Stanley,Equal-Weight,,main,TRI
+2021-02-24,ScotiaBank,Sector Perform,,main,TRI
+2021-03-17,Morgan Stanley,Equal-Weight,,main,TRI
+2021-05-05,CIBC,Neutral,Outperformer,down,TRI
+2021-05-05,Morgan Stanley,Equal-Weight,,main,TRI

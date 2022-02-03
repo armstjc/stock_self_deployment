@@ -1,0 +1,139 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Oxen Group,Hold,,init,PII
+2012-04-18,Feltl & Co.,Buy,,main,PII
+2012-04-18,Wedbush,Neutral,,main,PII
+2012-07-24,Feltl & Co.,Buy,,main,PII
+2012-07-25,Citigroup,Buy,,main,PII
+2012-09-21,Stephens & Co.,Equal-Weight,,init,PII
+2012-10-18,Wedbush,Neutral,,main,PII
+2012-11-14,Wedbush,Outperform,Neutral,up,PII
+2013-01-15,SunTrust Robinson Humphrey,Neutral,,init,PII
+2013-01-28,B. Riley FBR,Neutral,Buy,down,PII
+2013-07-02,UBS,Buy,,init,PII
+2013-08-02,Longbow Research,Buy,Neutral,up,PII
+2013-10-04,UBS,Buy,,main,PII
+2014-01-29,B. Riley FBR,Buy,Neutral,up,PII
+2014-04-28,Citigroup,Buy,,main,PII
+2014-05-15,UBS,Buy,,main,PII
+2014-06-24,RBC Capital,Outperform,,init,PII
+2014-06-25,Stephens & Co.,Overweight,,init,PII
+2014-07-29,Citigroup,Buy,,main,PII
+2014-09-26,Wunderlich,Buy,,init,PII
+2014-11-07,Citigroup,Buy,,main,PII
+2014-12-12,Wedbush,Outperform,,init,PII
+2015-01-09,BMO Capital,Market Perform,Outperform,down,PII
+2015-02-09,Citigroup,Buy,,main,PII
+2015-02-20,BB&T Capital,Buy,,init,PII
+2015-03-25,Stifel Nicolaus,Buy,,init,PII
+2015-03-31,BMO Capital,Market Perform,,main,PII
+2015-04-28,Citigroup,Buy,,main,PII
+2015-07-02,CL King,Buy,,init,PII
+2015-07-06,JP Morgan,Neutral,,init,PII
+2015-07-23,RBC Capital,Sector Perform,Outperform,down,PII
+2015-07-29,Wunderlich,Buy,,main,PII
+2015-09-03,RBC Capital,Outperform,Sector Perform,up,PII
+2015-09-09,Longbow Research,Neutral,,down,PII
+2015-09-24,SunTrust Robinson Humphrey,Neutral,,main,PII
+2015-10-22,Wells Fargo,Market Perform,Buy,down,PII
+2015-11-17,Wedbush,Neutral,Outperform,down,PII
+2015-12-04,Longbow Research,Underperform,Neutral,down,PII
+2015-12-07,UBS,Neutral,Buy,down,PII
+2015-12-17,CL King,Neutral,Buy,down,PII
+2016-01-28,BMO Capital,Market Perform,,main,PII
+2016-03-01,Sterne Agee CRT,Neutral,,init,PII
+2016-03-15,Lake Street,Buy,,init,PII
+2016-03-29,RBC Capital,Sector Perform,Outperform,down,PII
+2016-04-04,Citigroup,Buy,,main,PII
+2016-04-14,Stifel Nicolaus,Hold,Buy,down,PII
+2016-04-22,B. Riley FBR,Neutral,Buy,down,PII
+2016-06-10,Longbow Research,Underperform,Neutral,down,PII
+2016-07-12,Raymond James,Market Perform,Strong Buy,down,PII
+2016-08-29,Citigroup,Buy,,main,PII
+2016-08-30,Citigroup,Buy,,main,PII
+2016-08-31,Northcoast Research,Neutral,Buy,down,PII
+2016-09-09,Bernstein,Market Perform,,init,PII
+2016-09-12,KeyBanc,Sector Weight,Overweight,down,PII
+2016-09-13,UBS,Neutral,,main,PII
+2016-09-13,Baird,Outperform,,main,PII
+2016-09-30,Jefferies,Hold,,init,PII
+2016-12-21,Cleveland Research,Neutral,,init,PII
+2017-01-12,BMO Capital,Outperform,Market Perform,up,PII
+2017-01-25,Wunderlich,Hold,Buy,down,PII
+2017-07-21,Baird,Neutral,Outperform,down,PII
+2017-07-21,RBC Capital,Underperform,Sector Perform,down,PII
+2017-09-15,BMO Capital,Outperform,,main,PII
+2017-10-12,Stifel Nicolaus,Hold,,main,PII
+2017-10-25,B. Riley FBR,Neutral,,main,PII
+2017-10-25,Wells Fargo,Market Perform,,main,PII
+2017-10-25,Baird,Neutral,,main,PII
+2017-10-25,BMO Capital,Market Perform,Outperform,down,PII
+2017-10-25,Stifel Nicolaus,Hold,,main,PII
+2018-01-17,Longbow Research,Neutral,Underperform,up,PII
+2018-01-22,RBC Capital,Sector Perform,Underperform,up,PII
+2018-02-06,Citigroup,Buy,Buy,main,PII
+2018-04-09,BMO Capital,Market Perform,Market Perform,main,PII
+2018-05-31,Wedbush,Neutral,Neutral,main,PII
+2018-05-31,Stifel Nicolaus,Hold,Hold,main,PII
+2018-06-01,BMO Capital,Market Perform,Market Perform,main,PII
+2018-07-17,Stifel Nicolaus,Hold,Hold,main,PII
+2018-07-26,Stifel Nicolaus,Hold,Hold,main,PII
+2018-08-13,Citigroup,Buy,Buy,main,PII
+2018-10-10,Baird,Neutral,Neutral,main,PII
+2018-10-23,B. Riley FBR,Buy,Neutral,up,PII
+2018-10-24,BMO Capital,Market Perform,Market Perform,main,PII
+2018-10-26,Raymond James,Strong Buy,Outperform,up,PII
+2018-10-30,Citigroup,Buy,Buy,main,PII
+2018-12-10,B. Riley FBR,Neutral,Buy,down,PII
+2019-04-08,KeyBanc,Overweight,Sector Weight,up,PII
+2019-04-24,Goldman Sachs,Buy,,init,PII
+2019-04-24,Wells Fargo,Outperform,Outperform,main,PII
+2019-05-02,Wedbush,Outperform,Neutral,up,PII
+2019-05-08,Citigroup,Buy,,main,PII
+2019-05-21,BMO Capital,Outperform,Market Perform,up,PII
+2019-07-24,Raymond James,Strong Buy,,main,PII
+2019-07-31,UBS,Buy,Neutral,up,PII
+2019-10-23,Raymond James,Strong Buy,,main,PII
+2019-10-23,Wedbush,Outperform,,main,PII
+2019-10-24,BMO Capital,Outperform,,main,PII
+2019-10-28,UBS,Buy,,main,PII
+2019-11-05,Citigroup,Buy,,main,PII
+2020-01-17,Wedbush,Neutral,Outperform,down,PII
+2020-01-29,Stifel Nicolaus,Hold,,main,PII
+2020-01-29,Raymond James,Strong Buy,,main,PII
+2020-03-24,Baird,Neutral,,main,PII
+2020-03-30,BMO Capital,Market Perform,Outperform,down,PII
+2020-04-08,Stifel,Hold,,main,PII
+2020-04-14,KeyBanc,Overweight,,main,PII
+2020-04-29,Stifel,Hold,,main,PII
+2020-04-29,SunTrust Robinson Humphrey,Hold,,main,PII
+2020-04-29,Raymond James,Strong Buy,,main,PII
+2020-04-30,KeyBanc,Overweight,,main,PII
+2020-05-05,BMO Capital,Market Perform,,main,PII
+2020-05-18,UBS,Buy,,main,PII
+2020-05-28,Raymond James,Strong Buy,,main,PII
+2020-06-16,Raymond James,Strong Buy,,main,PII
+2020-07-08,Baird,Neutral,,main,PII
+2020-07-29,Raymond James,Strong Buy,,main,PII
+2020-07-29,KeyBanc,Overweight,,main,PII
+2020-07-29,Stifel,Hold,,main,PII
+2020-09-15,Citigroup,Buy,,init,PII
+2020-09-30,Longbow Research,Buy,Neutral,up,PII
+2020-10-05,Baird,Outperform,Neutral,up,PII
+2020-10-28,Raymond James,Strong Buy,,main,PII
+2020-10-28,Stifel,Hold,,main,PII
+2021-01-20,BMO Capital,Outperform,Market Perform,up,PII
+2021-01-20,Morgan Stanley,Overweight,,init,PII
+2021-01-27,Raymond James,Strong Buy,,main,PII
+2021-01-27,Morgan Stanley,Overweight,,main,PII
+2021-01-27,KeyBanc,Overweight,,main,PII
+2021-03-19,Morgan Stanley,Overweight,,main,PII
+2021-03-22,Raymond James,Strong Buy,Cautious,main,PII
+2021-04-28,Morgan Stanley,Overweight,,main,PII
+2021-04-28,RBC Capital,Sector Perform,,main,PII
+2021-04-28,Raymond James,Strong Buy,,main,PII
+2021-04-28,Keybanc,Overweight,,main,PII
+2021-07-01,Longbow Research,Neutral,Buy,down,PII
+2021-07-28,Raymond James,Strong Buy,,main,PII
+2021-10-27,Raymond James,Strong Buy,,main,PII
+2021-10-28,Morgan Stanley,Overweight,,main,PII
+2021-11-01,Keybanc,Overweight,,main,PII

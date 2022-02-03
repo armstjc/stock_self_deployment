@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-11-26,Morgan Stanley,Overweight,,init,VCYT
+2014-06-20,PiperJaffray,Overweight,,init,VCYT
+2014-08-14,Leerink Swann,Outperform,,main,VCYT
+2014-10-07,Stephens & Co.,Overweight,,init,VCYT
+2015-04-06,BTIG Research,Buy,,init,VCYT
+2016-11-29,Janney Capital,Buy,Neutral,up,VCYT
+2017-11-07,Janney Capital,Neutral,Buy,down,VCYT
+2017-11-07,Leerink Swann,Outperform,,main,VCYT
+2018-11-29,Janney Capital,Neutral,Buy,down,VCYT
+2019-07-02,Needham,Buy,,init,VCYT
+2019-07-31,Lake Street,Buy,,init,VCYT
+2020-02-26,Needham,Buy,,main,VCYT
+2020-05-07,SVB Leerink,Outperform,,main,VCYT
+2020-07-31,Needham,Buy,,main,VCYT
+2020-07-31,SVB Leerink,Outperform,,main,VCYT
+2020-09-09,Morgan Stanley,Underweight,,init,VCYT
+2020-11-03,Needham,Buy,,main,VCYT
+2020-11-03,SVB Leerink,Outperform,,main,VCYT
+2020-11-04,BTIG,Buy,,main,VCYT
+2020-11-10,KeyBanc,Sector Weight,,init,VCYT
+2021-01-28,Truist Securities,Buy,,init,VCYT
+2021-02-08,SVB Leerink,Outperform,,main,VCYT
+2021-02-18,SVB Leerink,Outperform,,main,VCYT
+2021-02-19,Morgan Stanley,Underweight,,main,VCYT
+2021-02-22,Morgan Stanley,Underweight,,main,VCYT
+2021-05-11,Needham,Buy,,main,VCYT
+2021-05-11,SVB Leerink,Outperform,,main,VCYT
+2021-05-12,Morgan Stanley,Underweight,,main,VCYT
+2021-05-18,Truist Securities,Buy,,main,VCYT
+2021-06-15,Raymond James,Outperform,,init,VCYT
+2021-06-28,Raymond James,Outperform,,main,VCYT
+2021-07-14,SVB Leerink,Outperform,,main,VCYT
+2021-07-30,SVB Leerink,Outperform,,main,VCYT
+2021-07-30,Needham,Buy,,main,VCYT
+2021-07-30,Morgan Stanley,Underweight,,main,VCYT
+2021-11-10,Raymond James,Outperform,,main,VCYT

@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-12-12,Leerink Swann,Outperform,,init,SCPH
+2017-12-12,Jefferies,Buy,,init,SCPH
+2017-12-12,BMO Capital,Outperform,,init,SCPH
+2018-06-14,BMO Capital,Outperform,Outperform,main,SCPH
+2018-06-14,Jefferies,Buy,Buy,main,SCPH
+2019-01-30,Leerink Swann,Market Perform,Outperform,down,SCPH
+2019-10-15,HC Wainwright & Co.,Buy,,init,SCPH
+2020-05-13,HC Wainwright & Co.,Buy,,reit,SCPH
+2020-05-27,SVB Leerink,Market Perform,,main,SCPH
+2020-11-30,SVB Leerink,Market Perform,,main,SCPH
+2021-09-09,SVB Leerink,Market Perform,,init,SCPH

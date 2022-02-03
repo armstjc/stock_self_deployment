@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,JP Morgan,Overweight,,up,VSH
+2012-02-08,Citigroup,Neutral,,main,VSH
+2012-06-06,JP Morgan,Neutral,,down,VSH
+2012-07-02,Citigroup,Neutral,,main,VSH
+2012-09-04,Stifel Nicolaus,Buy,Hold,up,VSH
+2013-07-26,Bank of America,Buy,,init,VSH
+2014-05-07,Citigroup,Hold,,main,VSH
+2014-10-29,JP Morgan,Neutral,,main,VSH
+2015-01-21,Longbow Research,Neutral,Buy,down,VSH
+2015-02-06,JP Morgan,Neutral,,main,VSH
+2015-08-05,Bank of America,Underperform,Buy,down,VSH
+2015-10-23,Citigroup,Sell,Neutral,down,VSH
+2016-11-09,Stifel Nicolaus,Hold,Buy,down,VSH
+2017-10-27,Citigroup,Sell,,main,VSH
+2017-10-27,Stifel Nicolaus,Hold,,main,VSH
+2018-02-07,Stifel Nicolaus,Hold,Hold,main,VSH
+2018-05-09,Bank of America,Buy,Underperform,up,VSH
+2018-08-08,Citigroup,Buy,Buy,main,VSH
+2019-02-06,Bank of America,Neutral,Buy,down,VSH
+2019-05-22,Cowen & Co.,Market Perform,,init,VSH
+2019-08-29,BNP Paribas,Outperform,Neutral,up,VSH
+2019-11-06,Bank of America,Underperform,Neutral,down,VSH
+2020-10-07,Stifel,Buy,Hold,up,VSH
+2021-01-15,B of A Securities,Underperform,Neutral,down,VSH
+2021-04-06,Loop Capital,Buy,Hold,up,VSH

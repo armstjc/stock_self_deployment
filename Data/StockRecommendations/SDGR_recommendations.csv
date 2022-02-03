@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-02,BMO Capital,Outperform,,init,SDGR
+2020-03-02,Jefferies,Hold,,init,SDGR
+2020-03-02,Morgan Stanley,Equal-Weight,,init,SDGR
+2020-05-14,Morgan Stanley,Equal-Weight,,main,SDGR
+2020-05-14,BMO Capital,Outperform,,main,SDGR
+2020-10-12,Jefferies,Buy,Hold,up,SDGR
+2020-10-13,Morgan Stanley,Equal-Weight,,main,SDGR
+2020-11-13,Morgan Stanley,Equal-Weight,,main,SDGR
+2020-11-23,B of A Securities,Buy,Neutral,up,SDGR
+2021-05-12,Morgan Stanley,Equal-Weight,,main,SDGR
+2021-05-25,Craig-Hallum,Buy,,init,SDGR
+2021-09-01,Morgan Stanley,Overweight,Equal-Weight,up,SDGR
+2021-10-13,Berenberg,Buy,,init,SDGR
+2021-11-11,B of A Securities,Neutral,Buy,down,SDGR
+2021-11-19,Piper Sandler,Overweight,,init,SDGR
+2021-11-19,Morgan Stanley,Equal-Weight,Overweight,down,SDGR

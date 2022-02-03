@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-03-11,BMO Capital,Outperform,,init,TCRR
+2019-03-11,Jefferies,Buy,,init,TCRR
+2019-03-11,Wedbush,Outperform,,init,TCRR
+2019-05-31,Roth Capital,Neutral,,init,TCRR
+2019-11-04,HC Wainwright & Co.,Buy,,init,TCRR
+2020-07-27,HC Wainwright & Co.,Buy,,main,TCRR
+2020-07-27,Roth Capital,Buy,Neutral,up,TCRR
+2020-08-12,Piper Sandler,Overweight,,init,TCRR
+2020-08-12,SVB Leerink,Outperform,,main,TCRR
+2020-08-13,HC Wainwright & Co.,Buy,,main,TCRR
+2020-08-13,Truist Securities,Buy,,init,TCRR
+2020-08-21,Mizuho,Buy,,init,TCRR
+2020-11-30,Roth Capital,Buy,,main,TCRR
+2020-12-14,HC Wainwright & Co.,Buy,,main,TCRR
+2021-03-11,SVB Leerink,Outperform,,main,TCRR
+2021-06-24,Goldman Sachs,Buy,,init,TCRR
+2021-08-06,SVB Leerink,Outperform,,main,TCRR
+2021-09-17,Wedbush,Neutral,Outperform,down,TCRR
+2021-09-20,HC Wainwright & Co.,Buy,,main,TCRR
+2021-09-20,Truist Securities,Buy,,main,TCRR
+2021-10-21,SVB Leerink,Market Perform,Outperform,down,TCRR
+2021-11-10,SVB Leerink,Market Perform,,main,TCRR

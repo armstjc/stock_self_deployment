@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-13,Goldman Sachs,Buy,,init,VRT
+2020-08-20,B of A Securities,Buy,,init,VRT
+2020-09-15,Wolfe Research,Outperform,,init,VRT
+2020-11-12,Guggenheim,Buy,,init,VRT
+2021-04-08,JP Morgan,Overweight,,init,VRT
+2021-09-13,JP Morgan,Neutral,Overweight,down,VRT
+2021-12-14,Wolfe Research,Peer Perform,Outperform,down,VRT
+2021-12-17,Mizuho,Neutral,,init,VRT

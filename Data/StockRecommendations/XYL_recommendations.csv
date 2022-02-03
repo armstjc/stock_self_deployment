@@ -1,0 +1,124 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-21,Janney Capital,Buy,Neutral,up,XYL
+2012-08-03,Barclays,Equal-Weight,,main,XYL
+2012-09-05,Citigroup,Neutral,,main,XYL
+2012-10-17,DA Davidson,Neutral,,init,XYL
+2012-10-18,Ladenburg Thalmann,Neutral,Buy,down,XYL
+2013-01-09,CL King,Buy,,init,XYL
+2013-03-18,Citigroup,Neutral,,main,XYL
+2013-04-15,CL King,Neutral,Buy,down,XYL
+2013-07-30,BB&T Capital,Hold,Buy,down,XYL
+2013-07-30,Brean Capital,Hold,Buy,down,XYL
+2013-07-31,DA Davidson,Underperform,Neutral,down,XYL
+2013-07-31,Wedbush,Neutral,Outperform,down,XYL
+2013-09-26,Barclays,Overweight,Equal-Weight,up,XYL
+2013-10-14,Gabelli & Co.,Buy,,init,XYL
+2013-10-29,Brean Capital,Buy,Hold,up,XYL
+2013-10-30,DA Davidson,Neutral,Underperform,up,XYL
+2013-10-30,KeyBanc,Hold,Buy,down,XYL
+2013-11-19,Cowen & Co.,Outperform,,init,XYL
+2013-11-20,Stifel Nicolaus,Hold,,init,XYL
+2013-12-19,Sterne Agee,Neutral,,init,XYL
+2014-01-21,Oppenheimer,Outperform,,init,XYL
+2014-04-30,Citigroup,Hold,,main,XYL
+2014-04-30,Wedbush,Outperform,Neutral,up,XYL
+2014-04-30,Stifel Nicolaus,Buy,Hold,up,XYL
+2014-06-23,Citigroup,Neutral,,main,XYL
+2014-10-28,Barclays,Overweight,,main,XYL
+2014-10-28,Stifel Nicolaus,Buy,,main,XYL
+2014-10-29,Stifel Nicolaus,Buy,,main,XYL
+2014-10-29,Canaccord Genuity,Hold,,main,XYL
+2014-10-29,Barclays,Overweight,,main,XYL
+2014-10-29,DA Davidson,Neutral,,main,XYL
+2014-11-25,RBC Capital,Sector Perform,,init,XYL
+2015-01-05,Stifel Nicolaus,Hold,Buy,down,XYL
+2015-01-12,Barclays,Overweight,,main,XYL
+2015-01-16,Susquehanna,Neutral,,init,XYL
+2015-01-28,Boenning & Scattergood,Neutral,,init,XYL
+2015-03-17,Barclays,Overweight,,main,XYL
+2015-03-23,Barclays,Equal-Weight,Overweight,down,XYL
+2015-04-01,Boenning & Scattergood,Outperform,Neutral,up,XYL
+2015-07-08,Seaport Global,,,init,XYL
+2015-07-31,Barclays,Equal-Weight,,main,XYL
+2015-09-03,Stifel Nicolaus,Buy,,up,XYL
+2015-10-05,Barclays,Equal-Weight,,main,XYL
+2015-10-30,Barclays,Equal-Weight,,main,XYL
+2015-10-30,Oppenheimer,Outperform,,main,XYL
+2015-11-02,Barclays,Equal-Weight,,main,XYL
+2016-01-06,RBC Capital,Outperform,Sector Perform,up,XYL
+2016-01-19,Barclays,Equal-Weight,,main,XYL
+2016-01-21,Seaport Global,Buy,Accumulate,up,XYL
+2016-02-19,Janney Capital,Neutral,,init,XYL
+2016-03-21,Stifel Nicolaus,Hold,Buy,down,XYL
+2016-04-05,Sterne Agee CRT,Buy,Neutral,up,XYL
+2016-04-11,Wedbush,Neutral,Outperform,down,XYL
+2016-07-18,Barclays,Equal-Weight,,main,XYL
+2016-08-16,Canaccord Genuity,Hold,,main,XYL
+2016-08-22,Atlantic Equities,Overweight,Neutral,up,XYL
+2016-11-02,Janney Capital,Buy,Neutral,up,XYL
+2016-11-17,Northcoast Research,Buy,,init,XYL
+2016-11-28,Boenning & Scattergood,Neutral,Outperform,down,XYL
+2017-03-08,Goldman Sachs,Neutral,,init,XYL
+2017-05-15,Barclays,Overweight,Equal-Weight,up,XYL
+2017-06-21,BMO Capital,Outperform,,init,XYL
+2017-07-12,Oppenheimer,Outperform,,main,XYL
+2017-08-02,BMO Capital,Outperform,,main,XYL
+2017-11-01,Oppenheimer,Outperform,,main,XYL
+2017-11-01,BMO Capital,Outperform,,main,XYL
+2018-04-25,Canaccord Genuity,Hold,Hold,main,XYL
+2018-05-02,BMO Capital,Outperform,Outperform,main,XYL
+2018-05-02,Stifel Nicolaus,Hold,Hold,main,XYL
+2018-08-01,BMO Capital,Outperform,Outperform,main,XYL
+2018-08-01,Stifel Nicolaus,Hold,Hold,main,XYL
+2018-09-05,Raymond James,Outperform,,init,XYL
+2018-10-12,Credit Suisse,Outperform,,init,XYL
+2018-10-18,Vertical Research,Hold,Sell,up,XYL
+2018-10-31,Credit Suisse,Outperform,Outperform,main,XYL
+2018-10-31,BMO Capital,Outperform,Outperform,main,XYL
+2018-12-19,Stifel Nicolaus,Buy,Hold,up,XYL
+2019-04-16,Stifel Nicolaus,Buy,Buy,main,XYL
+2019-05-03,Stifel Nicolaus,Buy,Buy,main,XYL
+2019-05-03,Janney Capital,Buy,Neutral,up,XYL
+2019-05-14,Cowen & Co.,Market Perform,Outperform,down,XYL
+2019-08-02,Credit Suisse,Neutral,Outperform,down,XYL
+2019-09-20,Jefferies,Buy,,init,XYL
+2019-11-04,Seaport Global,Neutral,Buy,down,XYL
+2019-12-05,Jefferies,Hold,Buy,down,XYL
+2019-12-17,Citigroup,Neutral,,init,XYL
+2020-02-07,Canaccord Genuity,Hold,,main,XYL
+2020-02-14,Rosenblatt,Neutral,,init,XYL
+2020-03-10,Credit Suisse,Underperform,Neutral,down,XYL
+2020-03-31,Atlantic Equities,Neutral,Overweight,down,XYL
+2020-04-01,Citigroup,Neutral,,main,XYL
+2020-04-14,Janney Capital,Neutral,,main,XYL
+2020-04-21,Stifel,Buy,,main,XYL
+2020-05-06,Citigroup,Neutral,,main,XYL
+2020-05-06,Baird,Neutral,,main,XYL
+2020-05-06,Credit Suisse,Underperform,,main,XYL
+2020-06-03,Janney Capital,Neutral,,main,XYL
+2020-06-19,Baird,Neutral,,main,XYL
+2020-07-14,Rosenblatt,Buy,Neutral,up,XYL
+2020-07-27,Jefferies,Hold,,main,XYL
+2020-07-31,Credit Suisse,Underperform,,main,XYL
+2020-07-31,Rosenblatt,Buy,,main,XYL
+2020-10-08,Raymond James,Outperform,,main,XYL
+2020-10-30,Credit Suisse,Underperform,,main,XYL
+2020-12-15,Stifel,Hold,Buy,down,XYL
+2021-01-08,Cowen & Co.,Underperform,Market Perform,down,XYL
+2021-01-08,Raymond James,Market Perform,Outperform,down,XYL
+2021-02-05,Citigroup,Neutral,,main,XYL
+2021-02-05,Credit Suisse,Underperform,,main,XYL
+2021-03-31,Morgan Stanley,Overweight,,init,XYL
+2021-05-05,Credit Suisse,Underperform,,main,XYL
+2021-05-05,Goldman Sachs,Neutral,Sell,up,XYL
+2021-06-18,Argus Research,Buy,,init,XYL
+2021-08-04,Credit Suisse,Underperform,,main,XYL
+2021-08-04,RBC Capital,Outperform,,main,XYL
+2021-08-05,Rosenblatt,Buy,,main,XYL
+2021-10-01,Credit Suisse,Underperform,,main,XYL
+2021-10-01,RBC Capital,Outperform,,main,XYL
+2021-10-01,Rosenblatt,Hold,Buy,down,XYL
+2021-11-03,Credit Suisse,Underperform,,main,XYL
+2021-11-23,Loop Capital,Hold,,init,XYL
+2021-12-17,Mizuho,Neutral,,init,XYL
+2022-01-04,Raymond James,Underperform,Market Perform,down,XYL

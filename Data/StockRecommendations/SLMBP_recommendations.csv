@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-20,Janney Capital,Buy,Neutral,up,SLMBP
+2012-10-02,Barclays,Overweight,,main,SLMBP
+2012-10-11,Compass Point,Buy,,init,SLMBP
+2013-02-06,Compass Point,Buy,,main,SLMBP
+2013-03-06,Janney Capital,Neutral,Buy,down,SLMBP
+2013-03-22,Credit Suisse,Outperform,,main,SLMBP
+2013-04-12,Compass Point,Buy,,main,SLMBP
+2013-04-23,Evercore Partners,Equal-Weight,Overweight,down,SLMBP
+2013-05-30,Credit Suisse,Outperform,,main,SLMBP
+2013-05-30,Compass Point,Buy,,main,SLMBP
+2013-07-19,Compass Point,Buy,,main,SLMBP
+2014-01-21,Barclays,Overweight,,main,SLMBP
+2014-01-22,Goldman Sachs,Buy,,init,SLMBP
+2014-03-24,Compass Point,Buy,,main,SLMBP
+2014-05-01,Evercore Partners,Overweight,Equal-Weight,up,SLMBP
+2014-05-01,Credit Suisse,Outperform,,init,SLMBP
+2014-05-02,Janney Capital,Neutral,,init,SLMBP
+2014-05-02,Barclays,Overweight,,main,SLMBP
+2014-07-31,Janney Capital,Buy,Neutral,up,SLMBP
+2014-11-04,Goldman Sachs,Buy,Neutral,up,SLMBP
+2015-01-23,Goldman Sachs,Neutral,Buy,down,SLMBP
+2015-04-24,Barclays,Overweight,,main,SLMBP
+2015-04-24,BMO Capital,Market Perform,,main,SLMBP
+2015-11-30,JP Morgan,Overweight,,init,SLMBP
+2016-01-13,Goldman Sachs,Buy,Neutral,up,SLMBP
+2016-03-21,DA Davidson,Buy,,init,SLMBP
+2016-07-14,Citigroup,Buy,,init,SLMBP
+2016-08-10,Goldman Sachs,Buy,,main,SLMBP
+2016-12-02,FBR Capital,Outperform,,init,SLMBP
+2016-12-07,Jefferies,Buy,,init,SLMBP
+2017-01-30,Wedbush,Outperform,,init,SLMBP
+2017-10-17,Citigroup,Buy,,init,SLMBP
+2018-01-09,Oppenheimer,Outperform,,init,SLMBP
+2018-01-26,Bank of America,Buy,Buy,main,SLMBP
+2018-04-04,Wells Fargo,Outperform,,init,SLMBP
+2018-04-25,BMO Capital,Market Perform,Market Perform,main,SLMBP
+2018-05-30,Wedbush,Outperform,Outperform,main,SLMBP
+2018-07-10,Stephens & Co.,Overweight,,init,SLMBP
+2018-12-12,Wells Fargo,Outperform,Outperform,main,SLMBP
+2019-07-26,Compass Point,Neutral,Buy,down,SLMBP
+2019-10-25,BMO Capital,Outperform,,main,SLMBP
+2020-01-24,Citigroup,Buy,,main,SLMBP
+2020-05-15,BMO Capital,Market Perform,Outperform,down,SLMBP
+2020-12-21,RBC Capital,Sector Perform,,init,SLMBP
+2021-01-29,RBC Capital,Outperform,Sector Perform,up,SLMBP
+2021-01-29,Credit Suisse,Outperform,,main,SLMBP
+2021-07-23,Credit Suisse,Outperform,,main,SLMBP
+2021-10-22,Stephens & Co.,Overweight,,main,SLMBP
+2021-10-22,Credit Suisse,Outperform,,main,SLMBP
+2021-10-22,RBC Capital,Outperform,,main,SLMBP

@@ -1,0 +1,137 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-20,Sterne Agee,Buy,,main,PENN
+2012-04-20,Stifel Nicolaus,Buy,,main,PENN
+2012-04-20,Deutsche Bank,Buy,,main,PENN
+2012-07-09,Topeka,Sell,Hold,down,PENN
+2012-07-17,RBC Capital,Outperform,,init,PENN
+2012-07-23,KeyBanc,Hold,Buy,down,PENN
+2012-07-25,Barclays,Overweight,,main,PENN
+2012-08-13,Goldman Sachs,Sell,,main,PENN
+2012-08-15,Topeka,Sell,,main,PENN
+2012-10-01,ISI Group,Hold,,init,PENN
+2012-10-02,ISI Group,Hold,,init,PENN
+2012-10-19,Barclays,Overweight,,main,PENN
+2012-10-21,Goldman Sachs,Sell,,main,PENN
+2012-11-16,Imperial Capital,Outperform,In-Line,up,PENN
+2012-11-19,ISI Group,Hold,,main,PENN
+2012-11-19,Deutsche Bank,Buy,,main,PENN
+2012-11-20,Goldman Sachs,Neutral,Sell,up,PENN
+2012-12-05,ISI Group,Hold,,main,PENN
+2013-01-10,Lazard,Neutral,Buy,down,PENN
+2013-02-01,Stifel Nicolaus,Buy,,main,PENN
+2013-04-16,Deutsche Bank,Buy,,main,PENN
+2013-04-17,Susquehanna,Neutral,Positive,down,PENN
+2013-04-19,Sterne Agee,Buy,,main,PENN
+2013-04-19,Nomura,Neutral,,main,PENN
+2013-04-19,Stifel Nicolaus,Buy,,main,PENN
+2013-04-19,Credit Suisse,Outperform,,main,PENN
+2013-04-22,Morgan Stanley,Equal-Weight,Overweight,down,PENN
+2013-07-24,Imperial Capital,Outperform,,main,PENN
+2013-07-24,Nomura,Neutral,,main,PENN
+2013-10-14,Susquehanna,Positive,Neutral,up,PENN
+2013-11-06,RBC Capital,Sector Perform,Outperform,down,PENN
+2013-11-11,Barclays,Equal-Weight,Overweight,down,PENN
+2013-11-13,FBR Capital,Market Perform,,init,PENN
+2013-11-14,JP Morgan,Neutral,Overweight,down,PENN
+2013-11-18,Wells Fargo,Outperform,Market Perform,up,PENN
+2014-01-24,Deutsche Bank,Buy,,main,PENN
+2014-01-24,Deutsche Bank,Buy,,main,PENN
+2014-01-28,Bank of America,Underperform,Buy,down,PENN
+2014-03-03,Bank of America,Underperform,,main,PENN
+2014-03-26,FBR Capital,Outperform,Market Perform,up,PENN
+2014-04-09,Barclays,Overweight,Equal-Weight,up,PENN
+2014-04-15,Deutsche Bank,Buy,,main,PENN
+2014-04-25,FBR Capital,Outperform,,main,PENN
+2014-04-25,Deutsche Bank,Buy,,main,PENN
+2014-04-28,Bank of America,Underperform,,main,PENN
+2014-05-08,Morgan Stanley,Underweight,Equal-Weight,down,PENN
+2014-07-25,Barclays,Overweight,,main,PENN
+2014-10-24,Stifel Nicolaus,Buy,,main,PENN
+2014-10-24,Credit Suisse,Outperform,,main,PENN
+2015-01-20,JP Morgan,Neutral,,main,PENN
+2015-01-21,Deutsche Bank,Buy,,main,PENN
+2015-01-30,Barclays,Overweight,,main,PENN
+2015-01-30,Stifel Nicolaus,Buy,,main,PENN
+2015-02-23,Bank of America,Buy,Neutral,up,PENN
+2015-03-12,Union Gaming Research,Hold,,init,PENN
+2015-04-17,JP Morgan,Overweight,Neutral,up,PENN
+2015-04-27,Susquehanna,Positive,,main,PENN
+2015-05-18,Goldman Sachs,Buy,Neutral,up,PENN
+2015-05-20,JP Morgan,Overweight,,main,PENN
+2015-07-06,Barclays,Overweight,,main,PENN
+2015-07-14,Deutsche Bank,Buy,,main,PENN
+2015-07-21,Susquehanna,Positive,,main,PENN
+2016-01-19,Telsey Advisory Group,Market Perform,Outperform,up,PENN
+2016-02-05,Stifel Nicolaus,Buy,,main,PENN
+2016-06-01,Morgan Stanley,Equal-Weight,Underweight,up,PENN
+2016-06-30,Macquarie,Outperform,Neutral,up,PENN
+2016-12-07,Deutsche Bank,Buy,,main,PENN
+2017-01-05,JP Morgan,Neutral,Overweight,down,PENN
+2017-02-10,SunTrust Robinson Humphrey,Hold,,init,PENN
+2017-10-24,Morgan Stanley,Equal-Weight,,main,PENN
+2017-10-27,Telsey Advisory Group,Market Perform,Outperform,down,PENN
+2017-11-20,Barclays,Overweight,,main,PENN
+2018-01-19,Jefferies,Buy,,init,PENN
+2018-02-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,PENN
+2018-02-09,Deutsche Bank,Buy,Buy,main,PENN
+2018-03-14,Telsey Advisory Group,Outperform,,init,PENN
+2018-04-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,PENN
+2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,PENN
+2018-05-24,Nomura,Neutral,Neutral,main,PENN
+2018-06-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,PENN
+2018-07-17,Bank of America,Neutral,Neutral,main,PENN
+2018-11-02,JP Morgan,Overweight,Overweight,main,PENN
+2018-11-02,Nomura,Neutral,Neutral,main,PENN
+2019-01-17,Nomura,Buy,Neutral,up,PENN
+2019-05-09,Morgan Stanley,Overweight,Equal-Weight,up,PENN
+2019-08-02,Union Gaming,Buy,Hold,up,PENN
+2019-11-01,Jefferies,Hold,Buy,down,PENN
+2019-12-10,JP Morgan,Overweight,,main,PENN
+2020-01-21,Morgan Stanley,Overweight,,main,PENN
+2020-01-31,Deutsche Bank,Hold,Buy,down,PENN
+2020-02-07,Nomura,Buy,,main,PENN
+2020-03-30,Morgan Stanley,Overweight,,main,PENN
+2020-04-03,Susquehanna,Positive,,main,PENN
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,PENN
+2020-05-11,Morgan Stanley,Overweight,,main,PENN
+2020-05-13,SunTrust Robinson Humphrey,Buy,,main,PENN
+2020-05-27,Morgan Stanley,Overweight,,main,PENN
+2020-05-29,Nomura Instinet,Buy,,main,PENN
+2020-06-08,Deutsche Bank,Sell,Hold,down,PENN
+2020-07-20,Morgan Stanley,Overweight,,main,PENN
+2020-07-21,SunTrust Robinson Humphrey,Buy,,main,PENN
+2020-08-07,Morgan Stanley,Overweight,,main,PENN
+2020-08-13,Goldman Sachs,Buy,,init,PENN
+2020-08-18,Truist Securities,Buy,,main,PENN
+2020-08-28,Morgan Stanley,Equal-Weight,Overweight,down,PENN
+2020-09-08,Bank of America,Buy,,reit,PENN
+2020-09-10,Rosenblatt,Buy,,init,PENN
+2020-09-21,B of A Securities,Buy,,main,PENN
+2020-09-24,Macquarie,Neutral,Outperform,down,PENN
+2020-09-30,Rosenblatt,Buy,,main,PENN
+2020-10-16,Morgan Stanley,Equal-Weight,,main,PENN
+2020-11-17,Loop Capital,Hold,,init,PENN
+2020-11-20,Piper Sandler,Overweight,,init,PENN
+2021-01-14,Loop Capital,Sell,Hold,down,PENN
+2021-01-14,KeyBanc,Sector Weight,,init,PENN
+2021-01-20,Morgan Stanley,Equal-Weight,,main,PENN
+2021-01-20,Credit Suisse,Outperform,,init,PENN
+2021-02-02,Stifel,Buy,,main,PENN
+2021-02-05,Morgan Stanley,Equal-Weight,,main,PENN
+2021-02-05,Piper Sandler,Overweight,,main,PENN
+2021-02-05,Rosenblatt,Buy,,main,PENN
+2021-02-05,Truist Securities,Buy,,main,PENN
+2021-02-23,JP Morgan,Overweight,,main,PENN
+2021-03-23,Goldman Sachs,Buy,,main,PENN
+2021-04-21,Goldman Sachs,Buy,,main,PENN
+2021-04-27,Needham,Buy,,init,PENN
+2021-07-28,Goldman Sachs,Buy,,main,PENN
+2021-08-06,Needham,Buy,,main,PENN
+2021-09-15,Wells Fargo,Equal-Weight,,init,PENN
+2021-10-12,Roth Capital,Buy,,init,PENN
+2021-10-19,Berenberg,Buy,,init,PENN
+2021-10-27,Goldman Sachs,Buy,,main,PENN
+2021-11-05,Jefferies,Hold,,main,PENN
+2021-11-05,Credit Suisse,Outperform,,main,PENN
+2021-11-08,Morgan Stanley,Equal-Weight,,main,PENN
+2021-11-12,Deutsche Bank,Hold,Sell,up,PENN

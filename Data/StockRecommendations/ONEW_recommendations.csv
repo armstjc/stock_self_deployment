@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-03-03,Raymond James,Outperform,,init,ONEW
+2020-03-03,Baird,Outperform,,init,ONEW
+2020-03-03,SunTrust Robinson Humphrey,Buy,,init,ONEW
+2020-04-06,Baird,Neutral,Outperform,down,ONEW
+2020-05-08,Raymond James,Outperform,,main,ONEW
+2020-05-11,Raymond James,Outperform,,main,ONEW
+2020-06-03,Raymond James,Outperform,,main,ONEW
+2020-06-04,Raymond James,Outperform,,main,ONEW
+2020-06-16,Raymond James,Outperform,,main,ONEW
+2020-07-31,Raymond James,Outperform,,main,ONEW
+2020-09-22,Baird,Outperform,Neutral,up,ONEW
+2020-11-20,Raymond James,Outperform,,main,ONEW
+2021-02-05,Raymond James,Outperform,,main,ONEW
+2021-02-23,Stifel,Buy,,init,ONEW
+2021-03-03,KeyBanc,Overweight,,init,ONEW
+2021-03-22,Raymond James,Outperform,,main,ONEW
+2021-04-30,Raymond James,Outperform,,main,ONEW
+2021-07-30,Raymond James,Outperform,,main,ONEW
+2021-09-30,Wolfe Research,Outperform,,init,ONEW
+2021-11-19,Keybanc,Overweight,,main,ONEW

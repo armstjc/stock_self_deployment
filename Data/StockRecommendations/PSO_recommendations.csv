@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-09,Deutsche Bank,Hold,Buy,down,PSO
+2013-01-24,Barclays,Equal-weight,Underweight,up,PSO
+2013-03-12,Charles Stanley,Hold,Accumulate,down,PSO
+2013-10-15,Societe Generale,Hold,Sell,up,PSO
+2013-10-18,Kepler Cheuvreux,Hold,Reduce,up,PSO
+2014-01-27,Citigroup,Buy,Neutral,up,PSO
+2014-01-27,JP Morgan,Neutral,Overweight,down,PSO
+2014-04-04,Jefferies,Buy,Hold,up,PSO
+2015-03-02,Nomura,Neutral,Reduce,up,PSO
+2015-04-13,Jefferies,Underperform,Buy,down,PSO
+2015-07-08,Berenberg,Sell,Hold,down,PSO
+2015-10-22,JP Morgan,Neutral,Overweight,down,PSO
+2015-10-22,Bank of America,Neutral,,down,PSO
+2015-10-23,Exane BNP Paribas,Neutral,Outperform,down,PSO
+2015-11-02,Charles Stanley,Hold,,down,PSO
+2016-01-21,Jefferies,Buy,Underperform,up,PSO
+2016-03-02,Goldman Sachs,Sell,Neutral,down,PSO
+2016-09-22,Exane BNP Paribas,Neutral,Outperform,down,PSO
+2016-10-27,Morgan Stanley,Equal-Weight,Overweight,down,PSO
+2018-08-01,Citigroup,Neutral,Buy,down,PSO
+2019-03-07,UBS,Neutral,,init,PSO
+2020-03-17,Goldman Sachs,Neutral,Sell,up,PSO
+2020-05-27,Berenberg,Sell,Hold,down,PSO
+2021-08-23,JP Morgan,Overweight,Neutral,up,PSO
+2021-09-30,Kepler Cheuvreux,Hold,Reduce,up,PSO
+2021-10-19,Berenberg,Hold,Sell,up,PSO

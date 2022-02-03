@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-25,Jefferies,Underperform,Hold,down,TEF
+2013-02-26,Bernstein,Market Perform,Underperform,up,TEF
+2013-03-01,Goldman Sachs,Neutral,Sell,up,TEF
+2013-03-01,Barclays,Equal-Weight,Underweight,up,TEF
+2013-03-04,JP Morgan,Overweight,Neutral,up,TEF
+2013-03-07,Exane BNP Paribas,Neutral,Underperform,up,TEF
+2013-03-19,Morgan Stanley,Overweight,Equal-Weight,up,TEF
+2013-07-17,Macquarie,Neutral,Underperform,up,TEF
+2013-10-22,Bankia Bolsa,Accumulate,Buy,down,TEF
+2013-12-06,Exane BNP Paribas,Underperform,Neutral,down,TEF
+2014-01-14,Raymond James,Market Perform,Underperform,up,TEF
+2014-01-22,Espirito Santo,Sell,Neutral,down,TEF
+2014-03-04,Citigroup,Neutral,Sell,up,TEF
+2014-03-26,Bank of America,Underperform,Neutral,down,TEF
+2014-11-03,Macquarie,Neutral,Underperform,up,TEF
+2015-03-02,RBC Capital,Outperform,Sector Perform,up,TEF
+2015-06-12,Berenberg,Hold,Sell,up,TEF
+2015-09-02,Bank of America,Underperform,,down,TEF
+2015-10-19,Credit Suisse,Underperform,Neutral,down,TEF
+2015-11-03,UBS,Buy,Neutral,up,TEF
+2016-01-21,Macquarie,Outperform,Underperform,up,TEF
+2016-04-06,Credit Suisse,Neutral,Underperform,up,TEF
+2016-06-28,Goldman Sachs,Neutral,Buy,down,TEF
+2016-12-15,Deutsche Bank,Hold,Sell,up,TEF
+2017-03-09,Deutsche Bank,Buy,Hold,up,TEF
+2017-05-18,Goldman Sachs,Buy,Neutral,up,TEF
+2017-12-11,Bernstein,Underperform,Market Perform,down,TEF
+2018-02-09,Jefferies,Hold,Underperform,up,TEF
+2018-07-23,Goldman Sachs,Neutral,Buy,down,TEF
+2018-08-10,Jefferies,Buy,Hold,up,TEF
+2019-03-20,Macquarie,Neutral,Outperform,down,TEF
+2021-03-31,B of A Securities,Buy,Neutral,up,TEF
+2021-06-10,Berenberg,Buy,Hold,up,TEF
+2021-10-15,Barclays,Underweight,Equal-Weight,down,TEF
+2021-11-23,Berenberg,Hold,Buy,down,TEF

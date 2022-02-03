@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-10-11,Piper Sandler,Overweight,,init,TWKS
+2021-10-11,Goldman Sachs,Neutral,,init,TWKS
+2021-10-11,Citigroup,Buy,,init,TWKS
+2021-10-11,Credit Suisse,Neutral,,init,TWKS
+2021-10-11,Cowen & Co.,Outperform,,init,TWKS
+2021-10-11,Baird,Neutral,,init,TWKS
+2021-10-11,RBC Capital,Outperform,,init,TWKS
+2021-10-11,JP Morgan,Overweight,,init,TWKS
+2021-10-11,Wedbush,Outperform,,init,TWKS
+2021-10-11,B of A Securities,Neutral,,init,TWKS
+2021-11-16,RBC Capital,Outperform,,main,TWKS
+2021-11-16,Credit Suisse,Neutral,,main,TWKS
+2022-01-10,Goldman Sachs,Buy,Neutral,up,TWKS

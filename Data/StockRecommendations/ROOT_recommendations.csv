@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-23,Wells Fargo,Overweight,,init,ROOT
+2020-11-23,Citigroup,Neutral,,init,ROOT
+2020-11-23,Morgan Stanley,Equal-Weight,,init,ROOT
+2020-11-23,Barclays,Equal-Weight,,init,ROOT
+2020-11-23,Deutsche Bank,Hold,,init,ROOT
+2020-11-23,JMP Securities,Market Outperform,,init,ROOT
+2020-11-23,Cantor Fitzgerald,Overweight,,init,ROOT
+2020-11-23,Goldman Sachs,Neutral,,init,ROOT
+2020-11-23,Evercore ISI Group,In-Line,,init,ROOT
+2020-12-18,Credit Suisse,Neutral,,init,ROOT
+2021-03-09,B of A Securities,Underperform,,init,ROOT
+2021-04-16,Morgan Stanley,Equal-Weight,,main,ROOT
+2021-07-09,Wells Fargo,Overweight,,main,ROOT
+2021-08-13,Truist Securities,Hold,Buy,down,ROOT
+2021-08-13,Wells Fargo,Equal-Weight,Overweight,down,ROOT
+2021-08-13,Barclays,Equal-Weight,,main,ROOT
+2021-08-17,Wolfe Research,Peer Perform,,init,ROOT
+2021-08-19,Morgan Stanley,Equal-Weight,,main,ROOT
+2021-11-15,Barclays,Underweight,Equal-Weight,down,ROOT
+2021-11-19,Jefferies,Hold,,init,ROOT
+2022-01-04,Wells Fargo,Equal-Weight,,main,ROOT

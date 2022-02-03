@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-23,Stephens & Co.,Overweight,,init,SCPL
+2019-05-28,Bank of America,Buy,,init,SCPL
+2019-05-28,Stifel Nicolaus,Buy,,init,SCPL
+2019-05-28,Goldman Sachs,Buy,,init,SCPL
+2019-05-28,JP Morgan,Overweight,,init,SCPL
+2019-05-28,Wedbush,Outperform,,init,SCPL
+2019-05-28,RBC Capital,Outperform,,init,SCPL
+2019-05-28,Morgan Stanley,Equal-Weight,,init,SCPL
+2019-08-02,Wedbush,Outperform,,main,SCPL
+2019-08-02,Morgan Stanley,Equal-Weight,,main,SCPL
+2019-09-19,Bank of America,Underperform,Buy,down,SCPL
+2019-10-15,Morgan Stanley,Equal-Weight,,main,SCPL
+2019-12-17,Goldman Sachs,Sell,Buy,down,SCPL
+2020-01-07,SunTrust Robinson Humphrey,Hold,,init,SCPL
+2020-01-22,DA Davidson,Buy,,init,SCPL
+2020-04-17,SunTrust Robinson Humphrey,Buy,Hold,up,SCPL
+2020-04-21,Morgan Stanley,Equal-Weight,,main,SCPL
+2020-04-22,B of A Securities,Neutral,Underperform,up,SCPL
+2020-05-12,Morgan Stanley,Equal-Weight,,main,SCPL
+2020-05-12,Wedbush,Outperform,,main,SCPL
+2020-06-10,RBC Capital,Sector Perform,Outperform,down,SCPL
+2020-07-24,Morgan Stanley,Equal-Weight,,main,SCPL
+2020-10-15,Morgan Stanley,Equal-Weight,,main,SCPL
+2020-11-30,KeyBanc,Overweight,,init,SCPL
+2020-12-16,JP Morgan,Neutral,Overweight,down,SCPL
+2021-02-08,KeyBanc,Overweight,,main,SCPL
+2021-03-02,KeyBanc,Overweight,,main,SCPL
+2021-07-16,Truist Securities,Hold,Buy,down,SCPL
+2021-07-20,Craig-Hallum,Hold,Buy,down,SCPL
+2021-08-02,Keybanc,Sector Weight,Overweight,down,SCPL

@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-10-08,Wedbush,Outperform,,init,SWTX
+2019-10-08,JP Morgan,Overweight,,init,SWTX
+2019-10-08,Goldman Sachs,Buy,,init,SWTX
+2019-10-08,Cowen & Co.,Outperform,,init,SWTX
+2019-12-04,H.C. Wainwright,Buy,,init,SWTX
+2020-01-21,H.C. Wainwright,Buy,,main,SWTX
+2020-03-04,H.C. Wainwright,Neutral,Buy,down,SWTX
+2020-03-19,H.C. Wainwright,Buy,Neutral,up,SWTX
+2020-04-14,H.C. Wainwright,Buy,,main,SWTX
+2020-05-05,Barclays,Overweight,,init,SWTX
+2020-05-13,Wedbush,Outperform,,main,SWTX
+2020-08-13,Wedbush,Outperform,,main,SWTX
+2020-10-29,HC Wainwright & Co.,Buy,,main,SWTX
+2020-12-28,HC Wainwright & Co.,Buy,,reit,SWTX
+2021-01-19,HC Wainwright & Co.,Buy,,main,SWTX
+2021-01-22,Barclays,Overweight,,main,SWTX
+2021-02-25,HC Wainwright & Co.,Buy,,main,SWTX
+2021-07-21,HC Wainwright & Co.,Buy,,main,SWTX
+2021-08-05,HC Wainwright & Co.,Buy,,main,SWTX
+2021-09-08,JP Morgan,Overweight,,main,SWTX

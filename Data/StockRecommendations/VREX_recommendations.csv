@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-04-21,JP Morgan,Underweight,Neutral,down,VREX
+2017-08-08,JP Morgan,Neutral,Underweight,up,VREX
+2017-08-09,Jefferies,Buy,,init,VREX
+2017-10-04,JP Morgan,Underweight,Neutral,down,VREX
+2017-12-20,JP Morgan,Neutral,Underweight,up,VREX
+2018-11-14,JP Morgan,Neutral,Neutral,main,VREX
+2019-03-19,Northland Securities,Outperform,,init,VREX
+2019-10-22,Oppenheimer,Outperform,,init,VREX
+2019-11-13,JP Morgan,Neutral,,main,VREX
+2020-02-12,Jefferies,Hold,Buy,down,VREX
+2020-03-25,JP Morgan,Overweight,Neutral,up,VREX
+2020-05-13,JP Morgan,Neutral,Overweight,down,VREX
+2020-05-13,Sidoti & Co.,Buy,,main,VREX
+2020-05-13,Jefferies,Hold,,main,VREX
+2020-08-13,Oppenheimer,Perform,Outperform,down,VREX
+2021-02-05,Oppenheimer,Outperform,Perform,up,VREX

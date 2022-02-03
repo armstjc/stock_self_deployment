@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-07-13,Cowen & Co.,Market Perform,,init,TRTN
+2016-11-14,Bank of America,Buy,Underperform,up,TRTN
+2016-11-22,Cowen & Co.,Outperform,Market Perform,up,TRTN
+2017-02-13,Wells Fargo,Outperform,,init,TRTN
+2017-10-20,Wells Fargo,Outperform,,main,TRTN
+2017-11-14,Wells Fargo,Outperform,,main,TRTN
+2018-04-24,Compass Point,Buy,,init,TRTN
+2018-09-07,Keefe Bruyette & Woods,Outperform,Market Perform,up,TRTN
+2018-09-28,Wells Fargo,Market Perform,Outperform,down,TRTN
+2018-10-10,Bank of America,Buy,Buy,main,TRTN
+2019-02-04,Bank of America,Underperform,Buy,down,TRTN
+2020-08-28,B of A Securities,Buy,,main,TRTN
+2020-09-16,B of A Securities,Buy,,main,TRTN
+2020-12-09,B. Riley FBR,Buy,,init,TRTN

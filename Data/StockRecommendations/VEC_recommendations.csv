@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-10-07,CRT Capital,Buy,,init,VEC
+2015-03-18,CRT Capital,Fair Value,Buy,down,VEC
+2015-05-21,Stifel Nicolaus,Hold,,init,VEC
+2015-07-28,BB&T Capital,Hold,,init,VEC
+2015-10-27,Sidoti & Co.,Neutral,,init,VEC
+2016-01-08,Sidoti & Co.,Buy,Neutral,up,VEC
+2016-03-16,Sidoti & Co.,Buy,Neutral,down,VEC
+2016-09-30,Stifel Nicolaus,Hold,,main,VEC
+2018-03-05,Drexel Hamilton,Hold,Buy,down,VEC
+2018-03-07,Noble Financial,Hold,Buy,down,VEC
+2019-04-17,Drexel Hamilton,Buy,Hold,up,VEC
+2019-06-26,B. Riley,Buy,,init,VEC
+2019-11-06,B. Riley,Buy,,main,VEC
+2020-01-06,Stifel,Buy,Hold,up,VEC
+2020-03-05,B. Riley FBR,Buy,,main,VEC

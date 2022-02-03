@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-12-01,Wells Fargo,Outperform,,init,XENE
+2014-12-01,Jefferies,Buy,,init,XENE
+2014-12-02,Canaccord Genuity,Buy,,init,XENE
+2014-12-16,Jefferies,Buy,,main,XENE
+2015-03-13,Jefferies,Buy,,main,XENE
+2015-07-02,Canaccord Genuity,Buy,,main,XENE
+2015-07-02,Jefferies,Buy,,main,XENE
+2015-11-11,Jefferies,Buy,,main,XENE
+2016-03-09,Jefferies,Buy,,main,XENE
+2016-09-26,Guggenheim,Buy,,init,XENE
+2016-10-21,Stifel Nicolaus,Buy,,init,XENE
+2018-03-08,Stifel Nicolaus,Buy,Buy,main,XENE
+2018-08-08,Stifel Nicolaus,Buy,Buy,main,XENE
+2019-09-20,Guggenheim,Buy,,init,XENE
+2020-01-08,William Blair,Outperform,,init,XENE
+2020-03-25,Wedbush,Outperform,,init,XENE
+2020-07-21,Needham,Buy,,init,XENE
+2020-10-02,SVB Leerink,Outperform,,init,XENE
+2021-03-02,SVB Leerink,Outperform,,main,XENE
+2021-03-02,Needham,Buy,,main,XENE
+2021-10-04,Needham,Buy,,main,XENE
+2021-10-28,RBC Capital,Outperform,,init,XENE
+2021-11-11,SVB Leerink,Outperform,,main,XENE

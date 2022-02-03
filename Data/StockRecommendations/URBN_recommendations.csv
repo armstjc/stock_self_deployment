@@ -1,0 +1,292 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-07,Brean Capital,Hold,,up,URBN
+2012-02-09,Collins Stewart,Neutral,,main,URBN
+2012-02-22,BMO Capital,Outperform,,up,URBN
+2012-03-13,Citigroup,Sell,,main,URBN
+2012-03-26,Canaccord Genuity,Hold,,init,URBN
+2012-04-03,Citigroup,Neutral,,up,URBN
+2012-05-22,Canaccord Genuity,Hold,,main,URBN
+2012-07-17,Morgan Stanley,Overweight,,main,URBN
+2012-08-21,Oppenheimer,Outperform,,main,URBN
+2012-08-21,Sterne Agee,Neutral,,main,URBN
+2012-08-21,Bank of America,Buy,,main,URBN
+2012-08-21,JP Morgan,Overweight,,main,URBN
+2012-08-21,PiperJaffray,Overweight,,main,URBN
+2012-08-21,Jefferies,Underperform,,main,URBN
+2012-08-21,ISI Group,Hold,,main,URBN
+2012-08-21,Brean Capital,Hold,Sell,up,URBN
+2012-08-21,Nomura,Neutral,,main,URBN
+2012-08-21,UBS,Neutral,,main,URBN
+2012-08-21,Canaccord Genuity,Hold,,main,URBN
+2012-08-21,BMO Capital,Outperform,,main,URBN
+2012-08-21,Morgan Stanley,Overweight,,main,URBN
+2012-08-21,Stifel Nicolaus,Buy,,main,URBN
+2012-09-10,Bank of America,Buy,,main,URBN
+2012-09-11,Oppenheimer,Outperform,,main,URBN
+2012-09-11,Sterne Agee,Neutral,,main,URBN
+2012-09-11,Stifel Nicolaus,Buy,,main,URBN
+2012-09-13,Citigroup,Neutral,,init,URBN
+2012-11-20,Jefferies,Underperform,,main,URBN
+2012-11-20,Nomura,Neutral,,main,URBN
+2012-12-05,Avondale Partners,Market Outperform,Market Perform,up,URBN
+2012-12-11,Wedbush,Neutral,,main,URBN
+2012-12-11,UBS,Neutral,,main,URBN
+2012-12-13,JP Morgan,Overweight,,main,URBN
+2013-01-02,Jefferies,Hold,Underperform,up,URBN
+2013-01-04,Credit Suisse,Outperform,Neutral,up,URBN
+2013-01-09,Macquarie,Neutral,Underperform,up,URBN
+2013-01-10,PiperJaffray,Overweight,,main,URBN
+2013-01-10,Oppenheimer,Outperform,,main,URBN
+2013-01-10,Wedbush,Neutral,,main,URBN
+2013-01-14,JP Morgan,Overweight,,main,URBN
+2013-02-15,BMO Capital,Market Perform,Outperform,down,URBN
+2013-03-14,Ascendiant Capital,Buy,,init,URBN
+2013-04-02,Barclays,Overweight,,init,URBN
+2013-05-07,Wells Fargo,Outperform,Market Perform,up,URBN
+2013-05-21,BMO Capital,Market Perform,,main,URBN
+2013-05-21,Jefferies,Hold,,main,URBN
+2013-06-25,Maxim Group,Buy,,init,URBN
+2013-07-19,SunTrust Robinson Humphrey,,,init,URBN
+2013-08-20,Wedbush,Outperform,Neutral,up,URBN
+2013-09-09,Nomura,Neutral,,init,URBN
+2013-09-13,Sterne Agee,Buy,,init,URBN
+2013-09-20,Canaccord Genuity,Buy,Hold,up,URBN
+2013-10-02,FBR Capital,Outperform,,init,URBN
+2013-10-24,Atlantic Equities,Overweight,Neutral,up,URBN
+2013-11-15,Mizuho,Buy,,init,URBN
+2013-11-19,Nomura,Neutral,,main,URBN
+2013-12-02,Sterne Agee,Neutral,Buy,down,URBN
+2013-12-16,Goldman Sachs,Buy,Neutral,up,URBN
+2014-01-02,Jefferies,Buy,Hold,up,URBN
+2014-01-06,Ascendiant Capital,Strong Buy,Buy,up,URBN
+2014-02-11,Morgan Stanley,Overweight,,main,URBN
+2014-02-27,Wedbush,Outperform,,init,URBN
+2014-03-11,Nomura,Neutral,,main,URBN
+2014-03-12,Barclays,Equal-weight,Overweight,down,URBN
+2014-05-15,Brean Capital,Buy,,main,URBN
+2014-05-15,FBR Capital,Market Perform,Outperform,down,URBN
+2014-05-15,Janney Capital,Buy,,main,URBN
+2014-05-20,JP Morgan,Overweight,,main,URBN
+2014-05-20,Jefferies,Buy,,main,URBN
+2014-05-20,Citigroup,Hold,,main,URBN
+2014-05-20,Canaccord Genuity,Buy,,main,URBN
+2014-07-01,Wedbush,Neutral,Outperform,down,URBN
+2014-07-02,Macquarie,Outperform,Neutral,up,URBN
+2014-07-30,Citigroup,Neutral,,main,URBN
+2014-08-12,Wunderlich,,,init,URBN
+2014-08-19,Baird,Outperform,Neutral,up,URBN
+2014-08-19,Citigroup,Neutral,,main,URBN
+2014-08-19,Bank of America,Outperform,Hold,up,URBN
+2014-09-19,Buckingham Research,Neutral,,init,URBN
+2014-10-13,Canaccord Genuity,Buy,,main,URBN
+2014-10-16,Macquarie,Neutral,Outperform,down,URBN
+2014-10-17,Macquarie,Neutral,,main,URBN
+2014-10-17,Jefferies,Buy,,main,URBN
+2014-10-17,FBR Capital,Market Perform,,main,URBN
+2014-10-17,Credit Suisse,Neutral,Outperform,down,URBN
+2014-10-17,Canaccord Genuity,Buy,,main,URBN
+2014-10-17,Barclays,Equal-Weight,,main,URBN
+2014-10-17,Barclays,Equal-Weight,,main,URBN
+2014-10-17,Goldman Sachs,Neutral,Buy,down,URBN
+2014-10-17,Morgan Stanley,Equal-weight,Overweight,down,URBN
+2014-10-20,Nomura,Neutral,,main,URBN
+2014-10-23,BB&T Capital,Hold,,init,URBN
+2014-11-06,Brean Capital,Buy,,init,URBN
+2014-11-07,Brean Capital,Hold,,init,URBN
+2014-11-14,Mizuho,Neutral,Buy,down,URBN
+2014-11-18,Credit Suisse,Neutral,,main,URBN
+2014-11-18,Nomura,Neutral,,main,URBN
+2014-11-18,Oppenheimer,Outperform,,main,URBN
+2014-11-18,Wedbush,Neutral,,main,URBN
+2014-11-18,Atlantic Equities,Neutral,Overweight,down,URBN
+2014-11-18,William Blair,Market Perform,Outperform,down,URBN
+2014-11-18,Bank of America,Buy,,main,URBN
+2014-11-18,Jefferies,Buy,,main,URBN
+2014-11-19,Sterne Agee,Neutral,,main,URBN
+2015-01-05,Jefferies,Hold,Buy,down,URBN
+2015-02-03,Guggenheim,Buy,,init,URBN
+2015-02-10,Stifel Nicolaus,Buy,,main,URBN
+2015-02-12,Goldman Sachs,Buy,Neutral,up,URBN
+2015-03-09,Buckingham Research,Neutral,,init,URBN
+2015-03-10,Janney Capital,Buy,Neutral,up,URBN
+2015-03-10,Barclays,Equal-Weight,,main,URBN
+2015-03-10,FBR Capital,Market Perform,,main,URBN
+2015-03-10,Nomura,Neutral,,main,URBN
+2015-03-10,Jefferies,Hold,,main,URBN
+2015-03-10,Oppenheimer,Outperform,,main,URBN
+2015-04-14,BMO Capital,Outperform,Market Perform,up,URBN
+2015-04-21,Cantor Fitzgerald,Buy,,init,URBN
+2015-05-04,RBC Capital,Outperform,,init,URBN
+2015-05-14,Telsey Advisory Group,Outperform,Market Perform,up,URBN
+2015-05-19,UBS,Neutral,,main,URBN
+2015-05-19,Barclays,Equal-Weight,,main,URBN
+2015-05-19,Oppenheimer,Market Perform,Outperform,down,URBN
+2015-05-19,PiperJaffray,Neutral,Overweight,down,URBN
+2015-05-19,JP Morgan,Neutral,Overweight,down,URBN
+2015-05-19,Baird,Outperform,,main,URBN
+2015-06-10,Nomura,Neutral,,main,URBN
+2015-06-12,BB&T Capital,Buy,Hold,up,URBN
+2015-07-14,Jefferies,Buy,Hold,up,URBN
+2015-07-31,BMO Capital,Market Perform,Outperform,down,URBN
+2015-08-17,Wolfe Research,Peer Perform,,init,URBN
+2015-08-18,Mizuho,Neutral,,main,URBN
+2015-08-18,Credit Suisse,Neutral,,main,URBN
+2015-08-18,PiperJaffray,Neutral,,main,URBN
+2015-09-17,MKM Partners,Neutral,,init,URBN
+2015-10-07,Citigroup,Buy,,init,URBN
+2015-10-19,Wunderlich,Hold,,down,URBN
+2015-11-12,Brean Capital,Buy,,main,URBN
+2015-11-17,Telsey Advisory Group,Market Perform,Outperform,down,URBN
+2015-11-17,Cantor Fitzgerald,Hold,Buy,down,URBN
+2015-11-17,Wedbush,Neutral,,main,URBN
+2015-11-17,RBC Capital,Sector Perform,Outperform,down,URBN
+2015-11-17,Morgan Stanley,Equal-Weight,,main,URBN
+2015-11-17,Credit Suisse,Neutral,,main,URBN
+2015-11-18,Macquarie,Neutral,,main,URBN
+2016-02-10,SunTrust Robinson Humphrey,Buy,,main,URBN
+2016-03-03,Baird,Outperform,,main,URBN
+2016-03-08,Credit Suisse,Neutral,,main,URBN
+2016-03-08,Brean Capital,Buy,,main,URBN
+2016-03-08,UBS,Neutral,,main,URBN
+2016-03-08,Stifel Nicolaus,Buy,,main,URBN
+2016-03-08,Cowen & Co.,Market Perform,,main,URBN
+2016-03-08,FBR Capital,Market Perform,,main,URBN
+2016-03-08,Macquarie,Neutral,,main,URBN
+2016-03-18,JP Morgan,Neutral,,main,URBN
+2016-04-01,Goldman Sachs,Buy,,main,URBN
+2016-04-26,Deutsche Bank,Hold,,init,URBN
+2016-05-20,Morgan Stanley,Overweight,Equal-Weight,up,URBN
+2016-07-25,Deutsche Bank,Hold,,main,URBN
+2016-08-17,Evercore ISI Group,Buy,Hold,up,URBN
+2016-08-17,Citigroup,Buy,,main,URBN
+2016-08-17,Wedbush,Neutral,,main,URBN
+2016-08-17,Nomura,Neutral,,main,URBN
+2016-08-17,Credit Suisse,Neutral,,main,URBN
+2016-08-17,Wunderlich,Hold,,main,URBN
+2016-08-17,Jefferies,Buy,,main,URBN
+2016-08-17,BMO Capital,Market Perform,,main,URBN
+2016-08-17,Oppenheimer,Perform,,main,URBN
+2016-08-17,Goldman Sachs,Buy,,main,URBN
+2016-08-17,Baird,Outperform,,main,URBN
+2016-08-17,Deutsche Bank,Hold,,main,URBN
+2016-08-22,Goldman Sachs,Neutral,Buy,down,URBN
+2016-09-06,Jefferies,Buy,,main,URBN
+2016-09-07,Wolfe Research,Outperform,Peer Perform,up,URBN
+2016-11-10,Wunderlich,Buy,Hold,up,URBN
+2016-11-15,Citigroup,Buy,Neutral,up,URBN
+2016-11-17,Morgan Stanley,Equal-Weight,Overweight,down,URBN
+2016-11-23,MKM Partners,Neutral,,main,URBN
+2016-11-23,Deutsche Bank,Hold,,main,URBN
+2016-11-23,Wunderlich,Hold,Buy,down,URBN
+2017-02-02,Goldman Sachs,Sell,Neutral,down,URBN
+2017-02-27,MKM Partners,Sell,Neutral,down,URBN
+2017-03-06,Wunderlich,Hold,,reit,URBN
+2017-03-08,William Blair,Market Perform,Outperform,down,URBN
+2017-03-21,KeyBanc,Overweight,Sector Weight,up,URBN
+2017-04-04,Citigroup,Neutral,Buy,down,URBN
+2017-08-15,FBR Capital,Neutral,,main,URBN
+2017-08-16,Bank of America,Buy,,main,URBN
+2017-08-16,Jefferies,Buy,,main,URBN
+2017-08-16,FBR Capital,Neutral,,main,URBN
+2017-08-16,Morgan Stanley,Equal-Weight,,main,URBN
+2017-10-03,Deutsche Bank,Sell,Hold,down,URBN
+2017-11-14,Buckingham,Buy,,main,URBN
+2017-11-21,BMO Capital,Market Perform,Market Perform,main,URBN
+2017-11-21,KeyBanc,Overweight,,main,URBN
+2017-11-21,JP Morgan,Overweight,Neutral,up,URBN
+2018-02-27,B. Riley FBR,Neutral,,main,URBN
+2018-03-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,URBN
+2018-03-07,KeyBanc,Overweight,Overweight,main,URBN
+2018-03-09,Loop Capital,Buy,,init,URBN
+2018-04-10,JP Morgan,Overweight,Overweight,main,URBN
+2018-05-16,MKM Partners,Neutral,Sell,up,URBN
+2018-05-23,JP Morgan,Overweight,Overweight,main,URBN
+2018-05-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,URBN
+2018-05-24,B. Riley FBR,Neutral,Neutral,main,URBN
+2018-06-12,Bank of America,Buy,Buy,main,URBN
+2018-06-12,Nomura,Neutral,Neutral,main,URBN
+2018-06-12,Deutsche Bank,Sell,Sell,main,URBN
+2018-06-13,Citigroup,Neutral,Neutral,main,URBN
+2018-07-10,KeyBanc,Sector Weight,Overweight,down,URBN
+2018-07-13,Wedbush,Neutral,,init,URBN
+2018-08-14,Baird,Neutral,Outperform,down,URBN
+2018-08-22,Bank of America,Buy,Buy,main,URBN
+2018-08-22,Nomura,Neutral,Neutral,main,URBN
+2018-08-22,B. Riley FBR,Neutral,Neutral,main,URBN
+2018-08-22,Deutsche Bank,Sell,Sell,main,URBN
+2018-08-22,Wells Fargo,Market Perform,Market Perform,main,URBN
+2018-09-26,DA Davidson,Neutral,,init,URBN
+2018-10-11,Wedbush,Neutral,Neutral,main,URBN
+2018-11-20,Wells Fargo,Market Perform,Market Perform,main,URBN
+2018-11-20,MKM Partners,Neutral,Neutral,main,URBN
+2018-11-20,Deutsche Bank,Sell,Sell,main,URBN
+2018-12-17,Nomura,Neutral,Neutral,main,URBN
+2019-01-07,JP Morgan,Neutral,Overweight,down,URBN
+2019-01-09,Morgan Stanley,Overweight,Equal-Weight,up,URBN
+2019-02-14,B. Riley FBR,Buy,Buy,main,URBN
+2019-03-06,RBC Capital,Sector Perform,Sector Perform,main,URBN
+2019-03-06,Nomura,Neutral,Neutral,main,URBN
+2019-04-02,DA Davidson,Buy,Neutral,up,URBN
+2019-04-03,DA Davidson,Buy,Neutral,up,URBN
+2019-04-05,Wedbush,Neutral,Neutral,main,URBN
+2019-05-22,Baird,Neutral,,main,URBN
+2019-05-22,Wells Fargo,Market Perform,,main,URBN
+2019-05-22,B. Riley FBR,Buy,,main,URBN
+2019-05-22,Nomura,Neutral,,main,URBN
+2019-08-15,B. Riley,Neutral,Buy,down,URBN
+2019-08-19,Morgan Stanley,Overweight,,main,URBN
+2019-08-21,Wedbush,Neutral,,main,URBN
+2019-08-21,Bank of America,Buy,,reit,URBN
+2019-08-21,Baird,Neutral,,main,URBN
+2019-08-21,Deutsche Bank,Hold,,main,URBN
+2019-09-30,Wells Fargo,Outperform,Market Perform,up,URBN
+2019-11-12,Wedbush,Neutral,,main,URBN
+2019-11-13,Barclays,Equal-Weight,,init,URBN
+2019-11-20,Deutsche Bank,Hold,,main,URBN
+2019-11-20,Wedbush,Neutral,,main,URBN
+2019-11-20,RBC Capital,Sector Perform,,main,URBN
+2019-11-20,Citi,Neutral,,main,URBN
+2019-11-21,Morgan Stanley,Overweight,,main,URBN
+2019-12-16,Loop Capital,Hold,Buy,down,URBN
+2020-02-04,BMO Capital,Market Perform,,init,URBN
+2020-03-04,Baird,Neutral,,main,URBN
+2020-03-04,JP Morgan,Neutral,,main,URBN
+2020-03-04,Deutsche Bank,Hold,,reit,URBN
+2020-03-04,Citigroup,Neutral,,main,URBN
+2020-03-04,RBC Capital,Sector Perform,,main,URBN
+2020-03-05,Morgan Stanley,Overweight,,main,URBN
+2020-03-05,Baird,Neutral,,main,URBN
+2020-03-16,Wells Fargo,Overweight,,main,URBN
+2020-03-26,B. Riley FBR,Neutral,,main,URBN
+2020-04-03,B. Riley FBR,Neutral,,main,URBN
+2020-04-21,Morgan Stanley,Overweight,,main,URBN
+2020-05-14,Barclays,Equal-Weight,,main,URBN
+2020-05-15,MKM Partners,Neutral,,main,URBN
+2020-05-18,Wedbush,Neutral,,main,URBN
+2020-05-20,Deutsche Bank,Hold,,main,URBN
+2020-05-21,Morgan Stanley,Overweight,,main,URBN
+2020-07-20,Loop Capital,Sell,Hold,down,URBN
+2020-08-12,UBS,Neutral,,init,URBN
+2020-08-26,B of A Securities,Buy,,main,URBN
+2020-08-26,Citigroup,Neutral,,main,URBN
+2020-08-26,Loop Capital,Hold,Sell,up,URBN
+2020-08-26,Telsey Advisory Group,Outperform,Market Perform,up,URBN
+2020-08-27,Morgan Stanley,Overweight,,main,URBN
+2020-08-27,UBS,Neutral,,main,URBN
+2020-10-07,Barclays,Overweight,Equal-Weight,up,URBN
+2020-11-17,Wells Fargo,Equal-Weight,Overweight,down,URBN
+2020-11-20,Morgan Stanley,Overweight,,main,URBN
+2020-11-25,Morgan Stanley,Overweight,,main,URBN
+2021-01-14,JP Morgan,Underweight,Neutral,down,URBN
+2021-03-04,Morgan Stanley,Overweight,,main,URBN
+2021-04-13,Morgan Stanley,Overweight,,main,URBN
+2021-04-13,Telsey Advisory Group,Outperform,,main,URBN
+2021-05-26,JP Morgan,Neutral,Underweight,up,URBN
+2021-05-26,Telsey Advisory Group,Outperform,,main,URBN
+2021-08-25,Citigroup,Neutral,,main,URBN
+2021-08-25,BMO Capital,Market Perform,,main,URBN
+2021-08-25,Wells Fargo,Equal-Weight,,main,URBN
+2021-08-26,Morgan Stanley,Overweight,,main,URBN
+2021-10-15,Wells Fargo,Equal-Weight,,main,URBN
+2021-11-16,B. Riley Securities,Buy,Neutral,up,URBN
+2022-01-04,JP Morgan,Neutral,,main,URBN

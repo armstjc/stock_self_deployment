@@ -1,0 +1,173 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-11-11,Pacific Crest,Outperform,,init,VEEV
+2013-11-11,Canaccord Genuity,Buy,,init,VEEV
+2013-11-11,Stifel Nicolaus,Hold,,init,VEEV
+2013-11-11,Morgan Stanley,Equal-Weight,,init,VEEV
+2013-11-11,Deutsche Bank,Buy,,init,VEEV
+2013-12-06,Deutsche Bank,Buy,,main,VEEV
+2014-03-05,Deutsche Bank,Buy,,main,VEEV
+2014-04-02,Morgan Stanley,Overweight,Equal-weight,up,VEEV
+2014-05-28,JP Morgan,Overweight,,init,VEEV
+2014-05-30,Pacific Crest,Outperform,,main,VEEV
+2014-08-29,Deutsche Bank,Buy,,main,VEEV
+2014-09-18,Pacific Crest,Outperform,,main,VEEV
+2014-09-18,Deutsche Bank,Buy,,main,VEEV
+2014-09-22,William Blair,Outperform,,init,VEEV
+2014-10-27,Leerink Swann,Market Perform,,init,VEEV
+2014-11-26,Deutsche Bank,Buy,,main,VEEV
+2015-01-08,Stifel Nicolaus,Buy,Hold,up,VEEV
+2015-02-05,UBS,Buy,,init,VEEV
+2015-03-04,Leerink Swann,Market Perform,,main,VEEV
+2015-03-04,Deutsche Bank,Hold,Buy,down,VEEV
+2015-03-19,Evercore ISI Group,Buy,,init,VEEV
+2015-05-29,Deutsche Bank,Hold,,main,VEEV
+2015-07-07,JMP Securities,Market Perform,,init,VEEV
+2015-08-28,UBS,Buy,,main,VEEV
+2015-08-28,Canaccord Genuity,Buy,,main,VEEV
+2015-10-30,Citigroup,Neutral,,init,VEEV
+2015-11-25,Leerink Swann,Market Perform,,main,VEEV
+2016-03-02,Morgan Stanley,Overweight,,main,VEEV
+2016-05-27,Stifel Nicolaus,Buy,,main,VEEV
+2016-05-27,JP Morgan,Overweight,,main,VEEV
+2016-05-27,Deutsche Bank,Hold,,main,VEEV
+2016-05-27,Citigroup,Neutral,,main,VEEV
+2016-05-27,Canaccord Genuity,Buy,,main,VEEV
+2016-06-17,Bank of America,Neutral,,init,VEEV
+2016-08-23,Citigroup,Neutral,,main,VEEV
+2016-08-24,Raymond James,Market Perform,,init,VEEV
+2016-08-31,KeyBanc,Overweight,,main,VEEV
+2016-08-31,Citigroup,Neutral,,main,VEEV
+2016-08-31,Canaccord Genuity,Buy,,main,VEEV
+2016-08-31,Morgan Stanley,Overweight,,main,VEEV
+2016-09-30,Stifel Nicolaus,Buy,,main,VEEV
+2016-10-03,Canaccord Genuity,Buy,,main,VEEV
+2016-10-04,Goldman Sachs,Neutral,,init,VEEV
+2016-10-13,JMP Securities,Market Perform,,init,VEEV
+2016-11-23,Deutsche Bank,Hold,,main,VEEV
+2016-11-23,KeyBanc,Overweight,,main,VEEV
+2016-12-16,JMP Securities,Market Outperform,Market Perform,up,VEEV
+2017-05-26,Bank of America,Buy,Neutral,up,VEEV
+2017-06-05,Morgan Stanley,Equal-Weight,Overweight,down,VEEV
+2018-01-30,Morgan Stanley,Overweight,Equal-Weight,up,VEEV
+2018-02-02,DA Davidson,Buy,,init,VEEV
+2018-02-28,Stifel Nicolaus,Buy,Buy,main,VEEV
+2018-02-28,Canaccord Genuity,Buy,Buy,main,VEEV
+2018-03-01,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-03-02,KeyBanc,Overweight,Overweight,main,VEEV
+2018-03-09,JP Morgan,Neutral,Overweight,down,VEEV
+2018-03-23,JMP Securities,Market Outperform,Market Outperform,main,VEEV
+2018-05-25,Deutsche Bank,Hold,Hold,main,VEEV
+2018-05-25,Canaccord Genuity,Buy,Buy,main,VEEV
+2018-05-25,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-06-25,SunTrust Robinson Humphrey,Buy,,init,VEEV
+2018-06-27,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-08-08,Guggenheim,Buy,,init,VEEV
+2018-08-16,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-08-24,Stifel Nicolaus,Buy,Buy,main,VEEV
+2018-08-24,KeyBanc,Overweight,Overweight,main,VEEV
+2018-08-24,Canaccord Genuity,Buy,Buy,main,VEEV
+2018-08-24,JP Morgan,Neutral,Neutral,main,VEEV
+2018-08-24,Deutsche Bank,Hold,Hold,main,VEEV
+2018-08-24,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-10-01,Canaccord Genuity,Hold,Buy,down,VEEV
+2018-10-05,Bank of America,Buy,Buy,main,VEEV
+2018-10-05,Stifel Nicolaus,Buy,Buy,main,VEEV
+2018-10-23,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-11-29,Morgan Stanley,Overweight,Overweight,main,VEEV
+2018-11-29,KeyBanc,Overweight,Overweight,main,VEEV
+2018-12-04,Leerink Swann,Outperform,,init,VEEV
+2019-01-17,Stephens & Co.,Equal-Weight,,init,VEEV
+2019-02-20,Barclays,Equal-Weight,,init,VEEV
+2019-02-25,Morgan Stanley,Overweight,Overweight,main,VEEV
+2019-02-27,KeyBanc,Overweight,Overweight,main,VEEV
+2019-02-27,JMP Securities,Market Outperform,Market Outperform,main,VEEV
+2019-02-27,Deutsche Bank,Hold,Hold,main,VEEV
+2019-02-27,Barclays,Equal-Weight,Equal-Weight,main,VEEV
+2019-02-28,Morgan Stanley,Overweight,Overweight,main,VEEV
+2019-05-22,Stifel Nicolaus,Buy,,main,VEEV
+2019-05-24,Morgan Stanley,Equal-Weight,Overweight,down,VEEV
+2019-05-30,JP Morgan,Neutral,,main,VEEV
+2019-05-30,KeyBanc,Overweight,,main,VEEV
+2019-05-30,JMP Securities,Market Outperform,,main,VEEV
+2019-05-30,Canaccord Genuity,Hold,,main,VEEV
+2019-05-30,Barclays,Equal-Weight,,main,VEEV
+2019-05-30,Stephens & Co.,Overweight,Equal-Weight,up,VEEV
+2019-05-30,Deutsche Bank,Hold,,main,VEEV
+2019-06-07,Goldman Sachs,Neutral,,init,VEEV
+2019-06-10,Bank of America,Buy,,main,VEEV
+2019-08-23,Stifel Nicolaus,Buy,,main,VEEV
+2019-08-28,Stephens & Co.,Overweight,,main,VEEV
+2019-08-28,SunTrust Robinson Humphrey,Buy,,main,VEEV
+2019-08-28,DA Davidson,Buy,,main,VEEV
+2019-08-28,KeyBanc,Overweight,,main,VEEV
+2019-08-28,JP Morgan,Neutral,,main,VEEV
+2019-08-28,Guggenheim,Buy,,main,VEEV
+2019-08-28,Canaccord Genuity,Hold,,main,VEEV
+2019-08-28,JMP Securities,Market Outperform,,main,VEEV
+2019-08-28,Barclays,Equal-Weight,,main,VEEV
+2019-08-28,Stifel,Buy,,main,VEEV
+2019-08-28,Needham,Buy,,main,VEEV
+2019-09-23,Morgan Stanley,Equal-Weight,,main,VEEV
+2019-09-26,Raymond James,Outperform,Market Perform,up,VEEV
+2019-10-03,Morgan Stanley,Equal-Weight,,main,VEEV
+2019-11-27,Barclays,Equal-Weight,,main,VEEV
+2019-11-27,Canaccord Genuity,Hold,,main,VEEV
+2019-11-27,Morgan Stanley,Equal-Weight,,main,VEEV
+2020-01-13,Morgan Stanley,Overweight,Equal-Weight,up,VEEV
+2020-02-14,Piper Sandler,Overweight,,init,VEEV
+2020-02-19,Baird,Outperform,,init,VEEV
+2020-03-04,B of A Securities,Buy,,reit,VEEV
+2020-03-04,Stifel Nicolaus,Buy,,main,VEEV
+2020-03-04,Morgan Stanley,Overweight,,main,VEEV
+2020-03-04,CFRA,Hold,,main,VEEV
+2020-03-04,Baird,Outperform,,main,VEEV
+2020-03-25,Morgan Stanley,Overweight,,main,VEEV
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,VEEV
+2020-03-31,Piper Sandler,Overweight,,main,VEEV
+2020-05-22,Morgan Stanley,Overweight,,main,VEEV
+2020-05-27,Barclays,Equal-Weight,,main,VEEV
+2020-05-29,Piper Sandler,Overweight,,main,VEEV
+2020-05-29,Needham,Buy,,main,VEEV
+2020-05-29,Morgan Stanley,Overweight,,main,VEEV
+2020-05-29,SVB Leerink,Market Perform,,main,VEEV
+2020-05-29,Raymond James,Outperform,,reit,VEEV
+2020-06-01,Morgan Stanley,Overweight,,main,VEEV
+2020-06-08,Citigroup,Buy,,init,VEEV
+2020-06-22,Baird,Outperform,,main,VEEV
+2020-07-07,Stephens & Co.,Overweight,,init,VEEV
+2020-07-23,FBN Securities,Outperform,,init,VEEV
+2020-08-14,Morgan Stanley,Overweight,,main,VEEV
+2020-08-28,Piper Sandler,Overweight,,main,VEEV
+2020-08-28,Needham,Buy,,main,VEEV
+2020-08-28,SVB Leerink,Market Perform,,main,VEEV
+2020-08-28,B of A Securities,Buy,,main,VEEV
+2020-08-28,Canaccord Genuity,Hold,,main,VEEV
+2020-08-28,Raymond James,Outperform,,main,VEEV
+2020-08-31,Morgan Stanley,Overweight,,main,VEEV
+2020-10-14,UBS,Sell,,init,VEEV
+2020-10-26,Raymond James,Outperform,,main,VEEV
+2020-12-02,Morgan Stanley,Overweight,,main,VEEV
+2020-12-02,Needham,Buy,,main,VEEV
+2020-12-09,JP Morgan,Underweight,Neutral,down,VEEV
+2021-01-07,KeyBanc,Overweight,,init,VEEV
+2021-02-17,KeyBanc,Overweight,,main,VEEV
+2021-03-03,SVB Leerink,Market Perform,,main,VEEV
+2021-03-03,Needham,Buy,,main,VEEV
+2021-03-03,Piper Sandler,Overweight,,main,VEEV
+2021-03-03,Morgan Stanley,Overweight,,main,VEEV
+2021-03-04,Citigroup,Buy,,main,VEEV
+2021-03-31,UBS,Neutral,Sell,up,VEEV
+2021-05-28,Citigroup,Buy,,main,VEEV
+2021-05-28,Barclays,Equal-Weight,,main,VEEV
+2021-05-28,Morgan Stanley,Overweight,,main,VEEV
+2021-05-28,Piper Sandler,Overweight,,main,VEEV
+2021-07-21,RBC Capital,Outperform,,init,VEEV
+2021-09-02,JMP Securities,Market Outperform,,main,VEEV
+2021-09-02,Needham,Buy,,main,VEEV
+2021-09-02,SVB Leerink,Market Perform,,main,VEEV
+2021-09-02,UBS,Neutral,,main,VEEV
+2021-12-02,UBS,Neutral,,main,VEEV
+2021-12-02,Needham,Buy,,main,VEEV
+2021-12-02,SVB Leerink,Market Perform,,main,VEEV
+2021-12-13,Citigroup,Buy,,main,VEEV
+2021-12-16,Morgan Stanley,Equal-Weight,Overweight,down,VEEV

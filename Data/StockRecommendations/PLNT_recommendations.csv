@@ -1,0 +1,65 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-08-31,PiperJaffray,Overweight,,init,PLNT
+2015-08-31,Cowen & Co.,Outperform,,init,PLNT
+2015-09-03,Bank of America,Buy,,main,PLNT
+2015-09-21,Wedbush,Outperform,,init,PLNT
+2015-12-03,Stephens & Co.,Equal-Weight,,init,PLNT
+2016-01-04,Roth Capital,Buy,,init,PLNT
+2016-04-14,Imperial Capital,Outperform,,init,PLNT
+2016-05-12,Imperial Capital,Outperform,,main,PLNT
+2016-08-12,Jefferies,Buy,,main,PLNT
+2016-08-15,Imperial Capital,Outperform,,main,PLNT
+2017-01-05,Macquarie,Outperform,,init,PLNT
+2017-11-08,Bank of America,Buy,,main,PLNT
+2017-11-09,Imperial Capital,Outperform,,main,PLNT
+2017-11-21,DA Davidson,Buy,,init,PLNT
+2018-01-02,Jefferies,Hold,Buy,down,PLNT
+2018-02-01,Bank of America,Buy,Buy,main,PLNT
+2018-05-02,Bank of America,Buy,Buy,main,PLNT
+2018-05-18,Imperial Capital,In-Line,Outperform,down,PLNT
+2018-06-20,Berenberg,Buy,,init,PLNT
+2018-06-25,Baird,Outperform,Outperform,main,PLNT
+2018-07-12,Bank of America,Buy,Buy,main,PLNT
+2018-08-10,Wedbush,Neutral,Neutral,main,PLNT
+2018-08-13,JP Morgan,Neutral,Overweight,down,PLNT
+2018-09-24,Guggenheim,Buy,Buy,main,PLNT
+2018-11-12,Macquarie,Neutral,Outperform,down,PLNT
+2019-02-22,Jefferies,Buy,Hold,up,PLNT
+2019-05-07,Macquarie,Outperform,Neutral,up,PLNT
+2019-06-27,Raymond James,Outperform,,init,PLNT
+2019-09-03,Berenberg,Hold,Buy,down,PLNT
+2019-10-14,Imperial Capital,Outperform,In-Line,up,PLNT
+2019-11-12,Imperial Capital,Outperform,,main,PLNT
+2020-01-14,Baird,Outperform,,main,PLNT
+2020-02-04,BMO Capital,Outperform,,init,PLNT
+2020-02-26,Baird,Outperform,,main,PLNT
+2020-02-26,Raymond James,Outperform,,main,PLNT
+2020-04-06,JP Morgan,Overweight,Neutral,up,PLNT
+2020-04-08,DA Davidson,Buy,,init,PLNT
+2020-04-24,Piper Sandler,Overweight,,main,PLNT
+2020-05-01,B of A Securities,Buy,,reit,PLNT
+2020-05-06,Guggenheim,Buy,,main,PLNT
+2020-05-06,Wedbush,Neutral,,main,PLNT
+2020-05-06,DA Davidson,Buy,,reit,PLNT
+2020-05-06,Raymond James,Outperform,,main,PLNT
+2020-06-04,Raymond James,Market Perform,Outperform,down,PLNT
+2020-06-04,Cowen & Co.,Outperform,,main,PLNT
+2020-09-02,Piper Sandler,Overweight,,main,PLNT
+2020-11-06,DA Davidson,Buy,,main,PLNT
+2020-11-13,Exane BNP Paribas,Underperform,,init,PLNT
+2021-01-25,JP Morgan,Neutral,Overweight,down,PLNT
+2021-02-19,Roth Capital,Neutral,,main,PLNT
+2021-02-19,DA Davidson,Buy,,main,PLNT
+2021-03-04,Cowen & Co.,Market Perform,Outperform,down,PLNT
+2021-03-04,Baird,Outperform,,main,PLNT
+2021-04-12,JP Morgan,Neutral,,main,PLNT
+2021-04-22,Piper Sandler,Neutral,Overweight,down,PLNT
+2021-06-29,Stifel,Hold,,init,PLNT
+2021-08-03,Stifel,Buy,Hold,up,PLNT
+2021-08-10,DA Davidson,Buy,,main,PLNT
+2021-08-16,Roth Capital,Buy,Neutral,up,PLNT
+2021-08-24,Morgan Stanley,Overweight,,init,PLNT
+2021-11-05,DA Davidson,Buy,,main,PLNT
+2021-11-05,Jefferies,Buy,,main,PLNT
+2021-11-05,Morgan Stanley,Overweight,,main,PLNT
+2021-12-17,JP Morgan,Neutral,,main,PLNT

@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-08,Citigroup,Buy,,main,SMTC
+2012-03-08,Morgan Keegan,Outperform,,main,SMTC
+2012-05-25,Williams Financial,Buy,,up,SMTC
+2012-05-31,Citigroup,Buy,,main,SMTC
+2012-08-24,Citigroup,Buy,,main,SMTC
+2012-10-03,Lazard,Buy,Neutral,up,SMTC
+2012-11-29,Citigroup,Buy,,main,SMTC
+2013-03-07,Oppenheimer,Outperform,,main,SMTC
+2013-03-08,Citigroup,Buy,,main,SMTC
+2013-03-18,Citigroup,Buy,,main,SMTC
+2013-05-23,Williams Capital,,,main,SMTC
+2013-06-10,Sterne Agee,Buy,,init,SMTC
+2013-08-16,RBC Capital,Outperform,,init,SMTC
+2013-09-25,B. Riley FBR,Neutral,Buy,down,SMTC
+2013-11-12,MKM Partners,Buy,,init,SMTC
+2013-12-19,Raymond James,Outperform,Strong Buy,down,SMTC
+2013-12-19,Oppenheimer,Perform,Outperform,down,SMTC
+2013-12-19,Williams Financial,Hold,Buy,down,SMTC
+2014-02-24,B. Riley FBR,Neutral,Sell,up,SMTC
+2014-07-28,Raymond James,Strong Buy,Outperform,up,SMTC
+2014-11-20,Citigroup,Buy,,main,SMTC
+2015-03-27,Raymond James,Outperform,Strong Buy,down,SMTC
+2015-04-27,RBC Capital,Outperform,,main,SMTC
+2015-05-28,B. Riley FBR,Sell,Neutral,down,SMTC
+2015-08-14,B. Riley FBR,Neutral,Sell,up,SMTC
+2015-08-20,B. Riley FBR,Neutral,,main,SMTC
+2015-09-25,MKM Partners,Neutral,Buy,down,SMTC
+2015-11-16,B. Riley FBR,Buy,Neutral,up,SMTC
+2015-11-17,RBC Capital,Sector Perform,,main,SMTC
+2016-03-01,Drexel Hamilton,Buy,,init,SMTC
+2016-12-01,Oppenheimer,Outperform,Perform,up,SMTC
+2017-05-10,Baird,Outperform,,init,SMTC
+2017-11-20,BWS Financial,Buy,,init,SMTC
+2017-12-12,Needham,Buy,,init,SMTC
+2017-12-19,PiperJaffray,Neutral,,init,SMTC
+2018-01-05,Roth Capital,Buy,,init,SMTC
+2018-04-04,PiperJaffray,Overweight,Neutral,up,SMTC
+2018-05-09,RBC Capital,Outperform,Sector Perform,up,SMTC
+2018-05-24,Oppenheimer,Outperform,Outperform,main,SMTC
+2018-05-31,B. Riley FBR,Buy,Buy,main,SMTC
+2018-06-21,B. Riley FBR,Buy,Buy,main,SMTC
+2018-06-21,Oppenheimer,Outperform,Outperform,main,SMTC
+2018-06-22,Loop Capital,Buy,,init,SMTC
+2018-07-20,Stifel Nicolaus,Buy,,init,SMTC
+2018-08-30,Stifel Nicolaus,Buy,Buy,main,SMTC
+2018-09-04,Needham,Hold,Buy,down,SMTC
+2018-10-11,Stifel Nicolaus,Buy,Buy,main,SMTC
+2018-12-07,Susquehanna,Neutral,,init,SMTC
+2019-02-27,B. Riley FBR,Buy,Buy,main,SMTC
+2019-03-14,B. Riley FBR,Buy,Buy,main,SMTC
+2019-05-15,Wells Fargo,Outperform,,init,SMTC
+2019-05-22,Cowen & Co.,Outperform,,init,SMTC
+2019-08-29,Wells Fargo,Outperformer,,reit,SMTC
+2019-08-29,B. Riley,Buy,,reit,SMTC
+2019-09-27,Stifel Nicolaus,Buy,,main,SMTC
+2019-12-05,Wells Fargo,Outperform,,main,SMTC
+2019-12-20,Wells Fargo,Overweight,,main,SMTC
+2020-01-16,Wells Fargo,Overweight,,main,SMTC
+2020-03-06,B. Riley FBR,Buy,,main,SMTC
+2020-03-12,B. Riley FBR,Buy,,main,SMTC
+2020-03-12,Needham,Buy,Hold,up,SMTC
+2020-03-13,CFRA,Buy,,main,SMTC
+2020-03-19,B. Riley FBR,Buy,,main,SMTC
+2020-04-13,B. Riley FBR,Buy,,main,SMTC
+2020-04-15,Needham,Buy,,main,SMTC
+2020-05-28,Baird,Outperform,,main,SMTC
+2020-05-28,Stifel,Buy,,main,SMTC
+2020-05-28,B. Riley FBR,Buy,,main,SMTC
+2020-05-28,CFRA,Buy,,main,SMTC
+2020-05-28,Piper Sandler,Overweight,,main,SMTC
+2020-05-28,Needham,Buy,,main,SMTC
+2020-12-03,Needham,Buy,,main,SMTC
+2021-03-18,B. Riley FBR,Buy,,main,SMTC
+2021-03-18,Needham,Buy,,main,SMTC
+2021-03-18,RBC Capital,Outperform,,main,SMTC
+2021-03-18,Roth Capital,Neutral,,main,SMTC
+2021-03-18,Wells Fargo,Overweight,,main,SMTC
+2021-03-18,Susquehanna,Neutral,,main,SMTC
+2021-06-03,Roth Capital,Buy,Neutral,up,SMTC
+2021-06-03,B. Riley Securities,Buy,,main,SMTC
+2021-09-02,Needham,Buy,,main,SMTC
+2021-09-02,B. Riley Securities,Buy,,main,SMTC
+2021-09-02,Oppenheimer,Outperform,,main,SMTC
+2021-11-22,Oppenheimer,Outperform,,main,SMTC
+2021-11-29,B. Riley Securities,Buy,,main,SMTC

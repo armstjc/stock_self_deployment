@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-10,Guggenheim,Neutral,,main,UBSI
+2013-02-06,SunTrust Robinson Humphrey,,Neutral,down,UBSI
+2013-06-06,SunTrust Robinson Humphrey,Neutral,Sell,up,UBSI
+2015-01-30,Keefe Bruyette & Woods,Market Perform,,main,UBSI
+2015-07-02,Boenning & Scattergood,Underperform,Neutral,down,UBSI
+2015-08-03,Stifel Nicolaus,Market Perform,,main,UBSI
+2016-01-11,Boenning & Scattergood,Neutral,Sell,up,UBSI
+2016-08-22,Keefe Bruyette & Woods,Market Perform,,main,UBSI
+2016-11-17,Boenning & Scattergood,Underperform,Neutral,down,UBSI
+2017-03-06,DA Davidson,Neutral,,init,UBSI
+2018-04-27,DA Davidson,Neutral,Neutral,main,UBSI
+2020-03-23,DA Davidson,Buy,Neutral,up,UBSI
+2020-04-06,Raymond James,Outperform,Market Perform,up,UBSI
+2020-05-04,Raymond James,Market Perform,Outperform,down,UBSI
+2020-07-27,Piper Sandler,Neutral,,main,UBSI
+2020-09-30,Piper Sandler,Neutral,,main,UBSI
+2020-10-02,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,UBSI
+2020-10-26,Piper Sandler,Neutral,,main,UBSI
+2020-11-19,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,UBSI
+2021-02-01,Raymond James,Outperform,Market Perform,up,UBSI
+2021-04-26,Raymond James,Outperform,,main,UBSI
+2021-07-26,Raymond James,Outperform,,main,UBSI
+2021-10-27,Raymond James,Outperform,,main,UBSI
+2021-12-15,DA Davidson,Neutral,Buy,down,UBSI

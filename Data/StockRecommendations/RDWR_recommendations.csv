@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-29,Oppenheimer,Outperform,,main,RDWR
+2012-04-04,Wedbush,Outperform,,main,RDWR
+2012-05-01,Wedbush,Outperform,,main,RDWR
+2012-05-01,Oppenheimer,Outperform,,main,RDWR
+2012-06-25,Barclays,Overweight,,init,RDWR
+2012-07-25,Wedbush,Outperform,,main,RDWR
+2012-09-05,ThinkEquity,Buy,,init,RDWR
+2013-01-29,Wedbush,Outperform,,main,RDWR
+2013-03-21,Wedbush,Outperform,,main,RDWR
+2013-04-03,Craig-Hallum,Buy,,init,RDWR
+2013-04-05,Wedbush,Outperform,,main,RDWR
+2013-07-25,RBC Capital,Sector Perform,Outperform,down,RDWR
+2013-11-18,Needham,Buy,Hold,up,RDWR
+2013-11-21,Imperial Capital,Outperform,,init,RDWR
+2013-12-11,Wells Fargo,Outperform,Market Perform,up,RDWR
+2013-12-11,Wells Fargo,Outperform,Market Perform,up,RDWR
+2014-01-07,Imperial Capital,Outperform,,main,RDWR
+2014-01-29,Oppenheimer,Market Perform,Outperform,down,RDWR
+2014-09-17,DA Davidson,Buy,,init,RDWR
+2014-10-29,DA Davidson,Buy,,main,RDWR
+2015-01-05,Oppenheimer,Outperform,Market Perform,up,RDWR
+2015-01-12,Barclays,Overweight,,main,RDWR
+2015-01-12,Buckingham Research,Buy,Neutral,up,RDWR
+2015-05-01,Barclays,Overweight,,main,RDWR
+2015-07-29,RBC Capital,Sector Perform,Outperform,down,RDWR
+2015-07-29,Barclays,Overweight,,main,RDWR
+2015-10-06,Oppenheimer,Perform,Outperform,down,RDWR
+2015-10-06,Wells Fargo,Market Perform,Outperform,down,RDWR
+2016-02-04,Buckingham Research,Neutral,,main,RDWR
+2016-02-08,Imperial Capital,Outperform,,main,RDWR
+2016-11-11,Oppenheimer,Outperform,Perform,up,RDWR
+2016-12-22,Jefferies,Buy,,init,RDWR
+2017-11-02,Barclays,Overweight,,main,RDWR
+2018-02-06,Imperial Capital,In-Line,In-Line,main,RDWR
+2018-02-06,Imperial Capital,In-Line,Outperform,down,RDWR
+2018-11-29,Berenberg,Buy,,init,RDWR
+2020-02-13,Needham,Hold,Buy,down,RDWR
+2020-05-07,Barclays,Overweight,,main,RDWR
+2021-02-11,Colliers Securities,Neutral,Buy,down,RDWR
+2021-07-13,Needham,Buy,Hold,up,RDWR
+2021-07-29,Needham,Buy,,main,RDWR
+2021-07-29,Oppenheimer,Outperform,,main,RDWR
+2021-11-15,Oppenheimer,Perform,Outperform,down,RDWR

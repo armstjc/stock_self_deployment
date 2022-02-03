@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-25,William Blair,Outperform,,init,TLMD
+2020-12-01,Baird,Outperform,,init,TLMD
+2021-01-07,BTIG,Buy,,init,TLMD
+2021-01-15,Benchmark,Buy,,init,TLMD
+2021-01-15,BTIG,Neutral,Buy,down,TLMD
+2021-01-28,RBC Capital,Outperform,,init,TLMD
+2021-02-16,Credit Suisse,Outperform,,init,TLMD
+2021-05-28,Baird,Outperform,,init,TLMD
+2021-08-13,Credit Suisse,Outperform,,main,TLMD
+2021-08-13,RBC Capital,Outperform,,main,TLMD

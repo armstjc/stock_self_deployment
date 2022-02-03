@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-18,Sterne Agee,Neutral,Underperform,up,RNST
+2012-09-27,Raymond James,Outperform,Strong Buy,down,RNST
+2012-10-08,Wunderlich,Hold,Buy,down,RNST
+2012-12-12,BGB Securities,Buy,,init,RNST
+2013-02-08,Wunderlich,Buy,Hold,up,RNST
+2013-02-11,Keefe Bruyette & Woods,Outperform,Market Perform,up,RNST
+2013-07-17,Wunderlich,Buy,,main,RNST
+2013-07-18,Keefe Bruyette & Woods,Market Perform,Outperform,down,RNST
+2013-09-10,FIG Partners,Market Perform,,init,RNST
+2013-09-20,MLV & Co.,Buy,,init,RNST
+2014-01-22,Raymond James,Market Perform,Outperform,down,RNST
+2014-04-07,Raymond James,Outperform,Market Perform,up,RNST
+2014-05-22,Keefe Bruyette & Woods,Outperform,Market Perform,up,RNST
+2014-06-24,Sandler O'Neill,Hold,,init,RNST
+2014-08-12,Jefferies,Buy,,init,RNST
+2014-10-15,Hilliard Lyons,Long-Term Buy,,init,RNST
+2014-12-16,Keefe Bruyette & Woods,Market Perform,,main,RNST
+2015-01-07,Raymond James,Strong Buy,Outperform,up,RNST
+2015-01-22,Jefferies,Buy,,main,RNST
+2015-10-22,Keefe Bruyette & Woods,Outperform,,main,RNST
+2015-10-22,Stephens & Co.,Equal-Weight,Overweight,down,RNST
+2016-04-28,Hilliard Lyons,Buy,Long-Term Buy,up,RNST
+2016-09-12,Raymond James,Outperform,Strong Buy,down,RNST
+2016-11-28,Jefferies,Hold,Buy,down,RNST
+2016-11-29,Keefe Bruyette & Woods,Market Perform,Outperform,down,RNST
+2018-02-09,Hilliard Lyons,Buy,Neutral,up,RNST
+2018-07-10,Raymond James,Market Perform,Outperform,down,RNST
+2019-06-26,SunTrust Robinson Humphrey,Hold,,init,RNST
+2019-08-21,DA Davidson,Neutral,,init,RNST
+2019-08-27,SunTrust Robinson Humphrey,Hold,,main,RNST
+2019-10-23,Sandler O'Neill,Hold,Buy,down,RNST
+2019-12-09,Stephens & Co.,Equal-Weight,,main,RNST
+2020-07-30,SunTrust Robinson Humphrey,Hold,,main,RNST
+2020-09-15,DA Davidson,Neutral,Buy,down,RNST
+2020-09-30,Piper Sandler,Neutral,,main,RNST
+2020-10-29,Piper Sandler,Neutral,,main,RNST

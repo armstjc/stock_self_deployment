@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-05-28,Credit Suisse,Outperform,,init,QIWI
+2013-05-31,JP Morgan,Overweight,,init,QIWI
+2013-06-25,JP Morgan,Neutral,Overweight,down,QIWI
+2013-08-27,JP Morgan,Overweight,Neutral,up,QIWI
+2013-08-28,JP Morgan,Overweight,Neutral,up,QIWI
+2013-09-30,Morgan Stanley,Equal-Weight,,init,QIWI
+2013-11-22,Goldman Sachs,Buy,,init,QIWI
+2014-03-21,Morgan Stanley,Equal-Weight,,main,QIWI
+2014-04-16,Standpoint Research,Buy,,init,QIWI
+2014-05-23,Standpoint Research,Hold,Buy,down,QIWI
+2014-07-14,Deutsche Bank,Buy,,init,QIWI
+2014-07-15,JP Morgan,Overweight,,main,QIWI
+2014-10-30,Standpoint Research,Buy,,up,QIWI
+2014-11-10,Credit Suisse,Outperform,,main,QIWI
+2015-02-17,JP Morgan,Overweight,,main,QIWI
+2015-03-13,Susquehanna,Neutral,Positive,down,QIWI
+2015-05-06,UBS,Buy,Neutral,up,QIWI
+2015-09-02,UBS,Neutral,Buy,down,QIWI
+2015-09-02,Susquehanna,Neutral,,main,QIWI
+2015-09-03,JP Morgan,Overweight,,main,QIWI
+2015-10-30,JP Morgan,Neutral,Overweight,down,QIWI
+2016-03-15,JP Morgan,Neutral,,main,QIWI
+2017-04-07,Credit Suisse,Neutral,,init,QIWI
+2017-04-10,JP Morgan,Overweight,Neutral,up,QIWI
+2017-07-26,Citigroup,Neutral,Buy,down,QIWI
+2017-08-18,VTB Capital,Buy,Hold,up,QIWI
+2018-04-05,UBS,Buy,Neutral,up,QIWI
+2018-05-29,Credit Suisse,Underperform,Neutral,down,QIWI
+2018-08-24,UBS,Buy,Buy,main,QIWI
+2019-02-13,JP Morgan,Neutral,Overweight,down,QIWI
+2019-11-21,UBS,Buy,,reit,QIWI
+2019-11-25,Goldman Sachs,Buy,,init,QIWI
+2020-03-11,JP Morgan,Overweight,,main,QIWI
+2020-06-18,JP Morgan,Overweight,,main,QIWI
+2020-10-09,JP Morgan,Neutral,Overweight,down,QIWI
+2020-12-10,JP Morgan,Underweight,Neutral,down,QIWI

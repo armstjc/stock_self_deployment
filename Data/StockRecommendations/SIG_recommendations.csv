@@ -1,0 +1,102 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-23,Deutsche Bank,Buy,,main,SIG
+2012-04-30,Miller Tabak,Buy,,init,SIG
+2012-08-24,JP Morgan,Overweight,,main,SIG
+2012-09-13,Citigroup,Buy,,init,SIG
+2012-10-02,Citigroup,Buy,,main,SIG
+2012-10-03,JP Morgan,Overweight,,main,SIG
+2012-11-09,Bank of America,Buy,Neutral,up,SIG
+2012-11-23,Deutsche Bank,Buy,,main,SIG
+2013-01-09,Miller Tabak,,,main,SIG
+2013-01-14,JP Morgan,Neutral,Overweight,down,SIG
+2013-03-01,Citigroup,Neutral,Buy,down,SIG
+2013-03-04,Sterne Agee,Neutral,,init,SIG
+2013-03-28,Bank of America,Buy,,main,SIG
+2013-05-14,Stephens & Co.,Overweight,,init,SIG
+2013-05-23,Deutsche Bank,Hold,,down,SIG
+2013-09-09,Nomura,Buy,,init,SIG
+2013-09-27,Brean Capital,Buy,,init,SIG
+2013-10-01,Topeka,Buy,,init,SIG
+2013-10-02,Topeka,Buy,,init,SIG
+2013-10-07,Deutsche Bank,Buy,Hold,up,SIG
+2013-11-27,Citigroup,Neutral,,main,SIG
+2014-01-09,CL King,Neutral,Strong Buy,down,SIG
+2014-02-21,Sterne Agee,,Neutral,up,SIG
+2014-02-24,Nomura,Buy,,main,SIG
+2014-03-03,UBS,Neutral,Buy,down,SIG
+2014-03-28,Citigroup,Neutral,,main,SIG
+2014-03-31,Miller Tabak,Neutral,Buy,down,SIG
+2014-05-23,Deutsche Bank,Buy,,main,SIG
+2014-08-29,Deutsche Bank,Buy,,main,SIG
+2014-09-02,Nomura,Buy,,main,SIG
+2014-09-02,Citigroup,Neutral,,main,SIG
+2014-09-11,Exane BNP Paribas,Neutral,Outperform,down,SIG
+2014-09-11,Bank of America,Buy,,main,SIG
+2014-09-11,Bank of America,Buy,,main,SIG
+2014-10-17,Barclays,Overweight,,init,SIG
+2014-11-21,Barclays,Overweight,,main,SIG
+2014-11-26,Deutsche Bank,Buy,,main,SIG
+2014-11-26,Barclays,Overweight,,main,SIG
+2015-08-19,Exane BNP Paribas,Outperform,Neutral,up,SIG
+2015-08-20,UBS,Buy,Neutral,up,SIG
+2015-08-28,Buckingham Research,Buy,,main,SIG
+2015-08-28,Barclays,Overweight,,main,SIG
+2015-10-07,Citigroup,Buy,,init,SIG
+2015-10-22,Wells Fargo,Outperform,,init,SIG
+2015-10-29,Goldman Sachs,Buy,,main,SIG
+2015-11-06,JP Morgan,Overweight,,init,SIG
+2015-11-09,Johnson Rice,Buy,,init,SIG
+2016-03-01,CL King,Buy,Neutral,up,SIG
+2016-03-28,Goldman Sachs,Buy,,main,SIG
+2016-05-27,Citigroup,Buy,,main,SIG
+2016-05-27,Goldman Sachs,Neutral,Buy,down,SIG
+2016-05-31,Nomura,Buy,,main,SIG
+2016-08-23,Deutsche Bank,Buy,,main,SIG
+2016-08-25,Goldman Sachs,Neutral,,main,SIG
+2016-08-26,Cowen & Co.,Outperform,,main,SIG
+2016-08-26,Citigroup,Neutral,Buy,down,SIG
+2016-08-29,Johnson RIce,Accumulate,Buy,down,SIG
+2016-08-30,JP Morgan,Neutral,Overweight,down,SIG
+2016-09-09,Exane BNP Paribas,Neutral,Outperform,down,SIG
+2016-09-13,Cowen & Co.,Market Perform,Outperform,down,SIG
+2016-09-28,CLSA,Outperform,,init,SIG
+2016-11-23,Nomura,Buy,,main,SIG
+2017-03-01,Telsey Advisory Group,Market Perform,Outperform,down,SIG
+2017-07-19,Needham,Buy,,init,SIG
+2017-08-25,Buckingham,Neutral,,main,SIG
+2017-08-28,Citigroup,Neutral,,main,SIG
+2017-09-20,Needham,Buy,,main,SIG
+2017-11-02,Susquehanna,Neutral,,init,SIG
+2017-11-14,Buckingham,Neutral,,main,SIG
+2018-01-12,RBC Capital,Sector Perform,Outperform,down,SIG
+2018-03-15,Buckingham,Neutral,Neutral,main,SIG
+2018-03-15,Needham,Hold,Buy,down,SIG
+2018-03-20,Bank of America,Neutral,Buy,down,SIG
+2018-04-10,JP Morgan,Neutral,Neutral,main,SIG
+2018-06-08,Citigroup,Neutral,Neutral,main,SIG
+2018-06-21,Nomura,Buy,Buy,main,SIG
+2018-07-31,Nomura,Neutral,Buy,down,SIG
+2018-08-31,Wells Fargo,Market Perform,Market Perform,main,SIG
+2018-09-04,Citigroup,Sell,Neutral,down,SIG
+2018-12-10,Nomura,Neutral,Neutral,main,SIG
+2019-01-02,Wells Fargo,Market Perform,Market Perform,main,SIG
+2019-01-18,Citigroup,Sell,Neutral,down,SIG
+2019-09-06,Bank of America,Neutral,,reit,SIG
+2019-09-06,Citi,Sell,,main,SIG
+2019-12-06,Wells Fargo,Market Perform,,main,SIG
+2020-01-02,Wells Fargo,Underweight,Equal-Weight,down,SIG
+2020-01-17,Wells Fargo,Underweight,,main,SIG
+2020-01-17,Citigroup,Sell,,main,SIG
+2020-03-16,Wells Fargo,Underweight,,main,SIG
+2020-03-30,Citigroup,Sell,,main,SIG
+2020-09-04,Citigroup,Sell,,main,SIG
+2021-01-12,Citigroup,Neutral,Sell,up,SIG
+2021-04-13,Telsey Advisory Group,Market Perform,,main,SIG
+2021-06-11,Wells Fargo,Equal-Weight,Underweight,up,SIG
+2021-07-01,Telsey Advisory Group,Market Perform,,main,SIG
+2021-09-03,Wells Fargo,Equal-Weight,,main,SIG
+2021-09-03,Telsey Advisory Group,Market Perform,,main,SIG
+2021-09-16,Wells Fargo,Overweight,Equal-Weight,up,SIG
+2021-10-13,B of A Securities,Neutral,Underperform,up,SIG
+2021-11-01,UBS,Buy,,init,SIG
+2021-11-26,Telsey Advisory Group,Market Perform,,main,SIG

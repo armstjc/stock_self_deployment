@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-26,Deutsche Bank,Sell,,main,RENN
+2012-08-08,Barclays,Equal-Weight,,main,RENN
+2012-08-08,Morgan Stanley,Equal-Weight,,main,RENN
+2012-08-08,Credit Suisse,Neutral,,main,RENN
+2012-08-08,Bank of America,Neutral,,main,RENN
+2012-08-23,Deutsche Bank,Sell,,main,RENN
+2012-09-12,Citigroup,Sell,,init,RENN
+2012-10-18,Jefferies,Hold,,main,RENN
+2012-11-14,Jefferies,Hold,,main,RENN
+2012-11-14,Morgan Stanley,Equal-Weight,,main,RENN
+2012-11-14,Credit Suisse,Neutral,,main,RENN
+2012-12-04,Deutsche Bank,Hold,Sell,up,RENN
+2013-03-11,Jefferies,Hold,,main,RENN
+2013-03-11,Bank of America,Neutral,,main,RENN
+2013-03-11,Oppenheimer,Outperform,,main,RENN
+2013-03-12,Deutsche Bank,Hold,,main,RENN
+2013-05-14,Barclays,Equal-Weight,,main,RENN
+2013-05-14,Jefferies,Hold,,main,RENN
+2013-05-15,Oppenheimer,Perform,Outperform,down,RENN
+2013-08-15,Jefferies,Underperform,Hold,down,RENN
+2013-08-16,Bank of America,Neutral,,main,RENN
+2013-08-16,Deutsche Bank,Sell,Hold,down,RENN
+2013-08-19,Deutsche Bank,Sell,Hold,down,RENN
+2013-08-23,Jefferies,Hold,Underperform,up,RENN
+2013-11-29,Jefferies,Underperform,Hold,down,RENN
+2013-11-29,Morgan Stanley,Underweight,,main,RENN
+2014-05-22,Bank of America,Underperform,,down,RENN
+2014-08-26,Bank of America,Underperform,,main,RENN

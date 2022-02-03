@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-20,BMO Capital,Market Perform,,init,UBP
+2013-10-04,Wunderlich,Hold,,init,UBP
+2014-03-13,Wunderlich,Hold,,main,UBP
+2014-07-17,Deutsche Bank,Buy,,main,UBP
+2014-11-03,Wunderlich,Hold,,main,UBP
+2015-01-26,Deutsche Bank,Buy,,main,UBP
+2015-04-27,Wunderlich,Buy,Hold,up,UBP
+2015-06-22,Wunderlich,Buy,,main,UBP
+2016-03-24,Deutsche Bank,Buy,,main,UBP
+2016-06-16,Deutsche Bank,Buy,,main,UBP
+2016-07-18,Deutsche Bank,Hold,Buy,down,UBP
+2016-10-13,DA Davidson,Buy,,init,UBP
+2018-09-11,DA Davidson,Neutral,Buy,down,UBP
+2020-04-02,Piper Sandler,Neutral,,init,UBP
+2020-04-03,B. Riley FBR,Neutral,,main,UBP
+2020-06-10,Deutsche Bank,Hold,,main,UBP
+2020-09-09,Piper Sandler,Neutral,,main,UBP
+2020-09-15,Deutsche Bank,Hold,,main,UBP
+2021-03-04,B. Riley FBR,Buy,Neutral,up,UBP
+2021-04-16,Piper Sandler,Overweight,Neutral,up,UBP
+2021-12-23,B. Riley Securities,Buy,,main,UBP

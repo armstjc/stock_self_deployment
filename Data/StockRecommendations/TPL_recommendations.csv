@@ -1,0 +1,6 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-01-12,BWS Financial,Buy,,init,TPL
+2021-03-01,BWS Financial,Buy,,main,TPL
+2021-04-01,Stifel,Hold,Buy,down,TPL
+2021-05-10,BWS Financial,Buy,,main,TPL
+2021-09-29,Credit Suisse,Underperform,,init,TPL

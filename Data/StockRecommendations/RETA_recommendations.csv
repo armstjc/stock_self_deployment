@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-20,Cowen & Co.,Outperform,,init,RETA
+2017-01-24,Baird,Outperform,,init,RETA
+2017-01-25,Baird,Outperform,,init,RETA
+2017-02-23,Stifel Nicolaus,Buy,,init,RETA
+2017-04-13,Ladenburg Thalmann,Buy,,init,RETA
+2017-08-23,Citigroup,Buy,,main,RETA
+2017-08-30,Jefferies,Buy,,init,RETA
+2017-09-13,Leerink Swann,Outperform,,init,RETA
+2018-07-24,Citigroup,Buy,Buy,main,RETA
+2018-07-24,Baird,Outperform,Outperform,main,RETA
+2018-07-25,Citigroup,Buy,Buy,main,RETA
+2018-08-23,Cantor Fitzgerald,Overweight,,init,RETA
+2019-05-31,Citi,Buy,,main,RETA
+2019-10-15,Cantor Fitzgerald,Overweight,,main,RETA
+2019-10-15,Citigroup,Buy,,main,RETA
+2019-10-15,Jefferies,Buy,Buy,main,RETA
+2019-10-16,Stifel,Buy,,main,RETA
+2019-11-04,Cantor Fitzgerald,Overweight,,main,RETA
+2019-11-12,Citigroup,Buy,,main,RETA
+2019-11-20,Cantor Fitzgerald,Overweight,,reit,RETA
+2020-02-20,Cantor Fitzgerald,Overweight,,reit,RETA
+2020-03-31,Citigroup,Buy,,main,RETA
+2020-03-31,Stifel,Buy,,main,RETA
+2020-03-31,Baird,Outperform,,main,RETA
+2020-05-18,Cantor Fitzgerald,Overweight,,main,RETA
+2020-06-17,BTIG,Buy,,init,RETA
+2020-08-11,Citigroup,Buy,,main,RETA
+2021-04-26,Barclays,Overweight,,init,RETA
+2021-05-20,Citigroup,Buy,,main,RETA
+2021-05-24,Goldman Sachs,Buy,,init,RETA
+2021-12-09,Baird,Neutral,Outperform,down,RETA
+2021-12-09,SVB Leerink,Market Perform,Outperform,down,RETA
+2021-12-09,Barclays,Overweight,,main,RETA
+2021-12-09,Goldman Sachs,Neutral,Buy,down,RETA
+2021-12-09,Barclays,Overweight,,main,RETA

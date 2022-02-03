@@ -1,0 +1,124 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-02,RBC Capital,Outperform,,init,WIX
+2013-12-02,Oppenheimer,Outperform,,init,WIX
+2013-12-02,Needham,Buy,,init,WIX
+2013-12-02,Bank of America,Buy,,init,WIX
+2013-12-02,JP Morgan,Overweight,,init,WIX
+2014-05-14,Oppenheimer,Outperform,,main,WIX
+2014-10-03,Northland Securities,Outperform,,init,WIX
+2015-03-10,Craig-Hallum,Buy,,init,WIX
+2015-04-08,FBR Capital,Outperform,,init,WIX
+2015-05-11,Deutsche Bank,Hold,,init,WIX
+2015-09-02,Deutsche Bank,Buy,Hold,up,WIX
+2015-11-05,Deutsche Bank,Buy,,main,WIX
+2015-11-24,JMP Securities,Market Outperform,,init,WIX
+2016-02-08,Deutsche Bank,Buy,,main,WIX
+2016-02-11,Deutsche Bank,Buy,,main,WIX
+2016-07-28,Deutsche Bank,Buy,,main,WIX
+2016-07-28,Oppenheimer,Outperform,,main,WIX
+2016-09-07,Summit Redstone,Buy,,init,WIX
+2016-09-21,JP Morgan,Neutral,Overweight,down,WIX
+2016-09-23,RBC Capital,Sector Perform,Outperform,down,WIX
+2016-10-19,Cantor Fitzgerald,Buy,,init,WIX
+2017-03-27,Citigroup,Neutral,,init,WIX
+2017-03-28,Barclays,Overweight,,init,WIX
+2017-04-11,Cantor Fitzgerald,Neutral,Overweight,down,WIX
+2017-04-13,Raymond James,Market Perform,Outperform,down,WIX
+2017-06-22,Wedbush,Outperform,,init,WIX
+2017-07-24,KeyBanc,Overweight,,init,WIX
+2017-08-16,SunTrust Robinson Humphrey,Buy,,init,WIX
+2017-08-25,Jefferies,Buy,,init,WIX
+2017-11-09,KeyBanc,Overweight,,main,WIX
+2017-11-09,Wedbush,Neutral,Outperform,down,WIX
+2017-11-09,Barclays,Overweight,,main,WIX
+2017-11-09,Oppenheimer,Outperform,,main,WIX
+2018-01-04,Raymond James,Strong Buy,Market Perform,up,WIX
+2018-02-21,Citigroup,Neutral,Neutral,main,WIX
+2018-03-19,KeyBanc,Overweight,Overweight,main,WIX
+2018-03-23,Goldman Sachs,Neutral,,init,WIX
+2018-04-04,William Blair,Outperform,,init,WIX
+2018-05-01,Barclays,Overweight,Overweight,main,WIX
+2018-05-10,Raymond James,Outperform,Strong Buy,down,WIX
+2018-06-04,Deutsche Bank,Buy,Buy,main,WIX
+2018-06-06,JMP Securities,Market Outperform,Market Outperform,main,WIX
+2018-07-23,Barclays,Overweight,Overweight,main,WIX
+2018-07-26,KeyBanc,Overweight,Overweight,main,WIX
+2018-09-14,Wedbush,Outperform,,init,WIX
+2018-11-14,KeyBanc,Overweight,Overweight,main,WIX
+2018-11-14,JMP Securities,Market Outperform,Market Outperform,main,WIX
+2018-11-14,Barclays,Overweight,Overweight,main,WIX
+2018-11-14,JP Morgan,Neutral,Neutral,main,WIX
+2018-11-21,RBC Capital,Outperform,Sector Perform,up,WIX
+2019-02-21,Raymond James,Market Perform,Outperform,down,WIX
+2019-02-21,Barclays,Overweight,Overweight,main,WIX
+2019-02-21,Citigroup,Buy,Buy,main,WIX
+2019-02-21,KeyBanc,Overweight,Overweight,main,WIX
+2019-03-20,Guggenheim,Buy,,init,WIX
+2019-03-27,Macquarie,Neutral,,init,WIX
+2019-04-12,Wedbush,Outperform,Outperform,main,WIX
+2019-04-29,KeyBanc,Sector Weight,,init,WIX
+2019-05-17,Oppenheimer,Outperform,,main,WIX
+2019-05-17,Citigroup,Buy,,main,WIX
+2019-07-25,Deutsche Bank,Buy,,main,WIX
+2019-10-24,Barclays,Overweight,,main,WIX
+2019-11-15,JP Morgan,Neutral,,main,WIX
+2019-11-15,Wedbush,Outperform,,main,WIX
+2019-11-15,Barclays,Overweight,,main,WIX
+2019-11-15,RBC Capital,Outperform,,main,WIX
+2020-02-19,B of A Securities,Buy,,main,WIX
+2020-02-20,Deutsche Bank,Buy,,main,WIX
+2020-02-21,RBC Capital,Outperform,,main,WIX
+2020-02-21,Rosenblatt,Sell,,reit,WIX
+2020-02-25,Needham,Buy,,init,WIX
+2020-03-05,SunTrust Robinson Humphrey,Buy,,main,WIX
+2020-03-17,Rosenblatt,Neutral,Sell,up,WIX
+2020-04-14,JMP Securities,Market Outperform,,main,WIX
+2020-05-15,Rosenblatt,Neutral,,reit,WIX
+2020-05-15,Raymond James,Outperform,Market Perform,up,WIX
+2020-05-15,Deutsche Bank,Buy,,main,WIX
+2020-05-15,B of A Securities,Buy,,reit,WIX
+2020-05-15,Needham,Buy,,main,WIX
+2020-05-15,SunTrust Robinson Humphrey,Buy,,main,WIX
+2020-05-20,Citigroup,Buy,,main,WIX
+2020-05-27,Guggenheim,Buy,,main,WIX
+2020-06-09,KeyBanc,Overweight,Sector Weight,up,WIX
+2020-06-24,KeyBanc,Overweight,,main,WIX
+2020-06-29,SunTrust Robinson Humphrey,Buy,,main,WIX
+2020-07-22,KeyBanc,Overweight,,main,WIX
+2020-08-07,JMP Securities,Outperform,,main,WIX
+2020-08-07,Raymond James,Outperform,,main,WIX
+2020-08-07,Needham,Buy,,main,WIX
+2020-12-09,JP Morgan,Overweight,Neutral,up,WIX
+2021-02-18,Wedbush,Outperform,,main,WIX
+2021-02-18,Citigroup,Buy,,main,WIX
+2021-03-18,KeyBanc,Overweight,,main,WIX
+2021-04-01,Wolfe Research,Outperform,,init,WIX
+2021-04-06,Evercore ISI Group,Outperform,,init,WIX
+2021-04-27,Needham,Buy,,init,WIX
+2021-05-11,Keybanc,Overweight,,main,WIX
+2021-05-13,Wedbush,Outperform,,main,WIX
+2021-05-13,JMP Securities,Market Outperform,,main,WIX
+2021-05-13,Needham,Buy,,main,WIX
+2021-05-13,Rosenblatt,Neutral,,main,WIX
+2021-05-13,Barclays,Overweight,,main,WIX
+2021-06-08,Atlantic Equities,Overweight,,init,WIX
+2021-06-14,RBC Capital,Outperform,,main,WIX
+2021-07-19,Morgan Stanley,Overweight,,init,WIX
+2021-08-11,Raymond James,Market Perform,Outperform,down,WIX
+2021-08-12,Keybanc,Sector Weight,Overweight,down,WIX
+2021-08-12,Raymond James,Market Perform,Outperform,down,WIX
+2021-08-12,Needham,Buy,,main,WIX
+2021-08-12,Rosenblatt,Neutral,,main,WIX
+2021-08-12,Wedbush,Outperform,,main,WIX
+2021-08-12,RBC Capital,Outperform,,main,WIX
+2021-08-12,Morgan Stanley,Overweight,,main,WIX
+2021-08-17,Citigroup,Buy,,main,WIX
+2021-08-19,Truist Securities,Buy,,main,WIX
+2021-09-08,Piper Sandler,Neutral,,init,WIX
+2021-10-21,RBC Capital,Sector Perform,Outperform,down,WIX
+2021-10-25,Berenberg,Buy,,init,WIX
+2021-11-12,Barclays,Equal-Weight,,main,WIX
+2021-11-12,Needham,Buy,,main,WIX
+2021-11-12,Piper Sandler,Neutral,,main,WIX
+2021-11-15,Oppenheimer,Outperform,,main,WIX
+2021-11-22,JMP Securities,Market Outperform,,main,WIX

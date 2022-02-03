@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-06-03,Keefe Bruyette & Woods,Market Perform,,init,TSCBP
+2013-06-03,Baird,Neutral,,init,TSCBP
+2014-01-09,Baird,Outperform,Neutral,up,TSCBP
+2014-07-24,Baird,Neutral,Outperform,down,TSCBP
+2014-07-25,Macquarie,Outperform,Neutral,up,TSCBP
+2014-10-24,Keefe Bruyette & Woods,Market Perform,,main,TSCBP
+2015-04-24,Stephens & Co.,Overweight,Equal-Weight,up,TSCBP
+2015-05-19,Keefe Bruyette & Woods,Outperform,Market Perform,up,TSCBP
+2015-12-18,Macquarie,Outperform,,main,TSCBP
+2016-10-05,Boenning & Scattergood,Neutral,,init,TSCBP
+2017-03-06,DA Davidson,Buy,,init,TSCBP
+2018-07-20,Maxim Group,Buy,Buy,main,TSCBP
+2019-08-29,Raymond James,Outperform,,main,TSCBP
+2019-09-25,B. Riley FBR,Buy,,init,TSCBP
+2020-01-09,B. Riley FBR,Buy,,main,TSCBP
+2020-01-31,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,TSCBP
+2020-04-13,B. Riley FBR,Buy,,main,TSCBP
+2020-06-19,Wedbush,Outperform,,init,TSCBP
+2020-08-05,B. Riley FBR,Neutral,Buy,down,TSCBP
+2021-02-01,Raymond James,Strong Buy,,main,TSCBP
+2021-02-02,B. Riley FBR,Neutral,,main,TSCBP
+2021-03-09,Wedbush,Neutral,Outperform,down,TSCBP
+2021-03-30,DA Davidson,Neutral,Buy,down,TSCBP
+2021-04-07,Raymond James,Strong Buy,,main,TSCBP
+2021-07-12,B. Riley Securities,Buy,Neutral,up,TSCBP
+2021-10-22,B. Riley Securities,Neutral,Buy,down,TSCBP

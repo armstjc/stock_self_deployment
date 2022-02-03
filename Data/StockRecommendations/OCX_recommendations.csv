@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-03-15,Janney Capital,Buy,,init,OCX
+2016-03-24,Lake Street,Buy,,init,OCX
+2016-05-13,Benchmark,Speculative Buy,,init,OCX
+2017-02-23,Chardan Capital,Buy,,init,OCX
+2019-02-13,PiperJaffray,Overweight,,init,OCX
+2020-06-02,Needham,Buy,,init,OCX
+2020-06-30,Chardan Capital,Neutral,Buy,down,OCX
+2020-07-01,Needham,Buy,,main,OCX
+2020-07-30,Benchmark,Speculative Buy,,main,OCX
+2020-11-10,KeyBanc,Overweight,,init,OCX
+2020-11-13,Needham,Buy,,main,OCX
+2020-11-30,BTIG,Buy,,init,OCX
+2020-12-16,Piper Sandler,Overweight,Neutral,up,OCX
+2021-11-10,Needham,Buy,,main,OCX
+2021-12-16,Needham,Buy,,main,OCX

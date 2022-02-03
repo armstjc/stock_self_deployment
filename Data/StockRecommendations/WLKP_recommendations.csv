@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-09-08,Barclays,Equal-Weight,,init,WLKP
+2014-09-08,Wells Fargo,Market Perform,,init,WLKP
+2014-09-08,UBS,Buy,,init,WLKP
+2014-09-08,Deutsche Bank,Buy,,init,WLKP
+2014-09-08,Bank of America,Neutral,,init,WLKP
+2015-08-05,Barclays,Equal-Weight,,main,WLKP
+2016-02-24,Barclays,Equal-Weight,,main,WLKP
+2016-02-25,Deutsche Bank,Buy,,main,WLKP
+2016-09-09,FBR Capital,Outperform,,init,WLKP
+2017-12-05,Citigroup,Buy,,init,WLKP
+2017-12-20,Barclays,Equal-Weight,,init,WLKP
+2018-03-02,UBS,Buy,Buy,main,WLKP
+2018-06-21,Bernstein,Market Perform,,init,WLKP
+2019-09-13,Barclays,Overweight,Equal-Weight,up,WLKP
+2019-10-09,Citi,Neutral,Buy,down,WLKP
+2020-05-05,Citigroup,Neutral,,main,WLKP
+2020-05-05,Deutsche Bank,Buy,,main,WLKP
+2020-08-20,Tudor Pickering,Hold,Sell,up,WLKP
+2021-03-18,UBS,Neutral,Buy,down,WLKP

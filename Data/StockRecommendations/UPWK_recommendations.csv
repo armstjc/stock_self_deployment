@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-10-29,RBC Capital,Outperform,,init,UPWK
+2018-10-29,Jefferies,Hold,,init,UPWK
+2018-10-29,Citigroup,Buy,,init,UPWK
+2018-10-29,Stifel Nicolaus,Hold,,init,UPWK
+2018-11-08,Jefferies,Hold,Hold,main,UPWK
+2019-04-11,BTIG Research,Buy,,init,UPWK
+2019-04-12,BTIG Research,Buy,,init,UPWK
+2019-06-19,Cantor Fitzgerald,Overweight,,init,UPWK
+2019-06-26,Jefferies,Buy,Hold,up,UPWK
+2019-09-24,Citigroup,Buy,,main,UPWK
+2019-09-25,Citigroup,Buy,,main,UPWK
+2019-11-01,First Analysis,Outperform,,init,UPWK
+2019-11-07,Stifel Nicolaus,Hold,,main,UPWK
+2020-01-02,Citigroup,Neutral,Buy,down,UPWK
+2020-01-24,Guggenheim,Neutral,Buy,down,UPWK
+2020-02-27,Cantor Fitzgerald,Overweight,,main,UPWK
+2020-08-27,MKM Partners,Buy,,init,UPWK
+2020-09-21,BTIG,Buy,,main,UPWK
+2020-11-05,Stifel,Buy,Hold,up,UPWK
+2020-11-05,MKM Partners,Buy,,reit,UPWK
+2020-11-05,BTIG,Buy,,main,UPWK
+2021-01-11,Jefferies,Hold,Buy,down,UPWK
+2021-01-12,Citigroup,Buy,Neutral,up,UPWK
+2021-02-16,BTIG,Buy,,main,UPWK
+2021-09-09,Needham,Buy,,init,UPWK
+2021-10-01,B of A Securities,Buy,,init,UPWK
+2021-10-28,Needham,Buy,,main,UPWK
+2021-12-17,Canaccord Genuity,Buy,,init,UPWK

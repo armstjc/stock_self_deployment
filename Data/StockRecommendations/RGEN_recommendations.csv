@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-04-15,Jefferies,Buy,,init,RGEN
+2014-05-09,Jefferies,Buy,,main,RGEN
+2014-06-04,Jefferies,Buy,,main,RGEN
+2014-10-17,Jefferies,Buy,,main,RGEN
+2015-04-23,Jefferies,Buy,,main,RGEN
+2015-11-06,Jefferies,Hold,Buy,down,RGEN
+2016-02-22,Craig-Hallum,Buy,,init,RGEN
+2017-04-24,First Analysis,Equal-Weight,,init,RGEN
+2017-11-13,CL King,Buy,,init,RGEN
+2017-12-05,JP Morgan,Overweight,,init,RGEN
+2017-12-08,Citigroup,Buy,,init,RGEN
+2018-07-20,Citigroup,Buy,Buy,main,RGEN
+2018-09-26,H.C. Wainwright,Neutral,,init,RGEN
+2018-11-02,JP Morgan,Overweight,Overweight,main,RGEN
+2019-07-22,H.C. Wainwright,Buy,Neutral,up,RGEN
+2019-11-01,First Analysis,Strong Buy,Outperform,up,RGEN
+2019-11-15,Stifel Nicolaus,Buy,,init,RGEN
+2020-02-21,Stephens & Co.,Overweight,,main,RGEN
+2020-02-21,Stifel Nicolaus,Buy,,main,RGEN
+2020-03-23,HC Wainwright & Co.,Buy,,main,RGEN
+2020-04-02,Stifel,Buy,,main,RGEN
+2020-05-07,SVB Leerink,Outperform,,main,RGEN
+2020-05-07,HC Wainwright & Co.,Buy,,main,RGEN
+2020-05-27,Stifel,Buy,,main,RGEN
+2020-06-30,HC Wainwright & Co.,Buy,,main,RGEN
+2020-08-24,HC Wainwright & Co.,Buy,,main,RGEN
+2020-11-10,KeyBanc,Overweight,,init,RGEN
+2021-02-25,SVB Leerink,Outperform,,main,RGEN
+2021-04-12,HC Wainwright & Co.,Buy,,reit,RGEN
+2021-05-05,HC Wainwright & Co.,Buy,,main,RGEN
+2021-09-17,Keybanc,Overweight,,main,RGEN
+2021-09-27,Craig-Hallum,Buy,,main,RGEN
+2021-10-14,Exane BNP Paribas,Outperform,,init,RGEN
+2021-10-29,SVB Leerink,Outperform,,main,RGEN

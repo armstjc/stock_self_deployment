@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-10-13,JP Morgan,Overweight,,init,PEN
+2015-10-13,Wells Fargo,Outperform,,init,PEN
+2015-10-13,Canaccord Genuity,Buy,,init,PEN
+2015-10-14,Bank of America,Buy,,init,PEN
+2016-10-17,BMO Capital,Outperform,,init,PEN
+2017-08-09,Canaccord Genuity,Buy,,main,PEN
+2017-11-08,BMO Capital,Outperform,,main,PEN
+2017-11-08,Canaccord Genuity,Buy,,main,PEN
+2017-12-12,BMO Capital,Market Perform,Outperform,down,PEN
+2018-01-02,JP Morgan,Neutral,Overweight,down,PEN
+2018-02-21,William Blair,Outperform,,init,PEN
+2018-02-28,Wells Fargo,Outperform,Outperform,main,PEN
+2018-02-28,BMO Capital,Market Perform,Market Perform,main,PEN
+2018-02-28,Canaccord Genuity,Buy,Buy,main,PEN
+2018-04-04,Goldman Sachs,Buy,,init,PEN
+2018-05-09,BMO Capital,Market Perform,Market Perform,main,PEN
+2018-05-31,Wells Fargo,Outperform,Outperform,main,PEN
+2018-08-09,BMO Capital,Market Perform,Market Perform,main,PEN
+2018-10-08,RBC Capital,Outperform,,init,PEN
+2018-11-06,BMO Capital,Market Perform,Market Perform,main,PEN
+2019-05-30,JP Morgan,Overweight,Neutral,up,PEN
+2019-11-08,Wells Fargo,Outperform,,main,PEN
+2019-12-04,Canaccord Genuity,Buy,,main,PEN
+2019-12-04,JP Morgan,Overweight,,main,PEN
+2020-03-05,Citigroup,Buy,,init,PEN
+2020-03-27,Citigroup,Buy,,main,PEN
+2020-03-30,Wells Fargo,Overweight,,main,PEN
+2020-04-07,Canaccord Genuity,Buy,,main,PEN
+2020-05-08,Citigroup,Buy,,main,PEN
+2020-08-04,Canaccord Genuity,Buy,,main,PEN
+2020-08-04,Citigroup,Buy,,main,PEN
+2020-09-08,B of A Securities,Neutral,Buy,down,PEN
+2020-09-29,BTIG,Buy,,init,PEN
+2020-10-29,Wells Fargo,Overweight,,main,PEN
+2020-10-29,BTIG,Buy,,main,PEN
+2020-10-29,Canaccord Genuity,Buy,,main,PEN
+2020-12-16,BTIG,Neutral,Buy,down,PEN
+2020-12-16,Canaccord Genuity,Buy,,main,PEN
+2021-02-24,Citigroup,Buy,,main,PEN
+2021-02-24,Wells Fargo,Overweight,,main,PEN
+2021-06-04,BTIG,Buy,Neutral,up,PEN
+2021-08-10,BTIG,Buy,,main,PEN
+2021-09-16,Truist Securities,Buy,,init,PEN

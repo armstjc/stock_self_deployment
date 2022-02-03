@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-04-10,Ladenburg Thalmann,Buy,,init,ORC
+2017-02-17,Maxim Group,Hold,Buy,down,ORC
+2018-10-26,Ladenburg Thalmann,Neutral,Buy,down,ORC
+2020-01-14,JonesTrading,Buy,,init,ORC
+2021-01-15,JonesTrading,Buy,,main,ORC
+2021-04-15,JonesTrading,Sell,Hold,down,ORC
+2021-09-10,JonesTrading,Hold,Sell,up,ORC

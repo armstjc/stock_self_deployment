@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-13,FBR Capital,Outperform,,init,WNC
+2013-07-17,FBR Capital,Market Perform,Outperform,down,WNC
+2013-07-18,BB&T Capital,Hold,Buy,down,WNC
+2013-08-27,Stifel Nicolaus,Buy,,init,WNC
+2013-10-30,PiperJaffray,Overweight,,init,WNC
+2013-10-31,Craig-Hallum,Hold,Buy,down,WNC
+2013-11-04,Stephens & Co.,Equal-Weight,Overweight,down,WNC
+2014-01-06,FBR Capital,Outperform,Market Perform,up,WNC
+2014-02-27,Morgan Stanley,Underweight,,init,WNC
+2014-04-30,Craig-Hallum,Buy,Hold,up,WNC
+2014-05-22,FBR Capital,Outperform,,main,WNC
+2014-10-30,Craig-Hallum,Hold,,down,WNC
+2014-10-31,FBR Capital,Outperform,,main,WNC
+2014-11-03,Stifel Nicolaus,Buy,,main,WNC
+2015-02-05,Stifel Nicolaus,Buy,,main,WNC
+2015-02-25,Stifel Nicolaus,Buy,,main,WNC
+2015-09-28,Seaport Global,Buy,Accumulate,up,WNC
+2015-12-08,Stifel Nicolaus,Hold,Buy,down,WNC
+2016-06-14,Stifel Nicolaus,Sell,Hold,down,WNC
+2016-09-30,CLSA,Underperform,,init,WNC
+2016-12-09,Aegis Capital,Buy,,init,WNC
+2017-01-26,Stifel Nicolaus,Hold,Sell,up,WNC
+2017-02-02,PiperJaffray,Neutral,Overweight,down,WNC
+2017-08-10,Craig-Hallum,Buy,Hold,up,WNC
+2017-11-06,Stifel Nicolaus,Hold,,main,WNC
+2018-02-01,Stifel Nicolaus,Hold,Hold,main,WNC
+2018-06-29,Mizuho,Neutral,,init,WNC
+2018-08-02,Stifel Nicolaus,Hold,Hold,main,WNC
+2018-10-02,Loop Capital,Buy,,init,WNC
+2019-01-25,OTR Global,Mixed,Positive,down,WNC
+2019-07-31,Craig-Hallum,Hold,Buy,down,WNC
+2019-11-21,Raymond James,Strong Buy,,init,WNC
+2020-01-27,Raymond James,Strong Buy,,main,WNC
+2020-05-15,Raymond James,Strong Buy,,reit,WNC
+2020-07-30,Raymond James,Strong Buy,,main,WNC
+2020-10-16,Raymond James,Strong Buy,,main,WNC
+2020-11-06,Raymond James,Strong Buy,,main,WNC
+2021-03-26,Vertical Research,Buy,,init,WNC
+2021-04-21,Raymond James,Strong Buy,,main,WNC
+2021-07-19,Raymond James,Strong Buy,,main,WNC
+2021-07-29,Stephens & Co.,Equal-Weight,,main,WNC
+2021-11-15,Raymond James,Strong Buy,,main,WNC
+2021-12-17,DA Davidson,Buy,,init,WNC

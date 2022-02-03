@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-08,ISI Group,Neutral,,init,PINC
+2013-10-08,ISI Group,Neutral,,init,PINC
+2013-10-21,Bank of America,Buy,,init,PINC
+2013-10-21,William Blair,Outperform,,init,PINC
+2013-10-21,Raymond James,Outperform,,init,PINC
+2013-10-21,PiperJaffray,Neutral,,init,PINC
+2013-10-21,JP Morgan,Overweight,,init,PINC
+2013-10-21,Wells Fargo,Outperform,,init,PINC
+2013-11-12,ISI Group,Neutral,,main,PINC
+2014-02-18,Citigroup,Neutral,,init,PINC
+2014-04-08,SunTrust Robinson Humphrey,Buy,,init,PINC
+2014-04-10,ISI Group,Buy,Neutral,up,PINC
+2014-05-13,Citigroup,Hold,,main,PINC
+2014-05-29,Citigroup,Buy,Neutral,up,PINC
+2014-07-02,Jefferies,Buy,,init,PINC
+2015-01-26,Topeka,Buy,,init,PINC
+2015-02-10,Jefferies,Buy,,main,PINC
+2015-03-11,Baird,Outperform,,init,PINC
+2015-04-20,Barclays,Buy,,main,PINC
+2015-05-13,Citigroup,Buy,,main,PINC
+2015-06-18,Oppenheimer,Outperform,,init,PINC
+2015-07-16,Canaccord Genuity,Buy,,init,PINC
+2015-10-07,JP Morgan,Overweight,,main,PINC
+2015-10-07,Oppenheimer,Outperform,,main,PINC
+2015-11-11,Avondale Partners,Outperform,Market Perform,up,PINC
+2016-02-10,SunTrust Robinson Humphrey,Buy,,main,PINC
+2016-06-01,Barclays,Overweight,,init,PINC
+2016-08-05,Credit Suisse,Outperform,,init,PINC
+2016-08-23,Baird,Outperform,,main,PINC
+2016-08-23,Evercore ISI Group,Hold,Buy,down,PINC
+2016-08-23,Barclays,Overweight,,main,PINC
+2016-08-23,Citigroup,Buy,,main,PINC
+2016-08-29,SunTrust Robinson Humphrey,Buy,,main,PINC
+2016-10-06,UBS,Neutral,,init,PINC
+2016-11-07,Bank of America,Underperform,Buy,down,PINC
+2017-10-24,KeyBanc,Sector Weight,Overweight,down,PINC
+2017-12-19,JP Morgan,Neutral,Overweight,down,PINC
+2018-01-19,Evercore ISI Group,In-Line,,init,PINC
+2018-02-13,Cowen & Co.,Market Perform,,init,PINC
+2018-05-09,Credit Suisse,Outperform,Outperform,main,PINC
+2018-08-14,Canaccord Genuity,Hold,Buy,down,PINC
+2018-08-22,Raymond James,Outperform,Outperform,main,PINC
+2018-08-22,Canaccord Genuity,Hold,Hold,main,PINC
+2018-08-22,SunTrust Robinson Humphrey,Hold,Buy,down,PINC
+2019-01-17,UBS,Buy,,init,PINC
+2019-05-02,Citigroup,Buy,Neutral,up,PINC
+2019-06-18,Guggenheim,Neutral,,init,PINC
+2019-08-13,Credit Suisse,Neutral,Outperform,down,PINC
+2019-10-15,Canaccord Genuity,Buy,Hold,up,PINC
+2019-10-31,UBS,Neutral,Buy,down,PINC
+2019-11-11,Baird,Neutral,Outperform,down,PINC
+2020-02-05,Benchmark,Buy,,reit,PINC
+2020-02-05,Baird,Neutral,,main,PINC
+2020-02-11,Credit Suisse,Neutral,,main,PINC
+2020-03-26,SunTrust Robinson Humphrey,Hold,,main,PINC
+2020-05-06,Baird,Neutral,,main,PINC
+2020-05-06,UBS,Neutral,,main,PINC
+2020-05-12,SunTrust Robinson Humphrey,Hold,,main,PINC
+2020-05-12,Cantor Fitzgerald,Overweight,,init,PINC
+2020-08-12,Credit Suisse,Neutral,,main,PINC
+2020-08-26,Benchmark,Hold,Buy,down,PINC
+2020-08-26,SVB Leerink,Outperform,,main,PINC
+2020-08-26,Raymond James,Outperform,,main,PINC
+2020-08-27,UBS,Neutral,,main,PINC
+2020-08-31,Guggenheim,Buy,Neutral,up,PINC
+2020-12-08,Berenberg,Buy,,init,PINC
+2021-01-08,Jefferies,Hold,Buy,down,PINC
+2021-01-15,Credit Suisse,Underperform,Neutral,down,PINC
+2021-01-19,B of A Securities,Underperform,Buy,down,PINC
+2021-02-03,Benchmark,Buy,Hold,up,PINC
+2021-02-03,Raymond James,Outperform,,main,PINC
+2021-02-03,SVB Leerink,Outperform,,main,PINC
+2021-02-04,Craig-Hallum,Hold,,main,PINC
+2021-05-05,Canaccord Genuity,Buy,,main,PINC
+2021-05-28,Barclays,Underweight,Overweight,down,PINC
+2021-08-18,SVB Leerink,Outperform,,main,PINC
+2021-08-19,Raymond James,Outperform,,main,PINC

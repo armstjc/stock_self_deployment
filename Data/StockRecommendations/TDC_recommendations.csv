@@ -1,0 +1,131 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-09,FBN Securities,Outperform,,main,TDC
+2012-02-10,Hilliard Lyons,Neutral,,down,TDC
+2012-03-02,Morgan Stanley,Overweight,,main,TDC
+2012-03-14,Oxen Group,Hold,,init,TDC
+2012-05-03,FBN Securities,Outperform,,main,TDC
+2012-05-03,Bank of America,Buy,,main,TDC
+2012-05-04,Stifel Nicolaus,Hold,,init,TDC
+2012-05-04,Jefferies,Hold,,main,TDC
+2012-05-04,Morgan Stanley,Overweight,,main,TDC
+2012-07-13,UBS,Neutral,,main,TDC
+2012-08-03,Hilliard Lyons,Long-Term Buy,Neutral,up,TDC
+2012-08-03,Sterne Agee,Buy,Neutral,up,TDC
+2012-09-17,UBS,Neutral,,main,TDC
+2012-09-25,BMO Capital,Market Perform,,init,TDC
+2012-09-27,FBN Securities,Outperform,,init,TDC
+2012-11-01,Goldman Sachs,Buy,,main,TDC
+2012-11-02,Jefferies,Hold,,main,TDC
+2012-11-02,Hilliard Lyons,Long-Term Buy,,main,TDC
+2012-11-02,BMO Capital,Market Perform,,main,TDC
+2012-11-06,FBN Securities,Sector Perform,Outperform,down,TDC
+2012-11-20,Credit Suisse,Outperform,,init,TDC
+2012-12-14,RBC Capital,Outperform,,init,TDC
+2013-01-07,Barclays,Overweight,,main,TDC
+2013-02-06,BMO Capital,Market Perform,,main,TDC
+2013-02-08,BMO Capital,Market Perform,,main,TDC
+2013-02-08,Jefferies,Hold,,main,TDC
+2013-04-05,Stifel Nicolaus,Buy,Hold,up,TDC
+2013-05-03,Jefferies,Hold,,main,TDC
+2013-05-03,FBN Securities,Sector Perform,,main,TDC
+2013-05-06,Hilliard Lyons,Buy,Long-Term Buy,up,TDC
+2013-07-16,Lazard,Buy,,main,TDC
+2013-10-15,Jefferies,Hold,,main,TDC
+2013-10-15,Credit Suisse,Neutral,Outperform,down,TDC
+2013-10-15,Goldman Sachs,Neutral,Buy,down,TDC
+2013-10-15,Sterne Agee,Neutral,Buy,down,TDC
+2013-10-15,Wellington Shields,Hold,Buy,down,TDC
+2013-10-16,Hilliard Lyons,Long-Term Buy,Buy,down,TDC
+2013-12-03,Morgan Stanley,Underweight,Equal-Weight,down,TDC
+2013-12-12,RBC Capital,Sector Perform,Outperform,down,TDC
+2014-01-13,Atlantic Equities,Overweight,,init,TDC
+2014-01-29,Goldman Sachs,Sell,Neutral,down,TDC
+2014-02-07,Longbow Research,Buy,Hold,up,TDC
+2014-02-26,Longbow Research,,Neutral,up,TDC
+2014-05-05,BMO Capital,Market Perform,,main,TDC
+2014-05-09,Pacific Crest,Outperform,,main,TDC
+2014-05-09,Stifel,Hold,Buy,down,TDC
+2014-05-09,Longbow Research,Buy,Buy,main,TDC
+2014-05-09,Atlantic Equities,Overweight,Overweight,main,TDC
+2014-05-09,Barclays,Overweight,Overweight,main,TDC
+2014-06-23,JMP Securities,Market Perform,Market Outperform,down,TDC
+2014-07-14,Standpoint Research,Buy,,init,TDC
+2014-09-04,Longbow Research,Buy,,main,TDC
+2014-09-04,Barclays,Equal-Weight,Overweight,down,TDC
+2014-09-04,Pacific Crest,Sector Perform,,init,TDC
+2014-09-29,"Monness, Crespi, Hardt",Sell,,init,TDC
+2014-12-16,Great Lakes,Hold,Gradually Accumulate,down,TDC
+2015-01-06,Barclays,Equal-Weight,,main,TDC
+2015-02-06,Barclays,Equal-Weight,,main,TDC
+2015-02-06,Credit Suisse,Underperform,Neutral,down,TDC
+2015-02-23,Deutsche Bank,Hold,,init,TDC
+2015-04-17,DA Davidson,Neutral,,init,TDC
+2015-05-01,SunTrust Robinson Humphrey,Neutral,,init,TDC
+2015-05-08,Barclays,Equal-Weight,,main,TDC
+2015-05-08,Summit Research Partners,Hold,Buy,down,TDC
+2015-06-15,JMP Securities,Underperform,Market Perform,down,TDC
+2015-08-07,Barclays,Equal-Weight,,main,TDC
+2015-08-07,Susquehanna,Neutral,Positive,down,TDC
+2015-11-09,Summit Research Partners,Sell,Hold,down,TDC
+2015-12-11,Goldman Sachs,Sell,,init,TDC
+2016-01-06,Barclays,Underweight,Equal-Weight,down,TDC
+2016-02-05,Barclays,Underweight,,main,TDC
+2016-05-05,Summit Research Partners,Hold,Sell,up,TDC
+2016-06-24,Cowen & Co.,Market Perform,,init,TDC
+2016-07-15,CLSA,Underperform,Buy,down,TDC
+2016-08-03,Deutsche Bank,Hold,,main,TDC
+2016-10-03,UBS,Sell,Neutral,down,TDC
+2017-01-11,Wells Fargo,Underperform,,init,TDC
+2017-02-10,Mizuho,Underperform,Neutral,down,TDC
+2017-04-18,BTIG Research,Neutral,,init,TDC
+2017-05-24,Bernstein,Underperform,,init,TDC
+2017-07-28,BMO Capital,Market Perform,,main,TDC
+2017-10-24,Deutsche Bank,Hold,,main,TDC
+2017-11-03,Morgan Stanley,Underweight,,main,TDC
+2017-11-03,BMO Capital,Market Perform,,main,TDC
+2017-11-09,UBS,Sell,,main,TDC
+2017-11-13,Summit Redstone Partners,Buy,Hold,up,TDC
+2018-01-23,Morgan Stanley,Equal-Weight,Underweight,up,TDC
+2018-02-02,Cowen & Co.,Outperform,Market Perform,up,TDC
+2018-02-09,BMO Capital,Market Perform,Market Perform,main,TDC
+2018-02-09,Bank of America,Buy,Buy,main,TDC
+2018-02-09,Wells Fargo,Underperform,Underperform,main,TDC
+2018-03-05,Bernstein,Market Perform,Underperform,up,TDC
+2018-05-04,BMO Capital,Market Perform,Market Perform,main,TDC
+2018-05-04,Stifel Nicolaus,Hold,Hold,main,TDC
+2018-05-17,Stifel Nicolaus,Buy,Hold,up,TDC
+2018-06-28,Citigroup,Neutral,,init,TDC
+2018-07-24,Standpoint Research,Hold,Buy,down,TDC
+2018-08-03,Stifel Nicolaus,Buy,Buy,main,TDC
+2018-09-07,Barclays,Underweight,Underweight,main,TDC
+2019-01-16,Morgan Stanley,Overweight,Equal-Weight,up,TDC
+2019-03-20,Citigroup,Sell,Neutral,down,TDC
+2019-08-02,Morgan Stanley,Overweight,,main,TDC
+2019-10-22,Deutsche Bank,Hold,,main,TDC
+2019-11-08,Morgan Stanley,Overweight,,main,TDC
+2019-11-08,Wells Fargo,Underperform,,main,TDC
+2019-11-08,Cowen & Co.,Market Perform,Outperform,down,TDC
+2019-11-08,Bank of America,Neutral,Buy,down,TDC
+2019-11-08,Stifel Nicolaus,Hold,Buy,down,TDC
+2020-02-07,Cowen & Co.,Market Perform,,main,TDC
+2020-03-25,Morgan Stanley,Overweight,,main,TDC
+2020-04-02,Citigroup,Buy,Sell,up,TDC
+2020-08-07,Morgan Stanley,Overweight,,main,TDC
+2020-08-10,BMO Capital,Market Perform,,main,TDC
+2020-08-10,Citigroup,Buy,,main,TDC
+2020-11-06,BMO Capital,Market Perform,,main,TDC
+2020-11-06,UBS,Sell,,main,TDC
+2020-12-16,Morgan Stanley,Equal-Weight,Overweight,down,TDC
+2021-02-05,Morgan Stanley,Equal-Weight,,main,TDC
+2021-02-05,B of A Securities,Buy,Neutral,up,TDC
+2021-02-08,JMP Securities,Market Outperform,Market Perform,up,TDC
+2021-02-26,Morgan Stanley,Equal-Weight,,main,TDC
+2021-04-08,Morgan Stanley,Equal-Weight,,main,TDC
+2021-09-02,Craig-Hallum,Buy,,init,TDC
+2021-09-10,RBC Capital,Sector Perform,,main,TDC
+2021-09-10,Morgan Stanley,Equal-Weight,,main,TDC
+2021-09-10,JMP Securities,Market Outperform,,main,TDC
+2021-09-20,Morgan Stanley,Overweight,Equal-Weight,up,TDC
+2021-11-16,Credit Suisse,Underperform,,init,TDC
+2021-12-09,Morgan Stanley,Overweight,,main,TDC
+2021-12-20,Needham,Buy,Hold,up,TDC

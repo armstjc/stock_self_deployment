@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-08,Goldman Sachs,Buy,,init,WOOF
+2021-02-08,Baird,Outperform,,init,WOOF
+2021-02-08,Citigroup,Buy,,init,WOOF
+2021-02-08,B of A Securities,Neutral,,init,WOOF
+2021-02-08,Guggenheim,Neutral,,init,WOOF
+2021-02-08,Wells Fargo,Overweight,,init,WOOF
+2021-02-08,Evercore ISI Group,Outperform,,init,WOOF
+2021-02-08,UBS,Neutral,,init,WOOF
+2021-03-19,B of A Securities,Buy,Neutral,up,WOOF
+2021-07-16,BNP Paribas,Underperform,,init,WOOF
+2021-08-06,Jefferies,Buy,,init,WOOF
+2021-08-20,Credit Suisse,Outperform,Neutral,up,WOOF
+2021-11-15,Jefferies,Hold,Buy,down,WOOF
+2021-11-19,Citigroup,Buy,,main,WOOF
+2021-12-06,Wedbush,Outperform,Neutral,up,WOOF
+2021-12-16,Needham,Buy,,init,WOOF

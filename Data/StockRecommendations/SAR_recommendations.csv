@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-10-15,Gilford Securities,Buy,,init,SAR
+2016-07-26,Compass Point,Neutral,,init,SAR
+2017-10-06,Janney Capital,Neutral,,init,SAR
+2018-03-28,B. Riley FBR,Buy,,init,SAR
+2018-05-29,Compass Point,Neutral,Buy,down,SAR
+2018-07-16,Ladenburg Thalmann,Neutral,Buy,down,SAR
+2018-07-16,Compass Point,Buy,Neutral,up,SAR
+2019-04-15,Compass Point,Neutral,Buy,down,SAR
+2019-08-29,Aegis Capital,Buy,,init,SAR
+2019-12-19,National Securities,Neutral,,init,SAR
+2020-01-09,Compass Point,Buy,Neutral,up,SAR
+2020-01-13,Ladenburg Thalmann,Buy,Neutral,up,SAR
+2020-01-13,B. Riley FBR,Buy,,main,SAR
+2020-03-24,B. Riley FBR,Buy,,main,SAR
+2020-05-12,Aegis Capital,Buy,,reit,SAR
+2020-05-15,Compass Point,Buy,,main,SAR
+2021-06-16,Oppenheimer,Outperform,,init,SAR
+2021-06-22,Raymond James,Outperform,,init,SAR

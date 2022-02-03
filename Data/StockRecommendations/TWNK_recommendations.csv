@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-07,SunTrust Robinson Humphrey,Buy,,init,TWNK
+2017-02-14,CL King,Strong Buy,,init,TWNK
+2017-02-15,Deutsche Bank,Buy,,init,TWNK
+2017-05-16,Stephens & Co.,Overweight,,init,TWNK
+2017-07-31,UBS,Neutral,,init,TWNK
+2017-09-25,Morgan Stanley,Equal-Weight,,init,TWNK
+2017-10-11,JP Morgan,Neutral,,init,TWNK
+2017-10-13,UBS,Sell,Neutral,down,TWNK
+2017-11-09,Morgan Stanley,Equal-Weight,,main,TWNK
+2018-03-01,Morgan Stanley,Equal-Weight,Equal-Weight,main,TWNK
+2018-04-23,UBS,Neutral,Sell,up,TWNK
+2018-05-14,Deutsche Bank,Hold,Buy,down,TWNK
+2018-05-21,Berenberg,Buy,,init,TWNK
+2018-05-22,Vertical Group,Buy,,init,TWNK
+2018-08-08,RBC Capital,Sector Perform,Outperform,down,TWNK
+2018-08-08,SunTrust Robinson Humphrey,Hold,Buy,down,TWNK
+2018-09-26,Citigroup,Neutral,,init,TWNK
+2018-11-08,RBC Capital,Sector Perform,Sector Perform,main,TWNK
+2018-12-06,JP Morgan,Overweight,Neutral,up,TWNK
+2019-04-02,Deutsche Bank,Buy,Hold,up,TWNK
+2019-06-12,Evercore ISI Group,Outperform,,init,TWNK
+2019-06-19,DA Davidson,Buy,,init,TWNK
+2019-06-20,DA Davidson,Buy,,init,TWNK
+2019-06-24,UBS,Buy,Neutral,up,TWNK
+2019-07-17,Morgan Stanley,Equal-Weight,,main,TWNK
+2019-09-20,SunTrust Robinson Humphrey,Hold,,main,TWNK
+2019-12-03,Morgan Stanley,Equal-Weight,,main,TWNK
+2020-01-23,Jefferies,Buy,,init,TWNK
+2020-03-31,Morgan Stanley,Equal-Weight,,main,TWNK
+2020-04-17,JP Morgan,Overweight,,main,TWNK
+2020-05-11,Morgan Stanley,Equal-Weight,,main,TWNK
+2020-08-06,Morgan Stanley,Equal-Weight,,main,TWNK
+2020-10-14,Morgan Stanley,Equal-Weight,,main,TWNK
+2021-08-05,Morgan Stanley,Equal-Weight,,main,TWNK
+2021-09-21,Morgan Stanley,Overweight,Equal-Weight,up,TWNK
+2021-10-15,Credit Suisse,Outperform,,init,TWNK
+2021-12-15,Citigroup,Buy,,init,TWNK

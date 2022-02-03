@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-14,Truist Securities,Buy,,init,OTLY
+2021-06-14,Exane BNP Paribas,Neutral,,init,OTLY
+2021-06-14,RBC Capital,Sector Perform,,init,OTLY
+2021-06-14,Morgan Stanley,Equal-Weight,,init,OTLY
+2021-06-14,Piper Sandler,Overweight,,init,OTLY
+2021-06-14,Credit Suisse,Outperform,,init,OTLY
+2021-06-14,Jefferies,Buy,,init,OTLY
+2021-06-14,JP Morgan,Neutral,,init,OTLY
+2021-06-14,William Blair,Outperform,,init,OTLY
+2021-06-14,Guggenheim,Buy,,init,OTLY
+2021-06-14,Oppenheimer,Perform,,init,OTLY
+2021-06-15,Nordea Equity,Hold,,init,OTLY
+2021-08-12,Credit Suisse,Outperform,,main,OTLY
+2021-08-17,Credit Suisse,Outperform,,main,OTLY
+2021-08-18,Morgan Stanley,Equal-Weight,,main,OTLY
+2021-08-19,RBC Capital,Outperform,Sector Perform,up,OTLY
+2021-09-10,Cowen & Co.,Outperform,,init,OTLY
+2021-09-20,Citigroup,Buy,,init,OTLY
+2021-10-08,JP Morgan,Overweight,Neutral,up,OTLY
+2021-11-16,B of A Securities,Neutral,Buy,down,OTLY
+2021-11-16,RBC Capital,Outperform,,main,OTLY
+2021-11-16,Credit Suisse,Outperform,,main,OTLY
+2021-11-18,Morgan Stanley,Overweight,Equal-Weight,up,OTLY
+2021-11-22,Atlantic Equities,Neutral,Overweight,down,OTLY
+2021-11-30,HSBC,Reduce,,init,OTLY

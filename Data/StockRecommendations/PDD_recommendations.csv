@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-09-13,Goldman Sachs,Buy,,init,PDD
+2019-01-16,Morgan Stanley,Overweight,,init,PDD
+2019-04-15,Jefferies,Buy,,init,PDD
+2019-04-17,KeyBanc,Overweight,,init,PDD
+2019-05-07,86 Research,Hold,,init,PDD
+2019-05-15,Bank of America,Buy,,init,PDD
+2019-06-13,Benchmark,Buy,,init,PDD
+2019-07-05,Macquarie,Outperform,,init,PDD
+2019-07-10,JP Morgan,Underweight,,init,PDD
+2019-08-05,Jefferies,Buy,,init,PDD
+2019-08-06,86 Research,Sell,Hold,down,PDD
+2019-08-19,Barclays,Overweight,,init,PDD
+2019-08-22,Benchmark,Buy,,main,PDD
+2019-08-22,Bank of America,Buy,,reit,PDD
+2019-08-22,KeyBanc,Overweight,,main,PDD
+2019-08-30,Barclays,Overweight,,main,PDD
+2019-10-09,Nomura,Neutral,,init,PDD
+2019-11-06,KeyBanc,Overweight,,main,PDD
+2019-11-21,KeyBanc,Overweight,,main,PDD
+2019-11-22,Macquarie,Outperform,,init,PDD
+2019-11-22,Nomura,Neutral,,main,PDD
+2020-01-06,Credit Suisse,Outperform,Neutral,up,PDD
+2020-01-21,KeyBanc,Overweight,,main,PDD
+2020-02-04,Credit Suisse,Neutral,Outperform,down,PDD
+2020-03-20,Bernstein,Market Perform,,init,PDD
+2020-04-20,Credit Suisse,Outperform,Neutral,up,PDD
+2020-04-29,KeyBanc,Overweight,,main,PDD
+2020-05-20,B of A Securities,Neutral,Buy,down,PDD
+2020-05-26,KeyBanc,Overweight,,main,PDD
+2020-05-26,Benchmark,Buy,,main,PDD
+2020-05-26,B of A Securities,Neutral,,reit,PDD
+2020-05-27,Barclays,Equal-Weight,Overweight,down,PDD
+2020-06-08,Bernstein,Outperform,,init,PDD
+2020-07-14,KeyBanc,Overweight,,main,PDD
+2020-08-17,B of A Securities,Neutral,,main,PDD
+2020-08-24,CLSA,Outperform,Buy,down,PDD
+2020-08-24,BOCOM International,Neutral,Buy,down,PDD
+2020-10-20,Oppenheimer,Outperform,,init,PDD
+2020-11-02,KeyBanc,Overweight,,main,PDD
+2020-11-03,Goldman Sachs,Buy,Neutral,up,PDD
+2020-11-13,KeyBanc,Overweight,,main,PDD
+2020-11-13,JP Morgan,Overweight,Neutral,up,PDD
+2020-11-13,B of A Securities,Buy,Neutral,up,PDD
+2020-11-16,Nomura Instinet,Buy,Neutral,up,PDD
+2021-01-25,Bernstein,Outperform,,init,PDD
+2021-01-26,KeyBanc,Sector Weight,Overweight,down,PDD
+2021-03-18,Macquarie,Neutral,Outperform,down,PDD
+2021-04-20,China Renaissance,Hold,Buy,down,PDD
+2021-05-05,Daiwa Capital,Buy,,init,PDD
+2021-05-27,Citigroup,Buy,,main,PDD
+2021-08-06,China Renaissance,Buy,Hold,up,PDD
+2021-08-25,B of A Securities,Buy,,main,PDD
+2021-11-03,Barclays,Equal-Weight,,init,PDD

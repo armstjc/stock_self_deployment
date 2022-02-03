@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-03,PiperJaffray,Overweight,,main,PWR
+2012-05-04,Wedbush,Outperform,,main,PWR
+2012-05-04,DA Davidson,Neutral,,up,PWR
+2012-06-21,PiperJaffray,Overweight,,main,PWR
+2012-07-19,Goldman Sachs,Sell,Neutral,down,PWR
+2012-08-02,DA Davidson,Neutral,,main,PWR
+2012-08-03,Stifel Nicolaus,Buy,,main,PWR
+2012-08-31,Stifel Nicolaus,Buy,,main,PWR
+2012-10-31,DA Davidson,Neutral,,main,PWR
+2012-11-01,Stifel Nicolaus,Buy,,main,PWR
+2012-12-10,Deutsche Bank,Buy,,init,PWR
+2012-12-18,Wedbush,Outperform,,main,PWR
+2012-12-19,UBS,Buy,,init,PWR
+2012-12-19,UBS,Buy,,init,PWR
+2013-04-08,DA Davidson,Buy,Neutral,up,PWR
+2013-06-10,Stifel Nicolaus,Buy,,main,PWR
+2013-12-20,Stephens & Co.,Equal-Weight,,init,PWR
+2014-02-21,DA Davidson,Buy,,main,PWR
+2014-06-19,Seaport Global,Buy,,init,PWR
+2014-08-01,Baird,Outperform,Neutral,up,PWR
+2014-12-01,BB&T Capital,Hold,Buy,down,PWR
+2014-12-01,BB&T Capital,Hold,Buy,down,PWR
+2014-12-15,Stifel Nicolaus,Buy,,main,PWR
+2015-01-27,Deutsche Bank,Buy,,main,PWR
+2015-02-20,Deutsche Bank,Buy,,main,PWR
+2015-05-21,Stephens & Co.,Overweight,,init,PWR
+2015-06-12,JP Morgan,Overweight,,init,PWR
+2015-06-16,Alembic Global,Overweight,,init,PWR
+2015-06-18,Alembic Global,Overweight,,init,PWR
+2015-10-19,Johnson Rice,Accumulate,Buy,up,PWR
+2015-10-19,FBR Capital,Market Perform,Outperform,down,PWR
+2015-11-12,Baird,Neutral,,down,PWR
+2015-11-13,Citigroup,Neutral,,init,PWR
+2016-02-08,UBS,Neutral,Buy,down,PWR
+2016-08-05,Stifel Nicolaus,Buy,Hold,up,PWR
+2016-08-05,Citigroup,Neutral,,main,PWR
+2016-11-15,Baird,Outperform,Neutral,up,PWR
+2016-11-18,Avondale Partners,Market Perform,Market Outperform,down,PWR
+2016-11-29,KeyBanc,Overweight,,main,PWR
+2017-07-13,UBS,Buy,Neutral,up,PWR
+2017-07-26,Baird,Neutral,Outperform,down,PWR
+2017-08-18,Citigroup,Buy,Neutral,up,PWR
+2017-10-27,Citigroup,Buy,,main,PWR
+2017-10-30,Citigroup,Buy,,main,PWR
+2017-11-03,Baird,Neutral,,main,PWR
+2017-11-07,B. Riley FBR,Buy,,main,PWR
+2018-02-06,Citigroup,Buy,Buy,main,PWR
+2018-02-23,KeyBanc,Overweight,Overweight,main,PWR
+2018-02-23,Credit Suisse,Outperform,,main,PWR
+2018-08-06,B. Riley FBR,Buy,Buy,main,PWR
+2018-11-02,Baird,Neutral,Neutral,main,PWR
+2018-11-02,Citigroup,Buy,Buy,main,PWR
+2019-08-02,Citi,Buy,,main,PWR
+2019-08-23,Vertical Research,Buy,,init,PWR
+2019-09-10,Stifel Nicolaus,Buy,,main,PWR
+2019-09-23,Citigroup,Buy,,main,PWR
+2019-11-01,DA Davidson,Neutral,,main,PWR
+2019-12-20,DA Davidson,Buy,Neutral,up,PWR
+2020-01-07,Baird,Outperform,Neutral,up,PWR
+2020-03-02,Stephens & Co.,Overweight,,main,PWR
+2020-03-17,B. Riley FBR,Buy,,main,PWR
+2020-03-26,KeyBanc,Overweight,,main,PWR
+2020-04-01,Citigroup,Buy,,main,PWR
+2020-04-28,KeyBanc,Overweight,,main,PWR
+2020-05-28,UBS,Buy,,main,PWR
+2020-05-28,Stifel,Buy,,main,PWR
+2020-09-18,KeyBanc,Overweight,,main,PWR
+2020-09-23,Bernstein,Outperform,,init,PWR
+2020-10-21,DA Davidson,Neutral,Buy,down,PWR
+2020-10-27,KeyBanc,Overweight,,main,PWR
+2020-12-16,B. Riley FBR,Neutral,Buy,down,PWR
+2021-01-27,KeyBanc,Overweight,,main,PWR
+2021-02-26,Credit Suisse,Outperform,,main,PWR
+2021-04-19,Keybanc,Overweight,,main,PWR
+2021-06-08,Piper Sandler,Overweight,,init,PWR
+2021-07-19,Cowen & Co.,Outperform,,init,PWR
+2021-09-03,Keybanc,Overweight,,main,PWR
+2021-09-03,Northland Capital Markets,Outperform,,main,PWR
+2021-09-17,Goldman Sachs,Buy,,init,PWR
+2021-10-15,B. Riley Securities,Neutral,,main,PWR
+2021-11-05,Credit Suisse,Outperform,,main,PWR

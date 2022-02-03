@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-08,JMP Securities,Market Outperform,,init,VSTM
+2013-02-22,Guggenheim,Buy,,init,VSTM
+2013-03-13,Roth Capital,Buy,,init,VSTM
+2013-07-08,Cantor Fitzgerald,Buy,,init,VSTM
+2013-07-29,Jefferies,Buy,,init,VSTM
+2014-05-06,Deutsche Bank,Buy,,init,VSTM
+2014-07-08,Oppenheimer,Market Perform,,init,VSTM
+2015-03-11,Jefferies,Buy,,main,VSTM
+2015-04-08,H.C. Wainwright,Buy,,init,VSTM
+2015-05-12,UBS,Buy,,main,VSTM
+2015-09-28,Roth Capital,Neutral,Buy,down,VSTM
+2015-09-28,Mizuho,Neutral,Buy,down,VSTM
+2015-09-28,Jefferies,Hold,Buy,down,VSTM
+2015-09-28,JMP Securities,Market Perform,Market Outperform,down,VSTM
+2015-09-28,Cantor Fitzgerald,Hold,Buy,down,VSTM
+2015-09-29,Cantor Fitzgerald,Hold,,main,VSTM
+2015-09-29,UBS,Neutral,Buy,down,VSTM
+2015-09-29,Jefferies,Hold,Buy,down,VSTM
+2016-08-09,Jefferies,Hold,,main,VSTM
+2017-03-24,H.C. Wainwright,Buy,,reit,VSTM
+2017-04-13,Oppenheimer,Outperform,,init,VSTM
+2017-09-06,Cantor Fitzgerald,Overweight,Neutral,up,VSTM
+2018-05-02,Seaport Global,Buy,,init,VSTM
+2018-07-13,BTIG Research,Buy,,init,VSTM
+2019-03-14,Raymond James,Outperform,Outperform,main,VSTM
+2019-04-03,Cantor Fitzgerald,Overweight,,init,VSTM
+2019-05-10,Raymond James,Market Perform,Outperform,down,VSTM
+2020-03-03,Cantor Fitzgerald,Overweight,,main,VSTM
+2020-03-16,H.C. Wainwright,Buy,,main,VSTM
+2020-05-11,H.C. Wainwright,Buy,,reit,VSTM
+2021-05-13,HC Wainwright & Co.,Buy,,main,VSTM
+2021-05-24,BTIG,Buy,Neutral,up,VSTM
+2021-07-01,Alliance Global Partners,Buy,,init,VSTM
+2021-07-20,HC Wainwright & Co.,Buy,,main,VSTM

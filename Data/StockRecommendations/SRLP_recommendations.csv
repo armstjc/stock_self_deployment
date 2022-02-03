@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-04,JP Morgan,Overweight,,init,SRLP
+2013-12-04,Raymond James,Market Perform,,init,SRLP
+2013-12-04,Bank of America,Buy,,init,SRLP
+2013-12-04,Barclays,Equal-Weight,,init,SRLP
+2013-12-05,Janney Capital,Buy,,init,SRLP
+2014-06-02,JP Morgan,Neutral,Overweight,down,SRLP
+2014-08-14,Barclays,Equal-Weight,,main,SRLP
+2014-12-19,Barclays,Equal-Weight,,main,SRLP
+2015-03-18,Barclays,Equal-Weight,,main,SRLP
+2015-05-11,Barclays,Equal-Weight,,main,SRLP
+2015-08-10,Barclays,Equal-Weight,,main,SRLP
+2015-11-09,Barclays,Equal-Weight,,main,SRLP
+2016-01-04,Raymond James,Outperform,Market Perform,up,SRLP
+2016-02-17,Bank of America,Neutral,Buy,down,SRLP
+2016-09-09,FBR Capital,Outperform,,init,SRLP
+2017-03-20,Janney Capital,Buy,Neutral,up,SRLP
+2018-04-06,JP Morgan,Underweight,Neutral,down,SRLP
+2019-04-16,Raymond James,Market Perform,Outperform,down,SRLP

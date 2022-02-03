@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-12-02,Keefe Bruyette & Woods,Market Perform,,init,TBK
+2014-12-02,Nomura,Neutral,,init,TBK
+2014-12-18,Sandler O'Neill,Buy,Hold,up,TBK
+2015-07-28,Evercore ISI Group,Buy,Hold,up,TBK
+2015-08-21,Keefe Bruyette & Woods,Outperform,Market Perform,up,TBK
+2016-03-31,FBR Capital,Outperform,,init,TBK
+2016-12-15,PiperJaffray,Overweight,,init,TBK
+2017-03-21,DA Davidson,Buy,,init,TBK
+2017-04-24,PiperJaffray,Neutral,Overweight,down,TBK
+2017-05-26,Wells Fargo,Outperform,Market Perform,up,TBK
+2017-07-21,PiperJaffray,Overweight,Neutral,up,TBK
+2017-07-21,FBR Capital,Market Perform,Outperform,down,TBK
+2017-10-06,PiperJaffray,Neutral,Overweight,down,TBK
+2017-10-20,Wells Fargo,Outperform,,main,TBK
+2018-01-23,PiperJaffray,Overweight,Neutral,up,TBK
+2018-01-23,B. Riley FBR,Buy,Neutral,up,TBK
+2018-06-19,B. Riley FBR,Buy,Buy,main,TBK
+2019-04-22,PiperJaffray,Neutral,Overweight,down,TBK
+2019-07-09,Stephens & Co.,Equal-Weight,Overweight,down,TBK
+2019-10-18,B. Riley,Buy,,main,TBK
+2020-01-09,B. Riley FBR,Buy,,main,TBK
+2020-01-22,Piper Sandler,Overweight,,main,TBK
+2020-02-10,DA Davidson,Neutral,Buy,down,TBK
+2020-03-09,B. Riley,Neutral,Buy,down,TBK
+2020-03-17,Stephens & Co.,Overweight,Equal-Weight,up,TBK
+2020-04-01,B. Riley FBR,Neutral,,main,TBK
+2020-04-22,Piper Sandler,Neutral,Overweight,down,TBK
+2020-04-22,B. Riley FBR,Neutral,,main,TBK
+2020-06-02,Wells Fargo,Underweight,Equal-Weight,down,TBK
+2020-06-18,Piper Sandler,Neutral,,main,TBK
+2020-07-10,DA Davidson,Buy,Neutral,up,TBK
+2020-07-22,Wells Fargo,Underweight,,main,TBK
+2020-07-27,Piper Sandler,Neutral,,main,TBK
+2020-09-30,Piper Sandler,Neutral,,main,TBK
+2020-10-01,Raymond James,Strong Buy,,init,TBK
+2020-10-08,Wells Fargo,Equal-Weight,Underweight,up,TBK
+2020-10-21,Stephens & Co.,Equal-Weight,Overweight,down,TBK
+2020-10-21,Raymond James,Outperform,Strong Buy,down,TBK
+2020-11-12,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,TBK
+2021-01-25,Raymond James,Outperform,,main,TBK
+2021-02-18,Raymond James,Outperform,,main,TBK
+2021-04-05,Raymond James,Strong Buy,Outperform,up,TBK
+2021-04-05,B. Riley FBR,Buy,Neutral,up,TBK
+2021-07-26,Raymond James,Strong Buy,,main,TBK
+2021-07-27,Stephens & Co.,Equal-Weight,,main,TBK
+2021-09-29,B. Riley Securities,Buy,,main,TBK
+2021-10-07,Wells Fargo,Equal-Weight,,main,TBK
+2021-10-22,Raymond James,Strong Buy,,main,TBK
+2021-12-03,B. Riley Securities,Buy,,main,TBK

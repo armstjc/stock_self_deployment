@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-21,Goldman Sachs,Buy,,init,ZTO
+2016-11-21,Morgan Stanley,Overweight,,init,ZTO
+2016-11-21,Citigroup,Buy,,init,ZTO
+2016-11-23,JP Morgan,Overweight,,init,ZTO
+2017-11-02,Daiwa Capital,Buy,,init,ZTO
+2018-06-07,JP Morgan,Overweight,Overweight,main,ZTO
+2018-08-10,JP Morgan,Overweight,Overweight,main,ZTO
+2019-04-23,UBS,Buy,Neutral,up,ZTO
+2019-11-21,UBS,Buy,,reit,ZTO
+2020-05-21,B of A Securities,Neutral,Buy,down,ZTO
+2020-05-22,JP Morgan,Neutral,Overweight,down,ZTO
+2020-11-20,HSBC,Reduce,Hold,down,ZTO
+2021-03-22,JP Morgan,Neutral,Overweight,down,ZTO
+2021-10-20,Goldman Sachs,Neutral,Buy,down,ZTO
+2021-11-18,B of A Securities,Buy,Neutral,up,ZTO
+2021-11-18,Macquarie,Outperform,Neutral,up,ZTO

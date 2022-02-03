@@ -1,0 +1,118 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,Bank oferica,Buy,,main,RRGB
+2012-03-28,DA Davidson,Buy,,init,RRGB
+2012-04-05,Bank oferica,Buy,,main,RRGB
+2012-04-09,PiperJaffray,Underweight,,main,RRGB
+2012-04-16,Morgan Stanley,Underweight,,main,RRGB
+2012-05-17,Bank oferica,Buy,,main,RRGB
+2012-07-13,KeyBanc,Hold,,init,RRGB
+2012-07-24,Davenport,Buy,,init,RRGB
+2012-08-07,Sterne Agee,Neutral,Buy,down,RRGB
+2012-08-10,Bank of America,Buy,,main,RRGB
+2012-08-10,Jefferies,Hold,,main,RRGB
+2012-10-31,Miller Tabak,Buy,Hold,up,RRGB
+2013-01-08,Miller Tabak,Buy,,main,RRGB
+2013-01-09,Morgan Stanley,Equal-Weight,Underweight,up,RRGB
+2013-01-10,Bank of America,Neutral,Buy,down,RRGB
+2013-02-19,Miller Tabak,Hold,Buy,down,RRGB
+2013-02-20,BMO Capital,Outperform,,main,RRGB
+2013-02-20,PiperJaffray,Underweight,,main,RRGB
+2013-02-20,Jefferies,Hold,,main,RRGB
+2013-02-20,Davenport,Neutral,Buy,down,RRGB
+2013-04-08,Jefferies,Hold,,main,RRGB
+2013-04-24,KeyBanc,Buy,Hold,up,RRGB
+2013-05-10,Northcoast Research,Buy,Neutral,up,RRGB
+2013-05-22,Jefferies,Hold,,main,RRGB
+2013-07-12,BMO Capital,Market Perform,Outperform,down,RRGB
+2013-07-23,Wunderlich,Buy,,init,RRGB
+2013-08-16,Miller Tabak,Hold,,main,RRGB
+2013-08-16,B. Riley FBR,Neutral,Buy,up,RRGB
+2013-08-20,Jefferies,Buy,Hold,up,RRGB
+2013-09-10,Wunderlich,Hold,Buy,down,RRGB
+2013-09-25,PiperJaffray,Neutral,Underweight,up,RRGB
+2013-10-01,Raymond James,Outperform,Strong Buy,down,RRGB
+2013-11-01,Wunderlich,Buy,,up,RRGB
+2013-11-06,BMO Capital,Market Perform,,main,RRGB
+2013-11-06,Jefferies,Buy,,main,RRGB
+2013-11-06,Bank of America,Underperform,Neutral,down,RRGB
+2013-11-15,Wunderlich,Buy,,main,RRGB
+2013-12-20,Miller Tabak,Buy,Hold,up,RRGB
+2014-02-07,Longbow Research,Buy,,init,RRGB
+2014-02-10,Raymond James,Strong Buy,Outperform,up,RRGB
+2014-02-10,Bank of America,Buy,Underperform,up,RRGB
+2014-08-14,Longbow Research,Neutral,Buy,down,RRGB
+2014-08-15,Wunderlich,Buy,,main,RRGB
+2014-08-15,Jefferies,Buy,,main,RRGB
+2014-11-05,Bank of America,Buy,,main,RRGB
+2015-01-06,Jefferies,Buy,,main,RRGB
+2015-01-09,Tigress Financial,Neutral,Underperform,up,RRGB
+2015-01-20,Wunderlich,Buy,,main,RRGB
+2015-02-17,Jefferies,Buy,,main,RRGB
+2015-03-11,Longbow Research,Buy,Neutral,up,RRGB
+2015-07-15,BTIG Research,Neutral,,init,RRGB
+2016-04-21,Maxim Group,Buy,,main,RRGB
+2016-05-17,KeyBanc,Sector Weight,Overweight,down,RRGB
+2016-07-26,Jefferies,Hold,Buy,down,RRGB
+2016-08-08,Standpoint Research,Buy,,init,RRGB
+2016-08-22,Canaccord Genuity,Hold,,init,RRGB
+2016-09-13,Bank of America,Underperform,Buy,down,RRGB
+2016-10-21,Stephens & Co.,Overweight,,main,RRGB
+2016-12-14,Bank of America,Neutral,Underperform,up,RRGB
+2017-03-28,Standpoint Research,Hold,Buy,down,RRGB
+2017-05-17,Bank of America,Buy,Neutral,up,RRGB
+2017-05-26,Canaccord Genuity,Buy,Hold,up,RRGB
+2017-08-09,Raymond James,Strong Buy,,main,RRGB
+2017-08-09,BTIG Research,Buy,Neutral,up,RRGB
+2017-10-03,Stifel Nicolaus,Hold,,init,RRGB
+2017-11-07,Maxim Group,Hold,Buy,down,RRGB
+2017-11-07,Jefferies,Hold,,main,RRGB
+2017-12-22,Jefferies,Buy,Hold,up,RRGB
+2018-02-26,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2018-04-18,Stifel Nicolaus,Hold,Hold,main,RRGB
+2018-05-09,Stifel Nicolaus,Buy,Hold,up,RRGB
+2018-05-16,Maxim Group,Buy,Hold,up,RRGB
+2018-05-23,Stifel Nicolaus,Hold,Buy,down,RRGB
+2018-05-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2018-05-23,BTIG Research,Neutral,Buy,down,RRGB
+2018-08-02,Maxim Group,Buy,Buy,main,RRGB
+2018-08-02,Canaccord Genuity,Hold,Buy,down,RRGB
+2018-08-02,Raymond James,Market Perform,Outperform,down,RRGB
+2018-08-02,Stifel Nicolaus,Hold,Hold,main,RRGB
+2018-08-02,Bank of America,Buy,Buy,main,RRGB
+2018-08-03,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2018-08-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2018-10-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2018-10-19,Gordon Haskett,Hold,,init,RRGB
+2018-11-02,Loop Capital,Hold,,init,RRGB
+2018-12-19,Jefferies,Hold,Buy,down,RRGB
+2019-02-27,Maxim Group,Hold,Buy,down,RRGB
+2019-02-27,Morgan Stanley,Equal-Weight,Equal-Weight,main,RRGB
+2019-04-04,Bank of America,Neutral,Buy,down,RRGB
+2019-05-31,Morgan Stanley,Equal-Weight,,main,RRGB
+2019-06-14,Maxim Group,Buy,Hold,up,RRGB
+2019-08-26,Morgan Stanley,Equal-Weight,,main,RRGB
+2019-08-27,Bank of America,Underperform,Neutral,down,RRGB
+2019-11-06,Stifel,Hold,,main,RRGB
+2020-01-23,Wells Fargo,Equal-Weight,,main,RRGB
+2020-04-22,Jefferies,Hold,,main,RRGB
+2020-06-11,Wells Fargo,Equal-Weight,,main,RRGB
+2020-06-12,Morgan Stanley,Equal-Weight,,main,RRGB
+2020-08-12,Morgan Stanley,Equal-Weight,,main,RRGB
+2020-10-14,Morgan Stanley,Equal-Weight,,main,RRGB
+2020-12-17,Wells Fargo,Underweight,Equal-Weight,down,RRGB
+2021-01-06,Raymond James,Outperform,Market Perform,up,RRGB
+2021-01-19,Raymond James,Outperform,,main,RRGB
+2021-01-19,Morgan Stanley,Equal-Weight,,main,RRGB
+2021-02-10,Raymond James,Outperform,,main,RRGB
+2021-03-04,Raymond James,Outperform,,main,RRGB
+2021-03-05,Morgan Stanley,Equal-Weight,,main,RRGB
+2021-03-22,Raymond James,Outperform,,main,RRGB
+2021-04-12,Morgan Stanley,Equal-Weight,,main,RRGB
+2021-05-26,Morgan Stanley,Equal-Weight,,main,RRGB
+2021-08-19,Raymond James,Outperform,,main,RRGB
+2021-08-19,Wells Fargo,Underweight,,main,RRGB
+2021-08-30,CL King,Buy,,init,RRGB
+2021-09-13,Morgan Stanley,Equal-Weight,,main,RRGB
+2021-09-24,Jefferies,Buy,Hold,up,RRGB
+2021-11-11,Raymond James,Outperform,,main,RRGB
+2021-11-23,Benchmark,Buy,,init,RRGB

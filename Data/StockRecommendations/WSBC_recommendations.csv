@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-08,Raymond James,Market Perform,,init,WSBC
+2013-04-04,Janney Capital,Buy,,init,WSBC
+2013-07-24,Boenning & Scattergood,Neutral,Outperform,down,WSBC
+2013-08-21,FBR Capital,Market Perform,,init,WSBC
+2013-09-12,Guggenheim,Neutral,,init,WSBC
+2013-12-03,Sandler O'Neill,Hold,,init,WSBC
+2014-01-30,Guggenheim,Buy,Neutral,up,WSBC
+2014-02-27,Keefe Bruyette & Woods,Outperform,Market Perform,up,WSBC
+2014-02-28,Keefe Bruyette & Woods,Outperform,Market Perform,up,WSBC
+2014-10-24,Keefe Bruyette & Woods,Outperform,,main,WSBC
+2014-11-10,Keefe Bruyette & Woods,Market Perform,Outperform,down,WSBC
+2015-02-11,FBR Capital,Outperform,Market Perform,up,WSBC
+2015-07-23,FBR Capital,Market Perform,Outperform,down,WSBC
+2015-07-23,Macquarie,Neutral,,main,WSBC
+2015-08-11,Macquarie,Outperform,Neutral,up,WSBC
+2016-01-08,Boenning & Scattergood,Outperform,Neutral,up,WSBC
+2016-04-21,Boenning & Scattergood,Neutral,Outperform,down,WSBC
+2017-03-06,DA Davidson,Neutral,,init,WSBC
+2017-06-02,DA Davidson,Buy,Neutral,up,WSBC
+2017-10-20,Sandler O'Neill,Hold,Buy,down,WSBC
+2018-06-19,B. Riley FBR,Neutral,Neutral,main,WSBC
+2019-07-25,Keefe Bruyette & Woods,Outperform,Market Perform,up,WSBC
+2019-07-25,Sandler O'Neill,Buy,Hold,up,WSBC
+2020-01-29,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,WSBC
+2020-01-29,Stephens & Co.,Overweight,,main,WSBC
+2020-04-13,B. Riley FBR,Neutral,,main,WSBC
+2020-04-29,B. Riley FBR,Neutral,,main,WSBC
+2020-06-17,Raymond James,Outperform,Market Perform,up,WSBC
+2020-07-24,Piper Sandler,Overweight,,main,WSBC
+2020-10-23,Raymond James,Outperform,,main,WSBC
+2020-10-26,Piper Sandler,Overweight,,main,WSBC
+2020-11-19,RBC Capital,Sector Perform,,init,WSBC
+2020-11-25,Stephens & Co.,Equal-Weight,Overweight,down,WSBC
+2021-04-29,Piper Sandler,Neutral,Overweight,down,WSBC
+2021-07-08,Raymond James,Market Perform,Outperform,down,WSBC
+2021-09-29,RBC Capital,Sector Perform,,main,WSBC

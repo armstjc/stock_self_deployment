@@ -1,0 +1,164 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-06-22,Macquarie,Outperform,,init,WFRD
+2012-06-28,Bernstein,Market Perform,Outperform,down,WFRD
+2012-07-26,Goldman Sachs,Neutral,Buy,down,WFRD
+2012-07-26,UBS,Neutral,Buy,down,WFRD
+2012-07-26,Societe Generale,Sell,Hold,down,WFRD
+2012-09-10,Barclays,Overweight,,main,WFRD
+2012-09-21,Dahlman Rose,Buy,,main,WFRD
+2012-10-16,Credit Suisse,Neutral,,init,WFRD
+2012-10-17,Morgan Stanley,Overweight,,main,WFRD
+2012-11-13,Morgan Stanley,Overweight,,main,WFRD
+2012-11-14,Barclays,Overweight,,main,WFRD
+2012-11-14,Tudor Pickering,Buy,Accumulate,up,WFRD
+2012-11-14,BMO Capital,Market Perform,,main,WFRD
+2012-11-14,Societe Generale,Hold,Sell,up,WFRD
+2012-11-14,Jefferies,Hold,Underperform,up,WFRD
+2012-11-14,Deutsche Bank,Buy,,main,WFRD
+2012-12-19,Citigroup,Buy,,main,WFRD
+2012-12-21,Simmons & Co.,Neutral,,down,WFRD
+2013-01-11,Barclays,Overweight,,main,WFRD
+2013-01-17,Deutsche Bank,Buy,,main,WFRD
+2013-01-24,Tudor Pickering,Accumulate,Buy,down,WFRD
+2013-02-28,Citigroup,Buy,,main,WFRD
+2013-02-28,Jefferies,Hold,,main,WFRD
+2013-03-01,BMO Capital,Underperform,Market Perform,down,WFRD
+2013-03-01,BMO Capital,Underperform,Market Perform,down,WFRD
+2013-03-05,JP Morgan,Overweight,,main,WFRD
+2013-03-21,Raymond James,Outperform,Underperform,up,WFRD
+2013-05-06,ISI Group,Buy,Strong Buy,down,WFRD
+2013-05-07,iBERIA Capital Partners,Outperform,Sector Perform,up,WFRD
+2013-05-13,Credit Suisse,Neutral,,main,WFRD
+2013-08-01,Susquehanna,Neutral,,main,WFRD
+2013-09-04,iBERIA Capital Partners,Outperform,,init,WFRD
+2013-09-12,Macquarie,Neutral,Outperform,down,WFRD
+2013-09-12,Wells Fargo,Market Perform,Outperform,down,WFRD
+2013-09-12,Raymond James,Market Perform,Outperform,down,WFRD
+2013-09-13,Credit Suisse,Outperform,Neutral,up,WFRD
+2013-09-18,Wells Fargo,Outperform,Market Perform,up,WFRD
+2013-10-04,Tudor Pickering,Accumulate,Hold,down,WFRD
+2013-10-16,BMO Capital,Market Perform,Underperform,up,WFRD
+2014-01-06,Guggenheim,Neutral,Buy,down,WFRD
+2014-01-14,Morgan Stanley,Equal-Weight,Overweight,down,WFRD
+2014-01-15,Societe Generale,Buy,,up,WFRD
+2014-02-27,UBS,Buy,Neutral,up,WFRD
+2014-03-28,Deutsche Bank,Buy,,main,WFRD
+2014-04-25,Morgan Stanley,Overweight,Equal-Weight,up,WFRD
+2014-04-28,Credit Suisse,Outperform,,main,WFRD
+2014-04-28,Credit Suisse,Outperform,,main,WFRD
+2014-04-28,Seaport Global,Buy,Neutral,up,WFRD
+2014-04-29,Citigroup,Buy,,main,WFRD
+2014-06-12,Societe Generale,Hold,Buy,down,WFRD
+2014-06-20,Drexel Hamilton,Hold,,init,WFRD
+2014-07-25,UBS,Buy,,main,WFRD
+2014-09-12,Gabelli & Co.,Buy,,init,WFRD
+2014-10-10,Societe Generale,Buy,Hold,up,WFRD
+2014-10-13,Bank of America,Buy,,main,WFRD
+2014-10-15,Citigroup,Neutral,,init,WFRD
+2014-10-16,ISI Group,Buy,,init,WFRD
+2014-10-24,Credit Suisse,Outperform,,main,WFRD
+2014-10-24,Citigroup,Buy,,main,WFRD
+2014-12-02,Credit Suisse,Outperform,,main,WFRD
+2014-12-03,Oppenheimer,Outperform,,init,WFRD
+2014-12-04,Credit Suisse,Outperform,,main,WFRD
+2014-12-19,Citigroup,Buy,,main,WFRD
+2015-01-15,Deutsche Bank,Buy,,main,WFRD
+2015-02-02,Jefferies,Hold,,main,WFRD
+2015-02-18,BMO Capital,Outperform,,init,WFRD
+2015-04-08,Stephens & Co.,Equal-Weight,,init,WFRD
+2015-04-10,RBC Capital,Outperform,Sector Perform,up,WFRD
+2015-04-16,Seaport Global,Neutral,Accumulate,down,WFRD
+2015-04-24,BMO Capital,Outperform,,main,WFRD
+2015-04-24,Sterne Agee CRT,Neutral,Buy,down,WFRD
+2015-04-27,Jefferies,Hold,,main,WFRD
+2015-04-27,Citigroup,Buy,,main,WFRD
+2015-05-11,Citigroup,Neutral,Buy,down,WFRD
+2015-05-26,CLSA,Underperform,Outperform,down,WFRD
+2015-05-29,JP Morgan,Overweight,,init,WFRD
+2015-07-08,Citigroup,Neutral,,main,WFRD
+2015-07-10,Oppenheimer,Outperform,,main,WFRD
+2015-07-10,Jefferies,Buy,Hold,up,WFRD
+2015-07-24,Guggenheim,Buy,Neutral,up,WFRD
+2015-07-27,Barclays,Equal-Weight,Underweight,up,WFRD
+2015-08-24,Susquehanna,Neutral,,main,WFRD
+2015-09-04,Credit Suisse,Outperform,,main,WFRD
+2015-09-11,TD Securities,Buy,Hold,up,WFRD
+2015-09-21,Morgan Stanley,Overweight,,main,WFRD
+2015-10-01,Oppenheimer,Outperform,,main,WFRD
+2015-10-05,Citigroup,Neutral,,main,WFRD
+2015-10-27,Susquehanna,Positive,Neutral,up,WFRD
+2015-12-03,Stephens & Co.,Equal-Weight,Overweight,down,WFRD
+2015-12-11,Citigroup,Buy,Neutral,up,WFRD
+2016-01-05,GMP Securities,Hold,,init,WFRD
+2016-01-07,Oppenheimer,Outperform,,main,WFRD
+2016-01-11,Scotia Howard Weil,Neutral,Overweight,down,WFRD
+2016-01-11,Wells Fargo,Outperform,Market Perform,up,WFRD
+2016-01-19,Deutsche Bank,Buy,,main,WFRD
+2016-02-05,Raymond James,Strong Buy,Market Perform,up,WFRD
+2016-02-05,Barclays,Equal-Weight,,main,WFRD
+2016-02-08,Deutsche Bank,Buy,,main,WFRD
+2016-02-19,DA Davidson,Buy,,init,WFRD
+2016-03-11,Goldman Sachs,Buy,Neutral,up,WFRD
+2016-04-01,Susquehanna,Positive,,main,WFRD
+2016-04-07,Nomura,Buy,,init,WFRD
+2016-04-19,Morgan Stanley,Overweight,,main,WFRD
+2016-05-05,Stephens & Co.,Underperform,Equal-Weight,down,WFRD
+2016-05-06,Wells Fargo,Market Perform,Outperform,down,WFRD
+2016-05-06,Seaport Global,Buy,Neutral,up,WFRD
+2016-05-19,Citigroup,Buy,,main,WFRD
+2016-06-03,PiperJaffray,Overweight,Neutral,up,WFRD
+2016-06-06,Barclays,Overweight,Equal-Weight,up,WFRD
+2016-06-13,Bank of America,Underperform,,init,WFRD
+2016-06-14,Citigroup,Buy,,main,WFRD
+2016-06-24,Imperial Capital,In-Line,,init,WFRD
+2016-07-29,Citigroup,Buy,,main,WFRD
+2016-08-01,Deutsche Bank,Buy,,main,WFRD
+2016-08-02,Jefferies,Buy,,main,WFRD
+2016-09-12,Citigroup,Buy,,main,WFRD
+2016-09-30,Loop Capital,Hold,,init,WFRD
+2016-10-05,Citigroup,Buy,,main,WFRD
+2016-10-11,Citigroup,Buy,,main,WFRD
+2016-11-02,Raymond James,Outperform,Strong Buy,down,WFRD
+2016-11-10,CLSA,Buy,Underperform,up,WFRD
+2016-12-02,Bernstein,Outperform,,init,WFRD
+2017-01-09,Barclays,Equal-Weight,Overweight,down,WFRD
+2017-01-18,SunTrust Robinson Humphrey,Buy,,init,WFRD
+2017-01-27,Jefferies,Hold,Buy,down,WFRD
+2017-02-03,Loop Capital,Buy,Hold,up,WFRD
+2017-03-07,Capital One Financial,Overweight,Equal-Weight,up,WFRD
+2017-03-08,Clarksons Platou,Neutral,Sell,up,WFRD
+2017-03-27,Wells Fargo,Outperform,Market Perform,up,WFRD
+2017-04-13,Goldman Sachs,Neutral,Buy,down,WFRD
+2017-07-06,Bernstein,Market Perform,Outperform,down,WFRD
+2017-08-03,BMO Capital,Outperform,,main,WFRD
+2017-08-07,Morgan Stanley,Overweight,,main,WFRD
+2017-10-05,Citigroup,Buy,,main,WFRD
+2017-10-10,Deutsche Bank,Buy,,init,WFRD
+2017-11-01,Seaport Global,Buy,Neutral,up,WFRD
+2017-11-02,Morgan Stanley,Overweight,,main,WFRD
+2017-11-02,BMO Capital,Outperform,,main,WFRD
+2017-11-03,Bernstein,Outperform,Market Perform,up,WFRD
+2017-11-06,Citigroup,Hold,Buy,down,WFRD
+2018-01-04,Jefferies,Underperform,Hold,down,WFRD
+2018-01-16,Bank of America,Neutral,Underperform,up,WFRD
+2018-02-05,Bank of America,Neutral,Neutral,main,WFRD
+2018-02-06,Loop Capital,Buy,Buy,main,WFRD
+2018-02-06,Credit Suisse,Outperform,Outperform,main,WFRD
+2018-02-13,Barclays,Equal-Weight,Overweight,down,WFRD
+2018-04-03,PiperJaffray,Neutral,Overweight,down,WFRD
+2018-04-04,Jefferies,Hold,Underperform,up,WFRD
+2018-09-11,Stifel Nicolaus,Hold,,init,WFRD
+2018-09-19,Morgan Stanley,Equal-Weight,,init,WFRD
+2018-10-12,Societe Generale,Hold,Buy,down,WFRD
+2018-10-30,Raymond James,Outperform,Outperform,main,WFRD
+2018-10-30,Citigroup,Sell,Neutral,down,WFRD
+2018-10-31,Guggenheim,Neutral,Buy,down,WFRD
+2018-10-31,UBS,Neutral,Buy,down,WFRD
+2018-11-16,Raymond James,Market Perform,Outperform,down,WFRD
+2018-12-11,JP Morgan,Neutral,Overweight,down,WFRD
+2018-12-13,Raymond James,Market Underperform,Market Perform,down,WFRD
+2019-01-10,BMO Capital,Market Perform,Outperform,down,WFRD
+2020-01-29,BWS Financial,Buy,,init,WFRD
+2020-03-20,Gabelli & Co.,Hold,Sell,up,WFRD
+2021-06-09,Piper Sandler,Overweight,,init,WFRD
+2021-11-19,Benchmark,Buy,,init,WFRD

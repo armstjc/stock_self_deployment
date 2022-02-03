@@ -1,0 +1,96 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-26,Deutsche Bank,Hold,Buy,down,VIPS
+2012-11-14,PiperJaffray,Overweight,,main,VIPS
+2013-02-06,Deutsche Bank,Buy,Hold,up,VIPS
+2013-02-25,Deutsche Bank,Buy,,main,VIPS
+2013-03-25,PiperJaffray,Overweight,,main,VIPS
+2013-03-25,JP Morgan,Overweight,,init,VIPS
+2013-09-18,Deutsche Bank,Buy,Hold,up,VIPS
+2013-09-26,Credit Suisse,Neutral,,init,VIPS
+2013-10-08,JP Morgan,Overweight,,main,VIPS
+2013-10-17,Macquarie,Outperform,,init,VIPS
+2013-10-24,CLSA,Outperform,,init,VIPS
+2013-11-12,PiperJaffray,Overweight,,main,VIPS
+2013-11-12,PiperJaffray,Overweight,,main,VIPS
+2013-11-19,HSBC,Overweight,,init,VIPS
+2014-01-30,UBS,Neutral,Buy,down,VIPS
+2014-03-04,PiperJaffray,Overweight,,main,VIPS
+2014-03-11,Goldman Sachs,Neutral,Buy,down,VIPS
+2014-03-31,Goldman Sachs,Buy,Neutral,up,VIPS
+2014-04-08,Credit Suisse,Outperform,Neutral,up,VIPS
+2014-04-30,CLSA,Buy,,init,VIPS
+2014-05-16,BOC Int'l,Buy,Hold,up,VIPS
+2014-05-19,JP Morgan,Overweight,,main,VIPS
+2014-07-02,Jefferies,Buy,,init,VIPS
+2014-07-25,Citigroup,Buy,,init,VIPS
+2014-08-15,Jefferies,Buy,,main,VIPS
+2014-08-15,Macquarie,Outperform,,main,VIPS
+2014-10-29,Morgan Stanley,Overweight,,init,VIPS
+2014-11-20,JP Morgan,Overweight,,main,VIPS
+2014-11-20,Morgan Stanley,Overweight,,main,VIPS
+2015-04-20,Summit Research Partners,Buy,,init,VIPS
+2015-04-24,HSBC,Buy,Neutral,up,VIPS
+2015-04-24,Jefferies,Buy,,main,VIPS
+2015-05-27,Stifel Nicolaus,Buy,,init,VIPS
+2015-11-16,CLSA,Underperform,Outperform,down,VIPS
+2015-11-16,Morgan Stanley,Equal-Weight,Overweight,down,VIPS
+2015-11-16,Bank of America,Neutral,Buy,down,VIPS
+2015-11-19,Brean Capital,Buy,,main,VIPS
+2015-12-17,Morgan Stanley,Underweight,Equal-Weight,down,VIPS
+2016-01-07,CLSA,Buy,Outperform,up,VIPS
+2016-02-25,Credit Suisse,Neutral,Overweight,down,VIPS
+2016-02-29,Morgan Stanley,Equal-Weight,Underweight,up,VIPS
+2016-05-18,JP Morgan,Neutral,Overweight,down,VIPS
+2016-08-16,Bank of America,Buy,Neutral,up,VIPS
+2016-08-17,Nomura,Buy,,main,VIPS
+2016-08-17,Deutsche Bank,Hold,Buy,down,VIPS
+2016-11-10,Deutsche Bank,Buy,Hold,up,VIPS
+2017-01-11,Bernstein,Underperform,,init,VIPS
+2017-04-18,Benchmark,Buy,,init,VIPS
+2017-06-30,Deutsche Bank,Hold,Buy,down,VIPS
+2017-08-18,Benchmark,Buy,,main,VIPS
+2017-08-18,Macquarie,Outperform,,main,VIPS
+2017-10-30,UBS,Neutral,,init,VIPS
+2017-12-18,Daiwa Capital,Buy,Hold,up,VIPS
+2018-01-16,Bernstein,Outperform,Market Perform,up,VIPS
+2018-02-14,HSBC,Buy,Hold,up,VIPS
+2018-02-14,JP Morgan,Neutral,Neutral,main,VIPS
+2018-05-16,KeyBanc,Sector Weight,Overweight,down,VIPS
+2018-05-16,Daiwa Capital,Hold,Buy,down,VIPS
+2018-07-11,Goldman Sachs,Neutral,Buy,down,VIPS
+2018-08-14,Daiwa Capital,Underperform,Hold,down,VIPS
+2018-08-15,Macquarie,Outperform,Outperform,main,VIPS
+2018-10-10,JP Morgan,Neutral,Overweight,down,VIPS
+2018-10-12,UBS,Neutral,Neutral,main,VIPS
+2019-01-23,KeyBanc,Overweight,Sector Weight,up,VIPS
+2019-02-19,Bank of America,Neutral,Buy,down,VIPS
+2019-02-22,Macquarie,Neutral,Outperform,down,VIPS
+2019-04-05,KeyBanc,Overweight,Overweight,main,VIPS
+2019-04-22,UBS,Sell,Neutral,down,VIPS
+2019-04-30,JP Morgan,Overweight,Neutral,up,VIPS
+2019-08-05,Jefferies,Hold,,init,VIPS
+2019-11-14,JP Morgan,Overweight,,main,VIPS
+2019-11-14,KeyBanc,Overweight,,main,VIPS
+2019-11-22,Macquarie,Outperform,,init,VIPS
+2019-11-25,CLSA,Outperform,Buy,down,VIPS
+2019-12-16,KeyBanc,Overweight,,main,VIPS
+2020-01-21,KeyBanc,Overweight,,main,VIPS
+2020-01-28,B of A Securities,Neutral,,reit,VIPS
+2020-02-05,Morgan Stanley,Equal-Weight,,init,VIPS
+2020-03-06,KeyBanc,Overweight,,main,VIPS
+2020-03-06,Citigroup,Buy,Neutral,up,VIPS
+2020-03-06,Nomura,Buy,Neutral,up,VIPS
+2020-03-09,UBS,Sell,,main,VIPS
+2020-05-28,KeyBanc,Overweight,,main,VIPS
+2020-08-20,JP Morgan,Neutral,Overweight,down,VIPS
+2020-09-28,Morgan Stanley,Underweight,Equal-Weight,down,VIPS
+2020-11-02,KeyBanc,Overweight,,main,VIPS
+2020-11-16,KeyBanc,Overweight,,main,VIPS
+2020-11-16,UBS,Buy,,main,VIPS
+2021-01-26,KeyBanc,Sector Weight,Overweight,down,VIPS
+2021-04-15,JP Morgan,Overweight,Neutral,up,VIPS
+2021-08-19,Credit Suisse,Neutral,Outperform,down,VIPS
+2021-09-03,UBS,Neutral,Buy,down,VIPS
+2021-09-23,JP Morgan,Neutral,Overweight,down,VIPS
+2021-09-29,New Street Research,Neutral,Buy,down,VIPS
+2021-11-19,Benchmark,Hold,Buy,down,VIPS

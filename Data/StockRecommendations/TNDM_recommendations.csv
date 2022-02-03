@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-12-09,Bank of America,Neutral,,init,TNDM
+2013-12-09,Deutsche Bank,Hold,,init,TNDM
+2013-12-09,PiperJaffray,Overweight,,init,TNDM
+2013-12-09,Stifel Nicolaus,Buy,,init,TNDM
+2014-05-14,Deutsche Bank,Buy,Hold,up,TNDM
+2014-07-15,William Blair,Outperform,,init,TNDM
+2014-10-28,Wedbush,Outperform,,init,TNDM
+2014-11-11,Deutsche Bank,Buy,,main,TNDM
+2014-12-08,Cowen & Co.,Outperform,,init,TNDM
+2015-05-05,Deutsche Bank,Buy,,main,TNDM
+2015-07-08,Baird,Outperform,,init,TNDM
+2015-08-10,Deutsche Bank,Buy,,main,TNDM
+2015-11-03,Deutsche Bank,Buy,,main,TNDM
+2016-03-24,Bank of America,Underperform,Neutral,down,TNDM
+2016-09-27,B. Riley FBR,Buy,,init,TNDM
+2016-11-02,Stifel Nicolaus,Hold,Buy,down,TNDM
+2016-11-02,Feltl & Co.,Buy,Strong Buy,down,TNDM
+2016-11-02,Wedbush,Outperform,,main,TNDM
+2016-11-02,Baird,Neutral,Outperform,down,TNDM
+2016-11-03,PiperJaffray,Neutral,Overweight,down,TNDM
+2017-11-20,Bank of America,Underperform,,main,TNDM
+2018-02-27,Oppenheimer,Outperform,,init,TNDM
+2018-03-23,Baird,Outperform,Neutral,up,TNDM
+2018-03-28,Cowen & Co.,Outperform,Market Perform,up,TNDM
+2018-05-14,PiperJaffray,Overweight,Neutral,up,TNDM
+2018-06-18,Lake Street,Buy,,init,TNDM
+2018-07-31,Stifel Nicolaus,Hold,Hold,main,TNDM
+2018-08-24,Bank of America,Neutral,Underperform,up,TNDM
+2018-08-24,Dougherty,Buy,,init,TNDM
+2018-08-30,Berenberg,Buy,,init,TNDM
+2018-09-14,Baird,Neutral,Outperform,down,TNDM
+2018-09-20,Craig-Hallum,Buy,,init,TNDM
+2018-11-21,Baird,Outperform,Neutral,up,TNDM
+2018-11-28,UBS,Neutral,,init,TNDM
+2019-03-08,BMO Capital,Outperform,,init,TNDM
+2019-04-30,UBS,Neutral,Neutral,main,TNDM
+2019-05-01,Stifel Nicolaus,Hold,Hold,main,TNDM
+2019-05-13,SVB Leerink,Outperform,,init,TNDM
+2019-10-04,UBS,Buy,Neutral,up,TNDM
+2019-10-18,Guggenheim,Buy,,init,TNDM
+2019-11-05,Baird,Outperform,,main,TNDM
+2020-02-04,Baird,Neutral,Outperform,down,TNDM
+2020-02-06,Raymond James,Outperform,,init,TNDM
+2020-02-25,Stifel Nicolaus,Hold,,main,TNDM
+2020-02-25,Raymond James,Outperform,,main,TNDM
+2020-02-25,Piper Sandler,Overweight,,main,TNDM
+2020-03-27,Citigroup,Neutral,,main,TNDM
+2020-04-24,SVB Leerink,Market Perform,Outperform,down,TNDM
+2020-04-27,Raymond James,Outperform,,main,TNDM
+2020-05-01,SVB Leerink,Market Perform,,main,TNDM
+2020-05-01,Stifel,Hold,,main,TNDM
+2020-05-01,UBS,Buy,,main,TNDM
+2020-05-01,Citigroup,Neutral,,main,TNDM
+2020-06-18,Raymond James,Outperform,,main,TNDM
+2020-06-22,UBS,Buy,,main,TNDM
+2020-07-06,Citigroup,Buy,Neutral,up,TNDM
+2020-07-31,Raymond James,Outperform,,main,TNDM
+2020-07-31,SVB Leerink,Market Perform,,main,TNDM
+2020-08-20,Wells Fargo,Overweight,,init,TNDM
+2020-08-28,SVB Leerink,Market Perform,,main,TNDM
+2020-11-06,Raymond James,Outperform,,main,TNDM
+2020-11-06,SVB Leerink,Market Perform,,main,TNDM
+2020-12-15,Wells Fargo,Equal-Weight,Overweight,down,TNDM
+2021-04-01,SVB Leerink,Market Perform,,main,TNDM
+2021-05-06,SVB Leerink,Market Perform,,main,TNDM
+2021-05-25,Barclays,Underweight,,init,TNDM
+2021-08-05,SVB Leerink,Market Perform,,main,TNDM
+2021-08-05,Raymond James,Outperform,,main,TNDM
+2021-09-24,SVB Leerink,Market Perform,,main,TNDM
+2021-11-04,SVB Leerink,Market Perform,,main,TNDM
+2021-11-04,Raymond James,Outperform,,main,TNDM
+2022-01-19,Wells Fargo,Overweight,Equal-Weight,up,TNDM

@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-19,Keefe Bruyette & Woods,Outperform,Market Perform,up,SIGIP
+2013-08-02,Keefe Bruyette & Woods,Market Perform,Outperform,down,SIGIP
+2014-02-19,Guggenheim,Buy,,init,SIGIP
+2014-03-14,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,SIGIP
+2014-04-25,Bank of America,Buy,Neutral,up,SIGIP
+2014-08-01,RBC Capital,Outperform,Sector Perform,up,SIGIP
+2015-03-25,Bank of America,Neutral,Buy,down,SIGIP
+2015-04-20,RBC Capital,Outperform,Sector Perform,up,SIGIP
+2015-05-01,Keefe Bruyette & Woods,Market Perform,,main,SIGIP
+2016-08-01,Keefe Bruyette & Woods,Market Perform,,main,SIGIP
+2016-12-09,RBC Capital,Sector Perform,Outperform,down,SIGIP
+2018-08-07,Credit Suisse,Underperform,,init,SIGIP
+2018-10-31,Credit Suisse,Underperform,Underperform,main,SIGIP
+2019-09-12,Buckingham,Neutral,,main,SIGIP
+2020-03-09,JMP Securities,Market Outperform,Market Perform,up,SIGIP
+2020-04-06,Piper Sandler,Neutral,,main,SIGIP
+2020-04-08,RBC Capital,Sector Perform,,main,SIGIP
+2020-05-14,Credit Suisse,Outperform,Underperform,up,SIGIP
+2020-11-10,Credit Suisse,Outperform,,main,SIGIP
+2021-04-16,JMP Securities,Market Outperform,,main,SIGIP
+2021-07-14,JMP Securities,Market Perform,Outperform,down,SIGIP
+2021-07-30,RBC Capital,Sector Perform,,main,SIGIP
+2021-08-17,Wolfe Research,Outperform,,init,SIGIP

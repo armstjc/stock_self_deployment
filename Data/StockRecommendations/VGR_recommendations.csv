@@ -1,0 +1,6 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-06-05,Oppenheimer,Outperform,,init,VGR
+2018-10-03,Oppenheimer,Perform,Outperform,down,VGR
+2020-10-05,Barclays,Equal-Weight,,init,VGR
+2021-11-09,Oppenheimer,Outperform,Perform,up,VGR
+2021-11-15,Barclays,Equal-Weight,Underweight,up,VGR

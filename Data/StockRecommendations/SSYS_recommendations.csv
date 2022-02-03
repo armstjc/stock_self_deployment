@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-08,Dougherty,Neutral,,down,SSYS
+2012-02-27,PiperJaffray,Neutral,,main,SSYS
+2012-05-10,Dougherty,Buy,,up,SSYS
+2012-11-13,PiperJaffray,Overweight,Neutral,up,SSYS
+2012-12-04,Dougherty,Neutral,Buy,down,SSYS
+2013-01-18,JP Morgan,Neutral,,init,SSYS
+2013-03-05,Needham,Buy,Hold,up,SSYS
+2013-03-05,PiperJaffray,Overweight,,main,SSYS
+2013-03-15,Sidoti & Co.,Neutral,,init,SSYS
+2013-04-08,Canaccord Genuity,Buy,,init,SSYS
+2013-05-14,PiperJaffray,Overweight,,main,SSYS
+2013-05-16,William Blair,Underperform,Market Perform,down,SSYS
+2013-07-29,Brean Capital,Buy,,init,SSYS
+2013-08-26,Citigroup,Buy,,init,SSYS
+2013-09-17,Credit Suisse,Neutral,,init,SSYS
+2013-09-23,Bank of America,Buy,,init,SSYS
+2013-10-10,JP Morgan,Overweight,Neutral,up,SSYS
+2013-10-14,Dougherty,Buy,Neutral,up,SSYS
+2013-11-06,Brean Capital,Buy,,main,SSYS
+2013-11-18,Bank of America,Buy,,main,SSYS
+2013-12-03,FBR Capital,Outperform,,init,SSYS
+2013-12-09,Deutsche Bank,Buy,,init,SSYS
+2013-12-09,Pacific Crest,Sector Perform,,init,SSYS
+2013-12-10,Jefferies,Buy,,init,SSYS
+2013-12-23,Gabelli & Co.,Buy,Hold,up,SSYS
+2014-01-13,RBC Capital,Outperform,,init,SSYS
+2014-01-13,Deutsche Bank,Buy,,main,SSYS
+2014-01-14,JP Morgan,Neutral,Overweight,down,SSYS
+2014-01-21,Credit Suisse,Outperform,Neutral,up,SSYS
+2014-02-14,William Blair,Market Perform,Underperform,up,SSYS
+2014-03-24,JP Morgan,Overweight,Neutral,up,SSYS
+2014-04-01,UBS,Buy,,init,SSYS
+2014-04-14,Goldman Sachs,Buy,,init,SSYS
+2014-05-12,Jefferies,Buy,,main,SSYS
+2014-05-12,Craig-Hallum,Hold,Buy,down,SSYS
+2014-05-12,UBS,Buy,,main,SSYS
+2014-07-02,JP Morgan,Overweight,,main,SSYS
+2014-07-15,Cowen & Co.,Outperform,,init,SSYS
+2014-08-08,UBS,Buy,,main,SSYS
+2014-08-08,Brean Capital,Buy,,main,SSYS
+2014-08-08,JP Morgan,Buy,,main,SSYS
+2014-08-08,Citigroup,Buy,,main,SSYS
+2014-08-08,Gabelli & Co.,Hold,Buy,down,SSYS
+2014-08-29,Stifel,Buy,,init,SSYS
+2014-09-04,Morgan Stanley,Overweight,,init,SSYS
+2014-11-06,Brean Capital,Buy,,main,SSYS
+2014-11-06,Canaccord Genuity,Buy,,main,SSYS
+2014-12-10,Longbow Research,Neutral,,init,SSYS
+2014-12-22,JP Morgan,Overweight,,main,SSYS
+2015-01-05,Stifel Nicolaus,Buy,,main,SSYS
+2015-01-14,JP Morgan,Overweight,,main,SSYS
+2015-02-03,FBR Capital,Market Perform,Outperform,down,SSYS
+2015-02-03,JP Morgan,Neutral,Overweight,down,SSYS
+2015-02-03,Canaccord Genuity,Buy,,main,SSYS
+2015-02-03,Brean Capital,Hold,Buy,down,SSYS
+2015-02-04,Gabelli & Co.,Buy,Hold,up,SSYS
+2015-02-04,Stifel Nicolaus,Hold,Buy,down,SSYS
+2015-02-04,Morgan Stanley,Equal-Weight,Overweight,down,SSYS
+2015-04-27,Canaccord Genuity,Hold,Buy,down,SSYS
+2015-04-29,JP Morgan,Neutral,,main,SSYS
+2015-04-29,Deutsche Bank,Buy,,main,SSYS
+2015-04-29,Dougherty,Neutral,Buy,down,SSYS
+2015-04-29,Goldman Sachs,Neutral,Buy,down,SSYS
+2015-04-29,Stephens & Co.,Equal-Weight,Overweight,down,SSYS
+2015-04-29,Jefferies,Buy,,main,SSYS
+2015-04-29,Craig-Hallum,Buy,Hold,up,SSYS
+2015-04-29,Canaccord Genuity,Hold,,main,SSYS
+2015-04-29,Bank of America,Neutral,Buy,down,SSYS
+2015-04-30,RBC Capital,Sector Perform,Outperform,down,SSYS
+2015-05-21,Oppenheimer,Outperform,Market Perform,up,SSYS
+2015-06-17,Oppenheimer,Outperform,Outperform,main,SSYS
+2015-07-21,Citigroup,Neutral,,main,SSYS
+2015-07-27,Dougherty,Buy,,up,SSYS
+2015-07-28,Jefferies,Buy,,main,SSYS
+2015-07-31,PiperJaffray,Overweight,Neutral,up,SSYS
+2015-07-31,Credit Suisse,Outperform,,main,SSYS
+2015-07-31,UBS,Sell,Neutral,down,SSYS
+2015-08-04,JP Morgan,Overweight,Neutral,up,SSYS
+2015-08-06,Citigroup,Buy,Neutral,up,SSYS
+2015-10-19,Jefferies,Buy,,main,SSYS
+2015-10-23,Jefferies,Buy,,main,SSYS
+2015-10-27,Oppenheimer,Outperform,,main,SSYS
+2015-11-09,Deutsche Bank,Hold,Buy,down,SSYS
+2016-01-13,JP Morgan,Overweight,,main,SSYS
+2016-01-25,Jefferies,Buy,,main,SSYS
+2016-01-26,UBS,Sell,,main,SSYS
+2016-01-26,JP Morgan,Neutral,Overweight,down,SSYS
+2016-03-07,JP Morgan,Underweight,Neutral,down,SSYS
+2016-04-15,Citigroup,Neutral,Buy,down,SSYS
+2016-05-24,FBR Capital,Outperform,,init,SSYS
+2016-05-24,FBR Capital,Buy,,init,SSYS
+2016-07-18,PiperJaffray,Neutral,Overweight,down,SSYS
+2016-11-15,Craig-Hallum,Hold,Buy,down,SSYS
+2017-01-03,Standpoint Research,Buy,,init,SSYS
+2017-04-18,PiperJaffray,Overweight,Neutral,up,SSYS
+2017-04-24,Standpoint Research,Reduce,Buy,down,SSYS
+2017-05-12,Standpoint Research,Hold,Reduce,down,SSYS
+2017-05-15,William Blair,Underperform,Market Perform,down,SSYS
+2017-05-17,Needham,Hold,Buy,down,SSYS
+2017-05-18,Jefferies,Hold,Buy,down,SSYS
+2017-06-26,Goldman Sachs,Sell,Neutral,down,SSYS
+2017-07-13,Susquehanna,Neutral,,init,SSYS
+2017-07-24,Loop Capital,Hold,,init,SSYS
+2017-08-10,Deutsche Bank,Hold,,main,SSYS
+2017-08-10,Citigroup,Buy,Neutral,up,SSYS
+2017-10-20,Susquehanna,Positive,Neutral,up,SSYS
+2017-11-15,Loop Capital,Hold,,main,SSYS
+2018-04-26,PiperJaffray,Neutral,Overweight,down,SSYS
+2018-05-03,Deutsche Bank,Hold,Hold,main,SSYS
+2018-08-02,Bank of America,Underperform,Underperform,main,SSYS
+2019-01-29,PiperJaffray,Overweight,Neutral,up,SSYS
+2020-02-27,Piper Sandler,Overweight,,main,SSYS
+2020-05-15,Craig-Hallum,Hold,,main,SSYS
+2020-05-21,JP Morgan,Neutral,Underweight,up,SSYS
+2020-09-24,JP Morgan,Neutral,Overweight,down,SSYS
+2021-01-15,JP Morgan,Underweight,Neutral,down,SSYS
+2021-01-19,Stifel,Buy,,init,SSYS
+2021-03-10,JP Morgan,Neutral,Underweight,up,SSYS
+2021-10-25,Craig-Hallum,Buy,Hold,up,SSYS

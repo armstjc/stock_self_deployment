@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-05-11,Guggenheim,Buy,,init,PRTK
+2015-05-12,Cantor Fitzgerald,Buy,,init,PRTK
+2015-05-15,Leerink Swann,Outperform,,init,PRTK
+2015-05-27,BTIG Research,Buy,,init,PRTK
+2015-07-22,Gabelli & Co.,Buy,,init,PRTK
+2016-02-29,H.C. Wainwright,Buy,,init,PRTK
+2016-03-29,Cantor Fitzgerald,Buy,,init,PRTK
+2016-06-17,Ladenburg Thalmann,Buy,,main,PRTK
+2017-04-04,Wedbush,Outperform,,reit,PRTK
+2017-05-19,Raymond James,Strong Buy,,init,PRTK
+2017-10-24,Guggenheim,Buy,,init,PRTK
+2018-03-02,H.C. Wainwright,Buy,Buy,main,PRTK
+2018-03-02,Raymond James,Outperform,Strong Buy,down,PRTK
+2018-08-27,Bank of America,Neutral,,init,PRTK
+2019-01-02,Canaccord Genuity,Buy,,init,PRTK
+2020-01-08,WBB Securities,Speculative Buy,,init,PRTK
+2020-08-11,SVB Leerink,Outperform,,main,PRTK
+2020-08-11,HC Wainwright & Co.,Buy,,main,PRTK
+2020-11-09,HC Wainwright & Co.,Buy,,main,PRTK
+2021-03-02,Jefferies,Buy,,init,PRTK
+2021-04-23,WBB Securities,Buy,Speculative Buy,up,PRTK
+2021-06-21,HC Wainwright & Co.,Buy,,main,PRTK
+2021-11-09,HC Wainwright & Co.,Buy,,main,PRTK

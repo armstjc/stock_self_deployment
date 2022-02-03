@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-11-13,Morgan Stanley,Equal-Weight,,main,WMG
+2020-11-24,Morgan Stanley,Equal-Weight,,main,WMG
+2020-12-17,Morgan Stanley,Overweight,Equal-Weight,up,WMG
+2021-01-11,Credit Suisse,Neutral,Outperform,down,WMG
+2021-02-02,Morgan Stanley,Overweight,,main,WMG
+2021-02-03,B of A Securities,Buy,Neutral,up,WMG
+2021-02-03,Barclays,Equal-Weight,,main,WMG
+2021-03-18,Redburn,Sell,,init,WMG
+2021-04-23,Jefferies,Hold,,init,WMG
+2021-05-05,Morgan Stanley,Overweight,,main,WMG
+2021-09-21,Credit Suisse,Outperform,Neutral,up,WMG
+2021-09-23,Barclays,Overweight,Equal-Weight,up,WMG
+2021-11-16,B of A Securities,Underperform,Buy,down,WMG
+2021-11-19,Citigroup,Neutral,,main,WMG
+2021-11-26,Credit Suisse,Outperform,,main,WMG
+2021-12-13,Redburn Partners,Neutral,Sell,up,WMG
+2021-12-22,Tigress Financial,Buy,,main,WMG
+2022-01-04,Jefferies,Buy,Hold,up,WMG

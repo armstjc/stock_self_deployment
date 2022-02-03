@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-16,UBS,Neutral,Sell,up,STM
+2012-12-10,Bank of America,,Neutral,up,STM
+2013-01-25,Exane BNP Paribas,Outperform,Neutral,up,STM
+2013-02-01,Natixis,Buy,Neutral,up,STM
+2013-07-24,Bank of America,Underperform,Buy,down,STM
+2013-08-16,HSBC,Underweight,Neutral,down,STM
+2013-09-05,Bernstein,Market Perform,,init,STM
+2013-10-23,Kepler Cheuvreux,Hold,Buy,down,STM
+2013-10-23,Banca Akros,Hold,Buy,down,STM
+2013-10-25,Goldman Sachs,Neutral,Buy,down,STM
+2014-01-07,Barclays,Underweight,Equal-weight,down,STM
+2014-01-09,Deutsche Bank,Sell,Hold,down,STM
+2014-01-17,Exane BNP Paribas,Neutral,Outperform,down,STM
+2014-01-29,HSBC,Neutral,Underweight,up,STM
+2014-04-14,UBS,Sell,Neutral,down,STM
+2014-10-13,Morgan Stanley,Underweight,Equal-Weight,down,STM
+2014-10-28,Citigroup,Neutral,Sell,up,STM
+2015-03-20,Morgan Stanley,Equal-Weight,Underweight,up,STM
+2015-04-22,Craig-Hallum,Buy,,init,STM
+2015-05-05,Bank of America,Neutral,Buy,down,STM
+2015-05-13,Banca Akros,Accumulate,Reduce,up,STM
+2015-06-22,Barclays,Equal-Weight,Underperform,up,STM
+2015-07-13,JP Morgan,Underweight,Neutral,down,STM
+2015-07-22,Citigroup,Neutral,Buy,down,STM
+2015-07-24,HSBC,Hold,Reduce,up,STM
+2015-09-14,Natixis,Buy,,main,STM
+2015-10-30,Craig-Hallum,Hold,Buy,down,STM
+2016-02-18,UBS,Neutral,Sell,up,STM
+2016-09-02,Bank of America,Underperform,Neutral,down,STM
+2016-10-10,Baird,Outperform,,up,STM
+2017-01-27,Credit Suisse,Neutral,Underperform,up,STM
+2017-06-27,Stifel Nicolaus,Buy,Hold,up,STM
+2017-07-11,JP Morgan,Overweight,Neutral,up,STM
+2018-01-26,Kepler Cheuvreux,Hold,Reduce,up,STM
+2018-01-26,Craig-Hallum,Buy,Buy,reit,STM
+2018-09-26,Deutsche Bank,Hold,Buy,down,STM
+2018-10-25,Baird,Underperform,Outperform,down,STM
+2019-02-22,Cowen & Co.,Outperform,,init,STM
+2019-05-31,Bank of America,Buy,Neutral,up,STM
+2019-06-19,Morgan Stanley,Overweight,,init,STM
+2019-08-09,Goldman Sachs,Buy,Neutral,up,STM
+2019-12-18,Canaccord Genuity,Buy,,init,STM
+2020-01-06,Jefferies,Hold,,init,STM
+2020-01-08,Goldman Sachs,Neutral,Buy,down,STM
+2020-01-23,Craig-Hallum,Buy,,main,STM
+2020-01-24,Baird,Neutral,Underperform,up,STM
+2020-03-19,Citigroup,Buy,Neutral,up,STM
+2020-04-23,Canaccord Genuity,Buy,,main,STM
+2020-07-24,Canaccord Genuity,Buy,,main,STM
+2020-10-23,Canaccord Genuity,Buy,,main,STM
+2021-01-13,UBS,Neutral,Buy,down,STM
+2021-02-18,Berenberg,Hold,Sell,up,STM
+2021-04-30,Canaccord Genuity,Buy,,main,STM
+2021-07-22,Goldman Sachs,Neutral,Sell,up,STM
+2021-12-08,Morgan Stanley,Equal-Weight,Overweight,down,STM

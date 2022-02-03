@@ -1,0 +1,8 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-05-18,Stifel,Buy,,init,TMCI
+2021-05-18,SVB Leerink,Outperform,,init,TMCI
+2021-05-18,JP Morgan,Overweight,,init,TMCI
+2021-05-18,Morgan Stanley,Equal-Weight,,init,TMCI
+2021-05-24,SVB Leerink,Outperform,,init,TMCI
+2021-05-26,Morgan Stanley,Equal-Weight,,main,TMCI
+2021-11-05,SVB Leerink,Outperform,,main,TMCI

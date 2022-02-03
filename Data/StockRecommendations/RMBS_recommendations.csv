@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-04-24,JP Morgan,Overweight,,up,RMBS
+2012-11-19,JP Morgan,Overweight,Neutral,up,RMBS
+2013-06-06,Topeka,Buy,,init,RMBS
+2013-12-10,Jefferies,Buy,,init,RMBS
+2013-12-11,Citigroup,Neutral,,init,RMBS
+2014-01-06,Jefferies,Hold,Buy,down,RMBS
+2014-01-22,Citigroup,Buy,Neutral,up,RMBS
+2014-04-11,Benchmark,Buy,,init,RMBS
+2014-04-22,Citigroup,Buy,,main,RMBS
+2014-04-22,Jefferies,Hold,,main,RMBS
+2014-04-22,JP Morgan,Overweight,,main,RMBS
+2014-06-12,Jefferies,Hold,,main,RMBS
+2014-06-12,JP Morgan,Overweight,,main,RMBS
+2014-07-18,JP Morgan,Overweight,,main,RMBS
+2014-07-22,Jefferies,Hold,,main,RMBS
+2014-07-22,Citigroup,Buy,,main,RMBS
+2014-10-21,Jefferies,Hold,,main,RMBS
+2015-01-14,JP Morgan,Neutral,Overweight,down,RMBS
+2015-01-27,JP Morgan,Neutral,,main,RMBS
+2015-06-10,Citigroup,Buy,,main,RMBS
+2015-06-10,Jefferies,Hold,,main,RMBS
+2015-06-11,Jefferies,Hold,,main,RMBS
+2015-07-02,JP Morgan,Neutral,,main,RMBS
+2015-10-20,JP Morgan,Neutral,,main,RMBS
+2015-10-21,Citigroup,Buy,,main,RMBS
+2016-03-07,Sidoti & Co.,Neutral,Buy,down,RMBS
+2016-06-03,Wunderlich,Buy,,init,RMBS
+2016-07-20,Citigroup,Buy,,main,RMBS
+2016-09-01,Roth Capital,Buy,,init,RMBS
+2016-12-06,Loop Capital,Buy,,init,RMBS
+2017-02-09,JP Morgan,Overweight,Neutral,up,RMBS
+2017-03-07,JP Morgan,Overweight,Overweight,main,RMBS
+2017-09-22,JP Morgan,Neutral,Overweight,down,RMBS
+2017-10-24,Loop Capital,Buy,,main,RMBS
+2017-10-25,Citigroup,Buy,,main,RMBS
+2018-03-27,Deutsche Bank,Buy,,init,RMBS
+2018-05-29,Credit Suisse,Neutral,,init,RMBS
+2018-10-30,Deutsche Bank,Buy,Buy,main,RMBS
+2019-05-15,Wells Fargo,Outperform,,init,RMBS
+2019-07-30,Citigroup,Buy,,main,RMBS
+2019-09-18,Wells Fargo,Outperform,,main,RMBS
+2020-05-05,Deutsche Bank,Buy,,main,RMBS
+2020-06-17,Jefferies,Hold,,main,RMBS
+2020-08-04,Deutsche Bank,Buy,,main,RMBS
+2021-02-02,Credit Suisse,Neutral,,main,RMBS
+2021-04-30,Susquehanna,Positive,,init,RMBS
+2021-08-03,Wells Fargo,Overweight,,main,RMBS
+2021-08-03,Credit Suisse,Neutral,,main,RMBS
+2021-10-14,Rosenblatt,Buy,,init,RMBS
+2021-11-02,Credit Suisse,Neutral,,main,RMBS

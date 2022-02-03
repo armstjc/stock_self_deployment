@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-07-10,Morgan Stanley,Equal-Weight,Overweight,down,OGS
+2015-07-23,Jefferies,Hold,,main,OGS
+2016-03-18,Morgan Stanley,Underperform,Equal-Weight,down,OGS
+2016-06-22,BB&T Capital,Hold,,init,OGS
+2016-07-25,Jefferies,Underperform,Hold,down,OGS
+2016-08-30,Wells Fargo,Market Perform,,init,OGS
+2016-10-13,Jefferies,Hold,Underperform,up,OGS
+2016-11-18,Seaport Global,Neutral,,init,OGS
+2016-12-09,Ladenburg Thalmann,Neutral,,init,OGS
+2016-12-20,UBS,Neutral,,init,OGS
+2017-07-10,Morgan Stanley,Underperform,,main,OGS
+2017-08-10,Morgan Stanley,Underperform,,main,OGS
+2017-10-02,UBS,Sell,Neutral,down,OGS
+2017-11-13,Morgan Stanley,Underperform,,main,OGS
+2017-12-13,Morgan Stanley,Underweight,,main,OGS
+2018-02-13,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-04-16,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-04-25,Jefferies,Hold,Underperform,up,OGS
+2018-06-13,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-07-16,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-09-11,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-09-17,Wells Fargo,Market Perform,Market Perform,main,OGS
+2018-09-21,Morgan Stanley,Underweight,Underweight,main,OGS
+2018-10-11,Morgan Stanley,Underweight,Underweight,main,OGS
+2019-02-12,Morgan Stanley,Underweight,Underweight,main,OGS
+2019-09-10,UBS,Neutral,Sell,up,OGS
+2019-10-17,Mizuho,Neutral,,init,OGS
+2019-11-08,Morgan Stanley,Underweight,,main,OGS
+2019-12-04,UBS,Neutral,,main,OGS
+2019-12-16,Morgan Stanley,Underweight,,main,OGS
+2020-01-08,Guggenheim,Neutral,,init,OGS
+2020-01-30,B of A Securities,Underperform,,init,OGS
+2020-02-21,CFRA,Hold,,main,OGS
+2020-03-05,Sidoti & Co.,Neutral,,main,OGS
+2020-04-01,UBS,Neutral,,main,OGS
+2020-04-15,Morgan Stanley,Underweight,,main,OGS
+2020-05-15,Morgan Stanley,Underweight,,main,OGS
+2020-06-17,Morgan Stanley,Underweight,,main,OGS
+2020-07-21,B of A Securities,Underperform,,main,OGS
+2020-07-23,B of A Securities,Neutral,Underperform,up,OGS
+2020-07-24,Jefferies,Hold,,main,OGS
+2020-08-11,Wells Fargo,Overweight,Equal-Weight,up,OGS
+2020-08-14,Morgan Stanley,Underweight,,main,OGS
+2020-08-20,UBS,Buy,Neutral,up,OGS
+2020-09-18,Morgan Stanley,Underweight,,main,OGS
+2020-09-25,Mizuho,Buy,Neutral,up,OGS
+2020-10-05,Morgan Stanley,Underweight,,main,OGS
+2020-10-20,Morgan Stanley,Underweight,,main,OGS
+2020-11-17,Morgan Stanley,Underweight,,main,OGS
+2020-12-15,Morgan Stanley,Underweight,,main,OGS
+2020-12-17,Stifel,Buy,,init,OGS
+2021-01-20,Morgan Stanley,Underweight,,main,OGS
+2021-02-18,Morgan Stanley,Underweight,,main,OGS
+2021-03-09,B of A Securities,Underperform,Neutral,down,OGS
+2021-03-11,Edward Jones,Hold,,init,OGS
+2021-03-19,Morgan Stanley,Underweight,,main,OGS
+2021-03-22,UBS,Neutral,Buy,down,OGS
+2021-03-29,Wells Fargo,Overweight,,main,OGS
+2021-04-20,Morgan Stanley,Underweight,,main,OGS
+2021-05-18,Morgan Stanley,Underweight,,main,OGS
+2021-05-27,Mizuho,Buy,,main,OGS
+2021-06-21,Morgan Stanley,Underweight,,main,OGS
+2021-07-20,Morgan Stanley,Underweight,,main,OGS
+2021-08-19,Morgan Stanley,Underweight,,main,OGS
+2021-09-17,Morgan Stanley,Underweight,,main,OGS
+2021-11-02,UBS,Buy,Neutral,up,OGS
+2021-11-22,Morgan Stanley,Underweight,,main,OGS
+2021-12-15,B of A Securities,Buy,Neutral,up,OGS
+2021-12-21,Morgan Stanley,Underweight,,main,OGS

@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-02-21,Raymond James,Strong Buy,Market Perform,up,PGTI
+2013-04-26,Craig-Hallum,Buy,,init,PGTI
+2013-06-03,RBC Capital,Outperform,,init,PGTI
+2013-06-07,Deutsche Bank,Buy,,main,PGTI
+2013-07-30,Credit Suisse,Neutral,,init,PGTI
+2013-11-14,Credit Suisse,Outperform,Neutral,up,PGTI
+2014-03-31,Deutsche Bank,Hold,Buy,down,PGTI
+2014-03-31,Deutsche Bank,Hold,Buy,down,PGTI
+2014-03-31,Deutsche Bank,Hold,Buy,down,PGTI
+2014-05-08,Raymond James,Strong Buy,,main,PGTI
+2014-05-09,Credit Suisse,Outperform,,main,PGTI
+2014-07-30,Raymond James,Strong Buy,,main,PGTI
+2014-08-28,SunTrust Robinson Humphrey,Neutral,,init,PGTI
+2014-10-13,Deutsche Bank,Hold,,main,PGTI
+2014-11-03,KeyBanc,Buy,,init,PGTI
+2015-03-18,RBC Capital,Outperform,,main,PGTI
+2015-05-11,SunTrust Robinson Humphrey,Neutral,,main,PGTI
+2015-05-18,Deutsche Bank,Hold,,main,PGTI
+2015-06-03,SunTrust Robinson Humphrey,Buy,Neutral,up,PGTI
+2015-08-07,Craig-Hallum,,Buy,down,PGTI
+2016-02-01,Dougherty,Buy,Neutral,up,PGTI
+2016-02-03,Craig-Hallum,Buy,Hold,up,PGTI
+2016-03-02,KeyBanc,Sector Weight,Overweight,down,PGTI
+2016-05-09,Gabelli & Co.,Buy,,init,PGTI
+2016-06-01,FBR Capital,Outperform,,init,PGTI
+2017-02-22,Dougherty,Neutral,Buy,down,PGTI
+2017-08-04,Raymond James,Market Perform,Strong Buy,down,PGTI
+2017-11-03,Dougherty,Buy,Neutral,up,PGTI
+2018-07-25,B. Riley FBR,Buy,Buy,main,PGTI
+2018-10-04,Jefferies,Buy,,init,PGTI
+2018-10-04,Wells Fargo,Outperform,,init,PGTI
+2018-10-19,Deutsche Bank,Buy,,init,PGTI
+2018-11-05,Deutsche Bank,Buy,Buy,main,PGTI
+2019-02-28,Wells Fargo,Market Perform,Outperform,down,PGTI
+2019-03-11,KeyBanc,Overweight,Sector Weight,up,PGTI
+2019-05-06,KeyBanc,Overweight,Overweight,main,PGTI
+2019-08-02,Gabelli & Co.,Buy,Hold,up,PGTI
+2019-11-08,KeyBanc,Sector Weight,Overweight,down,PGTI
+2020-02-26,B. Riley FBR,Buy,,reit,PGTI
+2020-03-17,B. Riley FBR,Neutral,Buy,down,PGTI
+2020-03-31,JP Morgan,Neutral,,main,PGTI
+2020-04-16,Wells Fargo,Equal-Weight,,main,PGTI
+2020-05-14,B. Riley FBR,Neutral,,main,PGTI
+2020-05-14,Wells Fargo,Equal-Weight,,main,PGTI
+2020-05-14,SunTrust Robinson Humphrey,Buy,,main,PGTI
+2020-07-22,Wells Fargo,Equal-Weight,,main,PGTI
+2020-08-13,Wells Fargo,Equal-Weight,,main,PGTI

@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-30,Stifel Nicolaus,Buy,Hold,up,WRE
+2012-10-26,Stifel Nicolaus,Hold,Buy,down,WRE
+2013-05-13,Baird,Outperform,Neutral,up,WRE
+2013-05-13,Wells Fargo,Outperform,Market Perform,up,WRE
+2014-01-06,Baird,Neutral,Outperform,down,WRE
+2014-02-25,Stifel Nicolaus,Buy,,up,WRE
+2014-03-24,McNicoll Lewis Vlak,Buy,,init,WRE
+2014-05-27,Baird,Outperform,Neutral,up,WRE
+2014-06-11,JP Morgan,Underweight,,main,WRE
+2014-07-28,Stifel Nicolaus,Buy,,main,WRE
+2014-09-11,Capital One Financial,Equal-Weight,,init,WRE
+2014-10-28,Wells Fargo,Market Perform,Outperform,down,WRE
+2014-11-11,Stifel Nicolaus,Hold,Buy,down,WRE
+2015-01-15,JP Morgan,Neutral,Underweight,up,WRE
+2015-12-03,Capital One Financial,Overweight,Equal-Weight,up,WRE
+2016-05-16,JP Morgan,Neutral,,main,WRE
+2016-08-17,Baird,Neutral,Outperform,down,WRE
+2016-12-16,JP Morgan,Overweight,Neutral,up,WRE
+2017-01-09,Raymond James,Outperform,Market Perform,up,WRE
+2017-05-16,Baird,Outperform,Neutral,up,WRE
+2017-10-31,Baird,Outperform,,main,WRE
+2018-01-02,Stifel Nicolaus,Sell,Hold,down,WRE
+2018-04-10,JP Morgan,Overweight,Overweight,main,WRE
+2018-10-05,JP Morgan,Neutral,Overweight,down,WRE
+2018-10-23,Stifel Nicolaus,Hold,Sell,up,WRE
+2018-11-30,Raymond James,Outperform,Outperform,main,WRE
+2019-05-14,Baird,Neutral,Outperform,down,WRE
+2019-10-30,Raymond James,Outperform,,main,WRE
+2020-02-19,Raymond James,Outperform,,main,WRE
+2020-04-03,Stifel,Hold,,main,WRE
+2020-06-30,Stifel,Hold,,main,WRE
+2020-07-02,JP Morgan,Neutral,Underweight,up,WRE
+2020-09-23,Wells Fargo,Equal-Weight,,main,WRE
+2020-11-02,Raymond James,Outperform,,main,WRE
+2021-06-17,Raymond James,Market Perform,Outperform,down,WRE
+2021-09-30,Wells Fargo,Equal-Weight,,main,WRE
+2021-10-01,BTIG,Buy,,init,WRE
+2021-12-01,Wells Fargo,Equal-Weight,,main,WRE

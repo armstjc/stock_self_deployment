@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-18,Imperial Capital,Outperform,,init,TROX
+2012-06-26,UBS,Buy,,init,TROX
+2012-11-15,UBS,Buy,,main,TROX
+2013-01-10,UBS,,Buy,down,TROX
+2013-02-08,Imperial Capital,Outperform,,main,TROX
+2013-03-11,BWS Financial,Hold,Buy,down,TROX
+2013-07-10,CRT Capital,Buy,,init,TROX
+2013-08-16,RBC Capital,Outperform,,init,TROX
+2014-04-04,UBS,Neutral,,main,TROX
+2014-06-19,CRT Capital,Buy,,main,TROX
+2014-08-08,B. Riley FBR,Neutral,Buy,down,TROX
+2014-10-03,BWS Financial,Sell,Hold,down,TROX
+2014-12-15,B. Riley FBR,Buy,Neutral,up,TROX
+2015-08-06,B. Riley FBR,Neutral,Buy,down,TROX
+2015-11-03,B. Riley FBR,Neutral,,main,TROX
+2015-12-18,B. Riley FBR,Neutral,,main,TROX
+2016-04-06,UBS,Sell,Neutral,down,TROX
+2016-08-04,UBS,Sell,,main,TROX
+2017-10-13,UBS,Sell,,main,TROX
+2017-10-23,Vertical Research,Buy,,init,TROX
+2017-10-24,JP Morgan,Overweight,,init,TROX
+2017-11-09,UBS,Sell,,main,TROX
+2017-12-14,Barclays,Overweight,,init,TROX
+2018-01-25,JP Morgan,Overweight,Overweight,main,TROX
+2018-01-30,Morgan Stanley,Equal-Weight,,init,TROX
+2018-03-02,UBS,Sell,Sell,main,TROX
+2018-03-12,Barclays,Overweight,Overweight,main,TROX
+2018-03-28,BMO Capital,Outperform,,init,TROX
+2018-07-31,SunTrust Robinson Humphrey,Buy,,init,TROX
+2018-08-06,Barclays,Overweight,Overweight,main,TROX
+2018-08-07,BMO Capital,Outperform,Outperform,main,TROX
+2018-09-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,TROX
+2019-04-11,SunTrust Robinson Humphrey,Buy,,reit,TROX
+2020-05-08,SunTrust Robinson Humphrey,Buy,,main,TROX
+2020-05-08,UBS,Sell,,main,TROX
+2020-11-03,Morgan Stanley,Equal-Weight,,main,TROX
+2020-12-14,Morgan Stanley,Equal-Weight,,main,TROX
+2021-02-23,Morgan Stanley,Equal-Weight,,main,TROX
+2021-05-03,Morgan Stanley,Equal-Weight,,main,TROX
+2021-05-20,B of A Securities,Buy,,init,TROX
+2021-10-14,Deutsche Bank,Buy,,init,TROX
+2021-11-30,UBS,Buy,Sell,up,TROX
+2021-12-14,Morgan Stanley,Equal-Weight,,main,TROX
+2022-01-04,UBS,Buy,,main,TROX

@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-10-16,RBC Capital,Outperform,,init,OMP
+2017-10-16,Citigroup,Buy,,init,OMP
+2017-10-16,Wells Fargo,Market Perform,,init,OMP
+2017-10-16,Goldman Sachs,Buy,,init,OMP
+2017-10-16,Morgan Stanley,Overweight,,init,OMP
+2017-10-16,JP Morgan,Overweight,,init,OMP
+2018-01-05,Credit Suisse,Neutral,,init,OMP
+2018-07-31,Citigroup,Buy,Buy,main,OMP
+2018-08-16,Ladenburg Thalmann,Buy,,init,OMP
+2018-08-24,Morgan Stanley,Overweight,Overweight,main,OMP
+2018-08-27,JP Morgan,Neutral,Overweight,down,OMP
+2018-10-11,Credit Suisse,Outperform,,init,OMP
+2018-11-30,Morgan Stanley,Overweight,Overweight,main,OMP
+2018-12-03,Morgan Stanley,Overweight,Overweight,main,OMP
+2019-07-17,Piper Jaffray,Overweight,,init,OMP
+2019-11-25,Credit Suisse,Neutral,Outperform,down,OMP
+2020-01-29,JP Morgan,Underweight,Neutral,down,OMP
+2020-03-16,RBC Capital,Sector Perform,Outperform,down,OMP
+2020-04-06,Piper Sandler,Neutral,,main,OMP
+2020-04-14,Wells Fargo,Underweight,Equal-Weight,down,OMP
+2020-05-19,Wells Fargo,Underweight,,main,OMP
+2020-07-22,Wells Fargo,Underweight,,main,OMP
+2020-10-09,Piper Sandler,Neutral,,main,OMP
+2020-11-30,Wells Fargo,Equal-Weight,Underweight,up,OMP
+2021-05-13,Wells Fargo,Equal-Weight,,main,OMP

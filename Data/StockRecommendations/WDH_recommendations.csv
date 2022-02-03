@@ -1,0 +1,6 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-06-01,B of A Securities,Buy,,init,WDH
+2021-06-01,Goldman Sachs,Buy,,init,WDH
+2021-06-01,CLSA,Buy,,init,WDH
+2021-06-02,Morgan Stanley,Overweight,,init,WDH
+2021-12-02,CLSA,Outperform,Buy,down,WDH

@@ -1,0 +1,139 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-28,UBS,Buy,,main,VC
+2012-03-12,Guggenheim,Neutral,,main,VC
+2012-03-13,Guggenheim,Neutral,,main,VC
+2012-05-03,UBS,Buy,,main,VC
+2012-05-03,Bank oferica,Neutral,,down,VC
+2012-06-25,Barclays,Equal-Weight,,main,VC
+2012-07-16,UBS,Buy,,main,VC
+2012-07-18,JP Morgan,Neutral,,init,VC
+2012-07-25,JP Morgan,Neutral,,main,VC
+2012-08-03,UBS,Buy,,main,VC
+2012-08-07,Barclays,Equal-Weight,,main,VC
+2012-08-30,JP Morgan,Neutral,,main,VC
+2012-09-20,JP Morgan,Neutral,,main,VC
+2012-10-09,Barclays,Equal-Weight,,main,VC
+2012-11-05,Barclays,Equal-Weight,,main,VC
+2013-01-14,Barclays,Overweight,Equal-Weight,up,VC
+2013-02-20,JP Morgan,Overweight,Neutral,up,VC
+2014-04-10,Barclays,Overweight,,main,VC
+2014-04-10,Citigroup,Buy,,init,VC
+2014-05-02,UBS,Buy,,main,VC
+2014-05-14,Citigroup,Buy,,main,VC
+2014-06-04,Gabelli & Co.,Buy,,init,VC
+2014-07-14,Barclays,Equal-weight,Overweight,down,VC
+2014-08-04,UBS,Buy,,main,VC
+2014-08-07,UBS,Buy,,main,VC
+2014-08-07,Barclays,Equal-Weight,,main,VC
+2014-09-22,JP Morgan,Overweight,,main,VC
+2014-10-21,Susquehanna,Positive,,init,VC
+2014-11-07,JP Morgan,Overweight,,main,VC
+2014-12-18,JP Morgan,Overweight,,main,VC
+2014-12-18,Citigroup,Buy,,main,VC
+2015-01-15,Barclays,Equal-Weight,,main,VC
+2015-01-26,JP Morgan,Overweight,,main,VC
+2015-03-17,JP Morgan,Overweight,,main,VC
+2015-04-08,Barclays,Overweight,Equal-Weight,up,VC
+2015-04-22,Susquehanna,Positive,,main,VC
+2015-05-08,Barclays,Overweight,,main,VC
+2015-05-11,Citigroup,Buy,,main,VC
+2015-06-10,JP Morgan,Overweight,,main,VC
+2015-07-10,Citigroup,Buy,,main,VC
+2015-07-17,Susquehanna,Positive,,main,VC
+2015-08-11,Citigroup,Buy,,main,VC
+2015-09-04,Baird,Outperform,,init,VC
+2015-09-17,Wells Fargo,Market Perform,,init,VC
+2016-04-19,JP Morgan,Overweight,,main,VC
+2016-05-03,Barclays,Equal-Weight,Overweight,down,VC
+2016-05-18,Tigress Financial,Neutral,Buy,down,VC
+2016-06-23,Raymond James,Market Perform,,init,VC
+2016-07-20,Deutsche Bank,Hold,,init,VC
+2016-12-21,BMO Capital,Market Perform,,init,VC
+2017-01-11,Raymond James,Outperform,,up,VC
+2017-02-27,Citigroup,Neutral,Buy,down,VC
+2017-04-24,Morgan Stanley,Equal-Weight,,init,VC
+2017-05-12,Morgan Stanley,Overweight,Equal-Weight,up,VC
+2017-05-15,RBC Capital,Sector Perform,,init,VC
+2017-06-26,BMO Capital,Outperform,Market Perform,up,VC
+2017-07-28,Gabelli & Co.,Hold,Buy,down,VC
+2017-07-31,BMO Capital,Outperform,,main,VC
+2017-07-31,UBS,Neutral,Buy,down,VC
+2017-07-31,Wells Fargo,Outperform,Market Perform,up,VC
+2017-08-02,Barclays,Equal-Weight,,main,VC
+2017-09-28,Jefferies,Hold,,init,VC
+2017-10-19,UBS,Neutral,,main,VC
+2017-10-20,Barclays,Equal-Weight,,main,VC
+2017-10-27,Barclays,Equal-Weight,,main,VC
+2017-10-30,Citigroup,Neutral,,main,VC
+2017-10-31,Citigroup,Neutral,,main,VC
+2018-01-05,Longbow Research,Buy,,init,VC
+2018-01-22,JP Morgan,Neutral,Overweight,down,VC
+2018-01-25,Morgan Stanley,Overweight,Overweight,main,VC
+2018-02-23,BMO Capital,Outperform,Outperform,main,VC
+2018-02-26,Gabelli & Co.,Buy,Hold,up,VC
+2018-03-22,Morgan Stanley,Underweight,Overweight,down,VC
+2018-04-09,Baird,Outperform,Outperform,main,VC
+2018-04-16,Cowen & Co.,Outperform,,init,VC
+2018-05-08,Citigroup,Neutral,Neutral,main,VC
+2018-07-13,Goldman Sachs,Neutral,Buy,down,VC
+2018-07-18,Wells Fargo,Market Perform,Market Perform,main,VC
+2018-07-18,Wells Fargo,Market Perform,Outperform,down,VC
+2018-07-27,JP Morgan,Neutral,Neutral,main,VC
+2018-07-30,Citigroup,Neutral,Neutral,main,VC
+2018-08-13,Morgan Stanley,Underweight,Underweight,main,VC
+2018-10-12,Citigroup,Neutral,Neutral,main,VC
+2018-10-26,Wells Fargo,Market Perform,Market Perform,main,VC
+2018-11-14,Morgan Stanley,Underweight,Underweight,main,VC
+2018-12-04,Jefferies,Underperform,,init,VC
+2018-12-10,Goldman Sachs,Sell,Neutral,down,VC
+2018-12-14,Deutsche Bank,Hold,,init,VC
+2019-01-04,Baird,Neutral,Outperform,down,VC
+2019-02-25,BMO Capital,Outperform,Outperform,main,VC
+2019-04-01,UBS,Neutral,Neutral,main,VC
+2019-04-23,Baird,Outperform,Neutral,up,VC
+2019-04-26,B. Riley FBR,Neutral,Buy,down,VC
+2019-04-29,Jefferies,Hold,Underperform,up,VC
+2019-07-26,Baird,Outperform,,main,VC
+2019-07-30,Citigroup,Neutral,,main,VC
+2019-09-12,UBS,Sell,Neutral,down,VC
+2019-09-13,Citigroup,Neutral,,main,VC
+2019-10-16,Guggenheim,Neutral,,init,VC
+2019-10-25,Barclays,Equal-Weight,,main,VC
+2019-11-21,Morgan Stanley,Underweight,,main,VC
+2019-11-22,Wolfe Research,Outperform,Peer Perform,up,VC
+2019-12-20,RBC Capital,Outperform,Sector Perform,up,VC
+2020-01-14,Deutsche Bank,Buy,Hold,up,VC
+2020-01-21,Barclays,Overweight,Equal-Weight,up,VC
+2020-02-21,RBC Capital,Outperform,,main,VC
+2020-02-21,Deutsche Bank,Buy,,main,VC
+2020-02-24,JP Morgan,Neutral,,main,VC
+2020-03-03,Citigroup,Neutral,,main,VC
+2020-03-16,Morgan Stanley,Underweight,,main,VC
+2020-03-24,Citigroup,Neutral,,main,VC
+2020-04-15,Goldman Sachs,Sell,,init,VC
+2020-05-04,Deutsche Bank,Buy,,main,VC
+2020-06-24,Morgan Stanley,Underweight,,main,VC
+2020-07-20,Citigroup,Neutral,,main,VC
+2020-07-24,Barclays,Overweight,,main,VC
+2020-10-06,Berenberg,Buy,,init,VC
+2020-11-04,Goldman Sachs,Neutral,Sell,up,VC
+2020-11-09,Morgan Stanley,Underweight,,main,VC
+2021-01-22,JP Morgan,Underweight,Neutral,down,VC
+2021-02-19,Barclays,Overweight,,main,VC
+2021-03-26,Wells Fargo,Underweight,,init,VC
+2021-04-15,Barclays,Equal-Weight,Overweight,down,VC
+2021-04-15,Keybanc,Sector Weight,,init,VC
+2021-04-30,Morgan Stanley,Underweight,,main,VC
+2021-07-07,Barclays,Equal-Weight,,main,VC
+2021-07-15,Deutsche Bank,Buy,,main,VC
+2021-07-30,Morgan Stanley,Underweight,,main,VC
+2021-07-30,RBC Capital,Outperform,,main,VC
+2021-07-30,Deutsche Bank,Buy,,main,VC
+2021-09-10,Wells Fargo,Underweight,,main,VC
+2021-09-16,B of A Securities,Underperform,Neutral,down,VC
+2021-09-20,Jefferies,Buy,Hold,up,VC
+2021-09-27,Goldman Sachs,Neutral,,main,VC
+2021-10-05,Wells Fargo,Underweight,,main,VC
+2021-10-11,Barclays,Equal-Weight,,main,VC
+2021-10-29,Wells Fargo,Underweight,,main,VC
+2021-10-29,Barclays,Overweight,Equal-Weight,up,VC

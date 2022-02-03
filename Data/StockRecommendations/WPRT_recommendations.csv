@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-19,KeyBanc,Hold,,init,WPRT
+2012-11-07,Goldman Sachs,Sell,,init,WPRT
+2012-11-09,National Bank Financial,Underperform,,main,WPRT
+2013-04-04,Jefferies,Buy,,main,WPRT
+2013-05-03,PiperJaffray,Neutral,Overweight,down,WPRT
+2013-08-02,Deutsche Bank,Buy,,main,WPRT
+2013-08-02,Northland Securities,Market Perform,Outperform,down,WPRT
+2013-08-15,RBC Capital,Sector Perform,,init,WPRT
+2013-11-07,Ascendiant Capital,Buy,,init,WPRT
+2013-11-07,Ascendiant Capital,Buy,,init,WPRT
+2014-02-19,FBR Capital,Outperform,,init,WPRT
+2014-05-01,JP Morgan,Neutral,,main,WPRT
+2014-07-01,Morgan Stanley,Equal-Weight,,init,WPRT
+2014-10-01,JP Morgan,Neutral,,main,WPRT
+2014-10-02,Canaccord Genuity,Hold,,main,WPRT
+2014-10-31,Deutsche Bank,Hold,Buy,down,WPRT
+2014-11-03,Jefferies,Buy,,main,WPRT
+2014-11-11,Cormark Securities,Market Perform,Reduce,up,WPRT
+2014-12-01,Jefferies,Hold,Buy,down,WPRT
+2015-01-15,Jefferies,Hold,,main,WPRT
+2015-03-10,Deutsche Bank,Hold,,main,WPRT
+2015-03-10,Jefferies,Hold,,main,WPRT
+2015-04-27,Cowen & Co.,Market Perform,,init,WPRT
+2015-05-11,Jefferies,Hold,,main,WPRT
+2015-11-11,Canaccord Genuity,Hold,,main,WPRT
+2016-06-20,Rodman & Renshaw,Buy,,init,WPRT
+2017-08-17,Oppenheimer,Outperform,,init,WPRT
+2017-11-15,Oppenheimer,Outperform,,main,WPRT
+2018-09-20,H.C. Wainwright,Buy,,init,WPRT
+2019-02-05,Lake Street,Hold,Buy,down,WPRT
+2019-05-10,Lake Street,Buy,Hold,up,WPRT
+2020-03-18,HC Wainwright & Co.,Buy,,main,WPRT
+2020-08-10,HC Wainwright & Co.,Buy,,main,WPRT
+2021-03-17,HC Wainwright & Co.,Buy,,main,WPRT
+2021-09-09,JP Morgan,Neutral,,init,WPRT

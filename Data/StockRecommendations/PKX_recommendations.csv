@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-29,Morgan Stanley,Equal-Weight,Overweight,down,PKX
+2013-04-02,JP Morgan,Neutral,Overweight,down,PKX
+2013-04-25,Credit Suisse,Neutral,Outperform,down,PKX
+2013-06-03,Standpoint Research,Buy,Hold,up,PKX
+2014-08-12,Credit Suisse,Outperform,Neutral,up,PKX
+2014-09-05,Macquarie,Outperform,,init,PKX
+2016-04-05,JP Morgan,Overweight,Neutral,up,PKX
+2016-04-15,HSBC,Reduce,Hold,down,PKX
+2016-05-02,Deutsche Bank,Hold,Buy,down,PKX
+2016-05-09,CLSA,Sell,Outperform,down,PKX
+2016-10-04,CLSA,Underperform,Outperform,down,PKX
+2017-08-07,Standpoint Research,Hold,Buy,down,PKX
+2018-01-02,Goldman Sachs,Buy,Neutral,up,PKX
+2018-10-08,Goldman Sachs,Neutral,Buy,down,PKX
+2020-01-08,Goldman Sachs,Buy,Neutral,up,PKX

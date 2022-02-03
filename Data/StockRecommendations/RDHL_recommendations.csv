@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2015-03-26,H.C. Wainwright,Buy,,init,RDHL
+2015-06-16,Roth Capital,Buy,,main,RDHL
+2015-09-29,Northland Securities,Buy,,init,RDHL
+2017-10-06,Seaport Global,Buy,,init,RDHL
+2018-01-26,Nomura,Buy,,init,RDHL
+2018-06-25,Ladenburg Thalmann,Buy,,init,RDHL
+2019-03-12,WBB Securities,Buy,Speculative Buy,up,RDHL
+2019-07-12,WBB Securities,Strong Buy,Buy,up,RDHL
+2020-03-05,H.C. Wainwright,Buy,,reit,RDHL
+2020-09-11,BTIG,Buy,,init,RDHL
+2021-05-18,HC Wainwright & Co.,Buy,,init,RDHL
+2021-05-28,WBB Securities,Buy,Strong Buy,down,RDHL
+2021-08-31,Cantor Fitzgerald,Overweight,,init,RDHL
+2021-09-15,HC Wainwright & Co.,Buy,,main,RDHL

@@ -1,0 +1,7 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-05-17,Piper Sandler,Overweight,,init,SKYT
+2021-05-17,Jefferies,Buy,,init,SKYT
+2021-07-16,Needham,Buy,,init,SKYT
+2021-08-05,Needham,Buy,,main,SKYT
+2021-08-05,Jefferies,Hold,Buy,down,SKYT
+2021-11-04,Needham,Buy,,main,SKYT

@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-14,Canaccord Genuity,Hold,Buy,down,UL
+2013-01-29,Jefferies,Hold,Buy,down,UL
+2013-07-17,Credit Suisse,Underperform,Neutral,down,UL
+2013-08-06,JP Morgan,Neutral,Overweight,down,UL
+2013-09-09,Deutsche Bank,Buy,Hold,up,UL
+2013-10-01,Oriel,Sell,Hold,down,UL
+2013-10-01,Rabobank,Hold,Buy,down,UL
+2013-10-02,UBS,Neutral,Buy,down,UL
+2013-10-28,Panmure,Hold,Buy,down,UL
+2013-11-06,Nomura,Neutral,Buy,down,UL
+2013-11-25,FirstEnergy Capital,Market Perform,,init,UL
+2013-12-06,Natixis,Neutral,Reduce,up,UL
+2014-01-09,Berenberg,Hold,Buy,down,UL
+2014-01-09,Liberum,,,down,UL
+2014-01-17,Espirito Santo,Sell,Neutral,down,UL
+2014-01-22,RBC Capital,Sector Perform,Underperform,up,UL
+2014-01-30,Societe Generale,Hold,Buy,down,UL
+2014-04-25,Barclays,Equal-Weight,Overweight,down,UL
+2014-09-09,BTIG Research,Buy,Neutral,up,UL
+2014-09-24,Jefferies,Underperform,Hold,down,UL
+2014-09-29,Wells Fargo,Market Perform,,init,UL
+2015-02-27,HSBC,Overweight,,init,UL
+2015-04-29,FirstEnergy Capital,,Market Perform,up,UL
+2015-07-24,Canaccord Genuity,Buy,Hold,up,UL
+2015-08-12,Goldman Sachs,Sell,Neutral,down,UL
+2016-12-06,UBS,Neutral,Buy,down,UL
+2016-12-07,JP Morgan,Neutral,Overweight,down,UL
+2016-12-13,Jefferies,Buy,Hold,up,UL
+2017-01-23,Barclays,Equal-Weight,Overweight,down,UL
+2017-02-27,Bank of America,Neutral,Underperform,up,UL
+2017-11-17,Argus,Hold,,init,UL
+2019-02-27,Exane BNP Paribas,Neutral,Outperform,down,UL
+2020-04-23,CFRA,Sell,,main,UL
+2021-04-08,Societe Generale,Sell,Buy,down,UL
+2021-09-16,Deutsche Bank,Hold,Buy,down,UL
+2021-11-01,Bernstein,Market Perform,Underperform,up,UL

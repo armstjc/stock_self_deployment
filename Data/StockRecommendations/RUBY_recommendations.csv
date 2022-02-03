@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-08-13,Morgan Stanley,Overweight,,init,RUBY
+2018-08-13,Leerink Swann,Outperform,,init,RUBY
+2018-08-13,Jefferies,Buy,,init,RUBY
+2018-08-13,JP Morgan,Overweight,,init,RUBY
+2018-12-19,Morgan Stanley,Overweight,Overweight,main,RUBY
+2019-05-31,Guggenheim,Buy,,init,RUBY
+2019-06-26,H.C. Wainwright,Buy,,init,RUBY
+2019-08-29,JP Morgan,Overweight,,main,RUBY
+2019-09-10,Baird,Underperform,,init,RUBY
+2019-11-15,Morgan Stanley,Overweight,,main,RUBY
+2019-11-15,JP Morgan,Overweight,,main,RUBY
+2020-03-13,Morgan Stanley,Equal-Weight,Overweight,down,RUBY
+2020-03-13,H.C. Wainwright,Buy,,main,RUBY
+2020-11-11,Morgan Stanley,Equal-Weight,,main,RUBY
+2021-01-19,Morgan Stanley,Equal-Weight,,main,RUBY
+2021-02-23,SVB Leerink,Market Perform,,main,RUBY
+2021-03-15,HC Wainwright & Co.,Buy,,main,RUBY
+2021-03-15,SVB Leerink,Market Perform,,main,RUBY
+2021-04-19,Morgan Stanley,Equal-Weight,,main,RUBY
+2021-05-18,Morgan Stanley,Equal-Weight,,main,RUBY
+2021-11-09,SVB Leerink,Market Perform,,main,RUBY

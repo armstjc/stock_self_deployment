@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-05-23,Wells Fargo,Outperform,,init,RRR
+2016-05-23,JP Morgan,Overweight,,init,RRR
+2016-05-23,Goldman Sachs,Neutral,,init,RRR
+2016-05-23,Bank of America,Buy,,init,RRR
+2016-05-23,Deutsche Bank,Buy,,init,RRR
+2016-05-23,Stifel Nicolaus,Buy,,init,RRR
+2016-05-24,Citigroup,Buy,,init,RRR
+2016-09-26,Goldman Sachs,Neutral,,init,RRR
+2016-10-10,Macquarie,Outperform,,init,RRR
+2016-11-04,Imperial Capital,In-Line,,init,RRR
+2016-12-07,Deutsche Bank,Buy,,main,RRR
+2016-12-16,Goldman Sachs,Neutral,,init,RRR
+2017-02-13,Aegis Capital,Buy,,init,RRR
+2017-09-15,SunTrust Robinson Humphrey,Buy,,init,RRR
+2017-11-08,Deutsche Bank,Buy,,main,RRR
+2017-11-08,Bank of America,Buy,,main,RRR
+2018-02-23,Stifel Nicolaus,Hold,Buy,down,RRR
+2018-03-14,Telsey Advisory Group,Market Perform,,init,RRR
+2018-04-03,Macquarie,Neutral,Outperform,down,RRR
+2018-05-02,Citigroup,Buy,Buy,main,RRR
+2018-05-08,Nomura,Buy,,init,RRR
+2019-06-11,Goldman Sachs,Buy,Neutral,up,RRR
+2019-08-27,Nomura,Buy,,main,RRR
+2019-11-06,Union Gaming,Hold,Buy,down,RRR
+2020-01-06,Bank of America,Neutral,Buy,down,RRR
+2020-02-04,SunTrust Robinson Humphrey,Buy,Hold,up,RRR
+2020-02-05,Nomura Instinet,Buy,,main,RRR
+2020-02-05,Deutsche Bank,Buy,,main,RRR
+2020-04-17,SunTrust Robinson Humphrey,Buy,,main,RRR
+2020-05-20,Nomura Instinet,Buy,,main,RRR
+2020-05-20,Deutsche Bank,Buy,,main,RRR
+2020-05-20,Stifel,Hold,,main,RRR
+2020-08-05,Deutsche Bank,Buy,,main,RRR
+2020-09-02,Truist Securities,Buy,,main,RRR
+2020-10-15,B of A Securities,Neutral,,main,RRR
+2020-10-28,Stifel,Hold,,main,RRR
+2021-01-14,KeyBanc,Overweight,,init,RRR
+2021-04-08,Keybanc,Overweight,,main,RRR
+2021-04-21,Goldman Sachs,Neutral,Buy,down,RRR
+2021-05-06,Keybanc,Overweight,,main,RRR
+2021-05-27,Keybanc,Overweight,,main,RRR
+2021-09-15,Wells Fargo,Overweight,,init,RRR
+2021-10-06,Keybanc,Overweight,,main,RRR
+2022-01-10,B of A Securities,Underperform,Neutral,down,RRR

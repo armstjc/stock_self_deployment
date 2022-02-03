@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-17,Oxen Group,Hold,,init,WGO
+2014-07-09,SunTrust Robinson Humphrey,Neutral,,init,WGO
+2014-09-15,BMO Capital,Outperform,,init,WGO
+2015-05-15,Northcoast Research,Buy,,init,WGO
+2015-09-24,SunTrust Robinson Humphrey,Neutral,,main,WGO
+2016-02-09,Northcoast Research,Neutral,Buy,down,WGO
+2016-10-03,Baird,Outperform,Neutral,up,WGO
+2017-03-10,BMO Capital,Market Perform,Outperform,down,WGO
+2017-04-24,CL King,Buy,,init,WGO
+2017-07-07,Stifel Nicolaus,Buy,,init,WGO
+2017-10-04,Stifel Nicolaus,Hold,Buy,down,WGO
+2017-10-20,Baird,Outperform,,main,WGO
+2017-11-03,Baird,Outperform,,main,WGO
+2018-01-26,Northcoast Research,Neutral,Buy,down,WGO
+2018-02-27,BMO Capital,Outperform,Market Perform,up,WGO
+2018-03-16,SunTrust Robinson Humphrey,Buy,Hold,up,WGO
+2018-05-07,Stifel Nicolaus,Hold,Hold,main,WGO
+2019-03-28,Jefferies,Hold,,init,WGO
+2019-09-06,Sidoti & Co.,Buy,,main,WGO
+2019-10-24,Baird,Outperform,,main,WGO
+2019-10-25,BMO Capital,Outperform,,main,WGO
+2019-12-23,BMO Capital,Outperform,,main,WGO
+2019-12-23,SunTrust Robinson Humphrey,Buy,,main,WGO
+2020-01-27,KeyBanc,Overweight,,init,WGO
+2020-03-26,SunTrust Robinson Humphrey,Buy,,main,WGO
+2020-04-14,KeyBanc,Overweight,,main,WGO
+2020-05-12,SunTrust Robinson Humphrey,Buy,,main,WGO
+2020-05-14,Sidoti & Co.,Buy,,main,WGO
+2020-06-04,SunTrust Robinson Humphrey,Buy,,main,WGO
+2020-06-10,KeyBanc,Overweight,,main,WGO
+2020-06-19,Sidoti & Co.,Neutral,,main,WGO
+2020-06-25,SunTrust Robinson Humphrey,Buy,,main,WGO
+2020-07-06,Citigroup,Neutral,,init,WGO
+2020-09-23,Wolfe Research,Outperform,Peer Perform,up,WGO
+2020-12-02,Wedbush,Outperform,,init,WGO
+2021-02-04,Wedbush,Outperform,,main,WGO
+2021-03-25,Truist Securities,Buy,,main,WGO
+2021-06-17,Northcoast Research,Neutral,Buy,down,WGO
+2021-07-02,Raymond James,Market Perform,,init,WGO
+2021-10-21,Keybanc,Overweight,,main,WGO
+2021-10-25,Keybanc,Sector Weight,Overweight,down,WGO
+2021-10-26,Keybanc,Sector Weight,Overweight,down,WGO

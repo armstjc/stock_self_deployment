@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-13,Stifel Nicolaus,Buy,,up,SD
+2012-03-01,Canaccord Genuity,Sell,,down,SD
+2012-04-30,JP Morgan,Overweight,,up,SD
+2012-05-04,UBS,Neutral,,main,SD
+2012-05-16,Canaccord Genuity,Hold,,up,SD
+2012-05-29,Goldman Sachs,Sell,,main,SD
+2012-07-02,Barclays,Equal-Weight,,main,SD
+2012-07-16,Deutsche Bank,Hold,,main,SD
+2012-11-09,Stifel Nicolaus,Buy,,main,SD
+2012-11-09,UBS,Neutral,,main,SD
+2012-11-12,Canaccord Genuity,Hold,,main,SD
+2012-11-12,Global Hunter Securities,Neutral,Buy,down,SD
+2012-11-13,Deutsche Bank,Hold,,main,SD
+2012-12-17,Canaccord Genuity,Sell,Hold,down,SD
+2012-12-19,Citigroup,Neutral,Buy,down,SD
+2012-12-20,KeyBanc,Hold,Buy,down,SD
+2013-01-02,Wunderlich,Hold,Buy,down,SD
+2013-02-04,Ladenburg Thalmann,Neutral,Buy,down,SD
+2013-02-05,JP Morgan,Underweight,Overweight,down,SD
+2013-02-13,Credit Suisse,Neutral,,init,SD
+2013-02-15,Barclays,Equal-Weight,,main,SD
+2013-03-01,Deutsche Bank,Hold,,main,SD
+2013-03-01,Stifel Nicolaus,Hold,Buy,down,SD
+2013-03-01,Tudor Pickering,Sell,Hold,down,SD
+2013-03-04,Wunderlich,Hold,,main,SD
+2013-03-04,Canaccord Genuity,Sell,,main,SD
+2013-03-07,BMO Capital,Underperform,Market Perform,down,SD
+2013-03-07,Canaccord Genuity,Sell,,main,SD
+2013-07-24,KLR Group,Sell,,init,SD
+2013-09-24,Goldman Sachs,Neutral,Sell,up,SD
+2014-03-03,Seaport Global,Accumulate,Neutral,up,SD
+2014-03-07,Stephens & Co.,Overweight,Equal-Weight,up,SD
+2014-07-18,Deutsche Bank,Hold,,main,SD
+2014-07-23,Barclays,Equal-Weight,,main,SD
+2014-08-07,Seaport Global,Neutral,Accumulate,down,SD
+2014-08-07,Citigroup,Neutral,,main,SD
+2014-08-07,UBS,Neutral,,main,SD
+2014-08-11,KLR Group,Reduce,Sell,up,SD
+2014-09-02,Stifel Nicolaus,Buy,Hold,up,SD
+2014-10-09,Barclays,Equal-Weight,,main,SD
+2014-10-15,Credit Suisse,Underperform,Neutral,down,SD
+2014-10-22,Wunderlich,Hold,,main,SD
+2014-12-16,Wunderlich,Sell,Hold,down,SD
+2014-12-16,Barclays,Equal-Weight,,main,SD
+2015-01-06,Raymond James,Underperform,Market Perform,down,SD
+2015-01-14,Barclays,Underweight,Equal-Weight,down,SD
+2015-03-02,KLR Group,Sell,Hold,down,SD
+2015-03-18,Seaport Global,Sell,Neutral,down,SD
+2015-05-12,Stephens & Co.,Overweight,,main,SD
+2015-07-28,Wunderlich,Hold,Sell,up,SD
+2017-04-26,Mizuho,Buy,,init,SD
+2017-06-21,Seaport Global,Neutral,Buy,down,SD
+2018-01-16,Mizuho,Neutral,Buy,down,SD

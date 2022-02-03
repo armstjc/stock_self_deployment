@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2014-10-07,Jefferies,Buy,,init,RWLK
+2015-05-08,Barclays,Equal-Weight,,main,RWLK
+2015-05-08,Jefferies,Buy,,main,RWLK
+2015-05-22,Canaccord Genuity,Buy,Hold,up,RWLK
+2015-08-07,Jefferies,Buy,,main,RWLK
+2015-12-18,Barclays,Equal-Weight,,main,RWLK
+2016-07-15,PiperJaffray,Overweight,,init,RWLK
+2017-04-03,Barclays,Underweight,Equal-Weight,down,RWLK
+2017-08-04,Canaccord Genuity,Buy,,main,RWLK
+2017-11-03,Jefferies,Buy,,main,RWLK
+2019-06-17,H.C. Wainwright,Buy,Neutral,up,RWLK
+2020-02-21,H.C. Wainwright,Buy,,reit,RWLK
+2020-08-13,HC Wainwright & Co.,Buy,,main,RWLK
+2021-03-01,HC Wainwright & Co.,Buy,,main,RWLK

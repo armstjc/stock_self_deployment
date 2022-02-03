@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-31,Jefferies,Hold,,main,ONB
+2012-09-25,Jefferies,Hold,,main,ONB
+2012-10-31,SunTrust Robinson Humphrey,Neutral,Buy,down,ONB
+2012-11-19,Raymond James,Strong Buy,Outperform,up,ONB
+2012-11-19,Sandler O'Neill,Buy,Hold,up,ONB
+2012-12-03,Macquarie,Outperform,Neutral,up,ONB
+2013-03-18,Raymond James,Market Perform,Outperform,down,ONB
+2013-05-24,Macquarie,Neutral,Outperform,down,ONB
+2013-06-20,Guggenheim,Neutral,,init,ONB
+2013-07-10,Sandler O'Neill,Hold,Buy,down,ONB
+2013-07-17,Sterne Agee,Neutral,Buy,down,ONB
+2013-08-28,FIG Partners,Outperform,Market Perform,up,ONB
+2013-09-05,Raymond James,Strong Buy,Outperform,up,ONB
+2013-09-25,DA Davidson,Neutral,,init,ONB
+2013-10-29,Raymond James,Market Perform,Strong Buy,down,ONB
+2014-01-09,DA Davidson,Neutral,,main,ONB
+2014-02-21,Sandler O'Neill,Buy,Hold,up,ONB
+2014-03-31,SunTrust Robinson Humphrey,Neutral,,init,ONB
+2014-04-02,Sandler O'Neill,Hold,Buy,down,ONB
+2014-04-29,Jefferies,Hold,,main,ONB
+2014-04-29,SunTrust Robinson Humphrey,Neutral,,main,ONB
+2014-09-24,Sterne Agee,Buy,Neutral,up,ONB
+2014-10-24,DA Davidson,Buy,Neutral,up,ONB
+2015-02-03,DA Davidson,Neutral,Buy,down,ONB
+2015-02-03,Keefe Bruyette & Woods,Market Perform,,main,ONB
+2015-04-28,Keefe Bruyette & Woods,Market Perform,,main,ONB
+2015-06-29,SunTrust Robinson Humphrey,Neutral,,main,ONB
+2015-07-28,Keefe Bruyette & Woods,Market Perform,,main,ONB
+2015-07-28,Jefferies,Hold,,main,ONB
+2015-08-04,Stephens & Co.,Overweight,,init,ONB
+2015-11-20,SunTrust Robinson Humphrey,Neutral,,main,ONB
+2016-01-14,SunTrust Robinson Humphrey,Neutral,,main,ONB
+2016-02-03,SunTrust Robinson Humphrey,Neutral,,main,ONB
+2016-03-29,Raymond James,Outperform,Market Perform,up,ONB
+2016-07-11,PiperJaffray,Neutral,,init,ONB
+2016-08-02,Keefe Bruyette & Woods,Market Perform,,main,ONB
+2016-08-03,Hovde Group,Market Perform,,init,ONB
+2016-11-22,Raymond James,Market Perform,Outperform,down,ONB
+2017-09-19,Raymond James,Outperform,Market Perform,up,ONB
+2018-02-09,Hilliard Lyons,Buy,Neutral,up,ONB
+2018-04-26,Hilliard Lyons,Neutral,Buy,down,ONB
+2018-06-08,DA Davidson,Neutral,,init,ONB
+2018-06-25,DA Davidson,Neutral,Neutral,main,ONB
+2018-07-10,Raymond James,Market Perform,Outperform,down,ONB
+2019-10-08,Stephens & Co.,Equal-Weight,Overweight,down,ONB
+2020-04-09,Stephens & Co.,Overweight,Equal-Weight,up,ONB
+2020-07-21,RBC Capital,Sector Perform,,main,ONB
+2020-09-29,Piper Sandler,Neutral,,main,ONB
+2020-11-12,Stephens & Co.,Equal-Weight,Overweight,down,ONB
+2021-08-17,Piper Sandler,Overweight,Neutral,up,ONB
+2021-10-20,RBC Capital,Sector Perform,,main,ONB
+2021-12-20,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,ONB

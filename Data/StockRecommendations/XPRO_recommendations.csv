@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-09-18,UBS,Buy,,init,XPRO
+2013-09-18,Goldman Sachs,Neutral,,init,XPRO
+2013-09-18,Barclays,Overweight,,init,XPRO
+2013-09-18,Citigroup,Buy,,init,XPRO
+2013-09-19,Morgan Stanley,Equal-Weight,,init,XPRO
+2013-09-19,Credit Suisse,Outperform,,init,XPRO
+2013-09-19,Scotia Howard Weil,Sector Outperform,,init,XPRO
+2013-09-19,Simmons & Co.,Overweight,,init,XPRO
+2013-09-20,Capital One Financial,Add,,init,XPRO
+2013-11-13,Credit Suisse,Neutral,Outperform,down,XPRO
+2013-11-18,Goldman Sachs,Sell,Neutral,down,XPRO
+2013-12-02,Morgan Stanley,Overweight,Equal-Weight,up,XPRO
+2013-12-12,Guggenheim,Neutral,,init,XPRO
+2013-12-17,Global Hunter Securities,Buy,,init,XPRO
+2014-05-05,Credit Suisse,Neutral,,main,XPRO
+2014-05-19,Guggenheim,Buy,Neutral,up,XPRO
+2014-07-16,Jefferies,Hold,,init,XPRO
+2014-08-11,Goldman Sachs,Neutral,Sell,up,XPRO
+2014-08-11,UBS,Buy,,main,XPRO
+2014-08-11,Jefferies,Hold,,main,XPRO
+2014-08-11,Credit Suisse,Neutral,,main,XPRO
+2014-09-16,FBR Capital,Outperform,,main,XPRO
+2014-09-17,KeyBanc,Buy,,init,XPRO
+2014-09-30,Credit Suisse,Neutral,,main,XPRO
+2014-10-16,ISI Group,Buy,,init,XPRO
+2014-11-12,Credit Suisse,Outperform,Neutral,up,XPRO
+2014-11-18,SunTrust Robinson Humphrey,Neutral,,init,XPRO
+2014-12-05,FBR Capital,Market Perform,Outperform,down,XPRO
+2014-12-18,RBC Capital,Sector Perform,Outperform,down,XPRO
+2015-01-02,UBS,Neutral,Buy,down,XPRO
+2015-02-02,Jefferies,Hold,,main,XPRO
+2015-02-26,Jefferies,Hold,,main,XPRO
+2015-04-30,Jefferies,Hold,,main,XPRO
+2015-06-11,Barclays,Equal-Weight,,init,XPRO
+2015-11-04,Credit Suisse,Neutral,Outperform,down,XPRO
+2015-11-30,Guggenheim,Buy,Neutral,up,XPRO
+2015-12-14,KLR Group,Buy,,init,XPRO
+2016-02-29,Credit Suisse,Neutral,,main,XPRO
+2016-04-19,Morgan Stanley,Overweight,,main,XPRO
+2016-04-19,Seaport Global,Neutral,Accumulate,down,XPRO
+2016-06-22,JP Morgan,Neutral,,init,XPRO
+2016-06-29,Evercore ISI Group,Hold,Buy,down,XPRO
+2016-07-11,Jefferies,Underperform,Hold,down,XPRO
+2016-07-29,Jefferies,Underperform,,main,XPRO
+2016-07-29,Barclays,Equal-Weight,,main,XPRO
+2016-08-01,Morgan Stanley,Overweight,,main,XPRO
+2016-08-25,UBS,Sell,Neutral,down,XPRO
+2016-11-02,Morgan Stanley,Equal-Weight,Overweight,down,XPRO
+2016-12-16,Goldman Sachs,Sell,Neutral,down,XPRO
+2016-12-16,RBC Capital,Underperform,Sector Perform,down,XPRO
+2017-03-24,Jefferies,Hold,Underperform,up,XPRO
+2017-06-21,Morgan Stanley,Underweight,Equal-Weight,down,XPRO
+2017-08-08,Barclays,Equal-Weight,,main,XPRO
+2017-08-25,RBC Capital,Outperform,Underperform,up,XPRO
+2017-09-12,JP Morgan,Neutral,,main,XPRO
+2017-09-27,JP Morgan,Underweight,Neutral,down,XPRO
+2017-10-10,Deutsche Bank,Hold,,init,XPRO
+2017-11-03,Jefferies,Hold,,main,XPRO
+2017-11-07,Credit Suisse,Underperform,Neutral,down,XPRO
+2018-08-10,UBS,Sell,Sell,main,XPRO
+2018-08-28,Tudor Pickering,Hold,Buy,down,XPRO
+2019-01-17,JP Morgan,Neutral,,init,XPRO
+2019-07-02,Tudor Pickering,Buy,Hold,up,XPRO
+2020-05-14,Barclays,Equal-Weight,,main,XPRO
+2021-03-05,Barclays,Underweight,Equal-Weight,down,XPRO
+2021-03-15,Barclays,Equal-Weight,Underweight,up,XPRO
+2021-10-13,Barclays,Equal-Weight,,main,XPRO

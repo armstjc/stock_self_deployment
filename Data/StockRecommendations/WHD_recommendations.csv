@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-05,JP Morgan,Overweight,,init,WHD
+2018-03-05,Credit Suisse,Outperform,,init,WHD
+2018-03-05,Barclays,Overweight,,init,WHD
+2018-03-05,PiperJaffray,Overweight,,init,WHD
+2018-03-05,Bank of America,Buy,,init,WHD
+2018-04-06,RBC Capital,Outperform,,init,WHD
+2018-05-15,Barclays,Overweight,Overweight,main,WHD
+2018-09-14,Citigroup,Buy,Buy,main,WHD
+2018-09-17,JP Morgan,Overweight,Overweight,main,WHD
+2018-09-19,Morgan Stanley,Overweight,,init,WHD
+2019-01-04,Citigroup,Buy,Buy,main,WHD
+2019-01-10,Stephens & Co.,Overweight,,init,WHD
+2019-02-07,Raymond James,Strong Buy,,init,WHD
+2019-03-08,RBC Capital,Outperform,Outperform,main,WHD
+2019-03-08,Raymond James,Strong Buy,Strong Buy,main,WHD
+2019-03-12,Citigroup,Buy,Buy,main,WHD
+2019-08-02,Raymond James,Strong Buy,,reit,WHD
+2019-09-23,Citigroup,Buy,,main,WHD
+2019-10-07,Morgan Stanley,Overweight,,main,WHD
+2019-11-21,Wolfe Research,Peer Perform,,init,WHD
+2020-02-28,Raymond James,Strong Buy,,main,WHD
+2020-02-28,B of A Securities,Buy,,main,WHD
+2020-03-02,Piper Sandler,Overweight,,main,WHD
+2020-03-16,Morgan Stanley,Overweight,,main,WHD
+2020-04-09,Raymond James,Strong Buy,,reit,WHD
+2020-04-15,Piper Sandler,Overweight,,main,WHD
+2020-04-16,Stephens & Co.,Overweight,,main,WHD
+2020-05-01,Credit Suisse,Outperform,,main,WHD
+2020-05-01,Stephens & Co.,Overweight,,main,WHD
+2020-05-05,Citigroup,Neutral,,main,WHD
+2020-05-14,Barclays,Equal-Weight,Overweight,down,WHD
+2020-05-28,B of A Securities,Neutral,Underperform,up,WHD
+2020-06-05,Stifel,Hold,,init,WHD
+2020-07-08,Morgan Stanley,Overweight,,main,WHD
+2020-07-13,Raymond James,Strong Buy,,main,WHD
+2020-07-31,Credit Suisse,Outperform,,main,WHD
+2020-07-31,Raymond James,Strong Buy,,main,WHD
+2020-09-16,ScotiaBank,Sector Perform,,init,WHD
+2020-11-06,Credit Suisse,Outperform,,main,WHD
+2020-11-10,Morgan Stanley,Equal-Weight,Overweight,down,WHD
+2020-12-22,Goldman Sachs,Neutral,,init,WHD
+2021-03-09,Piper Sandler,Neutral,Overweight,down,WHD
+2021-03-25,Morgan Stanley,Overweight,Equal-Weight,up,WHD
+2021-05-03,Barclays,Overweight,Equal-Weight,up,WHD
+2021-10-25,Barclays,Overweight,,main,WHD
+2021-11-11,Citigroup,Buy,,main,WHD

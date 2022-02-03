@@ -1,0 +1,125 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-13,BMO Capital,Market Perform,,up,UNFI
+2012-03-07,Canaccord Genuity,Buy,,main,UNFI
+2012-03-08,M Partners,Hold,,down,UNFI
+2012-03-09,Bank oferica,Buy,,main,UNFI
+2012-03-13,UBS,Neutral,,init,UNFI
+2012-03-20,Jefferies,Buy,,main,UNFI
+2012-03-30,Cantor Fitzgerald,Sell,,init,UNFI
+2012-06-06,UBS,Neutral,,main,UNFI
+2012-06-06,Citigroup,Buy,,main,UNFI
+2012-06-06,Cantor Fitzgerald,Sell,,main,UNFI
+2012-06-06,PiperJaffray,Neutral,,main,UNFI
+2012-06-06,Jefferies,Buy,,main,UNFI
+2012-07-24,Citigroup,Buy,,main,UNFI
+2012-07-31,M Partners,Hold,,main,UNFI
+2012-09-06,PiperJaffray,Neutral,,main,UNFI
+2012-09-12,Citigroup,Buy,,main,UNFI
+2012-09-12,Barclays,Equal-Weight,,main,UNFI
+2012-09-12,UBS,Neutral,,main,UNFI
+2012-09-12,Canaccord Genuity,Buy,,main,UNFI
+2012-09-13,Jefferies,Buy,,main,UNFI
+2012-09-25,BMO Capital,Outperform,,main,UNFI
+2012-10-22,Goldman Sachs,Neutral,,init,UNFI
+2012-12-03,Goldman Sachs,,,main,UNFI
+2013-02-27,Goldman Sachs,Neutral,,main,UNFI
+2013-04-30,Longbow Research,Neutral,,init,UNFI
+2013-05-06,UBS,Buy,Neutral,up,UNFI
+2013-06-19,PiperJaffray,Overweight,Neutral,up,UNFI
+2013-09-25,Deutsche Bank,Hold,,init,UNFI
+2013-10-15,BMO Capital,Outperform,,init,UNFI
+2013-10-23,UBS,Neutral,Buy,down,UNFI
+2013-12-12,Jefferies,Hold,,init,UNFI
+2014-01-09,PiperJaffray,Neutral,Overweight,down,UNFI
+2014-04-16,Jefferies,Buy,Hold,up,UNFI
+2014-06-11,UBS,Neutral,,main,UNFI
+2014-06-16,Citigroup,Buy,,main,UNFI
+2014-06-25,Morgan Stanley,Overweight,,init,UNFI
+2014-08-26,Stephens & Co.,Overweight,,init,UNFI
+2014-09-18,Barclays,Equal-Weight,,main,UNFI
+2014-10-02,Tigress Financial,Buy,,init,UNFI
+2014-10-15,PiperJaffray,Overweight,Neutral,up,UNFI
+2014-11-26,Deutsche Bank,Hold,,main,UNFI
+2014-12-05,Jefferies,Buy,,main,UNFI
+2014-12-18,Citigroup,Buy,,main,UNFI
+2015-03-10,Oppenheimer,Outperform,,main,UNFI
+2015-03-10,Canaccord Genuity,Buy,,main,UNFI
+2015-04-20,Cleveland Research,Neutral,Buy,down,UNFI
+2015-05-04,Guggenheim,Buy,,init,UNFI
+2015-05-11,Stephens & Co.,Overweight,Equal-Weight,up,UNFI
+2015-06-09,Canaccord Genuity,Buy,,main,UNFI
+2015-06-09,Jefferies,Buy,,main,UNFI
+2015-06-09,Oppenheimer,Outperform,,main,UNFI
+2015-06-16,Argus,Hold,Buy,down,UNFI
+2015-07-21,Oppenheimer,Perform,Outperform,down,UNFI
+2015-07-21,Bank of America,Underperform,Neutral,down,UNFI
+2015-07-22,Wedbush,Neutral,Outperform,down,UNFI
+2015-07-22,Morgan Stanley,Equal-Weight,Overweight,down,UNFI
+2015-07-28,Canaccord Genuity,Buy,,main,UNFI
+2015-07-28,BMO Capital,Market Perform,Outperform,down,UNFI
+2015-08-07,Jefferies,Buy,,main,UNFI
+2015-08-28,Pivotal Research,Sell,,init,UNFI
+2015-09-16,Jefferies,Buy,,main,UNFI
+2015-10-19,Buckingham Research,Buy,,init,UNFI
+2015-11-05,PiperJaffray,Neutral,Overweight,down,UNFI
+2015-12-08,Oppenheimer,Perform,,main,UNFI
+2015-12-23,Tigress Financial,Neutral,Buy,down,UNFI
+2016-01-07,Standpoint Research,Buy,,init,UNFI
+2016-02-05,RBC Capital,Sector Perform,Underperform,up,UNFI
+2016-03-01,Jefferies,Hold,Buy,down,UNFI
+2016-03-01,Barclays,Underweight,,main,UNFI
+2016-03-08,Barclays,Underweight,,main,UNFI
+2016-03-08,Canaccord Genuity,Buy,,main,UNFI
+2016-04-05,Citigroup,Buy,,main,UNFI
+2016-04-11,Morgan Stanley,Underweight,Equal-Weight,down,UNFI
+2016-06-07,Standpoint Research,Hold,Buy,down,UNFI
+2016-09-13,Deutsche Bank,Hold,,main,UNFI
+2016-09-23,Barclays,Underweight,,init,UNFI
+2016-09-30,Jefferies,Hold,,main,UNFI
+2017-01-31,Goldman Sachs,Neutral,,init,UNFI
+2017-05-16,Loop Capital,Buy,,init,UNFI
+2017-08-11,Stephens & Co.,Equal-Weight,,init,UNFI
+2017-09-14,BMO Capital,Market Perform,,main,UNFI
+2017-09-14,Buckingham,Buy,,main,UNFI
+2017-09-14,Bank of America,Underperform,,main,UNFI
+2017-09-14,Jefferies,Hold,,main,UNFI
+2017-09-25,Argus,Buy,Hold,up,UNFI
+2017-10-17,RBC Capital,Underperform,Sector Perform,down,UNFI
+2017-10-17,Susquehanna,Neutral,,init,UNFI
+2018-01-16,Barclays,Equal-Weight,Underweight,up,UNFI
+2018-03-12,BMO Capital,Market Perform,Market Perform,main,UNFI
+2018-06-07,Wells Fargo,Market Perform,Market Perform,main,UNFI
+2018-06-08,BMO Capital,Market Perform,Market Perform,main,UNFI
+2018-06-21,Citigroup,Buy,Buy,main,UNFI
+2018-09-21,Bank of America,Underperform,Underperform,main,UNFI
+2018-09-24,RBC Capital,Sector Perform,Underperform,up,UNFI
+2018-09-24,Morgan Stanley,Underweight,Underweight,main,UNFI
+2018-10-04,Citigroup,Buy,Buy,main,UNFI
+2018-10-24,Buckingham,Neutral,Buy,down,UNFI
+2018-11-30,Buckingham,Neutral,Neutral,main,UNFI
+2018-12-07,Wells Fargo,Market Perform,Market Perform,main,UNFI
+2018-12-07,Morgan Stanley,Underweight,Underweight,main,UNFI
+2018-12-11,Argus,Hold,Buy,down,UNFI
+2019-06-06,Buckingham Research,Neutral,,main,UNFI
+2019-08-02,BMO Capital,Underperform,Market Perform,down,UNFI
+2019-10-02,Wells Fargo,Market Perform,,main,UNFI
+2019-12-12,Buckingham,Neutral,,main,UNFI
+2020-01-17,Wells Fargo,Underweight,Equal-Weight,down,UNFI
+2020-03-12,Deutsche Bank,Hold,,main,UNFI
+2020-03-18,BMO Capital,Market Perform,Underperform,up,UNFI
+2020-03-19,Barclays,Equal-Weight,Underweight,up,UNFI
+2020-05-13,CFRA,Hold,,main,UNFI
+2020-05-13,Wells Fargo,Equal-Weight,Underweight,up,UNFI
+2020-05-15,BMO Capital,Market Perform,,main,UNFI
+2020-07-30,MKM Partners,Buy,,init,UNFI
+2020-12-15,Wolfe Research,Outperform,,init,UNFI
+2021-01-07,Barclays,Underweight,Equal-Weight,down,UNFI
+2021-01-27,Wells Fargo,Underweight,Equal-Weight,down,UNFI
+2021-02-19,Seaport Global,Neutral,,init,UNFI
+2021-06-11,Northcoast Research,Buy,Neutral,up,UNFI
+2021-06-25,BMO Capital,Market Perform,,main,UNFI
+2021-11-30,MKM Partners,Buy,,main,UNFI
+2021-12-09,MKM Partners,Buy,,main,UNFI
+2021-12-09,Wells Fargo,Underweight,,main,UNFI
+2021-12-09,Deutsche Bank,Hold,,main,UNFI
+2021-12-14,UBS,Buy,,init,UNFI

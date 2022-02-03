@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2013-01-14,Stephens & Co.,Overweight,Equal-Weight,up,UCBIO
+2013-04-29,Keefe Bruyette & Woods,Outperform,Market Perform,up,UCBIO
+2013-06-10,Raymond James,Outperform,Market Perform,up,UCBIO
+2013-06-20,Guggenheim,Neutral,,init,UCBIO
+2013-07-26,Raymond James,Strong Buy,Outperform,up,UCBIO
+2013-07-26,Raymond James,Strong Buy,Outperform,up,UCBIO
+2014-06-02,Raymond James,Buy,,main,UCBIO
+2014-08-20,SunTrust Robinson Humphrey,Buy,Neutral,up,UCBIO
+2014-09-19,Raymond James,Outperform,Strong Buy,down,UCBIO
+2015-01-07,Raymond James,Market Perform,,down,UCBIO
+2015-07-02,Raymond James,Market Perform,Outperform,up,UCBIO
+2016-01-21,SunTrust Robinson Humphrey,Buy,,main,UCBIO
+2016-10-06,Raymond James,Strong Buy,Outperform,up,UCBIO
+2016-11-29,Keefe Bruyette & Woods,Market Perform,Outperform,down,UCBIO
+2017-07-27,Raymond James,Strong Buy,,main,UCBIO
+2018-01-25,Keefe Bruyette & Woods,Outperform,Market Perform,up,UCBIO
+2018-06-26,SunTrust Robinson Humphrey,Hold,Buy,down,UCBIO
+2018-10-25,Raymond James,Outperform,Outperform,main,UCBIO
+2019-01-07,Raymond James,Market Perform,Outperform,down,UCBIO
+2019-02-25,Keefe Bruyette & Woods,Market Perform,Outperform,down,UCBIO
+2019-08-21,DA Davidson,Neutral,,init,UCBIO
+2019-08-27,SunTrust Robinson Humphrey,Hold,,main,UCBIO
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,UCBIO
+2020-03-11,SunTrust Robinson Humphrey,Hold,,main,UCBIO
+2020-04-23,SunTrust Robinson Humphrey,Hold,,main,UCBIO
+2020-05-05,SunTrust Robinson Humphrey,Hold,,main,UCBIO
+2020-08-28,"Keefe, Bruyette & Woods",Outperform,Market Perform,up,UCBIO
+2020-10-22,Raymond James,Outperform,Market Perform,up,UCBIO
+2021-10-21,Raymond James,Outperform,,main,UCBIO

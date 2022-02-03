@@ -1,0 +1,115 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2017-05-02,Goldman Sachs,Neutral,,init,OKTA
+2017-05-02,Canaccord Genuity,Hold,,init,OKTA
+2017-05-02,JMP Securities,Market Perform,,init,OKTA
+2017-05-02,Pacific Crest,Overweight,,init,OKTA
+2017-05-02,JP Morgan,Overweight,,init,OKTA
+2017-09-08,Canaccord Genuity,Hold,,main,OKTA
+2017-10-05,William Blair,Outperform,,init,OKTA
+2017-10-10,Oppenheimer,Outperform,,init,OKTA
+2017-10-27,SunTrust Robinson Humphrey,Buy,,init,OKTA
+2018-01-22,FBN Securities,Outperform,,init,OKTA
+2018-02-14,Needham,Buy,,init,OKTA
+2018-02-22,KeyBanc,Overweight,Overweight,main,OKTA
+2018-02-23,Deutsche Bank,Buy,,init,OKTA
+2018-03-08,Canaccord Genuity,Hold,Hold,main,OKTA
+2018-03-08,Deutsche Bank,Buy,Buy,main,OKTA
+2018-03-19,KeyBanc,Overweight,Overweight,main,OKTA
+2018-04-23,Canaccord Genuity,Buy,Hold,up,OKTA
+2018-05-24,Oppenheimer,Outperform,Outperform,main,OKTA
+2018-05-24,Deutsche Bank,Buy,Buy,main,OKTA
+2018-05-24,KeyBanc,Overweight,Overweight,main,OKTA
+2018-05-24,Canaccord Genuity,Buy,Buy,main,OKTA
+2018-06-05,Needham,Hold,Buy,down,OKTA
+2018-06-07,Oppenheimer,Outperform,Outperform,main,OKTA
+2018-06-07,Deutsche Bank,Buy,Buy,main,OKTA
+2018-06-07,Canaccord Genuity,Buy,Buy,main,OKTA
+2018-06-07,KeyBanc,Overweight,Overweight,main,OKTA
+2018-06-27,Needham,Buy,Hold,up,OKTA
+2018-09-07,Canaccord Genuity,Buy,Buy,main,OKTA
+2018-09-07,KeyBanc,Overweight,Overweight,main,OKTA
+2018-10-18,Baird,Neutral,,init,OKTA
+2018-11-29,Berenberg,Buy,,init,OKTA
+2018-12-11,Guggenheim,Buy,,init,OKTA
+2018-12-19,DA Davidson,Neutral,,init,OKTA
+2019-01-11,PiperJaffray,Overweight,,init,OKTA
+2019-02-04,Morgan Stanley,Equal-Weight,,init,OKTA
+2019-02-04,KeyBanc,Sector Weight,Overweight,down,OKTA
+2019-03-04,SunTrust Robinson Humphrey,Hold,Buy,down,OKTA
+2019-03-18,Goldman Sachs,Buy,Neutral,up,OKTA
+2019-03-27,Mizuho,Neutral,,init,OKTA
+2019-04-03,Canaccord Genuity,Buy,Buy,main,OKTA
+2019-05-31,Morgan Stanley,Equal-Weight,,main,OKTA
+2019-05-31,Canaccord Genuity,Buy,,main,OKTA
+2019-06-13,Oppenheimer,Outperform,,main,OKTA
+2019-06-21,Deutsche Bank,Buy,,main,OKTA
+2019-08-02,BMO Capital,Market Perform,,init,OKTA
+2019-08-21,Cowen & Co.,Outperform,,init,OKTA
+2019-08-29,Baird,Neutral,,main,OKTA
+2019-08-29,Morgan Stanley,Equal-Weight,,main,OKTA
+2019-08-29,DA Davidson,Neutral,,main,OKTA
+2019-08-29,Canaccord Genuity,Buy,,main,OKTA
+2019-08-29,Piper Jaffray,Overweight,,main,OKTA
+2019-08-29,JP Morgan,Overweight,,main,OKTA
+2019-08-29,Guggenheim,Buy,,main,OKTA
+2019-10-03,SunTrust Robinson Humphrey,Buy,Hold,up,OKTA
+2019-10-14,Citigroup,Buy,,init,OKTA
+2019-11-08,PiperJaffray,Overweight,,init,OKTA
+2019-11-18,Canaccord Genuity,Hold,Buy,down,OKTA
+2019-11-19,DA Davidson,Buy,Neutral,up,OKTA
+2019-12-06,JP Morgan,Overweight,,main,OKTA
+2019-12-06,Morgan Stanley,Equal-Weight,,main,OKTA
+2019-12-06,Canaccord Genuity,Hold,,main,OKTA
+2020-01-13,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-03-04,Needham,Hold,Buy,down,OKTA
+2020-03-06,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-03-06,DA Davidson,Buy,,main,OKTA
+2020-03-06,Baird,Neutral,,main,OKTA
+2020-03-06,Citigroup,Buy,,main,OKTA
+2020-03-25,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-03-27,BTIG,Buy,,init,OKTA
+2020-04-02,Canaccord Genuity,Hold,,main,OKTA
+2020-04-02,JP Morgan,Overweight,,main,OKTA
+2020-04-13,BMO Capital,Outperform,Market Perform,up,OKTA
+2020-05-21,Baird,Neutral,,main,OKTA
+2020-05-29,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-06-01,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-06-30,BTIG,Neutral,Buy,down,OKTA
+2020-07-06,RBC Capital,Outperform,,init,OKTA
+2020-11-24,KeyBanc,Overweight,,init,OKTA
+2020-12-03,Canaccord Genuity,Hold,,main,OKTA
+2020-12-03,Morgan Stanley,Equal-Weight,,main,OKTA
+2020-12-09,JP Morgan,Neutral,Overweight,down,OKTA
+2021-01-05,Piper Sandler,Neutral,Overweight,down,OKTA
+2021-01-08,Morgan Stanley,Equal-Weight,,main,OKTA
+2021-02-16,Canaccord Genuity,Hold,,main,OKTA
+2021-02-17,Mizuho,Neutral,,main,OKTA
+2021-02-23,Deutsche Bank,Buy,,init,OKTA
+2021-03-04,Piper Sandler,Neutral,,main,OKTA
+2021-03-04,Baird,Neutral,,main,OKTA
+2021-03-04,Canaccord Genuity,Buy,Hold,up,OKTA
+2021-03-04,Deutsche Bank,Buy,,main,OKTA
+2021-03-04,Mizuho,Neutral,,main,OKTA
+2021-04-09,BTIG,Buy,Neutral,up,OKTA
+2021-04-22,Raymond James,Outperform,,init,OKTA
+2021-04-23,Keybanc,Overweight,,main,OKTA
+2021-05-25,Stifel,Hold,,init,OKTA
+2021-05-27,JP Morgan,Neutral,,main,OKTA
+2021-06-24,Daiwa Capital,Buy,,init,OKTA
+2021-07-12,Mizuho,Neutral,,main,OKTA
+2021-07-13,Goldman Sachs,Buy,,init,OKTA
+2021-07-22,Keybanc,Overweight,,main,OKTA
+2021-08-06,Wolfe Research,Outperform,,init,OKTA
+2021-08-25,Raymond James,Strong Buy,Outperform,up,OKTA
+2021-09-02,Mizuho,Neutral,,main,OKTA
+2021-09-02,BMO Capital,Outperform,,main,OKTA
+2021-09-02,Needham,Buy,Hold,up,OKTA
+2021-09-02,Stifel,Hold,,main,OKTA
+2021-09-03,Deutsche Bank,Buy,,main,OKTA
+2021-09-28,Morgan Stanley,Overweight,Equal-Weight,up,OKTA
+2021-11-18,DA Davidson,Buy,,init,OKTA
+2021-12-02,Mizuho,Neutral,,main,OKTA
+2021-12-02,Morgan Stanley,Overweight,,main,OKTA
+2021-12-02,BMO Capital,Outperform,,main,OKTA
+2021-12-02,Piper Sandler,Overweight,Neutral,up,OKTA
+2021-12-03,Deutsche Bank,Buy,,main,OKTA

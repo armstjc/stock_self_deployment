@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-05-24,Stifel Nicolaus,Hold,,init,TRMK
+2012-05-30,JP Morgan,Underweight,,main,TRMK
+2012-06-01,Keefe Bruyette & Woods,Market Perform,,up,TRMK
+2013-01-10,JP Morgan,Underweight,,main,TRMK
+2013-06-20,MLV & Co.,Hold,,init,TRMK
+2013-07-09,JP Morgan,Underweight,,main,TRMK
+2014-08-12,Jefferies,Hold,,init,TRMK
+2014-10-30,Keefe Bruyette & Woods,Underperform,,down,TRMK
+2015-01-29,JP Morgan,Underweight,,main,TRMK
+2015-01-29,Keefe Bruyette & Woods,Underperform,,main,TRMK
+2015-05-01,Keefe Bruyette & Woods,Underperform,,main,TRMK
+2016-06-09,SunTrust Robinson Humphrey,Neutral,,main,TRMK
+2016-07-28,Jefferies,Hold,,main,TRMK
+2016-07-28,Keefe Bruyette & Woods,Market Perform,,main,TRMK
+2016-07-28,Keefe Bruyette & Woods,Market Perform,Underperform,up,TRMK
+2016-08-01,SunTrust Robinson Humphrey,Neutral,,main,TRMK
+2018-10-29,SunTrust Robinson Humphrey,Hold,Hold,main,TRMK
+2019-01-07,Raymond James,Underperform,Market Perform,down,TRMK
+2019-03-20,Keefe Bruyette & Woods,Underperform,Market Perform,down,TRMK
+2020-01-02,SunTrust Robinson Humphrey,Hold,,main,TRMK
+2020-07-30,Raymond James,Market Perform,Underperform,up,TRMK
+2020-09-30,Piper Sandler,Neutral,,main,TRMK
+2020-10-29,Piper Sandler,Neutral,,main,TRMK

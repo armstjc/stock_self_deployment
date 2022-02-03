@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-07-24,BWS Financial,Buy,,init,TREE
+2012-11-06,Stephens & Co.,Overweight,Equal-Weight,up,TREE
+2013-09-12,Needham,Buy,,init,TREE
+2015-10-26,BWS Financial,Buy,,main,TREE
+2015-11-09,RBC Capital,Outperform,,init,TREE
+2015-11-09,SunTrust Robinson Humphrey,Buy,,init,TREE
+2015-11-16,Guggenheim,Buy,,init,TREE
+2015-11-17,Topeka,Buy,,init,TREE
+2015-12-10,Bank of America,Buy,Neutral,up,TREE
+2016-01-15,SunTrust Robinson Humphrey,Buy,,main,TREE
+2016-02-01,Northland Securities,Outperform,,init,TREE
+2016-03-29,Mizuho,Buy,,init,TREE
+2016-06-02,Compass Point,Buy,,init,TREE
+2016-08-05,Loop Capital,Buy,,init,TREE
+2016-10-12,Loop Capital,Buy,,main,TREE
+2017-02-08,Oppenheimer,Outperform,,init,TREE
+2017-06-21,William Blair,Outperform,,init,TREE
+2017-10-12,BWS Financial,Sell,Buy,down,TREE
+2017-10-27,Oppenheimer,Outperform,,main,TREE
+2018-01-24,SunTrust Robinson Humphrey,Hold,,init,TREE
+2018-03-07,Susquehanna,Neutral,,init,TREE
+2018-03-28,UBS,Neutral,,init,TREE
+2018-05-07,UBS,Buy,Neutral,up,TREE
+2018-05-30,Deutsche Bank,Hold,,init,TREE
+2018-06-26,Compass Point,Neutral,Buy,down,TREE
+2018-07-27,Northland Securities,Market Perform,Outperform,down,TREE
+2018-08-16,Deutsche Bank,Hold,Hold,main,TREE
+2018-11-12,Northland Securities,Market Perform,Outperform,down,TREE
+2019-02-27,Deutsche Bank,Hold,Hold,main,TREE
+2019-02-28,UBS,Neutral,Buy,down,TREE
+2019-07-02,RBC Capital,Sector Perform,Outperform,down,TREE
+2019-07-25,Susquehanna,Positive,Neutral,up,TREE
+2019-09-03,UBS,Buy,Neutral,up,TREE
+2019-10-22,Oppenheimer,Outperform,,main,TREE
+2019-11-22,JP Morgan,Overweight,,init,TREE
+2019-12-12,Oppenheimer,Outperform,,main,TREE
+2019-12-12,JP Morgan,Overweight,,main,TREE
+2019-12-12,SunTrust Robinson Humphrey,Hold,,main,TREE
+2019-12-13,Stephens & Co.,Overweight,,reit,TREE
+2019-12-30,Compass Point,Buy,Neutral,up,TREE
+2020-02-26,Oppenheimer,Outperform,,main,TREE
+2020-02-26,JP Morgan,Overweight,,main,TREE
+2020-02-26,Stephens & Co.,Overweight,,reit,TREE
+2020-02-26,B of A Securities,Buy,,main,TREE
+2020-03-12,RBC Capital,Outperform,Sector Perform,up,TREE
+2020-03-31,Oppenheimer,Outperform,,main,TREE
+2020-04-15,Needham,Buy,,main,TREE
+2020-04-15,SunTrust Robinson Humphrey,Buy,Hold,up,TREE
+2020-04-16,Oppenheimer,Outperform,,main,TREE
+2020-04-16,UBS,Buy,,main,TREE
+2020-05-06,Compass Point,Neutral,Buy,down,TREE
+2020-05-06,SunTrust Robinson Humphrey,Buy,,main,TREE
+2020-05-06,JP Morgan,Overweight,,main,TREE
+2020-05-06,Deutsche Bank,Hold,,main,TREE
+2020-08-05,Deutsche Bank,Hold,,main,TREE
+2020-08-05,Oppenheimer,Outperform,,main,TREE
+2020-11-06,JP Morgan,Overweight,Neutral,up,TREE
+2020-11-06,Needham,Buy,,main,TREE
+2020-11-10,Deutsche Bank,Buy,Hold,up,TREE
+2021-01-13,Northland Capital Markets,Market Perform,Outperform,down,TREE
+2021-02-23,JP Morgan,Overweight,,main,TREE
+2021-04-08,Northland Capital Markets,Underperform,,main,TREE
+2021-04-29,Needham,Buy,,main,TREE
+2021-05-20,Northland Capital Markets,Outperform,Market Perform,up,TREE
+2021-07-19,Oppenheimer,Outperform,,main,TREE
+2021-09-23,Stephens & Co.,Overweight,,main,TREE
+2021-10-29,Oppenheimer,Outperform,,main,TREE

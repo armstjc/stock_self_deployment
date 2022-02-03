@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-23,Benchmark,Buy,,main,PRGS
+2012-06-28,Jefferies,Hold,,main,PRGS
+2012-08-29,Wedbush,Neutral,,init,PRGS
+2012-09-27,Jefferies,Hold,,main,PRGS
+2012-09-27,Wedbush,Neutral,,main,PRGS
+2012-10-09,Jefferies,Hold,,main,PRGS
+2012-10-09,Mizuho,Underperform,Neutral,down,PRGS
+2012-10-24,Wedbush,Neutral,,main,PRGS
+2012-12-10,Wedbush,Neutral,,main,PRGS
+2013-03-28,Benchmark,Buy,,main,PRGS
+2013-03-28,Wedbush,Neutral,,main,PRGS
+2013-06-14,Needham,Hold,Buy,down,PRGS
+2013-06-27,Jefferies,Hold,,main,PRGS
+2013-12-12,JMP Securities,Market Perform,Market Outperform,down,PRGS
+2014-03-28,Jefferies,Hold,,main,PRGS
+2015-06-23,Sidoti & Co.,Neutral,,init,PRGS
+2015-10-02,Wedbush,Neutral,,main,PRGS
+2016-09-13,Ladenburg Thalmann,Neutral,Buy,down,PRGS
+2018-06-28,Benchmark,Hold,Sell,up,PRGS
+2019-07-17,Benchmark,Buy,Hold,up,PRGS
+2019-07-26,Wedbush,Outperform,Neutral,up,PRGS
+2020-03-23,Benchmark,Buy,,main,PRGS
+2020-03-27,Wedbush,Outperform,,main,PRGS
+2021-01-15,Wedbush,Outperform,,main,PRGS
+2021-06-08,Guggenheim,Buy,,init,PRGS
+2021-07-15,Oppenheimer,Outperform,,init,PRGS
+2021-08-06,Citigroup,Neutral,,init,PRGS
+2021-10-22,JP Morgan,Overweight,,init,PRGS

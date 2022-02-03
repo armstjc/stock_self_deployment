@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-10-22,Barrington Research,Outperform,,init,OPK
+2013-01-29,Barrington Research,Outperform,,main,OPK
+2013-03-19,Jefferies,Buy,,main,OPK
+2013-03-20,Jefferies,Buy,,main,OPK
+2014-03-14,Oppenheimer,Outperform,,init,OPK
+2014-05-12,Oppenheimer,Outperform,,main,OPK
+2014-08-13,Jefferies,Buy,,main,OPK
+2015-03-03,Oppenheimer,Perform,Outperform,down,OPK
+2015-08-12,Laidlaw & Co.,Buy,,init,OPK
+2015-10-16,JP Morgan,Overweight,,init,OPK
+2016-03-31,Barrington Research,Outperform,,main,OPK
+2016-06-03,Standpoint Research,Buy,,init,OPK
+2016-06-16,Deutsche Bank,Hold,,main,OPK
+2016-12-30,Standpoint Research,Buy,Buy,reit,OPK
+2017-03-14,Guggenheim,Buy,,init,OPK
+2017-08-18,Cantor Fitzgerald,Overweight,,init,OPK
+2017-09-14,JP Morgan,Neutral,Overweight,down,OPK
+2018-03-02,JP Morgan,Underweight,Neutral,down,OPK
+2019-11-25,Piper Jaffray,Overweight,,init,OPK
+2021-06-21,Ladenburg Thalmann,Buy,,init,OPK

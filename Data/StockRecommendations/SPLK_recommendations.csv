@@ -1,0 +1,327 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-31,UBS,Neutral,,main,SPLK
+2012-08-31,JP Morgan,Overweight,,main,SPLK
+2012-09-27,FBN Securities,Outperform,,init,SPLK
+2012-10-09,JG Capital,Overweight,,init,SPLK
+2012-11-30,FBN Securities,Outperform,,main,SPLK
+2012-12-21,Topeka,Buy,,init,SPLK
+2013-01-07,Barclays,Overweight,,main,SPLK
+2013-01-23,BMO Capital,Outperform,,init,SPLK
+2013-01-24,BMO Capital,Outperform,,init,SPLK
+2013-03-26,Topeka,Buy,,main,SPLK
+2013-05-10,FBR Capital,Market Perform,,init,SPLK
+2013-05-13,JG Capital,Neutral,Buy,down,SPLK
+2013-06-26,Wedbush,Outperform,,init,SPLK
+2013-08-30,Wedbush,Outperform,,main,SPLK
+2013-08-30,FBR Capital,Outperform,Market Perform,up,SPLK
+2013-09-05,Stephens & Co.,Equal-Weight,,init,SPLK
+2013-09-05,Canaccord Genuity,Buy,,init,SPLK
+2013-09-19,Cantor Fitzgerald,Buy,,init,SPLK
+2013-09-23,Goldman Sachs,Neutral,,init,SPLK
+2013-09-24,Northland Securities,Market Perform,,init,SPLK
+2013-10-02,Needham,Hold,Buy,down,SPLK
+2013-10-07,CLSA,Underperform,Outperform,down,SPLK
+2013-11-13,Jefferies,Hold,,init,SPLK
+2013-12-03,Oppenheimer,Outperform,,init,SPLK
+2014-01-07,UBS,Buy,Neutral,up,SPLK
+2014-01-10,Barclays,Equal-weight,Overweight,down,SPLK
+2014-01-16,Cantor Fitzgerald,Buy,,main,SPLK
+2014-01-23,Deutsche Bank,Buy,,init,SPLK
+2014-02-20,Bank of America,Buy,,main,SPLK
+2014-02-28,Bank of America,Buy,,main,SPLK
+2014-04-01,Macquarie,Outperform,,init,SPLK
+2014-04-03,CLSA,Outperform,Underperform,up,SPLK
+2014-04-17,CLSA,Buy,Outperform,up,SPLK
+2014-05-08,Deutsche Bank,Buy,,main,SPLK
+2014-05-23,Barclays,Equal-Weight,,main,SPLK
+2014-05-27,Northland Securities,Outperform,Market Perform,up,SPLK
+2014-05-29,Evercore Partners,,,main,SPLK
+2014-05-30,FBR Capital,Outperform,,main,SPLK
+2014-05-30,Credit Suisse,Outperform,,main,SPLK
+2014-06-02,Janney Capital,Neutral,,init,SPLK
+2014-07-18,BMO Capital,Market Perform,,init,SPLK
+2014-08-21,Deutsche Bank,Buy,,main,SPLK
+2014-08-29,Barclays,Equal-Weight,,main,SPLK
+2014-08-29,Deutsche Bank,Buy,,main,SPLK
+2014-08-29,UBS,Buy,,main,SPLK
+2014-09-04,Barclays,Equal-Weight,,main,SPLK
+2014-10-02,Stifel Nicolaus,Buy,,init,SPLK
+2014-10-06,Morgan Stanley,Overweight,Equal-weight,up,SPLK
+2014-10-10,Deutsche Bank,Buy,,main,SPLK
+2014-10-13,William Blair,Outperform,Market Perform,up,SPLK
+2014-10-13,Summit Research Partners,Buy,,main,SPLK
+2014-11-21,Stifel Nicolaus,Buy,,main,SPLK
+2014-11-21,Deutsche Bank,Buy,,main,SPLK
+2014-11-21,Barclays,Equal-Weight,,main,SPLK
+2014-11-21,Morgan Stanley,Overweight,,main,SPLK
+2014-11-21,Jefferies,Buy,,init,SPLK
+2014-12-15,Summit Research Partners,Buy,,init,SPLK
+2015-02-27,Canaccord Genuity,Buy,,main,SPLK
+2015-02-27,Deutsche Bank,Buy,,main,SPLK
+2015-02-27,JMP Securities,Market Outperform,,main,SPLK
+2015-02-27,Jefferies,Buy,,main,SPLK
+2015-02-27,Barclays,Equal-Weight,,main,SPLK
+2015-02-27,Cantor Fitzgerald,Buy,,main,SPLK
+2015-04-06,Stephens & Co.,Overweight,Equal-Weight,up,SPLK
+2015-04-07,PiperJaffray,Overweight,Neutral,up,SPLK
+2015-04-13,Baird,Outperform,,init,SPLK
+2015-04-14,Baird,Outperform,,init,SPLK
+2015-04-16,KeyBanc,Overweight,,main,SPLK
+2015-04-17,DA Davidson,Buy,,init,SPLK
+2015-04-20,Citigroup,Buy,,init,SPLK
+2015-05-01,SunTrust Robinson Humphrey,Neutral,,init,SPLK
+2015-05-20,Macquarie,Outperform,Neutral,up,SPLK
+2015-05-29,Susquehanna,Positive,,main,SPLK
+2015-05-29,Barclays,Equal-Weight,,main,SPLK
+2015-05-29,Oppenheimer,Outperform,,main,SPLK
+2015-07-16,RBC Capital,Outperform,,init,SPLK
+2015-07-17,RBC Capital,Outperform,,init,SPLK
+2015-08-24,Summit Research Partners,Hold,Buy,down,SPLK
+2015-08-28,UBS,Buy,,main,SPLK
+2015-09-23,Canaccord Genuity,Buy,,main,SPLK
+2015-11-20,Wedbush,Outperform,,main,SPLK
+2015-12-11,Goldman Sachs,Neutral,,init,SPLK
+2015-12-14,Guggenheim,Buy,,init,SPLK
+2015-12-15,Guggenheim,Buy,,init,SPLK
+2016-01-06,Barclays,Equal-Weight,,main,SPLK
+2016-02-03,Maxim Group,Buy,,init,SPLK
+2016-02-05,Pacific Crest,Overweight,,main,SPLK
+2016-02-09,Mitsubishi UFJ,Overweight,,init,SPLK
+2016-02-10,Barclays,Equal-Weight,,main,SPLK
+2016-02-26,Stifel Nicolaus,Buy,,main,SPLK
+2016-02-26,JP Morgan,Neutral,,main,SPLK
+2016-03-04,BMO Capital,Outperform,,init,SPLK
+2016-03-04,Macquarie,Outperform,,init,SPLK
+2016-04-26,Macquarie,Outperform,,init,SPLK
+2016-05-06,MKM Partners,Neutral,,init,SPLK
+2016-05-27,Credit Suisse,Outperform,,main,SPLK
+2016-05-27,Deutsche Bank,Buy,,main,SPLK
+2016-05-27,Canaccord Genuity,Buy,,main,SPLK
+2016-05-27,Pacific Crest,Overweight,,main,SPLK
+2016-05-27,Citigroup,Buy,,main,SPLK
+2016-05-27,RBC Capital,Outperform,,main,SPLK
+2016-05-27,MKM Partners,Neutral,,main,SPLK
+2016-05-27,SunTrust Robinson Humphrey,Neutral,,main,SPLK
+2016-05-27,Morgan Stanley,Overweight,,main,SPLK
+2016-05-27,Barclays,Equal-Weight,,main,SPLK
+2016-05-27,Macquarie,Outperform,,main,SPLK
+2016-06-16,Stifel Nicolaus,Buy,,main,SPLK
+2016-07-20,Citigroup,Neutral,Buy,down,SPLK
+2016-08-08,Morgan Stanley,Overweight,,main,SPLK
+2016-08-26,Stifel Nicolaus,Hold,Buy,down,SPLK
+2016-08-26,Barclays,Equal-Weight,,main,SPLK
+2016-08-26,Baird,Outperform,,main,SPLK
+2016-08-26,Canaccord Genuity,Buy,,main,SPLK
+2016-08-26,Citigroup,Neutral,,main,SPLK
+2016-09-06,Summit Redstone,Buy,,init,SPLK
+2016-09-21,Mizuho,Neutral,,init,SPLK
+2016-10-04,Guggenheim Securities,Neutral,Buy,down,SPLK
+2016-10-12,Citigroup,Neutral,,main,SPLK
+2016-10-14,Piper Jaffray,Overweight,,init,SPLK
+2017-01-11,Wells Fargo,Outperform,,init,SPLK
+2017-01-27,Argus,Hold,,init,SPLK
+2017-03-02,Bernstein,Outperform,,init,SPLK
+2017-04-18,BTIG Research,Buy,,init,SPLK
+2017-06-07,Susquehanna,Neutral,,init,SPLK
+2017-06-22,Guggenheim,Buy,Neutral,up,SPLK
+2017-08-25,Susquehanna,Positive,Neutral,up,SPLK
+2017-08-25,Morgan Stanley,Overweight,,main,SPLK
+2017-08-25,BMO Capital,Outperform,,main,SPLK
+2017-08-25,Barclays,Equal-Weight,,main,SPLK
+2017-08-25,Cowen & Co.,Outperform,,main,SPLK
+2017-08-25,Canaccord Genuity,Buy,,main,SPLK
+2017-08-25,Citigroup,Neutral,,main,SPLK
+2017-09-05,Credit Suisse,Outperform,,init,SPLK
+2017-10-02,Morgan Stanley,Equal-Weight,Overweight,down,SPLK
+2017-10-23,Needham,Buy,,init,SPLK
+2017-11-13,Barclays,Equal-Weight,,main,SPLK
+2017-11-17,Mizuho,Buy,Neutral,up,SPLK
+2017-11-17,BTIG Research,Buy,,main,SPLK
+2017-11-17,Maxim Group,Buy,,main,SPLK
+2017-11-17,Canaccord Genuity,Buy,,main,SPLK
+2017-11-17,KeyBanc,Overweight,,main,SPLK
+2017-11-17,Credit Suisse,Outperform,,main,SPLK
+2017-11-17,Bank of America,Buy,,main,SPLK
+2017-11-17,UBS,Buy,,main,SPLK
+2017-11-17,Deutsche Bank,Buy,,main,SPLK
+2017-11-17,BMO Capital,Outperform,,main,SPLK
+2017-11-17,Barclays,Equal-Weight,,main,SPLK
+2017-11-20,Citigroup,Neutral,,main,SPLK
+2018-01-08,Barclays,Overweight,Equal-Weight,up,SPLK
+2018-03-02,UBS,Buy,Buy,main,SPLK
+2018-03-02,Stifel Nicolaus,Buy,Hold,up,SPLK
+2018-03-02,Wells Fargo,Outperform,Outperform,main,SPLK
+2018-03-02,Credit Suisse,Outperform,Outperform,main,SPLK
+2018-03-02,BMO Capital,Outperform,Outperform,main,SPLK
+2018-03-02,Baird,Outperform,Outperform,main,SPLK
+2018-03-02,Canaccord Genuity,Buy,Buy,main,SPLK
+2018-03-02,Barclays,Overweight,Overweight,main,SPLK
+2018-03-02,Bank of America,Buy,Buy,main,SPLK
+2018-03-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,SPLK
+2018-03-05,JP Morgan,Neutral,Neutral,main,SPLK
+2018-03-08,Argus,Buy,Hold,up,SPLK
+2018-03-28,Wedbush,Neutral,Neutral,main,SPLK
+2018-04-11,Monness Crespi Hardt,Buy,,init,SPLK
+2018-04-12,Credit Suisse,Outperform,Outperform,main,SPLK
+2018-04-27,Wedbush,Outperform,Neutral,up,SPLK
+2018-05-25,Morgan Stanley,Equal-Weight,Equal-Weight,main,SPLK
+2018-05-25,JMP Securities,Market Outperform,Market Outperform,main,SPLK
+2018-05-25,Bank of America,Buy,Buy,main,SPLK
+2018-05-25,BMO Capital,Outperform,Outperform,main,SPLK
+2018-05-25,Deutsche Bank,Buy,Buy,main,SPLK
+2018-05-25,Credit Suisse,Outperform,Outperform,main,SPLK
+2018-07-10,Evercore ISI Group,In-Line,Outperform,down,SPLK
+2018-08-16,Bank of America,Buy,Buy,main,SPLK
+2018-08-24,Credit Suisse,Outperform,Outperform,main,SPLK
+2018-08-24,Deutsche Bank,Buy,Buy,main,SPLK
+2018-08-24,JP Morgan,Neutral,Neutral,main,SPLK
+2018-08-24,Baird,Outperform,Outperform,main,SPLK
+2018-08-24,Raymond James,Outperform,Outperform,main,SPLK
+2018-08-24,Maxim Group,Buy,Buy,main,SPLK
+2018-08-24,Morgan Stanley,Equal-Weight,Equal-Weight,main,SPLK
+2018-08-24,Wedbush,Outperform,Outperform,main,SPLK
+2018-08-24,Stifel Nicolaus,Buy,Buy,main,SPLK
+2018-08-24,Wells Fargo,Outperform,Outperform,main,SPLK
+2018-09-07,Barclays,Overweight,Overweight,main,SPLK
+2018-10-04,KeyBanc,Overweight,Overweight,main,SPLK
+2018-11-06,Bernstein,Market Perform,Outperform,down,SPLK
+2018-11-30,BMO Capital,Outperform,Outperform,main,SPLK
+2019-02-25,RBC Capital,Outperform,Outperform,main,SPLK
+2019-03-01,BMO Capital,Outperform,Outperform,main,SPLK
+2019-03-01,Barclays,Overweight,Overweight,main,SPLK
+2019-03-01,Raymond James,Outperform,Outperform,main,SPLK
+2019-03-01,Wells Fargo,Outperform,Outperform,main,SPLK
+2019-03-01,Credit Suisse,Outperform,Outperform,main,SPLK
+2019-03-01,Wedbush,Outperform,Outperform,main,SPLK
+2019-03-01,Citigroup,Sell,Sell,main,SPLK
+2019-03-04,Citigroup,Sell,Sell,main,SPLK
+2019-03-14,Mizuho,Buy,,init,SPLK
+2019-03-19,Morgan Stanley,Equal-Weight,Equal-Weight,main,SPLK
+2019-05-24,Wedbush,Outperform,,main,SPLK
+2019-05-24,BMO Capital,Outperform,,main,SPLK
+2019-06-07,Goldman Sachs,Neutral,,init,SPLK
+2019-08-20,Wedbush,Outperform,,reit,SPLK
+2019-08-22,Credit Suisse,Outperform,,main,SPLK
+2019-08-22,UBS,Buy,,main,SPLK
+2019-08-22,Baird,Neutral,Outperform,down,SPLK
+2019-08-23,Citigroup,Sell,,main,SPLK
+2019-09-10,Rosenblatt,Buy,,init,SPLK
+2019-09-13,Barclays,Overweight,,main,SPLK
+2019-09-17,JP Morgan,Overweight,Neutral,up,SPLK
+2019-10-03,SunTrust Robinson Humphrey,Buy,,init,SPLK
+2019-11-05,JP Morgan,Overweight,,main,SPLK
+2019-11-08,PiperJaffray,Overweight,,init,SPLK
+2019-11-14,Cleveland Research,Neutral,Buy,down,SPLK
+2019-11-18,Morgan Stanley,Overweight,Equal-Weight,up,SPLK
+2019-11-19,DA Davidson,Buy,,init,SPLK
+2019-11-22,SunTrust Robinson Humphrey,Buy,,main,SPLK
+2019-11-22,Barclays,Overweight,,main,SPLK
+2019-11-22,Wedbush,Outperform,,main,SPLK
+2019-11-22,DA Davidson,Buy,,reit,SPLK
+2019-11-22,Bank of America,Buy,,reit,SPLK
+2019-11-22,Wells Fargo,Outperform,,main,SPLK
+2019-11-26,JMP Securities,Outperform,,main,SPLK
+2019-12-02,Goldman Sachs,Buy,Neutral,up,SPLK
+2020-01-10,Jefferies,Buy,,main,SPLK
+2020-01-13,Morgan Stanley,Overweight,,main,SPLK
+2020-01-13,Credit Suisse,Outperform,,main,SPLK
+2020-01-14,SunTrust Robinson Humphrey,Buy,,main,SPLK
+2020-01-14,First Analysis,Neutral,Outperform,down,SPLK
+2020-01-16,Wells Fargo,Overweight,,main,SPLK
+2020-01-21,Argus Research,Buy,,main,SPLK
+2020-02-19,Wedbush,Outperform,,main,SPLK
+2020-03-03,JP Morgan,Overweight,,main,SPLK
+2020-03-05,Monness Crespi Hardt,Neutral,Buy,down,SPLK
+2020-03-05,Wedbush,Outperform,,main,SPLK
+2020-03-05,Stifel,Buy,,main,SPLK
+2020-03-05,B of A Securities,Buy,,reit,SPLK
+2020-03-05,Raymond James,Outperform,,main,SPLK
+2020-03-05,Cowen & Co.,Outperform,,main,SPLK
+2020-03-05,Needham,Buy,,main,SPLK
+2020-03-25,Morgan Stanley,Overweight,,main,SPLK
+2020-04-03,Deutsche Bank,Buy,,main,SPLK
+2020-04-03,Raymond James,Outperform,,main,SPLK
+2020-04-14,SunTrust Robinson Humphrey,Buy,,main,SPLK
+2020-04-24,Cowen & Co.,Market Perform,Outperform,down,SPLK
+2020-04-27,Needham,Buy,,main,SPLK
+2020-05-22,Mizuho,Buy,,main,SPLK
+2020-05-22,Needham,Buy,,main,SPLK
+2020-05-22,Stifel,Buy,,main,SPLK
+2020-05-22,Morgan Stanley,Overweight,,main,SPLK
+2020-05-22,Piper Sandler,Overweight,,main,SPLK
+2020-05-22,Jefferies,Buy,,main,SPLK
+2020-05-22,UBS,Buy,,main,SPLK
+2020-05-22,Raymond James,Outperform,,reit,SPLK
+2020-05-22,RBC Capital,Outperform,,main,SPLK
+2020-05-22,Oppenheimer,Outperform,,main,SPLK
+2020-06-22,Wells Fargo,Overweight,,main,SPLK
+2020-06-24,B of A Securities,Buy,,main,SPLK
+2020-06-25,Berenberg,Buy,,init,SPLK
+2020-07-10,Morgan Stanley,Overweight,,main,SPLK
+2020-07-28,UBS,Buy,,main,SPLK
+2020-08-21,Loop Capital,Buy,,init,SPLK
+2020-08-27,Citigroup,Neutral,Sell,up,SPLK
+2020-08-27,UBS,Buy,,main,SPLK
+2020-08-27,B of A Securities,Buy,,main,SPLK
+2020-08-27,Credit Suisse,Outperform,,main,SPLK
+2020-08-27,Morgan Stanley,Overweight,,main,SPLK
+2020-08-27,Raymond James,Outperform,,main,SPLK
+2020-08-27,Needham,Buy,,main,SPLK
+2020-09-25,Baird,Outperform,Neutral,up,SPLK
+2020-10-02,Evercore ISI Group,Outperform,In-Line,up,SPLK
+2020-10-14,UBS,Sell,Buy,down,SPLK
+2020-10-22,Jefferies,Buy,,main,SPLK
+2020-10-22,Needham,Buy,,main,SPLK
+2020-11-24,KeyBanc,Overweight,,init,SPLK
+2020-12-03,Morgan Stanley,Overweight,,main,SPLK
+2020-12-03,Stifel,Hold,Buy,down,SPLK
+2020-12-03,Raymond James,Outperform,,main,SPLK
+2020-12-03,Needham,Buy,,main,SPLK
+2020-12-07,Credit Suisse,Outperform,,main,SPLK
+2020-12-17,Rosenblatt,Buy,,init,SPLK
+2020-12-29,Daiwa Capital,Neutral,,init,SPLK
+2021-01-22,Goldman Sachs,Buy,,init,SPLK
+2021-02-17,Mizuho,Neutral,,main,SPLK
+2021-03-04,Barclays,Overweight,,main,SPLK
+2021-03-04,Baird,Outperform,,main,SPLK
+2021-03-04,Mizuho,Neutral,,main,SPLK
+2021-03-04,Needham,Buy,,main,SPLK
+2021-04-16,Keybanc,Sector Weight,Overweight,down,SPLK
+2021-04-27,Morgan Stanley,Equal-Weight,Overweight,down,SPLK
+2021-05-18,Jefferies,Buy,,main,SPLK
+2021-05-19,JMP Securities,Market Outperform,,main,SPLK
+2021-05-21,UBS,Neutral,Sell,up,SPLK
+2021-06-01,RBC Capital,Outperform,,main,SPLK
+2021-06-02,BMO Capital,Outperform,,main,SPLK
+2021-06-03,Barclays,Overweight,,main,SPLK
+2021-06-03,Stifel,Hold,,main,SPLK
+2021-06-03,Piper Sandler,Overweight,,main,SPLK
+2021-06-03,Raymond James,Outperform,,main,SPLK
+2021-06-03,Evercore ISI Group,Outperform,,main,SPLK
+2021-06-03,Needham,Buy,,main,SPLK
+2021-06-03,Morgan Stanley,Equal-Weight,,main,SPLK
+2021-06-03,Baird,Outperform,,main,SPLK
+2021-06-07,Summit Insights Group,Buy,Hold,up,SPLK
+2021-06-07,Citigroup,Neutral,,main,SPLK
+2021-06-23,Mizuho,Neutral,,main,SPLK
+2021-06-23,BMO Capital,Outperform,,main,SPLK
+2021-08-11,UBS,Buy,Neutral,up,SPLK
+2021-08-26,Summit Insights Group,Buy,,main,SPLK
+2021-08-26,Needham,Buy,,main,SPLK
+2021-08-26,Barclays,Overweight,,main,SPLK
+2021-08-26,RBC Capital,Outperform,,main,SPLK
+2021-08-26,JMP Securities,Market Outperform,,main,SPLK
+2021-08-26,Morgan Stanley,Equal-Weight,,main,SPLK
+2021-08-26,BMO Capital,Outperform,,main,SPLK
+2021-10-22,BMO Capital,Outperform,,main,SPLK
+2021-11-02,Deutsche Bank,Hold,,init,SPLK
+2021-11-16,Deutsche Bank,Hold,,main,SPLK
+2021-11-16,Mizuho,Neutral,,main,SPLK
+2021-11-16,Credit Suisse,Outperform,,init,SPLK
+2021-12-02,Deutsche Bank,Hold,,main,SPLK
+2021-12-02,Mizuho,Neutral,,main,SPLK
+2021-12-02,Morgan Stanley,Equal-Weight,,main,SPLK
+2021-12-02,BMO Capital,Outperform,,main,SPLK
+2021-12-02,Rosenblatt,Buy,,main,SPLK
+2021-12-02,RBC Capital,Outperform,,main,SPLK
+2021-12-02,Needham,Buy,,main,SPLK

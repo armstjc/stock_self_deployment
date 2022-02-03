@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2021-02-22,William Blair,Outperform,,init,XM
+2021-02-22,Deutsche Bank,Buy,,init,XM
+2021-02-23,Piper Sandler,Neutral,,init,XM
+2021-02-23,Oppenheimer,Outperform,,init,XM
+2021-02-23,Barclays,Equal-Weight,,init,XM
+2021-02-23,Raymond James,Outperform,,init,XM
+2021-02-23,Morgan Stanley,Equal-Weight,,init,XM
+2021-02-23,BMO Capital,Market Perform,,init,XM
+2021-02-23,JMP Securities,Market Outperform,,init,XM
+2021-02-23,JP Morgan,Overweight,,init,XM
+2021-02-23,Truist Securities,Buy,,init,XM
+2021-02-23,Canaccord Genuity,Buy,,init,XM
+2021-03-17,HSBC,Hold,,init,XM
+2021-04-22,BMO Capital,Outperform,Market Perform,up,XM
+2021-04-22,Raymond James,Outperform,,main,XM
+2021-04-22,Canaccord Genuity,Buy,,main,XM
+2021-04-22,Piper Sandler,Overweight,Neutral,up,XM
+2021-05-19,B of A Securities,Buy,Neutral,up,XM
+2021-07-21,Piper Sandler,Overweight,,main,XM
+2021-10-21,Piper Sandler,Overweight,,main,XM
+2021-10-21,Raymond James,Outperform,,main,XM
+2021-10-21,Oppenheimer,Outperform,,main,XM
+2021-12-13,Goldman Sachs,Buy,,init,XM
+2021-12-16,Morgan Stanley,Overweight,Equal-Weight,up,XM

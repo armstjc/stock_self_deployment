@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-06,Goldman Sachs,Neutral,,init,SITE
+2016-06-06,UBS,Buy,,init,SITE
+2016-06-06,Deutsche Bank,Buy,,init,SITE
+2016-06-06,Baird,Buy,,init,SITE
+2016-06-06,SunTrust Robinson Humphrey,Buy,,init,SITE
+2016-06-07,RBC Capital,Outperform,,init,SITE
+2016-06-07,William Blair,Market Perform,,init,SITE
+2017-01-06,Barclays,Equal-Weight,,init,SITE
+2017-08-10,Deutsche Bank,Buy,,main,SITE
+2017-11-09,Barclays,Equal-Weight,,main,SITE
+2017-11-10,UBS,Buy,,main,SITE
+2018-01-23,UBS,Sell,Neutral,down,SITE
+2018-01-26,William Blair,Outperform,Market Perform,up,SITE
+2018-02-21,Barclays,Equal-Weight,Equal-Weight,main,SITE
+2018-02-21,UBS,Sell,Sell,main,SITE
+2018-05-04,Deutsche Bank,Buy,Buy,main,SITE
+2018-07-03,Baird,Neutral,Outperform,down,SITE
+2018-08-02,Barclays,Equal-Weight,Equal-Weight,main,SITE
+2018-08-30,UBS,Sell,Sell,main,SITE
+2018-10-11,UBS,Neutral,Sell,up,SITE
+2018-10-12,Jefferies,Buy,,init,SITE
+2018-11-01,Deutsche Bank,Buy,Buy,main,SITE
+2019-01-15,SunTrust Robinson Humphrey,Hold,Buy,down,SITE
+2019-01-31,RBC Capital,Sector Perform,Outperform,down,SITE
+2019-06-25,Baird,Outperform,Neutral,up,SITE
+2019-08-07,Berenberg,Hold,Buy,down,SITE
+2019-11-21,Deutsche Bank,Hold,,init,SITE
+2020-02-19,RBC Capital,Sector Perform,,main,SITE
+2020-02-19,Baird,Outperform,,main,SITE
+2020-02-19,SunTrust Robinson Humphrey,Hold,,main,SITE
+2020-03-25,Deutsche Bank,Hold,,main,SITE
+2020-04-06,Baird,Neutral,Outperform,down,SITE
+2020-04-16,SunTrust Robinson Humphrey,Hold,,main,SITE
+2020-04-30,SunTrust Robinson Humphrey,Hold,,main,SITE
+2020-06-10,Jefferies,Buy,,main,SITE
+2020-07-08,UBS,Sell,Neutral,down,SITE
+2020-07-30,RBC Capital,Underperform,,main,SITE
+2020-07-30,SunTrust Robinson Humphrey,Hold,,main,SITE
+2020-09-15,Baird,Outperform,Neutral,up,SITE
+2021-02-25,Barclays,Equal-Weight,,main,SITE
+2021-02-25,Truist Securities,Hold,,main,SITE
+2021-05-06,RBC Capital,Underperform,,main,SITE
+2021-05-06,Barclays,Equal-Weight,,main,SITE
+2021-05-18,Berenberg,Buy,Hold,up,SITE
+2021-06-17,UBS,Sell,,main,SITE
+2021-07-23,Loop Capital,Hold,,init,SITE
+2021-11-04,RBC Capital,Underperform,,main,SITE

@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-11-29,Credit Suisse,Outperform,,init,SND
+2016-11-29,Goldman Sachs,Buy,,init,SND
+2016-11-29,PiperJaffray,Overweight,,init,SND
+2016-11-30,Deutsche Bank,Buy,,init,SND
+2016-12-13,Jefferies,Buy,,init,SND
+2017-01-20,Goldman Sachs,Neutral,Buy,down,SND
+2017-03-17,Johnson Rice,Accumulate,Buy,up,SND
+2017-05-26,Evercore ISI Group,In-Line,,init,SND
+2017-06-15,Janney Capital,Buy,,init,SND
+2017-07-20,Credit Suisse,Neutral,Outperform,down,SND
+2017-08-28,Jefferies,Buy,,main,SND
+2017-10-10,Deutsche Bank,Buy,,init,SND
+2017-11-14,Credit Suisse,Neutral,,main,SND
+2017-11-15,Jefferies,Hold,Buy,down,SND
+2017-12-08,Seaport Global,Buy,,init,SND
+2018-01-02,Janney Capital,Neutral,Buy,down,SND
+2018-03-16,Credit Suisse,Neutral,Neutral,main,SND
+2018-03-19,Deutsche Bank,Buy,Buy,main,SND
+2018-06-26,Johnson Rice,Hold,Buy,down,SND
+2018-09-11,Stifel Nicolaus,Hold,,init,SND
+2018-10-10,Stifel Nicolaus,Hold,Hold,main,SND
+2018-10-17,Jefferies,Underperform,Hold,down,SND
+2018-11-12,Credit Suisse,Underperform,Neutral,down,SND
+2018-11-13,PiperJaffray,Neutral,Overweight,down,SND
+2019-03-20,B. Riley FBR,Neutral,,init,SND
+2020-02-27,B. Riley FBR,Buy,,main,SND
+2020-02-27,Stifel Nicolaus,Hold,,main,SND
+2020-04-13,B. Riley FBR,Buy,,main,SND
+2020-04-15,Piper Sandler,Neutral,,main,SND
+2021-06-29,Evercore ISI Group,In-Line,Underperform,up,SND

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2016-06-07,Maxim Group,Neutral,,init,WKHS
+2017-08-17,Cowen & Co.,Outperform,,init,WKHS
+2018-06-20,B. Riley FBR,Buy,,init,WKHS
+2018-07-11,B. Riley FBR,Buy,Buy,main,WKHS
+2018-07-13,Cowen & Co.,Outperform,Outperform,main,WKHS
+2020-01-31,BTIG,Buy,,init,WKHS
+2020-04-28,Roth Capital,Buy,,init,WKHS
+2020-07-09,Colliers Securities,Neutral,Buy,down,WKHS
+2020-09-03,Oppenheimer,Outperform,,init,WKHS
+2020-10-14,Roth Capital,Neutral,Buy,down,WKHS
+2020-11-16,RF Lafferty,Buy,,init,WKHS
+2020-12-10,Wolfe Research,Peer Perform,,init,WKHS
+2021-02-24,Roth Capital,Neutral,,main,WKHS
+2021-04-16,B. Riley FBR,Buy,,init,WKHS
+2021-06-04,Cowen & Co.,Market Perform,Outperform,down,WKHS
+2021-08-11,DA Davidson,Neutral,,init,WKHS

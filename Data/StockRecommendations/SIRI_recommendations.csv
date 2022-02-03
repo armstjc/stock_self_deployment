@@ -1,0 +1,110 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-02-10,Gabelli & Co.,Hold,,down,SIRI
+2012-02-15,Citigroup,Buy,,main,SIRI
+2012-04-03,Miller Tabak,Neutral,,down,SIRI
+2012-04-12,Morgan Stanley,Equal-Weight,,main,SIRI
+2012-04-16,Miller Tabak,Buy,,up,SIRI
+2012-05-01,Pivotal Research,Buy,,main,SIRI
+2012-05-02,Wunderlich,Hold,,main,SIRI
+2012-05-18,Miller Tabak,Buy,,up,SIRI
+2012-06-27,PiperJaffray,Overweight,,init,SIRI
+2012-07-16,Barclays,Equal-Weight,Underweight,up,SIRI
+2012-07-20,ISI Group,Buy,,init,SIRI
+2012-08-08,PiperJaffray,Overweight,,main,SIRI
+2012-08-14,Wunderlich,Hold,,main,SIRI
+2012-08-16,Pivotal Research,Buy,,main,SIRI
+2012-08-20,ISI Group,Buy,,main,SIRI
+2012-09-11,Gabelli & Co.,Sell,Hold,down,SIRI
+2012-10-02,Bank of America,Buy,,init,SIRI
+2012-10-02,Citigroup,Buy,,main,SIRI
+2012-10-11,Bank of America,Buy,,main,SIRI
+2012-10-11,PiperJaffray,Overweight,,main,SIRI
+2012-10-15,Morgan Stanley,Equal-Weight,,main,SIRI
+2012-10-16,Wunderlich,Hold,,main,SIRI
+2012-10-16,Bank of America,Buy,,main,SIRI
+2012-10-24,Janco Partners,Buy,,main,SIRI
+2012-11-02,Wunderlich,Hold,,main,SIRI
+2012-12-05,ISI Group,Buy,,main,SIRI
+2012-12-18,Goldman Sachs,Buy,,init,SIRI
+2012-12-18,PiperJaffray,Overweight,,main,SIRI
+2013-02-04,Wunderlich,Hold,,main,SIRI
+2013-02-06,Macquarie,Neutral,Outperform,down,SIRI
+2013-07-09,Pivotal Research,Buy,,main,SIRI
+2013-07-23,Wunderlich,Hold,,main,SIRI
+2013-07-26,Janco Partners,Strong Buy,,main,SIRI
+2013-07-26,Wunderlich,Hold,,main,SIRI
+2013-07-31,Barclays,Overweight,,init,SIRI
+2013-09-26,PiperJaffray,Overweight,,main,SIRI
+2013-10-23,FBR Capital,Outperform,,init,SIRI
+2013-10-23,Wunderlich,Hold,,main,SIRI
+2013-10-25,Evercore Partners,Equal-Weight,Overweight,down,SIRI
+2013-10-25,Goldman Sachs,Neutral,Buy,down,SIRI
+2013-11-20,Pacific Crest,Sector Perform,,init,SIRI
+2013-12-19,Wunderlich,Buy,Hold,up,SIRI
+2014-01-03,Evercore Partners,Overweight,Equal-weight,up,SIRI
+2014-01-14,Barclays,Equal-weight,Overweight,down,SIRI
+2014-02-05,Wunderlich,Hold,Buy,down,SIRI
+2014-03-07,Macquarie,Outperform,Neutral,up,SIRI
+2014-03-26,Barclays,Overweight,Equal-weight,up,SIRI
+2014-04-10,Buckingham Research,Buy,,init,SIRI
+2014-04-23,Wunderlich,Hold,,main,SIRI
+2015-03-05,Deutsche Bank,Hold,,init,SIRI
+2015-03-24,Goldman Sachs,Neutral,,init,SIRI
+2015-04-29,Deutsche Bank,Hold,,main,SIRI
+2015-05-04,Citigroup,Buy,,main,SIRI
+2015-07-29,Wunderlich,Buy,Hold,up,SIRI
+2015-08-03,Deutsche Bank,Hold,,main,SIRI
+2015-08-14,Barclays,Overweight,,main,SIRI
+2015-10-23,Deutsche Bank,Hold,,main,SIRI
+2015-12-14,JP Morgan,Neutral,,init,SIRI
+2016-01-05,Macquarie,Outperform,,main,SIRI
+2016-07-12,Telsey Advisory Group,Market Perform,,init,SIRI
+2016-08-18,Citigroup,Buy,,main,SIRI
+2017-03-16,Wunderlich,Hold,Buy,down,SIRI
+2017-03-22,Barclays,Equal-Weight,Overweight,down,SIRI
+2017-04-19,Morgan Stanley,Underweight,Equal-Weight,down,SIRI
+2017-08-07,Citigroup,Buy,,main,SIRI
+2017-10-12,Bank of America,Buy,,main,SIRI
+2018-01-02,JP Morgan,Underweight,Neutral,down,SIRI
+2018-01-19,Buckingham,Buy,,init,SIRI
+2018-01-19,Deutsche Bank,Buy,Hold,up,SIRI
+2018-02-01,Barclays,Equal-Weight,Equal-Weight,main,SIRI
+2018-02-02,Buckingham,Buy,Buy,main,SIRI
+2018-02-05,Morgan Stanley,Underweight,Underweight,main,SIRI
+2018-03-22,Citigroup,Neutral,Buy,down,SIRI
+2018-05-07,Buckingham,Neutral,Buy,down,SIRI
+2018-06-19,Pivotal Research,Hold,Buy,down,SIRI
+2018-06-21,Goldman Sachs,Sell,Neutral,down,SIRI
+2018-06-26,Barclays,Underweight,Equal-Weight,down,SIRI
+2018-06-29,Barrington Research,Outperform,Market Perform,up,SIRI
+2018-07-11,Credit Suisse,Outperform,,init,SIRI
+2018-08-06,Morgan Stanley,Underweight,Underweight,main,SIRI
+2018-09-25,Credit Suisse,Neutral,Outperform,down,SIRI
+2019-01-02,JP Morgan,Overweight,Underweight,up,SIRI
+2019-01-28,Buckingham,Buy,Neutral,up,SIRI
+2019-04-25,Pivotal Research,Buy,Hold,up,SIRI
+2019-06-10,Credit Suisse,Outperform,Neutral,up,SIRI
+2019-09-24,Wells Fargo,Outperform,,init,SIRI
+2019-10-09,Benchmark,Hold,,init,SIRI
+2019-12-17,FBN Securities,Outperform,,init,SIRI
+2020-02-07,Credit Suisse,Neutral,Outperform,down,SIRI
+2020-03-18,B. Riley FBR,Buy,,main,SIRI
+2020-03-31,Citigroup,Buy,Neutral,up,SIRI
+2020-04-09,Barclays,Underweight,,main,SIRI
+2020-04-17,Wells Fargo,Overweight,,main,SIRI
+2020-04-29,Morgan Stanley,Equal-Weight,,main,SIRI
+2020-04-30,B. Riley FBR,Buy,,main,SIRI
+2020-06-15,Morgan Stanley,Equal-Weight,,main,SIRI
+2020-07-21,Deutsche Bank,Buy,,main,SIRI
+2020-08-04,Citigroup,Buy,,main,SIRI
+2020-09-16,Benchmark,Buy,Hold,up,SIRI
+2020-10-07,Credit Suisse,Outperform,Neutral,up,SIRI
+2020-10-23,Benchmark,Buy,,main,SIRI
+2020-10-27,RBC Capital,Outperform,Sector Perform,up,SIRI
+2021-01-28,Credit Suisse,Neutral,Outperform,down,SIRI
+2021-07-28,Morgan Stanley,Equal-Weight,,main,SIRI
+2021-09-28,Barclays,Equal-Weight,Underweight,up,SIRI
+2021-10-08,JP Morgan,Neutral,Overweight,down,SIRI
+2021-11-19,Barclays,Underweight,Equal-Weight,down,SIRI
+2022-01-04,Wells Fargo,Equal-Weight,Overweight,down,SIRI
+2022-01-14,JP Morgan,Underweight,Neutral,down,SIRI

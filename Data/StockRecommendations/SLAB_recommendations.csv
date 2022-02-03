@@ -1,0 +1,98 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-21,UBS,Buy,,up,SLAB
+2012-04-11,Wunderlich,Buy,,up,SLAB
+2012-04-25,FBR Capital,Market Perform,,main,SLAB
+2012-04-26,Citigroup,Buy,,up,SLAB
+2012-04-26,UBS,Buy,,main,SLAB
+2012-04-27,Miller Tabak,Buy,,up,SLAB
+2012-05-18,UBS,Buy,,main,SLAB
+2012-07-23,UBS,Buy,,main,SLAB
+2012-07-25,PiperJaffray,Overweight,,main,SLAB
+2012-09-12,Williams Financial,Buy,Hold,up,SLAB
+2012-09-18,Miller Tabak,Neutral,Buy,down,SLAB
+2012-10-08,Caris & Co.,Above Average,Average,up,SLAB
+2012-10-24,Caris & Co.,Buy,Above Average,up,SLAB
+2012-10-24,FBR Capital,Market Perform,,main,SLAB
+2012-10-25,Barclays,Equal-Weight,,main,SLAB
+2012-12-13,Citigroup,Buy,,main,SLAB
+2013-01-03,Barclays,Equal-Weight,,main,SLAB
+2013-01-30,PiperJaffray,Overweight,,main,SLAB
+2013-01-30,Wunderlich,Buy,,main,SLAB
+2013-01-30,FBR Capital,Market Perform,,main,SLAB
+2013-01-31,UBS,Buy,,main,SLAB
+2013-04-11,Barclays,Overweight,Equal-Weight,up,SLAB
+2013-05-06,Topeka,Hold,,init,SLAB
+2014-01-31,Citigroup,Buy,,main,SLAB
+2014-02-20,Stifel Nicolaus,Buy,,main,SLAB
+2014-04-22,Citigroup,Buy,,main,SLAB
+2014-04-30,Topeka,Hold,,main,SLAB
+2014-04-30,B. Riley FBR,Buy,,main,SLAB
+2014-04-30,Citigroup,Buy,,main,SLAB
+2014-07-08,MKM Partners,Buy,,init,SLAB
+2014-07-28,Citigroup,Buy,,main,SLAB
+2014-08-08,Canaccord Genuity,Buy,,init,SLAB
+2014-10-13,Pacific Crest,Sector Perform,Outperform,down,SLAB
+2014-10-24,Citigroup,Buy,,main,SLAB
+2015-02-04,Topeka,Buy,Hold,up,SLAB
+2015-02-05,Citigroup,Buy,,main,SLAB
+2015-02-26,Stifel Nicolaus,Buy,,main,SLAB
+2015-04-30,Citigroup,Buy,,main,SLAB
+2015-05-06,Needham,Hold,,init,SLAB
+2015-09-25,MKM Partners,Neutral,Buy,down,SLAB
+2015-10-29,William Blair,Market Perform,Outperform,down,SLAB
+2015-10-29,B. Riley FBR,Buy,,main,SLAB
+2015-10-29,Canaccord Genuity,Buy,,main,SLAB
+2016-02-04,Citigroup,Buy,,main,SLAB
+2016-03-01,Drexel Hamilton,Buy,,init,SLAB
+2016-03-14,MKM Partners,Neutral,,main,SLAB
+2016-04-28,Stephens & Co.,Equal-Weight,,main,SLAB
+2016-07-28,Citigroup,Buy,,main,SLAB
+2016-09-29,Roth Capital,Buy,,init,SLAB
+2016-10-27,MKM Partners,Buy,Neutral,up,SLAB
+2017-02-01,Needham,Buy,Hold,up,SLAB
+2017-10-10,Canaccord Genuity,Buy,,main,SLAB
+2017-10-12,Stifel Nicolaus,Buy,,main,SLAB
+2017-10-18,Barclays,Overweight,,main,SLAB
+2017-10-26,Canaccord Genuity,Buy,,main,SLAB
+2017-10-26,B. Riley,Buy,,main,SLAB
+2018-04-06,Benchmark,Buy,,init,SLAB
+2018-04-26,B. Riley FBR,Buy,Buy,main,SLAB
+2018-05-17,Cowen & Co.,Outperform,,init,SLAB
+2018-06-15,Stifel Nicolaus,Buy,Buy,main,SLAB
+2018-06-22,Loop Capital,Hold,,init,SLAB
+2018-10-23,Barclays,Equal-Weight,Equal-Weight,main,SLAB
+2018-10-25,B. Riley FBR,Buy,Buy,main,SLAB
+2019-01-31,Needham,Hold,Buy,down,SLAB
+2019-06-25,Wells Fargo,Outperform,,init,SLAB
+2019-07-23,Benchmark,Buy,,init,SLAB
+2019-12-20,Wells Fargo,Overweight,,main,SLAB
+2020-01-29,Summit Insights Group,Hold,Buy,down,SLAB
+2020-01-30,Citigroup,Buy,,main,SLAB
+2020-03-05,Needham,Buy,Hold,up,SLAB
+2020-03-13,Needham,Buy,,main,SLAB
+2020-03-13,Citigroup,Buy,,main,SLAB
+2020-04-17,Barclays,Equal-Weight,,main,SLAB
+2020-04-30,Benchmark,Buy,,main,SLAB
+2020-07-20,Barclays,Equal-Weight,,main,SLAB
+2020-07-30,Citigroup,Buy,,main,SLAB
+2021-01-04,Roth Capital,Buy,,main,SLAB
+2021-01-19,Morgan Stanley,Equal-Weight,,init,SLAB
+2021-02-04,Roth Capital,Buy,,main,SLAB
+2021-02-04,Loop Capital,Hold,,main,SLAB
+2021-02-04,Needham,Buy,,main,SLAB
+2021-02-22,Needham,Buy,,main,SLAB
+2021-02-22,Morgan Stanley,Equal-Weight,,main,SLAB
+2021-02-22,Benchmark,Buy,,main,SLAB
+2021-02-24,Wells Fargo,Overweight,,main,SLAB
+2021-04-23,Keybanc,Overweight,Sector Weight,up,SLAB
+2021-04-29,JP Morgan,Neutral,Overweight,down,SLAB
+2021-04-29,Morgan Stanley,Equal-Weight,,main,SLAB
+2021-05-19,Citigroup,Neutral,Buy,down,SLAB
+2021-07-29,Morgan Stanley,Equal-Weight,,main,SLAB
+2021-10-28,Keybanc,Overweight,,main,SLAB
+2021-10-28,Needham,Buy,,main,SLAB
+2021-10-28,Barclays,Equal-Weight,,main,SLAB
+2021-10-28,Morgan Stanley,Equal-Weight,,main,SLAB
+2021-11-12,Stifel,Buy,,main,SLAB
+2021-12-15,Morgan Stanley,Equal-Weight,,main,SLAB
+2021-12-21,Wells Fargo,Overweight,,main,SLAB

@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2019-05-13,Goldman Sachs,Buy,,init,TPTX
+2019-05-13,SVB Leerink,Outperform,,init,TPTX
+2019-05-13,Canaccord Genuity,Buy,,init,TPTX
+2019-05-13,Wells Fargo,Outperform,,init,TPTX
+2019-07-24,Guggenheim,Buy,,init,TPTX
+2019-09-04,Wells Fargo,Outperform,,main,TPTX
+2019-09-05,Canaccord Genuity,Buy,,main,TPTX
+2019-09-10,Wedbush,Outperform,,init,TPTX
+2019-09-25,H.C. Wainwright,Buy,,init,TPTX
+2019-11-14,Roth Capital,Buy,,init,TPTX
+2020-03-17,HC Wainwright & Co.,Buy,,main,TPTX
+2020-05-13,SVB Leerink,Outperform,,main,TPTX
+2020-05-13,Wells Fargo,Overweight,,main,TPTX
+2020-05-26,HC Wainwright & Co.,Buy,,main,TPTX
+2020-07-10,Oppenheimer,Outperform,,init,TPTX
+2020-08-21,Canaccord Genuity,Buy,,main,TPTX
+2020-09-21,HC Wainwright & Co.,Buy,,main,TPTX
+2020-10-26,SVB Leerink,Outperform,,main,TPTX
+2020-10-26,HC Wainwright & Co.,Buy,,main,TPTX
+2020-10-27,Canaccord Genuity,Buy,,main,TPTX
+2020-12-08,JMP Securities,Market Outperform,,init,TPTX
+2020-12-14,SVB Leerink,Outperform,,main,TPTX
+2021-01-19,HC Wainwright & Co.,Buy,,main,TPTX
+2021-02-02,Canaccord Genuity,Buy,,main,TPTX
+2021-04-06,HC Wainwright & Co.,Buy,,main,TPTX
+2021-09-30,Stifel,Hold,,init,TPTX
+2021-10-11,JMP Securities,Market Perform,Market Outperform,down,TPTX
+2021-10-12,HC Wainwright & Co.,Buy,,main,TPTX
+2021-11-10,Oppenheimer,Outperform,,main,TPTX
+2021-12-07,Cowen & Co.,Outperform,,init,TPTX
+2022-01-21,Oppenheimer,Outperform,,main,TPTX

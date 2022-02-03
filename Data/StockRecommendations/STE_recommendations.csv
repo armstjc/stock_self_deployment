@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-03,JMP Securities,Outperform,Market Perform,up,STE
+2012-09-20,Bank of America,Buy,,init,STE
+2012-12-21,Raymond James,Market Perform,,init,STE
+2013-03-15,Bank of America,Buy,,main,STE
+2013-05-07,Griffin Securities,Hold,Buy,down,STE
+2014-04-02,Stephens & Co.,Overweight,Equal-Weight,up,STE
+2014-10-22,Raymond James,Strong Buy,Market Perform,up,STE
+2015-02-05,JMP Securities,Market Outperform,,main,STE
+2015-06-04,KeyBanc,,,down,STE
+2015-06-12,Raymond James,Outperform,Strong Buy,down,STE
+2016-11-30,Goldman Sachs,Neutral,,init,STE
+2017-05-03,KeyBanc,Overweight,Sector Weight,up,STE
+2017-08-09,Raymond James,Outperform,,main,STE
+2017-10-16,Raymond James,Outperform,,main,STE
+2017-11-02,KeyBanc,Overweight,,main,STE
+2018-01-03,Raymond James,Market Perform,Outperform,down,STE
+2018-08-09,JMP Securities,Market Outperform,Market Outperform,main,STE
+2018-08-09,KeyBanc,Overweight,Overweight,main,STE
+2018-11-13,KeyBanc,Overweight,Overweight,main,STE
+2018-12-06,Sidoti & Co.,Buy,Buy,main,STE
+2019-05-15,KeyBanc,Overweight,,main,STE
+2019-05-22,JMP Securities,Market Outperform,,main,STE
+2019-07-10,KeyBanc,Sector Weight,Overweight,down,STE
+2020-02-12,Stephens & Co.,Overweight,,main,STE
+2020-03-23,Stephens & Co.,Overweight,,main,STE
+2020-06-09,Needham,Hold,,init,STE
+2020-09-02,Baird,Outperform,,init,STE
+2021-02-04,KeyBanc,Overweight,Sector Weight,up,STE
+2021-03-11,KeyBanc,Overweight,,main,STE
+2021-05-11,JMP Securities,Market Outperform,,main,STE
+2021-05-26,Needham,Buy,Hold,up,STE
+2021-08-11,Keybanc,Overweight,,main,STE
+2021-08-11,Stephens & Co.,Overweight,,main,STE
+2021-08-11,Baird,Outperform,,main,STE
+2021-11-04,Keybanc,Overweight,,main,STE
+2021-11-04,Stephens & Co.,Overweight,,main,STE

@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2018-03-05,Morgan Stanley,Overweight,,init,VCTR
+2018-03-05,William Blair,Outperform,,init,VCTR
+2018-03-05,Bank of America,Buy,,init,VCTR
+2018-03-05,Keefe Bruyette & Woods,Market Perform,,init,VCTR
+2018-03-05,JP Morgan,Overweight,,init,VCTR
+2018-03-05,RBC Capital,Outperform,,init,VCTR
+2018-03-05,Barclays,Overweight,,init,VCTR
+2018-03-05,Goldman Sachs,Neutral,,init,VCTR
+2018-04-11,Morgan Stanley,Overweight,Overweight,main,VCTR
+2018-04-23,Barclays,Overweight,Overweight,main,VCTR
+2018-07-12,Morgan Stanley,Overweight,Overweight,main,VCTR
+2018-08-08,Barclays,Overweight,Overweight,main,VCTR
+2018-10-09,Morgan Stanley,Overweight,Overweight,main,VCTR
+2019-03-27,B. Riley FBR,Buy,,init,VCTR
+2019-04-11,Morgan Stanley,Equal-Weight,Overweight,down,VCTR
+2019-06-11,Oppenheimer,Perform,,init,VCTR
+2019-10-08,BMO Capital,Outperform,,init,VCTR
+2019-12-13,JP Morgan,Neutral,Overweight,down,VCTR
+2020-02-13,B. Riley FBR,Buy,,reit,VCTR
+2020-03-11,B. Riley FBR,Buy,,main,VCTR
+2020-03-13,Morgan Stanley,Equal-Weight,,main,VCTR
+2020-03-23,B of A Securities,Buy,,main,VCTR
+2020-04-06,KBW,Market Perform,Outperform,down,VCTR
+2020-04-08,Morgan Stanley,Underweight,Equal-Weight,down,VCTR
+2020-04-15,JP Morgan,Neutral,,main,VCTR
+2020-04-21,B. Riley FBR,Buy,,main,VCTR
+2020-05-12,JP Morgan,Neutral,,main,VCTR
+2020-05-14,Morgan Stanley,Underweight,,main,VCTR
+2020-07-02,Morgan Stanley,Underweight,,main,VCTR
+2020-08-07,Morgan Stanley,Underweight,,main,VCTR
+2020-11-06,BMO Capital,Outperform,,main,VCTR
+2020-11-09,Morgan Stanley,Underweight,,main,VCTR
+2021-01-11,Morgan Stanley,Underweight,,main,VCTR
+2021-02-12,Morgan Stanley,Underweight,,main,VCTR
+2021-04-08,Morgan Stanley,Underweight,,main,VCTR
+2021-04-09,B of A Securities,Buy,Underperform,up,VCTR
+2021-05-10,BMO Capital,Outperform,,main,VCTR
+2021-05-11,Morgan Stanley,Underweight,,main,VCTR
+2021-07-09,Morgan Stanley,Underweight,,main,VCTR
+2021-08-10,Morgan Stanley,Underweight,,main,VCTR
+2021-11-09,RBC Capital,Outperform,,main,VCTR

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-03-09,Stifel Nicolaus,Buy,,init,VNET
+2012-07-18,Canaccord Genuity,Buy,,init,VNET
+2012-08-17,PiperJaffray,Overweight,,main,VNET
+2012-11-19,PiperJaffray,Overweight,,main,VNET
+2013-03-06,PiperJaffray,Overweight,,main,VNET
+2013-03-07,JP Morgan,Neutral,Overweight,down,VNET
+2013-03-07,JP Morgan,Neutral,Overweight,down,VNET
+2013-03-11,Credit Suisse,Outperform,,init,VNET
+2013-08-21,Stifel Nicolaus,Buy,,main,VNET
+2013-11-06,JP Morgan,Overweight,Neutral,up,VNET
+2013-11-26,Pacific Crest,Sector Perform,Outperform,down,VNET
+2014-02-07,Credit Suisse,Neutral,Outperform,down,VNET
+2014-02-10,Credit Suisse,Neutral,Outperform,down,VNET
+2014-03-18,Credit Suisse,Outperform,Neutral,up,VNET
+2014-08-28,Canaccord Genuity,Buy,,main,VNET
+2014-09-10,Stifel Nicolaus,Buy,,init,VNET
+2014-09-15,CLSA,Buy,,init,VNET
+2014-11-21,Stifel Nicolaus,Buy,,main,VNET
+2014-11-26,Canaccord Genuity,Hold,Buy,down,VNET
+2014-11-26,Stifel Nicolaus,Hold,Buy,down,VNET
+2015-08-28,Pacific Crest,Sector Weight,Overweight,down,VNET
+2016-08-17,JP Morgan,Underweight,Neutral,down,VNET
+2017-10-04,Morgan Stanley,Overweight,Equal-Weight,up,VNET
+2018-10-03,Jefferies,Buy,,init,VNET
+2020-07-14,UBS,Buy,,init,VNET
+2020-09-28,B of A Securities,Buy,,init,VNET
+2020-11-25,B of A Securities,Buy,,main,VNET
+2021-08-17,JP Morgan,Overweight,,init,VNET
+2021-08-25,Citigroup,Buy,,main,VNET
+2021-10-11,HSBC,Hold,,init,VNET
+2021-11-19,Goldman Sachs,Sell,Buy,down,VNET
+2021-11-22,HSBC,Buy,Hold,up,VNET

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-08-07,Barclays,Overweight,,main,RRD
+2012-11-02,CL King,Neutral,Strong Buy,down,RRD
+2013-03-20,Benchmark,Buy,,main,RRD
+2013-03-25,Sidoti & Co.,Buy,,init,RRD
+2013-07-31,Benchmark,Hold,Buy,down,RRD
+2013-08-01,Barclays,Equal-Weight,Overweight,down,RRD
+2013-11-25,Benchmark,Buy,Hold,up,RRD
+2014-11-10,Benchmark,Hold,Buy,down,RRD
+2015-03-16,Sidoti & Co.,,Buy,down,RRD
+2015-03-31,Benchmark,Buy,Hold,up,RRD
+2015-07-20,Sidoti & Co.,Buy,Neutral,up,RRD
+2018-06-25,Buckingham,Neutral,,init,RRD
+2018-08-02,Buckingham,Neutral,Neutral,main,RRD
+2018-09-04,Buckingham,Buy,Neutral,up,RRD

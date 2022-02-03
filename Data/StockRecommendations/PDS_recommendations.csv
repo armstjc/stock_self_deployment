@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-09-13,Wells Fargo,Outperform,Market Perform,up,PDS
+2012-10-03,Jefferies,Buy,,main,PDS
+2012-10-17,Morgan Stanley,Underweight,,init,PDS
+2012-10-26,BMO Capital,Outperform,,main,PDS
+2012-11-06,Jefferies,Hold,Buy,down,PDS
+2013-01-07,Scotia Howard Weil,Sector Perform,,down,PDS
+2013-01-22,TD Securities,Buy,,main,PDS
+2013-01-24,Raymond James,Market Perform,Outperform,down,PDS
+2013-02-15,Raymond James,Outperform,Market Perform,up,PDS
+2013-02-22,Jefferies,Hold,,main,PDS
+2013-07-26,BMO Capital,Outperform,,main,PDS
+2013-07-29,Jefferies,Hold,,main,PDS
+2013-08-12,Tudor Pickering,Hold,Accumulate,down,PDS
+2013-12-06,Jefferies,Buy,Hold,up,PDS
+2013-12-06,Raymond James,Outperform,Market Perform,up,PDS
+2014-04-16,Morgan Stanley,Overweight,Underweight,up,PDS
+2014-04-29,BMO Capital,Outperform,,main,PDS
+2014-04-29,Jefferies,Buy,,main,PDS
+2014-06-19,Clarksons Platou,Outperform,,init,PDS
+2014-07-25,Jefferies,Buy,,main,PDS
+2014-11-18,Jefferies,Buy,,main,PDS
+2015-02-02,Jefferies,Hold,,down,PDS
+2015-02-13,Jefferies,Hold,,main,PDS
+2015-03-27,Deutsche Bank,Hold,Buy,down,PDS
+2015-04-13,Jefferies,Underperform,Hold,down,PDS
+2015-04-21,Scotiabank,Sector Perform,Outperform,down,PDS
+2015-05-29,JP Morgan,Neutral,,init,PDS
+2015-07-24,Scotiabank,Outperform,Sector Perform,up,PDS
+2015-09-04,Credit Suisse,Neutral,,main,PDS
+2016-01-29,Canaccord Genuity,Hold,,init,PDS
+2016-02-02,Raymond James,Market Perform,Outperform,down,PDS
+2016-03-21,TD Securities,Buy,,main,PDS
+2016-04-19,Morgan Stanley,Overweight,,main,PDS
+2016-04-20,Raymond James,Underperform,Market Perform,down,PDS
+2016-04-25,Morgan Stanley,Overweight,,main,PDS
+2016-05-31,Raymond James,Market Perform,,up,PDS
+2016-06-01,Credit Suisse,Underperform,Neutral,down,PDS
+2016-07-11,Jefferies,Underweight,,main,PDS
+2016-09-06,Jefferies,Hold,Underperform,up,PDS
+2016-09-15,DA Davidson,Buy,,init,PDS
+2016-10-24,Scotiabank,Sector Perform,Underperform,up,PDS
+2016-12-08,Wolfe Research,Outperform,,up,PDS
+2016-12-14,Citigroup,Neutral,,init,PDS
+2017-01-04,Credit Suisse,Neutral,Underperform,up,PDS
+2017-01-13,Raymond James,Underperform,Market Perform,down,PDS
+2017-01-19,Deutsche Bank,Buy,Hold,up,PDS
+2017-02-22,Scotiabank,Sector Perform,Underperform,up,PDS
+2017-04-11,Jefferies,Buy,Hold,up,PDS
+2017-04-26,Raymond James,Outperform,Market Perform,up,PDS
+2017-06-21,Morgan Stanley,Equal-Weight,Overweight,down,PDS
+2017-06-29,PiperJaffray,Neutral,Overweight,down,PDS
+2017-09-12,JP Morgan,Neutral,Overweight,down,PDS
+2017-09-18,PiperJaffray,Overweight,Neutral,up,PDS
+2017-10-10,Deutsche Bank,Hold,,init,PDS
+2018-02-27,Credit Suisse,Neutral,Neutral,main,PDS
+2018-04-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,PDS
+2018-07-12,Morgan Stanley,Overweight,Equal-Weight,up,PDS
+2018-07-27,Credit Suisse,Neutral,Neutral,main,PDS
+2018-11-05,Credit Suisse,Neutral,Neutral,main,PDS
+2018-11-29,Scotiabank,Underperform,Sector Perform,down,PDS
+2019-03-15,Jefferies,Hold,Buy,down,PDS
+2019-07-12,Morgan Stanley,Overweight,,main,PDS
+2019-07-30,Piper Jaffray,Overweight,,main,PDS
+2019-09-30,Citi,Neutral,Buy,down,PDS
+2019-10-07,Morgan Stanley,Overweight,,main,PDS
+2019-10-23,ScotiaBank,Sector Underperform,Sector Perform,down,PDS
+2019-11-21,Wolfe Research,Peer Perform,,init,PDS
+2020-04-15,Piper Sandler,Neutral,Overweight,down,PDS
+2020-05-28,Piper Sandler,Neutral,,main,PDS
+2020-07-08,Morgan Stanley,Equal-Weight,,main,PDS
+2021-03-25,Morgan Stanley,Equal-Weight,,main,PDS

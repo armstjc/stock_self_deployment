@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2012-11-12,Bank of America,Buy,,main,SFUN
+2012-11-12,Goldman Sachs,Buy,,main,SFUN
+2012-12-10,Bank of America,Buy,,main,SFUN
+2013-01-09,Bank of America,Buy,,main,SFUN
+2013-01-28,Goldman Sachs,Neutral,Buy,down,SFUN
+2013-02-11,Citigroup,Buy,,main,SFUN
+2013-04-03,Deutsche Bank,Buy,,main,SFUN
+2013-04-04,Glaucus Research,,,init,SFUN
+2013-08-30,JP Morgan,Overweight,,init,SFUN
+2013-11-08,Citigroup,Buy,,main,SFUN
+2013-11-15,Credit Suisse,Outperform,,init,SFUN
+2014-03-10,Morgan Stanley,Overweight,,init,SFUN
+2014-04-02,Brean Capital,Buy,,init,SFUN
+2014-04-16,Goldman Sachs,Buy,Neutral,up,SFUN
+2014-06-12,Deutsche Bank,Hold,Buy,down,SFUN
+2014-06-13,JP Morgan,Neutral,,main,SFUN
+2014-06-16,JP Morgan,Neutral,Overweight,down,SFUN
+2014-08-08,Macquarie,Neutral,,main,SFUN
+2014-11-03,TH Capital,Hold,Buy,down,SFUN
+2014-11-07,Brean Capital,Buy,,main,SFUN
+2014-11-07,Morgan Stanley,Overweight,,main,SFUN
+2015-02-04,JP Morgan,Overweight,Neutral,up,SFUN
+2015-05-12,Deutsche Bank,Hold,Buy,down,SFUN
+2015-05-21,Brean Capital,Hold,Buy,down,SFUN
+2015-06-22,Barclays,Overweight,,init,SFUN
+2015-06-22,Macquarie,Outperform,Neutral,up,SFUN
+2015-08-10,CLSA,Outperform,Buy,down,SFUN
+2015-10-19,CLSA,Outperform,Buy,down,SFUN
+2015-11-29,Goldman Sachs,Neutral,Buy,down,SFUN
+2016-03-21,Morgan Stanley,Overweight,Equal-Weight,up,SFUN
+2016-06-07,Brean Capital,Hold,,init,SFUN
+2016-08-10,Nomura,Buy,,main,SFUN
+2016-08-26,CLSA,Sell,Neutral,down,SFUN
+2016-08-26,CLSA,Sell,Underperform,down,SFUN
+2016-11-29,Nomura,Reduce,Buy,down,SFUN
+2016-11-30,JP Morgan,Neutral,,main,SFUN
+2016-12-14,Deutsche Bank,Sell,Hold,down,SFUN
+2017-02-24,Morgan Stanley,Equal-Weight,Overweight,down,SFUN
+2017-04-18,Benchmark,Hold,,init,SFUN
+2018-08-29,JP Morgan,Neutral,Neutral,main,SFUN
+2018-08-29,Credit Suisse,Neutral,Outperform,down,SFUN
+2018-12-03,Credit Suisse,Underperform,Neutral,down,SFUN
+2019-02-19,Bank of America,Underperform,Buy,down,SFUN
+2019-06-25,Bank of America,Underperform,,main,SFUN
