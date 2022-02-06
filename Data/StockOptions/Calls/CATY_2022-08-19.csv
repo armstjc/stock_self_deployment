@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CATY220819C00045000,2021-12-20 14:43:14+00:00,45.0,3.0,2.8,6.0,0.0,0.0,,9,0.39063109375,True,REGULAR,USD,CATY
+CATY220819C00045000,2021-12-20 14:43:14+00:00,45.0,3.0,2.8,6.0,0.0,0.0,,9,0.38611453735351553,True,REGULAR,USD,CATY

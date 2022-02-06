@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGIO220819C00030000,2021-12-28 19:29:15+00:00,30.0,7.86,6.1,7.8,0.0,0.0,,2,0.7976094458007812,True,REGULAR,USD,AGIO
+AGIO220819C00030000,2021-12-28 19:29:15+00:00,30.0,7.86,6.1,7.8,0.0,0.0,,2,0.8835460864257811,False,REGULAR,USD,AGIO

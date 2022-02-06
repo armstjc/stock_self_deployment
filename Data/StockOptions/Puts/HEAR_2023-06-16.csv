@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HEAR230616P00015000,2021-12-23 14:30:17+00:00,15.0,1.45,0.0,5.0,0.0,0.0,1,1,0.5981485498046876,False,REGULAR,USD,HEAR
+HEAR230616P00015000,2021-12-23 14:30:17+00:00,15.0,1.45,0.0,5.0,0.0,0.0,1,1,0.5759319750976561,False,REGULAR,USD,HEAR

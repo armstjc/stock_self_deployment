@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-ALGN,"Align Technology, Inc.",505.62,Healthcare,Stocks,NMS,ALIN
-LIN,Linde plc,322.29,Basic Materials,Stocks,NYQ,ALIN
-BLIN,"Bridgeline Digital, Inc.",2.05,Technology,Stocks,NCM,ALIN
-ALZN,"Alzamend Neuro, Inc.",1.51,Healthcare,Stocks,NCM,ALIN
-ALIT,"Alight, Inc.",9.59,Technology,Stocks,NYQ,ALIN
-AFIN,"American Finance Trust, Inc.",8.25,Real Estate,Stocks,NMS,ALIN
-ALRN,"Aileron Therapeutics, Inc.",0.46,Healthcare,Stocks,NCM,ALIN
-PLIN,"China Xiangtai Food Co., Ltd.",1.18,Consumer Defensive,Stocks,NCM,ALIN
-ALSN,"Allison Transmission Holdings,",39.14,Consumer Cyclical,Stocks,NYQ,ALIN
-ALIM,"Alimera Sciences, Inc.",4.41,Healthcare,Stocks,NGM,ALIN
-ALPN,"Alpine Immune Sciences, Inc.",7.53,Healthcare,Stocks,NGM,ALIN
-AIN,Albany International Corporatio,85.06,Consumer Cyclical,Stocks,NYQ,ALIN
-1150.SR,Alinma Bank,29.55,Financial Services,Stocks,SAU,ALIN
+ALGN,"Align Technology, Inc.",489.86,Healthcare,Stocks,NMS,ALIN
+LIN,Linde plc,297.98,Basic Materials,Stocks,NYQ,ALIN
+BLIN,"Bridgeline Digital, Inc.",1.98,Technology,Stocks,NCM,ALIN
+ALZN,"Alzamend Neuro, Inc.",1.36,Healthcare,Stocks,NCM,ALIN
+AFIN,"American Finance Trust, Inc.",8.08,Real Estate,Stocks,NMS,ALIN
+ALIT,"Alight, Inc.",9.55,Technology,Stocks,NYQ,ALIN
+ALRN,"Aileron Therapeutics, Inc.",0.44,Healthcare,Stocks,NCM,ALIN
+ALSN,"Allison Transmission Holdings,",38.58,Consumer Cyclical,Stocks,NYQ,ALIN
+ALPN,"Alpine Immune Sciences, Inc.",7.59,Healthcare,Stocks,NGM,ALIN
+ALIM,"Alimera Sciences, Inc.",4.3,Healthcare,Stocks,NGM,ALIN
+PLIN,"China Xiangtai Food Co., Ltd.",1.2,Consumer Defensive,Stocks,NCM,ALIN
+AIN,Albany International Corporatio,84.86,Consumer Cyclical,Stocks,NYQ,ALIN
 GLIN,GLIN,21.94,,Stocks,NYQ,ALIN
-FLIN,Franklin FTSE India ETF,32.27,,ETF,PCX,ALIN
-ALID,ALLIED CORP,1.83,Healthcare,Stocks,PNK,ALIN
-GLIN,VanEck India Growth Leaders ETF,40.76,,ETF,PCX,ALIN
-AAIN,Arlington Asset Investment Corp,24.87,,Stocks,NYQ,ALIN
+ALID,ALLIED CORP,1.78,Healthcare,Stocks,PNK,ALIN
+FLIN,Franklin FTSE India ETF,31.72,,ETF,PCX,ALIN
+1150.SR,Alinma Bank,29.4,Financial Services,Stocks,SAU,ALIN
+GLIN,VanEck India Growth Leaders ETF,40.29,,ETF,PCX,ALIN
+AAIN,Arlington Asset Investment Corp,24.9,,Stocks,NYQ,ALIN
 AGIN,AMERICAN GRAPHITE TECHNOLOGIES,0.01,Financial Services,Stocks,PNK,ALIN
 ALIF,ARTIFICIAL LIFE INC,0.0,Technology,Stocks,PNK,ALIN
-8312.SR,Alinma Tokio Marine Co.,30.95,Financial Services,Stocks,SAU,ALIN
-ALAN,ALANCO TECHNOLOGIES INC,0.01,Industrials,Stocks,PNK,ALIN
+ALNA.L,Alina Holdings Plc,18.45,Real Estate,Stocks,LSE,ALIN
 ALNA.L,Alina Holdings Plc,18.5,,Mutual Fund,LSE,ALIN
-ALCN,ATLANTIC CENTRAL ENTERPRISES,0.0,,Stocks,PNK,ALIN
 AMIN,AMERICAN INTERNATIONAL INDS INC,0.05,Industrials,Stocks,PNK,ALIN
+9404.SR,Alinma Saudi Government Sukuk E,100.8,,ETF,SAU,ALIN
+TSN.F,"ALINA HOLDINGS LS 0,01",0.2,Real Estate,Stocks,FRA,ALIN

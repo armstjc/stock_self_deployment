@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WB220211C00032000,2021-12-31 15:45:29+00:00,32.0,1.8,2.2,2.5,0.0,0.0,130,120,0.7949239257812499,True,REGULAR,USD,WB
+WB220211C00032000,2021-12-31 15:45:29+00:00,32.0,1.8,2.2,2.5,0.0,0.0,130,120,1.2392616162109373,True,REGULAR,USD,WB

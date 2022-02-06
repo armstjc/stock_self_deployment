@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZKIN220819P00002500,2021-12-30 16:47:35+00:00,2.5,1.45,1.0,1.75,0.0,0.0,,1,1.2695349023437497,True,REGULAR,USD,ZKIN
+ZKIN220819P00002500,2021-12-30 16:47:35+00:00,2.5,1.45,1.0,1.75,0.0,0.0,,1,1.2578162109375,True,REGULAR,USD,ZKIN

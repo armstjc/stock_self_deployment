@@ -76,8 +76,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-08-13,Argus,Buy,Buy,main,ADP
 2018-08-21,Guggenheim,Buy,,init,ADP
 2018-10-02,Jefferies,Hold,,init,ADP
-2018-11-01,Citigroup,Neutral,Neutral,main,ADP
 2018-11-01,BMO Capital,Market Perform,Market Perform,main,ADP
+2018-11-01,Citigroup,Neutral,Neutral,main,ADP
 2018-11-15,Barclays,Overweight,,init,ADP
 2019-05-02,Citigroup,Neutral,Neutral,main,ADP
 2019-05-06,Barclays,Overweight,Overweight,main,ADP
@@ -93,9 +93,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-14,Citigroup,Neutral,,main,ADP
 2020-04-15,JP Morgan,Neutral,,main,ADP
 2020-04-29,CFRA,Hold,,main,ADP
-2020-04-30,Stifel,Hold,,main,ADP
 2020-04-30,Morgan Stanley,Equal-Weight,,main,ADP
 2020-04-30,BMO Capital,Market Perform,,main,ADP
+2020-04-30,Stifel,Hold,,main,ADP
 2020-05-18,B of A Securities,Underperform,Neutral,down,ADP
 2020-07-14,Goldman Sachs,Sell,,init,ADP
 2020-07-30,Stifel,Hold,,main,ADP
@@ -122,3 +122,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-02,Mizuho,Buy,,main,ADP
 2021-11-16,Morgan Stanley,Equal-Weight,,main,ADP
 2021-12-01,Citigroup,Neutral,,main,ADP
+2022-01-27,Deutsche Bank,Hold,,main,ADP
+2022-01-27,Morgan Stanley,Equal-Weight,,main,ADP

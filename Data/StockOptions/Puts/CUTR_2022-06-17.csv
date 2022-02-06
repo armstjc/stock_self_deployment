@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CUTR220617P00025000,2022-01-11 15:28:20+00:00,25.0,1.4,0.55,2.25,0.0,0.0,1,1,0.7026396923828125,False,REGULAR,USD,CUTR

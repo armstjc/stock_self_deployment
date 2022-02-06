@@ -17,10 +17,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-10-08,SunTrust Robinson Humphrey,Neutral,,init,APH
 2014-01-22,Cross Research,Hold,Buy,down,APH
 2014-04-24,UBS,Neutral,,main,APH
-2014-04-24,Jefferies,Hold,,main,APH
 2014-04-24,Citigroup,Buy,,main,APH
-2014-07-24,Macquarie,Outperform,,main,APH
+2014-04-24,Jefferies,Hold,,main,APH
 2014-07-24,Deutsche Bank,Buy,,main,APH
+2014-07-24,Macquarie,Outperform,,main,APH
 2014-09-02,UBS,Neutral,,main,APH
 2014-09-04,Macquarie,Outperform,,main,APH
 2014-09-10,Morgan Stanley,Equal-Weight,,init,APH
@@ -79,3 +79,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-15,Morgan Stanley,Equal-Weight,,main,APH
 2022-01-07,Cowen & Co.,Market Perform,Outperform,down,APH
 2022-01-10,Goldman Sachs,Buy,,main,APH
+2022-01-27,Morgan Stanley,Equal-Weight,,main,APH

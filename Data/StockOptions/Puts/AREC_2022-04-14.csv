@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AREC220414P00002500,2022-02-02 16:06:52+00:00,2.5,0.95,0.95,1.05,0.050000012,5.5555573,30,2577,1.609376953125,True,REGULAR,USD,AREC
+AREC220414P00002500,2021-12-31 16:15:58+00:00,2.5,1.0,0.9,1.05,0.0,0.0,50,1547,1.5234398828124998,True,REGULAR,USD,AREC

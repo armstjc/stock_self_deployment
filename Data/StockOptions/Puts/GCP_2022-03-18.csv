@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GCP220318P00030000,2021-12-13 17:16:53+00:00,30.0,0.3,0.0,0.35,0.0,0.0,4,9,0.24463645996093752,False,REGULAR,USD,GCP
+GCP220318P00030000,2021-12-13 17:16:53+00:00,30.0,0.3,0.0,0.35,0.0,0.0,4,9,0.24414818359375,False,REGULAR,USD,GCP

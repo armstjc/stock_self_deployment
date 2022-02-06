@@ -109,8 +109,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-02,MKM Partners,Neutral,Buy,down,CPE
 2021-03-09,Johnson Rice,Accumulate,Hold,up,CPE
 2021-03-11,Morgan Stanley,Equal-Weight,,main,CPE
-2021-05-19,Wells Fargo,Underweight,,main,CPE
 2021-05-19,Morgan Stanley,Equal-Weight,,main,CPE
+2021-05-19,Wells Fargo,Underweight,,main,CPE
 2021-06-10,RBC Capital,Sector Perform,Outperform,down,CPE
 2021-06-18,Morgan Stanley,Equal-Weight,,main,CPE
 2021-07-13,Wells Fargo,Underweight,,main,CPE
@@ -123,3 +123,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-19,Morgan Stanley,Equal-Weight,,main,CPE
 2021-11-19,Wells Fargo,Equal-Weight,Underweight,up,CPE
 2021-12-13,Morgan Stanley,Equal-Weight,,main,CPE
+2022-01-21,JP Morgan,Underweight,Neutral,down,CPE
+2022-01-25,Morgan Stanley,Equal-Weight,,main,CPE

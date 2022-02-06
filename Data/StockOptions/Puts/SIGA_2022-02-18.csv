@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIGA220218P00007500,2022-01-14 20:39:51+00:00,7.5,0.8,0.7,1.15,0.0,0.0,2,27,0.7187528125,True,REGULAR,USD,SIGA
+SIGA220218P00007500,2022-01-14 20:39:51+00:00,7.5,0.8,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,SIGA

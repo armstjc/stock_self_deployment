@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UXIN220819P00002000,2021-12-27 18:45:18+00:00,2.0,0.9,0.45,1.4,0.0,0.0,3,4,0.804689453125,True,REGULAR,USD,UXIN
+UXIN220819P00002000,2021-12-27 18:45:18+00:00,2.0,0.9,0.45,1.4,0.0,0.0,3,4,0.8554701953125,True,REGULAR,USD,UXIN

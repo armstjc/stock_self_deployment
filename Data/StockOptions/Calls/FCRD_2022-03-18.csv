@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCRD220318C00005000,2021-12-23 15:11:30+00:00,5.0,0.05,0.0,0.1,0.0,0.0,15,156,0.414068359375,False,REGULAR,USD,FCRD
+FCRD220318C00005000,2021-12-23 15:11:30+00:00,5.0,0.05,0.0,0.1,0.0,0.0,15,156,0.4335994140625,False,REGULAR,USD,FCRD

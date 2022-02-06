@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USAP220414P00012500,2022-01-04 18:46:00+00:00,12.5,4.0,3.7,6.3,0.0,0.0,30,0,1.8037119189453121,True,REGULAR,USD,USAP
+USAP220414P00012500,2022-01-04 18:46:00+00:00,12.5,4.0,2.9,5.4,0.0,0.0,30,0,1.0361376318359379,True,REGULAR,USD,USAP

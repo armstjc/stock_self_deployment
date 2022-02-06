@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TOWN220218C00035000,2021-12-29 18:03:32+00:00,35.0,0.25,0.0,1.8,0.0,0.0,1,5,0.850587431640625,False,REGULAR,USD,TOWN
+TOWN220218C00035000,2022-01-28 14:40:18+00:00,35.0,0.2,0.0,0.0,0.0,0.0,20,0,0.12500875,False,REGULAR,USD,TOWN

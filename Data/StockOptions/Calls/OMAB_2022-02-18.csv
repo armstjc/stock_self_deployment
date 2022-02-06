@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OMAB220218C00055000,2021-12-27 14:30:43+00:00,55.0,2.2,0.5,4.6,0.0,0.0,,3,0.9038095556640625,True,REGULAR,USD,OMAB
+OMAB220218C00055000,2021-12-27 14:30:43+00:00,55.0,2.2,0.5,4.6,0.0,0.0,,3,0.9272468212890624,True,REGULAR,USD,OMAB

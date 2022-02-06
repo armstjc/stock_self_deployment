@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DOOO220819P00040000,2022-01-27 17:43:59+00:00,40.0,0.6,0.05,0.95,0.0,0.0,,25,0.5898478515625001,False,REGULAR,USD,DOOO
+DOOO220819P00040000,2022-01-27 17:43:59+00:00,40.0,0.6,0.05,1.2,0.0,0.0,,25,0.6035195898437502,False,REGULAR,USD,DOOO

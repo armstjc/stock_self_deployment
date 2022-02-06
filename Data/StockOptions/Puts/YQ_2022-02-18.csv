@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YQ220218P00002500,2021-11-03 13:34:20+00:00,2.5,1.67,0.0,4.8,0.0,0.0,1,0,17.81250443359375,True,REGULAR,USD,YQ
+YQ220218P00002500,2022-01-24 14:33:07+00:00,2.5,1.55,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,YQ

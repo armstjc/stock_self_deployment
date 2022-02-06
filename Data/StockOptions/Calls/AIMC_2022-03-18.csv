@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIMC220318C00050000,2022-01-27 15:51:50+00:00,50.0,2.4,0.85,3.2,0.0,0.0,,1,0.5773968041992188,False,REGULAR,USD,AIMC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TMQ220617P00002500,2021-12-27 17:55:32+00:00,2.5,0.94,0.7,1.1,0.0,0.0,1,244,0.9062509375,True,REGULAR,USD,TMQ
+TMQ220617P00002500,2021-12-27 17:55:32+00:00,2.5,0.94,0.7,1.1,0.0,0.0,1,244,0.937500625,True,REGULAR,USD,TMQ

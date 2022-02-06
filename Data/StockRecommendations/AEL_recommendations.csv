@@ -8,8 +8,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-01-09,FBR Capital,Market Perform,Outperform,down,AEL
 2014-02-14,Sandler O'Neill,Buy,Hold,up,AEL
 2014-11-11,FBR Capital,Market Perform,Outperform,down,AEL
-2015-08-10,Raymond James,Outperform,Market Perform,up,AEL
 2015-08-10,FBR Capital,Outperform,Market Perform,up,AEL
+2015-08-10,Raymond James,Outperform,Market Perform,up,AEL
 2015-08-31,Raymond James,Outperform,,main,AEL
 2016-01-08,JP Morgan,Neutral,,init,AEL
 2016-01-29,RBC Capital,Outperform,,init,AEL
@@ -63,3 +63,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2022-01-07,Morgan Stanley,Equal-Weight,,main,AEL
 2022-01-10,Raymond James,Outperform,,main,AEL
 2022-01-12,RBC Capital,Outperform,,main,AEL
+2022-01-26,Jefferies,Hold,,init,AEL

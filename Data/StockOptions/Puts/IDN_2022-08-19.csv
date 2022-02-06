@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IDN220819P00005000,2022-01-05 17:00:41+00:00,5.0,0.85,0.9,1.15,-0.25,-22.727272,4,10,0.32617861328125,True,REGULAR,USD,IDN
+IDN220819P00005000,2022-01-05 17:00:41+00:00,5.0,0.85,0.9,1.15,-0.25,-22.727272,4,10,1.0000000000000003e-05,True,REGULAR,USD,IDN

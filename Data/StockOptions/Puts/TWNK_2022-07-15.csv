@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TWNK220715P00020000,2021-12-30 16:52:51+00:00,20.0,1.5,1.05,1.5,0.0,0.0,1,68,0.3149482568359374,False,REGULAR,USD,TWNK
+TWNK220715P00020000,2021-12-30 16:52:51+00:00,20.0,1.5,1.05,1.5,0.0,0.0,1,68,0.32520206054687495,False,REGULAR,USD,TWNK

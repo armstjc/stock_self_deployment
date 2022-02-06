@@ -1,0 +1,161 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2011-12-30,Guggenheim,Sell,,down,LMT
+2012-04-11,Deutsche Bank,Hold,,main,LMT
+2012-04-27,Credit Suisse,Neutral,,main,LMT
+2012-04-27,JP Morgan,Neutral,,main,LMT
+2012-07-17,Citigroup,Buy,,main,LMT
+2012-07-18,Deutsche Bank,Hold,,main,LMT
+2012-09-13,UBS,Neutral,,main,LMT
+2012-10-16,Citigroup,Buy,,main,LMT
+2012-10-25,Deutsche Bank,Hold,,main,LMT
+2012-11-05,Barclays,Equal-Weight,,main,LMT
+2012-11-26,Bernstein,Outperform,Market Perform,up,LMT
+2012-11-30,CRT Capital,Fair Value,Sell,up,LMT
+2013-01-09,Citigroup,Buy,,main,LMT
+2013-01-25,Deutsche Bank,Hold,,main,LMT
+2013-01-25,Credit Suisse,Neutral,,main,LMT
+2013-01-25,Jefferies,Hold,,main,LMT
+2013-01-29,Bank of America,Underperform,,main,LMT
+2013-02-14,Cowen & Co.,Neutral,Outperform,down,LMT
+2013-04-11,Drexel Hamilton,Hold,Sell,up,LMT
+2013-04-23,Drexel Hamilton,Buy,Hold,up,LMT
+2013-05-30,Goldman Sachs,Buy,Neutral,up,LMT
+2013-07-10,Deutsche Bank,Hold,,main,LMT
+2013-07-24,Bank of America,Neutral,Underperform,up,LMT
+2013-07-24,Jefferies,Hold,,main,LMT
+2013-08-19,UBS,Sell,Neutral,down,LMT
+2013-09-05,RBC Capital,Sector Perform,Outperform,down,LMT
+2013-10-31,Jefferies,Hold,,main,LMT
+2013-11-15,Jefferies,Hold,,main,LMT
+2014-01-07,Bank of America,Buy,Neutral,up,LMT
+2014-01-24,Citigroup,Buy,,main,LMT
+2014-03-05,Morgan Stanley,Overweight,,init,LMT
+2014-04-07,Deutsche Bank,Hold,,main,LMT
+2014-04-09,Citigroup,Buy,,main,LMT
+2014-04-23,JP Morgan,Neutral,,main,LMT
+2014-04-23,Credit Suisse,Neutral,,main,LMT
+2014-06-19,FBR Capital,Outperform,,main,LMT
+2014-07-23,JP Morgan,Neutral,,main,LMT
+2014-07-23,Deutsche Bank,Hold,,main,LMT
+2014-07-23,Citigroup,Buy,,main,LMT
+2014-08-11,Barclays,Equal-Weight,,main,LMT
+2014-09-30,Stifel,Buy,Hold,up,LMT
+2014-10-23,Argus,Buy,Hold,up,LMT
+2014-11-10,Barclays,Equal-Weight,,main,LMT
+2014-12-01,Jefferies,Hold,,main,LMT
+2014-12-19,Citigroup,Buy,,main,LMT
+2015-01-05,Deutsche Bank,Hold,,main,LMT
+2015-01-28,Jefferies,Hold,,main,LMT
+2015-01-28,JP Morgan,Neutral,,main,LMT
+2015-01-29,Citigroup,Buy,,main,LMT
+2015-02-12,Barclays,Equal-Weight,,main,LMT
+2015-03-19,Deutsche Bank,Hold,,main,LMT
+2015-04-15,Citigroup,Buy,,main,LMT
+2015-06-01,Buckingham Research,Buy,Neutral,up,LMT
+2015-07-14,JP Morgan,Overweight,,init,LMT
+2015-07-21,Citigroup,Buy,,main,LMT
+2015-07-21,Barclays,Equal-Weight,,main,LMT
+2015-08-20,Sterne Agee CRT,Buy,Neutral,up,LMT
+2015-09-23,Bernstein,Market Perform,,main,LMT
+2015-10-21,Drexel Hamilton,Buy,,main,LMT
+2015-11-09,Barclays,Equal-Weight,,main,LMT
+2015-11-30,Barclays,Underweight,Equal-Weight,down,LMT
+2015-12-21,Deutsche Bank,Hold,,main,LMT
+2016-01-04,Goldman Sachs,Buy,,main,LMT
+2016-01-06,RBC Capital,Outperform,Sector Perform,up,LMT
+2016-01-20,Guggenheim,Buy,,init,LMT
+2016-01-27,Credit Suisse,Neutral,,main,LMT
+2016-01-27,Wolfe Research,Outperform,Peer Perform,up,LMT
+2016-02-16,Barclays,Underweight,,main,LMT
+2016-03-17,Berenberg,Buy,,init,LMT
+2016-05-02,Barclays,Underweight,,main,LMT
+2016-05-13,Stifel Nicolaus,Hold,Buy,down,LMT
+2016-05-19,RBC Capital,Sector Perform,Outperform,down,LMT
+2016-05-31,Berenberg,Hold,Buy,down,LMT
+2016-08-25,JP Morgan,Neutral,,init,LMT
+2016-09-06,Citigroup,Buy,,main,LMT
+2016-09-07,Citigroup,Buy,,main,LMT
+2016-09-19,Wells Fargo,Outperform,Market Perform,up,LMT
+2016-10-03,Barclays,Underweight,,main,LMT
+2016-10-06,Baird,Outperform,,init,LMT
+2016-11-09,Deutsche Bank,Buy,Hold,up,LMT
+2016-11-10,Barclays,Equal-Weight,Underweight,up,LMT
+2016-11-14,Stifel Nicolaus,Buy,Hold,up,LMT
+2016-12-05,Deutsche Bank,Buy,,main,LMT
+2017-01-12,RBC Capital,Sector Perform,,init,LMT
+2017-08-08,Morgan Stanley,Overweight,,init,LMT
+2017-10-05,Buckingham,Buy,,main,LMT
+2017-10-25,Credit Suisse,Neutral,,main,LMT
+2017-10-25,Stifel Nicolaus,Buy,,main,LMT
+2018-01-16,Wells Fargo,Market Perform,Outperform,down,LMT
+2018-01-30,Wells Fargo,Market Perform,Market Perform,main,LMT
+2018-01-30,Citigroup,Buy,Buy,main,LMT
+2018-01-30,Baird,Outperform,Outperform,main,LMT
+2018-01-30,Stifel Nicolaus,Buy,Buy,main,LMT
+2018-01-30,Credit Suisse,Neutral,Neutral,main,LMT
+2018-02-05,Buckingham,Buy,Buy,main,LMT
+2018-02-23,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-03-29,Barclays,Equal-Weight,,init,LMT
+2018-04-12,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-07-12,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-07-25,Stifel Nicolaus,Buy,Buy,main,LMT
+2018-07-25,Cowen & Co.,Outperform,Market Perform,up,LMT
+2018-07-25,Credit Suisse,Neutral,Neutral,main,LMT
+2018-07-25,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-07-25,Bank of America,Buy,Buy,main,LMT
+2018-07-26,Berenberg,Buy,Hold,up,LMT
+2018-08-16,UBS,Buy,,init,LMT
+2018-10-03,Credit Suisse,Neutral,Neutral,main,LMT
+2018-10-11,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-10-24,Credit Suisse,Neutral,Neutral,main,LMT
+2018-10-24,JP Morgan,Neutral,Neutral,main,LMT
+2018-10-24,Goldman Sachs,Conviction Buy,Neutral,up,LMT
+2018-11-14,Morgan Stanley,Overweight,Overweight,main,LMT
+2018-12-04,Barclays,Equal-Weight,Equal-Weight,main,LMT
+2019-01-10,Susquehanna,Positive,,init,LMT
+2019-01-10,Vertical Research,Buy,Hold,up,LMT
+2019-01-10,Morgan Stanley,Equal-Weight,Overweight,down,LMT
+2019-01-14,Citigroup,Buy,Buy,main,LMT
+2019-02-13,Morgan Stanley,Equal-Weight,Equal-Weight,main,LMT
+2019-04-24,UBS,Buy,Buy,main,LMT
+2019-04-24,Baird,Outperform,Outperform,main,LMT
+2019-05-16,Barclays,Equal-Weight,,main,LMT
+2019-06-14,Morgan Stanley,Equal-Weight,,main,LMT
+2019-07-10,UBS,Buy,,main,LMT
+2019-07-24,JP Morgan,Neutral,,main,LMT
+2019-07-24,Credit Suisse,Neutral,,main,LMT
+2019-07-25,DZ Bank,Hold,Buy,down,LMT
+2019-08-14,Morgan Stanley,Equal-Weight,,main,LMT
+2019-10-10,Credit Suisse,Neutral,,main,LMT
+2019-10-10,Morgan Stanley,Equal-Weight,,main,LMT
+2019-10-23,Credit Suisse,Neutral,,main,LMT
+2019-10-23,JP Morgan,Neutral,,main,LMT
+2019-10-23,Morgan Stanley,Equal-Weight,,main,LMT
+2019-11-07,Buckingham,Buy,,main,LMT
+2019-12-12,Morgan Stanley,Equal-Weight,,main,LMT
+2020-01-15,UBS,Buy,,main,LMT
+2020-01-29,Goldman Sachs,Buy,,main,LMT
+2020-01-29,Alembic Global,Neutral,Overweight,down,LMT
+2020-01-30,Stifel Nicolaus,Buy,,main,LMT
+2020-01-30,Morgan Stanley,Equal-Weight,,main,LMT
+2020-02-07,Buckingham,Buy,,main,LMT
+2020-03-24,Morgan Stanley,Equal-Weight,,main,LMT
+2020-03-25,DZ Bank,Buy,Hold,up,LMT
+2020-04-14,Morgan Stanley,Equal-Weight,,main,LMT
+2020-04-22,Credit Suisse,Neutral,,main,LMT
+2020-05-19,Seaport Global,Buy,,init,LMT
+2020-05-21,RBC Capital,Sector Perform,,init,LMT
+2020-06-11,UBS,Buy,,main,LMT
+2020-07-24,Argus Research,Buy,,main,LMT
+2020-09-08,Morgan Stanley,Overweight,,init,LMT
+2021-01-07,Morgan Stanley,Overweight,,main,LMT
+2021-01-07,Baird,Neutral,Outperform,down,LMT
+2021-02-08,Morgan Stanley,Overweight,,main,LMT
+2021-04-21,Morgan Stanley,Overweight,,main,LMT
+2021-05-13,Wells Fargo,Equal-Weight,,init,LMT
+2021-07-27,Credit Suisse,Neutral,,main,LMT
+2021-07-27,Wells Fargo,Equal-Weight,,main,LMT
+2021-09-23,Goldman Sachs,Neutral,Buy,down,LMT
+2021-09-29,Cowen & Co.,Market Perform,Outperform,down,LMT
+2021-11-01,B of A Securities,Neutral,Buy,down,LMT
+2021-11-04,Morgan Stanley,Overweight,,main,LMT

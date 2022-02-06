@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EGLX220819P00002500,2022-02-02 18:32:28+00:00,2.5,0.8,0.75,1.25,0.0,0.0,40,14,1.3164096679687498,True,REGULAR,USD,EGLX
-EGLX220819P00005000,2022-01-28 15:56:31+00:00,5.0,3.1,2.85,3.1,0.0,0.0,1,41,1.15625421875,True,REGULAR,USD,EGLX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PTE220520P00002500,2022-01-14 18:52:13+00:00,2.5,1.95,1.65,2.2,0.0,0.0,1,12,3.6406258984375004,True,REGULAR,USD,PTE
+PTE220520P00002500,2021-11-29 14:30:01+00:00,2.5,2.0,0.0,0.0,0.0,0.0,10,11,1.0000000000000003e-05,True,REGULAR,USD,PTE

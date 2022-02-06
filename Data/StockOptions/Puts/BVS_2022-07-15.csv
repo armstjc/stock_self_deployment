@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BVS220715P00012500,2021-12-13 05:00:04+00:00,12.5,1.75,0.0,1.85,0.0,0.0,,2,0.559574716796875,False,REGULAR,USD,BVS
+BVS220715P00012500,2021-12-13 05:00:04+00:00,12.5,1.75,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,BVS

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRVA221216P00020000,2021-10-20 18:45:50+00:00,20.0,3.3,0.2,4.7,0.0,0.0,3,4,0.6801789794921876,False,REGULAR,USD,PRVA
+PRVA221216P00020000,2021-10-20 18:45:50+00:00,20.0,3.3,0.2,4.7,0.0,0.0,3,4,0.7253445434570311,False,REGULAR,USD,PRVA

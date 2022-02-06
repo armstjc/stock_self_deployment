@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NOG230120C00020000,2022-01-05 16:52:38+00:00,20.0,6.34,4.0,7.6,-0.15999985,-2.461536,40,564,0.5795940478515625,True,REGULAR,USD,NOG
+NOG230120C00020000,2022-01-05 16:52:38+00:00,20.0,6.34,4.0,7.6,-0.15999985,-2.461536,40,564,0.5900919897460939,True,REGULAR,USD,NOG

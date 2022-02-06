@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIVB220520P00025000,2021-11-10 20:42:11+00:00,25.0,2.55,2.65,3.3,0.0,0.0,1,67,0.50586431640625,True,REGULAR,USD,CIVB
+CIVB220520P00025000,2021-11-10 20:42:11+00:00,25.0,2.55,2.65,3.3,0.0,0.0,1,67,0.5141650146484374,True,REGULAR,USD,CIVB

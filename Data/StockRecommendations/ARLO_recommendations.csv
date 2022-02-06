@@ -1,10 +1,10 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2018-08-28,Imperial Capital,Outperform,,init,ARLO
 2018-08-28,Cowen & Co.,Outperform,,init,ARLO
-2018-08-28,Deutsche Bank,Buy,,init,ARLO
 2018-08-28,Raymond James,Market Perform,,init,ARLO
 2018-08-28,Guggenheim,Neutral,,init,ARLO
 2018-08-28,Bank of America,Neutral,,init,ARLO
+2018-08-28,Imperial Capital,Outperform,,init,ARLO
+2018-08-28,Deutsche Bank,Buy,,init,ARLO
 2018-08-30,Guggenheim,Buy,Neutral,up,ARLO
 2019-02-06,Cowen & Co.,Market Perform,Outperform,down,ARLO
 2019-11-12,Deutsche Bank,Buy,,init,ARLO
@@ -15,3 +15,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-02-24,Raymond James,Outperform,,main,ARLO
 2021-05-06,Raymond James,Outperform,,main,ARLO
 2021-11-10,BWS Financial,Buy,,main,ARLO
+2022-01-25,Lake Street,Buy,,init,ARLO

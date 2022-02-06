@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MDVL220715C00002500,2022-01-05 20:59:28+00:00,2.5,0.2,0.15,0.35,-0.2,-50.0,14,289,1.2460975195312498,False,REGULAR,USD,MDVL
+MDVL220715C00002500,2022-01-05 20:59:28+00:00,2.5,0.2,0.15,0.35,-0.2,-50.0,14,289,1.3750031249999999,False,REGULAR,USD,MDVL

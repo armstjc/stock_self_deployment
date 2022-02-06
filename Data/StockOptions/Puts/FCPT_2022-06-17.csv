@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCPT220617P00025000,2021-12-31 19:27:21+00:00,25.0,0.9,0.05,4.5,0.0,0.0,2,10,0.5039112109375,False,REGULAR,USD,FCPT
+FCPT220617P00025000,2022-02-03 15:42:06+00:00,25.0,1.05,0.0,1.25,0.14999998,16.666664,11,10,0.3051827294921875,False,REGULAR,USD,FCPT

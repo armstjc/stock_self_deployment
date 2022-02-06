@@ -1,3 +1,5 @@
 Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-27,Deutsche Bank,Buy,,init,ASTR
 2021-10-04,B of A Securities,Underperform,,init,ASTR
+2022-01-19,B of A Securities,Neutral,Underperform,up,ASTR
+2022-01-27,Deutsche Bank,Buy,,main,ASTR

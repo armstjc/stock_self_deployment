@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AYTU220218P00002500,2022-01-28 14:55:37+00:00,2.5,1.42,0.75,1.55,0.0,0.0,1,11,5.609377988281249,True,REGULAR,USD,AYTU
+AYTU220218P00002500,2022-01-28 14:55:37+00:00,2.5,1.42,1.0,1.45,0.0,0.0,1,11,4.343754570312499,True,REGULAR,USD,AYTU

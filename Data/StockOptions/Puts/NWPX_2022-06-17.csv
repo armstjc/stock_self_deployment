@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NWPX220617P00015000,2022-01-04 15:15:47+00:00,15.0,0.1,0.0,4.8,0.0,0.0,2,9,1.5009790576171875,False,REGULAR,USD,NWPX
+NWPX220617P00015000,2022-01-04 15:15:47+00:00,15.0,0.1,0.0,4.8,0.0,0.0,2,9,1.4829127416992187,False,REGULAR,USD,NWPX

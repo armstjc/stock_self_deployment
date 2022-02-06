@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RDY220218P00060000,2021-12-17 15:09:26+00:00,60.0,3.3,0.0,3.0,0.0,0.0,1,1,0.4467828759765625,True,REGULAR,USD,RDY
+RDY220218P00060000,2021-12-17 15:09:26+00:00,60.0,3.3,0.0,3.0,0.0,0.0,1,1,0.40820904296875,True,REGULAR,USD,RDY

@@ -1,9 +1,9 @@
 Date,Firm,To Grade,From Grade,Action,ABV
 2012-05-03,Brean Capital,Buy,,main,AWK
-2012-08-03,Ladenburg Thalmann,Buy,,main,AWK
 2012-08-03,Barclays,Overweight,,main,AWK
-2012-08-03,Brean Capital,Buy,,main,AWK
+2012-08-03,Ladenburg Thalmann,Buy,,main,AWK
 2012-08-03,Hilliard Lyons,Buy,,main,AWK
+2012-08-03,Brean Capital,Buy,,main,AWK
 2012-08-06,Baird,Outperform,,up,AWK
 2012-08-07,Bank of America,Buy,,main,AWK
 2012-08-31,Citigroup,Buy,,main,AWK
@@ -44,16 +44,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-01-11,Bank of America,Neutral,Buy,down,AWK
 2018-02-22,Baird,Neutral,Neutral,main,AWK
 2018-02-22,Bank of America,Neutral,Neutral,main,AWK
-2018-02-26,Wells Fargo,Outperform,Market Perform,up,AWK
 2018-02-26,Wells Fargo,Outperform,Outperform,main,AWK
+2018-02-26,Wells Fargo,Outperform,Market Perform,up,AWK
 2018-03-08,UBS,Buy,,init,AWK
 2018-03-23,HSBC,Buy,Hold,up,AWK
 2018-03-23,UBS,Buy,Buy,main,AWK
 2018-04-16,Janney Capital,Buy,Neutral,up,AWK
 2018-09-17,Evercore ISI Group,Outperform,,init,AWK
 2018-12-06,Baird,Outperform,Neutral,up,AWK
-2018-12-12,Wells Fargo,Outperform,Outperform,main,AWK
 2018-12-12,Baird,Outperform,Outperform,main,AWK
+2018-12-12,Wells Fargo,Outperform,Outperform,main,AWK
 2019-02-21,Wells Fargo,Outperform,Outperform,main,AWK
 2019-02-21,Bank of America,Neutral,Neutral,reit,AWK
 2019-03-27,Wells Fargo,Market Perform,Outperform,down,AWK
@@ -85,3 +85,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-04,Goldman Sachs,Neutral,Buy,down,AWK
 2021-12-01,Wells Fargo,Underweight,Equal-Weight,down,AWK
 2021-12-08,Barclays,Equal-Weight,,main,AWK
+2022-01-05,UBS,Sell,Neutral,down,AWK
+2022-01-07,JP Morgan,Underweight,Neutral,down,AWK
+2022-01-19,Wells Fargo,Underweight,,main,AWK

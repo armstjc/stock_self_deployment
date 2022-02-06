@@ -33,8 +33,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-12-20,Barclays,Overweight,,main,BBBY
 2012-12-20,Deutsche Bank,Buy,,main,BBBY
 2012-12-20,Credit Suisse,Outperform,,main,BBBY
-2012-12-20,Morgan Stanley,Underweight,,main,BBBY
 2012-12-20,ISI Group,Hold,,main,BBBY
+2012-12-20,Morgan Stanley,Underweight,,main,BBBY
 2012-12-20,Bank of America,Neutral,Buy,down,BBBY
 2012-12-21,Citigroup,Neutral,,main,BBBY
 2013-01-08,Canaccord Genuity,Buy,,main,BBBY
@@ -45,35 +45,35 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-04-11,Credit Suisse,Outperform,,main,BBBY
 2013-04-11,Goldman Sachs,Sell,,main,BBBY
 2013-04-11,Morgan Stanley,Underweight,,main,BBBY
-2013-04-11,Canaccord Genuity,Buy,,main,BBBY
-2013-04-11,UBS,Neutral,,main,BBBY
 2013-04-11,Nomura,Neutral,,main,BBBY
+2013-04-11,UBS,Neutral,,main,BBBY
+2013-04-11,Canaccord Genuity,Buy,,main,BBBY
 2013-04-11,Standpoint Research,Hold,Buy,down,BBBY
 2013-04-12,Citigroup,Buy,,main,BBBY
 2013-04-17,Jefferies,Buy,,main,BBBY
 2013-05-03,Oppenheimer,Perform,Outperform,down,BBBY
 2013-05-08,ISI Group,,Neutral,down,BBBY
 2013-05-20,Jefferies,Hold,Buy,down,BBBY
-2013-06-05,Nomura,Buy,Neutral,up,BBBY
 2013-06-05,Morgan Stanley,Underweight,,main,BBBY
+2013-06-05,Nomura,Buy,Neutral,up,BBBY
 2013-06-21,Wedbush,Outperform,,main,BBBY
 2013-06-27,Deutsche Bank,Buy,,main,BBBY
 2013-06-27,Nomura,Buy,,main,BBBY
 2013-06-28,Bank of America,Buy,Neutral,up,BBBY
 2013-07-25,Oppenheimer,Outperform,Perform,up,BBBY
-2013-07-26,Deutsche Bank,Hold,Buy,down,BBBY
 2013-07-26,BB&T Capital,Hold,Buy,down,BBBY
+2013-07-26,Deutsche Bank,Hold,Buy,down,BBBY
 2013-10-30,Canaccord Genuity,Hold,Buy,down,BBBY
 2014-01-09,Gilford Securities,Neutral,Buy,down,BBBY
 2014-01-09,Credit Suisse,Neutral,Outperform,down,BBBY
 2014-01-29,Standpoint Research,Buy,Hold,up,BBBY
 2014-03-10,Canaccord Genuity,Hold,,main,BBBY
+2014-04-10,Credit Suisse,Neutral,,main,BBBY
 2014-04-10,JP Morgan,Neutral,,main,BBBY
 2014-04-10,Bank of America,Neutral,Buy,down,BBBY
 2014-04-10,Barclays,Overweight,,main,BBBY
 2014-04-10,Citigroup,Neutral,Buy,down,BBBY
 2014-04-10,Deutsche Bank,Hold,,main,BBBY
-2014-04-10,Credit Suisse,Neutral,,main,BBBY
 2014-04-11,Citigroup,Neutral,Buy,main,BBBY
 2014-06-10,Wolfe Research,Underperform,,down,BBBY
 2014-06-24,UBS,Neutral,,main,BBBY
@@ -117,9 +117,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-04-07,Citigroup,Sell,,main,BBBY
 2016-05-24,Topeka,Sell,,init,BBBY
 2016-06-15,UBS,Neutral,,main,BBBY
+2016-06-23,Goldman Sachs,Sell,,main,BBBY
 2016-06-23,Credit Suisse,Neutral,,main,BBBY
 2016-06-23,JP Morgan,Neutral,,main,BBBY
-2016-06-23,Goldman Sachs,Sell,,main,BBBY
 2016-09-22,UBS,Neutral,,main,BBBY
 2016-09-22,Citigroup,Sell,,main,BBBY
 2016-12-20,Loop Capital,Sell,,init,BBBY
@@ -140,12 +140,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-04-24,Wells Fargo,Underperform,,init,BBBY
 2018-08-14,Standpoint Research,Hold,Buy,down,BBBY
 2018-09-17,Raymond James,Market Perform,Underperform,up,BBBY
-2018-09-27,KeyBanc,Underweight,Underweight,main,BBBY
-2018-09-27,Citigroup,Sell,Sell,main,BBBY
 2018-09-27,Deutsche Bank,Hold,Hold,main,BBBY
+2018-09-27,KeyBanc,Underweight,Underweight,main,BBBY
 2018-09-27,Credit Suisse,Neutral,Neutral,main,BBBY
-2018-09-27,Bank of America,Underperform,Underperform,main,BBBY
 2018-09-27,JP Morgan,Underweight,Underweight,main,BBBY
+2018-09-27,Citigroup,Sell,Sell,main,BBBY
+2018-09-27,Bank of America,Underperform,Underperform,main,BBBY
 2018-09-28,Morgan Stanley,Underweight,Underweight,main,BBBY
 2018-10-01,Argus,Hold,Buy,down,BBBY
 2018-12-03,Citigroup,Sell,Sell,main,BBBY
@@ -159,8 +159,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-04-11,Deutsche Bank,Hold,Hold,main,BBBY
 2019-04-11,Wedbush,Neutral,Neutral,main,BBBY
 2019-04-11,UBS,Neutral,Neutral,main,BBBY
-2019-07-11,Citigroup,Neutral,,main,BBBY
 2019-07-11,Goldman Sachs,Sell,,init,BBBY
+2019-07-11,Citigroup,Neutral,,main,BBBY
 2019-07-12,Raymond James,Strong Buy,,main,BBBY
 2019-07-12,Morgan Stanley,Equal-Weight,,main,BBBY
 2019-08-09,Evercore ISI Group,In-Line,Underperform,up,BBBY
@@ -173,9 +173,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-12-17,Wedbush,Outperform,,main,BBBY
 2019-12-18,Loop Capital,Hold,,reit,BBBY
 2020-01-24,Odeon Capital,Buy,,init,BBBY
-2020-02-12,KeyBanc,Overweight,,main,BBBY
-2020-02-12,Loop Capital,Hold,,main,BBBY
 2020-02-12,Raymond James,Strong Buy,,main,BBBY
+2020-02-12,Loop Capital,Hold,,main,BBBY
+2020-02-12,KeyBanc,Overweight,,main,BBBY
 2020-03-20,KeyBanc,Sector Weight,Overweight,down,BBBY
 2020-03-23,Wells Fargo,Underweight,,main,BBBY
 2020-04-16,UBS,Neutral,,main,BBBY
@@ -187,8 +187,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-06-16,Wedbush,Outperform,,main,BBBY
 2020-06-26,B of A Securities,Buy,,main,BBBY
 2020-07-07,Raymond James,Strong Buy,,main,BBBY
-2020-07-09,Raymond James,Strong Buy,,main,BBBY
 2020-07-09,UBS,Neutral,,main,BBBY
+2020-07-09,Raymond James,Strong Buy,,main,BBBY
 2020-07-09,Morgan Stanley,Underweight,,main,BBBY
 2020-09-23,Raymond James,Strong Buy,,main,BBBY
 2020-09-24,Baird,Outperform,Neutral,up,BBBY
@@ -198,9 +198,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-10-29,Telsey Advisory Group,Outperform,Market Perform,up,BBBY
 2020-10-29,Morgan Stanley,Equal-Weight,Underweight,up,BBBY
 2021-01-26,Raymond James,Market Perform,Strong Buy,down,BBBY
-2021-01-27,Baird,Neutral,Outperform,down,BBBY
 2021-01-27,Standpoint Research,Hold,Buy,down,BBBY
 2021-01-27,Wedbush,Neutral,Outperform,down,BBBY
+2021-01-27,Baird,Neutral,Outperform,down,BBBY
 2021-01-28,B of A Securities,Neutral,Buy,down,BBBY
 2021-01-28,Telsey Advisory Group,Market Perform,Outperform,down,BBBY
 2021-02-01,KeyBanc,Underweight,Sector Weight,down,BBBY
@@ -216,9 +216,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-09,Credit Suisse,Neutral,,main,BBBY
 2021-07-13,Morgan Stanley,Equal-Weight,,main,BBBY
 2021-09-27,Telsey Advisory Group,Market Perform,,main,BBBY
+2021-10-01,Keybanc,Underweight,,main,BBBY
 2021-10-01,Credit Suisse,Neutral,,main,BBBY
 2021-10-01,Telsey Advisory Group,Market Perform,,main,BBBY
-2021-10-01,Keybanc,Underweight,,main,BBBY
 2021-10-04,Morgan Stanley,Equal-Weight,,main,BBBY
 2021-10-14,Morgan Stanley,Underweight,Equal-Weight,down,BBBY
 2021-10-14,Keybanc,Underweight,,main,BBBY
@@ -228,3 +228,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2022-01-05,Keybanc,Underweight,,main,BBBY
 2022-01-07,Telsey Advisory Group,Market Perform,,main,BBBY
 2022-01-07,Keybanc,Underweight,,main,BBBY
+2022-01-10,Goldman Sachs,Sell,,main,BBBY

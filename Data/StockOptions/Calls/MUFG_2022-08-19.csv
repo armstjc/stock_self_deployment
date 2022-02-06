@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MUFG220819C00007500,2022-01-05 20:00:51+00:00,7.5,0.08,0.05,0.1,-0.07000001,-46.66667,2,10,0.21680470703125,False,REGULAR,USD,MUFG
+MUFG220819C00007500,2022-01-05 20:00:51+00:00,7.5,0.08,0.05,0.1,-0.07000001,-46.66667,2,10,0.23438265625,False,REGULAR,USD,MUFG

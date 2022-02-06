@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WHF220414P00012500,2021-12-23 15:41:32+00:00,12.5,0.1,0.05,0.35,0.0,0.0,4,4,0.5556685058593751,False,REGULAR,USD,WHF
+WHF220414P00012500,2021-12-23 15:41:32+00:00,12.5,0.1,0.05,0.3,0.0,0.0,4,4,0.5224657128906249,False,REGULAR,USD,WHF

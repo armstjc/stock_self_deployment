@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGR220819P00040000,2021-12-16 14:30:02+00:00,40.0,1.15,0.0,4.6,0.0,0.0,,10,0.5893595751953126,False,REGULAR,USD,AGR
+AGR220819P00040000,2021-12-16 14:30:02+00:00,40.0,1.15,0.0,4.6,0.0,0.0,,10,0.5778850805664062,False,REGULAR,USD,AGR

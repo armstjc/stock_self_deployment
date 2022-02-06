@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLVT240119C00030000,2021-12-07 17:27:55+00:00,30.0,4.5,1.05,4.6,0.0,0.0,3,3,0.5839885351562499,False,REGULAR,USD,CLVT
+CLVT240119C00030000,2021-12-07 17:27:55+00:00,30.0,4.5,1.05,4.6,0.0,0.0,3,3,0.7199735034179688,False,REGULAR,USD,CLVT

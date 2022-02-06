@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRTS220715P00010000,2021-12-16 20:59:23+00:00,10.0,4.05,3.7,4.7,0.0,0.0,1,2,1.4013701806640624,True,REGULAR,USD,SRTS
+SRTS220715P00010000,2021-12-16 20:59:23+00:00,10.0,4.05,3.7,4.7,0.0,0.0,1,2,1.3925811621093749,True,REGULAR,USD,SRTS

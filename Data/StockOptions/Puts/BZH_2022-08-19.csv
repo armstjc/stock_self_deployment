@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BZH220819P00018000,2022-01-05 19:23:13+00:00,18.0,1.25,1.25,1.45,-0.20000005,-13.793106,20,5,0.305671005859375,False,REGULAR,USD,BZH
+BZH220819P00018000,2022-01-05 19:23:13+00:00,18.0,1.25,1.25,1.45,-0.20000005,-13.793106,20,5,0.2849192602539062,False,REGULAR,USD,BZH

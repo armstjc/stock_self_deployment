@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZION230120C00050000,2021-12-28 18:38:42+00:00,50.0,16.33,16.9,20.3,0.0,0.0,,41,0.28613995117187496,True,REGULAR,USD,ZION
+ZION230120C00050000,2021-12-28 18:38:42+00:00,50.0,16.33,16.9,20.3,0.0,0.0,,41,0.31519239501953117,True,REGULAR,USD,ZION

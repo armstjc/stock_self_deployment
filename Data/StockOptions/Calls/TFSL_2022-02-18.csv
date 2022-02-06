@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TFSL220218C00020000,2022-01-04 16:22:15+00:00,20.0,0.1,0.0,0.05,0.0,0.0,1,45,0.48828636718750007,False,REGULAR,USD,TFSL
+TFSL220218C00020000,2022-01-04 16:22:15+00:00,20.0,0.1,0.0,0.05,0.0,0.0,1,45,0.5117236328125,False,REGULAR,USD,TFSL

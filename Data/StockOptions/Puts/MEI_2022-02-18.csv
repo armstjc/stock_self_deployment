@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MEI220218P00040000,2022-01-28 17:42:46+00:00,40.0,0.85,0.15,1.0,0.0,0.0,15.0,36,0.5986368261718751,False,REGULAR,USD,MEI
-MEI220218P00045000,2022-01-18 05:07:07+00:00,45.0,0.7,1.4,1.8,0.0,0.0,,1,0.4155331884765625,True,REGULAR,USD,MEI

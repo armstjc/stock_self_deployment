@@ -28,8 +28,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-01-09,Bank of America,Buy,Neutral,up,ALB
 2014-04-09,Citigroup,Neutral,,main,ALB
 2014-04-21,Deutsche Bank,Hold,,main,ALB
-2014-07-09,Jefferies,Buy,,main,ALB
 2014-07-09,Citigroup,Neutral,,main,ALB
+2014-07-09,Jefferies,Buy,,main,ALB
 2014-07-15,Oppenheimer,Underperform,Market Perform,down,ALB
 2014-07-16,KeyBanc,Buy,,main,ALB
 2014-07-16,JP Morgan,Neutral,,main,ALB
@@ -66,9 +66,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-04-01,Deutsche Bank,Buy,,main,ALB
 2016-04-18,Citigroup,Buy,,main,ALB
 2016-05-12,Citigroup,Buy,,main,ALB
-2016-05-12,Deutsche Bank,Buy,,main,ALB
 2016-05-12,SunTrust Robinson Humphrey,Buy,,main,ALB
 2016-05-12,Jefferies,Buy,,main,ALB
+2016-05-12,Deutsche Bank,Buy,,main,ALB
 2016-07-15,Citigroup,Buy,,main,ALB
 2016-08-04,UBS,Neutral,,main,ALB
 2016-08-05,Deutsche Bank,Buy,,main,ALB
@@ -92,9 +92,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-02-23,Argus,Buy,,init,ALB
 2018-02-26,Morgan Stanley,Underweight,Equal-Weight,down,ALB
 2018-02-27,Berenberg,Buy,,init,ALB
-2018-03-01,Nomura,Buy,Buy,main,ALB
-2018-03-01,Citigroup,Neutral,Neutral,main,ALB
 2018-03-01,KeyBanc,Overweight,Overweight,main,ALB
+2018-03-01,Citigroup,Neutral,Neutral,main,ALB
+2018-03-01,Nomura,Buy,Buy,main,ALB
 2018-03-02,BMO Capital,Outperform,Outperform,main,ALB
 2018-04-10,Citigroup,Neutral,Neutral,main,ALB
 2018-04-12,KeyBanc,Overweight,Overweight,main,ALB
@@ -128,8 +128,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-25,Wells Fargo,Market Perform,,main,ALB
 2019-10-28,Bank of America,Underperform,Buy,down,ALB
 2019-11-08,JP Morgan,Underweight,Neutral,down,ALB
-2019-11-12,RBC Capital,Sector Perform,Outperform,down,ALB
 2019-11-12,UBS,Buy,,main,ALB
+2019-11-12,RBC Capital,Sector Perform,Outperform,down,ALB
 2019-11-13,Citigroup,Sell,Neutral,down,ALB
 2019-11-14,Seaport Global,Neutral,Buy,down,ALB
 2019-11-22,Morgan Stanley,Underweight,,main,ALB
@@ -170,8 +170,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-10-21,HSBC,Buy,Hold,up,ALB
 2020-11-05,UBS,Buy,,main,ALB
 2020-11-06,KeyBanc,Underweight,,main,ALB
-2020-11-06,BMO Capital,Outperform,,main,ALB
 2020-11-06,Morgan Stanley,Underweight,,main,ALB
+2020-11-06,BMO Capital,Outperform,,main,ALB
 2020-11-09,Citigroup,Buy,Neutral,up,ALB
 2021-01-05,Evercore ISI Group,In-Line,Underperform,up,ALB
 2021-01-15,KeyBanc,Underweight,,main,ALB
@@ -185,8 +185,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-01,Loop Capital,Buy,Hold,up,ALB
 2021-03-10,Cowen & Co.,Outperform,,init,ALB
 2021-04-19,Evercore ISI Group,Outperform,In-Line,up,ALB
-2021-05-07,JP Morgan,Neutral,Underweight,up,ALB
 2021-05-07,Keybanc,Underweight,,main,ALB
+2021-05-07,JP Morgan,Neutral,Underweight,up,ALB
 2021-05-10,Morgan Stanley,Underweight,,main,ALB
 2021-05-12,Wells Fargo,Equal-Weight,,main,ALB
 2021-05-13,RBC Capital,Sector Perform,Underperform,up,ALB
@@ -195,14 +195,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-09,RBC Capital,Sector Perform,,main,ALB
 2021-08-11,B of A Securities,Underperform,,main,ALB
 2021-09-08,Berenberg,Buy,Sell,up,ALB
-2021-09-13,Deutsche Bank,Buy,,main,ALB
-2021-09-13,Wells Fargo,Equal-Weight,,main,ALB
-2021-09-13,BMO Capital,Outperform,,main,ALB
 2021-09-13,RBC Capital,Sector Perform,,main,ALB
+2021-09-13,BMO Capital,Outperform,,main,ALB
+2021-09-13,Wells Fargo,Equal-Weight,,main,ALB
 2021-09-13,Oppenheimer,Outperform,,main,ALB
+2021-09-13,Deutsche Bank,Buy,,main,ALB
 2021-10-11,Keybanc,Underweight,,main,ALB
 2021-10-13,Mizuho,Neutral,,init,ALB
 2021-10-19,RBC Capital,Outperform,Sector Perform,up,ALB
 2021-11-05,Mizuho,Neutral,,main,ALB
 2021-11-05,Keybanc,Underweight,,main,ALB
 2021-12-15,Goldman Sachs,Sell,Neutral,down,ALB
+2022-01-10,Keybanc,Underweight,,main,ALB
+2022-01-27,HSBC,Buy,Hold,up,ALB
+2022-02-01,B of A Securities,Neutral,Underperform,up,ALB

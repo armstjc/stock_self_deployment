@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GHM220617P00010000,2021-12-27 16:00:56+00:00,10.0,0.4,0.25,0.45,0.0,0.0,,6,0.44922425781249997,False,REGULAR,USD,GHM
+GHM220617P00010000,2021-12-27 16:00:56+00:00,10.0,0.4,0.25,0.45,0.0,0.0,,6,0.46094289062500005,False,REGULAR,USD,GHM

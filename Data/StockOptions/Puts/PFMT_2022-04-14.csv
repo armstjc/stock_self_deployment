@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PFMT220414P00002500,2022-01-04 15:17:17+00:00,2.5,0.55,0.1,0.7,0.0,0.0,2,36,0.5976602734375001,True,REGULAR,USD,PFMT
+PFMT220414P00002500,2022-01-04 15:17:17+00:00,2.5,0.55,0.1,0.7,0.0,0.0,2,36,0.5312546875,True,REGULAR,USD,PFMT

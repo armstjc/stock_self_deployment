@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CTS220715C00045000,2021-12-07 18:39:12+00:00,45.0,4.8,0.35,3.3,0.0,0.0,1,21,0.5788616333007812,False,REGULAR,USD,CTS
+CTS220715C00045000,2021-12-07 18:39:12+00:00,45.0,4.8,0.35,3.3,0.0,0.0,1,21,0.5991251025390626,False,REGULAR,USD,CTS

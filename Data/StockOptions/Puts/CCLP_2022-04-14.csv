@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCLP220414P00002500,2021-11-18 18:56:28+00:00,2.5,1.2,1.2,1.4,0.0,0.0,100,61,1.953125234375,True,REGULAR,USD,CCLP
+CCLP220414P00002500,2021-11-18 18:56:28+00:00,2.5,1.2,1.2,1.4,0.0,0.0,100,61,1.875000625,True,REGULAR,USD,CCLP

@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NBTB220318C00040000,2022-01-26 17:43:01+00:00,40.0,1.34,0.0,0.0,0.0,0.0,10,0,0.0312596875,False,REGULAR,USD,NBTB

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESNT220218P00045000,2021-12-21 16:20:25+00:00,45.0,3.37,1.45,2.2,0.0,0.0,,1,0.559574716796875,False,REGULAR,USD,ESNT
+ESNT220218P00045000,2021-12-21 16:20:25+00:00,45.0,3.37,1.45,2.2,0.0,0.0,,1,0.514653291015625,False,REGULAR,USD,ESNT

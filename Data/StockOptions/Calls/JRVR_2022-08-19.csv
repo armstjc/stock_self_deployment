@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+JRVR220819C00035000,2022-01-25 15:39:47+00:00,35.0,0.85,0.9,1.2,0.0,0.0,2,4,0.3952697192382813,False,REGULAR,USD,JRVR

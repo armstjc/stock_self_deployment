@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HXL221216P00050000,2021-11-10 11:48:35+00:00,50.0,7.0,5.0,10.0,0.0,0.0,,2,0.6134071862792969,False,REGULAR,USD,HXL
+HXL221216P00050000,2021-11-10 11:48:35+00:00,50.0,7.0,2.5,7.5,0.0,0.0,,2,0.4578301287841797,False,REGULAR,USD,HXL

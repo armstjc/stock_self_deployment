@@ -95,9 +95,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-06-07,Morgan Stanley,Overweight,,init,CI
 2017-06-12,Credit Suisse,Outperform,,init,CI
 2017-07-13,Deutsche Bank,Buy,,main,CI
-2017-08-07,Deutsche Bank,Buy,,main,CI
-2017-08-07,Citigroup,Buy,,main,CI
 2017-08-07,Morgan Stanley,Overweight,,main,CI
+2017-08-07,Citigroup,Buy,,main,CI
+2017-08-07,Deutsche Bank,Buy,,main,CI
 2017-08-17,Morgan Stanley,Overweight,,main,CI
 2017-10-13,Jefferies,Buy,,main,CI
 2017-10-17,BMO Capital,Market Perform,,init,CI
@@ -132,8 +132,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-09-30,BMO Capital,Outperform,Market Perform,up,CI
 2019-10-18,Mizuho,Buy,,init,CI
 2019-11-01,Deutsche Bank,Buy,,main,CI
-2019-11-05,UBS,Buy,,main,CI
 2019-11-05,Citigroup,Buy,,main,CI
+2019-11-05,UBS,Buy,,main,CI
 2019-11-06,Mizuho,Buy,,main,CI
 2019-11-18,SunTrust Robinson Humphrey,Buy,,main,CI
 2019-11-22,Morgan Stanley,Overweight,,main,CI
@@ -144,8 +144,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-01-23,Citigroup,Buy,,main,CI
 2020-01-28,UBS,Buy,,main,CI
 2020-02-06,Cantor Fitzgerald,Overweight,,reit,CI
-2020-02-07,Raymond James,Outperform,,main,CI
 2020-02-07,Morgan Stanley,Overweight,,main,CI
+2020-02-07,Raymond James,Outperform,,main,CI
 2020-02-18,Deutsche Bank,Buy,,main,CI
 2020-02-25,Piper Sandler,Overweight,,main,CI
 2020-03-23,Raymond James,Outperform,,main,CI
@@ -165,8 +165,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-12-14,SVB Leerink,Market Perform,,main,CI
 2021-02-05,Citigroup,Buy,,main,CI
 2021-02-08,Morgan Stanley,Overweight,,main,CI
-2021-05-10,Credit Suisse,Outperform,,main,CI
 2021-05-10,BMO Capital,Outperform,,main,CI
+2021-05-10,Credit Suisse,Outperform,,main,CI
 2021-05-14,RBC Capital,Outperform,,main,CI
 2021-05-19,Wells Fargo,Equal-Weight,,init,CI
 2021-06-03,Morgan Stanley,Overweight,,main,CI
@@ -179,8 +179,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-27,SVB Leerink,Market Perform,,init,CI
 2021-10-11,UBS,Buy,,main,CI
 2021-11-05,Jefferies,Buy,,main,CI
-2021-11-08,BMO Capital,Outperform,,main,CI
 2021-11-08,Credit Suisse,Outperform,,main,CI
+2021-11-08,BMO Capital,Outperform,,main,CI
 2021-11-12,Morgan Stanley,Overweight,,main,CI
 2021-11-17,Seaport Global,Buy,,init,CI
 2021-12-14,Goldman Sachs,Neutral,,init,CI
@@ -188,3 +188,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-17,Morgan Stanley,Equal-Weight,Overweight,down,CI
 2021-12-20,Mizuho,Buy,,main,CI
 2021-12-21,JP Morgan,Neutral,Overweight,down,CI
+2022-01-06,Wells Fargo,Overweight,Equal-Weight,up,CI

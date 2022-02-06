@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+EPZM220318C00002500,2022-02-03 20:37:05+00:00,2.5,0.1,0.1,0.15,-0.04,-28.571426,81,815,1.9609376953125,False,REGULAR,USD,EPZM
+EPZM220318C00005000,2022-02-03 20:48:25+00:00,5.0,0.05,0.0,0.1,-0.040000003,-44.444447,7,60,2.3750040624999995,False,REGULAR,USD,EPZM

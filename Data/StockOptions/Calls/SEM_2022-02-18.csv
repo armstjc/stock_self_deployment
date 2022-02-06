@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SEM220218C00030000,2022-01-04 17:01:32+00:00,30.0,1.7,0.55,3.0,0.0,0.0,1,3,2.030278361816406,False,REGULAR,USD,SEM
+SEM220218C00030000,2022-01-04 17:01:32+00:00,30.0,1.7,0.55,3.0,0.0,0.0,1,3,2.176762370605468,False,REGULAR,USD,SEM

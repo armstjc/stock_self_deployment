@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AJX220819P00010000,2021-12-27 17:12:14+00:00,10.0,0.3,0.25,0.55,0.0,0.0,,44,0.46680220703125,False,REGULAR,USD,AJX
+AJX220819P00010000,2021-12-27 17:12:14+00:00,10.0,0.3,0.25,0.55,0.0,0.0,,44,0.4682670361328125,False,REGULAR,USD,AJX

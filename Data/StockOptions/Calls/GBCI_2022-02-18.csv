@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GBCI220218C00060000,2021-12-23 14:42:14+00:00,60.0,0.95,0.45,0.65,0.0,0.0,5,18,0.6938507177734375,False,REGULAR,USD,GBCI
+GBCI220218C00060000,2021-12-23 14:42:14+00:00,60.0,0.95,0.45,0.65,0.0,0.0,5,18,0.725588681640625,False,REGULAR,USD,GBCI

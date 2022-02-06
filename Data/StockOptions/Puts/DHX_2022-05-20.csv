@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DHX220520P00006000,2021-12-28 19:05:09+00:00,6.0,0.8,0.45,1.3,0.0,0.0,,1,0.5019581054687501,True,REGULAR,USD,DHX
+DHX220520P00006000,2021-12-28 19:05:09+00:00,6.0,0.8,0.45,1.3,0.0,0.0,,1,0.84179845703125,True,REGULAR,USD,DHX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AROC220819P00007500,2022-01-05 20:35:36+00:00,7.5,0.95,0.9,1.05,0.0,0.0,7,38,0.622074091796875,False,REGULAR,USD,AROC
+AROC220819P00007500,2022-01-24 17:53:22+00:00,7.5,1.05,0.2,0.9,0.0,0.0,2,39,0.5498091894531252,False,REGULAR,USD,AROC

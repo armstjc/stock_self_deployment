@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LTRX220218P00007500,2022-01-03 18:58:53+00:00,7.5,0.45,0.4,0.65,0.0,0.0,5,25,0.6796907031250001,True,REGULAR,USD,LTRX
+LTRX220218P00007500,2022-01-03 18:58:53+00:00,7.5,0.45,0.4,0.65,0.0,0.0,5,25,0.5273484765625001,True,REGULAR,USD,LTRX

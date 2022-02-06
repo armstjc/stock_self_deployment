@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DRIO220916P00005000,2022-01-28 18:51:39+00:00,5.0,0.7,0.05,1.0,0.0,0.0,40,120,0.8535170898437501,False,REGULAR,USD,DRIO
+DRIO220916P00005000,2022-01-28 18:51:39+00:00,5.0,0.7,0.2,1.0,0.0,0.0,40,120,0.875977802734375,False,REGULAR,USD,DRIO

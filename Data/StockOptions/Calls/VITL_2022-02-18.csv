@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VITL220218C00020000,2022-01-04 20:21:06+00:00,20.0,0.57,0.05,1.0,0.0,0.0,3,9,1.2070352148437498,False,REGULAR,USD,VITL
+VITL220218C00020000,2022-01-04 20:21:06+00:00,20.0,0.57,0.05,1.0,0.0,0.0,3,9,1.455080849609375,False,REGULAR,USD,VITL

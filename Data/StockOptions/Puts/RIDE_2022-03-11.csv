@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+RIDE220311P00002000,2022-02-03 19:38:05+00:00,2.0,0.14,0.0,0.0,0.0,0.0,2,0,0.2500075,False,REGULAR,USD,RIDE
+RIDE220311P00004000,2022-01-31 19:16:17+00:00,4.0,1.2,0.0,0.0,0.0,0.0,127,0,1.0000000000000003e-05,True,REGULAR,USD,RIDE

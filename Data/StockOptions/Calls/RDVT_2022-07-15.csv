@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RDVT220715C00045000,2021-12-23 18:38:11+00:00,45.0,4.8,0.0,4.8,0.0,0.0,6,4,0.9880372290039063,False,REGULAR,USD,RDVT
+RDVT220715C00045000,2021-12-23 18:38:11+00:00,45.0,4.8,1.6,4.5,0.0,0.0,6,4,1.144047248535156,False,REGULAR,USD,RDVT

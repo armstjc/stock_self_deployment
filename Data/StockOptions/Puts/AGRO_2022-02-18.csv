@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGRO220218P00007500,2022-01-05 18:21:49+00:00,7.5,0.45,0.45,1.1,-0.42000002,-48.275864,1,1,1.6015644921874999,False,REGULAR,USD,AGRO
+AGRO220218P00007500,2022-02-02 18:40:05+00:00,7.5,0.1,0.15,0.25,0.0,0.0,2,114,0.5546919531250001,False,REGULAR,USD,AGRO

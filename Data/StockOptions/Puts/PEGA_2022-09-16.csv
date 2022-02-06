@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+PEGA220916P00050000,2022-01-21 19:53:40+00:00,50.0,2.15,0.0,0.0,0.0,0.0,3.0,0,0.12500875,False,REGULAR,USD,PEGA
+PEGA220916P00085000,2022-01-25 15:09:05+00:00,85.0,10.8,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,PEGA
+PEGA220916P00090000,2022-01-25 16:12:24+00:00,90.0,14.1,0.0,0.0,0.0,0.0,1.0,0,0.0312596875,False,REGULAR,USD,PEGA

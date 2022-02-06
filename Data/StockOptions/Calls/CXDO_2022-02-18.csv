@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CXDO220218C00005000,2021-12-29 14:36:21+00:00,5.0,0.45,0.0,0.9,0.0,0.0,2,25,2.2031294921874993,False,REGULAR,USD,CXDO
+CXDO220218C00005000,2021-12-29 14:36:21+00:00,5.0,0.45,0.0,0.9,0.0,0.0,2,25,2.2734418164062498,False,REGULAR,USD,CXDO

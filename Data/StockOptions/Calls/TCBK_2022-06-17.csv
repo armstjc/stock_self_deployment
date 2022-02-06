@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCBK220617C00060000,2022-01-03 16:44:39+00:00,60.0,0.4,0.0,3.0,0.0,0.0,1,30,0.5339402075195312,False,REGULAR,USD,TCBK
+TCBK220617C00060000,2022-01-03 16:44:39+00:00,60.0,0.4,0.0,3.0,0.0,0.0,1,30,0.5422409057617189,False,REGULAR,USD,TCBK

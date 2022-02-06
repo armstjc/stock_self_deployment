@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASPU220218P00002500,2022-01-13 20:58:20+00:00,2.5,0.19,0.05,1.75,0.0,0.0,1,2,3.281251796875,True,REGULAR,USD,ASPU
+ASPU220218P00002500,2022-01-13 20:58:20+00:00,2.5,0.19,0.0,4.8,0.0,0.0,1,2,19.625003867187502,True,REGULAR,USD,ASPU

@@ -1,18 +1,18 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-PRIM,Primoris Services Corporation,25.78,Industrials,Stocks,NMS,PRIF
-PRI,"Primerica, Inc.",154.26,Financial Services,Stocks,NYQ,PRIF
-PROF,Profound Medical Corp.,9.38,Healthcare,Stocks,NCM,PRIF
-PRF,Invesco FTSE RAFI US 1000 ETF,170.69,,ETF,PCX,PRIF
-PREF,Principal Spectrum Preferred Se,19.73,,ETF,PCX,PRIF
+PRI,"Primerica, Inc.",153.7,Financial Services,Stocks,NYQ,PRIF
+PRIM,Primoris Services Corporation,25.63,Industrials,Stocks,NMS,PRIF
+PRF,Invesco FTSE RAFI US 1000 ETF,169.68,,ETF,PCX,PRIF
+PROF,Profound Medical Corp.,9.46,Healthcare,Stocks,NCM,PRIF
+PREF,Principal Spectrum Preferred Se,19.6,,ETF,PCX,PRIF
 PREIF,PRECIPITATE GOLD CORP,0.1,Basic Materials,Stocks,PNK,PRIF
-RRIF,RAINFOREST RESOURCES INC,2.47,Basic Materials,Stocks,PNK,PRIF
-PRIEF,PALEO RESOURCES INC,0.02,Energy,Stocks,PNK,PRIF
+RRIF,RAINFOREST RESOURCES INC,2.44,Basic Materials,Stocks,PNK,PRIF
+PZRIF,PIZZA PIZZA ROYALTY CORP,9.11,Consumer Cyclical,Stocks,PNK,PRIF
 VPRIF,VITALITY PRODUCTS,0.09,Consumer Defensive,Stocks,PNK,PRIF
 PRIS,PRIS,,Services,Stocks,NYQ,PRIF
 PRFF,PRFF,,,ETF,NGM,PRIF
 PRID,PRID,,,ETF,PCX,PRIF
-PZRIF,PIZZA PIZZA ROYALTY CORP,9.11,Consumer Cyclical,Stocks,PNK,PRIF
 PRCF,PROTEIN REACTOR COMBINED FUELS,0.0,Consumer Defensive,Stocks,PNK,PRIF
+PRIEF,PALEO RESOURCES INC,0.02,Energy,Stocks,PNK,PRIF
 PRIFX,PRIFX,0.0,,Mutual Fund,NAS,PRIF
 RIF,RIF,11.9,,Stocks,NYQ,PRIF
 PBRIF,PBRIF,0.01,,Stocks,PNK,PRIF

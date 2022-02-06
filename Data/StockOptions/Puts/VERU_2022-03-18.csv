@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VERU220318P00005000,2022-02-03 14:30:03+00:00,5.0,0.55,0.0,0.0,0.0,0.0,25,0,0.0312596875,False,REGULAR,USD,VERU

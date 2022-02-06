@@ -134,9 +134,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-07-30,RBC Capital,Outperform,,main,CB
 2020-10-12,JP Morgan,Overweight,Neutral,up,CB
 2020-10-19,Morgan Stanley,Equal-Weight,,main,CB
-2020-10-29,B of A Securities,Neutral,Underperform,up,CB
-2020-10-29,Piper Sandler,Overweight,,main,CB
 2020-10-29,Deutsche Bank,Hold,,main,CB
+2020-10-29,Piper Sandler,Overweight,,main,CB
+2020-10-29,B of A Securities,Neutral,Underperform,up,CB
 2020-10-30,Morgan Stanley,Equal-Weight,,main,CB
 2020-11-03,Credit Suisse,Outperform,,main,CB
 2020-11-10,Goldman Sachs,Buy,Sell,up,CB
@@ -149,8 +149,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-02-05,Raymond James,Strong Buy,,main,CB
 2021-03-11,Raymond James,Strong Buy,,main,CB
 2021-03-12,MKM Partners,Buy,,main,CB
-2021-04-12,Barclays,Overweight,,main,CB
 2021-04-12,JP Morgan,Neutral,,main,CB
+2021-04-12,Barclays,Overweight,,main,CB
 2021-04-28,JMP Securities,Market Outperform,,main,CB
 2021-04-29,RBC Capital,Outperform,,main,CB
 2021-06-21,Citigroup,Buy,,main,CB
@@ -158,10 +158,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-30,Argus Research,Buy,Hold,up,CB
 2021-08-17,Wolfe Research,Outperform,,init,CB
 2021-10-27,JMP Securities,Market Outperform,,main,CB
-2021-10-28,Barclays,Overweight,,main,CB
-2021-10-28,RBC Capital,Outperform,,main,CB
 2021-10-28,Raymond James,Strong Buy,,main,CB
+2021-10-28,RBC Capital,Outperform,,main,CB
+2021-10-28,Barclays,Overweight,,main,CB
 2021-11-01,Credit Suisse,Outperform,,main,CB
 2021-11-19,Morgan Stanley,Equal-Weight,,main,CB
 2021-11-19,Jefferies,Buy,,init,CB
 2021-11-23,Goldman Sachs,Buy,,init,CB
+2022-01-06,Barclays,Overweight,,main,CB
+2022-01-14,Morgan Stanley,Equal-Weight,,main,CB
+2022-01-14,JMP Securities,Market Outperform,,main,CB

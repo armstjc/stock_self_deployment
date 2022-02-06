@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENTX230120P00005000,2021-12-14 15:12:53+00:00,5.0,3.0,0.5,5.4,0.0,0.0,3,12,0.8437515624999999,True,REGULAR,USD,ENTX
+ENTX230120P00005000,2021-12-14 15:12:53+00:00,5.0,3.0,0.5,5.4,0.0,0.0,3,12,0.7773459765625,True,REGULAR,USD,ENTX

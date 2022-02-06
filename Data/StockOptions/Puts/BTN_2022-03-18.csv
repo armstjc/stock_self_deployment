@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTN220318P00002500,2022-01-05 20:37:41+00:00,2.5,0.2,0.15,0.25,-0.049999997,-19.999998,10,73,1.1015669921875002,False,REGULAR,USD,BTN
+BTN220318P00002500,2022-01-05 20:37:41+00:00,2.5,0.2,0.15,0.25,-0.049999997,-19.999998,10,73,1.01172369140625,False,REGULAR,USD,BTN

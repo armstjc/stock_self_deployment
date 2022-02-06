@@ -9,10 +9,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-02-25,Imperial Capital,Outperform,,main,CROX
 2013-04-25,Stifel Nicolaus,Buy,,main,CROX
 2013-07-22,Wedbush,Neutral,Outperform,down,CROX
+2013-07-25,Monness Crespi Hardt,Neutral,Buy,down,CROX
+2013-07-25,Monness Crespi Hardt,Neutral,Buy,down,CROX
 2013-07-25,Goldman Sachs,Neutral,Buy,down,CROX
-2013-07-25,Monness Crespi Hardt,Neutral,Buy,down,CROX
 2013-07-25,CL King,Neutral,Buy,down,CROX
-2013-07-25,Monness Crespi Hardt,Neutral,Buy,down,CROX
 2013-07-26,Imperial Capital,Outperform,,main,CROX
 2013-08-08,Sterne Agee,Underperform,Neutral,down,CROX
 2013-10-28,PiperJaffray,Neutral,Overweight,down,CROX
@@ -70,3 +70,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-20,Pivotal Research,Buy,,main,CROX
 2021-07-22,Piper Sandler,Overweight,,main,CROX
 2021-09-15,B. Riley Securities,Buy,,main,CROX
+2022-01-18,Seaport Global,Neutral,,init,CROX
+2022-01-26,B. Riley Securities,Buy,,main,CROX
+2022-02-01,Loop Capital,Buy,,main,CROX

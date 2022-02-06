@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTAQ220218C00010000,2022-01-05 16:18:17+00:00,10.0,0.05,0.0,0.1,-0.05,-50.0,86,804,0.10157148437499999,True,REGULAR,USD,BTAQ
+BTAQ220218C00010000,2022-01-25 14:59:19+00:00,10.0,0.05,0.0,0.2,0.0,0.0,10,804,0.22071091796874998,True,REGULAR,USD,BTAQ

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ITRI220318C00060000,2022-02-03 16:37:17+00:00,60.0,4.7,3.0,4.7,0.099999905,2.173911,2,1,0.5776409423828125,False,REGULAR,USD,ITRI

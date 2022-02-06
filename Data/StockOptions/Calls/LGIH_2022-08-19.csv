@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LGIH220819C00150000,2022-01-26 14:49:03+00:00,150.0,10.2,8.2,11.5,0.0,0.0,,0,0.5367477966308594,False,REGULAR,USD,LGIH

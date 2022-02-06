@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WASH220218C00055000,2022-02-01 19:18:08+00:00,55.0,3.2,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,WASH
+WASH220218C00055000,2021-12-23 15:09:25+00:00,55.0,3.35,3.1,5.8,0.0,0.0,20,20,0.7846701220703125,True,REGULAR,USD,WASH

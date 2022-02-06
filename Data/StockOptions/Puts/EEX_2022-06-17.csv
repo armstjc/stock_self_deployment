@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EEX220617P00005000,2021-10-20 15:37:56+00:00,5.0,1.3,0.55,2.05,0.0,0.0,,5,1.0371141894531253,True,REGULAR,USD,EEX
+EEX220617P00005000,2021-10-20 15:37:56+00:00,5.0,1.3,0.55,2.05,0.0,0.0,,5,0.99023447265625,True,REGULAR,USD,EEX

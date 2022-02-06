@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BKCC220819P00007500,2021-12-27 16:55:36+00:00,7.5,3.59,3.4,3.8,0.0,0.0,,1,0.8085956640624999,True,REGULAR,USD,BKCC
+BKCC220819P00007500,2021-12-27 16:55:36+00:00,7.5,3.59,2.75,4.1,0.0,0.0,,1,0.58789474609375,True,REGULAR,USD,BKCC

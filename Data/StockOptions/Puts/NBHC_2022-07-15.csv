@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NBHC220715P00040000,2022-01-24 19:25:47+00:00,40.0,1.4,1.15,1.45,0.0,0.0,,2,0.30371790039062496,False,REGULAR,USD,NBHC
+NBHC220715P00040000,2022-01-24 19:25:47+00:00,40.0,1.4,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,NBHC

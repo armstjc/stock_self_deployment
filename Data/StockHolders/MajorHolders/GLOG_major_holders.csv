@@ -1,20 +1,20 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-GOOG,Alphabet Inc.,2960.73,Communication Services,Stocks,NMS,GLOG
-GLNG,Golar LNG Limited,14.73,Energy,Stocks,NMS,GLOG
-GLOP,GasLog Partners LP,4.14,Energy,Stocks,NYQ,GLOG
-GNOG,"Golden Nugget Online Gaming, In",7.93,Consumer Cyclical,Stocks,NGM,GLOG
-GLPG,Galapagos NV,65.7,Healthcare,Stocks,NMS,GLOG
-GLOB,Globant S.A.,251.41,Technology,Stocks,NYQ,GLOG
-GLG,"TD Holdings, Inc.",0.29,Technology,Stocks,NCM,GLOG
-GLDG,GoldMining Inc.,1.46,Basic Materials,Stocks,ASE,GLOG
-GLO,Clough Global Opportunities Fun,10.02,Financial Services,Stocks,NYQ,GLOG
+GOOG,Alphabet Inc.,2860.32,Communication Services,Stocks,NMS,GLOG
+GLNG,Golar LNG Limited,14.66,Energy,Stocks,NMS,GLOG
+GLG,"TD Holdings, Inc.",0.31,Technology,Stocks,NCM,GLOG
+GNOG,"Golden Nugget Online Gaming, In",7.97,Consumer Cyclical,Stocks,NGM,GLOG
+GLOP,GasLog Partners LP,4.03,Energy,Stocks,NYQ,GLOG
+GLPG,Galapagos NV,67.05,Healthcare,Stocks,NMS,GLOG
+GLOB,Globant S.A.,250.72,Technology,Stocks,NYQ,GLOG
+GLDG,GoldMining Inc.,1.45,Basic Materials,Stocks,ASE,GLOG
+GLO,Clough Global Opportunities Fun,9.84,Financial Services,Stocks,NYQ,GLOG
 GYOG,GREEN ENERGY ENTERPRISES INC,0.0,Industrials,Stocks,PNK,GLOG
-ALOG,ALOG,,,Stocks,NMS,GLOG
 TLOG,TETRALOGIC PHARMACEUTICALS CORP,0.01,Healthcare,Stocks,PNK,GLOG
-RLOG,RLOG,,,Stocks,NCM,GLOG
 GLOH,GLOW HOLDINGS INC,0.13,Industrials,Stocks,PNK,GLOG
+RLOG,RLOG,,,Stocks,NCM,GLOG
 GLOV,GLOV,0.0,,Stocks,PNK,GLOG
 GLOW,GLOW,,,Stocks,ASE,GLOG
 GLOG,GLOG,,,Stocks,NYQ,GLOG
+ALOG,ALOG,,,Stocks,NMS,GLOG
 GLAG,GLAG,0.26,,Stocks,PNK,GLOG
 GROG,GROG,0.0,,Stocks,PNK,GLOG

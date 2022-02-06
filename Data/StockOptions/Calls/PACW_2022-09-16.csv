@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PACW220916C00045000,2022-01-25 16:40:20+00:00,45.0,5.75,4.4,7.5,0.0,0.0,,1,0.44287666503906253,True,REGULAR,USD,PACW
-PACW220916C00050000,2022-02-01 19:18:53+00:00,50.0,3.9,2.4,3.9,0.0,0.0,2.0,3,0.34241380249023434,False,REGULAR,USD,PACW

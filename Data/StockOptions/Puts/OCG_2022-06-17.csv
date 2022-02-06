@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OCG220617P00005000,2021-12-30 15:34:15+00:00,5.0,1.45,1.55,2.25,0.0,0.0,1,12,1.41015919921875,True,REGULAR,USD,OCG
+OCG220617P00005000,2021-12-30 15:34:15+00:00,5.0,1.45,1.55,2.25,0.0,0.0,1,12,1.3066440917968747,True,REGULAR,USD,OCG

@@ -43,8 +43,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-04-09,Credit Suisse,Neutral,,init,CCI
 2014-04-24,Citigroup,Hold,,main,CCI
 2014-06-13,Credit Suisse,Neutral,,init,CCI
-2014-07-25,JP Morgan,Neutral,,main,CCI
 2014-07-25,Pacific Crest,Sector Perform,Outperform,down,CCI
+2014-07-25,JP Morgan,Neutral,,main,CCI
 2014-08-27,Barclays,Equal-Weight,,main,CCI
 2014-11-03,Goldman Sachs,Buy,Neutral,up,CCI
 2014-11-03,Nomura,Neutral,Buy,down,CCI
@@ -55,8 +55,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-01-22,Oppenheimer,Perform,Outperform,down,CCI
 2015-01-23,Barclays,Equal-Weight,,main,CCI
 2015-04-07,Evercore ISI Group,Buy,Hold,up,CCI
-2015-04-24,Raymond James,Outperform,Market Perform,up,CCI
 2015-04-24,Citigroup,Neutral,,main,CCI
+2015-04-24,Raymond James,Outperform,Market Perform,up,CCI
 2015-06-18,BTIG Research,Buy,,init,CCI
 2015-07-21,Evercore ISI Group,Hold,Buy,down,CCI
 2015-07-22,Citigroup,Buy,Neutral,up,CCI
@@ -106,9 +106,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-18,UBS,Neutral,,main,CCI
 2019-11-22,Morgan Stanley,Overweight,,main,CCI
 2020-02-19,Citigroup,Neutral,,main,CCI
-2020-02-28,SunTrust Robinson Humphrey,Buy,,main,CCI
 2020-02-28,UBS,Neutral,,main,CCI
 2020-02-28,Wells Fargo,Overweight,,main,CCI
+2020-02-28,SunTrust Robinson Humphrey,Buy,,main,CCI
 2020-04-27,Morgan Stanley,Overweight,,main,CCI
 2020-04-28,Credit Suisse,Neutral,,init,CCI
 2020-05-01,Credit Suisse,Neutral,,main,CCI
@@ -123,16 +123,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-10-26,Raymond James,Outperform,Market Perform,up,CCI
 2020-12-11,Deutsche bank,Buy,Hold,up,CCI
 2021-01-14,Citigroup,Buy,Neutral,up,CCI
-2021-01-29,Credit Suisse,Neutral,,main,CCI
 2021-01-29,Raymond James,Outperform,,main,CCI
+2021-01-29,Credit Suisse,Neutral,,main,CCI
 2021-03-19,Wolfe Research,Peer Perform,,init,CCI
 2021-03-26,KeyBanc,Overweight,Sector Weight,up,CCI
 2021-04-12,Jefferies,Buy,,init,CCI
 2021-04-19,Morgan Stanley,Overweight,,main,CCI
-2021-04-23,Keybanc,Overweight,,main,CCI
 2021-04-23,Deutsche Bank,Buy,,main,CCI
-2021-04-26,Oppenheimer,Outperform,,main,CCI
+2021-04-23,Keybanc,Overweight,,main,CCI
 2021-04-26,RBC Capital,Outperform,,main,CCI
+2021-04-26,Oppenheimer,Outperform,,main,CCI
 2021-04-29,JP Morgan,Overweight,,main,CCI
 2021-05-04,Raymond James,Market Perform,Outperform,down,CCI
 2021-06-02,Morgan Stanley,Overweight,,main,CCI
@@ -140,8 +140,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-13,LightShed Partners,Neutral,Buy,down,CCI
 2021-07-19,Keybanc,Overweight,,main,CCI
 2021-07-23,Credit Suisse,Neutral,,main,CCI
-2021-09-10,Oppenheimer,Perform,Outperform,down,CCI
 2021-09-10,Morgan Stanley,Overweight,,main,CCI
+2021-09-10,Oppenheimer,Perform,Outperform,down,CCI
 2021-10-19,Credit Suisse,Outperform,Neutral,up,CCI
 2021-10-22,Barclays,Overweight,,main,CCI
 2021-10-22,Keybanc,Overweight,,main,CCI
@@ -150,3 +150,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2022-01-03,B of A Securities,Buy,,main,CCI
 2022-01-05,JP Morgan,Neutral,Overweight,down,CCI
 2022-01-10,Jefferies,Hold,Buy,down,CCI
+2022-01-26,Morgan Stanley,Overweight,,main,CCI
+2022-01-28,Raymond James,Outperform,Market Perform,up,CCI
+2022-02-03,Deutsche Bank,Buy,,main,CCI

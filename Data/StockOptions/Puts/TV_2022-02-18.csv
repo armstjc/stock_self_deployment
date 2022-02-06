@@ -1,1 +1,4 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TV220218P00008000,2022-01-24 19:24:12+00:00,8.0,0.11,0.0,0.0,0.0,0.0,3,0,0.2500075,False,REGULAR,USD,TV
+TV220218P00010000,2022-02-03 20:03:17+00:00,10.0,0.21,0.0,0.0,0.0,0.0,10,0,0.0312596875,False,REGULAR,USD,TV
+TV220218P00011000,2022-02-03 20:03:17+00:00,11.0,0.76,0.0,0.0,0.0,0.0,10,0,1.0000000000000003e-05,True,REGULAR,USD,TV

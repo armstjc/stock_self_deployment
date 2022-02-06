@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BSY221216P00045000,2021-12-16 20:50:14+00:00,45.0,6.55,6.5,8.8,0.0,0.0,2,0,0.37305314453125,True,REGULAR,USD,BSY
+BSY221216P00045000,2022-01-12 19:22:20+00:00,45.0,8.0,10.3,12.2,0.0,0.0,1,20,0.537236072998047,True,REGULAR,USD,BSY

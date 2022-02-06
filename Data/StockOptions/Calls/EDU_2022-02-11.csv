@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EDU220211C00002500,2022-01-03 20:38:03+00:00,2.5,0.06,0.02,0.08,0.0,0.0,5,26,3.156252109375,False,REGULAR,USD,EDU
+EDU220211C00002500,2022-01-03 20:38:03+00:00,2.5,0.06,0.02,0.08,0.0,0.0,5,26,3.2500018749999997,False,REGULAR,USD,EDU

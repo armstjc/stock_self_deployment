@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HEI220819P00090000,2021-12-16 16:17:26+00:00,90.0,1.45,0.1,0.8,0.0,0.0,,3,0.37744763183593744,False,REGULAR,USD,HEI
+HEI220819P00090000,2021-12-16 16:17:26+00:00,90.0,1.45,0.1,0.8,0.0,0.0,,3,0.362311064453125,False,REGULAR,USD,HEI

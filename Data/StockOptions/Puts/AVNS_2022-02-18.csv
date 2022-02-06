@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AVNS220218P00030000,2021-12-16 16:11:46+00:00,30.0,1.55,0.5,0.75,0.0,0.0,,10,0.213875048828125,True,REGULAR,USD,AVNS
+AVNS220218P00030000,2021-12-16 16:11:46+00:00,30.0,1.55,0.5,0.75,0.0,0.0,,10,0.20703917968749996,True,REGULAR,USD,AVNS

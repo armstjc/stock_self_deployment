@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VS220414P00002500,2021-12-15 17:25:36+00:00,2.5,0.75,0.05,0.95,0.0,0.0,,2,0.70312796875,True,REGULAR,USD,VS
+VS220414P00002500,2021-12-15 17:25:36+00:00,2.5,0.75,0.05,0.95,0.0,0.0,,2,0.5039112109375,True,REGULAR,USD,VS

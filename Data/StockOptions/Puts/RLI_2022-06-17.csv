@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RLI220617P00098000,2021-12-27 17:28:10+00:00,98.0,2.62,2.0,2.4,0.0,0.0,,1,0.20215641601562498,False,REGULAR,USD,RLI
+RLI220617P00098000,2021-12-27 17:28:10+00:00,98.0,2.62,2.0,2.4,0.0,0.0,,1,0.19281813049316404,False,REGULAR,USD,RLI

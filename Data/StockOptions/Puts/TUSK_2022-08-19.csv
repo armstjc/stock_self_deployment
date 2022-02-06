@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TUSK220819P00002500,2021-12-21 14:55:14+00:00,2.5,1.15,0.75,1.4,0.0,0.0,,1,1.1054732226562503,True,REGULAR,USD,TUSK
+TUSK220819P00002500,2022-02-03 19:06:41+00:00,2.5,1.21,0.0,0.0,0.0,0.0,4,0,1.0000000000000003e-05,True,REGULAR,USD,TUSK

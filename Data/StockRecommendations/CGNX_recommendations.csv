@@ -9,8 +9,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-08-04,Canaccord Genuity,Hold,Buy,down,CGNX
 2015-09-17,Nomura,Buy,,init,CGNX
 2015-10-12,Cowen & Co.,Outperform,,init,CGNX
-2015-11-03,CLSA,Outperform,Buy,down,CGNX
 2015-11-03,Canaccord Genuity,Hold,,main,CGNX
+2015-11-03,CLSA,Outperform,Buy,down,CGNX
 2015-11-11,FBR Capital,Market Perform,,init,CGNX
 2015-11-18,Canaccord Genuity,Buy,Hold,up,CGNX
 2016-01-22,Raymond James,Outperform,,init,CGNX
@@ -28,8 +28,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-01-26,JP Morgan,Neutral,,init,CGNX
 2017-04-03,Goldman Sachs,Buy,,init,CGNX
 2017-07-11,Wolfe Research,Peer Perform,,init,CGNX
-2017-10-31,Canaccord Genuity,Hold,,main,CGNX
 2017-10-31,Baird,Neutral,,main,CGNX
+2017-10-31,Canaccord Genuity,Hold,,main,CGNX
 2017-12-08,Daiwa Capital,Buy,Outperform,up,CGNX
 2018-02-15,Canaccord Genuity,Hold,Hold,main,CGNX
 2018-04-03,JP Morgan,Neutral,Underweight,up,CGNX
@@ -49,8 +49,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-04-30,Needham,Hold,Buy,down,CGNX
 2019-07-10,Morgan Stanley,Equal-Weight,,main,CGNX
 2019-07-16,Goldman Sachs,Sell,Neutral,down,CGNX
-2019-09-23,DA Davidson,Neutral,,main,CGNX
 2019-09-23,Baird,Neutral,,main,CGNX
+2019-09-23,DA Davidson,Neutral,,main,CGNX
 2019-12-12,UBS,Neutral,,init,CGNX
 2020-02-19,Morgan Stanley,Equal-Weight,,main,CGNX
 2020-03-17,Morgan Stanley,Equal-Weight,,main,CGNX
@@ -66,9 +66,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-10-29,Morgan Stanley,Underweight,,main,CGNX
 2021-01-14,HSBC,Buy,Hold,up,CGNX
 2021-01-20,Morgan Stanley,Underweight,,main,CGNX
+2021-02-12,Raymond James,Outperform,,main,CGNX
 2021-02-12,Morgan Stanley,Underweight,,main,CGNX
 2021-02-12,Cowen & Co.,Outperform,,main,CGNX
-2021-02-12,Raymond James,Outperform,,main,CGNX
 2021-05-07,Morgan Stanley,Underweight,,main,CGNX
 2021-05-19,Raymond James,Strong Buy,Outperform,up,CGNX
 2021-10-07,Morgan Stanley,Underweight,,main,CGNX
@@ -77,3 +77,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-08,Northcoast Research,Buy,Neutral,up,CGNX
 2021-11-12,Morgan Stanley,Equal-Weight,Underweight,up,CGNX
 2021-11-12,Cowen & Co.,Outperform,,main,CGNX
+2022-01-14,Morgan Stanley,Equal-Weight,,main,CGNX
+2022-01-25,Daiwa Capital,Outperform,Neutral,up,CGNX

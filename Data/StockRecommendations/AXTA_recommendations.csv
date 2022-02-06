@@ -51,10 +51,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-07-27,JP Morgan,Overweight,Neutral,up,AXTA
 2018-10-11,Citigroup,Neutral,Neutral,main,AXTA
 2018-10-15,Nomura,Neutral,Neutral,main,AXTA
-2018-10-26,Nomura,Neutral,Neutral,main,AXTA
-2018-10-26,Barclays,Equal-Weight,Equal-Weight,main,AXTA
 2018-10-26,KeyBanc,Overweight,Overweight,main,AXTA
 2018-10-26,BMO Capital,Market Perform,Market Perform,main,AXTA
+2018-10-26,Nomura,Neutral,Neutral,main,AXTA
+2018-10-26,Barclays,Equal-Weight,Equal-Weight,main,AXTA
 2018-10-29,Seaport Global,Buy,Neutral,up,AXTA
 2019-01-08,Bank of America,Buy,Neutral,up,AXTA
 2019-04-26,JP Morgan,Neutral,Overweight,down,AXTA
@@ -76,9 +76,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-09,Citigroup,Neutral,,main,AXTA
 2020-04-16,Deutsche Bank,Buy,,main,AXTA
 2020-05-06,UBS,Buy,,main,AXTA
-2020-05-07,Citigroup,Neutral,,main,AXTA
 2020-05-07,Credit Suisse,Outperform,,main,AXTA
 2020-05-07,KeyBanc,Overweight,,main,AXTA
+2020-05-07,Citigroup,Neutral,,main,AXTA
 2020-05-08,RBC Capital,Outperform,,main,AXTA
 2020-05-12,Goldman Sachs,Buy,Neutral,up,AXTA
 2020-05-27,Keybanc,Overweight,,main,AXTA
@@ -87,8 +87,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-07-13,KeyBanc,Overweight,,main,AXTA
 2020-07-30,Citigroup,Buy,,main,AXTA
 2020-10-20,Morgan Stanley,Equal-Weight,,main,AXTA
-2020-10-23,Credit Suisse,Outperform,,main,AXTA
 2020-10-23,KeyBanc,Overweight,,main,AXTA
+2020-10-23,Credit Suisse,Outperform,,main,AXTA
 2020-12-14,Morgan Stanley,Equal-Weight,,main,AXTA
 2021-01-15,KeyBanc,Sector Weight,Overweight,down,AXTA
 2021-02-19,Wells Fargo,Equal-Weight,,main,AXTA
@@ -98,3 +98,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-09,Citigroup,Neutral,Buy,down,AXTA
 2021-09-21,RBC Capital,Outperform,,main,AXTA
 2021-10-13,Mizuho,Buy,,init,AXTA
+2022-02-02,Vertical Research,Hold,Buy,down,AXTA
+2022-02-03,Morgan Stanley,Equal-Weight,,main,AXTA

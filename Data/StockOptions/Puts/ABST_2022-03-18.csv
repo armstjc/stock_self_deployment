@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABST220318P00007500,2022-01-24 15:28:32+00:00,7.5,0.9,0.25,0.65,0.0,0.0,,2,0.6132851171875001,False,REGULAR,USD,ABST
+ABST220318P00007500,2022-01-24 15:28:32+00:00,7.5,0.9,0.0,1.25,0.0,0.0,,2,0.6972686523437501,False,REGULAR,USD,ABST

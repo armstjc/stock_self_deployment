@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DSP220218P00007500,2021-12-30 16:37:31+00:00,7.5,0.2,0.45,0.7,0.0,0.0,,13,1.0234423828125,False,REGULAR,USD,DSP
+DSP220218P00007500,2022-02-03 17:57:06+00:00,7.5,0.6,0.6,0.65,0.31000003,106.89657,2,2523,0.6992217578125001,True,REGULAR,USD,DSP

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CAAS220819C00005000,2022-02-01 14:53:40+00:00,5.0,0.2,0.0,0.35,0.0,0.0,15,129,0.7929708203125,False,REGULAR,USD,CAAS
+CAAS220819C00005000,2021-12-30 16:20:53+00:00,5.0,0.17,0.05,0.35,0.0,0.0,1,6,0.8652357226562499,False,REGULAR,USD,CAAS

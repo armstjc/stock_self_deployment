@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCBP220414P00012500,2021-11-10 11:55:20+00:00,12.5,0.55,0.05,1.15,0.0,0.0,,2,0.8984385156249999,False,REGULAR,USD,BCBP
+BCBP220414P00012500,2021-11-10 11:55:20+00:00,12.5,0.55,0.05,1.15,0.0,0.0,,2,0.9062509375,False,REGULAR,USD,BCBP

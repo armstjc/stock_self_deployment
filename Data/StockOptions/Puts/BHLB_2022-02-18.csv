@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BHLB220218P00025000,2021-12-22 18:30:35+00:00,25.0,0.75,0.15,2.0,0.0,0.0,,75,1.3066440917968747,False,REGULAR,USD,BHLB
+BHLB220218P00025000,2021-12-22 18:30:35+00:00,25.0,0.75,0.15,2.0,0.0,0.0,,75,1.3320345898437496,False,REGULAR,USD,BHLB

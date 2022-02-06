@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GNLN220218C00002500,2022-01-04 14:51:18+00:00,2.5,0.05,0.0,0.1,0.0,0.0,5,92,4.5312543359375,False,REGULAR,USD,GNLN
+GNLN220218C00002500,2022-01-25 19:47:04+00:00,2.5,0.05,0.0,0.05,0.0,0.0,1,96,4.062504921875,False,REGULAR,USD,GNLN

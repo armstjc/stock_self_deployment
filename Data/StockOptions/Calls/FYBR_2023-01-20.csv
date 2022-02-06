@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FYBR230120C00030000,2021-11-16 20:01:33+00:00,30.0,7.88,1.5,6.5,0.0,0.0,,1,0.73633076171875,False,REGULAR,USD,FYBR
+FYBR230120C00030000,2021-11-16 20:01:33+00:00,30.0,7.88,1.5,6.5,0.0,0.0,,1,0.51758294921875,False,REGULAR,USD,FYBR

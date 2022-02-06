@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMPH220218P00025000,2022-01-28 20:32:27+00:00,25.0,0.65,0.6,1.5,0.0,0.0,1,1,0.5751995605468749,False,REGULAR,USD,AMPH
+AMPH220218P00025000,2022-01-28 20:32:27+00:00,25.0,0.65,0.35,4.4,0.0,0.0,1,1,1.2734411328124997,False,REGULAR,USD,AMPH

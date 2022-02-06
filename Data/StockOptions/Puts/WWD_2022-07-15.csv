@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WWD220715P00065000,2021-12-02 17:13:41+00:00,65.0,0.9,0.1,4.8,0.0,0.0,,2,0.7036162451171876,False,REGULAR,USD,WWD
+WWD220715P00065000,2021-12-02 17:13:41+00:00,65.0,0.9,0.1,4.8,0.0,0.0,,2,0.6992217578125001,False,REGULAR,USD,WWD

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IBCP220819C00030000,2022-01-24 17:46:21+00:00,30.0,0.6,0.0,1.05,0.0,0.0,,1,0.3967345483398438,False,REGULAR,USD,IBCP

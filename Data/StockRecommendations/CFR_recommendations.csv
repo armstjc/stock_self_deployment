@@ -60,8 +60,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-10-07,Wedbush,Neutral,,init,CFR
 2016-10-11,Deutsche Bank,Hold,,main,CFR
 2016-10-11,Barclays,Underweight,,main,CFR
-2016-10-27,Macquarie,Neutral,Underperform,up,CFR
 2016-10-27,Bank of America,Neutral,Underperform,up,CFR
+2016-10-27,Macquarie,Neutral,Underperform,up,CFR
 2016-12-06,Barclays,Equal-Weight,Underweight,up,CFR
 2016-12-19,SunTrust Robinson Humphrey,Buy,Neutral,up,CFR
 2017-01-05,JP Morgan,Neutral,Underweight,up,CFR
@@ -73,12 +73,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-10-30,JP Morgan,Neutral,,main,CFR
 2017-11-08,Deutsche Bank,Hold,,main,CFR
 2017-12-13,Morgan Stanley,Equal-Weight,,main,CFR
-2018-01-26,Maxim Group,Buy,Buy,reit,CFR
 2018-01-26,Barclays,Equal-Weight,Equal-Weight,main,CFR
+2018-01-26,Maxim Group,Buy,Buy,reit,CFR
 2018-04-10,Raymond James,Underperform,Market Perform,down,CFR
-2018-04-27,Bank of America,Buy,Underperform,up,CFR
 2018-04-27,Barclays,Equal-Weight,Equal-Weight,main,CFR
 2018-04-27,Maxim Group,Buy,Buy,main,CFR
+2018-04-27,Bank of America,Buy,Underperform,up,CFR
 2018-04-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,CFR
 2018-05-04,Deutsche Bank,Hold,Hold,main,CFR
 2018-09-18,Morgan Stanley,Equal-Weight,Equal-Weight,main,CFR
@@ -118,3 +118,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-29,Stephens & Co.,Equal-Weight,,main,CFR
 2021-11-01,Morgan Stanley,Underweight,,main,CFR
 2021-12-06,Morgan Stanley,Underweight,,main,CFR
+2022-01-28,Raymond James,Market Perform,Underperform,up,CFR

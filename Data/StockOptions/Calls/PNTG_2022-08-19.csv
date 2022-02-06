@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PNTG220819C00007500,2021-12-31 19:55:54+00:00,7.5,16.2,7.4,10.5,0.0,0.0,1,2,1.0332079589843752,True,REGULAR,USD,PNTG
+PNTG220819C00007500,2021-12-31 19:55:54+00:00,7.5,16.2,12.9,15.8,0.0,0.0,1,2,5.136722329101563,True,REGULAR,USD,PNTG

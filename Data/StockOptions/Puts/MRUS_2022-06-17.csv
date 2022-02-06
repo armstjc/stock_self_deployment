@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MRUS220617P00025000,2021-11-29 20:21:48+00:00,25.0,5.5,0.9,3.9,0.0,0.0,2,13,0.6521030883789063,False,REGULAR,USD,MRUS
+MRUS220617P00025000,2021-11-29 20:21:48+00:00,25.0,5.5,0.9,3.9,0.0,0.0,2,13,0.65039412109375,False,REGULAR,USD,MRUS

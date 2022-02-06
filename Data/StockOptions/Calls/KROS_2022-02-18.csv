@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KROS220218C00060000,2021-12-17 18:47:22+00:00,60.0,1.45,1.05,2.9,0.0,0.0,355,300,1.4858424145507811,False,REGULAR,USD,KROS
+KROS220218C00060000,2021-12-17 18:47:22+00:00,60.0,1.45,0.45,2.25,0.0,0.0,355,300,1.5898458007812497,False,REGULAR,USD,KROS

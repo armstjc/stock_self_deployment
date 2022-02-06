@@ -38,8 +38,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-03-26,B. Riley FBR,Sell,Neutral,down,COTY
 2015-04-10,JP Morgan,Overweight,,main,COTY
 2015-05-08,Stifel Nicolaus,Buy,,main,COTY
-2015-05-08,Stifel Nicolaus,Buy,,main,COTY
 2015-05-08,JP Morgan,Overweight,,main,COTY
+2015-05-08,Stifel Nicolaus,Buy,,main,COTY
 2015-05-11,Citigroup,Buy,,main,COTY
 2015-06-17,Citigroup,Neutral,Buy,down,COTY
 2015-07-10,Wells Fargo,Market Perform,Outperform,down,COTY
@@ -89,8 +89,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-04-16,Wells Fargo,Market Perform,Market Perform,main,COTY
 2019-04-18,Stifel Nicolaus,Hold,Buy,down,COTY
 2019-06-04,Exane BNP Paribas,Outperform,,init,COTY
-2019-07-02,DA Davidson,Neutral,,main,COTY
 2019-07-02,Citigroup,Sell,Neutral,down,COTY
+2019-07-02,DA Davidson,Neutral,,main,COTY
 2019-08-20,Stifel Nicolaus,Hold,,main,COTY
 2019-08-29,Wells Fargo,Market Perform,,main,COTY
 2019-08-29,Morgan Stanley,Equal-Weight,,main,COTY
@@ -106,8 +106,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-03-20,Deutsche Bank,Hold,,main,COTY
 2020-03-23,DA Davidson,Buy,Neutral,up,COTY
 2020-03-31,Morgan Stanley,Equal-Weight,,main,COTY
-2020-04-27,Morgan Stanley,Equal-Weight,,main,COTY
 2020-04-27,DA Davidson,Neutral,Buy,down,COTY
+2020-04-27,Morgan Stanley,Equal-Weight,,main,COTY
 2020-05-12,Stifel,Hold,,main,COTY
 2020-05-12,Deutsche Bank,Hold,,main,COTY
 2020-05-13,Exane BNP Paribas,Neutral,Outperform,down,COTY
@@ -123,9 +123,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-20,Citigroup,Neutral,Sell,up,COTY
 2020-12-08,Wells Fargo,Underweight,Equal-Weight,down,COTY
 2021-01-14,Morgan Stanley,Equal-Weight,,main,COTY
+2021-02-10,Morgan Stanley,Equal-Weight,,main,COTY
 2021-02-10,Evercore ISI Group,Outperform,In-Line,up,COTY
 2021-02-10,DA Davidson,Neutral,,main,COTY
-2021-02-10,Morgan Stanley,Equal-Weight,,main,COTY
 2021-05-11,DA Davidson,Neutral,,main,COTY
 2021-05-18,Morgan Stanley,Equal-Weight,,main,COTY
 2021-07-14,Raymond James,Market Perform,,init,COTY
@@ -136,3 +136,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-09,Raymond James,Outperform,Market Perform,up,COTY
 2021-11-11,RBC Capital,Outperform,,main,COTY
 2021-11-17,Wells Fargo,Equal-Weight,Underweight,up,COTY
+2022-01-18,Morgan Stanley,Equal-Weight,,main,COTY
+2022-01-21,DA Davidson,Buy,Neutral,up,COTY
+2022-01-26,Raymond James,Outperform,,main,COTY

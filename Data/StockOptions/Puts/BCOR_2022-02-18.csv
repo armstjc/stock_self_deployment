@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCOR220218P00017500,2021-12-20 15:06:01+00:00,17.5,1.59,0.1,1.05,0.0,0.0,,1,0.3632876171875,True,REGULAR,USD,BCOR
+BCOR220218P00017500,2021-12-20 15:06:01+00:00,17.5,1.59,0.1,1.05,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,BCOR

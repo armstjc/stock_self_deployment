@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ECVT220218P00010000,2022-01-28 16:12:16+00:00,10.0,0.6,0.0,0.55,0.0,0.0,3,3,0.8085956640624999,False,REGULAR,USD,ECVT

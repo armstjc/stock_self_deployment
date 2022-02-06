@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRG220520P00020000,2021-12-23 14:50:25+00:00,20.0,1.2,0.1,1.45,0.0,0.0,60,80,0.4155331884765625,False,REGULAR,USD,KRG
+KRG220520P00020000,2021-12-23 14:50:25+00:00,20.0,1.2,0.1,1.45,0.0,0.0,60,80,0.3979552392578125,False,REGULAR,USD,KRG

@@ -1,5 +1,26 @@
-0,1,ABV
-0.15%,% of Shares Held by All Insider,AQN
-45.89%,% of Shares Held by Institutions,AQN
-45.96%,% of Float Held by Institutions,AQN
-440,Number of Institutions Holding Shares,AQN
+Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
+ACN,Accenture plc,347.5,Technology,Stocks,NYQ,AQN
+AZN,Astrazeneca PLC,55.72,Healthcare,Stocks,NMS,AQN
+AON,Aon plc,291.31,Financial Services,Stocks,NYQ,AQN
+AMN,AMN Healthcare Services Inc AMN,103.81,Healthcare,Stocks,NYQ,AQN
+AQN,Algonquin Power & Utilities Cor,14.04,Utilities,Stocks,NYQ,AQN
+AQB,"AquaBounty Technologies, Inc.",1.61,Consumer Defensive,Stocks,NCM,AQN
+AN,"AutoNation, Inc.",104.05,Consumer Cyclical,Stocks,NYQ,AQN
+ADN,"Advent Technologies Holdings, I",4.04,Utilities,Stocks,NCM,AQN
+AAN,"Aarons Holdings Company, Inc.",20.77,Consumer Cyclical,Stocks,NYQ,AQN
+AIN,Albany International Corporatio,84.86,Consumer Cyclical,Stocks,NYQ,AQN
+AQNU,Algonquin Power & Utilities Cor,45.89,Utilities,Stocks,NYQ,AQN
+AQNA,Algonquin Power & Utilities Cor,26.31,,Stocks,NYQ,AQN
+APN,Apeiron Capital Investment Corp,9.96,Financial Services,Stocks,NYQ,AQN
+AQNB,Algonquin Power & Utilities Cor,26.46,,Stocks,NYQ,AQN
+AXN,AXN,,,Stocks,ASE,AQN
+AQBN,AAB NATIONAL COMPANY,0.0,,Stocks,PNK,AQN
+AEN,AEN,0.0,Healthcare,Stocks,ASE,AQN
+AQNM,AQNM,0.01,,Stocks,PNK,AQN
+AYN,AYN,,Financial,Stocks,NYQ,AQN
+ANN,ANN,0.0,Services,Stocks,NYQ,AQN
+AQ,AQ,,,Stocks,NYQ,AQN
+ARN,ARN,,,Stocks,NYQ,AQN
+ALN,ALN,0.14,,Stocks,ASE,AQN
+AGN,AGN,,,Stocks,NYQ,AQN
+AQU,AQU,,Conglomerates,Stocks,NCM,AQN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FOCS220916P00070000,2021-12-10 20:48:31+00:00,70.0,10.9,13.2,16.6,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,FOCS
+FOCS220916P00070000,2021-12-10 20:48:31+00:00,70.0,10.9,13.5,18.2,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,FOCS

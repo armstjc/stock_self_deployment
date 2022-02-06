@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GGG220318C00075000,2022-02-01 14:51:55+00:00,75.0,1.85,1.7,2.4,0.05000007,2.777782,10,15,0.2834544311523437,False,REGULAR,USD,GGG
+GGG220318C00075000,2022-02-01 14:51:55+00:00,75.0,1.85,1.45,1.9,0.0,0.0,10,22,0.28955788574218744,False,REGULAR,USD,GGG

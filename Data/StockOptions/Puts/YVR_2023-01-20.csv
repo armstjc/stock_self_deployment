@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YVR230120P00002500,2021-11-03 15:27:46+00:00,2.5,1.56,1.5,2.05,0.0,0.0,12,15,0.8281267187499999,True,REGULAR,USD,YVR
+YVR230120P00002500,2022-01-19 18:22:11+00:00,2.5,1.85,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,YVR

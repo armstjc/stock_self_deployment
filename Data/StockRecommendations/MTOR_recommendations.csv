@@ -47,9 +47,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-12-08,PiperJaffray,Overweight,Underweight,up,MTOR
 2018-01-24,Longbow Research,Buy,Neutral,up,MTOR
 2018-01-26,Barclays,Equal-Weight,Equal-Weight,main,MTOR
+2018-02-01,Buckingham,Buy,Buy,main,MTOR
 2018-02-01,Stifel Nicolaus,Buy,Buy,main,MTOR
 2018-02-01,Barclays,Equal-Weight,Equal-Weight,main,MTOR
-2018-02-01,Buckingham,Buy,Buy,main,MTOR
 2018-04-17,Barclays,Equal-Weight,Equal-Weight,main,MTOR
 2018-05-04,Stifel Nicolaus,Buy,Buy,main,MTOR
 2018-08-02,Barclays,Equal-Weight,Equal-Weight,main,MTOR
@@ -67,10 +67,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-01,Longbow Research,Buy,,main,MTOR
 2020-05-04,Barclays,Equal-Weight,,main,MTOR
 2020-07-24,Barclays,Equal-Weight,,main,MTOR
-2020-07-30,RBC Capital,Sector Perform,,main,MTOR
 2020-07-30,KeyBanc,Overweight,,main,MTOR
+2020-07-30,RBC Capital,Sector Perform,,main,MTOR
 2020-11-13,KeyBanc,Overweight,,main,MTOR
 2021-05-05,RBC Capital,Outperform,Sector Perform,up,MTOR
 2021-06-18,B of A Securities,Buy,,init,MTOR
 2021-07-01,Citigroup,Buy,Neutral,up,MTOR
 2021-11-18,RBC Capital,Outperform,,main,MTOR
+2022-01-27,Barclays,Equal-Weight,,main,MTOR

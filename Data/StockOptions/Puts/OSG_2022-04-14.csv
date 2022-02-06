@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OSG220414P00002500,2021-11-26 16:37:17+00:00,2.5,0.8,0.15,1.2,0.0,0.0,5,20,2.2382856542968748,True,REGULAR,USD,OSG
+OSG220414P00002500,2021-11-26 16:37:17+00:00,2.5,0.8,0.15,1.2,0.0,0.0,5,20,2.2265669335937495,True,REGULAR,USD,OSG

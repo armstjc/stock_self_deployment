@@ -1,1 +1,3 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+THO220916C00065000,2022-01-21 16:30:31+00:00,65.0,26.56,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,THO
+THO220916C00115000,2022-01-21 15:08:18+00:00,115.0,3.08,0.0,0.0,0.0,0.0,5,0,0.062509375,False,REGULAR,USD,THO

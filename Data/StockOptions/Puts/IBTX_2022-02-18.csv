@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IBTX220218P00070000,2021-12-20 17:29:15+00:00,70.0,3.5,0.35,2.5,0.0,0.0,,4,0.6513706738281251,False,REGULAR,USD,IBTX
+IBTX220218P00070000,2021-12-20 17:29:15+00:00,70.0,3.5,0.35,2.5,0.0,0.0,,4,0.6530796411132813,False,REGULAR,USD,IBTX

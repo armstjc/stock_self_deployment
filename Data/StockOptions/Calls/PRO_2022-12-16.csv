@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRO221216C00040000,2022-01-19 19:14:56+00:00,40.0,2.0,0.1,4.8,0.0,0.0,1,1,0.5532271240234375,False,REGULAR,USD,PRO

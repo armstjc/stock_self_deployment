@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALBO220218P00022500,2021-12-27 20:45:44+00:00,22.5,1.55,0.45,5.0,0.0,0.0,,10,2.668948640136719,False,REGULAR,USD,ALBO
+ALBO220218P00022500,2021-12-27 20:45:44+00:00,22.5,1.55,0.45,5.0,0.0,0.0,,10,2.593753515625,False,REGULAR,USD,ALBO

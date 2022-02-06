@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BVH220715P00035000,2021-11-22 14:30:30+00:00,35.0,6.2,2.9,7.1,0.0,0.0,,1,0.411138701171875,True,REGULAR,USD,BVH
+BVH220715P00035000,2022-02-03 14:44:14+00:00,35.0,7.3,6.0,9.5,1.0900002,17.552338,1,2,0.6901886450195314,True,REGULAR,USD,BVH

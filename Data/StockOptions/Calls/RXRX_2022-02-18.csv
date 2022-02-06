@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RXRX220218C00020000,2022-01-04 14:34:12+00:00,20.0,1.55,0.55,1.65,0.0,0.0,4,31,3.0742210644531247,False,REGULAR,USD,RXRX
+RXRX220218C00020000,2022-01-04 14:34:12+00:00,20.0,1.55,0.55,1.65,0.0,0.0,4,31,3.3359391601562494,False,REGULAR,USD,RXRX

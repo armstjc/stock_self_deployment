@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATXS220715P00005000,2021-12-02 20:50:19+00:00,5.0,1.5,0.05,2.25,0.0,0.0,10,220,0.9697268652343749,False,REGULAR,USD,ATXS
+ATXS220715P00005000,2021-12-02 20:50:19+00:00,5.0,1.5,0.05,2.25,0.0,0.0,10,220,0.8398453515625,True,REGULAR,USD,ATXS

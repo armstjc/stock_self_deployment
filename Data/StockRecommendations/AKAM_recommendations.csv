@@ -6,8 +6,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-03-14,Oxen Group,Hold,,init,AKAM
 2012-04-04,DA Davidson,Buy,,up,AKAM
 2012-04-26,Jefferies,Buy,,up,AKAM
-2012-05-16,Canaccord Genuity,Hold,,main,AKAM
 2012-05-16,Citigroup,Neutral,,up,AKAM
+2012-05-16,Canaccord Genuity,Hold,,main,AKAM
 2012-07-26,Canaccord Genuity,Hold,,main,AKAM
 2012-08-29,Canaccord Genuity,Hold,,main,AKAM
 2012-10-25,Jefferies,Buy,,main,AKAM
@@ -34,8 +34,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-05-14,Pacific Crest,Outperform,Sector Perform,up,AKAM
 2014-05-14,B. Riley FBR,Buy,,main,AKAM
 2014-07-24,Macquarie,Outperform,Neutral,up,AKAM
-2014-07-31,Credit Suisse,Neutral,,main,AKAM
 2014-07-31,JP Morgan,Overweight,,main,AKAM
+2014-07-31,Credit Suisse,Neutral,,main,AKAM
 2014-08-27,Baird,Outperform,,init,AKAM
 2014-09-05,UBS,Buy,,init,AKAM
 2014-10-30,Credit Suisse,Neutral,,main,AKAM
@@ -44,17 +44,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-01-09,B. Riley FBR,Neutral,Buy,down,AKAM
 2015-04-09,Deutsche Bank,Hold,,init,AKAM
 2015-04-29,Deutsche Bank,Buy,Hold,up,AKAM
-2015-04-29,JP Morgan,Overweight,,main,AKAM
 2015-04-29,Canaccord Genuity,Buy,,main,AKAM
-2015-05-19,Oppenheimer,Perform,Outperform,down,AKAM
+2015-04-29,JP Morgan,Overweight,,main,AKAM
 2015-05-19,UBS,Buy,,main,AKAM
+2015-05-19,Oppenheimer,Perform,Outperform,down,AKAM
 2015-06-09,Macquarie,Outperform,,init,AKAM
 2015-07-09,Deutsche Bank,Buy,,main,AKAM
 2015-08-28,JMP Securities,Market Outperform,Market Perform,up,AKAM
 2015-08-31,Deutsche Bank,Buy,,main,AKAM
-2015-10-28,Morgan Stanley,Equal-Weight,,main,AKAM
-2015-10-28,Canaccord Genuity,Hold,,down,AKAM
 2015-10-28,JP Morgan,Neutral,Overweight,down,AKAM
+2015-10-28,Canaccord Genuity,Hold,,down,AKAM
+2015-10-28,Morgan Stanley,Equal-Weight,,main,AKAM
 2015-10-28,Craig-Hallum,Hold,Buy,down,AKAM
 2015-10-28,B. Riley FBR,Neutral,,main,AKAM
 2015-10-28,Pacific Crest,Overweight,,main,AKAM
@@ -65,13 +65,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-12-14,Evercore ISI Group,Buy,,init,AKAM
 2016-01-11,Pacific Crest,Outperform,,main,AKAM
 2016-01-11,KeyBanc,Outperform,,main,AKAM
+2016-02-10,Deutsche Bank,Buy,,main,AKAM
 2016-02-10,B. Riley FBR,Buy,,up,AKAM
 2016-02-10,UBS,Buy,,main,AKAM
-2016-02-10,Deutsche Bank,Buy,,main,AKAM
-2016-02-10,Craig-Hallum,Buy,,up,AKAM
-2016-02-10,FBR Capital,Underperform,,main,AKAM
-2016-02-10,KeyBanc,Outperform,,main,AKAM
 2016-02-10,JP Morgan,Neutral,,main,AKAM
+2016-02-10,FBR Capital,Underperform,,main,AKAM
+2016-02-10,Craig-Hallum,Buy,,up,AKAM
+2016-02-10,KeyBanc,Outperform,,main,AKAM
 2016-03-24,Stifel Nicolaus,Hold,,init,AKAM
 2016-03-24,RBC Capital,Sector Perform,,init,AKAM
 2016-04-27,Baird,Outperform,,main,AKAM
@@ -92,8 +92,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-05-05,Baird,Neutral,Outperform,down,AKAM
 2017-05-25,Nomura,Neutral,,init,AKAM
 2017-07-26,Morgan Stanley,Underweight,,main,AKAM
-2017-09-05,Nomura,Neutral,,main,AKAM
 2017-09-05,Credit Suisse,Neutral,,init,AKAM
+2017-09-05,Nomura,Neutral,,main,AKAM
 2017-10-25,B. Riley FBR,Buy,,main,AKAM
 2017-10-25,Credit Suisse,Neutral,,main,AKAM
 2017-10-25,Nomura,Neutral,,main,AKAM
@@ -132,20 +132,20 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-07-31,Morgan Stanley,Overweight,,main,AKAM
 2019-09-19,KeyBanc,Sector Weight,Overweight,down,AKAM
 2019-10-25,B. Riley,Buy,,main,AKAM
-2019-10-29,Morgan Stanley,Overweight,,main,AKAM
-2019-10-29,DA Davidson,Buy,,main,AKAM
-2019-10-29,Craig-Hallum,Buy,,main,AKAM
 2019-10-29,Credit Suisse,Neutral,,main,AKAM
+2019-10-29,Morgan Stanley,Overweight,,main,AKAM
+2019-10-29,Craig-Hallum,Buy,,main,AKAM
+2019-10-29,DA Davidson,Buy,,main,AKAM
 2020-01-07,Guggenheim,Buy,Neutral,up,AKAM
 2020-01-13,Morgan Stanley,Overweight,,main,AKAM
-2020-02-12,Credit Suisse,Neutral,,main,AKAM
-2020-02-12,B. Riley,Buy,,main,AKAM
-2020-02-12,Nomura,Neutral,,main,AKAM
-2020-02-12,Needham,Buy,,main,AKAM
-2020-02-12,Morgan Stanley,Overweight,,main,AKAM
-2020-02-12,Oppenheimer,Outperform,,main,AKAM
 2020-02-12,Craig-Hallum,Buy,,main,AKAM
+2020-02-12,Oppenheimer,Outperform,,main,AKAM
+2020-02-12,Morgan Stanley,Overweight,,main,AKAM
 2020-02-12,SunTrust Robinson Humphrey,Buy,,main,AKAM
+2020-02-12,Nomura,Neutral,,main,AKAM
+2020-02-12,B. Riley,Buy,,main,AKAM
+2020-02-12,Credit Suisse,Neutral,,main,AKAM
+2020-02-12,Needham,Buy,,main,AKAM
 2020-03-12,Baird,Outperform,Neutral,up,AKAM
 2020-03-25,Morgan Stanley,Overweight,,main,AKAM
 2020-04-03,Raymond James,Outperform,Market Perform,up,AKAM
@@ -157,23 +157,25 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-29,Morgan Stanley,Equal-Weight,Overweight,down,AKAM
 2020-07-02,Cowen & Co.,Outperform,Market Perform,up,AKAM
 2020-07-22,Needham,Buy,,main,AKAM
+2020-07-29,Morgan Stanley,Equal-Weight,,main,AKAM
+2020-07-29,Raymond James,Outperform,,main,AKAM
+2020-07-29,JP Morgan,Overweight,,main,AKAM
 2020-07-29,Piper Sandler,Overweight,,main,AKAM
 2020-07-29,Credit Suisse,Neutral,,main,AKAM
-2020-07-29,Raymond James,Outperform,,main,AKAM
-2020-07-29,Morgan Stanley,Equal-Weight,,main,AKAM
-2020-07-29,JP Morgan,Overweight,,main,AKAM
 2021-02-10,Craig-Hallum,Hold,Buy,down,AKAM
 2021-02-10,Credit Suisse,Neutral,,main,AKAM
 2021-02-10,JP Morgan,Neutral,Overweight,down,AKAM
 2021-03-02,KeyBanc,Overweight,Sector Weight,up,AKAM
-2021-05-05,Keybanc,Overweight,,main,AKAM
-2021-05-05,Needham,Buy,,main,AKAM
 2021-05-05,Morgan Stanley,Equal-Weight,,main,AKAM
-2021-08-04,Piper Sandler,Overweight,,main,AKAM
+2021-05-05,Needham,Buy,,main,AKAM
+2021-05-05,Keybanc,Overweight,,main,AKAM
 2021-08-04,Needham,Hold,Buy,down,AKAM
+2021-08-04,Piper Sandler,Overweight,,main,AKAM
 2021-10-04,Keybanc,Sector Weight,Overweight,down,AKAM
 2021-10-14,RBC Capital,Outperform,,init,AKAM
 2021-11-03,Morgan Stanley,Equal-Weight,,main,AKAM
 2021-11-15,Oppenheimer,Perform,Outperform,down,AKAM
 2021-12-14,JP Morgan,Underweight,Neutral,down,AKAM
 2021-12-29,DA Davidson,Buy,,init,AKAM
+2022-01-06,Piper Sandler,Neutral,Overweight,down,AKAM
+2022-01-19,Keybanc,Overweight,Sector Weight,up,AKAM

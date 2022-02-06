@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BREZ220819C00012500,2022-02-03 15:41:34+00:00,12.5,0.2,0.0,0.2,0.049999997,33.333332,300,716,0.27539787109374997,False,REGULAR,USD,BREZ

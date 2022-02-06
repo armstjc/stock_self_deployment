@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KYN220218C00007500,2022-02-02 17:47:48+00:00,7.5,1.1,1.05,1.3,0.5,83.33333,1,42,0.7500025,True,REGULAR,USD,KYN
+KYN220218C00007500,2022-02-02 17:47:48+00:00,7.5,1.1,0.75,1.35,0.0,0.0,1,42,1.1171919140625,True,REGULAR,USD,KYN

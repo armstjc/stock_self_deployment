@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-REDU220218C00002500,2021-12-31 19:41:24+00:00,2.5,0.05,0.0,0.05,0.0,0.0,1,30,4.812503984374999,False,REGULAR,USD,REDU
+REDU220218C00002500,2021-12-31 19:41:24+00:00,2.5,0.05,0.0,0.3,0.0,0.0,1,30,8.875004453125,False,REGULAR,USD,REDU

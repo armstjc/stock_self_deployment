@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CASY220819C00210000,2021-12-30 20:13:03+00:00,210.0,10.0,8.0,11.5,0.0,0.0,20,22,0.34400070068359373,False,REGULAR,USD,CASY
+CASY220819C00210000,2021-12-30 20:13:03+00:00,210.0,10.0,8.0,11.5,0.0,0.0,20,22,0.35990019989013666,False,REGULAR,USD,CASY

@@ -1,1 +1,4 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NBR220318P00070000,2022-01-31 20:24:15+00:00,70.0,1.79,0.0,0.0,0.0,0.0,1.0,0,0.2500075,False,REGULAR,USD,NBR
+NBR220318P00095000,2022-01-26 14:39:39+00:00,95.0,6.2,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,NBR
+NBR220318P00100000,2022-02-01 16:13:35+00:00,100.0,6.7,0.0,0.0,0.0,0.0,1.0,0,0.062509375,False,REGULAR,USD,NBR

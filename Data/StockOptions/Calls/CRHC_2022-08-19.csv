@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRHC220819C00010000,2022-01-04 19:28:32+00:00,10.0,0.8,0.05,1.25,0.0,0.0,30,90,0.45606012695312503,False,REGULAR,USD,CRHC
+CRHC220819C00010000,2022-01-04 19:28:32+00:00,10.0,0.8,0.05,1.25,0.0,0.0,30,90,0.45508357421875,False,REGULAR,USD,CRHC

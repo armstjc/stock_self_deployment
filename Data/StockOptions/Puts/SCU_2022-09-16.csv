@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SCU220916P00012500,2022-01-31 17:34:37+00:00,12.5,0.4,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,SCU
+SCU220916P00015000,2022-01-31 17:35:15+00:00,15.0,1.0,0.0,0.0,0.0,0.0,5.0,0,0.062509375,False,REGULAR,USD,SCU
+SCU220916P00035000,2022-01-31 14:31:44+00:00,35.0,17.2,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,SCU

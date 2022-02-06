@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DH220414C00030000,2021-12-28 17:41:29+00:00,30.0,2.8,1.35,2.9,0.0,0.0,,27,1.154301103515625,False,REGULAR,USD,DH
+DH220414C00030000,2021-12-28 17:41:29+00:00,30.0,2.8,1.35,2.9,0.0,0.0,,27,1.1586956127929686,False,REGULAR,USD,DH

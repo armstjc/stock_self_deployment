@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PHIO220715P00002500,2021-12-30 14:30:00+00:00,2.5,1.7,1.45,1.8,0.0,0.0,,30,0.7500025,True,REGULAR,USD,PHIO
+PHIO220715P00002500,2022-01-24 17:13:43+00:00,2.5,1.8,0.0,0.0,0.0,0.0,6,0,1.0000000000000003e-05,True,REGULAR,USD,PHIO

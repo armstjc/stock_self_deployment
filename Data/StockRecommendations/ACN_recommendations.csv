@@ -54,15 +54,15 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-06-27,JP Morgan,Overweight,,main,ACN
 2014-09-16,Bernstein,Market Perform,,init,ACN
 2014-09-16,Citigroup,Neutral,Buy,down,ACN
-2014-09-25,Citigroup,Neutral,,main,ACN
 2014-09-25,JP Morgan,Overweight,,main,ACN
+2014-09-25,Citigroup,Neutral,,main,ACN
 2014-09-30,CLSA,Outperform,,init,ACN
 2014-11-03,Monness Crespi Hardt,Neutral,,init,ACN
 2014-12-16,Barclays,Equal-Weight,,main,ACN
+2014-12-19,JP Morgan,Overweight,,main,ACN
 2014-12-19,Credit Suisse,Outperform,,main,ACN
 2014-12-19,Citigroup,Neutral,,main,ACN
 2014-12-19,Barclays,Equal-Weight,,main,ACN
-2014-12-19,JP Morgan,Overweight,,main,ACN
 2015-01-09,Citigroup,Neutral,,main,ACN
 2015-03-30,Jefferies,Hold,,main,ACN
 2015-05-26,Cowen & Co.,Outperform,Market Perform,up,ACN
@@ -71,8 +71,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-06-26,Deutsche Bank,Buy,,main,ACN
 2015-06-29,Citigroup,Neutral,,main,ACN
 2015-09-08,Argus,Buy,Hold,up,ACN
-2015-09-21,BMO Capital,Market Perform,,main,ACN
 2015-09-21,Barclays,Equal-Weight,,main,ACN
+2015-09-21,BMO Capital,Market Perform,,main,ACN
 2015-12-17,Sterne Agee CRT,Buy,,init,ACN
 2016-02-19,Cowen & Co.,Outperform,,init,ACN
 2016-03-21,Stifel Nicolaus,Buy,,main,ACN
@@ -96,8 +96,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-10-13,Berenberg,Buy,,init,ACN
 2017-04-03,Goldman Sachs,Sell,Neutral,down,ACN
 2017-05-24,SunTrust Robinson Humphrey,Hold,Buy,down,ACN
-2017-09-22,Baird,Neutral,,main,ACN
 2017-09-22,Morgan Stanley,Equal-Weight,,main,ACN
+2017-09-22,Baird,Neutral,,main,ACN
 2017-09-27,Barclays,Equal-Weight,,main,ACN
 2017-09-29,BMO Capital,Market Perform,,main,ACN
 2017-09-29,Baird,Neutral,,main,ACN
@@ -109,15 +109,15 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-03-19,KeyBanc,Overweight,Overweight,main,ACN
 2018-03-20,Baird,Neutral,Neutral,main,ACN
 2018-03-20,Wedbush,Outperform,Outperform,main,ACN
-2018-03-23,BMO Capital,Market Perform,Market Perform,main,ACN
 2018-03-23,Barclays,Equal-Weight,Equal-Weight,main,ACN
+2018-03-23,BMO Capital,Market Perform,Market Perform,main,ACN
 2018-06-19,Susquehanna,Positive,Neutral,up,ACN
 2018-06-21,Stifel Nicolaus,Buy,Buy,main,ACN
+2018-06-29,Deutsche Bank,Buy,Buy,main,ACN
+2018-06-29,Bank of America,Neutral,Buy,down,ACN
+2018-06-29,Credit Suisse,Neutral,Neutral,main,ACN
 2018-06-29,Citigroup,Neutral,Neutral,main,ACN
 2018-06-29,Cantor Fitzgerald,Overweight,Overweight,main,ACN
-2018-06-29,Bank of America,Neutral,Buy,down,ACN
-2018-06-29,Deutsche Bank,Buy,Buy,main,ACN
-2018-06-29,Credit Suisse,Neutral,Neutral,main,ACN
 2018-09-18,Citigroup,Neutral,Neutral,main,ACN
 2018-09-24,Bank of America,Neutral,Neutral,main,ACN
 2018-09-28,Credit Suisse,Neutral,Neutral,main,ACN
@@ -166,8 +166,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-15,Exane BNP Paribas,Outperform,,init,ACN
 2020-05-22,Piper Sandler,Neutral,,init,ACN
 2020-06-17,Citigroup,Buy,,main,ACN
-2020-06-18,B of A Securities,Underperform,,main,ACN
 2020-06-18,Wells Fargo,Equal-Weight,Overweight,down,ACN
+2020-06-18,B of A Securities,Underperform,,main,ACN
 2020-06-19,Stifel,Buy,,main,ACN
 2020-06-23,Morgan Stanley,Overweight,,main,ACN
 2020-06-26,Wolfe Research,Peer Perform,,main,ACN
@@ -177,8 +177,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-09-16,Morgan Stanley,Overweight,,main,ACN
 2020-09-22,Baird,Neutral,,main,ACN
 2020-09-22,Piper Sandler,Neutral,,main,ACN
-2020-09-25,BMO Capital,Market Perform,,main,ACN
 2020-09-25,B of A Securities,Underperform,,main,ACN
+2020-09-25,BMO Capital,Market Perform,,main,ACN
 2020-09-28,Barclays,Overweight,,main,ACN
 2020-10-13,Morgan Stanley,Overweight,,main,ACN
 2020-11-19,Goldman Sachs,Buy,,init,ACN
@@ -190,9 +190,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-08,Susquehanna,Positive,Neutral,up,ACN
 2021-03-11,Morgan Stanley,Overweight,,main,ACN
 2021-03-18,B of A Securities,Buy,Neutral,up,ACN
-2021-03-19,Morgan Stanley,Overweight,,main,ACN
 2021-03-19,BMO Capital,Market Perform,,main,ACN
 2021-03-19,Susquehanna,Positive,,main,ACN
+2021-03-19,Morgan Stanley,Overweight,,main,ACN
 2021-04-06,Deutsche Bank,Buy,,main,ACN
 2021-06-21,Jefferies,Hold,,init,ACN
 2021-06-23,Exane BNP Paribas,Outperform,Neutral,up,ACN
@@ -218,3 +218,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-17,Morgan Stanley,Overweight,,main,ACN
 2021-12-17,Piper Sandler,Neutral,,main,ACN
 2021-12-20,Barclays,Overweight,,main,ACN
+2022-01-10,Goldman Sachs,Neutral,,init,ACN

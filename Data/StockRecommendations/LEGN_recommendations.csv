@@ -2,3 +2,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-04-19,Morgan Stanley,Overweight,,main,LEGN
 2021-10-12,Morgan Stanley,Overweight,,main,LEGN
 2021-12-21,Piper Sandler,Overweight,,init,LEGN
+2022-01-06,Morgan Stanley,Equal-Weight,Overweight,down,LEGN
+2022-01-31,Morgan Stanley,Overweight,Equal-Weight,up,LEGN

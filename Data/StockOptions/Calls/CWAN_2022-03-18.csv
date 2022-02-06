@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CWAN220318C00025000,2021-12-23 15:28:25+00:00,25.0,0.8,0.05,1.5,0.0,0.0,1,2,1.1591838916015624,False,REGULAR,USD,CWAN
+CWAN220318C00025000,2021-12-23 15:28:25+00:00,25.0,0.8,0.05,1.5,0.0,0.0,1,2,1.1865275048828123,False,REGULAR,USD,CWAN

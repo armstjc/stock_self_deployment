@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUB220414C00045000,2021-11-10 20:49:58+00:00,45.0,0.36,0.0,2.2,0.0,0.0,6,3,0.5688519677734375,False,REGULAR,USD,AUB
+AUB220414C00045000,2021-11-10 20:49:58+00:00,45.0,0.36,0.0,2.2,0.0,0.0,6,3,0.5730023168945313,False,REGULAR,USD,AUB

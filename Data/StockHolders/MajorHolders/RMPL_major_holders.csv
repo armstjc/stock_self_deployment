@@ -1,13 +1,13 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-AMPL,"Amplitude, Inc.",33.86,Technology,Stocks,NCM,RMPL
-IMPL,"Impel NeuroPharma, Inc.",7.91,Healthcare,Stocks,NGM,RMPL
-RMBL,"RumbleOn, Inc.",34.42,Consumer Cyclical,Stocks,NCM,RMPL
+AMPL,"Amplitude, Inc.",36.48,Technology,Stocks,NCM,RMPL
+RMBL,"RumbleOn, Inc.",36.17,Consumer Cyclical,Stocks,NCM,RMPL
+IMPL,"Impel NeuroPharma, Inc.",7.83,Healthcare,Stocks,NGM,RMPL
 RMSL,REMSLEEP HOLDINGS INC,0.02,Healthcare,Stocks,PNK,RMPL
-SMPL,The Simply Good Foods Company,35.86,Consumer Defensive,Stocks,NCM,RMPL
-REPL,"Replimune Group, Inc.",18.79,Healthcare,Stocks,NMS,RMPL
-RM.L,RM PLC ORD 2 2/7P,188.0,Technology,Stocks,LSE,RMPL
+REPL,"Replimune Group, Inc.",18.26,Healthcare,Stocks,NMS,RMPL
+SMPL,The Simply Good Foods Company,35.54,Consumer Defensive,Stocks,NCM,RMPL
+RM.L,RM PLC ORD 2 2/7P,185.5,Technology,Stocks,LSE,RMPL
 RMIL,ROCKY MOUNTAIN INTERNATIONAL LT,0.0,,Stocks,PNK,RMPL
-RMP,RMP,,,Stocks,NYQ,RMPL
 RMPLX,RIVERNORTH MARKETPLACE LENDING,21.44,,Mutual Fund,NAS,RMPL
+RMP,RMP,,,Stocks,NYQ,RMPL
 RMP.L,RMP.L,,,Stocks,LSE,RMPL
 RVPL,RVPL,,Consumer Goods,Stocks,PNK,RMPL

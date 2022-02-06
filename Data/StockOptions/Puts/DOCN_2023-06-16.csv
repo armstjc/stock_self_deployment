@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DOCN230616P00080000,2021-12-31 17:06:11+00:00,80.0,23.91,27.7,30.7,0.0,0.0,1,1,0.5411422839355471,True,REGULAR,USD,DOCN
+DOCN230616P00080000,2021-12-31 17:06:11+00:00,80.0,23.91,27.7,30.7,0.0,0.0,1,1,0.4510552941894531,True,REGULAR,USD,DOCN

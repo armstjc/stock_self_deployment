@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KBH230519P00035000,2022-01-26 19:46:26+00:00,35.0,4.8,4.1,4.6,0.0,0.0,,26,0.45252012329101565,False,REGULAR,USD,KBH
+KBH230519P00035000,2022-01-26 19:46:26+00:00,35.0,4.8,4.4,4.9,0.0,0.0,,26,0.45654840332031255,False,REGULAR,USD,KBH

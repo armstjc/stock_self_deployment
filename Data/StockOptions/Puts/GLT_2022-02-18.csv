@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLT220218P00015000,2021-12-21 14:35:41+00:00,15.0,0.51,0.05,0.2,0.0,0.0,,1,0.6289099609375001,False,REGULAR,USD,GLT
+GLT220218P00015000,2021-12-21 14:35:41+00:00,15.0,0.51,0.05,0.2,0.0,0.0,,1,0.6523472265625001,False,REGULAR,USD,GLT

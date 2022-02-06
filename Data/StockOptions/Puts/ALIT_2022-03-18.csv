@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALIT220318P00010000,2022-02-02 16:14:48+00:00,10.0,1.1,0.95,1.1,0.100000024,10.000002,5,10,0.586918193359375,True,REGULAR,USD,ALIT

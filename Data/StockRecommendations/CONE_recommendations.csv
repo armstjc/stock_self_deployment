@@ -116,8 +116,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-06,BMO Capital,Outperform,Market Perform,up,CONE
 2021-07-29,Truist Securities,Hold,Buy,down,CONE
 2021-07-29,Raymond James,Outperform,Underperform,up,CONE
-2021-07-30,Wells Fargo,Overweight,,main,CONE
 2021-07-30,Credit Suisse,Neutral,,main,CONE
+2021-07-30,Wells Fargo,Overweight,,main,CONE
 2021-08-25,Barclays,Equal-Weight,,main,CONE
 2021-10-13,Wells Fargo,Equal-Weight,Overweight,down,CONE
 2021-10-26,Evercore ISI Group,Outperform,,init,CONE
@@ -133,3 +133,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-16,BMO Capital,Market Perform,Outperform,down,CONE
 2021-11-16,Raymond James,Market Perform,Outperform,down,CONE
 2021-11-29,Jefferies,Hold,Buy,down,CONE
+2022-02-02,TD Securities,Tender,Hold,down,CONE

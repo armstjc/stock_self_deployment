@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OCSL220819P00012500,2021-12-30 16:55:50+00:00,12.5,5.3,5.1,5.5,0.0,0.0,,2,0.6777375976562501,True,REGULAR,USD,OCSL
+OCSL220819P00012500,2021-12-30 16:55:50+00:00,12.5,5.3,5.1,5.5,0.0,0.0,,2,0.6757844921875001,True,REGULAR,USD,OCSL

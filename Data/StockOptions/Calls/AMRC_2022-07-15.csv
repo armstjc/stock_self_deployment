@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMRC220715C00085000,2021-12-15 20:35:38+00:00,85.0,11.0,6.8,7.4,0.0,0.0,1,2,1.1811564379882813,False,REGULAR,USD,AMRC
+AMRC220715C00085000,2021-12-15 20:35:38+00:00,85.0,11.0,6.8,7.4,0.0,0.0,1,2,1.2359657342529295,False,REGULAR,USD,AMRC

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WTBA220715C00030000,2022-02-02 19:33:50+00:00,30.0,1.5,0.0,0.0,0.0,0.0,1.0,0,0.015634843750000002,False,REGULAR,USD,WTBA
-WTBA220715C00040000,2022-01-05 18:57:15+00:00,40.0,0.6,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,WTBA

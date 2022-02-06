@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TDS220819P00017500,2021-12-30 20:01:27+00:00,17.5,1.1,0.85,1.35,0.0,0.0,17,19,0.44922425781249997,False,REGULAR,USD,TDS
+TDS220819P00017500,2021-12-30 20:01:27+00:00,17.5,1.1,0.85,1.35,0.0,0.0,17,19,0.47876497802734375,False,REGULAR,USD,TDS

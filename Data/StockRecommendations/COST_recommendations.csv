@@ -110,8 +110,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-06-19,Deutsche Bank,Hold,Buy,down,COST
 2017-06-26,Raymond James,Outperform,Market Perform,up,COST
 2017-07-10,BMO Capital,Market Perform,Outperform,down,COST
-2017-10-06,Morgan Stanley,Equal-Weight,Overweight,down,COST
 2017-10-06,Citigroup,Buy,,main,COST
+2017-10-06,Morgan Stanley,Equal-Weight,Overweight,down,COST
 2017-12-04,Moffett Nathanson,Buy,,init,COST
 2017-12-18,BMO Capital,Outperform,Market Perform,up,COST
 2018-01-12,Gordon Haskett,Buy,Accumulate,up,COST
@@ -154,9 +154,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-07-11,Baird,Outperform,,main,COST
 2019-07-11,Goldman Sachs,Buy,,init,COST
 2019-07-18,Raymond James,Outperform,,main,COST
-2019-09-06,Baird,Outperform,,main,COST
-2019-09-06,Wells Fargo,Market Perform,,main,COST
 2019-09-06,Stifel,Buy,,main,COST
+2019-09-06,Wells Fargo,Market Perform,,main,COST
+2019-09-06,Baird,Outperform,,main,COST
 2019-09-09,JP Morgan,Overweight,,main,COST
 2019-09-09,UBS,Buy,,main,COST
 2019-09-10,UBS,Buy,,main,COST
@@ -164,10 +164,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-09-19,Bernstein,Underperform,Market Perform,down,COST
 2019-09-20,Gordon Haskett,Accumulate,Hold,up,COST
 2019-10-01,Deutsche Bank,Hold,,main,COST
+2019-10-04,Bank of America,Buy,,main,COST
 2019-10-04,RBC Capital,Outperform,,main,COST
 2019-10-04,BMO Capital,Outperform,,main,COST
 2019-10-04,Morgan Stanley,Equal-Weight,,main,COST
-2019-10-04,Bank of America,Buy,,main,COST
 2019-10-16,Northcoast Research,Neutral,Buy,down,COST
 2019-11-07,Deutsche Bank,Hold,,main,COST
 2019-11-08,Nomura,Neutral,,init,COST
@@ -179,14 +179,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-01-21,Oppenheimer,Outperform,Perform,up,COST
 2020-02-13,Credit Suisse,Neutral,,init,COST
 2020-03-05,Argus Research,Buy,,main,COST
-2020-03-06,Nomura,Neutral,,main,COST
 2020-03-06,Raymond James,Outperform,,main,COST
 2020-03-06,UBS,Buy,,main,COST
 2020-03-06,Morgan Stanley,Equal-Weight,,main,COST
-2020-03-06,RBC Capital,Outperform,,main,COST
+2020-03-06,Nomura,Neutral,,main,COST
 2020-03-06,Deutsche Bank,Hold,,main,COST
-2020-03-06,Stifel,Buy,,main,COST
 2020-03-06,Baird,Outperform,,main,COST
+2020-03-06,RBC Capital,Outperform,,main,COST
+2020-03-06,Stifel,Buy,,main,COST
 2020-04-09,Deutsche Bank,Hold,,main,COST
 2020-04-30,Morgan Stanley,Overweight,,main,COST
 2020-05-07,Deutsche Bank,Hold,,main,COST
@@ -195,8 +195,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-07-09,Oppenheimer,Outperform,,main,COST
 2020-07-09,Deutsche Bank,Hold,,main,COST
 2020-07-13,Atlantic Equities,Overweight,,init,COST
-2020-07-30,MKM Partners,Neutral,,init,COST
 2020-07-30,Deutsche Bank,Hold,,main,COST
+2020-07-30,MKM Partners,Neutral,,init,COST
 2020-08-06,Stifel,Buy,,main,COST
 2020-08-06,Citigroup,Neutral,,main,COST
 2020-08-12,Raymond James,Outperform,,main,COST
@@ -205,9 +205,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-09-25,RBC Capital,Outperform,,main,COST
 2020-09-25,MKM Partners,Neutral,,main,COST
 2020-09-25,Morgan Stanley,Overweight,,main,COST
+2020-09-25,Deutsche Bank,Hold,,main,COST
 2020-09-25,Raymond James,Outperform,,main,COST
 2020-09-25,BMO Capital,Outperform,,main,COST
-2020-09-25,Deutsche Bank,Hold,,main,COST
 2020-10-06,Credit Suisse,Neutral,,main,COST
 2020-10-06,Barclays,Overweight,Equal-Weight,up,COST
 2020-10-08,Deutsche Bank,Hold,,main,COST
@@ -215,13 +215,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-12,Morgan Stanley,Overweight,,main,COST
 2020-11-13,Raymond James,Outperform,,main,COST
 2020-12-14,Morgan Stanley,Overweight,,main,COST
+2021-03-05,DA Davidson,Neutral,,main,COST
 2021-03-05,Baird,Outperform,,main,COST
 2021-03-05,Citigroup,Neutral,,main,COST
 2021-03-05,Oppenheimer,Outperform,,main,COST
 2021-03-05,Jefferies,Buy,,main,COST
 2021-03-05,Stifel,Buy,,main,COST
 2021-03-05,RBC Capital,Outperform,,main,COST
-2021-03-05,DA Davidson,Neutral,,main,COST
 2021-03-05,Wells Fargo,Equal-Weight,,main,COST
 2021-03-11,Wells Fargo,Overweight,Equal-Weight,up,COST
 2021-04-08,Deutsche Bank,Buy,,main,COST
@@ -233,12 +233,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-05-06,Telsey Advisory Group,Outperform,,main,COST
 2021-05-07,Raymond James,Outperform,,main,COST
 2021-05-18,Oppenheimer,Outperform,,main,COST
-2021-05-28,RBC Capital,Outperform,,main,COST
-2021-05-28,Stifel,Buy,,main,COST
-2021-05-28,Barclays,Overweight,,main,COST
-2021-05-28,Deutsche Bank,Hold,,main,COST
-2021-05-28,Raymond James,Outperform,,main,COST
 2021-05-28,Telsey Advisory Group,Outperform,,main,COST
+2021-05-28,Raymond James,Outperform,,main,COST
+2021-05-28,Deutsche Bank,Hold,,main,COST
+2021-05-28,Stifel,Buy,,main,COST
+2021-05-28,RBC Capital,Outperform,,main,COST
+2021-05-28,Barclays,Overweight,,main,COST
 2021-05-28,Loop Capital,Buy,,main,COST
 2021-06-01,DA Davidson,Neutral,,main,COST
 2021-06-01,Morgan Stanley,Overweight,,main,COST
@@ -250,8 +250,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-09,Oppenheimer,Outperform,,main,COST
 2021-07-09,Telsey Advisory Group,Outperform,,main,COST
 2021-08-05,Telsey Advisory Group,Outperform,,main,COST
-2021-08-05,Oppenheimer,Outperform,,main,COST
 2021-08-05,Loop Capital,Buy,,main,COST
+2021-08-05,Oppenheimer,Outperform,,main,COST
 2021-08-05,Raymond James,Outperform,,main,COST
 2021-09-02,Jefferies,Buy,,main,COST
 2021-09-02,Oppenheimer,Outperform,,main,COST
@@ -284,3 +284,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-10,Wells Fargo,Overweight,,main,COST
 2021-12-10,Telsey Advisory Group,Outperform,,main,COST
 2021-12-13,R5 Capital,Hold,Buy,down,COST
+2022-01-13,Truist Securities,Buy,,init,COST

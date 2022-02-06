@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARDS220218P00002500,2022-01-05 20:44:37+00:00,2.5,0.75,0.7,0.8,0.050000012,7.142859,15,119,2.50000375,True,REGULAR,USD,ARDS
+ARDS220218P00002500,2022-01-05 20:44:37+00:00,2.5,0.75,0.7,0.8,0.050000012,7.142859,15,119,2.8750028125,True,REGULAR,USD,ARDS

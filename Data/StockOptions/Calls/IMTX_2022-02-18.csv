@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMTX220218C00012500,2022-01-03 18:02:45+00:00,12.5,1.35,0.2,4.8,0.0,0.0,3,5,4.339848325195312,False,REGULAR,USD,IMTX
+IMTX220218C00012500,2022-01-28 15:46:18+00:00,12.5,0.05,0.0,0.75,0.0,0.0,2,14,1.6679704101562502,False,REGULAR,USD,IMTX

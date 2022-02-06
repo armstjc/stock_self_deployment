@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EXLS220218P00115000,2022-01-26 19:45:42+00:00,115.0,2.4,0.0,4.8,0.0,0.0,1,1,0.5205126074218749,False,REGULAR,USD,EXLS
+EXLS220218P00115000,2022-02-03 20:49:12+00:00,115.0,0.8,0.65,0.8,-1.6000001,-66.66667,79,1,0.30982135498046875,False,REGULAR,USD,EXLS

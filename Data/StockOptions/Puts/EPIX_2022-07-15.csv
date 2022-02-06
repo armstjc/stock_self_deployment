@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EPIX220715P00007500,2022-01-27 15:11:41+00:00,7.5,2.65,1.6,2.45,0.0,0.0,,2,1.3837921435546874,False,REGULAR,USD,EPIX
+EPIX220715P00007500,2022-01-27 15:11:41+00:00,7.5,2.65,1.2,2.7,0.0,0.0,,2,1.3095737646484373,False,REGULAR,USD,EPIX

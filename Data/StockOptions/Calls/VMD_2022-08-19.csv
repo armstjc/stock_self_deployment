@@ -1,3 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VMD220819C00005000,2021-12-16 15:20:43+00:00,5.0,1.43,0.75,0.0,0.0,0.0,,5,0.0312596875,False,REGULAR,USD,VMD
-VMD220819C00010000,2022-02-01 15:43:35+00:00,10.0,0.1,0.0,0.0,0.0,0.0,7.0,0,0.2500075,False,REGULAR,USD,VMD
+VMD220819C00005000,2021-12-16 15:20:43+00:00,5.0,1.43,0.65,1.4,0.0,0.0,,5,0.914063359375,False,REGULAR,USD,VMD

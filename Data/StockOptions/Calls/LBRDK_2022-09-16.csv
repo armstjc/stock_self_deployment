@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LBRDK220916C00110000,2022-01-20 16:30:43+00:00,110.0,39.0,43.0,47.5,0.0,0.0,,30,0.458135301513672,True,REGULAR,USD,LBRDK
+LBRDK220916C00160000,2022-01-27 17:40:22+00:00,160.0,5.0,7.0,11.8,0.0,0.0,,1,0.3075630767822265,False,REGULAR,USD,LBRDK

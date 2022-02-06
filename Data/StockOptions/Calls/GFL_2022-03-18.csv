@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GFL220318C00035000,2022-02-03 17:22:07+00:00,35.0,1.0,0.3,0.8,-0.5,-33.333336,1,10,0.4633842724609375,False,REGULAR,USD,GFL

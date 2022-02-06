@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMBK220414C00035000,2021-11-10 11:52:11+00:00,35.0,0.4,0.0,0.45,0.0,0.0,,5,0.5410202148437502,False,REGULAR,USD,SMBK
+SMBK220414C00035000,2021-11-10 11:52:11+00:00,35.0,0.4,0.0,0.45,0.0,0.0,,5,0.5542036767578126,False,REGULAR,USD,SMBK

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TWND220218C00010000,2021-12-27 16:54:52+00:00,10.0,0.05,0.0,0.05,0.0,0.0,,100,0.13672738281250002,False,REGULAR,USD,TWND
+TWND220218C00010000,2021-12-27 16:54:52+00:00,10.0,0.05,0.0,0.05,0.0,0.0,,100,0.14063359375,False,REGULAR,USD,TWND

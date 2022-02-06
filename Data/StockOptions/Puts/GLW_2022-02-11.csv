@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLW220211P00035000,2021-12-31 15:42:13+00:00,35.0,0.62,0.32,0.49,0.0,0.0,64,64,1.0976607617187502,False,REGULAR,USD,GLW
+GLW220211P00035000,2021-12-31 15:42:13+00:00,35.0,0.62,0.32,0.49,0.0,0.0,64,64,1.15234798828125,False,REGULAR,USD,GLW

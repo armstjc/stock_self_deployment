@@ -21,24 +21,25 @@ def run_threaded(job_func):
 def job1():
     print("Starting job 1")
     congress()
-    getInstitutionalHolders()
-
+    getStockOptions()
 
 def job2():
     print("Starting job 2")
-    getMajorHolders()
+    getStockHistory()
 
 def job3():
     print("Starting job 3")
-    getStockFinancials()
+    getInstitutionalHolders()
+
 
 def job4():
     print("Starting job 4")
-    getStockHistory()
+    getMajorHolders()
+
 
 def job5():
     print("Starting job 5")
-    getStockOptions()
+    getStockFinancials()
 
 def job6():
     print("Starting job 6")
@@ -69,10 +70,10 @@ def git_push():
 
 schedule.every().day.at("19:00").do(run_threaded, job1)
 schedule.every().day.at("19:01").do(run_threaded, job2)
-schedule.every().day.at("19:02").do(run_threaded, job3)
-schedule.every().day.at("19:03").do(run_threaded, job4)
-schedule.every().day.at("19:04").do(run_threaded, job5)
-schedule.every().day.at("19:05").do(run_threaded, job6)
+schedule.every().friday.at("19:02").do(run_threaded, job3)
+schedule.every().friday.at("19:03").do(run_threaded, job4)
+schedule.every().friday.at("19:04").do(run_threaded, job5)
+schedule.every().friday.at("19:05").do(run_threaded, job6)
 #schedule.every().day.at("14:23").do(run_threaded, git_push)
 
 while 1:

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SKIL220819P00007500,2022-01-06 15:13:24+00:00,7.5,0.6,0.95,4.1,0.0,0.0,,202,1.1044966650390626,True,REGULAR,USD,SKIL
+SKIL220819P00007500,2022-01-06 15:13:24+00:00,7.5,0.6,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,SKIL

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IEX220318C00210000,2022-01-28 19:22:51+00:00,210.0,9.4,5.2,9.0,0.0,0.0,2,2,0.36975727905273437,False,REGULAR,USD,IEX
-IEX220318C00220000,2022-02-02 16:49:40+00:00,220.0,4.06,1.15,5.0,-5.64,-58.144333,1,11,0.3518131225585937,False,REGULAR,USD,IEX

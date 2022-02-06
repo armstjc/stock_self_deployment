@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRVL220218P00180000,2021-12-22 17:05:12+00:00,180.0,4.5,7.5,11.0,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,CRVL
+CRVL220218P00180000,2021-12-22 17:05:12+00:00,180.0,4.5,1.5,5.3,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,CRVL

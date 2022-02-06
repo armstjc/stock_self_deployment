@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OZON220916C00020000,2022-01-28 20:00:01+00:00,20.0,2.85,4.9,5.5,0.0,0.0,6,8,0.6525913647460939,True,REGULAR,USD,OZON

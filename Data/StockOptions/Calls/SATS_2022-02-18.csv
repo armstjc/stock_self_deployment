@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SATS220218C00030000,2022-01-04 15:30:06+00:00,30.0,0.47,0.25,1.1,0.0,0.0,15,56,1.1259809326171877,False,REGULAR,USD,SATS
+SATS220218C00030000,2022-01-04 15:30:06+00:00,30.0,0.47,0.25,1.1,0.0,0.0,15,56,1.1357465087890626,False,REGULAR,USD,SATS

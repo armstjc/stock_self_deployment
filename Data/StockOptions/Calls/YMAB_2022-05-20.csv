@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YMAB220520C00017500,2021-11-16 14:30:06+00:00,17.5,7.0,0.6,5.5,0.0,0.0,,1,2.605472236328125,False,REGULAR,USD,YMAB
+YMAB220520C00017500,2021-11-16 14:30:06+00:00,17.5,7.0,0.6,5.5,0.0,0.0,,1,2.880862172851563,False,REGULAR,USD,YMAB

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AP220617P00005000,2021-12-20 14:30:01+00:00,5.0,1.05,0.5,1.25,0.0,0.0,5,37,0.98242205078125,False,REGULAR,USD,AP
+AP220617P00005000,2021-12-20 14:30:01+00:00,5.0,1.05,0.5,1.25,0.0,0.0,5,37,0.97460962890625,False,REGULAR,USD,AP

@@ -4,17 +4,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-05-15,UBS,Buy,,main,AAP
 2012-05-17,Oppenheimer,Perform,,main,AAP
 2012-05-17,Deutsche Bank,Hold,,down,AAP
-2012-05-18,Deutsche Bank,Hold,,main,AAP
 2012-05-18,UBS,Buy,,main,AAP
 2012-05-18,JP Morgan,Neutral,,main,AAP
+2012-05-18,Deutsche Bank,Hold,,main,AAP
 2012-06-27,UBS,Buy,,main,AAP
 2012-08-10,Barclays,Equal-Weight,,main,AAP
 2012-08-10,Credit Suisse,Neutral,Outperform,down,AAP
 2012-09-07,JP Morgan,Neutral,,main,AAP
 2012-10-22,Oppenheimer,Perform,,main,AAP
 2012-10-22,Deutsche Bank,Hold,,main,AAP
-2012-10-22,PiperJaffray,Overweight,,main,AAP
 2012-10-22,Goldman Sachs,Neutral,,main,AAP
+2012-10-22,PiperJaffray,Overweight,,main,AAP
 2012-11-09,Deutsche Bank,Hold,,main,AAP
 2013-02-08,Barclays,Equal-Weight,,main,AAP
 2013-02-08,JP Morgan,Overweight,Neutral,up,AAP
@@ -22,11 +22,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-07-26,Deutsche Bank,Buy,Hold,up,AAP
 2013-10-14,Wedbush,Underperform,,init,AAP
 2013-10-16,Bank of America,Buy,Neutral,up,AAP
+2013-10-17,Wedbush,Outperform,Underperform,up,AAP
 2013-10-17,Baird,Outperform,,main,AAP
 2013-10-17,Goldman Sachs,Neutral,,main,AAP
-2013-10-17,Wedbush,Outperform,Underperform,up,AAP
-2013-10-17,Wedbush,Outperform,Underperform,up,AAP
 2013-10-17,UBS,Buy,,main,AAP
+2013-10-17,Wedbush,Outperform,Underperform,up,AAP
 2013-10-25,RBC Capital,Outperform,Sector Perform,up,AAP
 2013-11-01,Deutsche Bank,Hold,,down,AAP
 2013-12-13,RBC Capital,Top Pick,Outperform,up,AAP
@@ -71,8 +71,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-08-17,Citigroup,Neutral,,main,AAP
 2016-08-17,Deutsche Bank,Buy,,main,AAP
 2016-10-19,BTIG Research,Sell,,main,AAP
-2016-11-15,Raymond James,Strong Buy,Outperform,up,AAP
 2016-11-15,Susquehanna,Positive,Neutral,up,AAP
+2016-11-15,Raymond James,Strong Buy,Outperform,up,AAP
 2016-12-14,Atlantic Equities,Overweight,,init,AAP
 2017-01-13,Bank of America,Neutral,Buy,down,AAP
 2017-01-17,Guggenheim,Neutral,,init,AAP
@@ -112,9 +112,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-11-06,Morgan Stanley,Overweight,Overweight,main,AAP
 2018-11-14,JP Morgan,Overweight,Overweight,main,AAP
 2018-11-14,Credit Suisse,Outperform,Outperform,main,AAP
-2018-11-14,Deutsche Bank,Buy,Buy,main,AAP
 2018-11-14,Citigroup,Neutral,Neutral,main,AAP
 2018-11-14,UBS,Buy,Buy,main,AAP
+2018-11-14,Deutsche Bank,Buy,Buy,main,AAP
 2019-01-07,Barclays,Overweight,Equal-Weight,up,AAP
 2019-01-09,Bank of America,Buy,Neutral,up,AAP
 2019-03-20,Evercore ISI Group,Outperform,,init,AAP
@@ -123,8 +123,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-08-14,Guggenheim,Neutral,Buy,down,AAP
 2019-08-14,Citigroup,Neutral,,main,AAP
 2019-08-14,Morgan Stanley,Overweight,,main,AAP
-2019-08-14,UBS,Buy,,main,AAP
 2019-08-14,Credit Suisse,Outperform,,main,AAP
+2019-08-14,UBS,Buy,,main,AAP
 2019-09-13,Citigroup,Buy,Neutral,up,AAP
 2019-11-04,UBS,Buy,,main,AAP
 2019-11-08,Nomura,Neutral,,init,AAP
@@ -135,8 +135,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-13,Morgan Stanley,Overweight,,main,AAP
 2020-02-18,CFRA,Hold,,main,AAP
 2020-02-19,UBS,Buy,,main,AAP
-2020-02-19,Stephens & Co.,Equal-Weight,,main,AAP
 2020-02-19,RBC Capital,Outperform,,main,AAP
+2020-02-19,Stephens & Co.,Equal-Weight,,main,AAP
 2020-02-20,Nomura,Neutral,,main,AAP
 2020-03-17,Morgan Stanley,Overweight,,main,AAP
 2020-03-19,Nomura,Neutral,,main,AAP
@@ -158,9 +158,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-06-15,Atlantic Equities,Underweight,Neutral,down,AAP
 2020-06-26,UBS,Buy,,main,AAP
 2020-08-14,DA Davidson,Neutral,,init,AAP
-2020-08-19,Credit Suisse,Outperform,,main,AAP
 2020-08-19,Goldman Sachs,Sell,,main,AAP
 2020-08-19,DA Davidson,Neutral,,main,AAP
+2020-08-19,Credit Suisse,Outperform,,main,AAP
 2020-09-14,Argus Research,Buy,,main,AAP
 2020-10-06,JP Morgan,Overweight,Neutral,up,AAP
 2020-10-21,Raymond James,Outperform,Market Perform,up,AAP
@@ -170,20 +170,20 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-17,Wells Fargo,Equal-Weight,,main,AAP
 2021-03-31,Morgan Stanley,Overweight,,main,AAP
 2021-04-16,Wedbush,Outperform,,main,AAP
-2021-04-21,RBC Capital,Outperform,,main,AAP
-2021-04-21,Morgan Stanley,Overweight,,main,AAP
 2021-04-21,Raymond James,Outperform,,main,AAP
+2021-04-21,RBC Capital,Outperform,,main,AAP
 2021-04-21,Wedbush,Outperform,,main,AAP
+2021-04-21,Morgan Stanley,Overweight,,main,AAP
 2021-05-04,Goldman Sachs,Buy,Sell,up,AAP
 2021-06-03,Citigroup,Buy,,main,AAP
 2021-06-03,RBC Capital,Outperform,,main,AAP
 2021-06-08,Argus Research,Buy,,main,AAP
 2021-07-27,Raymond James,Strong Buy,Outperform,up,AAP
 2021-08-17,Morgan Stanley,Overweight,,main,AAP
-2021-08-25,Credit Suisse,Outperform,,main,AAP
-2021-08-25,B of A Securities,Buy,,main,AAP
-2021-08-25,Citigroup,Buy,,main,AAP
 2021-08-25,Morgan Stanley,Overweight,,main,AAP
+2021-08-25,Credit Suisse,Outperform,,main,AAP
+2021-08-25,Citigroup,Buy,,main,AAP
+2021-08-25,B of A Securities,Buy,,main,AAP
 2021-08-27,Morgan Stanley,Equal-Weight,Overweight,down,AAP
 2021-11-10,Raymond James,Strong Buy,,main,AAP
 2021-11-11,Wells Fargo,Equal-Weight,,main,AAP
@@ -192,3 +192,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-17,Jefferies,Buy,,main,AAP
 2021-11-17,Morgan Stanley,Equal-Weight,,main,AAP
 2021-11-17,Raymond James,Strong Buy,,main,AAP
+2022-01-13,Truist Securities,Buy,,init,AAP
+2022-01-28,RBC Capital,Sector Perform,,init,AAP

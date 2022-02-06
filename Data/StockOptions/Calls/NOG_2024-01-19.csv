@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NOG240119C00027000,2021-12-31 17:55:25+00:00,27.0,4.8,3.3,6.8,0.0,0.0,4,4,0.5666547241210937,False,REGULAR,USD,NOG
+NOG240119C00027000,2021-12-31 17:55:25+00:00,27.0,4.8,3.3,6.8,0.0,0.0,4,4,0.5716595568847658,False,REGULAR,USD,NOG

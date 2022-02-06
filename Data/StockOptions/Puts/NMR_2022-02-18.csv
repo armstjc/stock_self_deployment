@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMR220218P00005000,2021-12-30 14:30:04+00:00,5.0,0.65,0.2,0.6,0.0,0.0,,10,0.6445348046875,True,REGULAR,USD,NMR
+NMR220218P00005000,2021-12-30 14:30:04+00:00,5.0,0.65,0.2,0.6,0.0,0.0,,10,1.0625046875000002,True,REGULAR,USD,NMR

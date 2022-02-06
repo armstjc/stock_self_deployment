@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BUSE220520P00020000,2021-11-10 11:59:36+00:00,20.0,1.05,0.0,2.5,0.0,0.0,,1,0.7861349511718749,False,REGULAR,USD,BUSE
+BUSE220520P00020000,2021-11-10 11:59:36+00:00,20.0,1.05,0.0,2.5,0.0,0.0,,1,0.7851583984375,False,REGULAR,USD,BUSE

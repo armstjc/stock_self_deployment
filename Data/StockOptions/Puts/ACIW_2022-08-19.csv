@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACIW220819P00025000,2022-01-26 16:49:39+00:00,25.0,0.9,0.45,0.75,0.0,0.0,,2,0.4204159521484375,False,REGULAR,USD,ACIW
+ACIW220819P00025000,2022-01-26 16:49:39+00:00,25.0,0.9,0.75,1.15,0.0,0.0,2,2,0.4687553125,False,REGULAR,USD,ACIW

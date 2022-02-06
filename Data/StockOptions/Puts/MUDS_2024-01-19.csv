@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MUDS240119P00012000,2021-11-10 11:50:58+00:00,12.0,2.5,2.5,5.1,0.0,0.0,,14,0.6792024267578126,True,REGULAR,USD,MUDS
+MUDS240119P00012000,2021-11-10 11:50:58+00:00,12.0,2.5,2.5,5.1,0.0,0.0,,14,0.6801789794921876,True,REGULAR,USD,MUDS

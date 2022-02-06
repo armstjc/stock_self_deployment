@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+AFIN220916P00007500,2022-02-03 20:20:15+00:00,7.5,0.7,0.55,0.75,0.029999971,4.4776073,441,46,0.42383388671875,False,REGULAR,USD,AFIN

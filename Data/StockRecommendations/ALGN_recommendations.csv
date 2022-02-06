@@ -94,23 +94,23 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-01,UBS,Neutral,,main,ALGN
 2020-07-14,SVB Leerink,Outperform,,main,ALGN
 2020-07-20,B of A Securities,Underperform,Neutral,down,ALGN
+2020-07-23,SVB Leerink,Outperform,,main,ALGN
 2020-07-23,Barclays,Equal-Weight,Overweight,down,ALGN
 2020-07-23,Piper Sandler,Overweight,,main,ALGN
-2020-07-23,SVB Leerink,Outperform,,main,ALGN
 2020-07-29,Berenberg,Hold,Buy,down,ALGN
-2020-10-22,Jefferies,Buy,,main,ALGN
-2020-10-22,SVB Leerink,Outperform,,main,ALGN
 2020-10-22,Piper Sandler,Overweight,,main,ALGN
 2020-10-22,Credit Suisse,Outperform,,main,ALGN
+2020-10-22,Jefferies,Buy,,main,ALGN
+2020-10-22,SVB Leerink,Outperform,,main,ALGN
 2020-10-28,Stifel,Buy,,main,ALGN
 2020-11-24,Credit Suisse,Outperform,,main,ALGN
 2020-11-24,SVB Leerink,Outperform,,main,ALGN
 2021-01-04,Evercore ISI Group,Outperform,In-Line,up,ALGN
 2021-02-02,Piper Sandler,Overweight,,main,ALGN
-2021-02-04,SVB Leerink,Outperform,,main,ALGN
 2021-02-04,Credit Suisse,Outperform,,main,ALGN
-2021-02-04,Piper Sandler,Overweight,,main,ALGN
+2021-02-04,SVB Leerink,Outperform,,main,ALGN
 2021-02-04,Barclays,Equal-Weight,,main,ALGN
+2021-02-04,Piper Sandler,Overweight,,main,ALGN
 2021-02-04,Evercore ISI Group,Outperform,,main,ALGN
 2021-04-15,SVB Leerink,Outperform,,main,ALGN
 2021-04-22,Berenberg,Buy,Hold,up,ALGN
@@ -121,3 +121,7 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-08,BNP Paribas,Outperform,,init,ALGN
 2021-07-09,Stephens & Co.,Overweight,Equal-Weight,up,ALGN
 2021-07-29,Credit Suisse,Outperform,,main,ALGN
+2022-01-31,UBS,Buy,Neutral,up,ALGN
+2022-01-31,Morgan Stanley,Overweight,,init,ALGN
+2022-02-03,Credit Suisse,Outperform,,main,ALGN
+2022-02-03,Stifel,Buy,,main,ALGN

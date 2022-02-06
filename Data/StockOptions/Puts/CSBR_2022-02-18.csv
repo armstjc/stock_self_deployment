@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSBR220218P00007500,2022-01-26 18:28:13+00:00,7.5,0.45,0.1,2.65,0.0,0.0,,1,2.410160224609375,False,REGULAR,USD,CSBR
+CSBR220218P00007500,2022-01-26 18:28:13+00:00,7.5,0.45,0.0,2.15,0.0,0.0,1,1,2.021489321289063,False,REGULAR,USD,CSBR

@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BIOC220318C00002500,2022-01-31 19:49:16+00:00,2.5,0.6,0.2,1.8,0.0,0.0,,4,2.6718783203125005,True,REGULAR,USD,BIOC
+BIOC220318C00005000,2022-02-02 16:50:07+00:00,5.0,0.08,0.05,0.2,0.0,0.0,4.0,73,1.609376953125,False,REGULAR,USD,BIOC

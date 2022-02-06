@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-IVR,INVESCO MORTGAGE CAPITAL INC,2.64,Real Estate,Stocks,NYQ,ICR
-ICE,Intercontinental Exchange Inc.,129.03,Financial Services,Stocks,NYQ,ICR
-VCR,Vanguard Consumer Discretion ET,307.84,,ETF,PCX,ICR
-ICHR,Ichor Holdings,42.7,Technology,Stocks,NMS,ICR
-IJR,iShares Core S&P Small-Cap ETF,106.46,,ETF,PCX,ICR
-ISR,"IsoRay, Inc.",0.39,Healthcare,Stocks,ASE,ICR
-ICL,ICL Group Ltd.,9.3,Basic Materials,Stocks,NYQ,ICR
-NCR,NCR Corporation,38.62,Technology,Stocks,NYQ,ICR
-IR,Ingersoll Rand Inc.,56.75,Industrials,Stocks,NYQ,ICR
-IYR,iShares U.S. Real Estate ETF,107.46,,ETF,PCX,ICR
-ICD,"Independence Contract Drilling,",3.24,Energy,Stocks,NYQ,ICR
-CR,Crane Co.,104.53,Industrials,Stocks,NYQ,ICR
-VICR,Vicor Corporation,94.47,Technology,Stocks,NMS,ICR
-INCR,Intercure Ltd.,6.41,Healthcare,Stocks,NGM,ICR
-ICLR,ICON plc,275.9,Healthcare,Stocks,NMS,ICR
-IMCR,Immunocore Holdings plc,24.18,Healthcare,Stocks,NMS,ICR
-IWR,iShares Russell Mid-Cap ETF,77.86,,ETF,PCX,ICR
-IGR,CBRE Clarion Global Real Estate,8.78,Financial Services,Stocks,NYQ,ICR
-ACR,ACRES Commercial Realty Corp.,12.19,Real Estate,Stocks,NYQ,ICR
-CIR,"CIRCOR International, Inc.",27.0,Industrials,Stocks,NYQ,ICR
-ICF,iShares Cohen & Steers REIT ETF,70.18,,ETF,BTS,ICR
-MCR,MFS Charter Income Trust,8.19,Financial Services,Stocks,NYQ,ICR
-MICR,MICRON SOLUTIONS INC,2.89,Healthcare,Stocks,PNK,ICR
-IOR,Income Opportunity Realty Inves,11.85,Financial Services,Stocks,ASE,ICR
-LCR,Leuthold Core ETF,30.86,,ETF,PCX,ICR
+IVR,INVESCO MORTGAGE CAPITAL INC,2.6,Real Estate,Stocks,NYQ,ICR
+ICE,Intercontinental Exchange Inc.,129.76,Financial Services,Stocks,NYQ,ICR
+VCR,Vanguard Consumer Discretion ET,306.38,,ETF,PCX,ICR
+ICHR,Ichor Holdings,41.36,Technology,Stocks,NMS,ICR
+IJR,iShares Core S&P Small-Cap ETF,104.93,,ETF,PCX,ICR
+NCR,NCR Corporation,37.35,Technology,Stocks,NYQ,ICR
+ISR,"IsoRay, Inc.",0.38,Healthcare,Stocks,ASE,ICR
+ICL,ICL Group Ltd.,9.46,Basic Materials,Stocks,NYQ,ICR
+IR,Ingersoll Rand Inc.,54.62,Industrials,Stocks,NYQ,ICR
+IYR,iShares U.S. Real Estate ETF,105.13,,ETF,PCX,ICR
+ICLR,ICON plc,267.03,Healthcare,Stocks,NMS,ICR
+ICD,"Independence Contract Drilling,",3.19,Energy,Stocks,NYQ,ICR
+CR,Crane Co.,102.25,Industrials,Stocks,NYQ,ICR
+VICR,Vicor Corporation,93.21,Technology,Stocks,NMS,ICR
+INCR,Intercure Ltd.,6.3,Healthcare,Stocks,NGM,ICR
+IMCR,Immunocore Holdings plc,24.56,Healthcare,Stocks,NMS,ICR
+IGR,CBRE Clarion Global Real Estate,8.51,Financial Services,Stocks,NYQ,ICR
+IWR,iShares Russell Mid-Cap ETF,76.67,,ETF,PCX,ICR
+ACR,ACRES Commercial Realty Corp.,12.18,Real Estate,Stocks,NYQ,ICR
+ICF,iShares Cohen & Steers REIT ETF,68.63,,ETF,BTS,ICR
+CIR,"CIRCOR International, Inc.",26.13,Industrials,Stocks,NYQ,ICR
+MCR,MFS Charter Income Trust,8.03,Financial Services,Stocks,NYQ,ICR
+MICR,MICRON SOLUTIONS INC,2.95,Healthcare,Stocks,PNK,ICR
+IOR,Income Opportunity Realty Inves,11.6,Financial Services,Stocks,ASE,ICR
+LCR,Leuthold Core ETF,30.75,,ETF,PCX,ICR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CECE220218P00007500,2022-01-28 16:21:46+00:00,7.5,1.19,0.65,2.05,0.0,0.0,10,0,2.1718795703125,True,REGULAR,USD,CECE
+CECE220218P00007500,2022-01-28 16:21:46+00:00,7.5,1.19,0.85,2.3,0.0,0.0,10,0,0.5625043750000001,True,REGULAR,USD,CECE

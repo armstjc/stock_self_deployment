@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KRTX220318P00120000,2022-01-21 15:27:53+00:00,120.0,15.88,16.6,21.5,0.0,0.0,10,10,0.6496617065429688,True,REGULAR,USD,KRTX

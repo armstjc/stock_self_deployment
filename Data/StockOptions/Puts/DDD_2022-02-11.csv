@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DDD220211P00018000,2022-01-05 14:55:58+00:00,18.0,0.42,0.7,0.86,0.06999999,19.999998,1,2,0.7246121289062499,False,REGULAR,USD,DDD
+DDD220211P00018000,2022-01-05 14:55:58+00:00,18.0,0.42,0.7,0.86,0.06999999,19.999998,1,2,1.0000000000000003e-05,True,REGULAR,USD,DDD

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRCE220617C00055000,2021-12-28 14:30:53+00:00,55.0,0.95,0.9,4.2,0.0,0.0,,1,0.5266160620117188,False,REGULAR,USD,SRCE
+SRCE220617C00055000,2022-01-28 20:41:55+00:00,55.0,1.1,0.0,0.0,0.0,0.0,1,0,0.0312596875,False,REGULAR,USD,SRCE

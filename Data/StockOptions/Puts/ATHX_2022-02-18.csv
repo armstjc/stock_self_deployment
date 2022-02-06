@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATHX220218P00001000,2022-01-05 20:49:32+00:00,1.0,0.2,0.15,0.3,0.040000007,25.000006,1,208,2.81250296875,False,REGULAR,USD,ATHX
+ATHX220218P00001000,2022-01-05 20:49:32+00:00,1.0,0.2,0.15,0.3,0.040000007,25.000006,1,208,2.43750390625,True,REGULAR,USD,ATHX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GGB220916C00007000,2022-01-26 15:22:14+00:00,7.0,0.28,0.2,0.4,0.0,0.0,,3,0.500005,False,REGULAR,USD,GGB
+GGB220916C00007000,2022-01-26 15:22:14+00:00,7.0,0.28,0.15,0.25,0.0,0.0,,3,0.42578699218750005,False,REGULAR,USD,GGB

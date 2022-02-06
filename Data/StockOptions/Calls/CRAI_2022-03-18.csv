@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CRAI220318C00085000,2022-01-28 18:29:34+00:00,85.0,1.0,2.7,7.5,0.0,0.0,1,1,0.649417568359375,False,REGULAR,USD,CRAI

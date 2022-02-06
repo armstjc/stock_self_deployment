@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AWH220218P00002500,2021-12-31 16:00:57+00:00,2.5,0.77,0.7,1.75,0.0,0.0,16,22,6.9062513671875,True,REGULAR,USD,AWH
+AWH220218P00002500,2021-12-31 16:00:57+00:00,2.5,0.77,0.7,1.75,0.0,0.0,16,22,6.937501328125,True,REGULAR,USD,AWH

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CATO220218C00020000,2022-01-04 18:29:14+00:00,20.0,0.25,0.1,0.9,0.0,0.0,4,10,1.1162153564453123,False,REGULAR,USD,CATO
+CATO220218C00020000,2022-01-04 18:29:14+00:00,20.0,0.25,0.1,0.9,0.0,0.0,4,10,1.19922275390625,False,REGULAR,USD,CATO

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VATE220819C00005000,2021-12-30 20:07:58+00:00,5.0,0.5,0.25,0.5,0.0,0.0,10,15,0.6543003320312502,False,REGULAR,USD,VATE
+VATE220819C00005000,2022-02-01 19:09:23+00:00,5.0,0.45,0.0,0.0,0.0,0.0,120,0,0.12500875,False,REGULAR,USD,VATE

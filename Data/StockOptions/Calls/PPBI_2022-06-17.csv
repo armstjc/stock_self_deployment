@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PPBI220617C00022500,2021-11-15 17:38:37+00:00,22.5,21.19,14.7,16.8,0.0,0.0,5,5,0.8432632861328124,True,REGULAR,USD,PPBI
+PPBI220617C00022500,2021-11-15 17:38:37+00:00,22.5,21.19,13.0,17.5,0.0,0.0,5,5,1.0727585424804689,True,REGULAR,USD,PPBI

@@ -12,8 +12,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-02-06,Compass Point,Buy,,main,PMT
 2014-05-08,Compass Point,Buy,,main,PMT
 2014-05-08,Wells Fargo,Market Perform,Outperform,down,PMT
-2014-10-10,PiperJaffray,Neutral,,init,PMT
 2014-10-10,Imperial Capital,Neutral,,init,PMT
+2014-10-10,PiperJaffray,Neutral,,init,PMT
 2015-02-05,Compass Point,Neutral,Buy,down,PMT
 2015-02-06,Citigroup,Buy,,main,PMT
 2015-05-08,Citigroup,Buy,,main,PMT
@@ -55,3 +55,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-09,B. Riley Securities,Buy,,init,PMT
 2021-10-18,JMP Securities,Market Outperform,,main,PMT
 2021-11-09,"Keefe, Bruyette & Woods",Market Perform,Outperform,down,PMT
+2022-01-07,BTIG,Buy,Neutral,up,PMT
+2022-01-07,JonesTrading,Buy,,init,PMT

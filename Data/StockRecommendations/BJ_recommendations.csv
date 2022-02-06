@@ -18,9 +18,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-03-21,Gordon Haskett,Buy,Accumulate,up,BJ
 2019-04-01,Citigroup,Buy,Buy,main,BJ
 2019-07-11,Goldman Sachs,Buy,,init,BJ
-2019-08-23,UBS,Buy,,main,BJ
-2019-08-23,Morgan Stanley,Equal-Weight,,main,BJ
 2019-08-23,Deutsche Bank,Buy,,main,BJ
+2019-08-23,Morgan Stanley,Equal-Weight,,main,BJ
+2019-08-23,UBS,Buy,,main,BJ
 2019-11-08,Nomura,Buy,,init,BJ
 2019-11-22,Deutsche Bank,Buy,,main,BJ
 2020-01-09,Gordon Haskett,Hold,Buy,down,BJ
@@ -39,19 +39,19 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-13,B of A Securities,Buy,,main,BJ
 2020-05-14,Credit Suisse,Outperform,,main,BJ
 2020-05-20,Wells Fargo,Overweight,,main,BJ
+2020-05-22,Nomura Instinet,Buy,,main,BJ
+2020-05-22,UBS,Buy,,main,BJ
+2020-05-22,Jefferies,Buy,,main,BJ
 2020-05-22,Deutsche Bank,Buy,,main,BJ
 2020-05-22,Barclays,Equal-Weight,,main,BJ
-2020-05-22,Jefferies,Buy,,main,BJ
-2020-05-22,UBS,Buy,,main,BJ
-2020-05-22,Nomura Instinet,Buy,,main,BJ
 2020-05-22,Bank of America,Buy,,reit,BJ
 2020-05-26,Morgan Stanley,Equal-Weight,,main,BJ
 2020-07-30,MKM Partners,Sell,,init,BJ
 2020-08-13,Deutsche Bank,Hold,Buy,down,BJ
 2020-08-14,DA Davidson,Buy,,init,BJ
-2020-08-21,Deutsche Bank,Hold,,main,BJ
-2020-08-21,Credit Suisse,Outperform,,main,BJ
 2020-08-21,Morgan Stanley,Equal-Weight,,main,BJ
+2020-08-21,Credit Suisse,Outperform,,main,BJ
+2020-08-21,Deutsche Bank,Hold,,main,BJ
 2020-08-21,MKM Partners,Sell,,main,BJ
 2020-10-29,MKM Partners,Neutral,Sell,up,BJ
 2020-12-14,JP Morgan,Neutral,Overweight,down,BJ
@@ -65,3 +65,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-11,Gordon Haskett,Buy,Hold,up,BJ
 2021-11-19,Citigroup,Neutral,,main,BJ
 2021-11-22,Morgan Stanley,Equal-Weight,,main,BJ
+2022-01-14,JP Morgan,Underweight,Overweight,down,BJ
+2022-01-18,Morgan Stanley,Equal-Weight,,main,BJ

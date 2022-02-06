@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LFST220218P00007500,2022-01-03 18:22:29+00:00,7.5,0.22,0.15,3.2,0.0,0.0,3,5,2.5898472753906248,True,REGULAR,USD,LFST
+LFST220218P00007500,2022-01-03 18:22:29+00:00,7.5,0.22,0.15,3.2,0.0,0.0,3,5,2.441410146484375,True,REGULAR,USD,LFST

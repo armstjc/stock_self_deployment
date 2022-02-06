@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AAU220617P00002500,2021-12-31 14:30:00+00:00,2.5,2.15,1.9,2.85,0.0,0.0,6,11,4.4687544140624995,True,REGULAR,USD,AAU
+AAU220617P00002500,2021-12-31 14:30:00+00:00,2.5,2.15,1.35,3.1,0.0,0.0,6,11,2.2500043749999996,True,REGULAR,USD,AAU

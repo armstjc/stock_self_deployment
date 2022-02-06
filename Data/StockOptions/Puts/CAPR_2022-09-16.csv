@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CAPR220916P00002500,2022-01-28 20:49:47+00:00,2.5,0.89,0.45,0.75,0.0,0.0,60,60,1.2812535937499998,False,REGULAR,USD,CAPR

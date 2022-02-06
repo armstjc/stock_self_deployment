@@ -1,3 +1,3 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
 USAK220218P00015000,2022-01-26 17:36:28+00:00,15.0,0.2,0.0,0.0,0.0,0.0,21,0,0.2500075,False,REGULAR,USD,USAK
-USAK220218P00017500,2022-01-31 15:48:24+00:00,17.5,0.75,0.0,0.0,0.0,0.0,2,0,0.12500875,False,REGULAR,USD,USAK
+USAK220218P00017500,2022-02-03 20:04:00+00:00,17.5,0.4,0.0,0.0,0.0,0.0,1,0,0.12500875,False,REGULAR,USD,USAK

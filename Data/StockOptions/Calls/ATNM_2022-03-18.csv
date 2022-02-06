@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATNM220318C00007500,2022-01-27 15:45:35,7.5,0.15,0.15,0.3,-0.099999994,-39.999996,5,13,1.0078174609375,False,REGULAR,USD,ATNM

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NTAP220204C00094000,2021-12-30 20:55:21+00:00,94.0,1.6,1.7,2.0,0.0,0.0,,2,1.4697292138671876,False,REGULAR,USD,NTAP
+NTAP220204C00094000,2021-12-30 20:55:21+00:00,94.0,1.6,1.7,2.0,0.0,0.0,,2,2.2109419726562494,False,REGULAR,USD,NTAP

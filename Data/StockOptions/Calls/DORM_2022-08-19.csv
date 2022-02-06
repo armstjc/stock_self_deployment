@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+DORM220819C00100000,2022-01-25 15:00:51+00:00,100.0,8.55,6.9,8.6,0.0,0.0,,50,0.4170590521240234,False,REGULAR,USD,DORM

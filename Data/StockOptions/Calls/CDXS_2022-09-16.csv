@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CDXS220916C00020000,2022-02-01 20:51:25+00:00,20.0,5.21,3.7,6.0,0.0,0.0,4,6,0.8034687622070311,False,REGULAR,USD,CDXS
+CDXS220916C00020000,2022-02-01 20:51:25+00:00,20.0,5.21,2.75,5.6,0.0,0.0,4,6,0.8100604931640624,False,REGULAR,USD,CDXS

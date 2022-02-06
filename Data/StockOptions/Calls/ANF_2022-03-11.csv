@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ANF220311C00039000,2022-02-01 15:32:04+00:00,39.0,3.45,2.2,2.5,0.0,0.0,,1,0.63867548828125,False,REGULAR,USD,ANF

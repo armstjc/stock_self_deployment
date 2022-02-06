@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IIN220218P00020000,2021-12-22 20:10:53+00:00,20.0,5.2,3.7,5.6,0.0,0.0,,0,0.9531254687499999,True,REGULAR,USD,IIN
+IIN220218P00020000,2021-12-22 20:10:53+00:00,20.0,5.2,3.7,5.6,0.0,0.0,,0,1.6289081054687498,True,REGULAR,USD,IIN

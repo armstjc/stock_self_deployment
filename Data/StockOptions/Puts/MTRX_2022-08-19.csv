@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MTRX220819P00005000,2021-12-28 20:53:34+00:00,5.0,0.31,0.15,0.45,0.0,0.0,1,11,0.5898478515625001,False,REGULAR,USD,MTRX
+MTRX220819P00005000,2021-12-28 20:53:34+00:00,5.0,0.31,0.15,0.45,0.0,0.0,1,11,0.5293015820312501,False,REGULAR,USD,MTRX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIR220819P00040000,2022-01-18 05:07:53+00:00,40.0,4.12,4.0,4.6,0.0,0.0,,1,0.41748629394531245,False,REGULAR,USD,AIR
+AIR220819P00040000,2022-01-18 05:07:53+00:00,40.0,4.12,4.1,4.8,0.0,0.0,,1,0.42090422851562503,False,REGULAR,USD,AIR

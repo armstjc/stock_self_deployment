@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RVNC240119P00012500,2022-01-19 20:50:21+00:00,12.5,3.0,2.5,6.0,0.0,0.0,2,0,0.657229990234375,False,REGULAR,USD,RVNC
-RVNC240119P00020000,2022-01-19 19:43:49+00:00,20.0,10.0,8.0,12.1,0.0,0.0,4,4,0.6799348413085939,True,REGULAR,USD,RVNC

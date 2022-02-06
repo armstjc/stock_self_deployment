@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SP220715P00025000,2021-12-16 20:50:12+00:00,25.0,2.6,0.05,2.85,0.0,0.0,20,235,0.5610395458984375,False,REGULAR,USD,SP
+SP220715P00025000,2021-12-16 20:50:12+00:00,25.0,2.6,0.05,2.85,0.0,0.0,20,235,0.5446822875976562,False,REGULAR,USD,SP

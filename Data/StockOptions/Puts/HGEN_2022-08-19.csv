@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HGEN220819P00002500,2022-01-05 18:09:25+00:00,2.5,0.59,0.6,1.35,0.0,0.0,2,10,1.3320345898437496,True,REGULAR,USD,HGEN
+HGEN220819P00002500,2022-01-05 18:09:25+00:00,2.5,0.59,0.6,1.35,0.0,0.0,2,10,1.2070352148437498,True,REGULAR,USD,HGEN

@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VAL220819P00030000,2022-01-05 16:06:10+00:00,30.0,2.0,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,VAL
+VAL220819P00035000,2022-02-02 15:54:31+00:00,35.0,3.1,0.0,0.0,0.0,0.0,1.0,0,0.062509375,False,REGULAR,USD,VAL
+VAL220819P00040000,2022-02-02 15:05:25+00:00,40.0,5.0,0.0,0.0,0.0,0.0,10.0,0,0.015634843750000002,False,REGULAR,USD,VAL

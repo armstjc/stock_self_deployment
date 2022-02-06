@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GROW220916C00002500,2022-02-03 19:12:22+00:00,2.5,3.1,2.9,3.1,-0.2800002,-8.284029,70,375,0.98437515625,True,REGULAR,USD,GROW

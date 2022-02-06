@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HSII220715P00045000,2021-11-22 16:39:05+00:00,45.0,5.1,4.3,7.2,0.0,0.0,,20,0.5571333349609376,True,REGULAR,USD,HSII
+HSII220715P00045000,2021-11-22 16:39:05+00:00,45.0,5.1,4.3,7.2,0.0,0.0,,20,0.5634809277343751,True,REGULAR,USD,HSII

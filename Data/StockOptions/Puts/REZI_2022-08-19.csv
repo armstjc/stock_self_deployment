@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-REZI220819P00017500,2022-01-05 19:15:08+00:00,17.5,1.25,0.8,1.25,0.0,0.0,7,8,0.5800823242187501,False,REGULAR,USD,REZI
+REZI220819P00017500,2022-01-05 19:15:08+00:00,17.5,1.25,0.8,1.25,0.0,0.0,7,8,0.5410202148437502,False,REGULAR,USD,REZI

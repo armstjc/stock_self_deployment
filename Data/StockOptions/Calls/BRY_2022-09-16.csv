@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRY220916C00010000,2022-01-24 19:26:13+00:00,10.0,1.55,0.9,1.35,0.0,0.0,,3,0.516606396484375,False,REGULAR,USD,BRY
+BRY220916C00010000,2022-01-24 19:26:13+00:00,10.0,1.55,1.0,1.5,0.0,0.0,,3,0.6025430371093752,False,REGULAR,USD,BRY

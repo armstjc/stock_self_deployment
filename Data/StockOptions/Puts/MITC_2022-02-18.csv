@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MITC220218P00005000,2022-01-24 16:10:28+00:00,5.0,0.5,0.05,4.8,0.0,0.0,,2,6.289064638671874,False,REGULAR,USD,MITC
+MITC220218P00005000,2022-01-24 16:10:28+00:00,5.0,0.5,0.0,0.0,0.0,0.0,,0,0.015634843750000002,False,REGULAR,USD,MITC

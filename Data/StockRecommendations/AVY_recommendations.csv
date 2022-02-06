@@ -84,8 +84,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-24,Citigroup,Neutral,Buy,down,AVY
 2019-12-17,Morgan Stanley,Equal-Weight,,init,AVY
 2020-01-07,Argus Research,Hold,,init,AVY
-2020-01-30,Baird,Outperform,,main,AVY
 2020-01-30,B of A Securities,Buy,,main,AVY
+2020-01-30,Baird,Outperform,,main,AVY
 2020-03-10,UBS,Buy,,main,AVY
 2020-03-11,Citigroup,Neutral,,main,AVY
 2020-03-18,Morgan Stanley,Equal-Weight,,main,AVY
@@ -113,3 +113,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-02,Morgan Stanley,Equal-Weight,,main,AVY
 2021-11-24,Raymond James,Outperform,,init,AVY
 2022-01-04,UBS,Neutral,,main,AVY
+2022-02-03,Raymond James,Outperform,,main,AVY

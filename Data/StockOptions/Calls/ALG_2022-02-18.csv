@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALG220218C00155000,2021-12-31 14:31:10+00:00,155.0,2.05,4.6,9.0,0.0,0.0,1,1,1.2241249731445314,False,REGULAR,USD,ALG
+ALG220218C00155000,2021-12-31 14:31:10+00:00,155.0,2.05,4.6,9.0,0.0,0.0,1,1,1.2277870642089845,False,REGULAR,USD,ALG

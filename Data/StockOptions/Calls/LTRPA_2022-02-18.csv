@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LTRPA220218C00002500,2022-01-31 18:26:56+00:00,2.5,0.1,0.0,0.1,0.0,0.0,52,62,0.7500025,False,REGULAR,USD,LTRPA
+LTRPA220218C00002500,2022-01-31 18:26:56+00:00,2.5,0.1,0.0,0.65,0.0,0.0,52,62,2.843752890625,False,REGULAR,USD,LTRPA

@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CFRX220318C00002500,2022-02-01 14:56:28+00:00,2.5,0.6,0.35,1.35,0.0,0.0,40,50,2.2656293359374997,True,REGULAR,USD,CFRX

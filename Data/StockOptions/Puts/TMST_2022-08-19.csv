@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TMST220819P00007500,2021-12-21 15:47:25+00:00,7.5,0.3,0.0,0.55,0.0,0.0,,1,0.7324245507812499,False,REGULAR,USD,TMST
+TMST220819P00007500,2021-12-21 15:47:25+00:00,7.5,0.3,0.0,0.55,0.0,0.0,,1,0.71679970703125,False,REGULAR,USD,TMST

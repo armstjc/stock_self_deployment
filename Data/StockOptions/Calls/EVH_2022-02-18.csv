@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVH220218C00030000,2022-01-03 20:43:00+00:00,30.0,0.85,0.0,1.2,0.0,0.0,3,34,1.203128984375,False,REGULAR,USD,EVH
+EVH220218C00030000,2022-01-03 20:43:00+00:00,30.0,0.85,0.0,1.2,0.0,0.0,3,34,1.3925811621093749,False,REGULAR,USD,EVH

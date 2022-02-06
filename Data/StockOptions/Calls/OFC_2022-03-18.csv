@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OFC220318C00030000,2022-01-05 17:59:47+00:00,30.0,0.7,0.0,0.75,0.0,0.0,37,238,0.6025430371093752,False,REGULAR,USD,OFC
+OFC220318C00030000,2022-01-05 17:59:47+00:00,30.0,0.7,0.0,0.0,0.0,0.0,37,0,0.12500875,False,REGULAR,USD,OFC

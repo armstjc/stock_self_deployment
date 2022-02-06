@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FSS220819C00050000,2021-12-17 19:18:14+00:00,50.0,1.8,0.35,2.75,0.0,0.0,1,1,0.5600629931640625,False,REGULAR,USD,FSS
+FSS220819C00050000,2021-12-17 19:18:14+00:00,50.0,1.8,0.1,2.65,0.0,0.0,1,1,0.5744671459960937,False,REGULAR,USD,FSS

@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MLI220916P00040000,2022-02-01 15:11:13+00:00,40.0,1.5,0.0,0.0,0.0,0.0,1.0,0,0.12500875,False,REGULAR,USD,MLI
+MLI220916P00045000,2022-02-01 14:40:00+00:00,45.0,2.6,0.0,0.0,0.0,0.0,30.0,0,0.062509375,False,REGULAR,USD,MLI
+MLI220916P00055000,2022-02-01 15:47:06+00:00,55.0,7.2,0.0,0.0,0.0,0.0,,0,0.0039162109375,False,REGULAR,USD,MLI

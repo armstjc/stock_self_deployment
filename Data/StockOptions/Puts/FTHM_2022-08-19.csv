@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTHM220819P00012500,2021-12-21 17:25:41+00:00,12.5,1.75,0.2,4.7,0.0,0.0,,750,0.7446314599609375,False,REGULAR,USD,FTHM
+FTHM220819P00012500,2021-12-21 17:25:41+00:00,12.5,1.75,0.2,4.7,0.0,0.0,,750,0.7221707470703125,False,REGULAR,USD,FTHM

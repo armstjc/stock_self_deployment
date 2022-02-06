@@ -1,14 +1,14 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2015-07-22 07:27:50,Roth Capital,Buy,,init,PIRS
-2015-07-27 09:13:37,Oppenheimer,Outperform,,init,PIRS
-2015-07-28 07:53:42,Oppenheimer,Outperform,,init,PIRS
-2015-08-12 07:22:47,JMP Securities,Market Outperform,,init,PIRS
-2016-03-09 12:54:21,JMP Securities,Market Outperform,,main,PIRS
-2017-05-30 16:08:33,Rodman & Renshaw,Buy,,init,PIRS
-2018-01-17 20:40:43,William Blair,Outperform,,init,PIRS
-2018-03-19 10:30:50,Jefferies,Buy,,init,PIRS
-2018-03-19 17:26:52,Evercore ISI Group,Outperform,,init,PIRS
-2018-05-04 12:27:44,Cowen & Co.,Outperform,,init,PIRS
-2019-05-14 11:11:24,Baird,Outperform,,init,PIRS
-2019-07-30 10:50:04,Baird,Neutral,Outperform,down,PIRS
-2020-03-13 14:26:48,Baird,Outperform,Neutral,up,PIRS
+2015-07-22,Roth Capital,Buy,,init,PIRS
+2015-07-27,Oppenheimer,Outperform,,init,PIRS
+2015-07-28,Oppenheimer,Outperform,,init,PIRS
+2015-08-12,JMP Securities,Market Outperform,,init,PIRS
+2016-03-09,JMP Securities,Market Outperform,,main,PIRS
+2017-05-30,Rodman & Renshaw,Buy,,init,PIRS
+2018-01-17,William Blair,Outperform,,init,PIRS
+2018-03-19,Jefferies,Buy,,init,PIRS
+2018-03-19,Evercore ISI Group,Outperform,,init,PIRS
+2018-05-04,Cowen & Co.,Outperform,,init,PIRS
+2019-05-14,Baird,Outperform,,init,PIRS
+2019-07-30,Baird,Neutral,Outperform,down,PIRS
+2020-03-13,Baird,Outperform,Neutral,up,PIRS

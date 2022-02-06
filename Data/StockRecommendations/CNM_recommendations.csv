@@ -1,20 +1,21 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2021-08-17,Truist Securities,Hold,,init,CNM
+2021-08-17,Baird,Outperform,,init,CNM
 2021-08-17,JP Morgan,Overweight,,init,CNM
 2021-08-17,Barclays,Equal-Weight,,init,CNM
 2021-08-17,Goldman Sachs,Neutral,,init,CNM
 2021-08-17,B of A Securities,Neutral,,init,CNM
 2021-08-17,Deutsche Bank,Buy,,init,CNM
 2021-08-17,Wolfe Research,Peer Perform,,init,CNM
+2021-08-17,Truist Securities,Hold,,init,CNM
 2021-08-17,Credit Suisse,Outperform,,init,CNM
 2021-08-17,RBC Capital,Sector Perform,,init,CNM
-2021-08-17,Baird,Outperform,,init,CNM
 2021-08-18,Citigroup,Buy,,init,CNM
-2021-09-15,RBC Capital,Sector Perform,,main,CNM
 2021-09-15,Credit Suisse,Outperform,,main,CNM
+2021-09-15,RBC Capital,Sector Perform,,main,CNM
 2021-09-16,Citigroup,Buy,,main,CNM
 2021-10-05,Berenberg,Hold,,init,CNM
 2021-12-08,Citigroup,Neutral,Buy,down,CNM
 2021-12-08,Credit Suisse,Outperform,,main,CNM
 2021-12-08,Deutsche Bank,Buy,,main,CNM
 2021-12-09,Barclays,Equal-Weight,,main,CNM
+2022-01-10,RBC Capital,Outperform,Sector Perform,up,CNM

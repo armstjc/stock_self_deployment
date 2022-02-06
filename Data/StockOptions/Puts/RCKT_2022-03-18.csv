@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RCKT220318P00012500,2022-01-28 15:49:14+00:00,12.5,0.75,0.25,0.45,0.0,0.0,4,4,0.82226740234375,False,REGULAR,USD,RCKT
+RCKT220318P00012500,2022-02-03 16:08:30+00:00,12.5,0.4,0.0,0.0,0.0,0.0,10,0,0.2500075,False,REGULAR,USD,RCKT

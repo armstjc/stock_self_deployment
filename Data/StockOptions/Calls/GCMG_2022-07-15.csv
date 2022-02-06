@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GCMG220715C00010000,2022-01-28 16:38:52+00:00,10.0,0.3,0.0,0.7,0.0,0.0,30,30,0.46582565429687506,False,REGULAR,USD,GCMG

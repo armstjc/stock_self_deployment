@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IAA230616P00060000,2022-01-24 20:01:37+00:00,60.0,18.8,16.6,19.9,0.0,0.0,,1,0.45300839965820316,True,REGULAR,USD,IAA

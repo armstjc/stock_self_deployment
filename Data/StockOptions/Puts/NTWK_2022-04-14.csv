@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NTWK220414P00005000,2022-01-04 14:54:21+00:00,5.0,1.0,0.5,1.8,0.0,0.0,1,3,0.7695335546875001,True,REGULAR,USD,NTWK
+NTWK220414P00005000,2022-01-04 14:54:21+00:00,5.0,1.0,1.0,1.65,0.0,0.0,1,3,0.93164130859375,True,REGULAR,USD,NTWK

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PGTI220520P00017500,2021-12-10 16:02:03+00:00,17.5,0.75,0.0,0.0,0.0,0.0,100,100,0.0312596875,False,REGULAR,USD,PGTI
+PGTI220520P00017500,2021-12-10 16:02:03+00:00,17.5,0.75,0.0,0.0,0.0,0.0,100,0,0.0312596875,False,REGULAR,USD,PGTI

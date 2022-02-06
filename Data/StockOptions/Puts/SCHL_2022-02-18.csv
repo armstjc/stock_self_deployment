@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SCHL220218P00035000,2022-01-24 17:33:14+00:00,35.0,0.2,0.0,2.35,0.0,0.0,8,11,1.0429735351562504,False,REGULAR,USD,SCHL
+SCHL220218P00035000,2021-12-23 14:30:18+00:00,35.0,0.3,0.0,0.65,0.0,0.0,3,3,0.6289099609375001,False,REGULAR,USD,SCHL

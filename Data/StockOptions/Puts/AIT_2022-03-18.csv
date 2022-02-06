@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIT220318P00095000,2022-01-25 20:49:43+00:00,95.0,4.8,0.3,5.0,0.0,0.0,,2,0.5137988073730468,False,REGULAR,USD,AIT

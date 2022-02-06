@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PSTH220204C00021000,2021-12-30 19:44:27+00:00,21.0,0.05,0.0,0.16,0.0,0.0,,6,0.7187528125,False,REGULAR,USD,PSTH
+PSTH220204C00021000,2021-12-30 19:44:27+00:00,21.0,0.05,0.0,0.16,0.0,0.0,,6,1.0390673046875003,False,REGULAR,USD,PSTH

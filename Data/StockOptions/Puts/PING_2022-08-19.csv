@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PING220819P00017500,2021-12-23 14:50:03+00:00,17.5,1.6,1.4,2.55,0.0,0.0,1,1,0.5041553491210937,False,REGULAR,USD,PING
+PING220819P00017500,2021-12-23 14:50:03+00:00,17.5,1.6,1.4,2.55,0.0,0.0,1,1,0.5732464550781251,False,REGULAR,USD,PING

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SO220311C00067000,2022-01-31 19:56:06+00:00,67.0,3.2,2.35,2.75,0.0,0.0,4,5,0.196297099609375,True,REGULAR,USD,SO
-SO220311C00070000,2022-01-31 20:02:25+00:00,70.0,1.25,0.7,1.0,0.0,0.0,7,6,0.1726156958007813,False,REGULAR,USD,SO

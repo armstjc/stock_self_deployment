@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USNA220414C00100000,2022-01-03 14:36:46+00:00,100.0,7.83,1.4,6.0,0.0,0.0,1,0,0.4870656762695313,False,REGULAR,USD,USNA
+USNA220414C00100000,2022-01-03 14:36:46+00:00,100.0,7.83,1.4,6.0,0.0,0.0,1,0,0.5177050183105469,False,REGULAR,USD,USNA

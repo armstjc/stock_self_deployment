@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EAR220218P00005000,2022-01-04 18:45:27+00:00,5.0,0.75,0.9,1.0,0.0,0.0,1,16,2.28906677734375,True,REGULAR,USD,EAR
+EAR220218P00005000,2022-01-04 18:45:27+00:00,5.0,0.75,0.9,1.0,0.0,0.0,1,16,2.175785810546875,True,REGULAR,USD,EAR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BSBR220218P00007500,2021-12-31 14:52:46+00:00,7.5,2.0,1.8,2.8,0.0,0.0,100,100,2.6250034375,True,REGULAR,USD,BSBR
+BSBR220218P00007500,2021-12-31 14:52:46+00:00,7.5,2.0,1.8,2.8,0.0,0.0,100,100,2.722659443359375,True,REGULAR,USD,BSBR

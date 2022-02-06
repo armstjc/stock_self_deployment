@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVTC220520P00055000,2021-12-16 20:50:59+00:00,55.0,8.55,8.1,11.4,0.0,0.0,1,1,0.3090889404296875,True,REGULAR,USD,EVTC
+EVTC220520P00055000,2021-12-16 20:50:59+00:00,55.0,8.55,6.7,9.5,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,EVTC

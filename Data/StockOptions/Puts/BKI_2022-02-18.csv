@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BKI220218P00070000,2021-12-31 15:41:56+00:00,70.0,0.45,0.6,0.8,0.0,0.0,5,5,0.34961587890624996,False,REGULAR,USD,BKI
+BKI220218P00070000,2021-12-31 15:41:56+00:00,70.0,0.45,0.6,0.8,0.0,0.0,5,5,0.2761302856445312,False,REGULAR,USD,BKI

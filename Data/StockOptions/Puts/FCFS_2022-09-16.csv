@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCFS220916P00070000,2022-01-31 14:41:51+00:00,70.0,10.1,6.0,10.9,0.0,0.0,1,2,0.4950001672363281,True,REGULAR,USD,FCFS
+FCFS220916P00070000,2022-01-31 14:41:51+00:00,70.0,10.1,6.5,10.9,0.0,0.0,1,2,0.48767602172851565,True,REGULAR,USD,FCFS

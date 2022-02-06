@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LTC220318C00035000,2022-02-03 18:11:22+00:00,35.0,0.75,0.6,1.2,-0.47000003,-38.524593,2,14,0.33399103515625,False,REGULAR,USD,LTC
+LTC220318C00040000,2022-01-31 18:40:11+00:00,40.0,0.25,0.0,0.2,0.0,0.0,3,11,0.35156898437499995,False,REGULAR,USD,LTC

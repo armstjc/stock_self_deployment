@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TTI220218P00002500,2021-12-21 15:34:23+00:00,2.5,0.16,0.0,0.2,0.0,0.0,,1,1.1875040625,False,REGULAR,USD,TTI
+TTI220218P00002500,2022-01-20 14:30:03+00:00,2.5,0.1,0.0,0.0,0.0,0.0,1,0,0.2500075,False,REGULAR,USD,TTI

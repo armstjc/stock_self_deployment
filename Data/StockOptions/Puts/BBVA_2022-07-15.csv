@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BBVA220715P00002500,2021-12-29 15:47:09+00:00,2.5,0.05,0.0,0.2,0.0,0.0,101,121,1.0429735351562504,False,REGULAR,USD,BBVA
+BBVA220715P00002500,2021-12-29 15:47:09+00:00,2.5,0.05,0.0,0.2,0.0,0.0,101,121,1.0312548437500002,False,REGULAR,USD,BBVA

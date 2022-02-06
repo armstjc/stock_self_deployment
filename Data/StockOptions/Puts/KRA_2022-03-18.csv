@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KRA220318P00045000,2022-01-28 15:41:51+00:00,45.0,0.25,0.0,5.0,0.0,0.0,5,5,0.5009815527343751,False,REGULAR,USD,KRA

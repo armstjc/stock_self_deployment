@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARMP220819C00007500,2022-01-20 17:51:04+00:00,7.5,0.8,0.05,3.3,0.0,0.0,,2,1.5468772656249998,False,REGULAR,USD,ARMP
+ARMP220819C00007500,2022-01-20 17:51:04+00:00,7.5,0.8,0.05,3.5,0.0,0.0,,2,1.7919932275390624,False,REGULAR,USD,ARMP

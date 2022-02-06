@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MASS220819P00030000,2022-01-07 20:09:30+00:00,30.0,11.3,14.3,15.8,0.0,0.0,5,5,0.8022480712890624,True,REGULAR,USD,MASS
+MASS220819P00030000,2022-01-07 20:09:30+00:00,30.0,11.3,14.8,16.4,0.0,0.0,5,5,0.8398453515625,True,REGULAR,USD,MASS

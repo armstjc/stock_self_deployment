@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FARO220218C00085000,2021-12-21 15:10:17+00:00,85.0,0.65,0.0,4.6,0.0,0.0,,22,2.113285966796875,False,REGULAR,USD,FARO
+FARO220218C00085000,2021-12-21 15:10:17+00:00,85.0,0.65,0.15,4.6,0.0,0.0,,22,2.317387019042968,False,REGULAR,USD,FARO

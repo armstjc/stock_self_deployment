@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RELY220318P00012500,2022-02-01 15:48:25+00:00,12.5,1.45,1.75,2.0,0.0,0.0,1,1,0.85937640625,True,REGULAR,USD,RELY
-RELY220318P00015000,2022-01-21 14:51:19+00:00,15.0,2.3,3.6,3.9,0.0,0.0,1,1,0.85742330078125,True,REGULAR,USD,RELY

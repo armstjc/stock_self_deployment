@@ -22,44 +22,44 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-21,RBC Capital,Outperform,Sector Perform,up,CHWY
 2020-02-24,Evercore ISI Group,Outperform,,init,CHWY
 2020-03-18,JP Morgan,Overweight,,main,CHWY
-2020-04-03,JP Morgan,Overweight,,main,CHWY
 2020-04-03,Credit Suisse,Outperform,,main,CHWY
 2020-04-03,Nomura,Buy,,main,CHWY
 2020-04-03,RBC Capital,Outperform,,reit,CHWY
 2020-04-03,Morgan Stanley,Overweight,,main,CHWY
-2020-04-17,Morgan Stanley,Equal-Weight,Overweight,down,CHWY
+2020-04-03,JP Morgan,Overweight,,main,CHWY
 2020-04-17,Credit Suisse,Outperform,,main,CHWY
+2020-04-17,Morgan Stanley,Equal-Weight,Overweight,down,CHWY
 2020-04-21,UBS,Neutral,Buy,down,CHWY
-2020-06-10,RBC Capital,Outperform,Accumulate,main,CHWY
+2020-06-10,Credit Suisse,Outperform,,main,CHWY
 2020-06-10,UBS,Neutral,,main,CHWY
 2020-06-10,B of A Securities,Buy,,main,CHWY
 2020-06-10,Nomura Instinet,Buy,,main,CHWY
-2020-06-10,Credit Suisse,Outperform,,main,CHWY
+2020-06-10,RBC Capital,Outperform,Accumulate,main,CHWY
 2020-06-22,Morgan Stanley,Equal-Weight,,main,CHWY
 2020-07-15,Cleveland Research,Buy,,init,CHWY
+2020-09-11,B of A Securities,Buy,,main,CHWY
 2020-09-11,Morgan Stanley,Equal-Weight,,main,CHWY
 2020-09-11,Credit Suisse,Outperform,,main,CHWY
-2020-09-11,B of A Securities,Buy,,main,CHWY
 2020-10-16,Jefferies,Buy,Hold,up,CHWY
 2020-11-13,Piper Sandler,Overweight,,init,CHWY
 2020-11-16,Needham,Buy,,init,CHWY
 2020-12-09,Credit Suisse,Outperform,,main,CHWY
-2020-12-09,Morgan Stanley,Equal-Weight,,main,CHWY
 2020-12-09,Needham,Buy,,main,CHWY
+2020-12-09,Morgan Stanley,Equal-Weight,,main,CHWY
 2021-01-13,Credit Suisse,Outperform,,main,CHWY
 2021-01-15,Morgan Stanley,Equal-Weight,,main,CHWY
 2021-01-19,Needham,Buy,,main,CHWY
 2021-01-19,UBS,Sell,Neutral,down,CHWY
 2021-03-09,Citigroup,Neutral,,init,CHWY
-2021-03-31,Jefferies,Buy,,main,CHWY
 2021-03-31,Morgan Stanley,Equal-Weight,,main,CHWY
+2021-03-31,Jefferies,Buy,,main,CHWY
 2021-04-01,Wolfe Research,Peer Perform,,init,CHWY
 2021-04-12,CFRA,Hold,,init,CHWY
 2021-05-03,Guggenheim,Buy,,init,CHWY
 2021-07-16,BNP Paribas,Outperform,,init,CHWY
 2021-07-28,Baird,Outperform,,init,CHWY
-2021-09-02,Morgan Stanley,Equal-Weight,,main,CHWY
 2021-09-02,Barclays,Equal-Weight,,main,CHWY
+2021-09-02,Morgan Stanley,Equal-Weight,,main,CHWY
 2021-09-02,CFRA,Hold,,main,CHWY
 2021-09-13,Goldman Sachs,Neutral,,init,CHWY
 2021-09-28,Wolfe Research,Outperform,Peer Perform,up,CHWY
@@ -69,3 +69,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-10,Morgan Stanley,Equal-Weight,,main,CHWY
 2021-12-13,Goldman Sachs,Neutral,,main,CHWY
 2021-12-16,Citigroup,Neutral,,main,CHWY
+2022-01-07,Piper Sandler,Neutral,Overweight,down,CHWY
+2022-01-28,RBC Capital,Outperform,,init,CHWY

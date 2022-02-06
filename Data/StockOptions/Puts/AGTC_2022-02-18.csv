@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGTC220218P00002500,2022-02-02 18:16:01+00:00,2.5,0.55,0.4,0.65,0.09,19.565218,16,39,0.98437515625,True,REGULAR,USD,AGTC
+AGTC220218P00002500,2021-12-27 19:40:08+00:00,2.5,0.78,0.2,0.9,0.0,0.0,,5,1.2500037499999999,True,REGULAR,USD,AGTC

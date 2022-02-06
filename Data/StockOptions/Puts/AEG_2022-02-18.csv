@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AEG220218P00005000,2021-12-28 14:47:00+00:00,5.0,0.26,0.1,0.65,0.0,0.0,,30,1.6953140234375002,False,REGULAR,USD,AEG
+AEG220218P00005000,2021-12-28 14:47:00+00:00,5.0,0.26,0.1,0.65,0.0,0.0,,30,1.703126484375,False,REGULAR,USD,AEG

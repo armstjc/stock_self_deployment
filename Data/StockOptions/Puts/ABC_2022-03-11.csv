@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABC220311P00140000,2022-02-02 17:24:51+00:00,140.0,6.8,6.0,7.5,-2.3999996,-26.086954,1,1,0.2990792749023437,True,REGULAR,USD,ABC
+ABC220311P00140000,2022-02-03 17:23:20+00:00,140.0,5.2,5.5,6.7,-1.6000004,-23.529417,1,0,0.3205024005126953,True,REGULAR,USD,ABC

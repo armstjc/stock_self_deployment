@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DTEA220819P00002500,2022-01-04 18:22:06+00:00,2.5,0.5,0.45,1.0,0.0,0.0,50,51,1.25390998046875,False,REGULAR,USD,DTEA
+DTEA220819P00002500,2022-01-26 15:41:53+00:00,2.5,0.5,0.4,0.7,0.0,0.0,4,56,1.0039112304687499,False,REGULAR,USD,DTEA

@@ -1,3 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TTNP220819C00002500,2022-02-01 15:17:23+00:00,2.5,0.2,0.0,0.0,0.0,0.0,10,0,0.2500075,False,REGULAR,USD,TTNP
-TTNP220819C00005000,2022-01-21 15:15:17+00:00,5.0,0.35,0.0,0.0,0.0,0.0,1,0,0.500005,False,REGULAR,USD,TTNP
+TTNP220819C00002500,2021-12-31 15:48:33+00:00,2.5,1.0,0.05,2.5,0.0,0.0,8,11,0.0,False,REGULAR,USD,TTNP

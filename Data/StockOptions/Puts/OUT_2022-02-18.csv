@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OUT220218P00025000,2021-12-31 15:30:04+00:00,25.0,0.55,0.3,1.8,0.0,0.0,1,3,0.7666038964843751,True,REGULAR,USD,OUT
+OUT220218P00025000,2022-01-28 20:46:25+00:00,25.0,2.07,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,OUT

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CAE220218P00025000,2021-12-30 20:15:13+00:00,25.0,1.4,1.0,2.05,0.0,0.0,,1,0.92773509765625,False,REGULAR,USD,CAE
+CAE220218P00025000,2021-12-30 20:15:13+00:00,25.0,1.4,1.0,2.05,0.0,0.0,,1,0.726565234375,True,REGULAR,USD,CAE

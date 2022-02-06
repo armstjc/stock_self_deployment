@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TOL220211C00070000,2021-12-30 18:41:40+00:00,70.0,4.5,2.2,2.95,0.0,0.0,,5,1.5502952172851558,False,REGULAR,USD,TOL
+TOL220211C00070000,2021-12-30 18:41:40+00:00,70.0,4.5,2.2,2.95,0.0,0.0,,5,1.8579108666992186,False,REGULAR,USD,TOL

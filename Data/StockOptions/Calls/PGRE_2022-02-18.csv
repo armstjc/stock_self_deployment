@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PGRE220218C00010000,2022-02-01 20:36:38+00:00,10.0,0.1,0.0,0.25,0.0,0.0,2,108,0.570316796875,False,REGULAR,USD,PGRE
+PGRE220218C00010000,2022-02-01 20:36:38+00:00,10.0,0.1,0.0,0.0,0.0,0.0,2,0,0.12500875,False,REGULAR,USD,PGRE

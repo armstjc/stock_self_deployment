@@ -21,8 +21,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-03-30,Goldman Sachs,Neutral,Buy,down,LTHM
 2020-04-06,BMO Capital,Market Perform,Underperform,up,LTHM
 2020-04-09,Citigroup,Neutral,,main,LTHM
-2020-05-12,Credit Suisse,Neutral,,main,LTHM
 2020-05-12,BMO Capital,Market Perform,,main,LTHM
+2020-05-12,Credit Suisse,Neutral,,main,LTHM
 2020-08-10,Citigroup,Neutral,,main,LTHM
 2020-08-26,Raymond James,Strong Buy,,init,LTHM
 2020-09-22,Evercore ISI Group,In-Line,,init,LTHM
@@ -42,3 +42,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-09,Citigroup,Neutral,Buy,down,LTHM
 2021-12-15,Goldman Sachs,Sell,Neutral,down,LTHM
 2022-01-04,Vertical Research,Buy,Hold,up,LTHM
+2022-02-01,B of A Securities,Neutral,Underperform,up,LTHM

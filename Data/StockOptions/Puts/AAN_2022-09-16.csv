@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AAN220916P00020000,2022-02-01 16:49:24+00:00,20.0,2.7,2.7,3.9,0.0,0.0,10,11,0.5866740551757812,False,REGULAR,USD,AAN
+AAN220916P00020000,2022-02-01 16:49:24+00:00,20.0,2.7,2.7,5.4,0.0,0.0,10,11,0.7331569653320311,False,REGULAR,USD,AAN

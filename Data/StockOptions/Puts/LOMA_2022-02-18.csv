@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LOMA220218P00005000,2022-01-24 14:53:10+00:00,5.0,0.1,0.0,0.2,0.0,0.0,,1,0.992187578125,False,REGULAR,USD,LOMA

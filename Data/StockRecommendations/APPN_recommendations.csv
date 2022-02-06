@@ -46,9 +46,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-12-01,Barclays,Underweight,Equal-Weight,down,APPN
 2021-01-19,Needham,Buy,,main,APPN
 2021-01-22,Morgan Stanley,Underweight,,main,APPN
-2021-02-19,Barclays,Underweight,,main,APPN
 2021-02-19,Goldman Sachs,Neutral,,main,APPN
 2021-02-19,Needham,Buy,,main,APPN
+2021-02-19,Barclays,Underweight,,main,APPN
 2021-05-07,Needham,Buy,,main,APPN
 2021-05-07,Morgan Stanley,Underweight,,main,APPN
 2021-05-25,Macquarie,Neutral,Underperform,up,APPN
@@ -59,3 +59,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-08,Truist Securities,Buy,Hold,up,APPN
 2021-12-03,Morgan Stanley,Equal-Weight,Underweight,up,APPN
 2021-12-17,Truist Securities,Buy,,main,APPN
+2022-01-12,Barclays,Underweight,,main,APPN
+2022-01-25,Morgan Stanley,Equal-Weight,,main,APPN

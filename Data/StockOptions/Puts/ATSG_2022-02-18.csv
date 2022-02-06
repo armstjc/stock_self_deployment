@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATSG220218P00025000,2021-12-17 17:05:29+00:00,25.0,0.55,0.0,0.75,0.0,0.0,5,13,0.6953155468750001,False,REGULAR,USD,ATSG
+ATSG220218P00025000,2021-12-17 17:05:29+00:00,25.0,0.55,0.0,0.75,0.0,0.0,5,13,0.649417568359375,False,REGULAR,USD,ATSG

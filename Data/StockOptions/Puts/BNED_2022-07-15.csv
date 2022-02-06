@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BNED220715P00005000,2022-01-28 17:54:02+00:00,5.0,0.8,0.35,1.0,0.0,0.0,1,43,0.7402369726562499,False,REGULAR,USD,BNED
+BNED220715P00005000,2022-01-28 17:54:02+00:00,5.0,0.8,0.6,1.05,0.0,0.0,1,43,0.8378922460937499,False,REGULAR,USD,BNED

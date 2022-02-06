@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FBRT220218P00010000,2022-01-18 16:12:49+00:00,10.0,0.78,0.0,0.05,0.0,0.0,,1,0.7187528125,False,REGULAR,USD,FBRT
+FBRT220218P00010000,2022-01-18 16:12:49+00:00,10.0,0.78,0.0,0.05,0.0,0.0,,1,0.7656273437500001,False,REGULAR,USD,FBRT

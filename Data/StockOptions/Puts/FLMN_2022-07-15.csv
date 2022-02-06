@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FLMN220715P00005000,2022-01-04 20:45:14+00:00,5.0,0.67,0.65,1.0,0.0,0.0,2,49,0.692385888671875,False,REGULAR,USD,FLMN
+FLMN220715P00005000,2022-01-04 20:45:14+00:00,5.0,0.67,0.65,1.0,0.0,0.0,2,49,0.6796907031250001,False,REGULAR,USD,FLMN

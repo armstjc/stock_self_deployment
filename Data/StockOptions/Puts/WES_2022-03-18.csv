@@ -1,1 +1,4 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+WES220318P00020000,2022-01-24 17:44:43+00:00,20.0,0.9,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,WES
+WES220318P00021000,2022-02-01 17:21:47+00:00,21.0,0.44,0.0,0.0,0.0,0.0,1.0,0,0.12500875,False,REGULAR,USD,WES
+WES220318P00023000,2022-02-03 17:25:23+00:00,23.0,0.6,0.0,0.0,0.0,0.0,20.0,0,0.062509375,False,REGULAR,USD,WES

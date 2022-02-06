@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSBR220520C00007500,2021-11-10 11:50:08+00:00,7.5,4.1,0.05,4.2,0.0,0.0,,1,1.2109414453124998,True,REGULAR,USD,CSBR
+CSBR220520C00007500,2021-11-10 11:50:08+00:00,7.5,4.1,0.05,4.2,0.0,0.0,,1,1.1953165234375,True,REGULAR,USD,CSBR

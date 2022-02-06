@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action,ABV
+2020-08-31,JP Morgan,Overweight,,init,OSH
+2020-08-31,Baird,Outperform,,init,OSH
+2020-08-31,Goldman Sachs,Buy,,init,OSH
+2020-08-31,Truist Securities,Buy,,init,OSH
+2020-08-31,William Blair,Outperform,,init,OSH
+2020-08-31,Piper Sandler,Overweight,,init,OSH
+2020-08-31,Morgan Stanley,Equal-Weight,,init,OSH
+2020-09-24,SVB Leerink,Outperform,,init,OSH
+2020-11-11,SVB Leerink,Outperform,,main,OSH
+2020-12-10,Raymond James,Outperform,,init,OSH
+2020-12-18,Morgan Stanley,Overweight,Equal-Weight,up,OSH
+2021-01-07,BTIG,Neutral,,init,OSH
+2021-02-12,Morgan Stanley,Overweight,,main,OSH
+2021-02-24,Canaccord Genuity,Buy,,init,OSH
+2021-03-12,Morgan Stanley,Overweight,,main,OSH
+2021-03-15,Evercore ISI Group,Outperform,,init,OSH
+2021-04-20,Cantor Fitzgerald,Overweight,,init,OSH
+2021-05-21,Bernstein,Outperform,,init,OSH
+2021-08-12,Barclays,Overweight,,init,OSH
+2021-08-12,Raymond James,Outperform,,main,OSH
+2021-08-31,Morgan Stanley,Overweight,,main,OSH
+2021-09-07,Baird,Outperform,,init,OSH
+2021-09-08,Goldman Sachs,Buy,,init,OSH
+2021-09-10,Cowen & Co.,Outperform,,init,OSH
+2021-09-27,SVB Leerink,Market Perform,,init,OSH
+2021-10-20,Jefferies,Buy,,init,OSH
+2021-11-10,SVB Leerink,Market Perform,,main,OSH
+2021-11-12,Morgan Stanley,Overweight,,main,OSH
+2021-12-16,Morgan Stanley,Equal-Weight,Overweight,down,OSH
+2021-12-17,Morgan Stanley,Equal-Weight,Overweight,down,OSH

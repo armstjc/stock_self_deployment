@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ADUS220715P00060000,2021-12-30 16:36:22+00:00,60.0,0.95,0.8,2.3,0.0,0.0,,1,0.4588677160644532,False,REGULAR,USD,ADUS
+ADUS220715P00060000,2021-12-30 16:36:22+00:00,60.0,0.95,0.8,2.3,0.0,0.0,,1,0.4348201049804688,False,REGULAR,USD,ADUS

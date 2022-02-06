@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WATT220819C00002500,2021-12-31 19:20:03+00:00,2.5,0.15,0.1,0.2,0.0,0.0,1,16,1.2734411328124997,False,REGULAR,USD,WATT
+WATT220819C00002500,2021-12-31 19:20:03+00:00,2.5,0.15,0.1,0.2,0.0,0.0,1,16,1.2890660546875,False,REGULAR,USD,WATT

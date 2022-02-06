@@ -1,0 +1,4 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+UAN220318P00070000,2022-01-28 15:48:14+00:00,70.0,1.75,0.0,0.0,0.0,0.0,1,0,0.2500075,False,REGULAR,USD,UAN
+UAN220318P00090000,2022-02-03 20:54:09+00:00,90.0,4.1,0.0,0.0,0.0,0.0,1,0,0.12500875,False,REGULAR,USD,UAN
+UAN220318P00095000,2022-02-01 19:55:18+00:00,95.0,6.0,0.0,0.0,0.0,0.0,2,0,0.062509375,False,REGULAR,USD,UAN

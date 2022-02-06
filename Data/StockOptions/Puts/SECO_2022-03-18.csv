@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SECO220318P00002500,2021-12-13 19:15:27+00:00,2.5,2.1,1.75,2.5,0.0,0.0,1,9,2.750003125,True,REGULAR,USD,SECO
+SECO220318P00002500,2021-12-13 19:15:27+00:00,2.5,2.1,1.75,2.5,0.0,0.0,1,9,0.0,True,REGULAR,USD,SECO

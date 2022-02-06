@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNTY220916P00010000,2022-01-28 15:44:08+00:00,10.0,2.1,1.65,2.1,0.0,0.0,105,826,0.6044961425781252,False,REGULAR,USD,CNTY
+CNTY220916P00010000,2022-01-28 15:44:08+00:00,10.0,2.1,1.75,2.1,0.0,0.0,105,826,0.6127968408203126,True,REGULAR,USD,CNTY

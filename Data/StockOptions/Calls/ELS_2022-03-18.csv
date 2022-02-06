@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ELS220318C00075000,2022-01-31 20:57:50+00:00,75.0,4.65,4.7,6.0,0.0,0.0,2,33,0.33887379882812496,True,REGULAR,USD,ELS
+ELS220318C00075000,2022-01-31 20:57:50+00:00,75.0,4.65,2.5,7.0,0.0,0.0,2,33,0.4819387744140625,True,REGULAR,USD,ELS

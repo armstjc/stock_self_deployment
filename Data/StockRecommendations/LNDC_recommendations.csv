@@ -1,17 +1,17 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2013-03-25 10:18:12,Feltl & Co.,Strong Buy,,init,LNDC
-2014-03-10 08:00:00,Lake Street,Buy,,init,LNDC
-2014-04-01 06:49:01,Imperial Capital,Outperform,,init,LNDC
-2014-04-14 21:59:55,Northland Securities,Outperform,,main,LNDC
-2014-10-09 16:00:00,Feltl & Co.,,Buy,down,LNDC
-2015-04-02 09:00:00,Imperial Capital,Outperform,,main,LNDC
-2016-06-07 07:51:23,Maxim Group,Buy,,init,LNDC
-2016-07-08 10:31:32,Wedbush,Neutral,,init,LNDC
-2019-04-08 12:09:52,Roth Capital,Neutral,Buy,down,LNDC
-2019-08-23 11:09:39,DA Davidson,Buy,,init,LNDC
-2019-09-03 11:39:04,Barrington Research,Outperform,,init,LNDC
-2020-01-06 16:47:10,Barrington Research,Market Perform,Outperform,down,LNDC
-2021-04-09 12:30:04,Roth Capital,Buy,,main,LNDC
-2021-06-02 13:55:52,Barrington Research,Outperform,Market Perform,up,LNDC
-2021-07-30 13:45:45,Roth Capital,Buy,,main,LNDC
-2021-10-04 12:52:33,Roth Capital,Buy,,main,LNDC
+2013-03-25,Feltl & Co.,Strong Buy,,init,LNDC
+2014-03-10,Lake Street,Buy,,init,LNDC
+2014-04-01,Imperial Capital,Outperform,,init,LNDC
+2014-04-14,Northland Securities,Outperform,,main,LNDC
+2014-10-09,Feltl & Co.,,Buy,down,LNDC
+2015-04-02,Imperial Capital,Outperform,,main,LNDC
+2016-06-07,Maxim Group,Buy,,init,LNDC
+2016-07-08,Wedbush,Neutral,,init,LNDC
+2019-04-08,Roth Capital,Neutral,Buy,down,LNDC
+2019-08-23,DA Davidson,Buy,,init,LNDC
+2019-09-03,Barrington Research,Outperform,,init,LNDC
+2020-01-06,Barrington Research,Market Perform,Outperform,down,LNDC
+2021-04-09,Roth Capital,Buy,,main,LNDC
+2021-06-02,Barrington Research,Outperform,Market Perform,up,LNDC
+2021-07-30,Roth Capital,Buy,,main,LNDC
+2021-10-04,Roth Capital,Buy,,main,LNDC

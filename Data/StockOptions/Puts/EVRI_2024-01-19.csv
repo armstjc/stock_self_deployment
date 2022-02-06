@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVRI240119P00015000,2021-12-13 05:08:43+00:00,15.0,2.95,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,EVRI
+EVRI240119P00015000,2021-12-13 05:08:43+00:00,15.0,2.95,1.9,3.5,0.0,0.0,,1,0.5874064697265625,False,REGULAR,USD,EVRI

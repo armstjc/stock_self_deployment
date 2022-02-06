@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DCT220715C00040000,2021-12-21 18:19:45+00:00,40.0,2.41,0.6,2.45,0.0,0.0,,10,0.7307155834960937,False,REGULAR,USD,DCT
+DCT220715C00040000,2021-12-21 18:19:45+00:00,40.0,2.41,0.6,2.45,0.0,0.0,,10,0.7670921728515626,False,REGULAR,USD,DCT

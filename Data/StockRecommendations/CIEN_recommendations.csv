@@ -90,27 +90,27 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-03-09,Morgan Stanley,Equal-Weight,Equal-Weight,main,CIEN
 2018-05-03,JP Morgan,Overweight,,init,CIEN
 2018-05-24,Loop Capital,Buy,,init,CIEN
-2018-06-01,Citigroup,Buy,Buy,main,CIEN
-2018-06-01,B. Riley FBR,Buy,Buy,main,CIEN
 2018-06-01,BMO Capital,Outperform,Outperform,main,CIEN
 2018-06-01,JP Morgan,Overweight,Overweight,main,CIEN
+2018-06-01,Citigroup,Buy,Buy,main,CIEN
+2018-06-01,B. Riley FBR,Buy,Buy,main,CIEN
 2018-06-25,Morgan Stanley,Overweight,Equal-Weight,up,CIEN
 2018-07-26,UBS,Buy,Buy,main,CIEN
-2018-08-31,B. Riley FBR,Buy,Buy,main,CIEN
-2018-08-31,BMO Capital,Outperform,Outperform,main,CIEN
 2018-08-31,Citigroup,Buy,Buy,main,CIEN
 2018-08-31,Nomura,Buy,Buy,main,CIEN
+2018-08-31,BMO Capital,Outperform,Outperform,main,CIEN
+2018-08-31,B. Riley FBR,Buy,Buy,main,CIEN
 2018-08-31,Deutsche Bank,Hold,Hold,main,CIEN
 2018-09-13,Morgan Stanley,Equal-Weight,Overweight,down,CIEN
 2018-09-26,UBS,Neutral,Buy,down,CIEN
 2018-10-01,Northland Securities,Market Perform,Outperform,down,CIEN
 2018-10-23,Stifel Nicolaus,Buy,,init,CIEN
-2018-11-20,Needham,Hold,Buy,down,CIEN
 2018-11-20,MKM Partners,Buy,Buy,main,CIEN
+2018-11-20,Needham,Hold,Buy,down,CIEN
 2018-12-14,MKM Partners,Buy,Buy,reit,CIEN
-2018-12-14,BMO Capital,Outperform,Outperform,reit,CIEN
 2018-12-14,Nomura,Buy,Buy,main,CIEN
 2018-12-14,Raymond James,Outperform,Outperform,main,CIEN
+2018-12-14,BMO Capital,Outperform,Outperform,reit,CIEN
 2019-01-22,Jefferies,Buy,Buy,reit,CIEN
 2019-01-30,Bank of America,Neutral,Buy,down,CIEN
 2019-03-06,B. Riley FBR,Buy,Buy,main,CIEN
@@ -118,23 +118,23 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-03-06,Nomura,Buy,Buy,main,CIEN
 2019-03-06,BMO Capital,Outperform,Outperform,main,CIEN
 2019-04-15,Northland Securities,Outperform,Market Perform,up,CIEN
-2019-06-07,Raymond James,Outperform,,main,CIEN
-2019-06-07,Nomura,Buy,,main,CIEN
 2019-06-07,B. Riley,Buy,,main,CIEN
 2019-06-07,Stifel Nicolaus,Buy,,main,CIEN
+2019-06-07,Nomura,Buy,,main,CIEN
+2019-06-07,Raymond James,Outperform,,main,CIEN
 2019-08-08,Barclays,Overweight,,init,CIEN
 2019-08-29,Rosenblatt,Buy,Neutral,up,CIEN
-2019-09-06,JP Morgan,Overweight,,main,CIEN
 2019-09-06,B. Riley,Buy,,main,CIEN
 2019-09-06,Morgan Stanley,Equal-Weight,,main,CIEN
 2019-09-06,UBS,Neutral,,main,CIEN
 2019-09-06,Nomura,Buy,,main,CIEN
 2019-09-06,Barclays,Overweight,,main,CIEN
+2019-09-06,JP Morgan,Overweight,,main,CIEN
 2019-09-11,Evercore ISI Group,Outperform,,init,CIEN
 2019-12-06,UBS,Sell,Neutral,down,CIEN
-2019-12-13,Morgan Stanley,Equal-Weight,,main,CIEN
 2019-12-13,PiperJaffray,Overweight,Neutral,up,CIEN
 2019-12-13,Nomura,Buy,,main,CIEN
+2019-12-13,Morgan Stanley,Equal-Weight,,main,CIEN
 2019-12-13,Barclays,Overweight,,main,CIEN
 2020-01-08,Morgan Stanley,Overweight,Equal-Weight,up,CIEN
 2020-02-21,Nomura,Buy,,main,CIEN
@@ -154,12 +154,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-06-05,Nomura Instinet,Buy,,main,CIEN
 2020-06-05,Rosenblatt,Buy,,main,CIEN
 2020-07-21,Needham,Buy,Hold,up,CIEN
+2020-09-04,Rosenblatt,Buy,,main,CIEN
+2020-09-04,MKM Partners,Buy,,main,CIEN
 2020-09-04,Barclays,Overweight,,main,CIEN
 2020-09-04,Citigroup,Buy,,main,CIEN
-2020-09-04,Morgan Stanley,Equal-Weight,,main,CIEN
-2020-09-04,MKM Partners,Buy,,main,CIEN
-2020-09-04,Rosenblatt,Buy,,main,CIEN
 2020-09-04,Stifel,Buy,,main,CIEN
+2020-09-04,Morgan Stanley,Equal-Weight,,main,CIEN
 2020-09-17,Raymond James,Outperform,,main,CIEN
 2020-11-18,Rosenblatt,Neutral,Buy,down,CIEN
 2020-12-15,Morgan Stanley,Equal-Weight,,main,CIEN
@@ -174,3 +174,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-10,Needham,Buy,,main,CIEN
 2021-12-10,Raymond James,Outperform,,main,CIEN
 2021-12-28,Needham,Buy,,main,CIEN
+2022-01-13,Raymond James,Outperform,,main,CIEN

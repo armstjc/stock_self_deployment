@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMPR220218P00055000,2021-12-29 15:02:13+00:00,55.0,1.25,0.25,3.2,0.0,0.0,,1,1.0810592822265626,False,REGULAR,USD,CMPR
+CMPR220218P00055000,2021-12-29 15:02:13+00:00,55.0,1.25,0.25,3.2,0.0,0.0,,1,1.0488328808593752,False,REGULAR,USD,CMPR

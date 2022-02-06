@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CWK220318C00017500,2022-02-02 18:27:23+00:00,17.5,4.4,3.7,5.9,0.0,0.0,3,12,0.867188828125,True,REGULAR,USD,CWK
+CWK220318C00020000,2022-01-21 18:36:44+00:00,20.0,2.3,0.7,3.2,0.0,0.0,1,1,0.848634326171875,True,REGULAR,USD,CWK

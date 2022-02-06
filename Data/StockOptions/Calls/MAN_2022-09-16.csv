@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MAN220916C00110000,2022-01-28 20:47:34+00:00,110.0,7.1,7.2,8.5,0.0,0.0,12,11,0.30750204223632804,False,REGULAR,USD,MAN

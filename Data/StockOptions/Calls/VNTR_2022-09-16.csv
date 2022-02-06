@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VNTR220916C00005000,2022-01-31 16:51:28+00:00,5.0,0.13,0.0,0.0,0.0,0.0,3,0,0.2500075,False,REGULAR,USD,VNTR

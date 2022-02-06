@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LIVN220414C00100000,2022-01-03 15:15:09+00:00,100.0,4.8,1.35,4.9,0.0,0.0,3,300,0.7949239257812499,False,REGULAR,USD,LIVN
+LIVN220414C00100000,2022-01-03 15:15:09+00:00,100.0,4.8,1.35,4.9,0.0,0.0,3,300,0.8127460131835937,False,REGULAR,USD,LIVN

@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+JEF220916P00030000,2022-02-01 20:43:29+00:00,30.0,1.4,1.25,1.6,0.0,0.0,1,56,0.40405869384765625,False,REGULAR,USD,JEF

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSGS220318P00050000,2022-01-05 14:53:36+00:00,50.0,0.25,0.35,4.4,-1.01,-80.15873,18,18,0.747072841796875,False,REGULAR,USD,CSGS
+CSGS220318P00050000,2022-02-02 19:40:06+00:00,50.0,0.33,0.0,4.8,0.0,0.0,2,18,0.7172879833984375,False,REGULAR,USD,CSGS

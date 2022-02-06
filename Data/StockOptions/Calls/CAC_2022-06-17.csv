@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CAC220617C00055000,2022-01-26 16:28:51+00:00,55.0,1.6,0.65,0.95,0.0,0.0,5,7,0.23462679443359374,False,REGULAR,USD,CAC

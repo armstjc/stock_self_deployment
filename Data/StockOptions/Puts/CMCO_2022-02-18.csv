@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMCO220218P00040000,2021-12-29 20:40:46+00:00,40.0,0.65,0.35,1.9,0.0,0.0,,3,0.7500025,False,REGULAR,USD,CMCO
+CMCO220218P00040000,2021-12-29 20:40:46+00:00,40.0,0.65,0.35,1.9,0.0,0.0,,3,0.7509790527343749,False,REGULAR,USD,CMCO

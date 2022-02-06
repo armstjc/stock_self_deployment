@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NSR220414P00007500,2022-01-21 19:57:17+00:00,7.5,1.05,0.95,1.75,0.0,0.0,10,27,0.6093789062500001,True,REGULAR,USD,NSR
+NSR220414P00007500,2021-12-27 16:07:02+00:00,7.5,0.7,0.5,1.4,0.0,0.0,,10,0.6093789062500001,True,REGULAR,USD,NSR

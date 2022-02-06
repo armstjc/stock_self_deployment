@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SSB220617P00070000,2021-11-30 18:34:01+00:00,70.0,5.2,2.05,5.5,0.0,0.0,,19,0.504765694580078,False,REGULAR,USD,SSB
+SSB220617P00070000,2021-11-30 18:34:01+00:00,70.0,5.2,2.05,5.5,0.0,0.0,,19,0.5007374145507812,False,REGULAR,USD,SSB

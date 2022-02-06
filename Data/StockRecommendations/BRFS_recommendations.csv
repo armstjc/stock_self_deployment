@@ -1,27 +1,27 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-06-25 07:54:00,Miller Tabak,Buy,Hold,up,BRFS
-2012-09-06 10:13:00,Raymond James,Market Perform,Outperform,down,BRFS
-2012-09-14 08:51:00,Miller Tabak,Hold,Buy,down,BRFS
-2013-01-10 16:18:53,JP Morgan,Underweight,,main,BRFS
-2013-04-08 06:07:12,JP Morgan,Neutral,Underweight,up,BRFS
-2014-07-14 10:49:36,Miller Tabak,Neutral,Buy,down,BRFS
-2014-11-19 09:00:00,JP Morgan,Overweight,,main,BRFS
-2015-01-14 00:00:00,Miller Tabak,Buy,Hold,up,BRFS
-2015-03-11 07:37:54,Credit Suisse,Neutral,Outperform,down,BRFS
-2015-04-29 10:27:09,Bank of America,Buy,Neutral,up,BRFS
-2015-10-30 06:35:28,Bank of America,Neutral,Buy,down,BRFS
-2016-01-29 07:59:30,Deutsche Bank,Buy,Hold,up,BRFS
-2016-05-31 04:39:41,JP Morgan,Overweight,Neutral,up,BRFS
-2017-01-09 12:16:52,JP Morgan,Neutral,Overweight,down,BRFS
-2017-06-06 10:25:48,Barclays,Equal-Weight,,init,BRFS
-2017-09-14 17:39:52,JP Morgan,Overweight,Neutral,up,BRFS
-2018-02-23 14:27:57,JP Morgan,Neutral,Overweight,down,BRFS
-2018-03-19 11:51:05,UBS,Neutral,Buy,up,BRFS
-2018-07-09 14:47:37,Barclays,Overweight,Equal-Weight,up,BRFS
-2019-06-13 10:36:10,JP Morgan,Overweight,Neutral,up,BRFS
-2019-09-09 10:36:27,HSBC,Hold,Buy,down,BRFS
-2019-12-16 11:23:08,HSBC,Buy,Hold,up,BRFS
-2020-03-24 09:30:21,JP Morgan,Neutral,Overweight,down,BRFS
-2020-03-31 12:25:44,Barclays,Overweight,,main,BRFS
-2021-05-17 11:16:36,Barclays,Underweight,Equal-Weight,down,BRFS
-2021-06-28 09:27:50,Goldman Sachs,Neutral,Buy,down,BRFS
+2012-06-25,Miller Tabak,Buy,Hold,up,BRFS
+2012-09-06,Raymond James,Market Perform,Outperform,down,BRFS
+2012-09-14,Miller Tabak,Hold,Buy,down,BRFS
+2013-01-10,JP Morgan,Underweight,,main,BRFS
+2013-04-08,JP Morgan,Neutral,Underweight,up,BRFS
+2014-07-14,Miller Tabak,Neutral,Buy,down,BRFS
+2014-11-19,JP Morgan,Overweight,,main,BRFS
+2015-01-14,Miller Tabak,Buy,Hold,up,BRFS
+2015-03-11,Credit Suisse,Neutral,Outperform,down,BRFS
+2015-04-29,Bank of America,Buy,Neutral,up,BRFS
+2015-10-30,Bank of America,Neutral,Buy,down,BRFS
+2016-01-29,Deutsche Bank,Buy,Hold,up,BRFS
+2016-05-31,JP Morgan,Overweight,Neutral,up,BRFS
+2017-01-09,JP Morgan,Neutral,Overweight,down,BRFS
+2017-06-06,Barclays,Equal-Weight,,init,BRFS
+2017-09-14,JP Morgan,Overweight,Neutral,up,BRFS
+2018-02-23,JP Morgan,Neutral,Overweight,down,BRFS
+2018-03-19,UBS,Neutral,Buy,up,BRFS
+2018-07-09,Barclays,Overweight,Equal-Weight,up,BRFS
+2019-06-13,JP Morgan,Overweight,Neutral,up,BRFS
+2019-09-09,HSBC,Hold,Buy,down,BRFS
+2019-12-16,HSBC,Buy,Hold,up,BRFS
+2020-03-24,JP Morgan,Neutral,Overweight,down,BRFS
+2020-03-31,Barclays,Overweight,,main,BRFS
+2021-05-17,Barclays,Underweight,Equal-Weight,down,BRFS
+2021-06-28,Goldman Sachs,Neutral,Buy,down,BRFS

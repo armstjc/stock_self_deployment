@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-FB,"Meta Platforms, Inc.",323.0,Communication Services,Stocks,NMS,I
-PYPL,"PayPal Holdings, Inc.",132.57,Financial Services,Stocks,NMS,I
-GOOG,Alphabet Inc.,2960.73,Communication Services,Stocks,NMS,I
-AMD,"Advanced Micro Devices, Inc.",122.76,Technology,Stocks,NMS,I
-TSLA,"Tesla, Inc.",905.66,Consumer Cyclical,Stocks,NMS,I
-AAPL,Apple Inc.,175.84,Technology,Stocks,NMS,I
-AMZN,"Amazon.com, Inc.",3012.25,Consumer Cyclical,Stocks,NMS,I
-GOOGL,Alphabet Inc.,2960.0,Communication Services,Stocks,NMS,I
-T,AT&T Inc.,24.54,Communication Services,Stocks,NYQ,I
-AMC,"AMC Entertainment Holdings, Inc",15.42,Communication Services,Stocks,NYQ,I
-NIO,NIO Inc.,23.76,Consumer Cyclical,Stocks,NYQ,I
-NVAX,"Novavax, Inc.",89.44,Healthcare,Stocks,NMS,I
-QCOM,QUALCOMM Incorporated,188.2,Technology,Stocks,NMS,I
-NFLX,"Netflix, Inc.",429.48,Communication Services,Stocks,NMS,I
-SQ,"Block, Inc.",114.04,Technology,Stocks,NYQ,I
-SHOP,Shopify Inc.,885.88,Technology,Stocks,NYQ,I
-F,Ford Motor Company,20.63,Consumer Cyclical,Stocks,NYQ,I
-^DJI,Dow Jones Industrial Average,35629.33,,Index,DJI,I
-SOFI,"SoFi Technologies, Inc.",12.16,Financial Services,Stocks,NMS,I
-LCID,"Lucid Group, Inc.",27.68,Consumer Cyclical,Stocks,NMS,I
-QQQ,"Invesco QQQ Trust, Series 1",368.49,,ETF,NGM,I
-PLTR,Palantir Technologies Inc.,13.32,Technology,Stocks,NYQ,I
-UPS,"United Parcel Service, Inc.",232.11,Industrials,Stocks,NYQ,I
-INTC,Intel Corporation,49.51,Technology,Stocks,NMS,I
-HOOD,"Robinhood Markets, Inc.",14.02,Technology,Stocks,NMS,I
+FB,"Meta Platforms, Inc.",237.09,Communication Services,Stocks,NMS,I
+AMZN,"Amazon.com, Inc.",3152.79,Consumer Cyclical,Stocks,NMS,I
+SNAP,Snap Inc.,39.0,Communication Services,Stocks,NYQ,I
+F,Ford Motor Company,17.96,Consumer Cyclical,Stocks,NYQ,I
+TSLA,"Tesla, Inc.",923.32,Consumer Cyclical,Stocks,NMS,I
+PYPL,"PayPal Holdings, Inc.",126.08,Financial Services,Stocks,NMS,I
+AAPL,Apple Inc.,172.39,Technology,Stocks,NMS,I
+GOOG,Alphabet Inc.,2860.32,Communication Services,Stocks,NMS,I
+NVAX,"Novavax, Inc.",89.33,Healthcare,Stocks,NMS,I
+AMD,"Advanced Micro Devices, Inc.",123.6,Technology,Stocks,NMS,I
+PINS,"Pinterest, Inc.",27.25,Communication Services,Stocks,NYQ,I
+NIO,NIO Inc.,23.96,Consumer Cyclical,Stocks,NYQ,I
+^DJI,Dow Jones Industrial Average,35089.74,,Index,DJI,I
+AMC,"AMC Entertainment Holdings, Inc",15.35,Communication Services,Stocks,NYQ,I
+SQ,"Block, Inc.",108.87,Technology,Stocks,NYQ,I
+SHOP,Shopify Inc.,876.0,Technology,Stocks,NYQ,I
+QCOM,QUALCOMM Incorporated,179.47,Technology,Stocks,NMS,I
+NFLX,"Netflix, Inc.",410.17,Communication Services,Stocks,NMS,I
+U,Unity Software Inc.,108.66,Technology,Stocks,NYQ,I
+SENS,"Senseonics Holdings, Inc.",3.35,Healthcare,Stocks,ASE,I
+T,AT&T Inc.,24.08,Communication Services,Stocks,NYQ,I
+GOOGL,Alphabet Inc.,2865.86,Communication Services,Stocks,NMS,I
+QQQ,"Invesco QQQ Trust, Series 1",358.01,,ETF,NGM,I
+SOFI,"SoFi Technologies, Inc.",11.89,Financial Services,Stocks,NMS,I
+LCID,"Lucid Group, Inc.",27.55,Consumer Cyclical,Stocks,NMS,I

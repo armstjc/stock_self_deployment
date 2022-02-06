@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ADCT220318P00020000,2022-01-21 17:19:19+00:00,20.0,5.2,2.9,6.4,0.0,0.0,19,28,0.72851833984375,True,REGULAR,USD,ADCT
