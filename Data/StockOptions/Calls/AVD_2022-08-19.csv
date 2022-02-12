@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AVD220819C00015000,2021-12-21 19:16:38+00:00,15.0,1.9,2.45,2.8,0.0,0.0,,1,0.641605146484375,False,REGULAR,USD,AVD
+AVD220819C00015000,2021-12-21 19:16:38+00:00,15.0,1.9,2.45,2.8,0.0,0.0,,1,0.6279334082031252,False,REGULAR,USD,AVD

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OMP220318P00025000,2022-01-25 19:45:21+00:00,25.0,1.45,0.0,0.0,0.0,0.0,,2,1.0000000000000003e-05,True,REGULAR,USD,OMP
+OMP220318P00025000,2022-01-25 19:45:21+00:00,25.0,1.45,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,OMP

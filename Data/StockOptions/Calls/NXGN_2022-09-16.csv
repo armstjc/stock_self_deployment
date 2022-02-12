@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NXGN220916C00030000,2022-01-26 15:34:20+00:00,30.0,0.35,0.05,0.75,0.0,0.0,,1,0.5512740185546876,False,REGULAR,USD,NXGN

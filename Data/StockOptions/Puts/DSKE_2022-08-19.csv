@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DSKE220819P00010000,2021-12-29 19:56:23+00:00,10.0,1.35,0.2,1.65,0.0,0.0,,10,0.70898728515625,False,REGULAR,USD,DSKE
+DSKE220819P00010000,2021-12-29 19:56:23+00:00,10.0,1.35,1.45,1.85,0.0,0.0,,10,0.7534204345703125,False,REGULAR,USD,DSKE

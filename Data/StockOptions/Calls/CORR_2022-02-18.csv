@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CORR220218C00002500,2021-12-23 18:14:41+00:00,2.5,1.18,0.9,1.65,0.0,0.0,1,4,3.2187519531249995,True,REGULAR,USD,CORR
+CORR220218C00002500,2021-12-23 18:14:41+00:00,2.5,1.18,0.9,1.65,0.0,0.0,1,4,3.81250046875,True,REGULAR,USD,CORR

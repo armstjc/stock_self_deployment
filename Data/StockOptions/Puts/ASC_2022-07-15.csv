@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASC220715P00002500,2022-02-01 20:06:17+00:00,2.5,0.17,0.15,0.25,0.0,0.0,,6,0.7187528125,False,REGULAR,USD,ASC
+ASC220715P00002500,2022-02-01 20:06:17+00:00,2.5,0.17,0.05,0.55,0.0,0.0,,6,0.9726565234375,False,REGULAR,USD,ASC

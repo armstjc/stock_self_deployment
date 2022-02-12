@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITT220318C00100000,2022-02-02 17:49:10+00:00,100.0,1.45,1.15,1.5,0.0,0.0,15,19,0.3210517114257812,False,REGULAR,USD,ITT
+ITT220318C00100000,2022-02-02 17:49:10+00:00,100.0,1.45,0.75,0.9,0.0,0.0,15,19,0.27246821289062495,False,REGULAR,USD,ITT

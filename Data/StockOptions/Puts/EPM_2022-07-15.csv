@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EPM220715P00005000,2022-02-01 19:19:04+00:00,5.0,0.45,0.45,0.6,0.0,0.0,10,127,0.64062859375,False,REGULAR,USD,EPM
+EPM220715P00005000,2021-12-15 20:58:19+00:00,5.0,1.0,0.65,1.05,0.0,0.0,25,97,0.9492192578124999,False,REGULAR,USD,EPM

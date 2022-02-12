@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GABC220318C00040000,2021-11-26 15:54:38+00:00,40.0,2.77,1.1,2.8,0.0,0.0,11,2,0.5610395458984375,False,REGULAR,USD,GABC
+GABC220318C00040000,2021-11-26 15:54:38+00:00,40.0,2.77,1.1,2.8,0.0,0.0,11,2,0.57812921875,False,REGULAR,USD,GABC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANSS221216C00400000,2022-02-02 14:38:57+00:00,400.0,21.2,15.0,18.1,0.0,0.0,1,1,0.34610639251708974,False,REGULAR,USD,ANSS
+ANSS221216C00400000,2022-02-02 14:38:57+00:00,400.0,21.2,16.0,20.4,0.0,0.0,,1,0.3375157801818848,False,REGULAR,USD,ANSS

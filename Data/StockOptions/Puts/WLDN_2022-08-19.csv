@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WLDN220819P00030000,2021-12-28 16:41:47+00:00,30.0,4.64,3.7,7.2,0.0,0.0,,10,0.6098671826171876,True,REGULAR,USD,WLDN
+WLDN220819P00030000,2021-12-28 16:41:47+00:00,30.0,4.64,1.7,6.5,0.0,0.0,,10,0.5024463818359376,False,REGULAR,USD,WLDN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BSRR220617C00035000,2021-11-01 13:33:44+00:00,35.0,0.6,0.0,0.7,0.0,0.0,,5,0.45117736328125,False,REGULAR,USD,BSRR
+BSRR220617C00035000,2021-11-01 13:33:44+00:00,35.0,0.6,0.0,0.7,0.0,0.0,,5,0.44775942871093743,False,REGULAR,USD,BSRR

@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLPR220916C00010000,2022-01-24 18:54:55+00:00,10.0,0.99,0.65,1.3,0.0,0.0,,10,0.5478560839843751,False,REGULAR,USD,CLPR

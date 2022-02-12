@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PSNL220218P00010000,2021-12-20 20:56:37+00:00,10.0,0.75,0.05,2.75,0.0,0.0,,2,2.2675824560546873,False,REGULAR,USD,PSNL
+PSNL220218P00010000,2021-12-20 20:56:37+00:00,10.0,0.75,0.05,2.75,0.0,0.0,,2,3.519532451171875,False,REGULAR,USD,PSNL

@@ -1,46 +1,46 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2014-09-17,Stifel Nicolaus,Buy,,init,CBAY
-2014-09-19,Roth Capital,Buy,,init,CBAY
-2015-01-20,Stifel Nicolaus,Buy,,main,CBAY
-2015-05-08,Stifel Nicolaus,Buy,,main,CBAY
-2015-07-21,PiperJaffray,Overweight,,init,CBAY
-2015-09-08,H.C. Wainwright,Buy,,init,CBAY
-2016-03-30,H.C. Wainwright,Buy,,main,CBAY
-2016-06-01,H.C. Wainwright,Neutral,Buy,down,CBAY
-2017-01-30,H.C. Wainwright,Buy,Neutral,up,CBAY
-2017-06-23,Oppenheimer,Outperform,,init,CBAY
-2017-08-23,Leerink Swann,Outperform,,init,CBAY
-2017-09-20,Cantor Fitzgerald,Overweight,,init,CBAY
-2018-01-24,H.C. Wainwright,Buy,Buy,main,CBAY
-2018-02-13,Evercore ISI Group,Outperform,,init,CBAY
-2018-06-28,Raymond James,Outperform,,init,CBAY
-2019-02-06,B. Riley FBR,Neutral,,init,CBAY
-2019-05-14,Citigroup,Buy,,init,CBAY
-2019-05-14,Citi,Buy,,init,CBAY
-2019-06-12,Raymond James,Strong Buy,Outperform,up,CBAY
-2019-06-25,Stifel Nicolaus,Buy,,init,CBAY
-2019-11-25,Stifel,Hold,Buy,down,CBAY
-2019-11-25,Evercore ISI Group,In-Line,Outperform,down,CBAY
-2019-11-25,Oppenheimer,Perform,Outperform,down,CBAY
-2019-11-26,Cantor Fitzgerald,Neutral,Overweight,down,CBAY
-2019-11-26,Roth Capital,Neutral,Buy,down,CBAY
-2019-11-26,Raymond James,Market Perform,Strong Buy,down,CBAY
-2020-03-13,Cantor Fitzgerald,Overweight,Neutral,up,CBAY
-2020-03-18,B. Riley FBR,Neutral,,main,CBAY
-2020-03-20,Citigroup,Buy,,main,CBAY
-2020-05-12,Raymond James,Outperform,Market Perform,up,CBAY
-2020-05-12,Evercore ISI Group,Outperform,In-Line,up,CBAY
-2020-05-12,SVB Leerink,Outperform,Market Perform,up,CBAY
-2020-05-12,Stifel,Buy,Hold,up,CBAY
-2020-05-12,Cantor Fitzgerald,Overweight,,reit,CBAY
-2020-05-13,B. Riley FBR,Buy,Neutral,up,CBAY
-2020-05-26,HC Wainwright & Co.,Buy,Neutral,up,CBAY
-2020-07-31,Piper Sandler,Overweight,,init,CBAY
-2020-08-04,HC Wainwright & Co.,Buy,,main,CBAY
-2020-08-04,Cantor Fitzgerald,Overweight,,main,CBAY
-2020-08-11,Raymond James,Strong Buy,,main,CBAY
-2020-11-06,SVB Leerink,Outperform,,main,CBAY
-2020-11-06,Raymond James,Strong Buy,,main,CBAY
-2021-06-14,JonesTrading,Buy,,init,CBAY
-2021-08-03,HC Wainwright & Co.,Buy,,main,CBAY
-2021-11-11,Raymond James,Strong Buy,,main,CBAY
+2014-09-17 06:04:25,Stifel Nicolaus,Buy,,init,CBAY
+2014-09-19 05:35:04,Roth Capital,Buy,,init,CBAY
+2015-01-20 09:00:00,Stifel Nicolaus,Buy,,main,CBAY
+2015-05-08 09:00:00,Stifel Nicolaus,Buy,,main,CBAY
+2015-07-21 07:55:22,PiperJaffray,Overweight,,init,CBAY
+2015-09-08 07:08:51,H.C. Wainwright,Buy,,init,CBAY
+2016-03-30 07:06:21,H.C. Wainwright,Buy,,main,CBAY
+2016-06-01 07:06:19,H.C. Wainwright,Neutral,Buy,down,CBAY
+2017-01-30 12:24:57,H.C. Wainwright,Buy,Neutral,up,CBAY
+2017-06-23 13:46:29,Oppenheimer,Outperform,,init,CBAY
+2017-08-23 11:38:28,Leerink Swann,Outperform,,init,CBAY
+2017-09-20 12:44:15,Cantor Fitzgerald,Overweight,,init,CBAY
+2018-01-24 12:14:57,H.C. Wainwright,Buy,Buy,main,CBAY
+2018-02-13 14:24:52,Evercore ISI Group,Outperform,,init,CBAY
+2018-06-28 12:33:03,Raymond James,Outperform,,init,CBAY
+2019-02-06 13:11:09,B. Riley FBR,Neutral,,init,CBAY
+2019-05-14 11:17:54,Citigroup,Buy,,init,CBAY
+2019-05-14 11:30:05,Citi,Buy,,init,CBAY
+2019-06-12 10:45:56,Raymond James,Strong Buy,Outperform,up,CBAY
+2019-06-25 10:45:11,Stifel Nicolaus,Buy,,init,CBAY
+2019-11-25 14:23:24,Stifel,Hold,Buy,down,CBAY
+2019-11-25 15:31:36,Evercore ISI Group,In-Line,Outperform,down,CBAY
+2019-11-25 17:53:18,Oppenheimer,Perform,Outperform,down,CBAY
+2019-11-26 11:23:43,Raymond James,Market Perform,Strong Buy,down,CBAY
+2019-11-26 12:48:47,Cantor Fitzgerald,Neutral,Overweight,down,CBAY
+2019-11-26 15:09:24,Roth Capital,Neutral,Buy,down,CBAY
+2020-03-13 11:10:06,Cantor Fitzgerald,Overweight,Neutral,up,CBAY
+2020-03-18 11:00:03,B. Riley FBR,Neutral,,main,CBAY
+2020-03-20 13:12:07,Citigroup,Buy,,main,CBAY
+2020-05-12 10:20:19,Raymond James,Outperform,Market Perform,up,CBAY
+2020-05-12 10:21:47,Evercore ISI Group,Outperform,In-Line,up,CBAY
+2020-05-12 10:47:46,SVB Leerink,Outperform,Market Perform,up,CBAY
+2020-05-12 11:24:17,Stifel,Buy,Hold,up,CBAY
+2020-05-12 11:28:22,Cantor Fitzgerald,Overweight,,reit,CBAY
+2020-05-13 10:52:09,B. Riley FBR,Buy,Neutral,up,CBAY
+2020-05-26 11:28:58,HC Wainwright & Co.,Buy,Neutral,up,CBAY
+2020-07-31 17:00:29,Piper Sandler,Overweight,,init,CBAY
+2020-08-04 10:23:10,HC Wainwright & Co.,Buy,,main,CBAY
+2020-08-04 10:59:54,Cantor Fitzgerald,Overweight,,main,CBAY
+2020-08-11 12:01:10,Raymond James,Strong Buy,,main,CBAY
+2020-11-06 09:19:14,SVB Leerink,Outperform,,main,CBAY
+2020-11-06 14:34:02,Raymond James,Strong Buy,,main,CBAY
+2021-06-14 13:00:02,JonesTrading,Buy,,init,CBAY
+2021-08-03 10:25:05,HC Wainwright & Co.,Buy,,main,CBAY
+2021-11-11 14:23:22,Raymond James,Strong Buy,,main,CBAY

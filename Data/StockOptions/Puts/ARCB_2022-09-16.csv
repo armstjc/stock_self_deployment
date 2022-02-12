@@ -1,1 +1,3 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ARCB220916P00045000,2022-02-04 17:13:38+00:00,45.0,1.3,0.85,1.4,0.0,0.0,1,1,0.6391637646484375,False,REGULAR,USD,ARCB
+ARCB220916P00095000,2022-02-03 16:07:05+00:00,95.0,16.2,16.2,18.4,0.0,0.0,18,24,0.518681571044922,True,REGULAR,USD,ARCB

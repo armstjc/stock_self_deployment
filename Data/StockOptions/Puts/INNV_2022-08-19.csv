@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INNV220819P00002500,2022-01-18 05:06:24+00:00,2.5,0.35,0.1,0.4,0.0,0.0,,2,1.01953615234375,False,REGULAR,USD,INNV
-INNV220819P00005000,2022-01-19 17:18:06+00:00,5.0,1.48,1.15,1.75,0.0,0.0,,5,0.991211025390625,True,REGULAR,USD,INNV

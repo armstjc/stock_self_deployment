@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTI220218P00006000,2022-01-05 20:29:49+00:00,6.0,0.2,0.2,0.3,0.0,0.0,211,1209,0.98437515625,False,REGULAR,USD,FTI
+FTI220218P00006000,2022-01-05 20:29:49+00:00,6.0,0.2,0.2,0.3,0.0,0.0,211,1209,1.421877890625,False,REGULAR,USD,FTI

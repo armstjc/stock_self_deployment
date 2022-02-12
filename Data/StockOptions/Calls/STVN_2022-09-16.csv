@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STVN220916C00022500,2022-01-24 15:41:07+00:00,22.5,1.5,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,STVN
+STVN220916C00022500,2022-01-24 15:41:07+00:00,22.5,1.5,0.0,4.2,0.0,0.0,,2,0.6479527392578125,False,REGULAR,USD,STVN

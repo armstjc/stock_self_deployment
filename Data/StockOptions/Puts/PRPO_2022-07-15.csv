@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRPO220715P00002500,2022-01-21 19:13:57+00:00,2.5,1.4,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,PRPO
+PRPO220715P00002500,2022-02-07 16:38:57+00:00,2.5,1.41,1.15,1.5,0.0,0.0,1,19,1.1328168359375002,True,REGULAR,USD,PRPO

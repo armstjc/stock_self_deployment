@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RVSB220318P00005000,2021-11-10 11:49:12+00:00,5.0,0.1,0.0,0.1,0.0,0.0,,100,0.773439765625,False,REGULAR,USD,RVSB
+RVSB220318P00005000,2021-11-10 11:49:12+00:00,5.0,0.1,0.0,0.1,0.0,0.0,,100,0.9062509375,False,REGULAR,USD,RVSB

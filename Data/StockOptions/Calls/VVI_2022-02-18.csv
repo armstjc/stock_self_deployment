@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VVI220218C00050000,2022-01-03 17:47:40+00:00,50.0,1.0,0.55,3.2,0.0,0.0,4,6,2.0468798828125,False,REGULAR,USD,VVI
+VVI220218C00050000,2022-01-03 17:47:40+00:00,50.0,1.0,0.55,3.2,0.0,0.0,4,6,1.9453127734375002,False,REGULAR,USD,VVI

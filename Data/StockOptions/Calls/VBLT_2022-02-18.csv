@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VBLT220218C00002500,2022-01-10 15:06:42+00:00,2.5,0.1,0.0,0.0,0.0,0.0,2,0,0.500005,False,REGULAR,USD,VBLT
+VBLT220218C00002500,2022-01-04 17:27:34+00:00,2.5,0.15,0.0,0.2,0.0,0.0,1,323,3.750000625,False,REGULAR,USD,VBLT

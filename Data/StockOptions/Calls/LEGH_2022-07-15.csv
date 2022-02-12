@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LEGH220715C00030000,2021-12-21 15:23:01+00:00,30.0,1.75,0.0,2.45,0.0,0.0,,1,0.5805706005859376,False,REGULAR,USD,LEGH
+LEGH220715C00030000,2021-12-21 15:23:01+00:00,30.0,1.75,0.0,3.5,0.0,0.0,,1,0.7143583251953125,False,REGULAR,USD,LEGH

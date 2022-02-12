@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LQDA220318C00007500,2022-02-03 20:57:55+00:00,7.5,0.45,0.45,0.5,0.14999998,49.999992,12,115,1.1171919140625,False,REGULAR,USD,LQDA
+LQDA220318C00007500,2022-02-10 15:18:11+00:00,7.5,0.59,0.45,0.6,0.089999974,17.999994,11,180,0.96679720703125,False,REGULAR,USD,LQDA

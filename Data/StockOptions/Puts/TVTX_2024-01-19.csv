@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TVTX240119P00022500,2021-10-29 16:08:27+00:00,22.5,8.15,5.1,9.5,0.0,0.0,2,0,0.6870148486328126,False,REGULAR,USD,TVTX
+TVTX240119P00022500,2021-10-29 16:08:27+00:00,22.5,8.15,5.1,9.5,0.0,0.0,2,0,0.7347438635253907,False,REGULAR,USD,TVTX

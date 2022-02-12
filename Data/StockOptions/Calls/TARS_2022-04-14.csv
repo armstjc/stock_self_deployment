@@ -1,4 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TARS220414C00022500,2022-01-19 20:59:25+00:00,22.5,3.0,0.0,0.0,0.0,0.0,13.0,0,0.12500875,False,REGULAR,USD,TARS
-TARS220414C00025000,2022-01-24 15:01:59+00:00,25.0,2.0,0.0,0.0,0.0,0.0,5.0,0,0.2500075,False,REGULAR,USD,TARS
-TARS220414C00035000,2022-01-26 17:57:34+00:00,35.0,1.5,0.0,0.0,0.0,0.0,,0,0.2500075,False,REGULAR,USD,TARS

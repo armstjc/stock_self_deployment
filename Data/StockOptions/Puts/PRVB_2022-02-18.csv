@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRVB220218P00005000,2022-01-04 20:13:54+00:00,5.0,0.3,0.2,0.55,0.0,0.0,11,45,0.98437515625,False,REGULAR,USD,PRVB
+PRVB220218P00005000,2022-01-04 20:13:54+00:00,5.0,0.3,0.2,0.55,0.0,0.0,11,45,2.8906277734375,False,REGULAR,USD,PRVB

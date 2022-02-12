@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SAH220318P00070000,2022-01-28 19:12:38+00:00,70.0,21.3,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,SAH
+SAH220318P00070000,2022-01-28 19:12:38+00:00,70.0,21.3,19.0,23.0,0.0,0.0,2,0,1.1362347875976564,True,REGULAR,USD,SAH

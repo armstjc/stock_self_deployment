@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACEV220318P00010000,2022-01-24 17:14:16+00:00,10.0,0.25,0.05,0.2,0.0,0.0,10,100,0.14649291015625,False,REGULAR,USD,ACEV
+ACEV220318P00010000,2022-02-09 18:56:39+00:00,10.0,0.15,0.0,0.0,0.0,0.0,180,550,0.0004982763671875,False,REGULAR,USD,ACEV

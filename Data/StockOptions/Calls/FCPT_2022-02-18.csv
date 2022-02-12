@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCPT220218C00030000,2022-01-19 16:33:13+00:00,30.0,0.25,0.0,0.1,0.0,0.0,2,6,0.44922425781249997,False,REGULAR,USD,FCPT
+FCPT220218C00030000,2022-01-03 15:09:19+00:00,30.0,0.7,0.05,1.8,0.0,0.0,1,6,1.3906280468749999,False,REGULAR,USD,FCPT

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NABL220715P00010000,2021-12-29 17:53:19+00:00,10.0,1.1,0.8,1.4,0.0,0.0,,10,0.5546919531250001,False,REGULAR,USD,NABL
+NABL220715P00010000,2021-12-29 17:53:19+00:00,10.0,1.1,0.8,1.4,0.0,0.0,,10,0.6391637646484375,False,REGULAR,USD,NABL

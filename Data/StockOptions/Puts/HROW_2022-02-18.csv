@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HROW220218P00007500,2022-01-27 17:13:23+00:00,7.5,0.69,0.05,0.45,0.0,0.0,100,468,0.7421900781249999,False,REGULAR,USD,HROW
+HROW220218P00007500,2022-01-27 17:13:23+00:00,7.5,0.69,0.0,0.7,0.0,0.0,100,468,1.3828155859374998,False,REGULAR,USD,HROW

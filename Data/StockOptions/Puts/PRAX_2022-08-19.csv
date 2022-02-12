@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRAX220819P00015000,2021-12-20 19:43:46+00:00,15.0,3.52,0.6,5.5,0.0,0.0,,1,1.0810592822265626,True,REGULAR,USD,PRAX
+PRAX220819P00015000,2021-12-20 19:43:46+00:00,15.0,3.52,2.0,6.5,0.0,0.0,,1,0.9086923193359374,True,REGULAR,USD,PRAX

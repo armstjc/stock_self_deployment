@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LMB220715P00005000,2022-01-24 15:06:02+00:00,5.0,0.3,0.2,0.65,0.0,0.0,,1,0.8984385156249999,False,REGULAR,USD,LMB
-LMB220715P00012500,2022-01-06 14:48:25+00:00,12.5,4.4,3.3,7.0,0.0,0.0,,1,0.914063359375,True,REGULAR,USD,LMB

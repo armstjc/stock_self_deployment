@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+B220218P00050000,2022-01-04 17:00:23+00:00,50.0,3.37,3.2,6.8,0.0,0.0,,1,0.77929908203125,True,REGULAR,USD,B

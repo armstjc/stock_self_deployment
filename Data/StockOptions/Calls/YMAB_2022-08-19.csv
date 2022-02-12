@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+YMAB220819C00010000,2022-02-02 20:47:53+00:00,10.0,1.65,0.0,5.0,0.0,0.0,1,1,1.759766826171875,False,REGULAR,USD,YMAB

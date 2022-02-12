@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SLS220318P00007500,2022-02-01 14:30:00+00:00,7.5,2.5,2.45,2.85,0.0,0.0,1,6,1.3359408203124996,True,REGULAR,USD,SLS
+SLS220318P00007500,2022-02-10 15:29:33+00:00,7.5,1.77,1.55,1.95,-0.13,-6.842105,2,14,1.2734411328124997,True,REGULAR,USD,SLS

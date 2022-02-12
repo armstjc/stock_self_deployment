@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VREX220520P00025000,2021-11-30 16:33:10+00:00,25.0,2.0,0.75,2.75,0.0,0.0,3,17,0.5424850439453126,False,REGULAR,USD,VREX
+VREX220520P00025000,2022-02-10 16:28:08+00:00,25.0,2.5,2.4,2.95,-0.049999952,-1.9607825,14,17,0.5117236328125,True,REGULAR,USD,VREX

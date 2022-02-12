@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FLIC220218P00017500,2021-12-17 16:33:35+00:00,17.5,0.14,0.0,0.25,0.0,0.0,4,4,0.8359391406249999,False,REGULAR,USD,FLIC
+FLIC220218P00017500,2021-12-17 16:33:35+00:00,17.5,0.14,0.0,0.25,0.0,0.0,4,4,1.0546922265625,False,REGULAR,USD,FLIC

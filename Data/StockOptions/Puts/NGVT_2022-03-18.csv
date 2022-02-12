@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NGVT220318P00060000,2022-02-03 15:14:28+00:00,60.0,1.4,0.0,0.0,0.0,0.0,1,0,0.062509375,False,REGULAR,USD,NGVT
+NGVT220318P00060000,2022-02-09 15:20:10+00:00,60.0,1.2,0.0,4.9,0.0,0.0,2,5,0.5993692407226563,False,REGULAR,USD,NGVT

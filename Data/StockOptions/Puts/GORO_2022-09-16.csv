@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GORO220916P00002500,2022-02-02 19:18:51+00:00,2.5,1.0,0.75,1.4,0.0,0.0,16,27,0.7304714453125,True,REGULAR,USD,GORO
+GORO220916P00002500,2022-02-02 19:18:51+00:00,2.5,1.0,1.05,1.45,0.0,0.0,16,27,1.171879140625,True,REGULAR,USD,GORO

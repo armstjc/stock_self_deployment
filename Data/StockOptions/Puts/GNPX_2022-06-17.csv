@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GNPX220617P00002500,2022-01-26 18:38:59+00:00,2.5,1.03,0.95,1.15,0.0,0.0,3,498,1.4960962695312499,True,REGULAR,USD,GNPX
+GNPX220617P00002500,2022-02-09 19:49:06+00:00,2.5,0.8,0.8,1.0,-0.050000012,-5.882354,1,544,1.4960962695312499,True,REGULAR,USD,GNPX

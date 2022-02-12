@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BXRX220218P00002500,2022-02-03 20:57:45+00:00,2.5,2.3,2.2,2.5,0.049999952,2.22222,69.0,1,9.625003984375,True,REGULAR,USD,BXRX
-BXRX220218P00005000,2022-01-26 19:07:00+00:00,5.0,4.78,3.0,6.7,0.0,0.0,,1,10.875003203125,True,REGULAR,USD,BXRX

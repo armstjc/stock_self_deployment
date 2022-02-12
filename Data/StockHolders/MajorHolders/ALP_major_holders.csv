@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-GOOG,Alphabet Inc.,2860.32,Communication Services,Stocks,NMS,ALP
-GOOGL,Alphabet Inc.,2865.86,Communication Services,Stocks,NMS,ALP
-AXP,American Express Company,185.85,Financial Services,Stocks,NYQ,ALP
-ALL,Allstate Corporation (The),122.12,Financial Services,Stocks,NYQ,ALP
-ALB,Albemarle Corporation,216.02,Basic Materials,Stocks,NYQ,ALP
-XLP,SPDR Select Sector Fund - Consu,75.89,,ETF,PCX,ALP
-AEP,American Electric Power Company,89.17,Utilities,Stocks,NMS,ALP
-ADP,"Automatic Data Processing, Inc.",206.25,Industrials,Stocks,NMS,ALP
-AMLP,Alerian MLP ETF,38.39,,ETF,PCX,ALP
-ALK,"Alaska Air Group, Inc.",53.49,Industrials,Stocks,NYQ,ALP
-APP,Applovin Corporation,68.9,Technology,Stocks,NMS,ALP
-ARLP,"Alliance Resource Partners, L.P",13.46,Energy,Stocks,NMS,ALP
-ALPP,"Alpine 4 Holdings, Inc.",1.43,Industrials,Stocks,NCM,ALP
-AOSL,Alpha and Omega Semiconductor L,46.25,Technology,Stocks,NMS,ALP
-AMR,"Alpha Metallurgical Resources,",76.57,Basic Materials,Stocks,NYQ,ALP
-AAP,Advance Auto Parts Inc.,226.99,Consumer Cyclical,Stocks,NYQ,ALP
-APHLF,ALPHA LITHIUM CORPORATION,0.81,Basic Materials,Stocks,PNK,ALP
-GLP,Global Partners LP Global Partn,27.38,Energy,Stocks,NYQ,ALP
-ALT,"Altimmune, Inc.",7.66,Healthcare,Stocks,NGM,ALP
-AMP,"Ameriprise Financial, Inc.",308.1,Financial Services,Stocks,NYQ,ALP
-APT,"Alpha Pro Tech, Ltd.",4.6,Industrials,Stocks,ASE,ALP
-ALF,"ALFI, Inc.",1.72,Technology,Stocks,NCM,ALP
-ELP,Companhia Paranaense de Energia,6.61,Utilities,Stocks,NYQ,ALP
-AFM.V,ALPHAMIN RESOURCES CORP.,1.12,Basic Materials,Stocks,VAN,ALP
-FAB,First Trust Multi Cap Value Alp,74.05,,ETF,NGM,ALP
+GOOG,Alphabet Inc.,2682.6,Communication Services,Stocks,NMS,ALP
+GOOGL,Alphabet Inc.,2685.65,Communication Services,Stocks,NMS,ALP
+AXP,American Express Company,191.81,Financial Services,Stocks,NYQ,ALP
+ALB,Albemarle Corporation,230.89,Basic Materials,Stocks,NYQ,ALP
+AEP,American Electric Power Company,87.65,Utilities,Stocks,NMS,ALP
+ALK,"Alaska Air Group, Inc.",56.84,Industrials,Stocks,NYQ,ALP
+XLP,SPDR Select Sector Fund - Consu,75.25,,ETF,PCX,ALP
+AOSL,Alpha and Omega Semiconductor L,51.14,Technology,Stocks,NMS,ALP
+AMLP,Alerian MLP ETF,38.1,,ETF,PCX,ALP
+AAP,Advance Auto Parts Inc.,222.94,Consumer Cyclical,Stocks,NYQ,ALP
+ALPP,"Alpine 4 Holdings, Inc.",1.48,Industrials,Stocks,NCM,ALP
+ALL,Allstate Corporation (The),123.38,Financial Services,Stocks,NYQ,ALP
+ADP,"Automatic Data Processing, Inc.",203.79,Industrials,Stocks,NMS,ALP
+ARLP,"Alliance Resource Partners, L.P",13.61,Energy,Stocks,NMS,ALP
+APP,Applovin Corporation,70.31,Technology,Stocks,NMS,ALP
+AMR,"Alpha Metallurgical Resources,",84.18,Basic Materials,Stocks,NYQ,ALP
+ALF,"ALFI, Inc.",1.61,Technology,Stocks,NCM,ALP
+GLP,Global Partners LP Global Partn,27.01,Energy,Stocks,NYQ,ALP
+APHLF,ALPHA LITHIUM CORPORATION,0.83,Basic Materials,Stocks,PNK,ALP
+ALT,"Altimmune, Inc.",7.68,Healthcare,Stocks,NGM,ALP
+AMP,"Ameriprise Financial, Inc.",304.0,Financial Services,Stocks,NYQ,ALP
+APT,"Alpha Pro Tech, Ltd.",4.62,Industrials,Stocks,ASE,ALP
+ELP,Companhia Paranaense de Energia,6.68,Utilities,Stocks,NYQ,ALP
+AWP,Aberdeen Global Premier Propert,6.12,Financial Services,Stocks,NYQ,ALP
+ALE,"Allete, Inc.",62.09,Utilities,Stocks,NYQ,ALP

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TKC220218P00002500,2021-12-23 14:33:56+00:00,2.5,0.08,0.0,0.0,0.0,0.0,1,3,0.500005,False,REGULAR,USD,TKC
+TKC220218P00002500,2021-12-23 14:33:56+00:00,2.5,0.08,0.0,0.15,0.0,0.0,1,3,2.000005,False,REGULAR,USD,TKC

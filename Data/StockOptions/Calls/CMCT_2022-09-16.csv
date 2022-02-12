@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CMCT220916C00002500,2022-01-28 20:49:04+00:00,2.5,4.9,4.9,6.1,0.0,0.0,10,0,1.3750031249999999,True,REGULAR,USD,CMCT

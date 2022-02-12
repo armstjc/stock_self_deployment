@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRC220318P00040000,2022-02-01 14:56:20+00:00,40.0,1.83,1.45,2.65,0.0,0.0,5,63,0.637698935546875,False,REGULAR,USD,CRC
-CRC220318P00045000,2022-02-03 14:53:05+00:00,45.0,3.72,3.5,4.4,0.53999996,16.98113,5,6,0.5488326367187502,True,REGULAR,USD,CRC

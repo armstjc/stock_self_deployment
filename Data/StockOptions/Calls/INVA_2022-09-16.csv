@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INVA220916C00024000,2022-01-21 14:41:53+00:00,24.0,0.65,0.05,0.35,0.0,0.0,1,1,0.45508357421875,False,REGULAR,USD,INVA

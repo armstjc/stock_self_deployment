@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AKUS220715P00010000,2021-12-13 16:26:43+00:00,10.0,3.6,1.5,5.2,0.0,0.0,2,12,1.3212924560546875,True,REGULAR,USD,AKUS
+AKUS220715P00010000,2021-12-13 16:26:43+00:00,10.0,3.6,1.5,5.2,0.0,0.0,2,12,1.3418001660156247,True,REGULAR,USD,AKUS

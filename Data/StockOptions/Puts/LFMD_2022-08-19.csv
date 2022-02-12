@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LFMD220819P00005000,2021-12-20 20:59:00+00:00,5.0,2.06,1.95,2.3,0.0,0.0,,14,0.8789074609374999,True,REGULAR,USD,LFMD
+LFMD220819P00005000,2021-12-20 20:59:00+00:00,5.0,2.06,1.95,2.3,0.0,0.0,,14,1.3183627832031248,True,REGULAR,USD,LFMD

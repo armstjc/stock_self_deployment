@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HSKA220715P00150000,2021-12-13 05:00:14+00:00,150.0,16.0,16.0,19.4,0.0,0.0,,1,0.1439294592285156,True,REGULAR,USD,HSKA
+HSKA220715P00150000,2021-12-13 05:00:14+00:00,150.0,16.0,16.0,19.4,0.0,0.0,,1,0.22071091796874998,True,REGULAR,USD,HSKA

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GRUB221216P00002500,2022-01-25 20:11:06+00:00,2.5,0.15,0.0,0.25,0.0,0.0,,1,0.98437515625,False,REGULAR,USD,GRUB
+GRUB221216P00002500,2022-02-08 14:49:11+00:00,2.5,0.15,0.0,0.25,0.0,0.0,1,2,0.9765627343750001,False,REGULAR,USD,GRUB

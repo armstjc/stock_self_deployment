@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANAB220819P00022500,2022-02-02 15:40:01+00:00,22.5,3.62,0.4,5.0,0.0,0.0,8,8,0.75586181640625,False,REGULAR,USD,ANAB
+ANAB220819P00022500,2022-02-02 15:40:01+00:00,22.5,3.62,0.3,5.0,0.0,0.0,,8,0.8188494677734374,False,REGULAR,USD,ANAB

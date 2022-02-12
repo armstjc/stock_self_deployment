@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CVCY220218C00022500,2022-02-03 20:29:48+00:00,22.5,0.72,0.6,0.8,0.27000004,60.000008,1,143,0.335944140625,True,REGULAR,USD,CVCY

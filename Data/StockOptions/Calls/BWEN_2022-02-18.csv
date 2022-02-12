@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BWEN220218C00002500,2022-01-03 18:40:47+00:00,2.5,0.14,0.0,0.15,0.0,0.0,17,24,2.031254921875,False,REGULAR,USD,BWEN
+BWEN220218C00002500,2022-01-03 18:40:47+00:00,2.5,0.14,0.0,0.15,0.0,0.0,17,24,1.9375003125,False,REGULAR,USD,BWEN

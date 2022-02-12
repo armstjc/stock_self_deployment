@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HUN230519C00040000,2022-02-01 16:41:01+00:00,40.0,3.8,3.5,4.1,0.0,0.0,2,7,0.3355779333496094,False,REGULAR,USD,HUN

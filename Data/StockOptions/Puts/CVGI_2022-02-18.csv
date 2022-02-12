@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CVGI220218P00007500,2022-01-31 14:31:39+00:00,7.5,0.4,0.05,0.75,0.0,0.0,1,51,0.75586181640625,False,REGULAR,USD,CVGI
+CVGI220218P00007500,2021-12-20 15:24:18+00:00,7.5,0.74,0.0,0.4,0.0,0.0,,1,0.8281267187499999,False,REGULAR,USD,CVGI

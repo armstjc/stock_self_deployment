@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TGI220916C00025000,2022-02-08 20:32:19+00:00,25.0,2.2,2.3,2.8,0.0,0.0,1,14,0.6459996337890624,False,REGULAR,USD,TGI

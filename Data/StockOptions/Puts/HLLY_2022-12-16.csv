@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HLLY221216P00015000,2022-02-03 14:45:39+00:00,15.0,4.4,4.4,5.0,1.1000001,33.333336,1,38,0.5698285205078125,True,REGULAR,USD,HLLY
+HLLY221216P00015000,2022-02-03 14:45:39+00:00,15.0,4.4,3.8,4.7,0.0,0.0,1,38,0.5854533642578125,True,REGULAR,USD,HLLY

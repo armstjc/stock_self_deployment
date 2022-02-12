@@ -1,4 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SLF220819P00040000,2022-01-20 14:30:24+00:00,40.0,0.4,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,SLF
-SLF220819P00045000,2022-01-19 15:19:26+00:00,45.0,0.65,0.0,0.0,0.0,0.0,148.0,0,0.062509375,False,REGULAR,USD,SLF
-SLF220819P00055000,2022-01-18 16:41:33+00:00,55.0,2.55,0.0,0.0,0.0,0.0,,0,0.015634843750000002,False,REGULAR,USD,SLF

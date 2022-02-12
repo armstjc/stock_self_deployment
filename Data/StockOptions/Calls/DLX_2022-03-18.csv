@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DLX220318C00035000,2022-01-31 18:26:41+00:00,35.0,0.25,0.1,0.65,0.0,0.0,1,2,0.49170430175781255,False,REGULAR,USD,DLX

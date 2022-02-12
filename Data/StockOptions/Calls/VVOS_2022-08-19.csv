@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VVOS220819C00002500,2022-01-05 20:44:14+00:00,2.5,0.6,0.45,2.0,-0.099999964,-14.285709,30,22,1.9921875390625,False,REGULAR,USD,VVOS
+VVOS220819C00002500,2022-01-05 20:44:14+00:00,2.5,0.6,0.45,2.0,-0.099999964,-14.285709,30,22,1.7578137109375,True,REGULAR,USD,VVOS

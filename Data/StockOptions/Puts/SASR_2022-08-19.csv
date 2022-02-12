@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SASR220819P00040000,2022-01-06 19:54:59+00:00,40.0,1.0,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,SASR
+SASR220819P00040000,2022-01-06 19:54:59+00:00,40.0,1.0,0.0,5.0,0.0,0.0,,1,0.6586948193359375,False,REGULAR,USD,SASR

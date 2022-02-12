@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LMNR220218P00015000,2022-02-01 18:19:24+00:00,15.0,0.75,0.4,1.45,0.0,0.0,1,1,0.6171913281250001,True,REGULAR,USD,LMNR
-LMNR220218P00017500,2022-02-02 14:49:51+00:00,17.5,3.0,1.95,4.0,0.8499999,39.534878,1,1,0.7578149218750001,True,REGULAR,USD,LMNR

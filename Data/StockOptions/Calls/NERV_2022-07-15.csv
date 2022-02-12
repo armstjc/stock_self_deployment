@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NERV220715C00002500,2022-01-31 20:16:33+00:00,2.5,0.05,0.0,0.0,0.0,0.0,10,0,0.500005,False,REGULAR,USD,NERV
+NERV220715C00002500,2022-02-08 15:01:05+00:00,2.5,0.15,0.05,0.15,0.050000004,50.000008,10,61,1.65625171875,False,REGULAR,USD,NERV

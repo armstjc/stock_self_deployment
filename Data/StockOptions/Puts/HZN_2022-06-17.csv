@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HZN220617P00007500,2022-01-18 15:50:43+00:00,7.5,0.75,0.7,1.5,0.0,0.0,6,16,0.6250037500000001,False,REGULAR,USD,HZN
+HZN220617P00007500,2022-01-18 15:50:43+00:00,7.5,0.75,0.45,2.1,0.0,0.0,6,16,0.57812921875,True,REGULAR,USD,HZN

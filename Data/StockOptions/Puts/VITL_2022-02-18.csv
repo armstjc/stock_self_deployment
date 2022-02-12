@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VITL220218P00017500,2021-12-30 17:37:42+00:00,17.5,0.79,0.1,2.0,0.0,0.0,,2,1.0000000000000003e-05,True,REGULAR,USD,VITL
+VITL220218P00017500,2021-12-30 17:37:42+00:00,17.5,0.79,0.1,2.0,0.0,0.0,,2,0.7050810742187501,True,REGULAR,USD,VITL

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LUXA220218C00010000,2022-01-05 20:49:30+00:00,10.0,0.05,0.0,1.15,0.0,0.0,85,88,0.8261736132812498,False,REGULAR,USD,LUXA
+LUXA220218C00010000,2022-01-05 20:49:30+00:00,10.0,0.05,0.0,1.15,0.0,0.0,85,88,1.05859845703125,False,REGULAR,USD,LUXA

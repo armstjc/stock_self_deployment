@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GD220311C00210000,2022-01-28 16:56:08+00:00,210.0,7.3,6.7,8.5,0.0,0.0,1,54,0.27851063293457035,True,REGULAR,USD,GD
-GD220311C00235000,2022-01-31 19:39:52+00:00,235.0,0.35,0.05,0.8,0.0,0.0,2,3,0.2503737072753906,False,REGULAR,USD,GD

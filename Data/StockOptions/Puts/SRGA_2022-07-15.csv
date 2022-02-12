@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRGA220715P00002500,2021-12-31 14:30:00+00:00,2.5,1.9,1.65,2.8,0.0,0.0,2,2,3.5156262109374996,True,REGULAR,USD,SRGA
+SRGA220715P00002500,2021-12-31 14:30:00+00:00,2.5,1.9,1.65,2.8,0.0,0.0,2,2,3.56250109375,True,REGULAR,USD,SRGA

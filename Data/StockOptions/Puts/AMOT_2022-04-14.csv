@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMOT220414P00025000,2021-10-25 19:41:02+00:00,25.0,2.35,0.0,1.35,0.0,0.0,,1,0.7392604199218749,False,REGULAR,USD,AMOT
+AMOT220414P00025000,2021-10-25 19:41:02+00:00,25.0,2.35,0.0,1.35,0.0,0.0,,1,0.8027363476562499,False,REGULAR,USD,AMOT

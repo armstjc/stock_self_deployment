@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GT230616C00020000,2022-01-27 18:45:09+00:00,20.0,4.47,5.1,5.6,0.0,0.0,,10,0.51562984375,True,REGULAR,USD,GT
-GT230616C00022000,2022-02-03 15:20:08+00:00,22.0,5.0,4.3,4.7,-0.09000015,-1.7681758,87.0,1,0.5065967309570312,False,REGULAR,USD,GT

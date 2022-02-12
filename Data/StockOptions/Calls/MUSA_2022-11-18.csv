@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MUSA221118C00145000,2021-12-13 18:54:24+00:00,145.0,50.05,56.4,60.0,0.0,0.0,,1,0.5624738577270508,True,REGULAR,USD,MUSA
+MUSA221118C00145000,2021-12-13 18:54:24+00:00,145.0,50.05,56.4,60.0,0.0,0.0,,1,0.6844513977050781,True,REGULAR,USD,MUSA

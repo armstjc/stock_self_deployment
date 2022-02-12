@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TALK220218P00002500,2022-01-06 15:42:05+00:00,2.5,0.75,0.75,1.5,0.0,0.0,,1,4.828128964843749,True,REGULAR,USD,TALK

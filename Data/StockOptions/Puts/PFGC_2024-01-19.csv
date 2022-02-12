@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PFGC240119P00030000,2021-11-30 17:54:37+00:00,30.0,4.08,2.2,4.5,0.0,0.0,,1,0.48901878173828134,False,REGULAR,USD,PFGC
+PFGC240119P00030000,2021-11-30 17:54:37+00:00,30.0,4.08,2.2,4.5,0.0,0.0,,1,0.514653291015625,False,REGULAR,USD,PFGC

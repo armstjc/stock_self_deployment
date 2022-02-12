@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PCVX220218P00017500,2022-01-21 15:28:41+00:00,17.5,1.1,0.0,0.0,0.0,0.0,10,0,0.0312596875,False,REGULAR,USD,PCVX
+PCVX220218P00017500,2022-01-21 15:28:41+00:00,17.5,1.1,0.0,1.85,0.0,0.0,10,10,1.654298603515625,False,REGULAR,USD,PCVX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STBA220414C00035000,2022-01-20 20:09:12+00:00,35.0,1.13,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,STBA
+STBA220414C00035000,2022-01-20 20:09:12+00:00,35.0,1.13,0.0,0.7,0.0,0.0,,2,0.39600213378906257,False,REGULAR,USD,STBA

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CHCO220617P00070000,2021-12-17 18:45:35+00:00,70.0,2.25,1.05,1.35,0.0,0.0,10,10,0.25843026733398444,False,REGULAR,USD,CHCO
+CHCO220617P00070000,2021-12-17 18:45:35+00:00,70.0,2.25,1.05,1.35,0.0,0.0,10,10,0.26868407104492187,False,REGULAR,USD,CHCO

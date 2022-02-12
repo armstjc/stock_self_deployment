@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STAA220916C00085000,2022-01-24 20:44:02+00:00,85.0,11.0,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,STAA
+STAA220916C00085000,2022-01-24 20:44:02+00:00,85.0,11.0,11.4,14.1,0.0,0.0,,1,0.621768919067383,False,REGULAR,USD,STAA

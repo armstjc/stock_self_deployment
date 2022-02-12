@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SCWX220715P00012500,2022-01-21 16:45:06+00:00,12.5,1.4,0.0,0.0,0.0,0.0,2,0,0.0312596875,False,REGULAR,USD,SCWX

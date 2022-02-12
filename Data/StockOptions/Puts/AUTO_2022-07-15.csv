@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUTO220715P00002500,2022-01-27 14:46:31+00:00,2.5,0.55,0.25,0.95,0.0,0.0,1,6,1.0703171484375003,False,REGULAR,USD,AUTO
+AUTO220715P00002500,2021-12-27 16:08:24+00:00,2.5,0.35,0.3,0.5,0.0,0.0,,1,0.7695335546875001,False,REGULAR,USD,AUTO

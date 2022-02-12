@@ -12,8 +12,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-01-05,B. Riley FBR,Buy,,init,ABUS
 2018-03-19,Wedbush,Neutral,Outperform,down,ABUS
 2018-07-06,B. Riley FBR,Neutral,Buy,down,ABUS
-2018-08-13,B. Riley FBR,Neutral,Neutral,main,ABUS
 2018-08-13,Wedbush,Neutral,Neutral,main,ABUS
+2018-08-13,B. Riley FBR,Neutral,Neutral,main,ABUS
 2018-10-15,Wedbush,Neutral,Underperform,up,ABUS
 2018-10-16,B. Riley FBR,Buy,Neutral,up,ABUS
 2019-10-04,Chardan Capital,Neutral,Buy,down,ABUS
@@ -26,3 +26,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-07-24,Baird,Neutral,Outperform,down,ABUS
 2020-12-17,H.C. Wainwright,Buy,,init,ABUS
 2021-11-08,JMP Securities,Market Outperform,,main,ABUS
+2022-02-02,Jefferies,Buy,Hold,up,ABUS

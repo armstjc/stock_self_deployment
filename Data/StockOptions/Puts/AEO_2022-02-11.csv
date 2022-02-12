@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AEO220211P00026000,2021-12-31 19:31:38+00:00,26.0,1.96,2.32,2.49,0.0,0.0,2,2,1.0000000000000003e-05,True,REGULAR,USD,AEO
+AEO220211P00026000,2021-12-31 19:31:38+00:00,26.0,1.96,2.32,2.49,0.0,0.0,2,2,0.7812521875,True,REGULAR,USD,AEO

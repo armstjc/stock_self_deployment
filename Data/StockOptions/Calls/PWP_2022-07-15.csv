@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PWP220715C00015000,2021-12-29 15:53:34+00:00,15.0,0.55,0.15,1.85,0.0,0.0,,1,0.7460962890625,False,REGULAR,USD,PWP
+PWP220715C00015000,2021-12-29 15:53:34+00:00,15.0,0.55,0.15,1.85,0.0,0.0,,1,0.6674837939453127,False,REGULAR,USD,PWP

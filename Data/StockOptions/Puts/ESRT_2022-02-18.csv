@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESRT220218P00007500,2021-12-31 17:52:38+00:00,7.5,0.05,0.0,0.75,0.0,0.0,1,1,1.39453427734375,False,REGULAR,USD,ESRT
+ESRT220218P00007500,2021-12-31 17:52:38+00:00,7.5,0.05,0.0,0.75,0.0,0.0,1,1,1.953125234375,False,REGULAR,USD,ESRT

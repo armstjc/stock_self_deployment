@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TRNO220318P00070000,2021-12-15 18:55:19+00:00,70.0,2.0,0.25,1.8,0.0,0.0,,1,0.3305731005859375,False,REGULAR,USD,TRNO
+TRNO220318P00070000,2022-01-24 14:57:35+00:00,70.0,2.25,0.0,3.8,0.0,0.0,1,0,0.49219257812500006,False,REGULAR,USD,TRNO

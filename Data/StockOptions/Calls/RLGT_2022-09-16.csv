@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+RLGT220916C00007500,2022-02-09 20:44:33+00:00,7.5,0.65,0.45,0.7,0.0,0.0,7,8,0.551762294921875,False,REGULAR,USD,RLGT

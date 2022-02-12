@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JXN221216C00030000,2021-12-30 18:20:54+00:00,30.0,13.4,13.4,16.0,0.0,0.0,,2,0.8762219409179688,True,REGULAR,USD,JXN
+JXN221216C00030000,2021-12-30 18:20:54+00:00,30.0,13.4,13.4,16.0,0.0,0.0,,2,0.45313046875,True,REGULAR,USD,JXN

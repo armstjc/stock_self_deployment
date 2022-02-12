@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HFC220225P00030000,2022-01-31 19:34:16+00:00,30.0,0.25,0.0,0.3,0.0,0.0,3,10,0.5625043750000001,False,REGULAR,USD,HFC
-HFC220225P00035000,2022-02-02 20:48:47+00:00,35.0,0.87,0.7,1.1,-1.68,-65.882355,1,178,0.52539537109375,False,REGULAR,USD,HFC

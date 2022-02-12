@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESCA220715P00010000,2021-12-21 15:11:50+00:00,10.0,0.7,0.0,1.25,0.0,0.0,2,4,0.65039412109375,False,REGULAR,USD,ESCA
+ESCA220715P00010000,2021-12-21 15:11:50+00:00,10.0,0.7,0.0,1.3,0.0,0.0,2,4,0.6640658593750002,False,REGULAR,USD,ESCA

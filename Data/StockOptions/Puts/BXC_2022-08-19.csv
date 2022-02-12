@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BXC220819P00040000,2022-01-05 17:39:35+00:00,40.0,2.6,1.6,3.3,-0.5,-16.129034,9,80,0.8063984204101562,False,REGULAR,USD,BXC
+BXC220819P00040000,2022-01-05 17:39:35+00:00,40.0,2.6,1.6,3.3,-0.5,-16.129034,9,80,0.8568129553222656,False,REGULAR,USD,BXC

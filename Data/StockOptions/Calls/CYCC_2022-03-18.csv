@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CYCC220318C00002500,2022-02-01 16:04:42+00:00,2.5,0.95,0.75,1.55,0.0,0.0,,10,1.609376953125,True,REGULAR,USD,CYCC

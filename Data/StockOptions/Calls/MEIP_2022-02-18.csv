@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MEIP220218C00002500,2022-01-03 15:18:01+00:00,2.5,0.51,0.2,0.5,0.0,0.0,45,60,4.01562998046875,False,REGULAR,USD,MEIP
+MEIP220218C00002500,2022-01-03 15:18:01+00:00,2.5,0.51,0.2,0.5,0.0,0.0,45,60,4.39062951171875,False,REGULAR,USD,MEIP

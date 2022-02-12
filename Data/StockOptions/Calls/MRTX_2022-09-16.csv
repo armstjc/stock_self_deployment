@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MRTX220916C00110000,2022-01-25 14:40:15+00:00,110.0,24.6,0.0,0.0,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,MRTX
+MRTX220916C00110000,2022-01-25 14:40:15+00:00,110.0,24.6,19.9,24.5,0.0,0.0,,18,0.6314123773193359,True,REGULAR,USD,MRTX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TNC220414C00085000,2021-12-03 14:30:21+00:00,85.0,4.0,1.9,3.9,0.0,0.0,10,20,0.5678754150390625,False,REGULAR,USD,TNC
+TNC220414C00085000,2021-12-03 14:30:21+00:00,85.0,4.0,1.9,3.9,0.0,0.0,10,20,0.5170946728515625,False,REGULAR,USD,TNC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HSII220218C00050000,2022-01-03 17:04:56+00:00,50.0,0.75,0.1,1.4,0.0,0.0,1,2,0.74414318359375,False,REGULAR,USD,HSII
+HSII220218C00050000,2022-01-03 17:04:56+00:00,50.0,0.75,0.1,1.4,0.0,0.0,1,2,0.9775392871093751,False,REGULAR,USD,HSII

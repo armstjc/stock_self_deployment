@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PKE220819P00012500,2022-01-05 20:47:22+00:00,12.5,0.9,0.75,1.2,-0.14999998,-14.285712,1,10,0.3930724755859375,False,REGULAR,USD,PKE
+PKE220819P00012500,2022-01-05 20:47:22+00:00,12.5,0.9,0.75,1.2,-0.14999998,-14.285712,1,10,0.39258419921875,False,REGULAR,USD,PKE

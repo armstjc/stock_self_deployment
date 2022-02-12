@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VYGG220218P00007500,2021-12-20 05:02:22+00:00,7.5,0.05,,0.05,0.0,0.0,,10,0.9062509375,False,REGULAR,USD,VYGG
+VYGG220218P00007500,2021-12-20 05:02:22+00:00,7.5,0.05,,0.05,0.0,0.0,,10,1.1796916015624999,False,REGULAR,USD,VYGG

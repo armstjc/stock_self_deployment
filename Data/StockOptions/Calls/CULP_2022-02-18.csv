@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CULP220218C00010000,2021-12-23 17:33:24+00:00,10.0,0.2,0.05,0.65,0.0,0.0,1,1,1.142582412109375,False,REGULAR,USD,CULP
+CULP220218C00010000,2021-12-23 17:33:24+00:00,10.0,0.2,0.05,0.65,0.0,0.0,1,1,1.5156274218749999,False,REGULAR,USD,CULP

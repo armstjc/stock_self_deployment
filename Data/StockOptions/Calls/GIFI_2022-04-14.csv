@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GIFI220414C00005000,2021-11-10 11:55:14+00:00,5.0,1.1,0.05,1.05,0.0,0.0,,4,1.32422212890625,False,REGULAR,USD,GIFI
+GIFI220414C00005000,2021-11-10 11:55:14+00:00,5.0,1.1,0.05,1.05,0.0,0.0,,4,1.3105503222656247,False,REGULAR,USD,GIFI

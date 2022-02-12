@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EBC220819C00020000,2021-12-31 16:28:19+00:00,20.0,1.66,1.65,2.65,0.0,0.0,10,15,0.38403936279296874,True,REGULAR,USD,EBC
+EBC220819C00020000,2021-12-31 16:28:19+00:00,20.0,1.66,1.65,2.65,0.0,0.0,10,15,0.34278000976562495,True,REGULAR,USD,EBC

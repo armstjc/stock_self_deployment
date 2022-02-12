@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NVMI220819C00135000,2022-01-18 20:41:37+00:00,135.0,15.3,0.0,0.0,0.0,0.0,1,0,0.062509375,False,REGULAR,USD,NVMI
+NVMI220819C00135000,2022-01-18 20:41:37+00:00,135.0,15.3,9.5,12.4,0.0,0.0,1,4,0.49799085998535164,False,REGULAR,USD,NVMI

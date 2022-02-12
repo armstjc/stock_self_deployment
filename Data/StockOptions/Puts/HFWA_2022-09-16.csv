@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HFWA220916P00017500,2022-01-27 15:08:10+00:00,17.5,0.5,0.4,0.65,0.0,0.0,,2,0.45898978515625005,False,REGULAR,USD,HFWA
+HFWA220916P00017500,2022-01-27 15:08:10+00:00,17.5,0.5,0.25,0.5,0.0,0.0,,2,0.44336494140625,False,REGULAR,USD,HFWA

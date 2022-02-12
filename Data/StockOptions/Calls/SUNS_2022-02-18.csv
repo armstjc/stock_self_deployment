@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SUNS220218C00017500,2021-12-20 15:11:54+00:00,17.5,0.35,0.0,0.15,0.0,0.0,,1,0.7226590234375,False,REGULAR,USD,SUNS
+SUNS220218C00017500,2021-12-20 15:11:54+00:00,17.5,0.35,0.0,0.15,0.0,0.0,,1,0.937500625,False,REGULAR,USD,SUNS

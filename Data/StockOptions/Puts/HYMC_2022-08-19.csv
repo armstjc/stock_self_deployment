@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HYMC220819P00002500,2021-12-29 14:30:06+00:00,2.5,2.0,1.6,3.5,0.0,0.0,4,8,0.0,True,REGULAR,USD,HYMC
+HYMC220819P00002500,2021-12-29 14:30:06+00:00,2.5,2.0,1.2,2.55,0.0,0.0,4,8,0.0,True,REGULAR,USD,HYMC

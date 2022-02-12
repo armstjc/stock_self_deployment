@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WDFC220819P00165000,2021-12-23 16:22:59+00:00,165.0,2.7,3.6,5.2,0.0,0.0,1,1,0.41620456848144527,False,REGULAR,USD,WDFC
+WDFC220819P00165000,2021-12-23 16:22:59+00:00,165.0,2.7,3.6,5.2,0.0,0.0,1,1,0.4028380029296875,False,REGULAR,USD,WDFC

@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MWA220819P00012500,2022-01-28 14:36:10+00:00,12.5,1.5,0.0,0.0,0.0,0.0,3,0,0.0039162109375,False,REGULAR,USD,MWA

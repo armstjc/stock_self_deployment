@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIR221216P00017500,2022-01-24 17:47:09+00:00,17.5,1.75,1.15,2.0,0.0,0.0,2,12,0.6076699389648439,False,REGULAR,USD,CIR
+CIR221216P00017500,2022-01-24 17:47:09+00:00,17.5,1.75,0.0,2.0,0.0,0.0,2,12,0.5400436621093752,False,REGULAR,USD,CIR

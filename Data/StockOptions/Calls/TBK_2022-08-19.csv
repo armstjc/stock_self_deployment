@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TBK220819C00110000,2021-12-17 20:52:35+00:00,110.0,15.0,16.4,19.5,0.0,0.0,2,2,1.0079395306396484,False,REGULAR,USD,TBK
+TBK220819C00110000,2021-12-17 20:52:35+00:00,110.0,15.0,16.4,19.5,0.0,0.0,2,2,0.8820812573242187,False,REGULAR,USD,TBK

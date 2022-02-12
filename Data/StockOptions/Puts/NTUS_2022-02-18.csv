@@ -1,1 +1,3 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NTUS220218P00022500,2022-01-27 17:31:43+00:00,22.5,0.8,0.05,0.8,0.0,0.0,,120,0.68555001953125,False,REGULAR,USD,NTUS
+NTUS220218P00025000,2022-01-03 20:03:56+00:00,25.0,1.9,0.3,3.2,0.0,0.0,,10,1.3056675341796873,True,REGULAR,USD,NTUS

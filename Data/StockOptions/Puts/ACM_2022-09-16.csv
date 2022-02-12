@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ACM220916P00065000,2022-02-04 20:24:54+00:00,65.0,4.7,0.0,0.0,0.0,0.0,2,2,0.0312596875,False,REGULAR,USD,ACM

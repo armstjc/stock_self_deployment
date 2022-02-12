@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HDSN220819P00003000,2022-01-25 19:54:44+00:00,3.0,0.55,0.2,0.55,0.0,0.0,,1,0.6992217578125001,False,REGULAR,USD,HDSN
+HDSN220819P00003000,2022-01-25 19:54:44+00:00,3.0,0.55,0.25,0.45,0.0,0.0,,1,0.7402369726562499,False,REGULAR,USD,HDSN

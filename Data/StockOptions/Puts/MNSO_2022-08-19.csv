@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MNSO220819P00015000,2021-12-17 14:42:55+00:00,15.0,5.6,5.5,6.1,0.0,0.0,5,5,0.5800823242187501,True,REGULAR,USD,MNSO
+MNSO220819P00015000,2021-12-17 14:42:55+00:00,15.0,5.6,5.5,6.1,0.0,0.0,5,5,0.7138700488281251,True,REGULAR,USD,MNSO

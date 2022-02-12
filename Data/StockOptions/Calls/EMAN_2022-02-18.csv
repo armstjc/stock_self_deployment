@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EMAN220218C00002500,2022-01-05 20:52:32+00:00,2.5,0.1,0.1,0.15,0.0,0.0,160,118,4.1562548046875,False,REGULAR,USD,EMAN
+EMAN220218C00002500,2022-01-05 20:52:32+00:00,2.5,0.1,0.1,0.15,0.0,0.0,160,118,4.5937542578125,False,REGULAR,USD,EMAN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENTA220218C00090000,2021-12-28 18:32:16+00:00,90.0,3.9,0.3,5.0,0.0,0.0,1,108,2.1469772888183596,False,REGULAR,USD,ENTA
+ENTA220218C00090000,2021-12-28 18:32:16+00:00,90.0,3.9,0.3,5.0,0.0,0.0,1,108,2.225590373535156,False,REGULAR,USD,ENTA

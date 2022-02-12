@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CD220819P00005000,2021-12-28 17:28:38+00:00,5.0,0.94,0.6,1.2,0.0,0.0,,2,0.64062859375,True,REGULAR,USD,CD
+CD220819P00005000,2021-12-28 17:28:38+00:00,5.0,0.94,0.6,1.2,0.0,0.0,,2,0.7685570019531252,False,REGULAR,USD,CD

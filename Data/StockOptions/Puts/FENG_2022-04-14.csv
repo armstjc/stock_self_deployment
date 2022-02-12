@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FENG220414P00002500,2021-12-03 19:43:55+00:00,2.5,1.63,1.2,2.15,0.0,0.0,10,11,5.062503671875,True,REGULAR,USD,FENG
+FENG220414P00002500,2021-12-03 19:43:55+00:00,2.5,1.63,1.2,2.15,0.0,0.0,10,11,5.312503359374999,True,REGULAR,USD,FENG

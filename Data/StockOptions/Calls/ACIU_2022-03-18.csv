@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACIU220318C00005000,2022-01-26 15:14:08+00:00,5.0,0.25,0.2,0.8,0.0,0.0,,4,0.9882813671875,False,REGULAR,USD,ACIU
+ACIU220318C00005000,2022-01-26 15:14:08+00:00,5.0,0.25,0.0,0.0,0.0,0.0,4,4,0.062509375,False,REGULAR,USD,ACIU

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SBSI220520P00040000,2021-12-13 05:12:25+00:00,40.0,2.5,0.05,4.3,0.0,0.0,,10,0.5856975024414062,False,REGULAR,USD,SBSI
+SBSI220520P00040000,2021-12-13 05:12:25+00:00,40.0,2.5,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,SBSI

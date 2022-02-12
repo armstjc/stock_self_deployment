@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SWIM221216C00022500,2022-01-24 15:23:07+00:00,22.5,2.22,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,SWIM
+SWIM221216C00022500,2021-12-22 15:07:21+00:00,22.5,5.94,2.5,7.4,0.0,0.0,,4,1.0258837768554687,False,REGULAR,USD,SWIM

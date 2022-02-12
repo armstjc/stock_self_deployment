@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RYB220617C00002500,2021-12-22 17:48:57+00:00,2.5,0.32,0.25,0.5,0.0,0.0,1,19,1.3320345898437496,False,REGULAR,USD,RYB
+RYB220617C00002500,2022-01-25 18:04:18+00:00,2.5,2.3,0.1,0.55,0.0,0.0,1,39,1.1328168359375002,False,REGULAR,USD,RYB

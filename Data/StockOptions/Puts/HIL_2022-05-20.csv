@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HIL220520P00002500,2021-12-31 17:08:52+00:00,2.5,0.7,0.35,1.2,0.0,0.0,30,31,1.0546922265625,True,REGULAR,USD,HIL
+HIL220520P00002500,2021-12-31 17:08:52+00:00,2.5,0.7,0.35,1.2,0.0,0.0,30,31,1.05078599609375,True,REGULAR,USD,HIL

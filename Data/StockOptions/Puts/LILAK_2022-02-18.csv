@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LILAK220218P00010000,2022-02-03 16:24:46+00:00,10.0,0.2,0.0,0.45,-0.10000001,-33.333336,2,4,0.7832052929687501,False,REGULAR,USD,LILAK

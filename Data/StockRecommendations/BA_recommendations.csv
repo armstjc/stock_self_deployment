@@ -126,8 +126,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-07-26,UBS,Neutral,Neutral,main,BA
 2018-10-25,Credit Suisse,Outperform,Outperform,main,BA
 2018-10-25,Canaccord Genuity,Hold,Hold,main,BA
-2019-01-10,Morgan Stanley,Overweight,Equal-Weight,up,BA
 2019-01-10,Susquehanna,Positive,,init,BA
+2019-01-10,Morgan Stanley,Overweight,Equal-Weight,up,BA
 2019-02-28,Morgan Stanley,Overweight,Overweight,main,BA
 2019-03-07,Argus,Buy,Buy,main,BA
 2019-03-19,Argus,Hold,Buy,down,BA
@@ -140,8 +140,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-02,Baird,Outperform,,main,BA
 2019-10-09,Bank of America,Neutral,,main,BA
 2019-10-18,Bank of America,Neutral,,reit,BA
-2019-10-21,Bank of America,Neutral,,reit,BA
 2019-10-21,Credit Suisse,Neutral,Outperform,down,BA
+2019-10-21,Bank of America,Neutral,,reit,BA
 2019-10-21,Baird,Neutral,Outperform,down,BA
 2019-10-21,UBS,Neutral,Buy,down,BA
 2019-10-24,Canaccord Genuity,Hold,,main,BA
@@ -221,3 +221,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-18,JP Morgan,Overweight,Neutral,up,BA
 2021-12-15,JP Morgan,Overweight,,main,BA
 2021-12-20,B of A Securities,Neutral,,main,BA
+2022-01-27,Morgan Stanley,Overweight,,main,BA
+2022-01-27,Wells Fargo,Overweight,,main,BA
+2022-01-31,Jefferies,Buy,,main,BA

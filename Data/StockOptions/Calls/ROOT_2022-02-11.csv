@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ROOT220211C00004000,2022-01-04 19:16:06+00:00,4.0,0.15,0.05,0.17,0.0,0.0,2,124,4.5937542578125,False,REGULAR,USD,ROOT
+ROOT220211C00004000,2022-01-04 19:16:06+00:00,4.0,0.15,0.05,0.17,0.0,0.0,2,124,9.000004375,False,REGULAR,USD,ROOT

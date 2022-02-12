@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSLT240119P00002500,2022-01-31 20:04:04+00:00,2.5,0.4,0.0,0.55,0.0,0.0,2,3,0.20508607421874997,True,REGULAR,USD,CSLT
+CSLT240119P00002500,2022-01-31 20:04:04+00:00,2.5,0.4,0.0,0.6,0.0,0.0,2,3,0.25977302734375,True,REGULAR,USD,CSLT

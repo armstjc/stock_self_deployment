@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EQH220916C00035000,2022-01-25 18:17:32+00:00,35.0,2.3,2.35,3.3,0.0,0.0,,15,0.3794007373046875,False,REGULAR,USD,EQH
-EQH220916C00045000,2022-01-20 18:05:38+00:00,45.0,0.65,0.25,1.05,0.0,0.0,,3,0.39234006103515623,False,REGULAR,USD,EQH

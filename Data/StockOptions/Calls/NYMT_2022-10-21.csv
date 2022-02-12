@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NYMT221021C00005000,2022-01-03 18:46:53+00:00,5.0,0.1,0.05,0.1,0.0,0.0,4,17,0.35742830078125,False,REGULAR,USD,NYMT
+NYMT221021C00005000,2022-02-09 16:55:18+00:00,5.0,0.04,0.0,0.05,0.0,0.0,100,118,0.29492892578124996,False,REGULAR,USD,NYMT

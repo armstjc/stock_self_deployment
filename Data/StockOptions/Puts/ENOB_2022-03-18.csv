@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENOB220318P00010000,2022-01-21 15:59:18+00:00,10.0,5.2,4.4,5.0,0.0,0.0,2,2,1.3125034374999998,True,REGULAR,USD,ENOB
+ENOB220318P00010000,2022-01-21 15:59:18+00:00,10.0,5.2,1.75,3.9,0.0,0.0,2,2,1.5214867675781247,True,REGULAR,USD,ENOB

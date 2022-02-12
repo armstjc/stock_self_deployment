@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NX220617P00020000,2021-11-30 17:26:43+00:00,20.0,2.25,0.7,1.85,0.0,0.0,2,7,0.5278367529296876,False,REGULAR,USD,NX
+NX220617P00020000,2021-11-30 17:26:43+00:00,20.0,2.25,0.7,1.85,0.0,0.0,2,7,0.5637250659179689,False,REGULAR,USD,NX

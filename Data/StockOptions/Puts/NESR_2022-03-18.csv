@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NESR220318P00012500,2021-11-29 18:56:13+00:00,12.5,2.82,3.1,4.0,0.0,0.0,10,20,1.3886749316406248,True,REGULAR,USD,NESR
+NESR220318P00012500,2021-11-29 18:56:13+00:00,12.5,2.82,3.1,4.0,0.0,0.0,10,20,1.478518232421875,True,REGULAR,USD,NESR

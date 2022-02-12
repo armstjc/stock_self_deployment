@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NL220318C00007500,2022-02-01 20:20:05+00:00,7.5,0.2,0.0,0.0,0.0,0.0,12,0,0.12500875,False,REGULAR,USD,NL
+NL220318C00007500,2022-02-01 20:20:05+00:00,7.5,0.2,0.05,0.15,0.0,0.0,12,95,0.57812921875,False,REGULAR,USD,NL

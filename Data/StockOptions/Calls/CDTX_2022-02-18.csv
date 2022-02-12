@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CDTX220218C00002500,2022-01-11 20:57:15+00:00,2.5,0.1,0.0,0.05,0.0,0.0,6,24,3.6250009375000003,False,REGULAR,USD,CDTX
+CDTX220218C00002500,2021-12-30 20:12:53+00:00,2.5,0.1,0.05,0.15,0.0,0.0,1,17,6.312502109375,False,REGULAR,USD,CDTX

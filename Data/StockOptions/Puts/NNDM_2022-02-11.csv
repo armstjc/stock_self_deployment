@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NNDM220211P00003500,2022-01-04 19:32:59+00:00,3.5,0.15,0.06,0.21,0.0,0.0,3,3,0.8437515624999999,False,REGULAR,USD,NNDM
+NNDM220211P00003500,2022-01-04 19:32:59+00:00,3.5,0.15,0.06,0.21,0.0,0.0,3,3,3.1250021875,False,REGULAR,USD,NNDM

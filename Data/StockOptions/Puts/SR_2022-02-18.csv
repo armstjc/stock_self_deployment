@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SR220218P00060000,2022-01-04 20:30:45+00:00,60.0,0.45,0.0,4.8,0.0,0.0,5,6,0.8632826171875,False,REGULAR,USD,SR
+SR220218P00060000,2022-01-04 20:30:45+00:00,60.0,0.45,0.0,4.8,0.0,0.0,5,6,1.0439500927734378,False,REGULAR,USD,SR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JAMF220520P00030000,2022-01-31 20:14:25+00:00,30.0,3.0,2.7,3.4,0.0,0.0,6,7,0.6113320117187502,False,REGULAR,USD,JAMF
+JAMF220520P00030000,2022-02-08 20:11:12+00:00,30.0,2.15,1.65,2.1,0.0,0.0,1,7,0.6267127172851563,False,REGULAR,USD,JAMF

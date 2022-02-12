@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PROF220715P00010000,2021-12-20 17:53:02+00:00,10.0,1.45,1.4,2.4,0.0,0.0,,2,0.6084023535156251,True,REGULAR,USD,PROF
+PROF220715P00010000,2021-12-20 17:53:02+00:00,10.0,1.45,1.4,2.4,0.0,0.0,,2,0.694338994140625,True,REGULAR,USD,PROF

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DXPE220819C00030000,2022-01-19 14:30:07+00:00,30.0,2.0,1.95,5.9,0.0,0.0,1,1,0.5356491748046875,False,REGULAR,USD,DXPE
+DXPE220819C00030000,2022-01-19 14:30:07+00:00,30.0,2.0,1.25,5.4,0.0,0.0,1,1,0.5417526293945314,False,REGULAR,USD,DXPE

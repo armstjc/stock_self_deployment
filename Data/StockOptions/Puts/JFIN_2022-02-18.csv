@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JFIN220218P00002500,2021-12-28 19:19:57+00:00,2.5,0.53,0.05,5.0,0.0,0.0,,2,0.0,True,REGULAR,USD,JFIN
+JFIN220218P00002500,2022-02-02 16:01:35+00:00,2.5,0.45,0.15,0.45,0.0,0.0,4,6,1.3281283593749997,True,REGULAR,USD,JFIN

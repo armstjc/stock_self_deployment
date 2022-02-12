@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NSTB220819P00007500,2021-12-20 20:09:49+00:00,7.5,0.3,0.0,1.15,0.0,0.0,,10,0.569340244140625,False,REGULAR,USD,NSTB
+NSTB220819P00007500,2021-12-20 20:09:49+00:00,7.5,0.3,0.0,1.15,0.0,0.0,,10,0.5800823242187501,False,REGULAR,USD,NSTB

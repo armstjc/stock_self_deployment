@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FBMS220318P00040000,2021-11-26 14:40:00+00:00,40.0,2.75,1.75,4.8,0.0,0.0,1,2,0.46143116699218756,True,REGULAR,USD,FBMS
+FBMS220318P00040000,2021-11-26 14:40:00+00:00,40.0,2.75,1.75,4.8,0.0,0.0,1,2,0.6069375244140626,True,REGULAR,USD,FBMS

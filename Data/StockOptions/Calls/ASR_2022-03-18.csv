@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASR220318C00250000,2021-11-11 14:30:40+00:00,250.0,0.8,0.1,1.9,0.0,0.0,,4,0.45654840332031255,False,REGULAR,USD,ASR
+ASR220318C00250000,2021-11-11 14:30:40+00:00,250.0,0.8,0.1,1.9,0.0,0.0,,4,0.3942931665039063,False,REGULAR,USD,ASR

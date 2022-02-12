@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HMLP220218P00002500,2021-12-17 14:30:40+00:00,2.5,0.33,0.0,0.05,0.0,0.0,1,1,1.6875015625,False,REGULAR,USD,HMLP
+HMLP220218P00002500,2021-12-17 14:30:40+00:00,2.5,0.33,0.0,0.05,0.0,0.0,1,1,2.156254609375,False,REGULAR,USD,HMLP

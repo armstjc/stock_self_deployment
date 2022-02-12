@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+FOXF220916P00120000,2022-02-02 17:45:39+00:00,120.0,12.5,10.6,13.6,0.0,0.0,,1,0.48474636352539063,False,REGULAR,USD,FOXF

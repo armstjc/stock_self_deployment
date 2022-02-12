@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RLAY220916C00017500,2022-02-03 19:14:34+00:00,17.5,7.1,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,RLAY
+RLAY220916C00017500,2022-02-03 19:14:34+00:00,17.5,7.1,5.5,10.4,0.0,0.0,1,2,0.9355475195312499,True,REGULAR,USD,RLAY

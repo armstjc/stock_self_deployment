@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EME220218P00085000,2021-12-21 14:30:06+00:00,85.0,1.05,0.0,4.8,0.0,0.0,,10,1.4926783178710936,False,REGULAR,USD,EME
+EME220218P00085000,2021-12-21 14:30:06+00:00,85.0,1.05,0.0,4.8,0.0,0.0,,10,1.9892578662109375,False,REGULAR,USD,EME

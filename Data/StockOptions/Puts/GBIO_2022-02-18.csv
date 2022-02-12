@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GBIO220218P00007500,2021-12-27 20:33:28+00:00,7.5,0.7,1.2,2.0,0.0,0.0,,128,1.8398445507812498,True,REGULAR,USD,GBIO
+GBIO220218P00007500,2021-12-27 20:33:28+00:00,7.5,0.7,1.2,2.0,0.0,0.0,,128,2.1093797265624996,True,REGULAR,USD,GBIO

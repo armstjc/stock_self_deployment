@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MPX220218P00010000,2021-12-23 16:29:51+00:00,10.0,0.28,0.05,0.2,0.0,0.0,1,1,0.9179695703125,False,REGULAR,USD,MPX
+MPX220218P00010000,2021-12-23 16:29:51+00:00,10.0,0.28,0.05,0.2,0.0,0.0,1,1,1.1796916015624999,False,REGULAR,USD,MPX

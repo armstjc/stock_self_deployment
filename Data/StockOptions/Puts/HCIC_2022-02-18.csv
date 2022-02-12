@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HCIC220218P00007500,2022-01-10 14:35:38+00:00,7.5,0.05,0.0,0.05,0.0,0.0,60,130,0.7656273437500001,False,REGULAR,USD,HCIC
+HCIC220218P00007500,2021-12-20 15:05:44+00:00,7.5,0.05,0.0,0.05,0.0,0.0,50,70,0.992187578125,False,REGULAR,USD,HCIC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMG220318P00005000,2022-01-28 20:56:51+00:00,5.0,0.7,0.0,0.6,0.0,0.0,8,8,1.3125034374999998,False,REGULAR,USD,NMG
+NMG220318P00005000,2022-01-28 20:56:51+00:00,5.0,0.7,0.0,4.9,0.0,0.0,8,8,5.046878691406249,False,REGULAR,USD,NMG

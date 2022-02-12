@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSTM240119P00020000,2022-01-06 14:53:32+00:00,20.0,5.5,4.7,8.1,0.0,0.0,1,0,0.65820654296875,True,REGULAR,USD,CSTM
+CSTM240119P00020000,2022-01-06 14:53:32+00:00,20.0,5.5,5.4,7.9,0.0,0.0,1,0,0.5310105493164063,True,REGULAR,USD,CSTM

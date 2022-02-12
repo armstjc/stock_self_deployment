@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TNC220218C00080000,2022-01-11 16:15:23+00:00,80.0,3.0,0.0,0.0,0.0,0.0,2,0,0.062509375,False,REGULAR,USD,TNC
+TNC220218C00080000,2022-01-11 16:15:23+00:00,80.0,3.0,0.0,2.55,0.0,0.0,2,2,0.6782258740234376,False,REGULAR,USD,TNC

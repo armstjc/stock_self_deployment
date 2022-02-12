@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CPF220916C00035000,2022-01-31 14:30:01+00:00,35.0,0.75,0.15,1.4,0.0,0.0,,4,0.3552310571289062,False,REGULAR,USD,CPF

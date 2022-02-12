@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HOG220211P00037000,2022-01-05 20:37:45+00:00,37.0,1.5,1.45,1.65,0.20000005,15.384619,2,23,0.3505924316406249,True,REGULAR,USD,HOG
+HOG220211P00037000,2022-01-05 20:37:45+00:00,37.0,1.5,1.45,1.65,0.20000005,15.384619,2,23,3.529298051757812,False,REGULAR,USD,HOG

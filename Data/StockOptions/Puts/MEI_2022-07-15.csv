@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MEI220715P00025000,2021-12-02 16:30:19+00:00,25.0,0.75,0.0,0.75,0.0,0.0,,375,0.5722699023437501,False,REGULAR,USD,MEI
+MEI220715P00025000,2021-12-02 16:30:19+00:00,25.0,0.75,0.0,0.75,0.0,0.0,,375,0.6103554589843752,False,REGULAR,USD,MEI

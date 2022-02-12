@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TURN220218C00007500,2021-12-23 16:57:00+00:00,7.5,0.3,0.0,0.75,0.0,0.0,5,5,0.7578149218750001,False,REGULAR,USD,TURN
+TURN220218C00007500,2021-12-23 16:57:00+00:00,7.5,0.3,0.15,0.45,0.0,0.0,5,5,0.7148466015625,False,REGULAR,USD,TURN

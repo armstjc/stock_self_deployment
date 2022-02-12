@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AROW220318C00040000,2021-10-27 16:21:38+00:00,40.0,0.7,0.2,2.8,0.0,0.0,3,0,0.6479527392578125,False,REGULAR,USD,AROW
+AROW220318C00040000,2021-10-27 16:21:38+00:00,40.0,0.7,0.2,2.8,0.0,0.0,3,0,0.727541787109375,False,REGULAR,USD,AROW

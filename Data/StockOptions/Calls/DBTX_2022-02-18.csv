@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DBTX220218C00005000,2022-01-13 16:44:21+00:00,5.0,0.4,0.0,2.1,0.0,0.0,1,11,4.20312974609375,False,REGULAR,USD,DBTX
+DBTX220218C00005000,2021-12-31 18:49:34+00:00,5.0,0.45,0.25,0.7,0.0,0.0,9,9,2.88281529296875,False,REGULAR,USD,DBTX

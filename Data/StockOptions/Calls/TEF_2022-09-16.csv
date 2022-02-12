@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TEF220916C00005000,2022-02-02 20:41:10+00:00,5.0,0.26,0.0,0.0,0.0,0.0,8,0,0.0312596875,False,REGULAR,USD,TEF
+TEF220916C00005000,2022-02-10 16:43:34+00:00,5.0,0.4,0.25,0.4,0.050000012,14.285718,5,400,0.27539787109374997,False,REGULAR,USD,TEF

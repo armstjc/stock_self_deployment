@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LFTR220414P00010000,2021-12-08 20:40:49+00:00,10.0,0.5,0.1,0.35,0.0,0.0,376,395,0.13672738281250002,True,REGULAR,USD,LFTR
+LFTR220414P00010000,2021-12-08 20:40:49+00:00,10.0,0.5,0.1,0.35,0.0,0.0,376,395,0.15235222656250003,True,REGULAR,USD,LFTR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RGS220218P00002500,2022-01-05 16:32:06+00:00,2.5,0.78,0.8,0.9,-0.100000024,-11.363639,10,1061,1.0000000000000003e-05,True,REGULAR,USD,RGS
+RGS220218P00002500,2022-01-05 16:32:06+00:00,2.5,0.78,0.8,0.9,-0.100000024,-11.363639,10,1061,2.468753828125,True,REGULAR,USD,RGS

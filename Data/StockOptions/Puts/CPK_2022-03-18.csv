@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPK220318P00115000,2021-12-13 20:11:31+00:00,115.0,0.7,0.0,5.0,0.0,0.0,120,62,0.5168505346679688,False,REGULAR,USD,CPK
+CPK220318P00115000,2021-12-13 20:11:31+00:00,115.0,0.7,0.0,1.35,0.0,0.0,120,62,0.41565525756835936,False,REGULAR,USD,CPK

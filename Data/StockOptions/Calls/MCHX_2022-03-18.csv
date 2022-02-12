@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MCHX220318C00005000,2021-11-22 14:30:02+00:00,5.0,0.05,0.0,0.1,0.0,0.0,,34,1.5312523437499999,False,REGULAR,USD,MCHX
+MCHX220318C00005000,2021-11-22 14:30:02+00:00,5.0,0.05,0.0,0.1,0.0,0.0,,34,1.734376328125,False,REGULAR,USD,MCHX

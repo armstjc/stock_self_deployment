@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FBIZ220916P00017500,2022-01-25 18:14:58+00:00,17.5,0.25,0.05,0.25,0.0,0.0,,3,0.5371140039062501,False,REGULAR,USD,FBIZ
+FBIZ220916P00017500,2022-01-25 18:14:58+00:00,17.5,0.25,0.05,0.25,0.0,0.0,,3,0.5478560839843751,False,REGULAR,USD,FBIZ

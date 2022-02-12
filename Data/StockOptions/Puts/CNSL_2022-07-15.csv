@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNSL220715P00007500,2021-11-29 14:51:30+00:00,7.5,1.22,0.85,1.5,0.0,0.0,,1,0.6709017285156251,True,REGULAR,USD,CNSL
+CNSL220715P00007500,2021-11-29 14:51:30+00:00,7.5,1.22,0.85,1.5,0.0,0.0,,1,0.5185595019531251,True,REGULAR,USD,CNSL

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VSEC220218C00060000,2021-12-23 16:07:17+00:00,60.0,4.55,0.2,2.5,0.0,0.0,2,2,1.1513714306640623,False,REGULAR,USD,VSEC
+VSEC220218C00060000,2021-12-23 16:07:17+00:00,60.0,4.55,0.2,2.5,0.0,0.0,2,2,1.5468772656249998,False,REGULAR,USD,VSEC

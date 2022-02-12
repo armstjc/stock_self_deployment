@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VRRM220715C00017500,2022-01-03 14:37:47+00:00,17.5,1.15,0.8,1.25,0.0,0.0,2,38,0.4580132324218751,False,REGULAR,USD,VRRM
+VRRM220715C00017500,2022-02-07 15:40:22+00:00,17.5,1.75,1.55,1.95,0.5,40.0,10,78,0.49121602539062503,False,REGULAR,USD,VRRM

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EIG220218P00045000,2022-01-05 18:04:19+00:00,45.0,3.0,1.4,5.3,-1.3000002,-30.232561,1,1,1.0000000000000003e-05,True,REGULAR,USD,EIG
+EIG220218P00045000,2022-01-18 17:50:20+00:00,45.0,4.5,4.0,8.5,0.0,0.0,1,1,1.7548840380859376,True,REGULAR,USD,EIG

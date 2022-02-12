@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SWM220916P00017500,2022-01-27 20:49:44+00:00,17.5,0.4,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,SWM

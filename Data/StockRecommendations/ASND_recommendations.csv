@@ -30,10 +30,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-03-20,Oppenheimer,Outperform,,init,ASND
 2020-04-02,Morgan Stanley,Overweight,,main,ASND
 2020-04-20,Cantor Fitzgerald,Overweight,,reit,ASND
-2020-04-20,Stifel,Buy,,main,ASND
-2020-04-20,SVB Leerink,Outperform,,main,ASND
 2020-04-20,Oppenheimer,Outperform,,main,ASND
 2020-04-20,Credit Suisse,Outperform,,main,ASND
+2020-04-20,Stifel,Buy,,main,ASND
+2020-04-20,SVB Leerink,Outperform,,main,ASND
 2020-05-20,Oppenheimer,Outperform,,main,ASND
 2020-05-20,Credit Suisse,Outperform,,main,ASND
 2020-05-20,SVB Leerink,Outperform,,main,ASND
@@ -48,8 +48,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-11,Credit Suisse,Outperform,,main,ASND
 2021-03-12,Canaccord Genuity,Buy,,main,ASND
 2021-03-30,Oppenheimer,Perform,Outperform,down,ASND
-2021-05-28,Credit Suisse,Outperform,,main,ASND
 2021-05-28,Morgan Stanley,Overweight,,main,ASND
+2021-05-28,Credit Suisse,Outperform,,main,ASND
 2021-06-01,Canaccord Genuity,Buy,,main,ASND
 2021-06-14,Morgan Stanley,Overweight,,main,ASND
 2021-06-14,SVB Leerink,Outperform,,main,ASND
@@ -62,3 +62,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-11,Credit Suisse,Outperform,,main,ASND
 2021-11-15,SVB Leerink,Outperform,,main,ASND
 2021-12-08,Wells Fargo,Overweight,,init,ASND
+2022-01-06,Cowen & Co.,Market Perform,,init,ASND

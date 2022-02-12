@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SFNC220218C00030000,2022-02-08 20:23:25+00:00,30.0,0.2,0.0,0.15,0.0,0.0,101,151,0.27930408203124996,False,REGULAR,USD,SFNC

@@ -1,21 +1,21 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-08-08,PiperJaffray,Overweight,,main,AACG
-2012-11-08,Oppenheimer,Outperform,,main,AACG
-2021-07-08,Aegis Capital,Buy,,init,AACG
-2021-07-13,Canaccord Genuity,Buy,,init,AACG
-2021-07-13,RBC Capital,Sector Perform,,init,AACG
-2021-07-13,Credit Suisse,Outperform,,init,AACG
-2021-07-13,Cantor Fitzgerald,Overweight,,init,AACG
-2021-07-13,Berenberg,Buy,,init,AACG
-2021-07-13,Citigroup,Buy,,init,AACG
-2021-07-13,Cowen & Co.,Outperform,,init,AACG
-2021-07-14,Baader Helvea,Buy,,init,AACG
-2021-08-17,Argus Research,Buy,,main,AACG
-2021-08-17,Aegis Capital,Buy,,main,AACG
-2021-09-01,Jefferies,Buy,,init,AACG
-2021-10-18,HC Wainwright & Co.,Buy,,init,AACG
-2021-11-11,Roth Capital,Buy,,init,AACG
-2021-11-16,RBC Capital,Sector Perform,,main,AACG
-2021-11-16,Credit Suisse,Outperform,,main,AACG
-2021-11-22,HC Wainwright & Co.,Buy,,main,AACG
-2021-11-30,Maxim Group,Buy,,init,AACG
+2012-08-08 08:18:00,PiperJaffray,Overweight,,main,AACG
+2012-11-08 16:17:00,Oppenheimer,Outperform,,main,AACG
+2021-07-08 13:34:43,Aegis Capital,Buy,,init,AACG
+2021-07-13 10:17:23,Canaccord Genuity,Buy,,init,AACG
+2021-07-13 11:36:54,RBC Capital,Sector Perform,,init,AACG
+2021-07-13 11:49:28,Credit Suisse,Outperform,,init,AACG
+2021-07-13 12:30:32,Cantor Fitzgerald,Overweight,,init,AACG
+2021-07-13 12:45:27,Berenberg,Buy,,init,AACG
+2021-07-13 12:50:17,Citigroup,Buy,,init,AACG
+2021-07-13 12:52:58,Cowen & Co.,Outperform,,init,AACG
+2021-07-14 10:03:37,Baader Helvea,Buy,,init,AACG
+2021-08-17 14:10:15,Aegis Capital,Buy,,main,AACG
+2021-08-17 14:11:01,Argus Research,Buy,,main,AACG
+2021-09-01 12:22:34,Jefferies,Buy,,init,AACG
+2021-10-18 10:29:52,HC Wainwright & Co.,Buy,,init,AACG
+2021-11-11 11:17:41,Roth Capital,Buy,,init,AACG
+2021-11-16 12:03:59,RBC Capital,Sector Perform,,main,AACG
+2021-11-16 14:10:44,Credit Suisse,Outperform,,main,AACG
+2021-11-22 11:28:00,HC Wainwright & Co.,Buy,,main,AACG
+2021-11-30 14:29:09,Maxim Group,Buy,,init,AACG

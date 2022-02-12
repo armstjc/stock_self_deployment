@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTOO220218C00010000,2021-12-31 20:03:12+00:00,10.0,0.37,0.35,1.5,0.0,0.0,20,21,4.179692275390625,False,REGULAR,USD,HTOO
+HTOO220218C00010000,2021-12-31 20:03:12+00:00,10.0,0.37,0.35,1.5,0.0,0.0,20,21,4.9140663574218735,False,REGULAR,USD,HTOO

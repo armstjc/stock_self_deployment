@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRLT220318P00007500,2022-02-01 14:30:01+00:00,7.5,0.2,0.1,0.3,0.0,0.0,,1,1.0429735351562504,False,REGULAR,USD,BRLT
+BRLT220318P00007500,2022-02-04 15:01:59+00:00,7.5,0.2,0.0,0.0,0.0,0.0,6,6,0.500005,False,REGULAR,USD,BRLT

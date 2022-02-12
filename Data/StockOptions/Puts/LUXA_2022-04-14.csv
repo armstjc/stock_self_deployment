@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LUXA220414P00010000,2021-12-06 20:50:23+00:00,10.0,0.6,0.1,0.35,0.0,0.0,13,174,0.1445398046875,True,REGULAR,USD,LUXA
+LUXA220414P00010000,2021-12-06 20:50:23+00:00,10.0,0.6,0.1,0.35,0.0,0.0,13,174,0.15430533203125002,True,REGULAR,USD,LUXA

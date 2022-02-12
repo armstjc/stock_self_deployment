@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATNX220318C00002500,2022-02-03 19:11:27+00:00,2.5,0.05,0.05,0.1,0.0,0.0,2,47,2.43750390625,False,REGULAR,USD,ATNX
+ATNX220318C00002500,2022-02-07 17:44:47+00:00,2.5,0.05,0.0,0.1,0.0,0.0,8,57,2.3437541406249993,False,REGULAR,USD,ATNX

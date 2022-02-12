@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CALA220916P00002500,2022-02-02 20:02:02+00:00,2.5,1.9,1.85,2.15,0.0,0.0,1,62,1.15625421875,True,REGULAR,USD,CALA
+CALA220916P00002500,2022-02-02 20:02:02+00:00,2.5,1.97,1.7,2.3,0.0,0.0,27,73,1.09375453125,True,REGULAR,USD,CALA

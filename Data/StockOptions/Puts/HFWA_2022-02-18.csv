@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HFWA220218P00020000,2021-12-20 18:04:13+00:00,20.0,0.45,0.05,0.15,0.0,0.0,,4,0.726565234375,False,REGULAR,USD,HFWA
+HFWA220218P00020000,2021-12-20 18:04:13+00:00,20.0,0.45,0.05,0.15,0.0,0.0,,4,1.01172369140625,False,REGULAR,USD,HFWA

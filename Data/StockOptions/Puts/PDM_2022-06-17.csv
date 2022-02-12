@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PDM220617P00017500,2021-12-21 18:34:37+00:00,17.5,1.2,0.4,3.0,0.0,0.0,,20,0.7480493945312501,False,REGULAR,USD,PDM
+PDM220617P00017500,2021-12-21 18:34:37+00:00,17.5,1.2,0.25,3.2,0.0,0.0,,20,0.7377955908203124,True,REGULAR,USD,PDM

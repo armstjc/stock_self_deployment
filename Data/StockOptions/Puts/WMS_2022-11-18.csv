@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WMS221118P00115000,2021-11-23 15:59:01+00:00,115.0,11.6,8.0,12.5,0.0,0.0,,7,0.35834381896972656,False,REGULAR,USD,WMS
+WMS221118P00115000,2021-11-23 15:59:01+00:00,115.0,11.6,8.0,12.5,0.0,0.0,,7,0.3436955279541015,False,REGULAR,USD,WMS

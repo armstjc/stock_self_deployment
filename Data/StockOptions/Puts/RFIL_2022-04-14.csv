@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RFIL220414P00007500,2022-01-04 16:55:02+00:00,7.5,0.45,0.45,1.25,0.0,0.0,1,160,0.737307314453125,False,REGULAR,USD,RFIL
+RFIL220414P00007500,2022-01-04 16:55:02+00:00,7.5,0.45,0.45,1.25,0.0,0.0,1,160,0.648441015625,True,REGULAR,USD,RFIL

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STFC220819P00050000,2022-01-27 20:45:40+00:00,50.0,1.15,0.0,0.0,0.0,0.0,2,0,0.015634843750000002,False,REGULAR,USD,STFC
+STFC220819P00050000,2022-02-07 20:18:04+00:00,50.0,0.59,0.05,1.0,0.0,0.0,10,27,0.11841701904296875,False,REGULAR,USD,STFC

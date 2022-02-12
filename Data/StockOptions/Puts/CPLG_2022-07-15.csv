@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPLG220715P00017500,2021-11-08 14:35:55+00:00,17.5,2.7,1.6,5.0,0.0,0.0,10,11,0.523442265625,True,REGULAR,USD,CPLG
+CPLG220715P00017500,2021-11-08 14:35:55+00:00,17.5,2.7,1.6,5.0,0.0,0.0,10,11,0.5380905566406251,True,REGULAR,USD,CPLG

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NE220218P00025000,2022-01-26 15:33:32+00:00,25.0,1.11,0.0,0.0,0.0,0.0,100,0,0.0312596875,False,REGULAR,USD,NE
+NE220218P00025000,2022-01-26 15:33:32+00:00,25.0,1.11,0.15,0.8,0.0,0.0,100,61,0.6787141503906251,False,REGULAR,USD,NE

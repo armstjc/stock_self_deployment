@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HURN220617P00045000,2021-12-23 18:57:22+00:00,45.0,3.5,2.45,3.4,0.0,0.0,1,1,0.27808339111328123,True,REGULAR,USD,HURN
+HURN220617P00045000,2021-12-23 18:57:22+00:00,45.0,3.5,2.45,3.4,0.0,0.0,1,1,0.29456271850585936,True,REGULAR,USD,HURN

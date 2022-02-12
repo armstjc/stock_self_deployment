@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-URI220211P00265000,2021-12-31 17:50:14+00:00,265.0,1.45,0.6,3.7,0.0,0.0,5,5,1.0615281298828125,False,REGULAR,USD,URI
+URI220211P00265000,2021-12-31 17:50:14+00:00,265.0,1.45,0.6,3.7,0.0,0.0,5,5,2.1792037707519527,False,REGULAR,USD,URI

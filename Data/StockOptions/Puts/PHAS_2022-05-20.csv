@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PHAS220520P00002500,2022-01-25 17:07:57+00:00,2.5,0.8,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,PHAS
+PHAS220520P00002500,2022-01-04 15:32:39+00:00,2.5,0.5,0.35,0.85,0.0,0.0,1,224,0.8906260937499999,True,REGULAR,USD,PHAS

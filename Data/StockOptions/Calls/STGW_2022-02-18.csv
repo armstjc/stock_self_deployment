@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+STGW220218C00007500,2022-02-09 19:52:08+00:00,7.5,0.55,0.4,0.8,0.0,0.0,101,172,0.7421900781249999,True,REGULAR,USD,STGW

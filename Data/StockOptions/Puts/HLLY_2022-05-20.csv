@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HLLY220520P00012500,2021-12-07 20:40:27+00:00,12.5,1.65,1.15,1.65,0.0,0.0,45,124,0.348639326171875,True,REGULAR,USD,HLLY
+HLLY220520P00012500,2021-12-07 20:40:27+00:00,12.5,1.65,1.15,1.65,0.0,0.0,45,124,0.508793974609375,True,REGULAR,USD,HLLY

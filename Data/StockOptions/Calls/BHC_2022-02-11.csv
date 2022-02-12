@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BHC220211C00031000,2021-12-30 14:37:03+00:00,31.0,0.61,0.13,0.58,0.0,0.0,,100,1.3515657421874998,False,REGULAR,USD,BHC
+BHC220211C00031000,2021-12-30 14:37:03+00:00,31.0,0.61,0.13,0.58,0.0,0.0,,100,2.1953170117187497,False,REGULAR,USD,BHC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASGN220916C00130000,2022-01-27 17:38:40+00:00,130.0,5.2,5.6,8.9,0.0,0.0,,10,0.4057676611328125,False,REGULAR,USD,ASGN
+ASGN220916C00130000,2022-01-27 17:38:40+00:00,130.0,5.2,4.5,8.4,0.0,0.0,,10,0.38495488098144526,False,REGULAR,USD,ASGN

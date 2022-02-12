@@ -1,0 +1,3 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KLTR220218C00003000,2022-02-07 14:40:10+00:00,3.0,0.55,0.4,1.1,0.0,0.0,1,15,1.9218753906250001,True,REGULAR,USD,KLTR
+KLTR220218C00005000,2022-01-20 20:28:03+00:00,5.0,0.05,0.0,0.25,0.0,0.0,6,150,2.1796920507812496,False,REGULAR,USD,KLTR

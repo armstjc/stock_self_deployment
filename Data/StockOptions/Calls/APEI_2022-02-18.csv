@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+APEI220218C00022500,2022-01-24 18:22:15+00:00,22.5,0.7,0.0,0.75,0.0,0.0,,2,1.1308637207031251,False,REGULAR,USD,APEI

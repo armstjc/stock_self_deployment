@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NNBR220218C00002500,2021-12-17 15:00:30+00:00,2.5,1.85,1.15,2.1,0.0,0.0,1,1,5.000003749999999,True,REGULAR,USD,NNBR
+NNBR220218C00002500,2021-12-17 15:00:30+00:00,2.5,1.85,1.0,1.8,0.0,0.0,1,1,5.8437526953125,True,REGULAR,USD,NNBR

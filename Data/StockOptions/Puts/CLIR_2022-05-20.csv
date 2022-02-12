@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLIR220520P00002500,2021-12-09 14:30:13+00:00,2.5,1.2,0.7,1.85,0.0,0.0,2,11,3.2031269921874994,True,REGULAR,USD,CLIR
+CLIR220520P00002500,2021-12-09 14:30:13+00:00,2.5,1.2,0.7,1.85,0.0,0.0,2,11,3.281251796875,True,REGULAR,USD,CLIR

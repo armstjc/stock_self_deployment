@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PJT220218C00075000,2021-12-20 17:52:54+00:00,75.0,2.0,0.05,4.7,0.0,0.0,,2,1.1860392260742185,False,REGULAR,USD,PJT
+PJT220218C00075000,2021-12-20 17:52:54+00:00,75.0,2.0,0.05,4.7,0.0,0.0,,2,1.4438504370117187,False,REGULAR,USD,PJT

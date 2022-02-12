@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PFBC220318P00055000,2021-11-10 11:46:21+00:00,55.0,4.4,0.25,4.7,0.0,0.0,10,10,1.1689494677734376,False,REGULAR,USD,PFBC
+PFBC220318P00055000,2021-11-10 11:46:21+00:00,55.0,4.4,0.25,4.7,0.0,0.0,10,10,1.2209511608886716,False,REGULAR,USD,PFBC

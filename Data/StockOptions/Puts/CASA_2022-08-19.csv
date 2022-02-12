@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CASA220819P00002500,2022-01-18 05:08:46+00:00,2.5,0.25,,0.35,0.0,0.0,,2,1.0742233789062503,False,REGULAR,USD,CASA
-CASA220819P00005000,2022-01-18 20:31:46+00:00,5.0,0.95,0.95,1.6,0.0,0.0,1.0,7,0.6904327832031252,True,REGULAR,USD,CASA

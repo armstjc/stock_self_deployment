@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+NOVA221118C00035000,2022-02-08 14:31:44+00:00,35.0,1.1,1.4,1.9,0.0,0.0,1,13,0.7316921362304687,False,REGULAR,USD,NOVA

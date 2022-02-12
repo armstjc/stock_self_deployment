@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TXMD220916C00001000,2022-02-09 20:54:49+00:00,1.0,0.05,0.05,0.1,0.0,0.0,2,144,2.031254921875,False,REGULAR,USD,TXMD

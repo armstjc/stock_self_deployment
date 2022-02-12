@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FBK220715C00050000,2021-11-24 20:32:16+00:00,50.0,2.8,0.0,4.6,0.0,0.0,,1,0.5462691857910158,False,REGULAR,USD,FBK
+FBK220715C00050000,2021-11-24 20:32:16+00:00,50.0,2.8,0.0,4.6,0.0,0.0,,1,0.5546919531250001,False,REGULAR,USD,FBK

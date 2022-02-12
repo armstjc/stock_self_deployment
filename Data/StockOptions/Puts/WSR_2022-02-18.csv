@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WSR220218P00010000,2022-01-05 19:17:01+00:00,10.0,0.35,0.3,0.7,0.049999982,16.66666,1,17,0.6972686523437501,False,REGULAR,USD,WSR
+WSR220218P00010000,2022-02-08 18:36:56+00:00,10.0,0.2,0.0,0.3,0.0,0.0,1,74,0.5019581054687501,False,REGULAR,USD,WSR

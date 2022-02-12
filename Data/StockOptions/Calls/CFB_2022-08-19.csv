@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CFB220819C00015000,2022-01-05 20:00:05+00:00,15.0,1.98,1.7,2.0,0.22000003,12.500002,1,0,0.35547519531249994,True,REGULAR,USD,CFB
+CFB220819C00015000,2022-01-05 20:00:05+00:00,15.0,1.98,1.85,2.15,0.0,0.0,1,1,0.331061376953125,True,REGULAR,USD,CFB

@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CCF220819C00110000,2022-02-04 15:48:24+00:00,110.0,3.0,0.6,5.4,0.0,0.0,30,30,0.3817810845947265,False,REGULAR,USD,CCF

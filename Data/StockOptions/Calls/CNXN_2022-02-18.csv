@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNXN220218C00045000,2022-01-25 14:49:22+00:00,45.0,0.85,0.8,1.05,0.0,0.0,1,15,0.5063525927734375,False,REGULAR,USD,CNXN
+CNXN220218C00045000,2021-12-20 19:34:02+00:00,45.0,1.15,0.55,0.85,0.0,0.0,,14,1.0000000000000003e-05,True,REGULAR,USD,CNXN

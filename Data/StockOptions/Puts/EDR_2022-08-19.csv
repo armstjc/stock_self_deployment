@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EDR220819P00030000,2021-12-30 16:25:01+00:00,30.0,3.85,2.6,4.5,0.0,0.0,,17,0.5422409057617189,False,REGULAR,USD,EDR
+EDR220819P00030000,2021-12-30 16:25:01+00:00,30.0,3.85,2.6,4.5,0.0,0.0,,17,0.5515181567382813,False,REGULAR,USD,EDR

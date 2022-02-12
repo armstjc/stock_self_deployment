@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRON220819P00012500,2022-01-18 05:13:10+00:00,12.5,3.4,2.5,7.0,0.0,0.0,3,3,1.5029321728515623,True,REGULAR,USD,KRON

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRAI220520P00100000,2021-11-08 14:30:02+00:00,100.0,14.33,11.6,15.5,0.0,0.0,,1,0.22046677978515622,True,REGULAR,USD,CRAI
+CRAI220520P00100000,2021-11-08 14:30:02+00:00,100.0,14.33,11.6,15.5,0.0,0.0,,1,0.5443160803222657,True,REGULAR,USD,CRAI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SLRC220218C00020000,2022-01-05 16:34:39+00:00,20.0,0.19,0.0,0.2,0.14,280.0,1,1,0.47559118164062497,False,REGULAR,USD,SLRC
+SLRC220218C00020000,2022-01-05 16:34:39+00:00,20.0,0.19,0.0,0.2,0.14,280.0,1,1,0.6113320117187502,False,REGULAR,USD,SLRC

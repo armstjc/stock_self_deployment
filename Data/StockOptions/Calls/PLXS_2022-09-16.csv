@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLXS220916C00095000,2022-01-25 19:41:36+00:00,95.0,3.0,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,PLXS
+PLXS220916C00095000,2022-01-25 19:41:36+00:00,95.0,2.45,0.1,4.3,-0.54999995,-18.333332,1,3,0.3745179736328125,False,REGULAR,USD,PLXS

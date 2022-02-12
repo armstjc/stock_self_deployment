@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MGEE220520P00075000,2021-11-08 18:39:35+00:00,75.0,3.3,3.1,6.5,0.0,0.0,,2,0.4283504431152344,False,REGULAR,USD,MGEE
+MGEE220520P00075000,2021-11-08 18:39:35+00:00,75.0,3.3,3.1,6.5,0.0,0.0,,2,0.39600213378906257,True,REGULAR,USD,MGEE

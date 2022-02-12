@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRTS240119P00015000,2021-12-06 14:35:13+00:00,15.0,7.2,6.1,7.6,0.0,0.0,5,4,0.5568891967773439,True,REGULAR,USD,PRTS
+PRTS240119P00015000,2021-12-06 14:35:13+00:00,15.0,7.2,6.1,7.6,0.0,0.0,5,4,0.5578657495117189,True,REGULAR,USD,PRTS

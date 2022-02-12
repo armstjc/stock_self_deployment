@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RGLS240119P00005000,2021-11-10 12:00:32+00:00,5.0,4.6,1.5,4.9,0.0,0.0,,2,2.1875045312499997,True,REGULAR,USD,RGLS
+RGLS240119P00005000,2021-11-10 12:00:32+00:00,5.0,4.6,1.5,4.9,0.0,0.0,,2,2.2500043749999996,True,REGULAR,USD,RGLS

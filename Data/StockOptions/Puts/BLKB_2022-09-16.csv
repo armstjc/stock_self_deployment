@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BLKB220916P00090000,2022-01-27 16:15:56+00:00,90.0,25.4,27.3,28.3,0.0,0.0,,0,0.43884838500976564,True,REGULAR,USD,BLKB
+BLKB220916P00090000,2022-01-27 16:15:56+00:00,90.0,25.4,22.5,23.5,0.0,0.0,,0,0.42127043579101564,True,REGULAR,USD,BLKB

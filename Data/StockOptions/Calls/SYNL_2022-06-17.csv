@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SYNL220617C00010000,2021-12-28 19:18:47+00:00,10.0,5.5,5.8,8.6,0.0,0.0,1,4,1.2060586572265624,True,REGULAR,USD,SYNL
+SYNL220617C00010000,2021-12-28 19:18:47+00:00,10.0,5.5,5.8,8.6,0.0,0.0,1,4,1.126957490234375,True,REGULAR,USD,SYNL

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CHNG220218C00020000,2022-02-02 20:37:48+00:00,20.0,0.8,0.15,0.55,0.0,0.0,100,101,0.586918193359375,False,REGULAR,USD,CHNG
+CHNG220218C00020000,2021-12-23 14:30:12+00:00,20.0,1.85,0.1,5.0,0.0,0.0,1,1,1.8261727441406248,True,REGULAR,USD,CHNG

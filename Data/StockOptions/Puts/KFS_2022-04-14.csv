@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KFS220414P00005000,2021-11-10 11:49:32+00:00,5.0,0.38,0.0,5.0,0.0,0.0,,10,3.150392749023437,False,REGULAR,USD,KFS
+KFS220414P00005000,2021-11-10 11:49:32+00:00,5.0,0.38,0.0,5.0,0.0,0.0,,10,3.2968767578125,False,REGULAR,USD,KFS

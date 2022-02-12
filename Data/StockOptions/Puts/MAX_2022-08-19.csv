@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MAX220819P00007500,2022-01-18 14:37:08+00:00,7.5,0.4,0.4,0.95,0.0,0.0,1,2,0.8886729882812499,False,REGULAR,USD,MAX
+MAX220819P00007500,2022-01-18 14:37:08+00:00,7.5,0.4,0.4,0.95,0.0,0.0,1,2,0.840821904296875,False,REGULAR,USD,MAX

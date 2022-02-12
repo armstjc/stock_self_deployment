@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RAVE220715P00002500,2022-01-19 18:18:49+00:00,2.5,1.65,0.0,0.0,0.0,0.0,7,0,1.0000000000000003e-05,True,REGULAR,USD,RAVE
+RAVE220715P00002500,2022-01-19 18:18:49+00:00,2.5,1.65,1.5,1.65,0.0,0.0,7,10,1.4921900390624998,True,REGULAR,USD,RAVE

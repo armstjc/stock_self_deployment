@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DIDI220211C00006000,2022-01-05 20:26:13+00:00,6.0,0.2,0.13,0.26,-0.049999997,-19.999998,3,55,3.5156262109374996,False,REGULAR,USD,DIDI
+DIDI220211C00006000,2022-01-05 20:26:13+00:00,6.0,0.2,0.13,0.26,-0.049999997,-19.999998,3,55,4.6093792382812495,False,REGULAR,USD,DIDI

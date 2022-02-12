@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+CWEN220318P00030000,2022-02-04 15:27:03+00:00,30.0,0.79,0.25,0.55,0.0,0.0,1,17,0.424810439453125,False,REGULAR,USD,CWEN

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRON220311P00003000,2022-01-28 15:05:40+00:00,3.0,0.21,0.13,0.21,0.0,0.0,1,1,0.8906260937499999,False,REGULAR,USD,CRON
-CRON220311P00003500,2022-02-03 19:39:53+00:00,3.5,0.33,0.32,0.4,0.10000001,43.478264,5,684,0.804689453125,True,REGULAR,USD,CRON

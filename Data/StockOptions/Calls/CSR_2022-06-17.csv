@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSR220617C00115000,2021-12-20 14:37:56+00:00,115.0,4.4,0.7,4.8,0.0,0.0,,1,0.5213060565185546,False,REGULAR,USD,CSR
+CSR220617C00115000,2021-12-20 14:37:56+00:00,115.0,4.4,0.7,4.8,0.0,0.0,,1,0.5482222912597658,False,REGULAR,USD,CSR

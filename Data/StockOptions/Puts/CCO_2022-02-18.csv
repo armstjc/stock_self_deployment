@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCO220218P00003000,2022-01-28 20:40:51+00:00,3.0,0.15,0.2,0.35,0.0,0.0,15,4,0.804689453125,True,REGULAR,USD,CCO
+CCO220218P00003000,2022-01-05 20:08:49+00:00,3.0,0.25,0.2,0.35,0.049999997,24.999998,1,1,2.1796920507812496,False,REGULAR,USD,CCO

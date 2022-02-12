@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WTS220218C00180000,2021-12-21 19:06:55+00:00,180.0,14.3,13.3,16.8,0.0,0.0,,4,2.0701952542114257,False,REGULAR,USD,WTS
+WTS220218C00180000,2021-12-21 19:06:55+00:00,180.0,14.3,13.3,16.8,0.0,0.0,,4,2.8303251898193356,False,REGULAR,USD,WTS

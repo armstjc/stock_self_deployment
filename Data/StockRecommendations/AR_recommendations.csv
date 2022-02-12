@@ -51,8 +51,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-07-13,Barclays,Overweight,,main,AR
 2015-07-14,KeyBanc,Overweight,,main,AR
 2015-07-14,Deutsche Bank,Hold,,main,AR
-2015-07-21,Cowen & Co.,Market Perform,,init,AR
 2015-07-21,Stifel Nicolaus,Buy,,main,AR
+2015-07-21,Cowen & Co.,Market Perform,,init,AR
 2015-07-30,Stifel Nicolaus,Buy,,main,AR
 2015-07-31,KLR Group,Buy,Accumulate,up,AR
 2015-08-04,Stephens & Co.,Equal-Weight,Overweight,down,AR
@@ -80,8 +80,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-03-02,Credit Suisse,Outperform,,main,AR
 2016-03-10,Baird,Neutral,Outperform,down,AR
 2016-03-24,Morgan Stanley,Equal-Weight,,init,AR
-2016-04-15,JP Morgan,Neutral,Underweight,up,AR
 2016-04-15,Tudor Pickering,Buy,Hold,up,AR
+2016-04-15,JP Morgan,Neutral,Underweight,up,AR
 2016-06-14,Deutsche Bank,Hold,,main,AR
 2016-07-14,Barclays,Overweight,,main,AR
 2016-07-18,Jefferies,Hold,Underperform,up,AR
@@ -159,3 +159,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-18,Mizuho,Buy,Neutral,up,AR
 2021-10-26,Raymond James,Strong Buy,,main,AR
 2021-10-26,Benchmark,Buy,,init,AR
+2022-01-10,BMO Capital,Outperform,Market Perform,up,AR
+2022-01-21,Goldman Sachs,Buy,Neutral,up,AR
+2022-01-25,Morgan Stanley,Equal-Weight,,main,AR

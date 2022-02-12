@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DYN220318C00010000,2021-12-02 18:00:48+00:00,10.0,3.2,0.8,5.0,0.0,0.0,,2,4.289067138671875,False,REGULAR,USD,DYN
+DYN220318C00010000,2022-01-18 18:04:01+00:00,10.0,0.3,0.0,0.4,0.0,0.0,3,4,0.9179695703125,False,REGULAR,USD,DYN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PSTH220715P00020000,2021-12-17 18:45:18+00:00,20.0,0.8,0.58,2.86,0.0,0.0,1,22,0.52539537109375,True,REGULAR,USD,PSTH
+PSTH220715P00020000,2021-12-17 18:45:18+00:00,20.0,0.8,0.58,2.86,0.0,0.0,1,22,0.5415084912109377,True,REGULAR,USD,PSTH

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FOX220715P00030000,2021-12-27 19:47:26+00:00,30.0,1.35,1.0,1.55,0.0,0.0,,110,0.4819387744140625,False,REGULAR,USD,FOX
+FOX220715P00030000,2021-12-27 19:47:26+00:00,30.0,1.35,1.0,1.55,0.0,0.0,,110,0.5288133056640626,False,REGULAR,USD,FOX

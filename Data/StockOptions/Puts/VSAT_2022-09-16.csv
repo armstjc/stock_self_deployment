@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VSAT220916P00035000,2022-02-01 17:28:31+00:00,35.0,2.83,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,VSAT
+VSAT220916P00035000,2022-02-01 17:28:31+00:00,35.0,2.83,1.55,4.5,0.0,0.0,,2,0.50586431640625,False,REGULAR,USD,VSAT

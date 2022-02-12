@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FISI220617P00030000,2021-11-26 15:03:00+00:00,30.0,2.3,1.5,1.85,0.0,0.0,317,500,0.389654541015625,False,REGULAR,USD,FISI
+FISI220617P00030000,2021-11-26 15:03:00+00:00,30.0,2.3,1.5,1.85,0.0,0.0,317,500,0.348639326171875,False,REGULAR,USD,FISI

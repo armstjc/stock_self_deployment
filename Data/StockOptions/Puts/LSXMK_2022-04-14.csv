@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LSXMK220414P00045000,2022-01-20 14:30:03+00:00,45.0,2.2,0.0,4.8,0.0,0.0,,10,0.7768577001953125,False,REGULAR,USD,LSXMK
+LSXMK220414P00045000,2022-01-20 14:30:03+00:00,45.0,2.2,0.0,4.8,0.0,0.0,,10,0.6303747900390625,False,REGULAR,USD,LSXMK

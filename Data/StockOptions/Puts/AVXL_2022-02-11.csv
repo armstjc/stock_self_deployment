@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AVXL220211P00014000,2021-12-30 15:37:53+00:00,14.0,1.4,1.3,4.5,0.0,0.0,,6,2.9804712988281246,True,REGULAR,USD,AVXL
+AVXL220211P00014000,2021-12-30 15:37:53+00:00,14.0,1.4,1.3,4.5,0.0,0.0,,6,5.066409916992187,True,REGULAR,USD,AVXL

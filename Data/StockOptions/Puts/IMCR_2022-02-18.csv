@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMCR220218P00015000,2022-02-01 16:26:01+00:00,15.0,0.1,0.0,4.1,0.0,0.0,1,6,3.6191415771484374,False,REGULAR,USD,IMCR

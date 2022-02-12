@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CC220211P00033000,2021-12-30 20:21:55+00:00,33.0,1.55,0.8,1.1,0.0,0.0,,1,0.6044961425781252,False,REGULAR,USD,CC
+CC220211P00033000,2021-12-30 20:21:55+00:00,33.0,1.55,0.8,1.1,0.0,0.0,,1,2.2578168554687497,False,REGULAR,USD,CC

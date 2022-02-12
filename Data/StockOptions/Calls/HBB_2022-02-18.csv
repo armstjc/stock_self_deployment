@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HBB220218C00012500,2022-01-25 17:37:11+00:00,12.5,1.0,0.0,2.1,0.0,0.0,,2,0.8203142968749999,True,REGULAR,USD,HBB
+HBB220218C00012500,2022-01-25 17:37:11+00:00,12.5,1.0,0.8,1.95,0.0,0.0,,2,1.3183627832031248,True,REGULAR,USD,HBB

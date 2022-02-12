@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TSQ220218C00012500,2022-02-02 20:58:03+00:00,12.5,0.5,0.0,0.0,0.0,0.0,105,0,1.0000000000000003e-05,True,REGULAR,USD,TSQ
+TSQ220218C00012500,2022-02-10 17:14:13+00:00,12.5,0.75,0.0,0.55,0.25,50.0,1,106,0.6171913281250001,False,REGULAR,USD,TSQ

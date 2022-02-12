@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TBI220819C00030000,2022-01-18 05:04:24+00:00,30.0,3.2,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,TBI
+TBI220819C00030000,2022-02-10 15:14:40+00:00,30.0,2.0,0.3,2.6,-1.2,-37.5,2,2,0.4733939379882813,False,REGULAR,USD,TBI

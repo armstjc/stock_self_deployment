@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PGTI220318C00022500,2022-01-25 15:44:43+00:00,22.5,0.37,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,PGTI
+PGTI220318C00022500,2022-01-25 15:44:43+00:00,22.5,0.37,0.0,0.0,0.0,0.0,,1,0.12500875,False,REGULAR,USD,PGTI

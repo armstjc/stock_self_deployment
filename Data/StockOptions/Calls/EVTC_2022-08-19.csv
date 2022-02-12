@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVTC220819C00055000,2021-12-29 15:59:31+00:00,55.0,3.4,1.85,3.4,0.0,0.0,,1,0.5312546875,False,REGULAR,USD,EVTC
+EVTC220819C00055000,2021-12-29 15:59:31+00:00,55.0,3.4,1.85,3.4,0.0,0.0,,1,0.5576216113281252,False,REGULAR,USD,EVTC

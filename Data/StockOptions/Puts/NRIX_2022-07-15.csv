@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NRIX220715P00020000,2021-12-20 16:31:16+00:00,20.0,3.5,2.3,4.0,0.0,0.0,,1,0.534184345703125,True,REGULAR,USD,NRIX
+NRIX220715P00020000,2021-12-20 16:31:16+00:00,20.0,3.5,2.3,4.0,0.0,0.0,,1,0.6079140771484376,False,REGULAR,USD,NRIX

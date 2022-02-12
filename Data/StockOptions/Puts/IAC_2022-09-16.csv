@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IAC220916P00120000,2022-02-04 18:05:09+00:00,120.0,11.2,9.3,10.5,0.0,0.0,1,1,0.43408769042968753,False,REGULAR,USD,IAC

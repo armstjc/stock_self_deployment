@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KNTE220218C00025000,2021-12-23 19:04:20+00:00,25.0,0.59,0.0,3.0,0.0,0.0,2,2,5.300784624023436,False,REGULAR,USD,KNTE
+KNTE220218C00025000,2021-12-23 19:04:20+00:00,25.0,0.59,0.0,3.0,0.0,0.0,2,2,6.097658627929686,False,REGULAR,USD,KNTE

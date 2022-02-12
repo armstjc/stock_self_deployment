@@ -43,8 +43,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-11-17,Deutsche Bank,Buy,,main,ALGT
 2014-11-18,Imperial Capital,Outperform,,main,ALGT
 2014-12-10,Barclays,Underweight,Overweight,down,ALGT
-2015-01-09,Bank of America,Neutral,Underperform,up,ALGT
 2015-01-09,CRT Capital,Buy,,main,ALGT
+2015-01-09,Bank of America,Neutral,Underperform,up,ALGT
 2015-01-15,Bank of America,Buy,Neutral,up,ALGT
 2015-01-16,Barclays,Underweight,,main,ALGT
 2015-01-29,Credit Suisse,Buy,,main,ALGT
@@ -86,8 +86,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-12-21,Deutsche Bank,Buy,Hold,up,ALGT
 2018-01-09,Bank of America,Buy,Neutral,up,ALGT
 2018-01-16,Stifel Nicolaus,Buy,Hold,up,ALGT
-2018-02-01,Imperial Capital,In-Line,In-Line,main,ALGT
 2018-02-01,Stifel Nicolaus,Buy,Buy,main,ALGT
+2018-02-01,Imperial Capital,In-Line,In-Line,main,ALGT
 2018-02-05,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALGT
 2018-02-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALGT
 2018-04-06,Morgan Stanley,Equal-Weight,Equal-Weight,main,ALGT
@@ -140,8 +140,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-30,Raymond James,Strong Buy,,main,ALGT
 2020-12-11,Deutsche bank,Hold,Buy,down,ALGT
 2020-12-14,Morgan Stanley,Overweight,,main,ALGT
-2021-02-04,Deutsche Bank,Buy,Hold,up,ALGT
 2021-02-04,Raymond James,Strong Buy,,main,ALGT
+2021-02-04,Deutsche Bank,Buy,Hold,up,ALGT
 2021-03-08,Morgan Stanley,Overweight,,main,ALGT
 2021-04-12,Raymond James,Strong Buy,,main,ALGT
 2021-04-14,Deutsche Bank,Buy,,main,ALGT
@@ -150,13 +150,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-06-01,Morgan Stanley,Overweight,,main,ALGT
 2021-06-10,MKM Partners,Neutral,,init,ALGT
 2021-07-13,Susquehanna,Positive,,init,ALGT
-2021-07-21,MKM Partners,Buy,Neutral,up,ALGT
 2021-07-21,Raymond James,Strong Buy,,main,ALGT
+2021-07-21,MKM Partners,Buy,Neutral,up,ALGT
 2021-07-29,B of A Securities,Buy,Neutral,up,ALGT
 2021-09-14,Morgan Stanley,Overweight,,main,ALGT
-2021-10-06,Wolfe Research,Peer Perform,Outperform,down,ALGT
 2021-10-06,Goldman Sachs,Neutral,,main,ALGT
+2021-10-06,Wolfe Research,Peer Perform,Outperform,down,ALGT
 2021-10-12,Deutsche Bank,Buy,,main,ALGT
 2021-10-28,Raymond James,Strong Buy,,main,ALGT
 2021-11-16,Morgan Stanley,Overweight,,main,ALGT
 2021-11-16,Goldman Sachs,Buy,Neutral,up,ALGT
+2022-01-05,Raymond James,Market Perform,Strong Buy,down,ALGT
+2022-01-07,B of A Securities,Neutral,Buy,down,ALGT
+2022-01-11,Morgan Stanley,Overweight,,main,ALGT
+2022-01-14,Barclays,Overweight,,main,ALGT

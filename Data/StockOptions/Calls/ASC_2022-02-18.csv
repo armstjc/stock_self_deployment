@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASC220218C00002500,2022-01-03 15:11:17+00:00,2.5,1.1,1.1,1.25,0.0,0.0,16,16,2.281254296875,True,REGULAR,USD,ASC
+ASC220218C00002500,2022-02-03 16:18:27+00:00,2.5,1.13,0.9,1.4,0.0,0.0,8,18,2.9687525781249997,True,REGULAR,USD,ASC

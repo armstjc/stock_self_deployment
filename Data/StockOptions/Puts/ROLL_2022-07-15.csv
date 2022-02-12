@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ROLL220715P00140000,2021-12-27 19:03:34+00:00,140.0,4.0,1.0,5.5,0.0,0.0,,2,0.4138852557373046,False,REGULAR,USD,ROLL
+ROLL220715P00140000,2021-12-27 19:03:34+00:00,140.0,4.0,1.0,5.5,0.0,0.0,,2,0.4866384344482422,False,REGULAR,USD,ROLL

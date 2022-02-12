@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESRT220218C00010000,2022-01-05 17:24:22+00:00,10.0,0.3,0.15,0.3,0.050000012,20.000004,3,15,0.804689453125,False,REGULAR,USD,ESRT
+ESRT220218C00010000,2022-01-05 17:24:22+00:00,10.0,0.3,0.15,0.3,0.050000012,20.000004,3,15,0.8632826171875,False,REGULAR,USD,ESRT

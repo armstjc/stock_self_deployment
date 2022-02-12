@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+REPL220218P00017500,2022-02-08 19:45:32+00:00,17.5,1.2,0.1,0.7,0.0,0.0,1,2,0.7753928710937501,False,REGULAR,USD,REPL

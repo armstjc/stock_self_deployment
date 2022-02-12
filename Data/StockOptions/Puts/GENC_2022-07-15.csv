@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GENC220715P00012500,2021-12-10 20:53:56+00:00,12.5,1.75,1.3,3.0,0.0,0.0,1,0,0.7138700488281251,True,REGULAR,USD,GENC
+GENC220715P00012500,2021-12-10 20:53:56+00:00,12.5,1.75,1.3,3.0,0.0,0.0,1,0,0.7324245507812499,True,REGULAR,USD,GENC

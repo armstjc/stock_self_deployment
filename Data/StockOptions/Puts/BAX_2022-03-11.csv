@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BAX220311P00083000,2022-02-01 15:30:54+00:00,83.0,2.37,1.25,2.75,0.0,0.0,,4,0.38892212646484375,False,REGULAR,USD,BAX
+BAX220311P00083000,2022-02-01 15:30:54+00:00,83.0,2.37,0.0,2.65,0.0,0.0,,4,0.5073291455078125,False,REGULAR,USD,BAX

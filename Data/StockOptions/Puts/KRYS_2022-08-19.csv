@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRYS220819P00040000,2022-01-18 05:13:24+00:00,40.0,3.5,1.95,5.5,0.0,0.0,10,10,0.69336244140625,False,REGULAR,USD,KRYS
+KRYS220819P00040000,2022-01-18 05:13:24+00:00,40.0,3.5,1.75,2.55,0.0,0.0,,10,0.7124052197265626,False,REGULAR,USD,KRYS

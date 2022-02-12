@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NTCT220218C00045000,2021-12-20 14:37:17+00:00,45.0,0.3,0.0,0.25,0.0,0.0,,200,1.0625046875000002,False,REGULAR,USD,NTCT
+NTCT220218C00045000,2021-12-20 14:37:17+00:00,45.0,0.3,0.0,0.25,0.0,0.0,,200,1.2851598242187499,False,REGULAR,USD,NTCT

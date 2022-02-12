@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CVGW220715P00040000,2021-11-19 15:58:38+00:00,40.0,4.6,4.7,6.0,0.0,0.0,10,10,0.5741009387207032,False,REGULAR,USD,CVGW
+CVGW220715P00040000,2021-11-19 15:58:38+00:00,40.0,4.6,4.7,6.0,0.0,0.0,10,10,0.5930216479492189,False,REGULAR,USD,CVGW

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FHI220715P00022500,2022-02-02 15:53:59+00:00,22.5,0.45,0.0,1.1,0.0,0.0,1,1,0.6127968408203126,False,REGULAR,USD,FHI
+FHI220715P00022500,2021-11-19 16:24:07+00:00,22.5,0.55,0.0,0.6,0.0,0.0,1,1,0.5590864404296876,False,REGULAR,USD,FHI

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LL220304C00017500,2022-02-03 19:31:42+00:00,17.5,0.15,0.0,0.7,-0.29999998,-66.666664,1,16,0.84961087890625,False,REGULAR,USD,LL
-LL220304C00020000,2022-01-18 20:44:34+00:00,20.0,0.2,0.0,3.5,0.0,0.0,1,1,2.1875045312499997,False,REGULAR,USD,LL

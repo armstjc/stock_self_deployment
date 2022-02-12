@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRDO220318C00012500,2022-01-27 16:02:18+00:00,12.5,0.25,0.0,0.25,0.0,0.0,2,46,0.48340360351562506,False,REGULAR,USD,PRDO
+PRDO220318C00012500,2022-01-27 16:02:18+00:00,12.5,0.25,0.0,0.25,0.0,0.0,2,46,0.51758294921875,False,REGULAR,USD,PRDO

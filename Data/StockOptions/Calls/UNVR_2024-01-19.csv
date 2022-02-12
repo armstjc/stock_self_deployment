@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UNVR240119C00015000,2022-01-12 16:30:42+00:00,15.0,13.4,0.0,0.0,0.0,0.0,4,0,1.0000000000000003e-05,True,REGULAR,USD,UNVR
+UNVR240119C00015000,2022-01-12 16:30:42+00:00,15.0,13.4,13.5,18.0,0.0,0.0,4,3,0.5449264257812501,True,REGULAR,USD,UNVR

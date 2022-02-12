@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LEAP220218P00010000,2022-01-04 19:16:15+00:00,10.0,0.1,0.1,0.15,0.0,0.0,10,377,1.0000000000000003e-05,True,REGULAR,USD,LEAP
+LEAP220218P00010000,2022-01-27 18:34:32+00:00,10.0,0.2,0.05,0.25,0.0,0.0,10,414,0.26563234375,True,REGULAR,USD,LEAP

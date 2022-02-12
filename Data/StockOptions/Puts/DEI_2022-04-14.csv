@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DEI220414P00030000,2021-12-20 14:30:03+00:00,30.0,1.95,0.0,4.8,0.0,0.0,20,33,0.5678754150390625,False,REGULAR,USD,DEI
+DEI220414P00030000,2022-02-01 14:30:03+00:00,30.0,2.0,0.05,2.95,0.0,0.0,10,83,0.7446314599609375,False,REGULAR,USD,DEI

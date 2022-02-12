@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PUK220819P00030000,2021-12-28 14:30:02+00:00,30.0,2.0,0.0,4.0,0.0,0.0,,1,0.6054726953125001,False,REGULAR,USD,PUK
+PUK220819P00030000,2021-12-28 14:30:02+00:00,30.0,2.0,0.0,4.0,0.0,0.0,,1,0.6315954809570312,False,REGULAR,USD,PUK

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGYS220218C00050000,2021-12-20 17:50:30+00:00,50.0,0.7,0.0,3.2,0.0,0.0,,9,1.7670910083007811,False,REGULAR,USD,AGYS
+AGYS220218C00050000,2021-12-20 17:50:30+00:00,50.0,0.7,0.0,3.2,0.0,0.0,,9,1.9306644091796876,False,REGULAR,USD,AGYS

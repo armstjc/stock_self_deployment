@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CHX221216P00017500,2021-11-01 19:56:23+00:00,17.5,2.0,1.0,5.5,0.0,0.0,,1,0.7668480346679689,False,REGULAR,USD,CHX
+CHX221216P00017500,2021-11-01 19:56:23+00:00,17.5,2.0,1.0,5.5,0.0,0.0,,1,0.8088398022460936,False,REGULAR,USD,CHX
