@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SAVA220325P00045000,2022-02-04 19:54:40+00:00,45.0,12.8,5.6,8.45,0.0,0.0,3,3,1.565920139160156,False,REGULAR,USD,SAVA
+SAVA220325P00045000,2022-02-11 19:16:39+00:00,45.0,7.5,6.05,7.4,0.19999981,2.7397234,1,0,1.4858424145507811,False,REGULAR,USD,SAVA

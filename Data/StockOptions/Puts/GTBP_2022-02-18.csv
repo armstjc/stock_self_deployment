@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GTBP220218P00002500,2022-01-25 20:51:21+00:00,2.5,0.15,0.0,0.25,0.0,0.0,,49,1.3125034374999998,False,REGULAR,USD,GTBP

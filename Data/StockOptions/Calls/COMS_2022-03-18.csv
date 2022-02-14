@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-COMS220318C00002500,2022-02-04 19:31:35+00:00,2.5,0.05,0.0,0.05,0.0,0.0,5,168,3.1250021875,False,REGULAR,USD,COMS
+COMS220318C00002500,2022-02-04 19:31:35+00:00,2.5,0.05,0.0,0.75,0.0,0.0,5,168,9.90625380859375,False,REGULAR,USD,COMS

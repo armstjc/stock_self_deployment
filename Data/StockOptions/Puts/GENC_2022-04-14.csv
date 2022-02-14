@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GENC220414P00010000,2021-11-24 15:44:04+00:00,10.0,0.55,0.05,4.8,0.0,0.0,10,17,1.7070327148437499,False,REGULAR,USD,GENC
+GENC220414P00010000,2021-11-24 15:44:04+00:00,10.0,0.55,0.05,4.8,0.0,0.0,10,17,1.6865250048828124,False,REGULAR,USD,GENC

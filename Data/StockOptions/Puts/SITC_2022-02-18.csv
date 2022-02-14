@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SITC220218P00015000,2022-01-25 19:41:25+00:00,15.0,0.8,0.0,1.0,0.0,0.0,1,4,0.6171913281250001,False,REGULAR,USD,SITC
+SITC220218P00015000,2022-01-25 19:41:25+00:00,15.0,0.8,0.0,0.45,0.0,0.0,1,0,0.7324245507812499,False,REGULAR,USD,SITC

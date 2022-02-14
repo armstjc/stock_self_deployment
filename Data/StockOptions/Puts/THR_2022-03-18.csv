@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-THR220318P00015000,2022-01-28 16:05:09+00:00,15.0,0.6,0.0,0.0,0.0,0.0,3,0,0.12500875,False,REGULAR,USD,THR
+THR220318P00015000,2022-02-09 14:50:04+00:00,15.0,0.2,0.15,0.35,0.0,0.0,3,3,0.5185595019531251,False,REGULAR,USD,THR

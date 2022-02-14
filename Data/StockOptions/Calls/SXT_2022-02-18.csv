@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SXT220218C00090000,2022-02-10 19:45:16+00:00,90.0,2.14,0.05,4.8,0.0,0.0,1,4,1.3959991137695313,False,REGULAR,USD,SXT

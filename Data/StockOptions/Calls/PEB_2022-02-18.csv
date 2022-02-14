@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PEB220218C00025000,2021-12-31 15:18:50+00:00,25.0,0.44,0.0,2.0,0.0,0.0,2,3,0.9257819921875,False,REGULAR,USD,PEB
+PEB220218C00025000,2021-12-31 15:18:50+00:00,25.0,0.44,0.0,2.0,0.0,0.0,2,3,1.5292992285156248,False,REGULAR,USD,PEB

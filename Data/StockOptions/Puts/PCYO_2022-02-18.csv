@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PCYO220218P00012500,2022-01-31 19:39:17+00:00,12.5,0.05,0.0,0.7,0.0,0.0,,1,0.7929708203125,True,REGULAR,USD,PCYO
+PCYO220218P00012500,2022-01-31 19:39:17+00:00,12.5,0.05,0.0,1.7,0.0,0.0,,1,0.9648441015625,True,REGULAR,USD,PCYO

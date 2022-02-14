@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JBGS220218C00030000,2022-01-11 19:02:02+00:00,30.0,0.65,0.0,0.1,0.0,0.0,1,55,0.4335994140625,False,REGULAR,USD,JBGS
+JBGS220218C00030000,2022-01-11 19:02:02+00:00,30.0,0.65,0.0,0.25,0.0,0.0,1,55,0.5898478515625001,False,REGULAR,USD,JBGS

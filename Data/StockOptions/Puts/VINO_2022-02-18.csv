@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VINO220218P00002500,2021-12-23 16:35:02+00:00,2.5,0.43,0.45,0.9,0.0,0.0,50,156,3.750000625,True,REGULAR,USD,VINO
+VINO220218P00002500,2021-12-23 16:35:02+00:00,2.5,0.43,0.45,0.9,0.0,0.0,50,156,4.2187547265625,True,REGULAR,USD,VINO

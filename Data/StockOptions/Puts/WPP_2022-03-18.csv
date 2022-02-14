@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WPP220318P00067500,2022-02-01 15:57:22+00:00,67.5,0.86,0.15,4.3,0.0,0.0,1,2,0.7873556420898438,False,REGULAR,USD,WPP
-WPP220318P00072500,2022-02-01 15:57:22+00:00,72.5,1.52,0.45,4.2,0.0,0.0,1,2,0.6189002954101563,False,REGULAR,USD,WPP

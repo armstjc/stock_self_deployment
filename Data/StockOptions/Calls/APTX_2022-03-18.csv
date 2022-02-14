@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APTX220318C00002500,2022-01-26 18:43:06+00:00,2.5,1.15,0.0,1.15,0.0,0.0,,1,1.7968760156249999,True,REGULAR,USD,APTX
-APTX220318C00005000,2022-02-09 19:55:49+00:00,5.0,0.15,0.0,0.0,0.0,0.0,14.0,82,0.2500075,False,REGULAR,USD,APTX

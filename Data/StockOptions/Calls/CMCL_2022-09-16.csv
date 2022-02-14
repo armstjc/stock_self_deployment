@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMCL220916C00007500,2022-02-01 15:43:47+00:00,7.5,4.3,4.0,4.9,0.0,0.0,3,6,0.7334011035156249,True,REGULAR,USD,CMCL
+CMCL220916C00007500,2022-02-10 18:44:58+00:00,7.5,4.31,3.4,5.8,0.0,0.0,3,4,1.0459032080078128,True,REGULAR,USD,CMCL

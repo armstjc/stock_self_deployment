@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VMD220520P00005000,2021-11-26 16:16:25+00:00,5.0,0.55,0.3,0.5,0.0,0.0,3,7,0.23242955078125,True,REGULAR,USD,VMD
+VMD220520P00005000,2021-11-26 16:16:25+00:00,5.0,0.55,0.3,0.5,0.0,0.0,3,7,1.0000000000000003e-05,True,REGULAR,USD,VMD

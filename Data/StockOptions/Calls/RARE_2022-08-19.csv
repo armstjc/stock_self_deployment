@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RARE220819C00070000,2021-12-23 19:38:34+00:00,70.0,20.83,17.5,20.5,0.0,0.0,3,3,0.8677991735839843,True,REGULAR,USD,RARE
+RARE220819C00070000,2021-12-23 19:38:34+00:00,70.0,20.83,17.5,20.5,0.0,0.0,3,3,0.8696302099609375,True,REGULAR,USD,RARE

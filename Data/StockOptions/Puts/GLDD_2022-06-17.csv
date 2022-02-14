@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLDD220617P00015000,2021-12-27 16:12:57+00:00,15.0,1.0,0.9,1.35,0.0,0.0,,65,0.07813421875000001,True,REGULAR,USD,GLDD
+GLDD220617P00015000,2021-12-27 16:12:57+00:00,15.0,1.0,0.9,1.35,0.0,0.0,,65,0.09961837890625,True,REGULAR,USD,GLDD

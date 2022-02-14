@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCAP220318C00020000,2022-01-25 18:31:48+00:00,20.0,0.1,0.0,0.25,0.0,0.0,5,40,0.38477177734374995,False,REGULAR,USD,CCAP
+CCAP220318C00020000,2022-02-11 14:48:53+00:00,20.0,0.05,0.0,0.25,-0.05,-50.0,4,40,0.383795224609375,False,REGULAR,USD,CCAP

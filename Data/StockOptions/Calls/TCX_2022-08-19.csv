@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCX220819C00080000,2021-12-27 18:45:05+00:00,80.0,10.97,5.5,9.0,0.0,0.0,5,5,0.45953909606933596,False,REGULAR,USD,TCX
+TCX220819C00080000,2021-12-27 18:45:05+00:00,80.0,10.97,5.5,9.0,0.0,0.0,5,5,0.4710135906982422,False,REGULAR,USD,TCX

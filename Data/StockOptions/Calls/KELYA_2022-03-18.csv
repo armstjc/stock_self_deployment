@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KELYA220318C00017500,2022-02-10 15:10:02+00:00,17.5,1.1,0.25,1.25,0.20000005,22.222227,10,6,0.5585981640625001,True,REGULAR,USD,KELYA
+KELYA220318C00017500,2022-02-10 15:10:02+00:00,17.5,1.1,0.35,1.65,0.0,0.0,10,10,0.5302781347656251,False,REGULAR,USD,KELYA

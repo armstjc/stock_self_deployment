@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTBK220218C00012500,2022-01-05 17:03:47+00:00,12.5,0.25,0.0,0.65,0.049999997,24.999998,3,1,0.6074258007812501,False,REGULAR,USD,HTBK
+HTBK220218C00012500,2022-01-05 17:03:47+00:00,12.5,0.25,0.0,0.65,0.049999997,24.999998,3,1,0.8281267187499999,False,REGULAR,USD,HTBK

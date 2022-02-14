@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SILK220318C00035000,2022-01-21 16:04:08+00:00,35.0,2.05,0.0,4.8,0.0,0.0,363,363,0.7919942675781251,False,REGULAR,USD,SILK
+SILK220318C00035000,2022-01-21 16:04:08+00:00,35.0,2.05,0.25,4.9,0.0,0.0,363,0,1.0273486132812502,False,REGULAR,USD,SILK

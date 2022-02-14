@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AAOI220304C00005000,2022-02-08 18:17:22+00:00,5.0,0.15,0.0,0.0,0.0,0.0,15,69,0.2500075,False,REGULAR,USD,AAOI
+AAOI220304C00005000,2022-02-08 18:17:22+00:00,5.0,0.15,0.05,0.25,0.0,0.0,15,69,1.359378203125,False,REGULAR,USD,AAOI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBZ220715P00040000,2021-12-13 05:04:29+00:00,40.0,5.2,0.7,5.0,0.0,0.0,3,3,0.4116269775390625,True,REGULAR,USD,CBZ
+CBZ220715P00040000,2022-01-13 14:42:07+00:00,40.0,3.0,1.5,6.0,0.0,0.0,3,0,0.4982960327148438,True,REGULAR,USD,CBZ

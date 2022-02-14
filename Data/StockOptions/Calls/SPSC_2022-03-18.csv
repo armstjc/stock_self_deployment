@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPSC220318C00140000,2022-02-10 14:50:49+00:00,140.0,2.0,0.5,4.9,-1.5,-42.857143,2,2,0.5662885168457032,False,REGULAR,USD,SPSC
+SPSC220318C00140000,2022-02-10 14:50:49+00:00,140.0,2.0,0.3,4.3,0.0,0.0,2,1,0.6029092443847659,False,REGULAR,USD,SPSC

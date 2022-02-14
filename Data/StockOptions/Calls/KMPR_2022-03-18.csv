@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KMPR220318C00045000,2022-02-03 19:50:12+00:00,45.0,8.9,7.8,9.6,0.0,0.0,,1,0.70898728515625,True,REGULAR,USD,KMPR
+KMPR220318C00045000,2022-02-03 19:50:12+00:00,45.0,8.9,5.9,7.6,0.0,0.0,,1,0.647464462890625,True,REGULAR,USD,KMPR

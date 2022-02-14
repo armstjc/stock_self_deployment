@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GCP220617C00035000,2021-12-13 05:06:18+00:00,35.0,0.1,0.0,0.4,0.0,0.0,11,30,0.18384605224609374,False,REGULAR,USD,GCP
+GCP220617C00035000,2021-12-13 05:06:18+00:00,35.0,0.1,0.0,0.4,0.0,0.0,11,30,0.19336744140625,False,REGULAR,USD,GCP

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGM221216C00120000,2021-12-02 17:09:55+00:00,120.0,14.4,15.2,17.2,0.0,0.0,,11,0.35120277709960934,True,REGULAR,USD,AGM
+AGM221216C00120000,2021-12-02 17:09:55+00:00,120.0,14.4,15.2,17.2,0.0,0.0,,11,0.34268845794677727,True,REGULAR,USD,AGM

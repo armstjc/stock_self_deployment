@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EBON220218P00002500,2022-01-03 15:56:13+00:00,2.5,1.56,1.37,1.54,0.0,0.0,7,14,7.5937505078125005,True,REGULAR,USD,EBON
+EBON220218P00002500,2022-01-03 15:56:13+00:00,2.5,1.56,1.37,1.54,0.0,0.0,7,14,7.9062501171875,True,REGULAR,USD,EBON

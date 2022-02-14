@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YMM221216P00007500,2022-01-28 19:58:38+00:00,7.5,2.41,1.5,2.1,0.0,0.0,1,43,0.8730481445312499,False,REGULAR,USD,YMM
+YMM221216P00007500,2022-02-11 18:33:30+00:00,7.5,1.9,1.85,2.45,-0.5100001,-21.161829,1,43,0.9379889013671875,False,REGULAR,USD,YMM

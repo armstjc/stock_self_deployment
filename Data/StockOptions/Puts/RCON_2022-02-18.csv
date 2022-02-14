@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RCON220218P00002500,2022-01-31 16:47:29+00:00,2.5,2.0,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,RCON
+RCON220218P00002500,2022-01-31 16:47:29+00:00,2.5,2.0,1.0,1.6,0.0,0.0,2,2,8.406254746093747,True,REGULAR,USD,RCON

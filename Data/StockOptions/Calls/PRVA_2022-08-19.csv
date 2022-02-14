@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRVA220819C00022500,2022-01-10 15:13:00+00:00,22.5,4.0,4.2,5.6,0.0,0.0,,2,0.5932657861328126,True,REGULAR,USD,PRVA
+PRVA220819C00022500,2022-01-10 15:13:00+00:00,22.5,4.0,4.2,5.6,0.0,0.0,,2,0.6430699755859376,True,REGULAR,USD,PRVA

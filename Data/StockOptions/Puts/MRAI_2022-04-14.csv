@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+MRAI220414P00002500,2022-01-11 16:45:47+00:00,2.5,0.42,0.35,1.7,0.0,0.0,39,39,1.5781271093749998,True,REGULAR,USD,MRAI

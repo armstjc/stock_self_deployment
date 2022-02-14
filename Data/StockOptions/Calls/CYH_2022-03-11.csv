@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CYH220311C00011000,2022-02-04 15:35:11+00:00,11.0,1.68,2.3,2.8,0.0,0.0,1,1,0.8085956640624999,True,REGULAR,USD,CYH
+CYH220311C00011000,2022-02-04 15:35:11+00:00,11.0,1.68,2.0,3.2,0.0,0.0,1,1,0.8945323046874999,True,REGULAR,USD,CYH

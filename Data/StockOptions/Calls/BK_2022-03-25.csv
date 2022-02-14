@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BK220325C00066000,2022-02-08 16:38:26+00:00,66.0,1.45,1.35,1.85,0.0,0.0,1,106,0.2954172021484375,False,REGULAR,USD,BK
+BK220325C00066000,2022-02-10 17:06:47+00:00,66.0,1.57,0.9,1.5,0.0,0.0,6,101,0.3479069116210937,False,REGULAR,USD,BK

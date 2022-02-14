@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCBC220318C00035000,2022-01-07 14:55:16+00:00,35.0,1.65,0.0,0.25,0.0,0.0,5,6,0.454107021484375,False,REGULAR,USD,FCBC
+FCBC220318C00035000,2022-01-07 14:55:16+00:00,35.0,1.65,0.0,0.25,0.0,0.0,5,6,0.46094289062500005,False,REGULAR,USD,FCBC

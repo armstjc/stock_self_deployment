@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLBS220520P00002500,2021-12-13 19:22:08+00:00,2.5,0.95,0.75,0.9,0.0,0.0,15,103,1.2851598242187499,True,REGULAR,USD,GLBS
+GLBS220520P00002500,2021-12-13 19:22:08+00:00,2.5,0.95,0.75,0.9,0.0,0.0,15,103,1.3046909765624997,True,REGULAR,USD,GLBS

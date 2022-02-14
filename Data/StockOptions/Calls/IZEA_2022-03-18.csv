@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IZEA220318C00002500,2022-02-09 16:20:09+00:00,2.5,0.05,0.0,0.1,-0.009999998,-16.666664,10,159,1.625001875,False,REGULAR,USD,IZEA

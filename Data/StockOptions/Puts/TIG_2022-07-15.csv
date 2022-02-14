@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TIG220715P00007500,2021-11-19 20:33:12+00:00,7.5,0.82,0.65,1.6,0.0,0.0,5,5,0.632816171875,True,REGULAR,USD,TIG
+TIG220715P00007500,2022-02-10 15:45:06+00:00,7.5,1.1,1.1,1.4,0.0,0.0,2,35,0.51758294921875,True,REGULAR,USD,TIG

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WLMS220617P00002500,2022-02-07 17:02:04+00:00,2.5,0.95,0.9,1.1,0.0,0.0,1,26,0.7656273437500001,True,REGULAR,USD,WLMS
+WLMS220617P00002500,2022-02-08 16:16:39+00:00,2.5,0.95,0.85,1.55,0.0,0.0,1,26,1.3203158984374999,True,REGULAR,USD,WLMS

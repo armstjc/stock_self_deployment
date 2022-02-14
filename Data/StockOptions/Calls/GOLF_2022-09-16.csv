@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GOLF220916C00055000,2022-02-01 14:35:59+00:00,55.0,4.8,0.05,4.8,0.0,0.0,4,5,0.5311326184082032,False,REGULAR,USD,GOLF
-GOLF220916C00060000,2022-02-04 17:06:48+00:00,60.0,0.75,0.05,4.8,0.0,0.0,2,2,0.6191444335937502,False,REGULAR,USD,GOLF

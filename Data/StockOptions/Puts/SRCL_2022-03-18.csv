@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRCL220318P00055000,2022-01-27 19:55:53+00:00,55.0,2.68,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,SRCL
+SRCL220318P00055000,2022-01-27 19:55:53+00:00,55.0,1.1,0.45,3.7,0.0,0.0,2,46,0.5329636547851562,False,REGULAR,USD,SRCL

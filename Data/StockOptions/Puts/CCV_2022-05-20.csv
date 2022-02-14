@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCV220520P00010000,2022-01-04 20:31:20+00:00,10.0,0.35,0.2,0.45,0.0,0.0,21,124,0.159188095703125,True,REGULAR,USD,CCV
+CCV220520P00010000,2022-01-04 20:31:20+00:00,10.0,0.35,0.2,0.45,0.0,0.0,21,124,0.161141201171875,True,REGULAR,USD,CCV

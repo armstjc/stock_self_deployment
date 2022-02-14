@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTH220819P00035000,2021-12-17 20:30:06+00:00,35.0,4.0,2.4,4.3,0.0,0.0,60,60,0.3540103662109374,True,REGULAR,USD,HTH
+HTH220819P00035000,2021-12-17 20:30:06+00:00,35.0,4.0,2.4,4.3,0.0,0.0,60,60,0.33570000244140624,True,REGULAR,USD,HTH

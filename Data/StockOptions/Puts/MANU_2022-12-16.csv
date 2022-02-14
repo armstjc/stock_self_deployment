@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MANU221216P00012000,2022-01-13 16:11:01+00:00,12.0,0.5,0.2,0.95,0.0,0.0,15.0,15,0.3794007373046875,False,REGULAR,USD,MANU
-MANU221216P00015000,2022-01-24 14:43:52+00:00,15.0,2.5,0.1,4.8,0.0,0.0,,2,0.8300798242187499,True,REGULAR,USD,MANU

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CVCO220318C00340000,2021-11-15 15:08:26+00:00,340.0,7.0,8.5,18.0,0.0,0.0,1,0,0.7270535107421875,False,REGULAR,USD,CVCO
+CVCO220318C00340000,2021-11-15 15:08:26+00:00,340.0,7.0,8.5,18.0,0.0,0.0,1,0,0.9122323229980469,False,REGULAR,USD,CVCO

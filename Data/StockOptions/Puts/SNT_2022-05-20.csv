@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SNT220520P00002500,2022-02-03 15:46:36+00:00,2.5,0.05,0.25,0.55,0.0,0.0,1,2,0.7539087109375,True,REGULAR,USD,SNT
+SNT220520P00002500,2021-12-13 05:04:45+00:00,2.5,0.3,0.0,0.0,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,SNT

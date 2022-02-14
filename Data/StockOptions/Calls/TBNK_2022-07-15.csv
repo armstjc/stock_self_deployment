@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TBNK220715C00030000,2022-02-04 17:45:10+00:00,30.0,0.1,0.05,0.45,0.0,0.0,1,10,0.27295648925781246,False,REGULAR,USD,TBNK
+TBNK220715C00030000,2022-02-04 17:45:10+00:00,30.0,0.1,0.05,0.5,0.0,0.0,1,10,0.299811689453125,False,REGULAR,USD,TBNK

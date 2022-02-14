@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CENT220218P00045000,2022-01-24 16:31:02+00:00,45.0,2.42,0.0,5.0,0.0,0.0,5,2,0.9194343994140625,False,REGULAR,USD,CENT

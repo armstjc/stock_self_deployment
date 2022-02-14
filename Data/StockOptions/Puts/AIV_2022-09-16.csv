@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIV220916P00007500,2022-01-20 20:26:52+00:00,7.5,1.35,1.15,1.35,0.14999998,12.499998,2,10,0.436529072265625,True,REGULAR,USD,AIV

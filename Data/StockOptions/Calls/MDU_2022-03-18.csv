@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MDU220318C00030000,2022-01-31 18:49:26+00:00,30.0,0.65,0.3,1.1,0.0,0.0,1,15,0.331061376953125,False,REGULAR,USD,MDU
+MDU220318C00030000,2022-02-10 20:11:28+00:00,30.0,0.35,0.0,0.4,0.0,0.0,4,21,0.39063109375,False,REGULAR,USD,MDU

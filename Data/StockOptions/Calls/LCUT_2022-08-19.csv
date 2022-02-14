@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+LCUT220819C00015000,2022-01-27 16:38:20+00:00,15.0,2.45,0.05,2.9,0.0,0.0,1,0,0.5043994873046875,False,REGULAR,USD,LCUT

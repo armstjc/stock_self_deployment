@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HAFC220414P00022500,2021-11-03 15:24:29+00:00,22.5,1.9,0.05,3.6,0.0,0.0,,1,0.858399853515625,False,REGULAR,USD,HAFC
+HAFC220414P00022500,2021-11-03 15:24:29+00:00,22.5,1.9,0.05,3.6,0.0,0.0,,1,0.8828136718749999,False,REGULAR,USD,HAFC

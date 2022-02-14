@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CZNC220617C00030000,2022-01-03 17:06:44+00:00,30.0,0.5,0.0,2.65,0.0,0.0,1,2,0.7251004052734374,False,REGULAR,USD,CZNC
+CZNC220617C00030000,2022-01-03 17:06:44+00:00,30.0,0.5,0.0,2.65,0.0,0.0,1,2,0.7280300634765625,False,REGULAR,USD,CZNC

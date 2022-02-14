@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NTB220218C00040000,2022-02-09 15:51:26+00:00,40.0,0.3,0.05,0.4,0.0,0.0,1,35,0.3789124609375,False,REGULAR,USD,NTB
+NTB220218C00040000,2022-02-09 15:51:26+00:00,40.0,0.3,0.05,0.4,0.0,0.0,1,35,0.5644574804687501,False,REGULAR,USD,NTB

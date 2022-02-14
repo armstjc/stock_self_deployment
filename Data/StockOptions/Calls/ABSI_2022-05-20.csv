@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABSI220520C00007500,2022-02-04 16:52:18+00:00,7.5,1.0,0.0,0.0,0.0,0.0,7,7,1.0000000000000003e-05,True,REGULAR,USD,ABSI
+ABSI220520C00007500,2022-02-04 16:52:18+00:00,7.5,1.0,2.45,3.0,0.0,0.0,7,7,1.0556687841796877,True,REGULAR,USD,ABSI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GNE220218C00007500,2021-12-17 16:58:51+00:00,7.5,0.05,0.0,0.15,0.0,0.0,10,10,1.1796916015624999,False,REGULAR,USD,GNE
+GNE220218C00007500,2021-12-17 16:58:51+00:00,7.5,0.05,0.0,0.15,0.0,0.0,10,10,1.3359408203124996,False,REGULAR,USD,GNE

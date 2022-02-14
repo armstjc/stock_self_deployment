@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BANF220218C00075000,2021-12-27 19:53:49+00:00,75.0,2.45,1.05,2.65,0.0,0.0,10,13,0.15039912109375003,True,REGULAR,USD,BANF
+BANF220218C00075000,2022-02-09 20:27:18+00:00,75.0,3.0,1.3,2.75,0.0,0.0,10,7,0.476567734375,True,REGULAR,USD,BANF

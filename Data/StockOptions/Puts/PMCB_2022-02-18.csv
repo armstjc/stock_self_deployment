@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PMCB220218P00002500,2021-12-30 16:48:21+00:00,2.5,0.25,0.2,0.4,0.0,0.0,,5,1.2500037499999999,True,REGULAR,USD,PMCB
+PMCB220218P00002500,2022-01-21 19:51:47+00:00,2.5,0.53,0.3,0.55,0.0,0.0,2,11,1.5625021874999998,True,REGULAR,USD,PMCB

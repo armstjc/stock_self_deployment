@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SEIC220916C00040000,2022-01-28 17:43:18+00:00,40.0,17.5,18.8,22.5,0.0,0.0,10,10,0.6694368994140626,True,REGULAR,USD,SEIC

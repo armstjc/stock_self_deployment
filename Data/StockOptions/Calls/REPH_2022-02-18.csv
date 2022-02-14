@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-REPH220218C00002500,2022-02-10 14:32:00+00:00,2.5,0.04,0.0,0.75,-0.060000002,-60.000004,1,1,5.4531281835937495,False,REGULAR,USD,REPH
+REPH220218C00002500,2022-02-10 14:32:00+00:00,2.5,0.04,0.0,0.75,0.0,0.0,1,2,6.781251523437501,False,REGULAR,USD,REPH

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PSTX220218C00007500,2022-01-04 20:58:00+00:00,7.5,0.4,0.2,0.55,0.0,0.0,1,5,4.320317099609374,False,REGULAR,USD,PSTX
+PSTX220218C00007500,2022-01-04 20:58:00+00:00,7.5,0.4,0.2,0.55,0.0,0.0,1,5,5.562503046874999,False,REGULAR,USD,PSTX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GRAY240119P00005000,2022-01-18 14:37:57+00:00,5.0,4.7,1.5,6.0,0.0,0.0,,50,0.8457046679687499,True,REGULAR,USD,GRAY
+GRAY240119P00005000,2022-01-18 14:37:57+00:00,5.0,4.7,1.5,4.5,0.0,0.0,,50,1.8046884765624998,True,REGULAR,USD,GRAY

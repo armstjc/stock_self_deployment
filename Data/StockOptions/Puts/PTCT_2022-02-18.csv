@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PTCT220218P00040000,2021-12-17 17:42:32+00:00,40.0,5.45,1.1,5.4,0.0,0.0,5,5,1.9775391748046878,False,REGULAR,USD,PTCT
+PTCT220218P00040000,2021-12-17 17:42:32+00:00,40.0,5.45,1.1,5.4,0.0,0.0,5,5,2.1162156469726563,False,REGULAR,USD,PTCT

@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WERN220916C00040000,2022-01-28 19:54:11+00:00,40.0,5.6,5.4,6.2,0.0,0.0,33,33,0.33423517333984376,True,REGULAR,USD,WERN

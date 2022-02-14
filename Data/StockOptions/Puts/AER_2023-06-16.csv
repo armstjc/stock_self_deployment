@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AER230616P00065000,2022-01-24 19:30:43+00:00,65.0,14.0,9.9,13.7,0.0,0.0,,4,0.43408769042968753,True,REGULAR,USD,AER

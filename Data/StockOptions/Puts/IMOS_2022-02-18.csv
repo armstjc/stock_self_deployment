@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMOS220218P00035000,2022-01-21 15:02:20+00:00,35.0,1.9,0.0,1.15,0.0,0.0,5,6,0.459966337890625,True,REGULAR,USD,IMOS
+IMOS220218P00035000,2022-01-21 15:02:20+00:00,35.0,1.9,1.4,2.4,0.0,0.0,5,6,0.754885263671875,True,REGULAR,USD,IMOS

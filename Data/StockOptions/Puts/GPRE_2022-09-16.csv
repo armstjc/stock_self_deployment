@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GPRE220916P00030000,2022-02-09 20:15:50+00:00,30.0,4.35,3.6,4.0,0.0,0.0,6,16,0.5745892150878906,False,REGULAR,USD,GPRE
+GPRE220916P00030000,2022-02-09 20:15:50+00:00,30.0,4.35,5.2,5.5,0.0,0.0,6,16,0.5833781896972656,True,REGULAR,USD,GPRE

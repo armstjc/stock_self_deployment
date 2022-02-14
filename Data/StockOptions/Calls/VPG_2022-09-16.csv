@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VPG220916C00045000,2022-01-21 14:30:04+00:00,45.0,1.25,0.0,2.4,0.0,0.0,10.0,10,0.6064492480468751,False,REGULAR,USD,VPG
-VPG220916C00050000,2022-01-24 14:30:06+00:00,50.0,1.0,0.1,5.0,0.0,0.0,,10,0.711916943359375,False,REGULAR,USD,VPG

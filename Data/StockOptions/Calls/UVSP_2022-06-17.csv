@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UVSP220617C00030000,2021-11-03 18:14:56+00:00,30.0,3.1,1.1,4.0,0.0,0.0,,5,0.5871623315429688,False,REGULAR,USD,UVSP
+UVSP220617C00030000,2021-11-03 18:14:56+00:00,30.0,3.1,1.1,4.0,0.0,0.0,,5,0.5908244042968751,False,REGULAR,USD,UVSP

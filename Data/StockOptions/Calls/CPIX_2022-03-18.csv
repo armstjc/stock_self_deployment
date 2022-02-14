@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPIX220318C00005000,2022-01-27 15:50:08+00:00,5.0,0.35,0.0,4.3,0.0,0.0,,1,6.1132836083984365,False,REGULAR,USD,CPIX

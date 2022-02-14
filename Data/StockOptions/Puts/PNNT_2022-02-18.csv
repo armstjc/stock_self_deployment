@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PNNT220218P00007500,2021-12-22 19:14:31+00:00,7.5,0.8,0.35,0.8,0.0,0.0,,0,1.4179716601562502,False,REGULAR,USD,PNNT
+PNNT220218P00007500,2022-02-10 14:30:01+00:00,7.5,0.25,0.5,0.15,0.0,0.0,3,3,0.99804689453125,False,REGULAR,USD,PNNT

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EYEN220318C00005000,2022-01-28 19:09:30+00:00,5.0,0.1,0.0,0.15,0.0,0.0,20,20,1.1953165234375,False,REGULAR,USD,EYEN
+EYEN220318C00005000,2022-02-09 18:24:32+00:00,5.0,0.1,0.0,0.1,0.0,0.0,8,28,1.0546922265625,False,REGULAR,USD,EYEN

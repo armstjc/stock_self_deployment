@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CENTA220318C00050000,2021-11-11 18:32:50+00:00,50.0,7.2,0.05,4.7,0.0,0.0,1,1,0.9741213525390625,False,REGULAR,USD,CENTA
+CENTA220318C00050000,2021-11-11 18:32:50+00:00,50.0,7.2,0.05,4.7,0.0,0.0,1,1,0.9919434399414062,False,REGULAR,USD,CENTA

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NCR230616C00060000,2022-01-20 18:31:03+00:00,60.0,3.22,1.0,5.5,0.0,0.0,,900,0.5161791546630858,False,REGULAR,USD,NCR
+NCR230616C00060000,2022-01-20 18:31:03+00:00,60.0,3.22,0.3,5.0,0.0,0.0,,900,0.5180712255859375,False,REGULAR,USD,NCR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SBOW220318C00022500,2022-02-10 14:53:11+00:00,22.5,2.75,2.35,3.5,0.1500001,5.7692347,1,25,0.7807639111328125,True,REGULAR,USD,SBOW
+SBOW220318C00022500,2022-02-10 14:53:11+00:00,22.5,2.75,2.05,3.8,0.0,0.0,1,26,0.5449264257812501,True,REGULAR,USD,SBOW

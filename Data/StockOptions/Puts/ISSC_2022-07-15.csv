@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ISSC220715P00007500,2022-01-26 18:21:01+00:00,7.5,1.45,0.8,1.25,0.0,0.0,131,365,0.5351608984375,True,REGULAR,USD,ISSC
+ISSC220715P00007500,2022-01-26 18:21:01+00:00,7.5,1.45,0.95,1.25,0.0,0.0,131,365,0.5566450585937501,True,REGULAR,USD,ISSC

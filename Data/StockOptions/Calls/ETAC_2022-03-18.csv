@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ETAC220318C00010000,2021-12-30 19:43:44+00:00,10.0,0.06,0.0,0.1,0.0,0.0,75,1442,0.1211025390625,False,REGULAR,USD,ETAC
+ETAC220318C00010000,2021-12-30 19:43:44+00:00,10.0,0.06,0.0,0.1,0.0,0.0,75,1442,0.1289149609375,False,REGULAR,USD,ETAC

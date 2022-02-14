@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PTGX220916C00045000,2022-01-27 18:54:26+00:00,45.0,1.7,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,PTGX
-PTGX220916C00050000,2022-01-28 18:48:52+00:00,50.0,1.1,0.0,0.0,0.0,0.0,1.0,0,0.12500875,False,REGULAR,USD,PTGX

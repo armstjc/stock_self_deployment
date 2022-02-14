@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRRK220715P00007500,2022-02-01 18:46:47+00:00,7.5,0.4,0.0,3.1,0.0,0.0,,98,1.8398445507812498,False,REGULAR,USD,SRRK
+SRRK220715P00007500,2022-02-01 18:46:47+00:00,7.5,0.4,0.0,3.1,0.0,0.0,,98,1.8203133984375,False,REGULAR,USD,SRRK

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BKYI220218P00002500,2022-02-07 15:10:02+00:00,2.5,0.39,0.35,0.45,0.0,0.0,60,75,1.484377578125,True,REGULAR,USD,BKYI
+BKYI220218P00002500,2022-01-05 20:00:22+00:00,2.5,0.4,0.3,0.5,-0.049999982,-11.111108,10,54,1.8125009374999999,True,REGULAR,USD,BKYI

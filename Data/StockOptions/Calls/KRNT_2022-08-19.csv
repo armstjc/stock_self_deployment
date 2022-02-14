@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRNT220819C00090000,2021-12-29 14:50:36+00:00,90.0,69.0,48.9,51.9,0.0,0.0,,0,1.5749532971191407,True,REGULAR,USD,KRNT
+KRNT220819C00090000,2021-12-29 14:50:36+00:00,90.0,69.0,48.9,51.9,0.0,0.0,,0,2.0491992129516605,True,REGULAR,USD,KRNT

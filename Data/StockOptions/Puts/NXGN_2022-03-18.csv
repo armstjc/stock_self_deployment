@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NXGN220318P00017500,2022-01-26 15:41:56+00:00,17.5,0.55,0.2,0.7,0.0,0.0,5,252,0.570316796875,False,REGULAR,USD,NXGN
+NXGN220318P00017500,2022-01-26 15:41:56+00:00,17.5,0.55,0.15,0.75,0.0,0.0,5,252,0.6093789062500001,False,REGULAR,USD,NXGN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USX220819P00005000,2022-01-14 20:08:41+00:00,5.0,0.92,1.5,2.6,0.0,0.0,1,12,1.0673874755859378,True,REGULAR,USD,USX
+USX220819P00005000,2021-12-31 15:27:08+00:00,5.0,0.7,0.7,0.8,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,USX

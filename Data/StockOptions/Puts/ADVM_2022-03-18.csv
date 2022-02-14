@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ADVM220318P00002500,2022-01-12 16:14:35+00:00,2.5,0.81,0.0,0.0,0.0,0.0,43,192,1.0000000000000003e-05,True,REGULAR,USD,ADVM
+ADVM220318P00002500,2021-12-29 15:50:54+00:00,2.5,0.8,0.75,1.8,0.0,0.0,1,212,2.57031607421875,True,REGULAR,USD,ADVM

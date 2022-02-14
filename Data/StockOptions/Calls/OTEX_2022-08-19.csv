@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OTEX220819C00055000,2021-12-30 17:11:52+00:00,55.0,1.1,0.05,2.75,0.0,0.0,,3,0.43970286865234376,False,REGULAR,USD,OTEX
+OTEX220819C00055000,2021-12-30 17:11:52+00:00,55.0,1.1,0.05,2.75,0.0,0.0,,3,0.48474636352539063,False,REGULAR,USD,OTEX

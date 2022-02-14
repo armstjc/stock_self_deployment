@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TSHA220414P00010000,2022-01-05 20:48:54+00:00,10.0,1.5,1.5,4.1,-0.5999999,-28.571424,10,1,0.9648441015625,True,REGULAR,USD,TSHA
+TSHA220414P00010000,2022-01-05 20:48:54+00:00,10.0,1.5,1.5,4.1,-0.5999999,-28.571424,10,1,0.6875031250000001,True,REGULAR,USD,TSHA

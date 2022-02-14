@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LIQT220218C00007500,2021-12-23 15:41:44+00:00,7.5,0.1,0.1,0.3,0.0,0.0,10,10,1.6171894140625,False,REGULAR,USD,LIQT
+LIQT220218C00007500,2021-12-23 15:41:44+00:00,7.5,0.1,0.1,0.3,0.0,0.0,10,10,2.3203166992187496,False,REGULAR,USD,LIQT

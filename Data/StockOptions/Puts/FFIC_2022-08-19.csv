@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FFIC220819P00017500,2021-12-22 15:52:11+00:00,17.5,0.55,0.3,0.55,0.0,0.0,,2,0.41797457031249996,False,REGULAR,USD,FFIC
+FFIC220819P00017500,2021-12-22 15:52:11+00:00,17.5,0.55,0.3,0.55,0.0,0.0,,2,0.41992767578125,False,REGULAR,USD,FFIC

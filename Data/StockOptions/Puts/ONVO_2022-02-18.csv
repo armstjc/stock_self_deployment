@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ONVO220218P00005000,2021-12-31 19:14:16+00:00,5.0,1.35,0.6,3.7,0.0,0.0,5,5,3.1718770703125,True,REGULAR,USD,ONVO
+ONVO220218P00005000,2021-12-31 19:14:16+00:00,5.0,1.35,0.6,3.7,0.0,0.0,5,5,14.281251074218751,True,REGULAR,USD,ONVO

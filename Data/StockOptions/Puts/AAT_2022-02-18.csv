@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AAT220218P00040000,2021-12-28 15:23:49+00:00,40.0,3.4,3.7,5.8,0.0,0.0,,8,0.5117236328125,True,REGULAR,USD,AAT
+AAT220218P00040000,2021-12-28 15:23:49+00:00,40.0,3.4,2.85,6.4,0.0,0.0,,8,1.890625546875,True,REGULAR,USD,AAT

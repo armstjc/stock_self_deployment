@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VIRX220715P00005000,2022-02-10 16:05:34+00:00,5.0,2.43,2.05,2.9,0.5000001,25.906742,82,12,1.369143779296875,True,REGULAR,USD,VIRX
+VIRX220715P00005000,2022-02-10 16:05:34+00:00,5.0,2.43,2.05,2.6,0.0,0.0,82,52,1.091801416015625,True,REGULAR,USD,VIRX

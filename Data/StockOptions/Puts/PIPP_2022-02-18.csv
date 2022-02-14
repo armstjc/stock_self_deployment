@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PIPP220218P00010000,2022-02-10 17:55:07+00:00,10.0,0.22,0.1,0.3,-0.019999996,-8.333331,140,290,0.304694453125,True,REGULAR,USD,PIPP
+PIPP220218P00010000,2022-02-10 20:26:05+00:00,10.0,0.2,0.2,0.25,0.0,0.0,190,143,0.26563234375,True,REGULAR,USD,PIPP

@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VCRA220318C00080000,2022-02-03 19:13:42+00:00,80.0,0.1,0.0,0.0,0.0,0.0,7,0,0.015634843750000002,False,REGULAR,USD,VCRA

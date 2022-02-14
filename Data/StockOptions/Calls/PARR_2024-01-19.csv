@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PARR240119C00030000,2021-11-29 19:54:26+00:00,30.0,1.9,0.75,4.4,0.0,0.0,,2,0.7114286669921875,False,REGULAR,USD,PARR
+PARR240119C00030000,2021-11-29 19:54:26+00:00,30.0,1.9,0.75,4.8,0.0,0.0,,2,0.7194852270507812,False,REGULAR,USD,PARR

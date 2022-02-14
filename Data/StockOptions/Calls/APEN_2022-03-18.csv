@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APEN220318C00007500,2022-02-07 20:10:13+00:00,7.5,0.1,0.0,0.5,0.0,0.0,1,21,1.0351610742187503,False,REGULAR,USD,APEN
+APEN220318C00007500,2022-02-07 20:10:13+00:00,7.5,0.1,0.0,0.35,0.0,0.0,1,21,1.0546922265625,False,REGULAR,USD,APEN

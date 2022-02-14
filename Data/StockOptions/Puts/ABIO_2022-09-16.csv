@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABIO220916P00002500,2022-02-09 19:22:06+00:00,2.5,1.1,0.0,0.0,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,ABIO
+ABIO220916P00002500,2022-02-10 19:37:55+00:00,2.5,1.1,0.85,1.15,0.0,0.0,90,0,1.05078599609375,True,REGULAR,USD,ABIO

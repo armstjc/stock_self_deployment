@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITUB220916C00004000,2022-02-04 15:08:22+00:00,4.0,0.98,0.85,1.61,0.0,0.0,1,4,0.5839885351562499,True,REGULAR,USD,ITUB
-ITUB220916C00005000,2022-02-07 16:19:33+00:00,5.0,0.45,0.35,0.5,0.030000001,7.1428576,1,108,0.4023497265625,False,REGULAR,USD,ITUB

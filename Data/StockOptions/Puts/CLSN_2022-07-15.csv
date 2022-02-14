@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLSN220715P00002500,2022-01-24 14:30:07+00:00,2.5,2.1,1.65,2.3,0.0,0.0,5,215,3.7031257421875,True,REGULAR,USD,CLSN
+CLSN220715P00002500,2021-12-29 14:44:53+00:00,2.5,1.98,1.95,2.05,0.0,0.0,200,210,1.0000000000000003e-05,True,REGULAR,USD,CLSN

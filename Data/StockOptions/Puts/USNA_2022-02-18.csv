@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USNA220218P00090000,2021-12-27 15:59:27+00:00,90.0,1.9,0.0,5.0,0.0,0.0,,7,0.5395553857421876,True,REGULAR,USD,USNA
+USNA220218P00090000,2021-12-27 15:59:27+00:00,90.0,1.9,0.0,5.0,0.0,0.0,,7,0.8896495410156249,True,REGULAR,USD,USNA

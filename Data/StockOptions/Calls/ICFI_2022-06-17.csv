@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ICFI220617C00100000,2021-11-05 14:16:32+00:00,100.0,10.0,5.5,9.0,0.0,0.0,5,10,0.5577436804199221,False,REGULAR,USD,ICFI
+ICFI220617C00100000,2021-11-05 14:16:32+00:00,100.0,10.0,5.5,9.0,0.0,0.0,5,10,0.5224657128906249,False,REGULAR,USD,ICFI

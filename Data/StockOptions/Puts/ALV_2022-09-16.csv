@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALV220916P00075000,2022-01-26 15:12:49+00:00,75.0,3.1,1.25,3.0,0.0,0.0,1,1,0.45117736328125,False,REGULAR,USD,ALV
+ALV220916P00075000,2022-01-26 15:12:49+00:00,75.0,3.1,1.8,3.1,0.0,0.0,,1,0.42358974853515624,False,REGULAR,USD,ALV

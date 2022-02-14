@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IBOC220819C00045000,2022-01-06 15:14:05+00:00,45.0,3.5,0.5,4.2,0.0,0.0,,150,0.4096738720703125,False,REGULAR,USD,IBOC

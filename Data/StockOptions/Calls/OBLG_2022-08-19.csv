@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OBLG220819C00002500,2022-01-05 17:06:45+00:00,2.5,0.21,0.2,0.4,-0.030000001,-12.500002,5,206,2.3125042187499996,False,REGULAR,USD,OBLG
+OBLG220819C00002500,2022-02-11 18:48:25+00:00,2.5,0.24,0.05,0.25,0.03999999,19.999996,75,455,1.640626796875,False,REGULAR,USD,OBLG

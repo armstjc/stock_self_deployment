@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WRE220715P00022500,2022-01-24 14:30:03+00:00,22.5,1.0,0.15,1.85,0.0,0.0,,1,0.4145566357421875,False,REGULAR,USD,WRE
+WRE220715P00022500,2022-01-24 14:30:03+00:00,22.5,1.0,0.85,1.85,0.0,0.0,,1,0.41358008300781246,False,REGULAR,USD,WRE

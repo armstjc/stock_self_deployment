@@ -1,3 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STVN220318P00017500,2022-01-28 14:35:14+00:00,17.5,2.55,0.0,2.7,0.0,0.0,5,5,0.6875031250000001,False,REGULAR,USD,STVN
 STVN220318P00025000,2021-11-05 13:59:36+00:00,25.0,4.3,4.0,5.2,0.0,0.0,10,15,1.0000000000000003e-05,True,REGULAR,USD,STVN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PSN220218C00035000,2022-01-05 16:42:14+00:00,35.0,1.0,0.4,1.8,0.19999999,24.999998,1,5,1.236331943359375,False,REGULAR,USD,PSN
+PSN220218C00035000,2022-01-05 16:42:14+00:00,35.0,1.0,0.4,1.8,0.19999999,24.999998,1,5,1.5146508642578125,False,REGULAR,USD,PSN

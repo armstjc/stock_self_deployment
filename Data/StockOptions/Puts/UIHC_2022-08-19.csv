@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UIHC220819P00002500,2021-12-27 14:30:00+00:00,2.5,0.3,0.1,0.35,0.0,0.0,,3,0.8242205078124999,False,REGULAR,USD,UIHC
+UIHC220819P00002500,2021-12-27 14:30:00+00:00,2.5,0.3,0.0,0.55,0.0,0.0,,3,0.8632826171875,False,REGULAR,USD,UIHC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YPF220304P00005000,2022-02-07 19:36:50+00:00,5.0,0.97,0.65,1.2,0.0,0.0,1,0,0.6718782812500002,True,REGULAR,USD,YPF
+YPF220304P00005000,2022-02-07 19:36:50+00:00,5.0,0.97,0.65,1.5,0.0,0.0,1,0,1.3671906640625,True,REGULAR,USD,YPF

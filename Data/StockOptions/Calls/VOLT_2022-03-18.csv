@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VOLT220318C00005000,2022-02-10 15:20:35+00:00,5.0,0.06,0.0,0.1,0.009999998,19.999996,1,185,1.0625046875000002,False,REGULAR,USD,VOLT
+VOLT220318C00005000,2022-02-11 14:41:35+00:00,5.0,0.06,0.0,0.1,0.0,0.0,6,185,1.125004375,False,REGULAR,USD,VOLT

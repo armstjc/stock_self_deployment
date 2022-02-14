@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HMTV220715C00005000,2022-02-07 17:48:18+00:00,5.0,1.5,1.1,3.7,0.0,0.0,1,4,1.1396527392578126,True,REGULAR,USD,HMTV
+HMTV220715C00005000,2022-02-07 17:48:18+00:00,5.0,1.5,1.1,3.3,0.0,0.0,1,4,0.999023447265625,True,REGULAR,USD,HMTV

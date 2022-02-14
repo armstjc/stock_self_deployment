@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PCTI220218P00005000,2022-02-09 20:23:28+00:00,5.0,0.16,0.1,0.3,0.0,0.0,1,11,0.5585981640625001,True,REGULAR,USD,PCTI
+PCTI220218P00005000,2022-02-09 20:23:28+00:00,5.0,0.16,0.1,0.35,0.0,0.0,1,11,0.648441015625,True,REGULAR,USD,PCTI

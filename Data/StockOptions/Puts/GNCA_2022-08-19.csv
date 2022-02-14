@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GNCA220819P00002500,2022-01-24 14:45:26+00:00,2.5,1.8,1.4,1.9,0.0,0.0,,1,1.5937520312499998,True,REGULAR,USD,GNCA

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRNE220325P00002500,2022-02-03 20:40:03+00:00,2.5,0.2,0.09,0.24,0.0,0.0,,3,1.2460975195312498,False,REGULAR,USD,SRNE
+SRNE220325P00002500,2022-02-03 20:40:03+00:00,2.5,0.2,0.14,0.25,0.0,0.0,,3,1.21875390625,False,REGULAR,USD,SRNE

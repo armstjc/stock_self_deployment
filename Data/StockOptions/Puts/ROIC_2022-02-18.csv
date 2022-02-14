@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ROIC220218P00017500,2022-01-24 18:21:46+00:00,17.5,1.5,0.0,0.6,0.0,0.0,,1,0.6367223828125,False,REGULAR,USD,ROIC

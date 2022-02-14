@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APOG220819P00035000,2022-01-21 19:04:53+00:00,35.0,1.84,0.6,4.6,0.0,0.0,1,1,0.5578657495117189,False,REGULAR,USD,APOG
+APOG220819P00035000,2022-01-21 19:04:53+00:00,35.0,1.84,1.4,4.6,0.0,0.0,1,1,0.5961954443359375,False,REGULAR,USD,APOG

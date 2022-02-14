@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SGTX220916P00002500,2022-01-31 05:11:18+00:00,2.5,1.15,0.75,1.5,0.0,0.0,,1,1.05859845703125,True,REGULAR,USD,SGTX
+SGTX220916P00002500,2022-01-28 14:56:07+00:00,2.5,1.15,0.85,1.55,0.0,0.0,1,1,1.0546922265625,True,REGULAR,USD,SGTX

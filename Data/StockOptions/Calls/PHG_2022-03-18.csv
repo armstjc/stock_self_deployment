@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PHG220318C00030000,2022-01-31 18:21:53+00:00,30.0,3.71,3.7,5.7,0.0,0.0,1,1,0.74414318359375,True,REGULAR,USD,PHG
-PHG220318C00035000,2022-02-08 14:32:32+00:00,35.0,1.1,0.85,1.1,0.0,0.0,30,363,0.31690136230468746,False,REGULAR,USD,PHG

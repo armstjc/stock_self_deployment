@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRMD220819C00002500,2021-12-22 18:30:38+00:00,2.5,1.0,0.75,2.55,0.0,0.0,,1,1.75000125,True,REGULAR,USD,KRMD
+KRMD220819C00002500,2021-12-22 18:30:38+00:00,2.5,1.0,0.75,2.55,0.0,0.0,,1,1.8125009374999999,True,REGULAR,USD,KRMD

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PESI220318P00005000,2021-11-10 12:01:04+00:00,5.0,0.45,0.0,0.75,0.0,0.0,20,20,0.9648441015625,False,REGULAR,USD,PESI
+PESI220318P00005000,2021-11-10 12:01:04+00:00,5.0,0.45,0.0,0.75,0.0,0.0,20,20,0.9707034179687499,False,REGULAR,USD,PESI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GSKY220916C00012500,2022-01-24 20:50:02+00:00,12.5,0.25,0.05,2.3,0.0,0.0,,5,0.5454147021484376,False,REGULAR,USD,GSKY
+GSKY220916C00012500,2022-02-09 16:04:12+00:00,12.5,0.4,0.0,4.8,0.0,0.0,5,0,0.9169930175781251,False,REGULAR,USD,GSKY

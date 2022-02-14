@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FORR220318C00055000,2022-01-03 18:00:30+00:00,55.0,5.0,3.5,7.8,0.0,0.0,1,0,0.9763185961914063,False,REGULAR,USD,FORR
+FORR220318C00055000,2022-01-03 18:00:30+00:00,55.0,5.0,3.5,7.8,0.0,0.0,1,0,1.1084028955078127,False,REGULAR,USD,FORR

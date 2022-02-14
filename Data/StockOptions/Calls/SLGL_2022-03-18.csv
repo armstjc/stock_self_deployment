@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SLGL220318C00007500,2022-01-28 15:39:52+00:00,7.5,0.5,0.3,0.95,0.0,0.0,1,1,0.6074258007812501,False,REGULAR,USD,SLGL
+SLGL220318C00007500,2022-01-28 15:39:52+00:00,7.5,0.5,0.55,1.0,0.0,0.0,1,1,0.6523472265625001,True,REGULAR,USD,SLGL

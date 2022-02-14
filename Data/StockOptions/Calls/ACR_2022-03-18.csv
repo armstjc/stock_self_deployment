@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACR220318C00012500,2022-02-03 15:11:25+00:00,12.5,0.51,0.0,0.0,0.0,0.0,,1,0.015634843750000002,False,REGULAR,USD,ACR
+ACR220318C00012500,2022-02-03 15:11:25+00:00,12.5,0.51,0.2,0.9,0.0,0.0,,1,0.7246121289062499,False,REGULAR,USD,ACR

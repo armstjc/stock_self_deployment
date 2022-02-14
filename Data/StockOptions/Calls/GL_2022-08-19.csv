@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GL220819C00120000,2021-12-21 18:55:15+00:00,120.0,1.12,1.45,1.85,0.0,0.0,,2,0.17920742675781248,False,REGULAR,USD,GL
+GL220819C00120000,2021-12-21 18:55:15+00:00,120.0,1.12,1.45,1.85,0.0,0.0,,2,0.2122881506347656,False,REGULAR,USD,GL

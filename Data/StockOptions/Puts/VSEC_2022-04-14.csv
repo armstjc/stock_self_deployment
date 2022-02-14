@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VSEC220414P00045000,2022-01-28 18:36:36+00:00,45.0,2.41,0.75,4.3,0.0,0.0,4,4,0.5144091528320311,False,REGULAR,USD,VSEC
+VSEC220414P00045000,2021-12-10 18:10:46+00:00,45.0,1.25,0.55,2.0,0.0,0.0,1,0,0.38721315917968746,False,REGULAR,USD,VSEC

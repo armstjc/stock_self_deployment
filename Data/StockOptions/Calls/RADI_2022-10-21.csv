@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RADI221021C00010000,2021-11-30 14:59:44+00:00,10.0,7.1,4.0,8.6,0.0,0.0,,0,1.2041055419921873,True,REGULAR,USD,RADI
+RADI221021C00010000,2021-11-30 14:59:44+00:00,10.0,7.1,4.0,8.6,0.0,0.0,,0,1.2890660546875,True,REGULAR,USD,RADI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPNS220715P00035000,2022-02-04 17:38:29+00:00,35.0,4.9,5.3,6.8,0.0,0.0,1,22,0.49023947265625006,True,REGULAR,USD,SPNS
+SPNS220715P00035000,2022-02-04 17:38:29+00:00,35.0,4.9,5.5,7.1,0.0,0.0,1,22,0.5097705273437501,True,REGULAR,USD,SPNS

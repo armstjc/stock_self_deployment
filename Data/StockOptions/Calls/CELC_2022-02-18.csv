@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CELC220218C00012500,2021-12-22 18:39:40+00:00,12.5,2.5,0.0,3.6,0.0,0.0,,1,2.7441437646484372,False,REGULAR,USD,CELC
+CELC220218C00012500,2021-12-22 18:39:40+00:00,12.5,2.5,0.0,3.6,0.0,0.0,,1,3.826172309570312,False,REGULAR,USD,CELC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XIN220218P00002500,2022-01-31 16:43:14+00:00,2.5,1.85,1.5,2.25,0.0,0.0,1,6,6.625001718750001,True,REGULAR,USD,XIN
+XIN220218P00002500,2022-01-31 16:43:14+00:00,2.5,1.85,1.4,2.0,0.0,0.0,1,5,11.96875251953125,True,REGULAR,USD,XIN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PPC220916C00034000,2022-01-24 20:14:42+00:00,34.0,0.6,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,PPC
+PPC220916C00034000,2022-01-24 20:14:42+00:00,34.0,0.6,0.0,0.0,0.0,0.0,,1,0.062509375,False,REGULAR,USD,PPC

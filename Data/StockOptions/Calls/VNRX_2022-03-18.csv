@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VNRX220318C00002500,2022-02-04 18:42:10+00:00,2.5,0.45,0.65,0.75,0.0,0.0,2,4,1.2578162109375,True,REGULAR,USD,VNRX
+VNRX220318C00002500,2022-02-04 18:42:10+00:00,2.5,0.45,0.45,1.0,0.0,0.0,2,4,1.4453152734375,True,REGULAR,USD,VNRX

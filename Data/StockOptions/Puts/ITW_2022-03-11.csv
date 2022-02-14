@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITW220311P00190000,2022-01-31 19:29:26+00:00,190.0,0.8,0.3,0.95,0.0,0.0,,22,0.4145566357421875,False,REGULAR,USD,ITW

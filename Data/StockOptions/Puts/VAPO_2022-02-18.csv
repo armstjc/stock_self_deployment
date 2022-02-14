@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VAPO220218P00017500,2021-12-28 15:42:46+00:00,17.5,1.05,0.15,1.95,0.0,0.0,,1,1.1445355273437499,True,REGULAR,USD,VAPO
+VAPO220218P00017500,2021-12-28 15:42:46+00:00,17.5,1.05,0.15,1.95,0.0,0.0,,1,0.2500075,True,REGULAR,USD,VAPO

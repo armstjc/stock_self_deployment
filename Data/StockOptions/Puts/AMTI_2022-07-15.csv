@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMTI220715P00012500,2021-12-22 17:06:27+00:00,12.5,4.0,2.0,6.9,0.0,0.0,,3,1.67578287109375,True,REGULAR,USD,AMTI
+AMTI220715P00012500,2021-12-22 17:06:27+00:00,12.5,4.0,2.0,6.9,0.0,0.0,,3,1.642579912109375,True,REGULAR,USD,AMTI

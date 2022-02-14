@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CO220414P00005000,2022-01-28 14:34:59+00:00,5.0,1.0,0.2,1.85,0.0,0.0,1,78,0.5742230078125,True,REGULAR,USD,CO
+CO220414P00005000,2022-01-03 15:01:06+00:00,5.0,0.9,0.8,0.95,-0.13999999,-13.461537,1,73,1.0000000000000003e-05,True,REGULAR,USD,CO

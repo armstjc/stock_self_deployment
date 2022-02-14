@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IGIC220414P00007500,2022-01-27 17:15:13+00:00,7.5,0.5,0.35,0.55,0.0,0.0,1,1,0.4892629199218751,False,REGULAR,USD,IGIC
+IGIC220414P00007500,2022-01-27 17:15:13+00:00,7.5,0.5,0.35,0.6,0.0,0.0,1,1,0.5820354296875,False,REGULAR,USD,IGIC

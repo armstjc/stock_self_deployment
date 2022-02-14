@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMRX220218P00005000,2022-01-05 19:53:16+00:00,5.0,0.5,0.45,0.6,0.0,0.0,10,1,1.484377578125,True,REGULAR,USD,AMRX
+AMRX220218P00005000,2022-01-05 19:53:16+00:00,5.0,0.5,0.45,0.6,0.0,0.0,10,1,1.671876640625,True,REGULAR,USD,AMRX

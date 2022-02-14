@@ -36,31 +36,31 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-23,JP Morgan,Underweight,Neutral,down,CDAY
 2020-04-23,Credit Suisse,Underperform,Neutral,down,CDAY
 2020-05-04,Wells Fargo,Overweight,,main,CDAY
-2020-05-07,Credit Suisse,Underperform,,main,CDAY
 2020-05-07,Baird,Outperform,,main,CDAY
 2020-05-07,Needham,Buy,,main,CDAY
-2020-05-07,Barclays,Equal-Weight,,main,CDAY
+2020-05-07,Credit Suisse,Underperform,,main,CDAY
 2020-05-07,BMO Capital,Market Perform,,main,CDAY
+2020-05-07,Barclays,Equal-Weight,,main,CDAY
 2020-05-11,Jefferies,Hold,,main,CDAY
 2020-05-12,Citigroup,Buy,,main,CDAY
 2020-05-22,Piper Sandler,Neutral,,init,CDAY
 2020-07-20,Barclays,Equal-Weight,,main,CDAY
 2020-08-06,Wells Fargo,Overweight,,main,CDAY
-2020-08-06,BMO Capital,Market Perform,,main,CDAY
+2020-08-06,Credit Suisse,Underperform,,main,CDAY
 2020-08-06,Needham,Buy,,main,CDAY
 2020-08-06,CIBC,Neutral,Outperformer,down,CDAY
+2020-08-06,BMO Capital,Market Perform,,main,CDAY
 2020-08-06,Piper Sandler,Neutral,,main,CDAY
-2020-08-06,Credit Suisse,Underperform,,main,CDAY
 2020-10-21,RBC Capital,Outperform,Sector Perform,up,CDAY
 2020-11-03,JP Morgan,Neutral,Underweight,up,CDAY
 2020-11-03,Credit Suisse,Underperform,,main,CDAY
-2020-11-06,Credit Suisse,Underperform,,main,CDAY
 2020-11-06,Needham,Buy,,main,CDAY
+2020-11-06,Credit Suisse,Underperform,,main,CDAY
 2020-11-19,Credit Suisse,Neutral,Underperform,up,CDAY
 2021-01-15,Credit Suisse,Neutral,,main,CDAY
-2021-02-10,Needham,Buy,,main,CDAY
 2021-02-10,Wells Fargo,Overweight,,main,CDAY
 2021-02-10,Credit Suisse,Neutral,,main,CDAY
+2021-02-10,Needham,Buy,,main,CDAY
 2021-02-16,BMO Capital,Outperform,Market Perform,up,CDAY
 2021-04-09,Barclays,Equal-Weight,,main,CDAY
 2021-04-23,Wolfe Research,Outperform,,init,CDAY
@@ -74,3 +74,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-02,Deutsche Bank,Buy,,init,CDAY
 2021-11-04,Piper Sandler,Neutral,,main,CDAY
 2021-11-04,Barclays,Underweight,,main,CDAY
+2022-01-06,Wells Fargo,Equal-Weight,Overweight,down,CDAY
+2022-01-12,Barclays,Underweight,,main,CDAY
+2022-01-13,Piper Sandler,Neutral,,main,CDAY
+2022-01-21,Deutsche Bank,Buy,,main,CDAY
+2022-01-28,Mizuho,Buy,,main,CDAY

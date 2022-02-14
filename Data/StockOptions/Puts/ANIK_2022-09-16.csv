@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANIK220916P00030000,2022-02-04 18:13:29+00:00,30.0,5.0,1.9,6.5,0.0,0.0,10,11,0.7399928344726561,False,REGULAR,USD,ANIK
+ANIK220916P00030000,2022-02-04 18:13:29+00:00,30.0,5.0,2.0,6.3,0.0,0.0,10,11,0.7060576269531251,False,REGULAR,USD,ANIK

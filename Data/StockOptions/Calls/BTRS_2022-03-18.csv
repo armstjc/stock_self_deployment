@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTRS220318C00010000,2022-01-24 17:24:38+00:00,10.0,0.1,0.0,0.75,0.0,0.0,,1,1.5703146484375,False,REGULAR,USD,BTRS
+BTRS220318C00010000,2022-01-24 17:24:38+00:00,10.0,0.1,0.0,0.2,0.0,0.0,,1,1.1796916015624999,False,REGULAR,USD,BTRS

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBD220218P00005000,2022-02-04 15:06:03+00:00,5.0,1.0,0.75,1.2,0.0,0.0,1,12,1.8828130859374999,True,REGULAR,USD,CBD
+CBD220218P00005000,2022-02-10 15:21:19+00:00,5.0,0.75,0.6,1.15,0.0,0.0,1,0,2.6406283984375003,True,REGULAR,USD,CBD

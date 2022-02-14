@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CDR220318P00025000,2022-01-21 14:30:43+00:00,25.0,2.5,1.45,3.3,0.0,0.0,4,4,0.70117486328125,True,REGULAR,USD,CDR
+CDR220318P00025000,2022-01-21 14:30:43+00:00,25.0,2.5,2.3,4.0,0.0,0.0,4,4,0.63867548828125,True,REGULAR,USD,CDR

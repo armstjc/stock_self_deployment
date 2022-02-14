@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZNTE220218P00010000,2021-12-28 14:34:42+00:00,10.0,0.05,0.0,0.0,0.0,0.0,1,113,0.062509375,False,REGULAR,USD,ZNTE
+ZNTE220218P00010000,2022-02-04 15:59:00+00:00,10.0,0.05,0.0,0.05,0.0,0.0,6,121,0.2500075,False,REGULAR,USD,ZNTE

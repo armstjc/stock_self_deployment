@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RL220325C00130000,2022-02-08 19:54:42+00:00,130.0,3.8,4.3,5.9,0.0,0.0,1,2,0.4229794030761719,False,REGULAR,USD,RL
+RL220325C00130000,2022-02-08 19:54:42+00:00,130.0,3.8,2.35,4.7,0.0,0.0,1,2,0.4864553308105469,False,REGULAR,USD,RL

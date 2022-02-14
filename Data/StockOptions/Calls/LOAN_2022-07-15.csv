@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LOAN220715C00005000,2021-12-29 18:29:42+00:00,5.0,0.81,0.05,1.45,0.0,0.0,20,30,0.8261736132812498,True,REGULAR,USD,LOAN
+LOAN220715C00005000,2021-12-29 18:29:42+00:00,5.0,0.81,0.5,0.8,0.0,0.0,20,30,0.38867798828125,True,REGULAR,USD,LOAN

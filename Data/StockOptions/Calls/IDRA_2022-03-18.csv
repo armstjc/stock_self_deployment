@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IDRA220318C00001000,2022-02-02 16:22:36+00:00,1.0,0.05,0.0,0.05,0.0,0.0,2,197,1.625001875,False,REGULAR,USD,IDRA
+IDRA220318C00001000,2022-02-02 16:22:36+00:00,1.0,0.05,0.0,0.05,0.0,0.0,2,0,1.875000625,False,REGULAR,USD,IDRA

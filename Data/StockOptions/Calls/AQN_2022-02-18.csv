@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AQN220218C00015000,2022-01-05 16:40:59+00:00,15.0,0.1,0.05,0.15,-0.050000004,-33.333336,30,62,0.4804739453125,False,REGULAR,USD,AQN
+AQN220218C00015000,2022-01-05 16:40:59+00:00,15.0,0.1,0.05,0.15,-0.050000004,-33.333336,30,62,0.5820354296875,False,REGULAR,USD,AQN

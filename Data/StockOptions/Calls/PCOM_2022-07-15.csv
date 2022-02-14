@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PCOM220715C00017500,2022-01-31 14:30:38+00:00,17.5,1.1,0.0,3.7,0.0,0.0,,1,0.9184578466796876,False,REGULAR,USD,PCOM
+PCOM220715C00017500,2022-02-10 19:53:35+00:00,17.5,1.5,1.4,3.0,0.0,0.0,20,20,0.5014698291015626,False,REGULAR,USD,PCOM

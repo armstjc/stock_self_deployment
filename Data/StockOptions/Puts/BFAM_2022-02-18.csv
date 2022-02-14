@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BFAM220218P00125000,2021-12-27 16:53:05+00:00,125.0,7.4,5.3,7.7,0.0,0.0,,1,1.3837921435546874,False,REGULAR,USD,BFAM
+BFAM220218P00125000,2021-12-27 16:53:05+00:00,125.0,7.4,5.3,7.7,0.0,0.0,,1,1.4133330114746094,False,REGULAR,USD,BFAM

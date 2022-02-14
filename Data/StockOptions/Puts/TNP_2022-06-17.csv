@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TNP220617P00007500,2022-01-04 19:25:09+00:00,7.5,0.9,0.95,1.15,0.0,0.0,5,262,0.56055126953125,True,REGULAR,USD,TNP
+TNP220617P00007500,2022-01-04 19:25:09+00:00,7.5,0.9,0.95,1.15,0.0,0.0,5,262,0.6025430371093752,False,REGULAR,USD,TNP

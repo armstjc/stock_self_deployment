@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HOFV220819P00002500,2022-01-25 17:22:23+00:00,2.5,1.65,1.6,1.7,0.0,0.0,2,12,1.6171894140625,True,REGULAR,USD,HOFV
+HOFV220819P00002500,2022-01-25 17:22:23+00:00,2.5,1.65,1.5,1.65,0.0,0.0,2,0,1.3828155859374998,True,REGULAR,USD,HOFV

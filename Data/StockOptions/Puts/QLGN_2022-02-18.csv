@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QLGN220218P00002500,2022-02-07 20:42:14+00:00,2.5,1.7,1.5,2.0,0.0,0.0,2,2,5.562503046874999,True,REGULAR,USD,QLGN
+QLGN220218P00002500,2022-01-03 16:33:11+00:00,2.5,1.25,0.2,1.9,0.0,0.0,2,3,10.312503554687503,True,REGULAR,USD,QLGN

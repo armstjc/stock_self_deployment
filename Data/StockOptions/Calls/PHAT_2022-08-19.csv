@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PHAT220819C00017500,2022-01-18 05:07:26+00:00,17.5,4.3,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,PHAT

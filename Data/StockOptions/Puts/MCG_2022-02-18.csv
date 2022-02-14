@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MCG220218P00005000,2021-12-21 15:22:56+00:00,5.0,0.15,0.0,4.8,0.0,0.0,,1,10.94531565917969,False,REGULAR,USD,MCG
+MCG220218P00005000,2021-12-21 15:22:56+00:00,5.0,0.15,0.0,4.8,0.0,0.0,,1,13.203126748046873,False,REGULAR,USD,MCG

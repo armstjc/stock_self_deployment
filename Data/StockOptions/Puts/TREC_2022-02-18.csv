@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TREC220218P00007500,2022-01-03 16:49:13+00:00,7.5,0.15,0.05,0.25,0.0,0.0,300,305,1.0468797656250002,False,REGULAR,USD,TREC
+TREC220218P00007500,2022-01-25 20:56:09+00:00,7.5,0.15,0.0,0.25,0.0,0.0,100,405,1.3046909765624997,False,REGULAR,USD,TREC

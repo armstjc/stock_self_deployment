@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLSE220318P00012500,2022-01-25 20:29:41+00:00,12.5,2.0,4.3,6.2,0.0,0.0,2,12,2.1718795703125,True,REGULAR,USD,PLSE
+PLSE220318P00012500,2022-01-25 20:29:41+00:00,12.5,2.0,4.6,7.4,0.0,0.0,2,12,1.4140654296875002,True,REGULAR,USD,PLSE

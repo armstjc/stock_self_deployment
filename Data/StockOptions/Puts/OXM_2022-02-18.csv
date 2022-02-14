@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OXM220218P00070000,2021-12-23 16:06:37+00:00,70.0,0.35,0.0,0.0,0.0,0.0,1,1,0.2500075,False,REGULAR,USD,OXM
+OXM220218P00070000,2021-12-23 16:06:37+00:00,70.0,0.35,0.0,0.0,0.0,0.0,1,1,0.500005,False,REGULAR,USD,OXM

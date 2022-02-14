@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RIGL240119P00002000,2021-12-31 15:44:01+00:00,2.0,0.55,0.55,1.0,0.0,0.0,1,12,0.8828136718749999,False,REGULAR,USD,RIGL
+RIGL240119P00002000,2021-12-31 15:44:01+00:00,2.0,0.55,0.55,1.0,0.0,0.0,1,12,0.8789074609374999,False,REGULAR,USD,RIGL

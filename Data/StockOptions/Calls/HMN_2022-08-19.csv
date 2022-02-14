@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HMN220819C00045000,2022-02-03 19:51:26+00:00,45.0,1.1,0.1,5.1,0.0,0.0,3,2,0.5421188366699221,False,REGULAR,USD,HMN
+HMN220819C00045000,2022-02-03 19:51:26+00:00,45.0,1.1,0.5,5.0,0.0,0.0,3,2,0.5782512878417969,False,REGULAR,USD,HMN

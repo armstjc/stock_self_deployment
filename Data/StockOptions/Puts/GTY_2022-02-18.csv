@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTY220218P00030000,2021-12-20 15:03:40+00:00,30.0,1.16,0.05,2.55,0.0,0.0,,3,0.8994150683593749,True,REGULAR,USD,GTY
+GTY220218P00030000,2021-12-20 15:03:40+00:00,30.0,1.16,0.05,2.55,0.0,0.0,,3,0.999023447265625,True,REGULAR,USD,GTY

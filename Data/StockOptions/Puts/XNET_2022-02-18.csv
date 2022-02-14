@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XNET220218P00002000,2022-01-05 20:37:50+00:00,2.0,0.3,0.2,0.45,0.050000012,20.000004,4,59,1.9921875390625,True,REGULAR,USD,XNET
+XNET220218P00002000,2022-01-05 20:37:50+00:00,2.0,0.3,0.2,0.45,0.050000012,20.000004,4,59,2.031254921875,True,REGULAR,USD,XNET

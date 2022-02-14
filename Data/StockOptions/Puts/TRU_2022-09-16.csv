@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TRU220916P00095000,2022-01-25 17:17:36+00:00,95.0,8.36,5.4,6.2,0.0,0.0,,2,0.33112241149902344,False,REGULAR,USD,TRU
+TRU220916P00095000,2022-01-25 17:17:36+00:00,95.0,8.36,5.3,6.8,0.0,0.0,,0,0.3254461987304687,False,REGULAR,USD,TRU

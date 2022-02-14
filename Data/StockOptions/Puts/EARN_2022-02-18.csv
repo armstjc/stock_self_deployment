@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EARN220218P00010000,2021-12-17 17:38:41+00:00,10.0,0.42,0.0,0.5,0.0,0.0,16,16,0.6562534375000001,False,REGULAR,USD,EARN
+EARN220218P00010000,2021-12-17 17:38:41+00:00,10.0,0.42,0.0,0.5,0.0,0.0,16,16,0.7070341796875,False,REGULAR,USD,EARN

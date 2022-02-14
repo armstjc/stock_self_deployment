@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+VBTX220715P00040000,2022-02-10 18:37:12+00:00,40.0,3.03,1.4,5.5,0.0,0.0,50,90,0.5117236328125,True,REGULAR,USD,VBTX

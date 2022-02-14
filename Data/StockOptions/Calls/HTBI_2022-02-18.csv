@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTBI220218C00030000,2021-12-29 17:20:02+00:00,30.0,2.55,0.4,4.8,0.0,0.0,,1,0.9687503125,True,REGULAR,USD,HTBI
+HTBI220218C00030000,2021-12-29 17:20:02+00:00,30.0,2.55,0.4,4.8,0.0,0.0,,1,1.1787150439453122,True,REGULAR,USD,HTBI

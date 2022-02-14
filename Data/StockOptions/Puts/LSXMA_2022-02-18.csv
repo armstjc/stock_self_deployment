@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LSXMA220218P00045000,2022-02-01 20:53:02+00:00,45.0,0.4,0.0,0.3,0.0,0.0,7,34,0.5996133789062501,False,REGULAR,USD,LSXMA
+LSXMA220218P00045000,2022-02-01 20:53:02+00:00,45.0,0.4,0.0,0.35,0.0,0.0,7,34,0.6972686523437501,False,REGULAR,USD,LSXMA

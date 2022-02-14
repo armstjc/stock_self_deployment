@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSWI220318C00115000,2022-02-04 18:51:02+00:00,115.0,4.3,2.7,7.5,0.0,0.0,1,1,0.5144091528320311,False,REGULAR,USD,CSWI
+CSWI220318C00115000,2022-02-04 18:51:02+00:00,115.0,4.3,1.5,6.3,0.0,0.0,1,0,0.49707534179687507,False,REGULAR,USD,CSWI

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WISA220218C00002500,2021-12-27 17:04:59+00:00,2.5,0.04,0.0,0.1,0.0,0.0,1,291,3.406251484375,False,REGULAR,USD,WISA
+WISA220218C00002500,2021-12-27 17:04:59+00:00,2.5,0.04,0.0,0.1,0.0,0.0,1,291,4.687504140625,False,REGULAR,USD,WISA

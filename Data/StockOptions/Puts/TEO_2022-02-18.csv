@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TEO220218P00005000,2022-01-28 14:58:25+00:00,5.0,0.45,0.0,0.55,0.0,0.0,1,2,1.125004375,False,REGULAR,USD,TEO

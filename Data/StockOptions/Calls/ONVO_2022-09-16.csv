@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ONVO220916C00005000,2022-02-08 18:22:26+00:00,5.0,0.45,0.05,2.7,0.0,0.0,2,6,2.03906740234375,False,REGULAR,USD,ONVO

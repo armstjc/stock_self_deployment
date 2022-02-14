@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UI220520C00240000,2022-02-10 17:34:38+00:00,240.0,30.4,27.4,30.2,4.699999,18.287933,2,2,0.5263108892822266,True,REGULAR,USD,UI

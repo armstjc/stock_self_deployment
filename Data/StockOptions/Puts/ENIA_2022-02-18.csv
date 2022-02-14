@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENIA220218P00005000,2022-01-24 18:11:51+00:00,5.0,0.05,0.0,0.05,0.0,0.0,1,23,0.7656273437500001,False,REGULAR,USD,ENIA
+ENIA220218P00005000,2021-12-20 17:58:31+00:00,5.0,0.2,0.0,0.15,0.0,0.0,15,17,1.125004375,False,REGULAR,USD,ENIA

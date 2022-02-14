@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DSGX220218P00065000,2022-02-08 17:37:02+00:00,65.0,0.25,0.0,0.4,0.0,0.0,1,29,0.6005899316406251,False,REGULAR,USD,DSGX
-DSGX220218P00070000,2022-01-14 18:11:51+00:00,70.0,2.98,0.35,0.95,0.0,0.0,2,2,0.43408769042968753,False,REGULAR,USD,DSGX

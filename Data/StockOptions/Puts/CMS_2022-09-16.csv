@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMS220916P00055000,2022-02-01 18:58:41+00:00,55.0,1.7,1.2,1.65,0.0,0.0,2,15,0.25977302734375,False,REGULAR,USD,CMS
+CMS220916P00055000,2022-02-11 19:59:19+00:00,55.0,1.85,1.4,1.85,0.14999998,8.823527,5,0,0.2694164855957031,False,REGULAR,USD,CMS

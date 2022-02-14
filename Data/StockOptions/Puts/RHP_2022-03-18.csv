@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RHP220318P00080000,2022-01-31 16:15:29+00:00,80.0,3.42,0.0,0.0,0.0,0.0,1,0,0.0312596875,False,REGULAR,USD,RHP
+RHP220318P00080000,2022-01-31 16:15:29+00:00,80.0,3.42,1.7,3.0,0.0,0.0,1,2,0.5329636547851562,False,REGULAR,USD,RHP

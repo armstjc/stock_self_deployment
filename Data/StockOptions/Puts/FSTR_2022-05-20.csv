@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FSTR220520P00012500,2022-01-26 18:38:43+00:00,12.5,0.45,0.15,0.6,0.0,0.0,,5,0.5927775097656252,False,REGULAR,USD,FSTR
+FSTR220520P00012500,2022-01-26 18:38:43+00:00,12.5,0.45,0.25,0.75,0.0,0.0,,5,0.5097705273437501,False,REGULAR,USD,FSTR

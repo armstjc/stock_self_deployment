@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ECOL220617P00035000,2021-12-15 14:56:07+00:00,35.0,5.0,3.1,7.2,0.0,0.0,,6,1.0656784997558595,False,REGULAR,USD,ECOL
+ECOL220617P00035000,2021-12-15 14:56:07+00:00,35.0,5.0,3.1,7.2,0.0,0.0,,6,1.0727585424804689,False,REGULAR,USD,ECOL

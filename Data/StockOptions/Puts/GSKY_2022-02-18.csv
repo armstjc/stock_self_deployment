@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GSKY220218P00010000,2021-12-22 15:21:13+00:00,10.0,0.1,0.0,4.3,0.0,0.0,,3,4.1562548046875,False,REGULAR,USD,GSKY
+GSKY220218P00010000,2021-12-22 15:21:13+00:00,10.0,0.1,0.1,2.1,0.0,0.0,,3,2.7382844042968753,False,REGULAR,USD,GSKY

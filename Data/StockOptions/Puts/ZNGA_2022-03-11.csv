@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZNGA220311P00008500,2022-01-28 16:22:55+00:00,8.5,1.28,0.0,0.0,0.0,0.0,12,0,0.062509375,False,REGULAR,USD,ZNGA
+ZNGA220311P00008500,2022-02-11 20:39:27+00:00,8.5,0.14,0.12,0.15,-0.010000005,-6.66667,10,65,0.414068359375,False,REGULAR,USD,ZNGA

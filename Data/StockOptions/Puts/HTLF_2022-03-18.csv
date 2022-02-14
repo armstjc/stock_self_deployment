@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTLF220318P00055000,2021-12-30 19:32:21+00:00,55.0,5.49,2.8,6.5,0.0,0.0,,40,0.6389196264648438,True,REGULAR,USD,HTLF
+HTLF220318P00055000,2021-12-30 19:32:21+00:00,55.0,5.49,2.8,6.5,0.0,0.0,,40,0.637698935546875,True,REGULAR,USD,HTLF

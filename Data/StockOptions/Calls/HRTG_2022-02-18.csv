@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HRTG220218C00007500,2022-02-09 14:57:53+00:00,7.5,0.05,0.0,0.1,0.0,0.0,11,139,1.0859420703125,False,REGULAR,USD,HRTG
+HRTG220218C00007500,2022-01-05 14:59:40+00:00,7.5,0.1,0.05,0.15,-0.04,-28.571426,2,60,1.8281258593749998,False,REGULAR,USD,HRTG

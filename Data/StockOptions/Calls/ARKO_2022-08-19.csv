@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARKO220819C00010000,2022-01-26 19:44:45+00:00,10.0,0.3,0.1,0.5,0.0,0.0,1,100,0.46973186523437505,False,REGULAR,USD,ARKO
+ARKO220819C00010000,2022-01-04 20:38:45+00:00,10.0,0.45,0.25,0.8,0.0,0.0,7,8,0.6171913281250001,False,REGULAR,USD,ARKO

@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+TAST220218P00002500,2022-01-20 16:15:09+00:00,2.5,0.1,0.0,0.0,0.0,0.0,10,21,0.2500075,False,REGULAR,USD,TAST

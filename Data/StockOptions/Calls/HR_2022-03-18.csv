@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HR220318C00035000,2022-01-26 18:46:11+00:00,35.0,0.15,0.0,2.7,0.0,0.0,1,1,0.7490259472656251,False,REGULAR,USD,HR
+HR220318C00035000,2022-01-26 18:46:11+00:00,35.0,0.15,0.0,0.3,0.0,0.0,1,1,0.42774009765625004,False,REGULAR,USD,HR

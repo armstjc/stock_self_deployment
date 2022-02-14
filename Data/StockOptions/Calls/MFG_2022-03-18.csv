@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MFG220318C00002500,2022-01-28 20:24:00+00:00,2.5,0.25,0.0,0.95,0.0,0.0,1,21,0.937500625,True,REGULAR,USD,MFG

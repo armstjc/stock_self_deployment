@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RELL220218P00010000,2022-01-05 19:33:01+00:00,10.0,0.2,0.2,0.4,-0.07000001,-25.925928,50,12,1.5585959570312498,False,REGULAR,USD,RELL
+RELL220218P00010000,2022-01-05 19:33:01+00:00,10.0,0.2,0.2,0.4,-0.07000001,-25.925928,50,12,1.671876640625,False,REGULAR,USD,RELL

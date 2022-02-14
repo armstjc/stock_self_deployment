@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCX220520P00065000,2021-12-17 19:52:04+00:00,65.0,0.1,0.0,4.8,0.0,0.0,1,1,0.657229990234375,False,REGULAR,USD,TCX
+TCX220520P00065000,2021-12-17 19:52:04+00:00,65.0,0.1,0.0,4.8,0.0,0.0,1,1,0.6606479248046876,False,REGULAR,USD,TCX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JP220218C00002500,2021-12-29 18:18:20+00:00,2.5,0.03,0.0,0.05,0.0,0.0,,10,4.62500421875,False,REGULAR,USD,JP
+JP220218C00002500,2022-01-20 15:47:43+00:00,2.5,0.05,0.0,0.05,0.0,0.0,5,15,5.375003281249999,False,REGULAR,USD,JP

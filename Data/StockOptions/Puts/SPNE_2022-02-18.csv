@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPNE220218P00015000,2022-01-18 05:12:48+00:00,15.0,2.0,2.25,4.1,0.0,0.0,,0,1.5078149609375,True,REGULAR,USD,SPNE
+SPNE220218P00015000,2022-01-18 05:12:48+00:00,15.0,2.0,1.75,3.6,0.0,0.0,,0,2.566409833984375,True,REGULAR,USD,SPNE

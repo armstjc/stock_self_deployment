@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AVAN220414P00010000,2022-02-08 20:50:36+00:00,10.0,0.2,0.0,0.3,0.0,0.0,31,1411,0.12305564453125001,True,REGULAR,USD,AVAN
+AVAN220414P00010000,2022-02-08 20:50:36+00:00,10.0,0.2,0.0,0.3,0.0,0.0,31,0,0.125985302734375,True,REGULAR,USD,AVAN

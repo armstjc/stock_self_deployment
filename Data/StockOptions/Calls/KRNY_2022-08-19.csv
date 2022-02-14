@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRNY220819C00015000,2021-12-27 18:38:45+00:00,15.0,0.05,0.15,1.85,0.0,0.0,,1,0.65039412109375,False,REGULAR,USD,KRNY
+KRNY220819C00015000,2021-12-27 18:38:45+00:00,15.0,0.05,0.15,1.85,0.0,0.0,,1,0.6489292919921875,False,REGULAR,USD,KRNY

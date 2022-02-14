@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LEGN220819P00035000,2021-12-31 18:15:23+00:00,35.0,4.9,4.4,7.6,0.0,0.0,2,2,0.7996846203613281,False,REGULAR,USD,LEGN
+LEGN220819P00035000,2021-12-31 18:15:23+00:00,35.0,4.9,4.4,7.6,0.0,0.0,2,2,0.7969991003417969,False,REGULAR,USD,LEGN

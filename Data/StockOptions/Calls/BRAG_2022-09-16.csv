@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+BRAG220916C00005000,2022-02-08 15:33:32+00:00,5.0,2.2,2.8,3.2,0.0,0.0,2,2,0.8916026464843749,True,REGULAR,USD,BRAG

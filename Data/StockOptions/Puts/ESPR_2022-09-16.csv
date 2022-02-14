@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESPR220916P00005000,2022-02-10 14:30:16+00:00,5.0,2.1,1.85,2.25,0.099999905,4.999995,15,8,0.999023447265625,True,REGULAR,USD,ESPR
+ESPR220916P00005000,2022-02-10 14:30:16+00:00,5.0,2.1,1.9,2.3,0.0,0.0,15,22,0.99804689453125,True,REGULAR,USD,ESPR

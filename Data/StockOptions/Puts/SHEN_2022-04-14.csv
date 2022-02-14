@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SHEN220414P00025000,2022-01-13 18:35:39+00:00,25.0,1.85,1.2,4.7,0.0,0.0,1,2,0.8129901513671874,True,REGULAR,USD,SHEN
+SHEN220414P00025000,2021-11-10 14:30:02+00:00,25.0,2.05,0.3,4.4,0.0,0.0,1,2,0.7700218310546876,True,REGULAR,USD,SHEN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NP220715C00055000,2021-12-16 14:30:22+00:00,55.0,1.35,0.05,4.7,0.0,0.0,,10,0.586918193359375,False,REGULAR,USD,NP
+NP220715C00055000,2021-12-16 14:30:22+00:00,55.0,1.35,0.05,4.7,0.0,0.0,,10,0.6032754516601564,False,REGULAR,USD,NP

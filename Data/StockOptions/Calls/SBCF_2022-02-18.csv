@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SBCF220218C00035000,2022-01-24 16:51:21+00:00,35.0,3.3,1.85,2.65,0.0,0.0,,1,0.5507857421875001,True,REGULAR,USD,SBCF
+SBCF220218C00035000,2022-01-24 16:51:21+00:00,35.0,3.3,0.75,5.0,0.0,0.0,,1,0.9267585449218749,True,REGULAR,USD,SBCF

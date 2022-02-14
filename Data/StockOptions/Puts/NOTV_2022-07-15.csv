@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NOTV220715P00017500,2022-01-27 14:30:51+00:00,17.5,1.7,0.0,0.9,0.0,0.0,,1,0.848634326171875,False,REGULAR,USD,NOTV
-NOTV220715P00020000,2022-01-21 14:30:52+00:00,20.0,1.95,0.55,2.7,0.0,0.0,1.0,1,1.0605515722656251,False,REGULAR,USD,NOTV

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VERX220218P00015000,2021-12-28 15:04:59+00:00,15.0,0.45,0.25,1.55,0.0,0.0,,2,0.937500625,True,REGULAR,USD,VERX
+VERX220218P00015000,2022-02-03 15:13:28+00:00,15.0,2.0,0.65,2.4,0.0,0.0,1,17,1.92578162109375,True,REGULAR,USD,VERX

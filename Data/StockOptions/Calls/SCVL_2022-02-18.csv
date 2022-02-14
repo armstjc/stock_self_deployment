@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SCVL220218C00045000,2022-01-04 16:47:29+00:00,45.0,1.0,0.4,4.0,0.0,0.0,1,7,2.739260964355469,False,REGULAR,USD,SCVL
+SCVL220218C00045000,2022-01-04 16:47:29+00:00,45.0,1.0,0.4,4.0,0.0,0.0,1,7,3.5644542138671875,False,REGULAR,USD,SCVL

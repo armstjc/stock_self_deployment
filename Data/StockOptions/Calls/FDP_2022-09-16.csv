@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FDP220916C00025000,2022-02-02 20:17:25+00:00,25.0,4.54,4.0,5.5,0.0,0.0,1,2,0.48779809082031256,True,REGULAR,USD,FDP
+FDP220916C00025000,2022-02-02 20:17:25+00:00,25.0,4.54,2.95,6.2,0.0,0.0,1,2,0.5803264624023439,True,REGULAR,USD,FDP

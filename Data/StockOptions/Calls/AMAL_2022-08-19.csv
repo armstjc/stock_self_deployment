@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMAL220819C00025000,2022-01-28 20:13:12+00:00,25.0,0.18,0.0,0.25,0.0,0.0,4,4,0.415044912109375,False,REGULAR,USD,AMAL
+AMAL220819C00025000,2022-01-28 20:13:12+00:00,25.0,0.18,0.0,0.25,0.0,0.0,4,0,0.41699801757812494,False,REGULAR,USD,AMAL

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FKWL220218P00005000,2021-12-31 16:17:03+00:00,5.0,1.1,0.35,1.15,0.0,0.0,1,1,2.156254609375,True,REGULAR,USD,FKWL
+FKWL220218P00005000,2021-12-31 16:17:03+00:00,5.0,1.1,0.35,1.15,0.0,0.0,1,1,2.7734405664062503,True,REGULAR,USD,FKWL

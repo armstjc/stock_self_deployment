@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CTG220218P00007500,2022-01-19 17:41:42+00:00,7.5,0.2,0.0,0.15,0.0,0.0,2,2,0.6562534375000001,False,REGULAR,USD,CTG
+CTG220218P00007500,2022-01-19 17:41:42+00:00,7.5,0.2,0.0,0.4,0.0,0.0,2,0,1.2070352148437498,False,REGULAR,USD,CTG

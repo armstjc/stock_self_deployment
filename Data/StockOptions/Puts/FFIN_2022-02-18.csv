@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FFIN220218P00040000,2022-01-19 14:30:48+00:00,40.0,0.05,0.0,0.25,0.0,0.0,2.0,2,0.72851833984375,False,REGULAR,USD,FFIN
-FFIN220218P00045000,2022-01-31 19:11:47+00:00,45.0,0.58,0.0,0.25,0.0,0.0,,3,0.39942006835937505,False,REGULAR,USD,FFIN

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VTGN220318C00002500,2022-01-26 14:30:02+00:00,2.5,0.05,0.05,0.1,0.0,0.0,1.0,12,1.46875265625,False,REGULAR,USD,VTGN
-VTGN220318C00005000,2022-01-25 15:12:47+00:00,5.0,0.05,0.0,0.05,0.0,0.0,,1,2.031254921875,False,REGULAR,USD,VTGN

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DGII220916P00012500,2022-02-04 15:49:38+00:00,12.5,0.3,0.0,3.0,0.0,0.0,1,0,0.8911143701171874,False,REGULAR,USD,DGII
+DGII220916P00012500,2022-02-04 15:49:38+00:00,12.5,0.3,0.0,1.75,0.0,0.0,1,0,0.7060576269531251,False,REGULAR,USD,DGII

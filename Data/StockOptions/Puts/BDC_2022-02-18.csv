@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BDC220218P00050000,2021-12-27 14:53:38+00:00,50.0,0.6,0.0,4.8,0.0,0.0,,10,1.7109389453125,False,REGULAR,USD,BDC
+BDC220218P00050000,2021-12-27 14:53:38+00:00,50.0,0.6,0.0,4.8,0.0,0.0,,10,1.7333997705078126,False,REGULAR,USD,BDC

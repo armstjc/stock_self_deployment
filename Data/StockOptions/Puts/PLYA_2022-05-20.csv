@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLYA220520P00007500,2021-12-15 17:44:07+00:00,7.5,1.15,0.7,1.4,0.0,0.0,5,52,0.91992267578125,False,REGULAR,USD,PLYA
+PLYA220520P00007500,2021-12-15 17:44:07+00:00,7.5,1.15,0.7,1.55,0.0,0.0,5,52,0.9335944140625,False,REGULAR,USD,PLYA

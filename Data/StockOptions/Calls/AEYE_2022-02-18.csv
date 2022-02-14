@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AEYE220218C00007500,2022-01-04 19:39:49+00:00,7.5,0.72,0.3,1.25,0.0,0.0,5,6,3.1875020312499998,False,REGULAR,USD,AEYE
+AEYE220218C00007500,2022-01-04 19:39:49+00:00,7.5,0.72,0.3,1.25,0.0,0.0,5,6,3.886719033203125,False,REGULAR,USD,AEYE

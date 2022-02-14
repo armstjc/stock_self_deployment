@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+IDCC220916P00050000,2022-02-09 19:53:24+00:00,50.0,1.8,0.85,4.1,0.0,0.0,31,58,0.582889913330078,False,REGULAR,USD,IDCC

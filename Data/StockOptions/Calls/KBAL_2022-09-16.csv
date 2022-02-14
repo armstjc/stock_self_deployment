@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+KBAL220916C00012500,2022-01-31 19:33:26+00:00,12.5,0.35,0.0,0.45,0.0,0.0,2,4,0.47119669433593747,False,REGULAR,USD,KBAL

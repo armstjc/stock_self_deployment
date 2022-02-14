@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OOMA220715P00020000,2021-12-13 20:54:34+00:00,20.0,2.63,2.65,3.4,0.0,0.0,,2,0.393560751953125,True,REGULAR,USD,OOMA
+OOMA220715P00020000,2021-12-13 20:54:34+00:00,20.0,2.63,2.65,3.4,0.0,0.0,,2,0.28516339843749994,True,REGULAR,USD,OOMA

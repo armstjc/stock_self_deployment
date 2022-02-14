@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCSI220218P00050000,2022-01-05 18:04:05+00:00,50.0,2.45,2.6,3.7,-2.3500001,-48.958336,1,19,2.2392622143554686,False,REGULAR,USD,CCSI
+CCSI220218P00050000,2022-01-05 18:04:05+00:00,50.0,2.45,2.6,3.7,-2.3500001,-48.958336,1,19,2.399418063964843,False,REGULAR,USD,CCSI

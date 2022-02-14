@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCOR220715C00020000,2021-11-29 17:39:27+00:00,20.0,0.93,0.85,1.35,0.0,0.0,,2,0.4682670361328125,False,REGULAR,USD,BCOR
+BCOR220715C00020000,2021-11-29 17:39:27+00:00,20.0,0.93,0.85,1.35,0.0,0.0,,2,0.4335994140625,False,REGULAR,USD,BCOR

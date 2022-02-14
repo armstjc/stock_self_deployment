@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BLUE220318P00005000,2022-01-25 19:25:57+00:00,5.0,0.1,0.0,0.45,0.0,0.0,,10,1.05859845703125,False,REGULAR,USD,BLUE
-BLUE220318P00010000,2022-01-20 20:47:10+00:00,10.0,2.93,1.55,3.7,0.0,0.0,,3,1.484377578125,True,REGULAR,USD,BLUE

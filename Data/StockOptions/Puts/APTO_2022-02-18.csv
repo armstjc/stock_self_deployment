@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APTO220218P00002500,2022-02-07 20:36:25+00:00,2.5,1.33,1.0,1.45,0.0,0.0,20,105,2.1250046874999997,True,REGULAR,USD,APTO
+APTO220218P00002500,2022-02-11 20:50:58+00:00,2.5,1.35,1.35,1.6,0.01999998,1.503758,6,105,6.9687512890625,True,REGULAR,USD,APTO

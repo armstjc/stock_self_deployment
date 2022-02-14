@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IDYA220218P00020000,2022-01-05 20:27:36+00:00,20.0,2.05,2.1,6.5,0.0,0.0,,10,1.955078349609375,True,REGULAR,USD,IDYA
+IDYA220218P00020000,2022-01-05 20:27:36+00:00,20.0,2.05,2.1,6.5,0.0,0.0,,10,4.082036147460938,True,REGULAR,USD,IDYA

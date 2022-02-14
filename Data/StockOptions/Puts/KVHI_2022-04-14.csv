@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KVHI220414P00010000,2021-12-27 17:23:15+00:00,10.0,1.6,1.15,1.9,0.0,0.0,,1,0.6367223828125,True,REGULAR,USD,KVHI
+KVHI220414P00010000,2021-12-27 17:23:15+00:00,10.0,1.6,1.15,1.9,0.0,0.0,,1,0.6074258007812501,True,REGULAR,USD,KVHI

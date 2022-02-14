@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OCFC220617P00015000,2021-12-21 20:59:28+00:00,15.0,0.2,0.0,2.0,0.0,0.0,2,0,0.8173846386718748,False,REGULAR,USD,OCFC
+OCFC220617P00015000,2021-12-21 20:59:28+00:00,15.0,0.2,0.0,2.3,0.0,0.0,2,103,0.8740246972656249,False,REGULAR,USD,OCFC

@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MXCT220715P00005000,2022-01-27 15:30:57+00:00,5.0,0.75,0.5,1.1,0.0,0.0,,10,1.015629921875,False,REGULAR,USD,MXCT
-MXCT220715P00007500,2022-02-09 17:03:18+00:00,7.5,2.15,1.35,2.55,0.0,0.0,1.0,7,0.8437515624999999,True,REGULAR,USD,MXCT

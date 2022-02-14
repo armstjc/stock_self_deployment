@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIEB220318P00002500,2022-02-03 15:01:22+00:00,2.5,0.55,0.15,0.65,0.0,0.0,10,0,0.8906260937499999,True,REGULAR,USD,SIEB
+SIEB220318P00002500,2022-02-11 18:58:41+00:00,2.5,0.45,0.3,0.95,-0.100000024,-18.181822,20,0,1.640626796875,True,REGULAR,USD,SIEB

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ETAC220617P00010000,2021-12-27 16:07:31+00:00,10.0,0.7,0.1,4.8,0.0,0.0,1,14,1.0332079589843752,True,REGULAR,USD,ETAC
+ETAC220617P00010000,2021-12-27 16:07:31+00:00,10.0,0.7,0.1,4.8,0.0,0.0,1,14,1.0439500927734378,True,REGULAR,USD,ETAC

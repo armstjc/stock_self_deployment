@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FDUS220218P00017500,2021-12-28 19:45:45+00:00,17.5,0.25,0.25,0.45,0.0,0.0,,70,0.6152382226562501,False,REGULAR,USD,FDUS
+FDUS220218P00017500,2021-12-28 19:45:45+00:00,17.5,0.25,0.25,0.45,0.0,0.0,,70,0.7050810742187501,False,REGULAR,USD,FDUS

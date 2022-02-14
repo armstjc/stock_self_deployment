@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+EPHY220819P00010000,2022-02-08 17:20:31+00:00,10.0,0.5,0.0,0.6,0.0,0.0,150,189,0.16651224121093755,True,REGULAR,USD,EPHY

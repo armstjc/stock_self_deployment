@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WKSP220218P00002500,2022-02-04 15:14:57+00:00,2.5,0.25,0.15,0.3,-0.099999994,-28.571426,1,204,0.85937640625,True,REGULAR,USD,WKSP
+WKSP220218P00002500,2022-02-11 18:55:34+00:00,2.5,0.3,0.2,0.35,0.050000012,20.000004,1,204,1.0625046875000002,True,REGULAR,USD,WKSP

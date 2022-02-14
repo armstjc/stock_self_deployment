@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PNM220520C00050000,2022-01-03 15:05:49+00:00,50.0,0.35,0.15,0.3,0.0,0.0,1,11,0.17408052490234377,False,REGULAR,USD,PNM
+PNM220520C00050000,2022-02-03 17:50:52+00:00,50.0,0.15,0.0,0.25,0.0,0.0,12,24,0.18262536132812499,False,REGULAR,USD,PNM

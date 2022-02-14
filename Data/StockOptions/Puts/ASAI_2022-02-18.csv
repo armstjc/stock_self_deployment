@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASAI220218P00010000,2022-01-10 14:30:10+00:00,10.0,0.65,0.0,0.5,0.0,0.0,,1,0.99804689453125,False,REGULAR,USD,ASAI
+ASAI220218P00010000,2022-01-18 05:03:51+00:00,10.0,0.65,0.0,0.9,0.0,0.0,,1,2.019536201171875,False,REGULAR,USD,ASAI

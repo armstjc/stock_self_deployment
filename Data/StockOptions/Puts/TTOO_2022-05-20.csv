@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TTOO220520P00002500,2022-02-09 18:09:39+00:00,2.5,2.25,0.0,0.0,0.0,0.0,2,344,1.0000000000000003e-05,True,REGULAR,USD,TTOO
+TTOO220520P00002500,2022-02-09 18:09:39+00:00,2.5,2.25,1.85,2.9,0.0,0.0,2,344,5.687502890625,True,REGULAR,USD,TTOO

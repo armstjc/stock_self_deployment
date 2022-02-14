@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ALEX220218C00022500,2022-01-24 20:15:26+00:00,22.5,1.0,0.0,2.05,0.0,0.0,,1,0.8730481445312499,True,REGULAR,USD,ALEX

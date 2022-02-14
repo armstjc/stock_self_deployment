@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+GTES220318C00017500,2022-02-04 20:33:37+00:00,17.5,0.3,0.0,0.35,0.0,0.0,1,13,0.6152382226562501,False,REGULAR,USD,GTES

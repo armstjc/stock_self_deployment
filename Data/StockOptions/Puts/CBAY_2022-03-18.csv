@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBAY220318P00003000,2022-02-08 20:32:59+00:00,3.0,0.3,0.1,0.3,0.0,0.0,5,106,0.773439765625,False,REGULAR,USD,CBAY
+CBAY220318P00003000,2022-02-08 20:32:59+00:00,3.0,0.3,0.1,0.3,0.0,0.0,5,0,0.726565234375,False,REGULAR,USD,CBAY

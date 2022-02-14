@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BEST220318C00002500,2022-02-03 15:34:40+00:00,2.5,0.02,0.0,0.05,-0.030000001,-60.000004,10,133,1.96875015625,False,REGULAR,USD,BEST
+BEST220318C00002500,2022-02-10 18:03:48+00:00,2.5,0.05,0.0,0.05,0.0,0.0,10,153,1.96875015625,False,REGULAR,USD,BEST

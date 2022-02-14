@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALE220318C00065000,2022-01-27 17:14:49+00:00,65.0,1.05,0.0,5.0,0.0,0.0,,7,0.6035195898437502,False,REGULAR,USD,ALE
+ALE220318C00065000,2022-02-07 19:20:30+00:00,65.0,1.0,0.0,5.0,0.0,0.0,5,0,0.8227556787109375,False,REGULAR,USD,ALE

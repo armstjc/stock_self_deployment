@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NGM220715P00012500,2022-02-10 16:41:45+00:00,12.5,1.4,1.3,1.7,-1.1999999,-46.153847,1,1,0.870118486328125,False,REGULAR,USD,NGM
+NGM220715P00012500,2022-02-10 16:41:45+00:00,12.5,1.4,0.35,5.0,0.0,0.0,1,2,1.1879923413085938,False,REGULAR,USD,NGM

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HLI220218P00080000,2021-12-22 14:30:03+00:00,80.0,0.8,0.0,5.0,0.0,0.0,,13,2.134770288085937,False,REGULAR,USD,HLI
+HLI220218P00080000,2021-12-22 14:30:03+00:00,80.0,0.8,0.0,5.0,0.0,0.0,,13,2.4277383056640627,False,REGULAR,USD,HLI

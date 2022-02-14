@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SD220218P00010000,2022-01-05 16:56:30+00:00,10.0,0.44,0.45,0.6,0.00999999,2.3255792,20,110,1.8515632421875,False,REGULAR,USD,SD
+SD220218P00010000,2022-01-05 16:56:30+00:00,10.0,0.44,0.45,0.6,0.00999999,2.3255792,20,110,2.4140664648437498,False,REGULAR,USD,SD

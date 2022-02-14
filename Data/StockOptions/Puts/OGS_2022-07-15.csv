@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OGS220715P00080000,2021-12-21 14:33:14+00:00,80.0,8.45,5.7,8.2,0.0,0.0,,1,0.264655791015625,True,REGULAR,USD,OGS
+OGS220715P00080000,2021-12-21 14:33:14+00:00,80.0,8.45,5.7,8.2,0.0,0.0,,1,0.2766185620117187,True,REGULAR,USD,OGS

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VBTX220414P00040000,2021-12-21 17:43:00+00:00,40.0,4.0,0.1,4.3,0.0,0.0,40,41,0.63086306640625,True,REGULAR,USD,VBTX
+VBTX220414P00040000,2021-12-21 17:43:00+00:00,40.0,4.0,0.1,4.3,0.0,0.0,40,41,0.6228065063476562,True,REGULAR,USD,VBTX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UTL220916C00050000,2022-02-03 19:47:43+00:00,50.0,3.72,1.2,5.0,0.0,0.0,,1,0.3918517846679687,False,REGULAR,USD,UTL
+UTL220916C00050000,2022-02-03 19:47:43+00:00,50.0,3.72,0.6,5.0,0.0,0.0,,1,0.37964487548828124,False,REGULAR,USD,UTL

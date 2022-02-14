@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VRE220318C00017500,2022-02-01 18:40:34+00:00,17.5,0.5,0.35,2.05,0.0,0.0,,20,0.6269568554687501,False,REGULAR,USD,VRE
+VRE220318C00017500,2022-02-01 18:40:34+00:00,17.5,0.5,0.3,1.15,0.0,0.0,,20,0.6655306884765627,False,REGULAR,USD,VRE

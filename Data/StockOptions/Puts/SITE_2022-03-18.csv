@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SITE220318P00165000,2022-02-03 16:04:41+00:00,165.0,5.4,0.0,0.0,0.0,0.0,1,0,0.062509375,False,REGULAR,USD,SITE
+SITE220318P00165000,2022-02-03 16:04:41+00:00,165.0,5.4,4.8,9.6,0.0,0.0,1,4,0.5272264074707032,False,REGULAR,USD,SITE

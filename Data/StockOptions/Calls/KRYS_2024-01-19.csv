@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRYS240119C00100000,2021-12-16 16:40:05+00:00,100.0,22.38,15.5,20.5,0.0,0.0,,100,0.7207669525146485,False,REGULAR,USD,KRYS
+KRYS240119C00100000,2021-12-16 16:40:05+00:00,100.0,22.38,15.5,20.5,0.0,0.0,,100,0.7546411254882812,False,REGULAR,USD,KRYS

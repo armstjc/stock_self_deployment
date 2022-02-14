@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OTTR220218P00050000,2021-12-20 14:30:02+00:00,50.0,0.25,0.0,0.75,0.0,0.0,,1,0.973633076171875,False,REGULAR,USD,OTTR
+OTTR220218P00050000,2021-12-20 14:30:02+00:00,50.0,0.25,0.0,0.75,0.0,0.0,,1,1.142582412109375,False,REGULAR,USD,OTTR

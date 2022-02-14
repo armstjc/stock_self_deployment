@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WFRD220715C00030000,2021-12-13 05:05:20+00:00,30.0,5.55,2.65,5.9,0.0,0.0,,4,0.43555251953125,True,REGULAR,USD,WFRD
+WFRD220715C00030000,2021-12-13 05:05:20+00:00,30.0,5.55,2.65,5.9,0.0,0.0,,4,0.3745179736328125,True,REGULAR,USD,WFRD

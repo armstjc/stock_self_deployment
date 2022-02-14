@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGX220218P00030000,2022-01-04 16:59:49+00:00,30.0,0.15,0.0,0.15,0.0,0.0,9,45,0.8437515624999999,False,REGULAR,USD,AGX
+AGX220218P00030000,2022-01-04 16:59:49+00:00,30.0,0.15,0.0,0.15,0.0,0.0,9,45,1.0703171484375003,False,REGULAR,USD,AGX

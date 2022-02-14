@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LFVN220218P00005000,2022-02-08 14:50:32+00:00,5.0,0.2,0.0,0.2,0.0,0.0,1,47,0.6171913281250001,False,REGULAR,USD,LFVN

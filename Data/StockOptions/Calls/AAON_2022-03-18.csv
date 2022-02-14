@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AAON220318C00065000,2022-02-08 20:55:35+00:00,65.0,1.34,0.0,0.0,0.0,0.0,2,3,0.062509375,False,REGULAR,USD,AAON
+AAON220318C00065000,2022-02-01 14:42:38+00:00,65.0,1.34,0.05,4.7,0.0,0.0,2,3,0.6481968774414062,False,REGULAR,USD,AAON

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XNCR220520P00017500,2021-12-22 19:41:09+00:00,17.5,0.6,0.0,0.4,0.0,0.0,,1,0.7695335546875001,False,REGULAR,USD,XNCR
+XNCR220520P00017500,2021-12-22 19:41:09+00:00,17.5,0.6,0.0,0.4,0.0,0.0,,1,0.77148666015625,False,REGULAR,USD,XNCR

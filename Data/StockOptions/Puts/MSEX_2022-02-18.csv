@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MSEX220218P00085000,2022-01-20 17:17:50+00:00,85.0,0.6,0.0,2.75,0.0,0.0,,1,0.938477177734375,False,REGULAR,USD,MSEX
+MSEX220218P00085000,2022-01-20 17:17:50+00:00,85.0,0.6,0.0,2.75,0.0,0.0,,1,1.1201215869140624,False,REGULAR,USD,MSEX

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MSA220916C00175000,2022-01-25 14:30:04+00:00,175.0,1.75,0.0,4.8,0.0,0.0,,10,0.3461979443359374,False,REGULAR,USD,MSA
+MSA220916C00175000,2022-01-25 14:30:04+00:00,175.0,1.75,0.0,0.0,0.0,0.0,,0,0.062509375,False,REGULAR,USD,MSA

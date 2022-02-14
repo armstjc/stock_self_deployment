@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MIND220617P00002500,2022-01-21 15:39:02+00:00,2.5,1.0,1.15,1.4,0.0,0.0,126,500,0.992187578125,True,REGULAR,USD,MIND
+MIND220617P00002500,2022-01-21 15:39:02+00:00,2.5,1.0,1.2,1.45,0.0,0.0,126,500,0.9062509375,True,REGULAR,USD,MIND

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CYCC220819P00007500,2022-01-18 15:15:04+00:00,7.5,4.1,3.9,4.2,0.0,0.0,1,1,1.0625046875000002,True,REGULAR,USD,CYCC
+CYCC220819P00007500,2022-01-18 15:15:04+00:00,7.5,4.1,4.1,4.4,0.0,0.0,1,1,0.8984385156249999,True,REGULAR,USD,CYCC

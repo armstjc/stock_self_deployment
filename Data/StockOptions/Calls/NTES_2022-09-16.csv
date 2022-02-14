@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NTES220916C00125000,2022-01-31 19:47:40+00:00,125.0,7.41,7.3,8.3,0.0,0.0,,3,0.46985393432617195,False,REGULAR,USD,NTES
+NTES220916C00125000,2022-01-31 19:47:40+00:00,125.0,7.41,5.1,6.8,0.0,0.0,,0,0.4896291271972657,False,REGULAR,USD,NTES

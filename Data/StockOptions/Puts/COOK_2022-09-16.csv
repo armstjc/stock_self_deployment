@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-COOK220916P00007500,2022-02-10 14:55:23+00:00,7.5,0.85,0.2,0.95,-0.25,-22.727272,1,1,0.622074091796875,False,REGULAR,USD,COOK
+COOK220916P00007500,2022-02-11 18:33:22+00:00,7.5,0.9,0.8,1.4,0.049999952,5.882347,1,2,0.7832052929687501,False,REGULAR,USD,COOK

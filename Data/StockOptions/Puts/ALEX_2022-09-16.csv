@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+ALEX220916P00020000,2022-01-21 14:41:54+00:00,20.0,1.4,0.0,4.0,0.0,0.0,1,1,0.8059101440429688,False,REGULAR,USD,ALEX

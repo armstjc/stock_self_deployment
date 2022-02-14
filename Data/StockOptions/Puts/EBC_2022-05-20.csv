@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EBC220520P00010000,2022-01-03 19:01:13+00:00,10.0,0.05,0.0,1.0,0.0,0.0,30,44,1.197269638671875,False,REGULAR,USD,EBC
+EBC220520P00010000,2022-01-03 19:01:13+00:00,10.0,0.05,0.0,1.0,0.0,0.0,30,44,1.2109414453124998,False,REGULAR,USD,EBC

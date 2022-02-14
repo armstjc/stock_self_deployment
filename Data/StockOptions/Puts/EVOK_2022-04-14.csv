@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVOK220414P00002500,2021-12-07 16:54:28+00:00,2.5,1.95,1.55,2.0,0.0,0.0,23,40,2.718753203125,True,REGULAR,USD,EVOK
+EVOK220414P00002500,2022-01-13 14:40:27+00:00,2.5,2.0,1.8,2.1,0.0,0.0,1,41,1.625001875,True,REGULAR,USD,EVOK

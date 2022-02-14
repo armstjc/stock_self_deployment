@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VEV220715P00005000,2021-12-30 20:44:50+00:00,5.0,2.0,1.3,5.0,0.0,0.0,,1,2.5273474316406244,True,REGULAR,USD,VEV
+VEV220715P00005000,2021-12-30 20:44:50+00:00,5.0,2.0,1.4,5.0,0.0,0.0,,1,2.5976597558593753,True,REGULAR,USD,VEV

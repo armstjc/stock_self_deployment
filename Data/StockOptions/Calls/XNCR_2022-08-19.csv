@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XNCR220819C00040000,2022-02-08 19:39:08+00:00,40.0,3.6,1.1,6.0,0.0,0.0,1,2,0.5741009387207032,False,REGULAR,USD,XNCR
-XNCR220819C00060000,2022-01-21 14:30:03+00:00,60.0,1.05,0.0,5.0,0.0,0.0,1,1,0.8376481079101561,False,REGULAR,USD,XNCR

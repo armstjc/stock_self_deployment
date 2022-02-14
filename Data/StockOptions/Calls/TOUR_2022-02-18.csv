@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TOUR220218C00002500,2022-02-09 17:22:58+00:00,2.5,0.04,0.0,0.05,0.0,0.0,8,45,3.06250234375,False,REGULAR,USD,TOUR
+TOUR220218C00002500,2022-01-03 19:59:34+00:00,2.5,0.05,0.0,0.75,0.0,0.0,2,33,9.875003828125001,False,REGULAR,USD,TOUR

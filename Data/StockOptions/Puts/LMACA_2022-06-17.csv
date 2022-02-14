@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LMACA220617P00010000,2022-02-09 20:35:38+00:00,10.0,0.25,0.15,0.3,0.0,0.0,400,1099,0.13672738281250002,False,REGULAR,USD,LMACA
+LMACA220617P00010000,2022-01-05 20:43:05+00:00,10.0,0.4,0.0,0.45,0.050000012,14.285718,30,135,0.1992267578125,False,REGULAR,USD,LMACA

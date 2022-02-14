@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NWPX220218C00030000,2022-01-24 14:47:40+00:00,30.0,0.55,0.1,4.4,0.0,0.0,10,25,1.4140654296875002,False,REGULAR,USD,NWPX
+NWPX220218C00030000,2021-12-22 14:30:04+00:00,30.0,1.65,0.3,5.2,0.0,0.0,,10,2.2265669335937495,False,REGULAR,USD,NWPX

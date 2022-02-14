@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NBRV220218C00002500,2022-01-03 16:08:25+00:00,2.5,0.05,0.0,0.05,0.0,0.0,10,32,6.37500203125,False,REGULAR,USD,NBRV
+NBRV220218C00002500,2022-01-03 16:08:25+00:00,2.5,0.05,0.0,0.05,0.0,0.0,10,32,7.937500078125,False,REGULAR,USD,NBRV

@@ -1,2 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MATW220916P00020000,2022-02-03 14:43:43+00:00,20.0,0.45,0.25,0.8,0.0,0.0,,2,0.5444381494140625,False,REGULAR,USD,MATW

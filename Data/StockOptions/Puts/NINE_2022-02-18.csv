@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NINE220218P00002500,2022-01-31 14:48:23+00:00,2.5,1.32,1.25,1.4,0.0,0.0,1,29,4.2500046875,True,REGULAR,USD,NINE
+NINE220218P00002500,2022-02-11 20:19:16+00:00,2.5,1.3,0.9,1.5,-0.0200001,-1.515159,1,29,7.812500234374999,True,REGULAR,USD,NINE

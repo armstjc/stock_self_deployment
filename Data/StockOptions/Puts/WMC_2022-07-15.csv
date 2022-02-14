@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WMC220715P00002000,2022-02-01 18:06:46+00:00,2.0,0.16,0.2,0.35,0.0,0.0,1,3639,0.51562984375,True,REGULAR,USD,WMC
+WMC220715P00002000,2021-12-31 16:43:54+00:00,2.0,0.18,0.15,0.25,0.0,0.0,517,3013,0.4414118359375,True,REGULAR,USD,WMC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FST220218C00010000,2021-12-30 16:29:15+00:00,10.0,0.2,0.15,0.3,0.0,0.0,,101,0.4023497265625,True,REGULAR,USD,FST
+FST220218C00010000,2022-01-26 19:40:38+00:00,10.0,0.25,0.05,0.2,0.0,0.0,9,101,0.304694453125,True,REGULAR,USD,FST

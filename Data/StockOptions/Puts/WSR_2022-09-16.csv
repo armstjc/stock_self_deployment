@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WSR220916P00007500,2022-02-03 20:11:38+00:00,7.5,0.35,0.0,0.0,0.0,0.0,1,0,0.12500875,False,REGULAR,USD,WSR
-WSR220916P00010000,2022-02-03 19:30:05+00:00,10.0,1.1,0.0,0.0,0.0,0.0,2,0,0.007822421875,False,REGULAR,USD,WSR

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WSBC220520C00040000,2021-11-10 11:56:32+00:00,40.0,1.95,0.0,1.55,0.0,0.0,,4,0.3632876171875,False,REGULAR,USD,WSBC
+WSBC220520C00040000,2021-11-10 11:56:32+00:00,40.0,1.95,0.0,1.55,0.0,0.0,,4,0.37183245361328127,False,REGULAR,USD,WSBC

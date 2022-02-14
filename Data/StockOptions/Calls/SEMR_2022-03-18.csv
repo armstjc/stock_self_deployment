@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+SEMR220318C00015000,2022-02-07 19:19:26+00:00,15.0,3.0,2.75,3.2,0.0,0.0,1,2,0.7597680273437502,True,REGULAR,USD,SEMR

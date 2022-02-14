@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BIOC220715P00002500,2022-02-08 15:38:12+00:00,2.5,0.75,0.45,0.8,0.0,0.0,1,102,1.09375453125,False,REGULAR,USD,BIOC
+BIOC220715P00002500,2022-02-08 15:38:12+00:00,2.5,0.8,0.5,1.95,0.050000012,6.6666684,1,102,2.0117237207031247,True,REGULAR,USD,BIOC

@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KT220715P00010000,2021-12-17 15:02:35+00:00,10.0,0.3,0.1,0.25,0.0,0.0,1,1,0.43555251953125,False,REGULAR,USD,KT
+KT220715P00010000,2021-12-17 15:02:35+00:00,10.0,0.3,0.1,0.25,0.0,0.0,1,1,0.4335994140625,False,REGULAR,USD,KT

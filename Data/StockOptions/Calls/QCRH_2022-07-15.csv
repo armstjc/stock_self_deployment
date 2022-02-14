@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QCRH220715C00065000,2022-01-18 19:26:17+00:00,65.0,3.2,0.5,4.0,0.0,0.0,,9,0.450200810546875,False,REGULAR,USD,QCRH
+QCRH220715C00065000,2022-01-18 19:26:17+00:00,65.0,3.2,0.7,3.6,0.0,0.0,,9,0.4167538793945312,False,REGULAR,USD,QCRH

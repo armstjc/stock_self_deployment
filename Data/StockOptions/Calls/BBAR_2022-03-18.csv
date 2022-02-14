@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BBAR220318C00003000,2022-02-01 14:42:20+00:00,3.0,0.42,0.0,0.45,0.0,0.0,2,848,0.773439765625,True,REGULAR,USD,BBAR
+BBAR220318C00003000,2022-02-10 15:08:00+00:00,3.0,0.3,0.2,0.45,0.0,0.0,2,0,0.5937540625000001,True,REGULAR,USD,BBAR

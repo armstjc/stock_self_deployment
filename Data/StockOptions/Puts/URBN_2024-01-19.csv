@@ -1,1 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
+URBN240119P00030000,2022-01-19 14:52:24+00:00,30.0,8.05,6.5,9.3,0.0,0.0,,1,0.5247850256347657,True,REGULAR,USD,URBN

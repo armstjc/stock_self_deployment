@@ -1,3 +1,1 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SNEX220218P00060000,2022-02-08 14:47:43+00:00,60.0,0.05,0.0,4.8,0.0,0.0,2,0,1.7758800268554684,False,REGULAR,USD,SNEX
-SNEX220218P00070000,2022-02-09 14:48:44+00:00,70.0,0.95,0.0,1.5,0.0,0.0,1,11,0.6928741650390625,False,REGULAR,USD,SNEX

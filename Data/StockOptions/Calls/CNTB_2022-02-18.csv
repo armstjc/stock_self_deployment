@@ -1,2 +1,2 @@
 contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNTB220218C00005000,2022-01-05 16:36:22+00:00,5.0,1.35,0.75,1.35,0.45000005,50.000008,11,2,3.9140627148437503,False,REGULAR,USD,CNTB
+CNTB220218C00005000,2022-01-05 16:36:22+00:00,5.0,1.35,0.75,1.35,0.45000005,50.000008,11,2,5.4765656542968735,False,REGULAR,USD,CNTB
