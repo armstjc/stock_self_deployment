@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-BMY,Bristol-Myers Squibb Company,64.99,Healthcare,Stocks,NYQ,BML
-ABML,AMERICAN BATTERY TECHNOLOGY CO,0.97,Basic Materials,Stocks,PNK,BML
-BMBL,Bumble Inc.,27.66,Technology,Stocks,NMS,BML
-BMO,Bank Of Montreal,116.24,Financial Services,Stocks,NYQ,BML
+BMY,Bristol-Myers Squibb Company,67.55,Healthcare,Stocks,NYQ,BML
+ABML,AMERICAN BATTERY TECHNOLOGY CO,0.95,Basic Materials,Stocks,PNK,BML
+BMBL,Bumble Inc.,25.19,Technology,Stocks,NMS,BML
+BMO,Bank Of Montreal,114.8,Financial Services,Stocks,NYQ,BML
+ML,MoneyLion Inc.,2.25,Technology,Stocks,NYQ,BML
+BMA,Banco Macro S.A.,14.43,Financial Services,Stocks,NYQ,BML
+BLL,Ball Corporation,90.61,Consumer Cyclical,Stocks,NYQ,BML
+BL,"BlackLine, Inc.",72.12,Technology,Stocks,NMS,BML
+BME,Blackrock Health Sciences Trust,42.31,Financial Services,Stocks,NYQ,BML
+BNL,"Broadstone Net Lease, Inc.",21.9,Real Estate,Stocks,NYQ,BML
+BMI,"Badger Meter, Inc.",101.43,Industrials,Stocks,NYQ,BML
+BIL,SPDR Bloomberg 1-3 Month T-Bill,91.42,,ETF,PCX,BML
+PML,Pimco Municipal Income Fund II,13.5,Financial Services,Stocks,NYQ,BML
+BDL,"Flanigan's Enterprises, Inc.",29.07,Consumer Cyclical,Stocks,ASE,BML
+BCML,BayCom Corp,22.59,Financial Services,Stocks,NMS,BML
+EML,Eastern Company (The),23.8,Industrials,Stocks,NGM,BML
+BAL,iPathA Series B Bloomberg Cotto,70.04,,ETF,PCX,BML
+NML,Neuberger Berman MLP Income Fun,5.66,Financial Services,Stocks,NYQ,BML
+BSL,Blackstone GSO Senior Floating,15.83,Financial Services,Stocks,NYQ,BML
 BBL,BHP Group PlcSponsored,64.18,Basic Materials,Stocks,NYQ,BML
-BLL,Ball Corporation,93.68,Consumer Cyclical,Stocks,NYQ,BML
-ML,MoneyLion Inc.,2.48,Technology,Stocks,NYQ,BML
-BMA,Banco Macro S.A.,13.82,Financial Services,Stocks,NYQ,BML
-BL,"BlackLine, Inc.",88.3,Technology,Stocks,NMS,BML
-BIL,SPDR Bloomberg 1-3 Month T-Bill,91.41,,ETF,PCX,BML
-BME,Blackrock Health Sciences Trust,45.05,Financial Services,Stocks,NYQ,BML
-BNL,"Broadstone Net Lease, Inc.",22.21,Real Estate,Stocks,NYQ,BML
-BMI,"Badger Meter, Inc.",99.94,Industrials,Stocks,NYQ,BML
-BCML,BayCom Corp,21.9,Financial Services,Stocks,NMS,BML
-PML,Pimco Municipal Income Fund II,13.72,Financial Services,Stocks,NYQ,BML
-BAL,iPathA Series B Bloomberg Cotto,71.76,,ETF,PCX,BML
-BDL,"Flanigan's Enterprises, Inc.",28.64,Consumer Cyclical,Stocks,ASE,BML
-NML,Neuberger Berman MLP Income Fun,5.73,Financial Services,Stocks,NYQ,BML
-EML,Eastern Company (The),25.0,Industrials,Stocks,NGM,BML
-BUL,Pacer US Cash Cows Growth ETF,38.92,,ETF,PCX,BML
-BSL,Blackstone GSO Senior Floating,16.41,Financial Services,Stocks,NYQ,BML
-IBML,iShares iBonds Dec 2023 Term Mu,25.72,,ETF,BTS,BML
+BUL,Pacer US Cash Cows Growth ETF,37.83,,ETF,PCX,BML
 BSML,BSML,25.03,,Stocks,NMS,BML
-4694.T,BML INC,3650.0,Healthcare,Stocks,JPX,BML
+IBML,iShares iBonds Dec 2023 Term Mu,25.66,,ETF,BTS,BML
 BUL,BUL,24.21,,Stocks,PCX,BML
+4694.T,BML INC,3345.0,Healthcare,Stocks,JPX,BML

@@ -1,17 +1,17 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-03-05 07:23:00,BMO Capital,Market Perform,,down,BBW
-2014-03-31 08:00:00,Craig-Hallum,Buy,,init,BBW
-2014-06-05 06:15:35,PiperJaffray,Overweight,,init,BBW
-2014-08-04 05:51:10,BMO Capital,Outperform,Market Perform,up,BBW
-2015-01-28 09:52:46,Dougherty,Buy,,init,BBW
-2015-08-25 15:01:27,Sidoti & Co.,Buy,Neutral,up,BBW
-2015-12-14 08:51:55,Guggenheim,Neutral,,init,BBW
-2016-01-05 07:01:43,BMO Capital,Market Perform,Outperform,down,BBW
-2017-02-17 13:42:51,PiperJaffray,Neutral,Overweight,down,BBW
-2017-09-13 12:35:52,Jefferies,Buy,,init,BBW
-2019-06-05 12:09:26,Small Cap Consumer Research,Buy,,init,BBW
-2021-05-26 16:21:12,Small Cap Consumer Research,Buy,,main,BBW
-2021-07-27 13:18:41,Small Cap Consumer Research,Buy,,main,BBW
-2021-08-26 15:12:35,Small Cap Consumer Research,Buy,,main,BBW
-2021-12-01 16:49:05,Small Cap Consumer Research,Buy,,main,BBW
-2022-01-12 13:02:39,Small Cap Consumer Research,Buy,,main,BBW
+2012-03-05,BMO Capital,Market Perform,,down,BBW
+2014-03-31,Craig-Hallum,Buy,,init,BBW
+2014-06-05,PiperJaffray,Overweight,,init,BBW
+2014-08-04,BMO Capital,Outperform,Market Perform,up,BBW
+2015-01-28,Dougherty,Buy,,init,BBW
+2015-08-25,Sidoti & Co.,Buy,Neutral,up,BBW
+2015-12-14,Guggenheim,Neutral,,init,BBW
+2016-01-05,BMO Capital,Market Perform,Outperform,down,BBW
+2017-02-17,PiperJaffray,Neutral,Overweight,down,BBW
+2017-09-13,Jefferies,Buy,,init,BBW
+2019-06-05,Small Cap Consumer Research,Buy,,init,BBW
+2021-05-26,Small Cap Consumer Research,Buy,,main,BBW
+2021-07-27,Small Cap Consumer Research,Buy,,main,BBW
+2021-08-26,Small Cap Consumer Research,Buy,,main,BBW
+2021-12-01,Small Cap Consumer Research,Buy,,main,BBW
+2022-01-12,Small Cap Consumer Research,Buy,,main,BBW

@@ -58,9 +58,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-08-01,Vertical Research,Sell,,down,PCAR
 2014-10-03,Barclays,Equal-Weight,,main,PCAR
 2014-10-28,Barclays,Equal-Weight,,main,PCAR
-2014-10-29,Barclays,Equal-Weight,,main,PCAR
-2014-10-29,Deutsche Bank,Hold,,main,PCAR
 2014-10-29,Morgan Stanley,Overweight,,main,PCAR
+2014-10-29,Deutsche Bank,Hold,,main,PCAR
+2014-10-29,Barclays,Equal-Weight,,main,PCAR
 2014-10-30,Citigroup,Neutral,,main,PCAR
 2014-10-31,UBS,Buy,Neutral,up,PCAR
 2014-12-08,Barclays,Equal-Weight,,main,PCAR
@@ -72,8 +72,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-06-01,BMO Capital,Market Perform,Underperform,up,PCAR
 2015-07-06,Macquarie,Outperform,,init,PCAR
 2015-07-29,Deutsche Bank,Hold,,main,PCAR
-2015-07-29,Macquarie,Outperform,,main,PCAR
 2015-07-29,Susquehanna,Neutral,,main,PCAR
+2015-07-29,Macquarie,Outperform,,main,PCAR
 2015-07-30,Morgan Stanley,Equal-Weight,Overweight,down,PCAR
 2015-08-04,Evercore ISI Group,Hold,Buy,down,PCAR
 2015-08-26,PiperJaffray,Overweight,Neutral,up,PCAR
@@ -100,8 +100,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-09-30,CLSA,Outperform,,init,PCAR
 2016-10-12,Barclays,Underweight,,main,PCAR
 2016-12-09,JP Morgan,Neutral,Underweight,up,PCAR
-2017-01-03,Evercore ISI Group,Buy,Hold,up,PCAR
 2017-01-03,Baird,Neutral,Outperform,down,PCAR
+2017-01-03,Evercore ISI Group,Buy,Hold,up,PCAR
 2017-01-13,RBC Capital,Outperform,Sector Perform,up,PCAR
 2017-01-19,Longbow Research,Neutral,Underperform,up,PCAR
 2017-04-18,PiperJaffray,Neutral,Overweight,down,PCAR
@@ -113,13 +113,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-10-04,JP Morgan,Overweight,Neutral,up,PCAR
 2017-10-06,Wells Fargo,Market Perform,,main,PCAR
 2017-10-13,Citigroup,Buy,,main,PCAR
+2017-10-25,Deutsche Bank,Hold,,main,PCAR
 2017-10-25,Stifel Nicolaus,Hold,,main,PCAR
 2017-10-25,UBS,Buy,,main,PCAR
-2017-10-25,Baird,Neutral,,main,PCAR
 2017-10-25,Credit Suisse,Neutral,,main,PCAR
-2017-10-25,Seaport Global,Neutral,Buy,down,PCAR
 2017-10-25,Wells Fargo,Market Perform,,main,PCAR
-2017-10-25,Deutsche Bank,Hold,,main,PCAR
+2017-10-25,Seaport Global,Neutral,Buy,down,PCAR
+2017-10-25,Baird,Neutral,,main,PCAR
 2017-11-06,Argus,Buy,Hold,up,PCAR
 2017-11-29,Susquehanna,Neutral,,init,PCAR
 2017-11-29,Citigroup,Neutral,Buy,down,PCAR
@@ -131,20 +131,20 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-03-06,Longbow Research,Buy,Neutral,up,PCAR
 2018-03-19,Deutsche Bank,Sell,Hold,down,PCAR
 2018-04-10,JP Morgan,Neutral,Neutral,main,PCAR
-2018-04-25,BMO Capital,Outperform,Outperform,main,PCAR
 2018-04-25,Credit Suisse,Neutral,Neutral,main,PCAR
 2018-04-25,Baird,Neutral,Neutral,main,PCAR
 2018-04-25,Wells Fargo,Market Perform,Market Perform,main,PCAR
 2018-04-25,RBC Capital,Sector Perform,Outperform,down,PCAR
+2018-04-25,BMO Capital,Outperform,Outperform,main,PCAR
 2018-05-02,UBS,Neutral,Buy,down,PCAR
 2018-06-05,Macquarie,Outperform,Neutral,up,PCAR
 2018-06-29,Mizuho,Neutral,,init,PCAR
 2018-07-02,Baird,Underperform,Neutral,down,PCAR
 2018-07-18,BMO Capital,Market Perform,Outperform,down,PCAR
-2018-07-25,Baird,Underperform,Underperform,main,PCAR
-2018-07-25,Credit Suisse,Neutral,Neutral,main,PCAR
 2018-07-25,Morgan Stanley,Underweight,Underweight,main,PCAR
 2018-07-25,Citigroup,Neutral,Neutral,main,PCAR
+2018-07-25,Credit Suisse,Neutral,Neutral,main,PCAR
+2018-07-25,Baird,Underperform,Underperform,main,PCAR
 2018-10-18,Loop Capital,Hold,,init,PCAR
 2018-10-24,Credit Suisse,Neutral,Neutral,main,PCAR
 2018-10-24,Citigroup,Neutral,Neutral,main,PCAR
@@ -157,9 +157,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-05-06,Longbow Research,Neutral,Buy,down,PCAR
 2019-05-31,Evercore ISI Group,In-Line,Outperform,down,PCAR
 2019-07-02,Loop Capital,Sell,Hold,down,PCAR
-2019-07-24,Morgan Stanley,Underweight,,main,PCAR
-2019-07-24,Credit Suisse,Neutral,,main,PCAR
 2019-07-24,JP Morgan,Neutral,Underweight,up,PCAR
+2019-07-24,Credit Suisse,Neutral,,main,PCAR
+2019-07-24,Morgan Stanley,Underweight,,main,PCAR
 2019-10-09,OTR Global,Negative,Mixed,down,PCAR
 2019-10-10,JP Morgan,Neutral,,main,PCAR
 2019-10-23,Wells Fargo,Market Perform,,main,PCAR
@@ -169,9 +169,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-12-16,Morgan Stanley,Underweight,,main,PCAR
 2020-01-14,Wells Fargo,Overweight,Equal-Weight,up,PCAR
 2020-01-24,UBS,Neutral,,main,PCAR
+2020-01-29,Citigroup,Neutral,,main,PCAR
 2020-01-29,RBC Capital,Sector Perform,,main,PCAR
 2020-01-29,Credit Suisse,Neutral,,main,PCAR
-2020-01-29,Citigroup,Neutral,,main,PCAR
 2020-03-02,Vertical Research,Hold,Sell,up,PCAR
 2020-03-09,Cowen & Co.,Market Perform,Underperform,up,PCAR
 2020-03-17,Morgan Stanley,Underweight,,main,PCAR
@@ -197,10 +197,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-09-23,Bernstein,Market Perform,,init,PCAR
 2020-09-25,Wells Fargo,Overweight,,main,PCAR
 2020-10-12,Morgan Stanley,Underweight,,main,PCAR
-2020-10-21,Credit Suisse,Neutral,,main,PCAR
-2020-10-21,Morgan Stanley,Underweight,,main,PCAR
 2020-10-21,BMO Capital,Market Perform,,main,PCAR
+2020-10-21,Morgan Stanley,Underweight,,main,PCAR
 2020-10-21,Raymond James,Strong Buy,,main,PCAR
+2020-10-21,Credit Suisse,Neutral,,main,PCAR
 2020-10-22,Argus Research,Buy,Hold,up,PCAR
 2020-11-24,Deutsche Bank,Hold,Buy,down,PCAR
 2020-12-15,Morgan Stanley,Equal-Weight,Underweight,up,PCAR
@@ -223,3 +223,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-28,Credit Suisse,Outperform,Neutral,up,PCAR
 2021-12-09,Morgan Stanley,Equal-Weight,,main,PCAR
 2021-12-22,Bernstein,Outperform,Market Perform,up,PCAR
+2022-01-26,Morgan Stanley,Equal-Weight,,main,PCAR
+2022-01-26,Credit Suisse,Outperform,,main,PCAR
+2022-01-26,Raymond James,Strong Buy,,main,PCAR

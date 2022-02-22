@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-JD,"JD.com, Inc.",73.77,Consumer Cyclical,Stocks,NMS,JW
-W,Wayfair Inc.,142.57,Consumer Cyclical,Stocks,NYQ,JW
-JWN,"Nordstrom, Inc.",22.0,Consumer Cyclical,Stocks,NYQ,JW
-EW,Edwards Lifesciences Corporatio,112.18,Healthcare,Stocks,NYQ,JW
-WW,"WW International, Inc.",12.28,Consumer Cyclical,Stocks,NMS,JW
-J,Jacobs Engineering Group Inc.,127.67,Industrials,Stocks,NYQ,JW
-TW,Tradeweb Markets Inc.,83.98,Financial Services,Stocks,NMS,JW
-BW,"Babcock & Wilcox Enterprises, I",7.38,Industrials,Stocks,NYQ,JW
-LW,"Lamb Weston Holdings, Inc.",62.75,Consumer Defensive,Stocks,NYQ,JW
-JO,iPathA Series B Bloomberg Coffe,65.99,,ETF,PCX,JW
-PW,Power REIT (MD),63.44,Real Estate,Stocks,ASE,JW
-CW,Curtiss-Wright Corporation,131.8,Industrials,Stocks,NYQ,JW
-SJW,SJW Group,66.06,Utilities,Stocks,NYQ,JW
-KW,Kennedy-Wilson Holdings Inc.,22.66,Real Estate,Stocks,NYQ,JW
-JG,Aurora Mobile Limited,0.93,Technology,Stocks,NGM,JW
+JD,"JD.com, Inc.",71.86,Consumer Cyclical,Stocks,NMS,JW
+W,Wayfair Inc.,128.09,Consumer Cyclical,Stocks,NYQ,JW
+JWN,"Nordstrom, Inc.",21.61,Consumer Cyclical,Stocks,NYQ,JW
+WW,"WW International, Inc.",10.68,Consumer Cyclical,Stocks,NMS,JW
+EW,Edwards Lifesciences Corporatio,105.62,Healthcare,Stocks,NYQ,JW
+J,Jacobs Engineering Group Inc.,119.65,Industrials,Stocks,NYQ,JW
+BW,"Babcock & Wilcox Enterprises, I",7.44,Industrials,Stocks,NYQ,JW
+PW,Power REIT (MD),53.97,Real Estate,Stocks,ASE,JW
+LW,"Lamb Weston Holdings, Inc.",66.5,Consumer Defensive,Stocks,NYQ,JW
+JO,iPathA Series B Bloomberg Coffe,66.66,,ETF,PCX,JW
+TW,Tradeweb Markets Inc.,80.67,Financial Services,Stocks,NMS,JW
+SJW,SJW Group,65.22,Utilities,Stocks,NYQ,JW
+JG,Aurora Mobile Limited,1.07,Technology,Stocks,NGM,JW
+CW,Curtiss-Wright Corporation,136.6,Industrials,Stocks,NYQ,JW
+KW,Kennedy-Wilson Holdings Inc.,23.29,Real Estate,Stocks,NYQ,JW
+JT,Jianpu Technology Inc.,1.23,Financial Services,Stocks,NYQ,JW
+JP,Jupai Holdings Limited,0.71,Financial Services,Stocks,NYQ,JW
 JE,"Just Energy Group, Inc.",1.75,Utilities,Stocks,NYQ,JW
-JP,Jupai Holdings Limited,0.85,Financial Services,Stocks,NYQ,JW
-JT,Jianpu Technology Inc.,0.91,Financial Services,Stocks,NYQ,JW
-2126.HK,JW THERAP-B,9.05,Healthcare,Stocks,HKG,JW
-JWD.BK,JWD INFOLOGISTICS PUBLIC COMPAN,19.8,Industrials,Stocks,SET,JW
-234080.KS,JW LIFESCIENCE,13100.0,Healthcare,Stocks,KSC,JW
+2126.HK,JW THERAP-B,10.18,Healthcare,Stocks,HKG,JW
+JWD-R.BK,JWD INFOLOGISTICS PUBLIC COMPAN,18.3,Industrials,Stocks,SET,JW
+HW,HW,,,Stocks,NYQ,JW
+JWW.WA,JWWINVEST,1.83,Industrials,Stocks,WSE,JW
+JWD.BK,JWD INFOLOGISTICS PUBLIC COMPAN,18.3,Industrials,Stocks,SET,JW
+MW,MW,,Services,Stocks,NYQ,JW
 JWA,JWA,,,Stocks,NYQ,JW
-067290.KQ,JW SHINYAK,4280.0,Healthcare,Stocks,KOE,JW
-001067.KS,JWPHARMA(2PB),59400.0,Healthcare,Stocks,KSC,JW
-096760.KS,JW HOLDINGS,3260.0,Healthcare,Stocks,KSC,JW

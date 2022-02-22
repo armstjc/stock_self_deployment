@@ -1,18 +1,18 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2021-08-11 11:37:31,Baird,Outperform,Neutral,up,BBWI
-2021-08-12 09:28:54,Telsey Advisory Group,Outperform,,init,BBWI
-2021-08-18 12:45:06,UBS,Buy,,main,BBWI
-2021-08-19 12:07:00,Credit Suisse,Neutral,,main,BBWI
-2021-08-20 11:39:08,Morgan Stanley,Overweight,,main,BBWI
-2021-09-21 12:08:02,Argus Research,Buy,Hold,up,BBWI
-2021-09-27 10:08:58,Atlantic Equities,Overweight,Neutral,up,BBWI
-2021-11-11 10:52:06,Telsey Advisory Group,Outperform,,main,BBWI
-2021-11-18 10:38:22,Telsey Advisory Group,Outperform,,main,BBWI
-2021-11-18 12:26:15,Credit Suisse,Neutral,,main,BBWI
-2021-11-18 12:35:22,Wells Fargo,Overweight,,main,BBWI
-2021-11-18 14:02:13,Deutsche Bank,Buy,,main,BBWI
-2021-11-19 14:02:11,Citigroup,Buy,,main,BBWI
-2021-11-19 14:25:52,Morgan Stanley,Overweight,,main,BBWI
-2021-12-14 11:46:51,Goldman Sachs,Buy,,init,BBWI
-2022-01-20 14:17:57,Barclays,Equal-Weight,,main,BBWI
-2022-02-03 14:47:45,Credit Suisse,Neutral,,main,BBWI
+2021-08-11,Baird,Outperform,Neutral,up,BBWI
+2021-08-12,Telsey Advisory Group,Outperform,,init,BBWI
+2021-08-18,UBS,Buy,,main,BBWI
+2021-08-19,Credit Suisse,Neutral,,main,BBWI
+2021-08-20,Morgan Stanley,Overweight,,main,BBWI
+2021-09-21,Argus Research,Buy,Hold,up,BBWI
+2021-09-27,Atlantic Equities,Overweight,Neutral,up,BBWI
+2021-11-11,Telsey Advisory Group,Outperform,,main,BBWI
+2021-11-18,Credit Suisse,Neutral,,main,BBWI
+2021-11-18,Deutsche Bank,Buy,,main,BBWI
+2021-11-18,Telsey Advisory Group,Outperform,,main,BBWI
+2021-11-18,Wells Fargo,Overweight,,main,BBWI
+2021-11-19,Citigroup,Buy,,main,BBWI
+2021-11-19,Morgan Stanley,Overweight,,main,BBWI
+2021-12-14,Goldman Sachs,Buy,,init,BBWI
+2022-01-20,Barclays,Equal-Weight,,main,BBWI
+2022-02-03,Credit Suisse,Neutral,,main,BBWI

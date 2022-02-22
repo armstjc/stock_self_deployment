@@ -124,8 +124,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-10-06,Wells Fargo,Market Perform,,main,CMI
 2017-10-12,Longbow Research,Neutral,Buy,down,CMI
 2017-10-13,Citigroup,Neutral,,main,CMI
-2017-11-01,Jefferies,Hold,,main,CMI
 2017-11-01,Buckingham,Buy,,main,CMI
+2017-11-01,Jefferies,Hold,,main,CMI
 2017-11-06,Argus,Buy,,main,CMI
 2017-11-08,BMO Capital,Market Perform,,main,CMI
 2017-12-01,Goldman Sachs,Neutral,Buy,down,CMI
@@ -153,8 +153,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-06-29,Mizuho,Neutral,,init,CMI
 2018-07-10,Stifel Nicolaus,Buy,Hold,up,CMI
 2018-08-01,Stifel Nicolaus,Buy,Buy,main,CMI
-2018-08-01,Credit Suisse,Outperform,Outperform,main,CMI
 2018-08-01,Bank of America,Neutral,Neutral,main,CMI
+2018-08-01,Credit Suisse,Outperform,Outperform,main,CMI
 2018-08-24,JP Morgan,Underweight,Neutral,down,CMI
 2018-09-10,Stifel Nicolaus,Buy,Buy,main,CMI
 2018-10-04,PiperJaffray,Overweight,Neutral,up,CMI
@@ -186,8 +186,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-12-16,Morgan Stanley,Equal-Weight,,main,CMI
 2019-12-20,JP Morgan,Neutral,,main,CMI
 2020-01-14,Wells Fargo,Overweight,Equal-Weight,up,CMI
-2020-02-05,Credit Suisse,Outperform,,main,CMI
 2020-02-05,Morgan Stanley,Equal-Weight,,main,CMI
+2020-02-05,Credit Suisse,Outperform,,main,CMI
 2020-02-06,UBS,Neutral,Sell,up,CMI
 2020-02-07,Citigroup,Buy,,main,CMI
 2020-02-13,Goldman Sachs,Buy,Neutral,up,CMI
@@ -200,11 +200,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-13,Morgan Stanley,Equal-Weight,,main,CMI
 2020-04-15,Cowen & Co.,Market Perform,,main,CMI
 2020-04-20,Citigroup,Buy,,main,CMI
-2020-04-29,B of A Securities,Neutral,,main,CMI
 2020-04-29,Citigroup,Buy,,main,CMI
 2020-04-29,UBS,Neutral,,main,CMI
 2020-04-29,Credit Suisse,Outperform,,main,CMI
 2020-04-29,Morgan Stanley,Equal-Weight,,main,CMI
+2020-04-29,B of A Securities,Neutral,,main,CMI
 2020-04-30,BMO Capital,Market Perform,,main,CMI
 2020-05-07,Wells Fargo,Overweight,,main,CMI
 2020-05-12,Piper Sandler,Neutral,Overweight,down,CMI
@@ -242,3 +242,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-03,Credit Suisse,Outperform,,main,CMI
 2021-12-09,Morgan Stanley,Equal-Weight,,main,CMI
 2021-12-10,Deutsche Bank,Hold,,main,CMI
+2022-01-18,Morgan Stanley,Equal-Weight,,main,CMI
+2022-02-04,Credit Suisse,Outperform,,main,CMI

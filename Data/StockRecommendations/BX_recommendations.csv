@@ -106,8 +106,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-09-24,Bank of America,Buy,Buy,main,BX
 2018-09-24,JMP Securities,Market Outperform,Market Outperform,main,BX
 2018-09-24,Morgan Stanley,Overweight,Overweight,main,BX
-2018-09-25,Citigroup,Buy,Buy,main,BX
 2018-09-25,Argus,Buy,Buy,main,BX
+2018-09-25,Citigroup,Buy,Buy,main,BX
 2018-10-25,Citigroup,Buy,Buy,main,BX
 2018-11-14,Morgan Stanley,Overweight,Overweight,main,BX
 2018-11-16,Deutsche Bank,Hold,Hold,main,BX
@@ -127,8 +127,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-24,Barclays,Overweight,,main,BX
 2019-10-24,BMO Capital,Market Perform,,main,BX
 2019-10-25,Morgan Stanley,Overweight,,main,BX
-2019-12-19,Wells Fargo,Overweight,,main,BX
 2019-12-19,Deutsche Bank,Hold,,main,BX
+2019-12-19,Wells Fargo,Overweight,,main,BX
 2020-01-23,Morgan Stanley,Overweight,,main,BX
 2020-02-10,Argus Research,Buy,,main,BX
 2020-02-19,Morgan Stanley,Overweight,,main,BX
@@ -170,3 +170,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-15,Morgan Stanley,Overweight,,main,BX
 2021-10-26,Citigroup,Neutral,,main,BX
 2021-12-16,Wells Fargo,Equal-Weight,,init,BX
+2022-01-21,Morgan Stanley,Overweight,,main,BX
+2022-01-31,Morgan Stanley,Overweight,,main,BX

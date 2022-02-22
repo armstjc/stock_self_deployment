@@ -55,10 +55,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-01-26,KeyBanc,Overweight,Overweight,main,JD
 2018-03-05,JP Morgan,Overweight,Overweight,main,JD
 2018-05-01,Stifel Nicolaus,Buy,Buy,main,JD
-2018-08-17,Nomura,Buy,Buy,main,JD
-2018-08-17,KeyBanc,Overweight,Overweight,main,JD
 2018-08-17,UBS,Buy,Buy,main,JD
 2018-08-17,Stifel Nicolaus,Buy,Buy,main,JD
+2018-08-17,KeyBanc,Overweight,Overweight,main,JD
+2018-08-17,Nomura,Buy,Buy,main,JD
 2018-10-12,UBS,Buy,Buy,main,JD
 2018-10-29,KeyBanc,Sector Weight,Overweight,down,JD
 2018-11-20,Nomura,Neutral,Buy,down,JD
@@ -84,9 +84,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-12-09,HSBC,Buy,,init,JD
 2020-01-22,DZ Bank,Buy,,init,JD
 2020-02-24,Barclays,Overweight,,main,JD
-2020-03-03,JP Morgan,Overweight,,main,JD
 2020-03-03,China Renaissance,Buy,Hold,up,JD
 2020-03-03,Benchmark,Buy,,main,JD
+2020-03-03,JP Morgan,Overweight,,main,JD
 2020-03-17,Bernstein,Outperform,Market Perform,up,JD
 2020-04-15,Morgan Stanley,Overweight,Equal-Weight,up,JD
 2020-05-04,CFRA,Buy,,init,JD
@@ -110,3 +110,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-24,Benchmark,Buy,,main,JD
 2021-11-03,Barclays,Overweight,,init,JD
 2021-11-19,Mizuho,Buy,,main,JD
+2022-01-11,Atlantic Equities,Overweight,,init,JD

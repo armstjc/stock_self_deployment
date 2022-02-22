@@ -2,27 +2,27 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-02-08,UBS,,,main,NLY
 2012-02-09,Jefferies,Hold,,main,NLY
 2012-03-22,Sterne Agee,Underperform,,down,NLY
-2012-05-04,UBS,Neutral,,main,NLY
 2012-05-04,Citigroup,Neutral,,main,NLY
-2012-05-04,Deutsche Bank,Buy,,main,NLY
 2012-05-04,UBS,Neutral,,main,NLY
+2012-05-04,UBS,Neutral,,main,NLY
+2012-05-04,Deutsche Bank,Buy,,main,NLY
 2012-08-03,Wunderlich,Hold,Buy,down,NLY
 2012-08-06,FBR Capital,Underperform,,down,NLY
 2012-09-13,Macquarie,Underperform,Neutral,down,NLY
 2012-09-17,JP Morgan,Neutral,Overweight,down,NLY
-2012-10-17,Compass Point,Buy,Neutral,up,NLY
 2012-10-17,Wunderlich,Hold,,main,NLY
+2012-10-17,Compass Point,Buy,Neutral,up,NLY
 2012-10-18,Wells Fargo,Market Perform,Underperform,up,NLY
-2012-11-06,Citigroup,Neutral,,main,NLY
 2012-11-06,Credit Suisse,Neutral,,main,NLY
-2012-11-07,Jefferies,Hold,,main,NLY
+2012-11-06,Citigroup,Neutral,,main,NLY
 2012-11-07,Nomura,Neutral,,main,NLY
+2012-11-07,Jefferies,Hold,,main,NLY
 2012-11-08,Deutsche Bank,Buy,,main,NLY
 2012-11-16,Wells Fargo,Outperform,Market Perform,up,NLY
 2012-11-20,UBS,Neutral,,main,NLY
 2013-01-15,JP Morgan,Neutral,,main,NLY
-2013-02-07,Credit Suisse,Neutral,,main,NLY
 2013-02-07,Deutsche Bank,Hold,,main,NLY
+2013-02-07,Credit Suisse,Neutral,,main,NLY
 2013-02-08,Sterne Agee,Neutral,Underperform,up,NLY
 2013-02-11,Compass Point,Buy,,main,NLY
 2013-05-03,Evercore Partners,Equal-Weight,Overweight,down,NLY
@@ -30,22 +30,22 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-06-18,Portales Partners,Outperform,Sector Perform,up,NLY
 2013-07-11,Bank of America,Underperform,Neutral,down,NLY
 2013-07-16,JP Morgan,Neutral,,main,NLY
-2013-08-09,Nomura,Neutral,,main,NLY
 2013-08-09,Compass Point,Buy,,main,NLY
-2013-08-12,Wunderlich,Hold,,main,NLY
+2013-08-09,Nomura,Neutral,,main,NLY
 2013-08-12,Jefferies,Hold,,main,NLY
+2013-08-12,Wunderlich,Hold,,main,NLY
 2013-11-07,Deutsche Bank,Hold,,main,NLY
 2013-11-11,Wunderlich,Hold,,main,NLY
 2013-11-12,Citigroup,Neutral,,main,NLY
 2013-12-05,Goldman Sachs,Sell,,init,NLY
 2014-03-24,Compass Point,Neutral,Buy,down,NLY
 2014-04-16,JP Morgan,Neutral,,main,NLY
-2014-05-08,Bank of America,Underperform,,main,NLY
 2014-05-08,Portales Partners,Outperform,Sector Perform,up,NLY
+2014-05-08,Bank of America,Underperform,,main,NLY
 2014-06-12,JP Morgan,Neutral,,main,NLY
 2014-08-07,Sterne Agee,Buy,Neutral,up,NLY
-2014-08-08,Deutsche Bank,Hold,,main,NLY
 2014-08-08,Keefe Bruyette & Woods,Market Perform,,main,NLY
+2014-08-08,Deutsche Bank,Hold,,main,NLY
 2014-09-12,Citigroup,Neutral,,main,NLY
 2015-02-02,JP Morgan,Neutral,,main,NLY
 2015-02-26,Keefe Bruyette & Woods,Market Perform,,main,NLY
@@ -81,9 +81,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-03,RBC Capital,Outperform,,init,NLY
 2019-12-19,Wells Fargo,Equal-Weight,,init,NLY
 2020-02-26,UBS,Neutral,,main,NLY
-2020-04-29,JP Morgan,Overweight,,main,NLY
-2020-04-29,UBS,Neutral,,main,NLY
 2020-04-29,Barclays,Overweight,,main,NLY
+2020-04-29,UBS,Neutral,,main,NLY
+2020-04-29,JP Morgan,Overweight,,main,NLY
 2020-05-01,Wells Fargo,Equal-Weight,,main,NLY
 2020-05-21,B of A Securities,Buy,,main,NLY
 2020-07-07,Piper Sandler,Overweight,,init,NLY
@@ -97,3 +97,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-30,JMP Securities,Market Outperform,,main,NLY
 2021-10-06,Piper Sandler,Neutral,Overweight,down,NLY
 2021-10-29,Barclays,Equal-Weight,Overweight,down,NLY
+2022-02-08,JMP Securities,Market Perform,Market Outperform,down,NLY

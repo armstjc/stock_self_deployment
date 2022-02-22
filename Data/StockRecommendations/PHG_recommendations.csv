@@ -16,8 +16,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-09-29,ING,Buy,Hold,up,PHG
 2014-10-21,UBS,Neutral,Buy,down,PHG
 2015-01-27,Petercam,Hold,Buy,down,PHG
-2015-07-28,Societe Generale,Buy,Hold,up,PHG
 2015-07-28,Barclays,Equal-Weight,Underweight,up,PHG
+2015-07-28,Societe Generale,Buy,Hold,up,PHG
 2016-02-16,Jefferies,Underperform,Hold,down,PHG
 2016-03-21,Deutsche Bank,Buy,Hold,up,PHG
 2016-08-10,UBS,Buy,Neutral,up,PHG
@@ -30,3 +30,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-01-13,Bank of America,Buy,,main,PHG
 2021-03-18,JP Morgan,Overweight,Neutral,up,PHG
 2021-07-08,Deutsche Bank,Hold,Buy,down,PHG
+2022-01-12,Citigroup,Neutral,Buy,down,PHG
+2022-01-14,HSBC,Buy,Hold,up,PHG
+2022-01-20,Jefferies,Hold,Buy,down,PHG

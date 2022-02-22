@@ -26,8 +26,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-09-06,Deutsche Bank,Hold,,main,FUL
 2017-09-15,Baird,Neutral,,init,FUL
 2017-10-31,Citigroup,Neutral,Buy,down,FUL
-2018-01-25,Citigroup,Neutral,Neutral,main,FUL
 2018-01-25,Seaport Global,Buy,Neutral,up,FUL
+2018-01-25,Citigroup,Neutral,Neutral,main,FUL
 2018-02-06,Longbow Research,Buy,Neutral,up,FUL
 2018-02-09,JP Morgan,Overweight,Neutral,up,FUL
 2018-07-12,Berenberg,Buy,,init,FUL
@@ -50,3 +50,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-01-04,Baird,Outperform,Neutral,up,FUL
 2021-06-25,Citigroup,Neutral,Buy,down,FUL
 2022-01-04,Baird,Neutral,Outperform,down,FUL
+2022-01-21,JP Morgan,Neutral,Overweight,down,FUL

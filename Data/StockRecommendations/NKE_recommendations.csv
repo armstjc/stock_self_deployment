@@ -150,16 +150,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-06-01,Morgan Stanley,Equal-Weight,Overweight,down,NKE
 2016-06-29,Credit Suisse,Outperform,,main,NKE
 2016-06-29,Citigroup,Buy,,main,NKE
-2016-06-29,JP Morgan,Overweight,,main,NKE
+2016-06-29,UBS,Buy,,main,NKE
 2016-06-29,Brean Capital,Buy,,main,NKE
-2016-06-29,Morgan Stanley,Equal-Weight,,main,NKE
+2016-06-29,JP Morgan,Overweight,,main,NKE
 2016-06-29,Canaccord Genuity,Hold,,main,NKE
 2016-06-29,Goldman Sachs,Buy,,main,NKE
 2016-06-29,Stifel Nicolaus,Buy,,main,NKE
 2016-06-29,Baird,Outperform,,main,NKE
-2016-06-29,UBS,Buy,,main,NKE
-2016-06-29,DA Davidson,Buy,,main,NKE
+2016-06-29,Morgan Stanley,Equal-Weight,,main,NKE
 2016-06-29,Jefferies,Buy,,main,NKE
+2016-06-29,DA Davidson,Buy,,main,NKE
 2016-08-26,B. Riley FBR,Neutral,Buy,down,NKE
 2016-09-08,PiperJaffray,Neutral,Overweight,down,NKE
 2016-09-26,Jefferies,Buy,,main,NKE
@@ -173,15 +173,15 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-09-28,FBR Capital,Market Perform,,main,NKE
 2016-09-28,Telsey Advisory Group,Outperform,,main,NKE
 2016-09-28,Barclays,Overweight,,main,NKE
-2016-09-28,Canaccord Genuity,Hold,,main,NKE
 2016-09-28,Baird,Outperform,,main,NKE
 2016-09-28,Stifel Nicolaus,Buy,,main,NKE
 2016-09-28,JP Morgan,Overweight,,main,NKE
 2016-09-28,Goldman Sachs,Buy,,main,NKE
 2016-09-28,Wells Fargo,Market Perform,,main,NKE
-2016-09-28,B. Riley FBR,Neutral,,main,NKE
 2016-09-28,Bank of America,Neutral,,main,NKE
 2016-09-28,UBS,Buy,,main,NKE
+2016-09-28,B. Riley FBR,Neutral,,main,NKE
+2016-09-28,Canaccord Genuity,Hold,,main,NKE
 2016-09-30,Guggenheim,Buy,,init,NKE
 2016-10-11,Susquehanna,Positive,,init,NKE
 2016-10-25,Oppenheimer,Perform,,init,NKE
@@ -189,8 +189,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-11-01,Wedbush,Neutral,,init,NKE
 2016-12-05,HSBC,Buy,Hold,up,NKE
 2016-12-06,Cowen & Co.,Market Perform,Outperform,down,NKE
-2017-01-19,CLSA,Underperform,,init,NKE
 2017-01-19,Atlantic Equities,Overweight,,init,NKE
+2017-01-19,CLSA,Underperform,,init,NKE
 2017-04-04,Argus,Hold,Buy,down,NKE
 2017-06-16,JP Morgan,Neutral,Overweight,down,NKE
 2017-06-30,Susquehanna,Positive,,main,NKE
@@ -207,9 +207,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-09-19,Wells Fargo,Market Perform,,main,NKE
 2017-09-19,Susquehanna,Neutral,Positive,down,NKE
 2017-09-27,Wells Fargo,Market Perform,,main,NKE
-2017-09-27,Nomura,Buy,,main,NKE
 2017-09-27,Canaccord Genuity,Hold,,main,NKE
 2017-09-27,Morgan Stanley,Overweight,,main,NKE
+2017-09-27,Nomura,Buy,,main,NKE
 2017-10-05,Pivotal Research,Hold,,init,NKE
 2017-10-19,Goldman Sachs,Neutral,Buy,down,NKE
 2017-11-28,HSBC,Hold,Buy,down,NKE
@@ -229,13 +229,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-06-22,Buckingham,Neutral,Buy,down,NKE
 2018-06-25,Goldman Sachs,Neutral,,init,NKE
 2018-06-29,Deutsche Bank,Buy,Buy,main,NKE
-2018-06-29,Wedbush,Outperform,Outperform,main,NKE
+2018-06-29,Stifel Nicolaus,Buy,Buy,main,NKE
 2018-06-29,Cowen & Co.,Market Perform,Market Perform,main,NKE
-2018-06-29,Canaccord Genuity,Hold,Hold,main,NKE
+2018-06-29,Wedbush,Outperform,Outperform,main,NKE
 2018-06-29,Nomura,Buy,Buy,main,NKE
 2018-06-29,Citigroup,Buy,Buy,main,NKE
 2018-06-29,B. Riley FBR,Neutral,Neutral,main,NKE
-2018-06-29,Stifel Nicolaus,Buy,Buy,main,NKE
+2018-06-29,Canaccord Genuity,Hold,Hold,main,NKE
 2018-06-29,Credit Suisse,Outperform,Outperform,main,NKE
 2018-06-29,Jefferies,Hold,Hold,main,NKE
 2018-08-02,Morgan Stanley,Overweight,,init,NKE
@@ -245,28 +245,28 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-09-11,Canaccord Genuity,Buy,Hold,up,NKE
 2018-09-19,B. Riley FBR,Neutral,Neutral,main,NKE
 2018-09-24,Stifel Nicolaus,Buy,Buy,main,NKE
+2018-09-26,Deutsche Bank,Buy,Buy,main,NKE
 2018-09-26,Morgan Stanley,Overweight,Overweight,main,NKE
 2018-09-26,Citigroup,Buy,Buy,main,NKE
-2018-09-26,Macquarie,Outperform,Outperform,main,NKE
 2018-09-26,Jefferies,Hold,Hold,main,NKE
-2018-09-26,Deutsche Bank,Buy,Buy,main,NKE
 2018-09-26,Bank of America,Underperform,Underperform,main,NKE
+2018-09-26,Macquarie,Outperform,Outperform,main,NKE
 2018-10-03,HSBC,Hold,Buy,down,NKE
 2018-10-18,Oppenheimer,Outperform,Perform,up,NKE
-2018-12-21,JP Morgan,Overweight,Neutral,up,NKE
 2018-12-21,Wells Fargo,Market Perform,Market Perform,main,NKE
 2018-12-21,Baird,Outperform,Outperform,main,NKE
 2018-12-21,UBS,Neutral,Neutral,main,NKE
 2018-12-21,Pivotal Research,Buy,Hold,up,NKE
-2019-01-09,Baird,Neutral,Outperform,down,NKE
+2018-12-21,JP Morgan,Overweight,Neutral,up,NKE
 2019-01-09,HSBC,Buy,Hold,up,NKE
+2019-01-09,Baird,Neutral,Outperform,down,NKE
 2019-01-10,Needham,Buy,Hold,up,NKE
 2019-01-22,Cowen & Co.,Outperform,Market Perform,up,NKE
 2019-03-14,Wedbush,Outperform,Outperform,main,NKE
 2019-03-18,Credit Suisse,Outperform,Outperform,main,NKE
+2019-03-22,Nomura,Buy,Buy,main,NKE
 2019-03-22,Wells Fargo,Market Perform,Market Perform,main,NKE
 2019-03-22,UBS,Neutral,Neutral,main,NKE
-2019-03-22,Nomura,Buy,Buy,main,NKE
 2019-06-17,UBS,Neutral,,main,NKE
 2019-07-09,JP Morgan,Overweight,,main,NKE
 2019-08-06,Morgan Stanley,Overweight,,main,NKE
@@ -277,14 +277,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-09-25,Piper Jaffray,Overweight,,main,NKE
 2019-09-25,UBS,Neutral,,main,NKE
 2019-09-25,Wedbush,Outperform,,reit,NKE
+2019-09-25,Credit Suisse,Outperform,,main,NKE
 2019-09-25,Needham,Buy,,main,NKE
+2019-09-25,Deutsche Bank,Buy,,main,NKE
+2019-09-25,Guggenheim,Buy,,main,NKE
 2019-09-25,Wells Fargo,Market Perform,,main,NKE
 2019-09-25,Evercore ISI Group,Outperform,,main,NKE
-2019-09-25,Guggenheim,Buy,,main,NKE
-2019-09-25,Credit Suisse,Outperform,,main,NKE
-2019-09-25,Deutsche Bank,Buy,,main,NKE
-2019-09-26,Citigroup,Buy,,main,NKE
 2019-09-26,Argus Research,Buy,,main,NKE
+2019-09-26,Citigroup,Buy,,main,NKE
 2019-10-04,Exane BNP Paribas,Underperform,,init,NKE
 2019-10-14,Bank of America,Neutral,Underperform,up,NKE
 2019-10-18,Credit Suisse,Outperform,,main,NKE
@@ -297,13 +297,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-12-17,Needham,Buy,,main,NKE
 2019-12-20,Susquehanna,Positive,,main,NKE
 2019-12-20,Citigroup,Buy,,main,NKE
-2019-12-20,UBS,Neutral,,main,NKE
-2019-12-20,Wells Fargo,Equal-Weight,,main,NKE
 2019-12-20,Raymond James,Outperform,,main,NKE
+2019-12-20,UBS,Neutral,,main,NKE
 2019-12-20,JP Morgan,Overweight,,main,NKE
 2019-12-20,Baird,Neutral,,main,NKE
 2019-12-20,Morgan Stanley,Overweight,,main,NKE
 2019-12-20,Deutsche Bank,Buy,,main,NKE
+2019-12-20,Wells Fargo,Equal-Weight,,main,NKE
 2019-12-27,Consumer Edge Research,Overweight,,init,NKE
 2020-02-03,JP Morgan,Overweight,,main,NKE
 2020-02-03,UBS,Buy,Neutral,up,NKE
@@ -316,53 +316,53 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-03-20,B of A Securities,Buy,Neutral,up,NKE
 2020-03-23,Needham,Buy,,main,NKE
 2020-03-24,Morgan Stanley,Overweight,,main,NKE
+2020-03-25,Deutsche Bank,Hold,,main,NKE
+2020-03-25,Wedbush,Outperform,,reit,NKE
 2020-03-25,Raymond James,Outperform,,main,NKE
 2020-03-25,Credit Suisse,Outperform,,main,NKE
 2020-03-25,UBS,Buy,,main,NKE
-2020-03-25,Wedbush,Outperform,,reit,NKE
-2020-03-25,Deutsche Bank,Hold,,main,NKE
 2020-03-26,Morgan Stanley,Overweight,,main,NKE
 2020-03-30,Wells Fargo,Overweight,Equal-Weight,up,NKE
 2020-04-29,BTIG,Buy,,init,NKE
 2020-06-01,Cowen & Co.,Outperform,,main,NKE
 2020-06-17,Raymond James,Outperform,,main,NKE
 2020-06-18,Baird,Neutral,,main,NKE
-2020-06-22,JP Morgan,Overweight,,main,NKE
-2020-06-22,Piper Sandler,Overweight,,main,NKE
 2020-06-22,UBS,Buy,,main,NKE
+2020-06-22,Piper Sandler,Overweight,,main,NKE
+2020-06-22,JP Morgan,Overweight,,main,NKE
 2020-06-23,Needham,Buy,,main,NKE
 2020-06-23,Susquehanna,Positive,,main,NKE
 2020-06-24,Morgan Stanley,Overweight,,main,NKE
-2020-06-26,Wells Fargo,Overweight,,main,NKE
-2020-06-26,UBS,Buy,,main,NKE
 2020-06-26,Credit Suisse,Outperform,,main,NKE
 2020-06-26,Jefferies,Hold,,main,NKE
+2020-06-26,Wells Fargo,Overweight,,main,NKE
+2020-06-26,UBS,Buy,,main,NKE
 2020-07-01,Morgan Stanley,Overweight,,main,NKE
 2020-09-10,Wedbush,Outperform,,main,NKE
-2020-09-15,Deutsche Bank,Hold,,main,NKE
 2020-09-15,BTIG,Buy,,main,NKE
+2020-09-15,Deutsche Bank,Hold,,main,NKE
+2020-09-18,Needham,Buy,,main,NKE
 2020-09-18,Barclays,Overweight,,main,NKE
 2020-09-18,Morgan Stanley,Overweight,,main,NKE
 2020-09-18,Raymond James,Outperform,,main,NKE
-2020-09-18,Needham,Buy,,main,NKE
 2020-09-22,Baird,Neutral,,main,NKE
 2020-09-23,Needham,Buy,,main,NKE
 2020-09-23,Deutsche Bank,Buy,Hold,up,NKE
-2020-09-23,Wells Fargo,Overweight,,main,NKE
-2020-09-23,Morgan Stanley,Overweight,,main,NKE
 2020-09-23,Raymond James,Outperform,,main,NKE
-2020-09-23,Citigroup,Buy,,main,NKE
-2020-09-23,Piper Sandler,Overweight,,main,NKE
+2020-09-23,Credit Suisse,Outperform,,main,NKE
+2020-09-23,Wells Fargo,Overweight,,main,NKE
 2020-09-23,B of A Securities,Buy,,main,NKE
+2020-09-23,Citigroup,Buy,,main,NKE
 2020-09-23,BTIG,Buy,,main,NKE
 2020-09-23,Stifel,Buy,,main,NKE
-2020-09-23,Credit Suisse,Outperform,,main,NKE
+2020-09-23,Piper Sandler,Overweight,,main,NKE
+2020-09-23,Morgan Stanley,Overweight,,main,NKE
 2020-11-12,RBC Capital,Outperform,,init,NKE
 2020-12-08,Morgan Stanley,Overweight,,main,NKE
 2020-12-11,KeyBanc,Overweight,,init,NKE
 2020-12-16,Credit Suisse,Outperform,,main,NKE
-2020-12-21,Needham,Buy,,main,NKE
 2020-12-21,Raymond James,Outperform,,main,NKE
+2020-12-21,Needham,Buy,,main,NKE
 2021-01-25,KeyBanc,Overweight,,main,NKE
 2021-02-25,HSBC,Buy,Hold,up,NKE
 2021-03-11,Morgan Stanley,Overweight,,main,NKE
@@ -385,22 +385,22 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-06-25,Telsey Advisory Group,Outperform,,main,NKE
 2021-06-25,Pivotal Research,Buy,,main,NKE
 2021-06-25,Piper Sandler,Overweight,,main,NKE
-2021-06-25,BMO Capital,Outperform,,main,NKE
 2021-06-25,RBC Capital,Outperform,,main,NKE
 2021-06-25,UBS,Buy,,main,NKE
-2021-06-25,Deutsche Bank,Buy,,main,NKE
+2021-06-25,BMO Capital,Outperform,,main,NKE
+2021-06-25,Baird,Outperform,,main,NKE
 2021-06-25,Cowen & Co.,Outperform,,main,NKE
 2021-06-25,Stifel,Buy,,main,NKE
 2021-06-25,BTIG,Buy,,main,NKE
 2021-06-25,Jefferies,Buy,,main,NKE
 2021-06-25,Morgan Stanley,Overweight,,main,NKE
-2021-06-25,Baird,Outperform,,main,NKE
+2021-06-25,Deutsche Bank,Buy,,main,NKE
 2021-07-14,Argus Research,Buy,,main,NKE
 2021-09-07,Morgan Stanley,Overweight,,main,NKE
 2021-09-13,BTIG,Neutral,Buy,down,NKE
 2021-09-20,Deutsche Bank,Buy,,main,NKE
-2021-09-24,Telsey Advisory Group,Outperform,,main,NKE
 2021-09-24,Morgan Stanley,Overweight,,main,NKE
+2021-09-24,Telsey Advisory Group,Outperform,,main,NKE
 2021-09-24,B of A Securities,Neutral,,main,NKE
 2021-09-24,Deutsche Bank,Buy,,main,NKE
 2021-09-27,Barclays,Overweight,,main,NKE
@@ -413,3 +413,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-21,Morgan Stanley,Overweight,,main,NKE
 2021-12-21,Truist Securities,Buy,,main,NKE
 2021-12-22,Barclays,Overweight,,main,NKE
+2022-01-10,HSBC,Hold,Buy,down,NKE
+2022-01-18,Seaport Global,Buy,,init,NKE
+2022-01-25,Wells Fargo,Overweight,Equal-Weight,up,NKE

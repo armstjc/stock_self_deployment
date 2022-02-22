@@ -14,8 +14,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-29,Morgan Stanley,Overweight,Equal-Weight,up,CARR
 2021-03-31,RBC Capital,Outperform,Sector Perform,up,CARR
 2021-04-19,B of A Securities,Buy,,init,CARR
-2021-04-30,Morgan Stanley,Overweight,,main,CARR
 2021-04-30,Atlantic Equities,Neutral,Overweight,down,CARR
+2021-04-30,Morgan Stanley,Overweight,,main,CARR
 2021-06-07,RBC Capital,Outperform,,main,CARR
 2021-06-08,Keybanc,Overweight,,main,CARR
 2021-06-23,Deutsche Bank,Buy,,init,CARR
@@ -34,3 +34,7 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-17,Mizuho,Neutral,,init,CARR
 2022-01-03,Vertical Research,Hold,Buy,down,CARR
 2022-01-04,Barclays,Overweight,,main,CARR
+2022-01-14,Morgan Stanley,Overweight,,main,CARR
+2022-02-09,Mizuho,Neutral,,main,CARR
+2022-02-09,Wells Fargo,Equal-Weight,,main,CARR
+2022-02-09,Credit Suisse,Neutral,,main,CARR

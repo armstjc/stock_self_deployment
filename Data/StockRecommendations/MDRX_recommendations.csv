@@ -4,16 +4,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-03-21,JP Morgan,Neutral,,down,MDRX
 2012-03-29,Auriga,Hold,,down,MDRX
 2012-04-27,Goldman Sachs,Neutral,,main,MDRX
-2012-04-27,Citigroup,Neutral,,down,MDRX
-2012-04-27,Oppenheimer,Perform,,down,MDRX
-2012-04-27,Credit Suisse,Neutral,,down,MDRX
-2012-04-27,PiperJaffray,Neutral,,down,MDRX
 2012-04-27,Jefferies,Hold,,down,MDRX
+2012-04-27,PiperJaffray,Neutral,,down,MDRX
 2012-04-27,UBS,Neutral,,down,MDRX
+2012-04-27,Oppenheimer,Perform,,down,MDRX
+2012-04-27,Citigroup,Neutral,,down,MDRX
+2012-04-27,Credit Suisse,Neutral,,down,MDRX
 2012-07-12,ISI Group,Market Weight,,init,MDRX
 2012-07-18,Citigroup,Neutral,,main,MDRX
-2012-08-09,PiperJaffray,Neutral,,main,MDRX
 2012-08-09,JP Morgan,Overweight,Neutral,up,MDRX
+2012-08-09,PiperJaffray,Neutral,,main,MDRX
 2012-10-01,Cowen & Co.,Outperform,Neutral,up,MDRX
 2012-10-01,Sterne Agee,Buy,,main,MDRX
 2012-10-01,ISI GRoup,Overweight,Market Weight,up,MDRX
@@ -50,26 +50,26 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-03-14,SunTrust Robinson Humphrey,Buy,,init,MDRX
 2014-04-15,Raymond James,Outperform,,main,MDRX
 2014-05-09,Barclays,Equal-Weight,Equal-Weight,main,MDRX
-2014-05-09,PiperJaffray,Underweight,Underweight,main,MDRX
+2014-05-09,Oppenheimer,Market Perform,Market Perform,main,MDRX
 2014-05-09,B. Riley FBR,Neutral,Neutral,main,MDRX
 2014-05-09,FBR Capital,Market Perform,Market Perform,main,MDRX
-2014-05-09,Wells Fargo,Market Perform,Market Perform,main,MDRX
+2014-05-09,PiperJaffray,Underweight,Underweight,main,MDRX
 2014-05-09,JP Morgan,Overweight,Overweight,main,MDRX
 2014-05-09,Baird,Outperform,Outperform,main,MDRX
 2014-05-09,Leerink Swann,Outperform,,main,MDRX
 2014-05-09,Citigroup,Hold,,main,MDRX
-2014-05-09,Oppenheimer,Market Perform,Market Perform,main,MDRX
-2014-05-09,SunTrust Robinson Humphrey,Buy,Buy,main,MDRX
+2014-05-09,Wells Fargo,Market Perform,Market Perform,main,MDRX
 2014-05-09,ISI Group,Buy,Neutral,up,MDRX
+2014-05-09,SunTrust Robinson Humphrey,Buy,Buy,main,MDRX
 2014-06-27,Topeka,Hold,,init,MDRX
 2014-07-10,ISI Group,Strong Buy,Buy,up,MDRX
 2014-07-23,Jefferies,Buy,Hold,up,MDRX
-2014-08-08,Raymond James,Outperform,,main,MDRX
 2014-08-08,JP Morgan,Overweight,,main,MDRX
+2014-08-08,Raymond James,Outperform,,main,MDRX
 2014-08-19,Credit Suisse,Outperform,,main,MDRX
 2014-11-07,Citigroup,Neutral,,main,MDRX
-2014-11-07,Credit Suisse,Outperform,,main,MDRX
 2014-11-07,Evercore ISI Group,Hold,Buy,down,MDRX
+2014-11-07,Credit Suisse,Outperform,,main,MDRX
 2014-11-20,RBC Capital,Sector Perform,Outperform,down,MDRX
 2015-01-08,JP Morgan,Overweight,,main,MDRX
 2015-02-27,Barclays,Equal-Weight,,main,MDRX
@@ -80,8 +80,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-06-18,Oppenheimer,Perform,,init,MDRX
 2015-08-24,Argus,Buy,Hold,up,MDRX
 2015-09-16,Canaccord Genuity,Buy,,init,MDRX
-2015-11-06,Deutsche Bank,Buy,,main,MDRX
 2015-11-06,Leerink Swann,Market Perform,,main,MDRX
+2015-11-06,Deutsche Bank,Buy,,main,MDRX
 2016-01-04,Raymond James,Market Perform,Outperform,down,MDRX
 2016-01-07,RBC Capital,Outperform,Sector Perform,up,MDRX
 2016-02-19,Deutsche Bank,Buy,,main,MDRX
@@ -112,11 +112,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-01-19,Evercore ISI Group,Outperform,,init,MDRX
 2018-05-04,Bank of America,Buy,Buy,main,MDRX
 2018-08-03,Canaccord Genuity,Buy,Buy,main,MDRX
-2018-11-02,JP Morgan,Neutral,Overweight,down,MDRX
 2018-11-02,Cantor Fitzgerald,Neutral,Overweight,down,MDRX
+2018-11-02,JP Morgan,Neutral,Overweight,down,MDRX
+2018-11-02,Baird,Outperform,Outperform,main,MDRX
 2018-11-02,Citigroup,Buy,Buy,main,MDRX
 2018-11-02,Bank of America,Buy,Buy,main,MDRX
-2018-11-02,Baird,Outperform,Outperform,main,MDRX
 2018-11-14,Argus,Hold,Buy,down,MDRX
 2019-01-18,KeyBanc,Overweight,Sector Weight,up,MDRX
 2019-02-22,KeyBanc,Sector Weight,Overweight,down,MDRX
@@ -125,8 +125,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-09-26,Deutsche Bank,Hold,,init,MDRX
 2019-11-26,UBS,Neutral,,init,MDRX
 2020-03-03,Cantor Fitzgerald,Neutral,,reit,MDRX
-2020-03-03,CFRA,Strong Sell,,main,MDRX
 2020-03-03,Baird,Outperform,,main,MDRX
+2020-03-03,CFRA,Strong Sell,,main,MDRX
 2020-03-04,Deutsche Bank,Hold,,main,MDRX
 2020-03-05,SunTrust Robinson Humphrey,Hold,,main,MDRX
 2020-04-21,RBC Capital,Outperform,,init,MDRX
@@ -152,3 +152,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-06,RBC Capital,Outperform,,main,MDRX
 2021-08-06,SVB Leerink,Market Perform,,main,MDRX
 2021-11-23,Deutsche Bank,Hold,,main,MDRX
+2022-01-25,SVB Leerink,Outperform,Market Perform,up,MDRX

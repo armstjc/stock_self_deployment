@@ -85,12 +85,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-06-03,Mizuho,Buy,,main,PNM
 2020-06-05,UBS,Buy,,main,PNM
 2020-10-14,Citigroup,Buy,,init,PNM
-2020-10-22,Barclays,Equal-Weight,Overweight,down,PNM
 2020-10-22,Wells Fargo,Equal-Weight,Overweight,down,PNM
 2020-10-22,Mizuho,Neutral,Buy,down,PNM
+2020-10-22,Barclays,Equal-Weight,Overweight,down,PNM
 2020-11-18,Barclays,Underweight,Equal-Weight,down,PNM
 2021-01-06,Wells Fargo,Underweight,Equal-Weight,down,PNM
 2021-03-03,Citigroup,Neutral,Buy,down,PNM
 2021-12-03,Wells Fargo,Equal-Weight,Underweight,up,PNM
 2021-12-10,Barclays,Underweight,,main,PNM
 2021-12-13,Wells Fargo,Overweight,Equal-Weight,up,PNM
+2022-02-09,Mizuho,Neutral,,main,PNM

@@ -22,8 +22,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-05-17,B. Riley FBR,Buy,,init,CLVT
 2019-07-18,Citigroup,Neutral,,init,CLVT
 2019-11-12,Stifel Nicolaus,Hold,,init,CLVT
-2019-12-11,RBC Capital,Outperform,,init,CLVT
 2019-12-11,Goldman Sachs,Neutral,,init,CLVT
+2019-12-11,RBC Capital,Outperform,,init,CLVT
 2020-01-21,Stifel Nicolaus,Buy,Hold,up,CLVT
 2020-01-31,B. Riley,Neutral,Buy,down,CLVT
 2020-04-03,Citigroup,Buy,Neutral,up,CLVT
@@ -46,3 +46,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-07-30,Morgan Stanley,Overweight,,main,CLVT
 2021-09-30,Morgan Stanley,Overweight,,main,CLVT
 2021-12-02,Morgan Stanley,Overweight,,main,CLVT
+2022-02-03,Barclays,Equal-Weight,Overweight,down,CLVT
+2022-02-07,Morgan Stanley,Overweight,,main,CLVT

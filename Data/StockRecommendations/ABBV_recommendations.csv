@@ -77,8 +77,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-10-30,Leerink Swann,Outperform,,main,ABBV
 2017-11-16,BMO Capital,Market Perform,,main,ABBV
 2018-01-29,Leerink Swann,Market Perform,Outperform,down,ABBV
-2018-01-30,BMO Capital,Underperform,Market Perform,down,ABBV
 2018-01-30,Morgan Stanley,Equal-Weight,Equal-Weight,main,ABBV
+2018-01-30,BMO Capital,Underperform,Market Perform,down,ABBV
 2018-02-02,Argus,Buy,,main,ABBV
 2018-03-23,BMO Capital,Underperform,Underperform,main,ABBV
 2018-04-05,Barclays,Equal-Weight,Equal-Weight,main,ABBV
@@ -118,8 +118,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-12,JP Morgan,Overweight,Neutral,up,ABBV
 2020-06-02,Argus Research,Buy,Hold,up,ABBV
 2020-06-23,Atlantic Equities,Overweight,Neutral,up,ABBV
-2020-08-03,RBC Capital,Outperform,,main,ABBV
 2020-08-03,Mizuho,Buy,,main,ABBV
+2020-08-03,RBC Capital,Outperform,,main,ABBV
 2020-08-20,Morgan Stanley,Overweight,,main,ABBV
 2020-09-02,Citigroup,Buy,,main,ABBV
 2020-09-29,Berenberg,Hold,,init,ABBV
@@ -144,3 +144,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-09,Wells Fargo,Overweight,,init,ABBV
 2021-12-17,Goldman Sachs,Neutral,,init,ABBV
 2022-01-05,Mizuho,Buy,,main,ABBV
+2022-01-12,BMO Capital,Outperform,,main,ABBV
+2022-01-20,Barclays,Equal-Weight,,main,ABBV
+2022-01-24,Morgan Stanley,Overweight,,main,ABBV
+2022-02-03,Barclays,Equal-Weight,,main,ABBV
+2022-02-04,Mizuho,Buy,,main,ABBV

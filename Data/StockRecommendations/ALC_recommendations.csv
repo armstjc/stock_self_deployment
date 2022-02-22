@@ -22,8 +22,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-08,SVB Leerink,Market Perform,,main,ALC
 2020-04-09,Wells Fargo,Overweight,,main,ALC
 2020-05-14,SVB Leerink,Market Perform,,main,ALC
-2020-05-14,Wells Fargo,Overweight,,main,ALC
 2020-05-14,Citigroup,Neutral,,main,ALC
+2020-05-14,Wells Fargo,Overweight,,main,ALC
 2020-07-06,KeyBanc,Sector Weight,,init,ALC
 2020-08-20,SVB Leerink,Market Perform,,main,ALC
 2020-08-27,Societe Generale,Sell,Hold,down,ALC
@@ -36,13 +36,15 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-22,BTIG,Buy,Neutral,up,ALC
 2021-03-25,Jefferies,Buy,,main,ALC
 2021-05-06,Citigroup,Neutral,Sell,up,ALC
-2021-08-19,Wells Fargo,Overweight,,main,ALC
-2021-08-19,Credit Suisse,Outperform,,main,ALC
-2021-08-19,Morgan Stanley,Overweight,,main,ALC
-2021-08-19,BTIG,Buy,,main,ALC
 2021-08-19,SVB Leerink,Market Perform,,main,ALC
+2021-08-19,Wells Fargo,Overweight,,main,ALC
+2021-08-19,BTIG,Buy,,main,ALC
+2021-08-19,Morgan Stanley,Overweight,,main,ALC
+2021-08-19,Credit Suisse,Outperform,,main,ALC
 2021-09-13,Wells Fargo,Overweight,,main,ALC
 2021-10-01,Oppenheimer,Perform,,init,ALC
 2021-11-11,Morgan Stanley,Overweight,,main,ALC
 2021-11-11,Citigroup,Neutral,,main,ALC
 2021-11-12,Credit Suisse,Outperform,,main,ALC
+2022-01-07,Morgan Stanley,Equal-Weight,Overweight,down,ALC
+2022-01-18,Stephens & Co.,Equal-Weight,Overweight,down,ALC

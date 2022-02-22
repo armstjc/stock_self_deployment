@@ -10,8 +10,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-01,Stifel,Buy,,init,IOVA
 2019-11-05,Baird,Outperform,,main,IOVA
 2019-12-18,JMP Securities,Outperform,,init,IOVA
-2020-02-26,Wells Fargo,Overweight,,main,IOVA
 2020-02-26,Oppenheimer,Outperform,,reit,IOVA
+2020-02-26,Wells Fargo,Overweight,,main,IOVA
 2020-03-04,Barclays,Overweight,,init,IOVA
 2020-04-22,Mizuho,Buy,,init,IOVA
 2020-04-27,Chardan Capital,Buy,,main,IOVA
@@ -19,20 +19,21 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-06,Baird,Outperform,,main,IOVA
 2020-05-28,Stifel,Buy,,main,IOVA
 2020-08-07,Chardan Capital,Buy,,main,IOVA
-2020-10-06,Chardan Capital,Buy,,main,IOVA
 2020-10-06,HC Wainwright & Co.,Buy,,main,IOVA
 2020-10-06,Wells Fargo,Equal-Weight,Overweight,down,IOVA
 2020-10-06,Barclays,Overweight,,main,IOVA
+2020-10-06,Chardan Capital,Buy,,main,IOVA
 2020-10-15,Wells Fargo,Equal-Weight,,main,IOVA
 2020-11-09,JMP Securities,Market Outperform,,main,IOVA
 2020-12-15,HC Wainwright & Co.,Neutral,Buy,down,IOVA
 2021-03-08,HC Wainwright & Co.,Buy,Neutral,up,IOVA
 2021-04-16,Goldman Sachs,Buy,,init,IOVA
+2021-05-19,Chardan Capital,Buy,,main,IOVA
+2021-05-19,JMP Securities,Market Outperform,,main,IOVA
+2021-05-19,HC Wainwright & Co.,Buy,,main,IOVA
 2021-05-19,Barclays,Overweight,,main,IOVA
 2021-05-19,Oppenheimer,Outperform,,main,IOVA
-2021-05-19,JMP Securities,Market Outperform,,main,IOVA
-2021-05-19,Chardan Capital,Buy,,main,IOVA
-2021-05-19,HC Wainwright & Co.,Buy,,main,IOVA
 2021-05-20,Piper Sandler,Neutral,Overweight,down,IOVA
 2021-05-24,Oppenheimer,Outperform,,main,IOVA
 2021-11-05,HC Wainwright & Co.,Buy,,main,IOVA
+2022-01-28,Stifel,Buy,Hold,up,IOVA

@@ -39,9 +39,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-06,SVB Leerink,Outperform,,main,FOLD
 2020-11-11,Berenberg,Hold,,init,FOLD
 2020-12-14,SVB Leerink,Outperform,,main,FOLD
-2021-02-12,SVB Leerink,Market Perform,Outperform,down,FOLD
 2021-02-12,Cantor Fitzgerald,Neutral,Overweight,down,FOLD
 2021-02-12,JP Morgan,Neutral,Overweight,down,FOLD
+2021-02-12,SVB Leerink,Market Perform,Outperform,down,FOLD
 2021-03-02,Stifel,Hold,,init,FOLD
 2021-03-22,SVB Leerink,Market Perform,,main,FOLD
 2021-04-14,Cantor Fitzgerald,Overweight,Neutral,up,FOLD
@@ -50,3 +50,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-30,SVB Leerink,Market Perform,,main,FOLD
 2021-09-30,JP Morgan,Overweight,Neutral,up,FOLD
 2021-11-15,Stifel,Buy,Hold,up,FOLD
+2022-01-13,Cantor Fitzgerald,Overweight,,main,FOLD
+2022-01-14,SVB Leerink,Outperform,Market Perform,up,FOLD

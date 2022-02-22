@@ -1,12 +1,11 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2020-11-13 12:14:52,Citigroup,Sell,Neutral,down,CCMP
-2021-01-19 11:22:11,Goldman Sachs,Neutral,Sell,up,CCMP
-2021-05-07 12:07:15,Goldman Sachs,Neutral,,main,CCMP
-2021-06-08 13:04:39,Seaport Global,Buy,Neutral,up,CCMP
-2021-06-09 10:49:48,Berenberg,Buy,Hold,up,CCMP
-2021-10-13 09:45:06,Mizuho,Buy,,init,CCMP
-2021-11-12 12:33:23,Mizuho,Buy,,main,CCMP
-2021-11-15 14:12:14,Goldman Sachs,Buy,Neutral,up,CCMP
-2021-12-16 12:40:07,Seaport Global,Neutral,Buy,down,CCMP
-2021-12-17 12:12:14,Citigroup,Neutral,Sell,up,CCMP
-2022-02-04 11:36:45,Mizuho,Neutral,Buy,down,CCMP
+2020-11-13,Citigroup,Sell,Neutral,down,CCMP
+2021-01-19,Goldman Sachs,Neutral,Sell,up,CCMP
+2021-05-07,Goldman Sachs,Neutral,,main,CCMP
+2021-06-08,Seaport Global,Buy,Neutral,up,CCMP
+2021-06-09,Berenberg,Buy,Hold,up,CCMP
+2021-10-13,Mizuho,Buy,,init,CCMP
+2021-11-12,Mizuho,Buy,,main,CCMP
+2021-11-15,Goldman Sachs,Buy,Neutral,up,CCMP
+2021-12-16,Seaport Global,Neutral,Buy,down,CCMP
+2021-12-17,Citigroup,Neutral,Sell,up,CCMP

@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-MU,"Micron Technology, Inc.",81.17,Technology,Stocks,NMS,MH
-MP,MP Materials Corp.,35.83,Basic Materials,Stocks,NYQ,MH
-MO,"Altria Group, Inc.",50.19,Consumer Defensive,Stocks,NYQ,MH
-MA,Mastercard Incorporated,382.2,Financial Services,Stocks,NYQ,MH
-MS,Morgan Stanley,104.11,Financial Services,Stocks,NYQ,MH
-M,Macy's Inc,25.34,Consumer Cyclical,Stocks,NYQ,MH
-MQ,"Marqeta, Inc.",10.15,Technology,Stocks,NMS,MH
-SMH,VanEck Semiconductor ETF,272.53,,ETF,NGM,MH
-EH,EHang Holdings Limited,16.45,Industrials,Stocks,NGM,MH
-PH,Parker-Hannifin Corporation,302.97,Industrials,Stocks,NYQ,MH
-RH,RH,404.07,Consumer Cyclical,Stocks,NYQ,MH
-ME,23andMe Holding Co.,4.75,Healthcare,Stocks,NMS,MH
-MT,Arcelor Mittal NY Registry Shar,31.47,Basic Materials,Stocks,NYQ,MH
-MJ,ETFMG Alternative Harvest ETF,9.96,,ETF,PCX,MH
-LH,Laboratory Corporation of Ameri,277.48,Healthcare,Stocks,NYQ,MH
-GH,"Guardant Health, Inc.",73.0,Healthcare,Stocks,NMS,MH
-SH,ProShares Short S&P500,14.35,,ETF,PCX,MH
-MHO,"M/I Homes, Inc.",49.7,Consumer Cyclical,Stocks,NYQ,MH
-MTH,Meritage Homes Corporation,92.84,Consumer Cyclical,Stocks,NYQ,MH
-ML,MoneyLion Inc.,2.48,Technology,Stocks,NYQ,MH
-H,Hyatt Hotels Corporation,93.13,Consumer Cyclical,Stocks,NYQ,MH
-MHK,"Mohawk Industries, Inc.",150.08,Consumer Cyclical,Stocks,NYQ,MH
-MX,Magnachip Semiconductor Corpora,18.41,Technology,Stocks,NYQ,MH
-MC,Moelis & Company,54.88,Financial Services,Stocks,NYQ,MH
-MOH,Molina Healthcare Inc,298.77,Healthcare,Stocks,NYQ,MH
+MU,"Micron Technology, Inc.",90.8,Technology,Stocks,NMS,MH
+MO,"Altria Group, Inc.",51.74,Consumer Defensive,Stocks,NYQ,MH
+MS,Morgan Stanley,95.42,Financial Services,Stocks,NYQ,MH
+M,Macy's Inc,25.7,Consumer Cyclical,Stocks,NYQ,MH
+MA,Mastercard Incorporated,369.95,Financial Services,Stocks,NYQ,MH
+SMH,VanEck Semiconductor ETF,265.25,,ETF,NGM,MH
+MP,MP Materials Corp.,41.31,Basic Materials,Stocks,NYQ,MH
+EH,EHang Holdings Limited,14.63,Industrials,Stocks,NGM,MH
+MQ,"Marqeta, Inc.",9.97,Technology,Stocks,NMS,MH
+RH,RH,400.2,Consumer Cyclical,Stocks,NYQ,MH
+MT,Arcelor Mittal NY Registry Shar,30.33,Basic Materials,Stocks,NYQ,MH
+ME,23andMe Holding Co.,4.44,Healthcare,Stocks,NMS,MH
+H,Hyatt Hotels Corporation,101.0,Consumer Cyclical,Stocks,NYQ,MH
+MJ,ETFMG Alternative Harvest ETF,9.86,,ETF,PCX,MH
+GH,"Guardant Health, Inc.",62.1,Healthcare,Stocks,NMS,MH
+WH,"Wyndham Hotels & Resorts, Inc.",87.72,Consumer Cyclical,Stocks,NYQ,MH
+MX,Magnachip Semiconductor Corpora,18.78,Technology,Stocks,NYQ,MH
+SH,ProShares Short S&P500,14.79,,ETF,PCX,MH
+PH,Parker-Hannifin Corporation,300.03,Industrials,Stocks,NYQ,MH
+MC,Moelis & Company,48.82,Financial Services,Stocks,NYQ,MH
+LH,Laboratory Corporation of Ameri,264.47,Healthcare,Stocks,NYQ,MH
+ML,MoneyLion Inc.,2.25,Technology,Stocks,NYQ,MH
+MHO,"M/I Homes, Inc.",48.86,Consumer Cyclical,Stocks,NYQ,MH
+MD,"Mednax, Inc.",23.38,Healthcare,Stocks,NYQ,MH
+MHK,"Mohawk Industries, Inc.",148.26,Consumer Cyclical,Stocks,NYQ,MH

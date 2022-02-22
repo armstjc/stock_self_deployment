@@ -45,8 +45,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-11-28,UBS,Sell,,init,NVRO
 2019-01-02,Morgan Stanley,Underweight,Underweight,main,NVRO
 2019-03-20,Bank of America,Buy,Neutral,up,NVRO
-2019-03-20,BMO Capital,Outperform,Market Perform,up,NVRO
 2019-03-20,Wells Fargo,Outperform,Market Perform,up,NVRO
+2019-03-20,BMO Capital,Outperform,Market Perform,up,NVRO
 2019-03-21,Morgan Stanley,Overweight,Underweight,up,NVRO
 2019-05-10,Canaccord Genuity,Hold,Buy,down,NVRO
 2019-05-10,Morgan Stanley,Overweight,,main,NVRO
@@ -59,9 +59,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-22,Oppenheimer,Perform,,init,NVRO
 2019-11-07,Canaccord Genuity,Hold,,main,NVRO
 2019-11-07,Morgan Stanley,Overweight,,main,NVRO
-2019-11-07,Wells Fargo,Outperform,,main,NVRO
-2019-11-07,Oppenheimer,Outperform,Perform,up,NVRO
 2019-11-07,JP Morgan,Neutral,,main,NVRO
+2019-11-07,Oppenheimer,Outperform,Perform,up,NVRO
+2019-11-07,Wells Fargo,Outperform,,main,NVRO
 2019-11-08,UBS,Sell,,main,NVRO
 2019-12-17,Morgan Stanley,Overweight,,main,NVRO
 2019-12-20,JP Morgan,Neutral,,main,NVRO
@@ -75,21 +75,21 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-26,Canaccord Genuity,Buy,Hold,up,NVRO
 2020-03-27,Morgan Stanley,Overweight,,main,NVRO
 2020-03-27,Citigroup,Buy,,main,NVRO
-2020-04-02,JP Morgan,Neutral,,main,NVRO
+2020-04-02,Wells Fargo,Overweight,,main,NVRO
 2020-04-02,Canaccord Genuity,Buy,,main,NVRO
 2020-04-02,SunTrust Robinson Humphrey,Buy,,main,NVRO
-2020-04-02,Wells Fargo,Overweight,,main,NVRO
+2020-04-02,JP Morgan,Neutral,,main,NVRO
 2020-04-03,Morgan Stanley,Overweight,,main,NVRO
 2020-05-06,SunTrust Robinson Humphrey,Buy,,main,NVRO
 2020-05-06,JP Morgan,Neutral,,main,NVRO
 2020-05-06,Morgan Stanley,Overweight,,main,NVRO
 2020-06-08,UBS,Neutral,Sell,up,NVRO
 2020-06-18,Citigroup,Overweight,,main,NVRO
-2020-08-06,Citigroup,Buy,,main,NVRO
 2020-08-06,SVB Leerink,Outperform,,main,NVRO
-2020-08-06,Canaccord Genuity,Buy,,main,NVRO
 2020-08-06,Wells Fargo,Overweight,,main,NVRO
+2020-08-06,Canaccord Genuity,Buy,,main,NVRO
 2020-08-06,Morgan Stanley,Overweight,,main,NVRO
+2020-08-06,Citigroup,Buy,,main,NVRO
 2020-09-02,Baird,Outperform,,init,NVRO
 2020-10-12,SVB Leerink,Outperform,,main,NVRO
 2020-10-23,Guggenheim,Buy,,init,NVRO
@@ -104,17 +104,19 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-06-28,Baird,Outperform,,main,NVRO
 2021-07-06,Baird,Neutral,Outperform,down,NVRO
 2021-07-09,Redburn Partners,Neutral,Buy,down,NVRO
-2021-08-05,Canaccord Genuity,Hold,Buy,down,NVRO
+2021-08-05,William Blair,Market Perform,Outperform,down,NVRO
+2021-08-05,Piper Sandler,Neutral,Overweight,down,NVRO
+2021-08-05,SVB Leerink,Outperform,,main,NVRO
 2021-08-05,JMP Securities,Market Outperform,,main,NVRO
 2021-08-05,Wells Fargo,Equal-Weight,Overweight,down,NVRO
-2021-08-05,Citigroup,Neutral,Buy,down,NVRO
-2021-08-05,SVB Leerink,Outperform,,main,NVRO
-2021-08-05,Piper Sandler,Neutral,Overweight,down,NVRO
-2021-08-05,William Blair,Market Perform,Outperform,down,NVRO
+2021-08-05,Canaccord Genuity,Hold,Buy,down,NVRO
 2021-08-05,Morgan Stanley,Overweight,,main,NVRO
+2021-08-05,Citigroup,Neutral,Buy,down,NVRO
 2021-10-06,OTR Global,Mixed,Positive,down,NVRO
 2021-11-09,Truist Securities,Hold,Buy,down,NVRO
 2021-11-09,Wells Fargo,Equal-Weight,,main,NVRO
 2021-11-09,SVB Leerink,Outperform,,main,NVRO
 2021-12-06,Wells Fargo,Overweight,Equal-Weight,up,NVRO
 2021-12-21,Truist Securities,Hold,,main,NVRO
+2022-01-07,Morgan Stanley,Equal-Weight,Overweight,down,NVRO
+2022-01-12,Canaccord Genuity,Hold,,main,NVRO

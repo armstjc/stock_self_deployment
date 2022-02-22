@@ -1,14 +1,14 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-10-11 12:55:00,Barclays,Underweight,,main,BCH
-2012-10-25 08:18:00,Credit Suisse,Neutral,Outperform,down,BCH
-2013-01-03 12:23:37,Barclays,Underweight,,main,BCH
-2013-09-17 07:39:48,Deutsche Bank,Buy,Hold,up,BCH
-2014-07-07 20:22:14,JP Morgan,Neutral,,main,BCH
-2014-11-06 09:00:00,JP Morgan,Overweight,,main,BCH
-2015-08-26 10:05:36,Standpoint Research,Buy,Hold,up,BCH
-2016-04-07 11:11:40,Barclays,Overweight,,main,BCH
-2016-07-15 08:31:50,Scotiabank,Outperform,Sector Perform,up,BCH
-2016-08-15 14:20:15,Standpoint Research,Hold,Buy,down,BCH
-2017-09-06 11:43:41,JP Morgan,Neutral,Overweight,down,BCH
-2019-09-10 10:41:32,Goldman Sachs,Neutral,,init,BCH
-2020-11-17 11:03:47,Itau BBA,Outperform,Market Perform,up,BCH
+2012-10-11,Barclays,Underweight,,main,BCH
+2012-10-25,Credit Suisse,Neutral,Outperform,down,BCH
+2013-01-03,Barclays,Underweight,,main,BCH
+2013-09-17,Deutsche Bank,Buy,Hold,up,BCH
+2014-07-07,JP Morgan,Neutral,,main,BCH
+2014-11-06,JP Morgan,Overweight,,main,BCH
+2015-08-26,Standpoint Research,Buy,Hold,up,BCH
+2016-04-07,Barclays,Overweight,,main,BCH
+2016-07-15,Scotiabank,Outperform,Sector Perform,up,BCH
+2016-08-15,Standpoint Research,Hold,Buy,down,BCH
+2017-09-06,JP Morgan,Neutral,Overweight,down,BCH
+2019-09-10,Goldman Sachs,Neutral,,init,BCH
+2020-11-17,Itau BBA,Outperform,Market Perform,up,BCH

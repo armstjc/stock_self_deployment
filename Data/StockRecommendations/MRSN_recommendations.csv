@@ -9,10 +9,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-05-08,Baird,Outperform,,init,MRSN
 2018-07-20,Leerink Swann,Market Perform,Overweight,down,MRSN
 2019-03-11,JP Morgan,Underweight,Neutral,down,MRSN
+2019-07-15,Credit Suisse,Outperform,,init,MRSN
 2019-07-15,Canaccord Genuity,Buy,,init,MRSN
 2019-07-15,Cowen & Co.,Outperform,,init,MRSN
 2019-07-15,JP Morgan,Overweight,,init,MRSN
-2019-07-15,Credit Suisse,Outperform,,init,MRSN
 2019-10-25,H.C. Wainwright,Buy,,init,MRSN
 2019-11-12,BTIG,Neutral,,init,MRSN
 2019-12-03,JP Morgan,Overweight,,main,MRSN
@@ -39,3 +39,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-30,HC Wainwright & Co.,Buy,,init,MRSN
 2021-11-22,JP Morgan,Overweight,Neutral,up,MRSN
 2021-12-03,B of A Securities,Buy,,init,MRSN
+2022-01-31,Jefferies,Buy,,init,MRSN

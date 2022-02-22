@@ -16,14 +16,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-01-16,Bank of America,Neutral,Buy,down,PEB
 2015-02-18,Credit Suisse,Neutral,Outperform,down,PEB
 2015-02-18,Stifel Nicolaus,Buy,,main,PEB
-2015-05-26,Credit Suisse,Outperform,Neutral,up,PEB
 2015-05-26,Baird,Outperform,Neutral,up,PEB
+2015-05-26,Credit Suisse,Outperform,Neutral,up,PEB
 2015-07-21,Barclays,Overweight,,init,PEB
 2015-07-27,Barclays,Overweight,,main,PEB
 2015-09-07,Evercore ISI Group,Hold,,main,PEB
 2015-09-17,Stifel Nicolaus,Buy,,main,PEB
-2015-10-26,Evercore ISI Group,Buy,Hold,up,PEB
 2015-10-26,Barclays,Overweight,,main,PEB
+2015-10-26,Evercore ISI Group,Buy,Hold,up,PEB
 2015-12-11,Credit Suisse,Outperform,Neutral,up,PEB
 2016-01-19,Ladenburg Thalmann,Sell,Neutral,down,PEB
 2016-02-16,Credit Suisse,Outperform,,main,PEB
@@ -61,8 +61,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-25,Barclays,Underweight,,main,PEB
 2020-03-17,Stifel,Hold,Buy,down,PEB
 2020-04-07,Citigroup,Sell,Neutral,down,PEB
-2020-04-29,Stifel,Hold,,main,PEB
 2020-04-29,SunTrust Robinson Humphrey,Hold,,main,PEB
+2020-04-29,Stifel,Hold,,main,PEB
 2020-05-18,SunTrust Robinson Humphrey,Hold,,main,PEB
 2020-06-05,Stifel,Hold,,main,PEB
 2020-06-08,Evercore ISI Group,Underperform,In-Line,down,PEB
@@ -76,3 +76,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-01,Compass Point,Buy,Neutral,up,PEB
 2021-06-14,Evercore ISI Group,In-Line,Underperform,up,PEB
 2021-10-06,Citigroup,Neutral,,main,PEB
+2022-01-07,BMO Capital,Outperform,Market Perform,up,PEB
+2022-01-10,Raymond James,Outperform,Market Perform,up,PEB
+2022-01-10,B of A Securities,Neutral,Buy,down,PEB

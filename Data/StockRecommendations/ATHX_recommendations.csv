@@ -1,10 +1,10 @@
 Date,Firm,To Grade,From Grade,Action,ABV
-2012-03-20 06:42:00,PiperJaffray,Overweight,,init,ATHX
-2013-12-19 16:00:00,Maxim Group,Buy,,main,ATHX
-2014-04-29 08:00:00,First Analysis,Overweight,,init,ATHX
-2015-07-09 10:58:42,PiperJaffray,Neutral,Overweight,down,ATHX
-2017-02-07 12:59:36,Needham,Buy,,init,ATHX
-2017-03-28 20:37:25,William Blair,Outperform,,init,ATHX
-2019-08-26 12:32:25,Dawson James,Buy,,init,ATHX
-2020-06-25 12:35:03,B of A Securities,Buy,,init,ATHX
-2021-11-19 13:22:56,B of A Securities,Neutral,Buy,down,ATHX
+2012-03-20,PiperJaffray,Overweight,,init,ATHX
+2013-12-19,Maxim Group,Buy,,main,ATHX
+2014-04-29,First Analysis,Overweight,,init,ATHX
+2015-07-09,PiperJaffray,Neutral,Overweight,down,ATHX
+2017-02-07,Needham,Buy,,init,ATHX
+2017-03-28,William Blair,Outperform,,init,ATHX
+2019-08-26,Dawson James,Buy,,init,ATHX
+2020-06-25,B of A Securities,Buy,,init,ATHX
+2021-11-19,B of A Securities,Neutral,Buy,down,ATHX

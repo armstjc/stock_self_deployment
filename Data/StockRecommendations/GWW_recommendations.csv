@@ -35,17 +35,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-05-13,Morgan Stanley,Overweight,,init,GWW
 2014-07-18,Barclays,Overweight,,main,GWW
 2014-10-06,Barclays,Overweight,,main,GWW
+2014-10-17,FBR Capital,Market Perform,,main,GWW
 2014-10-17,Credit Suisse,Outperform,,main,GWW
 2014-10-17,Barclays,Overweight,,main,GWW
-2014-10-17,FBR Capital,Market Perform,,main,GWW
 2014-11-14,Barclays,Overweight,,main,GWW
 2014-11-25,RBC Capital,Sector Perform,,init,GWW
 2014-12-12,Stifel Nicolaus,Buy,,init,GWW
 2015-01-12,Barclays,Overweight,,main,GWW
 2015-01-22,Gabelli & Co.,Hold,,init,GWW
 2015-01-27,Atlantic Equities,Neutral,Overweight,down,GWW
-2015-01-27,Barclays,Overweight,,main,GWW
 2015-01-27,Stifel Nicolaus,Buy,,main,GWW
+2015-01-27,Barclays,Overweight,,main,GWW
 2015-03-17,Barclays,Overweight,,main,GWW
 2015-03-23,Barclays,Equal-Weight,Overweight,down,GWW
 2015-03-25,Gabelli & Co.,Buy,Hold,up,GWW
@@ -91,9 +91,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-07-20,Morgan Stanley,Underweight,,main,GWW
 2017-07-25,Northcoast Research,Neutral,,init,GWW
 2017-10-02,Morgan Stanley,Underweight,,main,GWW
+2017-10-18,Credit Suisse,Underperform,,main,GWW
 2017-10-18,Oppenheimer,Outperform,Perform,up,GWW
 2017-10-18,BMO Capital,Market Perform,,main,GWW
-2017-10-18,Credit Suisse,Underperform,,main,GWW
 2017-10-18,Morgan Stanley,Underweight,,main,GWW
 2017-10-19,UBS,Sell,Neutral,down,GWW
 2018-01-25,Oppenheimer,Outperform,Outperform,main,GWW
@@ -124,9 +124,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-07-29,Morgan Stanley,Underweight,,main,GWW
 2019-10-08,Buckingham,Neutral,,main,GWW
 2019-10-10,JP Morgan,Neutral,,main,GWW
-2019-10-24,Morgan Stanley,Underweight,,main,GWW
-2019-10-24,Baird,Neutral,,main,GWW
 2019-10-24,Buckingham,Neutral,,main,GWW
+2019-10-24,Baird,Neutral,,main,GWW
+2019-10-24,Morgan Stanley,Underweight,,main,GWW
 2019-12-11,Morgan Stanley,Equal-Weight,Underweight,up,GWW
 2020-01-24,Buckingham,Neutral,,main,GWW
 2020-01-31,Stephens & Co.,Equal-Weight,,main,GWW
@@ -153,25 +153,28 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-09-08,Raymond James,Outperform,Market Perform,up,GWW
 2020-09-16,UBS,Buy,,init,GWW
 2020-10-13,Jefferies,Buy,,main,GWW
-2020-10-23,Raymond James,Outperform,,main,GWW
 2020-10-23,Morgan Stanley,Equal-Weight,,main,GWW
+2020-10-23,Raymond James,Outperform,,main,GWW
 2021-02-01,Deutsche Bank,Hold,,main,GWW
 2021-02-04,Morgan Stanley,Equal-Weight,,main,GWW
 2021-03-04,Oppenheimer,Outperform,,main,GWW
 2021-03-10,Morgan Stanley,Equal-Weight,,main,GWW
 2021-04-12,Morgan Stanley,Equal-Weight,,main,GWW
-2021-05-03,Raymond James,Outperform,,main,GWW
+2021-05-03,Baird,Outperform,,main,GWW
+2021-05-03,RBC Capital,Underperform,,main,GWW
+2021-05-03,Deutsche Bank,Hold,,main,GWW
+2021-05-03,Oppenheimer,Outperform,,main,GWW
 2021-05-03,Morgan Stanley,Equal-Weight,,main,GWW
 2021-05-03,Jefferies,Buy,,main,GWW
-2021-05-03,Deutsche Bank,Hold,,main,GWW
-2021-05-03,RBC Capital,Underperform,,main,GWW
-2021-05-03,Baird,Outperform,,main,GWW
-2021-05-03,Oppenheimer,Outperform,,main,GWW
+2021-05-03,Raymond James,Outperform,,main,GWW
 2021-05-04,Atlantic Equities,Neutral,Underweight,up,GWW
+2021-08-02,Raymond James,Market Perform,Outperform,down,GWW
 2021-08-02,Morgan Stanley,Equal-Weight,,main,GWW
 2021-08-02,RBC Capital,Underperform,,main,GWW
-2021-08-02,Raymond James,Market Perform,Outperform,down,GWW
 2021-08-03,Loop Capital,Buy,,init,GWW
 2021-11-01,Oppenheimer,Outperform,,main,GWW
 2021-11-01,Morgan Stanley,Equal-Weight,,main,GWW
 2021-11-01,RBC Capital,Underperform,,main,GWW
+2022-01-14,Morgan Stanley,Equal-Weight,,main,GWW
+2022-02-04,Morgan Stanley,Equal-Weight,,main,GWW
+2022-02-04,Oppenheimer,Outperform,,main,GWW

@@ -131,8 +131,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-04-16,Barclays,Equal-Weight,Equal-Weight,main,BIDU
 2018-05-11,Bernstein,Market Perform,Underperform,up,BIDU
 2018-05-18,Credit Suisse,Neutral,Outperform,down,BIDU
-2018-07-09,KeyBanc,Overweight,Sector Weight,up,BIDU
 2018-07-09,Credit Suisse,Outperform,Neutral,up,BIDU
+2018-07-09,KeyBanc,Overweight,Sector Weight,up,BIDU
 2018-10-29,Deutsche Bank,Buy,Buy,main,BIDU
 2018-11-01,Barclays,Equal-Weight,Equal-Weight,main,BIDU
 2018-11-01,Nomura,Neutral,Neutral,main,BIDU
@@ -140,8 +140,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-01-22,Citigroup,Buy,Buy,main,BIDU
 2019-04-10,Oppenheimer,Perform,Outperform,down,BIDU
 2019-04-15,China Renaissance,Hold,Buy,down,BIDU
-2019-05-20,Barclays,Equal-Weight,,main,BIDU
 2019-05-20,Nomura,Neutral,,main,BIDU
+2019-05-20,Barclays,Equal-Weight,,main,BIDU
 2019-06-04,Loop Capital,Hold,,init,BIDU
 2019-06-28,JP Morgan,Neutral,,main,BIDU
 2019-07-10,KeyBanc,Overweight,,main,BIDU
@@ -152,9 +152,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-21,KeyBanc,Overweight,,main,BIDU
 2019-10-25,Barclays,Equal-Weight,,main,BIDU
 2019-11-07,Morgan Stanley,Overweight,Equal-Weight,up,BIDU
-2019-11-08,Bernstein,Outperform,Market Perform,up,BIDU
 2019-11-08,Daiwa Capital,Outperform,Hold,up,BIDU
 2019-11-08,CCB International,Outperform,Neutral,up,BIDU
+2019-11-08,Bernstein,Outperform,Market Perform,up,BIDU
 2019-11-11,Oppenheimer,Outperform,Perform,up,BIDU
 2019-11-22,Macquarie,Neutral,,init,BIDU
 2019-12-04,Loop Capital,Hold,,main,BIDU
@@ -169,8 +169,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-17,Oppenheimer,Outperform,,main,BIDU
 2020-04-22,Barclays,Equal-Weight,,main,BIDU
 2020-04-23,KeyBanc,Overweight,,main,BIDU
-2020-05-20,Nomura Instinet,Neutral,,main,BIDU
 2020-05-20,KeyBanc,Overweight,,main,BIDU
+2020-05-20,Nomura Instinet,Neutral,,main,BIDU
 2020-06-25,KeyBanc,Overweight,,main,BIDU
 2020-07-28,Mizuho,Buy,,main,BIDU
 2020-07-31,KeyBanc,Overweight,,main,BIDU
@@ -182,8 +182,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-10-26,KeyBanc,Overweight,,main,BIDU
 2020-11-04,Barclays,Overweight,Equal-Weight,up,BIDU
 2020-11-18,KeyBanc,Overweight,,main,BIDU
-2021-01-14,JP Morgan,Overweight,,main,BIDU
 2021-01-14,KeyBanc,Overweight,,main,BIDU
+2021-01-14,JP Morgan,Overweight,,main,BIDU
 2021-02-01,Oppenheimer,Outperform,,main,BIDU
 2021-02-08,Mizuho,Buy,,main,BIDU
 2021-02-09,China Renaissance,Buy,Hold,up,BIDU
@@ -194,8 +194,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-03-29,Loop Capital,Buy,Hold,up,BIDU
 2021-04-15,China Renaissance,Buy,,reit,BIDU
 2021-05-19,Keybanc,Overweight,,main,BIDU
-2021-05-19,UBS,Buy,,main,BIDU
 2021-05-19,CLSA,Buy,,main,BIDU
+2021-05-19,UBS,Buy,,main,BIDU
 2021-05-19,Benchmark,Buy,,main,BIDU
 2021-05-20,HSBC,Buy,,main,BIDU
 2021-05-20,Susquehanna,Positive,,main,BIDU
@@ -205,3 +205,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-01,Arete Research,Neutral,Sell,up,BIDU
 2021-10-27,OTR Global,Mixed,Positive,down,BIDU
 2021-11-03,Barclays,Overweight,,init,BIDU
+2022-01-31,Mizuho,Buy,,main,BIDU

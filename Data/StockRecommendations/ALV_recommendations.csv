@@ -49,8 +49,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2015-01-26,JP Morgan,Neutral,,main,ALV
 2015-01-28,Deutsche Bank,Hold,,main,ALV
 2015-01-30,Barclays,Underweight,,main,ALV
-2015-04-16,Barclays,Underweight,,main,ALV
 2015-04-16,Deutsche Bank,Hold,,main,ALV
+2015-04-16,Barclays,Underweight,,main,ALV
 2015-04-20,JP Morgan,Neutral,,main,ALV
 2015-04-22,Susquehanna,Neutral,,main,ALV
 2015-04-23,JP Morgan,Neutral,,main,ALV
@@ -94,14 +94,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-07-18,Mizuho,Buy,Neutral,up,ALV
 2017-07-25,Bank of America,Neutral,,main,ALV
 2017-09-15,Citigroup,Neutral,,main,ALV
-2017-09-15,Buckingham,Neutral,Underperform,up,ALV
 2017-09-15,KeyBanc,Overweight,,main,ALV
+2017-09-15,Buckingham,Neutral,Underperform,up,ALV
 2017-09-18,Barclays,Underweight,,main,ALV
 2017-09-25,Cowen & Co.,Market Perform,,init,ALV
 2017-11-06,KeyBanc,Overweight,,main,ALV
 2018-01-05,Longbow Research,Buy,,init,ALV
-2018-01-31,Baird,Outperform,Buy,up,ALV
 2018-01-31,Barclays,Underweight,Underweight,main,ALV
+2018-01-31,Baird,Outperform,Buy,up,ALV
 2018-02-12,BMO Capital,Outperform,Outperform,main,ALV
 2018-03-05,Citigroup,Neutral,Neutral,main,ALV
 2018-05-08,Citigroup,Neutral,Neutral,main,ALV
@@ -111,8 +111,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-07-09,BMO Capital,Outperform,Outperform,main,ALV
 2018-07-16,Daiwa Capital,Outperform,Neutral,up,ALV
 2018-07-18,Wells Fargo,Market Perform,Outperform,down,ALV
-2018-07-30,Wells Fargo,Market Perform,Market Perform,main,ALV
 2018-07-30,Baird,Outperform,Outperform,main,ALV
+2018-07-30,Wells Fargo,Market Perform,Market Perform,main,ALV
 2018-07-31,Barclays,Underweight,Underweight,main,ALV
 2018-08-09,Citigroup,Neutral,Neutral,main,ALV
 2018-10-01,Baird,Neutral,Outperform,down,ALV
@@ -178,3 +178,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-17,Wells Fargo,Equal-Weight,,main,ALV
 2021-12-02,Wolfe Research,Outperform,Peer Perform,up,ALV
 2021-12-16,Barclays,Overweight,,main,ALV
+2022-01-31,Wells Fargo,Equal-Weight,,main,ALV
+2022-01-31,Mizuho,Buy,,main,ALV
+2022-02-01,Deutsche Bank,Buy,Hold,up,ALV

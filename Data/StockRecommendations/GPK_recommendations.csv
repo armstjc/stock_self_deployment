@@ -10,8 +10,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-04-05,Citigroup,Buy,,init,GPK
 2013-04-29,Jefferies,Buy,,main,GPK
 2013-07-09,Longbow Research,Buy,,init,GPK
-2013-07-10,Goldman Sachs,Buy,,main,GPK
 2013-07-10,Jefferies,Buy,,main,GPK
+2013-07-10,Goldman Sachs,Buy,,main,GPK
 2013-07-29,Jefferies,Buy,,main,GPK
 2013-08-16,Bank of America,Buy,,main,GPK
 2013-08-26,Jefferies,Buy,,main,GPK
@@ -79,3 +79,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-15,UBS,Buy,Neutral,up,GPK
 2021-11-24,Raymond James,Strong Buy,,init,GPK
 2021-12-20,BMO Capital,Market Perform,Outperform,down,GPK
+2022-01-18,Keybanc,Underweight,Sector Weight,down,GPK

@@ -14,8 +14,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-05-23,Stifel Nicolaus,Hold,,init,CHH
 2013-07-26,Citigroup,Neutral,Buy,down,CHH
 2013-07-30,Wells Fargo,Underperform,Market Perform,down,CHH
-2013-10-28,Baird,Underperform,Neutral,down,CHH
 2013-10-28,Credit Suisse,,,up,CHH
+2013-10-28,Baird,Underperform,Neutral,down,CHH
 2013-12-16,Nomura,Neutral,,main,CHH
 2014-01-21,Barclays,Underweight,,main,CHH
 2014-04-29,Barclays,Equal-Weight,Underweight,up,CHH
@@ -23,8 +23,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-08-12,Wells Fargo,Market Perform,Underperform,up,CHH
 2014-08-18,Barclays,Equal-Weight,,main,CHH
 2014-10-27,Barclays,Equal-Weight,,main,CHH
-2015-02-24,Nomura,Neutral,,main,CHH
 2015-02-24,Barclays,Underweight,Equal-Weight,down,CHH
+2015-02-24,Nomura,Neutral,,main,CHH
 2015-05-08,Bank of America,Buy,Underperform,up,CHH
 2015-06-23,UBS,Sell,Neutral,down,CHH
 2015-07-30,JP Morgan,Neutral,Underweight,up,CHH
@@ -32,8 +32,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-01-04,Telsey Advisory Group,Market Perform,,init,CHH
 2016-01-06,JP Morgan,Underweight,Neutral,down,CHH
 2016-01-14,MKM Partners,Sell,Neutral,down,CHH
-2016-02-19,JP Morgan,Neutral,Underperform,up,CHH
 2016-02-19,Deutsche Bank,Hold,,main,CHH
+2016-02-19,JP Morgan,Neutral,Underperform,up,CHH
 2016-07-06,Wolfe Research,Peer Perform,,init,CHH
 2016-09-26,Morgan Stanley,Equal-Weight,Underweight,up,CHH
 2016-12-05,MKM Partners,Neutral,Sell,up,CHH
@@ -43,10 +43,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-11-07,Barclays,Underweight,,main,CHH
 2017-11-13,Morgan Stanley,Equal-Weight,,main,CHH
 2017-12-13,JP Morgan,Underweight,Neutral,down,CHH
-2018-02-21,JP Morgan,Underweight,Underweight,main,CHH
-2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHH
-2018-02-21,Wells Fargo,Market Perform,Market Perform,main,CHH
 2018-02-21,Barclays,Underweight,Underweight,main,CHH
+2018-02-21,Wells Fargo,Market Perform,Market Perform,main,CHH
+2018-02-21,Morgan Stanley,Equal-Weight,Equal-Weight,main,CHH
+2018-02-21,JP Morgan,Underweight,Underweight,main,CHH
 2018-05-11,Wells Fargo,Market Perform,Outperform,down,CHH
 2018-05-31,Jefferies,Hold,,init,CHH
 2018-09-07,Longbow Research,Buy,,init,CHH
@@ -65,9 +65,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-01-09,Morgan Stanley,Equal-Weight,,main,CHH
 2020-01-10,Wolfe Research,Underperform,Peer Perform,down,CHH
 2020-02-07,Wells Fargo,Equal-Weight,,main,CHH
-2020-02-19,Morgan Stanley,Equal-Weight,,main,CHH
-2020-02-19,Deutsche Bank,Hold,,main,CHH
 2020-02-19,SunTrust Robinson Humphrey,Hold,,main,CHH
+2020-02-19,Deutsche Bank,Hold,,main,CHH
+2020-02-19,Morgan Stanley,Equal-Weight,,main,CHH
 2020-03-09,Wells Fargo,Equal-Weight,,main,CHH
 2020-03-30,Morgan Stanley,Equal-Weight,,main,CHH
 2020-04-14,Barclays,Underweight,,main,CHH
@@ -99,3 +99,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-17,Wells Fargo,Equal-Weight,Overweight,down,CHH
 2021-12-02,Loop Capital,Hold,Buy,down,CHH
 2021-12-03,Truist Securities,Hold,,main,CHH
+2022-01-18,Morgan Stanley,Underweight,Equal-Weight,down,CHH

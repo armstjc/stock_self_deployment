@@ -1,5 +1,8 @@
-0,1,ABV
-,% of Shares Held by All Insider,SCOAW
-,% of Shares Held by Institutions,SCOAW
-,% of Float Held by Institutions,SCOAW
-,Number of Institutions Holding Shares,SCOAW
+Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
+SCOA,ScION Tech Growth I,9.79,Financial Services,Stocks,NCM,SCOAW
+SCOAU,ScION Tech Growth I,9.89,Financial Services,Stocks,NCM,SCOAW
+SCOAW,ScION Tech Growth I,0.42,Financial Services,Stocks,NCM,SCOAW
+SCMAW,SCMAW,0.3,Financial Services,Stocks,NGM,SCOAW
+SCOBW,ScION Tech Growth II,0.44,Financial Services,Stocks,NCM,SCOAW
+SCOAX,"SEI Insti Inv Tr, Core Fixed In",10.05,,Mutual Fund,NAS,SCOAW
+SNOAW,SNOAW,0.0,,Stocks,NCM,SCOAW

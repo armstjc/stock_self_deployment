@@ -57,9 +57,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-11-08,PiperJaffray,Overweight,,init,OKTA
 2019-11-18,Canaccord Genuity,Hold,Buy,down,OKTA
 2019-11-19,DA Davidson,Buy,Neutral,up,OKTA
-2019-12-06,JP Morgan,Overweight,,main,OKTA
-2019-12-06,Morgan Stanley,Equal-Weight,,main,OKTA
 2019-12-06,Canaccord Genuity,Hold,,main,OKTA
+2019-12-06,Morgan Stanley,Equal-Weight,,main,OKTA
+2019-12-06,JP Morgan,Overweight,,main,OKTA
 2020-01-13,Morgan Stanley,Equal-Weight,,main,OKTA
 2020-03-04,Needham,Hold,Buy,down,OKTA
 2020-03-06,Morgan Stanley,Equal-Weight,,main,OKTA
@@ -87,9 +87,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-02-23,Deutsche Bank,Buy,,init,OKTA
 2021-03-04,Piper Sandler,Neutral,,main,OKTA
 2021-03-04,Baird,Neutral,,main,OKTA
+2021-03-04,Mizuho,Neutral,,main,OKTA
 2021-03-04,Canaccord Genuity,Buy,Hold,up,OKTA
 2021-03-04,Deutsche Bank,Buy,,main,OKTA
-2021-03-04,Mizuho,Neutral,,main,OKTA
 2021-04-09,BTIG,Buy,Neutral,up,OKTA
 2021-04-22,Raymond James,Outperform,,init,OKTA
 2021-04-23,Keybanc,Overweight,,main,OKTA
@@ -102,8 +102,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-06,Wolfe Research,Outperform,,init,OKTA
 2021-08-25,Raymond James,Strong Buy,Outperform,up,OKTA
 2021-09-02,Mizuho,Neutral,,main,OKTA
-2021-09-02,BMO Capital,Outperform,,main,OKTA
 2021-09-02,Needham,Buy,Hold,up,OKTA
+2021-09-02,BMO Capital,Outperform,,main,OKTA
 2021-09-02,Stifel,Hold,,main,OKTA
 2021-09-03,Deutsche Bank,Buy,,main,OKTA
 2021-09-28,Morgan Stanley,Overweight,Equal-Weight,up,OKTA
@@ -113,3 +113,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-12-02,BMO Capital,Outperform,,main,OKTA
 2021-12-02,Piper Sandler,Overweight,Neutral,up,OKTA
 2021-12-03,Deutsche Bank,Buy,,main,OKTA
+2022-01-06,Wells Fargo,Overweight,,init,OKTA
+2022-01-18,Morgan Stanley,Overweight,,main,OKTA
+2022-02-14,BTIG,Buy,,main,OKTA

@@ -2,7 +2,7 @@ import time
 import threading
 import schedule
 from datetime import date
-from git import Repo
+#from git import Repo
 #import queue
 from congress import congress
 from getInstitutionalHolders import getInstitutionalHolders

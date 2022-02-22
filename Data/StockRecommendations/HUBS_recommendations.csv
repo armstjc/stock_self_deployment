@@ -47,13 +47,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-10-13,KeyBanc,Sector Weight,Overweight,down,HUBS
 2017-10-23,Morgan Stanley,Overweight,,main,HUBS
 2017-11-02,Morgan Stanley,Overweight,,main,HUBS
-2017-11-02,Canaccord Genuity,Buy,,main,HUBS
 2017-11-02,Oppenheimer,Outperform,,main,HUBS
+2017-11-02,Canaccord Genuity,Buy,,main,HUBS
 2017-11-09,UBS,Buy,,main,HUBS
 2018-01-30,Morgan Stanley,Equal-Weight,Overweight,down,HUBS
 2018-02-12,JP Morgan,Overweight,Overweight,main,HUBS
-2018-02-14,JP Morgan,Overweight,Overweight,main,HUBS
 2018-02-14,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBS
+2018-02-14,JP Morgan,Overweight,Overweight,main,HUBS
 2018-03-08,UBS,Neutral,Buy,down,HUBS
 2018-03-12,Evercore ISI Group,In-Line,Outperform,down,HUBS
 2018-04-18,Bank of America,Buy,Buy,main,HUBS
@@ -62,8 +62,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-06-14,Stifel Nicolaus,Buy,Buy,main,HUBS
 2018-07-30,Raymond James,Outperform,Outperform,main,HUBS
 2018-08-02,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBS
-2018-09-06,Canaccord Genuity,Buy,Buy,main,HUBS
 2018-09-06,Stifel Nicolaus,Buy,Buy,main,HUBS
+2018-09-06,Canaccord Genuity,Buy,Buy,main,HUBS
 2018-09-07,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBS
 2018-10-02,Jefferies,Buy,,init,HUBS
 2018-10-23,Morgan Stanley,Equal-Weight,Equal-Weight,main,HUBS
@@ -73,10 +73,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-01-17,Stephens & Co.,Overweight,,init,HUBS
 2019-01-24,Oppenheimer,Perform,Outperform,down,HUBS
 2019-01-25,Deutsche Bank,Hold,,init,HUBS
-2019-02-13,Bank of America,Buy,Buy,reit,HUBS
 2019-02-13,Raymond James,Outperform,Outperform,main,HUBS
-2019-02-13,Canaccord Genuity,Buy,Buy,main,HUBS
 2019-02-13,Deutsche Bank,Hold,Hold,main,HUBS
+2019-02-13,Bank of America,Buy,Buy,reit,HUBS
+2019-02-13,Canaccord Genuity,Buy,Buy,main,HUBS
 2019-05-06,RBC Capital,Sector Perform,Sector Perform,main,HUBS
 2019-05-08,Stifel Nicolaus,Buy,,main,HUBS
 2019-05-08,Raymond James,Outperform,,main,HUBS
@@ -85,9 +85,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-06-07,Goldman Sachs,Buy,,init,HUBS
 2019-08-07,Morgan Stanley,Equal-Weight,,main,HUBS
 2019-08-13,Compass Point,Buy,,init,HUBS
+2019-09-05,RBC Capital,Outperform,Sector Perform,up,HUBS
 2019-09-05,Bank of America,Buy,,reit,HUBS
 2019-09-05,Raymond James,Outperform,,main,HUBS
-2019-09-05,RBC Capital,Outperform,Sector Perform,up,HUBS
 2019-11-06,Morgan Stanley,Equal-Weight,,main,HUBS
 2019-11-06,Bank of America,Buy,,reit,HUBS
 2019-11-06,Raymond James,Outperform,,main,HUBS
@@ -96,12 +96,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-01-13,Morgan Stanley,Equal-Weight,,main,HUBS
 2020-01-27,RBC Capital,Outperform,,main,HUBS
 2020-01-28,Wells Fargo,Equal-Weight,,init,HUBS
-2020-02-13,Canaccord Genuity,Buy,,main,HUBS
 2020-02-13,Needham,Buy,,main,HUBS
+2020-02-13,Piper Sandler,Overweight,,main,HUBS
+2020-02-13,Cowen & Co.,Market Perform,,main,HUBS
+2020-02-13,Canaccord Genuity,Buy,,main,HUBS
 2020-02-13,Morgan Stanley,Equal-Weight,,main,HUBS
 2020-02-13,UBS,Neutral,,main,HUBS
-2020-02-13,Cowen & Co.,Market Perform,,main,HUBS
-2020-02-13,Piper Sandler,Overweight,,main,HUBS
 2020-03-11,Wells Fargo,Equal-Weight,,main,HUBS
 2020-03-25,Morgan Stanley,Overweight,Equal-Weight,up,HUBS
 2020-03-31,Piper Sandler,Overweight,,main,HUBS
@@ -109,80 +109,86 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-16,Stifel,Buy,,main,HUBS
 2020-04-22,RBC Capital,Outperform,,main,HUBS
 2020-04-27,Raymond James,Outperform,,main,HUBS
-2020-05-05,SunTrust Robinson Humphrey,Buy,,main,HUBS
-2020-05-05,Guggenheim,Buy,,main,HUBS
 2020-05-05,JP Morgan,Overweight,,main,HUBS
-2020-05-07,Piper Sandler,Overweight,,main,HUBS
-2020-05-07,Needham,Buy,,main,HUBS
-2020-05-07,Mizuho,Buy,,main,HUBS
-2020-05-07,Cowen & Co.,Market Perform,,main,HUBS
-2020-05-07,Raymond James,Outperform,,main,HUBS
-2020-05-07,RBC Capital,Outperform,,main,HUBS
-2020-05-07,SunTrust Robinson Humphrey,Buy,,main,HUBS
+2020-05-05,Guggenheim,Buy,,main,HUBS
+2020-05-05,SunTrust Robinson Humphrey,Buy,,main,HUBS
 2020-05-07,Jefferies,Buy,,main,HUBS
+2020-05-07,SunTrust Robinson Humphrey,Buy,,main,HUBS
+2020-05-07,RBC Capital,Outperform,,main,HUBS
+2020-05-07,Raymond James,Outperform,,main,HUBS
 2020-05-07,Morgan Stanley,Overweight,,main,HUBS
+2020-05-07,Cowen & Co.,Market Perform,,main,HUBS
+2020-05-07,Mizuho,Buy,,main,HUBS
+2020-05-07,Needham,Buy,,main,HUBS
+2020-05-07,Piper Sandler,Overweight,,main,HUBS
 2020-07-08,Mizuho,Neutral,Buy,down,HUBS
 2020-07-21,RBC Capital,Outperform,,main,HUBS
 2020-07-22,Morgan Stanley,Equal-Weight,,main,HUBS
-2020-08-06,Piper Sandler,Overweight,,main,HUBS
-2020-08-06,Needham,Buy,,main,HUBS
-2020-08-06,Citigroup,Buy,,main,HUBS
-2020-08-06,Morgan Stanley,Overweight,,main,HUBS
-2020-08-06,Stifel,Buy,,main,HUBS
-2020-08-06,Canaccord Genuity,Buy,,main,HUBS
 2020-08-06,Wells Fargo,Equal-Weight,,main,HUBS
+2020-08-06,Canaccord Genuity,Buy,,main,HUBS
+2020-08-06,Stifel,Buy,,main,HUBS
+2020-08-06,Morgan Stanley,Overweight,,main,HUBS
 2020-08-06,Raymond James,Outperform,,main,HUBS
-2020-09-23,Canaccord Genuity,Buy,,main,HUBS
-2020-09-23,Raymond James,Outperform,,main,HUBS
+2020-08-06,Citigroup,Buy,,main,HUBS
+2020-08-06,Needham,Buy,,main,HUBS
+2020-08-06,Piper Sandler,Overweight,,main,HUBS
 2020-09-23,Wells Fargo,Equal-Weight,,main,HUBS
 2020-09-23,Needham,Buy,,main,HUBS
-2020-11-06,Needham,Buy,,main,HUBS
-2020-11-06,Piper Sandler,Overweight,,main,HUBS
+2020-09-23,Canaccord Genuity,Buy,,main,HUBS
+2020-09-23,Raymond James,Outperform,,main,HUBS
+2020-11-06,UBS,Neutral,,main,HUBS
 2020-11-06,Morgan Stanley,Overweight,,main,HUBS
 2020-11-06,Raymond James,Outperform,,main,HUBS
-2020-11-06,UBS,Neutral,,main,HUBS
+2020-11-06,Needham,Buy,,main,HUBS
+2020-11-06,Piper Sandler,Overweight,,main,HUBS
 2020-11-24,KeyBanc,Overweight,,init,HUBS
 2021-01-05,Wells Fargo,Overweight,Equal-Weight,up,HUBS
 2021-01-22,BMO Capital,Outperform,,init,HUBS
-2021-02-12,Needham,Buy,,main,HUBS
-2021-02-12,Mizuho,Buy,Neutral,up,HUBS
+2021-02-12,Raymond James,Strong Buy,Outperform,up,HUBS
 2021-02-12,Piper Sandler,Overweight,,main,HUBS
-2021-02-12,Citigroup,Buy,,main,HUBS
-2021-02-12,Canaccord Genuity,Buy,,main,HUBS
+2021-02-12,Needham,Buy,,main,HUBS
 2021-02-12,Truist Securities,Buy,,main,HUBS
 2021-02-12,Morgan Stanley,Overweight,,main,HUBS
-2021-02-12,Raymond James,Strong Buy,Outperform,up,HUBS
+2021-02-12,Canaccord Genuity,Buy,,main,HUBS
+2021-02-12,Mizuho,Buy,Neutral,up,HUBS
+2021-02-12,Citigroup,Buy,,main,HUBS
 2021-02-22,Argus Research,Buy,,main,HUBS
 2021-04-23,Wolfe Research,Outperform,,init,HUBS
 2021-04-27,Wells Fargo,Overweight,,main,HUBS
-2021-05-06,Needham,Buy,,main,HUBS
-2021-05-06,RBC Capital,Outperform,,main,HUBS
-2021-05-06,Canaccord Genuity,Buy,,main,HUBS
-2021-05-06,BMO Capital,Outperform,,main,HUBS
-2021-05-06,Morgan Stanley,Overweight,,main,HUBS
-2021-05-06,Piper Sandler,Overweight,,main,HUBS
 2021-05-06,Raymond James,Strong Buy,,main,HUBS
+2021-05-06,Morgan Stanley,Overweight,,main,HUBS
+2021-05-06,Needham,Buy,,main,HUBS
+2021-05-06,Canaccord Genuity,Buy,,main,HUBS
+2021-05-06,RBC Capital,Outperform,,main,HUBS
+2021-05-06,BMO Capital,Outperform,,main,HUBS
+2021-05-06,Piper Sandler,Overweight,,main,HUBS
 2021-07-21,Stifel,Buy,,main,HUBS
+2021-08-05,Keybanc,Overweight,,main,HUBS
+2021-08-05,Canaccord Genuity,Buy,,main,HUBS
 2021-08-05,Citigroup,Buy,,main,HUBS
 2021-08-05,Morgan Stanley,Overweight,,main,HUBS
 2021-08-05,Raymond James,Strong Buy,,main,HUBS
 2021-08-05,Needham,Buy,,main,HUBS
 2021-08-05,Piper Sandler,Overweight,,main,HUBS
-2021-08-05,Keybanc,Overweight,,main,HUBS
-2021-08-05,Canaccord Genuity,Buy,,main,HUBS
 2021-10-11,Wells Fargo,Overweight,,main,HUBS
-2021-10-13,Piper Sandler,Overweight,,main,HUBS
-2021-10-13,Needham,Buy,,main,HUBS
-2021-10-13,RBC Capital,Outperform,,main,HUBS
-2021-10-13,Mizuho,Buy,,main,HUBS
-2021-10-13,Wells Fargo,Overweight,,main,HUBS
-2021-10-13,Jefferies,Buy,,main,HUBS
 2021-10-13,Truist Securities,Buy,,main,HUBS
-2021-10-13,Morgan Stanley,Overweight,,main,HUBS
+2021-10-13,Jefferies,Buy,,main,HUBS
 2021-10-13,Canaccord Genuity,Buy,,main,HUBS
+2021-10-13,Wells Fargo,Overweight,,main,HUBS
+2021-10-13,Mizuho,Buy,,main,HUBS
+2021-10-13,RBC Capital,Outperform,,main,HUBS
+2021-10-13,Needham,Buy,,main,HUBS
+2021-10-13,Piper Sandler,Overweight,,main,HUBS
+2021-10-13,Morgan Stanley,Overweight,,main,HUBS
 2021-10-21,Barclays,Equal-Weight,,init,HUBS
 2021-10-25,Keybanc,Overweight,,main,HUBS
+2021-11-04,Raymond James,Strong Buy,,main,HUBS
 2021-11-04,Canaccord Genuity,Buy,,main,HUBS
 2021-11-04,Morgan Stanley,Overweight,,main,HUBS
 2021-11-04,Mizuho,Buy,,main,HUBS
-2021-11-04,Raymond James,Strong Buy,,main,HUBS
+2022-01-27,Barclays,Equal-Weight,,main,HUBS
+2022-01-28,Mizuho,Buy,,main,HUBS
+2022-02-11,Raymond James,Strong Buy,,main,HUBS
+2022-02-11,Mizuho,Buy,,main,HUBS
+2022-02-11,Cowen & Co.,Outperform,Market Perform,up,HUBS
+2022-02-11,Piper Sandler,Overweight,,main,HUBS

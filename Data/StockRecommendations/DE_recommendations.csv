@@ -137,21 +137,21 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-05-24,UBS,Buy,Neutral,up,DE
 2018-06-20,Citigroup,Buy,Buy,main,DE
 2018-07-20,UBS,Buy,Buy,main,DE
-2018-08-20,Credit Suisse,Outperform,Outperform,main,DE
 2018-08-20,Stifel Nicolaus,Buy,Buy,main,DE
 2018-08-20,Wells Fargo,Outperform,Outperform,main,DE
+2018-08-20,Credit Suisse,Outperform,Outperform,main,DE
 2019-02-13,Bank of America,Neutral,Buy,down,DE
 2019-02-19,Citigroup,Buy,Buy,main,DE
 2019-02-19,Credit Suisse,Outperform,Outperform,main,DE
 2019-05-13,Baird,Neutral,Outperform,down,DE
 2019-05-14,JP Morgan,Underweight,Neutral,down,DE
 2019-05-16,Citigroup,Buy,,main,DE
-2019-05-20,Barclays,Overweight,,main,DE
-2019-05-20,Deutsche Bank,Hold,,main,DE
-2019-05-20,RBC Capital,Outperform,,main,DE
+2019-05-20,Vertical Research,Hold,Buy,down,DE
 2019-05-20,Stifel Nicolaus,Buy,,main,DE
 2019-05-20,Morgan Stanley,Overweight,,main,DE
-2019-05-20,Vertical Research,Hold,Buy,down,DE
+2019-05-20,Deutsche Bank,Hold,,main,DE
+2019-05-20,Barclays,Overweight,,main,DE
+2019-05-20,RBC Capital,Outperform,,main,DE
 2019-05-23,UBS,Buy,,main,DE
 2019-06-17,Baird,Outperform,Neutral,up,DE
 2019-06-21,Morgan Stanley,Overweight,,main,DE
@@ -161,11 +161,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-07-15,Bank of America,Buy,Neutral,up,DE
 2019-08-14,Deutsche Bank,Hold,,main,DE
 2019-08-15,Stephens & Co.,Equal-Weight,,init,DE
-2019-08-19,Wells Fargo,Outperform,,main,DE
-2019-08-19,UBS,Neutral,,main,DE
+2019-08-19,Bank of America,Buy,,reit,DE
 2019-08-19,Morgan Stanley,Overweight,,main,DE
 2019-08-19,Credit Suisse,Outperform,,reit,DE
-2019-08-19,Bank of America,Buy,,reit,DE
+2019-08-19,Wells Fargo,Outperform,,main,DE
+2019-08-19,UBS,Neutral,,main,DE
 2019-09-12,Wells Fargo,Market Perform,Outperform,down,DE
 2019-09-30,Baird,Outperform,,main,DE
 2019-10-09,Morgan Stanley,Overweight,,main,DE
@@ -196,23 +196,23 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-06-18,Citigroup,Neutral,,main,DE
 2020-08-12,Deutsche Bank,Hold,Buy,down,DE
 2020-08-13,JP Morgan,Underweight,Neutral,down,DE
-2020-08-17,Wells Fargo,Equal-Weight,,main,DE
 2020-08-17,BMO Capital,Outperform,,main,DE
+2020-08-17,Wells Fargo,Equal-Weight,,main,DE
 2020-08-19,Citigroup,Neutral,,main,DE
-2020-08-24,Deutsche Bank,Hold,,main,DE
 2020-08-24,Credit Suisse,Outperform,,main,DE
 2020-08-24,B of A Securities,Buy,Neutral,up,DE
 2020-08-24,Morgan Stanley,Overweight,,main,DE
 2020-08-24,Wells Fargo,Equal-Weight,,main,DE
 2020-08-24,RBC Capital,Outperform,,main,DE
+2020-08-24,Deutsche Bank,Hold,,main,DE
 2020-09-23,B of A Securities,Buy,,main,DE
 2020-09-23,Bernstein,Market Perform,,init,DE
 2020-10-12,Morgan Stanley,Overweight,,main,DE
 2020-11-16,B of A Securities,Buy,,main,DE
 2020-11-18,Deutsche Bank,Hold,,main,DE
 2020-11-27,Morgan Stanley,Overweight,,main,DE
-2020-12-15,Oppenheimer,Outperform,,init,DE
 2020-12-15,Morgan Stanley,Overweight,,main,DE
+2020-12-15,Oppenheimer,Outperform,,init,DE
 2021-01-20,Vertical Research,Buy,,init,DE
 2021-01-25,BMO Capital,Outperform,,main,DE
 2021-02-22,Oppenheimer,Outperform,,main,DE
@@ -228,10 +228,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-04-13,Wolfe Research,Outperform,,init,DE
 2021-05-13,BMO Capital,Market Perform,Outperform,down,DE
 2021-05-14,Citigroup,Buy,,main,DE
-2021-05-24,Stifel,Buy,,main,DE
-2021-05-24,Credit Suisse,Outperform,,main,DE
 2021-05-24,Morgan Stanley,Overweight,,main,DE
 2021-05-24,BMO Capital,Market Perform,,main,DE
+2021-05-24,Stifel,Buy,,main,DE
+2021-05-24,Credit Suisse,Outperform,,main,DE
 2021-05-25,Jefferies,Buy,,main,DE
 2021-07-13,Morgan Stanley,Overweight,,main,DE
 2021-07-20,Credit Suisse,Outperform,,main,DE
@@ -241,3 +241,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-26,Credit Suisse,Outperform,,main,DE
 2021-11-29,Deutsche Bank,Hold,,main,DE
 2021-12-17,DA Davidson,Buy,,init,DE
+2022-01-13,Barclays,Overweight,,main,DE

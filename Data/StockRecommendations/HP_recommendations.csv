@@ -113,13 +113,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-06-21,KeyBanc,Overweight,Sector Weight,up,HP
 2016-07-11,Jefferies,Underweight,,main,HP
 2016-07-13,Citigroup,Neutral,,main,HP
-2016-07-29,FBR Capital,Market Perform,,main,HP
 2016-07-29,Jefferies,Underperform,,main,HP
+2016-07-29,FBR Capital,Market Perform,,main,HP
 2016-08-09,Citigroup,Neutral,,main,HP
 2016-09-06,Morgan Stanley,Equal-Weight,Underweight,up,HP
 2016-09-12,Citigroup,Neutral,,main,HP
-2016-09-15,Argus,Buy,Hold,up,HP
 2016-09-15,DA Davidson,Buy,,init,HP
+2016-09-15,Argus,Buy,Hold,up,HP
 2016-10-05,Citigroup,Neutral,,main,HP
 2016-12-01,Seaport Global,Neutral,,down,HP
 2016-12-02,Bernstein,Market Perform,,init,HP
@@ -131,8 +131,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-04-03,Guggenheim,Buy,Neutral,up,HP
 2017-05-03,Jefferies,Hold,Underperform,up,HP
 2017-05-23,Goldman Sachs,Sell,Neutral,down,HP
-2017-06-21,Seaport Global,Sell,Neutral,down,HP
 2017-06-21,Morgan Stanley,Underweight,Equal-Weight,down,HP
+2017-06-21,Seaport Global,Sell,Neutral,down,HP
 2017-06-27,Guggenheim,Neutral,Buy,down,HP
 2017-07-07,Wells Fargo,Underperform,Market Perform,down,HP
 2017-07-28,Citigroup,Sell,Neutral,down,HP
@@ -155,9 +155,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-09-25,B. Riley FBR,Buy,Neutral,up,HP
 2018-10-11,Morgan Stanley,Underweight,Underweight,main,HP
 2018-10-29,BMO Capital,Market Perform,Underperform,up,HP
-2018-11-19,Credit Suisse,Neutral,Underperform,up,HP
 2018-11-19,SunTrust Robinson Humphrey,Buy,Sell,up,HP
 2018-11-19,Citigroup,Buy,Neutral,up,HP
+2018-11-19,Credit Suisse,Neutral,Underperform,up,HP
 2018-12-03,Bank of America,Neutral,Underperform,up,HP
 2018-12-12,JP Morgan,Neutral,Neutral,main,HP
 2019-01-15,JP Morgan,Overweight,Neutral,up,HP
@@ -199,8 +199,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-07,B. Riley FBR,Neutral,,main,HP
 2020-05-07,Barclays,Equal-Weight,,main,HP
 2020-05-28,Piper Sandler,Overweight,Neutral,up,HP
-2020-05-28,B of A Securities,Buy,Neutral,up,HP
 2020-05-28,Citigroup,Neutral,,main,HP
+2020-05-28,B of A Securities,Buy,Neutral,up,HP
 2020-07-08,Morgan Stanley,Equal-Weight,Overweight,down,HP
 2020-08-03,Barclays,Underweight,Equal-Weight,down,HP
 2020-08-06,Citigroup,Neutral,,main,HP
@@ -226,3 +226,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-19,RBC Capital,Outperform,,main,HP
 2021-11-22,Morgan Stanley,Equal-Weight,,main,HP
 2021-12-07,Morgan Stanley,Underweight,Equal-Weight,down,HP
+2022-02-07,Morgan Stanley,Underweight,,main,HP

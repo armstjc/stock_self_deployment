@@ -45,19 +45,19 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-07-22,Citigroup,Buy,,main,F
 2014-07-25,Deutsche Bank,Buy,,main,F
 2014-08-12,Stifel Nicolaus,Buy,Hold,up,F
-2014-08-13,Credit Suisse,Neutral,,init,F
 2014-08-13,Stifel Nicolaus,Buy,Hold,up,F
+2014-08-13,Credit Suisse,Neutral,,init,F
 2014-09-08,Morgan Stanley,Underweight,Overweight,down,F
 2014-09-22,JP Morgan,Overweight,,main,F
+2014-09-30,Craig-Hallum,Hold,Buy,down,F
 2014-09-30,Deutsche Bank,Buy,,main,F
 2014-09-30,Credit Suisse,Neutral,,main,F
 2014-09-30,Citigroup,Buy,,main,F
-2014-09-30,Craig-Hallum,Hold,Buy,down,F
 2014-10-14,Buckingham Research,Neutral,Underperform,up,F
 2014-10-14,Goldman Sachs,Neutral,Buy,down,F
 2014-10-21,Susquehanna,Neutral,,init,F
-2014-10-27,Credit Suisse,Neutral,,main,F
 2014-10-27,Barclays,Equal-Weight,,main,F
+2014-10-27,Credit Suisse,Neutral,,main,F
 2014-11-11,Citigroup,Buy,,main,F
 2014-11-11,Citigroup,Buy,,main,F
 2014-12-15,Deutsche Bank,Hold,Buy,down,F
@@ -74,14 +74,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-01-29,Credit Suisse,Neutral,,main,F
 2016-02-24,Credit Suisse,Underperform,Neutral,down,F
 2016-04-29,Bank of America,Neutral,Buy,down,F
-2016-07-29,Citigroup,Neutral,,main,F
-2016-07-29,Goldman Sachs,Neutral,Buy,down,F
 2016-07-29,JP Morgan,Overweight,,main,F
 2016-07-29,CLSA,Outperform,,main,F
-2016-08-09,Jefferies,Underperform,,init,F
+2016-07-29,Citigroup,Neutral,,main,F
+2016-07-29,Goldman Sachs,Neutral,Buy,down,F
 2016-08-09,Seaport Global,Buy,,init,F
-2016-09-20,Buckingham Research,Neutral,Buy,down,F
+2016-08-09,Jefferies,Underperform,,init,F
 2016-09-20,Nomura,Buy,,init,F
+2016-09-20,Buckingham Research,Neutral,Buy,down,F
 2016-10-31,Daiwa Capital,Neutral,Underperform,up,F
 2016-11-22,Berenberg,Sell,,init,F
 2016-12-01,Macquarie,Neutral,,init,F
@@ -122,8 +122,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-05-10,Bank of America,Buy,Neutral,up,F
 2019-06-27,Credit Suisse,Outperform,,init,F
 2019-08-06,Morgan Stanley,Overweight,Equal-Weight,up,F
-2019-10-01,Buckingham,Neutral,,main,F
 2019-10-01,Buckingham Research,Neutral,,main,F
+2019-10-01,Buckingham,Neutral,,main,F
 2019-10-24,Deutsche Bank,Hold,Buy,down,F
 2020-01-02,Evercore ISI Group,Underperform,In-Line,down,F
 2020-01-07,Wolfe Research,Outperform,Peer Perform,up,F
@@ -137,8 +137,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-10,Morgan Stanley,Overweight,,main,F
 2020-03-03,B of A Securities,Buy,,main,F
 2020-03-11,Morgan Stanley,Overweight,,main,F
-2020-03-24,Morgan Stanley,Overweight,,main,F
 2020-03-24,Citigroup,Neutral,,main,F
+2020-03-24,Morgan Stanley,Overweight,,main,F
 2020-03-24,UBS,Neutral,Buy,down,F
 2020-04-15,Goldman Sachs,Neutral,,init,F
 2020-06-11,Morgan Stanley,Overweight,,main,F
@@ -158,8 +158,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-25,Morgan Stanley,Equal-Weight,Overweight,down,F
 2021-01-22,JP Morgan,Overweight,Neutral,up,F
 2021-02-01,Morgan Stanley,Underweight,Equal-Weight,down,F
-2021-02-05,Deutsche Bank,Hold,,main,F
 2021-02-05,Benchmark,Buy,,main,F
+2021-02-05,Deutsche Bank,Hold,,main,F
 2021-02-09,Argus Research,Buy,Hold,up,F
 2021-03-19,Barclays,Overweight,Equal-Weight,up,F
 2021-04-05,Wells Fargo,Overweight,,init,F
@@ -175,3 +175,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-02,Nomura Instinet,Reduce,Neutral,down,F
 2021-12-02,Wolfe Research,Peer Perform,Outperform,down,F
 2021-12-16,Barclays,Overweight,,main,F
+2022-01-10,Goldman Sachs,Neutral,,main,F
+2022-01-14,RBC Capital,Sector Perform,Outperform,down,F
+2022-01-20,Jefferies,Hold,Buy,down,F
+2022-02-04,Credit Suisse,Outperform,,main,F
+2022-02-04,Wells Fargo,Overweight,,main,F
+2022-02-08,Morgan Stanley,Underweight,,main,F

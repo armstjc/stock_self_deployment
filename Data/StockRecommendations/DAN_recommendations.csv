@@ -40,8 +40,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-10-21,Susquehanna,Neutral,,init,DAN
 2014-11-19,FBR Capital,Outperform,,init,DAN
 2015-01-28,Deutsche Bank,Hold,,main,DAN
-2015-02-20,Deutsche Bank,Hold,,main,DAN
 2015-02-20,JP Morgan,Neutral,,main,DAN
+2015-02-20,Deutsche Bank,Hold,,main,DAN
 2015-03-11,Deutsche Bank,Hold,,main,DAN
 2015-03-19,Barclays,Equal-Weight,Overweight,down,DAN
 2015-04-20,JP Morgan,Neutral,,main,DAN
@@ -68,11 +68,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-11-17,Deutsche Bank,Hold,,main,DAN
 2018-02-14,JP Morgan,Neutral,Neutral,main,DAN
 2018-03-09,Susquehanna,Neutral,Negative,up,DAN
-2018-05-01,Guggenheim,Neutral,Buy,down,DAN
 2018-05-01,Barclays,Equal-Weight,Equal-Weight,main,DAN
+2018-05-01,Guggenheim,Neutral,Buy,down,DAN
 2018-06-01,Bank of America,Buy,,init,DAN
-2018-07-26,Buckingham,Neutral,Neutral,main,DAN
 2018-07-26,Barclays,Overweight,Equal-Weight,up,DAN
+2018-07-26,Buckingham,Neutral,Neutral,main,DAN
 2018-10-18,Bank of America,Neutral,,down,DAN
 2018-10-19,JP Morgan,Overweight,Neutral,up,DAN
 2018-12-11,KeyBanc,Overweight,,init,DAN
@@ -96,8 +96,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-08-18,KeyBanc,Overweight,,main,DAN
 2020-08-20,Barclays,Overweight,Equal-Weight,up,DAN
 2020-10-08,RBC Capital,Outperform,Sector Perform,up,DAN
-2020-10-29,KeyBanc,Overweight,,main,DAN
 2020-10-29,Deutsche Bank,Buy,,main,DAN
+2020-10-29,KeyBanc,Overweight,,main,DAN
 2020-11-17,B of A Securities,Buy,,main,DAN
 2020-12-16,KeyBanc,Overweight,,main,DAN
 2021-01-11,B of A Securities,Neutral,Buy,down,DAN
@@ -110,3 +110,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-16,B of A Securities,Buy,Neutral,up,DAN
 2021-10-05,Wells Fargo,Overweight,,main,DAN
 2021-10-28,Barclays,Overweight,,main,DAN
+2022-01-27,Barclays,Overweight,,main,DAN

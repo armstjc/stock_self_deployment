@@ -51,8 +51,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-04-09,Morgan Stanley,Underweight,,down,GM
 2014-04-11,Deutsche Bank,Buy,,main,GM
 2014-04-23,Bank of America,Buy,,main,GM
-2014-04-25,Craig-Hallum,Hold,Buy,down,GM
 2014-04-25,UBS,Buy,,main,GM
+2014-04-25,Craig-Hallum,Hold,Buy,down,GM
 2014-05-21,Citigroup,Buy,,main,GM
 2014-07-22,Citigroup,Buy,,main,GM
 2014-07-25,CLSA,Outperform,Buy,down,GM
@@ -109,12 +109,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-09-25,Deutsche Bank,Buy,Hold,up,GM
 2017-10-03,Bank of America,Buy,Neutral,up,GM
 2017-10-13,Barclays,Overweight,Equal-Weight,up,GM
-2017-10-25,Morgan Stanley,Equal-Weight,Overweight,down,GM
-2017-10-25,Deutsche Bank,Buy,,main,GM
 2017-10-25,Citigroup,Buy,,main,GM
 2017-10-25,BMO Capital,Market Perform,,main,GM
-2017-10-30,Jefferies,Hold,,main,GM
+2017-10-25,Deutsche Bank,Buy,,main,GM
+2017-10-25,Morgan Stanley,Equal-Weight,Overweight,down,GM
 2017-10-30,Goldman Sachs,Sell,Neutral,down,GM
+2017-10-30,Jefferies,Hold,,main,GM
 2017-11-01,Nomura,Neutral,Buy,down,GM
 2017-11-02,Nomura,Neutral,,main,GM
 2017-11-20,Guggenheim,Buy,Neutral,up,GM
@@ -133,8 +133,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-08-17,Morgan Stanley,Overweight,Overweight,main,GM
 2018-10-03,Buckingham,Neutral,Neutral,main,GM
 2018-10-04,Citigroup,Buy,Buy,main,GM
-2018-11-06,Citigroup,Buy,Buy,main,GM
 2018-11-06,Morgan Stanley,Overweight,Overweight,main,GM
+2018-11-06,Citigroup,Buy,Buy,main,GM
 2018-12-14,Deutsche Bank,Buy,,init,GM
 2019-01-14,BMO Capital,Outperform,Outperform,main,GM
 2019-02-13,Seaport Global,Buy,,init,GM
@@ -149,16 +149,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-10,Morgan Stanley,Overweight,,main,GM
 2020-03-03,B of A Securities,Buy,,main,GM
 2020-03-11,Morgan Stanley,Overweight,,main,GM
-2020-03-24,Morgan Stanley,Overweight,,main,GM
 2020-03-24,Citigroup,Buy,,main,GM
+2020-03-24,Morgan Stanley,Overweight,,main,GM
 2020-04-01,CFRA,Hold,,main,GM
 2020-04-15,Goldman Sachs,Neutral,,init,GM
 2020-05-07,Barclays,Overweight,,main,GM
 2020-05-07,Deutsche Bank,Buy,Hold,up,GM
 2020-05-08,Morgan Stanley,Overweight,,main,GM
 2020-05-11,Nomura Instinet,Neutral,,main,GM
-2020-06-12,Goldman Sachs,Buy,Neutral,up,GM
 2020-06-12,Morgan Stanley,Overweight,,main,GM
+2020-06-12,Goldman Sachs,Buy,Neutral,up,GM
 2020-07-01,UBS,Buy,,main,GM
 2020-07-24,Barclays,Overweight,,main,GM
 2020-07-30,Deutsche Bank,Buy,,main,GM
@@ -193,3 +193,7 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-11,Morgan Stanley,Overweight,,main,GM
 2021-12-14,Daiwa Capital,Neutral,Outperform,down,GM
 2021-12-16,Wells Fargo,Overweight,,main,GM
+2022-02-02,RBC Capital,Outperform,,main,GM
+2022-02-02,Citigroup,Buy,,main,GM
+2022-02-08,Morgan Stanley,Equal-Weight,Overweight,down,GM
+2022-02-09,Nomura Instinet,Neutral,Buy,down,GM

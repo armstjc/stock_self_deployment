@@ -23,9 +23,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-08-04,B. Riley FBR,Neutral,,main,CLX
 2014-09-23,Citigroup,Neutral,Buy,down,CLX
 2014-09-23,B. Riley FBR,Sell,Neutral,down,CLX
-2014-11-03,JP Morgan,Underweight,,main,CLX
 2014-11-03,Credit Suisse,Underperform,,main,CLX
 2014-11-03,B. Riley FBR,Neutral,Sell,up,CLX
+2014-11-03,JP Morgan,Underweight,,main,CLX
 2014-12-11,Raymond James,Market Perform,,init,CLX
 2014-12-15,Citigroup,Neutral,,main,CLX
 2015-01-15,Deutsche Bank,Hold,,main,CLX
@@ -77,26 +77,26 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-10-10,Deutsche Bank,Sell,Hold,down,CLX
 2018-10-17,Wells Fargo,Market Perform,Market Perform,main,CLX
 2018-11-01,Deutsche Bank,Sell,Sell,main,CLX
-2018-11-02,BMO Capital,Outperform,Outperform,main,CLX
 2018-11-02,Citigroup,Neutral,Neutral,main,CLX
+2018-11-02,BMO Capital,Outperform,Outperform,main,CLX
 2018-11-20,Citigroup,Neutral,Neutral,main,CLX
 2018-12-12,Wells Fargo,Market Perform,Market Perform,main,CLX
 2019-03-07,Credit Suisse,Outperform,,init,CLX
 2019-04-08,JP Morgan,Underweight,Neutral,down,CLX
-2019-05-02,Bank of America,Neutral,,reit,CLX
 2019-05-02,Wells Fargo,Market Perform,Market Perform,main,CLX
-2019-05-02,Citigroup,Neutral,Neutral,main,CLX
 2019-05-02,Deutsche Bank,Hold,Sell,up,CLX
+2019-05-02,Bank of America,Neutral,,reit,CLX
+2019-05-02,Citigroup,Neutral,Neutral,main,CLX
 2019-05-20,Argus Research,Hold,Buy,down,CLX
 2019-08-02,Morgan Stanley,Underweight,,main,CLX
 2019-08-02,UBS,Sell,,main,CLX
 2019-09-23,Barclays,Underweight,Equal-Weight,down,CLX
 2019-09-30,Morgan Stanley,Underweight,,main,CLX
+2019-10-03,Bank of America,Neutral,,main,CLX
+2019-10-03,Deutsche Bank,Hold,,main,CLX
 2019-10-03,Credit Suisse,Outperform,,main,CLX
 2019-10-03,Citigroup,Neutral,,main,CLX
 2019-10-03,UBS,Sell,,main,CLX
-2019-10-03,Deutsche Bank,Hold,,main,CLX
-2019-10-03,Bank of America,Neutral,,main,CLX
 2019-12-12,Deutsche Bank,Hold,,main,CLX
 2020-02-04,CFRA,Sell,Hold,down,CLX
 2020-02-05,Deutsche Bank,Hold,,main,CLX
@@ -107,17 +107,17 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-03-19,Credit Suisse,Neutral,Outperform,down,CLX
 2020-04-27,Morgan Stanley,Underweight,,main,CLX
 2020-05-01,CFRA,Hold,,reit,CLX
+2020-05-04,UBS,Sell,,main,CLX
 2020-05-04,Credit Suisse,Neutral,,main,CLX
 2020-05-04,Morgan Stanley,Underweight,,main,CLX
-2020-05-04,UBS,Sell,,main,CLX
 2020-06-03,Credit Suisse,Neutral,,main,CLX
 2020-06-30,DA Davidson,Buy,,init,CLX
 2020-07-10,Morgan Stanley,Underweight,,main,CLX
 2020-07-27,Deutsche Bank,Hold,,main,CLX
-2020-08-04,DA Davidson,Buy,,main,CLX
-2020-08-04,Morgan Stanley,Underweight,,main,CLX
-2020-08-04,Citigroup,Neutral,,main,CLX
 2020-08-04,Credit Suisse,Neutral,,main,CLX
+2020-08-04,Morgan Stanley,Underweight,,main,CLX
+2020-08-04,DA Davidson,Buy,,main,CLX
+2020-08-04,Citigroup,Neutral,,main,CLX
 2020-09-30,DA Davidson,Buy,,main,CLX
 2020-10-16,JP Morgan,Neutral,Overweight,down,CLX
 2020-11-03,DA Davidson,Buy,,main,CLX
@@ -131,8 +131,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-04-16,JP Morgan,Neutral,,main,CLX
 2021-04-19,Morgan Stanley,Underweight,,main,CLX
 2021-04-21,Deutsche Bank,Hold,,main,CLX
-2021-05-03,Morgan Stanley,Underweight,,main,CLX
 2021-05-03,Wells Fargo,Underweight,Equal-Weight,down,CLX
+2021-05-03,Morgan Stanley,Underweight,,main,CLX
 2021-05-03,Deutsche Bank,Hold,,main,CLX
 2021-05-03,DA Davidson,Neutral,,main,CLX
 2021-05-03,Credit Suisse,Neutral,,main,CLX
@@ -141,8 +141,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-06-24,UBS,Sell,,init,CLX
 2021-07-26,Deutsche Bank,Hold,,main,CLX
 2021-08-04,Atlantic Equities,Neutral,Overweight,down,CLX
-2021-08-04,RBC Capital,Sector Perform,,main,CLX
 2021-08-04,Deutsche Bank,Hold,,main,CLX
+2021-08-04,RBC Capital,Sector Perform,,main,CLX
 2021-08-04,Credit Suisse,Neutral,,main,CLX
 2021-08-04,DA Davidson,Neutral,,main,CLX
 2021-08-04,Morgan Stanley,Underweight,,main,CLX
@@ -154,3 +154,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-11-02,JP Morgan,Underweight,Neutral,down,CLX
 2021-11-03,Barclays,Underweight,,main,CLX
 2022-01-11,Goldman Sachs,Sell,,main,CLX
+2022-01-26,Credit Suisse,Underperform,Neutral,down,CLX
+2022-02-02,Bernstein,Underperform,Market Perform,down,CLX
+2022-02-04,Morgan Stanley,Underweight,,main,CLX
+2022-02-04,Credit Suisse,Underperform,,main,CLX
+2022-02-04,JP Morgan,Underweight,,main,CLX
+2022-02-04,Atlantic Equities,Underweight,Neutral,down,CLX
+2022-02-07,DA Davidson,Neutral,,main,CLX
+2022-02-07,Barclays,Underweight,,main,CLX

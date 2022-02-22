@@ -41,9 +41,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2014-02-20,Nomura,Buy,,init,ETN
 2014-03-03,Morgan Stanley,Overweight,,main,ETN
 2014-06-24,Citigroup,Buy,,main,ETN
+2014-07-30,JP Morgan,Neutral,Overweight,down,ETN
 2014-07-30,Barclays,Equal-Weight,,main,ETN
 2014-07-30,Deutsche Bank,Hold,Buy,down,ETN
-2014-07-30,JP Morgan,Neutral,Overweight,down,ETN
 2014-07-30,Citigroup,Buy,,main,ETN
 2014-08-04,Argus,Buy,,main,ETN
 2014-09-30,Morgan Stanley,Overweight,,main,ETN
@@ -120,8 +120,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-11-02,Citigroup,Buy,Buy,main,ETN
 2018-11-20,Stephens & Co.,Overweight,,init,ETN
 2019-01-07,Barclays,Underweight,Underweight,main,ETN
-2019-03-04,Vertical Research,Buy,Hold,up,ETN
 2019-03-04,Wells Fargo,Outperform,Outperform,main,ETN
+2019-03-04,Vertical Research,Buy,Hold,up,ETN
 2019-03-12,KeyBanc,Overweight,Sector Weight,up,ETN
 2019-07-31,Morgan Stanley,Equal-Weight,,main,ETN
 2019-09-03,Baird,Neutral,Outperform,down,ETN
@@ -171,9 +171,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-07-30,Deutsche Bank,Buy,,main,ETN
 2020-07-30,RBC Capital,Sector Perform,,main,ETN
 2020-08-20,Berenberg,Hold,,init,ETN
-2020-11-04,Morgan Stanley,Equal-Weight,,main,ETN
 2020-11-04,Deutsche Bank,Buy,,main,ETN
 2020-11-04,Credit Suisse,Outperform,,main,ETN
+2020-11-04,Morgan Stanley,Equal-Weight,,main,ETN
 2020-11-11,B of A Securities,Buy,Neutral,up,ETN
 2020-11-23,Morgan Stanley,Equal-Weight,,main,ETN
 2020-11-24,Morgan Stanley,Equal-Weight,,main,ETN
@@ -202,11 +202,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-04,Barclays,Equal-Weight,,main,ETN
 2021-10-07,Morgan Stanley,Overweight,,main,ETN
 2021-10-08,Wells Fargo,Equal-Weight,,init,ETN
-2021-11-03,Morgan Stanley,Overweight,,main,ETN
 2021-11-03,Credit Suisse,Outperform,,main,ETN
 2021-11-03,RBC Capital,Sector Perform,,main,ETN
 2021-11-03,Barclays,Equal-Weight,,main,ETN
 2021-11-03,Wells Fargo,Equal-Weight,,main,ETN
+2021-11-03,Morgan Stanley,Overweight,,main,ETN
 2021-11-04,Oppenheimer,Outperform,,main,ETN
 2021-12-15,Morgan Stanley,Overweight,,main,ETN
 2021-12-17,Mizuho,Buy,,init,ETN
+2022-02-07,Credit Suisse,Outperform,,main,ETN
+2022-02-07,Mizuho,Buy,,main,ETN
+2022-02-07,Barclays,Equal-Weight,,main,ETN

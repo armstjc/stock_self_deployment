@@ -30,10 +30,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-02-23,KeyBanc,Overweight,Sector Weight,up,IQ
 2021-04-29,Credit Suisse,Neutral,Underperform,up,IQ
 2021-05-06,JP Morgan,Neutral,Underweight,up,IQ
-2021-05-19,Keybanc,Overweight,,main,IQ
 2021-05-19,CLSA,Outperform,Underperform,up,IQ
+2021-05-19,Keybanc,Overweight,,main,IQ
 2021-07-07,OTR Global,Positive,Mixed,up,IQ
 2021-08-13,Keybanc,Overweight,,main,IQ
 2021-10-05,OTR Global,Mixed,Positive,down,IQ
 2021-11-02,UBS,Neutral,Buy,down,IQ
 2021-12-28,Benchmark,Hold,,init,IQ
+2022-01-10,OTR Global,Negative,Mixed,down,IQ

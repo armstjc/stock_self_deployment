@@ -1,26 +1,26 @@
 Symbol,Name,Last Price,Industry / Category,Type,Exchange,ABV
-SPCE,"Virgin Galactic Holdings, Inc.",8.99,Industrials,Stocks,NYQ,SCE
-SE,Sea Limited,155.02,Communication Services,Stocks,NYQ,SCE
-ICE,Intercontinental Exchange Inc.,129.76,Financial Services,Stocks,NYQ,SCE
-SCO,ProShares UltraShort Bloomberg,9.0,,ETF,PCX,SCE
-BCE,"BCE, Inc.",53.24,Communication Services,Stocks,NYQ,SCE
-SCU,"Sculptor Capital Management, In",18.16,Financial Services,Stocks,NYQ,SCE
-SCI,Service Corporation Internation,62.79,Consumer Cyclical,Stocks,NYQ,SCE
-SRE,DBA Sempra,136.27,Utilities,Stocks,NYQ,SCE
-CE,Celanese Corporation Celanese C,156.51,Basic Materials,Stocks,NYQ,SCE
-SCM,Stellus Capital Investment Corp,13.79,Financial Services,Stocks,NYQ,SCE
-SEE,Sealed Air Corporation,64.36,Consumer Cyclical,Stocks,NYQ,SCE
-STE,STERIS plc (Ireland),225.94,Healthcare,Stocks,NYQ,SCE
-SC,Santander Consumer USA Holdings,0.0,Financial Services,Stocks,NYQ,SCE
-SCL,Stepan Company,105.31,Basic Materials,Stocks,NYQ,SCE
-SCS,Steelcase Inc.,11.89,Industrials,Stocks,NYQ,SCE
-SCHE,Schwab Emerging Markets Equity,29.83,,ETF,PCX,SCE
-PSCE,Invesco S&P SmallCap Energy ETF,8.11,,ETF,NGM,SCE
-SCZ,iShares MSCI EAFE Small-Cap ETF,68.79,,ETF,NGM,SCE
-SCX,L.S. Starrett Company (The),8.81,Industrials,Stocks,NYQ,SCE
-SPE,"Special Opportunities Fund, Inc",14.75,Financial Services,Stocks,NYQ,SCE
-SNCE,"Science 37 Holdings, Inc.",8.01,Healthcare,Stocks,NGM,SCE
-KCE,SPDR S&P Capital Markets ETF,96.17,,ETF,PCX,SCE
-SCG.AX,SCENTRE STAPLED,2.96,Real Estate,Stocks,ASX,SCE
-SHE,SPDR Series Trust SPDR SSGA Gen,92.42,,ETF,PCX,SCE
-SKE,Skeena Resources Limited,9.9,Basic Materials,Stocks,NYQ,SCE
+SPCE,"Virgin Galactic Holdings, Inc.",8.4,Industrials,Stocks,NYQ,SCE
+SE,Sea Limited,127.69,Communication Services,Stocks,NYQ,SCE
+CE,Celanese Corporation Celanese C,144.25,Basic Materials,Stocks,NYQ,SCE
+SCU,"Sculptor Capital Management, In",13.96,Financial Services,Stocks,NYQ,SCE
+SEE,Sealed Air Corporation,69.31,Consumer Cyclical,Stocks,NYQ,SCE
+SCO,ProShares UltraShort Bloomberg,8.91,,ETF,PCX,SCE
+SCI,Service Corporation Internation,58.95,Consumer Cyclical,Stocks,NYQ,SCE
+ICE,Intercontinental Exchange Inc.,122.87,Financial Services,Stocks,NYQ,SCE
+BCE,"BCE, Inc.",52.28,Communication Services,Stocks,NYQ,SCE
+SRE,DBA Sempra,135.51,Utilities,Stocks,NYQ,SCE
+SCM,Stellus Capital Investment Corp,13.78,Financial Services,Stocks,NYQ,SCE
+SCL,Stepan Company,107.33,Basic Materials,Stocks,NYQ,SCE
+STE,STERIS plc (Ireland),226.03,Healthcare,Stocks,NYQ,SCE
+SCHE,Schwab Emerging Markets Equity,29.95,,ETF,PCX,SCE
+SCS,Steelcase Inc.,12.67,Industrials,Stocks,NYQ,SCE
+PSCE,Invesco S&P SmallCap Energy ETF,7.95,,ETF,NGM,SCE
+SNCE,"Science 37 Holdings, Inc.",7.7,Healthcare,Stocks,NGM,SCE
+SCX,L.S. Starrett Company (The),7.23,Industrials,Stocks,NYQ,SCE
+SPE,"Special Opportunities Fund, Inc",14.24,Financial Services,Stocks,NYQ,SCE
+SCZ,iShares MSCI EAFE Small-Cap ETF,67.81,,ETF,NGM,SCE
+SRCE,1st Source Corporation,49.36,Financial Services,Stocks,NMS,SCE
+JCE,Nuveen Core Equity Alpha Fund N,15.41,Financial Services,Stocks,NYQ,SCE
+SKE,Skeena Resources Limited,10.31,Basic Materials,Stocks,NYQ,SCE
+SHE,SPDR Series Trust SPDR SSGA Gen,89.95,,ETF,PCX,SCE
+SCG.AX,SCENTRE STAPLED,3.18,Real Estate,Stocks,ASX,SCE

@@ -17,9 +17,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-08-06,JP Morgan,Overweight,,main,LIN
 2019-08-06,Deutsche Bank,Buy,,main,LIN
 2019-10-16,Wells Fargo,Outperform,,init,LIN
+2019-11-13,JP Morgan,Overweight,,main,LIN
 2019-11-13,Barclays,Equal-Weight,,main,LIN
 2019-11-13,Deutsche Bank,Buy,,main,LIN
-2019-11-13,JP Morgan,Overweight,,main,LIN
 2019-11-13,Wells Fargo,Outperform,,main,LIN
 2019-11-14,Citigroup,Buy,,main,LIN
 2019-11-18,Atlantic Equities,Overweight,,init,LIN
@@ -33,14 +33,14 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-02-18,SunTrust Robinson Humphrey,Buy,,main,LIN
 2020-03-30,Goldman Sachs,Buy,Neutral,up,LIN
 2020-03-30,Morgan Stanley,Overweight,,main,LIN
-2020-04-09,Citigroup,Buy,,main,LIN
 2020-04-09,JP Morgan,Neutral,Overweight,down,LIN
+2020-04-09,Citigroup,Buy,,main,LIN
 2020-04-14,BMO Capital,Outperform,,main,LIN
 2020-04-15,Bernstein,Market Perform,Underperform,up,LIN
 2020-04-29,Barclays,Equal-Weight,,main,LIN
 2020-05-07,CFRA,Buy,,main,LIN
-2020-05-12,BMO Capital,Outperform,,main,LIN
 2020-05-12,Citigroup,Buy,,main,LIN
+2020-05-12,BMO Capital,Outperform,,main,LIN
 2020-05-18,UBS,Buy,,main,LIN
 2020-06-16,HSBC,Hold,Buy,down,LIN
 2020-07-28,Morgan Stanley,Overweight,,main,LIN
@@ -51,9 +51,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-11-09,Morgan Stanley,Overweight,,main,LIN
 2020-11-25,HSBC,Buy,Hold,up,LIN
 2020-12-07,Barclays,Overweight,Equal-Weight,up,LIN
-2021-02-08,Wells Fargo,Overweight,,main,LIN
-2021-02-08,Deutsche Bank,Buy,,main,LIN
 2021-02-08,Morgan Stanley,Overweight,,main,LIN
+2021-02-08,Deutsche Bank,Buy,,main,LIN
+2021-02-08,Wells Fargo,Overweight,,main,LIN
 2021-03-19,Cowen & Co.,Market Perform,,init,LIN
 2021-04-06,Wells Fargo,Overweight,,main,LIN
 2021-05-10,Morgan Stanley,Overweight,,main,LIN
@@ -66,8 +66,10 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-03,Wells Fargo,Overweight,,main,LIN
 2021-09-17,Societe Generale,Buy,,main,LIN
 2021-10-13,Mizuho,Neutral,,init,LIN
-2021-10-29,Wells Fargo,Overweight,,main,LIN
 2021-10-29,Mizuho,Neutral,,main,LIN
+2021-10-29,Wells Fargo,Overweight,,main,LIN
 2021-12-07,Evercore ISI Group,In-Line,Outperform,down,LIN
 2021-12-09,Wolfe Research,Outperform,Peer Perform,up,LIN
 2022-01-04,Societe Generale,Buy,,main,LIN
+2022-01-11,Morgan Stanley,Overweight,,main,LIN
+2022-02-14,BMO Capital,Outperform,,main,LIN

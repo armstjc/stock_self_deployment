@@ -78,9 +78,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-07-25,Deutsche Bank,Buy,Hold,up,BIG
 2017-09-25,Morgan Stanley,Overweight,,init,BIG
 2018-01-10,Oppenheimer,Perform,Outperform,down,BIG
-2018-03-12,Morgan Stanley,Overweight,Overweight,main,BIG
 2018-03-12,KeyBanc,Overweight,Overweight,main,BIG
 2018-03-12,Loop Capital,Buy,Buy,main,BIG
+2018-03-12,Morgan Stanley,Overweight,Overweight,main,BIG
 2018-03-13,Citigroup,Neutral,Buy,main,BIG
 2018-04-16,Raymond James,Outperform,Strong Buy,down,BIG
 2018-05-22,JP Morgan,Neutral,Neutral,main,BIG
@@ -98,9 +98,9 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-12-10,KeyBanc,Overweight,Overweight,main,BIG
 2019-01-07,Morgan Stanley,Equal-Weight,Overweight,down,BIG
 2019-01-10,Goldman Sachs,Neutral,Buy,down,BIG
-2019-03-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,BIG
-2019-03-11,Raymond James,Outperform,Outperform,main,BIG
 2019-03-11,Bank of America,Buy,Buy,main,BIG
+2019-03-11,Raymond James,Outperform,Outperform,main,BIG
+2019-03-11,Morgan Stanley,Equal-Weight,Equal-Weight,main,BIG
 2019-05-24,Piper Jaffray,Neutral,Overweight,down,BIG
 2019-06-03,KeyBanc,Overweight,,main,BIG
 2019-06-03,Bank of America,Underperform,Buy,down,BIG
@@ -117,8 +117,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-05-04,Telsey Advisory Group,Outperform,Market Perform,up,BIG
 2020-06-01,Deutsche Bank,Hold,,main,BIG
 2020-06-17,Piper Sandler,Overweight,,main,BIG
-2020-06-29,Loop Capital,Buy,Hold,up,BIG
 2020-06-29,Deutsche Bank,Hold,,main,BIG
+2020-06-29,Loop Capital,Buy,Hold,up,BIG
 2020-08-31,Deutsche Bank,Hold,,main,BIG
 2020-10-09,Wolfe Research,Outperform,,init,BIG
 2021-01-07,Barclays,Underweight,Equal-Weight,down,BIG
@@ -128,3 +128,7 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-09-21,Piper Sandler,Neutral,Overweight,down,BIG
 2021-12-06,Telsey Advisory Group,Market Perform,,main,BIG
 2021-12-14,Goldman Sachs,Sell,Neutral,down,BIG
+2022-01-12,Deutsche Bank,Hold,,main,BIG
+2022-01-12,Barclays,Underweight,,main,BIG
+2022-01-12,Telsey Advisory Group,Market Perform,,main,BIG
+2022-02-09,JP Morgan,Underweight,Neutral,down,BIG

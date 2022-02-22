@@ -12,12 +12,12 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-04-29,Morgan Stanley,Underweight,,main,ACI
 2021-05-03,Morgan Stanley,Underweight,,main,ACI
 2021-05-04,Goldman Sachs,Neutral,Buy,down,ACI
-2021-07-30,Credit Suisse,Outperform,,main,ACI
 2021-07-30,Telsey Advisory Group,Outperform,,main,ACI
+2021-07-30,Credit Suisse,Outperform,,main,ACI
 2021-08-02,Morgan Stanley,Underweight,,main,ACI
-2021-08-11,Telsey Advisory Group,Outperform,,main,ACI
 2021-08-11,Barclays,Equal-Weight,Underweight,up,ACI
 2021-08-11,Tigress Financial,Neutral,Buy,down,ACI
+2021-08-11,Telsey Advisory Group,Outperform,,main,ACI
 2021-09-23,Credit Suisse,Outperform,,main,ACI
 2021-10-05,BMO Capital,Underperform,Market Perform,down,ACI
 2021-10-11,Oppenheimer,Perform,Outperform,down,ACI
@@ -26,3 +26,6 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-19,RBC Capital,Outperform,,main,ACI
 2021-10-19,Citigroup,Neutral,Buy,down,ACI
 2021-12-14,UBS,Neutral,,init,ACI
+2022-01-07,Telsey Advisory Group,Outperform,,main,ACI
+2022-01-12,Barclays,Equal-Weight,,main,ACI
+2022-01-12,Morgan Stanley,Underweight,,main,ACI

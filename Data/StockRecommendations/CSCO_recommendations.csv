@@ -42,8 +42,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2012-12-10,JP Morgan,Neutral,,main,CSCO
 2012-12-10,Goldman Sachs,Buy,,main,CSCO
 2012-12-20,JP Morgan,Neutral,,main,CSCO
-2013-01-14,William Blair,Outperform,Market Perform,up,CSCO
 2013-01-14,Baird,Outperform,Neutral,up,CSCO
+2013-01-14,William Blair,Outperform,Market Perform,up,CSCO
 2013-01-17,JP Morgan,Underweight,Neutral,down,CSCO
 2013-02-04,Deutsche Bank,Buy,,main,CSCO
 2013-02-06,BMO Capital,Outperform,,main,CSCO
@@ -58,11 +58,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-03-28,UBS,Buy,,main,CSCO
 2013-05-07,Cowen & Co.,Outperform,,init,CSCO
 2013-05-13,FBR Capital,Market Perform,Underperform,up,CSCO
-2013-05-16,Deutsche Bank,Buy,,main,CSCO
 2013-05-16,Wunderlich,Buy,,main,CSCO
 2013-05-16,Nomura,Buy,,main,CSCO
-2013-05-16,BMO Capital,Outperform,,main,CSCO
 2013-05-16,FBN Securities,Outperform,,main,CSCO
+2013-05-16,BMO Capital,Outperform,,main,CSCO
+2013-05-16,Deutsche Bank,Buy,,main,CSCO
 2013-06-21,Wedbush,Outperform,,main,CSCO
 2013-06-27,Stifel Nicolaus,Buy,,main,CSCO
 2013-07-24,Wunderlich,Buy,,main,CSCO
@@ -70,8 +70,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-08-09,JP Morgan,Neutral,Underweight,up,CSCO
 2013-08-12,Stifel Nicolaus,Buy,,main,CSCO
 2013-08-15,ISI Group,Neutral,Cautious,up,CSCO
-2013-08-15,Nomura,Buy,,main,CSCO
 2013-08-15,Barclays,Overweight,,main,CSCO
+2013-08-15,Nomura,Buy,,main,CSCO
 2013-09-19,Cantor Fitzgerald,Buy,,init,CSCO
 2013-09-19,Credit Suisse,Underperform,,init,CSCO
 2013-10-16,MKM Partners,Neutral,Buy,down,CSCO
@@ -79,11 +79,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2013-11-14,Nomura,Buy,,main,CSCO
 2013-11-14,Wunderlich,Buy,,main,CSCO
 2013-11-14,Wedbush,Neutral,Outperform,down,CSCO
-2013-11-14,Goldman Sachs,Buy,,main,CSCO
-2013-11-14,Oppenheimer,Outperform,,main,CSCO
 2013-11-14,Cantor Fitzgerald,Buy,,main,CSCO
-2013-11-14,Sterne Agee,Buy,,main,CSCO
+2013-11-14,Goldman Sachs,Buy,,main,CSCO
 2013-11-14,Standpoint Research,Buy,Hold,up,CSCO
+2013-11-14,Sterne Agee,Buy,,main,CSCO
+2013-11-14,Oppenheimer,Outperform,,main,CSCO
 2013-11-15,LBBW Research,Sell,Hold,down,CSCO
 2013-11-18,ACI Research,Hold,,up,CSCO
 2013-12-11,Citigroup,Sell,,init,CSCO
@@ -143,39 +143,39 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2016-02-08,Goldman Sachs,Buy,,main,CSCO
 2016-02-08,Macquarie,Neutral,Underperform,up,CSCO
 2016-02-10,UBS,Buy,,main,CSCO
+2016-02-11,Jefferies,Buy,Hold,up,CSCO
+2016-02-11,Deutsche Bank,Buy,,main,CSCO
 2016-02-11,BMO Capital,Outperform,,main,CSCO
 2016-02-11,UBS,Buy,,main,CSCO
-2016-02-11,Deutsche Bank,Buy,,main,CSCO
-2016-02-11,Jefferies,Buy,Hold,up,CSCO
 2016-02-12,Oppenheimer,Outperform,,main,CSCO
 2016-04-05,Bank of America,Neutral,Buy,down,CSCO
 2016-04-06,JP Morgan,Neutral,Underweight,up,CSCO
 2016-05-19,Jefferies,Buy,,main,CSCO
 2016-05-19,Deutsche Bank,Buy,,main,CSCO
 2016-05-19,BMO Capital,Outperform,,main,CSCO
-2016-05-19,Credit Suisse,Underperform,,main,CSCO
-2016-05-19,Barclays,Overweight,,main,CSCO
 2016-05-19,JP Morgan,Neutral,,main,CSCO
+2016-05-19,Barclays,Overweight,,main,CSCO
+2016-05-19,Credit Suisse,Underperform,,main,CSCO
 2016-06-15,Goldman Sachs,Neutral,Buy,down,CSCO
 2016-06-16,UBS,Buy,,main,CSCO
 2016-08-09,Citigroup,Buy,,main,CSCO
 2016-08-15,Barclays,Overweight,,main,CSCO
 2016-08-17,Jefferies,Buy,,main,CSCO
-2016-08-18,Credit Suisse,Underperform,,main,CSCO
 2016-08-18,Barclays,Overweight,,main,CSCO
 2016-08-18,Morgan Stanley,Equal-Weight,,main,CSCO
 2016-08-18,Goldman Sachs,Neutral,,main,CSCO
+2016-08-18,Drexel Hamilton,Buy,,main,CSCO
 2016-08-18,Citigroup,Buy,,main,CSCO
 2016-08-18,UBS,Buy,,main,CSCO
-2016-08-18,Drexel Hamilton,Buy,,main,CSCO
+2016-08-18,Credit Suisse,Underperform,,main,CSCO
 2016-08-18,PiperJaffray,Overweight,,main,CSCO
 2016-08-18,Pacific Crest,Overweight,,main,CSCO
 2016-08-18,Jefferies,Buy,,main,CSCO
 2016-08-18,Wunderlich,Hold,,main,CSCO
 2016-08-18,JMP Securities,Market Perform,,main,CSCO
 2016-08-18,Deutsche Bank,Buy,,main,CSCO
-2016-08-18,KeyBanc,Overweight,,main,CSCO
 2016-08-18,Cowen & Co.,Outperform,,main,CSCO
+2016-08-18,KeyBanc,Overweight,,main,CSCO
 2016-08-19,Argus,Buy,,main,CSCO
 2016-09-12,UBS,Buy,,main,CSCO
 2016-09-14,Deutsche Bank,Buy,,main,CSCO
@@ -186,22 +186,22 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-04-27,Credit Suisse,Outperform,Underperform,up,CSCO
 2017-05-09,BMO Capital,Market Perform,Outperform,down,CSCO
 2017-05-15,Morgan Stanley,Overweight,Equal-Weight,up,CSCO
-2017-11-16,KeyBanc,Overweight,,main,CSCO
-2017-11-16,Deutsche Bank,Buy,,main,CSCO
-2017-11-16,Nomura,Neutral,,main,CSCO
+2017-11-16,Barclays,Overweight,,main,CSCO
 2017-11-16,BMO Capital,Market Perform,,main,CSCO
 2017-11-16,Bank of America,Neutral,,main,CSCO
-2017-11-16,Barclays,Overweight,,main,CSCO
+2017-11-16,Deutsche Bank,Buy,,main,CSCO
+2017-11-16,Nomura,Neutral,,main,CSCO
+2017-11-16,KeyBanc,Overweight,,main,CSCO
 2017-11-17,Argus,Buy,,main,CSCO
 2018-01-05,Bank of America,Buy,Neutral,up,CSCO
 2018-01-30,Loop Capital,Hold,,init,CSCO
 2018-02-07,Goldman Sachs,Buy,,init,CSCO
 2018-02-12,Nomura,Buy,Neutral,up,CSCO
 2018-02-13,Citigroup,Buy,Buy,main,CSCO
-2018-02-15,KeyBanc,Overweight,Overweight,main,CSCO
-2018-02-15,Stifel Nicolaus,Hold,Hold,main,CSCO
-2018-02-15,BMO Capital,Market Perform,Market Perform,main,CSCO
 2018-02-15,Deutsche Bank,Buy,Buy,main,CSCO
+2018-02-15,Stifel Nicolaus,Hold,Hold,main,CSCO
+2018-02-15,KeyBanc,Overweight,Overweight,main,CSCO
+2018-02-15,BMO Capital,Market Perform,Market Perform,main,CSCO
 2018-02-26,Morgan Stanley,Overweight,Overweight,main,CSCO
 2018-05-03,JP Morgan,Overweight,,init,CSCO
 2018-05-10,Credit Suisse,Neutral,,init,CSCO
@@ -209,16 +209,16 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2018-08-16,BMO Capital,Market Perform,Market Perform,main,CSCO
 2018-08-16,Credit Suisse,Neutral,Neutral,main,CSCO
 2018-09-04,Morgan Stanley,Overweight,Overweight,main,CSCO
-2018-11-15,Credit Suisse,Neutral,Neutral,main,CSCO
-2018-11-15,Deutsche Bank,Buy,Buy,main,CSCO
 2018-11-15,KeyBanc,Overweight,Overweight,main,CSCO
 2018-11-15,Raymond James,Outperform,Outperform,main,CSCO
+2018-11-15,Credit Suisse,Neutral,Neutral,main,CSCO
+2018-11-15,Deutsche Bank,Buy,Buy,main,CSCO
 2018-12-14,Nomura,Neutral,Buy,down,CSCO
 2019-02-12,Morgan Stanley,Equal-Weight,Overweight,down,CSCO
-2019-02-14,Citigroup,Buy,Buy,main,CSCO
 2019-02-14,Wells Fargo,Outperform,Outperform,main,CSCO
 2019-02-14,Credit Suisse,Neutral,Neutral,reit,CSCO
 2019-02-14,KeyBanc,Overweight,Overweight,main,CSCO
+2019-02-14,Citigroup,Buy,Buy,main,CSCO
 2019-03-25,KeyBanc,Overweight,Overweight,main,CSCO
 2019-04-16,Goldman Sachs,Buy,Buy,main,CSCO
 2019-05-16,Morgan Stanley,Equal-Weight,,main,CSCO
@@ -226,46 +226,46 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-06-12,William Blair,Market Perform,Outperform,down,CSCO
 2019-07-30,Nomura,Neutral,,main,CSCO
 2019-08-08,Barclays,Equal-Weight,,init,CSCO
-2019-08-15,Raymond James,Outperform,,main,CSCO
 2019-08-15,KeyBanc,Overweight,,main,CSCO
-2019-08-15,MKM Partners,Neutral,,main,CSCO
 2019-08-15,Morgan Stanley,Equal-Weight,,main,CSCO
+2019-08-15,MKM Partners,Neutral,,main,CSCO
 2019-08-15,Credit Suisse,Neutral,,main,CSCO
+2019-08-15,Raymond James,Outperform,,main,CSCO
 2019-09-11,Evercore ISI Group,Outperform,,init,CSCO
 2019-10-10,Goldman Sachs,Neutral,Buy,down,CSCO
 2019-10-17,KeyBanc,Overweight,,main,CSCO
 2019-11-05,Credit Suisse,Neutral,,main,CSCO
 2019-11-11,Piper Jaffray,Neutral,Overweight,down,CSCO
-2019-11-14,Wells Fargo,Outperform,,main,CSCO
-2019-11-14,Barclays,Equal-Weight,,main,CSCO
-2019-11-14,Piper Jaffray,Neutral,,main,CSCO
-2019-11-14,UBS,Buy,,main,CSCO
-2019-11-14,Nomura,Neutral,,main,CSCO
-2019-11-14,KeyBanc,Overweight,,main,CSCO
-2019-11-14,MKM Partners,Neutral,,main,CSCO
-2019-11-14,Morgan Stanley,Equal-Weight,,main,CSCO
-2019-11-14,Baird,Outperform,,main,CSCO
-2019-11-14,JP Morgan,Overweight,,main,CSCO
 2019-11-14,Citigroup,Buy,,main,CSCO
+2019-11-14,JP Morgan,Overweight,,main,CSCO
+2019-11-14,Baird,Outperform,,main,CSCO
+2019-11-14,Morgan Stanley,Equal-Weight,,main,CSCO
+2019-11-14,MKM Partners,Neutral,,main,CSCO
+2019-11-14,Nomura,Neutral,,main,CSCO
+2019-11-14,UBS,Buy,,main,CSCO
+2019-11-14,Piper Jaffray,Neutral,,main,CSCO
+2019-11-14,Barclays,Equal-Weight,,main,CSCO
+2019-11-14,Wells Fargo,Outperform,,main,CSCO
+2019-11-14,KeyBanc,Overweight,,main,CSCO
 2019-11-14,Bank of America,Buy,,main,CSCO
 2019-12-19,Barclays,Overweight,Equal-Weight,up,CSCO
 2020-01-08,Bank of America,Neutral,Buy,down,CSCO
 2020-01-22,KeyBanc,Overweight,,main,CSCO
-2020-02-13,Credit Suisse,Neutral,,main,CSCO
-2020-02-13,Raymond James,Outperform,,main,CSCO
 2020-02-13,Baird,Outperform,,main,CSCO
 2020-02-13,Nomura,Neutral,,main,CSCO
+2020-02-13,Credit Suisse,Neutral,,main,CSCO
+2020-02-13,Raymond James,Outperform,,main,CSCO
 2020-03-19,Morgan Stanley,Equal-Weight,,main,CSCO
 2020-03-23,Nomura,Neutral,,main,CSCO
 2020-03-31,Wells Fargo,Overweight,,main,CSCO
 2020-04-09,Credit Suisse,Neutral,,main,CSCO
 2020-04-14,MKM Partners,Neutral,,main,CSCO
 2020-04-17,KeyBanc,Sector Weight,Overweight,down,CSCO
-2020-05-14,Raymond James,Outperform,,main,CSCO
+2020-05-14,MKM Partners,Neutral,,main,CSCO
 2020-05-14,Morgan Stanley,Equal-Weight,,main,CSCO
 2020-05-14,Nomura Instinet,Neutral,,main,CSCO
 2020-05-14,Barclays,Overweight,,main,CSCO
-2020-05-14,MKM Partners,Neutral,,main,CSCO
+2020-05-14,Raymond James,Outperform,,main,CSCO
 2020-05-14,Credit Suisse,Neutral,,main,CSCO
 2020-05-14,Citigroup,Buy,,main,CSCO
 2020-05-14,UBS,Buy,,main,CSCO
@@ -286,8 +286,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-02-11,DZ Bank,Buy,Hold,up,CSCO
 2021-03-05,JP Morgan,Overweight,Neutral,up,CSCO
 2021-03-25,Goldman Sachs,Buy,Neutral,up,CSCO
-2021-04-16,Wolfe Research,Outperform,Peer Perform,up,CSCO
 2021-04-16,Morgan Stanley,Overweight,,main,CSCO
+2021-04-16,Wolfe Research,Outperform,Peer Perform,up,CSCO
 2021-04-20,Deutsche Bank,Hold,,init,CSCO
 2021-05-13,MKM Partners,Buy,,init,CSCO
 2021-05-14,Raymond James,Outperform,,main,CSCO
@@ -298,11 +298,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-19,Barclays,Overweight,,main,CSCO
 2021-08-19,Citigroup,Neutral,,main,CSCO
 2021-08-24,Deutsche Bank,Hold,,main,CSCO
-2021-09-09,Morgan Stanley,Equal-Weight,Overweight,down,CSCO
 2021-09-09,Wells Fargo,Overweight,,main,CSCO
+2021-09-09,Morgan Stanley,Equal-Weight,Overweight,down,CSCO
 2021-09-16,Raymond James,Outperform,,main,CSCO
 2021-09-16,Credit Suisse,Outperform,Neutral,up,CSCO
 2021-09-24,WestPark Capital,Hold,,init,CSCO
 2021-11-18,Credit Suisse,Outperform,,main,CSCO
 2021-12-15,Morgan Stanley,Equal-Weight,,main,CSCO
 2021-12-22,Citigroup,Neutral,,main,CSCO
+2022-01-19,Goldman Sachs,Neutral,Buy,down,CSCO
+2022-02-14,Cowen & Co.,Outperform,,main,CSCO

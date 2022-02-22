@@ -30,8 +30,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-08,Wells Fargo,Overweight,,main,INVH
 2020-04-15,B. Riley FBR,Buy,,main,INVH
 2020-04-16,Morgan Stanley,Equal-Weight,Overweight,down,INVH
-2020-04-29,Credit Suisse,Outperform,,main,INVH
 2020-04-29,Mizuho,Buy,Neutral,up,INVH
+2020-04-29,Credit Suisse,Outperform,,main,INVH
 2020-06-01,Mizuho,Buy,,main,INVH
 2020-06-09,Morgan Stanley,Equal-Weight,,main,INVH
 2020-06-16,B. Riley FBR,Buy,,main,INVH
@@ -60,3 +60,4 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-10-29,RBC Capital,Outperform,,main,INVH
 2021-11-02,JMP Securities,Market Outperform,,main,INVH
 2021-11-03,Raymond James,Strong Buy,,main,INVH
+2022-02-01,Keybanc,Overweight,,init,INVH

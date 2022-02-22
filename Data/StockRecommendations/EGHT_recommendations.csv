@@ -32,8 +32,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-05-15,Bank of America,Neutral,,main,EGHT
 2019-07-24,Rosenblatt,Neutral,Buy,down,EGHT
 2019-07-31,B. Riley FBR,Sell,Neutral,down,EGHT
-2019-07-31,Bank of America,Neutral,,main,EGHT
 2019-07-31,Morgan Stanley,Overweight,,main,EGHT
+2019-07-31,Bank of America,Neutral,,main,EGHT
 2019-10-24,B. Riley,Neutral,Sell,up,EGHT
 2019-10-31,Summit Insights Group,Buy,Hold,up,EGHT
 2020-01-13,Morgan Stanley,Equal-Weight,Overweight,down,EGHT
@@ -43,11 +43,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2020-04-14,BTIG,Buy,,init,EGHT
 2020-04-15,Rosenblatt,Neutral,,main,EGHT
 2020-04-22,Needham,Buy,,main,EGHT
-2020-05-13,B. Riley FBR,Sell,,main,EGHT
-2020-05-13,Wells Fargo,Equal-Weight,,main,EGHT
-2020-05-13,Craig-Hallum,Hold,,main,EGHT
-2020-05-13,Baird,Outperform,,main,EGHT
 2020-05-13,Morgan Stanley,Equal-Weight,,main,EGHT
+2020-05-13,Craig-Hallum,Hold,,main,EGHT
+2020-05-13,Wells Fargo,Equal-Weight,,main,EGHT
+2020-05-13,B. Riley FBR,Sell,,main,EGHT
+2020-05-13,Baird,Outperform,,main,EGHT
 2020-06-09,Morgan Stanley,Equal-Weight,,main,EGHT
 2020-06-10,Rosenblatt,Neutral,,main,EGHT
 2020-07-27,Rosenblatt,Neutral,,main,EGHT
@@ -66,3 +66,7 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-06-22,Needham,Buy,,init,EGHT
 2021-10-21,Barclays,Equal-Weight,,init,EGHT
 2021-12-13,Wells Fargo,Underweight,,main,EGHT
+2022-01-12,Baird,Neutral,Outperform,down,EGHT
+2022-01-24,Barclays,Equal-Weight,,main,EGHT
+2022-01-26,Wells Fargo,Underweight,,main,EGHT
+2022-02-03,Needham,Buy,,main,EGHT

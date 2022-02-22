@@ -42,13 +42,13 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2017-11-03,Baird,Neutral,,main,AWK
 2018-01-02,Guggenheim,Neutral,Buy,down,AWK
 2018-01-11,Bank of America,Neutral,Buy,down,AWK
-2018-02-22,Baird,Neutral,Neutral,main,AWK
 2018-02-22,Bank of America,Neutral,Neutral,main,AWK
-2018-02-26,Wells Fargo,Outperform,Outperform,main,AWK
+2018-02-22,Baird,Neutral,Neutral,main,AWK
 2018-02-26,Wells Fargo,Outperform,Market Perform,up,AWK
+2018-02-26,Wells Fargo,Outperform,Outperform,main,AWK
 2018-03-08,UBS,Buy,,init,AWK
-2018-03-23,HSBC,Buy,Hold,up,AWK
 2018-03-23,UBS,Buy,Buy,main,AWK
+2018-03-23,HSBC,Buy,Hold,up,AWK
 2018-04-16,Janney Capital,Buy,Neutral,up,AWK
 2018-09-17,Evercore ISI Group,Outperform,,init,AWK
 2018-12-06,Baird,Outperform,Neutral,up,AWK
@@ -88,3 +88,5 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2022-01-05,UBS,Sell,Neutral,down,AWK
 2022-01-07,JP Morgan,Underweight,Neutral,down,AWK
 2022-01-19,Wells Fargo,Underweight,,main,AWK
+2022-02-07,UBS,Neutral,Sell,up,AWK
+2022-02-09,Barclays,Equal-Weight,,main,AWK

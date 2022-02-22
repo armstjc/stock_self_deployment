@@ -39,8 +39,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2019-10-23,Raymond James,Outperform,,main,DCP
 2019-12-13,SunTrust Robinson Humphrey,Hold,,init,DCP
 2020-02-13,Raymond James,Outperform,,main,DCP
-2020-03-12,Stifel,Hold,Buy,down,DCP
 2020-03-12,Raymond James,Market Perform,Outperform,down,DCP
+2020-03-12,Stifel,Hold,Buy,down,DCP
 2020-04-02,Credit Suisse,Neutral,Outperform,down,DCP
 2020-04-14,Wells Fargo,Equal-Weight,,main,DCP
 2020-04-15,RF Lafferty,Buy,,main,DCP
@@ -59,8 +59,8 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-01-12,Barclays,Overweight,Equal-Weight,up,DCP
 2021-02-17,Credit Suisse,Neutral,,main,DCP
 2021-04-01,JP Morgan,Overweight,Neutral,up,DCP
-2021-05-13,Wells Fargo,Equal-Weight,Overweight,down,DCP
 2021-05-13,Credit Suisse,Neutral,,main,DCP
+2021-05-13,Wells Fargo,Equal-Weight,Overweight,down,DCP
 2021-06-02,Citigroup,Neutral,,main,DCP
 2021-06-14,Raymond James,Strong Buy,Outperform,up,DCP
 2021-06-17,Barclays,Overweight,,main,DCP
@@ -69,9 +69,11 @@ Date,Firm,To Grade,From Grade,Action,ABV
 2021-08-09,Mizuho,Neutral,,main,DCP
 2021-08-11,Credit Suisse,Neutral,,main,DCP
 2021-10-18,Raymond James,Strong Buy,,main,DCP
-2021-11-09,Credit Suisse,Outperform,Neutral,up,DCP
 2021-11-09,RBC Capital,Sector Perform,,main,DCP
+2021-11-09,Credit Suisse,Outperform,Neutral,up,DCP
 2021-11-10,Truist Securities,Buy,Hold,up,DCP
 2021-11-18,Stifel,Buy,Hold,up,DCP
 2021-12-17,Mizuho,Buy,Neutral,up,DCP
 2021-12-17,Citigroup,Buy,Neutral,up,DCP
+2022-01-20,Barclays,Overweight,,main,DCP
+2022-02-11,Raymond James,Strong Buy,,main,DCP
