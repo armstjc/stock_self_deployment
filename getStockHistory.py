@@ -1,6 +1,6 @@
 import pandas as pd
 import yfinance as yf
-from tqdm import tqdm
+#from tqdm import tqdm
 from datetime import datetime
 
 stockList = pd.read_csv('Stock_List.csv')

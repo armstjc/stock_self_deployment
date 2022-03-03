@@ -1,6 +1,6 @@
 import pandas as pd
 import yfinance as yf
-from tqdm import tqdm
+#from tqdm import tqdm
 from zipfile import ZipFile
 from RefreshStockAbv import getStockList
 import os
