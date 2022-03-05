@@ -11,6 +11,7 @@ from getStockFinancials import getStockFinancials
 from getStockHistory import getStockHistory
 from getStockOptions import getStockOptions
 from getStockRecommendations import getStockRecommendations
+from stockAnalyisis import useCommonIndicators
 
 today = date.today()
 
@@ -22,6 +23,7 @@ def job1():
     print("Starting job 1")
     congress()
     getStockOptions()
+    useCommonIndicators()
 
 def job2():
     print("Starting job 2")
@@ -68,10 +70,10 @@ def git_push():
 #         jobqueue.task_done()
 
 
-schedule.every().day.at("17:40").do(run_threaded, job1)
-schedule.every().day.at("17:40").do(run_threaded, job2)
-schedule.every().day.at("17:40").do(run_threaded, job3)
-schedule.every().day.at("17:40").do(run_threaded, job4)
+schedule.every().day.at("00:00").do(run_threaded, job1)
+schedule.every().day.at("00:00").do(run_threaded, job2)
+schedule.every().day.at("00:00").do(run_threaded, job3)
+schedule.every().day.at("00:00").do(run_threaded, job4)
 schedule.every().friday.at("19:04").do(run_threaded, job5)
 schedule.every().friday.at("19:05").do(run_threaded, job6)
 #schedule.every().day.at("14:23").do(run_threaded, git_push)
