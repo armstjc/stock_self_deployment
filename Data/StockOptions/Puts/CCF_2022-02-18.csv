@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCF220218P00090000,2021-12-31 15:07:34+00:00,90.0,0.3,0.2,1.1,0.0,0.0,2.0,7,0.5302781347656251,False,REGULAR,USD,CCF
-CCF220218P00095000,2021-12-13 05:04:42+00:00,95.0,2.1,0.8,2.25,0.0,0.0,,3,0.29492892578124996,True,REGULAR,USD,CCF

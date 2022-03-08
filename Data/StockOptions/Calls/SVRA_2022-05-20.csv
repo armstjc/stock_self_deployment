@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SVRA220520C00002500,2022-01-05 17:53:46+00:00,2.5,0.12,0.1,0.15,0.019999996,19.999996,2,1100,1.5390648046875,False,REGULAR,USD,SVRA
-SVRA220520C00005000,2021-12-20 18:58:03+00:00,5.0,0.05,0.0,0.15,0.0,0.0,1,166,1.9218753906250001,False,REGULAR,USD,SVRA

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IBOC220218P00030000,2021-11-10 11:53:01+00:00,30.0,0.75,0.0,2.0,0.0,0.0,,1,2.746096884765625,False,REGULAR,USD,IBOC
-IBOC220218P00045000,2021-11-08 19:43:28+00:00,45.0,2.75,1.8,6.0,0.0,0.0,18.0,37,1.2373085009765623,True,REGULAR,USD,IBOC

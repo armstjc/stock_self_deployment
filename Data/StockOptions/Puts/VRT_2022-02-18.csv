@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VRT220218P00025000,2021-12-29 20:00:46+00:00,25.0,1.35,2.45,3.6,0.0,0.0,14.0,14,1.0000000000000003e-05,True,REGULAR,USD,VRT
-VRT220218P00030000,2021-12-30 17:55:09+00:00,30.0,4.89,5.7,8.2,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,VRT

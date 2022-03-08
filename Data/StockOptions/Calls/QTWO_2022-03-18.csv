@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QTWO220318C00075000,2022-02-09 20:39:34+00:00,75.0,1.7,1.0,2.8,0.0,0.0,5,15,0.7199735034179688,False,REGULAR,USD,QTWO
-QTWO220318C00080000,2022-02-08 14:51:47+00:00,80.0,0.79,0.15,4.5,0.0,0.0,10,10,0.9333502758789063,False,REGULAR,USD,QTWO

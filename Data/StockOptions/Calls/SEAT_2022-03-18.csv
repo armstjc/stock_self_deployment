@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SEAT220318C00007500,2021-12-21 20:17:28+00:00,7.5,3.39,4.0,4.3,0.0,0.0,1,2,2.0449267626953125,True,REGULAR,USD,SEAT
-SEAT220318C00010000,2022-01-05 20:04:06+00:00,10.0,2.35,2.1,2.5,0.0,0.0,1,11,1.5566428417968747,True,REGULAR,USD,SEAT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MSEX220617P00100000,2021-12-29 20:29:59+00:00,100.0,3.01,5.6,10.0,0.0,0.0,,1,0.35095863891601553,True,REGULAR,USD,MSEX
-MSEX220617P00115000,2021-12-29 20:29:59+00:00,115.0,7.78,15.7,20.5,0.0,0.0,,1,0.32080757324218745,True,REGULAR,USD,MSEX

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MGPI220916P00060000,2022-02-09 20:17:41+00:00,60.0,3.2,2.9,3.8,0.0,0.0,1,0,0.5091601818847658,False,REGULAR,USD,MGPI
-MGPI220916P00070000,2022-02-04 15:09:50+00:00,70.0,7.7,4.6,7.7,0.0,0.0,50,65,0.5131884619140624,False,REGULAR,USD,MGPI

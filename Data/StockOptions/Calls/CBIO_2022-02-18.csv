@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBIO220218C00002500,2022-02-11 17:22:43+00:00,2.5,0.05,0.0,0.05,0.0,0.0,8,1171,7.7500003125,False,REGULAR,USD,CBIO
-CBIO220218C00005000,2022-02-07 16:00:23+00:00,5.0,0.05,0.0,0.05,0.0,0.0,40,0,9.75000390625,False,REGULAR,USD,CBIO

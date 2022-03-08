@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AP220916C00005000,2022-02-07 17:59:05+00:00,5.0,1.55,1.25,2.3,0.0,0.0,5,20,0.7041045214843751,True,REGULAR,USD,AP
-AP220916C00007500,2022-02-11 20:09:18+00:00,7.5,0.55,0.35,0.6,-0.050000012,-8.333335,5,30,0.506840869140625,False,REGULAR,USD,AP

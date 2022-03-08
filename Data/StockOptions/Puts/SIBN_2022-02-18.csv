@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIBN220218P00017500,2022-01-07 18:07:55+00:00,17.5,0.65,0.0,2.45,0.0,0.0,4,4,2.3222698193359372,False,REGULAR,USD,SIBN
-SIBN220218P00025000,2022-01-21 19:37:48+00:00,25.0,4.8,2.95,6.9,0.0,0.0,40,40,3.341798520507812,True,REGULAR,USD,SIBN

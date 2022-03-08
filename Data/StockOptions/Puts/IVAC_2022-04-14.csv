@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IVAC220414P00005000,2022-01-25 15:50:54+00:00,5.0,0.35,0.3,1.0,0.0,0.0,10,239,0.8535170898437501,False,REGULAR,USD,IVAC

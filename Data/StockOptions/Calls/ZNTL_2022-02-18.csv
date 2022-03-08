@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZNTL220218C00085000,2021-12-27 17:30:50+00:00,85.0,8.4,1.2,4.6,0.0,0.0,1.0,333,4.045903380126953,False,REGULAR,USD,ZNTL
-ZNTL220218C00090000,2021-12-29 15:36:16+00:00,90.0,5.3,1.0,4.5,0.0,0.0,,0,4.224614094238281,False,REGULAR,USD,ZNTL

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SP220318P00025000,2022-02-10 15:04:07+00:00,25.0,0.6,0.45,0.95,0.3,100.0,4,57,0.5449264257812501,False,REGULAR,USD,SP

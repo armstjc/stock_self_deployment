@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLRX220218C00010000,2022-01-24 17:51:57+00:00,10.0,1.4,1.2,2.5,0.0,0.0,,3,1.7304700976562502,True,REGULAR,USD,PLRX
-PLRX220218C00012500,2022-01-25 15:26:51+00:00,12.5,0.53,0.0,0.75,0.0,0.0,2.0,11,1.2890660546875,False,REGULAR,USD,PLRX

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TIMB220318C00012500,2022-02-09 17:50:47+00:00,12.5,0.9,0.55,1.85,0.0,0.0,3,27,0.5400436621093752,True,REGULAR,USD,TIMB

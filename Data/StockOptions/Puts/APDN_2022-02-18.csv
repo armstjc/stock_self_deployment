@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APDN220218P00002500,2022-02-11 19:25:27+00:00,2.5,0.1,0.05,0.15,0.05,100.0,6,29,1.21875390625,False,REGULAR,USD,APDN
-APDN220218P00005000,2022-02-11 17:10:28+00:00,5.0,2.36,2.3,2.5,0.45999992,24.210524,3,6,3.2500018749999997,True,REGULAR,USD,APDN

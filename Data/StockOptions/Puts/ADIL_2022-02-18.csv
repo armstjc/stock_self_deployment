@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ADIL220218P00002500,2022-02-10 15:11:42+00:00,2.5,0.35,0.25,1.75,0.0,0.0,4.0,139,7.156251054687501,True,REGULAR,USD,ADIL
-ADIL220218P00005000,2021-11-10 11:53:10+00:00,5.0,1.45,2.15,2.8,0.0,0.0,,30,1.0000000000000003e-05,True,REGULAR,USD,ADIL

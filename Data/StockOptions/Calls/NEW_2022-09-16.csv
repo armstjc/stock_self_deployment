@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NEW220916C00002500,2022-01-28 19:19:58+00:00,2.5,0.05,0.0,0.1,0.0,0.0,34,93,0.35547519531249994,False,REGULAR,USD,NEW
-NEW220916C00005000,2022-01-21 14:30:03+00:00,5.0,0.05,0.0,0.8,0.0,0.0,1,1,1.419924775390625,False,REGULAR,USD,NEW

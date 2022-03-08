@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KEP220916C00010000,2022-01-24 18:27:24+00:00,10.0,0.31,0.5,0.75,0.0,0.0,,1,0.335944140625,False,REGULAR,USD,KEP

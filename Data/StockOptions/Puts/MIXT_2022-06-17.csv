@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MIXT220617P00010000,2021-12-13 05:07:30+00:00,10.0,0.9,0.55,1.1,0.0,0.0,10,0,0.5937540625000001,False,REGULAR,USD,MIXT
-MIXT220617P00012500,2021-12-14 16:58:04+00:00,12.5,2.4,0.85,3.1,0.0,0.0,10,30,0.5273484765625001,True,REGULAR,USD,MIXT

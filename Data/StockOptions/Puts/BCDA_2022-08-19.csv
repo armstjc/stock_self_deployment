@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCDA220819P00002500,2022-02-08 15:55:26+00:00,2.5,0.9,0.8,1.1,0.0,0.0,3,41,1.3515657421874998,True,REGULAR,USD,BCDA
-BCDA220819P00005000,2022-02-04 14:40:25+00:00,5.0,3.4,2.85,3.1,0.0,0.0,20,77,1.3398470507812497,True,REGULAR,USD,BCDA

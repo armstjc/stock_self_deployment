@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JNJ220211P00165000,2022-01-05 14:58:25+00:00,165.0,1.36,1.12,1.69,-0.120000005,-8.1081085,2,18,0.6757844921875001,False,REGULAR,USD,JNJ

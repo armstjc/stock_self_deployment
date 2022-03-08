@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVAX220218C00005000,2022-01-05 17:59:59+00:00,5.0,0.4,0.25,0.7,-0.14000002,-25.925928,1,11,5.546878066406249,False,REGULAR,USD,EVAX
-EVAX220218C00007500,2022-01-03 20:23:14+00:00,7.5,0.19,0.0,0.4,0.0,0.0,11,13,5.51562810546875,False,REGULAR,USD,EVAX

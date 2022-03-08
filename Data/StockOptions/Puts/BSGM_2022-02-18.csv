@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BSGM220218P00002500,2022-02-11 20:50:28+00:00,2.5,1.05,0.5,1.35,0.49999994,90.90907,40,155,7.687500390625001,True,REGULAR,USD,BSGM

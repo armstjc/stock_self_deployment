@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASX220218C00005000,2021-12-28 14:56:21+00:00,5.0,2.85,2.9,3.1,0.0,0.0,,1,5.320315849609374,True,REGULAR,USD,ASX
-ASX220218C00007500,2022-01-05 15:24:20+00:00,7.5,0.85,0.55,0.75,0.3,54.545456,2.0,57,2.0156299609375,False,REGULAR,USD,ASX

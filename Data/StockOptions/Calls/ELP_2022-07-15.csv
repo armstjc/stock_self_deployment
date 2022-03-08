@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ELP220715C00005000,2022-01-19 14:56:25+00:00,5.0,1.05,1.35,2.4,0.0,0.0,1,2,0.50586431640625,True,REGULAR,USD,ELP
-ELP220715C00007500,2022-02-11 15:56:12+00:00,7.5,0.34,0.3,0.45,0.03999999,13.333329,1,153,0.43555251953125,False,REGULAR,USD,ELP

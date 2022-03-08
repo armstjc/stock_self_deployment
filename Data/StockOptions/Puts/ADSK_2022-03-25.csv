@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ADSK220325P00225000,2022-02-04 16:10:42+00:00,225.0,10.25,13.4,16.25,0.0,0.0,2,2,0.5256395092773438,False,REGULAR,USD,ADSK

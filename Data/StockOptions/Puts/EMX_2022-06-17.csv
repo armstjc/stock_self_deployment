@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EMX220617P00002500,2022-02-04 18:38:59+00:00,2.5,0.6,0.0,0.55,0.0,0.0,2.0,135,0.6679720703125002,True,REGULAR,USD,EMX
-EMX220617P00005000,2021-12-20 14:30:00+00:00,5.0,2.95,2.75,2.9,0.0,0.0,,1,1.0234423828125,True,REGULAR,USD,EMX

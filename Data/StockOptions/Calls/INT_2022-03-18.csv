@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INT220318C00030000,2022-02-10 16:56:20+00:00,30.0,0.85,0.1,1.65,0.0,0.0,1.0,3,0.5556685058593751,False,REGULAR,USD,INT
-INT220318C00035000,2022-02-02 17:39:15+00:00,35.0,0.19,0.05,2.1,0.0,0.0,,1,0.8095722167968749,False,REGULAR,USD,INT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NEXT220715P00002500,2022-02-04 20:48:21+00:00,2.5,0.85,0.85,1.05,0.0,0.0,5,192,1.32422212890625,True,REGULAR,USD,NEXT
-NEXT220715P00005000,2022-01-21 14:54:31+00:00,5.0,3.2,3.0,3.2,0.0,0.0,2,1,1.3984405078125,True,REGULAR,USD,NEXT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MREO220819C00002500,2022-01-03 20:24:07+00:00,2.5,0.73,0.2,0.7,0.0,0.0,12.0,33,2.113285966796875,False,REGULAR,USD,MREO
-MREO220819C00005000,2021-12-22 14:49:17+00:00,5.0,0.4,0.0,0.45,0.0,0.0,,23,1.9375003125,False,REGULAR,USD,MREO

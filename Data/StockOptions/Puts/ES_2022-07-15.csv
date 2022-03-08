@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ES220715P00090000,2021-12-17 19:57:58+00:00,90.0,5.92,3.5,8.1,0.0,0.0,10,11,0.2036212451171875,True,REGULAR,USD,ES

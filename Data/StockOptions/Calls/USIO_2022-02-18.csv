@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USIO220218C00005000,2021-12-28 15:50:50+00:00,5.0,0.65,0.25,0.4,0.0,0.0,,5,4.45312943359375,False,REGULAR,USD,USIO

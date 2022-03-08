@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EPD220211P00021000,2022-01-05 17:28:03+00:00,21.0,0.15,0.15,0.24,-0.35,-70.0,2,2,1.7734386328124998,False,REGULAR,USD,EPD
-EPD220211P00023000,2022-01-05 17:28:03+00:00,23.0,0.69,0.88,1.0,-0.33999997,-33.00971,1,46,2.1699264501953124,False,REGULAR,USD,EPD

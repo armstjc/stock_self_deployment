@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TKR220916C00080000,2022-02-04 19:08:01+00:00,80.0,2.43,1.7,2.6,0.0,0.0,3,3,0.3415593188476562,False,REGULAR,USD,TKR

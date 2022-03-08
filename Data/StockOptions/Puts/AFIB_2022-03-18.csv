@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AFIB220318P00002500,2022-02-10 14:46:49+00:00,2.5,0.35,0.6,0.8,0.0,0.0,1,43,1.3281283593749997,True,REGULAR,USD,AFIB

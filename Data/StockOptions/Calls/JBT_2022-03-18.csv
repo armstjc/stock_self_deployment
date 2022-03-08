@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JBT220318C00140000,2022-02-07 15:40:45+00:00,140.0,4.1,4.7,6.2,0.0,0.0,2.0,7,0.4458063232421875,False,REGULAR,USD,JBT
-JBT220318C00145000,2022-01-20 18:02:47+00:00,145.0,8.8,3.0,4.8,0.0,0.0,,3,0.4686332434082031,False,REGULAR,USD,JBT

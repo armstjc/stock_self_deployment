@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FOE220218C00020000,2022-02-03 15:24:54+00:00,20.0,2.3,1.5,2.2,0.0,0.0,,2,0.8457046679687499,True,REGULAR,USD,FOE
-FOE220218C00022500,2022-02-04 16:43:49+00:00,22.5,0.05,0.0,0.05,0.0,0.0,1.0,30,0.1992267578125,False,REGULAR,USD,FOE

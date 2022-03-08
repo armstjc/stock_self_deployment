@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALG220617P00150000,2021-11-05 15:23:04+00:00,150.0,10.23,15.5,19.0,0.0,0.0,1,1,0.3613955462646484,True,REGULAR,USD,ALG
-ALG220617P00155000,2021-11-05 15:23:04+00:00,155.0,12.24,18.5,22.0,0.0,0.0,1,1,0.3411931115722656,True,REGULAR,USD,ALG

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UTI220414P00005000,2021-11-10 11:47:19+00:00,5.0,0.33,0.0,0.75,0.0,0.0,,28,1.5078149609375,False,REGULAR,USD,UTI
-UTI220414P00007500,2021-11-10 11:47:19+00:00,7.5,1.46,0.55,1.2,0.0,0.0,,5,1.111332568359375,False,REGULAR,USD,UTI

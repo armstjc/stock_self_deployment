@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MTEM220218P00002500,2021-12-21 15:46:32+00:00,2.5,0.09,0.0,0.15,0.0,0.0,,1,1.3125034374999998,False,REGULAR,USD,MTEM
-MTEM220218P00005000,2021-12-27 18:34:27+00:00,5.0,1.45,1.2,1.4,0.0,0.0,2.0,8,1.0000000000000003e-05,True,REGULAR,USD,MTEM

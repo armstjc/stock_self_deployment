@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBT220318P00055000,2022-02-11 18:42:55+00:00,55.0,0.3,0.15,0.4,0.050000012,20.000004,25,6,0.50586431640625,False,REGULAR,USD,CBT

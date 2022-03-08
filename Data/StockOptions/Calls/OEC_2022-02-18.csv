@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OEC220218C00017500,2022-02-01 19:06:03+00:00,17.5,0.88,1.85,3.6,0.0,0.0,642,0,1.48047134765625,True,REGULAR,USD,OEC
-OEC220218C00020000,2022-02-11 17:46:40+00:00,20.0,0.65,0.25,1.55,0.0,0.0,6,272,1.056645341796875,False,REGULAR,USD,OEC

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BWXT220819P00035000,2021-12-17 20:50:00+00:00,35.0,1.2,0.85,1.0,0.0,0.0,4,4,0.3579165771484375,False,REGULAR,USD,BWXT
-BWXT220819P00045000,2021-12-28 17:42:45+00:00,45.0,3.5,2.75,3.5,0.0,0.0,2,21,0.23987576538085933,True,REGULAR,USD,BWXT

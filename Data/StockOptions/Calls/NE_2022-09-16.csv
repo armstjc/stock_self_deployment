@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NE220916C00030000,2022-02-04 17:26:49+00:00,30.0,2.5,2.1,2.8,0.0,0.0,138,138,0.5407760766601564,False,REGULAR,USD,NE

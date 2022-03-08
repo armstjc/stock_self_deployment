@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KMB220211P00140000,2022-01-04 15:02:50+00:00,140.0,2.15,1.55,2.75,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,KMB

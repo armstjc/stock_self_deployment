@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KAI220715C00250000,2022-01-11 19:10:21+00:00,250.0,6.5,3.3,5.2,0.0,0.0,1.0,0,0.31793894958496094,False,REGULAR,USD,KAI
-KAI220715C00260000,2021-11-18 14:30:31+00:00,260.0,9.0,6.1,9.9,0.0,0.0,,10,0.4664970343017578,False,REGULAR,USD,KAI

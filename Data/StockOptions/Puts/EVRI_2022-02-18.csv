@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EVRI220218P00017500,2022-01-05 20:49:40+00:00,17.5,0.5,0.4,0.55,-0.45,-47.36842,2,1,2.0468798828125,False,REGULAR,USD,EVRI
-EVRI220218P00020000,2022-01-05 20:49:02+00:00,20.0,1.4,1.05,1.45,0.39999998,39.999996,31,76,2.0937547656249995,False,REGULAR,USD,EVRI

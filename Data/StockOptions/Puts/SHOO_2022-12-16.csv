@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SHOO221216P00030000,2021-11-10 14:40:51+00:00,30.0,1.25,1.15,2.5,0.0,0.0,,6,0.5346726220703125,False,REGULAR,USD,SHOO
-SHOO221216P00045000,2021-12-21 15:17:38+00:00,45.0,7.3,4.7,7.7,0.0,0.0,,2,0.38477177734374995,True,REGULAR,USD,SHOO

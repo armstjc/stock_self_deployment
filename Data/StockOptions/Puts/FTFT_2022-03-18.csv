@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTFT220318P00002500,2022-01-27 15:34:42+00:00,2.5,1.65,1.45,1.95,0.0,0.0,,0,2.50000375,True,REGULAR,USD,FTFT
-FTFT220318P00005000,2022-02-07 20:12:03+00:00,5.0,4.15,3.9,4.8,0.0,0.0,1.0,31,5.343753320312499,True,REGULAR,USD,FTFT

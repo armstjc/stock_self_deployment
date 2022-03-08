@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FINV220916C00002500,2022-02-02 14:49:49+00:00,2.5,1.65,1.55,2.25,0.0,0.0,,1,0.5664105859375,True,REGULAR,USD,FINV
-FINV220916C00005000,2022-02-11 15:42:53+00:00,5.0,0.69,0.05,1.25,-0.060000002,-8.000001,10.0,0,0.6699251757812501,False,REGULAR,USD,FINV

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MCB220916C00075000,2022-01-28 15:43:06+00:00,75.0,28.02,28.3,32.4,0.0,0.0,4,4,0.571415418701172,True,REGULAR,USD,MCB
-MCB220916C00095000,2022-01-28 15:43:06+00:00,95.0,15.43,15.7,19.0,0.0,0.0,5,5,0.5045215563964844,True,REGULAR,USD,MCB

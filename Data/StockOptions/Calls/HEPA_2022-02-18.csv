@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HEPA220218C00002500,2022-01-05 18:02:56+00:00,2.5,0.1,0.0,0.05,0.05,100.0,97,124,4.500004375,False,REGULAR,USD,HEPA

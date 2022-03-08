@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LOB220218P00070000,2021-12-23 18:43:02+00:00,70.0,1.8,0.75,2.2,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,LOB
-LOB220218P00085000,2021-12-31 19:46:56+00:00,85.0,4.5,2.7,4.9,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,LOB

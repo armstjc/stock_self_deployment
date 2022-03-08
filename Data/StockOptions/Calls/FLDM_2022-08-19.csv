@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FLDM220819C00002500,2021-12-30 17:01:03+00:00,2.5,1.66,1.15,1.95,0.0,0.0,1.0,6,0.6367223828125,True,REGULAR,USD,FLDM
-FLDM220819C00005000,2021-12-27 18:10:10+00:00,5.0,0.6,0.35,0.5,0.0,0.0,,3,0.6796907031250001,False,REGULAR,USD,FLDM

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCRT220318P00001000,2022-02-10 18:07:52+00:00,1.0,0.15,0.1,0.25,0.0,0.0,25,21,1.3125034374999998,True,REGULAR,USD,TCRT

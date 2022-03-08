@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WSFS220218C00050000,2022-02-02 20:01:37+00:00,50.0,2.44,1.5,3.1,0.0,0.0,,20,0.561527822265625,True,REGULAR,USD,WSFS
-WSFS220218C00055000,2022-01-27 17:55:26+00:00,55.0,0.55,0.1,0.25,0.0,0.0,1.0,66,0.379889013671875,False,REGULAR,USD,WSFS

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRNT220218C00002500,2022-02-09 16:25:23+00:00,2.5,0.04,0.0,0.05,0.0,0.0,1,600,1.40625296875,False,REGULAR,USD,CRNT
-CRNT220218C00005000,2022-02-04 20:59:34+00:00,5.0,0.05,0.0,0.05,0.0,0.0,17,176,3.968750078125,False,REGULAR,USD,CRNT

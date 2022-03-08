@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LH220414C00310000,2022-01-05 16:38:34+00:00,310.0,9.09,6.0,8.5,-10.610001,-53.85787,1,31,0.4454401159667969,False,REGULAR,USD,LH
-LH220414C00330000,2022-01-03 19:07:41+00:00,330.0,6.69,3.3,4.1,0.0,0.0,35,52,0.42249112670898437,False,REGULAR,USD,LH

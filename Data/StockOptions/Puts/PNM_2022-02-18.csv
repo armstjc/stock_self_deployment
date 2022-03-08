@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PNM220218P00045000,2022-02-11 20:42:53+00:00,45.0,0.5,0.35,0.55,0.15,42.857147,119,3677,0.15430533203125002,True,REGULAR,USD,PNM
-PNM220218P00050000,2021-12-21 20:47:24+00:00,50.0,6.6,4.9,5.1,0.0,0.0,10,22,1.0000000000000003e-05,True,REGULAR,USD,PNM

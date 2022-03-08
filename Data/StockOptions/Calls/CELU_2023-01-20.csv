@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CELU230120C00007500,2022-01-03 17:35:57+00:00,7.5,0.8,0.45,0.8,0.0,0.0,120,226,0.5712933496093751,False,REGULAR,USD,CELU
-CELU230120C00012500,2021-12-30 20:29:43+00:00,12.5,0.4,0.05,2.5,0.0,0.0,1,121,1.2177773486328123,False,REGULAR,USD,CELU

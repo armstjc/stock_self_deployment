@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VGZ220318P00001000,2021-12-27 20:46:09+00:00,1.0,0.35,0.25,0.55,0.0,0.0,1,262,2.81250296875,True,REGULAR,USD,VGZ
-VGZ220318P00002500,2022-01-03 20:41:16+00:00,2.5,1.75,1.75,1.9,0.0,0.0,20,22,3.9062502343750003,True,REGULAR,USD,VGZ

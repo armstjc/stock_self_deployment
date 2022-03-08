@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HESM220819C00025000,2022-01-04 19:29:18+00:00,25.0,4.0,3.8,4.7,0.0,0.0,2,52,1.0000000000000003e-05,True,REGULAR,USD,HESM
-HESM220819C00030000,2022-01-04 16:42:24+00:00,30.0,2.0,1.35,2.05,0.0,0.0,7,35,0.21973436523437498,True,REGULAR,USD,HESM

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YORW220617C00045000,2022-02-01 20:54:47+00:00,45.0,2.5,0.15,4.9,0.0,0.0,4,7,0.5830119824218749,False,REGULAR,USD,YORW
-YORW220617C00050000,2022-02-11 15:36:31+00:00,50.0,0.58,0.2,1.0,-1.4200001,-71.0,2,12,0.3225165405273437,False,REGULAR,USD,YORW

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRMK220318C00007500,2022-02-07 16:07:12+00:00,7.5,1.65,1.25,2.0,0.0,0.0,1,4,0.9023447265625,True,REGULAR,USD,BRMK
-BRMK220318C00010000,2022-02-09 14:30:01+00:00,10.0,0.05,0.0,0.05,0.0,0.0,1,67,0.2461012890625,False,REGULAR,USD,BRMK

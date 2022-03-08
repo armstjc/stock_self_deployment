@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TPTX220715P00035000,2022-01-27 16:25:55+00:00,35.0,6.41,4.0,8.5,0.0,0.0,2,0,0.6840851904296876,True,REGULAR,USD,TPTX
-TPTX220715P00040000,2021-12-31 15:52:21+00:00,40.0,5.0,8.6,12.5,0.0,0.0,50,50,0.8000508276367188,True,REGULAR,USD,TPTX

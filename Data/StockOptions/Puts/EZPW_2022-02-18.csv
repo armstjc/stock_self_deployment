@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EZPW220218P00005000,2022-01-13 16:43:38+00:00,5.0,0.06,0.0,0.6,0.0,0.0,2,2,2.7968780078125004,False,REGULAR,USD,EZPW
-EZPW220218P00007500,2022-02-10 17:20:25+00:00,7.5,0.55,0.9,1.6,0.0,0.0,5,102,1.359378203125,True,REGULAR,USD,EZPW

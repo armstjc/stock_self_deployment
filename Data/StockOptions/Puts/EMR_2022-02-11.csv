@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EMR220211P00090000,2022-01-05 16:46:33+00:00,90.0,0.85,1.05,1.45,-0.099999964,-10.526312,23,20,1.4873072509765624,False,REGULAR,USD,EMR

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIXX220218P00017500,2021-11-12 19:43:11+00:00,17.5,0.27,0.0,1.05,0.0,0.0,1,1,0.8339860351562498,False,REGULAR,USD,CIXX
-CIXX220218P00025000,2021-11-29 15:14:34+00:00,25.0,2.7,2.8,5.0,0.0,0.0,5,0,1.0000000000000003e-05,True,REGULAR,USD,CIXX

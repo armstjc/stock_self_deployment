@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EFC220218C00015000,2021-12-22 19:58:22+00:00,15.0,2.0,1.75,3.5,0.0,0.0,,3,1.000005,True,REGULAR,USD,EFC
-EFC220218C00017500,2022-01-04 17:33:08+00:00,17.5,0.38,0.25,0.35,0.0,0.0,10.0,59,0.38477177734374995,True,REGULAR,USD,EFC

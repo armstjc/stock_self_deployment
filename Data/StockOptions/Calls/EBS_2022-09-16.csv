@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EBS220916C00040000,2022-01-27 20:06:29+00:00,40.0,9.83,7.9,12.5,0.0,0.0,,19,0.5854533642578125,True,REGULAR,USD,EBS
-EBS220916C00045000,2022-02-01 19:53:33+00:00,45.0,8.2,5.5,9.9,0.0,0.0,1.0,14,0.567387138671875,False,REGULAR,USD,EBS

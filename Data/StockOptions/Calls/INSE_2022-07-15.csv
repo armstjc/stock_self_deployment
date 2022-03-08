@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INSE220715C00010000,2021-12-23 15:57:07+00:00,10.0,2.7,3.8,4.1,0.0,0.0,12,12,1.0000000000000003e-05,True,REGULAR,USD,INSE

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HOLX220916P00055000,2022-01-27 15:48:53+00:00,55.0,2.25,1.05,1.7,0.0,0.0,,4,0.37476211181640623,False,REGULAR,USD,HOLX
-HOLX220916P00070000,2022-02-11 18:53:04+00:00,70.0,5.62,5.3,5.8,0.42000008,8.076925,2.0,7,0.31055376953124997,False,REGULAR,USD,HOLX

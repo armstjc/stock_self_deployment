@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INO220311P00003500,2022-02-08 14:32:18+00:00,3.5,0.3,0.11,0.5,0.0,0.0,1.0,21,0.5468795312500001,True,REGULAR,USD,INO
-INO220311P00004000,2022-01-31 20:41:10+00:00,4.0,0.45,0.51,1.24,0.0,0.0,,2,1.15625421875,True,REGULAR,USD,INO

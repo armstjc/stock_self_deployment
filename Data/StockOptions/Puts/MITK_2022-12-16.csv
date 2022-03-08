@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MITK221216P00012500,2022-02-04 14:51:15+00:00,12.5,1.31,0.65,1.7,0.0,0.0,5,5,0.585941640625,False,REGULAR,USD,MITK
-MITK221216P00015000,2022-02-01 19:18:57+00:00,15.0,2.2,1.45,2.8,0.0,0.0,5,10,0.5493209130859377,False,REGULAR,USD,MITK

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SREV220715C00002500,2022-02-08 18:16:28+00:00,2.5,0.05,0.0,0.1,0.0,0.0,4,661,0.9609378906249999,False,REGULAR,USD,SREV
-SREV220715C00005000,2022-01-19 18:03:25+00:00,5.0,0.1,0.0,0.1,0.0,0.0,3,168,1.4375028125,False,REGULAR,USD,SREV

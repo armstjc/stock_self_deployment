@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRT220916P00020000,2022-01-31 18:17:32+00:00,20.0,2.34,0.6,2.95,0.0,0.0,10,20,0.6323278955078125,False,REGULAR,USD,BRT
-BRT220916P00022500,2022-02-09 16:02:23+00:00,22.5,4.1,2.65,3.4,0.0,0.0,1,5,0.49561051269531253,False,REGULAR,USD,BRT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JBGS220715C00030000,2021-12-13 15:09:35+00:00,30.0,1.15,1.7,2.0,0.0,0.0,1,1,0.4226131958007812,False,REGULAR,USD,JBGS
-JBGS220715C00040000,2021-11-19 20:12:15+00:00,40.0,0.25,0.0,0.25,0.0,0.0,10,10,0.39160764648437496,False,REGULAR,USD,JBGS

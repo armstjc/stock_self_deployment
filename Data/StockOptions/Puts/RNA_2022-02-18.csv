@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RNA220218P00015000,2022-02-11 18:45:29+00:00,15.0,0.5,0.0,3.9,-0.5,-50.0,3,4,3.0839866650390624,False,REGULAR,USD,RNA
-RNA220218P00017500,2022-01-25 15:00:35+00:00,17.5,3.29,0.1,5.0,0.0,0.0,10,2,2.00781748046875,True,REGULAR,USD,RNA

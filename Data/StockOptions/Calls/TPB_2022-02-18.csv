@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TPB220218C00040000,2022-01-03 17:43:05+00:00,40.0,1.45,0.95,1.35,0.0,0.0,3,400,1.3984405078125,False,REGULAR,USD,TPB
-TPB220218C00045000,2021-12-21 15:03:26+00:00,45.0,0.55,0.15,0.45,0.0,0.0,3,408,1.3300814746093748,False,REGULAR,USD,TPB

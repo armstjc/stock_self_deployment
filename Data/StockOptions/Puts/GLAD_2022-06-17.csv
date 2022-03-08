@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLAD220617P00010000,2021-11-10 11:56:30+00:00,10.0,0.5,0.25,0.7,0.0,0.0,,10,0.507817421875,False,REGULAR,USD,GLAD
-GLAD220617P00012500,2021-12-28 15:45:34+00:00,12.5,1.53,1.3,1.85,0.0,0.0,2.0,6,0.42578699218750005,True,REGULAR,USD,GLAD

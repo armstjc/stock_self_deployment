@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ILPT220218C00022500,2022-01-04 18:20:14+00:00,22.5,3.2,2.2,4.2,0.0,0.0,1,17,3.0351586621093753,False,REGULAR,USD,ILPT
-ILPT220218C00025000,2022-01-04 20:33:45+00:00,25.0,1.0,0.3,2.2,0.0,0.0,1,65,2.052739243164062,False,REGULAR,USD,ILPT

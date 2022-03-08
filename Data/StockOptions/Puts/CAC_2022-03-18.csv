@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CAC220318P00045000,2021-12-23 16:05:20+00:00,45.0,1.0,0.55,0.75,0.0,0.0,2,0,0.35938140625,False,REGULAR,USD,CAC

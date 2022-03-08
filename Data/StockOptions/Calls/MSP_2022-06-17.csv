@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MSP220617C00022500,2022-01-24 14:30:06+00:00,22.5,2.8,1.3,5.1,0.0,0.0,1,1,0.7651390673828126,True,REGULAR,USD,MSP
-MSP220617C00030000,2022-01-20 20:28:50+00:00,30.0,0.75,0.0,2.8,0.0,0.0,2,5,0.5644574804687501,False,REGULAR,USD,MSP

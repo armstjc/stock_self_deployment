@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IVC220318C00002500,2022-02-11 19:55:54+00:00,2.5,0.16,0.15,0.25,-0.19,-54.285717,21,0,1.2890660546875,False,REGULAR,USD,IVC
-IVC220318C00005000,2022-02-09 17:46:00+00:00,5.0,0.04,0.0,0.1,0.0,0.0,2,0,1.8437507812499998,False,REGULAR,USD,IVC

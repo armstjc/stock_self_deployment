@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AORT220218C00020000,2022-01-26 19:54:23+00:00,20.0,0.35,0.0,0.6,0.0,0.0,1.0,5,1.125004375,False,REGULAR,USD,AORT
-AORT220218C00022500,2022-01-24 05:01:35+00:00,22.5,1.1,0.0,0.5,0.0,0.0,,1,1.61328318359375,False,REGULAR,USD,AORT

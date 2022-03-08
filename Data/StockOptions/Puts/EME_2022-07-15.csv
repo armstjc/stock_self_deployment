@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EME220715P00080000,2022-01-07 14:30:02+00:00,80.0,1.25,0.0,4.7,0.0,0.0,10,20,0.5252733020019531,False,REGULAR,USD,EME

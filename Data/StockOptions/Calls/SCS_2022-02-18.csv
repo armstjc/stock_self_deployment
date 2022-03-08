@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SCS220218C00012500,2022-01-05 19:03:15+00:00,12.5,0.43,0.35,0.45,0.04000002,10.256416,1,44,1.0273486132812502,False,REGULAR,USD,SCS

@@ -1,4 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RAPT220318C00020000,2022-01-20 19:38:41+00:00,20.0,5.6,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,RAPT
-RAPT220318C00025000,2022-01-31 18:38:11+00:00,25.0,1.4,0.0,0.0,0.0,0.0,,0,0.12500875,False,REGULAR,USD,RAPT
-RAPT220318C00030000,2022-02-01 20:59:49+00:00,30.0,0.6,0.0,0.0,0.0,0.0,4.0,0,0.2500075,False,REGULAR,USD,RAPT

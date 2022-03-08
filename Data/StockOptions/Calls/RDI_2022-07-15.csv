@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RDI220715C00002500,2022-01-21 20:01:18+00:00,2.5,1.95,1.85,2.6,0.0,0.0,1,1,1.08203583984375,True,REGULAR,USD,RDI

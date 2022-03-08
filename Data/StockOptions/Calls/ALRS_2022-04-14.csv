@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALRS220414C00030000,2022-02-01 15:50:19+00:00,30.0,1.05,1.35,1.7,0.0,0.0,,11,0.4204159521484375,False,REGULAR,USD,ALRS
-ALRS220414C00035000,2022-01-24 18:15:52+00:00,35.0,0.3,0.15,0.3,0.0,0.0,,1,0.3754945263671875,False,REGULAR,USD,ALRS

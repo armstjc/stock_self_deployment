@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NAPA220318P00017500,2022-01-28 18:39:09+00:00,17.5,0.75,0.0,0.0,0.0,0.0,3,0,0.062509375,False,REGULAR,USD,NAPA
-NAPA220318P00020000,2022-01-28 19:38:31+00:00,20.0,2.1,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,NAPA

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CVLG220218P00022500,2021-12-29 15:11:09+00:00,22.5,0.85,0.5,2.15,0.0,0.0,,2,0.938477177734375,True,REGULAR,USD,CVLG
-CVLG220218P00030000,2021-12-30 16:44:07+00:00,30.0,6.65,4.4,6.4,0.0,0.0,,3,1.0000000000000003e-05,True,REGULAR,USD,CVLG

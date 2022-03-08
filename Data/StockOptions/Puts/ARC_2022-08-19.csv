@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARC220819P00002500,2022-02-03 18:46:39+00:00,2.5,0.3,0.25,0.35,0.0,0.0,1.0,13,0.710940390625,False,REGULAR,USD,ARC
-ARC220819P00007500,2021-12-16 15:53:06+00:00,7.5,5.33,3.8,4.7,0.0,0.0,,1,1.2343788281249999,True,REGULAR,USD,ARC

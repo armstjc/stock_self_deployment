@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ERII220819C00020000,2022-01-25 19:24:12+00:00,20.0,2.0,1.2,2.75,0.0,0.0,1,55,0.6035195898437502,False,REGULAR,USD,ERII
-ERII220819C00025000,2022-01-03 17:10:45+00:00,25.0,1.6,0.0,2.2,0.0,0.0,3,5,0.5373581420898439,False,REGULAR,USD,ERII

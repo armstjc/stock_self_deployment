@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GSAT220311P00001000,2022-02-09 16:22:47+00:00,1.0,0.11,0.08,0.14,0.0,0.0,2,4,1.000005,False,REGULAR,USD,GSAT

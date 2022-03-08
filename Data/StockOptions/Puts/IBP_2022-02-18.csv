@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IBP220218P00125000,2021-12-30 20:55:45+00:00,125.0,2.65,3.2,5.8,0.0,0.0,,5,1.0000000000000003e-05,True,REGULAR,USD,IBP
-IBP220218P00135000,2021-12-30 20:55:45+00:00,135.0,5.55,7.0,10.6,0.0,0.0,,5,1.0000000000000003e-05,True,REGULAR,USD,IBP

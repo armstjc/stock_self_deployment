@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OTMO220715C00005000,2022-01-04 20:22:55+00:00,5.0,0.5,0.3,0.4,0.0,0.0,4,419,1.6015644921874999,False,REGULAR,USD,OTMO
-OTMO220715C00007500,2021-12-23 14:41:02+00:00,7.5,0.2,0.0,0.3,0.0,0.0,5,55,1.4765651171875,False,REGULAR,USD,OTMO

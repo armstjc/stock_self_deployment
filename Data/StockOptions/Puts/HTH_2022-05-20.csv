@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTH220520P00030000,2021-11-16 19:17:55+00:00,30.0,0.6,0.8,2.4,0.0,0.0,20.0,49,0.5803264624023439,False,REGULAR,USD,HTH
-HTH220520P00035000,2021-11-15 15:40:57+00:00,35.0,2.35,1.35,4.3,0.0,0.0,,75,0.4672904833984375,True,REGULAR,USD,HTH

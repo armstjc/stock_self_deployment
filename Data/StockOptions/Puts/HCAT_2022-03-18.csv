@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HCAT220318P00035000,2022-02-07 17:31:11+00:00,35.0,6.41,3.8,7.5,0.0,0.0,1,6,0.6674837939453127,True,REGULAR,USD,HCAT

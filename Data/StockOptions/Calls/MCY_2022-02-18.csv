@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MCY220218C00055000,2022-01-05 19:57:57+00:00,55.0,1.15,1.05,1.2,-0.25,-17.857143,4,223,0.7675804492187501,False,REGULAR,USD,MCY
-MCY220218C00060000,2022-01-05 19:43:02+00:00,60.0,0.15,0.1,0.2,-0.049999997,-24.999998,6,22,0.6914093359375001,False,REGULAR,USD,MCY

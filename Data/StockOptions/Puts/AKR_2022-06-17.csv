@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AKR220617P00022500,2021-12-02 17:13:48+00:00,22.5,3.3,1.75,2.5,0.0,0.0,3.0,3,1.0000000000000003e-05,True,REGULAR,USD,AKR
-AKR220617P00030000,2021-10-20 17:28:06+00:00,30.0,7.6,6.1,10.5,0.0,0.0,,10,0.5468795312500001,True,REGULAR,USD,AKR

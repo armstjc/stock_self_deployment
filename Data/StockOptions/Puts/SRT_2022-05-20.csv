@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRT220520P00002500,2022-02-11 14:30:13+00:00,2.5,0.05,0.0,0.1,-0.10000001,-66.66667,20,20,0.8906260937499999,False,REGULAR,USD,SRT
-SRT220520P00005000,2022-01-19 14:31:02+00:00,5.0,0.4,0.05,0.8,0.0,0.0,1,11,0.7304714453125,True,REGULAR,USD,SRT

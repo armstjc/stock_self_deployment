@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DPZ220325C00470000,2022-02-09 17:55:21+00:00,470.0,11.01,5.4,9.3,0.0,0.0,8,19,0.39444575286865236,False,REGULAR,USD,DPZ
-DPZ220325C00480000,2022-02-04 17:15:55+00:00,480.0,7.3,4.1,7.0,0.0,0.0,1,5,0.39087523193359375,False,REGULAR,USD,DPZ

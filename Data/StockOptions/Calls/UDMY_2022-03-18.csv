@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UDMY220318C00015000,2022-02-10 17:27:10+00:00,15.0,0.95,0.55,0.9,-0.7,-42.424244,14,7,0.7744163183593751,False,REGULAR,USD,UDMY
-UDMY220318C00020000,2022-02-10 16:31:49+00:00,20.0,0.2,0.05,0.25,-0.55,-73.333336,1,12,0.87500125,False,REGULAR,USD,UDMY

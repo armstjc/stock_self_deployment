@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DLB220218P00075000,2021-12-23 20:32:34+00:00,75.0,0.11,0.0,3.4,0.0,0.0,1,1,0.5678754150390625,False,REGULAR,USD,DLB
-DLB220218P00090000,2021-12-17 17:30:28+00:00,90.0,3.21,1.45,3.1,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,DLB

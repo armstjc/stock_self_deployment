@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BYFC220218P00002500,2022-02-10 17:03:57+00:00,2.5,0.67,0.05,1.65,0.0,0.0,1,27,3.2343769140624996,True,REGULAR,USD,BYFC
-BYFC220218P00007500,2022-02-11 15:17:58+00:00,7.5,5.8,4.8,6.7,0.12000036,2.1126826,1,1,18.03125436523438,True,REGULAR,USD,BYFC

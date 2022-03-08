@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VOYA220819C00070000,2022-01-05 14:50:04+00:00,70.0,6.8,6.2,6.6,1.7000003,33.33334,3,3,0.319220675048828,True,REGULAR,USD,VOYA

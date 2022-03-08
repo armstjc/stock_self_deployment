@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BGSF220715P00010000,2021-12-20 15:03:01+00:00,10.0,0.4,0.0,0.55,0.0,0.0,2.0,22,0.5117236328125,False,REGULAR,USD,BGSF
-BGSF220715P00012500,2021-12-01 20:09:21+00:00,12.5,1.1,0.05,1.2,0.0,0.0,,1,0.57812921875,False,REGULAR,USD,BGSF

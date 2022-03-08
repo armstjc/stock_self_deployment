@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANGO220318P00017500,2022-02-03 20:36:19+00:00,17.5,0.45,0.15,0.55,0.0,0.0,7,10,0.69336244140625,False,REGULAR,USD,ANGO
-ANGO220318P00022500,2022-01-21 17:17:52+00:00,22.5,1.75,1.55,2.1,0.0,0.0,40,40,0.5942423388671876,True,REGULAR,USD,ANGO

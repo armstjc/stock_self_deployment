@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EGRX220916C00040000,2022-02-07 17:43:34+00:00,40.0,8.57,9.0,13.4,0.0,0.0,1,3,0.6301306518554688,True,REGULAR,USD,EGRX

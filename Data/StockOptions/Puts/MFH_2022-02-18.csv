@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MFH220218P00002500,2022-01-27 18:56:13+00:00,2.5,0.3,0.0,0.5,0.0,0.0,1.0,15,4.312504609374999,False,REGULAR,USD,MFH
-MFH220218P00010000,2021-11-10 11:49:58+00:00,10.0,6.87,5.9,8.6,0.0,0.0,,9,10.109378681640628,True,REGULAR,USD,MFH

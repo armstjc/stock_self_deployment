@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ETWO220318P00007500,2022-01-27 19:44:18+00:00,7.5,0.25,0.0,0.2,0.0,0.0,150.0,200,0.6093789062500001,False,REGULAR,USD,ETWO
-ETWO220318P00010000,2022-02-03 16:10:16+00:00,10.0,1.32,0.9,1.1,0.0,0.0,,1000,0.52539537109375,True,REGULAR,USD,ETWO

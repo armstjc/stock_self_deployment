@@ -1,4 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WH220318P00065000,2022-02-02 14:30:20+00:00,65.0,0.3,0.0,0.0,0.0,0.0,3,0,0.12500875,False,REGULAR,USD,WH
-WH220318P00080000,2022-02-03 18:27:11+00:00,80.0,2.4,0.0,0.0,0.0,0.0,3,0,0.0312596875,False,REGULAR,USD,WH
-WH220318P00085000,2022-01-31 19:56:01+00:00,85.0,4.9,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,WH

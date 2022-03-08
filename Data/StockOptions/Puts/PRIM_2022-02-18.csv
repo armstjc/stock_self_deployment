@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRIM220218P00022500,2021-12-23 14:52:11+00:00,22.5,0.65,0.25,1.7,0.0,0.0,4,4,1.90234423828125,False,REGULAR,USD,PRIM
-PRIM220218P00027500,2021-12-17 15:36:23+00:00,27.5,5.1,2.7,4.2,0.0,0.0,3,3,1.9775391748046878,True,REGULAR,USD,PRIM

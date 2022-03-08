@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MXCT220218C00012500,2022-01-05 17:32:11+00:00,12.5,0.65,0.35,0.75,-0.5500001,-45.833336,5.0,1,5.328128339843749,False,REGULAR,USD,MXCT
-MXCT220218C00015000,2021-12-30 17:43:15+00:00,15.0,0.55,0.15,0.8,0.0,0.0,,11,5.8203152246093754,False,REGULAR,USD,MXCT

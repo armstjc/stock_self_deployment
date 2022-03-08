@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ROVR220819P00007500,2021-12-31 20:15:34+00:00,7.5,1.1,0.8,4.8,0.0,0.0,1,1,2.0566454833984373,True,REGULAR,USD,ROVR
-ROVR220819P00010000,2021-12-23 17:39:27+00:00,10.0,2.15,2.25,4.2,0.0,0.0,6,6,1.0000000000000003e-05,True,REGULAR,USD,ROVR

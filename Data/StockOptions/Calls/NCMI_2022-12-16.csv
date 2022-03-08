@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NCMI221216C00002500,2022-01-05 20:01:10+00:00,2.5,1.15,1.1,1.2,0.0,0.0,824,952,0.6601596484375001,True,REGULAR,USD,NCMI
-NCMI221216C00005000,2022-01-04 16:19:39+00:00,5.0,0.59,0.4,0.6,0.0,0.0,12,6554,0.7929708203125,False,REGULAR,USD,NCMI

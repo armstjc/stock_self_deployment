@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNS220318P00083750,2022-01-03 14:30:22+00:00,83.75,1.75,1.6,4.8,0.0,0.0,10,20,0.30664755859375,True,REGULAR,USD,CNS

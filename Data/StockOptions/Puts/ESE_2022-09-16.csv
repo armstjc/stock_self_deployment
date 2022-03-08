@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESE220916P00080000,2022-02-08 15:31:17+00:00,80.0,8.6,8.0,12.3,0.0,0.0,2,2,0.3557193334960937,True,REGULAR,USD,ESE

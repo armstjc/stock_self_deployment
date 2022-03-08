@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGL220218C00012500,2021-12-21 20:43:49+00:00,12.5,13.13,11.0,14.5,0.0,0.0,,1,9.207035495605467,True,REGULAR,USD,AGL
-AGL220218C00025000,2022-01-04 19:55:51+00:00,25.0,2.2,1.3,3.1,0.0,0.0,16.0,256,3.1250021875,False,REGULAR,USD,AGL

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QUBT220218P00002500,2022-02-10 14:30:27+00:00,2.5,0.05,0.1,0.25,0.0,0.0,1,113,1.890625546875,False,REGULAR,USD,QUBT
-QUBT220218P00005000,2022-02-08 20:27:52+00:00,5.0,2.0,1.85,3.1,0.0,0.0,5,26,4.4687544140624995,True,REGULAR,USD,QUBT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DZSI220318C00010000,2022-01-24 14:44:17+00:00,10.0,4.2,4.6,5.4,0.0,0.0,,10,0.9062509375,True,REGULAR,USD,DZSI
-DZSI220318C00012500,2022-02-07 15:25:34+00:00,12.5,2.9,1.4,3.6,0.0,0.0,2.0,82,1.2890660546875,True,REGULAR,USD,DZSI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CTOS220218C00007500,2021-12-28 20:32:07+00:00,7.5,1.0,0.9,1.05,0.0,0.0,,21,2.1718795703125,True,REGULAR,USD,CTOS
-CTOS220218C00010000,2021-12-30 20:31:40+00:00,10.0,0.15,0.1,0.25,0.0,0.0,,174,1.9453127734375002,False,REGULAR,USD,CTOS

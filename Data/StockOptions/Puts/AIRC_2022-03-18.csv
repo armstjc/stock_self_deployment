@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIRC220318P00045000,2022-02-04 16:35:26+00:00,45.0,0.4,0.2,0.45,0.0,0.0,117,117,0.4321345849609375,False,REGULAR,USD,AIRC
-AIRC220318P00055000,2022-02-10 15:01:14+00:00,55.0,1.5,3.2,4.7,0.0,0.0,40,0,0.4467828759765625,True,REGULAR,USD,AIRC

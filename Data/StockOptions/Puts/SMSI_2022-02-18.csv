@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMSI220218P00005000,2022-01-05 19:32:50+00:00,5.0,0.5,0.5,0.6,0.030000001,6.382979,40,134,1.0000000000000003e-05,True,REGULAR,USD,SMSI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CBAT220318C00002500,2022-02-10 19:11:40+00:00,2.5,0.04,0.01,0.03,0.0,0.0,21.0,459,1.46875265625,False,REGULAR,USD,CBAT
-CBAT220318C00005000,2022-01-26 15:02:34+00:00,5.0,0.01,0.0,0.03,0.0,0.0,,80,2.3125042187499996,False,REGULAR,USD,CBAT

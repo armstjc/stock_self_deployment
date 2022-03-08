@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VBIV240119P00000500,2022-02-03 15:07:24+00:00,0.5,0.2,0.0,0.3,0.0,0.0,1,2,1.0859420703125,False,REGULAR,USD,VBIV
-VBIV240119P00002000,2022-01-12 14:58:09+00:00,2.0,0.8,0.0,1.95,0.0,0.0,1,6,0.7656273437500001,True,REGULAR,USD,VBIV

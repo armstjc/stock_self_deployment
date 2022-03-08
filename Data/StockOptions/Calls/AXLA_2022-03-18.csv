@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AXLA220318C00002500,2022-02-02 14:33:09+00:00,2.5,0.4,0.0,0.1,0.0,0.0,10,80,1.09375453125,False,REGULAR,USD,AXLA
-AXLA220318C00007500,2022-02-02 14:33:09+00:00,7.5,0.35,0.0,0.1,0.0,0.0,10,80,2.7812530468750003,False,REGULAR,USD,AXLA

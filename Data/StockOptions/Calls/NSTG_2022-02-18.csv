@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NSTG220218C00045000,2022-01-05 14:58:08+00:00,45.0,1.35,0.3,0.95,-0.39999998,-22.857141,10.0,3,1.484377578125,False,REGULAR,USD,NSTG
-NSTG220218C00050000,2021-12-30 17:19:05+00:00,50.0,1.37,0.1,2.8,0.0,0.0,,1,2.6084019165039063,False,REGULAR,USD,NSTG

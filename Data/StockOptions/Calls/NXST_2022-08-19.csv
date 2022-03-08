@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NXST220819C00140000,2022-01-05 19:55:54+00:00,140.0,22.3,20.1,23.7,-0.9000015,-3.8793168,2.0,0,1.0000000000000003e-05,True,REGULAR,USD,NXST
-NXST220819C00190000,2021-12-21 19:04:49+00:00,190.0,5.0,2.3,5.1,0.0,0.0,,2,0.1828694995117187,False,REGULAR,USD,NXST

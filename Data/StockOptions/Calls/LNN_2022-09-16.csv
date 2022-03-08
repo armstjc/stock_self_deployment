@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LNN220916C00155000,2022-01-24 15:24:01+00:00,155.0,5.6,4.1,5.0,0.0,0.0,,0,0.3425969061279296,False,REGULAR,USD,LNN
-LNN220916C00160000,2022-02-11 20:35:45+00:00,160.0,3.4,2.6,3.7,-1.5,-30.612246,2.0,5,0.3288641333007812,False,REGULAR,USD,LNN

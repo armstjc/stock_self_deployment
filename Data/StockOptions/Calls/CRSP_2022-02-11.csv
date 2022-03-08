@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRSP220211C00080000,2022-01-05 15:25:51+00:00,80.0,3.5,2.05,4.6,-0.9899998,-22.048994,1.0,3,4.0634814831542965,False,REGULAR,USD,CRSP
-CRSP220211C00085000,2021-12-30 18:59:06+00:00,85.0,6.2,1.35,5.0,0.0,0.0,,4,4.547855877685546,False,REGULAR,USD,CRSP

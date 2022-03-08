@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIR221216C00040000,2021-12-30 14:49:23+00:00,40.0,1.7,0.8,1.9,0.0,0.0,,4,0.5249070947265625,False,REGULAR,USD,CIR

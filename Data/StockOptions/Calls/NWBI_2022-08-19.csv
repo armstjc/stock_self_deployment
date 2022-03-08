@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NWBI220819C00015000,2022-01-04 15:38:13+00:00,15.0,0.6,0.5,0.65,0.0,0.0,20.0,41,0.241218525390625,False,REGULAR,USD,NWBI
-NWBI220819C00017500,2021-12-28 14:36:09+00:00,17.5,0.1,0.0,0.25,0.0,0.0,,7,0.2836985693359374,False,REGULAR,USD,NWBI

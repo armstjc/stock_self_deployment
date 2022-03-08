@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FRME220617P00030000,2021-12-21 14:30:06+00:00,30.0,0.7,0.0,0.0,0.0,0.0,1,11,0.12500875,False,REGULAR,USD,FRME
-FRME220617P00035000,2022-01-27 18:17:58+00:00,35.0,2.5,0.0,3.9,0.0,0.0,10,0,0.5629926513671876,False,REGULAR,USD,FRME

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SOVO220819C00010000,2021-12-30 19:25:26+00:00,10.0,6.0,5.6,6.0,0.0,0.0,41,49,1.049321159667969,True,REGULAR,USD,SOVO
-SOVO220819C00017500,2021-12-20 14:30:08+00:00,17.5,1.45,1.15,2.1,0.0,0.0,1,5,0.6953155468750001,False,REGULAR,USD,SOVO

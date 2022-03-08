@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APLE221216P00015000,2022-02-07 18:25:07+00:00,15.0,1.05,0.0,2.25,0.0,0.0,2.0,6,0.5424850439453126,False,REGULAR,USD,APLE
-APLE221216P00022500,2022-01-20 19:59:33+00:00,22.5,6.6,3.5,8.4,0.0,0.0,,5,0.7346217944335938,True,REGULAR,USD,APLE

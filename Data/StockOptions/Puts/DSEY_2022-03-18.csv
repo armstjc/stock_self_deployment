@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DSEY220318P00012500,2021-11-12 18:20:57+00:00,12.5,0.6,0.7,1.25,0.0,0.0,79,79,1.0000000000000003e-05,True,REGULAR,USD,DSEY
-DSEY220318P00017500,2021-11-10 11:51:22+00:00,17.5,2.45,3.1,6.5,0.0,0.0,2,2,1.0000000000000003e-05,True,REGULAR,USD,DSEY

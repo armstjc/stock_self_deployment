@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTES220520P00015000,2021-10-27 14:35:37+00:00,15.0,1.14,0.2,3.0,0.0,0.0,5,6,0.5185595019531251,True,REGULAR,USD,GTES
-GTES220520P00017500,2022-01-11 15:44:00+00:00,17.5,2.36,2.0,3.2,0.0,0.0,5,6,0.49609878906250005,True,REGULAR,USD,GTES

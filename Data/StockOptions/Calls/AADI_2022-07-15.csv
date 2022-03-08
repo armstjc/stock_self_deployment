@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AADI220715C00030000,2022-02-11 16:40:25+00:00,30.0,1.5,0.55,4.8,0.29999995,24.999996,15,13,1.1342816723632816,False,REGULAR,USD,AADI
-AADI220715C00035000,2022-02-01 17:33:37+00:00,35.0,0.95,0.3,5.0,0.0,0.0,1,14,1.2783239208984374,False,REGULAR,USD,AADI

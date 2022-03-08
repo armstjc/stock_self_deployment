@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CKPT220318P00002500,2022-02-09 15:32:26+00:00,2.5,0.47,0.35,0.6,0.0,0.0,2,133,1.2656286718749998,True,REGULAR,USD,CKPT
-CKPT220318P00007500,2022-01-26 18:05:03+00:00,7.5,4.94,5.1,5.3,0.0,0.0,1,1,1.984375078125,True,REGULAR,USD,CKPT

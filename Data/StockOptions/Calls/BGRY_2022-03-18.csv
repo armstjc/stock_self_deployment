@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BGRY220318C00002500,2022-01-28 14:30:10+00:00,2.5,0.77,0.6,0.8,0.0,0.0,1,2,0.851563984375,True,REGULAR,USD,BGRY
-BGRY220318C00005000,2022-02-02 18:07:03+00:00,5.0,0.1,0.0,0.05,0.0,0.0,6,94,0.85937640625,False,REGULAR,USD,BGRY

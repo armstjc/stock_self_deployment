@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GMAB220819P00025000,2022-01-26 19:38:12+00:00,25.0,1.0,0.2,4.1,0.0,0.0,,10,0.6455113574218749,False,REGULAR,USD,GMAB
-GMAB220819P00030000,2022-01-21 15:18:36+00:00,30.0,2.15,0.1,5.0,0.0,0.0,17.0,17,0.7290066162109375,False,REGULAR,USD,GMAB

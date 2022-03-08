@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MTOR220819P00030000,2021-12-23 16:40:41+00:00,30.0,7.07,6.0,6.4,0.0,0.0,5,5,0.27930408203124996,True,REGULAR,USD,MTOR

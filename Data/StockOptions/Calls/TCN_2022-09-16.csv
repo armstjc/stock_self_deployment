@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCN220916C00015000,2022-02-10 20:51:23+00:00,15.0,1.5,1.25,2.0,0.0,0.0,2,0,0.398443515625,True,REGULAR,USD,TCN
-TCN220916C00017500,2022-02-04 15:11:03+00:00,17.5,0.4,0.4,0.6,0.0,0.0,38,38,0.28711650390624993,False,REGULAR,USD,TCN

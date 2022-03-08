@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCCC220218P00020000,2022-01-31 19:57:20+00:00,20.0,0.65,0.0,0.9,0.0,0.0,1,0,1.509768076171875,False,REGULAR,USD,CCCC
-CCCC220218P00022500,2022-02-01 18:01:50+00:00,22.5,1.0,0.25,1.95,0.0,0.0,1,2,1.36328443359375,False,REGULAR,USD,CCCC

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MLCO230616C00015000,2022-01-26 16:06:39+00:00,15.0,2.0,1.65,2.05,0.0,0.0,,10,0.6337927246093751,False,REGULAR,USD,MLCO
-MLCO230616C00020000,2022-02-04 14:47:02+00:00,20.0,0.8,0.9,1.35,0.0,0.0,7.0,7,0.639652041015625,False,REGULAR,USD,MLCO

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRPT220311P00068000,2022-02-04 17:55:58+00:00,68.0,4.33,0.65,2.7,0.0,0.0,5,5,0.7329128271484374,False,REGULAR,USD,SRPT
-SRPT220311P00073000,2022-02-04 17:55:58+00:00,73.0,6.07,1.65,4.2,0.0,0.0,5,5,0.7043486596679689,False,REGULAR,USD,SRPT

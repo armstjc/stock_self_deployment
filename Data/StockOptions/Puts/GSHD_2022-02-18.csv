@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GSHD220218P00140000,2021-12-20 14:32:28+00:00,140.0,23.4,23.7,26.5,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,GSHD

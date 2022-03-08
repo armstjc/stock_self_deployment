@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NAK220318P00000500,2022-02-01 20:53:56+00:00,0.5,0.15,0.12,0.25,0.0,0.0,60,74,2.56250359375,True,REGULAR,USD,NAK
-NAK220318P00001000,2022-02-01 20:53:56+00:00,1.0,0.69,0.56,0.99,0.0,0.0,60,69,4.2812546484375,True,REGULAR,USD,NAK

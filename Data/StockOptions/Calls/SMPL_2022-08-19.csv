@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMPL220819C00040000,2022-01-05 20:20:14+00:00,40.0,3.7,2.65,5.3,-1.8,-32.727272,23,1,0.5239305419921875,False,REGULAR,USD,SMPL

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MNOV220218P00002500,2022-02-01 20:01:25+00:00,2.5,0.4,0.05,0.4,0.0,0.0,,1,1.453127734375,True,REGULAR,USD,MNOV

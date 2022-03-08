@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NEWP220414P00002500,2022-02-08 15:52:22+00:00,2.5,0.15,0.0,0.35,0.0,0.0,3,490,0.8906260937499999,False,REGULAR,USD,NEWP
-NEWP220414P00005000,2022-02-10 20:03:37+00:00,5.0,2.25,1.15,2.95,0.0,0.0,3,74,1.1367230664062502,True,REGULAR,USD,NEWP

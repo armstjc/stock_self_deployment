@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRGY220218P00012500,2022-02-03 19:26:56+00:00,12.5,0.4,0.0,0.7,0.0,0.0,10,218,1.3418001660156247,False,REGULAR,USD,CRGY
-CRGY220218P00015000,2022-02-09 20:27:12+00:00,15.0,1.6,0.5,5.0,0.0,0.0,4,0,2.9980493798828123,True,REGULAR,USD,CRGY

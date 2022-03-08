@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CTBI220218P00035000,2021-12-23 15:22:04+00:00,35.0,1.1,0.0,0.0,0.0,0.0,2,2,0.500005,False,REGULAR,USD,CTBI
-CTBI220218P00040000,2021-12-23 15:22:04+00:00,40.0,1.65,0.15,0.5,0.0,0.0,2,13,0.70117486328125,False,REGULAR,USD,CTBI

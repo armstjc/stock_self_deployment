@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SNDL220204P00000500,2022-01-05 20:52:50+00:00,0.5,0.03,0.02,0.03,0.01,50.0,312,332,1.5000025,True,REGULAR,USD,SNDL
-SNDL220204P00001000,2022-01-05 20:34:57+00:00,1.0,0.41,0.38,0.43,-0.00999999,-2.3809502,2,27,1.0000000000000003e-05,True,REGULAR,USD,SNDL

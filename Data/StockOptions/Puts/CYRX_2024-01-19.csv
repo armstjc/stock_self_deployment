@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CYRX240119P00032500,2022-02-03 17:48:44+00:00,32.5,9.9,8.4,10.7,0.0,0.0,,100,0.641727215576172,False,REGULAR,USD,CYRX
-CYRX240119P00037500,2022-01-28 20:36:22+00:00,37.5,13.2,11.2,14.1,0.0,0.0,9.0,9,0.6372106591796876,False,REGULAR,USD,CYRX

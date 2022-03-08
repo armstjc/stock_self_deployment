@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VWTR220218C00010000,2021-12-21 20:34:30+00:00,10.0,2.5,1.2,1.65,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,VWTR
-VWTR220218C00012500,2022-02-07 20:58:35+00:00,12.5,0.15,0.0,0.35,0.0,0.0,5.0,760,0.7773459765625,False,REGULAR,USD,VWTR

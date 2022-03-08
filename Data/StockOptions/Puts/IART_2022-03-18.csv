@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IART220318P00060000,2022-01-24 17:00:07+00:00,60.0,2.1,0.1,4.5,0.0,0.0,,2,0.5986368261718751,False,REGULAR,USD,IART
-IART220318P00065000,2022-01-13 20:58:14+00:00,65.0,2.7,0.5,4.8,0.0,0.0,1.0,0,0.6423375610351563,False,REGULAR,USD,IART

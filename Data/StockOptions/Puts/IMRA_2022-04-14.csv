@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMRA220414P00002500,2022-01-24 15:22:11+00:00,2.5,1.0,0.0,2.6,0.0,0.0,10,0,0.0,True,REGULAR,USD,IMRA
-IMRA220414P00005000,2022-01-07 16:11:26+00:00,5.0,3.0,2.35,4.5,0.0,0.0,1,154,5.8437526953125,True,REGULAR,USD,IMRA

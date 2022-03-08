@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ECPG220916P00075000,2022-02-03 15:34:02+00:00,75.0,13.0,8.7,13.5,0.0,0.0,,1,0.47083048706054687,True,REGULAR,USD,ECPG

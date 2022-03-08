@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARVL220211P00007000,2021-12-31 20:37:48+00:00,7.0,0.7,0.75,0.95,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,ARVL
-ARVL220211P00009000,2021-12-31 17:52:53+00:00,9.0,1.75,2.1,2.45,0.0,0.0,6,6,1.0000000000000003e-05,True,REGULAR,USD,ARVL

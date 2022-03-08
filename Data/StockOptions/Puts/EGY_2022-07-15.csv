@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EGY220715P00002500,2022-02-02 18:20:27+00:00,2.5,0.15,0.0,0.15,0.0,0.0,102,103,0.9023447265625,False,REGULAR,USD,EGY
-EGY220715P00005000,2022-02-11 14:30:03+00:00,5.0,0.65,0.6,0.75,0.029999971,4.838705,10,197,0.7304714453125,False,REGULAR,USD,EGY

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RACE220819C00310000,2021-12-30 17:57:16+00:00,310.0,6.7,8.0,9.4,0.0,0.0,,3,0.5149584637451172,False,REGULAR,USD,RACE
-RACE220819C00320000,2021-12-20 20:11:21+00:00,320.0,4.7,6.2,7.3,0.0,0.0,,1,0.5101977691650392,False,REGULAR,USD,RACE

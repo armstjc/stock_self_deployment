@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ONB220520C00015000,2022-01-31 15:19:14+00:00,15.0,3.4,3.0,5.0,0.0,0.0,,39,0.8276384423828124,True,REGULAR,USD,ONB
-ONB220520C00020000,2022-02-01 15:28:39+00:00,20.0,0.4,0.0,0.7,0.0,0.0,,2,0.32080757324218745,False,REGULAR,USD,ONB

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TNET220218P00080000,2021-12-31 17:25:37+00:00,80.0,0.9,0.45,2.55,0.0,0.0,10.0,10,0.7382838671874999,False,REGULAR,USD,TNET
-TNET220218P00095000,2021-12-27 17:24:42+00:00,95.0,4.85,4.6,6.8,0.0,0.0,,5,1.0000000000000003e-05,True,REGULAR,USD,TNET

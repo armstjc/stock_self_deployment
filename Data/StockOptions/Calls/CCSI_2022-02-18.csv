@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCSI220218C00055000,2021-12-20 16:30:22+00:00,55.0,6.65,4.8,7.2,0.0,0.0,,2,1.315921389160156,True,REGULAR,USD,CCSI
-CCSI220218C00060000,2021-12-22 14:40:24+00:00,60.0,4.7,2.2,4.4,0.0,0.0,,1,1.2802770361328122,False,REGULAR,USD,CCSI

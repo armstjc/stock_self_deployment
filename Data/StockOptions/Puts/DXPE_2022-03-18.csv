@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DXPE220318P00025000,2022-02-10 15:54:03+00:00,25.0,0.8,0.55,1.15,0.19999999,33.333332,4,8,0.551762294921875,False,REGULAR,USD,DXPE
-DXPE220318P00035000,2022-01-31 20:54:50+00:00,35.0,6.26,7.0,8.8,0.0,0.0,18,9,0.657229990234375,True,REGULAR,USD,DXPE

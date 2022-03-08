@@ -1,9 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2021-04-12,Goldman Sachs,Buy,,init,SNCY
-2021-04-12,Morgan Stanley,Equal-Weight,,init,SNCY
-2021-04-12,Wolfe Research,Outperform,,init,SNCY
-2021-05-10,Morgan Stanley,Equal-Weight,,main,SNCY
-2021-06-01,Morgan Stanley,Equal-Weight,,main,SNCY
-2021-07-13,Susquehanna,Positive,,init,SNCY
-2021-09-14,Morgan Stanley,Equal-Weight,,main,SNCY
-2021-12-22,Evercore ISI Group,Outperform,,init,SNCY

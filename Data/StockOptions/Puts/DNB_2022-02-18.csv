@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DNB220218P00017500,2022-01-05 20:49:34+00:00,17.5,0.2,0.1,0.4,0.0,0.0,10.0,13,0.8476577734374999,False,REGULAR,USD,DNB
-DNB220218P00020000,2021-12-27 14:47:02+00:00,20.0,1.0,0.6,2.05,0.0,0.0,,6,0.7421900781249999,True,REGULAR,USD,DNB

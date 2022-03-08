@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRSP220318P00010000,2022-02-10 15:26:53+00:00,10.0,0.88,0.85,1.15,0.0,0.0,3,72,0.49023947265625006,True,REGULAR,USD,BRSP

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MNTX220318P00005000,2021-10-18 18:19:55+00:00,5.0,0.35,0.1,0.55,0.0,0.0,,30,1.51172119140625,False,REGULAR,USD,MNTX
-MNTX220318P00007500,2021-11-11 15:33:16+00:00,7.5,1.07,0.8,1.55,0.0,0.0,1.0,1,1.169926025390625,True,REGULAR,USD,MNTX

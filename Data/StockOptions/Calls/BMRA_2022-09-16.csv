@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BMRA220916C00005000,2022-02-03 17:19:35+00:00,5.0,0.9,0.9,1.65,-0.100000024,-10.000002,1,10,1.2490271923828122,False,REGULAR,USD,BMRA
-BMRA220916C00007500,2022-01-31 15:23:43+00:00,7.5,0.7,0.45,1.7,0.0,0.0,1,14,1.4453152734375,False,REGULAR,USD,BMRA

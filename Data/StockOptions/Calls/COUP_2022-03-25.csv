@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-COUP220325C00130000,2022-02-07 15:01:34+00:00,130.0,16.16,16.3,18.3,0.0,0.0,1,2,0.6058389025878907,True,REGULAR,USD,COUP
-COUP220325C00140000,2022-02-07 19:05:20+00:00,140.0,10.05,10.8,12.7,0.0,0.0,2,3,0.5946085461425781,True,REGULAR,USD,COUP

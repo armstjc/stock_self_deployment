@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VPG220318P00017500,2021-11-10 11:55:58+00:00,17.5,0.5,0.0,0.25,0.0,0.0,1.0,1,1.1054732226562503,False,REGULAR,USD,VPG
-VPG220318P00030000,2021-11-10 11:55:58+00:00,30.0,1.25,0.0,4.8,0.0,0.0,,13,0.840821904296875,False,REGULAR,USD,VPG

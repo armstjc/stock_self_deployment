@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KOF220819C00050000,2021-12-17 18:49:40+00:00,50.0,4.7,4.7,8.6,0.0,0.0,4.0,4,0.4577690942382813,True,REGULAR,USD,KOF
-KOF220819C00060000,2022-01-05 15:47:39+00:00,60.0,2.0,0.1,2.4,0.0,0.0,,6,0.30982135498046875,False,REGULAR,USD,KOF

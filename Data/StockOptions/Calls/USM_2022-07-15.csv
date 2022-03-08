@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USM220715C00040000,2022-01-04 16:52:42+00:00,40.0,1.0,0.0,4.8,0.0,0.0,14,15,0.6506382592773439,False,REGULAR,USD,USM

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HEES220819P00045000,2022-01-04 18:47:12+00:00,45.0,6.23,6.0,7.3,0.0,0.0,4,11,0.24658956542968752,True,REGULAR,USD,HEES
-HEES220819P00050000,2022-01-04 18:47:12+00:00,50.0,9.05,8.8,11.0,0.0,0.0,4,10,1.0000000000000003e-05,True,REGULAR,USD,HEES

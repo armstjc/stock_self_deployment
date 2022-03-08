@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LILA220218C00010000,2022-01-25 19:38:21+00:00,10.0,1.1,0.65,2.45,0.0,0.0,19,60,1.36328443359375,True,REGULAR,USD,LILA
-LILA220218C00012500,2022-02-09 15:09:58+00:00,12.5,0.1,0.0,0.1,0.0,0.0,1,0,0.64062859375,False,REGULAR,USD,LILA

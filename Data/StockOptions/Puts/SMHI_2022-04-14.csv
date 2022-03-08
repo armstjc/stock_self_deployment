@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMHI220414P00005000,2021-12-07 15:31:03+00:00,5.0,1.55,1.4,1.65,0.0,0.0,2,5,1.455080849609375,True,REGULAR,USD,SMHI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIFY220715P00002500,2022-01-31 19:44:16+00:00,2.5,0.5,0.25,0.4,0.0,0.0,200,960,0.7597680273437502,False,REGULAR,USD,SIFY
-SIFY220715P00005000,2022-02-01 17:10:22+00:00,5.0,2.06,2.1,2.25,0.0,0.0,40,303,0.7851583984375,True,REGULAR,USD,SIFY

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESMT220218P00017500,2022-01-03 14:50:17+00:00,17.5,0.63,1.05,1.35,0.0,0.0,1,6,2.9609400976562497,False,REGULAR,USD,ESMT
-ESMT220218P00025000,2022-01-05 17:35:18+00:00,25.0,5.4,5.7,6.0,0.8000002,17.39131,1,4,3.593751015625,True,REGULAR,USD,ESMT

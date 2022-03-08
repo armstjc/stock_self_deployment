@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DS230120P00002500,2022-01-05 19:23:24+00:00,2.5,1.15,1.1,1.25,0.29999995,35.29411,2,3556,0.6562534375000001,True,REGULAR,USD,DS
-DS230120P00005000,2021-11-09 14:54:03+00:00,5.0,2.5,3.3,3.5,0.0,0.0,310,4768,1.0000000000000003e-05,True,REGULAR,USD,DS

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EFSC220916C00055000,2022-02-03 17:42:24+00:00,55.0,2.05,0.95,4.0,-0.049999952,-2.3809502,10,30,0.3707338317871094,False,REGULAR,USD,EFSC

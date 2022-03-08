@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ARRY221118C00010000,2022-02-09 14:42:19+00:00,10.0,2.67,1.8,2.35,0.0,0.0,1,2,0.7851583984375,False,REGULAR,USD,ARRY
-ARRY221118C00015000,2022-02-02 20:28:35+00:00,15.0,1.5,0.85,1.4,0.0,0.0,40,40,0.8217791259765624,False,REGULAR,USD,ARRY

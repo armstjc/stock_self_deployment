@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENV220819P00065000,2022-02-04 15:34:15+00:00,65.0,4.8,3.6,5.9,0.0,0.0,1,1,0.43860424682617194,False,REGULAR,USD,ENV

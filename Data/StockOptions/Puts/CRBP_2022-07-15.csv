@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRBP220715P00001000,2022-02-10 20:54:05+00:00,1.0,0.64,0.4,0.78,0.0,0.0,10,591,2.68750328125,True,REGULAR,USD,CRBP
-CRBP220715P00002000,2022-01-20 20:43:41+00:00,2.0,1.51,1.43,1.95,0.0,0.0,5,16,2.281254296875,True,REGULAR,USD,CRBP

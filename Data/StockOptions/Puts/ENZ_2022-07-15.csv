@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENZ220715P00002500,2022-02-04 16:48:18+00:00,2.5,0.36,0.2,0.4,0.0,0.0,10.0,561,0.8632826171875,False,REGULAR,USD,ENZ
-ENZ220715P00005000,2021-12-27 18:13:37+00:00,5.0,2.08,1.95,2.35,0.0,0.0,,5,1.1015669921875002,True,REGULAR,USD,ENZ

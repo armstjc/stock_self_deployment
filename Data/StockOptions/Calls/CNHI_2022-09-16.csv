@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNHI220916C00015000,2022-02-01 15:03:59+00:00,15.0,1.8,1.65,1.9,0.0,0.0,20,224,0.39990834472656256,True,REGULAR,USD,CNHI
-CNHI220916C00022500,2022-01-28 17:16:21+00:00,22.5,0.19,0.0,0.7,0.0,0.0,2,2,0.5380905566406251,False,REGULAR,USD,CNHI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TTEK220218C00185000,2022-01-04 14:37:08+00:00,185.0,4.1,0.45,3.8,0.0,0.0,1,1,1.4848658569335935,False,REGULAR,USD,TTEK
-TTEK220218C00190000,2021-12-23 15:50:01+00:00,190.0,2.0,0.25,4.9,0.0,0.0,10,10,1.7045913208007812,False,REGULAR,USD,TTEK

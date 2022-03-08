@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPSC220715C00125000,2022-01-26 19:04:09+00:00,125.0,13.46,11.5,14.9,0.0,0.0,1,1,0.44550115051269534,True,REGULAR,USD,SPSC

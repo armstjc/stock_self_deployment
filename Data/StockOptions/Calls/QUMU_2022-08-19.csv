@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QUMU220819C00002500,2022-01-24 16:51:10+00:00,2.5,0.4,0.1,0.85,0.0,0.0,5,15,1.11328568359375,False,REGULAR,USD,QUMU
-QUMU220819C00005000,2021-12-27 20:32:55+00:00,5.0,0.2,0.05,0.5,0.0,0.0,6,16,1.3750031249999999,False,REGULAR,USD,QUMU

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MOS220211P00033000,2021-12-31 17:10:46+00:00,33.0,0.34,0.24,0.37,0.0,0.0,3,3,3.2304706738281244,False,REGULAR,USD,MOS
-MOS220211P00034000,2022-01-04 20:47:59+00:00,34.0,0.26,0.35,0.49,0.0,0.0,1,4,3.2578143554687498,False,REGULAR,USD,MOS

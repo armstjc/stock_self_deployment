@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LPCN240119P00000500,2022-02-03 15:27:18+00:00,0.5,0.2,0.05,0.25,0.0,0.0,11.0,36,0.945313046875,False,REGULAR,USD,LPCN
-LPCN240119P00001000,2021-11-10 11:48:34+00:00,1.0,2.51,0.05,0.8,0.0,0.0,,2,0.8476577734374999,False,REGULAR,USD,LPCN

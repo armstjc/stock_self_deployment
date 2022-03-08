@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUTO220414P00002500,2022-02-10 18:02:54+00:00,2.5,0.4,0.25,0.55,0.0,0.0,1.0,81,1.2265663671875,False,REGULAR,USD,AUTO
-AUTO220414P00005000,2021-11-04 13:54:15+00:00,5.0,2.35,1.9,2.8,0.0,0.0,,44,1.2421912890624998,True,REGULAR,USD,AUTO

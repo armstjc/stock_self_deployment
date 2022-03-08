@@ -12,7 +12,10 @@ from getStockHistory import getStockHistory
 from getStockOptions import getStockOptions
 from getStockRecommendations import getStockRecommendations
 from stockAnalyisis import useCommonIndicators
+from folder_setup import *
 
+
+changeCurrentWorkingDirectory()
 today = date.today()
 
 def run_threaded(job_func):

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TS220916C00025000,2022-02-04 19:00:32+00:00,25.0,3.26,3.5,4.3,0.0,0.0,1,6,0.432622861328125,True,REGULAR,USD,TS
-TS220916C00027500,2022-02-10 15:49:53+00:00,27.5,2.7,2.25,3.1,0.0,0.0,101,132,0.42407802490234375,False,REGULAR,USD,TS

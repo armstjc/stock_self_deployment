@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MTL220715P00002500,2021-12-31 17:36:15+00:00,2.5,0.5,0.2,0.65,0.0,0.0,2.0,3,1.142582412109375,False,REGULAR,USD,MTL
-MTL220715P00005000,2021-12-29 20:41:43+00:00,5.0,2.2,0.0,0.0,0.0,0.0,,2,1.0000000000000003e-05,True,REGULAR,USD,MTL

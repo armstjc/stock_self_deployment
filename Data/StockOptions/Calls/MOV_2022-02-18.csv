@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MOV220218C00045000,2021-12-23 18:40:01+00:00,45.0,1.8,1.25,2.3,0.0,0.0,3,3,2.0341846020507814,False,REGULAR,USD,MOV

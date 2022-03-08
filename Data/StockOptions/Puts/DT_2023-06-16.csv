@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DT230616P00070000,2022-01-19 20:38:06+00:00,70.0,24.04,27.6,30.1,0.0,0.0,10,10,0.5150805328369141,True,REGULAR,USD,DT

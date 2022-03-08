@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VXRT220211P00006000,2021-12-30 20:40:41+00:00,6.0,0.58,0.17,2.33,0.0,0.0,,15,4.6093792382812495,True,REGULAR,USD,VXRT
-VXRT220211P00007000,2021-12-30 20:31:32+00:00,7.0,1.61,0.18,2.84,0.0,0.0,,1,10.15625365234375,True,REGULAR,USD,VXRT

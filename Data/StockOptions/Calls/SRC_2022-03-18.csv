@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRC220318C00050000,2022-02-11 16:11:17+00:00,50.0,0.3,0.0,0.55,-0.099999994,-24.999998,1,95,0.3315496533203125,False,REGULAR,USD,SRC

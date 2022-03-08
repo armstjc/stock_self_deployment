@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SAFE220218C00085000,2021-12-30 18:23:30+00:00,85.0,1.57,0.35,0.95,0.0,0.0,,1,1.6123066259765624,False,REGULAR,USD,SAFE

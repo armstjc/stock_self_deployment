@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNR220218P00015000,2022-01-05 14:43:51+00:00,15.0,0.2,0.15,0.5,-0.030000001,-13.043478,5,27,1.67578287109375,False,REGULAR,USD,CNR
-CNR220218P00017500,2022-01-03 14:43:00+00:00,17.5,1.03,0.9,1.1,0.0,0.0,1,2,1.5312523437499999,False,REGULAR,USD,CNR

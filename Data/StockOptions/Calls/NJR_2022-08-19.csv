@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NJR220819C00040000,2022-01-21 18:55:00+00:00,40.0,1.55,0.5,3.2,0.0,0.0,5,19,0.27234614379882804,True,REGULAR,USD,NJR
-NJR220819C00045000,2022-02-07 17:37:23+00:00,45.0,1.1,0.0,2.5,0.0,0.0,1,5,0.37036762451171873,False,REGULAR,USD,NJR

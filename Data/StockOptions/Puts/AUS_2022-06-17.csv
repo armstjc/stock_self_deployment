@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUS220617P00002500,2021-10-19 13:30:40+00:00,2.5,0.05,0.0,0.25,0.0,0.0,,6,1.5546897265624997,False,REGULAR,USD,AUS
-AUS220617P00010000,2022-01-04 19:29:11+00:00,10.0,0.45,0.15,0.55,0.0,0.0,50.0,53,0.17188328125000002,True,REGULAR,USD,AUS

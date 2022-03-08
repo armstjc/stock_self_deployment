@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ONTX220218C00002500,2022-01-04 15:48:57+00:00,2.5,0.5,0.2,0.45,0.0,0.0,16,17,6.656251679687501,False,REGULAR,USD,ONTX
-ONTX220218C00005000,2022-01-04 15:19:38+00:00,5.0,0.05,0.05,0.75,0.0,0.0,34,23,10.718753300781252,False,REGULAR,USD,ONTX

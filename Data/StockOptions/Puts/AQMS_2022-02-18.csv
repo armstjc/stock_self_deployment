@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AQMS220218P00002500,2022-02-09 18:20:16+00:00,2.5,1.45,1.1,1.85,0.0,0.0,1,3242,11.656252714843749,True,REGULAR,USD,AQMS
-AQMS220218P00005000,2022-01-11 14:44:00+00:00,5.0,3.76,3.4,4.6,0.0,0.0,4,0,19.750003828125003,True,REGULAR,USD,AQMS

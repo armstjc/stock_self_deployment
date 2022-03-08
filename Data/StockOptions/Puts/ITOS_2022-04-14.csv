@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITOS220414P00015000,2021-11-10 11:51:13+00:00,15.0,0.5,0.1,0.65,0.0,0.0,,17,1.3906280468749999,False,REGULAR,USD,ITOS
-ITOS220414P00030000,2021-11-10 11:51:13+00:00,30.0,6.0,2.05,5.0,0.0,0.0,,2,1.0886276037597655,False,REGULAR,USD,ITOS

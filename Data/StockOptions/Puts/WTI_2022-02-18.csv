@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WTI220218P00003000,2022-01-05 20:59:06+00:00,3.0,0.11,0.1,0.2,-0.040000007,-26.666672,6,27,3.468751328125,False,REGULAR,USD,WTI

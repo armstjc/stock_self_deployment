@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NNOX220211C00013000,2022-01-03 17:11:07+00:00,13.0,3.5,1.9,2.45,0.0,0.0,9,5,7.773437783203125,False,REGULAR,USD,NNOX
-NNOX220211C00026000,2022-01-03 15:11:17+00:00,26.0,0.25,0.1,0.3,0.0,0.0,1,2,6.781251523437501,False,REGULAR,USD,NNOX

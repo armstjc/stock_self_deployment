@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XPEL220715P00045000,2021-12-23 15:22:16+00:00,45.0,3.4,1.75,3.7,0.0,0.0,1,2,0.6557651611328126,False,REGULAR,USD,XPEL
-XPEL220715P00050000,2022-01-05 19:48:41+00:00,50.0,4.05,2.55,5.9,-0.3499999,-7.954543,5,22,0.6451451501464844,False,REGULAR,USD,XPEL

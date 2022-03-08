@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LBAI220414C00017500,2021-11-10 11:56:27+00:00,17.5,1.69,0.05,2.75,0.0,0.0,6,9,0.772463212890625,True,REGULAR,USD,LBAI
-LBAI220414C00020000,2022-01-05 16:19:51+00:00,20.0,1.0,0.85,1.25,0.089999974,9.890107,9,263,0.5507857421875001,False,REGULAR,USD,LBAI

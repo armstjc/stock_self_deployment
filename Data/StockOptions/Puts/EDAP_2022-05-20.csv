@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EDAP220520P00005000,2022-01-28 14:30:23+00:00,5.0,0.37,0.0,0.35,0.0,0.0,1.0,1,0.7460962890625,False,REGULAR,USD,EDAP
-EDAP220520P00008000,2021-11-03 13:31:16+00:00,8.0,2.4,2.2,4.7,0.0,0.0,,10,2.1035203662109367,True,REGULAR,USD,EDAP

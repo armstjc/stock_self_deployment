@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DGICA220916P00002500,2022-02-01 14:32:07+00:00,2.5,0.15,0.0,1.55,0.0,0.0,,10,2.3652384619140623,False,REGULAR,USD,DGICA
-DGICA220916P00010000,2022-02-01 14:32:17+00:00,10.0,0.45,0.0,0.6,0.0,0.0,,0,0.5400436621093752,False,REGULAR,USD,DGICA

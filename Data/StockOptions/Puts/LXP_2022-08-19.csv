@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LXP220819P00030000,2021-12-31 15:12:50+00:00,30.0,14.5,15.3,16.5,0.0,0.0,1,1,0.9643558251953125,True,REGULAR,USD,LXP

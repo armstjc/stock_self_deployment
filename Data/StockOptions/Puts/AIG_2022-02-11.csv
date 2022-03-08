@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AIG220211P00052000,2021-12-30 20:36:32+00:00,52.0,0.58,0.32,0.59,0.0,0.0,,50,2.1093797265624996,False,REGULAR,USD,AIG

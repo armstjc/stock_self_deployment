@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANIX220715P00002500,2022-02-11 15:22:48+00:00,2.5,0.36,0.15,0.6,-0.13999999,-27.999996,1,46,0.8906260937499999,False,REGULAR,USD,ANIX
-ANIX220715P00005000,2022-01-25 14:42:41+00:00,5.0,2.33,1.6,2.4,0.0,0.0,10,28,0.6562534375000001,True,REGULAR,USD,ANIX

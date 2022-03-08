@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALTU220715C00010000,2022-01-24 15:09:22+00:00,10.0,0.25,0.0,0.75,0.0,0.0,50,51,0.31153032226562494,False,REGULAR,USD,ALTU
-ALTU220715C00012500,2021-12-27 17:38:22+00:00,12.5,0.2,0.0,0.4,0.0,0.0,15,71,0.45606012695312503,False,REGULAR,USD,ALTU

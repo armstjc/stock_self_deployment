@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VIST220318P00002500,2021-11-16 20:20:49+00:00,2.5,0.19,0.0,0.2,0.0,0.0,,1,2.3671915820312495,False,REGULAR,USD,VIST
-VIST220318P00005000,2022-01-31 17:50:05+00:00,5.0,0.15,0.0,0.2,0.0,0.0,1.0,50,0.937500625,False,REGULAR,USD,VIST

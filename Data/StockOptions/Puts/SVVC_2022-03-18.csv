@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SVVC220318P00002500,2021-12-31 15:05:45+00:00,2.5,0.1,0.0,0.25,0.0,0.0,3,649,1.4609401953124999,False,REGULAR,USD,SVVC
-SVVC220318P00005000,2022-01-05 20:59:25+00:00,5.0,1.25,1.2,1.4,0.049999952,4.1666627,19,575,0.929688203125,True,REGULAR,USD,SVVC

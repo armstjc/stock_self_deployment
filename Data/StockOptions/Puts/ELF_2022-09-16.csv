@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ELF220916P00022500,2022-02-01 20:29:41+00:00,22.5,1.2,1.25,1.75,0.0,0.0,5,7,0.47437049072265625,False,REGULAR,USD,ELF
-ELF220916P00025000,2021-12-27 17:55:00+00:00,25.0,1.4,0.55,2.8,0.0,0.0,2,2,0.47119669433593747,False,REGULAR,USD,ELF

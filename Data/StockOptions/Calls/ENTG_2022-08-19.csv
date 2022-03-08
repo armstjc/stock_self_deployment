@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENTG220819C00135000,2021-12-20 14:36:28+00:00,135.0,15.82,13.7,16.0,0.0,0.0,,5,0.5328415856933593,False,REGULAR,USD,ENTG
-ENTG220819C00145000,2021-12-16 15:39:36+00:00,145.0,13.86,10.2,12.7,0.0,0.0,,5,0.5240526110839843,False,REGULAR,USD,ENTG

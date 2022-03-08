@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LL220819C00017000,2021-12-31 15:34:01+00:00,17.0,3.4,2.7,2.9,0.0,0.0,2.0,2,0.8842785009765625,False,REGULAR,USD,LL
-LL220819C00018000,2021-12-21 18:28:17+00:00,18.0,2.6,2.2,2.45,0.0,0.0,,2,0.8349625878906248,False,REGULAR,USD,LL

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ONCR220218P00002500,2022-02-09 18:19:53+00:00,2.5,0.05,0.0,0.15,0.0,0.0,1,9,1.1875040625,False,REGULAR,USD,ONCR
-ONCR220218P00005000,2022-01-04 15:45:21+00:00,5.0,0.6,0.2,3.9,0.0,0.0,1,13,15.96875001953125,True,REGULAR,USD,ONCR

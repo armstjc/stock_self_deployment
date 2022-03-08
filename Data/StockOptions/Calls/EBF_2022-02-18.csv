@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EBF220218C00020000,2022-02-01 19:56:04+00:00,20.0,0.1,0.0,0.75,0.0,0.0,1,63,0.93945373046875,False,REGULAR,USD,EBF

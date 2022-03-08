@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIO220318C00017500,2022-01-25 16:08:25+00:00,17.5,0.88,0.45,3.1,0.0,0.0,,5,0.7124052197265626,True,REGULAR,USD,CIO

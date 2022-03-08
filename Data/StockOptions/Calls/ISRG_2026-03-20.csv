@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZBZX260320C00045000,2016-03-11 22:30:19+00:00,45.0,1.1,0.0,0.0,0.0,0.0,0,0,1.0000000000000003e-05,True,REGULAR,USD,ISRG

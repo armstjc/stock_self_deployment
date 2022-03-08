@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANIK220318P00035000,2021-12-14 16:12:48+00:00,35.0,2.0,0.5,5.2,0.0,0.0,1,6,0.5195360546875,True,REGULAR,USD,ANIK
-ANIK220318P00040000,2021-12-22 19:06:24+00:00,40.0,4.8,3.7,7.2,0.0,0.0,1,10,1.0000000000000003e-05,True,REGULAR,USD,ANIK

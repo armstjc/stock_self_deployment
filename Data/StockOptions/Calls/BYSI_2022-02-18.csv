@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BYSI220218C00005000,2022-01-05 16:29:31+00:00,5.0,0.75,0.45,0.7,-0.04000002,-5.063294,2,37,7.0312512109375005,False,REGULAR,USD,BYSI
-BYSI220218C00007500,2022-01-04 18:18:17+00:00,7.5,0.19,0.1,0.25,0.0,0.0,2,426,5.8437526953125,False,REGULAR,USD,BYSI

@@ -1,4 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MHLD220218C00002500,2022-02-10 15:12:09+00:00,2.5,0.25,0.05,0.5,0.0,0.0,1,0,1.5000025,True,REGULAR,USD,MHLD
-MHLD220218C00005000,2022-01-21 16:17:59+00:00,5.0,0.1,0.0,0.05,0.0,0.0,5,334,2.93750265625,False,REGULAR,USD,MHLD
-MHLD220218C00007500,2021-11-02 14:23:35+00:00,7.5,0.1,0.0,0.45,0.0,0.0,1,0,7.00000125,False,REGULAR,USD,MHLD

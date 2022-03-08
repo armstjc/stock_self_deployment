@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PIXY220414P00002500,2022-02-11 20:38:38+00:00,2.5,1.61,1.55,1.7,0.060000062,3.870972,21,614,2.281254296875,True,REGULAR,USD,PIXY
-PIXY220414P00005000,2022-01-25 14:35:45+00:00,5.0,3.63,3.7,4.2,0.0,0.0,1,2,3.6093759765625,True,REGULAR,USD,PIXY

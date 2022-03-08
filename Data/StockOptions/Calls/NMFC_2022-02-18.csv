@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMFC220218C00012500,2022-02-09 20:37:29+00:00,12.5,1.2,1.2,1.45,0.0,0.0,1,64,0.6015664843750002,True,REGULAR,USD,NMFC

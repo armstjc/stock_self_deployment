@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KVSA220218P00010000,2022-01-05 14:30:31+00:00,10.0,0.35,0.0,4.8,0.0,0.0,,15,4.546879316406249,True,REGULAR,USD,KVSA
-KVSA220218P00012500,2022-01-10 14:31:02+00:00,12.5,2.85,1.1,5.0,0.0,0.0,,8,2.1015672460937496,True,REGULAR,USD,KVSA

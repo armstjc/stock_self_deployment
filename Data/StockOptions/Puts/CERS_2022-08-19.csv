@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CERS220819P00004000,2022-01-21 20:07:02+00:00,4.0,0.35,0.25,0.35,0.0,0.0,1,1,0.5918009570312501,False,REGULAR,USD,CERS
-CERS220819P00005000,2022-01-27 16:24:00+00:00,5.0,0.75,0.0,0.0,0.0,0.0,50,563,0.0312596875,False,REGULAR,USD,CERS

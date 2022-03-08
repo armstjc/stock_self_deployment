@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IMVT230120P00007500,2021-12-08 17:23:46+00:00,7.5,2.44,1.7,5.0,0.0,0.0,1,27,0.9072274902343749,True,REGULAR,USD,IMVT
-IMVT230120P00010000,2021-11-16 15:02:18+00:00,10.0,4.26,1.5,6.5,0.0,0.0,31,31,1.4179716601562502,True,REGULAR,USD,IMVT

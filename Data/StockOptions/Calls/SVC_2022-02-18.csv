@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SVC220218C00010000,2022-01-04 15:41:34+00:00,10.0,0.48,0.3,0.45,0.0,0.0,1050,441,1.984375078125,False,REGULAR,USD,SVC

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIGI220819C00160000,2022-01-21 17:42:46+00:00,160.0,8.3,10.1,12.8,0.0,0.0,25,25,0.3895324719238281,False,REGULAR,USD,CIGI

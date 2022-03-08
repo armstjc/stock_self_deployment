@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BPMP220318C00017500,2022-02-09 17:12:27+00:00,17.5,1.55,1.1,2.25,0.0,0.0,1,202,0.6689486230468751,True,REGULAR,USD,BPMP
-BPMP220318C00020000,2022-02-11 14:30:04+00:00,20.0,0.35,0.0,1.15,0.049999982,16.66666,1,1,0.7041045214843751,False,REGULAR,USD,BPMP

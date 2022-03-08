@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RAMP220819P00050000,2022-01-19 14:36:06+00:00,50.0,10.1,0.0,0.0,0.0,0.0,2,0,1.0000000000000003e-05,True,REGULAR,USD,RAMP

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MESA220218P00005000,2022-01-05 20:11:06+00:00,5.0,0.2,0.1,0.2,0.0,0.0,61,246,1.0000000000000003e-05,True,REGULAR,USD,MESA
-MESA220218P00007500,2022-01-03 16:22:07+00:00,7.5,1.57,1.65,2.15,0.0,0.0,2,40,1.0000000000000003e-05,True,REGULAR,USD,MESA

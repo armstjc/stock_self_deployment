@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FMAC220218P00010000,2022-02-11 14:41:37+00:00,10.0,0.15,0.0,0.15,0.0,0.0,18,200,0.179695703125,True,REGULAR,USD,FMAC

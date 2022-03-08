@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCMD220218P00020000,2022-01-21 18:46:51+00:00,20.0,3.58,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,TCMD

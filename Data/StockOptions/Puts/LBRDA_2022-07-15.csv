@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LBRDA220715P00150000,2021-12-13 05:11:53+00:00,150.0,13.1,8.6,11.8,0.0,0.0,4,10,0.29621065124511714,True,REGULAR,USD,LBRDA

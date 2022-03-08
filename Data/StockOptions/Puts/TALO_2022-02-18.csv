@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TALO220218P00007500,2021-12-27 18:29:12+00:00,7.5,0.2,0.0,0.2,0.0,0.0,,13,2.7734405664062503,False,REGULAR,USD,TALO
-TALO220218P00010000,2022-01-04 16:13:11+00:00,10.0,0.8,0.65,0.85,0.0,0.0,1.0,22,3.1523458691406248,False,REGULAR,USD,TALO

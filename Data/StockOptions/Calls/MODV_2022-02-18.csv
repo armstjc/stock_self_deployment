@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MODV220218C00150000,2021-12-28 14:31:42+00:00,150.0,6.54,0.15,4.2,0.0,0.0,,0,2.1430710485839843,False,REGULAR,USD,MODV
-MODV220218C00170000,2021-12-29 14:30:46+00:00,170.0,1.55,0.0,4.8,0.0,0.0,,10,2.7490265649414063,False,REGULAR,USD,MODV

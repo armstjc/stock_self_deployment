@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AHT220311P00007000,2022-01-28 15:16:43+00:00,7.0,1.22,0.08,0.75,0.0,0.0,1,1,1.19922275390625,False,REGULAR,USD,AHT
-AHT220311P00009000,2022-01-28 18:27:09+00:00,9.0,2.33,0.92,2.36,0.0,0.0,4,4,1.48047134765625,True,REGULAR,USD,AHT

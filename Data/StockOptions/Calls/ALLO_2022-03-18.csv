@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALLO220318C00012500,2022-02-02 19:01:06+00:00,12.5,0.9,0.55,0.9,0.0,0.0,16,34,0.945313046875,False,REGULAR,USD,ALLO
-ALLO220318C00015000,2022-02-01 17:07:12+00:00,15.0,0.6,0.2,0.55,0.0,0.0,6,16,1.0253954980468751,False,REGULAR,USD,ALLO

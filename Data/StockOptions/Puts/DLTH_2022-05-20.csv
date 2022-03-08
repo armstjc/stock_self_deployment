@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DLTH220520P00012500,2022-01-05 14:35:49+00:00,12.5,0.66,0.85,1.2,-0.15999997,-19.512192,2,335,0.6543003320312502,False,REGULAR,USD,DLTH
-DLTH220520P00015000,2022-01-05 14:35:49+00:00,15.0,1.56,1.9,2.35,-0.61000013,-28.110605,2,8,0.5893595751953126,True,REGULAR,USD,DLTH

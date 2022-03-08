@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CWCO220318C00007500,2022-01-31 15:59:18+00:00,7.5,2.85,1.5,3.2,0.0,0.0,1,2,0.6015664843750002,True,REGULAR,USD,CWCO
-CWCO220318C00012500,2022-02-09 15:09:43+00:00,12.5,0.09,0.0,0.0,0.0,0.0,2,0,0.2500075,False,REGULAR,USD,CWCO

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLIR220819P00002500,2021-12-29 14:30:19+00:00,2.5,1.25,0.75,2.1,0.0,0.0,,400,0.937500625,True,REGULAR,USD,CLIR

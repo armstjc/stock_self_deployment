@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ERIE220617P00145000,2021-12-20 14:30:04+00:00,145.0,4.1,0.05,4.9,0.0,0.0,,4,0.48328153442382815,False,REGULAR,USD,ERIE
-ERIE220617P00220000,2021-11-08 20:40:04+00:00,220.0,13.2,34.0,38.0,0.0,0.0,,3,0.3100654931640625,True,REGULAR,USD,ERIE

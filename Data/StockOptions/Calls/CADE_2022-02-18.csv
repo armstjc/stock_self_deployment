@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CADE220218C00030000,2022-02-04 20:30:08+00:00,30.0,2.0,1.7,2.25,0.0,0.0,1,108,0.72070591796875,True,REGULAR,USD,CADE
-CADE220218C00035000,2022-01-31 14:34:38+00:00,35.0,0.05,0.0,0.2,0.0,0.0,1,0,0.5585981640625001,False,REGULAR,USD,CADE

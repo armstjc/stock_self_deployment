@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AZZ220819C00040000,2022-01-21 15:47:49+00:00,40.0,10.79,9.5,10.6,0.0,0.0,10.0,10,0.4162656030273437,True,REGULAR,USD,AZZ
-AZZ220819C00060000,2022-02-01 19:28:27+00:00,60.0,1.2,0.9,1.4,0.0,0.0,,5,0.3382634533691406,False,REGULAR,USD,AZZ

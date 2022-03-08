@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AWRE220414P00002500,2022-01-13 18:04:04+00:00,2.5,0.35,0.0,0.75,0.0,0.0,1,41,1.50390873046875,False,REGULAR,USD,AWRE
-AWRE220414P00005000,2021-12-29 17:16:29+00:00,5.0,1.95,2.15,2.5,0.0,0.0,3,22,1.9765626171875001,True,REGULAR,USD,AWRE

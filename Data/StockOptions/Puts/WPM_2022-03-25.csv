@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WPM220325P00036000,2022-02-04 15:36:43+00:00,36.0,0.66,0.36,0.68,0.0,0.0,30,30,0.4057676611328125,False,REGULAR,USD,WPM
-WPM220325P00037000,2022-02-08 19:23:53+00:00,37.0,0.59,0.56,0.8,0.0,0.0,1,6,0.3711000390625,False,REGULAR,USD,WPM

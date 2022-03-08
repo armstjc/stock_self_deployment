@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QTT220414P00002500,2022-01-31 20:17:01+00:00,2.5,0.7,0.3,0.9,0.0,0.0,14,13,1.12891060546875,True,REGULAR,USD,QTT
-QTT220414P00005000,2021-11-10 11:54:24+00:00,5.0,3.9,3.7,4.2,0.0,0.0,1,1,4.742191572265625,True,REGULAR,USD,QTT

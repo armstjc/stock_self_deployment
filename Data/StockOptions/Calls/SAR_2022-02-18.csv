@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SAR220218C00030000,2022-02-03 17:22:44+00:00,30.0,0.05,0.0,0.05,0.0,0.0,,2,0.34766277343749996,False,REGULAR,USD,SAR

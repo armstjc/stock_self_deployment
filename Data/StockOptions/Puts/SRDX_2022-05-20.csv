@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SRDX220520P00050000,2021-11-10 15:42:56+00:00,50.0,4.5,6.2,10.1,0.0,0.0,,4,0.5161181201171875,True,REGULAR,USD,SRDX
-SRDX220520P00075000,2022-01-24 15:38:11+00:00,75.0,32.5,31.0,35.5,0.0,0.0,20.0,20,1.0639695239257816,True,REGULAR,USD,SRDX

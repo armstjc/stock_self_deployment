@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RBA220218P00050000,2022-01-05 19:17:20+00:00,50.0,0.41,0.0,4.8,0.00999999,2.4999976,1,1,1.935547197265625,False,REGULAR,USD,RBA
-RBA220218P00055000,2022-01-05 19:02:24+00:00,55.0,0.75,0.85,2.25,-0.35000002,-31.818184,1,1,0.8945323046874999,False,REGULAR,USD,RBA

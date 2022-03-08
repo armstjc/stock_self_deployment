@@ -1,4 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIRI220325C00007000,2022-02-09 17:35:34+00:00,7.0,0.25,0.0,0.0,0.0,0.0,40.0,0,0.12500875,False,REGULAR,USD,SIRI
-SIRI220325C00007500,2022-02-09 18:06:44+00:00,7.5,0.15,0.0,0.0,0.0,0.0,3.0,0,0.12500875,False,REGULAR,USD,SIRI
-SIRI220325C00009000,2022-02-03 17:58:06+00:00,9.0,0.1,0.0,0.0,0.0,0.0,,0,0.2500075,False,REGULAR,USD,SIRI

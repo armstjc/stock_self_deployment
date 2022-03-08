@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HIW220819C00040000,2022-01-28 20:49:33+00:00,40.0,4.1,1.8,5.5,0.0,0.0,48,49,0.36963520996093746,True,REGULAR,USD,HIW
-HIW220819C00045000,2022-02-11 19:01:50+00:00,45.0,2.0,0.6,2.9,0.25,14.285715,1,0,0.33484551879882807,False,REGULAR,USD,HIW

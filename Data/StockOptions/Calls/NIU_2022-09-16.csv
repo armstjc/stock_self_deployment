@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NIU220916C00025000,2022-02-01 14:30:22+00:00,25.0,0.96,0.0,0.0,0.0,0.0,,6,0.2500075,False,REGULAR,USD,NIU
-NIU220916C00030000,2022-01-25 19:49:50+00:00,30.0,0.38,0.0,0.6,0.0,0.0,,10,0.6884796777343751,False,REGULAR,USD,NIU

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VVPR220318C00002500,2022-02-11 19:13:12+00:00,2.5,0.6,0.3,0.55,0.15000004,33.333344,44,30,1.2890660546875,True,REGULAR,USD,VVPR

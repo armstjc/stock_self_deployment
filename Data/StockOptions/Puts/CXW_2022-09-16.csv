@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CXW220916P00010000,2022-02-10 16:35:06+00:00,10.0,1.63,1.6,1.75,0.0,0.0,35,40,0.5092822509765625,True,REGULAR,USD,CXW

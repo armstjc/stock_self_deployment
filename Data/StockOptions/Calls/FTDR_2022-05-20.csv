@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTDR220520C00040000,2022-02-08 17:09:30+00:00,40.0,1.9,1.35,5.0,0.0,0.0,19,24,0.6523472265625001,False,REGULAR,USD,FTDR

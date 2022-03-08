@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OIS220617P00005000,2021-12-23 17:33:16+00:00,5.0,0.96,0.55,0.95,0.0,0.0,12,15,1.076176494140625,False,REGULAR,USD,OIS
-OIS220617P00007500,2021-12-17 15:18:55+00:00,7.5,3.27,2.0,2.6,0.0,0.0,2,5,1.1445355273437499,True,REGULAR,USD,OIS

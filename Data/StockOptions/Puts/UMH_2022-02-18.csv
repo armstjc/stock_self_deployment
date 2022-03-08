@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UMH220218P00020000,2021-12-20 15:42:51+00:00,20.0,0.2,0.0,1.65,0.0,0.0,,1,1.9453127734375002,False,REGULAR,USD,UMH
-UMH220218P00025000,2021-12-17 15:35:31+00:00,25.0,1.72,0.3,1.65,0.0,0.0,2.0,2,0.5800823242187501,True,REGULAR,USD,UMH

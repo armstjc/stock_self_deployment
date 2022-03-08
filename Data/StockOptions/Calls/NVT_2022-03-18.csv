@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NVT220318C00035000,2022-02-09 19:45:32+00:00,35.0,2.0,1.45,1.65,0.0,0.0,10,12,0.3237372314453124,True,REGULAR,USD,NVT

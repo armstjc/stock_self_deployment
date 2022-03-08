@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTX220218C00007500,2021-12-29 18:57:31+00:00,7.5,0.9,0.7,0.9,0.0,0.0,,213,2.56250359375,False,REGULAR,USD,GTX
-GTX220218C00010000,2021-12-30 18:55:02+00:00,10.0,0.1,0.0,0.15,0.0,0.0,,10,1.859375703125,False,REGULAR,USD,GTX

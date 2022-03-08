@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WETF220218C00006000,2021-12-27 14:30:00+00:00,6.0,0.45,0.45,0.6,0.0,0.0,,1,2.2578168554687497,False,REGULAR,USD,WETF
-WETF220218C00007000,2022-01-04 14:30:06+00:00,7.0,0.05,0.1,0.15,0.0,0.0,2.0,137,1.7109389453125,False,REGULAR,USD,WETF

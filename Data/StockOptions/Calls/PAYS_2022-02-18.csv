@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PAYS220218C00002500,2022-02-11 17:49:58+00:00,2.5,0.05,0.0,0.05,-0.009999998,-16.666664,9,828,0.8281267187499999,False,REGULAR,USD,PAYS
-PAYS220218C00005000,2022-02-04 20:46:15+00:00,5.0,0.05,0.0,0.05,0.0,0.0,4,14,3.56250109375,False,REGULAR,USD,PAYS

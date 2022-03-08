@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ITW220325P00235000,2022-02-08 15:22:52+00:00,235.0,12.72,16.6,20.0,0.0,0.0,2,8,0.2906565075683593,True,REGULAR,USD,ITW
-ITW220325P00240000,2022-02-04 15:08:44+00:00,240.0,9.5,21.0,24.7,0.0,0.0,8,8,0.31995308959960933,True,REGULAR,USD,ITW

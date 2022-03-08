@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPWH220218P00010000,2022-02-09 20:59:05+00:00,10.0,0.05,0.0,0.1,0.0,0.0,9,461,0.8906260937499999,False,REGULAR,USD,SPWH
-SPWH220218P00012500,2022-02-08 14:49:05+00:00,12.5,1.2,0.45,1.1,0.0,0.0,1,31,0.9765627343750001,True,REGULAR,USD,SPWH

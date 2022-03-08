@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLPG220715P00045000,2021-12-14 16:12:29+00:00,45.0,4.4,2.8,4.5,0.0,0.0,1,56,0.7810080493164062,False,REGULAR,USD,GLPG
-GLPG220715P00055000,2021-12-30 15:57:59+00:00,55.0,6.6,7.8,9.5,0.0,0.0,2,4,0.8560805407714844,False,REGULAR,USD,GLPG

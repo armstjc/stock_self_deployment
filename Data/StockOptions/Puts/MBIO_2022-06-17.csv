@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MBIO220617P00002500,2022-02-04 17:26:45+00:00,2.5,1.5,1.35,1.7,0.0,0.0,2,270,1.890625546875,True,REGULAR,USD,MBIO
-MBIO220617P00005000,2022-02-09 15:18:26+00:00,5.0,4.46,3.8,4.2,0.0,0.0,30,12,2.468753828125,True,REGULAR,USD,MBIO

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NRP220218C00035000,2022-02-02 20:56:53+00:00,35.0,2.8,2.15,4.3,0.0,0.0,6,292,1.2959019580078124,True,REGULAR,USD,NRP
-NRP220218C00040000,2022-02-11 15:58:26+00:00,40.0,0.15,0.0,0.75,-0.099999994,-39.999996,24,91,0.5293015820312501,False,REGULAR,USD,NRP

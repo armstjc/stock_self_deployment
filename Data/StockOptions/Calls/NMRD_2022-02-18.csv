@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMRD220218C00005000,2021-12-27 20:37:36+00:00,5.0,0.43,0.1,0.6,0.0,0.0,20.0,21,2.89844025390625,False,REGULAR,USD,NMRD
-NMRD220218C00007500,2021-12-27 19:49:24+00:00,7.5,0.08,0.0,0.15,0.0,0.0,,5,3.1406271484375,False,REGULAR,USD,NMRD

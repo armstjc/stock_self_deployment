@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DLX221216P00020000,2021-10-22 16:01:25+00:00,20.0,0.91,0.0,0.0,0.0,0.0,11.0,0,0.12500875,False,REGULAR,USD,DLX
-DLX221216P00030000,2021-11-10 11:53:49+00:00,30.0,3.0,3.3,6.5,0.0,0.0,,2,0.6306189282226562,False,REGULAR,USD,DLX

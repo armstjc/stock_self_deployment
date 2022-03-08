@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AROW220617P00030000,2021-11-10 11:58:26+00:00,30.0,1.15,0.65,2.55,0.0,0.0,,10,0.62305064453125,False,REGULAR,USD,AROW
-AROW220617P00035000,2022-02-01 20:31:56+00:00,35.0,2.05,1.95,2.4,0.0,0.0,3.0,6,0.3064034204101562,False,REGULAR,USD,AROW

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMTC220218C00002500,2022-02-10 14:32:18+00:00,2.5,0.3,0.1,0.5,0.0,0.0,1.0,21,0.9687503125,True,REGULAR,USD,NMTC
-NMTC220218C00005000,2022-01-03 19:20:36+00:00,5.0,0.05,0.0,2.35,0.0,0.0,,26,9.9375037890625,False,REGULAR,USD,NMTC

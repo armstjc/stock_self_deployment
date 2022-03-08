@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESCA220414C00020000,2021-11-10 11:50:26+00:00,20.0,2.5,0.25,1.75,0.0,0.0,,4,1.2236366943359376,False,REGULAR,USD,ESCA
-ESCA220414C00022500,2021-12-13 20:31:27+00:00,22.5,0.45,0.0,0.0,0.0,0.0,6.0,7,0.2500075,False,REGULAR,USD,ESCA

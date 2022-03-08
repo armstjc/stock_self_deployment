@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-REVG220218C00015000,2021-12-23 19:46:03+00:00,15.0,0.83,0.45,1.25,0.0,0.0,2.0,13,1.8984380078125,False,REGULAR,USD,REVG
-REVG220218C00017500,2021-12-21 20:02:01+00:00,17.5,0.25,0.15,0.3,0.0,0.0,,3,1.6953140234375002,False,REGULAR,USD,REVG

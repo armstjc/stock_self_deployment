@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QUAD220715P00002500,2021-12-09 17:54:56+00:00,2.5,0.25,0.05,0.25,0.0,0.0,11,15,0.9257819921875,False,REGULAR,USD,QUAD
-QUAD220715P00005000,2022-02-11 17:30:42+00:00,5.0,0.98,0.9,1.3,-0.06999993,-6.6666603,100,306,0.7597680273437502,True,REGULAR,USD,QUAD

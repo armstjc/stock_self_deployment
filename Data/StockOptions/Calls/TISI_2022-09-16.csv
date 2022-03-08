@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TISI220916C00002500,2022-02-11 20:00:37+00:00,2.5,0.2,0.1,0.55,0.010000005,5.2631607,10,19,2.46094134765625,False,REGULAR,USD,TISI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XMTR220218C00050000,2021-12-28 15:09:24+00:00,50.0,6.0,5.2,6.1,0.0,0.0,6,11,2.854006771240234,False,REGULAR,USD,XMTR
-XMTR220218C00060000,2021-12-31 17:51:25+00:00,60.0,2.25,1.6,3.2,0.0,0.0,25,43,2.610355036621094,False,REGULAR,USD,XMTR

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SNDX220715C00022500,2021-12-13 05:03:35+00:00,22.5,2.25,1.65,5.1,0.0,0.0,,2,1.3969756713867185,False,REGULAR,USD,SNDX
-SNDX220715C00025000,2021-12-17 20:53:33+00:00,25.0,2.7,1.0,2.85,0.0,0.0,1.0,2,1.1235395385742186,False,REGULAR,USD,SNDX

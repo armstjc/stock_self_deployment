@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IBP220617P00120000,2022-01-10 14:52:32+00:00,120.0,14.02,16.0,20.0,0.0,0.0,5,5,0.4337214831542969,True,REGULAR,USD,IBP
-IBP220617P00130000,2022-01-24 20:51:02+00:00,130.0,24.1,26.5,30.0,0.0,0.0,1,1,0.5380295220947267,True,REGULAR,USD,IBP

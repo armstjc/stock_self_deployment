@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DXLG220218P00005000,2022-01-05 20:56:21+00:00,5.0,0.35,0.3,0.35,0.049999982,16.66666,425,152,0.585941640625,True,REGULAR,USD,DXLG

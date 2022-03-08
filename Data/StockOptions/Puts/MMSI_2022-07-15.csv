@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MMSI220715P00040000,2022-01-18 05:01:09+00:00,40.0,0.15,0.0,4.8,0.0,0.0,1,1,0.6757844921875001,False,REGULAR,USD,MMSI
-MMSI220715P00055000,2022-01-18 05:01:09+00:00,55.0,4.05,3.7,6.5,0.0,0.0,12,12,0.524418818359375,False,REGULAR,USD,MMSI

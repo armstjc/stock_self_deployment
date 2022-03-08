@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCTX220318P00005000,2022-02-01 19:19:18+00:00,5.0,0.45,0.4,0.85,0.0,0.0,1,29,1.5703146484375,False,REGULAR,USD,BCTX
-BCTX220318P00007500,2022-01-27 14:30:36+00:00,7.5,2.2,1.9,2.35,0.0,0.0,1,16,1.6386736816406249,True,REGULAR,USD,BCTX

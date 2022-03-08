@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASML220211C00800000,2021-12-30 15:39:21+00:00,800.0,41.0,12.5,19.6,0.0,0.0,,1,2.8624296017456055,False,REGULAR,USD,ASML
-ASML220211C00820000,2021-12-30 15:39:21+00:00,820.0,31.55,7.5,14.8,0.0,0.0,,1,2.7120393527221673,False,REGULAR,USD,ASML

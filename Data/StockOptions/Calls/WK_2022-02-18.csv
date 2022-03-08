@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WK220218C00135000,2021-12-21 18:37:09+00:00,135.0,9.7,1.5,2.25,0.0,0.0,,1,1.2963902368164062,False,REGULAR,USD,WK
-WK220218C00150000,2021-12-21 20:51:44+00:00,150.0,4.5,0.3,2.05,0.0,0.0,,1,1.572267763671875,False,REGULAR,USD,WK

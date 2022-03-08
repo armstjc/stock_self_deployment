@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CAJ220916C00015000,2022-01-25 16:07:33+00:00,15.0,10.0,8.7,11.8,0.0,0.0,,15,0.5830119824218749,True,REGULAR,USD,CAJ
-CAJ220916C00025000,2022-02-07 18:39:10+00:00,25.0,1.6,0.5,3.5,0.0,0.0,2.0,4,0.4802298071289062,False,REGULAR,USD,CAJ

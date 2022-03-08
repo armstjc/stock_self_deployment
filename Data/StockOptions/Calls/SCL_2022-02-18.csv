@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SCL220218C00120000,2021-12-27 14:30:03+00:00,120.0,5.1,5.2,8.4,0.0,0.0,,3,2.0400439624023434,False,REGULAR,USD,SCL
-SCL220218C00125000,2021-12-30 19:25:56+00:00,125.0,3.3,2.1,5.3,0.0,0.0,,2,1.681642216796875,False,REGULAR,USD,SCL

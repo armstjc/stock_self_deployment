@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RPT220617C00015000,2022-01-05 20:01:40+00:00,15.0,0.61,0.5,1.0,-0.19999999,-24.691357,10.0,62,0.5351608984375,False,REGULAR,USD,RPT
-RPT220617C00020000,2021-11-23 15:07:01+00:00,20.0,0.1,0.0,0.35,0.0,0.0,,1,0.5585981640625001,False,REGULAR,USD,RPT

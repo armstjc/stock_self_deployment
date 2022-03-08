@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ESGC230120P00002500,2021-12-29 17:01:19+00:00,2.5,2.39,2.3,2.4,0.0,0.0,99,756,3.9843750390625,False,REGULAR,USD,ESGC
-ESGC230120P00007500,2021-11-10 11:50:29+00:00,7.5,6.99,5.0,7.5,0.0,0.0,1,2,2.285160537109375,True,REGULAR,USD,ESGC

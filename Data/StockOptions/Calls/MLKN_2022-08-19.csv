@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MLKN220819C00035000,2022-01-07 20:31:22+00:00,35.0,4.69,5.1,6.3,0.0,0.0,5,5,0.44067942138671873,True,REGULAR,USD,MLKN
-MLKN220819C00040000,2022-01-18 20:30:01+00:00,40.0,3.31,2.55,5.9,0.0,0.0,63,65,0.6143837390136719,False,REGULAR,USD,MLKN

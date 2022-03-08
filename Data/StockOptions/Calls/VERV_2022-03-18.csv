@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VERV220318C00035000,2022-02-11 15:19:33+00:00,35.0,2.55,1.35,3.2,0.14999986,6.249994,6,7,0.9965820654296875,False,REGULAR,USD,VERV
-VERV220318C00040000,2022-02-11 18:07:42+00:00,40.0,1.05,0.0,2.9,0.099999964,10.526312,1,19,1.0849655126953124,False,REGULAR,USD,VERV

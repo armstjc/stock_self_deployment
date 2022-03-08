@@ -1,4 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPPI230120P00001000,2022-02-08 20:31:23+00:00,1.0,0.65,0.45,0.0,0.0,0.0,2,76,1.0000000000000003e-05,True,REGULAR,USD,SPPI
-SPPI230120P00002000,2022-01-28 19:49:48+00:00,2.0,1.41,0.2,5.0,0.0,0.0,8,23,0.0,True,REGULAR,USD,SPPI
-SPPI230120P00003000,2021-12-28 17:24:36+00:00,3.0,1.89,0.0,4.3,0.0,0.0,10,20,0.0,True,REGULAR,USD,SPPI

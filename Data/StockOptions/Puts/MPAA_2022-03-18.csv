@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MPAA220318P00012500,2021-11-10 11:56:06+00:00,12.5,0.6,0.25,1.55,0.0,0.0,,20.0,1.3339877050781246,False,REGULAR,USD,MPAA
-MPAA220318P00015000,2021-11-10 11:56:06+00:00,15.0,0.82,0.35,0.95,0.0,0.0,,,0.6162147753906251,False,REGULAR,USD,MPAA

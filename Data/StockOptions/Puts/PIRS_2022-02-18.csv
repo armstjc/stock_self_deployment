@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PIRS220218P00002500,2022-01-27 20:48:57+00:00,2.5,0.1,0.0,0.35,0.0,0.0,100,186,3.50000125,False,REGULAR,USD,PIRS
-PIRS220218P00005000,2022-01-31 19:53:28+00:00,5.0,1.5,0.55,2.3,0.0,0.0,24,30,6.789064013671876,True,REGULAR,USD,PIRS

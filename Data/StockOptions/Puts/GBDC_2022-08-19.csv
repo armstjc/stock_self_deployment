@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GBDC220819P00015000,2022-02-09 20:58:34+00:00,15.0,0.55,0.25,1.05,0.0,0.0,2,33,0.32910827148437494,False,REGULAR,USD,GBDC
-GBDC220819P00017500,2022-02-09 16:52:35+00:00,17.5,1.7,0.6,3.8,0.0,0.0,2,3,0.6176796044921876,True,REGULAR,USD,GBDC

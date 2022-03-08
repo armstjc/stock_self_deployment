@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JCI220325P00065000,2022-02-08 17:44:01+00:00,65.0,1.7,0.95,1.35,0.0,0.0,3,4,0.327155166015625,False,REGULAR,USD,JCI

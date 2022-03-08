@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BKU220318C00040000,2022-01-27 14:30:01+00:00,40.0,5.0,2.9,6.3,0.0,0.0,1,1,0.7026396923828125,True,REGULAR,USD,BKU

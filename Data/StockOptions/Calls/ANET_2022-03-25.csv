@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANET220325C00130000,2022-02-10 17:13:06+00:00,130.0,9.22,3.6,7.4,0.0,0.0,13,13,0.5582319567871095,False,REGULAR,USD,ANET

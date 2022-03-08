@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TPC220218C00012500,2022-01-03 15:44:22+00:00,12.5,1.0,0.7,0.9,0.0,0.0,20,112,2.285160537109375,False,REGULAR,USD,TPC
-TPC220218C00015000,2022-01-04 19:44:12+00:00,15.0,0.15,0.05,0.2,0.0,0.0,2,29,1.75000125,False,REGULAR,USD,TPC

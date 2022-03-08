@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KTCC220520C00005000,2021-12-10 20:46:08+00:00,5.0,1.7,1.55,1.85,0.0,0.0,2,56,1.0351610742187503,True,REGULAR,USD,KTCC
-KTCC220520C00007500,2022-01-04 20:53:53+00:00,7.5,0.95,0.2,0.7,0.0,0.0,4,4,0.7597680273437502,False,REGULAR,USD,KTCC

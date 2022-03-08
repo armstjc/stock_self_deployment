@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TWND220617P00007500,2021-11-18 18:11:01+00:00,7.5,0.15,0.0,4.8,0.0,0.0,1,1,1.791016669921875,False,REGULAR,USD,TWND
-TWND220617P00010000,2021-12-31 19:54:14+00:00,10.0,0.55,0.0,2.5,0.0,0.0,1,51,0.5063525927734375,True,REGULAR,USD,TWND

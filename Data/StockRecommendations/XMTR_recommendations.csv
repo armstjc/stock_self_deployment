@@ -1,9 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2021-07-26,Goldman Sachs,Neutral,,init,XMTR
-2021-07-26,RBC Capital,Sector Perform,,init,XMTR
-2021-07-26,JP Morgan,Overweight,,init,XMTR
-2021-07-26,Citigroup,Buy,,init,XMTR
-2021-07-26,B of A Securities,Buy,,init,XMTR
-2021-07-26,William Blair,Outperform,,init,XMTR
-2021-11-11,RBC Capital,Outperform,Sector Perform,up,XMTR
-2021-12-09,RBC Capital,Outperform,,main,XMTR

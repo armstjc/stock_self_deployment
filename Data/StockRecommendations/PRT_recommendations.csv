@@ -1,9 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2018-05-29,Stifel Nicolaus,Buy,,init,PRT
-2018-05-29,Jefferies,Buy,,init,PRT
-2018-05-29,UBS,Buy,,init,PRT
-2018-05-29,Wells Fargo,Outperform,,init,PRT
-2018-08-23,Stifel Nicolaus,Hold,Buy,down,PRT
-2018-10-02,Stifel Nicolaus,Buy,Hold,up,PRT
-2019-01-17,Stifel Nicolaus,Hold,Buy,down,PRT
-2020-07-29,Wells Fargo,Equal-Weight,Overweight,down,PRT

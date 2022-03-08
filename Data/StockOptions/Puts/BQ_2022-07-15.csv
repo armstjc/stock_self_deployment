@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BQ220715P00002500,2022-01-21 15:17:04+00:00,2.5,2.05,1.45,2.15,0.0,0.0,1,1,1.2812535937499998,True,REGULAR,USD,BQ
-BQ220715P00005000,2022-01-21 15:17:05+00:00,5.0,4.55,3.7,4.9,0.0,0.0,1,0,1.71875140625,True,REGULAR,USD,BQ

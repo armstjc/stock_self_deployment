@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CIB220617P00025000,2022-01-25 15:11:23+00:00,25.0,0.65,0.3,0.85,0.0,0.0,,1,0.5371140039062501,False,REGULAR,USD,CIB
-CIB220617P00030000,2022-01-14 17:53:50+00:00,30.0,1.6,0.0,3.0,0.0,0.0,27.0,28,0.6179237426757813,False,REGULAR,USD,CIB

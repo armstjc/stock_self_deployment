@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TSLX220218C00022500,2022-02-01 15:09:07+00:00,22.5,1.55,0.95,1.45,0.0,0.0,2,18,0.6621127539062501,True,REGULAR,USD,TSLX
-TSLX220218C00025000,2022-02-08 15:31:24+00:00,25.0,0.05,0.0,0.05,0.0,0.0,1,66,0.34766277343749996,False,REGULAR,USD,TSLX

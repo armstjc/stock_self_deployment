@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CHE220916P00420000,2022-01-31 17:41:03+00:00,420.0,23.6,19.2,22.5,0.0,0.0,1.0,0,0.3214636946105957,False,REGULAR,USD,CHE
-CHE220916P00540000,2022-01-25 17:12:16+00:00,540.0,92.9,81.0,85.3,0.0,0.0,,1,0.28113511840820304,True,REGULAR,USD,CHE

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATHA220318C00010000,2022-02-08 18:01:42+00:00,10.0,0.8,1.1,1.75,0.0,0.0,2,17,0.8378922460937499,True,REGULAR,USD,ATHA
-ATHA220318C00012500,2022-02-02 15:41:44+00:00,12.5,0.35,0.25,1.25,0.0,0.0,10,3,1.0361376318359379,False,REGULAR,USD,ATHA

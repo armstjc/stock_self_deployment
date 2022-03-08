@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AXS220916P00045000,2022-01-28 16:09:03+00:00,45.0,1.65,1.1,1.85,0.0,0.0,20.0,22,0.37622694091796877,False,REGULAR,USD,AXS
-AXS220916P00050000,2022-02-03 20:54:22+00:00,50.0,2.6,1.9,3.1,0.0,0.0,,4,0.3481510498046875,False,REGULAR,USD,AXS

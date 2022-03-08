@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RADA220318C00010000,2022-02-10 15:49:59+00:00,10.0,1.1,0.55,1.45,0.15000004,15.789478,25,70,0.79101771484375,True,REGULAR,USD,RADA

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-THFF220218P00040000,2022-02-01 18:26:42+00:00,40.0,0.15,0.0,0.25,0.0,0.0,,1,0.73633076171875,False,REGULAR,USD,THFF

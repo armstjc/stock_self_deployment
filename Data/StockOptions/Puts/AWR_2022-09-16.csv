@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AWR220916P00085000,2022-02-01 16:52:56+00:00,85.0,4.8,3.6,6.9,0.0,0.0,,1,0.28528546752929684,False,REGULAR,USD,AWR
-AWR220916P00090000,2022-01-24 20:48:09+00:00,90.0,6.6,6.5,10.5,0.0,0.0,,2,0.3136054968261719,True,REGULAR,USD,AWR

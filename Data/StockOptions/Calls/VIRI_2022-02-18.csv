@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VIRI220218C00005000,2022-01-25 19:44:54+00:00,5.0,1.65,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,VIRI
-VIRI220218C00007500,2022-01-24 14:55:20+00:00,7.5,0.42,0.0,0.0,0.0,0.0,1,0,0.12500875,False,REGULAR,USD,VIRI

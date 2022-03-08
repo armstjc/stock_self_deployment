@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCEL220916P00002500,2022-02-10 17:58:15+00:00,2.5,1.0,0.3,1.25,0.0,0.0,4,7,1.29297228515625,True,REGULAR,USD,BCEL
-BCEL220916P00007500,2022-02-11 20:33:21+00:00,7.5,5.8,5.6,6.0,0.3000002,5.454549,3,6,0.87500125,True,REGULAR,USD,BCEL

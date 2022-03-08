@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SIGI220218P00065000,2022-02-04 16:38:53+00:00,65.0,0.2,0.0,4.8,0.0,0.0,1,0,1.8496101269531249,False,REGULAR,USD,SIGI
-SIGI220218P00080000,2022-01-24 17:39:50+00:00,80.0,4.0,1.5,6.0,0.0,0.0,1,0,1.0283251708984378,True,REGULAR,USD,SIGI

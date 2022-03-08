@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MIME220318C00080000,2022-02-11 16:37:35+00:00,80.0,0.45,0.3,0.45,0.099999994,28.571426,3,110,0.06775834594726565,False,REGULAR,USD,MIME

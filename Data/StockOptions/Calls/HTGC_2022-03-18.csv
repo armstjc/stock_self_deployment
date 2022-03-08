@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTGC220318C00017500,2022-02-10 16:32:14+00:00,17.5,0.78,0.7,0.85,-0.07000005,-8.2353,60,158,0.243171630859375,True,REGULAR,USD,HTGC
-HTGC220318C00020000,2022-02-09 20:57:24+00:00,20.0,0.03,0.0,0.1,0.0,0.0,3,7,0.27930408203124996,False,REGULAR,USD,HTGC

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MCRI220218C00075000,2021-12-30 18:21:07+00:00,75.0,3.3,0.45,3.9,0.0,0.0,,51,0.7700218310546876,True,REGULAR,USD,MCRI
-MCRI220218C00085000,2021-12-30 16:22:47+00:00,85.0,1.64,0.0,2.2,0.0,0.0,,1,0.954102021484375,False,REGULAR,USD,MCRI

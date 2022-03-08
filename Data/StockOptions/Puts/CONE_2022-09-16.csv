@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CONE220916P00075000,2022-01-03 05:11:16+00:00,75.0,0.1,0.0,0.0,0.0,0.0,10,0,0.062509375,False,REGULAR,USD,CONE
-CONE220916P00090000,2022-02-08 20:32:18+00:00,90.0,1.3,0.2,5.0,0.0,0.0,8,9,0.17780363220214845,True,REGULAR,USD,CONE

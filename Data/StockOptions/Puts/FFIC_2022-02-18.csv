@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FFIC220218P00022500,2022-02-03 15:46:33+00:00,22.5,0.17,0.0,1.9,0.0,0.0,2,41,1.1308637207031251,False,REGULAR,USD,FFIC
-FFIC220218P00025000,2022-02-03 15:46:33+00:00,25.0,1.51,0.0,3.4,0.0,0.0,2,22,2.009770600585937,True,REGULAR,USD,FFIC

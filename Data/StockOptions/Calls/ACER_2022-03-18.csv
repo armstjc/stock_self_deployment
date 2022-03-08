@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ACER220318C00002500,2022-02-10 14:33:17+00:00,2.5,0.25,0.1,0.35,0.0,0.0,4,20,0.8828136718749999,False,REGULAR,USD,ACER

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STIM220819P00002500,2022-02-07 14:30:04+00:00,2.5,0.5,0.15,0.0,0.0,0.0,20,21,0.062509375,False,REGULAR,USD,STIM
-STIM220819P00005000,2022-02-07 14:30:04+00:00,5.0,2.1,1.8,2.5,0.0,0.0,5,15,0.7402369726562499,True,REGULAR,USD,STIM

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPUH220819C00007500,2022-01-03 14:59:38+00:00,7.5,2.4,1.95,2.65,0.0,0.0,2,3,0.49805189453125004,True,REGULAR,USD,CPUH
-CPUH220819C00010000,2022-02-07 16:05:58+00:00,10.0,0.4,0.15,0.75,0.0,0.0,100,500,0.309577216796875,False,REGULAR,USD,CPUH

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SII220318P00030000,2022-02-11 20:14:19+00:00,30.0,0.25,0.2,0.4,-0.15,-37.5,2,35,0.559574716796875,False,REGULAR,USD,SII
-SII220318P00035000,2022-02-11 20:02:43+00:00,35.0,1.0,0.75,1.15,0.14999998,17.647055,14,363,0.45606012695312503,False,REGULAR,USD,SII

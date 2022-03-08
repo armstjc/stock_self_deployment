@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XPER220916C00017500,2022-02-09 19:11:12+00:00,17.5,1.45,0.2,3.5,0.0,0.0,1.0,6,0.7700218310546876,False,REGULAR,USD,XPER
-XPER220916C00022500,2022-01-24 18:59:24+00:00,22.5,0.8,0.0,1.15,0.0,0.0,,17,0.5610395458984375,False,REGULAR,USD,XPER

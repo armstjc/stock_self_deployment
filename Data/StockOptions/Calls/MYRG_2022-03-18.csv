@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MYRG220318C00095000,2022-01-31 20:44:51+00:00,95.0,5.18,3.7,6.2,0.0,0.0,1,3,0.5667767932128907,False,REGULAR,USD,MYRG
-MYRG220318C00105000,2022-01-31 20:50:00+00:00,105.0,2.15,1.05,3.3,0.0,0.0,1,2,0.5886271606445312,False,REGULAR,USD,MYRG

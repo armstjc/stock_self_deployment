@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CEVA220218P00035000,2022-02-11 20:13:54+00:00,35.0,1.3,1.05,1.6,0.29999995,29.999996,3,7,1.0722702636718753,False,REGULAR,USD,CEVA
-CEVA220218P00040000,2022-01-21 16:07:11+00:00,40.0,4.52,2.9,5.5,0.0,0.0,10,0,0.9765627343750001,True,REGULAR,USD,CEVA

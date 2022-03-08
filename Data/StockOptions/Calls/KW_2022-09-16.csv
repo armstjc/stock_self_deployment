@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KW220916C00022500,2022-02-01 14:30:01+00:00,22.5,1.95,1.45,2.25,0.0,0.0,,1,0.295905478515625,True,REGULAR,USD,KW
-KW220916C00025000,2022-01-31 15:38:27+00:00,25.0,0.9,0.4,2.7,0.0,0.0,,5,0.5004932763671875,False,REGULAR,USD,KW

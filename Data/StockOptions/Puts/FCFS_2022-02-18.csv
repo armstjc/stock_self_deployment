@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FCFS220218P00060000,2021-12-27 14:37:49+00:00,60.0,1.1,0.5,2.45,0.0,0.0,,1,1.72265763671875,False,REGULAR,USD,FCFS
-FCFS220218P00070000,2021-12-23 14:48:28+00:00,70.0,5.05,0.55,4.8,0.0,0.0,2.0,2,1.107426337890625,False,REGULAR,USD,FCFS

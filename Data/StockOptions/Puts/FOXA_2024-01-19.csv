@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FOXA240119P00020000,2022-02-09 15:22:21+00:00,20.0,1.07,0.55,1.2,0.0,0.0,1,0,0.48608912353515626,False,REGULAR,USD,FOXA
-FOXA240119P00035000,2022-02-09 15:22:21+00:00,35.0,4.52,1.95,4.7,0.0,0.0,1,0,0.38440557006835935,False,REGULAR,USD,FOXA

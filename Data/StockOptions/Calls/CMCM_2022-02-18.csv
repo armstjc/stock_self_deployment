@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CMCM220218C00001000,2022-01-05 14:30:02+00:00,1.0,0.32,0.0,0.0,0.0,0.0,2,2,1.0000000000000003e-05,True,REGULAR,USD,CMCM
-CMCM220218C00002000,2022-01-18 19:15:10+00:00,2.0,0.03,0.0,0.05,0.0,0.0,3,95,2.6250034375,False,REGULAR,USD,CMCM

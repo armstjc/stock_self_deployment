@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MANT220318P00065000,2022-02-09 18:37:02+00:00,65.0,0.5,0.05,4.3,0.0,0.0,2,0,0.893555751953125,False,REGULAR,USD,MANT
-MANT220318P00070000,2022-02-04 16:08:01+00:00,70.0,1.75,0.05,3.8,0.0,0.0,1,2,0.6665072412109377,False,REGULAR,USD,MANT

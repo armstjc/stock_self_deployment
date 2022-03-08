@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HES220819P00060000,2021-12-22 19:16:17+00:00,60.0,3.98,2.35,2.9,0.0,0.0,,1,0.6331823791503908,False,REGULAR,USD,HES
-HES220819P00065000,2022-01-05 17:57:32+00:00,65.0,3.39,3.5,4.1,-0.22999978,-6.3535852,2.0,6,0.6330603100585939,False,REGULAR,USD,HES

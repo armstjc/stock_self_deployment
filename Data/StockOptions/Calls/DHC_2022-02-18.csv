@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DHC220218C00002500,2022-02-01 17:01:40+00:00,2.5,0.75,0.05,0.65,0.0,0.0,1,1,2.8281279296874997,True,REGULAR,USD,DHC
-DHC220218C00005000,2022-02-04 14:49:20+00:00,5.0,0.05,0.0,0.1,0.0,0.0,1,145,2.9218776953125003,False,REGULAR,USD,DHC

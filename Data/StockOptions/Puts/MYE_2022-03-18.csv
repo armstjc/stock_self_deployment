@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MYE220318P00020000,2021-11-10 18:46:23+00:00,20.0,1.55,1.05,1.75,0.0,0.0,2.0,3,1.0000000000000003e-05,True,REGULAR,USD,MYE
-MYE220318P00030000,2021-11-10 11:53:08+00:00,30.0,7.8,9.2,10.7,0.0,0.0,,10,1.0000000000000003e-05,True,REGULAR,USD,MYE

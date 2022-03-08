@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MNRO220715P00040000,2021-12-14 17:04:09+00:00,40.0,2.0,0.8,4.4,0.0,0.0,,3,0.5854533642578125,False,REGULAR,USD,MNRO
-MNRO220715P00050000,2021-12-20 17:33:04+00:00,50.0,4.8,2.8,3.3,0.0,0.0,6.0,14,1.0000000000000003e-05,True,REGULAR,USD,MNRO

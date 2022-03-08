@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KNSA220318P00012500,2022-01-21 19:55:38+00:00,12.5,2.05,1.05,2.95,0.0,0.0,300,0,0.5742230078125,True,REGULAR,USD,KNSA

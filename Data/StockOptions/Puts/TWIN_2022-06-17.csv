@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TWIN220617P00010000,2022-01-21 14:30:33+00:00,10.0,1.0,0.65,1.85,0.0,0.0,10,10,0.82226740234375,False,REGULAR,USD,TWIN
-TWIN220617P00012500,2022-01-19 14:51:11+00:00,12.5,2.0,1.75,2.4,0.0,0.0,10,10,0.629886513671875,True,REGULAR,USD,TWIN

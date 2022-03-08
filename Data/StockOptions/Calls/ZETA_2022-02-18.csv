@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZETA220218C00007500,2022-02-10 15:18:15+00:00,7.5,4.5,3.1,4.4,0.0,0.0,10,8,4.152348559570314,True,REGULAR,USD,ZETA
-ZETA220218C00010000,2022-02-11 16:22:34+00:00,10.0,1.75,1.1,1.65,0.049999952,2.9411736,8,273,0.87500125,True,REGULAR,USD,ZETA

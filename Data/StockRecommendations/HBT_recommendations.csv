@@ -1,9 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2019-11-05,JP Morgan,Neutral,,init,HBT
-2019-11-05,"Keefe, Bruyette & Woods",Outperform,,init,HBT
-2019-11-05,Raymond James,Outperform,,init,HBT
-2020-02-27,DA Davidson,Buy,,init,HBT
-2020-02-28,Piper Sandler,Neutral,,init,HBT
-2020-05-04,Raymond James,Outperform,,main,HBT
-2020-10-27,Piper Sandler,Neutral,,main,HBT
-2021-02-01,Raymond James,Market Perform,Outperform,down,HBT

@@ -1,7 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2016-04-06,Goldman Sachs,Buy,,init,CEA
-2018-02-01,Goldman Sachs,Sell,Buy,down,CEA
-2018-07-05,Goldman Sachs,Neutral,Sell,up,CEA
-2019-04-01,Credit Suisse,Neutral,Outperform,down,CEA
-2019-07-10,Goldman Sachs,Buy,Neutral,up,CEA
-2019-12-20,Daiwa Capital,Buy,Outperform,up,CEA

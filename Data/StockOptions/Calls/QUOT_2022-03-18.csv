@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QUOT220318C00007500,2022-02-10 18:57:39+00:00,7.5,0.09,0.0,0.15,-0.060000002,-40.0,4,39,0.6210975390625001,False,REGULAR,USD,QUOT

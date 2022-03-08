@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TLIS220520P00002500,2022-02-08 17:56:17+00:00,2.5,0.6,0.6,0.85,0.0,0.0,1,56,0.8789074609374999,True,REGULAR,USD,TLIS
-TLIS220520P00005000,2022-01-31 15:21:15+00:00,5.0,2.3,2.2,3.2,0.0,0.0,10,17,1.61328318359375,True,REGULAR,USD,TLIS

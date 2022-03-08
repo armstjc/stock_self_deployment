@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENVA221118P00035000,2022-02-07 18:52:08+00:00,35.0,3.1,2.6,3.2,0.0,0.0,5,15,0.5134326000976561,False,REGULAR,USD,ENVA
-ENVA221118P00040000,2022-02-08 16:28:01+00:00,40.0,4.7,4.6,5.4,0.0,0.0,1,21,0.5168505346679688,False,REGULAR,USD,ENVA

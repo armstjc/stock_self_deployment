@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KFY220617C00065000,2021-12-22 19:35:12+00:00,65.0,13.0,11.4,15.3,0.0,0.0,4,6,0.8015156567382812,True,REGULAR,USD,KFY
-KFY220617C00080000,2021-12-08 16:17:18+00:00,80.0,7.4,2.8,7.3,0.0,0.0,1,2,0.5994913098144532,False,REGULAR,USD,KFY

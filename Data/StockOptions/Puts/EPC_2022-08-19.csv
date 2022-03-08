@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EPC220819P00025000,2021-12-17 14:30:03+00:00,25.0,1.25,0.25,0.7,0.0,0.0,1,1,0.47510290527343746,False,REGULAR,USD,EPC
-EPC220819P00035000,2021-12-17 14:55:11+00:00,35.0,1.75,0.5,3.9,0.0,0.0,6,6,0.44751529052734373,False,REGULAR,USD,EPC

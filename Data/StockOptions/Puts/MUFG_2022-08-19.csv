@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MUFG220819P00005000,2022-01-28 18:56:06+00:00,5.0,0.2,0.05,0.15,0.0,0.0,1,2,0.38672488281249995,False,REGULAR,USD,MUFG

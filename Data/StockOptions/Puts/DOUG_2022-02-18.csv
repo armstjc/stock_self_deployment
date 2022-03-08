@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DOUG220218P00007500,2022-02-11 14:42:12+00:00,7.5,0.6,0.35,0.6,0.100000024,20.000004,1,370,0.804689453125,True,REGULAR,USD,DOUG
-DOUG220218P00010000,2022-01-28 19:19:35+00:00,10.0,2.55,2.5,4.7,0.0,0.0,4,98,4.359379550781249,True,REGULAR,USD,DOUG

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DCI220318C00060000,2022-02-04 18:27:11+00:00,60.0,0.4,0.2,0.6,0.0,0.0,1,7,0.39453730468750003,False,REGULAR,USD,DCI

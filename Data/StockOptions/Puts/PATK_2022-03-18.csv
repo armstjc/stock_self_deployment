@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PATK220318P00050000,2022-02-09 15:42:56+00:00,50.0,0.4,0.05,1.2,0.0,0.0,1,0,0.790041162109375,False,REGULAR,USD,PATK
-PATK220318P00070000,2022-02-08 17:37:13+00:00,70.0,4.4,4.2,5.8,0.0,0.0,5,0,0.5046436254882812,True,REGULAR,USD,PATK

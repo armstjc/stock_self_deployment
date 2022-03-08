@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLBT220715P00006000,2021-12-03 19:47:08+00:00,6.0,1.05,0.05,4.8,0.0,0.0,3,3,1.7392591162109374,False,REGULAR,USD,CLBT
-CLBT220715P00007000,2022-01-05 16:23:35+00:00,7.0,1.3,1.1,1.4,-0.20000005,-13.333337,2,1,0.5625043750000001,True,REGULAR,USD,CLBT

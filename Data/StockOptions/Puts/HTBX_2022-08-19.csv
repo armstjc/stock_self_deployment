@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HTBX220819P00002500,2021-12-31 20:23:24+00:00,2.5,0.6,0.5,0.7,0.0,0.0,14,14,1.01172369140625,False,REGULAR,USD,HTBX
-HTBX220819P00005000,2022-01-03 20:38:28+00:00,5.0,2.3,2.45,2.6,0.0,0.0,1,21,1.05078599609375,True,REGULAR,USD,HTBX

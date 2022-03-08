@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NM220218C00002500,2022-01-03 14:39:12+00:00,2.5,1.46,1.3,1.45,0.0,0.0,1,11,5.312503359374999,True,REGULAR,USD,NM
-NM220218C00005000,2022-01-05 17:33:56+00:00,5.0,0.24,0.1,0.2,0.00999999,4.3478217,204,70,3.0156274609375,False,REGULAR,USD,NM

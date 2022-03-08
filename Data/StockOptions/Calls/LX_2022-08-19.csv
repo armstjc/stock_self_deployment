@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LX220819C00005000,2022-01-05 17:59:57+00:00,5.0,0.55,0.3,0.65,-0.050000012,-8.333335,2,157,0.7832052929687501,False,REGULAR,USD,LX
-LX220819C00007500,2022-01-04 17:07:12+00:00,7.5,0.3,0.15,0.3,0.0,0.0,10,142,0.8730481445312499,False,REGULAR,USD,LX

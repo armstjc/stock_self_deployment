@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LI220204P00029000,2022-01-05 20:58:29+00:00,29.0,1.95,1.88,1.99,0.30000007,18.181824,244,17,1.0000000000000003e-05,True,REGULAR,USD,LI
-LI220204P00032000,2022-01-04 15:22:14+00:00,32.0,2.8,3.55,3.9,0.0,0.0,1,46,1.0000000000000003e-05,True,REGULAR,USD,LI

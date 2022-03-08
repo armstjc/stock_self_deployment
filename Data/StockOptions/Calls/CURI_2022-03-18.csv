@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CURI220318C00005000,2022-02-09 20:19:02+00:00,5.0,0.1,0.0,0.1,0.0,0.0,55,0,0.804689453125,False,REGULAR,USD,CURI
-CURI220318C00007500,2022-01-21 17:06:49+00:00,7.5,0.04,0.0,0.1,0.0,0.0,2,2,1.453127734375,False,REGULAR,USD,CURI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AFYA220617P00012500,2021-12-15 16:38:30+00:00,12.5,1.95,0.65,2.5,0.0,0.0,7,10,0.7334011035156249,False,REGULAR,USD,AFYA
-AFYA220617P00015000,2021-11-22 18:36:39+00:00,15.0,2.9,2.15,2.85,0.0,0.0,1,3,0.5835002587890624,True,REGULAR,USD,AFYA

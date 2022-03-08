@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AFCG220715C00020000,2022-02-11 16:08:07+00:00,20.0,1.93,1.65,3.7,0.42999995,28.666664,1,20,0.5200243310546875,False,REGULAR,USD,AFCG
-AFCG220715C00022500,2022-02-11 18:30:29+00:00,22.5,1.5,0.85,1.45,0.45000005,42.85715,10,7,0.4585015087890626,False,REGULAR,USD,AFCG

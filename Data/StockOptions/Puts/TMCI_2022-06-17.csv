@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TMCI220617P00012500,2021-11-19 14:31:27+00:00,12.5,1.3,1.15,5.0,0.0,0.0,1.0,1,1.7255873095703125,False,REGULAR,USD,TMCI
-TMCI220617P00015000,2021-11-18 16:20:58+00:00,15.0,2.55,2.4,5.4,0.0,0.0,,9,1.5688498120117185,False,REGULAR,USD,TMCI

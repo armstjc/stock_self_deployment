@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RVP220318P00005000,2022-02-08 20:54:03+00:00,5.0,0.25,0.2,1.25,0.0,0.0,3,112,0.945313046875,True,REGULAR,USD,RVP
-RVP220318P00007500,2022-02-01 15:18:29+00:00,7.5,2.0,2.25,4.1,0.0,0.0,4,0,1.8359383203124997,True,REGULAR,USD,RVP

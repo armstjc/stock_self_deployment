@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PAE220218C00010000,2021-12-23 20:55:31+00:00,10.0,0.1,0.0,0.1,0.0,0.0,1,7,0.15235222656250003,True,REGULAR,USD,PAE

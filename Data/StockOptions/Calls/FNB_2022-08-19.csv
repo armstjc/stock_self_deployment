@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FNB220819C00015000,2021-12-22 14:57:01+00:00,15.0,0.21,0.3,0.5,0.0,0.0,154,231,0.249030947265625,False,REGULAR,USD,FNB

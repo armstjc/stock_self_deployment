@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INVE220218C00025000,2021-12-28 14:30:01+00:00,25.0,4.6,1.65,2.9,0.0,0.0,1.0,301,3.9433595166015625,False,REGULAR,USD,INVE
-INVE220218C00030000,2021-12-28 16:09:05+00:00,30.0,1.5,0.55,0.95,0.0,0.0,,10,3.162111469726563,False,REGULAR,USD,INVE

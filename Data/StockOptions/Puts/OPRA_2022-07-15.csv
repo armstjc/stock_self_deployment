@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OPRA220715P00007500,2022-01-03 16:07:18+00:00,7.5,1.15,1.35,2.15,0.0,0.0,1,2,0.764650791015625,True,REGULAR,USD,OPRA

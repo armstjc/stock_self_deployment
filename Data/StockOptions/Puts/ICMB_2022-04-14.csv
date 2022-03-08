@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ICMB220414P00005000,2022-01-07 14:30:07+00:00,5.0,0.45,0.1,0.4,0.0,0.0,1,130,0.6718782812500002,False,REGULAR,USD,ICMB
-ICMB220414P00007500,2022-01-11 17:36:24+00:00,7.5,2.5,1.9,2.4,0.0,0.0,1,1,0.9609378906249999,True,REGULAR,USD,ICMB

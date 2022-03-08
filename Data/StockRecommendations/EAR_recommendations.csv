@@ -1,8 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2020-11-10,Wells Fargo,Overweight,,init,EAR
-2020-11-10,JP Morgan,Overweight,,init,EAR
-2020-11-10,William Blair,Outperform,,init,EAR
-2021-05-13,Wells Fargo,Overweight,,main,EAR
-2021-09-23,Wells Fargo,Equal-Weight,Overweight,down,EAR
-2021-09-23,JP Morgan,Underweight,Overweight,down,EAR
-2021-09-23,William Blair,Market Perform,Outperform,down,EAR

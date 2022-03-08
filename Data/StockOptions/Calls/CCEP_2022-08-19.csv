@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CCEP220819C00065000,2022-02-11 17:25:53+00:00,65.0,2.15,1.55,2.0,0.20000005,10.2564125,588,354,0.28626202026367187,False,REGULAR,USD,CCEP

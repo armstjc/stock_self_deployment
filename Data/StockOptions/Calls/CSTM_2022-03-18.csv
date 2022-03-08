@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSTM220318C00017000,2022-02-08 16:49:56+00:00,17.0,1.5,1.9,2.15,0.0,0.0,35,35,0.6064492480468751,True,REGULAR,USD,CSTM
-CSTM220318C00019000,2022-02-08 19:31:46+00:00,19.0,0.6,0.85,1.1,0.0,0.0,1,76,0.579105771484375,False,REGULAR,USD,CSTM

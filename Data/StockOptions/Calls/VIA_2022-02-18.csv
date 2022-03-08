@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VIA220218C00012500,2022-02-04 20:49:35+00:00,12.5,0.01,0.0,0.05,0.0,0.0,2.0,19,0.57812921875,False,REGULAR,USD,VIA
-VIA220218C00017500,2021-12-28 19:19:11+00:00,17.5,0.05,0.0,0.5,0.0,0.0,,1,2.67969080078125,False,REGULAR,USD,VIA

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JWN220211C00023000,2022-01-05 18:18:21+00:00,23.0,1.85,1.43,1.63,0.48000002,35.0365,10,17,1.4902369238281248,True,REGULAR,USD,JWN
-JWN220211C00028000,2022-01-04 15:33:46+00:00,28.0,0.43,0.22,0.41,0.0,0.0,5,60,2.0898485253906243,False,REGULAR,USD,JWN

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BATRK220819C00025000,2022-02-11 17:10:04+00:00,25.0,3.08,0.5,3.7,0.37999988,14.074069,2,11,0.4687553125,True,REGULAR,USD,BATRK
-BATRK220819C00030000,2022-02-10 20:36:55+00:00,30.0,0.8,0.7,2.05,0.0,0.0,2,0,0.48682153808593753,False,REGULAR,USD,BATRK

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SYRS220218C00002500,2021-12-20 18:03:48+00:00,2.5,1.55,0.85,2.0,0.0,0.0,,1,28.875000976562497,False,REGULAR,USD,SYRS
-SYRS220218C00007500,2021-12-23 20:00:06+00:00,7.5,0.17,0.05,0.2,0.0,0.0,3.0,2,8.75000453125,False,REGULAR,USD,SYRS

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TENB220916C00050000,2022-02-03 15:15:03+00:00,50.0,8.7,6.5,7.8,0.0,0.0,1.0,0,0.5022022436523439,False,REGULAR,USD,TENB
-TENB220916C00065000,2022-02-02 15:52:06+00:00,65.0,3.5,2.45,3.2,0.0,0.0,,2,0.5210008837890624,False,REGULAR,USD,TENB

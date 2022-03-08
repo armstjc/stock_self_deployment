@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RRC220325C00021000,2022-02-10 16:07:40+00:00,21.0,1.6,1.62,1.98,-0.14999998,-8.571427,4,1648,0.7045927978515626,False,REGULAR,USD,RRC
-RRC220325C00022000,2022-02-08 19:39:51+00:00,22.0,0.7,1.31,1.56,0.0,0.0,1,48,0.7094755615234375,False,REGULAR,USD,RRC

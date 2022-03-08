@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SGFY220318P00010000,2022-02-11 18:18:25+00:00,10.0,0.25,0.1,0.4,-0.099999994,-28.571426,1,5,0.9570316796874999,False,REGULAR,USD,SGFY
-SGFY220318P00012500,2022-02-10 16:46:33+00:00,12.5,0.6,0.65,1.0,0.0,0.0,10,20,0.8300798242187499,False,REGULAR,USD,SGFY

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MC220218P00055000,2022-01-03 20:03:41+00:00,55.0,0.91,0.85,4.1,0.0,0.0,1,14,0.5732464550781251,True,REGULAR,USD,MC
-MC220218P00060000,2022-01-03 20:03:41+00:00,60.0,2.21,2.3,4.6,0.0,0.0,1,2,1.0000000000000003e-05,True,REGULAR,USD,MC

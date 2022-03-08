@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MIMO220218P00002500,2022-02-11 17:59:08+00:00,2.5,0.05,0.0,0.5,-0.05,-50.0,10,11,4.57812927734375,False,REGULAR,USD,MIMO
-MIMO220218P00005000,2022-01-10 17:33:31+00:00,5.0,1.6,0.9,1.2,0.0,0.0,2,8,1.0000000000000003e-05,True,REGULAR,USD,MIMO

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LU220916C00005000,2022-02-11 19:03:27+00:00,5.0,1.49,1.45,1.65,-0.13999999,-8.588956,8,44,0.6796907031250001,True,REGULAR,USD,LU
-LU220916C00007500,2022-02-10 19:36:38+00:00,7.5,0.78,0.65,0.9,0.0,0.0,215,230,0.737307314453125,False,REGULAR,USD,LU

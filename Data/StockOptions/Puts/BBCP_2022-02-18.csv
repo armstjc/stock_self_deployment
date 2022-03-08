@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BBCP220218P00007500,2022-02-10 18:19:31+00:00,7.5,0.25,0.0,0.65,0.0,0.0,32.0,52.0,0.8828136718749999,False,REGULAR,USD,BBCP
-BBCP220218P00010000,2022-01-18 05:14:36+00:00,10.0,1.55,1.7,3.1,0.0,0.0,,,3.5429698925781246,True,REGULAR,USD,BBCP

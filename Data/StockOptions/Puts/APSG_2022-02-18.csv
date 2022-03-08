@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APSG220218P00007500,2021-12-31 18:49:53+00:00,7.5,0.05,0.0,0.1,0.0,0.0,12,104,1.453127734375,False,REGULAR,USD,APSG
-APSG220218P00010000,2021-12-30 15:22:29+00:00,10.0,0.25,0.1,0.2,0.0,0.0,10,20,0.257819921875,True,REGULAR,USD,APSG

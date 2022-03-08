@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FRTA220617C00022500,2022-02-10 19:18:59+00:00,22.5,1.0,0.1,5.0,0.0,0.0,5,10,0.911133701171875,True,REGULAR,USD,FRTA
-FRTA220617C00025000,2022-01-28 20:55:39+00:00,25.0,0.2,0.0,0.15,0.0,0.0,10,56,0.14063359375,False,REGULAR,USD,FRTA

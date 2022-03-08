@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TCON220218P00002500,2022-02-11 19:47:05+00:00,2.5,0.2,0.05,0.25,-0.2,-50.0,10.0,0,0.6718782812500002,True,REGULAR,USD,TCON
-TCON220218P00005000,2021-12-30 15:39:39+00:00,5.0,2.3,1.2,4.2,0.0,0.0,,12,4.4687544140624995,True,REGULAR,USD,TCON

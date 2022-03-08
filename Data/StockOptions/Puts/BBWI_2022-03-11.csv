@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BBWI220311P00049000,2022-02-04 14:48:47+00:00,49.0,1.55,0.58,1.4,0.0,0.0,1.0,1,0.6586948193359375,False,REGULAR,USD,BBWI
-BBWI220311P00062000,2022-02-03 16:57:13+00:00,62.0,7.19,6.25,7.55,0.0,0.0,,4,0.6450230810546875,True,REGULAR,USD,BBWI

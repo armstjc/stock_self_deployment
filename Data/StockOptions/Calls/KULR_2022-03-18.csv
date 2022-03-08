@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KULR220318C00002500,2022-02-03 18:34:04+00:00,2.5,0.2,0.2,0.35,0.0,0.0,6,61,1.2500037499999999,False,REGULAR,USD,KULR
-KULR220318C00005000,2022-01-27 18:09:14+00:00,5.0,0.05,0.0,0.1,0.0,0.0,5,11,1.5625021874999998,False,REGULAR,USD,KULR

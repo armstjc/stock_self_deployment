@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FELE220218P00080000,2022-01-26 15:27:40+00:00,80.0,0.94,0.0,4.8,0.0,0.0,2,2,0.64062859375,False,REGULAR,USD,FELE
-FELE220218P00085000,2022-01-28 20:22:07+00:00,85.0,3.6,0.5,5.1,0.0,0.0,2,7,0.7033721069335939,True,REGULAR,USD,FELE

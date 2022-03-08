@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GMRE220218P00015000,2022-01-24 17:36:22+00:00,15.0,0.2,0.0,0.2,0.0,0.0,24,110,0.6289099609375001,False,REGULAR,USD,GMRE
-GMRE220218P00017500,2022-01-24 18:59:28+00:00,17.5,1.25,0.4,2.15,0.0,0.0,12,45,1.701173369140625,True,REGULAR,USD,GMRE

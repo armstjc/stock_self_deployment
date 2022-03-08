@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ASIX220916C00045000,2022-01-28 18:33:40+00:00,45.0,4.25,3.3,6.4,0.0,0.0,4,4,0.5009815527343751,False,REGULAR,USD,ASIX

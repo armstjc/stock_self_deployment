@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMFR220916P00001500,2022-02-04 16:40:05+00:00,1.5,0.1,0.0,0.15,0.0,0.0,1,1,0.914063359375,False,REGULAR,USD,SMFR

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KW220617P00020000,2022-02-02 20:13:59+00:00,20.0,0.5,0.05,1.05,0.0,0.0,1,6,0.40479110839843746,False,REGULAR,USD,KW
-KW220617P00022500,2022-02-11 17:45:12+00:00,22.5,1.5,1.4,2.0,0.75,100.0,10,12,0.36377589355468753,True,REGULAR,USD,KW

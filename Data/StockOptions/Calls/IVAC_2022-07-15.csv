@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IVAC220715C00002500,2022-01-04 17:37:10+00:00,2.5,3.29,2.65,3.4,0.0,0.0,3.0,17,1.48047134765625,True,REGULAR,USD,IVAC
-IVAC220715C00007500,2021-12-30 17:19:40+00:00,7.5,0.2,0.25,0.45,0.0,0.0,,10,0.7421900781249999,False,REGULAR,USD,IVAC

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PAYA220318C00005000,2022-02-03 19:40:23+00:00,5.0,1.55,0.95,1.95,0.0,0.0,,0,1.53515857421875,True,REGULAR,USD,PAYA
-PAYA220318C00007500,2022-02-11 15:47:35+00:00,7.5,0.3,0.2,0.3,0.050000012,20.000004,1.0,67,0.75195560546875,False,REGULAR,USD,PAYA

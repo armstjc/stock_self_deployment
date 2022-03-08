@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LBTYA220218P00025000,2021-12-28 17:44:12+00:00,25.0,0.3,0.2,4.1,0.0,0.0,,1,2.5253943115234367,False,REGULAR,USD,LBTYA
-LBTYA220218P00027500,2022-01-04 19:30:18+00:00,27.5,0.95,1.05,4.5,0.14999998,18.749996,1.0,101,2.0976610058593748,False,REGULAR,USD,LBTYA

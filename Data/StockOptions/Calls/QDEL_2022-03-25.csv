@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QDEL220325C00101000,2022-02-04 16:28:40+00:00,101.0,8.7,5.7,7.8,0.0,0.0,2,2,0.6862824340820313,False,REGULAR,USD,QDEL
-QDEL220325C00116000,2022-02-03 20:25:51+00:00,116.0,2.95,2.1,4.4,0.0,0.0,10,0,0.7304714453125,False,REGULAR,USD,QDEL

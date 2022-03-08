@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MN220617P00007500,2022-01-24 15:12:20+00:00,7.5,0.95,0.3,0.55,0.0,0.0,25,674,0.559574716796875,False,REGULAR,USD,MN
-MN220617P00010000,2022-01-21 18:44:59+00:00,10.0,2.67,1.4,1.7,0.0,0.0,20,140,0.5097705273437501,True,REGULAR,USD,MN

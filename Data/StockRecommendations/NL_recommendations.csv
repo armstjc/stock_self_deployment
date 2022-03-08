@@ -1,8 +1,0 @@
-Date,Firm,To Grade,From Grade,Action,ABV
-2014-02-03,Barclays,Underweight,,init,NL
-2015-03-17,Barclays,Underweight,,main,NL
-2015-08-28,Barclays,Underweight,,main,NL
-2015-12-01,Barclays,Equal-Weight,,main,NL
-2017-11-15,Barclays,Underweight,,main,NL
-2018-06-14,Barclays,Equal-Weight,Underweight,up,NL
-2021-05-25,Barclays,Underweight,Equal-Weight,down,NL

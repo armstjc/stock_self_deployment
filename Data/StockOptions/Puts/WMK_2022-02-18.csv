@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-WMK220218P00065000,2021-12-31 20:46:35+00:00,65.0,2.3,0.25,3.1,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,WMK
-WMK220218P00070000,2022-01-04 18:54:39+00:00,70.0,4.3,4.2,6.5,0.0,0.0,8,9,1.0000000000000003e-05,True,REGULAR,USD,WMK

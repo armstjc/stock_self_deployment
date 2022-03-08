@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MRKR220819P00002500,2022-01-21 20:49:50+00:00,2.5,1.9,1.6,2.1,0.0,0.0,10,20,2.3125042187499996,True,REGULAR,USD,MRKR

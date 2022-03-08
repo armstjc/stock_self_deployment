@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GRFS220819P00010000,2022-02-11 14:30:05+00:00,10.0,0.95,0.85,1.0,0.26999998,39.70588,1,17,0.46973186523437505,False,REGULAR,USD,GRFS

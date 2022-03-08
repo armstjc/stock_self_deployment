@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TARA220520P00005000,2022-01-04 19:08:53+00:00,5.0,0.64,0.6,1.65,0.0,0.0,1,21,1.1757853710937498,False,REGULAR,USD,TARA
-TARA220520P00007500,2021-11-16 14:30:00+00:00,7.5,2.2,2.05,2.55,0.0,0.0,1,21,0.7695335546875001,True,REGULAR,USD,TARA

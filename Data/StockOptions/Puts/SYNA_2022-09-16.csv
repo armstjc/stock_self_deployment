@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SYNA220916P00170000,2022-01-24 15:43:47+00:00,170.0,18.8,13.5,16.4,0.0,0.0,,18,0.546025047607422,False,REGULAR,USD,SYNA
-SYNA220916P00180000,2022-02-09 15:14:15+00:00,180.0,16.0,16.8,19.8,0.0,0.0,1.0,5,0.5336655520629883,False,REGULAR,USD,SYNA

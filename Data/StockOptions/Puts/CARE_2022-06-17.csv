@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CARE220617P00010000,2021-10-25 19:32:11+00:00,10.0,0.2,0.05,1.1,0.0,0.0,,10,0.8320329296874999,False,REGULAR,USD,CARE
-CARE220617P00015000,2021-12-13 05:02:37+00:00,15.0,1.8,0.0,0.0,0.0,0.0,,0,0.0312596875,False,REGULAR,USD,CARE

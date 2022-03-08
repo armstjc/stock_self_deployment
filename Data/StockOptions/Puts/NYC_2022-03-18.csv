@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NYC220318P00012500,2022-01-26 14:30:01+00:00,12.5,2.75,0.85,4.0,0.0,0.0,1,13,1.076176494140625,True,REGULAR,USD,NYC

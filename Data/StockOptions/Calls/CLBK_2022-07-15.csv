@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLBK220715C00020000,2021-12-03 14:51:25+00:00,20.0,1.39,1.0,2.85,0.0,0.0,10,20,0.37354142089843745,True,REGULAR,USD,CLBK
-CLBK220715C00025000,2021-12-13 05:12:34+00:00,25.0,0.24,0.0,0.55,0.0,0.0,10,10,0.295905478515625,False,REGULAR,USD,CLBK

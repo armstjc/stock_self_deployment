@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NVEE220819P00075000,2021-12-31 14:30:01+00:00,75.0,0.9,1.2,5.5,0.0,0.0,1,1,0.5459029785156251,False,REGULAR,USD,NVEE
-NVEE220819P00085000,2021-12-31 14:30:01+00:00,85.0,1.6,4.3,8.0,0.0,0.0,1,1,0.542668147583008,False,REGULAR,USD,NVEE

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PLG220318P00002500,2022-02-10 18:35:05+00:00,2.5,0.8,0.7,1.0,0.0,0.0,4,6,1.7109389453125,True,REGULAR,USD,PLG
-PLG220318P00005000,2022-01-21 20:20:35+00:00,5.0,3.4,3.1,3.3,0.0,0.0,1,1,2.031254921875,True,REGULAR,USD,PLG

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FBC220715P00035000,2022-02-02 18:03:10+00:00,35.0,1.0,0.65,1.2,0.0,0.0,,1,0.46484910156250003,False,REGULAR,USD,FBC
-FBC220715P00040000,2021-12-22 14:59:41+00:00,40.0,2.4,1.45,2.05,0.0,0.0,,1,0.3971007556152344,False,REGULAR,USD,FBC

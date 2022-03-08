@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FNCB220715C00010000,2021-12-15 19:22:33+00:00,10.0,0.2,0.15,0.3,0.0,0.0,4,1,0.20313296874999998,False,REGULAR,USD,FNCB

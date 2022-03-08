@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VNE220819P00034000,2022-01-25 15:12:11+00:00,34.0,0.8,0.0,1.0,0.0,0.0,4,3,0.15601429931640626,False,REGULAR,USD,VNE
-VNE220819P00037000,2022-01-14 14:30:03+00:00,37.0,1.85,0.2,5.0,0.0,0.0,1,0,0.39453730468750003,True,REGULAR,USD,VNE

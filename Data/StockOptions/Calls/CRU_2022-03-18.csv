@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRU220318C00010000,2022-01-24 20:56:34+00:00,10.0,0.05,0.0,0.05,0.0,0.0,,50,0.117196328125,False,REGULAR,USD,CRU
-CRU220318C00012500,2022-01-25 19:59:17+00:00,12.5,0.05,0.0,0.75,0.0,0.0,,110,0.9804689453125001,False,REGULAR,USD,CRU

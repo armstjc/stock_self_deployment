@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GAIN220414P00012500,2021-12-06 17:24:53+00:00,12.5,0.3,0.0,0.8,0.0,0.0,1,16,0.6523472265625001,False,REGULAR,USD,GAIN
-GAIN220414P00015000,2021-12-31 17:10:03+00:00,15.0,0.24,0.15,0.65,0.0,0.0,2,3,0.38867798828125,False,REGULAR,USD,GAIN

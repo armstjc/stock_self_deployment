@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NMIH220218P00017500,2021-12-17 20:01:41+00:00,17.5,0.29,0.0,0.25,0.0,0.0,2,2,1.9375003125,False,REGULAR,USD,NMIH
-NMIH220218P00020000,2021-12-31 20:17:47+00:00,20.0,0.4,0.2,0.35,0.0,0.0,95,76,1.6953140234375002,False,REGULAR,USD,NMIH

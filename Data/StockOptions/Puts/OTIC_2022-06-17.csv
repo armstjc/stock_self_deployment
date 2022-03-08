@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OTIC220617P00002500,2021-12-14 14:30:03+00:00,2.5,0.75,0.0,0.95,0.0,0.0,2,68,1.3125034374999998,True,REGULAR,USD,OTIC

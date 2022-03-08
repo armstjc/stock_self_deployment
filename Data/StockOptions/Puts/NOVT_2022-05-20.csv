@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NOVT220520P00150000,2022-01-24 14:30:06+00:00,150.0,15.0,16.1,20.5,0.0,0.0,1,4,0.44312080322265623,True,REGULAR,USD,NOVT
-NOVT220520P00165000,2022-02-08 19:05:41+00:00,165.0,26.05,27.5,32.0,0.0,0.0,1,1,0.4458063232421875,True,REGULAR,USD,NOVT

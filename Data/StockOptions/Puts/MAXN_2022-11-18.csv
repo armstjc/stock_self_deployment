@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MAXN221118P00015000,2022-02-11 18:43:45+00:00,15.0,6.94,6.9,7.3,-0.36000013,-4.9315085,5.0,5,0.8500991552734375,True,REGULAR,USD,MAXN
-MAXN221118P00017500,2022-02-01 19:58:48+00:00,17.5,8.8,9.1,9.5,0.0,0.0,,92,0.8569350244140624,True,REGULAR,USD,MAXN

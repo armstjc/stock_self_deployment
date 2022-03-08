@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRDG220414C00020000,2021-12-17 20:09:46+00:00,20.0,3.0,2.35,3.9,0.0,0.0,1.0,0,0.5507857421875001,True,REGULAR,USD,BRDG
-BRDG220414C00022500,2021-12-13 05:12:15+00:00,22.5,1.29,0.55,2.5,0.0,0.0,,1,0.7421900781249999,False,REGULAR,USD,BRDG

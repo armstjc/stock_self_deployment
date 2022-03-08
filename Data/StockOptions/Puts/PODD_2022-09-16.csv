@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PODD220916P00155000,2022-02-02 19:37:18+00:00,155.0,5.3,3.7,8.3,0.0,0.0,,0,0.5660443786621094,False,REGULAR,USD,PODD
-PODD220916P00175000,2022-02-02 20:49:53+00:00,175.0,7.7,5.5,13.5,0.0,0.0,,0,0.5385177984619143,False,REGULAR,USD,PODD

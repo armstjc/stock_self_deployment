@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GIB220819P00050000,2022-01-10 19:47:03+00:00,50.0,0.4,0.0,4.8,0.0,0.0,,5,0.6958038232421876,False,REGULAR,USD,GIB
-GIB220819P00080000,2022-01-24 14:30:23+00:00,80.0,4.8,1.2,5.1,0.0,0.0,1.0,3,0.3237372314453124,False,REGULAR,USD,GIB

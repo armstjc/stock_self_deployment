@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SSP220617C00025000,2021-12-23 14:54:45+00:00,25.0,0.7,0.1,1.25,0.0,0.0,1.0,3,0.43555251953125,False,REGULAR,USD,SSP
-SSP220617C00030000,2021-11-09 19:43:29+00:00,30.0,0.45,0.1,0.65,0.0,0.0,,1,0.5161181201171875,False,REGULAR,USD,SSP

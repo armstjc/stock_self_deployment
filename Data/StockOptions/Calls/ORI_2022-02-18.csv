@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ORI220218C00022500,2022-01-05 20:19:05+00:00,22.5,2.31,2.05,4.2,-0.1400001,-5.7142897,1,5,1.1660197949218751,True,REGULAR,USD,ORI
-ORI220218C00025000,2022-01-05 20:47:15+00:00,25.0,0.61,0.5,0.7,-0.089999974,-12.85714,4,69,1.0000000000000003e-05,True,REGULAR,USD,ORI

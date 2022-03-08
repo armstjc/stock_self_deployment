@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTK220218P00001000,2022-02-11 18:42:49+00:00,1.0,0.2,0.2,0.25,0.0,0.0,4,815,2.2500043749999996,True,REGULAR,USD,FTK
-FTK220218P00002000,2022-02-09 15:17:07+00:00,2.0,1.17,1.05,1.4,0.0,0.0,7,7,5.250003437499999,True,REGULAR,USD,FTK

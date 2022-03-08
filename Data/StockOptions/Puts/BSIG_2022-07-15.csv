@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BSIG220715P00040000,2021-12-17 15:50:03+00:00,40.0,14.0,14.5,17.6,0.0,0.0,1.0,78,0.840821904296875,True,REGULAR,USD,BSIG
-BSIG220715P00045000,2021-11-22 16:44:26+00:00,45.0,15.5,19.0,21.8,0.0,0.0,,2,0.7539087109375,True,REGULAR,USD,BSIG

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DLTR220211C00141000,2021-12-31 18:20:16+00:00,141.0,5.16,4.55,5.05,0.0,0.0,1.0,1,1.231937434082031,False,REGULAR,USD,DLTR
-DLTR220211C00143000,2021-12-30 14:48:23+00:00,143.0,5.32,3.75,4.1,0.0,0.0,,1,1.2290077612304686,False,REGULAR,USD,DLTR

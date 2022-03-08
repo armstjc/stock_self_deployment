@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LMFA220916C00002500,2022-02-08 15:41:27+00:00,2.5,1.65,1.4,1.65,0.0,0.0,3,0,0.79101771484375,True,REGULAR,USD,LMFA
-LMFA220916C00005000,2022-02-04 20:27:20+00:00,5.0,1.05,0.5,0.95,0.0,0.0,5,0,0.9609378906249999,False,REGULAR,USD,LMFA

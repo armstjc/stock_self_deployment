@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRIS220218P00005000,2021-12-31 20:58:03+00:00,5.0,1.0,0.6,1.05,0.0,0.0,6,32,1.0000000000000003e-05,True,REGULAR,USD,CRIS

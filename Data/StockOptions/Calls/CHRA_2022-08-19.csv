@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CHRA220819C00002500,2022-01-05 15:27:23+00:00,2.5,2.68,2.5,2.9,0.18000007,7.2000027,5.0,130,0.92187578125,True,REGULAR,USD,CHRA
-CHRA220819C00007500,2021-12-30 18:27:04+00:00,7.5,1.0,0.4,0.7,0.0,0.0,,1,0.8398453515625,False,REGULAR,USD,CHRA

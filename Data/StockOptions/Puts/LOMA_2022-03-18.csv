@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LOMA220318P00005000,2021-11-10 11:47:54+00:00,5.0,0.33,0.15,0.3,0.0,0.0,,6,1.01953615234375,False,REGULAR,USD,LOMA
-LOMA220318P00007500,2021-11-22 14:30:11+00:00,7.5,1.4,0.0,2.5,0.0,0.0,350.0,382,0.5195360546875,True,REGULAR,USD,LOMA

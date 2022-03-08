@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LYFT220325P00038000,2022-02-10 15:09:37+00:00,38.0,0.92,1.33,1.54,-0.62999994,-40.645157,1,11,0.5927775097656252,False,REGULAR,USD,LYFT
-LYFT220325P00040000,2022-02-10 15:15:47+00:00,40.0,1.46,1.99,2.18,-0.45999992,-23.95833,23,18,0.5793499096679688,False,REGULAR,USD,LYFT

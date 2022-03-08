@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VVV221216P00030000,2022-01-24 19:10:15+00:00,30.0,2.58,1.75,3.2,0.0,0.0,,3,0.36902486450195315,False,REGULAR,USD,VVV
-VVV221216P00035000,2022-01-19 16:42:11+00:00,35.0,4.1,5.0,5.8,0.0,0.0,1.0,1,0.3437565625,True,REGULAR,USD,VVV

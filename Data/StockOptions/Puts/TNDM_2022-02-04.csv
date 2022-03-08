@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TNDM220204P00140000,2022-01-05 18:57:06+00:00,140.0,5.3,6.0,8.2,2.5700002,94.1392,1,1,1.0000000000000003e-05,True,REGULAR,USD,TNDM
-TNDM220204P00150000,2022-01-05 15:34:51+00:00,150.0,9.4,13.3,15.5,3.0999994,49.206337,1,1,1.0000000000000003e-05,True,REGULAR,USD,TNDM

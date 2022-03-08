@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANIP220318C00045000,2022-01-31 16:08:42+00:00,45.0,2.41,0.0,2.0,0.0,0.0,1,2,0.5918009570312501,False,REGULAR,USD,ANIP

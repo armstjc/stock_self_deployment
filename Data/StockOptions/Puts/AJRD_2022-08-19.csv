@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AJRD220819P00045000,2021-12-17 19:05:08+00:00,45.0,3.75,1.05,5.8,0.0,0.0,27,27,1.0000000000000003e-05,True,REGULAR,USD,AJRD
-AJRD220819P00050000,2022-01-05 20:51:03+00:00,50.0,4.9,3.5,7.3,-0.099999905,-1.9999981,2,23,1.0000000000000003e-05,True,REGULAR,USD,AJRD

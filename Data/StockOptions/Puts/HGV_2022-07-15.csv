@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HGV220715P00045000,2021-12-20 16:20:28+00:00,45.0,6.0,1.05,4.9,0.0,0.0,,2,0.6044961425781252,False,REGULAR,USD,HGV
-HGV220715P00050000,2021-11-30 14:43:41+00:00,50.0,7.3,0.0,0.0,0.0,0.0,,1,0.007822421875,False,REGULAR,USD,HGV

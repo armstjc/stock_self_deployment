@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CNOB220218P00035000,2022-01-21 19:25:27+00:00,35.0,1.05,1.85,3.2,0.0,0.0,1.0,1,0.6699251757812501,True,REGULAR,USD,CNOB
-CNOB220218P00040000,2022-01-27 20:18:49+00:00,40.0,6.5,5.3,9.9,0.0,0.0,,1,0.80664255859375,True,REGULAR,USD,CNOB

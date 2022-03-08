@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DTM220916C00050000,2022-01-24 18:51:21+00:00,50.0,3.59,4.7,8.5,0.0,0.0,34,70,0.3983214465332031,True,REGULAR,USD,DTM
-DTM220916C00055000,2022-02-08 16:25:46+00:00,55.0,3.3,1.9,6.0,0.0,0.0,1,5,0.39014281738281253,False,REGULAR,USD,DTM

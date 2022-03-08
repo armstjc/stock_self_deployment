@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VBLT220617P00002500,2021-12-06 15:08:51+00:00,2.5,0.95,0.7,1.35,0.0,0.0,150,154,1.65625171875,True,REGULAR,USD,VBLT
-VBLT220617P00005000,2021-12-03 19:09:47+00:00,5.0,3.1,2.25,3.7,0.0,0.0,2,2,1.8437507812499998,True,REGULAR,USD,VBLT

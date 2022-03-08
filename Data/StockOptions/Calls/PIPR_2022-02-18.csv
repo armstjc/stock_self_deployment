@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PIPR220218C00180000,2021-12-23 15:15:45+00:00,180.0,11.0,5.1,5.6,0.0,0.0,20.0,20,1.9831543811035157,False,REGULAR,USD,PIPR
-PIPR220218C00190000,2021-12-27 17:11:35+00:00,190.0,6.78,2.4,2.8,0.0,0.0,,10,1.7553723168945314,False,REGULAR,USD,PIPR

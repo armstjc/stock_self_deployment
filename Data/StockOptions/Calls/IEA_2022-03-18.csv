@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IEA220318C00010000,2022-02-11 16:26:58+00:00,10.0,1.03,0.7,1.0,-0.07000005,-6.363641,40,366,0.63086306640625,True,REGULAR,USD,IEA
-IEA220318C00015000,2022-02-09 18:01:04+00:00,15.0,0.05,0.0,0.05,0.0,0.0,2,7,0.6640658593750002,False,REGULAR,USD,IEA

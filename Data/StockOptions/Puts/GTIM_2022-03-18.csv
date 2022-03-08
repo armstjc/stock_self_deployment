@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTIM220318P00002500,2021-12-15 17:42:09+00:00,2.5,0.05,0.0,0.1,0.0,0.0,2,5,1.3281283593749997,False,REGULAR,USD,GTIM
-GTIM220318P00005000,2021-12-02 18:24:54+00:00,5.0,1.12,0.75,1.05,0.0,0.0,2,52,0.945313046875,True,REGULAR,USD,GTIM

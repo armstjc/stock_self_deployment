@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GENE220318P00002500,2021-12-30 17:18:32+00:00,2.5,0.75,0.65,1.3,0.0,0.0,2,796,2.58594103515625,True,REGULAR,USD,GENE
-GENE220318P00005000,2021-11-10 11:52:35+00:00,5.0,2.32,2.8,3.2,0.0,0.0,1,2,2.80469048828125,True,REGULAR,USD,GENE

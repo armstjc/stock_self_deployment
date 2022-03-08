@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HCI220218P00090000,2021-12-17 19:43:52+00:00,90.0,7.62,10.5,15.5,0.0,0.0,3,3,1.0000000000000003e-05,True,REGULAR,USD,HCI

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTLB240119P00030000,2022-02-04 15:20:51+00:00,30.0,4.3,1.15,6.0,0.0,0.0,2.0,2,0.6556430920410157,False,REGULAR,USD,GTLB
-GTLB240119P00040000,2022-01-24 16:31:22+00:00,40.0,8.8,4.7,9.5,0.0,0.0,,5,0.648441015625,False,REGULAR,USD,GTLB

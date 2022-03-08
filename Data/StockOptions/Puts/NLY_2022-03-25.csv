@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NLY220325P00006500,2022-02-10 17:30:01+00:00,6.5,0.03,0.0,0.06,-0.03,-50.0,18,36,0.4062559375,False,REGULAR,USD,NLY
-NLY220325P00007500,2022-02-10 15:37:31+00:00,7.5,0.15,0.1,0.15,-0.030000001,-16.666666,1,16,0.20899228515624996,False,REGULAR,USD,NLY

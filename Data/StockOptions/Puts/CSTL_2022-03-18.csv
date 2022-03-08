@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CSTL220318P00030000,2022-01-26 16:52:26+00:00,30.0,1.86,0.0,5.0,0.0,0.0,,1,1.6806656591796876,False,REGULAR,USD,CSTL
-CSTL220318P00040000,2022-01-26 16:52:26+00:00,40.0,6.16,0.15,5.0,0.0,0.0,,0,0.8042011767578124,False,REGULAR,USD,CSTL

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CASH220916C00065000,2022-02-10 18:35:15+00:00,65.0,4.0,2.4,5.2,0.0,0.0,2,7,0.4676566906738281,False,REGULAR,USD,CASH

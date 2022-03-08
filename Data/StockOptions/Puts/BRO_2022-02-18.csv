@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRO220218P00065000,2022-01-05 19:49:36+00:00,65.0,1.4,1.15,1.45,0.45,47.36842,2.0,5,0.6284216845703126,False,REGULAR,USD,BRO
-BRO220218P00070000,2021-12-21 17:52:06+00:00,70.0,4.5,2.5,3.8,0.0,0.0,,0,0.5317429638671876,True,REGULAR,USD,BRO

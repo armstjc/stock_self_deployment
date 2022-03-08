@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMX220318P00017000,2022-02-11 19:08:02+00:00,17.0,0.25,0.15,0.25,0.099999994,66.666664,1,559,0.37500625,False,REGULAR,USD,AMX
-AMX220318P00018000,2022-02-08 15:57:08+00:00,18.0,0.35,0.35,0.45,0.0,0.0,2,302,0.31836619140624994,False,REGULAR,USD,AMX

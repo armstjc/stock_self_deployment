@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLXT220819P00002500,2022-02-10 19:52:26+00:00,2.5,1.0,1.1,1.25,0.0,0.0,1,54,0.7656273437500001,True,REGULAR,USD,CLXT

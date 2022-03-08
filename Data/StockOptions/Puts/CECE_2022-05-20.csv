@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CECE220520P00005000,2021-11-08 19:34:58+00:00,5.0,0.2,0.2,0.6,0.0,0.0,,1,0.6210975390625001,False,REGULAR,USD,CECE
-CECE220520P00007500,2021-11-08 16:03:04+00:00,7.5,1.25,1.05,2.05,0.0,0.0,1.0,12,0.6054726953125001,True,REGULAR,USD,CECE

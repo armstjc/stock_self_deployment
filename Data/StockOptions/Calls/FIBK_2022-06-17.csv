@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FIBK220617C00040000,2021-11-29 15:33:36+00:00,40.0,3.1,2.5,5.6,0.0,0.0,,1,0.5698285205078125,False,REGULAR,USD,FIBK
-FIBK220617C00045000,2022-01-04 16:07:15+00:00,45.0,2.52,0.2,5.2,0.0,0.0,1.0,10,0.5876506079101562,False,REGULAR,USD,FIBK

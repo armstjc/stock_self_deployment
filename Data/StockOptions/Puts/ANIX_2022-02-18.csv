@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANIX220218P00002500,2021-12-30 14:30:25+00:00,2.5,0.19,0.0,0.2,0.0,0.0,1,20,2.2187544531249994,False,REGULAR,USD,ANIX

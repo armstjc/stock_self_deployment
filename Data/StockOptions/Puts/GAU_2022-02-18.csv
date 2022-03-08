@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GAU220218P00002500,2022-01-03 16:37:17+00:00,2.5,1.9,1.2,2.05,0.0,0.0,15,42,13.687501445312499,True,REGULAR,USD,GAU
-GAU220218P00005000,2022-02-10 18:27:59+00:00,5.0,4.9,3.8,4.4,0.0,0.0,3,3,11.9375025390625,True,REGULAR,USD,GAU

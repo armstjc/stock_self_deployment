@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NWG220318P00007500,2022-02-10 16:25:14+00:00,7.5,0.65,0.6,0.75,-0.20000005,-23.529415,339,275,0.476567734375,True,REGULAR,USD,NWG

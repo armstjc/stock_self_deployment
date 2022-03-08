@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AKAM220311P00100000,2022-01-31 15:43:20+00:00,100.0,1.55,1.15,2.85,0.0,0.0,13,13,0.5224657128906249,False,REGULAR,USD,AKAM

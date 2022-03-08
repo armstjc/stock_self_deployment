@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SQFT220218P00002500,2022-02-11 19:28:40+00:00,2.5,0.03,0.0,0.05,-0.020000001,-40.000004,50,1,2.031254921875,False,REGULAR,USD,SQFT
-SQFT220218P00005000,2022-02-11 20:38:19+00:00,5.0,1.34,1.2,2.0,0.0,0.0,5,10,3.468751328125,True,REGULAR,USD,SQFT

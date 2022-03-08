@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RYI220218C00025000,2022-01-05 19:14:19+00:00,25.0,3.06,2.75,5.1,-0.53999996,-14.999999,2,3,3.8847659130859373,False,REGULAR,USD,RYI
-RYI220218C00030000,2022-01-05 14:30:02+00:00,30.0,0.65,0.3,2.45,0.0,0.0,130,2,2.8496122509765627,False,REGULAR,USD,RYI

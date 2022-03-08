@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUY220204P00004000,2022-01-05 20:36:09+00:00,4.0,0.17,0.15,0.2,0.040000007,30.769238,9,145,2.031254921875,True,REGULAR,USD,AUY
-AUY220204P00004500,2022-01-05 19:10:40+00:00,4.5,0.48,0.5,0.59,0.06999999,17.07317,1,6,2.156254609375,True,REGULAR,USD,AUY

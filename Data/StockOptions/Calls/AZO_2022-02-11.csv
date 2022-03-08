@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AZO220211C02100000,2022-01-03 20:11:15+00:00,2100.0,39.73,33.1,41.5,0.0,0.0,1,2,1.6759049407958984,False,REGULAR,USD,AZO
-AZO220211C02170000,2021-12-31 14:38:57+00:00,2170.0,30.06,14.8,23.0,0.0,0.0,2,2,1.5460838125610352,False,REGULAR,USD,AZO

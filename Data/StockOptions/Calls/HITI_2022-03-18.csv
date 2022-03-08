@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HITI220318C00002500,2022-01-25 20:34:48+00:00,2.5,1.7,2.1,2.9,0.0,0.0,,1,1.9453127734375002,True,REGULAR,USD,HITI
-HITI220318C00005000,2022-02-10 16:30:18+00:00,5.0,0.65,0.65,0.8,0.14999998,29.999996,8.0,196,0.8828136718749999,True,REGULAR,USD,HITI

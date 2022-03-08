@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NEON220318C00005000,2022-02-10 15:32:39+00:00,5.0,0.4,0.25,0.65,-0.17999998,-31.03448,5,25,0.8945323046874999,False,REGULAR,USD,NEON
-NEON220318C00007500,2022-02-08 19:28:09+00:00,7.5,0.1,0.0,0.2,0.0,0.0,10,30,1.109379453125,False,REGULAR,USD,NEON

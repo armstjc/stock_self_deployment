@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LU240119P00002500,2022-01-27 19:16:01+00:00,2.5,0.6,0.05,5.0,0.0,0.0,,2,0.0,False,REGULAR,USD,LU
-LU240119P00005000,2022-01-21 18:59:42+00:00,5.0,1.82,1.15,2.05,0.0,0.0,2.0,23,0.684573466796875,False,REGULAR,USD,LU

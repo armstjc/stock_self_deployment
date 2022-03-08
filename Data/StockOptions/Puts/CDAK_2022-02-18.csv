@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CDAK220218P00010000,2021-12-30 20:35:53+00:00,10.0,1.05,0.85,1.15,0.0,0.0,,9,1.0000000000000003e-05,True,REGULAR,USD,CDAK

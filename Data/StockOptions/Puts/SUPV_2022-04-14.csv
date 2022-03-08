@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SUPV220414P00002500,2022-02-11 18:40:20+00:00,2.5,0.55,0.6,0.8,-0.050000012,-8.333335,5.0,81,0.7578149218750001,True,REGULAR,USD,SUPV
-SUPV220414P00005000,2021-11-10 11:57:06+00:00,5.0,2.69,2.85,3.1,0.0,0.0,,5,1.0000000000000003e-05,True,REGULAR,USD,SUPV

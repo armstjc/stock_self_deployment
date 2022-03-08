@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLNN220218P00002500,2022-02-11 17:35:47+00:00,2.5,0.1,0.0,0.2,-0.22,-68.75,10,6,1.359378203125,False,REGULAR,USD,CLNN
-CLNN220218P00007500,2022-01-28 14:56:46+00:00,7.5,4.8,4.5,5.1,0.0,0.0,1,0,7.4687506640625,True,REGULAR,USD,CLNN

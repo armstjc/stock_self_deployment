@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RMTI220218P00001000,2022-02-07 14:33:13+00:00,1.0,0.6,0.0,0.9,0.0,0.0,1,96,21.0000034375,True,REGULAR,USD,RMTI
-RMTI220218P00002000,2022-01-26 14:30:02+00:00,2.0,1.56,1.5,2.3,0.0,0.0,50,20,23.50000265625,True,REGULAR,USD,RMTI

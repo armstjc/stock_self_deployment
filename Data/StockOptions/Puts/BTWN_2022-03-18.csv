@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTWN220318P00010000,2022-01-24 16:52:16+00:00,10.0,0.3,0.0,0.25,0.0,0.0,16,801,0.12500875,True,REGULAR,USD,BTWN

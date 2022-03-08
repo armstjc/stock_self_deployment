@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AUTL220218C00005000,2021-12-23 19:31:14+00:00,5.0,1.54,0.5,1.05,0.0,0.0,3,2,4.12500484375,False,REGULAR,USD,AUTL
-AUTL220218C00007500,2021-12-27 14:31:19+00:00,7.5,0.3,0.0,0.35,0.0,0.0,47,84,3.5468761328125,False,REGULAR,USD,AUTL

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UTZ220218P00015000,2022-01-05 16:46:48+00:00,15.0,0.12,0.1,0.2,-0.030000009,-20.000004,31,37,0.48438015625,False,REGULAR,USD,UTZ
-UTZ220218P00017500,2021-12-23 15:40:28+00:00,17.5,1.4,0.8,1.0,0.0,0.0,1,1,1.0000000000000003e-05,True,REGULAR,USD,UTZ

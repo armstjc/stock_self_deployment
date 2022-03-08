@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AYRO240119P00002500,2021-12-23 20:24:57+00:00,2.5,1.5,0.4,1.75,0.0,0.0,3,24,1.0781296093750001,True,REGULAR,USD,AYRO
-AYRO240119P00005000,2021-12-10 17:50:05+00:00,5.0,3.6,2.6,5.9,0.0,0.0,1,11,1.3398470507812497,True,REGULAR,USD,AYRO

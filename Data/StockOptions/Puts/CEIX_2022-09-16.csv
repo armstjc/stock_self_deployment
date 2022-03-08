@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CEIX220916P00022500,2022-02-03 15:53:17+00:00,22.5,3.9,3.7,5.4,-1.6999998,-30.35714,1,1,0.7238797143554687,False,REGULAR,USD,CEIX
-CEIX220916P00025000,2022-01-28 20:33:42+00:00,25.0,6.9,4.7,6.0,0.0,0.0,2,2,0.6254920263671876,True,REGULAR,USD,CEIX

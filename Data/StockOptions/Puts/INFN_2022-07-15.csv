@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-INFN220715P00008000,2021-12-27 16:08:24+00:00,8.0,0.75,0.45,0.95,0.0,0.0,4,4,0.476567734375,False,REGULAR,USD,INFN
-INFN220715P00010000,2022-01-03 17:21:57+00:00,10.0,1.7,1.05,1.9,0.0,0.0,191,190,1.0000000000000003e-05,True,REGULAR,USD,INFN

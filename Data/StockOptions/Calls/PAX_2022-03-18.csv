@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PAX220318C00017500,2022-02-09 16:42:51+00:00,17.5,0.6,0.75,0.95,0.0,0.0,1,22,0.42383388671875,True,REGULAR,USD,PAX
-PAX220318C00020000,2022-02-11 19:11:37+00:00,20.0,0.15,0.1,0.25,0.040000007,36.363644,7,4,0.45508357421875,False,REGULAR,USD,PAX

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YMTX220916C00002500,2022-02-03 15:03:18+00:00,2.5,0.7,0.1,2.0,0.0,0.0,,2,2.5546911132812498,False,REGULAR,USD,YMTX
-YMTX220916C00007500,2022-02-04 18:47:17+00:00,7.5,0.1,0.0,0.6,0.0,0.0,1.0,1,1.765626171875,False,REGULAR,USD,YMTX

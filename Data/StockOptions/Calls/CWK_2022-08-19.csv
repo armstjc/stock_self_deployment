@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CWK220819C00010000,2021-12-27 20:54:13+00:00,10.0,12.9,10.8,13.4,0.0,0.0,,1,0.5507857421875001,True,REGULAR,USD,CWK
-CWK220819C00022500,2021-12-27 17:23:17+00:00,22.5,2.5,0.35,2.25,0.0,0.0,,3,0.3881897119140625,False,REGULAR,USD,CWK

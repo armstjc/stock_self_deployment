@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CERT220318C00025000,2022-02-04 17:59:01+00:00,25.0,2.0,0.7,5.5,0.0,0.0,1,1,0.69336244140625,True,REGULAR,USD,CERT
-CERT220318C00030000,2022-02-11 18:39:51+00:00,30.0,0.98,0.0,1.85,-0.22000003,-18.333336,1,430,0.641605146484375,False,REGULAR,USD,CERT

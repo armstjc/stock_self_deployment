@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SGLY230120P00002500,2022-02-09 15:38:16+00:00,2.5,0.6,0.4,0.5,0.0,0.0,1,147,1.1367230664062502,False,REGULAR,USD,SGLY
-SGLY230120P00005000,2022-02-09 15:38:16+00:00,5.0,2.07,1.8,2.2,0.0,0.0,1,213,1.2695349023437497,False,REGULAR,USD,SGLY

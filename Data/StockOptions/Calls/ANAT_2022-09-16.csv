@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ANAT220916C00190000,2022-02-08 19:06:46+00:00,190.0,1.92,0.25,2.4,0.0,0.0,9,78,0.04273418212890625,False,REGULAR,USD,ANAT
-ANAT220916C00195000,2022-02-08 19:06:46+00:00,195.0,0.52,0.2,0.9,0.0,0.0,10,15,0.0463962548828125,False,REGULAR,USD,ANAT

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VEON220218C00002000,2022-01-05 15:00:39+00:00,2.0,0.03,0.0,0.05,-0.01,-25.0,5,90,2.0625048437499998,False,REGULAR,USD,VEON

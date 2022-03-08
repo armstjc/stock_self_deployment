@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XOMA220617P00015000,2021-12-23 14:42:56+00:00,15.0,1.35,0.8,3.6,0.0,0.0,1.0,1,1.0444383715820313,False,REGULAR,USD,XOMA
-XOMA220617P00017500,2021-10-25 14:21:46+00:00,17.5,2.45,1.9,4.4,0.0,0.0,,1,0.973633076171875,False,REGULAR,USD,XOMA

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NLTX220218P00007500,2022-01-05 18:27:48+00:00,7.5,3.0,2.65,3.3,0.6500001,27.65958,2.0,22,1.0000000000000003e-05,True,REGULAR,USD,NLTX
-NLTX220218P00010000,2021-12-22 16:46:53+00:00,10.0,5.05,5.2,5.8,0.0,0.0,,20,1.0000000000000003e-05,True,REGULAR,USD,NLTX

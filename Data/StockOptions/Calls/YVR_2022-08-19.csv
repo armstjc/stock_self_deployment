@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YVR220819C00002500,2022-02-11 20:24:35+00:00,2.5,0.09,0.05,0.1,-0.03999999,-30.769226,14,202,1.46875265625,False,REGULAR,USD,YVR
-YVR220819C00005000,2022-01-31 14:30:11+00:00,5.0,0.06,0.0,0.05,0.0,0.0,1,17,1.484377578125,False,REGULAR,USD,YVR

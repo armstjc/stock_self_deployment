@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EXPO220916C00095000,2022-02-04 16:05:30+00:00,95.0,4.1,2.0,6.0,0.0,0.0,1.0,0,0.3617007189941406,False,REGULAR,USD,EXPO
-EXPO220916C00100000,2022-01-24 14:52:17+00:00,100.0,4.9,0.65,4.7,0.0,0.0,,1,0.36438623901367195,False,REGULAR,USD,EXPO

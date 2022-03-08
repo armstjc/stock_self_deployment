@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KMDA220218P00005000,2022-01-26 20:09:53+00:00,5.0,0.1,0.0,0.1,0.0,0.0,100,0,1.2812535937499998,False,REGULAR,USD,KMDA
-KMDA220218P00007500,2022-02-08 20:01:16+00:00,7.5,1.87,0.35,2.65,0.0,0.0,4,164,1.5312523437499999,True,REGULAR,USD,KMDA

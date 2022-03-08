@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLVS220325C00002000,2022-02-11 17:19:04+00:00,2.0,0.34,0.18,0.44,-0.06999999,-17.07317,5,736,1.3828155859374998,False,REGULAR,USD,CLVS
-CLVS220325C00003000,2022-02-11 20:36:21+00:00,3.0,0.07,0.03,0.16,-0.059999995,-46.153843,86,94,1.3906280468749999,False,REGULAR,USD,CLVS

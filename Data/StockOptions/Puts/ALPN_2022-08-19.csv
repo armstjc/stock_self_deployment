@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ALPN220819P00010000,2022-01-18 05:14:06+00:00,10.0,1.95,1.0,5.7,0.0,0.0,,1,0.6972686523437501,True,REGULAR,USD,ALPN
-ALPN220819P00020000,2022-01-18 05:14:06+00:00,20.0,10.8,10.5,15.0,0.0,0.0,,1,0.773439765625,True,REGULAR,USD,ALPN

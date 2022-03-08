@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TAC220218C00010000,2021-12-27 14:36:18+00:00,10.0,1.2,0.3,1.9,0.0,0.0,,2,1.6289081054687498,True,REGULAR,USD,TAC
-TAC220218C00012500,2022-01-03 17:02:36+00:00,12.5,0.2,0.05,0.1,0.0,0.0,20.0,15,1.0859420703125,False,REGULAR,USD,TAC

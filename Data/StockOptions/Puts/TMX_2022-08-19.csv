@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TMX220819P00050000,2022-01-05 14:30:07+00:00,50.0,6.8,5.9,10.5,0.10000038,1.4925431,10,40,0.4681449670410156,True,REGULAR,USD,TMX

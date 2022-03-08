@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KAR220318P00012500,2022-02-11 14:47:43+00:00,12.5,0.9,0.95,1.25,0.099999964,12.499995,1,7,0.5097705273437501,True,REGULAR,USD,KAR
-KAR220318P00015000,2022-02-11 18:35:48+00:00,15.0,3.2,2.95,3.4,1.85,137.03703,100,311,0.51562984375,True,REGULAR,USD,KAR

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FIXX220218C00002500,2021-12-30 20:39:54+00:00,2.5,1.25,1.05,1.7,0.0,0.0,,40,3.3125017187499997,True,REGULAR,USD,FIXX
-FIXX220218C00005000,2022-01-05 18:06:07+00:00,5.0,0.15,0.1,0.3,-0.45000002,-75.0,1.0,27,2.8750028125,False,REGULAR,USD,FIXX

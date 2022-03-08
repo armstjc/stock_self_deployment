@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PHX220218P00002500,2022-02-11 17:41:32+00:00,2.5,0.26,0.15,0.35,-0.14000002,-35.000004,90,383,1.3750031249999999,True,REGULAR,USD,PHX
-PHX220218P00005000,2021-12-30 14:50:34+00:00,5.0,2.9,2.4,2.8,0.0,0.0,1,1,5.375003281249999,True,REGULAR,USD,PHX

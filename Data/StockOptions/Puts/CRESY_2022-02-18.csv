@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRESY220218P00005000,2022-02-11 18:46:57+00:00,5.0,0.08,0.0,0.15,-0.020000003,-20.000004,1,558,0.92187578125,False,REGULAR,USD,CRESY
-CRESY220218P00007500,2022-01-31 14:51:54+00:00,7.5,2.55,1.75,2.35,0.0,0.0,3,69,1.625001875,True,REGULAR,USD,CRESY

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IRIX220318P00002500,2022-01-28 14:30:00+00:00,2.5,0.1,0.0,0.25,0.0,0.0,10,10,1.9218753906250001,False,REGULAR,USD,IRIX

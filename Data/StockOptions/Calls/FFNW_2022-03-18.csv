@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FFNW220318C00017500,2021-11-08 15:02:53+00:00,17.5,0.8,0.1,0.55,0.0,0.0,,1,0.36524072265625,False,REGULAR,USD,FFNW
-FFNW220318C00020000,2021-12-23 14:30:03+00:00,20.0,0.15,0.0,0.25,0.0,0.0,5.0,15,0.5302781347656251,False,REGULAR,USD,FFNW

@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-YORW220218P00045000,2022-01-11 19:19:59+00:00,45.0,1.5,1.3,4.7,0.0,0.0,3,7,0.7392604199218749,True,REGULAR,USD,YORW

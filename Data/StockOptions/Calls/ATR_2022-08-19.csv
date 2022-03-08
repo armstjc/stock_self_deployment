@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATR220819C00140000,2022-01-26 14:30:08+00:00,140.0,1.9,0.0,4.6,0.0,0.0,,10,0.387701435546875,False,REGULAR,USD,ATR
-ATR220819C00175000,2022-02-11 19:16:02+00:00,175.0,0.15,0.0,0.9,-0.79999995,-84.210526,21.0,2,0.37744763183593744,False,REGULAR,USD,ATR

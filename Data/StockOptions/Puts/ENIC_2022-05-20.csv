@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENIC220520P00002500,2022-01-24 14:30:03+00:00,2.5,0.8,0.05,1.0,0.15000004,23.07693,2,300,1.484377578125,True,REGULAR,USD,ENIC

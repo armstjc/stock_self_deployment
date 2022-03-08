@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-APT220311C00004000,2022-02-02 14:30:11+00:00,4.0,1.05,0.4,1.18,0.0,0.0,1,1,0.8242205078124999,True,REGULAR,USD,APT
-APT220311C00005000,2022-02-02 14:30:11+00:00,5.0,0.47,0.25,0.46,0.0,0.0,1,51,0.9023447265625,False,REGULAR,USD,APT

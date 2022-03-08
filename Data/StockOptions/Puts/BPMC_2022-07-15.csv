@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BPMC220715P00075000,2021-12-17 17:36:11+00:00,75.0,3.4,2.5,6.5,0.0,0.0,1,1,0.47437049072265625,False,REGULAR,USD,BPMC
-BPMC220715P00095000,2022-01-05 15:25:17+00:00,95.0,13.5,12.1,15.5,1.1999998,9.756096,81,27,0.3138496350097656,True,REGULAR,USD,BPMC

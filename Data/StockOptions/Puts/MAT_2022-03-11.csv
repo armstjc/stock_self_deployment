@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MAT220311P00019000,2022-02-11 16:19:22+00:00,19.0,0.16,0.0,0.2,-0.24000001,-60.000004,5,2,0.585941640625,False,REGULAR,USD,MAT
-MAT220311P00023000,2022-02-11 20:07:22+00:00,23.0,0.55,0.45,0.7,0.20000002,57.142864,3,7,0.46191944335937507,False,REGULAR,USD,MAT

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KRP220318C00015000,2022-02-01 20:43:24+00:00,15.0,0.56,0.3,0.85,0.0,0.0,5,8,0.5429733203125001,False,REGULAR,USD,KRP
-KRP220318C00017500,2022-02-03 20:20:02+00:00,17.5,0.15,0.1,0.15,-0.049999997,-24.999998,2,171,0.47070841796875,False,REGULAR,USD,KRP

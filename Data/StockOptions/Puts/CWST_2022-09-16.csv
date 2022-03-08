@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CWST220916P00080000,2022-01-28 18:52:02+00:00,80.0,10.0,6.1,10.0,0.0,0.0,3,8,0.32959654785156245,True,REGULAR,USD,CWST

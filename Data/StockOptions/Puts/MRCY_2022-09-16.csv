@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MRCY220916P00040000,2021-12-29 15:08:01+00:00,40.0,1.14,0.15,4.7,0.0,0.0,,5,0.5023243127441408,False,REGULAR,USD,MRCY
-MRCY220916P00055000,2021-12-29 17:46:01+00:00,55.0,6.0,4.3,5.9,0.0,0.0,,27,0.2873606420898437,True,REGULAR,USD,MRCY

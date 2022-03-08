@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SNDR220218C00020000,2022-01-05 16:25:49+00:00,20.0,7.4,5.2,9.5,0.5999999,8.823527,2,2,3.0605492236328127,True,REGULAR,USD,SNDR
-SNDR220218C00025000,2022-01-05 17:10:41+00:00,25.0,2.5,2.2,2.9,0.70000005,38.888893,1,1,1.53515857421875,True,REGULAR,USD,SNDR

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCAB220318P00002500,2022-01-24 14:30:00+00:00,2.5,0.05,0.0,0.75,0.0,0.0,,1,3.5781260546875,False,REGULAR,USD,BCAB
-BCAB220318P00010000,2022-02-04 19:14:56+00:00,10.0,1.6,2.3,4.7,0.0,0.0,1.0,0,1.6953140234375002,True,REGULAR,USD,BCAB

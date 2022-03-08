@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-KNOP220218P00012500,2022-02-02 19:56:31+00:00,12.5,0.05,0.0,0.75,0.0,0.0,1,45,1.9179691601562503,False,REGULAR,USD,KNOP
-KNOP220218P00015000,2022-02-11 19:30:29+00:00,15.0,0.15,0.15,0.25,-0.049999997,-24.999998,9,152,0.5390671093750001,False,REGULAR,USD,KNOP

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-USM220218P00025000,2021-12-17 18:39:46+00:00,25.0,0.6,0.0,0.5,0.0,0.0,20,20,1.3339877050781246,False,REGULAR,USD,USM
-USM220218P00030000,2022-01-21 19:03:08+00:00,30.0,1.43,0.0,2.2,0.0,0.0,5,8,0.956055126953125,False,REGULAR,USD,USM

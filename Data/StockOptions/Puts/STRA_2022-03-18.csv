@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STRA220318P00050000,2022-02-10 16:04:18+00:00,50.0,2.15,1.65,2.7,0.45000005,26.47059,250,202,0.577152666015625,False,REGULAR,USD,STRA

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZEUS220218C00025000,2021-12-21 19:41:53+00:00,25.0,1.55,1.85,3.9,0.0,0.0,2,25,3.1992207519531246,False,REGULAR,USD,ZEUS
-ZEUS220218C00030000,2022-01-05 17:53:38+00:00,30.0,0.8,0.45,2.15,0.35000002,77.77779,3,13,2.9140652148437503,False,REGULAR,USD,ZEUS

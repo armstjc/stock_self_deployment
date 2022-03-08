@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STRA220715C00050000,2021-12-20 14:48:06+00:00,50.0,11.7,9.7,14.0,0.0,0.0,,2,0.7220486779785156,True,REGULAR,USD,STRA
-STRA220715C00090000,2022-01-05 15:06:16+00:00,90.0,0.72,0.1,1.2,0.02000004,2.8571486,5.0,4,0.516606396484375,False,REGULAR,USD,STRA

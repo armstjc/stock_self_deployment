@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DCO220617C00065000,2021-12-20 18:30:07+00:00,65.0,0.65,0.3,4.7,0.0,0.0,,2,0.7668480346679689,False,REGULAR,USD,DCO
-DCO220617C00075000,2021-12-10 20:31:24+00:00,75.0,0.6,0.0,2.4,0.0,0.0,1.0,11,0.726565234375,False,REGULAR,USD,DCO

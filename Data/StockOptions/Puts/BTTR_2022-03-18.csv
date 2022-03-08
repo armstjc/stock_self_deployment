@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTTR220318P00002500,2022-02-11 20:53:46+00:00,2.5,0.1,0.0,0.35,-0.3,-75.0,100.0,121,1.6484392578125,False,REGULAR,USD,BTTR
-BTTR220318P00005000,2021-11-17 20:22:00+00:00,5.0,1.4,1.4,2.6,0.0,0.0,,20,2.50781623046875,True,REGULAR,USD,BTTR

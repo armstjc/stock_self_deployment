@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FUL220318C00075000,2022-01-25 15:25:30+00:00,75.0,2.0,0.65,1.3,0.0,0.0,,2,0.35156898437499995,False,REGULAR,USD,FUL

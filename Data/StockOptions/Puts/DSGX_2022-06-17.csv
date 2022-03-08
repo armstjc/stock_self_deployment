@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DSGX220617P00100000,2021-12-01 14:45:56+00:00,100.0,20.4,18.0,18.6,0.0,0.0,,0,1.0000000000000003e-05,True,REGULAR,USD,DSGX

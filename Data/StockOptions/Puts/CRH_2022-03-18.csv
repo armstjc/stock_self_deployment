@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CRH220318P00040000,2021-11-10 11:46:25+00:00,40.0,4.45,0.25,1.0,0.0,0.0,,7,0.684573466796875,False,REGULAR,USD,CRH

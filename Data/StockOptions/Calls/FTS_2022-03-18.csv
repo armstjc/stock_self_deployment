@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FTS220318C00045000,2022-02-11 20:59:09+00:00,45.0,1.55,1.3,1.7,-0.25,-13.888889,7,10,0.1596763720703125,True,REGULAR,USD,FTS

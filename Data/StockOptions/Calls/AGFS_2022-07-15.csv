@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AGFS220715C00002500,2022-01-04 18:29:31+00:00,2.5,0.35,0.25,0.6,0.0,0.0,21,134,1.16016044921875,False,REGULAR,USD,AGFS
-AGFS220715C00005000,2021-12-27 14:30:11+00:00,5.0,0.16,0.0,0.5,0.0,0.0,1,4,1.48047134765625,False,REGULAR,USD,AGFS

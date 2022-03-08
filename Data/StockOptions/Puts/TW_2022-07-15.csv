@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TW220715P00085000,2021-12-01 20:29:21+00:00,85.0,4.3,2.35,3.3,0.0,0.0,,15,0.11231356445312499,True,REGULAR,USD,TW
-TW220715P00120000,2021-11-23 19:23:39+00:00,120.0,25.8,21.4,24.7,0.0,0.0,,2,1.0000000000000003e-05,True,REGULAR,USD,TW

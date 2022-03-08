@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPSI220218P00015000,2021-12-29 16:54:22+00:00,15.0,0.12,0.0,4.8,0.0,0.0,,126,6.9140638574218745,False,REGULAR,USD,CPSI
-CPSI220218P00020000,2021-12-29 16:54:22+00:00,20.0,0.22,0.0,4.8,0.0,0.0,,54,4.648441689453126,False,REGULAR,USD,CPSI

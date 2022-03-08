@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BMTX220318P00007500,2022-01-28 14:38:03+00:00,7.5,0.4,0.15,0.35,0.0,0.0,3,12,0.726565234375,False,REGULAR,USD,BMTX
-BMTX220318P00010000,2022-02-03 19:42:23+00:00,10.0,1.4,1.35,1.55,0.19999993,16.66666,1,13,0.73437765625,True,REGULAR,USD,BMTX

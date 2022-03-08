@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ST220617P00045000,2021-12-17 17:15:53+00:00,45.0,1.4,0.55,0.7,0.0,0.0,2,2,0.34180345703125,False,REGULAR,USD,ST
-ST220617P00060000,2021-12-03 17:27:33+00:00,60.0,7.41,3.7,5.2,0.0,0.0,2,1,0.20093572509765623,True,REGULAR,USD,ST

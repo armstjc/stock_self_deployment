@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MET221216P00040000,2021-12-21 19:07:50+00:00,40.0,1.35,0.96,2.16,0.0,0.0,,1,0.5383346948242189,False,REGULAR,USD,MET
-MET221216P00057500,2021-12-23 14:46:18+00:00,57.5,5.25,4.0,4.45,0.0,0.0,1.0,0,0.41925629577636714,False,REGULAR,USD,MET

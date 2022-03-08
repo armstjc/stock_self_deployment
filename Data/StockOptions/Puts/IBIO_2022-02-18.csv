@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IBIO220218P00000500,2022-02-11 20:56:01+00:00,0.5,0.15,0.1,0.15,0.0,0.0,4,90,3.1250021875,True,REGULAR,USD,IBIO
-IBIO220218P00001000,2022-02-11 16:51:12+00:00,1.0,0.65,0.5,0.65,0.099999964,18.18181,2,466,6.125002343749999,True,REGULAR,USD,IBIO

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMFG220218P00007500,2022-02-03 20:49:08+00:00,7.5,0.3,0.0,0.75,0.0,0.0,1.0,1,0.87500125,False,REGULAR,USD,SMFG
-SMFG220218P00010000,2022-01-27 16:44:46+00:00,10.0,2.7,2.05,2.5,0.0,0.0,,1,1.3437532812499997,True,REGULAR,USD,SMFG

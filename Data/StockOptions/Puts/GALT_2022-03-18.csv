@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GALT220318P00002000,2022-02-11 20:06:04+00:00,2.0,0.2,0.1,0.25,0.0,0.0,20,148,0.85937640625,False,REGULAR,USD,GALT
-GALT220318P00004000,2022-01-21 19:47:18+00:00,4.0,2.05,1.7,2.1,0.0,0.0,3,3,2.281254296875,True,REGULAR,USD,GALT

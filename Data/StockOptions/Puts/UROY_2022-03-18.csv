@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UROY220318P00002500,2022-02-10 14:59:50+00:00,2.5,0.1,0.05,0.1,0.0,0.0,1,121,0.98437515625,False,REGULAR,USD,UROY
-UROY220318P00005000,2022-02-04 19:21:14+00:00,5.0,1.9,1.65,1.8,0.0,0.0,2,27,1.125004375,True,REGULAR,USD,UROY

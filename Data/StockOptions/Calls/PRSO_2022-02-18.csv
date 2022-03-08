@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRSO220218C00005000,2022-01-05 20:04:46+00:00,5.0,0.3,0.15,0.35,-0.19999999,-39.999996,1.0,55,5.9062526171875005,False,REGULAR,USD,PRSO
-PRSO220218C00007500,2021-12-22 18:51:41+00:00,7.5,0.21,0.0,0.1,0.0,0.0,,5,5.062503671875,False,REGULAR,USD,PRSO

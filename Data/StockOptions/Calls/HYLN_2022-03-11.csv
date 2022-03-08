@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HYLN220311C00004000,2022-02-02 17:10:49+00:00,4.0,0.55,0.32,0.72,0.0,0.0,1,1,1.0664109179687502,False,REGULAR,USD,HYLN
-HYLN220311C00004500,2022-02-03 16:34:08+00:00,4.5,0.3,0.18,0.37,-0.049999982,-14.285709,1,4,0.929688203125,False,REGULAR,USD,HYLN

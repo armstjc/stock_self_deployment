@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-NKTX220318P00010000,2022-02-09 15:50:01+00:00,10.0,1.73,0.75,3.0,0.0,0.0,1,5,1.62109564453125,False,REGULAR,USD,NKTX
-NKTX220318P00012500,2022-01-21 15:38:42+00:00,12.5,3.01,1.5,3.8,0.0,0.0,2,2,0.9433599414062499,True,REGULAR,USD,NKTX

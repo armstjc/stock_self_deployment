@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MGTA220520P00005000,2022-02-10 15:57:47+00:00,5.0,1.95,1.05,2.3,0.0,0.0,2,15,1.37109689453125,True,REGULAR,USD,MGTA
-MGTA220520P00007500,2022-02-01 16:21:14+00:00,7.5,4.3,3.1,4.6,0.0,0.0,1,0,1.4492215039062502,True,REGULAR,USD,MGTA

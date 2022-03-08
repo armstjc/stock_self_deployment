@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HBI220204P00014000,2021-12-27 19:34:12+00:00,14.0,0.1,0.0,0.75,0.0,0.0,,3,3.156252109375,False,REGULAR,USD,HBI
-HBI220204P00015000,2021-12-27 14:41:22+00:00,15.0,0.34,0.0,0.2,0.0,0.0,,20,0.9765627343750001,False,REGULAR,USD,HBI

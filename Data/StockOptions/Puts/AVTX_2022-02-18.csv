@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AVTX220218P00002500,2022-01-26 15:20:40+00:00,2.5,1.5,1.45,1.9,0.0,0.0,1,28,6.312502109375,True,REGULAR,USD,AVTX

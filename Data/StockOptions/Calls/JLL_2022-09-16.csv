@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-JLL220916C00230000,2022-01-28 20:43:25+00:00,230.0,32.9,40.6,44.0,0.0,0.0,6,6,0.40442490112304685,True,REGULAR,USD,JLL
-JLL220916C00300000,2022-01-21 17:45:01+00:00,300.0,12.0,10.0,13.4,0.0,0.0,4,4,0.36093778717041014,False,REGULAR,USD,JLL

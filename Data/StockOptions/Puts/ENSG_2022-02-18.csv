@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ENSG220218P00070000,2021-12-27 14:30:45+00:00,70.0,2.1,0.0,4.7,0.0,0.0,,1,1.4443387158203125,False,REGULAR,USD,ENSG
-ENSG220218P00075000,2021-12-27 14:30:45+00:00,75.0,2.7,0.1,4.6,0.0,0.0,1.0,1,0.93945373046875,False,REGULAR,USD,ENSG

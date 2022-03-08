@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BCE220916C00055000,2022-01-31 16:12:45+00:00,55.0,1.0,0.8,1.45,0.0,0.0,2,12,0.13269910278320313,False,REGULAR,USD,BCE

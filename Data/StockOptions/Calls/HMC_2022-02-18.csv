@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HMC220218C00030000,2022-01-05 20:25:36+00:00,30.0,0.73,0.65,0.8,-0.099999964,-12.048188,20,175,0.348639326171875,True,REGULAR,USD,HMC

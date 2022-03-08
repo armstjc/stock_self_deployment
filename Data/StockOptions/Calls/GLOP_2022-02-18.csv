@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GLOP220218C00005000,2022-01-05 19:13:42+00:00,5.0,0.2,0.1,0.2,0.010000005,5.2631607,101,446,2.3359416601562493,False,REGULAR,USD,GLOP

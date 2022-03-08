@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MT220325C00035000,2022-02-11 16:53:22+00:00,35.0,0.83,0.52,0.82,-1.0799999,-56.544502,419,12,0.5434615966796876,False,REGULAR,USD,MT

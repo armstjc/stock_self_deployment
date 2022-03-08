@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IPAR220819P00105000,2021-12-23 19:46:04+00:00,105.0,12.0,9.6,14.4,0.0,0.0,1,1,0.33124448059082034,True,REGULAR,USD,IPAR

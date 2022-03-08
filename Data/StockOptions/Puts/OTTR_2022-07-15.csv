@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-OTTR220715P00060000,2022-02-07 15:56:54+00:00,60.0,3.8,2.4,5.9,0.0,0.0,1,5,0.3927062683105469,False,REGULAR,USD,OTTR
-OTTR220715P00070000,2022-01-18 14:34:06+00:00,70.0,8.02,9.3,13.0,0.0,0.0,1,1,0.4292049267578125,True,REGULAR,USD,OTTR

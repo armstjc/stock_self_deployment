@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-HE220617P00035000,2022-01-24 19:22:40+00:00,35.0,0.75,0.0,1.55,0.0,0.0,2.0,12,0.44214425048828127,False,REGULAR,USD,HE
-HE220617P00040000,2022-01-04 17:41:50+00:00,40.0,1.33,0.0,4.4,0.0,0.0,,2,0.5311326184082032,False,REGULAR,USD,HE

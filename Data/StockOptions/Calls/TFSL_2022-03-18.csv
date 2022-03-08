@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TFSL220318C00017500,2022-02-09 18:01:11+00:00,17.5,0.2,0.0,0.3,0.0,0.0,1,41,0.23438265625,False,REGULAR,USD,TFSL

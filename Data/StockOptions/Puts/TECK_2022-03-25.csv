@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TECK220325P00038000,2022-02-10 18:31:41+00:00,38.0,3.1,2.94,3.3,-2.85,-47.899162,29,1,0.47290566162109376,True,REGULAR,USD,TECK

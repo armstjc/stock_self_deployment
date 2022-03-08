@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SY220218P00002500,2022-02-10 15:59:26+00:00,2.5,0.05,0.0,0.2,0.0,0.0,1,8,0.7500025,True,REGULAR,USD,SY
-SY220218P00005000,2022-01-25 16:14:22+00:00,5.0,2.4,1.7,3.4,0.0,0.0,1,2,3.50000125,True,REGULAR,USD,SY

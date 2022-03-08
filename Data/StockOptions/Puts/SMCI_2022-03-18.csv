@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SMCI220318P00035000,2022-02-07 16:04:01+00:00,35.0,1.15,0.4,0.8,0.0,0.0,4,7,0.45752495605468757,False,REGULAR,USD,SMCI

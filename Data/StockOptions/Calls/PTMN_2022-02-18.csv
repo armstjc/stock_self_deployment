@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PTMN220218C00012500,2022-01-19 14:30:03+00:00,12.5,10.72,11.0,14.3,0.0,0.0,1,0,3.824219189453125,True,REGULAR,USD,PTMN
-PTMN220218C00025000,2022-02-10 17:56:21+00:00,25.0,0.4,0.05,0.9,0.0,0.0,3,89,0.7675804492187501,False,REGULAR,USD,PTMN

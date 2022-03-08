@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SFBS220318C00080000,2021-10-20 15:24:42+00:00,80.0,5.0,5.7,8.0,0.0,0.0,,30,0.5054981091308592,True,REGULAR,USD,SFBS
-SFBS220318C00090000,2022-02-11 20:29:42+00:00,90.0,1.0,0.05,4.7,-0.14999998,-13.043477,10.0,303,0.6477086010742188,False,REGULAR,USD,SFBS

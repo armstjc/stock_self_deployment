@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GROW220218P00005000,2022-02-10 20:37:46+00:00,5.0,0.05,0.05,0.1,0.0,0.0,30,617,0.9687503125,False,REGULAR,USD,GROW
-GROW220218P00007500,2022-01-18 14:30:00+00:00,7.5,1.85,1.7,2.15,0.0,0.0,1,2,2.50000375,True,REGULAR,USD,GROW

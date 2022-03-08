@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FREQ220218C00005000,2022-01-05 18:20:09+00:00,5.0,0.67,0.55,0.85,-0.07999998,-10.666665,1,53,3.9531251171874997,False,REGULAR,USD,FREQ
-FREQ220218C00007500,2022-01-05 18:18:42+00:00,7.5,0.1,0.05,0.15,0.05,100.0,13,18,3.0937522656249996,False,REGULAR,USD,FREQ

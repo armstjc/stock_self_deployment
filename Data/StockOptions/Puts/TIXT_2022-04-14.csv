@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-TIXT220414P00030000,2022-01-24 19:17:57+00:00,30.0,3.9,3.9,4.6,0.0,0.0,10.0,43,0.49268085449218757,True,REGULAR,USD,TIXT
-TIXT220414P00035000,2021-11-08 16:16:42+00:00,35.0,2.62,1.85,5.5,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,TIXT

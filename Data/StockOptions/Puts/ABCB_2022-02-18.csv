@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ABCB220218P00045000,2022-02-01 14:43:14+00:00,45.0,0.43,0.1,0.5,0.0,0.0,1,4,0.7763694238281251,False,REGULAR,USD,ABCB
-ABCB220218P00050000,2022-02-10 19:15:31+00:00,50.0,0.6,0.0,3.2,0.0,0.0,1,2,0.700198310546875,False,REGULAR,USD,ABCB

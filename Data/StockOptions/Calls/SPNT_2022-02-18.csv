@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SPNT220218C00007500,2022-01-28 20:55:48+00:00,7.5,0.45,0.6,1.45,0.0,0.0,1,0,1.2968785156249998,True,REGULAR,USD,SPNT

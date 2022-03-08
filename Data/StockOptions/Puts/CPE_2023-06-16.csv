@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CPE230616P00050000,2022-02-09 20:21:52+00:00,50.0,16.78,14.4,17.2,0.0,0.0,1,7,0.7707542456054688,False,REGULAR,USD,CPE

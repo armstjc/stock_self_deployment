@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-DMAC220318P00002500,2022-02-11 19:59:28+00:00,2.5,0.15,0.1,0.25,0.050000004,50.000008,10,29,1.0781296093750001,False,REGULAR,USD,DMAC
-DMAC220318P00005000,2022-02-02 19:38:06+00:00,5.0,2.4,1.65,2.3,0.0,0.0,1,0,2.0156299609375,True,REGULAR,USD,DMAC

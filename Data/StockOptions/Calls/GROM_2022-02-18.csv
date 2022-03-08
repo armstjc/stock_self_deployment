@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GROM220218C00002500,2022-02-09 15:39:05+00:00,2.5,0.05,0.0,0.05,0.0,0.0,2,198,2.8750028125,False,REGULAR,USD,GROM
-GROM220218C00005000,2022-01-26 16:45:33+00:00,5.0,0.01,0.0,0.05,0.0,0.0,1,3,5.250003437499999,False,REGULAR,USD,GROM

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-EQRX220916P00002500,2022-01-25 18:59:32+00:00,2.5,0.31,0.0,4.8,0.0,0.0,,1,5.546878066406249,False,REGULAR,USD,EQRX
-EQRX220916P00007500,2022-01-25 18:55:33+00:00,7.5,4.4,1.8,5.9,0.0,0.0,,30,1.19141029296875,True,REGULAR,USD,EQRX

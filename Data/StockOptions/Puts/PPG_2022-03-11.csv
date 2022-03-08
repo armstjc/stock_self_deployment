@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PPG220311P00130000,2022-02-09 15:54:05+00:00,130.0,1.29,0.45,2.65,0.0,0.0,30,30,0.5122119091796875,False,REGULAR,USD,PPG
-PPG220311P00155000,2022-02-03 19:47:10+00:00,155.0,4.1,7.3,8.6,0.0,0.0,16,24,0.3442448388671875,True,REGULAR,USD,PPG

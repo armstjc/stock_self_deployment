@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-MLSS220715P00002500,2022-02-04 19:35:09+00:00,2.5,1.32,0.0,0.0,0.0,0.0,297,370,1.0000000000000003e-05,True,REGULAR,USD,MLSS
-MLSS220715P00005000,2022-01-21 15:07:27+00:00,5.0,3.45,3.1,4.2,0.0,0.0,49,55,2.7304719238281248,True,REGULAR,USD,MLSS

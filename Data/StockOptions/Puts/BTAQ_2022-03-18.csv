@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BTAQ220318P00010000,2022-01-21 18:00:59+00:00,10.0,0.09,0.0,0.1,0.0,0.0,100,100,0.08692319335937501,False,REGULAR,USD,BTAQ

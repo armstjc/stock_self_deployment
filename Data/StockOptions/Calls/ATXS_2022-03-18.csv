@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ATXS220318C00005000,2022-02-10 20:19:53+00:00,5.0,1.95,1.35,1.8,0.0,0.0,200,629,0.992187578125,True,REGULAR,USD,ATXS
-ATXS220318C00007500,2022-02-11 18:03:14+00:00,7.5,0.4,0.15,1.9,-0.20000002,-33.333336,11,52,1.8320320898437497,False,REGULAR,USD,ATXS

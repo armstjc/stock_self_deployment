@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GTX220318P00007500,2022-02-11 15:26:35+00:00,7.5,0.6,0.45,0.75,0.14000002,30.434784,1,0,0.63867548828125,True,REGULAR,USD,GTX
-GTX220318P00010000,2022-02-03 19:01:00+00:00,10.0,2.75,1.9,3.2,-0.1500001,-5.172417,1,1,1.2968785156249998,True,REGULAR,USD,GTX

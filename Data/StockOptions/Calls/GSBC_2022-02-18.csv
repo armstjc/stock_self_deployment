@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GSBC220218C00055000,2022-01-12 16:12:42+00:00,55.0,4.6,3.9,7.5,0.0,0.0,1.0,1,0.6796907031250001,True,REGULAR,USD,GSBC
-GSBC220218C00060000,2022-01-25 15:58:38+00:00,60.0,1.17,0.6,1.25,0.0,0.0,,2,0.3354558642578125,False,REGULAR,USD,GSBC

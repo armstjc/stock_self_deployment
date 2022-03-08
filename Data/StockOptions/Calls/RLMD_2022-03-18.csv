@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-RLMD220318C00020000,2022-02-11 16:47:28+00:00,20.0,1.58,1.0,2.15,-0.31999993,-16.842102,10,0,0.965820654296875,False,REGULAR,USD,RLMD
-RLMD220318C00022500,2022-02-10 20:37:09+00:00,22.5,0.75,0.25,1.25,0.0,0.0,1,335,0.8876964355468748,False,REGULAR,USD,RLMD

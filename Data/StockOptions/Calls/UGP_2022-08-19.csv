@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-UGP220819C00002500,2022-01-19 16:13:30+00:00,2.5,0.4,0.25,1.0,0.0,0.0,1,3,0.648441015625,True,REGULAR,USD,UGP
-UGP220819C00005000,2022-02-01 17:43:09+00:00,5.0,0.2,0.1,0.45,0.0,0.0,2,4,0.9726565234375,False,REGULAR,USD,UGP

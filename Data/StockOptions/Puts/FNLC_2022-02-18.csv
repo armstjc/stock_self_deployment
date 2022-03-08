@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-FNLC220218P00035000,2022-01-03 17:55:55+00:00,35.0,3.5,2.15,2.75,0.0,0.0,2,2,1.0000000000000003e-05,True,REGULAR,USD,FNLC

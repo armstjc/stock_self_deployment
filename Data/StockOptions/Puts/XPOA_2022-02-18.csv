@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-XPOA220218P00010000,2022-02-08 16:34:05+00:00,10.0,0.1,0.0,4.8,0.0,0.0,144,144,4.70312912109375,True,REGULAR,USD,XPOA

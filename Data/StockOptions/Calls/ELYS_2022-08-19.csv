@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ELYS220819C00002500,2022-01-05 19:17:00+00:00,2.5,0.95,0.8,1.0,-0.20999998,-18.103447,6.0,10,0.6953155468750001,True,REGULAR,USD,ELYS
-ELYS220819C00005000,2021-12-30 16:17:58+00:00,5.0,0.67,0.25,0.8,0.0,0.0,,3,1.1308637207031251,False,REGULAR,USD,ELYS

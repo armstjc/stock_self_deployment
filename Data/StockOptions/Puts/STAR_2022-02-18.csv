@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-STAR220218P00022500,2022-01-05 19:55:26+00:00,22.5,0.75,0.75,0.95,0.25,50.0,5,41,1.640626796875,False,REGULAR,USD,STAR
-STAR220218P00025000,2021-12-30 16:15:29+00:00,25.0,1.25,1.9,2.2,0.0,0.0,4,5,1.78515732421875,False,REGULAR,USD,STAR

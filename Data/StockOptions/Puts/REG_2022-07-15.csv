@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-REG220715P00075000,2021-12-28 19:08:03+00:00,75.0,6.4,5.2,6.3,0.0,0.0,,1,1.0000000000000003e-05,True,REGULAR,USD,REG

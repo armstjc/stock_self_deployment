@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-PRQR220218P00007500,2022-01-05 17:25:40+00:00,7.5,0.89,0.65,1.0,0.44,97.77778,700,274,1.0000000000000003e-05,True,REGULAR,USD,PRQR

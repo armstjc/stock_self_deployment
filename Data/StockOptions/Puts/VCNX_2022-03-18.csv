@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-VCNX220318P00002500,2022-01-31 14:30:06+00:00,2.5,1.6,0.0,0.0,0.0,0.0,1,0,1.0000000000000003e-05,True,REGULAR,USD,VCNX

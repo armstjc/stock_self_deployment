@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-QIPT220715P00005000,2022-01-11 19:59:25+00:00,5.0,0.45,0.3,0.55,0.0,0.0,4.0,64,0.5488326367187502,False,REGULAR,USD,QIPT
-QIPT220715P00007500,2021-12-01 19:56:47+00:00,7.5,1.95,1.85,2.7,0.0,0.0,,2,0.5097705273437501,True,REGULAR,USD,QIPT

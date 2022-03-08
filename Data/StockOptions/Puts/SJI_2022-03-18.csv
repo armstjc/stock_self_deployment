@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-SJI220318P00022500,2022-02-11 17:59:04+00:00,22.5,0.25,0.3,0.45,0.049999997,24.999998,35,69,0.4023497265625,False,REGULAR,USD,SJI
-SJI220318P00025000,2022-02-09 15:11:40+00:00,25.0,1.02,0.9,1.9,0.0,0.0,1,5,0.51758294921875,True,REGULAR,USD,SJI

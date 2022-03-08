@@ -1,2 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-ZTEST260320C00025000,2016-03-11 22:33:44+00:00,25.0,2.1,2.0,2.2,0.0,0.0,20,1,1.083988955078125,False,REGULAR,USD,CHS

@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-LGO220218C00010000,2022-01-05 19:24:49+00:00,10.0,0.95,0.75,0.95,0.31,48.4375,9,36,1.1953165234375,True,REGULAR,USD,LGO
-LGO220218C00012500,2021-12-23 17:54:35+00:00,12.5,0.1,0.0,0.25,0.0,0.0,6,6,1.2812535937499998,False,REGULAR,USD,LGO

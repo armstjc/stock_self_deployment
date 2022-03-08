@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-AMRS220211C00005500,2022-01-05 20:09:11+00:00,5.5,0.35,0.25,0.35,-0.22999999,-39.655174,6,10,4.968753789062499,False,REGULAR,USD,AMRS
-AMRS220211C00008000,2022-01-04 18:53:19+00:00,8.0,0.1,0.0,1.5,0.0,0.0,5,5,12.031252480468751,False,REGULAR,USD,AMRS

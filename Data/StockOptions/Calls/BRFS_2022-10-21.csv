@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-BRFS221021C00002500,2022-02-03 17:16:40+00:00,2.5,1.35,1.25,1.55,0.05000007,3.8461595,146,12,0.5898478515625001,True,REGULAR,USD,BRFS
-BRFS221021C00005000,2022-02-03 14:30:02+00:00,5.0,0.25,0.15,0.35,0.0,0.0,1,21,0.5820354296875,False,REGULAR,USD,BRFS

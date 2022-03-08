@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CEMI220819P00002500,2022-01-04 14:36:09+00:00,2.5,1.45,1.45,1.6,0.0,0.0,2.0,14,0.98437515625,True,REGULAR,USD,CEMI
-CEMI220819P00005000,2021-12-29 17:00:19+00:00,5.0,3.9,3.9,4.1,0.0,0.0,,28,1.40625296875,True,REGULAR,USD,CEMI

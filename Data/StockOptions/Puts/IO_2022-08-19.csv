@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-IO220819P00001000,2022-02-01 20:48:22+00:00,1.0,0.75,0.45,0.95,0.0,0.0,6,138,2.1250046874999997,True,REGULAR,USD,IO
-IO220819P00003000,2022-02-02 14:48:04+00:00,3.0,2.7,2.15,2.95,0.0,0.0,10,14,1.75000125,True,REGULAR,USD,IO

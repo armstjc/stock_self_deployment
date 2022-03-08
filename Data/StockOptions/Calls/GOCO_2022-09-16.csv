@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-GOCO220916C00002500,2022-02-10 15:25:43+00:00,2.5,0.45,0.35,0.5,0.0,0.0,3,0,1.0644578027343752,False,REGULAR,USD,GOCO
-GOCO220916C00005000,2022-02-09 20:52:53+00:00,5.0,0.1,0.1,0.2,0.0,0.0,1,4,1.1015669921875002,False,REGULAR,USD,GOCO

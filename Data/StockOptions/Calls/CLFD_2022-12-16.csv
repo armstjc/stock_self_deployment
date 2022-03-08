@@ -1,3 +1,0 @@
-contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,ABV
-CLFD221216C00030000,2022-02-01 14:37:42+00:00,30.0,35.7,30.9,34.9,0.0,0.0,1.0,3,0.8205584350585937,True,REGULAR,USD,CLFD
-CLFD221216C00050000,2022-01-24 18:12:50+00:00,50.0,11.43,18.1,20.7,0.0,0.0,,10,0.6975127905273439,True,REGULAR,USD,CLFD
